@@ -3,12 +3,93 @@
   "outlets": [
     {
       "outlet": {
+        "id": "vnexpress",
+        "name": "VnExpress",
+        "homepage": "https://vnexpress.net",
+        "lang": "vi"
+      },
+      "fetchedAt": "2026-11-10T13:40:17.420Z",
+      "items": [
+        {
+          "title": "Lời khai kẻ sát hại, đốt người phụ nữ ở Vĩnh Long",
+          "link": "https://vnexpress.net/loi-khai-ke-sat-hai-dot-nguoi-phu-nu-o-vinh-long-5143094.html",
+          "summary": "Không chấp nhận bị chia tay, Trần Bá Triết khai đã khóa cửa các phòng trọ xung quanh trước khi dùng dao tấn công, tạt xăng đốt người phụ nữ.",
+          "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/KHUTROVINHLONG123-1794311018-1703-1794311341.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_maP3RPIEedm3d6yApvQKA",
+          "publishedAt": "2026-11-10T13:03:43.000Z"
+        },
+        {
+          "title": "Đà Nẵng duyệt 113 khu đất làm nhà ở xã hội",
+          "link": "https://vnexpress.net/da-nang-duyet-113-khu-dat-lam-nha-o-xa-hoi-5143099.html",
+          "summary": "Đà Nẵng phê duyệt 113 khu đất rộng khoảng 390 ha để triển khai các dự án nhà ở xã hội, hướng tới mục tiêu hoàn thành gần 23.900 căn giai đoạn 2026-2030.",
+          "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/anh-chup-man-hinh-luc-17943137-8460-2523-1794313801.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3F6kujy_dZ4_CgqyBweRpg",
+          "publishedAt": "2026-11-10T13:01:04.000Z"
+        },
+        {
+          "title": "Vietnam Airlines tuyển nhân sự làm việc tại sân bay Long Thành",
+          "link": "https://vnexpress.net/vietnam-airlines-tuyen-nhan-su-lam-viec-tai-san-bay-long-thanh-5143035.html",
+          "summary": "Vietnam Airlines tuyển khoảng 30 vị trí thuộc nhóm khai thác, dịch vụ tại cảng hàng không quốc tế Long Thành, đồng thời tiếp tục đào tạo đội ngũ kỹ thuật chuyên sâu phục vụ sân bay.",
+          "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/10/quy-mo-khai-thac-lon-dat-ra-ye-8164-1925-1794311932.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=noL3DiGjf9d2eI05tdee5g",
+          "publishedAt": "2026-11-10T13:00:00.000Z"
+        },
+        {
+          "title": "Porsche Together lan tỏa văn hóa xe thể thao tại Việt Nam",
+          "link": "https://vnexpress.net/porsche-together-lan-toa-van-hoa-xe-the-thao-tai-viet-nam-5132527.html",
+          "summary": "Gần 8.000 người cùng hơn 100 xe thể thao góp mặt tại Porsche Together 2026, nơi di sản 75 năm đường đua của hãng Đức được kết nối cộng đồng yêu xe Việt Nam.",
+          "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/settop-1794294438-1769-1794295686.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=K3FidULsiN8xHVrObeltnQ",
+          "publishedAt": "2026-11-10T13:00:00.000Z"
+        },
+        {
+          "title": "Đái tháo đường type 2 diễn tiến âm thầm 'quật ngã' nhiều người",
+          "link": "https://vnexpress.net/dai-thao-duong-type-2-dien-tien-am-tham-quat-nga-nhieu-nguoi-5143037.html",
+          "summary": "Đái tháo đường type 2 tiến triển trong nhiều năm mà không biểu hiện rõ ràng, khi được chẩn đoán, không ít người đã tổn thương tim, thận, mắt hoặc thần kinh.",
+          "image": "https://vcdn1-suckhoe.vnecdn.net/2026/11/10/nguoi-dan-tham-gia-tim-hieu-th-2685-4000-1794302986.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_UTTYP6jwfn6UBID4hhQCg",
+          "publishedAt": "2026-11-10T12:53:41.000Z"
+        },
+        {
+          "title": "Những câu hỏi chưa được giải đáp trong vụ bé gái Việt bị sát hại ở Đức",
+          "link": "https://vnexpress.net/nhung-cau-hoi-chua-duoc-giai-dap-trong-vu-be-gai-viet-bi-sat-hai-o-duc-5142961.html",
+          "summary": "Thời điểm và nguyên nhân tử vong, mối quan hệ giữa nghi phạm và nạn nhân, là những câu hỏi chưa được giới chức giải đáp trong vụ cô bé Lisa Tạ bị sát hại.",
+          "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/rbb-jaehrige-lisa-kerzen-17943-2464-9289-1794305834.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vezenXaawv_L_6mc28v2bA",
+          "publishedAt": "2026-11-10T12:45:55.000Z"
+        },
+        {
+          "title": "Thủ tướng Israel 'hàng ngày hối thúc ông Trump nối lại tấn công Iran'",
+          "link": "https://vnexpress.net/thu-tuong-israel-hang-ngay-hoi-thuc-ong-trump-noi-lai-tan-cong-iran-5142942.html",
+          "summary": "Thủ tướng Netanyahu dường như đã gọi điện cho Tổng thống Trump hàng ngày để thuyết phục lãnh đạo Mỹ nối lại chiến dịch tấn công Iran.",
+          "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/5563187178137269307a-179429575-8529-7281-1794295944.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dtm_PVT5RR_6kySAzafBkg",
+          "publishedAt": "2026-11-10T12:26:47.000Z"
+        },
+        {
+          "title": "TP HCM đề xuất cho tồn tại có điều kiện một số công trình sai phép",
+          "link": "https://vnexpress.net/tp-hcm-de-xuat-cho-ton-tai-co-dieu-kien-mot-so-cong-trinh-sai-phep-5143078.html",
+          "summary": "Các công trình sai phép xây dựng nếu đáp ứng một loạt điều kiện, gồm đảm bảo quy hoạch, an toàn, đã khắc phục hậu quả, nộp phạt... có thể không phải tháo dỡ.",
+          "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/dji-1794311762-4631-1794311871.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QxW6WWywmYkH0uzT5ccwRg",
+          "publishedAt": "2026-11-10T12:25:57.000Z"
+        },
+        {
+          "title": "Phó tổng thống Indonesia nêu ý định từ chức giữa tranh cãi về bằng cấp",
+          "link": "https://vnexpress.net/pho-tong-thong-indonesia-neu-y-dinh-tu-chuc-giua-tranh-cai-ve-bang-cap-5143067.html",
+          "summary": "Phó tổng thống Indonesia bày tỏ ý định từ chức với Tổng thống Prabowo Subianto, giữa sức ép điều tra về bằng cấp trong hồ sơ tranh cử năm 2024.",
+          "image": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/gibran-rakabuming-raka-1794305-3683-1326-1794306268.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=K-kkIDBzvyqgWDnqL1FSWw",
+          "publishedAt": "2026-11-10T12:00:06.000Z"
+        },
+        {
+          "title": "Tàu du lịch bỏ rơi hơn 200 khách ở Campuchia bị giữ tại Singapore",
+          "link": "https://vnexpress.net/tau-du-lich-bo-roi-hon-200-khach-o-campuchia-bi-giu-tai-singapore-5143075.html",
+          "summary": "Tàu Odyssey bị giữ theo lệnh tòa ở Singapore sau khi hãng vận hành dừng chuyến du lịch vòng quanh thế giới, buộc 203 khách rời tàu tại Campuchia.",
+          "image": "https://vcdn1-dulich.vnecdn.net/2026/11/10/2026t042652z-rc2hgoazylst-rtrm-9696-4283-1794308045.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q9fkp6ibD8d9sFLOA2kNWw",
+          "publishedAt": "2026-11-10T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
         "id": "tuoi-tre",
         "name": "Tuổi Trẻ",
         "homepage": "https://tuoitre.vn",
         "lang": "vi"
       },
-      "fetchedAt": "2026-11-10T12:27:36.415Z",
+      "fetchedAt": "2026-11-10T13:40:18.361Z",
       "items": [
         {
           "title": "Bộ Công an Việt Nam và Cảnh sát Hoàng gia Thái Lan đá giao hữu trên sân Thống Nhất",
@@ -89,77 +170,77 @@
         "homepage": "https://thanhnien.vn",
         "lang": "vi"
       },
-      "fetchedAt": "2026-11-10T12:27:36.223Z",
+      "fetchedAt": "2026-11-10T13:40:17.797Z",
       "items": [
+        {
+          "title": "Ông Nguyễn Thanh Long làm Chủ tịch UBND đặc khu Phú Quý",
+          "link": "https://thanhnien.vn/ong-nguyen-thanh-long-lam-chu-tich-ubnd-dac-khu-phu-quy-185261110195026817.htm",
+          "summary": "HĐND đặc khu Phú Quý (Lâm Đồng) bầu ông Nguyễn Thanh Long, Phó bí thư Đảng ủy đặc khu, giữ chức Chủ tịch UBND đặc khu nhiệm kỳ 2026 - 2031.",
+          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/2026-11-10191841-1794314648360825400121-55-0-691-1018-crop-17943148290138866469-56-331-486-1018-crop-1794315797967472497887.png",
+          "publishedAt": "2026-11-10T13:24:00.000Z"
+        },
+        {
+          "title": "Doanh nghiệp 'phàn nàn' nhiều dự án chậm triển khai ở xã Long Sơn",
+          "link": "https://thanhnien.vn/doanh-nghiep-phan-nan-nhieu-du-an-cham-trien-khai-o-xa-long-son-185261110195755394.htm",
+          "summary": "Tại hội nghị đối thoại với doanh nghiệp ngày 10.11, nhiều ý kiến phản ánh các dự án hạ tầng ở xã Long Sơn (TP.HCM) chậm tiến độ, ảnh hưởng đến hoạt động đầu tư, sản xuất, kinh doanh.",
+          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/edit-tnw-duong-long-son-17943152677801114885668-0-254-1440-2558-crop-17943152854561531278387.jpeg",
+          "publishedAt": "2026-11-10T13:18:00.000Z"
+        },
+        {
+          "title": "Khi ca khúc cũ trở thành 'mỏ vàng'",
+          "link": "https://thanhnien.vn/khi-ca-khuc-cu-tro-thanh-mo-vang-185261110201302881.htm",
+          "summary": "Không chỉ tạo nên danh tiếng, những ca khúc có giá trị còn trở thành tài sản sinh lời qua nhiều năm, thúc đẩy thị trường mua bán bản quyền âm nhạc hàng tỉ USD.",
+          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/taylor-swift-1794315600421564436936-5-0-873-1388-crop-1794315752285721169804.png",
+          "publishedAt": "2026-11-10T13:13:00.000Z"
+        },
+        {
+          "title": "Kết quả xổ số Vietlott Power 6/55 tối 10.11, giải độc đắc cộng dồn 32,6 tỉ đồng",
+          "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-1011-giai-doc-dac-cong-don-326-ti-dong-185261110190514738.htm",
+          "summary": "Tối 10.11, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55 và ghi nhận không có người trúng giải độc đắc nên số tiền cộng dồn là 32,6 tỉ đồng.",
+          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/screenshot-2026-11-10-at-185357-17943119367721273077813-15-0-705-1104-crop-1794312000070822277788.png",
+          "publishedAt": "2026-11-10T13:04:00.000Z"
+        },
+        {
+          "title": "Bàn phím trên One UI 9.5 sắp thông minh hơn nhờ AI",
+          "link": "https://thanhnien.vn/ban-phim-tren-one-ui-95-sap-thong-minh-hon-nho-ai-185261110155631538.htm",
+          "summary": "Bản cập nhật One UI 9.5 sắp tới của Samsung dự kiến bổ sung hai công cụ AI mới cực 'xịn' cho bàn phím.",
+          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/samsung-keyboard-1794302803567952863120-0-99-1080-1827-crop-1794302808207969802549.jpg",
+          "publishedAt": "2026-11-10T13:04:00.000Z"
+        },
+        {
+          "title": "Motorola lần đầu hé lộ 'kẻ hủy diệt iPhone Duo'",
+          "link": "https://thanhnien.vn/motorola-lan-dau-he-lo-ke-huy-diet-iphone-duo-185261110142235842.htm",
+          "summary": "Motorola vừa công bố thông tin về chiếc điện thoại gập mới mang tên Razr Flex trên trang web chính thức của hãng.",
+          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/2-1794295141239841539799-0-21-733-1194-crop-1794295148477161445644.jpg",
+          "publishedAt": "2026-11-10T13:01:00.000Z"
+        },
+        {
+          "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm tỉnh Kanagawa của Nhật Bản",
+          "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tham-tinh-kanagawa-cua-nhat-ban-185261110193014589.htm",
+          "summary": "Ngày 10.11, Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân cùng đoàn đại biểu cấp cao Việt Nam đến thăm tỉnh Kanagawa, Nhật Bản.",
+          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/vnapotaltongbithuchutichnuoctolamvaphunhanthamtinhkanagawa9144987-1794313588721735388903-66-0-1666-2560-crop-17943137840051959228645.jpg",
+          "publishedAt": "2026-11-10T13:00:00.000Z"
+        },
+        {
+          "title": "Xem nhanh 20h ngày 10.11: Học sinh vượt sông Gianh giữa dòng lũ | Nvidia từ 3 người thành đế chế 5.000 tỉ USD",
+          "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-1011-hoc-sinh-vuot-song-gianh-giua-dong-lu-nvidia-tu-3-nguoi-thanh-de-che-5000-ti-usd-185261110191534801.htm",
+          "summary": "'Xem nhanh 20h' ngày 10.11 có nhiều tin tức đáng chú ý về: Thót tim cảnh học sinh đi thuyền qua sông Gianh giữa dòng nước lũ dâng cao; Từ công ty 3 người đến đế chế 5.000 tỉ USD: Nvidia của CEO Jensen Huang đã làm thế…",
+          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/avatar1794313959767-17943139606381751315009.jpeg",
+          "publishedAt": "2026-11-10T13:00:00.000Z"
+        },
+        {
+          "title": "Jensen Huang: Từ cậu bé 9 tuổi dọn nhà vệ sinh đến ông chủ đế chế Nvidia nghìn tỉ USD",
+          "link": "https://thanhnien.vn/jensen-huang-tu-cau-be-9-tuoi-don-nha-ve-sinh-den-ong-chu-de-che-nvidia-nghin-ti-usd-185261110193410175.htm",
+          "summary": "Từ cậu bé nhập cư từng phải dọn nhà vệ sinh ở tuổi lên 9, Jensen Huang đã trở thành nhà sáng lập Nvidia, một trong những tập đoàn công nghệ giá trị nhất thế giới. Hành trình của ông trải qua nhiều khó khăn, thất bại và…",
+          "image": "https://thanhnien.mediacdn.vn/zoom/600_315/325084952045817856/2026/11/10/base64-17943140389761179358835.jpeg",
+          "publishedAt": "2026-11-10T12:34:00.000Z"
+        },
         {
           "title": "Làng cổ Phước Tích được chú ý sau khi xuất hiện trong ‘Quán nhà Haha’",
           "link": "https://thanhnien.vn/lang-co-phuoc-tich-duoc-chu-y-sau-khi-xuat-hien-trong-quan-nha-haha-185261110185443382.htm",
           "summary": "Sau khi xuất hiện trong tập 4 chương trình ‘Quán nhà Haha’, làng cổ Phước Tích (Huế) nhận được sự quan tâm của cộng đồng mạng. Những câu chuyện về nghề gốm hơn 500 năm tuổi, chiếc om từng dùng nấu cơm tiến vua và nếp…",
           "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/quan-nha-haha-3-17943111906801395895818-108-0-1708-2560-crop-1794311441821359186102.jpg",
           "publishedAt": "2026-11-10T12:24:00.000Z"
-        },
-        {
-          "title": "Xạ thủ Trịnh Thu Vinh xuất sắc đoạt HCB thế giới: Lập kỳ tích giành vé dự Olympic Los Angeles 2028",
-          "link": "https://thanhnien.vn/xa-thu-trinh-thu-vinh-xuat-sac-doat-hcb-the-gioi-lap-ky-tich-gianh-ve-du-olympic-los-angeles-2028-185261110190310257.htm",
-          "summary": "Nữ xạ thủ Trịnh Thu Vinh vừa giành vé dự Olympic 2028, sau khi đoạt tấm HCB tại giải bắn súng vô địch thế giới diễn ra tại Qatar.",
-          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/1794311244496334310662851269686533431066285126968658d72b8b08f7423329965401290fb313c-17943120076312062710461-0-0-1600-2560-crop-1794312046511366019096.jpg",
-          "publishedAt": "2026-11-10T12:06:00.000Z"
-        },
-        {
-          "title": "Mưa lũ chia cắt đường, bộ đội lo bữa ăn nội trú cho học sinh miền núi",
-          "link": "https://thanhnien.vn/mua-lu-chia-cat-duong-bo-doi-lo-bua-an-noi-tru-cho-hoc-sinh-mien-nui-185261110183658939.htm",
-          "summary": "Mưa lớn làm nhiều tuyến đường bị chia cắt, xe chở thực phẩm không vào được trường. Các chiến sĩ Đồn biên phòng Ba Nang đã trực tiếp vào bếp, nấu bữa ăn nội trú chăm lo cho các em học sinh ở xã Đakrông.",
-          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/1794307999670779173979980789239077917397998078923901d7fd2e71486da731c7cb7697c987db0-1794309971843153892575-0-0-1600-2560-crop-1794310564862895838147.jpg",
-          "publishedAt": "2026-11-10T12:06:00.000Z"
-        },
-        {
-          "title": "Bộ trưởng Xây dựng nói về 3 cao tốc hơn 162.000 tỉ sắp đầu tư",
-          "link": "https://thanhnien.vn/bo-truong-xay-dung-noi-ve-3-cao-toc-hon-162000-ti-sap-dau-tu-185261110183359111.htm",
-          "summary": "Bộ trưởng Bộ Xây dựng cho biết, 3 dự án cao tốc Bảo Hà - Lai Châu, đoạn Bảo Hà - Tân Phong; Quảng Ngãi - Kon Tum và Mộc Châu - Sơn La - Điện Biên cần hơn 162.393 tỉ đồng vốn ngân sách.",
-          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/tran-hong-minh-17943100408821805957708-47-0-1116-1710-crop-1794310212420419029038.jpg",
-          "publishedAt": "2026-11-10T11:48:00.000Z"
-        },
-        {
-          "title": "Thu Minh nói về Trúc Nhân, Hương Tràm",
-          "link": "https://thanhnien.vn/thu-minh-noi-ve-truc-nhan-huong-tram-185261110163930124.htm",
-          "summary": "Tại sự kiện công bố 11 đại diện Việt Nam tham dự TikTok Awards Đông Nam Á 2026, Thu Minh gây chú ý với màn trình diễn 'I'm A Diva'. Nữ ca sĩ cũng bày tỏ niềm tự hào khi nhắc đến học trò Trúc Nhân, Hương Tràm và tiết lộ…",
-          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/avatar1794309549748-17943095505161883818072.png",
-          "publishedAt": "2026-11-10T11:47:00.000Z"
-        },
-        {
-          "title": "Sóng dữ và triều cường dâng cao đánh tan hoang hàng quán ven biển Thuận An",
-          "link": "https://thanhnien.vn/song-du-va-trieu-cuong-dang-cao-danh-tan-hoang-hang-quan-ven-bien-thuan-an-185261110183930986.htm",
-          "summary": "Triều cường dâng cao đã làm sạt lở hơn 100 m bờ biển, tốc mái nhiều hàng quán ở biển Thuận An (thành phố Huế).",
-          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/avatar1794310772134-17943107725911621213979.jpeg",
-          "publishedAt": "2026-11-10T11:46:00.000Z"
-        },
-        {
-          "title": "Vụ 'dùng dao đâm rồi đốt người tình' trong phòng trọ là do mâu thuẫn tình cảm",
-          "link": "https://thanhnien.vn/vu-dung-dao-dam-roi-dot-nguoi-tinh-trong-phong-tro-la-do-mau-thuan-tinh-cam-185261110174610355.htm",
-          "summary": "Lực lượng công an đang giữ nghi phạm vụ 'dùng dao đâm rồi đốt người tình' trong phòng trọ; đồng thời xác định nguyên ban đầu dẫn đến vụ việc.",
-          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/ban-sao-img8048-17943073242021222515429-330-0-1930-2560-crop-17943075216281178492348.jpeg",
-          "publishedAt": "2026-11-10T11:42:00.000Z"
-        },
-        {
-          "title": "Mưa lớn gây sạt lở nhiều nơi ở Quảng Ngãi, sơ tán hàng trăm người dân",
-          "link": "https://thanhnien.vn/mua-lon-gay-sat-lo-nhieu-noi-o-quang-ngai-so-tan-hang-tram-nguoi-dan-185261110175347256.htm",
-          "summary": "Mưa lớn kéo dài khiến nhiều khu vực ở Quảng Ngãi xảy ra ngập lụt, sạt lở đất. Trước nguy cơ sạt lở tại các khu dân cư, chính quyền địa phương đã khẩn trương sơ tán người dân đến nơi an toàn.",
-          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/179429189116221516439334413600588934237207368091290e20ab8e18a9e3fe4a4c271691284b2dc-17942945224331312657192-158-0-956-1276-crop-17943078288151658926148.jpg",
-          "publishedAt": "2026-11-10T11:29:00.000Z"
-        },
-        {
-          "title": "Gia Lai VTV Cup 2026, U.23 Việt Nam 1-0 U.23 Thái Lan: Minh Tâm mở tỷ số",
-          "link": "https://thanhnien.vn/truc-tiep-u23-viet-nam-vs-u23-thai-lan-hap-dan-dai-chien-tren-san-pleiku-185261110103506648.htm",
-          "summary": "19 giờ hôm nay trên sân Pleiku diễn ra trận khai mạc giải bóng đá giao hữu quốc tế U.23 - Gia Lai VTV Cup 2026 giữa U.23 Việt Nam với U.23 Thái Lan.",
-          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/tnw-1794312800235176177749708333374g75249910737635297613972132383c8477a8e71c58a2b840077-1794312900948869833525-263-0-1863-2560-crop-17943129315481661794571.jpg",
-          "publishedAt": "2026-11-10T11:23:00.000Z"
-        },
-        {
-          "title": "Phát hiện thi thể bé trai trên sông Krông Bông",
-          "link": "https://thanhnien.vn/phat-hien-thi-the-be-trai-tren-song-krong-bong-185261110173610425.htm",
-          "summary": "Người dân phát hiện thi thể bé trai khoảng 3 - 4 tuổi nổi trên sông Krông Bông (Đắk Lắk). Cơ quan chức năng đang xác minh danh tính và tìm thân nhân của nạn nhân.",
-          "image": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/11/10/1000120071-1794307167625360862442-119-0-1369-2000-crop-17943072453881907933576.jpg",
-          "publishedAt": "2026-11-10T11:08:00.000Z"
         }
       ]
     }

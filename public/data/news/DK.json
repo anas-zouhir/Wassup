@@ -8,8 +8,13 @@
         "homepage": "https://www.dr.dk/nyheder",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-10T12:26:33.691Z",
+      "fetchedAt": "2026-11-10T13:39:05.288Z",
       "items": [
+        {
+          "title": "Ung mand flygtet fra sikret afdeling i Odsherred",
+          "link": "https://www.dr.dk/nyheder/seneste/ung-mand-flygtet-fra-sikret-afdeling-i-odsherred",
+          "publishedAt": "2026-11-10T12:28:45.000Z"
+        },
         {
           "title": "Grønlandsk minister træder tilbage",
           "link": "https://www.dr.dk/nyheder/seneste/groenlandsk-minister-traeder-tilbage",
@@ -58,11 +63,6 @@
           "link": "https://www.dr.dk/nyheder/seneste/agf-giver-bodystocking-med-klublogo-til-nyfoedte-aarhusianere",
           "image": "https://asset.dr.dk/drdk/umbraco-images/sw4nbfjl/agf_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
           "publishedAt": "2026-11-10T09:05:10.000Z"
-        },
-        {
-          "title": "Macron-parret anlægger sag mod amerikansk højrefløjsinfluencer",
-          "link": "https://www.dr.dk/nyheder/seneste/macron-parret-anlaegger-sag-mod-amerikansk-hoejrefloejsinfluencer",
-          "publishedAt": "2026-11-10T08:19:35.000Z"
         }
       ]
     },
@@ -73,11 +73,25 @@
         "homepage": "https://politiken.dk",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-10T12:26:33.904Z",
+      "fetchedAt": "2026-11-10T13:39:05.908Z",
       "items": [
         {
-          "title": "Wagner drukner i Berlin, hvor alt handler om Tyskland og skyldfølelse efter holocaust",
-          "link": "https://politiken.dk/kultur/klassisk_og_opera/art11027988/Wagner-drukner-i-Berlin-hvor-alt-handler-om-Tyskland-og-skyldf%C3%B8lelse-efter-holocaust",
+          "title": "Sæsonens første snebyger kan være på vej",
+          "link": "https://politiken.dk/danmark/art11054355/S%C3%A6sonens-f%C3%B8rste-snebyger-kan-v%C3%A6re-p%C3%A5-vej",
+          "summary": "Der er ikke noget, der tyder på, at man skal finde kælken eller skiene frem trods snemelding, oplyser DMI.",
+          "image": "https://politiken.dk/incoming/img11054341.d1x9k3/ORIGINALS/original_960/Title%20mangler",
+          "publishedAt": "2026-11-10T13:22:32.000Z"
+        },
+        {
+          "title": "Minister trækker sig fra regeringen i Grønland efter kritik",
+          "link": "https://politiken.dk/danmark/politik/folketinget/parti_groen/art11054282/Minister-tr%C3%A6kker-sig-fra-regeringen-i-Gr%C3%B8nland-efter-kritik",
+          "summary": "Nivi Olsen, som har været naalakkersuisoq for uddannelse, kultur, idræt og kirke, trækker sig fra regeringen.",
+          "image": "https://politiken.dk/incoming/img11054319.pnhgm6/ORIGINALS/original_960/GREENLAND-DENMARK-POLITICS",
+          "publishedAt": "2026-11-10T12:58:15.000Z"
+        },
+        {
+          "title": "I Berlin handler det hele om Holocaust",
+          "link": "https://politiken.dk/kultur/klassisk_og_opera/art11027988/I-Berlin-handler-det-hele-om-Holocaust",
           "summary": "Kendt opera bliver skyllet over bord i teater-dokumentaristen Milo Raus overambitiøse, dokumentarbegejstrede og politiske nyopsætning på Deutsche Oper Berlin.",
           "image": "https://politiken.dk/incoming/img11052899.et1kp/ORIGINALS/original_960/DerFliegendeHollaender-1058_hf",
           "publishedAt": "2026-11-10T12:18:57.000Z"
@@ -130,20 +144,6 @@
           "summary": "Sproglige misforståelser skal ifølge Bibelselskabet ryddes af vejen med ny oversættelse af fadervor.",
           "image": "https://politiken.dk/incoming/img11053893.uh7v4s/ORIGINALS/original_960/S%C3%B8ndagsinterview%20S%C3%B8rine%20Godtfredsen",
           "publishedAt": "2026-11-10T09:48:10.000Z"
-        },
-        {
-          "title": "Lidt hårdt sagt behøver EU ikke kapacitet til at lagre kattevideoer",
-          "link": "https://politiken.dk/internationalt/art11052798/Lidt-h%C3%A5rdt-sagt-beh%C3%B8ver-EU-ikke-kapacitet-til-at-lagre-kattevideoer",
-          "summary": "Tænketanken Europa retter i en ny analyse kritik mod et EU-forslag, der vil gøre Europa digitalt selvforsynende. Det giver ikke mening, mener tænketanken blandt andet.",
-          "image": "https://politiken.dk/incoming/img11053431.obxl5k/ORIGINALS/original_960/Demonstrationen%20Nej%20tak%20til%20datacentre%20og%20Big%20Tech%20foran%20Microsofts%20datacenter",
-          "publishedAt": "2026-11-10T09:20:08.000Z"
-        },
-        {
-          "title": "Tidligere fængselsbetjent fortæller om voldsregime på Politigården",
-          "link": "https://politiken.dk/kultur/boger/boganmeldelser/faglitteratur_boger/art11044564/Tidligere-f%C3%A6ngselsbetjent-fort%C3%A6ller-om-voldsregime-p%C3%A5-Politig%C3%A5rden",
-          "summary": "Tidligere fængselsbetjent fortæller, hvordan han og hans kolleger i Politigårdens Fængsel etablerede et rædselsregime over for de indsatte med vold som fast ingrediens.",
-          "image": "https://politiken.dk/incoming/img11045938.50nofp/ORIGINALS/original_960/Title%20mangler",
-          "publishedAt": "2026-11-10T09:18:02.000Z"
         }
       ]
     },
@@ -154,75 +154,73 @@
         "homepage": "https://www.berlingske.dk",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-10T12:26:33.793Z",
+      "fetchedAt": "2026-11-10T13:39:05.406Z",
       "items": [
         {
-          "title": "Løsgænger har holdt \"respektfuldt\" møde med russisk ambassadør",
-          "link": "https://www.berlingske.dk/politik/loesgaenger-har-holdt-respektfuldt-moede-med-russisk-ambassadoer?referrer=RSS",
-          "summary": "Tirsdag har Jacob Harris holdt møde på Ruslands ambassade. Det gik godt og var respektfuldt, siger Harris.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166709584.webp?t[strip]=true&t[quality]=70&accessToken=c09a8b0f69b50873f9f2cfbb62aa8a04dffc9be63ff91112c46da3d277a16978",
-          "publishedAt": "2026-11-10T12:22:46.000Z"
+          "title": "Mand snuppet i lufthavnen med 12 kilo hash fra Thailand",
+          "link": "https://www.berlingske.dk/indland/mand-snuppet-i-lufthavnen-med-12-kilo-hash-fra-thailand?referrer=RSS",
+          "summary": "En lettisk mand blev angiveligt lovet betaling svarende til 60.000 kroner for at smugle hash til Danmark.",
+          "publishedAt": "2026-11-10T13:35:46.000Z"
+        },
+        {
+          "title": "Sæsonens første snebyger kan være på vej",
+          "link": "https://www.berlingske.dk/danmark/saesonens-foerste-snebyger-kan-vaere-paa-vej?referrer=RSS",
+          "summary": "Der er ikke noget, der tyder på, at man skal finde kælken eller skiene frem trods snemelding, oplyser DMI.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166725191.webp?t[strip]=true&t[quality]=70&accessToken=f55c7e38d4953523e3028db7b7a5f8beed86dabdeebeecdac9842d579b5f24e8",
+          "publishedAt": "2026-11-10T13:31:47.000Z"
+        },
+        {
+          "title": "Bulgarien siger nej til Merz-krav om Ukraine-støtte: Vi har underskud",
+          "link": "https://www.berlingske.dk/internationalt/bulgarien-siger-nej-til-merz-krav-om-ukraine-stoette-vi-har-underskud?referrer=RSS",
+          "summary": "Bulgarien vil ikke stå i vejen for nye EU-beslutninger, men landets underskud bremser ny støtte, lyder det.",
+          "publishedAt": "2026-11-10T13:28:51.000Z"
+        },
+        {
+          "title": "Eks-minister overtager retsordførerskab fra ekskluderet medlem",
+          "link": "https://www.berlingske.dk/politik/eks-minister-overtager-retsordfoererskab-fra-ekskluderet-medlem?referrer=RSS",
+          "summary": "På et gruppemøde i Venstre er det besluttet, at Marie Bjerre bliver retsordfører efter Preben Bang Henriksen.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166719872.webp?t[strip]=true&t[quality]=70&accessToken=3cdace2af956e384b362013b35012a3522c66deb5100bc46e4a9063fa22adac6",
+          "publishedAt": "2026-11-10T13:28:46.000Z"
+        },
+        {
+          "title": "Hegseth: Rigsretssag vil vise USA's fjender at vi straffer vore egne",
+          "link": "https://www.berlingske.dk/internationalt/hegseth-rigsretssag-vil-vise-usas-fjender-at-vi-straffer-vore-egne?referrer=RSS",
+          "summary": "Forslag om rigsretssag mod USA's forsvarsminister er en farce, siger Pete Hegseth på pressemøde.",
+          "publishedAt": "2026-11-10T13:21:47.000Z"
         },
         {
           "title": "Måling: Syv ud af ti amerikanere vil stoppe krigen mod Iran",
           "link": "https://www.berlingske.dk/internationalt/maaling-syv-ud-af-ti-amerikanere-vil-stoppe-krigen-mod-iran?referrer=RSS",
           "summary": "Kongressen skal vedtage lovgivning, der afslutter Iran-krigen, svarer flertal i måling efter midtvejsvalget.",
-          "publishedAt": "2026-11-10T12:19:48.000Z"
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166717336.webp?t[strip]=true&t[quality]=70&accessToken=3f72e8957733c7280b19702f0ae3d664052bbaaf7045ad94acf7dcfb95038038",
+          "publishedAt": "2026-11-10T12:58:50.000Z"
         },
         {
-          "title": "Yderligere to værter trækker sig fra TV 2-programmer efter 'Alle elsker Rasmus'",
-          "link": "https://www.berlingske.dk/skaerm/yderligere-to-vaerter-traekker-sig-fra-tv-2-programmer-efter-alle-elsker-rasmus?referrer=RSS",
-          "summary": "Skuespillerne Julie Rudbæk og Sofie Jo Kaufmanas trækker sig som værter på TV 2-program.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166702743.webp?t[strip]=true&t[quality]=70&accessToken=d7e35b43329a07c8e1de0de93df406c50f12ce54437ebe8b0716de9582584864",
-          "publishedAt": "2026-11-10T12:14:32.000Z"
+          "title": "Danmark er ikke USA. Debatten om datacentrene er kørt helt af sporet",
+          "link": "https://www.berlingske.dk/synspunkter/danmark-er-ikke-usa-debatten-om-datacentrene-er-koert-helt-af-sporet?referrer=RSS",
+          "summary": "I stedet for at diskutere for eller imod et datacenterstop burde vi diskutere, hvilke grønne krav vi vil stille til de datacentre, vi får brug for her i Europa.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166617000.webp?t[strip]=true&t[quality]=70&accessToken=d75085c0581d375074c72e81a62f95f63089a7230f6787426923546f9483f8fd",
+          "publishedAt": "2026-11-10T12:58:38.000Z"
         },
         {
-          "title": "Kompany er tilbage på træningsanlægget efter kollaps",
-          "link": "https://www.berlingske.dk/sport/kompany-er-tilbage-paa-traeningsanlaegget-efter-kollaps?referrer=RSS",
-          "summary": "Vincent Kompany er tilbage i Bayern, efter at han har været indlagt med en irritation af hjernehinderne.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166708016.webp?t[strip]=true&t[quality]=70&accessToken=58b655d8aaaac35e75d0c26686018498f291112722c704c6073400b5a58ef2b1",
-          "publishedAt": "2026-11-10T12:13:58.000Z"
+          "title": "Zelenskyj ser frem til at møde kong Frederik i Danmark",
+          "link": "https://www.berlingske.dk/politik/zelenskyj-ser-frem-til-at-moede-kong-frederik-i-danmark?referrer=RSS",
+          "summary": "Den ukrainske præsident skriver på X, at han skal mødes med kong Frederik under sit besøg i Danmark.",
+          "publishedAt": "2026-11-10T12:41:50.000Z"
         },
         {
           "title": "Minister trækker sig fra regeringen i Grønland",
           "link": "https://www.berlingske.dk/politik/minister-traekker-sig-fra-regeringen-i-groenland?referrer=RSS",
-          "summary": "Nivi Olsen, som har været naalakkersuisoq for uddannelse, kultur, idræt, trækker sig fra regeringen.",
+          "summary": "Nivi Olsen, som har været naalakkersuisoq for uddannelse, kultur, idræt og kirke, trækker sig fra regeringen.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166707998.webp?t[strip]=true&t[quality]=70&accessToken=c52c7323661ee816ff37c9b310172fb0e0135decfa0cc573542706ae466ebdc6",
-          "publishedAt": "2026-11-10T12:13:51.000Z"
+          "publishedAt": "2026-11-10T12:41:45.000Z"
         },
         {
-          "title": "Alle hamrer løs på landbruget, og Danish Crown styrter ned i omdømmemåling: »De får hele svineriet med«",
-          "link": "https://www.berlingske.dk/virksomheder/alle-hamrer-loes-paa-landbruget-og-danish-crown-styrter-ned-i-omdoemmemaaling-de-faar-hele-svineriet-med?referrer=RSS",
-          "summary": "Slagterikoncernen er raslet ned som nummer 98 ud af 100 virksomheder. Ifølge brandingekspert er virksomheden blevet »kronen på værket« i det folkelige opgør med svineproduktion.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166559358.webp?t[strip]=true&t[quality]=70&accessToken=aa6f2b983ff16c57ad943bced6a4469bd482e5d888f49efa5abdd73920abbe1b",
-          "publishedAt": "2026-11-10T12:12:24.000Z"
-        },
-        {
-          "title": "Mand i kritisk tilstand efter knivstikkeri i shoppingcenter",
-          "link": "https://www.berlingske.dk/indland/mand-i-kritisk-tilstand-efter-knivstikkeri-i-shoppingcenter?referrer=RSS",
-          "summary": "Politiet fik tirsdag formiddag en anmeldelse om et knivstikkeri i Herning Centret. En mand er anholdt.",
-          "publishedAt": "2026-11-10T12:10:52.000Z"
-        },
-        {
-          "title": "Norges højesteret afviser at løslade Marius Borg Høiby",
-          "link": "https://www.berlingske.dk/internationalt/norges-hoejesteret-afviser-at-loeslade-marius-borg-hoeiby?referrer=RSS",
-          "summary": "Marius Borg Høiby blev tidligere på året dømt for blandt andet to voldtægter. Han afventer ankesag.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166707568.webp?t[strip]=true&t[quality]=70&accessToken=7a03656f42e03feb6b4dd6b53d3e159d40378c303fd59e13f5583fbe7d4a7eb3",
-          "publishedAt": "2026-11-10T12:10:45.000Z"
-        },
-        {
-          "title": "Messerschmidt: Zelenskyj skulle have talt i Landstingssalen igen",
-          "link": "https://www.berlingske.dk/politik/messerschmidt-zelenskyj-skulle-have-talt-i-landstingssalen-igen?referrer=RSS",
-          "summary": "Dansk Folkepartis formand sagde nej til at lade Ukraines præsident tale i Folketingssalen under besøg.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166704991.webp?t[strip]=true&t[quality]=70&accessToken=8345c71306c624a2815851ebe4c5687797973878319af98300b1576a88130d0a",
-          "publishedAt": "2026-11-10T12:07:49.000Z"
-        },
-        {
-          "title": "Zelenskyj skal have styr på sin nordiske backinggruppe. Nyt køkkenmøde skal sikre fodslag i Norden",
-          "link": "https://www.berlingske.dk/internationalt/zelenskyj-skal-have-styr-paa-sin-nordiske-backinggruppe-nyt-koekkenmoede-skal-sikre-fodslag-i-norden?referrer=RSS",
-          "summary": "En samtale med Putin skabte sprækker i det tætte nordiske samarbejde. Når de nordiske ledere mødes i København, handler det om to ting. Igen at tale med en stemme – og at give Ukraine en tiltrængt hånd i ryggen fra de…",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166710073.webp?t[strip]=true&t[quality]=70&accessToken=6ef3a958c2d2ae595383e98b910000ecce5ba8a7630c5537f2f1115e870e0caf",
-          "publishedAt": "2026-11-10T12:06:35.000Z"
+          "title": "Løsgænger har holdt \"respektfuldt\" møde med russisk ambassadør",
+          "link": "https://www.berlingske.dk/politik/loesgaenger-har-holdt-respektfuldt-moede-med-russisk-ambassadoer?referrer=RSS",
+          "summary": "Tirsdag har Jacob Harris holdt møde på Ruslands ambassade. Det gik godt og var respektfuldt, siger Harris.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166709584.webp?t[strip]=true&t[quality]=70&accessToken=c09a8b0f69b50873f9f2cfbb62aa8a04dffc9be63ff91112c46da3d277a16978",
+          "publishedAt": "2026-11-10T12:38:48.000Z"
         }
       ]
     }

@@ -8,14 +8,14 @@
         "homepage": "https://www.nytimes.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-10T12:27:32.334Z",
+      "fetchedAt": "2026-11-10T13:40:13.957Z",
       "items": [
         {
           "title": "Nvidia’s Board Has a History of Letting Jensen Huang Get His Way",
           "link": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html",
           "summary": "Governance experts question whether the board, which is investigating Mr. Huang’s conduct, has been too deferential as he has turned Nvidia into a global giant.",
           "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-nvidia-board-gpqw/10biz-nvidia-board-gpqw-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-10T12:03:27.000Z"
+          "publishedAt": "2026-11-10T13:07:03.000Z"
         },
         {
           "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
@@ -23,6 +23,13 @@
           "summary": "President Trump told reporters Monday that he believed Jensen Huang’s account and said he did not recall receiving a briefing warning him about Mr. Huang’s liaison.",
           "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-trump-jensen-tvfw/09dc-trump-jensen-tvfw-mediumSquareAt3X.jpg",
           "publishedAt": "2026-11-10T02:13:11.000Z"
+        },
+        {
+          "title": "The Jensen Huang Affair",
+          "link": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
+          "summary": "Nvidia’s C.E.O., Jensen Huang, admitted to having an affair with a suspected Chinese corporate spy. Everything that means for him and the A.I. industry, and what happens next.",
+          "image": "https://static01.nyt.com/images/2026/11/10/podcasts/10hardfork-jensen-huang-spy/10hardfork-jensen-huang-spy-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-10T11:00:17.000Z"
         },
         {
           "title": "Hegseth Faces Impeachment Charges, and Why Dead Birds Are Washing Up in California",
@@ -36,7 +43,7 @@
           "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
           "summary": "The A.I. company’s pricing would make it one of the biggest ever public listings. It comes at a volatile moment amid fears that the A.I. boom may not be sustainable.",
           "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00biz-anthropic-price-range-hfo-zmfq/00biz-anthropic-price-range-hfo-zmfq-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-10T12:23:39.000Z"
+          "publishedAt": "2026-11-10T13:02:55.000Z"
         },
         {
           "title": "California Voters Reject Prop. 40 Billionaire Tax Measure",
@@ -58,13 +65,6 @@
           "summary": "The Massachusetts senator said it is imperative that Democrats address economic pain after running campaigns that centered cost-of-living issues.",
           "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-warren-pvtk/10pol-warren-pvtk-mediumSquareAt3X.jpg",
           "publishedAt": "2026-11-10T10:04:37.000Z"
-        },
-        {
-          "title": "Hegseth to Hold Rare News Conference as Impeachment Vote Looms",
-          "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-news-conference-impeachment-vote.html",
-          "summary": "The defense secretary has indicated that he will fight accusations that he violated the Constitution and federal law.",
-          "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-hegseth-pentagon-pchj/10dc-hegseth-pentagon-pchj-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-10T11:49:37.000Z"
         },
         {
           "title": "You May All Go to Hell, and Tommy Lee Jones Will Go to Texas",
@@ -89,8 +89,26 @@
         "homepage": "https://www.npr.org",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-10T12:27:32.382Z",
+      "fetchedAt": "2026-11-10T13:40:14.188Z",
       "items": [
+        {
+          "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
+          "summary": "Vehicle transaction prices are up to a new record high, according to the Kelley Blue Book — and some buyers are extending their car loans to finance them.",
+          "publishedAt": "2026-11-10T13:30:00.000Z"
+        },
+        {
+          "title": "Seven days of chaos in the ER: How this country's healthcare system is unraveling",
+          "link": "https://www.npr.org/2026/11/10/g-s1-152693/healthcare-ethiopia-conflict-emergency-room",
+          "summary": "Renewed fighting has pushed Ethiopia's healthcare system close to collapse: \"The whole emergency (room) was flooded with war trauma patients,\" one surgeon says of a brutal week in September.",
+          "publishedAt": "2026-11-10T12:48:48.000Z"
+        },
+        {
+          "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
+          "link": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
+          "summary": "\"School Girls; Or, The African Mean Girls Play,\" is ending a Broadway run this week and celebrating with livestream broadcasts. We interviewed the Tony-nominated playwright, Jocelyn Bioh.",
+          "publishedAt": "2026-11-10T12:28:36.000Z"
+        },
         {
           "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
           "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
@@ -116,12 +134,6 @@
           "publishedAt": "2026-11-10T10:01:00.000Z"
         },
         {
-          "title": "Is honesty always the best policy? When to speak up — or stay silent",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent",
-          "summary": "Should you tell your boss she's got food on their face? Your partner you hate their outfit? Social psychologist Vanessa Bohns shares advice on when to tell someone the truth — or keep your mouth shut.",
-          "publishedAt": "2026-11-10T10:00:00.000Z"
-        },
-        {
           "title": "How word of mouth is helping an Amish community's fight against measles",
           "link": "https://www.npr.org/2026/11/10/nx-s1-6021511/pennsylvania-amish-measles-vaccine-trust",
           "summary": "In Pennsylvania, health officials use a quiet vaccination campaign designed to win the trust of the state's Amish community, which has been hit hard by the measles outbreak.",
@@ -134,22 +146,10 @@
           "publishedAt": "2026-11-10T10:00:00.000Z"
         },
         {
-          "title": "Morning news brief",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6032705/morning-news-brief",
-          "summary": "The House could vote this week to impeach Pete Hegseth, Trump's shares mixed messaging on next steps in Iran, the investigation continues into Nvidia CEO's alleged relationship with Chinese spy.",
-          "publishedAt": "2026-11-10T09:38:48.000Z"
-        },
-        {
-          "title": "California voters defeat billionaire tax proposal that divided Democrats",
-          "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
-          "summary": "The novel proposal would have charged billionaires a one-time 5% tax on most of their overall wealth, including their ownership in companies.",
-          "publishedAt": "2026-11-10T03:05:39.000Z"
-        },
-        {
-          "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-          "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-          "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of…",
-          "publishedAt": "2026-11-09T22:30:49.000Z"
+          "title": "Is honesty always the best policy? When to speak up — or stay silent",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent",
+          "summary": "Should you tell your boss she's got food on her face? Your partner you hate their outfit? Social psychologist Vanessa Bohns shares advice on when to tell someone the truth — or keep your mouth shut.",
+          "publishedAt": "2026-11-10T10:00:00.000Z"
         }
       ]
     },
@@ -160,8 +160,14 @@
         "homepage": "https://www.washingtonpost.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-10T12:27:42.485Z",
+      "fetchedAt": "2026-11-10T13:40:22.246Z",
       "items": [
+        {
+          "title": "Inflation pace slowed in October, but prices remain high",
+          "link": "https://www.washingtonpost.com/business/2026/11/10/inflation-pace-slowed-october-prices-remain-high/",
+          "summary": "Inflation eased slightly in October, as gas prices dipped.",
+          "publishedAt": "2026-11-10T13:37:29.000Z"
+        },
         {
           "title": "‘No business having a gun’: Some ICE recruits had a record of red flags",
           "link": "https://www.washingtonpost.com/immigration/2026/11/10/no-business-having-gun-some-ice-recruits-had-record-red-flags/",
@@ -215,12 +221,6 @@
           "link": "https://www.washingtonpost.com/nation/2026/11/09/jimmy-carters-beloved-family-farm-georgia-sold-conservation-group/",
           "summary": "“For both of them, it was a place of rest and renewal,” the farm’s longtime manager said of Jimmy and Rosalynn Carter.",
           "publishedAt": "2026-11-09T11:00:00.000Z"
-        },
-        {
-          "title": "People are paying thousands for a home upgrade that’s often unnecessary",
-          "link": "https://www.washingtonpost.com/business/2026/11/09/people-are-paying-thousands-home-upgrade-thats-often-unnecessary/",
-          "summary": "Outdated practices and codes are resulting in a costly recommendation.",
-          "publishedAt": "2026-11-09T10:00:00.000Z"
         }
       ]
     }

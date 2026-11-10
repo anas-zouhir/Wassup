@@ -8,8 +8,14 @@
         "homepage": "https://yle.fi/uutiset",
         "lang": "fi"
       },
-      "fetchedAt": "2026-11-10T12:26:36.350Z",
+      "fetchedAt": "2026-11-10T13:39:08.222Z",
       "items": [
+        {
+          "title": "Tietovuoto paljastaa somessa kohahduttaneen Ossi Ketolan uhkapelibisneksen jättituotot",
+          "link": "https://yle.fi/a/74-20255476?origin=rss",
+          "summary": "Yle kävi läpi huomiota herättäneen internet-kuuluisuuden yritystietoja. Ketola on tienannut suuria summia veroparatiisiin rekisteröidyllä nettikasinollaan.",
+          "publishedAt": "2026-11-10T13:05:30.000Z"
+        },
         {
           "title": "Elisan, Telian ja DNA:n ex-työntekijät paljastavat: näin puhelinliittymien myyjät vedättävät asiakkaita",
           "link": "https://yle.fi/a/74-20255944?origin=rss",
@@ -17,16 +23,16 @@
           "publishedAt": "2026-11-10T03:30:35.000Z"
         },
         {
-          "title": "Oletko joutunut teleoperaattoreiden myyjien huijaamaksi? Kerro kokemuksistasi",
-          "link": "https://yle.fi/a/74-20256020?origin=rss",
-          "summary": "Teleoperaattorien entiset työntekijät kertoivat Ylelle, että asiakkaille myydään tarpeettomia liittymiä ja palveluita. Yle kerää yleisön kokemuksia aiheesta.",
-          "publishedAt": "2026-11-10T08:22:33.000Z"
+          "title": "Paul McCartney on nyt miljardööri ja maailman kolmanneksi rikkain muusikko",
+          "link": "https://yle.fi/a/74-20256122?origin=rss",
+          "summary": "Forbesin analyysin mukaan entisen Beatlen nettovarallisuus on 1,4 miljardia dollaria. Edelle menevät Jay-Z ja Taylor Swift.",
+          "publishedAt": "2026-11-10T13:19:04.000Z"
         },
         {
-          "title": "Porin TNT-räjähdetehtaan luvittamiseen takaisku – korkein hallinto-oikeus päätti, että valitukset on käsiteltävä",
-          "link": "https://yle.fi/a/74-20256070?origin=rss",
-          "summary": "Puolustusministeriö on ajanut tehdasta nopeutetulla aikataululla, koska nykytilanteessa Suomi ja Eurooppa tarvitsee aseisiin räjähdysaineita.",
-          "publishedAt": "2026-11-10T11:42:28.000Z"
+          "title": "Hegseth kutsuu mahdollista virkasyytettä ”poliittiseksi spektaakkeliksi”",
+          "link": "https://yle.fi/a/74-20256064?origin=rss",
+          "summary": "Eilen edustajainhuoneen republikaaniedustaja Thomas Massie esitti Hegsethin asettamista virkasyytteeseen Iranin sodan takia.",
+          "publishedAt": "2026-11-10T12:49:31.000Z"
         },
         {
           "title": "Pitkän partion loppu: suomalaisten rauhanturvaajien urakka päättyy vuosikymmenien jälkeen",
@@ -41,6 +47,12 @@
           "publishedAt": "2026-11-10T10:17:29.000Z"
         },
         {
+          "title": "Porin TNT-räjähdetehtaan luvittamiseen takaisku – korkein hallinto-oikeus päätti, että valitukset on käsiteltävä",
+          "link": "https://yle.fi/a/74-20256070?origin=rss",
+          "summary": "Puolustusministeriö on ajanut tehdasta nopeutetulla aikataululla, koska nykytilanteessa Suomi ja Eurooppa tarvitsee aseisiin räjähdysaineita.",
+          "publishedAt": "2026-11-10T11:42:28.000Z"
+        },
+        {
           "title": "Tarja Heiskanen oksensi yöllä kivusta, mutta ei silti päässyt päivystykseen Kuopiossa",
           "link": "https://yle.fi/a/74-20253429?origin=rss",
           "summary": "Ylen tietojen mukaan Pohjois-Savon hyvinvointialueen yöaikaisessa hoidossa on ongelmia. Tilanne on pahentunut yöpäivystysten keskityttyä Kuopioon.",
@@ -53,21 +65,10 @@
           "publishedAt": "2026-11-10T07:00:35.000Z"
         },
         {
-          "title": "Bulgariassa ainakin 10 kuollut ketjukolarissa moottoritiellä",
+          "title": "Bulgariassa ainakin 12 kuollut ketjukolarissa moottoritiellä",
           "link": "https://yle.fi/a/74-20256079?origin=rss",
+          "summary": "Kolarissa oli osallisena lähes 90 ajoneuvoa, ja siinä loukkaantui useita kymmeniä ihmisiä.",
           "publishedAt": "2026-11-10T10:02:47.000Z"
-        },
-        {
-          "title": "Ylen meteorologi: Talvirenkaat kannattaa vaihtaa nyt",
-          "link": "https://yle.fi/a/74-20256031?origin=rss",
-          "summary": "Autoilijoille petollisinta on musta jää.",
-          "publishedAt": "2026-11-10T09:42:38.000Z"
-        },
-        {
-          "title": "Stora Enso kehitti puusta lupaavan akkumateriaalin – teollinen tuotanto jo lähellä",
-          "link": "https://yle.fi/a/74-20255855?origin=rss",
-          "summary": "Metsäjätti hakee teknologista apua kiinalaiselta akkujätiltä. Yhtiön tähtäimessä ovat kuitenkin Euroopan markkinat.",
-          "publishedAt": "2026-11-10T11:55:49.000Z"
         }
       ]
     },
@@ -78,74 +79,75 @@
         "homepage": "https://www.hs.fi",
         "lang": "fi"
       },
-      "fetchedAt": "2026-11-10T12:26:36.326Z",
+      "fetchedAt": "2026-11-10T13:39:08.755Z",
       "items": [
         {
-          "title": "Espoo | Poliisi epäilee: 16-vuotias puukotti nuorta miestä",
-          "link": "https://www.hs.fi/pkseutu/art-2000012401838.html",
-          "summary": "Poliisi etsii silminnäkijöitä lokakuussa tapahtuneesta puukotuksesta.",
-          "publishedAt": "2026-11-10T12:09:00.000Z"
+          "title": "Jalkapallo | HS:n tiedot: Gabriel Europaeus on lähellä siirtoa HJK:hon",
+          "link": "https://www.hs.fi/urheilu/art-2000012402209.html",
+          "summary": "HJK on tarjonnut Gnistanin nuorelle keskikenttäpelaajalle rahallisesti houkuttelevaa sopimusta. Todennäköinen siirto paikalliskilpailijaan voisi kariutua vielä ulkomailta tulevaan tarjoukseen.",
+          "image": "https://images.sanoma-sndp.fi/89781e5cab08cdadd4539202f9a13d79/normal/1440.jpg",
+          "publishedAt": "2026-11-10T13:19:00.000Z"
         },
         {
-          "title": "Bulgaria | Ainakin 11 kuollut suuressa ketju­kolarissa",
-          "link": "https://www.hs.fi/maailma/art-2000012401409.html",
-          "summary": "Noin 50 ihmistä on viety sairaalaan. Yhtä paljon kuolonuhreja vaatineita ketjukolareita ei ole sattunut Euroopassa vuosiin.",
-          "image": "https://images.sanoma-sndp.fi/46d7f7deeb42c39a0bc54847e980212e/normal/1440.jpg",
-          "publishedAt": "2026-11-10T11:42:00.000Z"
+          "title": "Tuomiot | Mies sai avovaimonsa pahoin­pitelystä ehdollista vankeutta, tappoi hänet sen aikana",
+          "link": "https://www.hs.fi/pkseutu/art-2000012398972.html",
+          "summary": "Mies tappoi naisen pariskunnan yhteisessä kodissa alkoholinhuuruisen viikonlopun jälkimainingeissa heinäkuussa vuonna 2024.",
+          "image": "https://images.sanoma-sndp.fi/b30f792902d4e4c8a151a92530d08192/normal/1440.jpg",
+          "publishedAt": "2026-11-10T13:15:00.000Z"
         },
         {
-          "title": "Politiikka | Velkajarru ei saa jarruttaa kasvua",
-          "link": "https://www.hs.fi/mielipide/art-2000012390174.html",
-          "summary": "Velkajarrun rinnalle tarvitaan työnteon kannustimia ja ostovoiman vahvistamista.",
-          "publishedAt": "2026-11-10T11:15:00.000Z"
+          "title": "Varhaiskasvatus | Varhaiskasvatuksen tulevaisuutta ei voi rakentaa oletuksille",
+          "link": "https://www.hs.fi/mielipide/art-2000012399080.html",
+          "summary": "Mitä varhaiskasvatuksen laadulle tapahtuu, jos suuri joukko kokeneita päiväkodin johtajia menettää kelpoisuutensa vuonna 2030?",
+          "publishedAt": "2026-11-10T13:00:00.000Z"
         },
         {
-          "title": "Golf | Nuori golffari tärveli golfkentän ja diskattiin kilpailusta",
-          "link": "https://www.hs.fi/urheilu/art-2000012401046.html",
-          "summary": "Frank Kennedy kiisti tekonsa tahallisuuden.",
-          "image": "https://images.sanoma-sndp.fi/f5cd3a94111bae7648aad6d1eee428e6/normal/1440.jpg",
-          "publishedAt": "2026-11-10T11:14:00.000Z"
+          "title": "Kirkkonummi | Vesivahingot riivaavat Suomen hyväosaisinta naapurustoa",
+          "link": "https://www.hs.fi/suomi/art-2000012396279.html",
+          "summary": "Sundsbergissa on ollut epätavallisen paljon vesivahinkoja. Asukkaat epäilivät niiden johtuvan datakeskuksesta, mutta syyksi paljastuivat rakennusvirheet.",
+          "image": "https://images.sanoma-sndp.fi/47e89adacfa98f9dba26dee40e5adb7e/normal/1440.jpg",
+          "publishedAt": "2026-11-10T13:00:00.000Z"
         },
         {
-          "title": "HS Moskovassa | 33 vuotta ja kuusi murhattua työntekijää – Venäjän tunnetuin riippumaton media suljettiin",
-          "link": "https://www.hs.fi/kirjeenvaihtajat/art-2000012398018.html",
-          "summary": "Novaja Gazetan toimittajat jättivät maanantaina lähes 30 vuotta käytössä olleen toimituksensa Moskovassa. Päätoimittaja uskoo lehden vielä palaavan.",
-          "image": "https://images.sanoma-sndp.fi/31cdc87b32b65673c84a6132baf63fb5/normal/1440.jpg",
-          "publishedAt": "2026-11-10T11:02:00.000Z"
+          "title": "Tekoäly | Anthropicin listautumishinta laski aiemmista arvioista",
+          "link": "https://www.hs.fi/visio/art-2000012401987.html",
+          "summary": "Historiallisen suuri pörssilistautuminen jää arvioitua pienemmäksi.",
+          "publishedAt": "2026-11-10T12:59:00.000Z"
         },
         {
-          "title": "Muut lehdet | Ilmastokokouksen pitäisi muuttaa tavoitteita teoiksi",
-          "link": "https://www.hs.fi/nakemys/art-2000012401221.html",
-          "summary": "Palstalle kootaan kiinnostavia näkemyksiä muusta mediasta.",
-          "publishedAt": "2026-11-10T11:00:00.000Z"
+          "title": "Koripallo | Awak Kuier tienasi Dallasissa historiallisen paljon, tiedossa vielä isompi tilipäivä",
+          "link": "https://www.hs.fi/urheilu/art-2000012399809.html",
+          "summary": "Awak Kuier palasi WNBA:han juuri, kun koko liiga muuttui perusteellisesti.",
+          "image": "https://images.sanoma-sndp.fi/9acb482b415069cec9056570419f205b/normal/1440.jpg",
+          "publishedAt": "2026-11-10T12:58:00.000Z"
         },
         {
-          "title": "Jalkapallo | Jani Honkavaara sai potkut Djurgårdenista",
-          "link": "https://www.hs.fi/urheilu/art-2000012401276.html",
-          "summary": "Tukholmalaisseura tiedotti asiasta tiistaina.",
-          "image": "https://images.sanoma-sndp.fi/9bf5d14d9cb332b257e1c36b633cd5c9/normal/1440.jpg",
-          "publishedAt": "2026-11-10T10:49:00.000Z"
+          "title": "Elokuvat | Harry Potter -näyttelijän tähdittämä kotimainen kauhu­elokuva ei kiinnostanut suomalaisia",
+          "link": "https://www.hs.fi/popkulttuuri/art-2000012400659.html",
+          "summary": "Hanna Bergholmin ohjaaman Yön lapsi -kauhuelokuvan toisessa pääosassa nähdään brittitähti Rupert Grint.",
+          "image": "https://images.sanoma-sndp.fi/66b24588e96ecdf5de633c10fa75e4fb/normal/1440.jpg",
+          "publishedAt": "2026-11-10T12:50:00.000Z"
+        },
+        {
+          "title": "Järjestöt | Helsinki Priden toiminnan­johtaja jättää tehtävänsä",
+          "link": "https://www.hs.fi/helsinki/art-2000012401951.html",
+          "summary": "Annu Kemppainen on toiminut järjestön toiminnanjohtajana marraskuusta 2022.",
+          "image": "https://images.sanoma-sndp.fi/750bd76a51e9f056d21c5cb16bff2ad4/normal/1440.jpg",
+          "publishedAt": "2026-11-10T12:40:00.000Z"
+        },
+        {
+          "title": "Yleisurheilu | Olympiarajat julki: Alisa Vainion nykyinen ennätys ei kelpaa",
+          "link": "https://www.hs.fi/urheilu/art-2000012402017.html",
+          "summary": "Naisten maratonin olympiaraja Los Angelesiin on 2.22.20.",
+          "image": "https://images.sanoma-sndp.fi/40683ec166d41966b83bf44ba3d14778/normal/1440.jpg",
+          "publishedAt": "2026-11-10T12:32:00.000Z"
         },
         {
           "title": "HS:n tiedot | Suomi kannattaa hollantilaista Klaas Knotia EKP:n seuraavaksi pääjohtajaksi",
           "link": "https://www.hs.fi/visio/art-2000012401076.html",
           "summary": "Hollantilaisen Knotin vastaehdokas on tässä vaiheessa espanjalainen Pablo Hernández de Cos.",
           "image": "https://images.sanoma-sndp.fi/c179f2693c5af324c8cf5774079009e0/normal/1440.jpg",
-          "publishedAt": "2026-11-10T10:32:00.000Z"
-        },
-        {
-          "title": "Vihreät | Leikkauksessa olleen Sofia Virran sairausloma on päättynyt",
-          "link": "https://www.hs.fi/politiikka/art-2000012401381.html",
-          "summary": "Virta oli lokakuun lopussa ääniongelmien vuoksi leikkauksessa, josta hän on toipunut sairauslomalla. Äänen toipuminen on yhä kesken.",
-          "image": "https://images.sanoma-sndp.fi/f86f3f91f9dff7b37ffd471cd62699ad/normal/1440.jpg",
-          "publishedAt": "2026-11-10T10:19:00.000Z"
-        },
-        {
-          "title": "Kylmälaitehyökkäykset | Euroopan pakastimet saattoi sulattaa salaperäinen ”Marttyyri Kaveh”",
-          "link": "https://www.hs.fi/maailma/art-2000012400510.html",
-          "summary": "Ryhmä on tiettävästi aiemmin hahmotellut myös rahtilaivojen upottamista ja huoltoasemien bensapumppujen räjäyttämistä kyberhyökkäyksillä.",
-          "image": "https://images.sanoma-sndp.fi/8432288ce8b8e1067500354123642df9/normal/1440.jpg",
-          "publishedAt": "2026-11-10T10:00:00.000Z"
+          "publishedAt": "2026-11-10T12:30:00.000Z"
         }
       ]
     },
@@ -156,8 +158,64 @@
         "homepage": "https://www.iltalehti.fi",
         "lang": "fi"
       },
-      "fetchedAt": "2026-11-10T12:26:36.515Z",
+      "fetchedAt": "2026-11-10T13:39:08.887Z",
       "items": [
+        {
+          "title": "Petteri Orpo: ”Koko tämä asia on vakava” – Pääministeri puhuu vihdoin kohupyynnöstä",
+          "link": "https://www.iltalehti.fi/politiikka/a/30542e73-b464-4feb-a308-8a069b678bae?utm_source=rss",
+          "summary": "Pääministeri Petteri Orpon mukaan oikeuskanslerin selvitys on vakava paikka, mutta hän kertoo olevansa rauhallisin mielin. Hän toivoo kanslerilta kuitenkin nopeaa päätöstä. Pääministeri Petteri Orpo (kok) avasi tiistaina…",
+          "image": "https://img.ilcdn.fi/iS5d_T78MFqEXMvhLUhJ_bD2viA=/1024x640/top/img-s3.ilcdn.fi/cdc446a631a7f4d737ab057040ed32ff8080314ca7b54f55a4fdc5ae996c3140.jpg",
+          "publishedAt": "2026-11-10T13:29:26.000Z"
+        },
+        {
+          "title": "Kahdesta henki­rikoksesta tuomittu Terhi oikeuden eteen – Tästä tapauksessa on kyse",
+          "link": "https://www.iltalehti.fi/kotimaa/a/0c03852b-c00d-42dc-ba65-0841658fda7f?utm_source=rss",
+          "summary": "Oikeudessa puidaan sitä, mitä Terhi Tervashonka sanoi puhelussa. Kahdesta henkirikoksesta aikanaan tuomittu Terhi Tervashonka vastaa tänään syytteeseen laittomasta uhkauksesta. Syyte liittyy tapahtumiin elokuussa 2025…",
+          "image": "https://img.ilcdn.fi/xo6Gaox03kHyDbzR1VZ3XhZShxg=/1024x640/top/img-s3.ilcdn.fi/91952861184c18a49ca3daaabdf0996b4ee4a8d0efaf838cb118c18f65caf783.jpg",
+          "publishedAt": "2026-11-10T10:09:53.000Z"
+        },
+        {
+          "title": "Tunnettu verkkokauppa kuilun partaalla",
+          "link": "https://www.iltalehti.fi/talous/a/8fe2743d-fba0-4a40-a29c-5f5ab2823bcf?utm_source=rss",
+          "summary": "Tilinpäätös: ”Olosuhteisiin liittyy kuitenkin sellaista olennaista epävarmuutta, joka saattaa antaa merkittävää aihetta epäillä yhtiön kykyä jatkaa toimintaansa”. Hobby Hall Suomi Oy -verkkokauppa on heikossa hapessa,…",
+          "image": "https://img.ilcdn.fi/lZ_BwyzpdBaTkFzWlKQXMtv2fg4=/1024x640/top/img-s3.ilcdn.fi/91799836a6c410f76217ffcfcaf54a26b65c307211fa9a79882e1c2a5efd16c7.jpg",
+          "publishedAt": "2026-11-10T13:21:56.000Z"
+        },
+        {
+          "title": "Nainen putosi parvekkeelta ja kuoli Turussa",
+          "link": "https://www.iltalehti.fi/kotimaa/a/659c7425-26b8-4889-b1a9-ff1a979b3005?utm_source=rss",
+          "summary": "Onnettomuus tapahtui Turun Hannunniitussa tiistaina aamupäivällä. Nainen kuoli pudottuaan parvekkeelta Turussa. Poliisin mukaan nainen putosi kerrostalon viidennen kerroksen parvekkeelta Turun Hannunniitussa tiistaina…",
+          "image": "https://img.ilcdn.fi/vAMH_d0k8VLq2XORsa1V61xbrAA=/1024x640/top/img-s3.ilcdn.fi/8f8272a6bc083d03465135a47d208915727967b42e9bb64307ab89c30580b783.jpg",
+          "publishedAt": "2026-11-10T13:21:36.000Z"
+        },
+        {
+          "title": "Hesburgerin kommunismi­soppa sakenee – Anna Kontulalta suorat sanat Heikki Salmelalle",
+          "link": "https://www.iltalehti.fi/kotimaa/a/e48763e3-adc1-4cac-81bc-18a33e36075a?utm_source=rss",
+          "summary": "Anna Kontulan mukaan nuoret ovat kiinnostuneita vaihtoehtoisista järjestelmistä, sillä kapitalistijohtoinen tapa toimia on ajamassa päin seinää. Eduskunnan ainoan julkikommunistin, kansanedustaja Anna Kontulan (vas.)…",
+          "image": "https://img.ilcdn.fi/P7L9oum6ewHh__1bgDCYGrbkYKU=/1024x640/top/img-s3.ilcdn.fi/a461b0b8c4d4372d981803a2c1c4e168bbca177d078c9199ecf840c978f1a282.jpg",
+          "publishedAt": "2026-11-10T13:09:36.000Z"
+        },
+        {
+          "title": "Trump soitti sekavan puhelun suoraan lähetykseen – Kikattava ääni herättää huomiota",
+          "link": "https://www.iltalehti.fi/ulkomaat/a/8ce891e7-30d8-4f7b-a78c-fca2a46bff9e?utm_source=rss",
+          "summary": "Spekulaatiot lähtivät nopeasti käyntiin. Yhdysvaltain presidentti Donald Trumpin maanantainen puhelu on herättänyt runsaasti huomiota. Trump nimittäin soitti yllättäen amerikkalaiskanava C-Spanin Washington Journal…",
+          "image": "https://img.ilcdn.fi/14XTC_7F0Syikmg-YBRyD8Yra_U=/1024x640/top/img-s3.ilcdn.fi/2fb17c204c3a0588e529294409abb9d8b9b619bcb0c1b503049c31a121082cd4.jpg",
+          "publishedAt": "2026-11-10T13:05:09.000Z"
+        },
+        {
+          "title": "Kammottu veromuutos tuli – Selvitimme seuraukset",
+          "link": "https://www.iltalehti.fi/politiikka/a/c975d1e7-0538-4589-bd92-67448e88857a?utm_source=rss",
+          "summary": "Ammattiliitoissa on pelätty jopa joukkopakoa Orpon hallituksen tekemän muutoksen vuoksi. Nyt Iltalehti selvitti, mitkä ovat kammotun verouudistuksen vaikutukset. Ay-liike pelkäsi hallituksen toteuttamaa uudistusta. Se…",
+          "image": "https://img.ilcdn.fi/GqMYlq-zg5eeYvC8QISjcy7-NLQ=/195x0:1856x1246/1024x640/top/img-s3.ilcdn.fi/5f1ac25c4286b4bff680b0ad5a6db38edcc7df15fd140ef3e09c4338c586c863.jpg",
+          "publishedAt": "2026-11-10T13:00:02.000Z"
+        },
+        {
+          "title": "Silmitön väkivallanteko Oulussa: Potkaisi selkään, löi ja iski isolla veitsellä",
+          "link": "https://www.iltalehti.fi/kotimaa/a/2bef7572-2c83-416b-825f-b362800148f9?utm_source=rss",
+          "summary": "Oulun perjantaisesta veriteosta epäilty mies on vangittu. Poliisi tutkii Oulun Rautatienkadulla sijaitsevan K-market Asemantornin edustalla perjantaina 6. marraskuuta tapahtunutta puukotusta tapon yrityksenä ja kahtena…",
+          "image": "https://img.ilcdn.fi/FB-EB_h0lwOrma6UKfy4b8uqq8A=/1024x640/top/img-s3.ilcdn.fi/ca743f6f9fb650b5ee6131cff5f88373b47600a06e5217fc26ebb4cb871fd996.jpg",
+          "publishedAt": "2026-11-10T12:57:53.000Z"
+        },
         {
           "title": "Historian kallein avioero uhkaa",
           "link": "https://www.iltalehti.fi/ulkomaat/a/0b8b3c38-32ba-4798-8986-c54bbaf1c0a1?utm_source=rss",
@@ -166,67 +224,11 @@
           "publishedAt": "2026-11-10T11:50:45.000Z"
         },
         {
-          "title": "Poliisi etsii kadonnutta 15-vuotiasta poikaa Helsingissä",
-          "link": "https://www.iltalehti.fi/kotimaa/a/b44786cb-cb6d-4159-8d02-dc5c350cee1e?utm_source=rss",
-          "summary": "Poliisin mukaan poika saattaa liikkua pääkaupunkiseudulla. Helsingin poliisi etsii kateissa olevaa 15-vuotiasta poikaa. Poika on noin 175 senttimetriä pitkä, ja hänellä on aiemmin ollut päällään mustat vaatteet ja…",
-          "image": "https://img.ilcdn.fi/CguzfkDAjzqqxuu0y7teTnES-gM=/1024x640/top/img-s3.ilcdn.fi/99e1ef5b1f6be1b0d7e39af6853fc5767da43b68a337cc2f0f6c3e021dbd9e38.jpg",
-          "publishedAt": "2026-11-10T12:03:29.000Z"
-        },
-        {
-          "title": "Nuorta miestä puukotettiin keskellä päivää Espoossa – Osa sivullisista käveli ohi",
-          "link": "https://www.iltalehti.fi/kotimaa/a/7fd8e438-c11e-4bd1-aa5f-c756ca4c3762?utm_source=rss",
-          "summary": "Poliisi pyytää havaintoja 19. lokakuuta tapahtuneesta puukotuksesta. Helsingin poliisi tutkii Espoon Kivenlahdessa maanantaina 19. lokakuuta tapahtunutta tapon yritystä, jossa 16-vuotiaan pojan epäillään puukottaneen…",
-          "image": "https://img.ilcdn.fi/5egy8XPkzoBIpUTciCvEGJMyWTY=/1024x640/top/img-s3.ilcdn.fi/b2747a02cd6112be182a15896aafe7b496a92091da0df18a06282482a4218b4b.jpg",
-          "publishedAt": "2026-11-10T11:53:44.000Z"
-        },
-        {
-          "title": "Bella Forsgrénilta pysäyttävä viesti: Jää pois eduskunnasta saattohoidon vuoksi",
-          "link": "https://www.iltalehti.fi/politiikka/a/f4fe9624-8877-4294-a13e-9bd2240c96e9?utm_source=rss",
-          "summary": "Kansanedustaja kertoo asiasta Threads-palvelussa. Kansanedustaja Bella Forsgrén (vihr) jää pois eduskuntatyöstä perheenjäsenensä saattohoidon vuoksi. Hän kertoo asiasta Threads-palvelussa. – Viime aikojen hiljaisuuden…",
-          "image": "https://img.ilcdn.fi/BN4V9J_VUjydxddDG6OPvOJnQDg=/1024x640/top/img-s3.ilcdn.fi/f1307d672f9bdd36feceb0067f521adb0781729c297b7448134a9f0db05d864e.jpg",
-          "publishedAt": "2026-11-10T11:48:22.000Z"
-        },
-        {
-          "title": "Oppilas toi teräaseen Eduskunta­taloon – Poliisit paikalle",
-          "link": "https://www.iltalehti.fi/kotimaa/a/1dba46a1-e6e3-4611-bfb8-9e21328b4c29?utm_source=rss",
-          "summary": "Teräase löytyi turvatarkastuksessa. Eduskuntatalossa on ollut tiistaina poliisitehtävä. Tapaus vahvistetaan Helsingin poliisista. Viestinnän asiantuntija Lotta Laaksonen Helsingin poliisista kertoo, että poliisitehtävän…",
-          "image": "https://img.ilcdn.fi/i8emSsTawawF_exxLgrzSk60oSI=/1024x640/top/img-s3.ilcdn.fi/90b5368da606073282fec621aa0b2ab38669cd929f11bcf4240f7ae36404b060.jpg",
-          "publishedAt": "2026-11-10T11:15:54.000Z"
-        },
-        {
-          "title": "Bulgariassa raju ketjukolari – Ainakin 11 kuollut, 50 loukkaantunut",
-          "link": "https://www.iltalehti.fi/ulkomaat/a/52e7f671-08fe-484b-a18d-7355bc02f035?utm_source=rss",
-          "summary": "Pääministeri sanoi tapausta ”tragediaksi”. Vähintään 11 ihmistä on kuollut rajussa liikenneonnettomuudessa Bulgariassa, kertoo maan pääministeri Rumen Radev uutistoimisto Reutersin mukaan. Sisäministeriön mukaan 50…",
-          "image": "https://img.ilcdn.fi/nub4jJEDUS2Px9fA4blUZ3CJg0o=/1024x640/top/img-s3.ilcdn.fi/3516acca6e62915ec66dab26819383545bcc40a834b8dbf94d396b176560ff25.jpg",
-          "publishedAt": "2026-11-10T10:38:10.000Z"
-        },
-        {
-          "title": "Asunnosta löytyi kuollut nainen Turussa – Poliisi epäilee miestä taposta",
-          "link": "https://www.iltalehti.fi/kotimaa/a/e9bc00fb-97fe-4a5c-a38d-805713e16f20?utm_source=rss",
-          "summary": "Poliisi otti miehen kiinni toisesta asunnosta myöhemmin maanantaina. Keski-ikäistä miestä epäillään naisen taposta Turussa, kertoo Lounais-Suomen poliisi. Poliisi sai maanantaina iltapäivästä ilmoituksen tajuttomasta…",
-          "image": "https://img.ilcdn.fi/iROPj2QK9pHSyR07j_18UrdYGuQ=/1024x640/top/img-s3.ilcdn.fi/8c48bd90721017abe8c2ff915acc7f51244bd6a15b640faf5e05cc0970e6c109.jpg",
-          "publishedAt": "2026-11-10T11:20:26.000Z"
-        },
-        {
-          "title": "Helsinki Priden johtaja eroaa",
-          "link": "https://www.iltalehti.fi/kotimaa/a/a294bd4b-c089-4a61-b8b4-f46546b86c38?utm_source=rss",
-          "summary": "Annu Kemppainen jättää pestinsä. Helsinki Priden toiminnanjohtaja Annu Kemppainen jättää pestinsä, järjestö tiedottaa. Kemppainen johti Helsinki Pridea marraskuusta 2022 asti. Hän jättää tehtävänsä 31. joulukuuta.",
-          "image": "https://img.ilcdn.fi/SX_o3mVBs7Fm7IWLFs7MjxAMjZ8=/1024x640/top/img-s3.ilcdn.fi/99b2d68c3d98d017a9a2d1c2d2e637039c1ad217f28fab6ab64e0900c5c831ed.jpg",
-          "publishedAt": "2026-11-10T10:58:47.000Z"
-        },
-        {
-          "title": "1 200 euroa yhdessä päivässä – Johtajat hurahtivat tähän tapaan",
-          "link": "https://www.iltalehti.fi/talous/a/7f6dd288-d49b-4b42-88e7-18509976f484?utm_source=rss",
-          "summary": "Vaikea työmarkkinatilanne on lisännyt kiinnostusta työskentelyyn uudella tavalla, jossa johtaja on töissä yrityksen palveluksessa ilman vakituista työsuhdetta. Suomessa yleistyy uudenlainen johtajantyön tekemisen tapa,…",
-          "image": "https://img.ilcdn.fi/NSEOdv2IzMKwBTgH-1KqxYiExcA=/1024x640/top/img-s3.ilcdn.fi/d62020ef410d0c4f443c9170914b0cd4dfdbbfebe5af7156b7cab18acb0f9c92.jpg",
-          "publishedAt": "2026-11-10T10:52:33.000Z"
-        },
-        {
-          "title": "Raju välikohtaus oikeudessa: Poliisi selvittää Kari Uotin toimintaa",
-          "link": "https://www.iltalehti.fi/kotimaa/a/0853a18f-cb29-4c0f-96ca-af2cf4f78b81?utm_source=rss",
-          "summary": "Rikosilmoituksen teki ulkopuolinen. Poliisi selvittää juristi Kari Uotin ja Ilta-Sanomien kuvaajan välistä tilannetta. Uoti tönäisi Ilta-Sanomien kuvaaja Ivan Bessediniä oikeussalissa torstaina 29. lokakuuta. Uotilla oli…",
-          "image": "https://img.ilcdn.fi/uIZwXZjqmp_ja3MZikT3_qCdRS4=/1024x640/top/img-s3.ilcdn.fi/0790cedc1b72d87a0ff4769a6b9712c0305d788bcf3f5d993a87997b5d483064.jpg",
-          "publishedAt": "2026-11-10T10:44:56.000Z"
+          "title": "Sofia Virta palasi töihin – Tulkki ja laput käytössä",
+          "link": "https://www.iltalehti.fi/politiikka/a/dae3ef72-b9e6-4ba0-8692-c1c5e673cafa?utm_source=rss",
+          "summary": "Vihreiden puheenjohtaja Sofia Virta pääsi palaamaan töihin, mutta hän joutuu yhä rajoittamaan äänenkäyttöään. Vihreiden puheenjohtaja Sofia Virran sairausloma on ohi, vihreät tiedottaa. Virta jäi sairauslomalle…",
+          "image": "https://img.ilcdn.fi/ShChfpA1vorFEG_X0jXr7L0mtHs=/1024x640/top/img-s3.ilcdn.fi/81227f62b79185639415cb6710670443772225d1ded49eb00288f6ec1af3cd4a.jpg",
+          "publishedAt": "2026-11-10T10:42:31.000Z"
         }
       ]
     }

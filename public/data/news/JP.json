@@ -8,7 +8,7 @@
         "homepage": "https://news.web.nhk/newsweb",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-10T12:26:47.270Z",
+      "fetchedAt": "2026-11-10T13:39:21.006Z",
       "items": [
         {
           "title": "子どものSNS利用 発達段階に応じた考え方提示 こども家庭庁",
@@ -29,16 +29,16 @@
           "publishedAt": "2026-11-10T11:31:00.000Z"
         },
         {
+          "title": "スマホ遠隔操作し商品だまし取った疑い 中国籍の2人逮捕 福岡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73782",
+          "summary": "不正なアプリをインストールさせた他人のスマートフォンを遠隔操作し、200万円相当の商品をだまし取ったなどとして中国籍の2人が逮捕されました。",
+          "publishedAt": "2026-11-10T11:44:00.000Z"
+        },
+        {
           "title": "自民 小渕氏 税調副会長の退任求められ受け入れ 古川氏は辞任",
           "link": "https://news.web.nhk/newsweb/na/nd-20261110de73714",
           "summary": "衆議院本会議で食料品の消費税減税関連法案の採決を前に退席し戒告の処分を受けた自民党の小渕・元選挙対策委員長は、小野寺税制調査会長から税制調査会の副会長を退任するよう求められ、受け入れる意向を伝えたと明…",
           "publishedAt": "2026-11-10T09:54:00.000Z"
-        },
-        {
-          "title": "ソフトバンクグループ中間決算 7680億円の赤字 DC計画変更で",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73545",
-          "summary": "ソフトバンクグループのことし4月から9月までの中間決算は7680億円の最終赤字となりました。アメリカで進めているデータセンターの計画を変更したことに伴って、損失を計上したことなどが主な要因だということ…",
-          "publishedAt": "2026-11-10T11:03:00.000Z"
         },
         {
           "title": "巨人 ドラフト1位指名であいさつ 織田翔希投手は同席せず",
@@ -61,8 +61,18 @@
         "homepage": "https://www.asahi.com",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-10T12:26:47.325Z",
+      "fetchedAt": "2026-11-10T13:39:21.023Z",
       "items": [
+        {
+          "title": "偽TikTokアプリでスマホ遠隔操作、不正決済か 中国籍の男逮捕",
+          "link": "http://www.asahi.com/articles/ASVCB33L7VCBTIPE008M.html?ref=rss",
+          "publishedAt": "2026-11-10T12:30:00.000Z"
+        },
+        {
+          "title": "「生きて必ず償える」被害者妻の証言に被告が涙 富山の交番襲撃事件",
+          "link": "http://www.asahi.com/articles/ASVCB3RQ0VCBPUZB006M.html?ref=rss",
+          "publishedAt": "2026-11-10T12:30:00.000Z"
+        },
         {
           "title": "暴力団「ETC利用不可」は違法な差別？ 提訴に福岡地裁は棄却判決",
           "link": "http://www.asahi.com/articles/ASVCB142CVCBTIPE008M.html?ref=rss",
@@ -102,16 +112,6 @@
           "title": "イヌが脱走、住民にかみつく 重過失傷害疑いで飼い主逮捕 千葉県警",
           "link": "http://www.asahi.com/articles/ASVCB2V4DVCBUDCB00TM.html?ref=rss",
           "publishedAt": "2026-11-10T10:15:00.000Z"
-        },
-        {
-          "title": "はんこも戸籍謄本も不要の養子縁組 高齢者の資産狙われることも",
-          "link": "http://www.asahi.com/articles/ASVCB2TC2VCBULZU007M.html?ref=rss",
-          "publishedAt": "2026-11-10T10:00:00.000Z"
-        },
-        {
-          "title": "スキマバイト「シェアフル」の利用者情報、約750万件流出の可能性",
-          "link": "http://www.asahi.com/articles/ASVCB32GTVCBULFA013M.html?ref=rss",
-          "publishedAt": "2026-11-10T09:45:00.000Z"
         }
       ]
     },
@@ -122,7 +122,7 @@
         "homepage": "https://www.japantimes.co.jp",
         "lang": "en"
       },
-      "fetchedAt": "2026-11-10T12:26:47.468Z",
+      "fetchedAt": "2026-11-10T13:39:21.170Z",
       "items": [
         {
           "title": "The war Putin wanted to keep away is coming home to Russia",

@@ -8,7 +8,7 @@
         "homepage": "https://www.rte.ie/news/",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-10T12:26:43.682Z",
+      "fetchedAt": "2026-11-10T13:39:16.795Z",
       "items": [
         {
           "title": "Bus driver guilty of dangerous driving over fatal crash",
@@ -16,6 +16,13 @@
           "summary": "A 43-year-old bus driver has been found guilty of dangerous driving causing the deaths of two teenagers who were travelling on an e-scooter in Waterford over two years ago.",
           "image": "https://www.rte.ie/images/0025471d-800.jpg",
           "publishedAt": "2026-11-10T11:19:08.000Z"
+        },
+        {
+          "title": "Multiple women accuse Walliams of sexual misconduct",
+          "link": "https://www.rte.ie/news/2026/1110/1598675-walliams-named-in-failed-injunction/",
+          "summary": "Multiple women have accused British comedian and author David Walliams of sexual misconduct, including when they were teenagers.",
+          "image": "https://www.rte.ie/images/0023a70b-800.jpg",
+          "publishedAt": "2026-11-10T12:26:15.000Z"
         },
         {
           "title": "Unions committed to trying to close out pay deal 'today'",
@@ -53,6 +60,13 @@
           "publishedAt": "2026-11-10T11:59:13.000Z"
         },
         {
+          "title": "Judge will accept majority verdict in Ray murder trial",
+          "link": "https://www.rte.ie/news/courts/2026/1110/1598687-josie-ray-nenagh-trial/",
+          "summary": "Jury members have been told by the trial judge that he will accept a majority 10/2 or 11/1 verdict in the trial of a 52-year-old man charged with the murder of 89-year-old mother-of-five Josephine 'Josie' Ray at her home…",
+          "image": "https://www.rte.ie/images/0020bfa3-800.jpg",
+          "publishedAt": "2026-11-10T13:22:37.000Z"
+        },
+        {
           "title": "Thousands of books once banned by State to go on view",
           "link": "https://www.rte.ie/culture/2026/1110/1598591-banned-books/",
           "summary": "Ledgers outlining the individual reasons why each book was banned will also be available for public viewing for the first time.",
@@ -60,25 +74,11 @@
           "publishedAt": "2026-11-10T06:16:11.000Z"
         },
         {
-          "title": "Threats facing Honduran farmers amid palm oil expansion",
-          "link": "https://www.rte.ie/news/2026/1110/1598550-environmentalists-facing-escalating-threats-in-honduras/",
-          "summary": "Land and environmental defenders face escalating threats, with Honduras highlighted ahead of Turkey's COP31 summit.",
-          "image": "https://www.rte.ie/images/00254f59-800.jpg",
-          "publishedAt": "2026-11-10T06:00:00.000Z"
-        },
-        {
-          "title": "Sinn Féin in call for referendum on triple lock",
-          "link": "https://www.rte.ie/news/politics/2026/1110/1598655-triple-lock-protest/",
-          "summary": "A group of Sinn Féin members have held a protest outside Government Buildings demanding a referendum on the Triple Lock.",
-          "image": "https://www.rte.ie/images/00255055-800.jpg",
-          "publishedAt": "2026-11-10T10:47:43.000Z"
-        },
-        {
-          "title": "Emissions labels have 'small impact' on flight choices",
-          "link": "https://www.rte.ie/news/2026/1110/1598627-emissions-flight-choices/",
-          "summary": "Emissions labels displayed on airline search engines have only a small effect on flight choices – and lead many consumers to misunderstand the impact of flying on the environment, according to new research.",
-          "image": "https://www.rte.ie/images/0024282f-800.jpg",
-          "publishedAt": "2026-11-10T07:41:38.000Z"
+          "title": "Man remanded over Limerick hit-and-run that killed nurse",
+          "link": "https://www.rte.ie/news/courts/2026/1110/1598686-limerick-court-hit-and-run/",
+          "summary": "A 19-year-old man has been remanded to prison for sentencing after he pleaded guilty to a fatal hit-and-run that killed a nurse earlier this year.",
+          "image": "https://www.rte.ie/images/0025330e-800.jpg",
+          "publishedAt": "2026-11-10T13:27:36.000Z"
         }
       ]
     },
@@ -89,8 +89,22 @@
         "homepage": "https://www.irishtimes.com",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-10T12:26:43.865Z",
+      "fetchedAt": "2026-11-10T13:39:17.241Z",
       "items": [
+        {
+          "title": "‘Absolutely no toleration’: Gardaí warn against robust protests and roadblocks this week",
+          "link": "https://www.irishtimes.com/ireland/2026/11/10/absolutely-no-toleration-gardai-warn-against-robust-protests-and-roadblocks-this-week/",
+          "summary": "More than 500 public order unit gardaí, along with two water cannons and heavy-duty towing vehicles, are on standby",
+          "image": "https://www.irishtimes.com/resizer/v2/REONUOX7R3SI75TV7BOF2VMJJM.jpg?auth=ff4c307e7c869acebfd955068e56d45e0cb4f1fd29578c1060b93d1e19b3621f&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-10T12:46:06.000Z"
+        },
+        {
+          "title": "Bus driver found guilty of causing deaths of two teens in Co Waterford",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/10/bus-driver-found-guilty-of-causing-deaths-of-two-teens-in-co-waterford/",
+          "summary": "Gilbert Collins (15) and Avuzwa Sampo (17) died after being hit by a bus driven by Adrian Doyle, of Ard Glass, Ferrybank, in June 2024",
+          "image": "https://www.irishtimes.com/resizer/v2/ASDLZM64VJE3TGO4Q2Z2CFC7H4.png?auth=7ec5fe237658d4b80cd4cfc10b65df717cf6e076f1adc29ef7169aaa75e38b76&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-10T12:30:41.000Z"
+        },
         {
           "title": "Oil spill investigated as possible cause of death of seagulls in River Liffey",
           "link": "https://www.irishtimes.com/environment/2026/11/10/oil-spill-investigated-as-possible-cause-of-death-of-seagulls-in-river-liffey/",
@@ -146,20 +160,6 @@
           "summary": "Students in Italy and Belgium benefit from a different approach to learning the Irish language",
           "image": "https://www.irishtimes.com/resizer/v2/XAFQQJ2LZRHKDMT5KZI2AQ5JEA.jpg?auth=7f5b5bec68fb95b39a98563311fa43690de1362fee7442d9047243e955027cf1&smart=true&width=630&height=350",
           "publishedAt": "2026-11-10T06:01:00.000Z"
-        },
-        {
-          "title": "Cross-Border tax rules putting off employers and workers, says report",
-          "link": "https://www.irishtimes.com/ireland/2026/11/10/cross-border-tax-rules-putting-off-employers-and-workers-says-report/",
-          "summary": "Employees interested in cross-Border moves for better pay and opportunities cite the daily cost of commuting as an issue",
-          "image": "https://www.irishtimes.com/resizer/v2/5UOQPT7CRKBO5SAGP5VEIELOMU.jpg?auth=8e98265ae71be6a174c9da50d9728515bab5fb0107ab5968ed249ad56312c918&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-10T06:00:01.000Z"
-        },
-        {
-          "title": "Class and schools ‘can bottleneck your potential’: Scholarship opened doors for Ringsend woman",
-          "link": "https://www.irishtimes.com/ireland/education/2026/11/10/class-and-schools-can-bottleneck-your-potential-scholarship-opened-doors-for-ringsend-woman/",
-          "summary": "Dublin Port bursary helped Amy Doyle, now doing a PhD at Imperial College London, to ease off working and focus on studies",
-          "image": "https://www.irishtimes.com/resizer/v2/DGKHVZN5P5B3TDEN4HGFAZI5EQ.jpg?auth=7b04ec92d5977614c1286b9b4e8d4ec460ef073bfe5afd606fe4f4955e8a2957&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-10T06:00:00.000Z"
         }
       ]
     },
@@ -170,70 +170,69 @@
         "homepage": "https://www.independent.ie",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-10T12:26:44.152Z",
+      "fetchedAt": "2026-11-10T13:39:17.521Z",
       "items": [
         {
-          "title": "David Walliams named as UK celebrity behind sex claims court injunction",
-          "link": "https://www.independent.ie/world-news/david-walliams-named-as-uk-celebrity-behind-sex-claims-court-injunction/a/164350447.html",
-          "summary": "The comedian and author has ‘no intention of returning to public life’, his lawyers previously said during the High Court bid",
-          "image": "https://prod-img.independent.ie/public/incoming/8vvwxg-featureimage.jpg/alternates/BASE_SIXTEEN_NINE/featureimage.jpg",
-          "publishedAt": "2026-11-10T12:20:00.000Z"
+          "title": "Trump’s Pentagon chief Hegseth calls moves to impeach him ‘sabotage’",
+          "link": "https://www.independent.ie/world-news/trumps-pentagon-chief-hegseth-calls-moves-to-impeach-him-sabotage/a/164355356.html",
+          "summary": "US Defence Secretary holds a defiant press conference which is his first since May",
+          "image": "https://prod-img.independent.ie/public/incoming/ffvyiu-featureimage.jpg/alternates/BASE_SIXTEEN_NINE/featureimage.jpg",
+          "publishedAt": "2026-11-10T13:30:00.000Z"
         },
         {
-          "title": "Offaly captain Charlie Mitchell reveals he suffered heart attack during Leinster SHC clash against Kilkenny",
-          "link": "https://www.independent.ie/sport/gaa/hurling/offaly-captain-charlie-mitchell-reveals-he-suffered-heart-attack-during-leinster-shc-clash-against-kilkenny/a/164346716.html",
-          "image": "https://prod-img.independent.ie/public/incoming/3iuygz-sports3596435.jpg/alternates/BASE_SIXTEEN_NINE/Sports3596435.jpg",
-          "publishedAt": "2026-11-10T12:15:00.000Z"
+          "title": "Kickboxer Adam Tierney wins world heavyweight gold medal in Spain",
+          "link": "https://www.independent.ie/county/wexford/kickboxer-adam-tierney-wins-world-heavyweight-gold-medal-in-spain/a/164348806.html",
+          "image": "https://prod-img.independent.ie/public/incoming/k0964h-sp-64at46.jpg/alternates/BASE_SIXTEEN_NINE/sp%2064at46.jpg",
+          "publishedAt": "2026-11-10T13:30:00.000Z"
         },
         {
-          "title": "Tributes paid to late Wicklow RNLI volunteer with ‘heart as big as a lion’",
-          "link": "https://www.independent.ie/county/wicklow/tributes-paid-to-late-wicklow-rnli-volunteer-with-heart-as-big-as-a-lion/a/164342296.html",
-          "image": "https://prod-img.independent.ie/public/incoming/oyo21w-leahy-maurice-dec-3c524ba3c6939dc353fc66a3b9f4149e4b98e9fd015a7fde-1.png/alternates/BASE_SIXTEEN_NINE/Leahy_Maurice_dec_3c524ba3c6939dc353fc66a3b9f4149e4b98e9fd015a7fde%201.png",
-          "publishedAt": "2026-11-10T12:02:53.000Z"
+          "title": "Sligo referee Darren Corcoran earns second FAI Cup final medal as Assistant Referee at Aviva Stadium",
+          "link": "https://www.independent.ie/county/sligo/sligo-referee-darren-corcoran-earns-second-fai-cup-final-medal-as-assistant-referee-at-aviva-stadium/a/164344540.html",
+          "image": "https://prod-img.independent.ie/public/incoming/2s62ua-525856900091395239.jpg/alternates/BASE_SIXTEEN_NINE/525856900091395239.jpg",
+          "publishedAt": "2026-11-10T13:30:00.000Z"
         },
         {
-          "title": "Clare’s River McGann wins the 2026 Fiddler of Dooney competition in Sligo, Aisling White takes junior title",
-          "link": "https://www.independent.ie/county/sligo/clares-river-mcgann-wins-the-2026-fiddler-of-dooney-competition-in-sligo-aisling-white-takes-junior-title/a/164073390.html",
-          "image": "https://prod-img.independent.ie/public/incoming/p9lnyj-fiddler-of-dooney.jpg/alternates/BASE_SIXTEEN_NINE/Fiddler%20of%20Dooney.jpg",
-          "publishedAt": "2026-11-10T12:02:00.000Z"
+          "title": "Sligo AC take silver as North Sligo AC claim bronze in Connacht Senior Cross Country League finale",
+          "link": "https://www.independent.ie/county/sligo/sligo-ac-take-silver-as-north-sligo-ac-claim-bronze-in-connacht-senior-cross-country-league-finale/a/164343216.html",
+          "image": "https://prod-img.independent.ie/public/incoming/2wkacp-dsc06080.jpg/alternates/BASE_SIXTEEN_NINE/DSC06080.jpg",
+          "publishedAt": "2026-11-10T13:30:00.000Z"
         },
         {
-          "title": "Meeting being held in Leitrim to discuss community safety",
-          "link": "https://www.independent.ie/county/leitrim/meeting-being-held-in-leitrim-to-discuss-community-safety/a/164343986.html",
-          "image": "https://prod-img.independent.ie/public/incoming/djpsj8-carrick-on-shannon.-photo-carrick-on-shannon-joint-local-area-plan/alternates/BASE_SIXTEEN_NINE/Carrick-on-Shannon.%20Photo%20Carrick-on-Shannon%20Joint%20Local%20Area%20Plan",
-          "publishedAt": "2026-11-10T12:00:00.000Z"
+          "title": "Irish Writers Union backs Sally Rooney after UK withdrawal of her books over Palestine Action support",
+          "link": "https://www.independent.ie/irish-news/irish-writers-union-backs-sally-rooney-after-uk-withdrawal-of-her-books-over-palestine-action-support/a/164352073.html",
+          "image": "https://prod-img.independent.ie/public/incoming/7u360g-sally-rooney-in-merrion-square-in-dublin-on-july-24-2021.-ellius-gracethe-new-york-times/alternates/BASE_SIXTEEN_NINE/Sally%20Rooney%20in%20Merrion%20Square%20in%20Dublin%20on%20July%2024%202021.%20Ellius%20GraceThe%20New%20York%20Times",
+          "publishedAt": "2026-11-10T13:20:00.000Z"
         },
         {
-          "title": "Sligo University Hospital Emergency Department under extreme pressure as 39 patients wait on trollies",
-          "link": "https://www.independent.ie/county/sligo/sligo-university-hospital-emergency-department-under-extreme-pressure-as-39-patients-wait-on-trollies/a/164341199.html",
-          "summary": "Some elective procedures may be postponed warns HSE",
-          "image": "https://prod-img.independent.ie/public/incoming/ofbxrh-sligo-university-.jpg/alternates/BASE_SIXTEEN_NINE/Sligo%20University%20.jpg",
-          "publishedAt": "2026-11-10T12:00:00.000Z"
+          "title": "Wicklow gardaí investigate suspected arson attack on cars outside family home",
+          "link": "https://www.independent.ie/county/wicklow/wicklow-gardai-investigate-suspected-arson-attack-on-cars-outside-family-home/a/164353939.html",
+          "summary": "A family of 11, including four sick children and a six-week-old newborn, were living at the property",
+          "image": "https://prod-img.independent.ie/public/incoming/n1iat5-cctv-stills-of-a-suspected-arson-attack-in-arklow-in-the-early-hours-of-tuesday-morning./alternates/BASE_SIXTEEN_NINE/CCTV%20stills%20of%20a%20suspected%20arson%20attack%20in%20Arklow%20in%20the%20early%20hours%20of%20Tuesday%20morning.",
+          "publishedAt": "2026-11-10T13:18:33.000Z"
         },
         {
-          "title": "KFC officially opens doors of its first ever branch in Tralee",
-          "link": "https://www.independent.ie/county/kerry/kfc-officially-opens-doors-of-its-first-ever-branch-in-tralee/a/164340646.html",
-          "image": "https://prod-img.independent.ie/public/incoming/ce8b16-kt-kfc.jpg/alternates/BASE_SIXTEEN_NINE/KT%20KFC.jpg",
-          "publishedAt": "2026-11-10T12:00:00.000Z"
+          "title": "Plenty of contenders but who is best suited to replace Michael Carrick at Manchester United?",
+          "link": "https://www.independent.ie/sport/soccer/premier-league/plenty-of-contenders-but-who-is-best-suited-to-replace-michael-carrick-at-manchester-united/a/164346856.html",
+          "image": "https://prod-img.independent.ie/public/incoming/63s27o-mixcollage-10-nov-2026-11-.jpg/alternates/BASE_SIXTEEN_NINE/MixCollage_10_Nov_2026_11_.jpg",
+          "publishedAt": "2026-11-10T13:00:00.000Z"
         },
         {
-          "title": "Lonely Planet names Streedagh Strand among Europe’s 100 best beaches",
-          "link": "https://www.independent.ie/county/sligo/lonely-planet-names-streedagh-strand-among-europes-100-best-beaches/a/164340386.html",
-          "image": "https://prod-img.independent.ie/public/incoming/3zovea-go.jpg-ti72xnr-1.jpg/alternates/BASE_SIXTEEN_NINE/go.jpg_TI72XNR%201.jpg",
-          "publishedAt": "2026-11-10T12:00:00.000Z"
+          "title": "‘A moment of hope’ – Dublin band Aslan to headline at Our Lady’s Hospice remembrance ceremony",
+          "link": "https://www.independent.ie/irish-news/a-moment-of-hope-dublin-band-aslan-to-headline-at-our-ladys-hospice-remembrance-ceremony/a/164344536.html",
+          "image": "https://prod-img.independent.ie/public/incoming/kdpfwo-aslan-remember-as-they-light-up-a-life-for-our-ladys-hospice/alternates/BASE_SIXTEEN_NINE/Aslan%20remember%20as%20they%20Light%20up%20a%20Life%20for%20Our%20Ladys%20Hospice",
+          "publishedAt": "2026-11-10T13:00:00.000Z"
         },
         {
-          "title": "Simon Bourke: For some, the dole is the only ‘way of life’ they’ve ever known",
-          "link": "https://www.independent.ie/county/wexford/simon-bourke-for-some-the-dole-is-the-only-way-of-life-theyve-ever-known/a/164293064.html",
-          "image": "https://prod-img.independent.ie/public/incoming/n96ly4-fine-gael-ard-fheis/alternates/BASE_SIXTEEN_NINE/Fine%20Gael%20Ard%20Fheis",
-          "publishedAt": "2026-11-10T12:00:00.000Z"
+          "title": "Gardaí deal with two more hybrid threats including hoax bomb alert on Ryanair flight this morning",
+          "link": "https://www.independent.ie/irish-news/crime/gardai-deal-with-two-more-hybrid-threats-including-hoax-bomb-alert-on-ryanair-flight-this-morning/a/164325824.html",
+          "image": "https://prod-img.independent.ie/public/business/world/8fces0-middle-east-conflict/alternates/BASE_SIXTEEN_NINE/Middle%20East%20conflict",
+          "publishedAt": "2026-11-10T13:00:00.000Z"
         },
         {
-          "title": "Kerry man runs New York Marathon in memory of mom and aunt and raises over €6k for Kerry Hospice",
-          "link": "https://www.independent.ie/county/kerry/kerry-man-runs-new-york-marathon-in-memory-of-mom-and-aunt-and-raises-over-6k-for-kerry-hospice/a/164191939.html",
-          "summary": "The New York City Marathon on Sunday, November 1 was the first full marathon for Brian Healy from Kilcummin, who now calls NYC home",
-          "image": "https://prod-img.independent.ie/public/incoming/9l7czf-ks-brian.jpg/alternates/BASE_SIXTEEN_NINE/KS%20Brian.jpg",
-          "publishedAt": "2026-11-10T12:00:00.000Z"
+          "title": "Former player Shane Sweeney named as new Roscommon hurling manager",
+          "link": "https://www.independent.ie/sport/gaa/hurling/former-player-shane-sweeney-named-as-new-roscommon-hurling-manager/a/164352556.html",
+          "image": "https://prod-img.independent.ie/public/incoming/sleoq2-086307.jpg/alternates/BASE_SIXTEEN_NINE/086307.jpg",
+          "publishedAt": "2026-11-10T12:43:00.000Z"
         }
       ]
     }

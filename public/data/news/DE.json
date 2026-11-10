@@ -8,8 +8,14 @@
         "homepage": "https://www.tagesschau.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-10T12:26:33.807Z",
+      "fetchedAt": "2026-11-10T13:39:03.833Z",
       "items": [
+        {
+          "title": "KI-Boom: Deutscher Chipkonzern Infineon will weiter zweistellig wachsen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
+          "summary": "Der boomende Ausbau der KI-Infrastruktur, aber auch ein besseres Autogeschäft haben Infineon einen Rekordumsatz beschert. Der deutsche Chipkonzern sieht noch kein Ende des Booms.",
+          "publishedAt": "2026-11-10T13:33:44.000Z"
+        },
         {
           "title": "Masernkrise in den USA: Mehr Verunsicherung, mehr Infektionen",
           "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-102.html",
@@ -39,12 +45,6 @@
           "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-milliarden-investitionen-profiteure-100.html",
           "summary": "US-Tech-Giganten investieren Milliarden in Künstliche Intelligenz. Anleger werden vorsichtiger mit Blick auf die Kosten. Warum deutsche und europäische Unternehmen davon profitieren könnten. Von Bianca von der Au.",
           "publishedAt": "2026-11-10T10:35:49.000Z"
-        },
-        {
-          "title": "Börsengang von Anthropic - umstrittener Goldrausch in San Francisco",
-          "link": "https://www.tagesschau.de/ausland/amerika/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html",
-          "summary": "Der KI-Gigant Anthropic will an die Börse. Und damit könnten Tausende Mitarbeiter und Investoren zu Millionären werden. In San Francisco, dem Konzernsitz, werden explodierende Häuserpreise befürchtet. Von G. Biesinger.",
-          "publishedAt": "2026-11-10T09:42:31.000Z"
         },
         {
           "title": "Was von den Ukraine-Gesprächen in Abu Dhabi zu erwarten ist",
@@ -79,8 +79,50 @@
         "homepage": "https://www.spiegel.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-10T12:26:32.428Z",
+      "fetchedAt": "2026-11-10T13:39:03.736Z",
       "items": [
+        {
+          "title": "Deutschland: Bürger wünschen mehr Staatsausgaben, lehnen höhere Steuern ab",
+          "link": "https://www.spiegel.de/wirtschaft/deutschland-buerger-wuenschen-mehr-staatsausgaben-lehnen-hoehere-steuern-ab-a-4e6aace3-50af-4810-bdce-478edb8de19a#ref=rss",
+          "summary": "Gute Schulen, eine wehrhafte Armee, sanierte Straßen oder eine starke Rente: Stets ist eine Mehrheit dafür. Eine Studie zeigt nun, ob das so bleibt, wenn dafür Steuern erhöht würden. Spoiler: nein – bis auf eine…",
+          "image": "https://cdn.prod.www.spiegel.de/images/4cd55830-e523-4ed0-8ef2-4a9d5c399ba3_w520_r2.08_fpx33.36_fpy50.jpg",
+          "publishedAt": "2026-11-10T13:27:00.000Z"
+        },
+        {
+          "title": "Friedrich Merz dringt auf pünktlichen Start des europäischen CO₂-Preises – mit Hintergedanken",
+          "link": "https://www.spiegel.de/wirtschaft/service/friedrich-merz-dringt-auf-puenktlichen-start-des-europaeischen-co2-preises-mit-hintergedanken-a-a3a13ddb-615a-4830-8202-e5b1064901d6#ref=rss",
+          "summary": "2028 soll ein europaweiter Emissionshandel für Brennstoffe auch den deutschen CO₂-Preis ablösen, doch in der EU wächst Widerstand. Der Kanzler verteidigt die Pläne – womöglich aus Sorge um die hiesige Wirtschaft.",
+          "image": "https://cdn.prod.www.spiegel.de/images/17d5ed74-52c9-484e-abfb-59fff8ba4c6f_w520_r2.08_fpx49.91_fpy45.jpg",
+          "publishedAt": "2026-11-10T13:09:00.000Z"
+        },
+        {
+          "title": "Hamburg: Verdächtiger tot in Elbphilharmonie gefunden",
+          "link": "https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte-a-35b60686-e12a-4b73-a71b-9c73e75ad21a#ref=rss",
+          "summary": "Zwei Menschen wurden in der Hamburger HafenCity verletzt, offenbar durch Schüsse. Der mutmaßliche Täter ist nicht mehr am Leben. Möglicherweise gibt es einen Zusammenhang mit einem Leichenfund in Baden-Württemberg.",
+          "image": "https://cdn.prod.www.spiegel.de/images/644fb5f6-fc04-4c3c-914f-df824db17bd9_w520_r2.08_fpx45.32_fpy50.jpg",
+          "publishedAt": "2026-11-10T12:50:00.000Z"
+        },
+        {
+          "title": "Robbie Williams: Sänger verteidigt Olivia Rodrigo gegen Plagiatsvorwürfe",
+          "link": "https://www.spiegel.de/panorama/leute/robbie-williams-saenger-verteidigt-olivia-rodrigo-gegen-plagiatsvorwuerfe-a-983dbfa6-a9f5-442f-b703-ffb72b8b0bda#ref=rss",
+          "summary": "Für ihren neuen Weihnachtssong soll Olivia Rodrigo bei Robbie Williams abgeguckt haben – meinen zumindest einige Fans. Der Sänger will davon nichts wissen. Solche Debatten seien oft »reine Geldmacherei«.",
+          "image": "https://cdn.prod.www.spiegel.de/images/92e9e82c-aaa7-4199-929a-202ebbd4dd3c_w520_r2.08_fpx43.34_fpy49.jpg",
+          "publishedAt": "2026-11-10T12:48:00.000Z"
+        },
+        {
+          "title": "Leihmutterschaft: Diese Agenturchefin trägt selbst Kinder für andere aus",
+          "link": "https://www.spiegel.de/wirtschaft/leihmutterschaft-diese-agenturchefin-traegt-selbst-kinder-fuer-andere-aus-a-ac098ee7-cf15-4e26-936c-9c56997ffa0d#ref=rss",
+          "summary": "175.000 bis 300.000 Dollar kostet eine Leihschwangerschaft bei der US-Agentur Alcea. Inhaberin Angela Richardson-Mook hat selbst mehrere Kinder für andere Eltern ausgetragen. Was denkt sie über die Risiken?",
+          "image": "https://cdn.prod.www.spiegel.de/images/2bd93e7f-4c95-4af7-87fe-fa4c5ed94dcd_w520_r2.08_fpx49_fpy6.jpg",
+          "publishedAt": "2026-11-10T12:37:00.000Z"
+        },
+        {
+          "title": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
+          "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
+          "summary": "Jeden Tag gibt es sieben Fragen zu den wichtigsten Themengebieten des politisch-gesellschaftlichen Geschehens. Testen Sie hier Ihr Wissen!",
+          "image": "https://cdn.prod.www.spiegel.de/images/4653602c-c8d9-4175-b819-f5739956805c_w520_r2.08_fpx50_fpy50.png",
+          "publishedAt": "2026-11-10T12:24:00.000Z"
+        },
         {
           "title": "Leichtathletik: Paralympics-Siegerin Franziska Liebhardt mit 44 Jahren gestorben",
           "link": "https://www.spiegel.de/sport/leichtathletik-paralympics-siegerin-franziska-liebhardt-mit-44-jahren-gestorben-a-fb4f7b20-b0e2-4a9d-a57b-f7c3fee614a6#ref=rss",
@@ -99,7 +141,7 @@
           "title": "Fall Fabian: Gina H. zu lebenslanger Haft verurteilt",
           "link": "https://www.spiegel.de/panorama/justiz/fall-fabian-gina-h-zu-lebenslanger-haft-verurteilt-a-04259c80-a4fe-4a3d-8a0d-5df5831fd894#ref=rss",
           "summary": "Gina H. hat den achtjährigen Fabian getötet: Davon zeigte sich das Landgericht Rostock überzeugt. Es hat die Angeklagte wegen Mordes schuldig gesprochen. Die will sich gegen das Urteil wehren.",
-          "image": "https://cdn.prod.www.spiegel.de/images/b52b36fa-1ca0-40e1-8502-d65859941e99_w520_r2.08_fpx57.34_fpy49.99.jpg",
+          "image": "https://cdn.prod.www.spiegel.de/images/53fb373c-b6e0-4862-9c3b-7848ee1c30d8_w520_r2.08_fpx52_fpy44.jpg",
           "publishedAt": "2026-11-10T11:37:00.000Z"
         },
         {
@@ -108,48 +150,6 @@
           "summary": "In Bulgarien sind Dutzende Autos auf einer Autobahn kollidiert. Es gibt Tote und Verletzte. Das Unglück hat auch Auswirkungen auf einen Besuch von Ursula von der Leyen.",
           "image": "https://cdn.prod.www.spiegel.de/images/0d5d1080-773d-4391-90f8-fbde018c16fd_w520_r2.08_fpx33.35_fpy50.jpg",
           "publishedAt": "2026-11-10T11:24:00.000Z"
-        },
-        {
-          "title": "Bundeshaushalt 2027: Union will Gegenfinanzierung für Stromsteuersenkung gefunden haben",
-          "link": "https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-2027-union-gegenfinanzierung-fuer-die-stromsteuersenkung-gefunden-haben-a-84521b50-da4c-471c-b043-a833f3d85180#ref=rss",
-          "summary": "Noch ringt die schwarz-rote Koalition, im Haushalt weitere Entlastungen für die Bürger durchzusetzen. Der Kanzler will die Stromsteuer senken. Könnte das Geld ausgerechnet aus den Einnahmen für erneuerbare Energien…",
-          "image": "https://cdn.prod.www.spiegel.de/images/9c11be16-73bc-46e8-beff-ce5f5eaea3c5_w520_r2.08_fpx32.3_fpy50.jpg",
-          "publishedAt": "2026-11-10T11:20:00.000Z"
-        },
-        {
-          "title": "Bayern: Straubinger Gastronom Stephan Weckmann rückt für Hubert Aiwanger in den Landtag nach",
-          "link": "https://www.spiegel.de/politik/bayern-straubinger-gastronom-stephan-weckmann-rueckt-fuer-hubert-aiwanger-in-den-landtag-nach-a-3a1a3cd9-0d21-4e83-8d8b-aa9aab11d74b#ref=rss",
-          "summary": "Rund eine Woche nach dem Tod von Freie-Wähler-Chef Hubert Aiwanger steht sein Nachfolger im Landtag fest: Gastronom Stephan Weckmann aus Straubing erhält ein Mandat. Wer Bayerns Vizeregierungschef wird, bleibt offen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/5e161192-3fdb-44e8-b2c8-55a7f9687459_w520_r2.08_fpx51_fpy38.jpg",
-          "publishedAt": "2026-11-10T11:05:00.000Z"
-        },
-        {
-          "title": "USA: Frau soll seit 2024 in einer Wohnung festgehalten worden sein",
-          "link": "https://www.spiegel.de/panorama/justiz/usa-frau-soll-seit-2024-in-einer-wohnung-festgehalten-worden-sein-a-1f482347-44dd-4d03-ad75-2cba5f262caf#ref=rss",
-          "summary": "Ein Arbeiter hörte ihre Hilferufe: In North Dakota ist eine Frau offenbar über Jahre festgehalten und misshandelt worden. Zwei Verdächtige wurden festgenommen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/9d1c0248-b988-48a0-9d0a-633f46b968ee_w520_r2.08_fpx28.13_fpy50.jpg",
-          "publishedAt": "2026-11-10T10:54:00.000Z"
-        },
-        {
-          "title": "Vincent Kompany: FC Bayern-Trainer nach Hirnhautreizung offenbar zurück",
-          "link": "https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck-a-e9a326ad-212b-4414-b4c7-2cc5aa40c471#ref=rss",
-          "summary": "Bayern-Trainer Vincent Kompany laborierte an einer Hirnhautreizung. Nun scheint es gesundheitlich aber bergauf zu gehen: Laut übereinstimmenden Medienberichten ist er wieder arbeitsbereit.",
-          "image": "https://cdn.prod.www.spiegel.de/images/71461f35-69d6-4a08-a634-826577e26571_w520_r2.08_fpx53.99_fpy55.jpg",
-          "publishedAt": "2026-11-10T10:47:00.000Z"
-        },
-        {
-          "title": "BMW lässt wegen fehlender Teile Schichten ausfallen",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen-a-66f93bec-da2a-4d6d-91fb-ba416decf035#ref=rss",
-          "summary": "BMW muss aktuell wegen fehlender Teile, die von Extern kommen, einzelne Schichten in bis zu drei Werken ausfallen lassen. Jede dieser ausgefallenen Schichten dürfte Hunderte Autos betreffen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/1b2ba50c-c78d-448e-8e79-12d7ee78b172_w520_r2.08_fpx65.32_fpy49.99.jpg",
-          "publishedAt": "2026-11-10T10:45:00.000Z"
-        },
-        {
-          "title": "KI: Andrea Nahles rechnet mit Verlust von 800.000 Jobs",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/ki-andrea-nahles-rechnet-mit-verlust-von-800-000-jobs-a-64556960-bdcf-4d85-becc-93ef14bb937e#ref=rss",
-          "summary": "Die Chefin der Bundesarbeitsagentur rechnet damit, dass künstliche Intelligenz in Deutschland viele Arbeitsplätze kostet. Warum sie trotzdem auf eine neue Agentur zur Anwerbung ausländischer Fachkräfte dringt.",
-          "image": "https://cdn.prod.www.spiegel.de/images/9271125d-12ad-401f-ad42-c6d52a29a5d1_w520_r2.08_fpx61.33_fpy50.jpg",
-          "publishedAt": "2026-11-10T10:41:00.000Z"
         }
       ]
     }
