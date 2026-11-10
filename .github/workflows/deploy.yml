@@ -1,8 +1,10 @@
 name: Deploy
 
-# Refreshes the news (scripts/fetch-news.ts), commits the new data back, then
-# builds the site and publishes it to GitHub Pages. Runs on every push, twice
-# a day on a schedule, and on demand from the Actions tab.
+# 1. build:     refresh the news (scripts/fetch-news.ts), commit it, build the site.
+# 2. deploy:    publish it to GitHub Pages, so fresh headlines go live quickly.
+# 3. translate: add English translations of new headlines
+#               (scripts/translate-news.py), commit them and publish again.
+# Runs on every push, twice a day on a schedule, and on demand from the Actions tab.
 on:
   push:
     branches: [main]
@@ -68,3 +70,67 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  translate:
+    needs: deploy
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      # The news commit from the build job is on main by now.
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - run: pip install -r scripts/requirements.txt
+
+      # The translation model (~600 MB) is downloaded once and then cached.
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: nllb-200-distilled-600M-ct2-int8-46858753
+
+      - name: Translate new headlines to English
+        env:
+          HF_HUB_DISABLE_PROGRESS_BARS: '1'
+        run: python scripts/translate-news.py
+
+      - name: Commit translations
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          if git diff --cached --quiet; then
+            echo "Nothing new to translate."
+          else
+            git commit -m "Translate news to English"
+            git pull --rebase
+            git push
+          fi
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm run build
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+          name: github-pages-translated
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-translated

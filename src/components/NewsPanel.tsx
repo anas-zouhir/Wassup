@@ -1,5 +1,6 @@
-import { useState } from 'react'
+import { Fragment, useState, type ReactNode } from 'react'
 import { useCountryData } from '../hooks/useCountryData'
+import { usePersistentFlag } from '../hooks/usePersistentFlag'
 import { useTranslation, type TranslationStatus } from '../hooks/useTranslation'
 import { fetchCountryNews } from '../lib/data'
 import { languageName, targetLanguage } from '../lib/translator'
@@ -34,8 +35,31 @@ function OutletNews({ feeds }: { feeds: OutletFeed[] }) {
   const lang = active?.outlet.lang ?? targetLanguage
   const texts = active?.items.flatMap((item) => [item.title, item.summary ?? '']) ?? []
   const translation = useTranslation(lang, texts)
-  const shown = (text: string) => translation.translations[text] ?? text
-  const textLang = (text: string) => (translation.translations[text] ? targetLanguage : undefined)
+  // Pre-made English translations (from the scheduled job) work in every browser.
+  const [englishPref, setEnglishPref] = usePersistentFlag('wassup.english')
+  const hasEnglish = !!active?.items.some((item) => item.titleEn)
+  const showEnglish = englishPref && hasEnglish
+
+  // English (if on and available) wins, then the browser's own translation, then the original.
+  const display = (original: string, english: string | undefined) => {
+    if (showEnglish && english) return { text: english, lang: 'en' }
+    const browser = translation.translations[original]
+    return browser ? { text: browser, lang: targetLanguage } : { text: original, lang: undefined }
+  }
+
+  const english = {
+    available: hasEnglish,
+    on: showEnglish,
+    turnOn: () => {
+      translation.turnOff()
+      setEnglishPref(true)
+    },
+    turnOff: () => setEnglishPref(false),
+  }
+  const turnOnBrowser = () => {
+    setEnglishPref(false)
+    translation.turnOn()
+  }
 
   if (!active) return <p className="panel-message">No outlets available.</p>
 
@@ -68,24 +92,29 @@ function OutletNews({ feeds }: { feeds: OutletFeed[] }) {
         <TranslateBar
           lang={lang}
           status={translation.status}
-          turnOn={translation.turnOn}
+          turnOn={turnOnBrowser}
           turnOff={translation.turnOff}
+          english={english}
         />
 
         <ol className="headlines">
-          {active.items.map((item) => (
-            <li key={item.link} className="headline">
-              <a href={item.link} target="_blank" rel="noopener noreferrer">
-                {/* No referrer: some outlets' CDNs block hotlinked images. */}
-                {item.image && <img src={item.image} alt="" loading="lazy" referrerPolicy="no-referrer" />}
-                <div>
-                  <h4 lang={textLang(item.title)}>{shown(item.title)}</h4>
-                  {item.summary && <p lang={textLang(item.summary)}>{shown(item.summary)}</p>}
-                  {item.publishedAt && <time dateTime={item.publishedAt}>{formatTime(item.publishedAt)}</time>}
-                </div>
-              </a>
-            </li>
-          ))}
+          {active.items.map((item) => {
+            const title = display(item.title, item.titleEn)
+            const summary = item.summary ? display(item.summary, item.summaryEn) : null
+            return (
+              <li key={item.link} className="headline">
+                <a href={item.link} target="_blank" rel="noopener noreferrer">
+                  {/* No referrer: some outlets' CDNs block hotlinked images. */}
+                  {item.image && <img src={item.image} alt="" loading="lazy" referrerPolicy="no-referrer" />}
+                  <div>
+                    <h4 lang={title.lang}>{title.text}</h4>
+                    {summary && <p lang={summary.lang}>{summary.text}</p>}
+                    {item.publishedAt && <time dateTime={item.publishedAt}>{formatTime(item.publishedAt)}</time>}
+                  </div>
+                </a>
+              </li>
+            )
+          })}
         </ol>
       </div>
     </>
@@ -94,57 +123,92 @@ function OutletNews({ feeds }: { feeds: OutletFeed[] }) {
 
 interface TranslateBarProps {
   lang: string
+  /** The browser's own translator (desktop Chrome/Edge only). */
   status: TranslationStatus
   turnOn: () => void
   turnOff: () => void
+  /** Pre-made English translations, available in every browser. */
+  english: { available: boolean; on: boolean; turnOn: () => void; turnOff: () => void }
 }
 
-/** Translate / show-original control; hidden when the browser can't translate this language. */
-function TranslateBar({ lang, status, turnOn, turnOff }: TranslateBarProps) {
+/**
+ * Translation controls: "Show in English" (pre-made, everywhere) and, on
+ * desktop Chrome/Edge, "Translate to <reader's language>" when that isn't English.
+ */
+function TranslateBar({ lang, status, turnOn, turnOff, english }: TranslateBarProps) {
   const from = languageName(lang)
-  const to = languageName(targetLanguage)
 
+  if (english.on) {
+    return (
+      <div className="translate-bar">
+        English machine translation ·{' '}
+        <button className="link-button" onClick={english.turnOff}>
+          Show original
+        </button>
+      </div>
+    )
+  }
+
+  const parts: ReactNode[] = []
+  if (english.available) {
+    parts.push(
+      <button key="en" className="link-button" onClick={english.turnOn}>
+        Show in English
+      </button>,
+    )
+  }
+  // With pre-made English available, the browser translator only adds
+  // something when the reader's language isn't English.
+  if (!(english.available && targetLanguage === 'en')) {
+    const browser = browserControl(status, from, turnOn, turnOff)
+    if (browser) parts.push(<span key="browser">{browser}</span>)
+  }
+  if (parts.length === 0) return null
+
+  return (
+    <div className="translate-bar" role="status">
+      {parts.map((part, i) => (
+        <Fragment key={i}>
+          {i > 0 && ' · '}
+          {part}
+        </Fragment>
+      ))}
+    </div>
+  )
+}
+
+function browserControl(status: TranslationStatus, from: string, turnOn: () => void, turnOff: () => void) {
   switch (status.state) {
     case 'checking':
     case 'hidden':
       return null
     case 'off':
       return (
-        <div className="translate-bar">
-          <button className="link-button" onClick={turnOn}>
-            Translate to {to}
-          </button>
-        </div>
+        <button className="link-button" onClick={turnOn}>
+          Translate to {languageName(targetLanguage)}
+        </button>
       )
     case 'downloading':
-      return (
-        <div className="translate-bar" role="status">
-          Downloading {from} translation… {Math.round(status.progress * 100)}%
-        </div>
-      )
+      return `Downloading ${from} translation… ${Math.round(status.progress * 100)}%`
     case 'translating':
-      return (
-        <div className="translate-bar" role="status">
-          Translating from {from}…
-        </div>
-      )
+      return `Translating from ${from}…`
     case 'translated':
       return (
-        <div className="translate-bar">
+        <>
           Translated from {from} ·{' '}
           <button className="link-button" onClick={turnOff}>
             Show original
           </button>
-        </div>
+        </>
       )
     case 'error':
       return (
-        <div className="translate-bar">
+        <>
           Couldn't translate: {status.message} ·{' '}
           <button className="link-button" onClick={turnOn}>
             Try again
           </button>
-        </div>
+        </>
       )
   }
 }

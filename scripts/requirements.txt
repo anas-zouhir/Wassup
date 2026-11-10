@@ -1,0 +1,4 @@
+# For scripts/translate-news.py
+ctranslate2>=4.5,<5
+sentencepiece>=0.2
+huggingface_hub>=0.24

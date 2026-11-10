@@ -79,9 +79,23 @@ for `fetch-news`.
 ## Deployment
 
 `.github/workflows/deploy.yml` runs `npm run fetch-news`, commits the refreshed
-`public/data` back to the repo, then builds the site and publishes it to GitHub Pages. It
-runs on every push to `main`, twice a day (06:00 and 18:00 UTC), and by hand from the
-Actions tab ("Run workflow"). Pages must be set to **Settings → Pages → Source: GitHub
+`public/data` back to the repo, then builds the site and publishes it to GitHub Pages. A
+second job then translates new non-English headlines to English (see below), commits them
+and publishes again. It runs on every push to `main`, twice a day (06:00 and 18:00 UTC),
+and by hand from the Actions tab ("Run workflow").
+
+## Translation
+
+Two kinds of translation are available in the news panel:
+
+- **Show in English** (every browser, phones included): `scripts/translate-news.py`
+  translates headlines and summaries with Meta's open NLLB-200 model (distilled 600M,
+  int8, via CTranslate2) and stores them as `titleEn` / `summaryEn`. `fetch-news` carries
+  translations over for unchanged headlines, so each run only translates new text. To run
+  it locally: `pip install -r scripts/requirements.txt`, then
+  `python scripts/translate-news.py` (add `--limit N` to try a few).
+- **Translate to <your language>** (desktop Chrome/Edge): the browser's built-in, on-device
+  Translator API, into the reader's browser language. Pages must be set to **Settings → Pages → Source: GitHub
 Actions**.
 
 ## Future improvements

@@ -181,6 +181,7 @@ async function main() {
       settled.forEach((r, i) => {
         const id = outlets[i].id
         if (r.status === 'fulfilled') {
+          carryOverTranslations(r.value, previous?.outlets.find((f) => f.outlet.id === id))
           feeds.push(r.value)
           fresh++
           console.log(`  ✓ ${country} ${id} (${r.value.items.length})`)
@@ -235,6 +236,23 @@ async function main() {
   console.log(
     `\n${fresh}/${attempted} feeds fetched${kept ? `, ${kept} kept from the previous run` : ''}; ${withNews.length} countries written.`,
   )
+}
+
+/**
+ * Copies English translations (added by translate-news.py) from the previous
+ * run onto headlines whose text hasn't changed, so only new text is translated.
+ */
+function carryOverTranslations(feed: OutletFeed, previous: OutletFeed | undefined) {
+  if (!previous) return
+  const english = new Map<string, string>()
+  for (const item of previous.items) {
+    if (item.titleEn) english.set(item.title, item.titleEn)
+    if (item.summary && item.summaryEn) english.set(item.summary, item.summaryEn)
+  }
+  for (const item of feed.items) {
+    item.titleEn = english.get(item.title)
+    if (item.summary) item.summaryEn = english.get(item.summary)
+  }
 }
 
 function readPrevious(newsDir: string, country: string): CountryNews | null {

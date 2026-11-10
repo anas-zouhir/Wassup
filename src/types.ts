@@ -25,6 +25,9 @@ export interface Headline {
   title: string
   link: string
   summary?: string
+  /** English translations, added by scripts/translate-news.py for non-English outlets. */
+  titleEn?: string
+  summaryEn?: string
   image?: string
   /** ISO 8601 timestamp. */
   publishedAt?: string
