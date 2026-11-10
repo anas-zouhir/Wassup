@@ -1,4 +1,4 @@
-import { Fragment, useState, type ReactNode } from 'react'
+import { useState } from 'react'
 import { useCountryData } from '../hooks/useCountryData'
 import { usePersistentFlag } from '../hooks/usePersistentFlag'
 import { useTranslation, type TranslationStatus } from '../hooks/useTranslation'
@@ -34,13 +34,16 @@ function OutletNews({ feeds }: { feeds: OutletFeed[] }) {
   const active = feeds.find((f) => f.outlet.id === activeId) ?? feeds[0]
   const lang = active?.outlet.lang ?? targetLanguage
   const texts = active?.items.flatMap((item) => [item.title, item.summary ?? '']) ?? []
+  // The browser's translator (Chrome/Edge, better quality) is used wherever it
+  // works; our pre-made English (from the scheduled job) is only the fallback
+  // for browsers or languages it can't handle, e.g. on phones.
   const translation = useTranslation(lang, texts)
-  // Pre-made English translations (from the scheduled job) work in every browser.
   const [englishPref, setEnglishPref] = usePersistentFlag('wassup.english')
+  const browserCant = translation.status.state === 'unavailable' || translation.status.state === 'error'
   const hasEnglish = !!active?.items.some((item) => item.titleEn)
-  const showEnglish = englishPref && hasEnglish
+  const fallback = browserCant && hasEnglish
+  const showEnglish = fallback && englishPref
 
-  // English (if on and available) wins, then the browser's own translation, then the original.
   const display = (original: string, english: string | undefined) => {
     if (showEnglish && english) return { text: english, lang: 'en' }
     const browser = translation.translations[original]
@@ -48,17 +51,10 @@ function OutletNews({ feeds }: { feeds: OutletFeed[] }) {
   }
 
   const english = {
-    available: hasEnglish,
+    available: fallback,
     on: showEnglish,
-    turnOn: () => {
-      translation.turnOff()
-      setEnglishPref(true)
-    },
+    turnOn: () => setEnglishPref(true),
     turnOff: () => setEnglishPref(false),
-  }
-  const turnOnBrowser = () => {
-    setEnglishPref(false)
-    translation.turnOn()
   }
 
   if (!active) return <p className="panel-message">No outlets available.</p>
@@ -92,7 +88,7 @@ function OutletNews({ feeds }: { feeds: OutletFeed[] }) {
         <TranslateBar
           lang={lang}
           status={translation.status}
-          turnOn={turnOnBrowser}
+          turnOn={translation.turnOn}
           turnOff={translation.turnOff}
           english={english}
         />
@@ -127,17 +123,15 @@ interface TranslateBarProps {
   status: TranslationStatus
   turnOn: () => void
   turnOff: () => void
-  /** Pre-made English translations, available in every browser. */
+  /** Pre-made English: offered only when the browser can't translate. */
   english: { available: boolean; on: boolean; turnOn: () => void; turnOff: () => void }
 }
 
 /**
- * Translation controls: "Show in English" (pre-made, everywhere) and, on
- * desktop Chrome/Edge, "Translate to <reader's language>" when that isn't English.
+ * One translation control: the browser's own translator (desktop Chrome/Edge)
+ * where it works, otherwise "Show in English" with our pre-made translations.
  */
 function TranslateBar({ lang, status, turnOn, turnOff, english }: TranslateBarProps) {
-  const from = languageName(lang)
-
   if (english.on) {
     return (
       <div className="translate-bar">
@@ -148,39 +142,28 @@ function TranslateBar({ lang, status, turnOn, turnOff, english }: TranslateBarPr
       </div>
     )
   }
-
-  const parts: ReactNode[] = []
   if (english.available) {
-    parts.push(
-      <button key="en" className="link-button" onClick={english.turnOn}>
-        Show in English
-      </button>,
+    return (
+      <div className="translate-bar">
+        <button className="link-button" onClick={english.turnOn}>
+          Show in English
+        </button>
+      </div>
     )
   }
-  // With pre-made English available, the browser translator only adds
-  // something when the reader's language isn't English.
-  if (!(english.available && targetLanguage === 'en')) {
-    const browser = browserControl(status, from, turnOn, turnOff)
-    if (browser) parts.push(<span key="browser">{browser}</span>)
-  }
-  if (parts.length === 0) return null
-
-  return (
+  const browser = browserControl(status, languageName(lang), turnOn, turnOff)
+  return browser ? (
     <div className="translate-bar" role="status">
-      {parts.map((part, i) => (
-        <Fragment key={i}>
-          {i > 0 && ' · '}
-          {part}
-        </Fragment>
-      ))}
+      {browser}
     </div>
-  )
+  ) : null
 }
 
 function browserControl(status: TranslationStatus, from: string, turnOn: () => void, turnOff: () => void) {
   switch (status.state) {
     case 'checking':
-    case 'hidden':
+    case 'unavailable':
+    case 'not-needed':
       return null
     case 'off':
       return (

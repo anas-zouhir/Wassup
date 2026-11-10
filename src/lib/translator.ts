@@ -50,9 +50,10 @@ export function languageName(tag: string): string {
 }
 
 export async function checkSupport(sourceTag: string): Promise<Support> {
-  if (!api) return 'unsupported'
+  // Checked first so readers never get a translation offer for text in their own language.
   const sourceLanguage = toApiLanguage(sourceTag)
   if (sourceLanguage === targetLanguage) return 'same-language'
+  if (!api) return 'unsupported'
   try {
     return await api.availability({ sourceLanguage, targetLanguage })
   } catch {

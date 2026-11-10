@@ -86,16 +86,20 @@ and by hand from the Actions tab ("Run workflow").
 
 ## Translation
 
-Two kinds of translation are available in the news panel:
+The news panel shows one translation control, preferring the better one available:
 
-- **Show in English** (every browser, phones included): `scripts/translate-news.py`
+- **Translate to <your language>** (desktop Chrome/Edge): the browser's built-in, on-device
+  Translator API, into the reader's browser language. Used wherever it supports the
+  outlet's language.
+- **Show in English** (fallback: phones, other browsers, or languages the browser can't
+  translate): pre-made translations. `scripts/translate-news.py`
   translates headlines and summaries with Meta's open NLLB-200 model (distilled 600M,
   int8, via CTranslate2) and stores them as `titleEn` / `summaryEn`. `fetch-news` carries
   translations over for unchanged headlines, so each run only translates new text. To run
   it locally: `pip install -r scripts/requirements.txt`, then
   `python scripts/translate-news.py` (add `--limit N` to try a few).
-- **Translate to <your language>** (desktop Chrome/Edge): the browser's built-in, on-device
-  Translator API, into the reader's browser language. Pages must be set to **Settings → Pages → Source: GitHub
+
+Neither is offered when the outlet is already in the reader's language. Pages must be set to **Settings → Pages → Source: GitHub
 Actions**.
 
 ## Future improvements

@@ -19,8 +19,12 @@ function writePreference(on: boolean) {
   }
 }
 
+/**
+ * `unavailable`: this browser can't translate this language (no API, or no model for the pair).
+ * `not-needed`: the text is already in the reader's language.
+ */
 export type TranslationStatus =
-  | { state: 'checking' | 'hidden' | 'off' | 'translating' | 'translated' }
+  | { state: 'checking' | 'unavailable' | 'not-needed' | 'off' | 'translating' | 'translated' }
   | { state: 'downloading'; progress: number }
   | { state: 'error'; message: string }
 
@@ -91,8 +95,8 @@ export function useTranslation(lang: string, texts: string[]) {
 
   let status: TranslationStatus
   if (current === null) status = { state: 'checking' }
-  else if (current === 'unsupported' || current === 'unavailable' || current === 'same-language')
-    status = { state: 'hidden' }
+  else if (current === 'same-language') status = { state: 'not-needed' }
+  else if (current === 'unsupported' || current === 'unavailable') status = { state: 'unavailable' }
   else if (error) status = { state: 'error', message: error }
   else if (!active) status = { state: 'off' }
   else if (progress !== null && progress < 1) status = { state: 'downloading', progress }
