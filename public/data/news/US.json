@@ -8,8 +8,15 @@
         "homepage": "https://www.nytimes.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-10T14:16:43.467Z",
+      "fetchedAt": "2026-11-10T18:38:45.685Z",
       "items": [
+        {
+          "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
+          "link": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+          "summary": "Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work with tech titans and obtain essential A.I. chips.",
+          "image": "https://static01.nyt.com/images/2026/11/09/business/00biz-alice-huang-nanjing/00biz-alice-huang-nanjing-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-10T18:35:55.000Z"
+        },
         {
           "title": "Nvidia’s Board Has a History of Letting Jensen Huang Get His Way",
           "link": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html",
@@ -18,38 +25,44 @@
           "publishedAt": "2026-11-10T13:07:03.000Z"
         },
         {
-          "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
-          "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
-          "summary": "President Trump told reporters Monday that he believed Jensen Huang’s account and said he did not recall receiving a briefing warning him about Mr. Huang’s liaison.",
-          "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-trump-jensen-tvfw/09dc-trump-jensen-tvfw-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-10T02:13:11.000Z"
+          "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
+          "link": "https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html",
+          "summary": "October’s Consumer Price Index report showed a broadening of price pressures that has stoked concerns about the Federal Reserve’s grip on inflation.",
+          "publishedAt": "2026-11-10T17:18:01.000Z"
         },
         {
-          "title": "The Jensen Huang Affair",
-          "link": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
-          "summary": "Nvidia’s C.E.O., Jensen Huang, admitted to having an affair with a suspected Chinese corporate spy. Everything that means for him and the A.I. industry, and what happens next.",
-          "image": "https://static01.nyt.com/images/2026/11/10/podcasts/10hardfork-jensen-huang-spy/10hardfork-jensen-huang-spy-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-10T11:00:17.000Z"
-        },
-        {
-          "title": "Hegseth Faces Impeachment Charges, and Why Dead Birds Are Washing Up in California",
-          "link": "https://www.nytimes.com/2026/11/10/podcasts/the-headlines/pete-hegseth-impeachment-charges-birds-california-booker-prize.html",
-          "summary": "Plus, “the best writer you’ve never heard of.”",
-          "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10headlines-hegseth-chjq/10headlines-hegseth-chjq-mediumSquareAt3X-v2.jpg",
-          "publishedAt": "2026-11-10T11:00:10.000Z"
+          "title": "Data Show Households Still Managing to Meet Their Monthly Debts",
+          "link": "https://www.nytimes.com/2026/11/10/business/economy/household-debt-real-estate-home-equity.html",
+          "summary": "The New York Fed detailed general steadiness in debt payments for autos, student loans and mortgages.",
+          "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-household-debt-pvkl/10biz-household-debt-pvkl-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-10T17:25:51.000Z"
         },
         {
           "title": "Oil Prices Have Tumbled in November. Here’s Why.",
           "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
           "summary": "The global benchmark price is down more than $20 a barrel since late October, when it traded for around $113.",
-          "publishedAt": "2026-11-10T13:55:39.000Z"
+          "publishedAt": "2026-11-10T15:59:29.000Z"
+        },
+        {
+          "title": "Failure of California Billionaire Tax Strikes Blow to Progressive Agenda",
+          "link": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
+          "summary": "A wealth tax on billionaires seemed like a political layup. The outcome of a California ballot initiative shows otherwise.",
+          "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-wealth-tax-hbpg/10dc-wealth-tax-hbpg-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-10T15:10:43.000Z"
+        },
+        {
+          "title": "In Midterm Elections, Voters Backed Democrats but Broke Right on Many Ballot Measures",
+          "link": "https://www.nytimes.com/2026/11/10/us/ballot-measures-democrats-republicans.html",
+          "summary": "Many Republican and moderate voters who chose Democratic candidates did not do the same on transgender and other social issues.",
+          "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-blue-referendums-1-hzgc/10nat-blue-referendums-1-hzgc-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-10T18:28:54.000Z"
         },
         {
           "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
           "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
-          "summary": "The A.I. company’s pricing would make it one of the biggest ever public listings. It comes at a volatile moment amid fears that the A.I. boom may not be sustainable.",
+          "summary": "The A.I. company’s pricing would make it one of the biggest ever public listings. It comes at a volatile moment in markets, with investors questioning the sustainability of the A.I. boom.",
           "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00biz-anthropic-price-range-hfo-zmfq/00biz-anthropic-price-range-hfo-zmfq-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-10T14:08:53.000Z"
+          "publishedAt": "2026-11-10T17:32:09.000Z"
         },
         {
           "title": "You May All Go to Hell, and Tommy Lee Jones Will Go to Texas",
@@ -59,25 +72,11 @@
           "publishedAt": "2026-11-10T10:02:41.000Z"
         },
         {
-          "title": "California Voters Reject Prop. 40 Billionaire Tax Measure",
-          "link": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html",
-          "summary": "The outcome could hinder the wealth tax movement in California and across the country in future years.",
-          "image": "https://static01.nyt.com/images/2026/12/09/multimedia/09nat-billionairetax-ca-hfo-fcmv/09nat-billionairetax-ca-hfo-fcmv-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-10T05:47:58.000Z"
-        },
-        {
-          "title": "The Blue Wave Washed Across Much of America. But Not Here.",
-          "link": "https://www.nytimes.com/2026/11/10/us/south-dakota-republicans.html",
-          "summary": "By some measures, the Republican Party grew even stronger in South Dakota, one of the states that shifted the least toward Democrats in the midterms.",
-          "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-southdakota-red-dan-pzfv/10nat-southdakota-red-dan-pzfv-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-10T10:03:02.000Z"
-        },
-        {
-          "title": "Democrats Will Be in Charge of Congress. Elizabeth Warren Has a Plan for That.",
-          "link": "https://www.nytimes.com/2026/11/10/us/politics/democrats-elizabeth-warren-economic-plan.html",
-          "summary": "The Massachusetts senator said it is imperative that Democrats address economic pain after running campaigns that centered cost-of-living issues.",
-          "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-warren-pvtk/10pol-warren-pvtk-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-10T10:04:37.000Z"
+          "title": "The Impeachment Charges Against Defense Secretary Pete Hegseth, Explained",
+          "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html",
+          "summary": "The charges accuse the defense secretary of illegally starting the war with Iran, directing extrajudicial killings and ignoring laws meant to minimize civilian casualties.",
+          "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-hegseth-charges-wmbg/10dc-hegseth-charges-wmbg-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-10T15:09:50.000Z"
         }
       ]
     },
@@ -88,8 +87,26 @@
         "homepage": "https://www.npr.org",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-10T14:16:43.856Z",
+      "fetchedAt": "2026-11-10T18:38:45.881Z",
       "items": [
+        {
+          "title": "Americans across the economic spectrum feel a 'panic' about finances, author says",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives",
+          "summary": "Mona Chalabi spent five years following Americans living paycheck to paycheck, as well as those earning top wages. Her new book, Ten Lives, explores why financial security can feel so elusive.",
+          "publishedAt": "2026-11-10T17:46:25.000Z"
+        },
+        {
+          "title": "Gas prices dip below $4 but inflation remains stubbornly high",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices",
+          "summary": "Gasoline prices fell below $4 a gallon Tuesday for the first time in three months — but the overall cost of living remains stubbornly high.",
+          "publishedAt": "2026-11-10T14:35:50.000Z"
+        },
+        {
+          "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
+          "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
+          "summary": "Little is known about her except that she's reportedly about 13 and named Kim Ju Ae, but Korea's spy agency says she's likely her father's heir.",
+          "publishedAt": "2026-11-10T14:16:53.000Z"
+        },
         {
           "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
           "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
@@ -127,28 +144,10 @@
           "publishedAt": "2026-11-10T11:30:00.000Z"
         },
         {
-          "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+          "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
           "link": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
-          "summary": "The two-day session in the UAE's capital, Abu Dhabi, is the first such meeting since February. It will focus on security guarantees, the White House said before the discussions.",
+          "summary": "Hopes of progress in ending Europe's biggest conflict since World War II are tempered by the absence of any significant breakthroughs in three previous rounds of talks early this year.",
           "publishedAt": "2026-11-10T10:58:18.000Z"
-        },
-        {
-          "title": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
-          "summary": "After sweeping losses in the midterm elections, the House GOP will vote on Tuesday to elect a successor to Mike Johnson, who says he's stepping down as the chamber's top Republican.",
-          "publishedAt": "2026-11-10T10:01:00.000Z"
-        },
-        {
-          "title": "How word of mouth is helping an Amish community's fight against measles",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6021511/pennsylvania-amish-measles-vaccine-trust",
-          "summary": "In Pennsylvania, health officials use a quiet vaccination campaign designed to win the trust of the state's Amish community, which has been hit hard by the measles outbreak.",
-          "publishedAt": "2026-11-10T10:00:00.000Z"
-        },
-        {
-          "title": "The Democratic Party gained power across the country in the midterms. Now what?",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress",
-          "summary": "Voters handed Democrats the keys to power across the country and expect them to drive in a different direction. Party leaders are now trying to figure out which way to go.",
-          "publishedAt": "2026-11-10T10:00:00.000Z"
         }
       ]
     },
@@ -159,16 +158,28 @@
         "homepage": "https://www.washingtonpost.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-10T14:16:51.969Z",
+      "fetchedAt": "2026-11-10T18:38:53.927Z",
       "items": [
+        {
+          "title": "Indigenous-led group receives Cape Cod plot taken from Native Americans centuries ago",
+          "link": "https://www.washingtonpost.com/nation/2026/11/10/indigenous-led-group-receives-cape-cod-plot-taken-native-americans-centuries-ago/",
+          "summary": "The Native Land Conservancy is taking over a plot of land that was taken centuries ago and plans to protect it.",
+          "publishedAt": "2026-11-10T16:30:00.000Z"
+        },
         {
           "title": "Inflation pace slowed in October, but prices remain high",
           "link": "https://www.washingtonpost.com/business/2026/11/10/inflation-pace-slowed-october-prices-remain-high/",
-          "summary": "Falling gas prices contributed to the slower increase, but food costs picked up.",
-          "publishedAt": "2026-11-10T13:37:29.000Z"
+          "summary": "Falling gas prices contributed to the slower increase in prices, but food prices picked up.",
+          "publishedAt": "2026-11-10T15:36:02.000Z"
         },
         {
-          "title": "‘No business having a gun’: Some ICE recruits had a record of red flags",
+          "title": "Cockpit voice recorder recovered from Florida jet crash that killed 9",
+          "link": "https://www.washingtonpost.com/nation/2026/11/10/cockpit-voice-recorder-recovered-florida-jet-crash-that-killed-9/",
+          "summary": "The voice recorder was found at the site where the Bahamas-bound plane crashed on Nov. 1, investigators said.",
+          "publishedAt": "2026-11-10T15:30:00.000Z"
+        },
+        {
+          "title": "At least 19 ICE recruits named in DHS hack were hired despite red flags",
           "link": "https://www.washingtonpost.com/immigration/2026/11/10/no-business-having-gun-some-ice-recruits-had-record-red-flags/",
           "summary": "A Post review of records exposed in a DHS hack found that some immigration officers quickly hired last year were involved in past misconduct or criminality.",
           "publishedAt": "2026-11-10T10:00:00.000Z"
@@ -208,18 +219,6 @@
           "link": "https://www.washingtonpost.com/nation/2026/11/09/post-midterm-doj-leadership-shake-up-continues/",
           "summary": "There has been significant personnel churn and an overhaul of priorities at the Justice Department in President Donald Trump’s second term.",
           "publishedAt": "2026-11-09T20:00:00.000Z"
-        },
-        {
-          "title": "What the Democrats can (and cannot) do to reverse Trump’s education upheaval",
-          "link": "https://www.washingtonpost.com/education/2026/11/09/what-democrats-can-cannot-do-reverse-trumps-education-upheaval/",
-          "summary": "The new Democratic Congress is expected to try to roll back key changes the president made to federal education policy, including the dismantling of the Education Department.",
-          "publishedAt": "2026-11-09T11:00:01.000Z"
-        },
-        {
-          "title": "Jimmy Carter’s beloved family farm in Georgia sold to conservation group",
-          "link": "https://www.washingtonpost.com/nation/2026/11/09/jimmy-carters-beloved-family-farm-georgia-sold-conservation-group/",
-          "summary": "“For both of them, it was a place of rest and renewal,” the farm’s longtime manager said of Jimmy and Rosalynn Carter.",
-          "publishedAt": "2026-11-09T11:00:00.000Z"
         }
       ]
     }

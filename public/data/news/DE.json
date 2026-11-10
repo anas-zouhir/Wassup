@@ -8,87 +8,67 @@
         "homepage": "https://www.tagesschau.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-10T14:15:30.510Z",
+      "fetchedAt": "2026-11-10T18:37:31.306Z",
       "items": [
         {
-          "title": "Mehrere Tote bei Massenunfällen auf bulgarischer Autobahn",
-          "link": "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
-          "summary": "Dichter Nebel, nasse Straßen: Auf einer Autobahn in Bulgarien sind mindestens zwölf Menschen bei Auffahrunfällen gestorben. Zahlreiche Rettungskräfte sind im Einsatz. EU-Kommissionschefin von der Leyen musste ihren…",
-          "publishedAt": "2026-11-10T14:09:14.000Z",
-          "titleEn": "Several deaths in mass accidents on Bulgarian motorway",
-          "summaryEn": "Heavy fog, wet roads: At least 12 people died in road accidents on a highway in Bulgaria. Numerous rescuers are deployed. Commissioner von der Leyen was asked to..."
+          "title": "Schüsse in Hamburg: Verdächtiger tot, weitere Leichen in Süddeutschland",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html",
+          "summary": "In Hamburg sind unweit der Elbphilharmonie zwei Menschen durch Schüsse verletzt worden. Der mutmaßliche Täter wurde tot in einem Hotelzimmer gefunden. In Baden-Württemberg hat die Polizei zwei Leichen gefunden - und…",
+          "publishedAt": "2026-11-10T17:27:27.000Z"
         },
         {
-          "title": "KI-Boom: Deutscher Chipkonzern Infineon will weiter zweistellig wachsen",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
-          "summary": "Der boomende Ausbau der KI-Infrastruktur, aber auch ein besseres Autogeschäft haben Infineon einen Rekordumsatz beschert. Der deutsche Chipkonzern sieht noch kein Ende des Booms.",
-          "publishedAt": "2026-11-10T13:33:44.000Z",
-          "titleEn": "AI boom: German chip company Infineon wants to continue double digit growth",
-          "summaryEn": "The booming expansion of AI infrastructure, but also a better car business, has brought Infineon record sales. The German chip company isn't seeing the end of the boom yet."
-        },
-        {
-          "title": "Masernkrise in den USA: Mehr Verunsicherung, mehr Infektionen",
-          "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-102.html",
-          "summary": "Die USA erleben den größten Masernausbruch seit Jahrzehnten - auch weil der Gesundheitsminister widersprüchliche Botschaften zur Impfung verbreitet. Noch in dieser Woche könnte das Land den Status \"masernfrei\" verlieren.…",
-          "publishedAt": "2026-11-10T12:13:48.000Z",
-          "titleEn": "Measles crisis in the United States: more uncertainty, more infections",
-          "summaryEn": "The U.S. is experiencing the biggest measles outbreak in decades - partly because the Secretary of Health is spreading conflicting messages about vaccination. As early as this week, the country could lose its status as \"maceration-free\"."
-        },
-        {
-          "title": "Bund will offenbar E-Auto-Prämie um 917 Millionen Euro aufstocken",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html",
-          "summary": "Sie soll Menschen mit niedrigem oder mittlerem Einkommen den Umstieg erleichtern: Und tatsächlich ist die E-Auto-Prämie des Bundes ein voller Erfolg. Daher soll sie im kommenden Jahr noch mal um mehr als 900 Millionen…",
-          "publishedAt": "2026-11-10T12:11:01.000Z",
-          "titleEn": "The Federal Republic of Germany has announced plans to increase the e-car premium by 917 million euros.",
-          "summaryEn": "It is designed to facilitate the transition of low- and middle-income people, and indeed the federal e-car premium is a complete success. That's why next year, she's gonna have more than 900 million..."
-        },
-        {
-          "title": "Australien will nach Hackerangriff strengere Regeln für KI-Firmen",
-          "link": "https://www.tagesschau.de/wirtschaft/australien-ki-regulieren-100.html",
-          "summary": "Ein KI-Sicherheitsvorfall hat kürzlich einen Schock in Australien ausgelöst - jetzt reagiert die Regierung: Die Regeln für KI-Entwickler sollen verschärft werden. Auch im Strafrecht werden Änderungen geprüft.",
-          "publishedAt": "2026-11-10T12:00:03.000Z",
-          "titleEn": "Australia wants tougher rules for AI companies after a hacker attack",
-          "summaryEn": "An AI security incident recently shocked Australia - now the government is reacting: tighten the rules for AI developers. Changes in criminal law are also being examined."
-        },
-        {
-          "title": "Maschinenbau will mit Künstlicher Intelligenz aus der Krise",
-          "link": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
-          "summary": "Der deutsche Maschinenbau steckt in seinem vierten Krisenjahr. Die Branche leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Maschinenbaugipfel gibt es aber auch Hoffnungssignale - etwa die Künstliche…",
-          "publishedAt": "2026-11-10T10:36:17.000Z",
-          "titleEn": "Mechanical engineering wants AI out of the crisis",
-          "summaryEn": "The German machinery industry is in its fourth year of crisis. The industry suffers from high energy costs and too much bureaucracy. But there are also signs of hope at the engineering summit - like the artificial..."
-        },
-        {
-          "title": "Viele deutsche Unternehmen bauen die KI-Infrastruktur mit auf",
-          "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-milliarden-investitionen-profiteure-100.html",
-          "summary": "US-Tech-Giganten investieren Milliarden in Künstliche Intelligenz. Anleger werden vorsichtiger mit Blick auf die Kosten. Warum deutsche und europäische Unternehmen davon profitieren könnten. Von Bianca von der Au.",
-          "publishedAt": "2026-11-10T10:35:49.000Z",
-          "titleEn": "Many German companies are building AI infrastructure with the",
-          "summaryEn": "US tech giants are investing billions in artificial intelligence. Investors are becoming more cautious about the cost. Why could German and European companies benefit from this? By Bianca of the AU."
-        },
-        {
-          "title": "Was von den Ukraine-Gesprächen in Abu Dhabi zu erwarten ist",
-          "link": "https://www.tagesschau.de/ausland/asien/ukraine-verhandlungen-abu-dhabi-104.html",
-          "summary": "Unterhändler Russlands und der Ukraine haben ihre Gespräche unter US-Vermittlung in Abu Dhabi aufgenommen. Was wollen die Kriegsparteien? Welche Interessen haben die USA? Und welche Rolle haben die Europäer?",
-          "publishedAt": "2026-11-10T10:48:43.000Z",
-          "titleEn": "What to expect from the Ukraine talks in Abu Dhabi",
-          "summaryEn": "Negotiators from Russia and Ukraine have recorded their talks in Abu Dhabi, mediated by the United States. What do the warring parties want? What interests do the United States have? And what role do Europeans play?"
-        },
-        {
-          "title": "Marktbericht: Kursverluste nach KI-Crash fast aufgeholt",
+          "title": "Marktbericht: Der DAX wird zurückgepfiffen",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
-          "summary": "Die Kauflaune der Anleger hält an: Die Erholungsrally treibt den DAX wieder zurück in die Nähe seines Rekords. Die sinkenden Ölpreise locken die Investoren in den Markt, auch die Zahlen von Infineon gefallen.",
-          "publishedAt": "2026-11-10T09:06:52.000Z",
-          "titleEn": "Market Report: Price losses after AI crash almost recovered",
-          "summaryEn": "Investors' buzz continues, with the recovery rally pushing the DAX back to near its record. The falling oil prices are attracting investors to the market, and the figures of Infineon are also falling."
+          "summary": "Zeitweise hatte der DAX heute die Verluste wegen des KI-Crashs am Freitag vollständig aufgeholt. Unter anderem neue Details zur Nvidia-Affäre bremsten den Aufwärtsdrang dann aber empfindlich.",
+          "publishedAt": "2026-11-10T17:21:50.000Z"
         },
         {
-          "title": "Sportvereine in Deutschland haben so viele Mitglieder wie noch nie",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/sportvereine-mitglieder-102.html",
-          "summary": "Die deutschen Sportvereine haben so viele Mitglieder wie noch nie. In allen Bundesländern sind die Zahlen nach oben gegangen. Fußball bleibt unangefochten an der Spitze - andere Sportarten haben Mitglieder verloren.",
-          "publishedAt": "2026-11-10T09:05:59.000Z",
-          "titleEn": "Sports clubs in Germany have more members than ever before",
-          "summaryEn": "The German sports clubs have more members than ever before. In all the federal states, the figures have risen. Football remains unchallenged at the top - other sports have lost members."
+          "title": "Wadephul warnt Iran vor hybriden Angriffen",
+          "link": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
+          "summary": "Frankreich sieht Iran hinter den Cyberangriffen auf Kühlanlagen - doch das Land dementiert. Die deutschen Behörden haben sich noch nicht festgelegt, Außenminister Wadephul warnte Teheran nun aber vor hybriden Attacken.",
+          "publishedAt": "2026-11-10T16:51:08.000Z"
+        },
+        {
+          "title": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html",
+          "summary": "Machtmissbrauch im Iran-Krieg - unter anderem wegen dieses Vorwurfs könnte ein Amtsenthebungsverfahren gegen Pentagon-Chef Hegseth eingeleitet werden. Auf einer Pressekonferenz wies er die Anschuldigungen zurück und…",
+          "publishedAt": "2026-11-10T15:51:55.000Z"
+        },
+        {
+          "title": "Maschinenbauer \"fassungslos\" über Bundesregierung",
+          "link": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html",
+          "summary": "Die Koalition ringt um Reformen. Viel zu zögerlich, findet der Maschinenbauverband VDMA. Er wirft der Bundesregierung vor, mit internem Streit und Reformstau den Industriestandort Deutschland zu gefährden.",
+          "publishedAt": "2026-11-10T15:43:59.000Z"
+        },
+        {
+          "title": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
+          "summary": "Das KI-Unternehmen Anthropic hat Details seiner Börsenpläne veröffentlicht. Was die Aktien kosten sollen und wie viel Geld der US-Konzern damit erlösen will - trotz wachsender Zweifel an der Rentabilität der Branche.",
+          "publishedAt": "2026-11-10T15:37:43.000Z"
+        },
+        {
+          "title": "Zwei Tote bei russischen Luftangriffen",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html",
+          "summary": "Russland hat die Ukraine in der Nacht erneut mit Luftangriffen überzogen. Dabei starben ukrainischen Angaben zufolge zwei Menschen. Zudem seien mehrere Umspannwerke getroffen worden, in mehreren Regionen fiel der Strom…",
+          "publishedAt": "2026-11-10T14:42:40.000Z"
+        },
+        {
+          "title": "Proteste vor Haus bei Kiew: Keine Belege für ein ukrainisches Foltergefängnis",
+          "link": "https://www.tagesschau.de/faktenfinder/ukraine-angebliches-foltergefaengnis-100.html",
+          "summary": "Gewaltsame Proteste, ein verstörter Teenager, eine verzweifelte Ärztin: Im Internet verbreiten sich Bilder mit Behauptungen über die Entdeckung eines ukrainischen Foltergefängnisses bei Kiew. Was ist dazu bekannt? Von C.…",
+          "publishedAt": "2026-11-10T14:22:54.000Z"
+        },
+        {
+          "title": "Ukraine-Verhandlungen: \"Beide Seiten stehen unter enormem Zugzwang\"",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-abu-dhabi-104.html",
+          "summary": "Russland und die Ukraine stehen unter großem Zeitdruck, sagt der Militärexperte Markus Reisner. Doch ohne Zugeständnisse werde es keinen Erfolg bei den Verhandlungen geben. Wichtig seien auch mögliche Gespräche über eine…",
+          "publishedAt": "2026-11-10T14:18:25.000Z"
+        },
+        {
+          "title": "Warum sitzt Deutschland in Abu Dhabi nicht am Verhandlungstisch?",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
+          "summary": "Derzeit treffen sich in Abu Dhabi Vertreter der Ukraine, Russlands und der USA, um Gespräche über ein Ende des Krieges wieder aufzunehmen. Europa scheint im Abseits, obwohl Deutschland der größte Unterstützer der Ukraine…",
+          "publishedAt": "2026-11-10T14:15:52.000Z"
         }
       ]
     },
@@ -99,97 +79,77 @@
         "homepage": "https://www.spiegel.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-10T14:15:30.271Z",
+      "fetchedAt": "2026-11-10T18:37:31.173Z",
       "items": [
         {
-          "title": "Ahoi Steffen Henssler: Betreiber meldet für Ex-Henssler-Restaurants Insolvenz an",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an-a-19bb8933-4651-4423-9b83-e34b42cfdfde#ref=rss",
-          "summary": "Vier Restaurants der Kette Ahoi Steffen Henssler und 80 Mitarbeiter sind betroffen. Der Betreiber der Lokale hat Insolvenz angemeldet. Die Restaurants sollen trotzdem geöffnet bleiben.",
-          "image": "https://cdn.prod.www.spiegel.de/images/27085add-7c58-4b5f-9643-a8d6df44bbc7_w520_r2.08_fpx46_fpy44.99.jpg",
-          "publishedAt": "2026-11-10T14:10:00.000Z",
-          "titleEn": "Ahoi Steffen Henssler: operator announces bankruptcy for former Henssler restaurants",
-          "summaryEn": "Four restaurants in Ahoi Steffen Henssler and 80 staff are affected. The store manager filed for bankruptcy. The restaurants are still supposed to be open."
+          "title": "Türkei: Mitarbeiterin der Böll-Stiftung wegen Spionageverdacht festgenommen",
+          "link": "https://www.spiegel.de/ausland/tuerkei-mitarbeiterin-der-boell-stiftung-wegen-spionageverdacht-festgenommen-a-bfbe2bd7-0af4-4809-8b19-6d117ea4584d#ref=rss",
+          "summary": "Wegen angeblichem Spionageverdachts ist eine Mitarbeiterin der Heinrich-Böll-Stiftung von der türkischen Justiz festgenommen und befragt worden. Dabei soll es auch um die Arbeit der Stiftung mit einem türkischen…",
+          "image": "https://cdn.prod.www.spiegel.de/images/ea85dc81-b5c7-433f-9f91-4eaf9d3c1220_w520_r2.08_fpx62.71_fpy50.jpg",
+          "publishedAt": "2026-11-10T18:30:00.000Z"
         },
         {
-          "title": "Nord Stream: Sachverständiger erklärt möglichen Ablauf des Anschlags",
-          "link": "https://www.spiegel.de/panorama/justiz/nord-stream-sachverstaendiger-erklaert-moeglichen-ablauf-des-anschlags-a-6211cb29-5322-47c6-9348-a34d414c9443#ref=rss",
-          "summary": "Wie konnten Taucher in großer Tiefe Sprengstoff an den Nord-Strem-Pipelines anbringen? Ein Experte schilderte vor Gericht, wie die Täter vorgegangen sein könnten.",
-          "image": "https://cdn.prod.www.spiegel.de/images/e4456eb8-b4f3-4f2f-8d51-28346deca7c0_w520_r2.08_fpx43.31_fpy50.99.jpg",
-          "publishedAt": "2026-11-10T14:07:00.000Z",
-          "titleEn": "Nord Stream: Experts explain the possible course of the attack",
-          "summaryEn": "How could divers in deep-sea explosives have landed on the North Stream pipeline? An expert described in court how the perpetrators might have acted."
+          "title": "Zahl der Apotheken in Deutschland geht weiter zurück",
+          "link": "https://www.spiegel.de/wirtschaft/service/zahl-der-apotheken-in-deutschland-geht-weiter-zurueck-a-f4f926f6-609d-491a-bd56-3eeb945eedc0#ref=rss",
+          "summary": "Seit Anfang Januar haben in Deutschland 204 Apotheken geschlossen, und nur 47 neue kamen dazu. Die Wege zur nächsten Arzneianlaufstelle werden länger.",
+          "image": "https://cdn.prod.www.spiegel.de/images/37918dee-1ac3-4c16-bc4c-4466f7c19b4a_w520_r2.08_fpx50.48_fpy54.98.jpg",
+          "publishedAt": "2026-11-10T18:27:00.000Z"
         },
         {
-          "title": "Anthropic: KI-Firma peilt Billionenbewertung beim Börsengang an",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an-a-01ee7304-2fb0-45da-a9c9-1afec33f201f#ref=rss",
-          "summary": "Das KI-Unternehmen Anthropic steuert auf einen der größten Börsengänge der Geschichte zu. Von der einst anvisierten Bewertung von zwei Billionen Dollar ist Konzernchef Dario Amodei aber abgerückt.",
-          "image": "https://cdn.prod.www.spiegel.de/images/87b659c9-5a5a-40cd-8328-281922d96017_w520_r2.08_fpx64.69_fpy55.jpg",
-          "publishedAt": "2026-11-10T14:01:00.000Z",
-          "titleEn": "Anthropic: AI company raises trillion-dollar valuation at the IPO",
-          "summaryEn": "The AI company Anthropic is headed to one of the largest stock exchanges in history. However, Dario Amodei, CEO of the group, has backed away from the once-targeted valuation of two trillion dollars."
+          "title": "AfD in Sachsen-Anhalt: Lässt sich Ministerpräsident Ulrich Siegmund noch verhindern?",
+          "link": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-laesst-sich-ministerpraesident-ulrich-siegmund-noch-verhindern-a-2b76ca5c-9acb-42af-97bc-9a752329c8fe#ref=rss",
+          "summary": "Ulrich Siegmund will Mitte Dezember erster AfD-Ministerpräsident werden. Linke, Grüne, SPD und Teile der CDU in Sachsen-Anhalt prüfen, ob sie das noch abwenden können. Gesucht wird ein Alternativkandidat.",
+          "image": "https://cdn.prod.www.spiegel.de/images/ac39ee0b-38c7-4ae6-8727-32cc92f16df7_w520_r2.08_fpx41.33_fpy49.99.jpg",
+          "publishedAt": "2026-11-10T18:12:00.000Z"
         },
         {
-          "title": "Robert Fico: Slowakischer Premier wirft Friedrich Merz im Streit über Ukrainehilfen »Erpressung« vor",
-          "link": "https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor-a-f5b85629-3165-46d8-b4bd-bbb568ea1679#ref=rss",
-          "summary": "Die EU sucht nach einem Weg, eine Milliardenlücke bei der Ukraine-Finanzierung zu schließen. Bundeskanzler Merz erhöhte zuletzt in einem Brief an Ratspräsident Costa den Druck. In Bratislava sorgt das für Unmut.",
-          "image": "https://cdn.prod.www.spiegel.de/images/e6d499bd-1aab-435f-b074-4c432bff85c2_w520_r2.08_fpx38.57_fpy49.85.jpg",
-          "publishedAt": "2026-11-10T13:50:00.000Z",
-          "titleEn": "Robert Fico: Slovak Prime Minister accuses Friedrich Merz of extortion in the dispute over Ukraine aid",
-          "summaryEn": "The EU is looking for a way to close a billion-dollar funding gap in Ukraine. Federal Chancellor Merz raised the pressure in a recent letter to Council President Costa. In Bratislava, this is disgraceful."
+          "title": "Hartmut Engler: Pur-Sänger spricht über überstandenen Herzinfarkt",
+          "link": "https://www.spiegel.de/panorama/hartmut-engler-pur-saenger-spricht-ueber-ueberstandenen-herzinfarkt-a-139880be-61eb-4371-9e4e-3ddf8a064e79#ref=rss",
+          "summary": "Die Ärzte mussten offenbar um sein Leben kämpfen: Pur-Sänger Hartmut Engler hat einen Herzinfarkt öffentlich gemacht. Trotz Druck auf der Brust habe er erst nach Stunden einen Arzt konsultiert – auf Drängen seiner…",
+          "image": "https://cdn.prod.www.spiegel.de/images/a8fb59b0-599d-47fb-90f0-8ea6db5066d7_w520_r2.08_fpx63.81_fpy49.99.jpg",
+          "publishedAt": "2026-11-10T18:02:00.000Z"
         },
         {
-          "title": "Fitness: Abnehmen im Sitzen? Was Soleus-Push-ups wirklich bringen",
-          "link": "https://www.spiegel.de/fitness/fitness-abnehmen-im-sitzen-was-soleus-push-ups-wirklich-bringen-a-ceb03522-7ded-4188-945e-0850cfc7eb6d#ref=rss",
-          "summary": "Diese simple Muskelübung wird im Netz gefeiert: ein bisschen ausdauerndes Wadenwippen, und schon schwinden auf wundersame Weise die Pfunde. Ist da was dran?",
-          "image": "https://cdn.prod.www.spiegel.de/images/f414a2f7-6642-4110-bd0f-592b033d0539_w520_r2.08_fpx46.96_fpy44.97.jpg",
-          "publishedAt": "2026-11-10T13:40:00.000Z",
-          "titleEn": "Fitness: Lose weight while sitting? What Soleus push-ups really do",
-          "summaryEn": "This simple muscle exercise is celebrated on the net: a little bit of persistent waving, and the pounds are miraculously lost. What's the matter?"
+          "title": "Ukraine – Friedensgespräche in Abu Dhabi: Bisher glaubt nur Donald Trump an den großen Deal zwischen Russland, Ukraine und Europa",
+          "link": "https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa-a-904ecc1a-9c94-493a-9f1f-5ea1a9bbdca3#ref=rss",
+          "summary": "Nach neun Monaten Pause verhandeln Russland und die Ukraine wieder unter Vermittlung der USA. Moskau und Washington reden von einer neuen Sicherheitsarchitektur. Was ist realistisch?",
+          "image": "https://cdn.prod.www.spiegel.de/images/0fdfe20d-74ed-47df-8e0c-6a8e77ee946d_w520_r2.08_fpx33.3_fpy50.jpg",
+          "publishedAt": "2026-11-10T17:15:00.000Z"
         },
         {
-          "title": "Deutschland: Bürger wünschen mehr Staatsausgaben, lehnen höhere Steuern ab",
-          "link": "https://www.spiegel.de/wirtschaft/deutschland-buerger-wuenschen-mehr-staatsausgaben-lehnen-hoehere-steuern-ab-a-4e6aace3-50af-4810-bdce-478edb8de19a#ref=rss",
-          "summary": "Gute Schulen, eine wehrhafte Armee, sanierte Straßen oder eine starke Rente: Stets ist eine Mehrheit dafür. Eine Studie zeigt nun, ob das so bleibt, wenn dafür Steuern erhöht würden. Spoiler: nein – bis auf eine…",
-          "image": "https://cdn.prod.www.spiegel.de/images/4cd55830-e523-4ed0-8ef2-4a9d5c399ba3_w520_r2.08_fpx33.36_fpy50.jpg",
-          "publishedAt": "2026-11-10T13:27:00.000Z",
-          "titleEn": "Germany: Citizens want more government spending, reject higher taxes",
-          "summaryEn": "Good schools, a strong army, cleaned roads or a strong pension: always a majority. A study now shows whether this will remain the case if taxes are raised. No, except for one..."
+          "title": "Stephanie Case schafft als erste Frau 100-Meilen-Lauf in der Antarktis: Eine Inspiration für alle Mütter",
+          "link": "https://www.spiegel.de/sport/stephanie-case-schafft-als-erste-frau-100-meilen-lauf-in-der-antarktis-eine-inspiration-fuer-alle-muetter-a-f60402e1-e539-447a-a87e-e8f4e4d1a39f#ref=rss",
+          "summary": "Rund 161 Kilometer, bei Temperaturen um minus 25 Grad: Die Kanadierin Stephanie Case hat beim Antarctic Ice Ultra Geschichte geschrieben. Sie zeigt, die Abenteuer müssen nicht enden, nur weil man Kinder hat.",
+          "image": "https://cdn.prod.www.spiegel.de/images/dd0975ae-a7f4-4354-8c4b-10a6af96e2b4_w520_r2.08_fpx49_fpy41.jpg",
+          "publishedAt": "2026-11-10T17:06:00.000Z"
         },
         {
-          "title": "Friedrich Merz dringt auf pünktlichen Start des europäischen CO₂-Preises – mit Hintergedanken",
-          "link": "https://www.spiegel.de/wirtschaft/service/friedrich-merz-dringt-auf-puenktlichen-start-des-europaeischen-co2-preises-mit-hintergedanken-a-a3a13ddb-615a-4830-8202-e5b1064901d6#ref=rss",
-          "summary": "2028 soll ein europaweiter Emissionshandel für Brennstoffe auch den deutschen CO₂-Preis ablösen, doch in der EU wächst Widerstand. Der Kanzler verteidigt die Pläne – womöglich aus Sorge um die hiesige Wirtschaft.",
-          "image": "https://cdn.prod.www.spiegel.de/images/17d5ed74-52c9-484e-abfb-59fff8ba4c6f_w520_r2.08_fpx49.91_fpy45.jpg",
-          "publishedAt": "2026-11-10T13:09:00.000Z",
-          "titleEn": "Friedrich Merz is pushing for a timely start of the European CO2 price",
-          "summaryEn": "A Europe-wide emissions trading for fuels is also set to replace Germany's CO2 price by 2028, but resistance is growing in the EU. The Chancellor is defending the plans, perhaps out of concern for the local economy."
+          "title": "Düsseldorf: Vermisste Seniorin nach sechs Tagen gefunden – in ihrem Pflegeheim",
+          "link": "https://www.spiegel.de/panorama/duesseldorf-vermisste-seniorin-nach-sechs-tagen-gefunden-in-ihrem-pflegeheim-a-20746a0a-b208-4675-bc38-744c78c8c7fb#ref=rss",
+          "summary": "Knapp eine Woche lang gilt eine 83-Jährige aus Düsseldorf als verschwunden. Die Polizei sucht mit Spürhunden und auf Überwachungsvideos nach ihr. Dann taucht die demente Frau an einem Ort auf, der Fragen aufwirft.",
+          "image": "https://cdn.prod.www.spiegel.de/images/40e63fce-cd57-4ebe-969a-54ab2d6b6b07_w520_r2.08_fpx44.67_fpy44.98.jpg",
+          "publishedAt": "2026-11-10T17:01:00.000Z"
         },
         {
-          "title": "Hamburg: Verdächtiger tot in Elbphilharmonie gefunden",
-          "link": "https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte-a-35b60686-e12a-4b73-a71b-9c73e75ad21a#ref=rss",
-          "summary": "Zwei Menschen wurden in der Hamburger HafenCity verletzt, offenbar durch Schüsse. Der mutmaßliche Täter ist nicht mehr am Leben. Möglicherweise gibt es einen Zusammenhang mit einem Leichenfund in Baden-Württemberg.",
-          "image": "https://cdn.prod.www.spiegel.de/images/644fb5f6-fc04-4c3c-914f-df824db17bd9_w520_r2.08_fpx45.32_fpy50.jpg",
-          "publishedAt": "2026-11-10T12:50:00.000Z",
-          "titleEn": "Suspect found dead in Elbphilharmonie",
-          "summaryEn": "Two people were wounded in Hamburg's Port City, apparently by gunfire. The alleged perpetrator is dead. There may be a connection to a body found in Baden-Württemberg."
+          "title": "News des Tages: Warnung vor Honigfallen, Prozess gegen Gina H., Stromsteuersenkung",
+          "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-warnung-vor-honigfallen-prozess-gegen-gina-h-stromsteuersenkung-a-d6f8f89c-e73c-4942-a45b-9f6731d01299#ref=rss",
+          "summary": "Der Verfassungsschutz warnt vor sogenannten Honigfallen. Das Urteil im Fall des getöteten Fabian ist gefallen. Und die Union hat einen Plan zur Senkung der Stromsteuer. Das ist die Lage am Dienstagabend.",
+          "image": "https://cdn.prod.www.spiegel.de/images/31b9e1e5-c168-4d3a-a5ce-aee67f98f83f_w520_r2.08_fpx72_fpy48.jpg",
+          "publishedAt": "2026-11-10T17:00:00.000Z"
         },
         {
-          "title": "Robbie Williams: Sänger verteidigt Olivia Rodrigo gegen Plagiatsvorwürfe",
-          "link": "https://www.spiegel.de/panorama/leute/robbie-williams-saenger-verteidigt-olivia-rodrigo-gegen-plagiatsvorwuerfe-a-983dbfa6-a9f5-442f-b703-ffb72b8b0bda#ref=rss",
-          "summary": "Für ihren neuen Weihnachtssong soll Olivia Rodrigo bei Robbie Williams abgeguckt haben – meinen zumindest einige Fans. Der Sänger will davon nichts wissen. Solche Debatten seien oft »reine Geldmacherei«.",
-          "image": "https://cdn.prod.www.spiegel.de/images/92e9e82c-aaa7-4199-929a-202ebbd4dd3c_w520_r2.08_fpx43.34_fpy49.jpg",
-          "publishedAt": "2026-11-10T12:48:00.000Z",
-          "titleEn": "Robbie Williams: Singer defends Olivia Rodrigo against plagiarism charges",
-          "summaryEn": "For her new Christmas song, Olivia Rodrigo is said to have watched Robbie Williams... at least some of my fans. The singer doesn't want to know about it. Such debates are often just money-making."
+          "title": "Vanessa Emde: Umstrittene Linken-Abgeordnete soll Fraktion in Berlin verlassen",
+          "link": "https://www.spiegel.de/politik/vanessa-emde-umstrittene-linke-abgeordnete-soll-fraktion-in-berlin-verlassen-a-a75c900e-5aae-4a40-af0a-5c45bd86c0be#ref=rss",
+          "summary": "Gregor Gysi hat ihr Judenhass vorgeworfen: Vanessa Emde soll aus der Fraktion der Linken im Berliner Abgeordnetenhaus ausgeschlossen werden. Die Entscheidung fällt frühestens in zwei Wochen.",
+          "image": "https://cdn.prod.www.spiegel.de/images/d73ca1d9-d537-4efb-89d5-72079ab6956a_w520_r2.08_fpx54.57_fpy49.98.jpg",
+          "publishedAt": "2026-11-10T16:54:00.000Z"
         },
         {
-          "title": "Leihmutterschaft: Diese Agenturchefin trägt selbst Kinder für andere aus",
-          "link": "https://www.spiegel.de/wirtschaft/leihmutterschaft-diese-agenturchefin-traegt-selbst-kinder-fuer-andere-aus-a-ac098ee7-cf15-4e26-936c-9c56997ffa0d#ref=rss",
-          "summary": "175.000 bis 300.000 Dollar kostet eine Leihschwangerschaft bei der US-Agentur Alcea. Inhaberin Angela Richardson-Mook hat selbst mehrere Kinder für andere Eltern ausgetragen. Was denkt sie über die Risiken?",
-          "image": "https://cdn.prod.www.spiegel.de/images/2bd93e7f-4c95-4af7-87fe-fa4c5ed94dcd_w520_r2.08_fpx49_fpy6.jpg",
-          "publishedAt": "2026-11-10T12:37:00.000Z",
-          "titleEn": "Borrowing: This agency head carries children for others herself",
-          "summaryEn": "$175,000 to $300,000 for a borrowed pregnancy at the U.S. agency Alcea. Owner Angela Richardson-Mook herself has borne several children for other parents. What does she think about the risks?"
+          "title": "Berlin: Verdächtiger im Fall Lisa T. war bereits vorbestraft",
+          "link": "https://www.spiegel.de/panorama/justiz/berlin-verdaechtiger-im-fall-lisa-t-war-bereits-vorbestraft-a-d4e4926d-e174-4fe9-984e-746d26aaad8e#ref=rss",
+          "summary": "Der Tatverdächtige im Fall der getöteten 13-Jährigen aus Berlin-Marzahn geriet schon vor Monaten ins Visier der Polizei. Er war unter anderem wegen Verkehrsdelikten und fahrlässiger Körperverletzung auf Bewährung…",
+          "image": "https://cdn.prod.www.spiegel.de/images/913499e7-db0c-4085-bd53-86b6f763c21a_w520_r2.08_fpx38.04_fpy54.98.jpg",
+          "publishedAt": "2026-11-10T16:37:00.000Z"
         }
       ]
     }

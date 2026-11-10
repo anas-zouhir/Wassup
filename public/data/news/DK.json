@@ -8,8 +8,18 @@
         "homepage": "https://www.dr.dk/nyheder",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-10T14:15:31.207Z",
+      "fetchedAt": "2026-11-10T18:37:32.181Z",
       "items": [
+        {
+          "title": "Kristersson får en uge mere til at forsøge at danne regering",
+          "link": "https://www.dr.dk/nyheder/seneste/kristersson-faar-en-uge-mere-til-forsoege-danne-regering",
+          "publishedAt": "2026-11-10T15:39:23.000Z"
+        },
+        {
+          "title": "Iran afviser franske hacker-beskyldninger",
+          "link": "https://www.dr.dk/nyheder/seneste/iran-afviser-franske-hacker-beskyldninger",
+          "publishedAt": "2026-11-10T14:59:21.000Z"
+        },
         {
           "title": "Lidl tilbagekalder kyllingegyros",
           "link": "https://www.dr.dk/nyheder/seneste/lidl-tilbagekalder-kyllingegyros",
@@ -60,18 +70,6 @@
           "image": "https://asset.dr.dk/drdk/umbraco-images/bojlbh1c/bystaevneparken_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
           "publishedAt": "2026-11-10T10:23:23.000Z",
           "titleEn": "Copenhagen receives a new housing area with up to 680 houses"
-        },
-        {
-          "title": "Danmark i ny milliarddonation til Ukraine",
-          "link": "https://www.dr.dk/nyheder/seneste/danmark-i-ny-milliarddonation-til-ukraine",
-          "publishedAt": "2026-11-10T10:03:45.000Z",
-          "titleEn": "Denmark in a new billion donation to Ukraine"
-        },
-        {
-          "title": "Knivstikkeri ved Herning Centret - 19-årig anholdt",
-          "link": "https://www.dr.dk/nyheder/seneste/mistaenkeligt-forhold-undersoeges-ved-herning-centret",
-          "publishedAt": "2026-11-10T10:00:27.000Z",
-          "titleEn": "Knife stitching at Herning Centre - 19 year old arrested"
         }
       ]
     },
@@ -82,8 +80,57 @@
         "homepage": "https://politiken.dk",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-10T14:15:31.604Z",
+      "fetchedAt": "2026-11-10T18:37:33.932Z",
       "items": [
+        {
+          "title": "Nvidia er blevet 2600 milliarder mindre værd efter topchefs affære",
+          "link": "https://politiken.dk/internationalt/art11054724/Nvidia-er-blevet-2600-milliarder-mindre-v%C3%A6rd-efter-topchefs-aff%C3%A6re",
+          "summary": "De amerikanske virksomheder Apple og Microsoft er begge mere værd end Nvidia efter sag om mulig spion.",
+          "image": "https://politiken.dk/incoming/img11054727.m87u0g/ORIGINALS/original_960/NVIDIA-PROBE-CEO",
+          "publishedAt": "2026-11-10T18:34:34.000Z"
+        },
+        {
+          "title": "Medspillere i topklub kom til at røbe stjerneangribers skade",
+          "link": "https://politiken.dk/sport/fodbold/art11054154/Medspillere-i-topklub-kom-til-at-r%C3%B8be-stjerneangribers-skade",
+          "summary": "Chelsea-topscorerens fravær mod Tottenham blev afsløret på Fantasy Premier League af medspillere og klubbens eget personale.",
+          "image": "https://politiken.dk/incoming/img11054719.ofk846/ORIGINALS/original_960/SOCCER-ENGLAND-EVE-CHE",
+          "publishedAt": "2026-11-10T17:55:19.000Z"
+        },
+        {
+          "title": "I København satte Zelenskyj fingeren på Europas problem",
+          "link": "https://politiken.dk/internationalt/art11054706/I-K%C3%B8benhavn-satte-Zelenskyj-fingeren-p%C3%A5-Europas-problem",
+          "summary": "Det går ikke, at 30 ledere fra Europa taler med Vladimir Putin, så Europa bør udpege én forhandler, lød opfordringen fra Volodymyr Zelenskyj under besøg i København.",
+          "image": "https://politiken.dk/incoming/img11054708.uy4jyh/ORIGINALS/original_960/Volodymyr%20Zelenskyj%20og%20Mette%20Frederiksen%20p%C3%A5%20K%C3%B8benhavns%20Universitet",
+          "publishedAt": "2026-11-10T17:47:48.000Z"
+        },
+        {
+          "title": "Trumps seneste opslag følger et gammelt mønster",
+          "link": "https://politiken.dk/internationalt/art11053742/Trumps-seneste-opslag-f%C3%B8lger-et-gammelt-m%C3%B8nster",
+          "summary": "Donald Trump accepterede i første omgang resultatet af midtvejsvalget, men nu er han tilbage med sine uunderbyggede påstande om valgsvindel.",
+          "image": "https://politiken.dk/incoming/img11054718.9c96ox/ORIGINALS/original_960/US-POLITICS-TRUMP",
+          "publishedAt": "2026-11-10T17:28:49.000Z"
+        },
+        {
+          "title": "Han vandt DM, men fik frataget sin titel. Nu indstiller 27-årig karrieren",
+          "link": "https://politiken.dk/sport/art11054669/Han-vandt-DM-men-fik-frataget-sin-titel.-Nu-indstiller-27-%C3%A5rig-karrieren",
+          "summary": "Johan Price-Pejtersen har mistet lysten til professionel cykling og siger farvel til sporten.",
+          "image": "https://politiken.dk/incoming/img11054681.2fszk7/ORIGINALS/original_960/CYCLING-SUI-MEN-TOUR-ROMANDIE",
+          "publishedAt": "2026-11-10T16:43:39.000Z"
+        },
+        {
+          "title": "Ny øl er inspireret af verdens længste slæderejse",
+          "link": "https://politiken.dk/rejser/art11048670/Ny-%C3%B8l-er-inspireret-af-verdens-l%C3%A6ngste-sl%C3%A6derejse",
+          "summary": "Et samarbejde mellem Eventyrernes Klub og et dansk bryggeri har ført til en øl, der hylder et noget ukendt og overset stykke Danmarkshistorie.",
+          "image": "https://politiken.dk/incoming/img11048691.vevwd5/ORIGINALS/original_960/2b",
+          "publishedAt": "2026-11-10T15:06:27.000Z"
+        },
+        {
+          "title": "Signe Wenneberg hængte privat familie ud. Nu viser dokumenter, at sagen er mere speget",
+          "link": "https://politiken.dk/danmark/art11053698/Signe-Wenneberg-h%C3%A6ngte-privat-familie-ud.-Nu-viser-dokumenter-at-sagen-er-mere-speget",
+          "summary": "Mandag blev Signe Wenneberg politianmeldt for tre forhold, og tirsdag er yderligere to tilføjet. Det sker efter en kovending, hvor hun på ny har delt en families adresse på sine sociale medier.",
+          "image": "https://politiken.dk/incoming/img11054454.xu7mfk/ORIGINALS/original_960/F%C3%B8rste%20m%C3%B8de%20efter%20valget",
+          "publishedAt": "2026-11-10T15:00:08.000Z"
+        },
         {
           "title": "Grishams retssalsdrama gør stærkt comeback",
           "link": "https://politiken.dk/kultur/film_og_tv/tvanmeldelser/art11048829/Grishams-retssalsdrama-g%C3%B8r-st%C3%A6rkt-comeback",
@@ -99,8 +146,8 @@
           "summary": "Nivi Olsen, som har været naalakkersuisoq for uddannelse, kultur, idræt og kirke, trækker sig fra regeringen.",
           "image": "https://politiken.dk/incoming/img11054422.csur0u/ORIGINALS/original_960/GREENLAND-DENMARK-POLITICS",
           "publishedAt": "2026-11-10T13:53:08.000Z",
-          "summaryEn": "Nivi Olsen, who has been the Naalakkersuisoq for education, culture, sport and church, is withdrawing from the government.",
-          "titleEn": "Greenland's minister withdraws shortly after impeachment"
+          "titleEn": "Greenland's minister withdraws shortly after impeachment",
+          "summaryEn": "Nivi Olsen, who has been the Naalakkersuisoq for education, culture, sport and church, is withdrawing from the government."
         },
         {
           "title": "Sæsonens første snebyger kan være på vej",
@@ -110,69 +157,6 @@
           "publishedAt": "2026-11-10T13:22:32.000Z",
           "titleEn": "The first snowfall of the season may be coming.",
           "summaryEn": "There is no indication that the heel or skis should be found despite snowfall, DMI reports."
-        },
-        {
-          "title": "Minister trækker sig fra regeringen i Grønland efter kritik",
-          "link": "https://politiken.dk/danmark/politik/folketinget/parti_groen/art11054282/Minister-tr%C3%A6kker-sig-fra-regeringen-i-Gr%C3%B8nland-efter-kritik",
-          "summary": "Nivi Olsen, som har været naalakkersuisoq for uddannelse, kultur, idræt og kirke, trækker sig fra regeringen.",
-          "image": "https://politiken.dk/incoming/img11054319.pnhgm6/ORIGINALS/original_960/GREENLAND-DENMARK-POLITICS",
-          "publishedAt": "2026-11-10T12:58:15.000Z",
-          "titleEn": "Greenland Minister withdraws from government following criticism",
-          "summaryEn": "Nivi Olsen, who has been the Naalakkersuisoq for education, culture, sport and church, is withdrawing from the government."
-        },
-        {
-          "title": "I Berlin handler det hele om Holocaust",
-          "link": "https://politiken.dk/kultur/klassisk_og_opera/art11027988/I-Berlin-handler-det-hele-om-Holocaust",
-          "summary": "Kendt opera bliver skyllet over bord i teater-dokumentaristen Milo Raus overambitiøse, dokumentarbegejstrede og politiske nyopsætning på Deutsche Oper Berlin.",
-          "image": "https://politiken.dk/incoming/img11052899.et1kp/ORIGINALS/original_960/DerFliegendeHollaender-1058_hf",
-          "publishedAt": "2026-11-10T12:18:57.000Z",
-          "titleEn": "In Berlin, it's all about the Holocaust",
-          "summaryEn": "Famous opera is being flushed overboard in the theatre documentaryist Milo Rau's over-ambitious, documentary enthusiastic and political new set at the Deutsche Oper Berlin."
-        },
-        {
-          "title": "Norges højesteret afviser at løslade Marius Borg Høiby",
-          "link": "https://politiken.dk/internationalt/art11054144/Norges-h%C3%B8jesteret-afviser-at-l%C3%B8slade-Marius-Borg-H%C3%B8iby",
-          "summary": "Marius Borg Høiby blev tidligere på året dømt for blandt andet to voldtægter. Han afventer ankesag.",
-          "image": "https://politiken.dk/incoming/img11054130.zfwopl/ORIGINALS/original_960/NORWAY-ROYALS-KING-HARALD-FUNERAL",
-          "publishedAt": "2026-11-10T11:41:36.000Z",
-          "titleEn": "Norwegian Supreme Court refuses to release Marius Borg Høiby",
-          "summaryEn": "Marius Borg Høiby was convicted earlier this year of, among other things, two rapes. He's awaiting an appeal."
-        },
-        {
-          "title": "»Vi førte krig mod Sverige i 21 år. Hvor længe er I parate til at kæmpe?«: Putins fredsforhandler er helt radikal",
-          "link": "https://politiken.dk/internationalt/art11053957/%C2%BBVi-f%C3%B8rte-krig-mod-Sverige-i-21-%C3%A5r.-Hvor-l%C3%A6nge-er-I-parate-til-at-k%C3%A6mpe%C2%AB-Putins-fredsforhandler-er-helt-radikal",
-          "summary": "Den russiske chefforhandler ved fredsforhandlingerne om Ukraine er en velkendt høg med sans for at omskrive historien.",
-          "image": "https://politiken.dk/incoming/img11054223.5ski86/ORIGINALS/original_960/UKRAINE-CRISIS-TALKS-ABU%20DHABI",
-          "publishedAt": "2026-11-10T11:11:09.000Z",
-          "titleEn": "We fought a war against Sweden for 21 years. How long are you ready to fight? ⁇ : Putin's peace negotiator is totally radical",
-          "summaryEn": "The Russian chief negotiator of the peace talks on Ukraine is a well-known hook with a sense of rewriting history."
-        },
-        {
-          "title": "Ibyen tipper: Her er de fester og koncerter, du ikke bør gå glip af i København",
-          "link": "https://politiken.dk/ibyen/guider/art11053285/Her-er-de-fester-og-koncerter-du-ikke-b%C3%B8r-g%C3%A5-glip-af-i-K%C3%B8benhavn",
-          "summary": "Ibyen giver dig anbefalinger til ugen i København.",
-          "image": "https://politiken.dk/incoming/img11053280.aqwo59/ORIGINALS/original_960/The%20Perks%20of%20Being%20a%20Wallflower%203",
-          "publishedAt": "2026-11-10T10:17:53.000Z",
-          "titleEn": "The city tips: Here are the parties and concerts you should not miss in Copenhagen",
-          "summaryEn": "The city will give you recommendations for the week in Copenhagen."
-        },
-        {
-          "title": "Ai behøver ikke svække din læring. Sådan bruger du chatbotten klogt",
-          "link": "https://politiken.dk/danmark/art11024011/Ai-beh%C3%B8ver-ikke-sv%C3%A6kke-din-l%C3%A6ring.-S%C3%A5dan-bruger-du-chatbotten-klogt",
-          "summary": "Hver tredje gymnasieelev frygter, at Ai svækker deres læring, men forsker Christian Dalsgaard ser flere muligheder end farer i teknologien og giver her råd til, hvordan elever kan bruge ai til at blive klogere.",
-          "image": "https://politiken.dk/incoming/img11031326.fwes70/ORIGINALS/original_960/Rep%20fra%20feedback%20fors%C3%B8g%20p%C3%A5%20gymnasier%20til%20skolesiden",
-          "publishedAt": "2026-11-10T10:01:44.000Z",
-          "titleEn": "Ai doesn't have to weaken your learning. That's how you use the chatbot wisely.",
-          "summaryEn": "One in three high school students fear that AI will weaken their learning, but researcher Christian Dalsgaard sees more opportunities than dangers in technology and here gives advice on how students can use AI to become smarter."
-        },
-        {
-          "title": "Genk fyrer Jess Thorup efter 12 kampe",
-          "link": "https://politiken.dk/sport/fodbold/art11053894/Genk-fyrer-Jess-Thorup-efter-12-kampe",
-          "summary": "Jess Thorup er færdig i Genk, som har fyret den danske træner efter bare 12 kampe.",
-          "image": "https://politiken.dk/incoming/img11053948.etek5/ORIGINALS/original_960/CL%20gruppespil%20FCK-Sevilla%20FC",
-          "publishedAt": "2026-11-10T09:59:45.000Z",
-          "titleEn": "Genk fires Jess Thorup after 12 games.",
-          "summaryEn": "Jess Thorup is done in Genk, who fired the Danish coach after just 12 games."
         }
       ]
     },
@@ -183,94 +167,77 @@
         "homepage": "https://www.berlingske.dk",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-10T14:15:31.881Z",
+      "fetchedAt": "2026-11-10T18:37:33.552Z",
       "items": [
         {
-          "title": "Mand og kvinde tiltalt for drab på mand i kloak var i et forhold",
-          "link": "https://www.berlingske.dk/indland/mand-og-kvinde-tiltalt-for-drab-paa-mand-i-kloak-var-i-et-forhold?referrer=RSS",
-          "summary": "Sidste år blev en polsk mand fundet død i en kloak vest for Aarhus. De to drabstiltalte har haft et forhold.",
-          "publishedAt": "2026-11-10T14:04:50.000Z",
-          "titleEn": "Man and woman accused of murdering man in sewerage were in a relationship",
-          "summaryEn": "Last year, a Polish man was found dead in a sewer west of Aarhus. The two defendants in the murder have been having an affair."
+          "title": "Mette Frederiksen sagde »nej« til at være Europas stemme. Og det er der tre grunde til, siger Bent Winther",
+          "link": "https://www.berlingske.dk/politik/mette-frederiksen-sagde-nej-til-at-vaere-europas-stemme-og-det-er-der-tre-grunde-til-siger-bent-winther?referrer=RSS",
+          "summary": "Volodymyr Zelenskyj opfordrede tirsdag til, at Europa finder én person, der taler på vores vegne, når det kommer til forhandlinger med Rusland. Mette Frederiksen afviste, at det skulle være hende, og det er der gode…",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166761252.webp?t[strip]=true&t[quality]=70&accessToken=52bb93b78ee7add102a48a61f19a2aa8db6f7b402257db0f7c1dfddf72b4f01c",
+          "publishedAt": "2026-11-10T18:33:30.000Z"
         },
         {
-          "title": "Dansk basketlandshold jagter historisk EM-deltagelse",
-          "link": "https://www.berlingske.dk/sport/dansk-basketlandshold-jagter-historisk-em-deltagelse?referrer=RSS",
-          "summary": "Kvindelandsholdet kan spille sig til EM for første gang siden 1974. Portugal er første forhindring.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166732975.webp?t[strip]=true&t[quality]=70&accessToken=166799f3ddfdc864245c687ec927537466be7a4c6d18ed618e9a82fe22594b85",
-          "publishedAt": "2026-11-10T14:01:46.000Z",
-          "titleEn": "Danish national basketball team chasing historic European Championship participation",
-          "summaryEn": "The women's national team can play in the European Championship for the first time since 1974. Portugal is the first obstacle."
-        },
-        {
-          "title": "Hegseth: Rigsretssag vil vise USA's fjender at vi straffer vore egne",
-          "link": "https://www.berlingske.dk/internationalt/hegseth-rigsretssag-vil-vise-usas-fjender-at-vi-straffer-vore-egne?referrer=RSS",
-          "summary": "Forslag om rigsretssag mod USA's forsvarsminister er en farce, siger Pete Hegseth på pressemøde.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166731335.webp?t[strip]=true&t[quality]=70&accessToken=7882f9d73165608d21d040769200b61c8e1155b2464bcdff483d73ce6cc3b12c",
-          "publishedAt": "2026-11-10T13:55:50.000Z",
-          "titleEn": "Hegseth: State court case will show America's enemies that we're punishing our own.",
-          "summaryEn": "Proposals for a federal lawsuit against the U.S. Secretary of Defense are a farce, Pete Hegseth told a news conference."
-        },
-        {
-          "title": "Sæsonens første snebyger kan være på vej",
-          "link": "https://www.berlingske.dk/danmark/saesonens-foerste-snebyger-kan-vaere-paa-vej?referrer=RSS",
-          "summary": "Der er ikke noget, der tyder på, at man skal finde kælken eller skiene frem trods snemelding, oplyser DMI.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166725191.webp?t[strip]=true&t[quality]=70&accessToken=f55c7e38d4953523e3028db7b7a5f8beed86dabdeebeecdac9842d579b5f24e8",
-          "publishedAt": "2026-11-10T13:55:45.000Z",
-          "titleEn": "The first snowfall of the season may be coming.",
-          "summaryEn": "There is no indication that the heel or skis should be found despite snowfall, DMI reports."
-        },
-        {
-          "title": "Mand snuppet i lufthavnen med 12 kilo hash fra Thailand",
-          "link": "https://www.berlingske.dk/indland/mand-snuppet-i-lufthavnen-med-12-kilo-hash-fra-thailand?referrer=RSS",
-          "summary": "En lettisk mand blev angiveligt lovet betaling svarende til 60.000 kroner for at smugle hash til Danmark.",
-          "publishedAt": "2026-11-10T13:51:49.000Z",
-          "titleEn": "A man was picked up at the airport with 12 kilos of hash from Thailand.",
-          "summaryEn": "A Latvian man was allegedly promised a payment equivalent to DKK 60,000 for smuggling hash to Denmark."
-        },
-        {
-          "title": "Eks-minister overtager retsordførerskab fra ekskluderet medlem",
-          "link": "https://www.berlingske.dk/politik/eks-minister-overtager-retsordfoererskab-fra-ekskluderet-medlem?referrer=RSS",
-          "summary": "På et gruppemøde i Venstre er det besluttet, at Marie Bjerre bliver retsordfører efter Preben Bang Henriksen.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166719872.webp?t[strip]=true&t[quality]=70&accessToken=3cdace2af956e384b362013b35012a3522c66deb5100bc46e4a9063fa22adac6",
-          "publishedAt": "2026-11-10T13:47:54.000Z",
-          "titleEn": "Ex-Minister takes over from the excluded member",
-          "summaryEn": "At a group meeting in the Left, it has been decided that Marie Bjerre will be appointed Judge after Preben Bang Henriksen."
-        },
-        {
-          "title": "Von der Leyen forventer intensiv EU-diskussion om Ukraine-støtte",
-          "link": "https://www.berlingske.dk/internationalt/von-der-leyen-forventer-intensiv-eu-diskussion-om-ukraine-stoette?referrer=RSS",
-          "summary": "Tyskland kræver bidrag fra alle EU-lande til Ukraine, men Bulgarien mener grænsen for ny støtte er nået.",
-          "publishedAt": "2026-11-10T13:47:50.000Z",
-          "titleEn": "Von der Leyen expects an intensive EU discussion on support for Ukraine",
-          "summaryEn": "Germany is demanding contributions from all EU countries to Ukraine, but Bulgaria believes that the limit for new support has been reached."
-        },
-        {
-          "title": "Minister trækker sig fra regeringen i Grønland",
-          "link": "https://www.berlingske.dk/politik/minister-traekker-sig-fra-regeringen-i-groenland?referrer=RSS",
-          "summary": "Nivi Olsen, som har været naalakkersuisoq for uddannelse, kultur, idræt og kirke, trækker sig fra regeringen.",
+          "title": "Minister trækker sig fra Grønlands regering efter krav fra eget parti",
+          "link": "https://www.berlingske.dk/politik/minister-traekker-sig-fra-groenlands-regering-efter-krav-fra-eget-parti?referrer=RSS",
+          "summary": "Nivi Olsen, som har været minister for uddannelse, kultur, idræt og kirke, trækker sig fra regeringen.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166707998.webp?t[strip]=true&t[quality]=70&accessToken=c52c7323661ee816ff37c9b310172fb0e0135decfa0cc573542706ae466ebdc6",
-          "publishedAt": "2026-11-10T13:47:45.000Z",
-          "titleEn": "Minister withdraws from government in Greenland",
-          "summaryEn": "Nivi Olsen, who has been the Naalakkersuisoq for education, culture, sport and church, is withdrawing from the government."
+          "publishedAt": "2026-11-10T18:31:48.000Z"
         },
         {
-          "title": "Zelenskyj skal mødes med kong Frederik og kronprins Christian",
-          "link": "https://www.berlingske.dk/politik/zelenskyj-skal-moedes-med-kong-frederik-og-kronprins-christian?referrer=RSS",
-          "summary": "Den ukrainske præsident skriver på X, at han skal mødes med kong Frederik under sit besøg i Danmark.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166728365.webp?t[strip]=true&t[quality]=70&accessToken=ce997b50b186d622a394151c7a423492b09712b268d3b508d9f9d167219b08d7",
-          "publishedAt": "2026-11-10T13:44:47.000Z",
-          "summaryEn": "The President of Ukraine writes on X that he will meet with King Frederick during his visit to Denmark.",
-          "titleEn": "Zelensky is scheduled to meet with King Frederick and Crown Prince Christian"
+          "title": "Berlingske mener: Sisse Marie Welling og Line Barfod er trumpisme på dansk",
+          "link": "https://www.berlingske.dk/ledere/berlingske-mener-sisse-marie-welling-og-line-barfod-er-trumpisme-paa-dansk?referrer=RSS",
+          "summary": "Tankegangen hos flertallet i Borgerrepræsentationen er totalitær, som da vi for årtier siden fik lov at lege turister i østblokken, mens diktaturerne forbød deres egne borgere at tage på ferie til Danmark.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166701418.webp?t[strip]=true&t[quality]=70&accessToken=59a885cfc294ed192f4ceb023a4994ff3dbd0317e3f5a93544f980e0ee797485",
+          "publishedAt": "2026-11-10T18:30:24.000Z"
         },
         {
-          "title": "Lidl tilbagekalder kyllingegyros grundet risiko for salmonella",
-          "link": "https://www.berlingske.dk/danmark/lidl-tilbagekalder-kyllingegyros-grundet-risiko-for-salmonella?referrer=RSS",
-          "summary": "En stikprøve har vist, at der er risiko for salmonella i et parti kyllingegyros solgt i Lidl.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166726907.webp?t[strip]=true&t[quality]=70&accessToken=5936b72830aa67e82cad8d7b62745f9a2aac3a3430440023f5837b22b7effa5e",
-          "publishedAt": "2026-11-10T13:38:45.000Z",
-          "titleEn": "Little recalls chicken egos because of the risk of salmonella",
-          "summaryEn": "A sample has shown a risk of salmonella in a batch of chicken eggs sold in Lidl."
+          "title": "Nvidia er blevet 2600 milliarder mindre værd efter topchefs affære",
+          "link": "https://www.berlingske.dk/business/nvidia-er-blevet-2600-milliarder-mindre-vaerd-efter-topchefs-affaere?referrer=RSS",
+          "summary": "De amerikanske virksomheder Apple og Microsoft er begge mere værd end Nvidia efter sag om mulig spion.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166763412.webp?t[strip]=true&t[quality]=70&accessToken=a2e99b235ccacf8cdbf92397fe9c7a67cc244e83ec05126f1197c1a4371a364d",
+          "publishedAt": "2026-11-10T18:28:47.000Z"
+        },
+        {
+          "title": "Kan det betale sig at arbejde, når din bolig tjener mere end dig?",
+          "link": "https://www.berlingske.dk/kronikker/kan-det-betale-sig-at-arbejde-naar-din-bolig-tjener-mere-end-dig?referrer=RSS",
+          "summary": "Meritokratiet som begreb hører efterhånden mere til i en teoribog end i virkelighedens verden. I stedet bevæger vi os mod en rentierøkonomi, hvor man i praksis kan leve af at eje.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166582682.webp?t[strip]=true&t[quality]=70&accessToken=e418592b146bf60b54a0151a172f4d685ae9bb337d6c58638afabd6bb28d1889",
+          "publishedAt": "2026-11-10T18:28:04.000Z"
+        },
+        {
+          "title": "Gerningsmanden bag skyderiet i Krakow søgte på Anders Breivik før angrebet",
+          "link": "https://www.berlingske.dk/internationalt/gerningsmanden-bag-skyderiet-i-krakow-soegte-paa-anders-breivik-foer-angrebet?referrer=RSS",
+          "summary": "Polens justitsminister bekræfter, at den nu afdøde gerningsmand havde søgt på den norske terrorist forud for skyderiet i Krakow.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166759666.webp?t[strip]=true&t[quality]=70&accessToken=0f9728615a76c9ce9e77049cc4f04df6210fa8b58c3e1582abd2f6b90a0225e5",
+          "publishedAt": "2026-11-10T18:11:10.000Z"
+        },
+        {
+          "title": "Politi stopper togdrift på Fyn for at efterforske påkørsel",
+          "link": "https://www.berlingske.dk/indland/politi-stopper-togdrift-paa-fyn-for-at-efterforske-paakoersel?referrer=RSS",
+          "summary": "Togdriften på Fyn stoppes tirsdag aften, da et tog har ramt noget ved Langeskov, oplyser politiet.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166760607.webp?t[strip]=true&t[quality]=70&accessToken=25f3988c8be18c0ae8ff46dc9ace7f91c7334cb2dc3209771ca1e81bf7127640",
+          "publishedAt": "2026-11-10T18:04:45.000Z"
+        },
+        {
+          "title": "Israels præsident beder nyvalgt parlament række hånden frem til rivaler",
+          "link": "https://www.berlingske.dk/internationalt/israels-praesident-beder-nyvalgt-parlament-raekke-haanden-frem-til-rivaler?referrer=RSS",
+          "summary": "Eisenkots parti har allerede fremsat flere forslag, som går imod den afgående premierminister Netanyahu.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166762999.webp?t[strip]=true&t[quality]=70&accessToken=b1b75ee2d77fc73a3a5ad3fc1ec2e34c3675673f247768761de3164e66c0a215",
+          "publishedAt": "2026-11-10T17:54:49.000Z"
+        },
+        {
+          "title": "Flere er sigtet efter serie af hærværk i sydjyske Rødding",
+          "link": "https://www.berlingske.dk/indland/flere-er-sigtet-efter-serie-af-haervaerk-i-sydjyske-roedding?referrer=RSS",
+          "summary": "Natten til fredag blev der skrevet \"perkere ud af DK\" på et pizzeria. Nu er en mand anholdt for hærværket.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166762345.webp?t[strip]=true&t[quality]=70&accessToken=27046ca01a9ba84f6b53688f2cbb7928946cc7b00ec7b1dc87bcac94edb9c21f",
+          "publishedAt": "2026-11-10T17:28:47.000Z"
+        },
+        {
+          "title": "Norges regentpar skal velsignes i kirken og på rundrejse over to år",
+          "link": "https://www.berlingske.dk/internationalt/norges-regentpar-skal-velsignes-i-kirken-og-paa-rundrejse-over-to-aar?referrer=RSS",
+          "summary": "Det ceremonielle efter det norske tronskifte fortsætter for kong Haakon og dronning Mette-Marit.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166760845.webp?t[strip]=true&t[quality]=70&accessToken=f59cdf50ba596d753eb77aa7a99c1aad5b54161bfd5fca89da548b48be68eecd",
+          "publishedAt": "2026-11-10T17:22:47.000Z"
         }
       ]
     }

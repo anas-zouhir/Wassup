@@ -8,21 +8,35 @@
         "homepage": "https://www.rte.ie/news/",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-10T14:15:46.935Z",
+      "fetchedAt": "2026-11-10T18:37:47.044Z",
       "items": [
         {
-          "title": "Man, 52, found guilty of murdering Tipperary 89-year-old",
-          "link": "https://www.rte.ie/news/courts/2026/1110/1598687-josie-ray-nenagh-trial/",
-          "summary": "A 52-year-old man has been found guilty the murder of 89-year-old mother-of-five Josephine 'Josie' Ray at her home in Nenagh, Co Tipperary, in August 2024.",
-          "image": "https://www.rte.ie/images/0020bfa3-800.jpg",
-          "publishedAt": "2026-11-10T13:22:37.000Z"
+          "title": "Legal aid dispute between solicitors, minister resolved",
+          "link": "https://www.rte.ie/news/courts/2026/1110/1598746-justice-minister-solicitors/",
+          "summary": "The dispute between criminal legal aid solicitors and the Minister for Justice over a new payment scheme has been resolved.",
+          "image": "https://www.rte.ie/images/00252bcd-800.jpg",
+          "publishedAt": "2026-11-10T18:23:01.000Z"
         },
         {
-          "title": "Bus driver guilty of dangerous driving over fatal crash",
-          "link": "https://www.rte.ie/news/ireland/2026/1110/1598663-adrian-doyle-court/",
-          "summary": "A 43-year-old bus driver has been found guilty of dangerous driving causing the deaths of two teenagers who were travelling on an e-scooter in Waterford over two years ago.",
-          "image": "https://www.rte.ie/images/0025471d-800.jpg",
-          "publishedAt": "2026-11-10T11:19:08.000Z"
+          "title": "Public sector unions consider revised pay deal offer",
+          "link": "https://www.rte.ie/news/ireland/2026/1110/1598619-pay-talks/",
+          "summary": "Public sector unions are considering a revised pay deal offer from the Government.",
+          "image": "https://www.rte.ie/images/00255063-800.jpg",
+          "publishedAt": "2026-11-10T06:30:11.000Z"
+        },
+        {
+          "title": "Two arrested after Joe Biden makes surprise Dublin visit",
+          "link": "https://www.rte.ie/news/world/2026/1110/1598715-joe-biden-hunter-biden-dublin/",
+          "summary": "Two arrests were made after a group of protestors and onlookers gathered outside Trinity College Dublin during a visit of former US president Joe Biden.",
+          "image": "https://www.rte.ie/images/0025516e-800.jpg",
+          "publishedAt": "2026-11-10T15:30:22.000Z"
+        },
+        {
+          "title": "Man jailed for life over 'horrific' murder of 89-year-old",
+          "link": "https://www.rte.ie/news/courts/2026/1110/1598687-josie-ray-nenagh-trial/",
+          "summary": "A 52-year-old man has been sentenced to life in prison for the \"horrific\" murder of 89-year-old mother-of-five Josephine 'Josie' Ray at her home in Co Tipperary in August 2024.",
+          "image": "https://www.rte.ie/images/00254f82-800.jpg",
+          "publishedAt": "2026-11-10T13:22:37.000Z"
         },
         {
           "title": "Multiple women accuse Walliams of sexual misconduct",
@@ -32,53 +46,39 @@
           "publishedAt": "2026-11-10T12:26:15.000Z"
         },
         {
-          "title": "Unions committed to trying to close out pay deal 'today'",
-          "link": "https://www.rte.ie/news/ireland/2026/1110/1598619-pay-talks/",
-          "summary": "Formal talks on a public sector pay deal have resumed at the Workplace Relations Commission but, as of now, Thursday's planned public sector strike is still going ahead.",
-          "image": "https://www.rte.ie/images/00255063-800.jpg",
-          "publishedAt": "2026-11-10T06:30:11.000Z"
+          "title": "German pair charged over people smuggling at Cork port",
+          "link": "https://www.rte.ie/news/2026/1110/1598731-pair-charged-people-smuggling-cork/",
+          "summary": "A German man and woman, both in their 40s, have been charged with offences relating to people smuggling at Cork Ferry Port following an appearance before Cork District Court this afternoon.",
+          "image": "https://www.rte.ie/images/00255150-800.jpg",
+          "publishedAt": "2026-11-10T17:48:55.000Z"
         },
         {
-          "title": "Dublin traffic restrictions under way ahead of EU summits",
-          "link": "https://www.rte.ie/news/eu-presidency/2026/1110/1598614-traffic-dublin-ireland/",
-          "summary": "Part of Dublin city's North Wall Quay is closed to traffic as restrictions begin ahead of two major summits being held this week.",
-          "image": "https://www.rte.ie/images/00255001-800.jpg",
-          "publishedAt": "2026-11-10T01:05:31.000Z"
+          "title": "Garth Brooks: '100 gigs in Ireland wouldn't be enough'",
+          "link": "https://www.rte.ie/entertainment/2026/1110/1598711-garth-brooks-100-gigs-in-ireland-wouldnt-be-enough/",
+          "summary": "Garth Brooks has told The Louise Duffy Show on RTÉ Radio 1 that \"a hundred gigs in Ireland wouldn't be enough\" for him as he looks forward to his shows next summer.",
+          "image": "https://www.rte.ie/images/00255118-800.jpg",
+          "publishedAt": "2026-11-10T16:25:50.000Z"
         },
         {
-          "title": "FBI probing Nvidia CEO Huang over spy claims - Trump",
-          "link": "https://www.rte.ie/news/us/2026/1110/1598615-nvidia-us/",
-          "summary": "US President Donald Trump said the FBI was looking into Nvidia CEO Jensen Huang's affair with a Chinese businesswoman alleged to be a spy for Beijing.",
-          "image": "https://www.rte.ie/images/001fc283-800.jpg",
-          "publishedAt": "2026-11-10T01:19:23.000Z"
+          "title": "Bus driver guilty of dangerous driving over fatal crash",
+          "link": "https://www.rte.ie/news/ireland/2026/1110/1598663-adrian-doyle-court/",
+          "summary": "A 43-year-old bus driver has been found guilty of dangerous driving causing the deaths of two teenagers who were travelling on an e-scooter in Waterford over two years ago.",
+          "image": "https://www.rte.ie/images/0025471d-800.jpg",
+          "publishedAt": "2026-11-10T11:19:08.000Z"
         },
         {
-          "title": "Call for new Europe framework amid Russia-Ukraine talks",
-          "link": "https://www.rte.ie/news/ukraine/2026/1110/1598616-ukraine-russia/",
-          "summary": "US-mediated talks between Russia and Ukraine on ending more than four years of war opened in Abu Dhabi, with Washington calling for a \"new\" security framework, as Europe fears US President Donald Trump plans a deal with…",
-          "image": "https://www.rte.ie/images/002550bc-800.jpg",
-          "publishedAt": "2026-11-10T01:35:34.000Z"
+          "title": "Jury discharged in Chloe Mitchell murder trial",
+          "link": "https://www.rte.ie/news/2026/1110/1598742-chloe-mitchell/",
+          "summary": "The jury in the murder trial of a 21-year-old woman killed and dismembered in Co Antrim in 2023 has been discharged.",
+          "image": "https://www.rte.ie/images/001e37bf-800.jpg",
+          "publishedAt": "2026-11-10T18:07:24.000Z"
         },
         {
-          "title": "Electricity network will face more demands - ESB chief",
-          "link": "https://www.rte.ie/news/world/2026/1110/1598670-cop31-turkey-esb/",
-          "summary": "Households and businesses will increasingly have to change how and when they use electricity as Ireland accelerates its transition away from fossil fuels, ESB Networks CEO Paddy Hayes has said.",
-          "image": "https://www.rte.ie/images/001842b0-800.jpg",
-          "publishedAt": "2026-11-10T11:59:13.000Z"
-        },
-        {
-          "title": "Thousands of books once banned by State to go on view",
-          "link": "https://www.rte.ie/culture/2026/1110/1598591-banned-books/",
-          "summary": "Ledgers outlining the individual reasons why each book was banned will also be available for public viewing for the first time.",
-          "image": "https://www.rte.ie/images/00254fd8-800.jpg",
-          "publishedAt": "2026-11-10T06:16:11.000Z"
-        },
-        {
-          "title": "Man remanded over Limerick hit-and-run that killed nurse",
-          "link": "https://www.rte.ie/news/courts/2026/1110/1598686-limerick-court-hit-and-run/",
-          "summary": "A 19-year-old man has been remanded to prison for sentencing after he pleaded guilty to a fatal hit-and-run that killed a nurse earlier this year.",
-          "image": "https://www.rte.ie/images/0025330e-800.jpg",
-          "publishedAt": "2026-11-10T13:27:36.000Z"
+          "title": "Zero tolerance over protests during EU events, says Kelly",
+          "link": "https://www.rte.ie/news/dublin/2026/1110/1598665-dublin-meeting-security/",
+          "summary": "The Garda Commissioner has warned that there will be a zero-tolerance approach to protests which are not peaceful during major EU events in Dublin this week.",
+          "image": "https://www.rte.ie/images/002550d1-800.jpg",
+          "publishedAt": "2026-11-10T11:38:38.000Z"
         }
       ]
     },
@@ -89,77 +89,77 @@
         "homepage": "https://www.irishtimes.com",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-10T14:15:47.224Z",
+      "fetchedAt": "2026-11-10T18:37:47.678Z",
       "items": [
         {
-          "title": "‘Breakthrough’ at public sector pay talks but planning for Thursday’s strike continues",
+          "title": "Death of man who choked on meat at Dublin hospital ‘tragic and traumatic’, inquest hears",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/10/death-of-man-who-choked-on-meat-at-dublin-hospital-tragic-and-traumatic-inquest-hears/",
+          "summary": "Derek Adamson (66) supposed to be on a soft food diet at time of death in Tallaght",
+          "image": "https://www.irishtimes.com/resizer/v2/7WSPYALZWQUOKRMBQN5FMR3HIY.jpg?auth=049b1df2e3be9158d89d5385efef1160240c79a764104558390eafbd51693fec&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-10T18:29:02.000Z"
+        },
+        {
+          "title": "Minister and Law Society reach agreement to end legal aid payments dispute",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/10/more-solicitors-resume-work-as-resolution-to-legal-aid-payment-row-expected/",
+          "summary": "Deal clears way for criminal defence solicitors to return to work",
+          "image": "https://www.irishtimes.com/resizer/v2/JUNXWEDRD6LA5LNLPXX3L6WHTQ.jpg?auth=c5f497efaa68a40ab7a93a904df9aef033e6fc85f9ab1b479dad95c6c2a033b9&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-10T18:06:40.000Z"
+        },
+        {
+          "title": "Pilot groups criticise ‘military interceptions’ of aircraft during hoax bomb threats",
+          "link": "https://www.irishtimes.com/transport/2026/11/10/pilot-groups-criticise-military-interceptions-of-aircraft-during-hoax-bomb-threats/",
+          "summary": "Irish members of European Cockpit Association among those who expressed ‘serious concerns’ about responses",
+          "image": "https://www.irishtimes.com/resizer/v2/IIL6HD5ZMCYMKHLXMT7YW6XNQA.jpg?auth=e484d97a4178cf65e9aa776c320802ec3635b8a603d0cf5cd1927ac1e4a28333&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-10T18:03:52.000Z"
+        },
+        {
+          "title": "Mater hospital apologises for shortcomings in care following death of woman (68)",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/10/mater-hospital-apologises-for-shortcomings-in-care-following-death-of-woman-68/",
+          "summary": "By the time Mary McGeough from Ballybay, Co Monaghan, received a cancer diagnosis in 2018, it was already too late",
+          "image": "https://www.irishtimes.com/resizer/v2/7P7EIOKPNBEIFG7XZQ76CNK5DA.jpg?auth=84f064c27e93d502e36a01adf281c20d7d180bfe4bba633ec621e6eabae7813c&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-10T17:57:52.000Z"
+        },
+        {
+          "title": "Driver who injured six teenagers in crash passed initial alcohol and drug testing",
+          "link": "https://www.irishtimes.com/crime-law/2026/11/10/driver-who-injured-six-teenagers-in-crash-passed-initial-alcohol-and-drug-testing/",
+          "summary": "Woman (40s) undergoing medical treatment but it is unclear if condition was a factor in incident outside Monkstown shop",
+          "image": "https://www.irishtimes.com/resizer/v2/RX43MXQT5BAHNJ4GF4W6A72AO4.jpg?auth=3291870955357fcfcf9f45300d6ec3669462008acbd6bacc7b3d371fb2479385&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-10T17:32:08.000Z"
+        },
+        {
+          "title": "Former US president Joe Biden makes surprise appearance in Dublin",
+          "link": "https://www.irishtimes.com/ireland/2026/11/10/former-us-president-joe-biden-makes-surprise-appearance-at-trinity-college/",
+          "summary": "His son, Hunter Biden, attended an event to receive a gold medal from the College Historical Society at Trinity College Dublin",
+          "image": "https://www.irishtimes.com/resizer/v2/P5OARUYGBNBYLKNCH6ZXLQ75TY.JPG?auth=818f9de9592f903c86959fa6b25709df04cc2880310b85da75afd510cdd90d7f&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-10T17:14:31.000Z"
+        },
+        {
+          "title": "Public sector pay increases worth 10.75% over 33 months being considered by unions",
           "link": "https://www.irishtimes.com/ireland/2026/11/10/public-sector-pay-talks-see-breakthrough-but-thursday-strike-yet-to-be-called-off/",
-          "summary": "Government and unions will meet again today at WRC, with possible agreement in sight",
+          "summary": "‘Impossible to say’ if Thursday’s planned national strike action would go ahead or not, says Fórsa’s Kevin Callinan",
           "image": "https://www.irishtimes.com/resizer/v2/W5OTA6RIDRDHXIGFPEI3R37ZUY.JPG?auth=1acfa247a1ea1165f45fd65cf2151c6eb34f7e4d7019f8be96a1a37bb3e2d8a5&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-10T13:38:28.000Z"
+          "publishedAt": "2026-11-10T17:09:10.000Z"
         },
         {
-          "title": "Gardaí say ‘significant risk’ to security this week as Ryanair flight from Dublin faces bomb threat",
-          "link": "https://www.irishtimes.com/ireland/2026/11/10/gardai-say-significant-risk-to-security-this-week-as-ryanair-flight-from-dublin-faces-bomb-threat/",
-          "summary": "Bomb threat against Cork school on Monday linked to a child",
-          "image": "https://www.irishtimes.com/resizer/v2/REONUOX7R3SI75TV7BOF2VMJJM.jpg?auth=ff4c307e7c869acebfd955068e56d45e0cb4f1fd29578c1060b93d1e19b3621f&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-10T12:46:06.000Z"
+          "title": "Proposed EU rules would force transparency on Ticketmaster over prices",
+          "link": "https://www.irishtimes.com/ireland/2026/11/10/proposed-eu-rules-would-force-transparency-on-ticketmaster-over-prices/",
+          "summary": "Subscription services would have to notify people before charging when a free trial ends under new regulations",
+          "image": "https://www.irishtimes.com/resizer/v2/J33DWXUTJPNHMTWC3KOSVXCOU4.jpg?auth=a5b1b7c6229a11eb16973ce7a8a3b7d0890478d89a91751e4fc51c69faf99ef5&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-10T16:52:08.000Z"
         },
         {
-          "title": "Bus driver found guilty of causing deaths of two teens in Co Waterford",
-          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/10/bus-driver-found-guilty-of-causing-deaths-of-two-teens-in-co-waterford/",
-          "summary": "Gilbert Collins (15) and Avuzwa Sampo (17) died after being hit by a bus driven by Adrian Doyle, of Ard Glass, Ferrybank, in June 2024",
-          "image": "https://www.irishtimes.com/resizer/v2/ASDLZM64VJE3TGO4Q2Z2CFC7H4.png?auth=7ec5fe237658d4b80cd4cfc10b65df717cf6e076f1adc29ef7169aaa75e38b76&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-10T12:30:41.000Z"
+          "title": "Number of welfare fraud cases sent for prosecution halves in a decade",
+          "link": "https://www.irishtimes.com/ireland/2026/11/10/number-of-welfare-fraud-cases-sent-for-prosecution-halves-in-a-decade/",
+          "summary": "Just 76 cases were sent to Chief State Solicitor’s Office last year",
+          "image": "https://www.irishtimes.com/resizer/v2/R4NGW72T7JAPJKEY35J6WR7YWU.jpg?auth=0f43550efae5e349072a5a2fcd793fa35b7b10d831f7b1b9ab78cb42af29f816&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-10T16:34:33.000Z"
         },
         {
-          "title": "Oil spill investigated as possible cause of death of seagulls in River Liffey",
-          "link": "https://www.irishtimes.com/environment/2026/11/10/oil-spill-investigated-as-possible-cause-of-death-of-seagulls-in-river-liffey/",
-          "summary": "Animal rescue charity alerted Dublin City Council to incident last summer near Custom House Quay and Seán O’Casey Bridge",
-          "image": "https://www.irishtimes.com/resizer/v2/MMRQASACC5F2TBYXGBAI2RHNIU.jpg?auth=70a8e121f63a44f45f6c690c4ceba941ecfa4f387a5600ba0cd5548416ad83c0&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-10T12:02:19.000Z"
-        },
-        {
-          "title": "‘So ashamed’ of ‘crass comments’, Ronnie Flanagan tells Omagh bomb public inquiry",
-          "link": "https://www.irishtimes.com/ireland/2026/11/10/so-ashamed-of-crass-comments-ronnie-flanagan-tells-omagh-bomb-public-inquiry/",
-          "summary": "Former RUC chief said in 2001 he would publicly take his own life if watchdog’s criticism of force’s handling of 1998 bomb investigation was true",
-          "image": "https://www.irishtimes.com/resizer/v2/5TBUFUQPWT4ASE26J3M55DY6N4.jpg?auth=2edd8a620b53be2570221603becc265979ef05348ebf15d74d0d337aedc390d1&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-10T11:32:20.000Z"
-        },
-        {
-          "title": "Size of no-fly zone over Dublin increased for European summits",
-          "link": "https://www.irishtimes.com/ireland/dublin/2026/11/10/size-of-no-fly-zone-over-dublin-increased-for-european-summits/",
-          "summary": "Jim O’Callaghan insists Ireland is well prepared to deal with high-profile meetings after series of hoax threats last week",
-          "image": "https://www.irishtimes.com/resizer/v2/MFZN67W6ZNB7HP5THJJFTKMWLQ.JPG?auth=0df55e0f7d311c9e2fa2baee602c8af7c84c04bd799308d5f17330a003efb0b3&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-10T10:06:39.000Z"
-        },
-        {
-          "title": "Judge says success of children in special care illustrates loss of those who cannot access it",
-          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/10/judge-says-success-of-children-in-special-care-illustrates-loss-of-those-who-cannot-access-it/",
-          "summary": "High Court hears of boy in special care now ‘formidable and ambitious’ among ‘good news’ stories",
-          "image": "https://www.irishtimes.com/resizer/v2/6IS2IFC5HNBCTLMO6QSME2E3UE.jpg?auth=e4e6cf8150dc7ed2e46186868c3184121fde8a81c61d39c815bc17c08fcdb6c4&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-10T10:00:00.000Z"
-        },
-        {
-          "title": "Jews in Ireland face hostile atmosphere, commemoration for Holocaust survivor told",
-          "link": "https://www.irishtimes.com/ireland/social-affairs/2026/11/10/jews-in-ireland-face-hostile-atmosphere-commemoration-for-holocaust-survivor-told/",
-          "summary": "‘What other community has simply learned to live like this?’ asks Tomi Reichental’s son David in reference to need for Garda presence at synagogues on certain days",
-          "image": "https://www.irishtimes.com/resizer/v2/42KWDLWIHJFTBDHVNE25T5MWVU.jpg?auth=4086a5113d4d61affe261b24e5d2fd4f507b21e74cdce4f4e2e6c9084e65818c&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-10T09:24:27.000Z"
-        },
-        {
-          "title": "Ella McSweeney: Nature restoration can slow floods and hold back wildfires. Fatalism is the enemy",
-          "link": "https://www.irishtimes.com/environment/2026/11/14/here-are-a-few-good-news-stories-about-nature-from-outside-ireland/",
-          "summary": "Whether Ireland gets these benefits in the future is a choice about proper funding, not fate",
-          "image": "https://www.irishtimes.com/resizer/v2/YLWC6W2Z2FB4TH2DNNGS5OT3C4.jpg?auth=a1631f6edb3f59448b96132a419e4f5a9bd059b5726933cc4028f54db90f1f8e&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-10T09:15:06.000Z"
-        },
-        {
-          "title": "Teaching Irish in European schools: ‘There’s more of a connection with the language’",
-          "link": "https://www.irishtimes.com/ireland/education/2026/11/10/teaching-irish-in-european-schools-theres-more-of-a-connection-with-the-language/",
-          "summary": "Students in Italy and Belgium benefit from a different approach to learning the Irish language",
-          "image": "https://www.irishtimes.com/resizer/v2/XAFQQJ2LZRHKDMT5KZI2AQ5JEA.jpg?auth=7f5b5bec68fb95b39a98563311fa43690de1362fee7442d9047243e955027cf1&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-10T06:01:00.000Z"
+          "title": "The inside story of Tipperary pensioner Josephine Ray’s murder by her daughter’s boyfriend",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/10/the-inside-story-of-tipperary-pensioner-josephine-rays-murder-by-her-daughters-boyfriend/",
+          "summary": "Hasan Ali Gori was convicted of the 2024 killing of the 89-year-old mother of his then partner Mary, a vulnerable adult",
+          "image": "https://www.irishtimes.com/resizer/v2/A66T3SKH5NDTBMJYKOKHMTFJME.jpg?auth=b308632ba9a594cc9795a500dddfc4573f26e8af40c3ebaae4d8bdd2e3269222&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-10T16:18:36.000Z"
         }
       ]
     },
@@ -170,70 +170,72 @@
         "homepage": "https://www.independent.ie",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-10T14:15:47.856Z",
+      "fetchedAt": "2026-11-10T18:37:47.946Z",
       "items": [
         {
-          "title": "‘We were more in love in the end than we were in the beginning’ — Shane MacGowan’s wife on singer’s life ahead of tribute album",
-          "link": "https://www.independent.ie/entertainment/celebrity/we-were-more-in-love-in-the-end-than-we-were-in-the-beginning-shane-macgowans-wife-on-singers-life-ahead-of-tribute-album/a/164219257.html",
-          "summary": "The Pogues legend is gone three years next month and proceeds from a tribute album to be released next week will go to the Simon Community",
-          "image": "https://prod-img.crimeworld.com/public/incoming/gc627w-victoria-mary-clarke.jpg/alternates/BASE_SIXTEEN_NINE/Victoria%20Mary%20Clarke.jpg",
-          "publishedAt": "2026-11-10T14:08:19.000Z"
+          "title": "Scott McTominay had heart ‘shocked’ two days before Scotland’s World Cup opener",
+          "link": "https://www.independent.ie/sport/soccer/international-soccer/scott-mctominay-had-heart-shocked-two-days-before-scotlands-world-cup-opener/a/164376456.html",
+          "image": "https://prod-img.independent.ie/public/incoming/uonwfd-7dcbd81d-76a6-.jpg/alternates/BASE_SIXTEEN_NINE/7dcbd81d-76a6-.jpg",
+          "publishedAt": "2026-11-10T18:13:54.000Z"
         },
         {
-          "title": "Fianna Fáil councillor joins walkout at DLR meeting in solidarity with council staff taking industrial action",
-          "link": "https://www.independent.ie/county/dublin/fianna-fail-councillor-joins-walkout-at-dlr-meeting-in-solidarity-with-council-staff-taking-industrial-action/a/164351146.html",
-          "image": "https://prod-img.independent.ie/public/incoming/5e9yyu-d5c0f69f-2892-4712-8a3c-472d2a96013b.jpg/alternates/BASE_SIXTEEN_NINE/d5c0f69f-2892-4712-8a3c-472d2a96013b.jpg",
-          "publishedAt": "2026-11-10T13:53:00.000Z"
+          "title": "Book of evidence served on man (72) charged with murdering wife in Laois",
+          "link": "https://www.independent.ie/county/laois/book-of-evidence-served-on-man-72-charged-with-murdering-wife-in-laois/a/164314758.html",
+          "image": "https://prod-img.independent.ie/public/incoming/ivi948-file86m20nshns215z2wi1mkz/alternates/BASE_SIXTEEN_NINE/file86m20nshns215z2wi1mkz",
+          "publishedAt": "2026-11-10T18:00:00.000Z"
         },
         {
-          "title": "‘Godfather of AI’ to join EU leaders in Dublin meeting on Friday",
-          "link": "https://www.independent.ie/irish-news/politics/godfather-of-ai-to-join-eu-leaders-in-dublin-meeting-on-friday/a/164354542.html",
-          "image": "https://prod-img.independent.ie/public/incoming/3e6zf3-gettyimages-1260011569.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-1260011569.jpg",
-          "publishedAt": "2026-11-10T13:50:00.000Z"
+          "title": "Rory Finneran: ‘Sometimes you have to take a step back and realise how far you’ve come, it’s mad how quickly football goes’",
+          "link": "https://www.independent.ie/sport/soccer/rory-finneran-sometimes-you-have-to-take-a-step-back-and-realise-how-far-youve-come-its-mad-how-quickly-football-goes/a/164249502.html",
+          "summary": "Ireland U-21 star determined to be his own man, despite admiring the work of Pedri, Casemiro and Roy Keane",
+          "image": "https://prod-img.independent.ie/public/incoming/kks5xd-republic-of-ireland-u17s-media-conference/alternates/BASE_SIXTEEN_NINE/Republic%20of%20Ireland%20U17s%20Media%20Conference",
+          "publishedAt": "2026-11-10T18:00:00.000Z"
         },
         {
-          "title": "Ireland's November statement | Farrell's Fiji decisions | World class McCarthy",
-          "link": "https://www.independent.ie/podcasts/irelands-november-statement-farrells-fiji-decisions-world-class-mccarthy/a/164357049.html",
-          "summary": "Will, Luke and Cian break down Ireland’s big win over Argentina and debate what team Andy Farrell should pick to face Fiji.Joe McCarthy’s star quality, Ireland’s low error count and South Africa’s showdown with France is…",
-          "image": "https://prod-img.independent.ie/public/incoming/uskv57-790.jpeg/alternates/BASE_SIXTEEN_NINE/790.jpeg",
-          "publishedAt": "2026-11-10T13:42:05.000Z"
+          "title": "Hopes of breakthrough in pay talks as improved offer tabled by Government to unions",
+          "link": "https://www.independent.ie/irish-news/politics/hopes-of-breakthrough-in-pay-talks-as-improved-offer-tabled-by-government-to-unions/a/164282421.html",
+          "summary": "HSE warns of ‘significant disruption’ if strike proceeds",
+          "image": "https://prod-img.independent.ie/public/incoming/pv5w93-european-finance-ministers-meet-in-brussels/alternates/BASE_SIXTEEN_NINE/European%20Finance%20Ministers%20Meet%20in%20Brussels",
+          "publishedAt": "2026-11-10T17:31:00.000Z"
         },
         {
-          "title": "Major EU summit in Dublin like ‘speed dating for politicians’, says Leo Varadkar",
-          "link": "https://www.independent.ie/irish-news/major-eu-summit-in-dublin-like-speed-dating-for-politicians-says-leo-varadkar/a/164344357.html",
-          "image": "https://prod-img.independent.ie/public/incoming/d7cm2q-leo-varadkar-promised-to-abolish-usc-in-2016-but-did-not-deliver-on-this.-photo-reuters/alternates/BASE_SIXTEEN_NINE/Leo%20Varadkar%20promised%20to%20abolish%20USC%20in%202016%20but%20did%20not%20deliver%20on%20this.%20Photo%20Reuters",
-          "publishedAt": "2026-11-10T13:35:00.000Z"
+          "title": "Watch highlights: Shelmaliers to meet Kilcormac-Killoughey after Joshua Roche's late winner sinks Lough Lene Gaels",
+          "link": "https://www.independent.ie/county/wexford/watch-highlights-shelmaliers-to-meet-kilcormac-killoughey-after-joshua-roches-late-winner-sinks-lough-lene-gaels/a/164351121.html",
+          "summary": "Shelmaliers 2-21 Lough Lene Gaels 4-14",
+          "image": "https://prod-img.independent.ie/public/incoming/hfc3mq-456.jpeg/alternates/BASE_SIXTEEN_NINE/456.jpeg",
+          "publishedAt": "2026-11-10T17:30:00.000Z"
         },
         {
-          "title": "Trump’s Pentagon chief Hegseth calls moves to impeach him ‘sabotage’",
-          "link": "https://www.independent.ie/world-news/trumps-pentagon-chief-hegseth-calls-moves-to-impeach-him-sabotage/a/164355356.html",
-          "summary": "US Defence Secretary holds a defiant press conference which is his first since May",
-          "image": "https://prod-img.independent.ie/public/incoming/gvvw32-2026-11-10t133936z-1419086203-rc21loaygckl-rtrmadp-3-usa-hegseth.jpg/alternates/BASE_SIXTEEN_NINE/2026-11-10T133936Z_1419086203_RC21LOAYGCKL_RTRMADP_3_USA-HEGSETH.JPG",
-          "publishedAt": "2026-11-10T13:30:00.000Z"
+          "title": "Bits & Bobs | Carrick out, Poch in? | Parrott's mini-slump | Donegal's strange year",
+          "link": "https://www.independent.ie/podcasts/bits-bobs-carrick-out-poch-in-parrotts-mini-slump-donegals-strange-year/a/164374785.html",
+          "summary": "Will is in the hotseat for a Tuesday Bits and Bobs alongside Conan Doherty and Conor McKeon with Michael Carrick’s future and the possibility of Mauricio Pochettino heading to Old Trafford on the menu.Another Ireland…",
+          "image": "https://prod-img.independent.ie/public/incoming/aa28rg-13.jpeg/alternates/BASE_SIXTEEN_NINE/13.jpeg",
+          "publishedAt": "2026-11-10T17:26:16.000Z"
         },
         {
-          "title": "Kickboxer Adam Tierney wins world heavyweight gold medal in Spain",
-          "link": "https://www.independent.ie/county/wexford/kickboxer-adam-tierney-wins-world-heavyweight-gold-medal-in-spain/a/164348806.html",
-          "image": "https://prod-img.independent.ie/public/incoming/k0964h-sp-64at46.jpg/alternates/BASE_SIXTEEN_NINE/sp%2064at46.jpg",
-          "publishedAt": "2026-11-10T13:30:00.000Z"
+          "title": "Gardaí issued urgent appeal for information on missing Meath teenager (17) amid welfare concerns",
+          "link": "https://www.independent.ie/county/meath/gardai-issued-urgent-appeal-for-information-on-missing-meath-teenager-17-amid-welfare-concerns/a/164373826.html",
+          "image": "https://prod-img.independent.ie/public/incoming/2pqaui-nicky-kenny./alternates/BASE_SIXTEEN_NINE/Nicky%20Kenny.",
+          "publishedAt": "2026-11-10T17:25:17.000Z"
         },
         {
-          "title": "Sligo referee Darren Corcoran earns second FAI Cup final medal as Assistant Referee at Aviva Stadium",
-          "link": "https://www.independent.ie/county/sligo/sligo-referee-darren-corcoran-earns-second-fai-cup-final-medal-as-assistant-referee-at-aviva-stadium/a/164344540.html",
-          "image": "https://prod-img.independent.ie/public/incoming/2s62ua-525856900091395239.jpg/alternates/BASE_SIXTEEN_NINE/525856900091395239.jpg",
-          "publishedAt": "2026-11-10T13:30:00.000Z"
+          "title": "DNA matching Scarlett Faulkner found on blood-stained metal pole, trial hears",
+          "link": "https://www.independent.ie/irish-news/courts/dna-matching-scarlett-faulkner-found-on-blood-stained-metal-pole-trial-hears/a/164374697.html",
+          "summary": "Gardai also found a plastic gun in the back of the Ford Transit van beside two registration plates.",
+          "image": "https://prod-img.independent.ie/public/incoming/i1sovv-the-late-scarlett-faulkner./alternates/BASE_SIXTEEN_NINE/The%20late%20Scarlett%20Faulkner.",
+          "publishedAt": "2026-11-10T17:23:00.000Z"
         },
         {
-          "title": "Sligo AC take silver as North Sligo AC claim bronze in Connacht Senior Cross Country League finale",
-          "link": "https://www.independent.ie/county/sligo/sligo-ac-take-silver-as-north-sligo-ac-claim-bronze-in-connacht-senior-cross-country-league-finale/a/164343216.html",
-          "image": "https://prod-img.independent.ie/public/incoming/2wkacp-dsc06080.jpg/alternates/BASE_SIXTEEN_NINE/DSC06080.jpg",
-          "publishedAt": "2026-11-10T13:30:00.000Z"
+          "title": "Niall Kearney left needing final-round rally in DP World Tour card bid at Q-School",
+          "link": "https://www.independent.ie/sport/golf/niall-kearney-left-needing-final-round-rally-in-dp-world-tour-card-bid-at-q-school/a/164374186.html",
+          "image": "https://prod-img.independent.ie/public/incoming/b8u8pb-niall-kearney/alternates/BASE_SIXTEEN_NINE/Niall%20Kearney",
+          "publishedAt": "2026-11-10T17:11:00.000Z"
         },
         {
-          "title": "Irish Writers Union backs Sally Rooney after UK withdrawal of her books over Palestine Action support",
-          "link": "https://www.independent.ie/irish-news/irish-writers-union-backs-sally-rooney-after-uk-withdrawal-of-her-books-over-palestine-action-support/a/164352073.html",
-          "image": "https://prod-img.independent.ie/public/incoming/7u360g-sally-rooney-in-merrion-square-in-dublin-on-july-24-2021.-ellius-gracethe-new-york-times/alternates/BASE_SIXTEEN_NINE/Sally%20Rooney%20in%20Merrion%20Square%20in%20Dublin%20on%20July%2024%202021.%20Ellius%20GraceThe%20New%20York%20Times",
-          "publishedAt": "2026-11-10T13:20:00.000Z"
+          "title": "Limerick Christmas fair gets green light despite calls to move it",
+          "link": "https://www.independent.ie/county/limerick/limerick-christmas-fair-gets-green-light-despite-calls-to-move-it/a/164371000.html",
+          "image": "https://prod-img.independent.ie/public/incoming/71ppmv-previous-years-included-a-christmas-parade-in-limerick-city/alternates/BASE_SIXTEEN_NINE/Previous%20years%20included%20a%20Christmas%20parade%20in%20Limerick%20city",
+          "publishedAt": "2026-11-10T17:05:00.000Z"
         }
       ]
     }
