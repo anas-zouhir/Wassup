@@ -1,0 +1,133 @@
+{
+  "country": "LK",
+  "dishes": [
+    {
+      "id": "hoppers",
+      "name": "Hoppers (appa)",
+      "localName": "ආප්ප",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hoppers%20(appa)%20recipe",
+      "description": "An appam or aappam is a type of thin pancake in South Indian cuisine. It is made with fermented rice batter and coconut milk, traditionally cooked in an appachatti, a deep pan similar in shape to a wok. It is a popular dish in the Indian states of Tamil Nadu and Kerala, as well as Sri Lanka.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Appam_-_%E0%AE%85%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%8D.jpg/500px-Appam_-_%E0%AE%85%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%8D.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Appam",
+      "recipe": {
+        "ingredients": [
+          "1½ cups uncooked white rice",
+          "1½ cups fresh grated coconut",
+          "1 tablespoon sugar",
+          "1 teaspoon salt, or to taste",
+          "2 tablespoons white rice, cooked",
+          "water for soaking rice, and 2 to 2½ cups for grinding",
+          "½ teaspoon yeast or kefir, to start the ferment (optional)"
+        ],
+        "steps": [
+          "Soak the raw rice in water.",
+          "Grind the soaked rice until about ¼ ground.",
+          "Add the grated coconut along with a little water and continue grinding.",
+          "Add the sugar, cooked rice and yeast or kefir, and keep grinding until the whole mixture becomes smooth. It should be thinner than pancake batter.",
+          "Transfer it to a wide open container and leave it to rise overnight.",
+          "The next morning, add salt and refrigerate the batter until use.",
+          "To fry the appams, use a tava or a small bowl-shaped pan with either a non-stick coating or a little oil (coconut or any other refined oil) or ghee.",
+          "Pour a full serving spoon of batter into the middle of the pan and swirl it around a single time so that a little of the batter sticks to the sides.",
+          "Cover the pan with a hot lid and remove the appam with a spatula after 2–3 minutes, when it becomes slightly browned around the edges. It should be round, with a thick centre and thin, lacy edges."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAppam_(Fermented_Rice_Pancake)"
+      }
+    },
+    {
+      "id": "string-hoppers",
+      "name": "String hoppers",
+      "localName": "ඉඳිආප්ප",
+      "videoSearch": "https://www.youtube.com/results?search_query=String%20hoppers%20recipe",
+      "description": "Idiyappam, also known as indiappa, noolappam, noolputtu, sheveo, santhagai, or ottu shavige, is a string hopper dish originating from southern India. It consists of rice flour pressed into noodles, laid into a flat disc-like shape and steamed. The dish also spread to Southeast Asia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Idiyappam_with_Egg_Masala_Curry.jpg/500px-Idiyappam_with_Egg_Masala_Curry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Idiyappam",
+      "recipe": {
+        "ingredients": [
+          "1 cup raw (i.e. not roasted) rice flour",
+          "1 cup water (hot water preferred by some)",
+          "½ cup grated coconut",
+          "1 tsp ghee",
+          "Salt to taste"
+        ],
+        "steps": [
+          "Mix rice flour with hot water and salt.",
+          "Knead it into a smooth dough.",
+          "Press the dough through an idiyappam presser or sieve onto banana leaves on which a little grated coconut has been sprinkled. Alternatively, press it directly onto an idli pan without banana leaves.",
+          "Steam for 5–10 minutes. Some people add a little grated coconut on top before steaming."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AIdiyappam_(South_Indian_Rice_Noodles)"
+      }
+    },
+    {
+      "id": "kottu",
+      "name": "Kottu",
+      "localName": "කොත්තු",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kottu%20recipe",
+      "description": "Kottu roti (Tamil: கொத்து ரொட்டி; Sinhala: කොත්තු රොටි), alternatively spelled kothu roti, is a Sri Lankan dish consisting of chopped roti, a meat curry dish of choice (such as beef, mutton, seafood, chicken) along with scrambled egg, onions, and chillies.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Chicken_Kottu.jpg/500px-Chicken_Kottu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kottu"
+    },
+    {
+      "id": "lamprais",
+      "name": "Lamprais",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lamprais%20recipe",
+      "description": "Lamprais, (Sinhala ලම්ප්‍රයිස්; Tamil லம்ப்ரைஸ்), also transliterated in English as \"lumprice\", \"lampraise\" or \"lumprais\", is a Sri Lankan dish that was introduced by the country's Dutch Burgher population.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Lamprais_%282%29.jpg/500px-Lamprais_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lamprais"
+    },
+    {
+      "id": "kiribath",
+      "name": "Kiribath",
+      "localName": "කිරිබත්",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kiribath%20recipe",
+      "description": "Kiribath (Sinhala: කිරිබත්) is a traditional Sri Lankan dish made from rice. It is prepared by cooking rice with coconut milk, hence this name, and can be considered a form of rice cake or rice pudding. Kiribath is an essential dish in Sri Lankan cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Kiribath.jpg/500px-Kiribath.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kiribath"
+    },
+    {
+      "id": "pol-sambol",
+      "name": "Pol sambol",
+      "localName": "පොල් සම්බෝල",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pol%20sambol%20recipe",
+      "description": "Pol sambol (Sinhala: පොල් සම්බෝල), or thenkai sambal (Tamil: தேங்காய் சம்பல்), is a traditional Sri Lankan dish made from coconut, mostly used as an accompaniment with rice, string hoppers, hoppers and curries.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Pol_Sambol.jpg/500px-Pol_Sambol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pol_sambol"
+    },
+    {
+      "id": "pittu",
+      "name": "Pittu",
+      "localName": "පිට්ටු",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pittu%20recipe",
+      "description": "Puttu or Pittu is a dish native to the South Indian states of Kerala and Tamil Nadu. It is also native to Sri Lanka in the regions of Jaffna, Trincomalee, Batticaloa,Ampara and Negombo, Puttalam. It is a famous breakfast dish among Sri Lankan Tamils.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Puttu_%28Rice_Flour_steamed_cake%29.jpg/500px-Puttu_%28Rice_Flour_steamed_cake%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Puttu"
+    },
+    {
+      "id": "watalappam",
+      "name": "Watalappam",
+      "localName": "වටලප්පම්",
+      "videoSearch": "https://www.youtube.com/results?search_query=Watalappam%20recipe",
+      "description": "Watalappam (also called watalappan or vattilappam) (Sinhala: වටලප්පන්, Tamil: வட்டிலப்பம், Sri Lankan Malay: serikaya) is a Sri Lankan coconut custard pudding made of coconut milk or condensed milk, jaggery, cashew nuts, eggs, various spices, including cardamom, cloves, and nutmeg, and sometimes thick pandan juice or g…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Watalappan-Sri_Lanka.jpg/500px-Watalappan-Sri_Lanka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Watalappam"
+    },
+    {
+      "id": "kokis",
+      "name": "Kokis",
+      "localName": "කොකිස්",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kokis%20recipe",
+      "description": "Kokis (Sinhala: කොකිස්) is a deep-fried, crispy Sri Lankan food made from rice flour and coconut milk. Considered as a festive traditional Sri Lankan dish. This is an important snack when celebrating Sinhala New Year and plays a major role in the festivities.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Kokis.JPG/500px-Kokis.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kokis"
+    },
+    {
+      "id": "kavum",
+      "name": "Kavum",
+      "localName": "කැවුම්",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kavum%20recipe",
+      "description": "Kevum or kavum (Sinhala: කැවුම්) is a deep-fried Sri Lankan sweet made from rice flour and kithul (sugar-palm) treacle, with a number of variants adding additional ingredients. It is also known as oil cake. Kevum is traditionally given and consumed during celebrations of Sinhala and Tamil New Year.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Konda_Kavum_01.JPG/500px-Konda_Kavum_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kevum"
+    }
+  ]
+}

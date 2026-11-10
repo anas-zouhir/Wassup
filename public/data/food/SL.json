@@ -1,0 +1,53 @@
+{
+  "country": "SL",
+  "dishes": [
+    {
+      "id": "groundnut-soup",
+      "name": "Groundnut soup",
+      "videoSearch": "https://www.youtube.com/results?search_query=Groundnut%20soup%20recipe",
+      "description": "Peanut soup or groundnut soup is a soup made from peanuts, often with various other ingredients. It is a staple in West African cuisine but is also eaten in East Asia (Taiwan), the United States (mainly in Virginia) and other areas around the world.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Fufu.jpg/500px-Fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peanut_soup"
+    },
+    {
+      "id": "fufu",
+      "name": "Fufu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fufu%20recipe",
+      "description": "Fufu (or fufuo, foofoo, foufou foo-foo ) is a pounded meal found in West African cuisine originally made from boiled cassava, plantains, and cocoyam. Fufu's prevalence in West Africa has been noted in local literature, such as Chinua Achebe's Things Fall Apart. Fufu is a Twi word originating from the Akans in Ghana.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Wrapped_fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fufu"
+    },
+    {
+      "id": "jollof-rice",
+      "name": "Jollof rice",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jollof%20rice%20recipe",
+      "description": "Jollof (), or jollof rice, is a rice dish from Senegal, West Africa. It is typically made with long-grain rice, tomatoes, chilis, onions, spices, and sometimes other vegetables and/or meat in a single pot, although its ingredients and preparation methods vary across different regions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Jollof_Rice_with_Stew.jpg/500px-Jollof_Rice_with_Stew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "id": "binch-akara",
+      "name": "Binch akara",
+      "videoSearch": "https://www.youtube.com/results?search_query=Binch%20akara%20recipe",
+      "description": "Akara (Yoruba: àkàrà; ) is a type of fritter made from cowpeas or beans (black-eyed peas) that originated in Yorubaland, from the Yoruba ethnic group inhabiting parts of Nigeria, Benin and Togo. It is sometimes referred to as \"bean cake\" in English.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Beans_Ball-Akara.jpg/500px-Beans_Ball-Akara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Akara"
+    },
+    {
+      "id": "plasas",
+      "name": "Plasas (palaver sauce)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Plasas%20(palaver%20sauce)%20recipe",
+      "description": "Palaver sauce or palava sauce (or plasas) is a type of stew widely eaten in West Africa, including Ghana, Liberia, Sierra Leone.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Palava_sauce_w-_cocoyam_leaf_%285612472154%29.jpg/500px-Palava_sauce_w-_cocoyam_leaf_%285612472154%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Palaver_sauce"
+    },
+    {
+      "id": "pepper-soup",
+      "name": "Pepper soup",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pepper%20soup%20recipe",
+      "description": "Peppersoup (or pepper soup) is a soup eaten by Cameroonians and Nigerians. This soup is made using various meats or fish, chili peppers, salt, scent leaves and calabash nutmeg as its primary ingredients. It is a spicy soup that has a light, watery texture.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Assorted_meat_pepper_soup_at_Lagos_Island.jpg/500px-Assorted_meat_pepper_soup_at_Lagos_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peppersoup"
+    }
+  ]
+}

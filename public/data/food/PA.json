@@ -1,0 +1,87 @@
+{
+  "country": "PA",
+  "dishes": [
+    {
+      "id": "sancocho",
+      "name": "Sancocho",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sancocho%20recipe",
+      "description": "Sancocho (from the Spanish verb sancochar, 'to parboil') is a traditional stew in several Caribbean and Latin American cuisines. Latin variations represent popular national dishes in Dominican Republic, Colombia, Cuba, Honduras, Mexico, Panama, Puerto Rico, Trinidad and Tobago and Venezuela.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Sancocho_de_espinazo_de_cerdo.jpg/500px-Sancocho_de_espinazo_de_cerdo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sancocho"
+    },
+    {
+      "id": "ropa-vieja",
+      "name": "Ropa vieja",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ropa%20vieja%20recipe",
+      "description": "Ropa vieja is a dish with regional variations in Spain, Latin America and the Philippines. It normally includes some form of stewed beef and tomatoes with a sofrito base. Originating in Spain, it is known today as one of the national dishes of Cuba.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/RealRopaVieja.jpg/500px-RealRopaVieja.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ropa_vieja",
+      "recipe": {
+        "ingredients": [
+          "2 lb flank steak, cut into large pieces",
+          "Salt",
+          "Sazón",
+          "Dried oregano",
+          "Garlic powder",
+          "Ground cumin",
+          "Black pepper",
+          "1 can tomato paste",
+          "Chicken, vegetable, or beef broth",
+          "Good-quality dry white wine",
+          "Yellow or white onion, chopped",
+          "Green and red bell peppers, cubed",
+          "Carrots, sliced",
+          "4–6 cloves of garlic, cut in quarters",
+          "½ cup pitted green olives, sliced",
+          "Bay leaves",
+          "Cilantro"
+        ],
+        "steps": [
+          "Season the beef with salt, sazón, cumin, oregano, garlic powder, and pepper, and coat well.",
+          "Whisk together the tomato paste, wine, and broth in a medium bowl. If you’re cooking this dish on the stove, use 3 cups of broth—you’ll need more since some of it will evaporate on the stove.",
+          "Sauté the vegetables:",
+          "* If using an Instant Pot, set it to the sauté setting. Add the oil and then the onions, bell peppers, and garlic. Cook for 3–4 minutes until softened. Then press cancel.",
+          "* If using the stove, sauté the vegetables in a large Dutch oven on medium-high heat.",
+          "Nestle the meat into the onions so half are on the bottom and half are above the meat. Add the carrots, olives, bay leaves, and cilantro (if using). Pour the tomato mixture over everything.",
+          "Cook:",
+          "* If using an Instant Pot, put the lid on, and cook on high for 45 minutes. Once done, unplug the pot, and do a natural release.",
+          "* If using the stove, bring the pot to a boil, cover, reduce the heat to low, and simmer until the meat easily shreds. It should take about 1½–2 hours. Add more water if it gets too dry.",
+          "Shred the beef, discard the bay leaves, and top with more cilantro if desired."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APanamanian_Ropa_Vieja"
+      }
+    },
+    {
+      "id": "carimanolas",
+      "name": "Carimañolas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Carima%C3%B1olas%20recipe",
+      "description": "A carimañola, also called caribañolas, yuca fritters, or pastel de yuca, is a traditional fried food commonly found in the Caribbean coastal regions of Colombia and Panama.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Barranquilla_-_Carima%C3%B1olas.jpg/500px-Barranquilla_-_Carima%C3%B1olas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Carima%C3%B1ola"
+    },
+    {
+      "id": "patacones",
+      "name": "Patacones",
+      "videoSearch": "https://www.youtube.com/results?search_query=Patacones%20recipe",
+      "description": "Tostones are twice-fried plantain slices commonly found in Latin American cuisine and Caribbean cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Tostones.JPG/500px-Tostones.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tostones"
+    },
+    {
+      "id": "tamal-de-olla",
+      "name": "Tamal de olla",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tamal%20de%20olla%20recipe",
+      "description": "A tamale is a traditional Mesoamerican dish made of masa, a dough made from nixtamalized corn, which is steamed in a corn husk or banana leaves. The wrapping can either be discarded prior to eating or used as a plate.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tamal_oaxaque%C3%B1o.jpg/500px-Tamal_oaxaque%C3%B1o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tamale"
+    },
+    {
+      "id": "bollos",
+      "name": "Bollos",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bollos%20recipe",
+      "description": "A bollo is a bun, common in Latin America, made from corn, yuca, or potato. Variations are found in the cuisines of Colombia, Ecuador, and Panama. Corn and yuca bollos are an indigenous food of the Caribbean coast of Colombia and Panama, where they are boiled in leaves.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Bollo_de_yuca.jpg/500px-Bollo_de_yuca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bollo"
+    }
+  ]
+}

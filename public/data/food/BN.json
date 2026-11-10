@@ -1,0 +1,37 @@
+{
+  "country": "BN",
+  "dishes": [
+    {
+      "id": "ambuyat",
+      "name": "Ambuyat",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ambuyat%20recipe",
+      "description": "Ambuyat is a dish derived from the interior trunk of the sago palm. It is a starchy, bland substance similar to tapioca.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Ambuyat_in_Bandar_Seri_Begawan_Brunei.jpg/500px-Ambuyat_in_Bandar_Seri_Begawan_Brunei.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ambuyat"
+    },
+    {
+      "id": "nasi-katok",
+      "name": "Nasi katok",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nasi%20katok%20recipe",
+      "description": "Nasi katok (Jawi: ناسي كاتوق) is a dish originating from Brunei. Nasi katok is traditionally composed of steamed rice, ayam goreng (fried chicken) and a spicy chilli sambal sauce, often presented as individual servings wrapped in brown paper or contained within boxes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Nasi_Katok.jpg/500px-Nasi_Katok.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nasi_katok"
+    },
+    {
+      "id": "kelupis",
+      "name": "Kelupis",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kelupis%20recipe",
+      "description": "Kelupis (lit. 'glutinous rice rolls') is a traditional kuih (snack) for the Bisaya, Kedayan, Dusun, Bajau, and Lun Bawang people of East Malaysia and Brunei. Its closest counterparts in West Malaysia are ketupat and lemang. In Brunei, kelupis has been recognised as a national cultural heritage.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Kelupis.jpg/500px-Kelupis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kelupis"
+    },
+    {
+      "id": "kuih-cincin",
+      "name": "Kuih cincin",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kuih%20cincin%20recipe",
+      "description": "Cincin (lit. 'ring cakes') is a traditional kuih for the Bruneian Malay people in Brunei and the Malaysian state of Sabah.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Kuih_cincin.JPG/500px-Kuih_cincin.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cincin"
+    }
+  ]
+}

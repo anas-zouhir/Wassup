@@ -1,0 +1,74 @@
+{
+  "country": "SV",
+  "dishes": [
+    {
+      "id": "pupusas",
+      "name": "Pupusas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pupusas%20recipe",
+      "description": "A pupusa is a thick griddle cake or flatbread from El Salvador and Honduras made with cornmeal or rice flour stuffed with one or more ingredients including cheese, beans, chicharrón, or squash. It can be served with curtido and tomato sauce and is traditionally eaten by hand.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Pupusas_El_Salvador_Centro_America.JPG/500px-Pupusas_El_Salvador_Centro_America.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pupusa",
+      "recipe": {
+        "ingredients": [
+          "Corn masa",
+          "Water",
+          "3 cups of shredded cheese (use a combination of hard and soft cheese; you can mix frying cheese, mozzarella, and ricotta)",
+          "3–4 tablespoons of heavy cream",
+          "½–1 cup of loroco (this can be hard to source, so you can use very finely chopped green peppers or scallions instead)",
+          "Salt to taste",
+          "1 cup bacon",
+          "Garlic (optional), minced",
+          "4–5 tomatoes",
+          "1 green pepper",
+          "Salt to taste",
+          "Ground and fried beans (can be canned or prepared from your favorite recipe)"
+        ],
+        "steps": [
+          "Follow the instructions on the bag of masa for making tortilla dough, and make as much dough as needed. One pupusa uses about as much dough as two tortillas.",
+          "Set the dough aside while you prepare the filling.",
+          "Make a paste with all of the ingredients. To avoid the paste leaking out of the pupusas, it should not be too soft.",
+          "Cook the bacon with some garlic. Set fat aside but do not discard.",
+          "Once cooked, grind bacon with the tomatoes, green pepper, and salt to taste.",
+          "Mix in some of the bacon fat until it has a soft consistency.",
+          "Prepare the ground and fried beans as desired.",
+          "Shape and fill 2 tbsp of the dough per pupusa using one of the two methods below. When filling the pupusas add some of the bean, chicharrón, and/or cheese fillings.",
+          "* Beginner method: Shape the dough into a ball, and clap it between your hands until you make a round, thin tortilla about ⅛ in thick. Continue making more tortillas this way. Put some filling on one tortilla, cover with another, and press the sides to seal them.",
+          "* Experienced method: Shape the dough into a ball, then insert your thumb in the ball to make a hole in the center. Fill the hole with some filling, and seal the hole by pushing and pinching the dough on the sides up. Carefully clap the pupusa between your hands to flatten it without pressing out the filling.",
+          "Cook the pupusas on a lightly greased griddle, pan, or electric pancake griddler over low-medium heat (325–350°F) on one side, then the other until they are cooked. Each side will be ready when it no longer sticks to the pan (depending on the thickness of the tortillas, this might take 4 minutes or more per side).",
+          "Top the pupusas with curtido and tomato sauce."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APupusas"
+      }
+    },
+    {
+      "id": "curtido",
+      "name": "Curtido",
+      "videoSearch": "https://www.youtube.com/results?search_query=Curtido%20recipe",
+      "description": "Curtido is a type of lightly fermented relish. It is typical in Salvadoran cuisine and that of other Central American countries. In El Salvador it is usually made with cabbage, onions, carrots, oregano, and sometimes lime juice; it resembles sauerkraut, kimchi, pikliz or tart coleslaw.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Condiments_for_Pupusas_in_El_Salvador_2012.jpg/500px-Condiments_for_Pupusas_in_El_Salvador_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Curtido"
+    },
+    {
+      "id": "sopa-de-pata",
+      "name": "Sopa de pata",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sopa%20de%20pata%20recipe",
+      "description": "Sopa de pata is a hearty Salvadoran soup made from cow's feet, tripe, yuca (also called cassava or manioc), cabbage leaves, chayotes, sweet corn, plantains, and green beans. It may be seasoned with Mexican coriander leaves and flavored to taste with lemon or chile powder.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Sopa_de_pata.jpg/500px-Sopa_de_pata.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sopa_de_pata"
+    },
+    {
+      "id": "quesadilla-salvadorena",
+      "name": "Quesadilla salvadoreña",
+      "videoSearch": "https://www.youtube.com/results?search_query=Quesadilla%20salvadore%C3%B1a%20recipe",
+      "description": "Quesadilla salvadoreña, or Salvadoran quesadilla, is a pan dulce, similar to a pound cake, made with rice flour and queso duro blando and topped with sesame seeds, that is popular in El Salvador and eastern Guatemala. Queso duro blando can be substituted with Parmesan cheese.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Quesadilla_Salvadore%C3%B1a"
+    },
+    {
+      "id": "gallo-en-chicha",
+      "name": "Gallo en chicha",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gallo%20en%20chicha%20recipe",
+      "description": "Gallo en chicha is a traditional chicken dish in Salvadoran cuisine, also eaten elsewhere in Central America, such as in Guatemala. The dish is made with rooster, Salvadoran chicha and panela.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gallo_en_chicha"
+    }
+  ]
+}

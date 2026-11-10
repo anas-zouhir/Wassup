@@ -1,0 +1,144 @@
+{
+  "country": "TN",
+  "dishes": [
+    {
+      "id": "brik",
+      "name": "Brik",
+      "localName": "بريك",
+      "videoSearch": "https://www.youtube.com/results?search_query=Brik%20recipe",
+      "description": "Brik ( BREEK; بريك) or burek is the North African version of borek, a stuffed malsouka pastry which is commonly deep fried. The best-known version is the egg brik, a whole egg in a triangular pastry pocket with chopped onion, tuna, harissa and parsley.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Brikdish.jpg/500px-Brikdish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Brik"
+    },
+    {
+      "id": "lablabi",
+      "name": "Lablabi",
+      "localName": "لبلابي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lablabi%20recipe",
+      "description": "Lablabi or lablebi (لبلابي) is a traditional Tunisian dish based on chickpeas in a thin garlic- and cumin-flavored broth, served over small pieces of stale crusty bread. It is a staple comfort food in Tunisia and is also found in variations in Iraq and other parts of the Middle East.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Bol_de_Leblabi_de_Tunisie%2C_21_mars_2017.jpg/500px-Bol_de_Leblabi_de_Tunisie%2C_21_mars_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lablabi"
+    },
+    {
+      "id": "shakshouka",
+      "name": "Shakshouka",
+      "localName": "شكشوكة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shakshouka%20recipe",
+      "description": "Shakshouka is a Maghrebi dish of eggs poached in a sauce of tomatoes, olive oil, peppers, onion, and garlic, commonly spiced with cumin, paprika, and cayenne pepper. Shakshouka is a popular dish throughout North Africa and the Middle East.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Shakshuka_by_Calliopejen1.jpg/500px-Shakshuka_by_Calliopejen1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shakshouka"
+    },
+    {
+      "id": "harissa",
+      "name": "Harissa",
+      "localName": "هريسة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Harissa%20recipe",
+      "description": "Harissa (Arabic: هريسة, romanized: harīsa, from Tunisian Arabic) is a Tunisian hot chili pepper paste. Peppers in the country were first grown in the Cape Bon Peninsula, birthplace of the condiment, with Nabeul famous for being the primary center for its production.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%D9%87%D8%B1%D9%8A%D8%B3%D8%A9_%D8%AF%D9%8A%D8%A7%D8%B1%D9%8A.JPG/500px-%D9%87%D8%B1%D9%8A%D8%B3%D8%A9_%D8%AF%D9%8A%D8%A7%D8%B1%D9%8A.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Harissa"
+    },
+    {
+      "id": "couscous",
+      "name": "Couscous",
+      "localName": "كسكسي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Couscous%20recipe",
+      "description": "Couscous (Tamazight: ⵙⴽⵙⵓ seksu or ⴽⵙⴽⵙⵓ keskesu), is a traditional North African dish of small steamed granules of rolled semolina that is often served with a stew spooned on top.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg/500px-Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Couscous"
+    },
+    {
+      "id": "mechouia",
+      "name": "Slata mechouia",
+      "localName": "سلاطة مشوية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Slata%20mechouia%20recipe",
+      "description": "Mechouia salad (Tunisian Arabic: سلاطة مشوية, romanized: slata meshwiya, \"grilled salad\") is a Tunisian salad. A very popular first course dish from Tunisia, a country in North Africa that appreciates spiciness, it is especially consumed in the summer.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Salade_Mechouwya%2C_Tunisie%2C_juin_2021.jpg/500px-Salade_Mechouwya%2C_Tunisie%2C_juin_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mechouia_salad"
+    },
+    {
+      "id": "chorba-frik",
+      "name": "Chorba frik",
+      "localName": "شربة فريك",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chorba%20frik%20recipe",
+      "description": "Chorba frik (Arabic: شربة فريك) is a traditional soup prepared in Algeria and Tunisia that is made with lamb or beef, vegetables, and frik, a type of wheat that has been harvested while still green and then roasted and rubbed to remove the outer husk. The resulting grain is then dried and can be stored for later use.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Chorba_frik_algerienne.jpg/500px-Chorba_frik_algerienne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chorba_frik",
+      "recipe": {
+        "ingredients": [
+          "300 grams (⅔ pound) ground beef",
+          "200 grams (7 ounces) crushed green wheat",
+          "100 grams (3.5 ounces) chopped celery",
+          "100 grams (3.5 ounces) chopped parsley",
+          "1 tablespoon tomato puree",
+          "1 teaspoon chile flakes",
+          "1 teaspoon pepper",
+          "2 teaspoons salt",
+          "2 tablespoons olive oil",
+          "2 liters (8½ cups) water",
+          "1 lemon",
+          "100 grams (3.5 ounces) soaked chickpeas (optional)"
+        ],
+        "steps": [
+          "Mix all the ingredients together in a pot large enough to contain everything.",
+          "Place the pot over low heat. Cook for 90 minutes, stirring often.",
+          "Serve with lemon"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChorba_Frik_(Freekeh_Soup)"
+      }
+    },
+    {
+      "id": "makroudh",
+      "name": "Makroudh",
+      "localName": "مقروض",
+      "videoSearch": "https://www.youtube.com/results?search_query=Makroudh%20recipe",
+      "description": "Makroudh (Arabic: مقروض, romanized: maqrūḍ), also spelled Makrout, is a cookie from the cuisine of the Maghreb. It is filled with dates and nuts or almond paste, that has a diamond shape – the name derives from this characteristic shape.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Makrouds.JPG/500px-Makrouds.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Makroudh"
+    },
+    {
+      "id": "bambalouni",
+      "name": "Bambalouni",
+      "localName": "بمبالوني",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bambalouni%20recipe",
+      "description": "Bambalouni (Arabic: بمبالوني), also referred to as bambaloni, is a sweet Tunisian donut. It can be made at home or bought from fast food shops. It is prepared with a flour dough fried in oil.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bambalouni_05.JPG/500px-Bambalouni_05.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bambalouni"
+    },
+    {
+      "id": "bsisa",
+      "name": "Bsisa",
+      "localName": "بسيسة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bsisa%20recipe",
+      "description": "Bsisa (Arabic: بسيسة, Berber aḍemmin, also known as bsissa) is a fine powder made from roasted barley and legumes, typical in North African cuisine, prepared and served either as a paste or drink. It dates back to antiquity.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Tunisian_bsisa.jpg/500px-Tunisian_bsisa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bsisa"
+    },
+    {
+      "id": "mloukhia",
+      "name": "Mloukhia",
+      "localName": "ملوخية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mloukhia%20recipe",
+      "description": "Mulukhiyah (Arabic: مُلُوخِيَّة, romanized: mulūḫiyya), also known as mulukhiyya, molokhiyya, melokhiyya, molohiya or ewédú, is a type of jute plant whose leaves are used to prepare a traditional Egyptian and Arab dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Molokheya_Egypt%2C_2012.JPG/500px-Molokheya_Egypt%2C_2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mulukhiyah"
+    },
+    {
+      "id": "kamounia",
+      "name": "Kamounia",
+      "localName": "كمونية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kamounia%20recipe",
+      "description": "Kamounia (Arabic: كمونية), sometimes spelled kamouneya, is a beef and liver stew prepared with cumin. It is a part of Sudanese, Egyptian, Algerian, Libyan and Tunisian cuisines. Lamb is also sometimes used as a primary ingredient, and additional spices are sometimes used.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Tunis_Gla%C3%AFa_Djerba.JPG/500px-Tunis_Gla%C3%AFa_Djerba.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kamounia"
+    },
+    {
+      "id": "mesfouf",
+      "name": "Mesfouf",
+      "localName": "مسفوف",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mesfouf%20recipe",
+      "description": "Mesfouf, amekfoul or masfouf (Berber languages: Amekful, Arabic: مسفوف) is an Algerian and Tunisian dish which is a variant of couscous with finely rolled semolina and butter or olive oil. This food is quite popular in the Maghreb. It is conventional to consume the mesfouf during the holy month of Ramadan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/%D9%85%D8%B3%D9%81%D9%88%D9%81_%D8%AA%D9%88%D9%86%D8%B3%D9%8A_%D8%A8%D8%A7%D9%84%D8%B1%D9%85%D8%A7%D9%86_%D9%88%D8%A7%D9%84%D8%B2%D8%A8%D9%8A%D8%A8.jpg/500px-%D9%85%D8%B3%D9%81%D9%88%D9%81_%D8%AA%D9%88%D9%86%D8%B3%D9%8A_%D8%A8%D8%A7%D9%84%D8%B1%D9%85%D8%A7%D9%86_%D9%88%D8%A7%D9%84%D8%B2%D8%A8%D9%8A%D8%A8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mesfouf"
+    }
+  ]
+}

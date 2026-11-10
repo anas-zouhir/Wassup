@@ -1,0 +1,44 @@
+{
+  "country": "GA",
+  "dishes": [
+    {
+      "id": "nyembwe",
+      "name": "Poulet nyembwe",
+      "videoSearch": "https://www.youtube.com/results?search_query=Poulet%20nyembwe%20recipe",
+      "description": "Moambe chicken (French: poulet à la moambe or simply poulet moambe, Portuguese: moamba de galinha) is a savory chicken dish popular in Central Africa and considered the national dish of Angola, the Republic of the Congo, and the Democratic Republic of the Congo.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Poulet_%C3%A0_la_moambe.JPG/500px-Poulet_%C3%A0_la_moambe.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Moambe_chicken"
+    },
+    {
+      "id": "chikwangue",
+      "name": "Chikwangue",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chikwangue%20recipe",
+      "description": "Chikwangue, also known in Cameroon as bobolo and in the Congo River basin language of Lingala as kwanga, is a starchy, fermented-cassava product that is a staple food across Central Africa: the Democratic Republic of Congo (DRC), the Republic of Congo (RotC), Gabon, Cameroon and Equatorial Guinea.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Cassava_Bread_-_cassava_cooked_in_leaf_wrap_%28Kwanga%2C_Chikwangue%29.jpg/500px-Cassava_Bread_-_cassava_cooked_in_leaf_wrap_%28Kwanga%2C_Chikwangue%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chikwangue"
+    },
+    {
+      "id": "atanga",
+      "name": "Atanga",
+      "videoSearch": "https://www.youtube.com/results?search_query=Atanga%20recipe",
+      "description": "Dacryodes edulis is a species of fruit tree in the family Burseraceae native to west-central Sub-Saharan Africa, known primarily for its edible fruit, which is both gathered from the wild and grown on plantations.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Safoutier.jpg/500px-Safoutier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dacryodes_edulis"
+    },
+    {
+      "id": "saka-saka",
+      "name": "Saka-saka",
+      "videoSearch": "https://www.youtube.com/results?search_query=Saka-saka%20recipe",
+      "description": "Saka-saka is a 2013 Filipino action film co-written and directed by Toto Natividad. The film stars Ejay Falcon and Joseph Marco. It was one of the entries in the 2013 Metro Manila Film Festival under the New Wave category.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saka-saka"
+    },
+    {
+      "id": "fufu",
+      "name": "Fufu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fufu%20recipe",
+      "description": "Fufu (or fufuo, foofoo, foufou foo-foo ) is a pounded meal found in West African cuisine originally made from boiled cassava, plantains, and cocoyam. Fufu's prevalence in West Africa has been noted in local literature, such as Chinua Achebe's Things Fall Apart. Fufu is a Twi word originating from the Akans in Ghana.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Wrapped_fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fufu"
+    }
+  ]
+}

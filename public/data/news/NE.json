@@ -1,0 +1,67 @@
+{
+  "country": "NE",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "airinfo-ne",
+        "name": "Aïr Info",
+        "homepage": "https://www.airinfoagadez.com",
+        "lang": "fr-NE"
+      },
+      "fetchedAt": "2026-10-22T15:12:37.713Z",
+      "items": [
+        {
+          "title": "Niger–Libye : Eva Gretzmacher et Claudia Abbt libérées et arrivées à Benghazi",
+          "link": "https://airinfoagadez.com/2026/10/22/niger-libye-eva-gretzmacher-et-claudia-abbt-liberees-et-arrivees-a-benghazi/",
+          "summary": "L’Autrichienne Eva Gretzmacher et la Suissesse Claudia Abbt, enlevées séparément à Agadez en 2025, ont été libérées et sont arrivées mercredi 21 octobre à Benghazi, [...]",
+          "publishedAt": "2026-10-21T23:25:46.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "tamtaminfo-ne",
+        "name": "Tam Tam Info",
+        "homepage": "https://www.tamtaminfo.com",
+        "lang": "fr-NE"
+      },
+      "fetchedAt": "2026-10-22T15:12:42.059Z",
+      "items": [
+        {
+          "title": "Carburant à Niamey : le Gouvernement au dépôt de SOREY pour accélérer les livraisons…",
+          "link": "https://tamtaminfo.com/carburant-a-niamey-le-gouvernement-au-depot-de-sorey-pour-accelerer-les-livraisons/",
+          "summary": "Dans le cadre du suivi rapproché de la situation de l’approvisionnement en produits pétroliers, les ministres du Pétrole et du Commerce, accompagnés de la Directrice générale de la Société nigérienne des produits…",
+          "publishedAt": "2026-10-21T21:34:55.000Z"
+        },
+        {
+          "title": "Vers une communication institutionnelle modernisée, harmonisée et plus proche des citoyens…",
+          "link": "https://tamtaminfo.com/vers-une-communication-institutionnelle-modernisee-harmonisee-et-plus-proche-des-citoyens/",
+          "summary": "Le ministère de la Communication et des Nouvelles Technologies de l’Information a réuni, ce mardi 20 octobre 2026 à Niamey, les responsables de la communication et des relations publiques des ministères et institutions…",
+          "image": "https://tamtaminfo.com/wp-content/uploads/2026/09/FB_IMG_1790197503508.jpg",
+          "publishedAt": "2026-10-21T20:47:01.000Z"
+        },
+        {
+          "title": "Puits Goumeri W-8 : l’expertise algérienne de la Sonatrach achève sa mission d’appui au Niger…",
+          "link": "https://tamtaminfo.com/puits-goumeri-w-8-lexpertise-algerienne-de-la-sonatrach-acheve-sa-mission-dappui-au-niger/",
+          "summary": "Les experts algériens dépêchés par la Sonatrach ont achevé leur mission au Niger, après avoir apporté leur appui technique dans la gestion de l’incident survenu aux puits Goumeri W-8, dans le bloc pétrolier d’Agadem.…",
+          "image": "https://tamtaminfo.com/wp-content/uploads/2026/10/FB_IMG_1792478056418.jpg",
+          "publishedAt": "2026-10-20T18:16:07.000Z"
+        },
+        {
+          "title": "OCRTIS, un rempart contre la drogue et la criminalité au Niger…",
+          "link": "https://tamtaminfo.com/ocrtis-un-rempart-contre-la-drogue-et-la-criminalite-au-niger/",
+          "summary": "La lutte contre la drogue est un combat pour la santé publique, la sécurité des familles et l’avenir de notre jeunesse. Au Niger, l’Office central de répression du trafic illicite des stupéfiants (OCRTIS), avec l’appui…",
+          "image": "https://tamtaminfo.com/wp-content/uploads/2026/10/images-87.jpeg",
+          "publishedAt": "2026-10-19T18:31:24.000Z"
+        },
+        {
+          "title": "Diaspora AES au Sénégal : un soutien renouvelé à la marche souveraine de la Confédération…",
+          "link": "https://tamtaminfo.com/diaspora-aes-au-senegal-un-soutien-renouvele-a-la-marche-souveraine-de-la-confederation/",
+          "summary": "En marge de son séjour à Dakar dans le cadre de la Réunion ministérielle du dialogue sur la coopération entre la Communauté Économique des États de l’Afrique de l’Ouest et la Confédération des États du Sahel, la…",
+          "image": "https://tamtaminfo.com/wp-content/uploads/2026/10/FB_IMG_1792433558220.jpg",
+          "publishedAt": "2026-10-19T18:16:12.000Z"
+        }
+      ]
+    }
+  ]
+}

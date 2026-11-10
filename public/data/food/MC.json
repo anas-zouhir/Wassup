@@ -1,0 +1,63 @@
+{
+  "country": "MC",
+  "dishes": [
+    {
+      "id": "barbagiuan",
+      "name": "Barbagiuan",
+      "localName": "Barbajuan",
+      "videoSearch": "https://www.youtube.com/results?search_query=Barbagiuan%20recipe",
+      "description": "Barbajuan (also spelled barbagiuan or barbagiuai) is an appetizer mainly found in the eastern part of the French Riviera, in the western part of Liguria and in Monaco. A kind of fritter stuffed with Swiss chard, rice and ricotta, among other ingredients.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Barbaguiai.jpg/500px-Barbaguiai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbajuan"
+    },
+    {
+      "id": "socca",
+      "name": "Socca",
+      "videoSearch": "https://www.youtube.com/results?search_query=Socca%20recipe",
+      "description": "Socca is a small-sided team sports variant of association football, best known in 6-a-side 40-minute format. It is also played in a 7-a-side format. The International Socca Federation (ISF) is a governing body for Socca.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Socca_EuroCup_2024_-_Moldova_-_Italy.jpg/500px-Socca_EuroCup_2024_-_Moldova_-_Italy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Socca",
+      "recipe": {
+        "ingredients": [
+          "300 g (2 cups) chickpea flour",
+          "500 ml (2 cups) water",
+          "2 tbsp olive oil",
+          "1 tsp salt",
+          "Black pepper to taste; 2–3 decent grinds of a grinder should do"
+        ],
+        "steps": [
+          "Heat oven as high as it can go—around 300°C / 570°F is traditional, but do whatever your oven can manage that gets close to this. If using a cast-iron pan, get it into the oven at the start so that it is hot when the batter goes into it.",
+          "Whisk all the ingredients together well, ensuring there are no lumps. This should make a very thin, easy-to-pour batter.",
+          "Once the oven is up to temperature, pour some of the batter into the hot pan or onto the plaque, and put into the oven for 8–9 minutes at 300°C / 570°F, or 13–15 minutes at 250°C / 480°F. With a 50 cm plaque or pan, cook half the batter at a time—the batter should cover the plaque or pan very thinly.",
+          "Remove from the oven and cut into triangular wedges. Serve hot.",
+          "Repeat for the rest of the batter."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASocca_(Italian_Chickpea_Flatbread)"
+      }
+    },
+    {
+      "id": "pissaladiere",
+      "name": "Pissaladière",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pissaladi%C3%A8re%20recipe",
+      "description": "Pissaladière is a dish of flatbread with toppings from the region of Provence and the French city of Nice. It is often compared to pizza.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Pissaladi%C3%A8re.jpg/500px-Pissaladi%C3%A8re.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pissaladi%C3%A8re"
+    },
+    {
+      "id": "pan-bagnat",
+      "name": "Pan bagnat",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pan%20bagnat%20recipe",
+      "description": "The pan bagnat (pan bagna, and alternatively in French as pain bagnat) is a sandwich that is a specialty of Nice, France.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Pan-bagnat002.jpg/500px-Pan-bagnat002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pan_bagnat"
+    },
+    {
+      "id": "fougasse-monegasque",
+      "name": "Fougasse monégasque",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fougasse%20mon%C3%A9gasque%20recipe",
+      "description": "In French cuisine, fougasse is a type of bread typically associated with Provence but found (with variations) in other regions. Some versions are sculpted or slashed into a pattern resembling a head of wheat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Fougasse_1.jpg/500px-Fougasse_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fougasse_(bread)"
+    }
+  ]
+}

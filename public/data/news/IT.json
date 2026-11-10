@@ -1,0 +1,147 @@
+{
+  "country": "IT",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "repubblica",
+        "name": "la Repubblica",
+        "homepage": "https://www.repubblica.it",
+        "lang": "it"
+      },
+      "fetchedAt": "2026-10-22T15:11:44.993Z",
+      "items": [
+        {
+          "title": "In California si vota per tassare i miliardari",
+          "link": "https://www.repubblica.it/venerdi/2026/10/22/news/california_referendum_tassa_miliardari-425667378/",
+          "summary": "La Proposition 40 chiede (una tantum) il 5 per cento del patrimonio agli ultraricchi. Che hanno già speso centinaia di milioni per affossarla. Reportage",
+          "publishedAt": "2026-10-22T14:23:01.000Z"
+        },
+        {
+          "title": "Il fascismo che non ti aspetti",
+          "link": "https://www.repubblica.it/venerdi/2026/10/22/news/naomi_klein_libro_fascismo-425667362/",
+          "summary": "È apocalittico, hi-tech, etnonazionalista. Minaccia il mondo in cui viviamo e quello in cui vivremo. «Ma può ancora essere sconfitto», dicono Naomi Klein e Astra Taylor in un libro e in questa intervista esclusiva",
+          "publishedAt": "2026-10-22T14:20:01.000Z"
+        },
+        {
+          "title": "De Laurentiis: “Il Napoli per ora non è in vendita”. Ma il dialogo con Rizzetta va avanti",
+          "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/22/news/cessione_napoli_de_laurentiis_rizzetta_ultime_notizie-425667291/",
+          "summary": "Il presidente conferma la trattativa con gli americani ma ribadisce di non voler cedere. “Se devo farlo preferisco ad un napoletano”",
+          "publishedAt": "2026-10-22T13:34:43.000Z"
+        },
+        {
+          "title": "Strasburgo boccia il ricorso di Berlusconi: processo per frode fiscale sui diritti tv è stato equo",
+          "link": "https://www.repubblica.it/politica/2026/10/22/news/strasburgo_boccia_ricorso_berlusconi_mediaset_diritti_tv-425667274/",
+          "summary": "La sentenza della Corte europea dei diritti umani alla quale si era rivolto il Cavaliere nel 2013. Il procedimento riguardava la compravendita di diritti televisivi e cinematografici per 470 milioni di euro, che sarebbe…",
+          "publishedAt": "2026-10-22T13:23:34.000Z"
+        },
+        {
+          "title": "Pace o guerra, sarà l’Ucraina a decidere il futuro dell’Ue",
+          "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/10/22/news/pace_o_guerra_sara_l_ucraina_a_decidere_il_futuro_dell_ue-425667156/",
+          "summary": "Sia le trattative che la prosecuzione dei combattimenti aprono scenari incogniti che pesano tutti sull’Unione europea. A partire dal patto tra Trump e Putin",
+          "publishedAt": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Nico Paz, il cerchio magico: da papà Pablo alla compagna Emma, con Fabregas come tutore",
+          "link": "https://www.repubblica.it/sport/calcio/serie-a/como/2026/10/22/news/nico_paz_cosa_c_e_dietro_prestazioni_talento_argentino-425667181/",
+          "summary": "Dietro le straordinarie prestazioni dell’argentino del Como c’è una stabilità familiare, tecnica e ambientale",
+          "publishedAt": "2026-10-22T12:53:26.000Z"
+        },
+        {
+          "title": "Il governo s’incensa per salari in aumento, ma i prezzi crescono di più. E la realtà smonta le slide",
+          "link": "https://www.repubblica.it/politica/rubriche/la-verita-vi-prego/2026/10/22/news/governo_salari_prezzi_crescono_dati_reali-425667155/",
+          "summary": "A quattro anni dalla nascita dell’esecutivo, Palazzo Chigi celebra i successi di Meloni in 70 pagine. Ma la vantata difesa del potere d’acquisto è smentita dai dati (e dalle piazze)",
+          "publishedAt": "2026-10-22T12:43:37.000Z"
+        },
+        {
+          "title": "Milanista e pro Farage, il sindaco di Bournemouth è italiano: “Ma stasera tiferò per gli inglesi”",
+          "link": "https://www.repubblica.it/sport/calcio/serie-a/milan/2026/10/22/news/intervista_roberto_rocca_sindaco_bournemouth_milanista_pro_farage-425667087/",
+          "summary": "Intervista a Roberto Rocca, “mayor” della città che stasera ospita la squadra di Amorim in Europa League: “Telecom, Forza Italia, poi qui dal 2013. Io nel partito Reform Uk? Da italiano nessuna contraddizione”",
+          "publishedAt": "2026-10-22T12:11:18.000Z"
+        },
+        {
+          "title": "Fedez denunciato da 4 fan: “Ci ha presi a botte con i bodyguard perché chiedevamo un selfie”",
+          "link": "https://milano.repubblica.it/cronaca/2026/10/22/news/fedez_denunciato_fan_volevano_selfie_bodyguard_discoteca_milano-425667008/",
+          "summary": "L’episodio sarebbe avvenuto fuori da una discoteca in largo La Foppa a Milano. La denuncia di 4 ragazzi padovani",
+          "publishedAt": "2026-10-22T11:26:01.000Z"
+        },
+        {
+          "title": "Liste d’attesa, 4 milioni di visite ed esami fatti in ritardo. Ecco i più difficili da prenotare",
+          "link": "https://www.repubblica.it/cronaca/2026/10/22/news/dati_agenas_classifica_lista_attesa_lunga-425666975/",
+          "summary": "I dati Agenas sulla situazione nei primi nove mesi dell’anno. Il totale delle prestazioni erogate sale a 21,8 milioni",
+          "publishedAt": "2026-10-22T11:07:54.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "ansa",
+        "name": "ANSA",
+        "homepage": "https://www.ansa.it",
+        "lang": "it"
+      },
+      "fetchedAt": "2026-10-22T15:11:45.035Z",
+      "items": [
+        {
+          "title": "Panetta, l'Italia ha debito alto ma finanza pubblica molto migliore del passato",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/panetta-litalia-ha-debito-alto-ma-finanza-pubblica-molto-migliore-del-passato_df15d026-76e1-4d16-a67d-7f88f29fd402.html",
+          "summary": "Governatore, Europa colpita da rialzo tassi più di Usa per crescita debole",
+          "publishedAt": "2026-10-22T14:32:59.000Z"
+        },
+        {
+          "title": "Morto impiccato a 20 anni, ipotesi sfida social, pm apre indagine",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/morto-impiccato-a-20-anni-ipotesi-sfida-social-pm-apre-indagine_0e5f56bf-707d-4e6b-8a28-25726a0fd8aa.html",
+          "summary": "Esposto della famiglia. Lo studente di ingegneria è deceduto il 20 settembre scorso",
+          "publishedAt": "2026-10-22T14:13:44.000Z"
+        },
+        {
+          "title": "Decreto, ai Tir 105 milioni, per agricoltura e pesca altri 70 milioni",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/decreto-ai-tir-105-milioni-per-agricoltura-e-pesca-altri-70-milioni_ac73e29f-0c2a-4c85-903b-ad7b5ed1e147.html",
+          "summary": "Stanziati in totale nuovi aiuti per 175 milioni",
+          "publishedAt": "2026-10-22T14:13:47.000Z"
+        },
+        {
+          "title": "Ultimi sondaggi in Serbia delineano esito incerto fra studenti e Vucic",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/ultimi-sondaggi-in-serbia-delineano-esito-incerto-fra-studenti-e-vucic_5c7ee52c-5dee-4e68-8e46-a0ac5fe8c8fd.html",
+          "summary": "Stime non univoche, ma concordi sull'aumento dell'affluenza",
+          "publishedAt": "2026-10-22T13:38:42.000Z"
+        },
+        {
+          "title": "Wall Street apre in calo, Dj -0,37%, Nasdaq -1,54%",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/wall-street-apre-in-calo-dj-037-nasdaq-154_f2acd98e-d80f-4b1a-8d1a-a13bf3713886.html",
+          "summary": "S 500 perde lo 0,81%",
+          "publishedAt": "2026-10-22T13:35:16.000Z"
+        },
+        {
+          "title": "Mattarella ha firmato il decreto sicurezza",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/mattarella-ha-firmato-il-decreto-sicurezza_6d373700-7284-45b9-8c84-c45ff731235c.html",
+          "summary": "Il presidente della Repubblica ha autorizzato la presentazione alla Camere",
+          "publishedAt": "2026-10-22T13:34:24.000Z"
+        },
+        {
+          "title": "Shalabayeva, disposto appello ter per i cinque poliziotti",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/shalabayeva-disposto-appello-ter-per-i-cinque-poliziotti_50ce3be7-fe89-4a0f-8039-5da436d13e17.html",
+          "summary": "Accusati del sequestro della figlia della donna",
+          "publishedAt": "2026-10-22T13:27:50.000Z"
+        },
+        {
+          "title": "Gilet gialli si uniranno sabato al corteo di Parigi del sindacato Cgt",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/gilet-gialli-si-uniranno-sabato-al-corteo-di-parigi-del-sindacato-cgt_8db650fb-207a-4a40-80f0-b3573a04fbe2.html",
+          "summary": "La decisione dopo che il percorso proposto - fino all'Opéra - era stato vietato",
+          "publishedAt": "2026-10-22T13:23:58.000Z"
+        },
+        {
+          "title": "Il petrolio è in rialzo a New York a 99,72 dollari",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/il-petrolio-e-in-rialzo-a-new-york-a-9972-dollari_5cab3bc8-01ad-4059-b2d1-8e2ef636263f.html",
+          "summary": "Quotazioni salgono del 2,65%",
+          "publishedAt": "2026-10-22T13:16:26.000Z"
+        },
+        {
+          "title": "Gianluca Gazzoli conquista l'America, 'Passa dal Bsmt' accende New York City",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/22/gianluca-gazzoli-conquista-lamerica-passa-dal-bsmt-accende-new-york_257e6929-4888-45f7-85f2-cb777fd01e20.html",
+          "summary": "Scelto da Spotify come vetrina e prodotto di successo del nostro Paese",
+          "publishedAt": "2026-10-22T12:40:21.000Z"
+        }
+      ]
+    }
+  ]
+}

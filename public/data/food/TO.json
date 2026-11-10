@@ -1,0 +1,37 @@
+{
+  "country": "TO",
+  "dishes": [
+    {
+      "id": "ota-ika",
+      "name": "'Ota 'ika",
+      "videoSearch": "https://www.youtube.com/results?search_query='Ota%20'ika%20recipe",
+      "description": "ʻOta ʻika is a Oceanian dish consisting of raw fish marinated in citrus juice and coconut milk. The Tongan, Tahitian, and Samoan variants are essentially identical in that the raw fish is briefly marinated in lemon or lime juice until the surface of the flesh becomes opaque.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Poisson_cru_au_lait_de_coco.jpg/500px-Poisson_cru_au_lait_de_coco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/%27Ota_%27ika"
+    },
+    {
+      "id": "kava",
+      "name": "Kava",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kava%20recipe",
+      "description": "Kava or kava kava (Piper methysticum: Latin 'pepper' and Latinized Greek 'intoxicating') is a plant in the pepper family, native to the Pacific Islands. The name kava is from Tongan and Marquesan, meaning 'bitter'. Kava can refer to either the plant or a psychoactive beverage made from its root.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Starr_070515-7054_Piper_methysticum.jpg/500px-Starr_070515-7054_Piper_methysticum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kava"
+    },
+    {
+      "id": "lu",
+      "name": "Lū",
+      "videoSearch": "https://www.youtube.com/results?search_query=L%C5%AB%20recipe",
+      "description": "Lūʻau, luʻau, laulau, lū, rourou, rukau, fāfā, hāhā, and palusami are all related dishes found throughout Polynesia based on the use of taro leaves as a primary ingredient. While taro is known worldwide as a root vegetable, the leaves with stems can be consumed as well. The base recipe is vegetarian.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Luaulau.png/500px-Luaulau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/L%C5%AB%CA%BBau_(food)"
+    },
+    {
+      "id": "otai",
+      "name": "'Otai",
+      "videoSearch": "https://www.youtube.com/results?search_query='Otai%20recipe",
+      "description": "ʻOtai is a refreshing Polynesian beverage, typically made with coconut meat, coconut milk, and coconut water. It is most often associated with Tongan cuisine, though similar versions are enjoyed in other Polynesian islands, including Samoa, Niue, Tokelau, Tuvalu, Uvea, and Futuna.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Otai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/%27otai"
+    }
+  ]
+}

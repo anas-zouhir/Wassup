@@ -1,0 +1,50 @@
+{
+  "country": "KG",
+  "dishes": [
+    {
+      "id": "beshbarmak",
+      "name": "Beshbarmak",
+      "localName": "Бешбармак",
+      "videoSearch": "https://www.youtube.com/results?search_query=Beshbarmak%20recipe",
+      "description": "Beshbarmak (Kyrgyz: бешбармак, romanized: beşbarmak; Bashkir: бишбармаҡ, romanized: bişbarmaq; lit. 'five fingers') is a meat, noodles, and onion broth dish in Central Asian cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%D0%91%D0%B5%D1%88%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B_01.jpg/500px-%D0%91%D0%B5%D1%88%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Beshbarmak"
+    },
+    {
+      "id": "laghman",
+      "name": "Lagman",
+      "localName": "Лагман",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lagman%20recipe",
+      "description": "Laghman (Uyghur: لەغمەن, romanized: leghmen), also spelled lagman, is a dish of meat, vegetables and pulled noodles from Uyghur cuisine. In Chinese, the noodle is known as latiaozi (Chinese: 拉条子) or banmian (Chinese: 拌面).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%D0%9B%D0%B0%D0%B3%D0%BC%D0%B0%D0%BD.jpg/500px-%D0%9B%D0%B0%D0%B3%D0%BC%D0%B0%D0%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Laghman_(food)"
+    },
+    {
+      "id": "manti",
+      "name": "Manty",
+      "localName": "Манты",
+      "videoSearch": "https://www.youtube.com/results?search_query=Manty%20recipe",
+      "description": "Manti is a type of dumpling mainly found in Uyghur cuisine and Central Asian cuisine, but also in West Asia, South Caucasus, and the Balkans. Manti is also popular in Turkish cuisine, and it is consumed throughout post-Soviet countries, where the dish spread from the Central Asian republics.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Kayseride_bir_restoranda_Kayseri_mant%C4%B1s%C4%B1_%28cropped%29.jpg/500px-Kayseride_bir_restoranda_Kayseri_mant%C4%B1s%C4%B1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "id": "boorsok",
+      "name": "Boorsok",
+      "localName": "Боорсок",
+      "videoSearch": "https://www.youtube.com/results?search_query=Boorsok%20recipe",
+      "description": "Boortsog, boorsoq, baursak, baursaq, bauyrsaq, borsok, or boorsok is a fried dough food found in the cuisines of Central Asia, Idel-Ural, Mongolia, and the Middle East.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Boortsog.JPG/500px-Boortsog.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boortsog"
+    },
+    {
+      "id": "kymyz",
+      "name": "Kymyz",
+      "localName": "Кымыз",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kymyz%20recipe",
+      "description": "Kumis ( KOO-mis, rarely KUM-is), alternatively spelled coumis or kumyz, also known as airag ( EYE-rag), is a traditional fermented dairy product made from mare milk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Kumys-bottle.jpg/500px-Kumys-bottle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kumis"
+    }
+  ]
+}

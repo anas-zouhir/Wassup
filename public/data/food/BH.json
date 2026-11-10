@@ -1,0 +1,58 @@
+{
+  "country": "BH",
+  "dishes": [
+    {
+      "id": "machboos",
+      "name": "Machboos",
+      "localName": "مجبوس",
+      "videoSearch": "https://www.youtube.com/results?search_query=Machboos%20recipe",
+      "description": "Kabsa (Arabic: كبسة, romanized: kabsah), also known as Makboos (Gulf Arabic: مكبوس) or Machboos, is an Arab mixed rice dish that originates from Saudi Arabia or Yemen. It is commonly regarded as a national dish in all the countries of the Gulf Cooperation Council.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Machboos_%28cropped%29.JPG/500px-Machboos_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kabsa"
+    },
+    {
+      "id": "muhammar",
+      "name": "Muhammar",
+      "localName": "محمر",
+      "videoSearch": "https://www.youtube.com/results?search_query=Muhammar%20recipe",
+      "description": "Muhammar is a traditional dish from Bahrain. It is a sweet rice dish seasoned with spices and date molasses, and is usually eaten with fried or grilled fish. The rice is parboiled and then steamed.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Muhammar"
+    },
+    {
+      "id": "harees",
+      "name": "Harees",
+      "localName": "هريس",
+      "videoSearch": "https://www.youtube.com/results?search_query=Harees%20recipe",
+      "description": "Harees, haresa, hareesa, arizah, harise, jarish, jareesh, (Arabic: هريس), harisa (Armenian: հարիսա), or korkot (Armenian: կորկոտ) is a dish of boiled, cracked, or coarsely-ground cracked wheat or bulgur, mixed with meat, spices, and butter. Its consistency varies between a porridge and a gruel.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Armenian_Harisa.JPG/500px-Armenian_Harisa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Harees"
+    },
+    {
+      "id": "balaleet",
+      "name": "Balaleet",
+      "localName": "بلاليط",
+      "videoSearch": "https://www.youtube.com/results?search_query=Balaleet%20recipe",
+      "description": "Balaleet or balalit (Arabic: بلاليط) is a traditional sweet and savoury dish popular in Eastern Arabian cuisine. A popular breakfast choice, it traditionally consists of vermicelli sweetened with sugar, cardamom, rose water and saffron, and served with an overlying egg omelette.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Homemade_Balaleet%2C_2023.jpg/500px-Homemade_Balaleet%2C_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Balaleet"
+    },
+    {
+      "id": "luqaimat",
+      "name": "Luqaimat",
+      "localName": "لقيمات",
+      "videoSearch": "https://www.youtube.com/results?search_query=Luqaimat%20recipe",
+      "description": "Lokma (derived from the 13th century Arab dessert luqmat al-qādi) is a dessert made of leavened and deep-fried dough balls, soaked in syrup or honey, and sometimes coated with cinnamon or other ingredients.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Sam%27dan_lokma_tatlisi.jpg/500px-Sam%27dan_lokma_tatlisi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lokma"
+    },
+    {
+      "id": "qahwa",
+      "name": "Gahwa",
+      "localName": "قهوة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gahwa%20recipe",
+      "description": "Arabic coffee, known in Arabic as qahwa (Arabic: قهوة), is a family of brewed coffee made from Coffea arabica beans. Most Arab countries throughout the Middle East developed distinct methods for brewing and preparing coffee. Cardamom is an often-added spice, but it can also be served plain or with sugar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/A_dallah_a_traditional_Arabic_coffee_pot_with_cups_and_coffee_beans.jpg/500px-A_dallah_a_traditional_Arabic_coffee_pot_with_cups_and_coffee_beans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Arabic_coffee"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "country": "LI",
+  "dishes": [
+    {
+      "id": "kasknopfle",
+      "name": "Käsknöpfle",
+      "videoSearch": "https://www.youtube.com/results?search_query=K%C3%A4skn%C3%B6pfle%20recipe",
+      "description": "Käsespätzle (German for \"spätzle with cheese\", also called Käsknöpfle in Vorarlberg and Liechtenstein or Kasspatzl in Tyrol, Austria and Bavaria) is a traditional dish of the German regions of Swabia, Baden and Allgäu, and also in the Austrian regions Vorarlberg and Tyrol, as well as Liechtenstein and Switzerland.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_%281%29.jpg/500px-Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/K%C3%A4sesp%C3%A4tzle"
+    },
+    {
+      "id": "ribel",
+      "name": "Ribel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ribel%20recipe",
+      "description": "Rheintaler Ribelmais, Rheintaler Ribel, or Türggenribel is a ground product made from a traditional type of maize grown in the Swiss Rhine Valley and Liechtenstein. Since summer 2000, Rheintaler Ribel AOP (formerly AOC) has been the only Swiss cereal product with a protected geographical indication.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/RheintalerRibel1.jpg/500px-RheintalerRibel1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rheintaler_Ribelmais"
+    },
+    {
+      "id": "rosti",
+      "name": "Rösti",
+      "videoSearch": "https://www.youtube.com/results?search_query=R%C3%B6sti%20recipe",
+      "description": "Rösti or rööschti is a Swiss dish consisting mainly of potatoes, sautéed or shallow-fried in a pan. It was originally a breakfast dish, commonly eaten by farmers in the canton of Bern and in parts of the canton of Fribourg, but is now eaten all over Switzerland and around the world.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Roesti.jpg/500px-Roesti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/R%C3%B6sti"
+    }
+  ]
+}

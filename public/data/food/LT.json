@@ -1,0 +1,83 @@
+{
+  "country": "LT",
+  "dishes": [
+    {
+      "id": "cepelinai",
+      "name": "Cepelinai",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cepelinai%20recipe",
+      "description": "Cepelinai (lit.Tooltip literal translation \"zeppelins\"; singular: cepelinas) are potato dumplings made from grated potatoes and stuffed with ground meat, dry curd cheese, liver, or mushrooms. It has been described as a national dish of Lithuania, and is typically served as a main dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Cepelinai_2%2C_Vilnius%2C_Lithuania_-_Diliff.jpg/500px-Cepelinai_2%2C_Vilnius%2C_Lithuania_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cepelinai"
+    },
+    {
+      "id": "saltibarsciai",
+      "name": "Šaltibarščiai",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C5%A0altibar%C5%A1%C4%8Diai%20recipe",
+      "description": "Cold beet soup (Belarusian: халаднік, romanized: chaladnik; Latvian: aukstā zupa, lit. 'cold soup'; Lithuanian: šaltibarščiai, lit. 'cold borscht'; Polish: chłodnik litewski, lit.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Lurid_borscht.jpg/500px-Lurid_borscht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cold_beet_soup"
+    },
+    {
+      "id": "kugelis",
+      "name": "Kugelis",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kugelis%20recipe",
+      "description": "Kugelis, also known as bulvių plokštainis (\"potato pie\"), is a potato dish from Lithuania. Potatoes, bacon, milk, onions, and eggs are seasoned with salt and pepper and flavoured, for example with bay leaves and/or marjoram, then oven-baked. It is usually eaten with sour cream or pork rind with diced onions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Kugelis_2012.jpg/500px-Kugelis_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kugelis",
+      "recipe": {
+        "ingredients": [
+          "5 lb potatoes, peeled and grated (or ground with a food processor)",
+          "2 medium onions, grated",
+          "1 lb bacon, fried and crumbled (reserve about ¼ cup drippings)",
+          "1 stick (8 tbsp) butter, melted",
+          "6 eggs",
+          "1 large can evaporated milk",
+          "4 tsp salt",
+          "Pepper to taste (about 1 tsp)"
+        ],
+        "steps": [
+          "Combine the grated potatoes and onions.",
+          "Fry and crumble bacon. Add to the potato mixture along with ¼ cup bacon fat. Mix well.",
+          "Beat the eggs, and stir in the evaporated milk, melted butter, salt, and pepper.",
+          "Mix the egg mixture into the potato mixture.",
+          "Pour into a well-greased 9x13-inch cake pan—it should just barely fit.",
+          "Bake at 350°F (175°C) for 90 minutes.",
+          "Slice into squares, and top with sour cream or applesauce."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKugelis_(Lithuanian_Baked_Potato_Pudding)"
+      }
+    },
+    {
+      "id": "sakotis",
+      "name": "Šakotis",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C5%A0akotis%20recipe",
+      "description": "Šakotis (\"tree cake\") is a spit cake. It is a national Lithuanian, local Polish (northeasternmost part of Poland), and local westernmost Belarusian traditional spit cake, made of butter, egg whites and yolks, flour, sugar, and cream, cooked on a rotating spit in an oven or over an open fire.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/%C5%A0akotis_3799.jpg/500px-%C5%A0akotis_3799.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/%C5%A0akotis"
+    },
+    {
+      "id": "skilandis",
+      "name": "Skilandis",
+      "videoSearch": "https://www.youtube.com/results?search_query=Skilandis%20recipe",
+      "description": "Skilandis or Kindziukas is a Lithuanian matured sausage made of meat, fat, salt, pepper and garlic. The ground meat is traditionally pressed into a pig's stomach or bladder, but today may be contained in other skins. The sausage is dried and cold-smoked.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Skilandis2.jpg/500px-Skilandis2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Skilandis"
+    },
+    {
+      "id": "kibinai",
+      "name": "Kibinai",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kibinai%20recipe",
+      "description": "Kibinai, kybyn, or kibin (plural in Karaim: kybynlar / qıbınlar (Common Turkic Latin); singular in Lithuanian: kibinas) are traditional pastries filled with mutton and onion, popular with the Karaite ethnic minority in Lithuania. As everything Karaite in Lithuania, they are mostly associated with the city of Trakai.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/02017_0065_Litauische_Kibinai_in_Schlesien.jpg/500px-02017_0065_Litauische_Kibinai_in_Schlesien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kibinai"
+    },
+    {
+      "id": "tinginys",
+      "name": "Tinginys",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tinginys%20recipe",
+      "description": "Tinginys is a popular dessert in Lithuania similar to chocolate salamis. The dish is typically prepared with biscuits or crackers, cocoa, butter, sugar and solidified milk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Tinginys_Anglijoje.JPG/500px-Tinginys_Anglijoje.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tinginys"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "country": "AU",
+  "dishes": [
+    {
+      "id": "meat-pie",
+      "name": "Meat pie",
+      "videoSearch": "https://www.youtube.com/results?search_query=Meat%20pie%20recipe",
+      "description": "In Australia and New Zealand, a meat pie is a handheld meat pie containing diced or minced meat and gravy, sometimes with other ingredients, in a piecrust. It is often consumed as a takeaway food snack.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Meat_pie.jpg/500px-Meat_pie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Meat_pie_(Australia_and_New_Zealand)"
+    },
+    {
+      "id": "pavlova",
+      "name": "Pavlova",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pavlova%20recipe",
+      "description": "Pavlova is a meringue-based dessert. Originating in either Australia or New Zealand in the early 20th century, it was named after the Russian ballerina Anna Pavlova. Taking the form of a cake-like circular block of baked meringue, pavlova has a crisp crust and soft, light inside.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Pavlova_dessert.JPG/500px-Pavlova_dessert.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pavlova",
+      "recipe": {
+        "ingredients": [
+          "3 egg whites",
+          "3 tablespoons water",
+          "250 g (9 oz) caster sugar",
+          "1 pinch salt",
+          "5 ml (1 tsp) vinegar",
+          "5 ml (1 tsp) vanilla extract",
+          "1 tsp cornstarch (optional)",
+          "Heavy cream",
+          "Powdered sugar to taste",
+          "Cut fruit and/or berries"
+        ],
+        "steps": [
+          "Whip the egg whites and salt to a very stiff consistency. Add water and beat again before folding in caster sugar, vanilla and vinegar. Whip until the mixture holds its shape and stands in sharp peaks.",
+          "Spread the mixture onto a baking sheet lined with parchment paper.",
+          "Slow-bake the mixture at 150°C (300°F) to dry all the moisture and create the meringue, approximately 45 minutes. This leaves the outside of the pavlova a crisp crunchy shell, while the interior remains soft and moist. Let cool.",
+          "Whip the cream and powdered sugar to medium peaks. Spread the whipped cream on top of the meringue.",
+          "Arrange the fruit on top of the whipped cream layer. Serve immediately."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APavlova"
+      }
+    },
+    {
+      "id": "lamington",
+      "name": "Lamington",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lamington%20recipe",
+      "description": "A lamington is an Australian cake made from squares of butter cake or sponge cake coated in an outer layer of chocolate sauce and rolled in desiccated coconut. The thin mixture is absorbed into the outside of the sponge cake and left to set, giving the cake a distinctive texture.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Mocha_Flake_amingtons.jpg/500px-Mocha_Flake_amingtons.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lamington",
+      "recipe": {
+        "ingredients": [
+          "Sponge cake",
+          "Chocolate icing",
+          "Dessicated coconut"
+        ],
+        "steps": [
+          "Cut the sponge cake into your desired shapes (commonly 5–7 cm cubes).",
+          "Prepare a flat tray with an even layer of desiccated coconut shavings",
+          "Dip the sponge cake cubes into chocolate icing.",
+          "Immediately dip the coated cake into the coconut, or sprinkle the coconut on top.",
+          "Put aside to dry and set."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALamington"
+      }
+    },
+    {
+      "id": "anzac-biscuit",
+      "name": "Anzac biscuit",
+      "videoSearch": "https://www.youtube.com/results?search_query=Anzac%20biscuit%20recipe",
+      "description": "The Anzac biscuit is a sweet biscuit, popular in Australia and New Zealand, made using rolled oats, flour, sugar, butter (or margarine), golden syrup, baking soda, boiling water and optionally desiccated coconut.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/ANZAC_biscuits_%2814_April_2006%29.jpg/500px-ANZAC_biscuits_%2814_April_2006%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anzac_biscuit",
+      "recipe": {
+        "ingredients": [
+          "2 cups plain (non-self raising) flour",
+          "1 cup white or brown sugar",
+          "2 cups rolled or instant oats",
+          "1 cup desiccated coconut flakes",
+          "4 tablespoons golden syrup, corn syrup, or honey",
+          "225 grams butter or margarine",
+          "1 teaspoon baking soda",
+          "2 tablespoons of water"
+        ],
+        "steps": [
+          "Mix the flour, sugar, oats, and coconut in a bowl.",
+          "Melt the syrup and butter in a saucepan. Add the baking soda and water to the syrup mix.",
+          "Mix the wet and dry ingredients, adding water if necessary.",
+          "Separate and roll the mixture into small balls, and flatten them on oven trays.",
+          "Bake at 150°C (300°F) for about 20 minutes or until golden brown."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAnzac_Biscuits_I"
+      }
+    },
+    {
+      "id": "damper",
+      "name": "Damper",
+      "videoSearch": "https://www.youtube.com/results?search_query=Damper%20recipe",
+      "description": "Damper is a thick home-made bread traditionally prepared by early European settlers in Australia. It is a bread made from wheat-based dough. Flour, salt and water, with some butter if available, is kneaded and baked in the coals of a campfire, either directly or within a camp oven.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Rosemary_beer_damper.jpg/500px-Rosemary_beer_damper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Damper_(food)",
+      "recipe": {
+        "ingredients": [
+          "1 large cup self-raising flour",
+          "1 generous pinch salt",
+          "scant ¼ cup water (more and it will be as tough as an old boot)"
+        ],
+        "steps": [
+          "Add salt to flour.",
+          "Add water, then mix and form into a round loaf.",
+          "Dig a 1 foot-deep hole near a fire, and fill it with 2 shovels of hot coals and ash.",
+          "Add damper mixture to a greased camp oven (traditional cast iron round pot with lid).",
+          "Cook in the hole for a maximum of 40 minutes. If undercooked it will be flat and rubbery.",
+          "Your first try may be inedible. Keep trying, you'll soon be an expert."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ADamper_(Australian_Campfire_Bread)"
+      }
+    },
+    {
+      "id": "vegemite",
+      "name": "Vegemite on toast",
+      "videoSearch": "https://www.youtube.com/results?search_query=Vegemite%20on%20toast%20recipe",
+      "description": "Vegemite ( VEJ-ə-myte) is a brand of a thick, dark brown Australian food spread made from leftover brewers' yeast extract with various vegetable and spice additives. It was developed by Cyril Callister in Melbourne, Victoria, for the Fred Walker Company in 1922 and was first sold in stores on 25 October 1923.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Vegemite_brand_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vegemite"
+    },
+    {
+      "id": "pie-floater",
+      "name": "Pie floater",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pie%20floater%20recipe",
+      "description": "The pie floater is an Australian dish sold in Adelaide. It consists of a meat pie in a thick pea soup, typically with the addition of tomato sauce. Believed to have been first created in the 1890s, the pie floater gained popularity as a meal sold by South Australian pie carts.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Pie_floater_in_Adelaide_SA.jpg/500px-Pie_floater_in_Adelaide_SA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pie_floater",
+      "recipe": {
+        "ingredients": [
+          "1 meat pie (commercial pies are fine)",
+          "1 can pea soup"
+        ],
+        "steps": [
+          "Heat the pie in an oven. A microwave will not work as well, as the pie pastry will not be crisp.",
+          "Heat the pea soup separately.",
+          "Place the pie upside down in the dish, and pour the pea soup around it until the dish is full."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APie_Floater"
+      }
+    },
+    {
+      "id": "sausage-sizzle",
+      "name": "Sausage sizzle",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sausage%20sizzle%20recipe",
+      "description": "A sausage sizzle is a community event originating from either Australia or New Zealand to cook and serve sausages in bread (also referred to as sausage sandwiches or sausage sizzles), which are grilled or barbecued sausages (most commonly beef or pork) served in sliced bread with grilled onions and various condiments, …",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Sausage_Sizzle_-_Snowy_Valley_Resort_AUD3.50.jpg/500px-Sausage_Sizzle_-_Snowy_Valley_Resort_AUD3.50.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sausage_sizzle",
+      "recipe": {
+        "ingredients": [
+          "About five Australian-style thin sausages (\"snags\") per person (thick sausages on special occasions)",
+          "Loaves of sliced sandwich bread (enough for one slice per sausage)",
+          "Australian tomato sauce (ketchup)",
+          "Sliced onions, with a little oil or butter (optional)"
+        ],
+        "steps": [
+          "Grill the sausages (eucalyptus wood fire is best) until the skins are partially black.",
+          "Grill the sliced onions, if desired.",
+          "Wrap each sausage in a slice of bread, running the sausage diagonally along the bread.",
+          "Add grilled onions and tomato sauce to taste."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASausage_Sizzle"
+      }
+    },
+    {
+      "id": "fairy-bread",
+      "name": "Fairy bread",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fairy%20bread%20recipe",
+      "description": "Fairy bread is sliced white bread, spread with butter or margarine and covered with hundreds and thousands (colourful round sprinkles), often served at children's parties in Australia and New Zealand. It is typically cut into triangles.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Fairy_Bread.jpg/500px-Fairy_Bread.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fairy_bread"
+    },
+    {
+      "id": "chiko-roll",
+      "name": "Chiko Roll",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chiko%20Roll%20recipe",
+      "description": "The Chiko Roll is an Australian savoury snack invented by Frank McEncroe. It was inspired by the Chinese spring roll and was first sold in 1951 as the \"Chicken Roll\", despite not containing any chicken. The snack was designed to be easily eaten on the move without a plate or cutlery.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Chiko_roll_in_bag_handheld.jpg/500px-Chiko_roll_in_bag_handheld.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chiko_Roll"
+    },
+    {
+      "id": "carpetbag-steak",
+      "name": "Carpetbag steak",
+      "videoSearch": "https://www.youtube.com/results?search_query=Carpetbag%20steak%20recipe",
+      "description": "Carpetbag steak or carpetbagger steak is a traditional working-class dish from Mumbles, a historic oyster-fishing village in Swansea, South Wales, UK. Over the years it has become a luxury dish, popular in the 1950s and 1960s in Australia and New Zealand.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Carpetbag_steak",
+      "recipe": {
+        "ingredients": [
+          "1 Scotch fillet steak (thickly-cut)",
+          "Salt (optional)",
+          "Ground black pepper (optional)",
+          "Cayenne pepper (optional)",
+          "Lemon juice (optional)",
+          "Olive oil (optional)",
+          "3–4 oysters",
+          "Worcestershire sauce",
+          "Limes (optional)",
+          "Shredded cheese (optional)"
+        ],
+        "steps": [
+          "Cut a small pocket, approximately 6 cm (2.5 inches) in length and about the same depth, in the edge of the thick steak.",
+          "If desired, season the inside of the pocket with some of salt, pepper, cayenne pepper, lemon juice, and olive oil.",
+          "Dip the oysters into the Worcestershire sauce, and then insert them in the pocket in the steak.",
+          "If desired, add lime pulp or some shredded cheese into the pocket.",
+          "Seal the pocket with a moistened skewer.",
+          "Barbecue, grill, or broil the steak to your desired level of doneness. Alternatively, cook over a moderate heat in a heavy-based frying pan."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACarpetbag_Steak"
+      }
+    },
+    {
+      "id": "rocky-road",
+      "name": "Rocky road",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rocky%20road%20recipe",
+      "description": "Rocky road is a candy, made up of various ingredients—typically including nuts, marshmallows, and dried fruit—that are combined with melted chocolate and left to set. In Australia, gummy candies often feature. The confectionery is most common in Australia where it is associated with Christmas, and in Britain.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Rocky_Road_dessert.jpg/500px-Rocky_Road_dessert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rocky_road_(dessert)",
+      "recipe": {
+        "ingredients": [
+          "12 oz chocolate morsels",
+          "2 tbsp milk",
+          "2 tbsp butter",
+          "3 cup mini marshmallows",
+          "¾ cup walnut meats, shelled and chopped",
+          "1 tsp vanilla extract"
+        ],
+        "steps": [
+          "Measure all ingredients.",
+          "Butter an 8x8x2-inch square pan. Reserve.",
+          "Place chocolate morsels, milk and butter into a heavy-bottomed pot. Set heat control dial at 350°F (175°C).",
+          "Begin stirring immediately. Stir constantly until chocolate is melted and milk and butter are incorporated. Stir in remaining ingredients.",
+          "Spread the mixture into the prepared pan.",
+          "Refrigerate until firm, about 2 hours."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARocky_Road_Confectionery_I"
+      }
+    },
+    {
+      "id": "kangaroo",
+      "name": "Kangaroo steak",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kangaroo%20steak%20recipe",
+      "description": "Kangaroo meat is produced in Australia from wild kangaroos and is exported to over 61 overseas markets. The kangaroo has traditionally been a staple source of protein for many indigenous Australians for more than 40,000 years. Kangaroo meat is very high in protein (23.2%) and very low in fat (2.6%).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Kangaroo_Meat.jpg/500px-Kangaroo_Meat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kangaroo_meat"
+    },
+    {
+      "id": "pufftaloons",
+      "name": "Pufftaloons",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pufftaloons%20recipe",
+      "recipe": {
+        "ingredients": [
+          "2 cups flour",
+          "2 tsp baking powder",
+          "1 cup milk",
+          "1 dessert spoon butter"
+        ],
+        "steps": [
+          "Combine flour and baking powder.",
+          "Rub in the butter.",
+          "Add enough milk to make a soft dough.",
+          "Deep fry in hot vegetable oil.",
+          "Serve hot with jam or golden syrup."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APufftaloons"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "country": "VA",
+  "dishes": [
+    {
+      "id": "suppli",
+      "name": "Supplì",
+      "videoSearch": "https://www.youtube.com/results?search_query=Suppl%C3%AC%20recipe",
+      "description": "Supplì are Italian snacks consisting of a ball of rice (generally risotto) with tomato sauce, typical of Roman cuisine. Some believe that they derive from the French croquettes and were introduced to Rome by the French troops of Napoleon at the beginning of the 19th century.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Suppl%C3%AC.jpg/500px-Suppl%C3%AC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Suppl%C3%AC"
+    },
+    {
+      "id": "carciofi-alla-giudia",
+      "name": "Carciofi alla giudia",
+      "videoSearch": "https://www.youtube.com/results?search_query=Carciofi%20alla%20giudia%20recipe",
+      "description": "Carciofi alla giudìa is among the best-known dishes of Roman Jewish cuisine. It is essentially a deep-fried artichoke, and the recipe originated in the Jewish community of Rome, giudìo being the exonym for the Jewish people in the Romanesco language.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Carciofo_alla_Giudia.jpg/500px-Carciofo_alla_Giudia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Carciofi_alla_giudia"
+    },
+    {
+      "id": "maritozzo",
+      "name": "Maritozzo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Maritozzo%20recipe",
+      "description": "Maritozzo (plural: maritozzi) is a traditional Italian cream bun consisting of bread filled with a generous amount of whipped cream. Originally, \"maritozzo\" referred only to the bread part, and the version filled with whipped cream was called maritozzo con la panna, meaning \"maritozzo with whipped cream\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Maritozzo_presso_Caff%C3%A8_delle_colline%2C_Reggio_Emilia.jpg/500px-Maritozzo_presso_Caff%C3%A8_delle_colline%2C_Reggio_Emilia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maritozzo"
+    },
+    {
+      "id": "saltimbocca-alla-romana",
+      "name": "Saltimbocca alla romana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Saltimbocca%20alla%20romana%20recipe",
+      "description": "Saltimbocca is an Italian dish (also popular in southern Switzerland). It consists of veal that has been wrapped (lined) with prosciutto and sage and then marinated in wine, oil or salt water, depending on the region or one's own taste. The original version of this dish is saltimbocca alla romana (lit.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Saltimbocca_01.jpg/500px-Saltimbocca_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saltimbocca"
+    },
+    {
+      "id": "cacio-e-pepe",
+      "name": "Cacio e pepe",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cacio%20e%20pepe%20recipe",
+      "description": "Cacio e pepe is a pasta dish typical of Lazio, Italy. It contains grated pecorino romano and black pepper with tonnarelli or spaghetti. Achieving a smooth and creamy texture during preparation requires special attention, as the cheese is prone to becoming lumpy.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Cacio_e_pepe.jpg/500px-Cacio_e_pepe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cacio_e_pepe"
+    },
+    {
+      "id": "abbacchio-alla-romana",
+      "name": "Abbacchio alla romana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Abbacchio%20alla%20romana%20recipe",
+      "description": "Abbacchio is an Italian preparation of lamb typical of the Roman cuisine. It is consumed throughout central Italy as an Easter and Christmas dish. Abbacchio is a product protected by the European Union with the PGI mark.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Abbacchio_Pasquale.jpg/500px-Abbacchio_Pasquale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Abbacchio"
+    }
+  ]
+}

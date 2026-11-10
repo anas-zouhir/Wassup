@@ -1,0 +1,53 @@
+{
+  "country": "ME",
+  "dishes": [
+    {
+      "id": "njeguski-prsut",
+      "name": "Njeguški pršut",
+      "videoSearch": "https://www.youtube.com/results?search_query=Njegu%C5%A1ki%20pr%C5%A1ut%20recipe",
+      "description": "Njeguški pršut (Serbian Cyrillic: Његушки пршут) is a specialty of Njeguši in Montenegro. Pršut is dry-cured ham, served uncooked, similar to Italian prosciutto crudo.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Njegu%C5%A1ki_pr%C5%A1ut.jpg/500px-Njegu%C5%A1ki_pr%C5%A1ut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Njegu%C5%A1ki_pr%C5%A1ut"
+    },
+    {
+      "id": "kacamak",
+      "name": "Kačamak",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ka%C4%8Damak%20recipe",
+      "description": "Kačamak is a kind of maize porridge made in parts of Western Asia and Southeastern Europe. Its name is derived from the Turkish word kaçamak, meaning 'escapade'.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%D0%9A%D0%B0%D1%87%D0%B0%D0%BC%D0%B0%D0%BA_%D1%81%D0%BE_%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D0%BE_%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE_%D0%B8_%D0%BF%D0%B0%D1%80%D1%87%D0%B5_%D1%81%D0%B8%D1%80%D0%B5%D1%9A%D0%B5.jpg/500px-%D0%9A%D0%B0%D1%87%D0%B0%D0%BC%D0%B0%D0%BA_%D1%81%D0%BE_%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D0%BE_%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE_%D0%B8_%D0%BF%D0%B0%D1%80%D1%87%D0%B5_%D1%81%D0%B8%D1%80%D0%B5%D1%9A%D0%B5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ka%C4%8Damak"
+    },
+    {
+      "id": "priganice",
+      "name": "Priganice",
+      "videoSearch": "https://www.youtube.com/results?search_query=Priganice%20recipe",
+      "description": "Uštipci are doughnut-like fried dough balls popular in Southeast European countries, namely Bosnia and Herzegovina, Croatia, Montenegro, North Macedonia, Serbia, and Slovenia.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ustipci.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/U%C5%A1tipci"
+    },
+    {
+      "id": "buzara",
+      "name": "Buzara",
+      "videoSearch": "https://www.youtube.com/results?search_query=Buzara%20recipe",
+      "description": "Buzara is a genus of moths in the family Erebidae.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Parallelia_propyrrha.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Buzara"
+    },
+    {
+      "id": "kajmak",
+      "name": "Kajmak",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kajmak%20recipe",
+      "description": "Kaymak, also known as qishta (Arabic: قشدة) or sarshir (Persian: سَرشیر), is a creamy dairy food similar to clotted cream, made from the milk of water buffalo, cows, sheep, or goats in Central Asia, most Turkic regions on the Eurasian Steppe, the Caucasus, Turkey, most Balkan countries, the Levant, Iran and Iraq.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Kaymak_in_Turkey.jpg/500px-Kaymak_in_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kaymak"
+    },
+    {
+      "id": "brudet",
+      "name": "Brudet",
+      "videoSearch": "https://www.youtube.com/results?search_query=Brudet%20recipe",
+      "description": "Brudet or brodet is a fish stew made in the Croatian regions of Dalmatia, Kvarner, and Istria, as well as along the coast of Montenegro.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Brodet.JPG/500px-Brodet.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Brudet"
+    }
+  ]
+}

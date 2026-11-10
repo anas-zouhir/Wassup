@@ -1,0 +1,659 @@
+{
+  "country": "US",
+  "dishes": [
+    {
+      "id": "gumbo",
+      "name": "Gumbo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gumbo%20recipe",
+      "description": "Gumbo (Louisiana Creole: Gum-bo) is a stew that is popular among the U.S. Gulf Coast community, the New Orleans stew variation being the official state cuisine of the U.S. state of Louisiana.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Gumbo.JPG/500px-Gumbo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gumbo",
+      "recipe": {
+        "ingredients": [
+          "¾ cup vegetable oil",
+          "¾ cup flour",
+          "10 oz okra (optional)",
+          "2 cups onion, chopped",
+          "1 cup celery, chopped",
+          "1½ cups bell pepper, chopped",
+          "6 cloves garlic, minced",
+          "6 cups shrimp stock or water",
+          "8 oz clam juice (optional)",
+          "½ tsp oregano",
+          "½ tsp thyme",
+          "2 bay leaves",
+          "1½ tsp salt",
+          "½–1 tsp cayenne pepper",
+          "Black pepper to taste",
+          "2 tbsp fresh chopped parsley",
+          "1 lb Andouille sausage, cut in pieces",
+          "1 lb shrimp",
+          "½ pint (or more) oysters",
+          "½ lb crawfish (optional)",
+          "4 chopped green onions, for topping"
+        ],
+        "steps": [
+          "Heat oil in a 6–8 quart pot, then gradually whisk in the flour. Cook over medium heat for 20 minutes until very dark reddish brown. Stir constantly, especially towards the end. The best roux is quite dark, but don’t let it burn.",
+          "Stir the onion, celery, bell pepper, and garlic into the roux. Cook 10 minutes (or 15 minutes if using okra).",
+          "Slowly and gradually whisk in the shrimp stock.",
+          "Add the clam juice, oregano, thyme, bay leaves, salt, cayenne, pepper, and parsley. Simmer 15 minutes.",
+          "Add the Andouille sausage, and simmer for another 30–40 minutes.",
+          "Add the shrimp, oysters, and crawfish at the end, and simmer just until cooked through.",
+          "Top with chopped green onions."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASeafood_Gumbo"
+      }
+    },
+    {
+      "id": "jambalaya",
+      "name": "Jambalaya",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jambalaya%20recipe",
+      "description": "Jambalaya ( JAM-bə-LY-ə, JUM-) is a savory rice dish that developed in the U.S. state of Louisiana fusing together African, Spanish, and French influences, consisting mainly of meat and/or seafood, and vegetables mixed with rice and spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Homemade_Jambalaya.JPG/500px-Homemade_Jambalaya.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jambalaya"
+    },
+    {
+      "id": "new-england-clam-chowder",
+      "name": "New England clam chowder",
+      "videoSearch": "https://www.youtube.com/results?search_query=New%20England%20clam%20chowder%20recipe",
+      "description": "Clam chowder is any of several chowder soups in American cuisine containing clams. In addition to clams, common ingredients include diced potatoes, salt pork, and onions. It is believed that clams were used in chowder because of the relative ease of harvesting them.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Quail_07_bg_041506.jpg/500px-Quail_07_bg_041506.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clam_chowder",
+      "recipe": {
+        "ingredients": [
+          "1 pound canned clams, minced, or 12 ounces frozen, thawed",
+          "2 tablespoons plain white flour",
+          "1 medium potato, diced",
+          "1 medium onion, diced",
+          "1 cup boiling water",
+          "3 ounces salt pork, diced",
+          "1½ quarts skimmed or whole milk , scalded",
+          "1 tablespoon butter",
+          "Salt and pepper to taste"
+        ],
+        "steps": [
+          "If using frozen clams, drain and reserve liquid.",
+          "Cut hard parts away and keep them separate.",
+          "Sauté salt pork in a heavy iron pot until brown and crisp.",
+          "Remove pork and sauté hard part of clam and onions in hot fat until onion is light brown.",
+          "Stir in flour, then slowly add boiling water, salt, pepper, and diced potato.",
+          "Cover and simmer gently 10 minutes or until potato is tender.",
+          "Add soft parts of clams and liquid.",
+          "Just before serving, stir in scalded milk and butter.",
+          "Heat thoroughly, but not to boiling.",
+          "Serve piping hot with oyster or soda crackers."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ANew_England_Clam_Chowder"
+      }
+    },
+    {
+      "id": "apple-pie",
+      "name": "Apple pie",
+      "videoSearch": "https://www.youtube.com/results?search_query=Apple%20pie%20recipe",
+      "description": "An apple pie is a fruit pie in which the principal filling is apples. It generally has shortcrust pastry both above and below the filling; the upper pastry may be solid or latticed (woven of crosswise strips). The bottom or pastry base may be baked separately (known as \"blind-baking\") to prevent it from getting soggy.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Apple_pie_14.jpg/500px-Apple_pie_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Apple_pie"
+    },
+    {
+      "id": "pumpkin-pie",
+      "name": "Pumpkin pie",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pumpkin%20pie%20recipe",
+      "description": "Pumpkin pie is a dessert pie with a spiced, pumpkin-based custard filling. The pumpkin and pumpkin pie are both a symbol of harvest time, and pumpkin pie is generally eaten during the fall and early winter.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Pumpkin-Pie-Whole-Slice.jpg/500px-Pumpkin-Pie-Whole-Slice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pumpkin_pie",
+      "recipe": {
+        "ingredients": [
+          "¾ cup (180 g) granulated sugar",
+          "½ teaspoon salt",
+          "1 teaspoon ground cinnamon",
+          "½ teaspoon ground ginger",
+          "¼ teaspoon ground cloves",
+          "2 large eggs",
+          "1 can (15 oz / 425 g) pumpkin",
+          "1 can (12 fl oz / 350 ml) evaporated milk",
+          "1 unbaked 9-inch pie shell",
+          "Whipped cream"
+        ],
+        "steps": [
+          "Preheat oven to 425°F (210°C)",
+          "Mix sugar, salt, cinnamon, ginger, and cloves in small bowl. Beat eggs in large bowl; stir in pumpkin and sugar spice mixture. Gradually stir in evaporated milk.",
+          "Pour into the unbaked pie shell.",
+          "Bake at 425°F (210°C) for 15 minutes. Reduce temperature to 350°F (180°C), and bake for 40–50 minutes or until knife inserted near center come out clean.",
+          "Cool on wire rack for 2 hours.",
+          "Top with whipped cream before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APumpkin_Pie_II"
+      }
+    },
+    {
+      "id": "pecan-pie",
+      "name": "Pecan pie",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pecan%20pie%20recipe",
+      "description": "Pecan pie is a pie of pecan nuts mixed with a filling of eggs, butter and sugar (typically corn syrup). Variations may include white or brown sugar, cane syrup, sugar syrup, molasses, maple syrup, or honey. It is commonly served at holiday meals in the United States and is considered a specialty of Southern U.S.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/My_first_pecan_pie%21.jpg/500px-My_first_pecan_pie%21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pecan_pie"
+    },
+    {
+      "id": "key-lime-pie",
+      "name": "Key lime pie",
+      "videoSearch": "https://www.youtube.com/results?search_query=Key%20lime%20pie%20recipe",
+      "description": "Key lime pie is a Floridian dessert pie made with Key lime juice, egg yolks, and sweetened condensed milk. It may be served with no topping, with a meringue topping made from egg whites, or with whipped cream. Traditionally, Key lime pie is made using a graham cracker crust.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Slice_of_Key_Lime_Pie.jpg/500px-Slice_of_Key_Lime_Pie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Key_lime_pie"
+    },
+    {
+      "id": "texas-barbecue",
+      "name": "Texas barbecue",
+      "videoSearch": "https://www.youtube.com/results?search_query=Texas%20barbecue%20recipe",
+      "description": "Barbecue in Texas refers to methods of preparation for barbecue unique to Texan cuisine. Beef brisket, pork ribs, and sausage are common dishes. The term can also include side dishes that are traditionally served alongside the smoked meats.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Central_Texas_Style_Barbecue_in_Pearland%2C_TX.jpg/500px-Central_Texas_Style_Barbecue_in_Pearland%2C_TX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbecue_in_Texas"
+    },
+    {
+      "id": "kansas-city-style-barbecue",
+      "name": "Kansas City-style barbecue",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kansas%20City-style%20barbecue%20recipe",
+      "description": "Kansas City–style barbecue is a slowly smoked meat barbecue originating in Kansas City, Missouri in the early 20th century. It has a thick, sweet sauce derived from brown sugar, molasses, and tomatoes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Kansas_City-Style_Barbecue_%28cropped%29.jpg/500px-Kansas_City-Style_Barbecue_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kansas_City%E2%80%93style_barbecue"
+    },
+    {
+      "id": "pulled-pork",
+      "name": "Pulled pork",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pulled%20pork%20recipe",
+      "description": "Pulled pork is an American barbecue dish, more specifically a dish of the Southern United States, based on shredded barbecued pork shoulder. It is typically slow-smoked over wood (usually outdoors); indoor variations use a slow cooker. The meat is then shredded manually and mixed with a sauce.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Pulled_pork_while_pulling.JPG/500px-Pulled_pork_while_pulling.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pulled_pork"
+    },
+    {
+      "id": "barbecued-spare-ribs",
+      "name": "Barbecued spare ribs",
+      "videoSearch": "https://www.youtube.com/results?search_query=Barbecued%20spare%20ribs%20recipe",
+      "description": "Spare ribs (also side ribs or spareribs) are a variety of ribs cut from the lower portion of a pig, specifically the belly and breastbone, behind the shoulder, and include 11 to 13 long bones. Meat and fat cover the bones. Spare ribs (pork) are distinguished from short ribs.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Spareribs_20160506_182617113.jpg/500px-Spareribs_20160506_182617113.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Spare_ribs",
+      "recipe": {
+        "ingredients": [
+          "2 pounds (910 g) pork spare ribs",
+          "¼ cup (60 ml / 2 oz) soy sauce",
+          "2 tablespoons honey",
+          "2 tablespoons hoisin sauce",
+          "2 tablespoons white vinegar",
+          "1 tablespoon sake",
+          "2 cloves garlic, minced",
+          "1 teaspoon sugar",
+          "¼ teaspoon of freshly ground white pepper",
+          "2 tablespoons pork stock",
+          "Freshly-ground black pepper and salt to taste",
+          "2 teaspoons cumin (optional)"
+        ],
+        "steps": [
+          "Place spare ribs in a large baking dish in one layer. In a small bowl, combine the remaining ingredients. Pour over spare ribs and coat on both sides. Marinate overnight, basting occasionally.",
+          "Preheat the oven to . Place a large, shallow roasting pan on the oven bottom. Fill with water. Place spare ribs on a roasting rack.",
+          "Roast ribs for 45 minutes.",
+          "Raise oven temperature to , and roast for 15 more minutes.",
+          "Serve hot or cold."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABarbecued_Spare_Ribs"
+      }
+    },
+    {
+      "id": "buffalo-wings",
+      "name": "Buffalo wings",
+      "videoSearch": "https://www.youtube.com/results?search_query=Buffalo%20wings%20recipe",
+      "description": "A Buffalo wing in American cuisine is an unbreaded chicken wing section (flat or drumette) that is generally deep-fried, then coated or dipped in a sauce consisting of a vinegar-based cayenne pepper hot sauce and melted butter.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Buffalo_wings-01.jpg/500px-Buffalo_wings-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Buffalo_wing"
+    },
+    {
+      "id": "fried-chicken",
+      "name": "Fried chicken",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fried%20chicken%20recipe",
+      "description": "Fried chicken, more formally known as Southern fried chicken, is a dish consisting of chicken pieces, coated with seasoned flour or batter, that are pan-fried, deep-fried, pressure-fried, or air-fried. The breading adds a crisp coating or crust to the exterior of the chicken while retaining juices in the meat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Fried-Chicken-Set.jpg/500px-Fried-Chicken-Set.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fried_chicken"
+    },
+    {
+      "id": "biscuits-and-gravy",
+      "name": "Biscuits and gravy",
+      "videoSearch": "https://www.youtube.com/results?search_query=Biscuits%20and%20gravy%20recipe",
+      "description": "Biscuits and gravy is a popular breakfast dish in the United States, especially in the South. The dish consists of soft dough biscuits covered in white sausage gravy, made from the drippings of cooked pork sausage, flour, milk, and often (but not always) bits of sausage, bacon, ground beef, or other meat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Biscuits-and-gravy.jpg/500px-Biscuits-and-gravy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Biscuits_and_gravy"
+    },
+    {
+      "id": "cornbread",
+      "name": "Cornbread",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cornbread%20recipe",
+      "description": "Cornbread is a quick bread made with cornmeal, popular in the cuisine of the Southern United States, with origins in Native American cuisine. It is an example of batter bread. Dumplings and pancakes made with finely ground cornmeal are staple foods of the Hopi people in Arizona.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Skillet_cornbread_%28cropped%29.jpg/500px-Skillet_cornbread_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cornbread",
+      "recipe": {
+        "ingredients": [
+          "1 cup (140 g / 4.9 oz) cornmeal",
+          "1 cup (140 g / 4.9 oz) all-purpose flour",
+          "4 tsp baking powder",
+          "½ tsp salt",
+          "1 cup (250 ml / 8.5 fl oz) milk",
+          "1 ea. (50 g) egg",
+          "¼ cup (60 g / 2.1 oz) shortening, melted",
+          "¼ cup (55 g / 1.9 oz) white granulated sugar (optional)",
+          "½ of a can whole corn kernels, drained (optional)",
+          "¼ ea. onion, finely chopped (optional)"
+        ],
+        "steps": [
+          "Preheat oven to . Grease an baking pan.",
+          "Combine cornmeal, flour, baking powder, salt, and sugar in a large mixing bowl.",
+          "Add egg, milk, and shortening.",
+          "Beat until fairly smooth (about a minute).",
+          "If using corn and/or onion, fold in these ingredients.",
+          "Pour the mixture into the baking pan.",
+          "Bake for 20–25 minutes or until a toothpick inserted in center comes out clean. If corn is added to batter, increase time by ~50%",
+          "Serve hot!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACornbread_I"
+      }
+    },
+    {
+      "id": "chili-con-carne",
+      "name": "Chili con carne",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chili%20con%20carne%20recipe",
+      "description": "Chili con carne, often shortened to chili, is a spicy stew of Mexican origin containing chili peppers (sometimes in the form of chili powder), meat (usually beef), tomatoes, and beans. Other seasonings may include garlic, onions, and cumin.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Bowl_of_chili.jpg/500px-Bowl_of_chili.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chili_con_carne"
+    },
+    {
+      "id": "philly-cheesesteak",
+      "name": "Philly cheesesteak",
+      "videoSearch": "https://www.youtube.com/results?search_query=Philly%20cheesesteak%20recipe",
+      "description": "A cheesesteak (also known as a Philadelphia cheesesteak, Philly cheesesteak, cheesesteak sandwich, cheese steak, or steak and cheese) is a sandwich made from thinly sliced pieces of beefsteak (often rib eye) and melted cheese in a long hoagie roll.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/PatsCheesesteak.jpg/500px-PatsCheesesteak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cheesesteak",
+      "recipe": {
+        "ingredients": [
+          "1 pound filet mignon, pounded flat",
+          "Olive oil",
+          "Salt",
+          "Freshly ground black pepper",
+          "1 small onion, julienned",
+          "Hoagie rolls, almost halved",
+          "American cheese slices, torn"
+        ],
+        "steps": [
+          "Drizzle filet with olive oil and season with salt and black pepper. Sear in a cast-iron skillet over medium heat for 6 minutes per side. Remove and let rest 7 minutes before slicing into bite-size pieces. Keep warm.",
+          "Toss onion with a little olive oil and sauté in same pan until lightly browned around edges.",
+          "To serve, place a big scoop of steak into a hoagie roll. Top with onion and torn cheese. Serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APhilly_Cheesesteak"
+      }
+    },
+    {
+      "id": "reuben-sandwich",
+      "name": "Reuben sandwich",
+      "videoSearch": "https://www.youtube.com/results?search_query=Reuben%20sandwich%20recipe",
+      "description": "The Reuben sandwich is an American grilled sandwich comprising corned beef, Swiss cheese, sauerkraut, and Russian dressing or Thousand Island dressing, grilled between slices of rye bread. The sandwich is traditionally grilled or toasted until the bread is crisp and the cheese has melted.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Katz%27s_Deli_-_Lunch.jpg/500px-Katz%27s_Deli_-_Lunch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Reuben_sandwich",
+      "recipe": {
+        "ingredients": [
+          "½ lb (225 g) sliced corned beef (or try using pastrami)",
+          "¼ cup (60 ml) drained sauerkraut",
+          "2 tbsp chopped sweet onion",
+          "2 tbsp creamy Russian dressing",
+          "2 slices rye bread (or use sourdough bread in case of rye allergy)",
+          "1–3 slices Swiss cheese",
+          "Chopped parsley",
+          "1 tbsp butter"
+        ],
+        "steps": [
+          "Combine the sauerkraut, onion, and parsley.",
+          "Spread the dressing on two slices bread.",
+          "Pile layers of corned beef, cheese, and sauerkraut mixture on one slice.",
+          "Add second slice of bread.",
+          "Butter the outside of the bread.",
+          "Grill until lightly browned, roughly 5–10 minutes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AReuben_Sandwich"
+      }
+    },
+    {
+      "id": "lobster-roll",
+      "name": "Lobster roll",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lobster%20roll%20recipe",
+      "description": "A lobster roll is a North American dish comprising lobster meat served on a grilled hot dog–style bun, commonly credited to have been invented in Milford, Connecticut.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Lobster_Roll.png/500px-Lobster_Roll.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lobster_roll"
+    },
+    {
+      "id": "po-boy",
+      "name": "Po' boy",
+      "videoSearch": "https://www.youtube.com/results?search_query=Po'%20boy%20recipe",
+      "description": "A po' boy (also po-boy, po boy derived from the non-rhotic southern accents often heard in the region, or poor boy) is a sandwich originally from Louisiana.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Shrimppoboy.jpg/500px-Shrimppoboy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Po%27_boy"
+    },
+    {
+      "id": "shrimp-and-grits",
+      "name": "Shrimp and grits",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shrimp%20and%20grits%20recipe",
+      "description": "Shrimp and grits is a dish that combines sautéed shrimp with grits—a porridge of boiled cornmeal. Shrimp and grits are associated with Lowcountry cuisine, eaten in coastal Georgia and South Carolina—John Martin Taylor says \"I know of no dish more typically Lowcountry\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Shrimp_and_grits_at_the_Green_Goddess.jpg/500px-Shrimp_and_grits_at_the_Green_Goddess.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shrimp_and_grits",
+      "recipe": {
+        "ingredients": [
+          "3–4 strips thick smoky bacon, cut into 1-inch pieces",
+          "½ onion, minced",
+          "2–3 cloves garlic, minced",
+          "1 lb large shrimp, peeled (use peels to make stock)",
+          "Salt",
+          "1 pint heavy cream, divided",
+          "2–2½ cups shrimp stock",
+          "Butter",
+          "Black pepper",
+          "Cayenne pepper",
+          "Paprika",
+          "Chile flakes",
+          "Lime juice",
+          "1 recipe coarse grain hominy grits, timed to finish when shrimp are ready to serve",
+          "3–4 scallions, sliced"
+        ],
+        "steps": [
+          "Fry bacon in a pan until not too crisp; remove and reserve.",
+          "Sauté onion and garlic in bacon fat until just softened (about 2–3 minutes).",
+          "Lightly season shrimp with salt and add to the pan; sauté until about half-cooked and just turning pink. Remove and reserve with the bacon.",
+          "Deglaze pan with sherry.",
+          "Add 1 cup (250 ml) cream, bring to boil, and reduce.",
+          "Add 1 cup shrimp stock, bring to a high simmer, and reduce. The liquid should thicken; if necessary, add floured butter at this point (beurre manié).",
+          "Season sauce with salt, pepper, chili flakes, cayenne, and paprika",
+          "Add bacon and shrimp to the sauce, and cook gently until shrimp are just done.",
+          "Add lime juice.",
+          "Serve over grits, and garnish with scallions."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALow_Country_Shrimp_and_Grits"
+      }
+    },
+    {
+      "id": "hoppin-john",
+      "name": "Hoppin' John",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hoppin'%20John%20recipe",
+      "description": "Hoppin' John, also known as Carolina peas and rice, is a rice and beans dish of legendary origins associated with the cuisine of the Southern United States. Similar dishes are found in regions with a significant African-origin demographic like Louisiana red beans and rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Hoppin-john-bowl.JPG/500px-Hoppin-john-bowl.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hoppin%27_John",
+      "recipe": {
+        "ingredients": [
+          "6 slices bacon, diced",
+          "1 medium onion, diced",
+          "½ cup diced celery",
+          "½ cup diced bell pepper",
+          "4½ cups water",
+          "2 packs long grain rice (3–4 cups cooked)",
+          "3 cans black-eyed peas",
+          "3 jalapeños, seeded and diced (about ½ cup)"
+        ],
+        "steps": [
+          "Brown bacon in large Dutch oven, remove, and reserve 2 tablespoons of grease in pan.",
+          "Add onion, celery, and bell pepper, and sauté 5 minutes.",
+          "Add rice and seasoning packet, water, and black-eyed peas; cover and simmer 25 minutes.",
+          "Add bacon and jalapeños, cover and heat 5–10 minutes more."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHoppin_John"
+      }
+    },
+    {
+      "id": "chicago-style-pizza",
+      "name": "Chicago-style pizza",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chicago-style%20pizza%20recipe",
+      "description": "Deep-dish pizza is a type of pizza with a tall outer crust and very large amounts of cheese, with chunky tomato sauce on top of the cheese instead of underneath it. It is strongly associated with Chicago, and is sometimes referred to as Chicago-style pizza.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Chicago-Style_Stuffed_Pizza.jpg/500px-Chicago-Style_Stuffed_Pizza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Deep-dish_pizza",
+      "recipe": {
+        "ingredients": [
+          "1 tsp active dry yeast (fast-rising yeast is acceptable)",
+          "¾ cup () warm water (about 90 °F)",
+          "1 cup () flour",
+          "2 tbsp olive oil",
+          "1 tbsp white sugar",
+          "½ tsp salt",
+          "3 cups () additional flour",
+          "~1 cup () warm water",
+          "4 tbsp cornmeal (optional)",
+          "1 or more () can(s) of prepared or homemade pizza sauce",
+          "shredded Mozzarella cheese",
+          "¼ cup () grated Romano cheese (optional)",
+          "¼ cup () grated Parmesan cheese (optional)"
+        ],
+        "steps": [
+          "In a mixing bowl or dough mixer, mix the yeast and ¾ cup () warm water. Let this stand for a few minutes to activate the yeast.",
+          "Mix in the 1 cup () flour, oil, sugar, salt into a smooth batter. Add the remaining flour and water. Mix this until you get a dough with a slightly sticky consistency. Add additional water or flour to adjust the consistency. Knead the dough until it springs slightly when touched.",
+          "Let this rise in a warm location in a greased bowl until doubled. Punch down the dough in the bowl.",
+          "Transfer dough to a floured flat surface. Roll or shape the dough to the shape of a pizza pan and make an edge up the side of the pan for the crust. Roll the dough thicker for Deep Dish Pizza and thinner for a crisper and more traditional pizza crust.",
+          "Preheat the oven to .",
+          "Spread the pizza sauce on the dough, leaving the edge crust uncoated. Add any optional toppings (pepperoni, sausage, green pepper, etc.). Sprinkle the grated mozzarella cheese evenly across the pizza, leaving the edge crust untouched. If desired, sprinkle the grated Parmesan and Romano cheeses evenly over the toppings.",
+          "Bake the pizza on a rack of the preheated oven for 25–30 minutes or until the crust and cheese are lightly brown. If the pizza is browning on the outer crust and not in the middle, line the edge with aluminum foil to prevent burning. This rarely happens except on larger diameter pizzas of or more.",
+          "When removing from the oven, cut into about 8 triangular, pie shaped slices for serving. A pizza cutter with a circular wheel does this nicely."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ADeep_Dish_Pizza"
+      }
+    },
+    {
+      "id": "macaroni-and-cheese",
+      "name": "Macaroni and cheese",
+      "videoSearch": "https://www.youtube.com/results?search_query=Macaroni%20and%20cheese%20recipe",
+      "description": "Macaroni and cheese (colloquially known as mac and cheese and known as macaroni cheese in the United Kingdom) is a pasta dish of macaroni covered in cheese sauce, most commonly cheddar sauce. Its origins trace back to cheese and pasta casseroles in medieval England.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Original_Mac_n_Cheese_.jpg/500px-Original_Mac_n_Cheese_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Macaroni_and_cheese"
+    },
+    {
+      "id": "boston-baked-beans",
+      "name": "Boston baked beans",
+      "videoSearch": "https://www.youtube.com/results?search_query=Boston%20baked%20beans%20recipe",
+      "description": "Baked beans are a dish traditionally containing white common beans that are parboiled and then baked in sauce at low temperature for a lengthy period. Canned baked beans are not baked, but are cooked through a steam process.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Baked_beans_in_tomato_sauce.jpg/500px-Baked_beans_in_tomato_sauce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baked_beans",
+      "recipe": {
+        "ingredients": [
+          "2 pounds (900 g) Navy, Great Northern, or Pea beans, though black, kidney, or lima beans may be used for a different taste.",
+          "1 pound (450g) bacon, diced",
+          "2 large onions, chopped",
+          "1½ cups brown sugar",
+          "¾ cup molasses"
+        ],
+        "steps": [
+          "Soak dry beans overnight, or use 4 cans cooked beans.",
+          "Preheat oven to 350°F (175°C).",
+          "Stir all ingredients together, then pour into casserole dish, bean pot or Dutch oven.",
+          "Add water from beans, or preferably stock or fresh water. Just enough to barely cover. Canned beans may need less water. Beans will absorb more water as they cook.",
+          "Bake 2½ hours. Check after an hour for moisture level, add more water as needed to keep appropriate moistness. If beans have too much liquid, remove lid and cook a bit longer."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABaked_Beans"
+      }
+    },
+    {
+      "id": "chicken-and-dumplings",
+      "name": "Chicken and dumplings",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chicken%20and%20dumplings%20recipe",
+      "description": "Chicken and dumplings is a Southern United States, Midwestern and French Canadian dish that consists of a chicken boiled in water, with the resulting chicken broth being used to cook dumplings by boiling.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Mmm..._chicken_dumplings_%287867591472%29.jpg/500px-Mmm..._chicken_dumplings_%287867591472%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chicken_and_dumplings",
+      "recipe": {
+        "ingredients": [
+          "Approximately 2 liters (2 quarts) chicken stock",
+          "Approximately 1 kilogram (2 pounds) cooked boneless chicken meat, cut into bite-sized pieces",
+          "1 carrot, sliced into rounds",
+          "1 celery rib or ¼ celeriac, chopped",
+          "1 bay leaf",
+          "1 onion, chopped",
+          "1 teaspoon dried thyme",
+          "Salt, pepper, and liquid seasoning to taste",
+          "150 grams (1¼ U.S. cups) all-purpose flour",
+          "1½ teaspoons baking powder",
+          "½ teaspoon salt",
+          "20 grams (1½ tablespoons) solid fat (such as vegetable shortening, lard or butter)",
+          "150 milliliters (5 U.S. fluid ounces) milk"
+        ],
+        "steps": [
+          "Combine all the stew ingredients in a large pot and bring to a boil.",
+          "Reduce heat and allow to simmer while you make the dumplings.",
+          "For the dumplings, mix the dry ingredients together and cut in the shortening until the mixture is coarse and grainy.",
+          "Add milk and mix just until combined into a dough.",
+          "Drop dough by spoonfuls onto the stew.",
+          "Simmer 5 minutes with the lid off and 15–20 minutes longer with the lid on."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChicken_and_Dumplings"
+      }
+    },
+    {
+      "id": "brownies",
+      "name": "Brownies",
+      "videoSearch": "https://www.youtube.com/results?search_query=Brownies%20recipe",
+      "description": "A chocolate brownie, or simply a brownie, is a chocolate baked dessert bar. Brownies come in a variety of forms and may be either fudgy or cakey, depending on their density. Brownies often have a glossy \"skin\" on their upper crust and may include ingredients such as nuts, frosting, or chocolate chips.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Chocolatebrownie.JPG/500px-Chocolatebrownie.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chocolate_brownie",
+      "recipe": {
+        "ingredients": [
+          "⅓ cup unsalted butter",
+          "¾ cup white granulated sugar",
+          "¼ cup water",
+          "1 package (12 ounces) dark or bittersweet chocolate chips, divided in half",
+          "1 teaspoon vanilla",
+          "¾ cups all purpose flour",
+          "¼ teaspoon baking soda",
+          "¼ teaspoon salt",
+          "2 ea. (100 g) standard eggs",
+          "½ cup chopped nuts (optional)"
+        ],
+        "steps": [
+          "Let the eggs and butter sit out for 30 minutes to bring to room temperature.",
+          "Preheat oven to 165°C (325°F).",
+          "In a small bowl, sift together the flour, baking soda, and salt. Set aside.",
+          "In a small saucepan combine butter, sugar, and water. Bring just to a boil then remove from heat.",
+          "Add half of the chocolate chips (6 oz) and vanilla. Stir until smooth and shiny.",
+          "Transfer the chocolate mixture into a large bowl.",
+          "Add eggs one at a time, beating well after each addition.",
+          "Gradually blend in flour mixture.",
+          "Stir in remaining chocolate chips and nuts if desired.",
+          "Spread in a greased 9-inch square pan.",
+          "Bake at 165°C (325°F) for 30–35 minutes.",
+          "Cool completely before cutting into 2¼-inch squares."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ADouble_Chocolate_Brownies"
+      }
+    },
+    {
+      "id": "cobbler",
+      "name": "Cobbler",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cobbler%20recipe",
+      "description": "Cobbler is a dessert or savory dish consisting of a fruit or savoury filling poured into a large baking dish and covered with a batter, biscuit, or dumpling (in the United Kingdom) before being baked. Cobbler is part of the cuisine of the United Kingdom, Australia and United States.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Cobbler_%287303683612%29.jpg/500px-Cobbler_%287303683612%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cobbler_(food)",
+      "recipe": {
+        "ingredients": [
+          "½ cup (1 stick) butter",
+          "Salt (optional; add only if butter is unsalted)",
+          "1 tsp baking powder",
+          "1 cup self-raising flour",
+          "1 cup milk",
+          "1 cup white granulated sugar",
+          "1 cup fresh fruit (e.g. peaches, blackberries, cherries, etc.)"
+        ],
+        "steps": [
+          "Preheat oven to 350°F (175°C).",
+          "Place the butter in a deep 9½ x 12-inch baking dish. Put dish in oven to melt butter while preparing other ingredients. If butter is unsalted, add a touch of salt to the pan as well.",
+          "Add flour and sugar to a bowl and sift together lightly. Create a well in the center of the mixture, and pour the milk into the well. Mix together with a wire whisk until smooth.",
+          "Remove pan from oven. Pour batter into dish on top of melted butter. Do not stir. Spoon the fresh fruit out evenly across the top, but again, do not stir.",
+          "Place cobbler in oven and bake uncovered until golden brown."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABasic_Cobbler"
+      }
+    },
+    {
+      "id": "red-beans-and-rice",
+      "name": "Red beans and rice",
+      "videoSearch": "https://www.youtube.com/results?search_query=Red%20beans%20and%20rice%20recipe",
+      "description": "Red beans and rice is an emblematic dish of Louisiana Creole cuisine (not originally of Cajun cuisine) traditionally made on Mondays with small red beans, vegetables (bell pepper, onion, and celery), spices (thyme, cayenne pepper, and bay leaf), and pork bones as left over from Sunday dinner, cooked together slowly in …",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Red_beans.jpg/500px-Red_beans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Red_beans_and_rice"
+    },
+    {
+      "id": "succotash",
+      "name": "Succotash",
+      "videoSearch": "https://www.youtube.com/results?search_query=Succotash%20recipe",
+      "description": "Succotash is a North American vegetable dish consisting primarily of sweet corn with lima beans or other shell beans. The name succotash is derived from the Narragansett word sahquttahhash, which means \"broken corn kernels\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Corn_%26_Beans_%2815392776377%29.jpg/500px-Corn_%26_Beans_%2815392776377%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Succotash"
+    },
+    {
+      "id": "boston-cream-pie",
+      "name": "Boston cream pie",
+      "videoSearch": "https://www.youtube.com/results?search_query=Boston%20cream%20pie%20recipe",
+      "description": "A Boston cream pie is a cake with a custard filling. The dessert acquired its name when cakes and pies were baked in the same pans, and the words were used interchangeably. In the late 19th century, this type of cake was variously called a \"cream pie\", a \"chocolate cream pie\", or a \"custard cake\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Bostoncreampie.jpg/500px-Bostoncreampie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boston_cream_pie"
+    },
+    {
+      "id": "chocolate-chip-cookie",
+      "name": "Chocolate chip cookie",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chocolate%20chip%20cookie%20recipe",
+      "description": "A chocolate chip cookie is a drop cookie that contains pieces of chocolate mixed into the dough before baking. Texture and appearance vary with ingredients and preparation, ranging from moist, chewy cookies to ones that are crispy.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Choco_chip_cookie.png/500px-Choco_chip_cookie.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chocolate_chip_cookie"
+    },
+    {
+      "id": "cioppino",
+      "name": "Cioppino",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cioppino%20recipe",
+      "description": "Cioppino is a fish stew originating in San Francisco, California, a dish in Italian-American cuisine related to various fish soups in Italian cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Cioppino.jpg/500px-Cioppino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cioppino"
+    },
+    {
+      "id": "brunswick-stew",
+      "name": "Brunswick stew",
+      "videoSearch": "https://www.youtube.com/results?search_query=Brunswick%20stew%20recipe",
+      "description": "Brunswick stew is a tomato-based stew generally involving local beans, vegetables, and originally small game meat such as squirrel or rabbit, though today often chicken. The exact origin of the stew is disputed.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Brunswick_stew.jpg/500px-Brunswick_stew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Brunswick_stew"
+    },
+    {
+      "id": "poke",
+      "name": "Poke",
+      "videoSearch": "https://www.youtube.com/results?search_query=Poke%20recipe",
+      "description": "Poke or poké is a dish of diced raw fish (poke being Hawaiian for 'to slice' or 'cut crosswise into pieces') tossed in sauce and served either as an appetizer or a main course.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Shoyu_and_onion_poke.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Poke_(dish)"
+    },
+    {
+      "id": "waldorf-salad",
+      "name": "Waldorf salad",
+      "videoSearch": "https://www.youtube.com/results?search_query=Waldorf%20salad%20recipe",
+      "description": "A Waldorf salad is a fruit and nut salad generally made of celery, fresh apples, walnuts, and grapes, dressed in mayonnaise, and traditionally served on a bed of lettuce as an appetizer or a light meal. The apples, celery, and grapes can all be green, which harmonizes the color palette of the dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Waldorfsalat.jpg/500px-Waldorfsalat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Waldorf_salad",
+      "recipe": {
+        "ingredients": [
+          "1 large Granny Smith apple",
+          "1 large Red Delicious apple",
+          "1 tablespoon of lemon juice",
+          "80 g (⅓ cup or 3 oz) raisins",
+          "80 g (⅓ cup or 3 oz) chopped walnuts",
+          "80 g (⅓ cup or 3 oz) chopped celery",
+          "2 tablespoons mayonnaise",
+          "1 tablespoon white granulated sugar",
+          "6 large leaves lettuce",
+          "10 halved maraschino cherries"
+        ],
+        "steps": [
+          "Slice the apples into wedges, and place in a bowl.",
+          "Pour lemon juice on the apple wedges, and ensure a light coating to prevent browning.",
+          "Plump the raisins by placing them in warm water for 5 minutes, then drain well.",
+          "Mix celery, raisins, and walnuts into the bowl of apple wedges.",
+          "Mix the mayonnaise and sugar together, then pour into the apple mixture, ensuring a light coating on all items.",
+          "Chill for at least 30 minutes",
+          "Place 3 lettuce leaves on a large plate and three on another, place half of the mixture on each set of leaves, and sprinkle 5 cherries on each salad.",
+          "Serve"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AWaldorf_Salad"
+      }
+    }
+  ]
+}

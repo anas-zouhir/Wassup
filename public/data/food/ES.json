@@ -1,0 +1,469 @@
+{
+  "country": "ES",
+  "dishes": [
+    {
+      "id": "paella",
+      "name": "Paella",
+      "localName": "Paella valenciana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Paella%20recipe",
+      "description": "Paella is a rice dish originally from the Valencian Community. Paella is regarded as one of the community's identifying symbols. It is one of the best-known dishes in Spanish cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/01_Paella_Valenciana_original.jpg/500px-01_Paella_Valenciana_original.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paella",
+      "recipe": {
+        "ingredients": [
+          "500 g (17.5 ounces) chicken",
+          "500 g (17.5 ounces) rabbit or duck",
+          "20 g (0.75 ounce) salt",
+          "8 tablespoons olive oil",
+          "250 g (10 ounces) chopped green bell peppers (optional)",
+          "1 clove garlic (optional)",
+          "1 tablespoon sweet paprika",
+          "500 g (17.5 ounces) diced or grated tomatoes",
+          "2 liters (2 quarts) water (preferably hard water)",
+          "24 boiled snails (optional)",
+          "125 g (4.5 ounces) large haricot beans (canned or fresh)",
+          "100 g (3.5 ounces) small haricot beans (canned or fresh)",
+          "125 g (4.5 ounces) fresh runner beans or green beans",
+          "8–10 threads of saffron and/or 1½ teaspoons yellow food coloring (see notes)",
+          "400 g (14 ounces) calasparra rice, bomba rice, or pearl rice",
+          "6–8 branches of fresh rosemary"
+        ],
+        "steps": [
+          "Clean the snails, poultry and rabbit thoroughly. Cut the poultry and rabbit into small pieces and salt them generously.",
+          "Pour olive oil in a paellera and, when hot, sauté the poultry and rabbit pieces until golden brown.",
+          "Add green peppers and sauté for 1 minute. Add the garlic and sauté until brown. Be careful; garlic burns easily.",
+          "Once the garlic is brown, add the paprika followed quickly by the tomatoes to prevent the paprika from burning. Sauté until the tomatoes become dark and pulpy and the mixture has reduced a bit.",
+          "Add the water and bring it to a rolling boil. Then add the snails, fresh haricot beans (if canned, continue reading to see when to add these), runner beans, and saffron (and/or food coloring). Allow the mixture to boil for 10 minutes over a high flame. Sweep a rosemary branch through the broth for no longer than 30 seconds and then remove it.",
+          "After 10 minutes have passed, you should have a flavorful broth. It's customary at this point to allow your dinner guests to taste it. The purpose is to determine if the broth needs more salt. If so, add more salt, a pinch at a time, until everybody is satisfied.",
+          "Add the rice and stir it using the rice skimmer. Then, once again with the skimmer, spread the rice over the bottom of the paellera. The coating of rice should be one centimeter thick. Let it cook over a high flame for 10 minutes.",
+          "Reduce the heat to medium and let it simmer for 4 minutes. Add the canned haricot beans, reduce the heat again to low, and let it simmer for another 4 minutes. Taste the rice frequently to determine when it's fully cooked. You'll know it's done when it's slightly firm to the bite. Italians use a similar approach when cooking pasta, which they refer to as al dente.",
+          "At this point, there should be some toasted rice sticking to the bottom of the pan. This is a delicacy in Valencia called socarrat. If no socarrat has developed, increase the flame to high and listen for the crackling sound of rice toasting at the bottom.",
+          "Remove the pan from the heat when the rice is almost dry, and place the unused rosemary branches on top. Cover with a clean, white towel (a white towel prevents dye from leeching onto the paella) and wait 5 minutes before serving to allow the rice to absorb the remaining broth."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APaella_Valenciana"
+      }
+    },
+    {
+      "id": "gazpacho",
+      "name": "Gazpacho",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gazpacho%20recipe",
+      "description": "Gazpacho or gaspacho, also called Andalusian gazpacho (from Spanish gazpacho andaluz), is a cold soup and drink made of raw, blended vegetables. It originated in the southern regions of the Iberian Peninsula and spread into other areas.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Gazpacho_Malague%C3%B1o_con_su_%E2%80%9Cpica%C3%ADto%E2%80%9D_-_Moreno%2C_Playa_Burriana_%28cropped%29.jpg/500px-Gazpacho_Malague%C3%B1o_con_su_%E2%80%9Cpica%C3%ADto%E2%80%9D_-_Moreno%2C_Playa_Burriana_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gazpacho",
+      "recipe": {
+        "ingredients": [
+          "2 oz (50 g) 2–3 day-old white bread (optional—leave out for a thinner soup)",
+          "1 lb (450 g) tomatoes, skinned and quartered",
+          "½ lb (225 g) green bell peppers, seeded and trimmed",
+          "½ cucumber, peeled and cut in chunks",
+          "1 clove of garlic",
+          "½ mild Spanish onion, chopped",
+          "1 tbsp white or red wine vinegar",
+          "2 tbsp olive oil",
+          "¼ chile pepper, seeds removed (optional)",
+          "Cilantro (optional)",
+          "⅓ pt (2.4 dl) iced water",
+          "Sea salt",
+          "Black pepper",
+          "Ice cubes",
+          "1 tomato, skinned and diced fine",
+          "½ green bell pepper, diced fine",
+          "¼ peeled cucumber, diced fine",
+          "bread"
+        ],
+        "steps": [
+          "If using, tear up the bread, and soak it in water for 30 minutes. Squeeze it dry.",
+          "Blend bread, tomatoes, bell peppers, cucumber, garlic, onion, vinegar, olive oil, chiles, cilantro, and water in a blender until roughly chopped. The soup should have texture and discernible vegetable bits, so do not chop too finely.",
+          "Pour soup into a large bowl with some ice, and season to taste with salt and pepper.",
+          "Dice the bread, and fry it in a little olive oil until brown.",
+          "Chop the other vegetables finely.",
+          "Serve all garnishes in separate little bowls on the table.",
+          "Serve gazpacho chilled.",
+          "Allow diners to sprinkle on their own toppings."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGazpacho"
+      }
+    },
+    {
+      "id": "spanish-omelette",
+      "name": "Spanish omelette",
+      "localName": "Tortilla de patatas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Spanish%20omelette%20recipe",
+      "description": "A Spanish omelette or Spanish tortilla (Spanish: tortilla de patatas, tortilla de papas, or tortilla española; see below) is an omelette made with eggs and potatoes, often including onions. It is often served at room temperature as a tapa. It is one of the most popular dishes in Spanish cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Tortilla_de_patata_-_San_Sebasti%C3%A1n.jpg/500px-Tortilla_de_patata_-_San_Sebasti%C3%A1n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Spanish_omelette",
+      "recipe": {
+        "ingredients": [
+          "3 lb (1200 g) potatoes",
+          "4 eggs",
+          "2 cups olive oil",
+          "Salt"
+        ],
+        "steps": [
+          "Peel the potatoes and cut them into small cubes or thin round slices. Sprinkle with salt and leave any excess water to drain from them while heating the oil to around 350°F (177°C) in a large frying pan.",
+          "Fry the potato slices until they are very slightly golden, although this is a matter of taste: the more golden and crisp the potatoes are, the juicier will be the omelette. For a dryer and thicker tortilla, turn the heat down and let the potatoes cook gently until tender and soft.",
+          "Remove the potatoes from the oil and drain. Beat the eggs, add salt to taste and mix with the potato chips. Leave them to soak for 10 minutes.",
+          "Heat 1 tablespoon of the olive oil in a frying pan and, when it's smoking hot, add the potato and egg mixture. Use a smaller frying pan so you will get a thicker and well-rounded omelette. Shake the pan to avoid the omelette sticking or burning.",
+          "After a few minutes, turn the omelette over with the help of a flat lid or a large dish, and leave until golden on the other side.",
+          "Serve hot or cold accompanied by a salad."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATortilla_de_Patatas"
+      }
+    },
+    {
+      "id": "jamon-iberico",
+      "name": "Jamón ibérico",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jam%C3%B3n%20ib%C3%A9rico%20recipe",
+      "description": "Jamón ibérico, known in Portuguese as presunto ibérico, is a variety of jamón or presunto, a type of cured leg of pork (primarily Black Iberian pigs) produced in Spain and Portugal, in the Iberian Peninsula. It is considered a staple of both Portuguese cuisine and Spanish cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Jamon_iberico_de_bellota_2_%28cinco_jotas%29.jpg/500px-Jamon_iberico_de_bellota_2_%28cinco_jotas%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jam%C3%B3n_ib%C3%A9rico"
+    },
+    {
+      "id": "patatas-bravas",
+      "name": "Patatas bravas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Patatas%20bravas%20recipe",
+      "description": "Patatas bravas, also called patatas a la brava or tortilla, all meaning \"spicy potatoes\") is a dish native to Spain. It typically consists of whitees tortilla that have been cut into two-centimeter-wide (3⁄4-inch) cubes, then fried in oil and served hot with a spicy \"brava\" sauce.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Patatas_bravas_madrid.jpg/500px-Patatas_bravas_madrid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Patatas_bravas"
+    },
+    {
+      "id": "churros",
+      "name": "Churros",
+      "videoSearch": "https://www.youtube.com/results?search_query=Churros%20recipe",
+      "description": "A churro is a type of fried dough from Spanish and Portuguese cuisine, made with choux pastry dough piped into hot oil with a piping bag and large closed star tip or similar shape.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Chocolate_con_churros_%2827343655726%29.jpg/500px-Chocolate_con_churros_%2827343655726%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Churro"
+    },
+    {
+      "id": "fabada-asturiana",
+      "name": "Fabada asturiana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fabada%20asturiana%20recipe",
+      "description": "Fabada asturiana, often simply known as fabada, is a rich Asturian bean stew, originally from and most commonly found in the autonomous community of Principality of Asturias, but widely available throughout the whole of Spain and in Spanish restaurants worldwide.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Fabada_en_cazuela_de_barro.jpg/500px-Fabada_en_cazuela_de_barro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fabada_asturiana"
+    },
+    {
+      "id": "cocido-madrileno",
+      "name": "Cocido madrileño",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cocido%20madrile%C3%B1o%20recipe",
+      "description": "Cocido madrileño is a traditional chickpea-based stew associated with the Madrid region. It is most popular during the winter. Long-cooking cocidos are thought to be derived from Sephardic adafina recipes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/CocidoMadrile%C3%B1o.jpg/500px-CocidoMadrile%C3%B1o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cocido_madrile%C3%B1o"
+    },
+    {
+      "id": "galician-octopus",
+      "name": "Galician octopus",
+      "localName": "Pulpo a la gallega",
+      "videoSearch": "https://www.youtube.com/results?search_query=Galician%20octopus%20recipe",
+      "description": "Polbo á feira (literally meaning \"fair-style octopus\", or pulpo a la gallega in Spanish, meaning \"Galician-style octopus\"), is a traditional Galician dish. The provinces of Ourense and Lugo have a reputation for cooking octopus.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Polbo_a_feira.jpg/500px-Polbo_a_feira.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Polbo_%C3%A1_feira"
+    },
+    {
+      "id": "salmorejo",
+      "name": "Salmorejo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Salmorejo%20recipe",
+      "description": "Salmorejo, sometimes known as ardoria or ardorío, is a traditional soup originating from Córdoba, Andalusia, southern Spain, made of tomato, bread, extra virgin olive oil and garlic. The salmorejo is served cold and may be garnished with diced Spanish ibérico ham and diced hard-boiled eggs.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Salmorejo_cordouan.JPG/500px-Salmorejo_cordouan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Salmorejo",
+      "recipe": {
+        "ingredients": [
+          "1 pound (450 g) tomato",
+          "1–2 cloves of garlic",
+          "1 ounce (50 g) white bread",
+          "2 tbsp (30 ml) vinegar",
+          "Olive oil",
+          "Salt",
+          "Serrano ham",
+          "2 hard-boiled eggs",
+          "Fresh bread"
+        ],
+        "steps": [
+          "Skin the tomatoes and remove their cores. If using canned whole tomatoes, add with their liquid.",
+          "Using a blender, liquefy the tomatoes and garlic and add the vinegar and salt.",
+          "Soak the bread in water until tender, then wring excess water out.",
+          "Add half of the bread and blend until smooth.",
+          "Continue adding bread and a little olive oil and blending until the soup has a smooth, creamy consistency.",
+          "Chill the purée and then serve in a shallow bowl, garnished with ham and egg and accompanied by fresh bread."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASalmorejo_(Spanish_Tomato_Garlic_Pur%C3%A9e)"
+      }
+    },
+    {
+      "id": "gambas-al-ajillo",
+      "name": "Gambas al ajillo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gambas%20al%20ajillo%20recipe",
+      "description": "Al ajillo (lit. with garlic) is a typical cooking style utilizing garlic in the cuisines of the Spanish-speaking world. The origin is Spain, with influence by the Moors.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Gambas_al_ajillo_en_madrid.jpg/500px-Gambas_al_ajillo_en_madrid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Al_ajillo",
+      "recipe": {
+        "ingredients": [
+          "1 pound shrimp",
+          "4–6 large cloves of garlic, finely minced",
+          "1 teaspoon sweet Spanish paprika",
+          "2–3 oz dry sherry (you may substitute cognac instead)",
+          "¼ cup virgin olive oil",
+          "3 teaspoon chopped fresh parsley",
+          "1 oz fresh lemon juice"
+        ],
+        "steps": [
+          "In a sauté pan or other heavy frying pan, warm the olive oil over medium heat. Add the garlic and sauté for about one minute or until it begins to brown. Be careful not to burn the garlic.",
+          "Raise the heat to high and add the shrimp, lemon juice, sherry or cognac and paprika. Stir well, then sauté, stirring briskly until the shrimp turn pink and curl (about 3 minutes).",
+          "Remove from heat and transfer shrimp with oil and sauce to a warm plate or serve right from the pan.",
+          "Season to taste with salt and freshly ground black pepper. Sprinkle with parsley."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGambas_al_Ajillo_(Garlic_Shrimp)"
+      }
+    },
+    {
+      "id": "pisto",
+      "name": "Pisto",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pisto%20recipe",
+      "description": "Pisto (also known as pisto manchego) is a Spanish dish originally from the Region of Murcia, Castilla–La Mancha and Extremadura. It is made of tomatoes, onions, eggplant or courgettes, green and red peppers, and olive oil. It is usually served warm as a starter or to accompany another dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Pisto.jpg/500px-Pisto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pisto"
+    },
+    {
+      "id": "crema-catalana",
+      "name": "Crema catalana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Crema%20catalana%20recipe",
+      "description": "Crema catalana (Catalan for 'Catalan cream'), or crema cremada ('burnt cream'), is a Catalan dessert consisting of a custard topped with a layer of caramelized sugar. It is \"virtually identical\" to the French crème brûlée. It is made from milk, egg yolks, and sugar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Creme_catalane.jpg/500px-Creme_catalane.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Crema_catalana"
+    },
+    {
+      "id": "turron",
+      "name": "Turrón",
+      "videoSearch": "https://www.youtube.com/results?search_query=Turr%C3%B3n%20recipe",
+      "description": "Turrón, torró or torrone is a Mediterranean nougat confection, typically made of honey, sugar, and egg white, with toasted almonds or other nuts, and usually shaped either into a rectangular tablet or a round cake. Turrón is usually eaten as a dessert food around Christmas in Spain and Italy.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Turr%C3%B3n_de_Alicante_%28Casa_Mira%29.jpg/500px-Turr%C3%B3n_de_Alicante_%28Casa_Mira%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Turr%C3%B3n"
+    },
+    {
+      "id": "pa-amb-tomaquet",
+      "name": "Pa amb tomàquet",
+      "localName": "Pan con tomate",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pa%20amb%20tom%C3%A0quet%20recipe",
+      "description": "Pa amb tomàquet, also known as pa amb tomata or pa amb tomaca (all meaning \"bread with tomato\" in Catalan), is a traditional food of Catalan (including Northern Catalonia in France), Balearic and, to a lesser extent, Valencian and Aragonese cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Pa_amb_tomaquet.jpg/500px-Pa_amb_tomaquet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pa_amb_tom%C3%A0quet"
+    },
+    {
+      "id": "fideua",
+      "name": "Fideuà",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fideu%C3%A0%20recipe",
+      "description": "Fideuà (dialectal pronunciation of the Valencian word fideuada \"large amount of noodles\" from Andalusian Arabic fidáwš) is a seafood dish originally from the coast of Valencia that is similar to paella, and even more so to arròs a banda, but with pasta noodles instead of rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Fideua_-_xurde.jpg/500px-Fideua_-_xurde.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fideu%C3%A0"
+    },
+    {
+      "id": "padron-peppers",
+      "name": "Padrón peppers",
+      "localName": "Pimientos de Padrón",
+      "videoSearch": "https://www.youtube.com/results?search_query=Padr%C3%B3n%20peppers%20recipe",
+      "description": "Padrón pepper, also called Herbón pepper, is a landrace variety of pepper (Capsicum annuum) from the municipality of Padrón in northwestern Spain (mainly in the valley of the parish of Herbón).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Pementos_de_Padron.jpg/500px-Pementos_de_Padron.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Padr%C3%B3n_pepper"
+    },
+    {
+      "id": "ajoblanco",
+      "name": "Ajoblanco",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ajoblanco%20recipe",
+      "description": "Ajoblanco (sometimes written ajo blanco) is a popular Spanish cold soup typical from Granada and Málaga (Andalusia). This dish is made of bread, crushed almonds, garlic, water, olive oil, salt and sometimes vinegar. It is usually served with grapes or slices of melon.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Ajo_blanco.jpg/500px-Ajo_blanco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ajoblanco"
+    },
+    {
+      "id": "tarta-de-santiago",
+      "name": "Tarta de Santiago",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tarta%20de%20Santiago%20recipe",
+      "description": "Torta de Santiago (in Galician) or Tarta de Santiago (in Spanish), literally meaning cake of St. James, is an almond cake or pie from Galicia with its origin in the Middle Ages and the Camino de Santiago.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Tarta_de_Santiago-2010.jpg/500px-Tarta_de_Santiago-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tarta_de_Santiago",
+      "recipe": {
+        "ingredients": [
+          "3 eggs",
+          "¾ cup (150 g) white granulated sugar",
+          "Zest of 1 lemon",
+          "Zest of 1 clementine",
+          "1½ cup (150 g) almond meal",
+          "½ teaspoon cinnamon powder",
+          "¼ teaspoon salt",
+          "Icing sugar"
+        ],
+        "steps": [
+          "Add eggs and sugar to a bowl, and whisk rapidly until mixture turns pale.",
+          "Whisk in the citrus zests.",
+          "Combine the almond meal, cinnamon, and salt in a separate bowl. Transfer to the egg mixture, and use a rubber spatula to gently fold everything together until well combined.",
+          "Butter and flour the springform pan, then pour in the batter. Smooth the top if necessary.",
+          "Bake in preheated oven at 360ºF (180ºC) for 40 minutes or until golden brown and fully cooked in the center.",
+          "Cool completely, and unmold the cake.",
+          "Place a Santiago cross cut-out on top of the cake, then dust generous amount of icing sugar all over cake.",
+          "Carefully remove the cross cut-out. Slice and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATarta_de_Santiago"
+      }
+    },
+    {
+      "id": "leche-frita",
+      "name": "Leche frita",
+      "videoSearch": "https://www.youtube.com/results?search_query=Leche%20frita%20recipe",
+      "description": "Leche frita (literally fried milk) is a Spanish sweet typical of northern Spain. It is made by cooking flour with milk and sugar until it thickens to a firm dough which is then portioned, fried and served with a sugar glaze and cinnamon powder.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Leche_frita.jpg/500px-Leche_frita.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leche_frita"
+    },
+    {
+      "id": "bocadillo-de-calamares",
+      "name": "Bocadillo de calamares",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bocadillo%20de%20calamares%20recipe",
+      "description": "Squid sandwich or bocadillo de calamares in Spanish, bocata calamares in Cheli, is a culinary specialty very common in Spain consisting of a bocadillo sandwich of squid battered in flour and fried in oil that is usually olive, or the more sophisticated version that is all of the above plus a spicy tomato sauce and mayo…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/BocadilloCalamaresAtocha.JPG/500px-BocadilloCalamaresAtocha.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Squid_sandwich"
+    },
+    {
+      "id": "migas",
+      "name": "Migas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Migas%20recipe",
+      "description": "Migas (\"crumbs\" in English) is a dish traditionally made from stale bread and other ingredients in Spanish and Portuguese cuisines. Originally introduced by shepherds, migas are very popular across the Iberian Peninsula, and are the typical breakfast of hunters at monterías in some regions of Spain.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Migas_con_Naranja_%287068663227%29.jpg/500px-Migas_con_Naranja_%287068663227%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Migas"
+    },
+    {
+      "id": "escalivada",
+      "name": "Escalivada",
+      "videoSearch": "https://www.youtube.com/results?search_query=Escalivada%20recipe",
+      "description": "Escalivada, also sometimes transcribed in French as 'escalibade' and in Spanish as escalibada, is a traditional dish from Roussillon, Catalonia, València, Murcia and Aragón of smoky grilled vegetables.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Escalivada.jpg/500px-Escalivada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Escalivada"
+    },
+    {
+      "id": "pintxo",
+      "name": "Pintxo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pintxo%20recipe",
+      "description": "A pincho, pintxo or pinchu is a small snack, typically eaten in bars or taverns. They are traditional in northern Spain and especially popular in the Basque country, Navarre, La Rioja, Cantabria, and Asturias.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Pinchos_bermeo_2.JPG/500px-Pinchos_bermeo_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pincho"
+    },
+    {
+      "id": "polvoron",
+      "name": "Polvorón",
+      "videoSearch": "https://www.youtube.com/results?search_query=Polvor%C3%B3n%20recipe",
+      "description": "A polvorón (From polvo, the Spanish word for powder, or dust) is a type of heavy, soft, and very crumbly Spanish shortbread made of flour, sugar, milk, and nuts (especially almonds).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/MedinaSidonia-P1060062_%28cropped%29.JPG/500px-MedinaSidonia-P1060062_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Polvor%C3%B3n",
+      "recipe": {
+        "ingredients": [
+          "1 cup margarine",
+          "1 cup white sugar",
+          "½ tsp salt",
+          "4 cups all-purpose flour",
+          "2 eggs",
+          "1 tsp vanilla extract"
+        ],
+        "steps": [
+          "Preheat oven to 350°F (180°C)",
+          "Mix the margarine and the sugar in a mixing bowl until it reaches a creamy consistency.",
+          "Mix in the vanilla extract, salt, and eggs.",
+          "While mixing the ingredients, add the flour and stir until it becomes hard to stir the mix.",
+          "Make small balls and place on a flat baking sheet without grease.",
+          "Bake for 15–20 minutes in the preheated oven, or until golden.",
+          "Let cool."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APolvorones_(Spanish_Shortbread)"
+      }
+    },
+    {
+      "id": "arros-negre",
+      "name": "Arròs negre",
+      "localName": "Arroz negro",
+      "videoSearch": "https://www.youtube.com/results?search_query=Arr%C3%B2s%20negre%20recipe",
+      "description": "Arròs negre or arrós negre is a Valencian and Catalan dish made with cuttlefish or squid and rice, somewhat similar to seafood paella. Some call it paella negra (\"black paella\"), although it is traditionally not called a paella even though it is prepared in a similar manner.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/14-08-04-barcelona-RalfR-41.jpg/500px-14-08-04-barcelona-RalfR-41.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Arr%C3%B2s_negre",
+      "recipe": {
+        "ingredients": [
+          "3 pounds diced squid",
+          "1 pounds green cubanelle peppers",
+          "6 cloves garlic, minced",
+          "2 cups Valencian rice",
+          "3 teaspoons squid ink",
+          "1 tablespoon sweet paprika",
+          "1 tablespoon sea salt",
+          "Olive oil",
+          "8 oz crab",
+          "8 oz smelt or fish heads",
+          "1 medium onion",
+          "1 medium green or red bell pepper",
+          "3 cloves of garlic",
+          "2 bay leaves",
+          "1 gallon of water"
+        ],
+        "steps": [
+          "Cut one onion and one bell pepper into quarters and place in a large pot with the rest of the broth ingredients.",
+          "Boil for about 30 minutes. Occasionally press the ingredients against the bottom of the pot with a potato masher or ladle to squeeze out their flavors.",
+          "Strain the broth and set aside. Discard the boiled seafood.",
+          "Pour enough oil into a paellera to cover the bottom and heat over a medium flame.",
+          "Add 1 teaspoon of salt to cubanelles and sauté until soft.",
+          "Add squid and sauté for 2 minutes.",
+          "Add garlic and sauté until brown (be careful not to burn).",
+          "Add rice and braise until coated with oil.",
+          "Add paprika and sauté for no more than 15 seconds then quickly add four cups of broth to prevent the paprika from burning.",
+          "Add squid ink and mix well.",
+          "Bring broth to a boil and then simmer for 2 minutes.",
+          "Taste the broth and invite your dinner guests to do so as well. If it tastes bland, add 1 teaspoon of salt at a time until everybody approves.",
+          "Add the rice.",
+          "Begin tasting the rice after it's been simmering for about 20 minute and reduce the heat a bit. Make sure the rice doesn't get too soft. Check the rice again every 10 minutes and reduce the heat slightly after each taste. Your goal is to wind up with rice that has a slightly underdone center. The time it takes to reach this point can vary from 30 minutes to an hour depending on your cooking gear.",
+          "Your paella is done once you've accomplished the following three things: 1) The rice should be slightly firm to the bite. Italians use the same approach when cooking pasta. They call this texture al dente, 2) The paella should be a little moist but not soupy, 3) You should have a bit of toasted rice on the bottom of the paellera. This is considered a delicacy throughout the Spanish-speaking world.",
+          "Remove the paellera from the heat and cover it with a white towel (NOT ALUMINUM FOIL). Allow it to sit for 5 minutes before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AArroz_Negro_(Valencian_Squid_Rice)"
+      }
+    },
+    {
+      "id": "croquetas",
+      "name": "Croquetas",
+      "localName": "Croquetas de jamón",
+      "videoSearch": "https://www.youtube.com/results?search_query=Croquetas%20recipe",
+      "description": "A croquette is a deep-fried roll originating in French cuisine and most extended in Spanish cuisine consisting of a thick binder combined with a filling, which is then breaded. It is served as a side dish, a snack, or fast food worldwide.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Croquetas_Caseras_%287068664101%29.jpg/500px-Croquetas_Caseras_%287068664101%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Croquette"
+    },
+    {
+      "id": "fabes-con-almejas",
+      "name": "Fabes con almejas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fabes%20con%20almejas%20recipe",
+      "description": "Fabes con almejas (English: Beans with clams, Spanish: Habas con almejas, Asturian: Fabes con amasueles) is a clam and bean stew that originated in the principality of Asturias in the 19th century as peasant fare. It is a lighter variation of Asturian fabada whose primary ingredients are sausage, beans and pork.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Fabes_con_almejas_-_Jlastras.jpg/500px-Fabes_con_almejas_-_Jlastras.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fabes_con_almejas",
+      "recipe": {
+        "ingredients": [
+          "1 pound (450 g) dried white beans (e.g. navy, great northern, cannellini)",
+          "24 live littleneck or mahogany clams",
+          "3 cloves garlic",
+          "2 bay leaves",
+          "3 tablespoons extra-virgin olive oil",
+          "½ ea. (~ 4 oz) onion",
+          "1 generous pinch of saffron or yellow food coloring",
+          "1 tablespoon sweet paprika (not smoked)",
+          "¼ cup chopped parsley",
+          "A large loaf of crusty bread",
+          "Salt as needed"
+        ],
+        "steps": [
+          "Rinse the beans and soak overnight.",
+          "Scrub the clams clean and rinse.",
+          "Drain the beans and place them in a skillet with the onion, garlic, two pinches of parsley, bay leaves, and olive oil.",
+          "Add just enough water to cover the ingredients and cook over a high flame.",
+          "Bring to a boil and then reduce to a simmer. Skim off any foam. Cook them, loosely covered, until done. This should take about 90 minutes. Check the skillet occasionally to add water. Never allow the water to drop below the height of the ingredients.",
+          "When the beans are almost done, place the clams in a separate skillet and add about an inch of water. Cover the skillet and cook over medium heat, shaking the pan occasionally to help the clams open. Check the clams every minute. Remove them as they open and place them in a separate bowl. This should take no more than 10 minutes. Once you've removed all the clams you'll have clam broth in the skillet. Save the broth, as you'll need it for the next step.",
+          "Check the broth for bits of dirt and clam shell. If there's a lot, you'll have to strain it through a cloth to remove the grit.",
+          "Add the broth to the simmering beans along with the saffron (or food coloring), the remaining parsley, paprika and salt to taste.",
+          "Cover and cook for 5–10 minutes.",
+          "Ladle the beans and broth into separate bowls and add six clams to each bowl.",
+          "Serve with crusty bread on the side."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFabes_con_Almejas_(Spanish_Beans_with_Clams)"
+      }
+    }
+  ]
+}

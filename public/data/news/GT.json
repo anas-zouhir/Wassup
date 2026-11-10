@@ -1,0 +1,218 @@
+{
+  "country": "GT",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "prensa-libre",
+        "name": "Prensa Libre",
+        "homepage": "https://www.prensalibre.com",
+        "lang": "es-GT"
+      },
+      "fetchedAt": "2026-10-22T15:11:28.446Z",
+      "items": [
+        {
+          "title": "Violencia en la zona 6: ataque a balazos contra un picop deja un fallecido",
+          "link": "https://www.prensalibre.com/guatemala/sucesos/violencia-en-la-zona-6-ataque-a-balazos-contra-un-picop-deja-un-fallecido-breaking/",
+          "summary": "Un hombre murió por heridas de bala durante un ataque armado contra un picop en la zona 6 de la capital.",
+          "publishedAt": "2026-10-22T14:43:43.000Z"
+        },
+        {
+          "title": "¿Espionaje encubierto contra China? El programa que el Pentágono de Estados Unidos busca crear",
+          "link": "https://www.prensalibre.com/internacional/espionaje-encubierto-contra-china-el-programa-que-el-pentagono-de-estados-unidos-busca-crear/",
+          "summary": "Los agentes operarían bajo identidades encubiertas, haciéndose pasar por empresarios o personal del sector privado, sin ninguna vinculación aparente con EE. UU.",
+          "publishedAt": "2026-10-22T14:40:40.000Z"
+        },
+        {
+          "title": "El Cadejo negro: la leyenda del perro con ojos de fuego",
+          "link": "https://www.prensalibre.com/vida/escenario/el-cadejo-negro-la-leyenda-del-perro-con-ojos-de-fuego/",
+          "summary": "Dicen que el Cadejo negro puede acompañar a un borracho hasta su casa, pero hay algo que jamás debe permitírsele hacer.",
+          "publishedAt": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Clima en Guatemala: Insivumeh pronostica lluvias y lloviznas para este jueves 22 de octubre",
+          "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-insivumeh-pronostica-lluvias-y-lloviznas-para-este-jueves-22-de-octubre-breaking/",
+          "summary": "El ingreso de humedad desde ambos litorales propiciará condiciones lluviosas en Guatemala este jueves 22 de octubre.",
+          "publishedAt": "2026-10-22T13:50:51.000Z"
+        },
+        {
+          "title": "Justicia suiza confirma 14 años de prisión para Erwin Sperisen por complicidad en siete asesinatos",
+          "link": "https://www.prensalibre.com/guatemala/justicia/justicia-suiza-confirma-14-anos-de-prision-para-erwin-sperisen-por-complicidad-en-siete-asesinatos-breaking/",
+          "summary": "Tribunal suizo confirma condena contra Erwin Sperisen, exdirector de la PNC, por complicidad en el asesinato de siete presos.",
+          "publishedAt": "2026-10-22T13:18:56.000Z"
+        },
+        {
+          "title": "¿Qué es PHP y por qué generó una falla de seguridad en internet que desató una alerta global?",
+          "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/que-es-php-y-por-que-genero-una-falla-de-seguridad-en-internet-que-desato-una-alerta-global/",
+          "summary": "Una IA detectó fallos de programación ocultos durante años, lo que desencadenó una inusual respuesta de ciberseguridad por temor a que fueran explotados por ciberatacantes.",
+          "publishedAt": "2026-10-22T11:34:56.000Z"
+        },
+        {
+          "title": "Etanol en Guatemala: siete de cada diez usuarios de regular migraron a la superior en dos meses, según el MEM",
+          "link": "https://www.prensalibre.com/economia/etanol-en-guatemala-siete-de-cada-diez-usuarios-de-regular-migraron-a-la-superior-en-dos-meses-segun-el-mem/",
+          "summary": "A dos meses de la entrada en vigor de la mezcla de etanol en la gasolina regular, el Ministerio de Energía y Minas (MEM) reporta que el 70% de los usuarios migró a la gasolina superior, aunque asegura que más de un…",
+          "publishedAt": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "“Dejé secretos de Estado en el tren; soy la prueba de que es posible recuperarse del mayor error de tu vida”",
+          "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/deje-secretos-de-estado-en-el-tren-soy-la-prueba-de-que-es-posible-recuperarse-del-mayor-error-de-tu-vida/",
+          "summary": "El alto funcionario Richard Jackson relata aquel fatídico día en el que olvidó importantes documentos y cómo se recuperó tras lo sucedido.",
+          "publishedAt": "2026-10-22T10:46:04.000Z"
+        },
+        {
+          "title": "Inversión extranjera en Guatemala crece 7% en 2026: estos son los países y sectores que más capital aportan",
+          "link": "https://www.prensalibre.com/economia/inversion-extranjera-en-guatemala-crece-7-en-2026-estos-son-los-paises-y-sectores-que-mas-capital-aportan/",
+          "summary": "El flujo de inversión extranjera directa (IED) en Guatemala creció un 7% durante el primer semestre del 2026 y se proyecta que alcance los US$2 mil 100 millones al cierre del año, según informó una fuente oficial.",
+          "publishedAt": "2026-10-22T06:10:00.000Z"
+        },
+        {
+          "title": "Turismo sin patrimonio mata a la gallina de los huevos de oro",
+          "link": "https://www.prensalibre.com/opinion/columnasdiarias/turismo-sin-patrimonio-mata-a-la-gallina-de-los-huevos-de-oro/",
+          "summary": "Debo enfatizar mi beneplácito en que el INGUAT se modernice, pero sin que se afecte a otras instituciones.",
+          "publishedAt": "2026-10-22T06:08:00.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "republica-gt",
+        "name": "República",
+        "homepage": "https://republica.gt",
+        "lang": "es-GT"
+      },
+      "fetchedAt": "2026-10-22T15:11:40.902Z",
+      "items": [
+        {
+          "title": "VIVE LA FRANCE!",
+          "link": "https://republica.com/columna-de-opinion/vive-la-france-20261022900",
+          "summary": "Ni el fuego ni la intolerancia arreglarán lo que está roto. Les comparto por qué la ignorancia es hoy nuestra mayor amenaza a la libertad.",
+          "publishedAt": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Cómplices, no solo testigos",
+          "link": "https://republica.com/politica/complices-no-solo-testigos-202610228360",
+          "summary": "Quizá no integra el crimen organizado, pero lo vio crecer desde primera fila sin actuar. Arévalo fue más que testigo: cómplice.",
+          "publishedAt": "2026-10-22T14:36:00.000Z"
+        },
+        {
+          "title": "La presión de Trump reordena el futuro de Canadá",
+          "link": "https://republica.com/internacional/la-presion-de-trump-reordena-el-futuro-de-canada-20001022380",
+          "summary": "La presión de Trump impulsa a Canadá a destrabar proyectos estratégicos, y buscar una economía menos dependiente de EE. UU.",
+          "publishedAt": "2026-10-22T12:30:04.000Z"
+        },
+        {
+          "title": "Rick Scott, el tercero más rico del Capitolio",
+          "link": "https://republica.com/internacional/rick-scott-el-tercero-mas-rico-del-capitolio-20001022370",
+          "summary": "Rick Scott, el senador más rico de Florida, figura como la tercera mayor fortuna del Congreso con un patrimonio estimado de USD 509 millones",
+          "publishedAt": "2026-10-22T12:30:04.000Z"
+        },
+        {
+          "title": "Omar: la investigación y el expediente que pesa",
+          "link": "https://republica.com/internacional/omar-la-investigacion-y-el-expediente-que-pesa-20001022370",
+          "summary": "Allanaron su casa por papeles de inmigración de los 90. Lleva años de frases sobre Israel, AIPAC y Somalia que la convirtieron en símbolo",
+          "publishedAt": "2026-10-22T12:30:04.000Z"
+        },
+        {
+          "title": "China: la ofensiva mediática que mantiene en Guatemala",
+          "link": "https://republica.com/politica/china-la-ofensiva-mediatica-que-mantiene-en-guatemala-2000102116420",
+          "summary": "Pekín busca ampliar su influencia en una región donde la mayoría de los gobiernos ya reconoce a Pekín. Guatemala constituye una excepción estratégica.",
+          "publishedAt": "2026-10-22T11:55:04.000Z"
+        },
+        {
+          "title": "“Es un intento de silenciarnos”: Edgar Ortiz alerta sobre amenazas y seguimientos",
+          "link": "https://republica.com/politica/es-un-intento-de-silenciarnos-edgar-ortiz-alerta-sobre-amenazas-y-seguimientos-2026102118130",
+          "summary": "República confirmó con fuentes cercanas al MP que la fiscalía ya investiga la denuncia presentada por Edgar Ortiz por amenazas y seguimientos.",
+          "publishedAt": "2026-10-22T00:13:00.000Z"
+        },
+        {
+          "title": "“No teníamos computadoras porque las donaron”: TSE defiende compra de equipo informático",
+          "link": "https://republica.com/actualidad/no-teniamos-computadoras-porque-las-donaron-tse-defiende-compra-de-equipo-informatico-2026102114410",
+          "summary": "El TSE llegó a la etapa preelectoral sin tecnología suficiente. La actual magistratura lo atribuye a donaciones previas y equipo obsoleto.",
+          "publishedAt": "2026-10-21T20:41:00.000Z"
+        },
+        {
+          "title": "Vías San Rafael ofrece sus últimos apartamentos en Zona 18",
+          "link": "https://republica.com/agenda-empresarial/vias-san-rafael-ofrece-sus-ultimos-apartamentos-en-zona-18-2026102113330",
+          "summary": "El proyecto de Milésimo cuenta con sus últimas unidades disponibles. Los compradores pueden elegir entre apartamentos de una y dos habitaciones.",
+          "publishedAt": "2026-10-21T19:33:00.000Z"
+        },
+        {
+          "title": "Modento pone en marcha un nuevo concepto de vivienda en zona 15",
+          "link": "https://republica.com/agenda-empresarial/modento-pone-en-marcha-un-nuevo-concepto-de-vivienda-en-zona-15-2000102112110",
+          "summary": "El proyecto contempla una torre de 17 niveles con 69 apartamentos, parqueos automatizados, controles inteligentes y amenidades para la vida urbana.",
+          "publishedAt": "2026-10-21T18:29:00.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "la-hora-gt",
+        "name": "La Hora",
+        "homepage": "https://lahora.gt",
+        "lang": "es-GT"
+      },
+      "fetchedAt": "2026-10-22T15:11:35.888Z",
+      "items": [
+        {
+          "title": "Asesinan en ruta al Atlántico a condenado por el crimen del periodista Danilo Efraín Zapón López en 2015",
+          "link": "https://lahora.gt/nacionales/kjordan/2026/10/22/asesinan-en-ruta-al-atlantico-a-condenado-por-el-crimen-del-periodista-danilo-efrain-zapon-lopez-en-2015-now/",
+          "summary": "Sergio Waldemar Cardona Reyes, de 45 años, fue asesinado a balazos la noche del miércoles 21 de octubre en el kilómetro 185.4 de la ruta CA-2, a un costado del Auto Hotel Hilton y cerca del puesto de control…",
+          "publishedAt": "2026-10-22T15:07:49.000Z"
+        },
+        {
+          "title": "Acciones de Meta caen un 6.7% tras advertencia sobre gastos en inteligencia artificial",
+          "link": "https://lahora.gt/lh-economia/redaccioneconomia/2026/10/22/acciones-de-meta-caen-un-6-7-tras-advertencia-sobre-gastos-en-inteligencia-artificial/",
+          "summary": "Wall Street abrió a la baja este jueves, con el Nasdaq liderando las pérdidas al retroceder un 1.50 %, en medio de nuevas dudas sobre la rentabilidad de las inversiones en inteligencia artificial. Meta caía esta mañana…",
+          "publishedAt": "2026-10-22T15:04:40.000Z"
+        },
+        {
+          "title": "Coordinador municipal de partido Firmes en Villa Nueva es enviado a juicio por violencia contra la mujer",
+          "link": "https://lahora.gt/nacionales/sosegueda/2026/10/22/coordinador-municipal-de-partido-firmes-en-villa-nueva-es-enviado-a-juicio-por-violencia-contra-la-mujer-now/",
+          "summary": "El Juzgado Primero Especializado en Delitos de Femicidio y Otras Formas de Violencia contra la Mujer envió a debate oral y público a Alexander Fernando Cárdenas Villanueva, recientemente nombrado coordinador municipal…",
+          "publishedAt": "2026-10-22T15:00:37.000Z"
+        },
+        {
+          "title": "Malta Gallo pedalea junto a ciclistas en la 65 Vuelta Ciclística a Guatemala",
+          "link": "https://lahora.gt/lh-comercial/redaccioncomercial/2026/10/22/malta-gallo-pedalea-junto-a-ciclistas-en-la-65-vuelta-ciclistica-a-guatemala/",
+          "summary": "Del 23 de octubre al 1 de noviembre se llevará a cabo la edición número 65 de la Vuelta Ciclística Internacional a Guatemala, en la que Malta Gallo se une como patrocinador oficial, reafirmando su compromiso con el…",
+          "publishedAt": "2026-10-22T15:00:13.000Z"
+        },
+        {
+          "title": "¿Dejaste de trabajar? Así puedes seguir cotizando al IGSS para gozar de una pensión",
+          "link": "https://lahora.gt/lh-economia/jveliz/2026/10/22/dejaste-de-trabajar-asi-puedes-seguir-cotizando-al-igss-para-gozar-de-una-pension/",
+          "summary": "Quienes dejaron de trabajar en una empresa y desean continuar cotizando al Instituto Guatemalteco de Seguridad Social (IGSS) pueden hacerlo por cuenta propia mediante la figura de Contribuyente Voluntario, que permite…",
+          "publishedAt": "2026-10-22T14:49:48.000Z"
+        },
+        {
+          "title": "EFE: Tribunal de Suiza condena a 14 años a Erwin Sperisen",
+          "link": "https://lahora.gt/internacionales/agenciaefe/2026/10/22/efe-tribunal-de-suiza-condena-a-14-anos-a-erwin-sperisen/",
+          "summary": "El Tribunal Federal de Suiza confirmó este jueves la condena a 14 años de prisión por complicidad en siete asesinatos al exjefe de la Policía Nacional de Guatemala entre 2004 y 2007, Erwin Sperisen, quien había recurrido…",
+          "publishedAt": "2026-10-22T14:49:36.000Z"
+        },
+        {
+          "title": "Gobierno implementa plataforma X-Road para agilizar intercambio de información entre instituciones",
+          "link": "https://lahora.gt/nacionales/kjordan/2026/10/22/gobierno-implementa-plataforma-x-road-para-agilizar-intercambio-de-informacion-entre-instituciones-now/",
+          "summary": "El Gobierno de Guatemala ordenó la implementación obligatoria de la plataforma digital X-Road en las instituciones y dependencias del Organismo Ejecutivo, con el objetivo de facilitar el intercambio de información entre…",
+          "publishedAt": "2026-10-22T14:41:18.000Z"
+        },
+        {
+          "title": "El Cartaginés de Amarini Villatoro está a un paso de la final de la Copa Centroamericana 2026",
+          "link": "https://lahora.gt/secciones-para-ti/deportes/jcortega/2026/10/22/el-cartagines-de-amarini-villatoro-esta-a-un-paso-de-la-final-de-la-copa-centroamericana-2026/",
+          "summary": "El Club Sport Cartaginés, equipo de Costa Rica entrenado por el guatemalteco Amarini Villatoro, se puso en ventaja en la semifinal de ida de la Copa Centroamericana 2026. Con anotación de Alonso Hernández, al minuto 14,…",
+          "publishedAt": "2026-10-22T14:27:44.000Z"
+        },
+        {
+          "title": "La democracia a prueba (Parte 1)",
+          "link": "https://lahora.gt/opinion/fernandocajas/2026/10/22/la-democracia-a-prueba-parte-1/",
+          "summary": "Al asesinato de Juan Francisco Solórzano Foppa le sigue, de inmediato, la pregunta sobre si la democracia dará razón de este crimen, eso es, si funcionarán los órganos de investigación del Estado. Mientras el Ministerio…",
+          "publishedAt": "2026-10-22T13:53:13.000Z"
+        },
+        {
+          "title": "Inmigrante y familiares, conozca cómo el “Hábeas Corpus” puede ayudarle a determinadas personas detenidas en EE. UU.",
+          "link": "https://lahora.gt/opinion/fcastro/2026/10/22/inmigrante-y-familiares-conozca-como-el-habeas-corpus-puede-ayudarle-a-determinadas-personas-detenidas-en-ee-uu/",
+          "summary": "El material que a continuación desarrollo es con fines de efectos informativos, con información generalizada como una orientación gratuita en el tema de Hábeas Corpus en Estados Unidos, siendo con un propósito…",
+          "publishedAt": "2026-10-22T13:49:38.000Z"
+        }
+      ]
+    }
+  ]
+}

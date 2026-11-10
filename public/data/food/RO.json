@@ -1,0 +1,242 @@
+{
+  "country": "RO",
+  "dishes": [
+    {
+      "id": "sarmale",
+      "name": "Sarmale",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sarmale%20recipe",
+      "description": "Stuffed leaves—more commonly known by its sub-types stuffed grape leaves, stuffed vine leaves, or stuffed cabbage leaves—are a food made of leaves rolled around a filling of minced meat, grains such as rice, or both.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Yaprak_sarma%2C_Kayseri_style.jpg/500px-Yaprak_sarma%2C_Kayseri_style.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stuffed_leaves",
+      "recipe": {
+        "ingredients": [
+          "2 large heads of green cabbage",
+          "¾–1 cup rice",
+          "4–8 slices of bacon",
+          "1–1.5 kg ground pork",
+          "3–6 medium to large white onions (8–12 onions if they are small)",
+          "1 can tomato sauce",
+          "1 can tomato juice",
+          "1 bunch of parsley, to taste",
+          "1 jar sauerkraut",
+          "Water",
+          "Olive oil",
+          "Salt to taste",
+          "Pepper to taste"
+        ],
+        "steps": [
+          "Begin by heating olive oil in a pan; add onions and bacon and sauté until the onions are transparent. Chop parsley and add it to the mix when it is nearly done sauteing. Allow this mixture to cool.",
+          "In a medium to large bowl, mix ground meat together. Add the onion mixture after it has cooled. Add dry rice, salt and pepper. Let this cool, as it is easier to work with cold meat.",
+          "Begin to boil water in a very large pot, then reduce to a simmer. Make several deep incisions into the cabbage around the stem: this makes it easier to remove the leaves. Submerge the cabbage into the simmering water and cover; allow to steam until the cabbage turns a bright green. Do this for both cabbages. Do not use the tough or too-small innermost leaves; they may be chopped and added to the roasting pan.",
+          "As the cabbage steams, remove the outer leaves using a roasting fork; spin the cabbage to find the stem, peel the leaves from the bottom to the top, placing them in a dish to cool and allowing the new \"outer leaves\" to steam.",
+          "Sprinkle olive oil into the bottom of a very large roasting pan, then line the pan with the outermost leaves of the cabbage.",
+          "When the leaves have been steamed and allowed to cool, slice out the tough park of the stem, and follow the incision to the top of the leaf, cutting each leaf into two wraps.",
+          "Begin wrapping the mixture: spoon 1 tbsp of the meat mixture into the wrap, fold in the sides and roll lengthwise. Place rolled cabbage into the roasting pan in lines, layering one on top of another when the bottom of the pan is full. Between layers, sprinkle a few tablespoons of sauerkraut and part of the cans of tomato sauce and juice.",
+          "When all the cabbage has been rolled, pour sauerkraut and the remainder of the tomato sauce and juice over the top of the rolls. Add water until the liquid is about an inch or so from the lip of the pan.",
+          "Bake covered at 350°F for 3–4 hours. The meat should be cooked, the water should have reduced, and the rice should be tender. A roll may be removed and unrolled to test, and then replaced if it is not done yet.",
+          "Sarmale may be eaten on its own or as a side dish. It may be enjoyed with a dollop of sour cream or plain yogurt."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASarmale_(Romanian_Cabbage_Rolls)"
+      }
+    },
+    {
+      "id": "mamaliga",
+      "name": "Mămăligă",
+      "videoSearch": "https://www.youtube.com/results?search_query=M%C4%83m%C4%83lig%C4%83%20recipe",
+      "description": "Mămăligă is a dish made out of yellow maize flour, traditional in Romania, Moldova, Hungary (puliszka, mamaliga or málé), and Ukraine (kulesha or mamałyga). On the Balkan Peninsula, the dish is known as kačamak. It is similar to Georgian ghomi (alternatively called mamaliga) and Italian polenta.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mamaliga.jpg/500px-Mamaliga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/M%C4%83m%C4%83lig%C4%83"
+    },
+    {
+      "id": "mici",
+      "name": "Mici",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mici%20recipe",
+      "description": "Mititei or mici is a traditional dish from Romanian cuisine, consisting of grilled ground meat sausages made from a mixture of beef, lamb and pork, with spices such as garlic, black pepper, thyme, coriander, anise, savory, and sometimes a touch of paprika.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Mititei_aufm_Grill.jpg/500px-Mititei_aufm_Grill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mititei",
+      "recipe": {
+        "ingredients": [
+          "Minced pork meat (or beef/beef-pork combination)",
+          "Minced garlic",
+          "White pepper",
+          "Paprika"
+        ],
+        "steps": [
+          "Combine all ingredients to form a paste.",
+          "Shape meat mixture by hand into 7–8 x 2–2.5 cm (3 x 1 inch) sausage shapes. Each should be about 50 grams.",
+          "Grill the sausages until cooked through. Do not let them dry out.",
+          "Serve with salt, mustard, and bread."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARomanian_Grilled_Sausages_(Mititei)"
+      }
+    },
+    {
+      "id": "ciorba",
+      "name": "Ciorbă",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ciorb%C4%83%20recipe",
+      "description": "Chorba, shorwa, shurba, shurpa, shurbah or shorba ( SHOR-bə) is a broad class of stews or rich soups found in national cuisines across North Africa, The Middle East, Iran, Turkey, Southeast Europe, Central Asia, East Africa and South Asia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Bean_soup_with_tomatoes_and_red_peppers.jpeg/500px-Bean_soup_with_tomatoes_and_red_peppers.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chorba"
+    },
+    {
+      "id": "cozonac",
+      "name": "Cozonac",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cozonac%20recipe",
+      "description": "Cozonac or Kozunak is both a sweet bread and a sweet yeast dough that can be used to make different traditional holiday breads and cakes. Often mixed with raisins or nuts, it can be baked as a loaf or rolled out with fillings like poppy seed or walnuts.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Cozonac-cu-nuca-103.jpg/500px-Cozonac-cu-nuca-103.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cozonac"
+    },
+    {
+      "id": "papanasi",
+      "name": "Papanași",
+      "videoSearch": "https://www.youtube.com/results?search_query=Papana%C8%99i%20recipe",
+      "description": "Papanași is a Romanian dessert made from fresh-cheese (brânza proaspătă or urdă) dough. It is usually served topped with cream (smântână) and fruit confit. It is traditional desert in Romania and Moldova.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Papana%C8%99i_Sinaia.jpg/500px-Papana%C8%99i_Sinaia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Papana%C8%99i"
+    },
+    {
+      "id": "zacusca",
+      "name": "Zacuscă",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zacusc%C4%83%20recipe",
+      "description": "Zacuscă is a vegetable spread popular in Romania, Moldova and Hungary (zakuszka), which originated from Romania. Similar spreads are found in other countries in the Balkan region.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Zacusc%C4%83_bgiu.jpg/500px-Zacusc%C4%83_bgiu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zacusc%C4%83",
+      "recipe": {
+        "ingredients": [
+          "3 kg medium-large eggplant (any variety)",
+          "500 g onion, finely chopped or grated",
+          "1 kg red bell pepper of the gogoșar variety",
+          "1 kg bell pepper",
+          "200 g tomato paste",
+          "3 tbsp salt",
+          "700 ml sunflower oil",
+          "20 dried black peppercorns",
+          "4–6 dried bay leaves"
+        ],
+        "steps": [
+          "Roast the eggplants and peppers until their skins are charred and easily removable by hand. Skin the vegetables. The pepper skins should come off easily in long strips. The eggplant skin might retain some of the flesh; some people like to take the back of the knife over the skin to remove that flesh and use it because it has a smokey flavor, but you can easily discard it if pressed for time.",
+          "Dice the eggplants and peppers in 1–2 cm cubes. The peppers will retain their shape, but the eggplant flesh is mushy so don't worry if your cubes aren't perfect shapes, they will disintegrate more when cooking and that is the goal.",
+          "In a large nonstick skillet, sauté the onions in the oil over medium until golden.",
+          "Add the peppers to the onions. Cook for 15 minutes, stirring occasionally. Make sure it doesn't stick to the bottom of the pan and burn.",
+          "Stir in the eggplants, tomato paste, bay leaves, salt, and peppercorns. Simmer until the oil comes to the surface.",
+          "Can the mixture in sterilized jars. Store in a cool place. If you don't want to can, zacusca can be stored in the fridge and consumed within a few days, like any stew. If that is the case, given the large quantity you just made, invite over a few friends and smear the spread on thin-to-medium slices of a baguette. Bon appetite!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AZacusca_(Romanian_Vegetable_Spread)"
+      }
+    },
+    {
+      "id": "salata-de-vinete",
+      "name": "Salată de vinete",
+      "videoSearch": "https://www.youtube.com/results?search_query=Salat%C4%83%20de%20vinete%20recipe",
+      "recipe": {
+        "ingredients": [
+          "Eggplant",
+          "Oil",
+          "1 medium onion, chopped",
+          "Salt"
+        ],
+        "steps": [
+          "Rub the eggplant with vegetable oil, and prick the skin all over with a fork to make steam vents.",
+          "Place eggplant in a pan, and broil or roast in a hot oven until the skin is blackened and the flesh is soft. Let cool.",
+          "Cut the eggplant in half lengthwise. Keep the flesh and discard the burnt skin.",
+          "Mince the eggplant flesh with a knife to get a purée, keeping the seeds whole. Use a stainless steel or wooden chopper.",
+          "Transfer the eggplant to a bowl, and mix in ½–1 tbsp oil per whole eggplant used. Mix in the onion, and season to taste with salt.",
+          "Chill in the fridge until serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARomanian_Roasted_Eggplant_Spread_I"
+      }
+    },
+    {
+      "id": "drob",
+      "name": "Drob",
+      "videoSearch": "https://www.youtube.com/results?search_query=Drob%20recipe",
+      "description": "Drob, fully named Drob de Miel (Lamb Drob) or Drob de Paște (Easter Drob), is a traditional Romanian dish of lamb offals (liver, lungs, spleen, heart, kidney), green onions, herbs (dill, parsley, garlic, lovage), eggs (boiled or fresh), and bread soaked in water or milk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Drob_de_Miel.JPG/500px-Drob_de_Miel.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Drob"
+    },
+    {
+      "id": "tochitura",
+      "name": "Tochitură",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tochitur%C4%83%20recipe",
+      "description": "Tochitură is a traditional Romanian and Moldovan dish made from pork cut into small cubes, (tochitură comes from the verb \"a topi\" which means \"to melt\") cooked over low fire in their own fat and juices, usually in a cast-iron pot. It is traditionally served with over-easy eggs and mămăligă.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Tochitura-moldoveneasca.jpg/500px-Tochitura-moldoveneasca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tochitur%C4%83"
+    },
+    {
+      "id": "placinta",
+      "name": "Plăcintă",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pl%C4%83cint%C4%83%20recipe",
+      "description": "Plăcintă is a Romanian and Moldovan traditional pastry resembling a thin, small round or square-shaped cake, usually filled with apples or a soft cheese such as Urdă.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Placinta.jpg/500px-Placinta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pl%C4%83cint%C4%83"
+    },
+    {
+      "id": "covrigi",
+      "name": "Covrigi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Covrigi%20recipe",
+      "description": "Covrigi are Romanian baked goods similar to pretzels. They consist of salted bread topped with poppy seeds, sesame seeds or large salt grains. They do not usually contain any added sweeteners such as sugar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Covrigi-brasonveni.jpg/500px-Covrigi-brasonveni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Covrigi"
+    },
+    {
+      "id": "salata-de-boeuf",
+      "name": "Salată de boeuf",
+      "videoSearch": "https://www.youtube.com/results?search_query=Salat%C4%83%20de%20boeuf%20recipe",
+      "description": "Salată de boeuf (\"beef salad\") is a traditional Romanian dish, generally served during all festive and special occasions. It is a combination of finely chopped beef (or sometimes chicken, or turkey breast) and root vegetables, folded in mayonnaise and finished with murături (pickled vegetable garnishes).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Salat%C4%83_de_boeuf.png/500px-Salat%C4%83_de_boeuf.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Salat%C4%83_de_boeuf",
+      "recipe": {
+        "ingredients": [
+          "1 kg (2 lb 3 oz) potatoes (any variety, though some prefer red)",
+          "350 g (12 oz) carrots, peeled and diced in 1 cm cubes",
+          "350 g boiled beef, cut in 1 cm cubes",
+          "1 can of peas or 300 g (10.5 oz) fresh peas",
+          "350 g pickled dill gherkins (not too sweet and very firm), diced in 1 cm cubes",
+          "2 hard boiled eggs, yolks removed",
+          "1 fresh egg yolk",
+          "250 ml (8.5 oz) canola or vegetable oil",
+          "1 lemon, juiced",
+          "1 tsp (5 ml) French mustard",
+          "Boiled egg white, sliced into long thin strips",
+          "Gherkins, sliced into long thin strips",
+          "Pickled red peppers, sliced into long thin strips",
+          "Sliced black olives"
+        ],
+        "steps": [
+          "Boil the potatoes gently in their skins until tender. Cool, then remove the skins.",
+          "Boil the carrots until tender.",
+          "Gently boil the beef for 1 hour.",
+          "If using fresh peas, boil or steam them well.",
+          "Cube the potatoes, carrots, and beef about 5 mm across—essentially, everything should be about the size of the peas.",
+          "Cut the gherkins very finely by cutting 3 mm (⅛ inch) thick slices and then cutting them at 3 mm intervals again along the length and width.",
+          "Fold everything together gently. Do not season.",
+          "Beat the cooked egg yolks and the raw yolk until well mixed.",
+          "Slowly add the oil while beating the eggs until they start to thicken and form a mayonnaise.",
+          "Add the juice of the lemon and the mustard.",
+          "Reserve a small quantity of mayonnaise for garnish.",
+          "Fold the rest of the mayonnaise into the cubed meat and vegetables, making a nice consistency where the ingredients are well covered in mayonnaise but not suspended in it.",
+          "Season with salt and pepper.",
+          "Place the salata de boeuf into one large or several smaller bowls.",
+          "Spread reserved mayonnaise over the top and garnish with the garnishes, arranging them in attractive shapes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASalat%C4%83_de_Boeuf_(Romanian_Beef_Salad)"
+      }
+    },
+    {
+      "id": "mucenici",
+      "name": "Mucenici",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mucenici%20recipe",
+      "description": "Mucenici is a Christian feast of the 40 Martyrs of Sebaste, a traditional holiday in Romania and Moldova. It coincides with the start of the agricultural year.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Mucenici_with_honey_and_walnuts_moldavian_style.jpg/500px-Mucenici_with_honey_and_walnuts_moldavian_style.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mucenici"
+    },
+    {
+      "id": "fasole-cu-carnati",
+      "name": "Fasole cu cârnați",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fasole%20cu%20c%C3%A2rna%C8%9Bi%20recipe",
+      "description": "Fasole cu cârnați is a popular Romanian dish, consisting of baked beans and sausages. A variation replaces the sausages with afumătură (smoked meat).",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Fasole_cu_afumatura.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fasole_cu_c%C3%A2rna%C8%9Bi"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "country": "MZ",
+  "dishes": [
+    {
+      "id": "matapa",
+      "name": "Matapa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Matapa%20recipe",
+      "description": "Matapa or matata is a typical Mozambican dish, prepared with young cassava, pumpkin, or spinach leaves which are usually ground in a large wooden mortar and pestle before being cooked with peanuts, tomatoes, garlic, onion and coconut milk. Many matapa dishes incorporate cashew nuts, crab, or shrimp.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Matapa.jpg/500px-Matapa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Matapa"
+    },
+    {
+      "id": "piri-piri-chicken",
+      "name": "Piri-piri chicken",
+      "videoSearch": "https://www.youtube.com/results?search_query=Piri-piri%20chicken%20recipe",
+      "description": "Piri piri ( PIRR-ee-PIRR-ee), often hyphenated or as one word, and with variant spellings peri-peri () or pili pili, is a cultivar of Capsicum frutescens commonly known as the African Birds Eye chilli, from the malagueta pepper.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/African_red_devil_peppers.jpg/500px-African_red_devil_peppers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Piri_piri",
+      "recipe": {
+        "ingredients": [
+          "2 small red bell peppers",
+          "5 small bird's eye chillies (adjust to your taste)",
+          "5 medium-size garlic cloves",
+          "1 medium-size onion",
+          "2 tablespoons dried thyme",
+          "2 tablespoons black pepper",
+          "3 teaspoons salt or to taste",
+          "3 tablespoons paprika",
+          "½ cup vinegar",
+          "1 medium-size lemon, juiced",
+          "¾ cup olive oil",
+          "2 chicken bouillon cubes, crushed",
+          "2½ lbs chicken quarters"
+        ],
+        "steps": [
+          "Blend together the red bell pepper, bird's eye chillies, garlic cloves, onion, thyme, black pepper, salt or to your taste, paprika, vinegar, lemon juice, olive oil, and bouillon cubes to make a marinade.",
+          "Pour the marinade over the chicken in a large bowl. Use your hands to massage the marinade into the chicken, then cover the bowl and leave it in the fridge for at least 1 hour and up to overnight. The longer it marinates, the better the flavor.",
+          "Arrange the chicken in a baking pan, and pour the marinade over it.",
+          "Bake in a preheated 350 °F oven for 30 minutes, basting the chicken periodically. Flip the chicken over and bake for another 30 minutes.",
+          "Turn on the broiler of your oven, and broil the chicken for about 3–5 minutes to char it.",
+          "Serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APeri-Peri_Chicken"
+      }
+    },
+    {
+      "id": "xima",
+      "name": "Xima",
+      "videoSearch": "https://www.youtube.com/results?search_query=Xima%20recipe",
+      "description": "Ugali, also known as posho, nsima, papa, pap, bogobe, sadza, isitshwala, akume, amawe, ewokple, akple, and other names, is a type of corn meal made from maize or corn or mahindi flour in several African countries: Kenya, Uganda, South Sudan, Tanzania, Zimbabwe, Zambia, Lesotho, Eswatini, Angola, Mozambique, Namibia, De…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ugali_%26_Sukuma_Wiki.jpg/500px-Ugali_%26_Sukuma_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ugali"
+    },
+    {
+      "id": "caril-de-amendoim",
+      "name": "Peanut curry (caril de amendoim)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Peanut%20curry%20(caril%20de%20amendoim)%20recipe",
+      "description": "Caril de amendoim (translated as peanut curry) is a Mozambican dish made with coconut milk, chicken or horse mackerel, and peanuts. It is served mainly in the country's southern provinces of Maputo and Gaza. It is paired with a side of xima, a hardened maize porridge.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Caril_de_amendoim.jpg/500px-Caril_de_amendoim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peanut_curry"
+    },
+    {
+      "id": "mahewu",
+      "name": "Mahewu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mahewu%20recipe",
+      "description": "Mageu (Setswana spelling), Mahewu (Shona/Chewa/Nyanja spelling), Mahleu (Sesotho spelling), Magau (xau-Namibia) (Khoikhoi spelling), Madleke (Tsonga spelling), Mabundu (Tshivenda spelling), maHewu, amaRhewu (Xhosa spelling) or amaHewu (Zulu and Northern Ndebele spelling) is a traditional Southern African non-alcoholic …",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Mageu_%28carton_and_glass%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mageu"
+    }
+  ]
+}

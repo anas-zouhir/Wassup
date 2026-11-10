@@ -1,0 +1,261 @@
+{
+  "country": "MY",
+  "dishes": [
+    {
+      "id": "nasi-lemak",
+      "name": "Nasi lemak",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nasi%20lemak%20recipe",
+      "description": "Nasi lemak is a dish originating in Malay cuisine that consists of rice cooked in coconut milk and pandan leaf. It is commonly found in Malaysia, where it is considered the national dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Nasi_Lemak_dengan_Chili_Nasi_Lemak_dan_Sotong_Pedas%2C_di_Penang_Summer_Restaurant.jpg/500px-Nasi_Lemak_dengan_Chili_Nasi_Lemak_dan_Sotong_Pedas%2C_di_Penang_Summer_Restaurant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nasi_lemak",
+      "recipe": {
+        "ingredients": [
+          "6 cups (1450 ml) basmati rice",
+          "7 cups (1680 ml) coconut milk",
+          "Salt",
+          "1–2 pandan leaves tied in a knot (optional)",
+          "of fresh ginger root (optional)"
+        ],
+        "steps": [
+          "Rinse the rice and set it aside.",
+          "Meanwhile put the coconut milk on the stove, and add the salt.",
+          "Add the rice, pandan leaves, and ginger. Let it simmer until the coconut milk evaporates.",
+          "Cover it with lid and let it sit for about 15 minutes until it is well cooked."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACoconut_Rice_(Nasi_Lemak)"
+      }
+    },
+    {
+      "id": "roti-canai",
+      "name": "Roti canai",
+      "videoSearch": "https://www.youtube.com/results?search_query=Roti%20canai%20recipe",
+      "description": "Roti canai (/tʃa'naj/), or roti prata (in Singapore), also known as roti chanai and roti cane, is an unleavened flatbread of Indian origin found in the cuisines of Southeast Asia, especially those of Brunei, Indonesia, Malaysia, Singapore, and Thailand.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/YosriRotiCanai.jpg/500px-YosriRotiCanai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Roti_canai"
+    },
+    {
+      "id": "laksa",
+      "name": "Laksa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Laksa%20recipe",
+      "description": "Laksa (Jawi: لقسا; Chinese: 叻沙) is a spicy noodle dish popular in Southeast Asia. Laksa consists of various types of noodles, most commonly thick rice noodles, with toppings such as chicken, prawns or fish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Nyonya_Laksa.jpg/500px-Nyonya_Laksa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Laksa"
+    },
+    {
+      "id": "asam-pedas",
+      "name": "Asam pedas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Asam%20pedas%20recipe",
+      "description": "Asam pedas is a traditional sour and spicy gulai commonly found in Southeast Asia, particularly in Malaysia, Indonesia and Singapore. The dish is typically associated with Malay, Minangkabau, Acehnese and Peranakan cuisines, and is prepared using various types of seafood or freshwater fish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/ASAM_PEDAS_IKAN_PARI.jpg/500px-ASAM_PEDAS_IKAN_PARI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Asam_pedas"
+    },
+    {
+      "id": "char-kway-teow",
+      "name": "Char kway teow",
+      "videoSearch": "https://www.youtube.com/results?search_query=Char%20kway%20teow%20recipe",
+      "description": "Char kway teow (sometimes also spelled as char kuey teow, Chinese: 炒粿條; Pe̍h-ōe-jī: chhá-kóe-tiâu) is a stir-fried rice noodle dish from Maritime Southeast Asia. In Hokkien and Teochew, char means 'stir-fried' and kway teow refers to flat rice noodles.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Char_kway_teow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Char_kway_teow"
+    },
+    {
+      "id": "bak-kut-teh",
+      "name": "Bak kut teh",
+      "localName": "肉骨茶",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bak%20kut%20teh%20recipe",
+      "description": "Bak kut teh (also spelt bah kut teh and abbreviated BKT; Chinese: 肉骨茶; Pe̍h-ōe-jī: Bah-kut-tê) is a pork rib dish cooked in broth popularly served in Malaysia and Singapore where there is a predominant Hoklo and Teochew community.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Song_Fa_Bak_Kut_Teh%2C_New_Bridge_Rd%2C_Singapore_%282023%29_06.jpg/500px-Song_Fa_Bak_Kut_Teh%2C_New_Bridge_Rd%2C_Singapore_%282023%29_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bak_kut_teh",
+      "recipe": {
+        "ingredients": [
+          "6 dried shitake mushrooms",
+          "1½ lb (680 g) pork spareribs, cut into 2-inch (5 cm) pieces",
+          "1 whole bulb garlic, unpeeled and slightly crushed",
+          "2 inches (5 cm) ginseng root, peeled and slightly crushed",
+          "3 cinnamon sticks",
+          "5 star anise pods",
+          "1 tbsp white peppercorns",
+          "1 tbsp black peppercorns",
+          "2 tsp sugar",
+          "1 tbsp dark soy sauce",
+          "6 shallots, finely sliced and fried until golden brown (optional)",
+          "Salt",
+          "Pepper"
+        ],
+        "steps": [
+          "Soak dried shitake mushrooms in 240 ml boiling water to reconstitute. Slice into strips when soft; reserve liquid for cooking.",
+          "In a stockpot, cover spareribs with cold water, then parboil ribs until froth rises to the surface.",
+          "Drain, briefly rinse spareribs under cold running water, and drain again.",
+          "In a casserole pan add the parboiled spare ribs, garlic bulb, ginseng root, shitake mushrooms, reserved liquid and additional water (to cover the meat).",
+          "Wrap cinnamon, star anise, white and black peppercorns in cheesecloth, tie with string, and add to the pan.",
+          "Gradually bring to a boil, then cover and reduce heat to simmer until pork is very tender (about 45–60 minutes); occasionally skim off fat from the surface.",
+          "When the meat is almost falling off the bones; discard spice bag, season with salt and pepper and add dark soy sauce and sugar."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APork_Spare_Rib_Soup_(Bah_Kut_Teh)"
+      }
+    },
+    {
+      "id": "nasi-kandar",
+      "name": "Nasi kandar",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nasi%20kandar%20recipe",
+      "description": "Nasi kandar (Kedah Malay: Nasi kandaq; Jawi: ناسي كاندر) is a popular northern Malaysian dish from Penang, originally introduced by Tamil Muslim traders from India. The meal consists of steamed rice combined with an array of distinct curries, side dishes, and gravies.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/A_plate_of_Nasi_Kandar.jpg/500px-A_plate_of_Nasi_Kandar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nasi_kandar"
+    },
+    {
+      "id": "nasi-dagang",
+      "name": "Nasi dagang",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nasi%20dagang%20recipe",
+      "description": "Nasi dagang is a Malaysian dish consisting of rice steamed in coconut milk, fish curry and extra ingredients such as pickled cucumber and carrots.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Mak_ngah_nasi_dagang.jpg/500px-Mak_ngah_nasi_dagang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nasi_dagang"
+    },
+    {
+      "id": "mee-goreng",
+      "name": "Mee goreng",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mee%20goreng%20recipe",
+      "description": "Mee goreng, or mi goreng, refers to fried noodles in the Malay-speaking cultures of several countries, such as the Southeast Asian states of Brunei, Malaysia, and Singapore.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Kampung_Bukit_Jagong%2C_Pendang_20240917_172701.jpg/500px-Kampung_Bukit_Jagong%2C_Pendang_20240917_172701.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mee_goreng"
+    },
+    {
+      "id": "lemang",
+      "name": "Lemang",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lemang%20recipe",
+      "description": "Lemang is a Malay and Minangkabau traditional food made from glutinous rice, coconut milk, and salt, cooked in a hollowed bamboo tube coated with banana leaves in order to prevent the rice from sticking to the bamboo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lemang_cooking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lemang"
+    },
+    {
+      "id": "roti-jala",
+      "name": "Roti jala",
+      "videoSearch": "https://www.youtube.com/results?search_query=Roti%20jala%20recipe",
+      "description": "Roti jala, roti kirai or roti renjis (English: net bread or lace pancake; Jawi: روتي جالا) is a popular Malay, Minangkabau, and Acehnese tea time snack served with curry dishes which can be found in Indonesia, Malaysia and Singapore.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Rotijala.jpg/500px-Rotijala.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Roti_jala",
+      "recipe": {
+        "ingredients": [
+          "4 cups wheat flour",
+          "3 cups water",
+          "2 standard eggs",
+          "2 tsp fine salt",
+          "A few drops of food coloring (desired color; optional)"
+        ],
+        "steps": [
+          "Combine all the ingredients in a blender, and blend until you get a well-combined batter. Over-blending will produce excess foam.",
+          "Let the batter rest for 30 minutes.",
+          "Transfer the batter to a squeeze-bottle with a nozzle (see notes).",
+          "Heat a skillet over medium-high heat.",
+          "If necessary, use a paper towel to lightly grease the pan with some oil.",
+          "Use the squeeze bottle to drizzle batter over the surface of the pan in a swirling, lacy pattern.",
+          "Let the pancake cook just until dry—avoid excessive coloration.",
+          "Remove from the pan, transfer to a plate, and roll or fold up.",
+          "Repeat the cooking process until you have used up all the batter.",
+          "Serve warm."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARoti_Jala_(Malaysian_Lacy_Pancakes)"
+      }
+    },
+    {
+      "id": "cendol",
+      "name": "Cendol",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cendol%20recipe",
+      "description": "Cendol, also known as lot chong (Thai: ลอดช่อง), mont let saung (Burmese: မုန့်လက်ဆောင်း), nom lut (Khmer: បង្អែមលត), lod song (Lao: ລອດຊ່ອງ) and bánh lọt, is a traditional Southeast Asian dessert characterised by soft, green, worm-like jelly strands made from rice flour or mung bean starch, coconut milk and palm sugar…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Kampung_Paya_Jaras_Tengah%2C_Selangor_20250112_111330.jpg/500px-Kampung_Paya_Jaras_Tengah%2C_Selangor_20250112_111330.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cendol"
+    },
+    {
+      "id": "kuih-lapis",
+      "name": "Kuih lapis",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kuih%20lapis%20recipe",
+      "description": "Kue lapis, also known as kuih lapis, and kueh lapis (lit. 'layered cake') is a traditional Southeast Asian steamed dessert known for its colourful, multi-layered appearance and soft, chewy texture. It is commonly found in Indonesia, Malaysia, Singapore and Brunei, and is particularly associated with Peranakan cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Kue_Lapis.jpg/500px-Kue_Lapis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kue_lapis",
+      "recipe": {
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "1 cup cornstarch",
+          "½ cup granulated white sugar",
+          "4 cups medium-thick coconut milk",
+          "1 tsp salt",
+          "Food coloring as desired"
+        ],
+        "steps": [
+          "Preheat a baking pan in a steamer over a pot of simmering water.",
+          "Combine the flour, cornstarch, sugar, coconut milk, and salt in a blender. Process until completely smooth, then strain the batter.",
+          "Divide the batter into two bowls. Use food coloring to color each bowl a different color as desired.",
+          "Pour a thin layer of one batter into the baking pan in the steamer, making sure it's evenly distributed. Cover and let steam for 3 minutes.",
+          "Uncover the steamer, and pour an equally thin layer of the other batter on top of the first layer. Cover and let steam for 3 minutes.",
+          "Repeat the layering and steaming process, alternating colors, until you have used up all your batter.",
+          "Remove the pan from the steamer, and allow it to cool completely.",
+          "Unmold the kuih from the pan, and cut it into pieces."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKuih_Lapis_(Malaysian_Layered_Steamed_Confection)"
+      }
+    },
+    {
+      "id": "seri-muka",
+      "name": "Kuih seri muka",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kuih%20seri%20muka%20recipe",
+      "description": "Kuih seri muka (Jawi: سري موک), sri muka or putri salat (lit. 'pretty face cake') is a Malay originally from Malaysia and Banjarese two-layered dessert with steamed glutinous rice forming the bottom half and a green custard layer made with pandan juice (hence the green colour).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Seri_Muka1.JPG/500px-Seri_Muka1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Seri_muka",
+      "recipe": {
+        "ingredients": [
+          "275 g sticky/glutinous rice",
+          "195 ml coconut milk",
+          "½ tsp salt",
+          "1 pandan leaf, tied in a knot",
+          "3 eggs",
+          "170 g white granulated sugar",
+          "1 spoonful pandan juice",
+          "195 ml coconut milk"
+        ],
+        "steps": [
+          "Cover the rice with cool water, and leave to soak for 6–12 hours. Drain.",
+          "Bring several inches of water to a boil in the bottom of a steamer pot.",
+          "Combine the drained rice, coconut milk, and salt in a pan or dish. Place the pandan leaf on top.",
+          "Place the pan in the steamer, and steam until the rice has absorbed the liquid and is cooked through.",
+          "Use a fork to fluff the rice, then press evenly into a pan lined with banana leaf to make an even base.",
+          "Beat together the eggs and the sugar, then stir in the pandan juice and coconut milk.",
+          "Strain the egg mixture to remove any air bubbles.",
+          "Steam the pan of rice for 5 minutes, then remove from the steamer.",
+          "Gently stir the egg mixture, then pour it over the rice base.",
+          "Place the pan back in the steamer. Wrap the lid of the steamer with a cloth to prevent water from dripping back down onto the custard.",
+          "Steam for 15–20 minutes, or until the custard is firm and a skewer inserted into it comes out clean.",
+          "Remove the pan from the steamer, and allow it to cool completely. To speed cooling, place it in a larger tray of cold water.",
+          "Unmold the custard, and cut it diagonally into diamonds."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKuih_Seri_Muka_(Malaysian_Sticky_Rice_with_Pandan_Custard)"
+      }
+    },
+    {
+      "id": "kek-batik",
+      "name": "Kek batik",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kek%20batik%20recipe",
+      "description": "Kek batik (lit. 'Batik cake') is a type of Malaysian no-bake fridge cake dessert inspired by the Scottish tiffin, brought in the country during the British Malaya and Borneo period, and adapted with Malaysian ingredients.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Kek_Batik_chocolate_indulgence.jpg/500px-Kek_Batik_chocolate_indulgence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Batik_cake",
+      "recipe": {
+        "ingredients": [
+          "250 g butter, cut into chunks",
+          "1 cup Milo chocolate drink powder",
+          "1 cup cocoa powder",
+          "1 cup sweetened condensed milk",
+          "3 eggs",
+          "About 1 cup water",
+          "2 packets Marie Biscuits, broken into quarters",
+          "1 cup Nestum Cereal flakes"
+        ],
+        "steps": [
+          "Melt the butter in a saucepan over low heat. Whisk in the Milo chocolate powder, cocoa powder, and condensed milk.",
+          "Mix in the eggs and water. Cook, stirring, until thickened.",
+          "Remove from the heat, and stir in the biscuit pieces and cereal flakes so everything is well coated with the chocolate mixture.",
+          "Transfer the mixture into a mold (e.g. cake pan, aluminum tin, tupperware) that has been lined with parchment or plastic.",
+          "Tap the mold a few times on a hard surface to even everything out.",
+          "Let cool completely, then unmold and cut into slices."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKek_Batik_(Malaysian_Tiffin)"
+      }
+    }
+  ]
+}

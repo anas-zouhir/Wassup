@@ -1,0 +1,19 @@
+{
+  "country": "MH",
+  "dishes": [
+    {
+      "id": "chukuchuk",
+      "name": "Chukuchuk",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chukuchuk%20recipe",
+      "description": "Chukuchuk is a dish from cuisine of the Marshall Islands. It is a ball shaped made of calrose rice and shredded coconut flesh. The size is similar to a golf ball.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chukuchuk"
+    },
+    {
+      "id": "jaankun",
+      "name": "Jããnkun",
+      "videoSearch": "https://www.youtube.com/results?search_query=J%C3%A3%C3%A3nkun%20recipe",
+      "description": "Pandanus paste is a dried fruit preserve made from the fruit of Pandanus tectorius, most commonly found in the low-lying atoll islands of Micronesia. In the harsh climate of the atoll islands, pandanus fruit serve as an important staple food, and numerous methods were created to preserve them.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pandanus_paste"
+    }
+  ]
+}

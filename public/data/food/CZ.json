@@ -1,0 +1,198 @@
+{
+  "country": "CZ",
+  "dishes": [
+    {
+      "id": "svickova",
+      "name": "Svíčková",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sv%C3%AD%C4%8Dkov%C3%A1%20recipe",
+      "description": "Svíčková, or svíčková na smetaně, is a Czech meat dish and one of the most common Czech and Slovak meals.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Sv%C3%AD%C4%8Dkov%C3%A1_na_smetan%C4%9B.JPG/500px-Sv%C3%AD%C4%8Dkov%C3%A1_na_smetan%C4%9B.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sv%C3%AD%C4%8Dkov%C3%A1"
+    },
+    {
+      "id": "vepro-knedlo-zelo",
+      "name": "Vepřo knedlo zelo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Vep%C5%99o%20knedlo%20zelo%20recipe",
+      "description": "Vepřo knedlo zelo is the name of one of the national dishes of the Czech Republic.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Knedlo_vepro_zelo_czech_food.jpg/500px-Knedlo_vepro_zelo_czech_food.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vep%C5%99o_knedlo_zelo"
+    },
+    {
+      "id": "bread-dumplings",
+      "name": "Bread dumplings",
+      "localName": "Houskové knedlíky",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bread%20dumplings%20recipe",
+      "description": "Knödel or Klöße are boiled dumplings commonly found in Central European and Eastern European cuisine. Countries in which their variant of Knödel is popular include Austria, Bosnia, Croatia, Czech Republic, Germany, Poland, Romania, Serbia, Slovakia and Slovenia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Kn%C3%B6delschneem%C3%A4nner_1.jpg/500px-Kn%C3%B6delschneem%C3%A4nner_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kn%C3%B6del"
+    },
+    {
+      "id": "kolache",
+      "name": "Kolache",
+      "localName": "Koláč",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kolache%20recipe",
+      "description": "A kolach, from the Czech and Slovak koláč (plural koláče, diminutive koláčky, meaning \"cake/pie\"), is a type of sweet bread that holds a portion of fruit surrounded by puffy yeast dough. Common filling flavors include tvaroh, fruit jam, poppy seeds, or povidla (prune jam).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Makovy_frgal.jpg/500px-Makovy_frgal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kolach_(cake)"
+    },
+    {
+      "id": "smazeny-syr",
+      "name": "Smažený sýr",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sma%C5%BEen%C3%BD%20s%C3%BDr%20recipe",
+      "description": "Smažený sýr or vyprážaný syr – both meaning \"fried cheese\" – is a Czech and Slovak cheese-based dish that is widely consumed in both countries of the former state of Czechoslovakia. It is a common street food in both countries and is popular among students as an inexpensive staple in school canteens.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/SMAZENY_SYR_2020.jpg/500px-SMAZENY_SYR_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sma%C5%BEen%C3%BD_s%C3%BDr"
+    },
+    {
+      "id": "kulajda",
+      "name": "Kulajda",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kulajda%20recipe",
+      "description": "Kulajda is a soup from Czech cuisine. One version is made with sour cream, potatoes, dill and quail egg. Mushrooms are also an important ingredient of the soup.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kulajda_%281%29.jpg/500px-Kulajda_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kulajda"
+    },
+    {
+      "id": "cesnecka",
+      "name": "Česnečka",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C4%8Cesne%C4%8Dka%20recipe",
+      "description": "Česnečka is a garlic soup in Czech cuisine and Slovak cuisine consisting of a thin broth, garlic, sliced potatoes and spices such as caraway, marjoram and cumin. A significant amount of garlic is typically used, and it is typically served with fried bread cubes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%C4%8Cesne%C4%8Dka.jpg/500px-%C4%8Cesne%C4%8Dka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/%C4%8Cesne%C4%8Dka"
+    },
+    {
+      "id": "vanocka",
+      "name": "Vánočka",
+      "videoSearch": "https://www.youtube.com/results?search_query=V%C3%A1no%C4%8Dka%20recipe",
+      "description": "Vánočka is a plaited bread, baked in the Czech Republic and Slovakia (called vianočka in Slovak) traditionally around the Christmas holiday.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Vanocka.jpg/500px-Vanocka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/V%C3%A1no%C4%8Dka"
+    },
+    {
+      "id": "kyselo",
+      "name": "Kyselo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kyselo%20recipe",
+      "recipe": {
+        "ingredients": [
+          "Potatoes",
+          "100 g sourdough starter, ideally made with rye flour",
+          "15 g dried porcini mushrooms, preferably Central European",
+          "1 tablespoon caraway seeds",
+          "1250 ml water",
+          "1 onion, chopped",
+          "20 g butter",
+          "3 chicken eggs",
+          "Salt",
+          "Vinegar",
+          "Chopped green herbs, such as parsley or scallion"
+        ],
+        "steps": [
+          "Boil potatoes with their skins, then peel them, chop onto small pieces and roast it in a pan (without adding grease).",
+          "Put 250 ml tepid water into a bowl. Stir in the sourdough starter. Cover with a clean cloth, and let rest at room temperature for 30 minutes to 3 hours.",
+          "Put 1000 ml water into a stockpot. Add the dried mushrooms and caraway, and boil for at least 15 minutes to make a strong broth.",
+          "Carefully add the sourdough mixture into the broth, stirring well—there is a danger that the sourdough will shrink into small dumplings.",
+          "Boil the soup, stirring, until the sourdough thickens the mixture. This should take about 10 minutes.",
+          "Sauté the chopped onion with butter in a pan. Stir it into the soup.",
+          "Beat the eggs with a pinch of salt, and scramble them in an ungreased pan. Stir the cooked eggs into the soup.",
+          "Season the soup to taste with salt and vinegar. It should be mildly sour, flavored primarily by the mushrooms and sourdough.",
+          "Served the soup hot, garnished with the chopped herbs, with the potatoes as a side dish. Individual diners may wish to add additional vinegar and salt to taste."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKyselo_(Czech_Sourdough_Mushroom_Soup)"
+      }
+    },
+    {
+      "id": "nakladany-hermelin",
+      "name": "Nakládaný hermelín",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nakl%C3%A1dan%C3%BD%20hermel%C3%ADn%20recipe",
+      "description": "Hermelín (Czech for ermine fur, due to its white color) is a type of Czech cheese that imitates camembert, with a coating of white mold, Penicillium camemberti. Hermelín originates from the town of Sedlčany in Central Bohemia and is sold throughout the Czech Republic under various brand names.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/HermelinNakrajeny.JPG/500px-HermelinNakrajeny.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hermel%C3%ADn"
+    },
+    {
+      "id": "palacinky",
+      "name": "Palačinky",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pala%C4%8Dinky%20recipe",
+      "description": "Palatschinke (plural Palatschinken) is a thin crêpe-like variety of pancake of Greco-Roman origin. The dessert is common in Central, Eastern and Southeastern Europe.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Pfannkuchen_mit_Zucker.jpg/500px-Pfannkuchen_mit_Zucker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Palatschinke",
+      "recipe": {
+        "ingredients": [
+          "250 ml milk",
+          "150 g flour (wheat or spelt)",
+          "3 eggs",
+          "1 pinch salt",
+          "A few drops rum (optional)",
+          "Mineral water (optional, makes the dough more fluffy)"
+        ],
+        "steps": [
+          "Mix the flour with the milk, stirring thoroughly. Mix in the eggs one-by-one, then stir in the salt and rum. If desired, thin the batter with a bit of mineral water.",
+          "Heat the pan well. Add a drop of oil and rub it over the pan with a kitchen towel.",
+          "Ladle a dipperful of the batter into the pan, tilting the pan so that the batter spreads as evenly as possible over the whole pan. Alternatively, you can accomplish this by using a special wooden tool used to spread crêpes.",
+          "Let cook about 45 seconds to 1 minute until the top of the palatschinke is dry.",
+          "Flip the pancake over, and allow it to brown for about 30 seconds on the other side. Remove from the pan, and set aside.",
+          "Repeat the cooking process until you have used up all the batter."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APalatschinken_(Czech%2FAustrian_Crepes)"
+      }
+    },
+    {
+      "id": "buchty",
+      "name": "Buchty",
+      "videoSearch": "https://www.youtube.com/results?search_query=Buchty%20recipe",
+      "description": "Buchteln (from Czech buchta, pl. buchty, also in German: pl., sing. Buchtel; also Wuchtel(n), Ofennudel(n), Rohrnudel(n)) are sweet rolls made of enriched yeast dough, filled with powidl, jam, ground poppy seeds or quark, brushed with butter and baked in a large pan so that they stick together and can be pulled apart.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Buchteln.jpg/500px-Buchteln.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Buchteln",
+      "recipe": {
+        "ingredients": [
+          "colspan=\"5\" style=\"text-align: center; background: #f5f5f5;\" |Dough",
+          "Flour",
+          "4 cups",
+          "500 g",
+          "100%",
+          "Yeast",
+          "1 ⅛ cakes",
+          "20 g",
+          "4%",
+          "White granulated sugar",
+          "3 Tbsp + 3/16 tsp",
+          "40 g",
+          "8%",
+          "Butter",
+          "½ cup",
+          "120 g",
+          "24%",
+          "Eggs",
+          "2 ea.",
+          "100 g",
+          "20%",
+          "Salt",
+          "1 pinch",
+          "1/16 tsp",
+          "0.375 g",
+          "0.07%",
+          "Lemon (lemon peel)",
+          "2 tsp",
+          "4 g",
+          "0.8%",
+          "Milk (as required)",
+          "colspan=\"5\" style=\"text-align: center; background: #f5f5f5;\" |Filling",
+          "Jam (optional)",
+          "colspan=\"5\" style=\"text-align: center; background: #f5f5f5;;\" |Pans",
+          "Cooking oil or butter"
+        ],
+        "steps": [
+          "Scald milk by bringing it to at least , then let it cool.",
+          "Put the yeast in a small bowl and add some lukewarm milk to it. Add 1 teaspoon of sugar. Let it rest for a moment, as yeast in general needs some time to ferment.",
+          "When ready, add the yeast mixture to the bowl with the flour. Put the remaining sugar into the bowl. Make sure the mixture has reached at least room temperature, then mix in the eggs and a pinch of salt. Finally, add ground lemon peel.",
+          "Knead it until you get nice, smooth dough.",
+          "Use a cloth to cover the bowl. Let it rest until the dough has risen significantly.",
+          "In the meantime, thoroughly oil or butter a baking pan, preferably of about 5 to 10 cm height.",
+          "When ready, take the dough and put it on a clean, floured surface. Roll the dough to 1 cm thickness. Divide it so that you get equal squares of about 4 x 4 square centimeters each.",
+          "Top each square with a dollop of jam. Pinch together the 4 corners of the square to enclose the filling, then roll the bun in your hands to round it out.",
+          "Place the buns side-by-side in the greased pan. Cover them with a cloth once more, and let them rest for 20 minutes.",
+          "Bake the buns in a preheated oven until they are golden brown."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABuchteln_(Austrian_Sweet_Buns)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "country": "BI",
+  "dishes": [
+    {
+      "id": "ugali",
+      "name": "Ugali (ubugali)",
+      "localName": "Ubugali",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ugali%20(ubugali)%20recipe",
+      "description": "Ugali, also known as posho, nsima, papa, pap, bogobe, sadza, isitshwala, akume, amawe, ewokple, akple, and other names, is a type of corn meal made from maize or corn or mahindi flour in several African countries: Kenya, Uganda, South Sudan, Tanzania, Zimbabwe, Zambia, Lesotho, Eswatini, Angola, Mozambique, Namibia, De…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ugali_%26_Sukuma_Wiki.jpg/500px-Ugali_%26_Sukuma_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ugali"
+    },
+    {
+      "id": "isombe",
+      "name": "Isombe",
+      "videoSearch": "https://www.youtube.com/results?search_query=Isombe%20recipe",
+      "description": "Isombe is a vegetable stew dish from Rwanda. It is believed to have originated in the Democratic Republic of the Congo. Vegetables grown in Rwanda are used to prepare isombe, with cassava leaves being the primary ingredient.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/ISOMBE.jpg/500px-ISOMBE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Isombe"
+    },
+    {
+      "id": "matoke",
+      "name": "Matoke",
+      "videoSearch": "https://www.youtube.com/results?search_query=Matoke%20recipe",
+      "description": "Matoke, locally also known as matooke, amatooke in Buganda (Central Uganda), ekitookye in southwestern Uganda, ekitooke in western Uganda, kamatore in Lugisu (Eastern Uganda), ebitooke in northwestern Tanzania, igitoki in Rwanda, Burundi and by the cultivar name East African Highland banana, are a group of starchy trip…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Matooke_to_the_market.jpg/500px-Matooke_to_the_market.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Matoke"
+    },
+    {
+      "id": "urwarwa",
+      "name": "Urwarwa (banana beer)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Urwarwa%20(banana%20beer)%20recipe",
+      "description": "Banana beer is an alcoholic beverage made from fermentation of mashed bananas. Sorghum, millet or maize flour are added as a source of wild yeast.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Belgian_banana_beer.jpg/500px-Belgian_banana_beer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Banana_beer"
+    }
+  ]
+}

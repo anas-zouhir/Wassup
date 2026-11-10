@@ -1,0 +1,52 @@
+{
+  "country": "TM",
+  "dishes": [
+    {
+      "id": "palaw",
+      "name": "Palaw",
+      "videoSearch": "https://www.youtube.com/results?search_query=Palaw%20recipe",
+      "description": "Pilaf (US: or pilau UK: ) is a rice dish, or in some regions, a wheat dish, whose recipe usually involves cooking in stock or broth, adding spices, and other ingredients such as vegetables and meat, and employing some technique for achieving cooked grains that do not adhere.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Afghan_Palo.jpg/500px-Afghan_Palo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pilaf"
+    },
+    {
+      "id": "ishlykly",
+      "name": "Ishlykly",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ishlykly%20recipe",
+      "description": "Ishlykly (sometimes referred to as Ishlekli or Ishlyakdi in certain recipes) is a traditional dish similar to pizza but covered with dough.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ishlykly"
+    },
+    {
+      "id": "chal",
+      "name": "Chal",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chal%20recipe",
+      "description": "Chal, also shubat or khoormog, is a Turkic (especially Turkmen, Uzbek and Kazakh) and Mongolic beverage of fermented camel milk, sparkling white with a sour flavor, popular in Central Asia — particularly in Kazakhstan, Uzbekistan and Turkmenistan. In Kazakhstan the drink is known as shubat, and is a staple summer food.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Shubat_vs_Kumis.jpg/500px-Shubat_vs_Kumis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chal"
+    },
+    {
+      "id": "shashlik",
+      "name": "Shashlik",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shashlik%20recipe",
+      "description": "Shashlik, or shashlyck (Russian: шашлык, romanized: shashlyk ), is a dish of skewered and grilled cubes of meat, similar to or synonymous with shish kebab.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Shashlik.jpg/500px-Shashlik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shashlik"
+    },
+    {
+      "id": "manti",
+      "name": "Manty",
+      "videoSearch": "https://www.youtube.com/results?search_query=Manty%20recipe",
+      "description": "Manti is a type of dumpling mainly found in Uyghur cuisine and Central Asian cuisine, but also in West Asia, South Caucasus, and the Balkans. Manti is also popular in Turkish cuisine, and it is consumed throughout post-Soviet countries, where the dish spread from the Central Asian republics.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Kayseride_bir_restoranda_Kayseri_mant%C4%B1s%C4%B1_%28cropped%29.jpg/500px-Kayseride_bir_restoranda_Kayseri_mant%C4%B1s%C4%B1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "id": "samsa",
+      "name": "Somsa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Somsa%20recipe",
+      "description": "Samsa is a savoury pastry in Central Asian cuisines. It is a bun stuffed with meat and sometimes with vegetables. In the countries of Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, Turkey and Iran, as well as in the Xinjiang Uygur Autonomous Region of China, samsas are almost always baked.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ouzb%C3%A9kistan-Samsas.jpg/500px-Ouzb%C3%A9kistan-Samsas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Samsa_(food)"
+    }
+  ]
+}

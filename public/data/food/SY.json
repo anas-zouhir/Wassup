@@ -1,0 +1,232 @@
+{
+  "country": "SY",
+  "dishes": [
+    {
+      "id": "kibbeh",
+      "name": "Kibbeh",
+      "localName": "كبة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kibbeh%20recipe",
+      "description": "Kibbeh (, also kubba and other spellings; Arabic: كبّة, romanized: kibba; Egyptian Arabic: كبيبة, romanized: kobeba) is a popular dish in the Arab world and the Levant in particular, made of spiced lean ground meat and bulgur wheat. Kibbeh is considered to be a national dish of Lebanon and Syria.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kibbeh3.jpg/500px-Kibbeh3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kibbeh",
+      "recipe": {
+        "ingredients": [
+          "1 kg of minced meat",
+          "6–7 onions, finely chopped",
+          "Salt",
+          "Raisins (optional)",
+          "Pine nuts (optional)",
+          "Spicy paprika or chile powder (optional)",
+          "0.5 kg (500 g) fine bulgur",
+          "0.5 kg coarse bulgur",
+          "Water as needed",
+          "2 cups semolina flour",
+          "1 tsp turmeric powder",
+          "replete spoon of salt",
+          "1 egg"
+        ],
+        "steps": [
+          "Fry the onions and the minced meat together. Add salt to taste.",
+          "Mix in raisins, pine nuts, and spices to taste.",
+          "Cool filling.",
+          "Combine the fine and coarse bulgur in a bowl. Cover the bulgur with a few centimeters of warm water. Let the bulgur soak for about 1 hour until it has absorbed some water.",
+          "Drain the bulgur. Use your hands to squeeze excess water out. Place drained bulgur in a bowl.",
+          "Combine semolina, turmeric, salt, and egg in a bowl. Knead everything together until the dough gets a little like chewing gum. Add up to ½ cup more more semolina if the dough is not sticky enough.",
+          "Roll big balls out of the dough and set them aside.",
+          "Make an opening in the dough balls, insert a spoonful of meat, and close the opening.",
+          "In a pot, boil water with little salt and a dash of turmeric. When the water is boiling, flatten the stuffed Kibbeh balls into the shape of a flat full moon the size of a little plate. Put each kibbeh gently down into the boiling water, and boil it until it floats. Floating is a sign of the kibbeh being cooked through and ready to eat.",
+          "Serve immediately after they are cooked, or pan fry on both sides."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKibbeh"
+      }
+    },
+    {
+      "id": "muhammara",
+      "name": "Muhammara",
+      "localName": "محمرة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Muhammara%20recipe",
+      "description": "Muhammara or mhammara (Arabic: محمرة, lit. 'something that has turned red') is a dip made of walnuts, red bell peppers, pomegranate molasses, and breadcrumbs originating in the city of Aleppo, Syria. While commonly associated with Syria, muhammara can also be found in Western Armenian cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Tanoreen_muhammara.jpg/500px-Tanoreen_muhammara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Muhammara"
+    },
+    {
+      "id": "fattoush",
+      "name": "Fattoush",
+      "localName": "فتوش",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fattoush%20recipe",
+      "description": "Fattoush (Arabic: فتّوش; also fattush, fatush, fattoosh, and fattouche) is a Levantine salad made from toasted or fried pieces of pita combined with mixed greens and other vegetables, such as radishes, cucumber and tomatoes. Fattoush is a common part of meals in communities in the Levant.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Fattoush_mixed-salad.jpg/500px-Fattoush_mixed-salad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fattoush"
+    },
+    {
+      "id": "shawarma",
+      "name": "Shawarma",
+      "localName": "شاورما",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shawarma%20recipe",
+      "description": "Shawarma (; Arabic: شاورما) is a popular street food in the Middle East that originated in the Levant during the Ottoman Empire. It consists of meat cut into thin slices, stacked in an inverted cone, and roasted on a slow-turning vertical spit.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Shawarma_2.jpg/500px-Shawarma_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shawarma"
+    },
+    {
+      "id": "cherry-kebab",
+      "name": "Kebab karaz",
+      "localName": "كباب كرز",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kebab%20karaz%20recipe",
+      "description": "Cherry Kebab (Arabic: كباب كرز) is a special kind of kebab from Aleppo, Syria. It is made with minced lamb and cherry. The name in Arabic is Kebab B’il Karaz.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Kebabconcereza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cherry_kebab"
+    },
+    {
+      "id": "shakriyeh",
+      "name": "Shakriyeh",
+      "localName": "شاكرية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shakriyeh%20recipe",
+      "description": "Shakriyeh (Arabic: شاكرية, also known as \"laban emmo\") is a traditional Levantine stew of lamb cooked in yogurt, often served with Arabic rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/MyPlate_gov_Cultural_Food_%2820241025-USDA-FNS-UNK-0046%29.jpg/500px-MyPlate_gov_Cultural_Food_%2820241025-USDA-FNS-UNK-0046%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shakriyeh"
+    },
+    {
+      "id": "yabraq",
+      "name": "Yabraq",
+      "localName": "يبرق",
+      "videoSearch": "https://www.youtube.com/results?search_query=Yabraq%20recipe",
+      "description": "Dolma is a family of stuffed dishes largely associated with Ottoman cuisine. It mainly includes vegetables and leaves, and occasionally seafood, offal, fruits, and meats, that are hollowed out or wrapped, then filled with a mixture of rice, minced meat, herbs, and spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Speca_te_mbushura_me_mish.JPG/500px-Speca_te_mbushura_me_mish.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dolma",
+      "recipe": {
+        "ingredients": [
+          "Batch of thin, freshly-picked grape leaves (choose only the thinnest leaves)",
+          "1 kg uncooked rice, rinsed",
+          "Turmeric",
+          "Black pepper",
+          "2 tsp salt",
+          "Dried mint leaves",
+          "1 cup raisins",
+          "Fresh dill, finely chopped",
+          "Parsley",
+          "Green onions (scallions)",
+          "Cooking oil",
+          "2 lemon"
+        ],
+        "steps": [
+          "Soak leaves in boiling hot water to soften, about 15 minutes.",
+          "Combine the rice, turmeric, pepper, salt, mint, raisins, dill, parsley and green onions.",
+          "Place some of the rice mixture on a leaf, close to one end. Fold the three smaller ends of the leaf over the filling, then roll up the remainder like a sleeping bag or mat. Repeat with remaining rice and leaves.",
+          "Place stuffed leaves in pot with a little water, oil, and lemon juice—the liquid should just barely cover the stuffed leaves.",
+          "Cover pot with lid. First bring to a boil, then lower heat.",
+          "Cook over low heat until the rice is cooked.",
+          "Place sliced lemon on top of stuffed grape leaves for added flavour, and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AStuffed_Grape_Leaves"
+      }
+    },
+    {
+      "id": "fatteh",
+      "name": "Fatteh",
+      "localName": "فتة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fatteh%20recipe",
+      "description": "Fatteh (Arabic: فتّة meaning crushed or crumbs, also romanized as fette, fetté, fatta or fattah) is a dish eaten in the Arab world consisting of pieces of fresh, toasted, grilled, or fried flatbread covered with other ingredients that vary according to region.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%D9%81%D8%AA%D9%91%D8%A9_%D8%A8%D8%A7%D9%84%D9%84%D9%88%D8%B2_%D9%88_%D8%A7%D9%84%D8%B3%D9%91%D9%85%D9%86.jpg/500px-%D9%81%D8%AA%D9%91%D8%A9_%D8%A8%D8%A7%D9%84%D9%84%D9%88%D8%B2_%D9%88_%D8%A7%D9%84%D8%B3%D9%91%D9%85%D9%86.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fatteh"
+    },
+    {
+      "id": "makdous",
+      "name": "Makdous",
+      "localName": "مكدوس",
+      "videoSearch": "https://www.youtube.com/results?search_query=Makdous%20recipe",
+      "description": "Makdous (Arabic: المكدوس or sometimes المقدوس) is a dish of oil-cured aubergines. Part of Levantine cuisine (Syria, Jordan, Lebanon, and Palestine), they are miniature, tangy eggplants stuffed with walnuts, red pepper, garlic, olive oil, and salt. Sometimes chilli powder is added.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Makdous.jpg/500px-Makdous.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Makdous"
+    },
+    {
+      "id": "mutabbal",
+      "name": "Mutabbal",
+      "localName": "متبل",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mutabbal%20recipe",
+      "description": "Baba ghanoush ( BAH-bə gə-NOOSH, UK also -⁠ gan-OOSH, US also -⁠ gə-NOOZH; Arabic: بابا غنّوج, romanized: bābā ġannūj ), also spelled baba ganoush or baba ghanouj, is a Levantine appetizer consisting of finely chopped roasted eggplant (aubergine), olive oil, lemon juice, various seasonings, and tahini.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Baba_Ganoush_05of05_%288735238183%29.jpg/500px-Baba_Ganoush_05of05_%288735238183%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baba_ghanoush"
+    },
+    {
+      "id": "kousa-mahshi",
+      "name": "Kousa mahshi",
+      "localName": "كوسا محشي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kousa%20mahshi%20recipe",
+      "description": "Stuffed squash, courgette, marrow, mahshi, kousa, or zucchini is a dish common in Egypt, the Levant and the Balkans. It is a kind of dolma consisting of various kinds of squash or zucchini, stuffed with rice and sometimes meat, and cooked on the stovetop or in the oven. The meat version is served hot, as a main course.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Punjene_tikvice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stuffed_squash"
+    },
+    {
+      "id": "halawet-el-jibn",
+      "name": "Halawet el jibn",
+      "localName": "حلاوة الجبن",
+      "videoSearch": "https://www.youtube.com/results?search_query=Halawet%20el%20jibn%20recipe",
+      "description": "Halawet el-jibn (Arabic: حلاوة الجبن, romanized: Ḥalāwat al-jibn, lit. 'cheese sweet') is a Syrian dessert made of a semolina and cheese dough, filled with qishta. Its origins are somewhere from central Syria.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%D8%AD%D9%84%D8%A7%D9%88%D8%A9_%D8%A7%D9%84%D8%AC%D8%A8%D9%86_%D8%A7%D9%84%D8%AD%D9%85%D9%88%D9%8A%D8%A9.jpg/500px-%D8%AD%D9%84%D8%A7%D9%88%D8%A9_%D8%A7%D9%84%D8%AC%D8%A8%D9%86_%D8%A7%D9%84%D8%AD%D9%85%D9%88%D9%8A%D8%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Halawet_el_jibn"
+    },
+    {
+      "id": "barazek",
+      "name": "Barazek",
+      "localName": "برازق",
+      "videoSearch": "https://www.youtube.com/results?search_query=Barazek%20recipe",
+      "description": "Barazek or barazeq (Arabic: برازق, romanized: barāzeq) is a Levantine cookie whose main ingredient is sesame (Arabic: سمسم, romanized: sumsum) and often also contain pieces of pistachio.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Barazeq.jpg/500px-Barazeq.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barazek"
+    },
+    {
+      "id": "baklava",
+      "name": "Baklava",
+      "localName": "بقلاوة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Baklava%20recipe",
+      "description": "Baklava (, or ) is a layered pastry dessert made of filo pastry, filled with chopped nuts, and sweetened with either syrup or honey.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Baklava%281%29.png/500px-Baklava%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baklava"
+    },
+    {
+      "id": "maamoul",
+      "name": "Ma'amoul",
+      "localName": "معمول",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ma'amoul%20recipe",
+      "description": "Ma'amoul is a filled cookie made with semolina flour and butter. Originating in the Arab world, the filling can be made with dried fruits like figs, dates, or nuts such as pistachios, walnuts, and occasionally almonds or cheese.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Mamoul_biscotti_libanesi.jpg/500px-Mamoul_biscotti_libanesi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ma%27amoul",
+      "recipe": {
+        "ingredients": [
+          "½ lb (250 g) finely-chopped pistachios",
+          "¼ lb sugar",
+          "1 tbsp rose water",
+          "½ lb (250 g) finely-chopped walnuts",
+          "¼ lb sugar",
+          "1 tbsp ground cinnamon",
+          "1 lb (500 g) pitted dates, chopped",
+          "½ teacup water",
+          "Butter (optional)",
+          "1 lb (500 g) plain white flour (up to a quarter of the flour may be replaced with fine semolina)",
+          "2 tbsp white sugar",
+          "1 pinch of salt (optional)",
+          "Baking powder (optional)",
+          "½ lb (250 g) unsalted butter (Normandy butter is best)",
+          "1–2 tbsp rose water or orange flower water",
+          "2 tbsp water or milk",
+          "Icing sugar"
+        ],
+        "steps": [
+          "Mix chopped pistachios with sugar and rose water.",
+          "Mix chopped walnuts with sugar and cinnamon.",
+          "Combine the chopped dates and water in a pot. Bring to a boil, squashing the mixture against the side of the pan with a wooden spoon until approximately uniform in consistency. Mix in the butter if using. Blend with an electric chopper if desired to make a smoother paste. Allow to cool.",
+          "Sift the flour into a mixing bowl. Mix with the white sugar, and a pinch of salt if desired. Some people add a very small quantity of baking powder.",
+          "Work in the butter until the consistency is as uniform as possible; one way is to heat the butter in the microwave first until it is nearly melted, and then mix it with the flour into a sort of crumble. Cover and leave at room temperature for several hours to overnight.",
+          "Break up the dough with your fingers, and add the rose water or orange flower water and 2 tbsp water or milk until it is malleable. Knead the whole into a smooth ball.",
+          "Take a walnut-sized ball of the dough, stick your thumb into it, and hollow out into a cup shape so that the walls are as thin as possible without breaking.",
+          "Insert filling to about three-quarters full, and pinch the aperture closed. Pat gently into a ball, not letting the walls break.",
+          "Decorate the ball on top with tweezers or the prongs of a fork. Alternatively, pat it into a wooden mould and flatten the exposed bottom surface, then bang the mould face down on the work surface to extract the moulded pastry.",
+          "Repeat the assembly steps until all the dough and the filling is used. If at any stage the remaining dough shows signs of drying out, knead in a little more water or milk.",
+          "Place the pastries on an ungreased baking sheet and bake in a preheated oven (180°C / 355°F; 160°C if a fan oven) for 20 minutes: they must not be allowed to become hard or brown. In fact they should look a little moist and underdone when removed from the oven: they will steam off and harden as they cool.",
+          "Leave the pastries to cool, and dust with icing sugar when cold. Keep in a sealed plastic box or biscuit tin."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMa'amoul_(Arabian_Filled_Pastries)"
+      }
+    }
+  ]
+}

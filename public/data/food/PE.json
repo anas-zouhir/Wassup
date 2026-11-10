@@ -1,0 +1,337 @@
+{
+  "country": "PE",
+  "dishes": [
+    {
+      "id": "ceviche",
+      "name": "Ceviche",
+      "localName": "Cebiche",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ceviche%20recipe",
+      "description": "Ceviche, cebiche, sebiche, or seviche is a traditional cold dish consisting of raw fish or shellfish marinated in citrus and seasonings.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Cebiche_de_corvina.JPG/500px-Cebiche_de_corvina.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ceviche",
+      "recipe": {
+        "ingredients": [
+          "4 pounds (1.8 kg) of white fish (mahi mahi is an excellent choice), although most fish will work",
+          "juice from about 8 large sour green limes",
+          "3 ají limo peppers, diced",
+          "3 finely-diced rocoto peppers or habanero peppers",
+          "Salt to taste",
+          "Pepper to taste",
+          "3 large onions, julienned",
+          "1 bunch finely-chopped cilantro",
+          "1 clove garlic, chopped",
+          "3 lettuce leaves per plate",
+          "16–24 corn cobs cut into 2-inch (5 cm) pieces, cooked as usual",
+          "5–6 sweet potatoes, boiled and peeled"
+        ],
+        "steps": [
+          "Wash and debone the fish, and cut it into ½ x ½ inch (about 1 x 1 cm) chunks.",
+          "Season the fish with salt, pepper, ají limo, and rocoto. Marinate the fish for a few minutes to ”cold cook” them; leaving it for too long will \"overcook\" the fish. You should have enough lime juice to completely cover the fish.",
+          "Add the onion and mix gently.",
+          "Serve on a bed of lettuce, and add two pieces of corn on the cob and a portion of sweet potato."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AWhite_Fish_Ceviche_(Cebiche_de_Pescado)"
+      }
+    },
+    {
+      "id": "lomo-saltado",
+      "name": "Lomo saltado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lomo%20saltado%20recipe",
+      "description": "Lomo saltado is a traditional Peruvian dish, a stir-fry that typically combines marinated strips of sirloin (or other beef steak) with onions, tomatoes, french fries, and other ingredients, and is typically served with rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Lomo_Saltado_-_Lima%2C_Peru_Miraflores_%28Tiendecita_Blanca%29.jpg/500px-Lomo_Saltado_-_Lima%2C_Peru_Miraflores_%28Tiendecita_Blanca%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lomo_saltado",
+      "recipe": {
+        "ingredients": [
+          "3 pounds (900 g) beef tenderloin or other tender steak",
+          "¼ cup red wine (e.g. Burgundy)",
+          "2 tablespoons crushed garlic",
+          "2 medium onions, cut in strips",
+          "4 tomatoes, seeds removed, puréed in a blender",
+          "5 potatoes peeled and cut into strips for frying",
+          "1 yellow Peruvian Chili Pepper (aji), cut into thin strips",
+          "1 tablespoon of vinegar",
+          "2 tablespoons of soy sauce",
+          "Vegetable oil for frying",
+          "Salt",
+          "Pepper",
+          "Culantro or cilantro"
+        ],
+        "steps": [
+          "Cut the meat into thin strips and marinate them in the wine for 1 hour.",
+          "Use a wok to cook garlic in oil over medium heat and add the meat. Reserve the juice.",
+          "Add the tomato purée, salt and pepper. Cook for a few minutes.",
+          "Add the soy sauce while stirring the meat in the wok.",
+          "Add the onions, aji strips, cilantro and vinegar. Combine the juice from the meat.",
+          "Fry the potatoes in a separate pan and add to the other ingredients.",
+          "Serve the dish with white rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALomo_Saltado_(Peruvian_Steak_Stir-fry)"
+      }
+    },
+    {
+      "id": "aji-de-gallina",
+      "name": "Ají de gallina",
+      "videoSearch": "https://www.youtube.com/results?search_query=Aj%C3%AD%20de%20gallina%20recipe",
+      "description": "Ají de gallina is a Peruvian chicken stew. The dish is considered a popular Peruvian comfort food, and the name translates to \"chicken chili\" or \"hen's chili\" in English.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Aj%C3%AD_de_gallina.jpg/500px-Aj%C3%AD_de_gallina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Aj%C3%AD_de_gallina",
+      "recipe": {
+        "ingredients": [
+          "1300 g (4 lb) chicken",
+          "120 ml (½ cup) of olive oil",
+          "1 large finely chopped onion",
+          "8 cloves of minced garlic",
+          "3 hot yellow South American chilis (seeds and filaments removed): Adjust quantity for individual taste.",
+          "Salt and pepper to taste",
+          "1 chicken stock cube",
+          "¼ loaf of bread",
+          "110 g (¼ lb) of chopped pecans",
+          "110 g (4 ounces) grated Parmesan cheese",
+          "1 can of evaporated milk",
+          "1.6 kg (3.5 lbs) boiled rice (flavored with chopped garlic and salt)",
+          "4 hard boiled eggs",
+          "6 potatoes",
+          "120 g (½ cup) black olives"
+        ],
+        "steps": [
+          "Boil chicken in salted water together with the stock cube. Remove bones and break into bite size pieces, keeping the resulting chicken stock.",
+          "In a saucepan, heat oil and sauté the onion, garlic, and finely chopped chili peppers and add salt and pepper. Fry this until the onions are cooked and golden.",
+          "Soak the bread in two cups of the stock from the boiled chicken and place in a blender for a couple of minutes and then add the resulting liquid to the saucepan.",
+          "Cook slowly for ten minutes. Cook slowly, stirring to thicken.",
+          "While the Ají de Gallina is cooking slowly, boil the rice: first fry the garlic for a couple of seconds, then add the rice and the salt, then add the water. When the water starts to boil, let the rice cook in a closed pot very slowly for about 20 minutes or until the water has completely evaporated (hint: to cook \"peruvian\" rice: cook a cup of rice in two cups of water).",
+          "Back to the Ají de Gallina: add the chopped pecans, grated cheese, and chicken pieces. Cook until it has a thick creamy texture. About five minutes before serving, add the evaporated milk and continue cooking on low heat.",
+          "Serve over the boiled rice and garnish with halved potatoes, eggs quartered lengthwise, and olives."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAj%C3%AD_de_Gallina_(Peruvian_Chili_Chicken)"
+      }
+    },
+    {
+      "id": "anticuchos",
+      "name": "Anticuchos",
+      "videoSearch": "https://www.youtube.com/results?search_query=Anticuchos%20recipe",
+      "description": "Anticuchos (singular anticucho, Quechua 'Anti Kuchu', Anti: 'Eastern region of the Andes' or 'Eastern native ethnicities', Kuchu: 'Cut'; Quechua for 'Anti-style cuts', 'Eastern-style cuts') are popular and inexpensive meat dishes that originated in the Andes during the pre-Columbian era, specifically in the Antisuyu re…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Anticuchos_-_Grilled_Beef_Heart_skewers.jpg/500px-Anticuchos_-_Grilled_Beef_Heart_skewers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anticucho",
+      "recipe": {
+        "ingredients": [
+          "1 beef heart",
+          "2 cloves of garlic",
+          "¼ cup of ground spicy red chili",
+          "2 cups of brown vinegar",
+          "1 teaspoon of ground cumin",
+          "1 teaspoon of achiote (annatto)",
+          "1 teaspoon of salt",
+          "1 teaspoon of ground black pepper"
+        ],
+        "steps": [
+          "Place all the above ingredients, other than the heart, in a bowl and mix thoroughly.",
+          "Clean the heart, removing all fat. Cut into bite-sized cubes. Place the heart pieces into the marinade mixture, and leave to marinate for about 10 hours or overnight. The heart should be completely covered by the marinade.",
+          "After marinating, thread the meat onto skewers. If desired, at this stage some additional ingredients such as bell peppers (capsicum) or corn-on-cob (cut to a similar size to the heart) may be also added to the skewers.",
+          "Cook the skewers on a barbecue grill, turning frequently while brushing with the marinade mix. When the meat is well done, remove skewers from grill and serve immediately."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABeef_Heart_Kabobs_(Anticuchos)"
+      }
+    },
+    {
+      "id": "causa-limena",
+      "name": "Causa limeña",
+      "videoSearch": "https://www.youtube.com/results?search_query=Causa%20lime%C3%B1a%20recipe",
+      "description": "Causa limeña, also called causa a la limeña or simply causa, is a typical and widespread entrée of the Peruvian gastronomy which has a pre-Columbian origin.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Causa_Rellena.jpg/500px-Causa_Rellena.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Causa_lime%C3%B1a",
+      "recipe": {
+        "ingredients": [
+          "10 medium potatoes (yellow, new, or red are a good choice)",
+          "1 pound of shredded boiled chicken meat",
+          "100 g mayonnaise",
+          "25 g butter",
+          "2 cloves garlic",
+          "Salt",
+          "Pepper",
+          "Lettuce",
+          "3 hard boiled eggs",
+          "Black olives"
+        ],
+        "steps": [
+          "Cook and peel potatoes. Allow to cool, then mash.",
+          "In a bowl combine the chicken, mayonnaise, onion, salt, and pepper.",
+          "Line a deep dish with plastic wrap, or place a molding cylinder on a plate.",
+          "Add the mashed potatoes to form a bed about 1 cm tall at the bottom.",
+          "Add a second layer of 1 cm of the chicken mixture evenly over the potato.",
+          "Top the chicken mixture with a final layer of potato, forming a sandwich of chicken inside two layers of potato.",
+          "Unmold or remove the cylinder.",
+          "Garnish with lettuce and mayonnaise.",
+          "Cut the hard boiled eggs in discs and place on top. Add black olives, if desired.",
+          "This dish can be served slightly cold."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACausa_Rellena_con_Pollo_(Peruvian_Layered_Potato_and_Chicken)"
+      }
+    },
+    {
+      "id": "papa-a-la-huancaina",
+      "name": "Papa a la huancaína",
+      "videoSearch": "https://www.youtube.com/results?search_query=Papa%20a%20la%20huanca%C3%ADna%20recipe",
+      "description": "Papa a la huancaína (literally, Huancayo-style potatoes) is a Peruvian appetizer of boiled potatoes in a spicy, creamy sauce made of queso fresco (fresh white cheese) and sautéed or grilled ají amarillo (yellow Peruvian pepper), red onion and garlic, all traditionally ground or pounded in a batán.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Papa_a_la_huancaina.jpg/500px-Papa_a_la_huancaina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Papa_a_la_huanca%C3%ADna",
+      "recipe": {
+        "ingredients": [
+          "10 medium potatoes (new or red a good choice)",
+          "1 pound cheese (Romano, Mexican or feta work well)",
+          "4 aji amarillo (Peruvian yellow chili peppers), seeded and deveined",
+          "1 cup evaporated milk",
+          "½ cup vegetable oil",
+          "2 cloves garlic",
+          "8 saltine crackers",
+          "1 tablespoon prepared mustard",
+          "Salt",
+          "Pepper",
+          "Lettuce",
+          "3 hard boiled eggs",
+          "Black olives"
+        ],
+        "steps": [
+          "Peel and boil potatoes as you normally would. Drain water, and allow them to cool.",
+          "In a blender, purée the cheese, peppers, milk, oil, garlic, crackers, mustard, salt and pepper. The sauce should be fairly thick; add more crackers if not, or add milk if too thick",
+          "Lay a bed of lettuce in a serving dish and place the potatoes on top. Cover with the sauce. Cut the hard boiled eggs in half and place on top of the potatoes. Add black olives if desired."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHuancayo_Potatoes_in_Cream_Sauce_(Papas_a_la_Huanca%C3%ADna)"
+      }
+    },
+    {
+      "id": "arroz-tapado",
+      "name": "Arroz tapado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Arroz%20tapado%20recipe",
+      "recipe": {
+        "ingredients": [
+          "3 cloves of garlic, minced",
+          "2 tbsp olive oil",
+          "Lemon juice",
+          "Salt",
+          "4 cups (1 litre) water",
+          "1 pound (450 g) washed rice",
+          "1 onion, finely chopped",
+          "2 pounds (900 g) ground beef",
+          "2 tomatoes, finely chopped",
+          "1 tbsp tomato paste",
+          "4 tbsp of raisins",
+          "5 black olives, chopped",
+          "3 hard boiled eggs; 2 chopped, 1 whole",
+          "1 tbsp parsley, finely minced"
+        ],
+        "steps": [
+          "Sauté the garlic in oil, add a few drops of lemon juice, salt and the water, and bring to a boil.",
+          "Add rice and cook until tender. This should take 20–25 minutes.",
+          "In another pan, stir in onions and sauté.",
+          "Add meat, tomatoes, tomato paste, raisins, olives, egg and parsley.",
+          "Take an 8-ounce measuring cup and coat the inside with a little oil. Fill halfway with rice, add some meat filling and add more rice to top of cup. Invert onto a plate and carefully remove cup.",
+          "Cut the remaining hard-boiled egg in half and serve the two halves along side the arroz tapado on the same plate."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APeruvian_Molded_Rice_(Arroz_Tapado)"
+      }
+    },
+    {
+      "id": "pollo-a-la-brasa",
+      "name": "Pollo a la brasa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pollo%20a%20la%20brasa%20recipe",
+      "description": "Pollo a la brasa, pollo asado, blackened chicken, or charcoal chicken is a variety of rotisserie chicken associated with the cuisine of Peru. The dish was developed by Roger Schuler, a Swiss resident of Chaclacayo, Lima, in 1950.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Un_cuarto_de_Pollo_a_la_Brasa.JPG/500px-Un_cuarto_de_Pollo_a_la_Brasa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pollo_a_la_brasa"
+    },
+    {
+      "id": "rocoto-relleno",
+      "name": "Rocoto relleno",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rocoto%20relleno%20recipe",
+      "description": "Rocoto relleno is the Peruvian variety of stuffed peppers, a dish popular in the city of Arequipa, a city in the Andes mountains located in the southern parts of Peru which is famous for its take on dishes derived originally from Spain.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Rocoto_relleno.jpg/500px-Rocoto_relleno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rocoto_relleno"
+    },
+    {
+      "id": "chupe-de-camarones",
+      "name": "Chupe de camarones",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chupe%20de%20camarones%20recipe",
+      "description": "Chupe is a generic term used in South America to a variety of stew generally made with chicken, red meat, lamb or beef tripe and other offal, or with fish, shrimp, crayfish or shellfish such as loco, and vegetables, potatoes or yuca.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Chupe_de_Camarones.jpg/500px-Chupe_de_Camarones.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chupe"
+    },
+    {
+      "id": "tacu-tacu",
+      "name": "Tacu tacu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tacu%20tacu%20recipe",
+      "description": "Tacu-tacu is a Peruvian dish of rice and beans that is fried, formed into a flat oval shape and set under toppings such as steak or fried eggs. It is often eaten as a breakfast or as second course.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Tacu_Tacu.jpg/500px-Tacu_Tacu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tacu-tacu"
+    },
+    {
+      "id": "seco-de-cordero",
+      "name": "Seco de cordero",
+      "videoSearch": "https://www.youtube.com/results?search_query=Seco%20de%20cordero%20recipe",
+      "description": "The seco is a stew typical of Peruvian and Ecuadorian cuisine. It can be made with any type of meat.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Seco_(food)"
+    },
+    {
+      "id": "pachamanca",
+      "name": "Pachamanca",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pachamanca%20recipe",
+      "description": "Pachamanca (from Quechua pacha \"earth\", manka \"pot\") is a traditional Peruvian dish baked with the aid of hot stones. The earthen oven is known as a huatia. It is generally made of lamb, mutton, alpaca, llama, guanaco, vicuna, pork, beef, chicken, or guinea pig, marinated in herbs and spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/PachaComer.jpg/500px-PachaComer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pachamanca"
+    },
+    {
+      "id": "picarones",
+      "name": "Picarones",
+      "videoSearch": "https://www.youtube.com/results?search_query=Picarones%20recipe",
+      "description": "Picarones (or picarón singular) is a Peruvian dessert that originated in Lima during the viceroyalty. It is somewhat similar to buñuelos, a type of doughnut brought to the colonies by Spanish conquistadors. Its principal ingredients are squash and sweet potato.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Picarones.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Picarones"
+    },
+    {
+      "id": "suspiro-limeno",
+      "name": "Suspiro limeño",
+      "videoSearch": "https://www.youtube.com/results?search_query=Suspiro%20lime%C3%B1o%20recipe",
+      "description": "Suspiro de limeña or suspiro a la limeña (lit. 'sigh of the lady from Lima') is a dessert of Peruvian gastronomy.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Suspiro_lime%C3%B1o.jpg/500px-Suspiro_lime%C3%B1o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Suspiro_de_lime%C3%B1a"
+    },
+    {
+      "id": "tiradito",
+      "name": "Tiradito",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tiradito%20recipe",
+      "description": "Tiradito is a Peruvian dish of raw fish, cut in the shape of sashimi, and of aspect similar to crudo, and carpaccio, in a spicy sauce. It reflects the influence of Japanese immigrants on Peruvian cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Tiradito.jpg/500px-Tiradito.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tiradito"
+    },
+    {
+      "id": "juane",
+      "name": "Juane",
+      "videoSearch": "https://www.youtube.com/results?search_query=Juane%20recipe",
+      "description": "The juane is one of the main dishes of the cuisine of the Peruvian jungle and is widely consumed on June 24, the feast of St. John the Baptist (San Juan), hence the name. It is known that after the arrival of the Spanish people to Incan lands, missionaries popularized the biblical account of the beheading of St.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Juane.JPG/500px-Juane.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Juane"
+    },
+    {
+      "id": "carapulcra",
+      "name": "Carapulcra",
+      "videoSearch": "https://www.youtube.com/results?search_query=Carapulcra%20recipe",
+      "description": "Carapulcra, or carapulca, is an ancient Andean dish that has been prepared for centuries by both Quechua peoples and Aymara peoples. The original term for this dish in the Aymara language is qala phurk'a, which means a stew made with hot stones.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Carapulcra.jpg/500px-Carapulcra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Carapulcra"
+    },
+    {
+      "id": "papa-rellena",
+      "name": "Papa rellena",
+      "videoSearch": "https://www.youtube.com/results?search_query=Papa%20rellena%20recipe",
+      "description": "Papas rellenas (English: stuffed potatoes) are a popular type of croquettes in Latin American regions such as Peru, Ecuador, Bolivia, Mexico, Chile, Colombia, and the Caribbean (more so in Puerto Rico and Cuba).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Peru_PapasRellenas2.jpg/500px-Peru_PapasRellenas2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Papa_rellena"
+    },
+    {
+      "id": "ocopa",
+      "name": "Ocopa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ocopa%20recipe",
+      "description": "Ocopa is a smooth sauce flavored with black mint huacatay, originally from the city of Arequipa, Peru. It may be served hot, as dressing for boiled potatoes, or used as a garnish for cold hard-boiled eggs.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ocopa_%28Peru%29.JPG/500px-Ocopa_%28Peru%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ocopa"
+    }
+  ]
+}

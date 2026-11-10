@@ -1,0 +1,45 @@
+{
+  "country": "HN",
+  "dishes": [
+    {
+      "id": "baleadas",
+      "name": "Baleadas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Baleadas%20recipe",
+      "description": "A baleada is a traditional Honduran dish, believed to have originated on the northern coast of the country, particularly La Ceiba.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Baleada.jpg/500px-Baleada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baleada"
+    },
+    {
+      "id": "sopa-de-caracol",
+      "name": "Sopa de caracol",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sopa%20de%20caracol%20recipe",
+      "description": "Conch soup and conch chowder are soup dishes made with conch that are traditional in various Caribbean island cuisines as well as the cuisine of Honduras. Conch chowder is also a traditional food of the Florida Keys.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%22Sopa_de_Caracol%22.jpg/500px-%22Sopa_de_Caracol%22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Conch_soup"
+    },
+    {
+      "id": "tapado",
+      "name": "Tapado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tapado%20recipe",
+      "description": "Tapado is a seafood soup served in Central American countries such as Guatemala and Honduras. It uses coconut milk and seafood as well as plantains. Within these countries, tapado is associated with the Garifuna community.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Tapado.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tapado"
+    },
+    {
+      "id": "chismol",
+      "name": "Chismol",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chismol%20recipe",
+      "description": "Chimol (also known as chirmol) is a common Central American cuisine condiment or topping on foods such as carne asada.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Chirmol_con_Chaya.jpg/500px-Chirmol_con_Chaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chimol"
+    },
+    {
+      "id": "sopa-de-mondongo",
+      "name": "Sopa de mondongo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sopa%20de%20mondongo%20recipe",
+      "description": "Sopa de mondongo is a soup that originally came from Latin America. It is made from diced tripe (the stomach of a cow or pig) slow-cooked with vegetables such as bell peppers, onions, carrots, cabbage, celery, tomatoes, cilantro, garlic or root vegetables.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Modongo_soup.jpg/500px-Modongo_soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sopa_de_mondongo"
+    }
+  ]
+}

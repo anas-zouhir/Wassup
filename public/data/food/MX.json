@@ -1,0 +1,661 @@
+{
+  "country": "MX",
+  "dishes": [
+    {
+      "id": "mole-poblano",
+      "name": "Mole poblano",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mole%20poblano%20recipe",
+      "description": "Mole or mōlli is a traditional sauce and marinade originally used in Mexican cuisine. In contemporary Mexico, the term is used for numerous sauces, including some fifty distinct varieties of mole across Mexico.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChickRedMole.JPG/500px-ChickRedMole.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mole_(sauce)"
+    },
+    {
+      "id": "tacos-al-pastor",
+      "name": "Tacos al pastor",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tacos%20al%20pastor%20recipe",
+      "description": "Al pastor (from Spanish, \"herdsman style\"), tacos al pastor, or tacos de trompo is a preparation of sliced, spit-grilled meat, usually pork, originating in the Central Mexican region of Puebla where they remain most prominent, though it is a common menu item found in taquerías throughout Mexico.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Tacos-al-Pastor.jpg/500px-Tacos-al-Pastor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Al_pastor"
+    },
+    {
+      "id": "tacos",
+      "name": "Tacos",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tacos%20recipe",
+      "description": "A taco is a traditional Mexican dish consisting of a small hand-sized corn- or wheat-based tortilla topped with a filling. The tortilla is then folded around the filling and eaten by hand.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg/500px-001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Taco",
+      "recipe": {
+        "ingredients": [
+          "Ground, finely sliced, or chopped beef",
+          "Corn tortillas or ready-made taco shells",
+          "1–4 tsp per pound (450 g) of beef of cumin",
+          "Chili powder, to taste",
+          "Black olives",
+          "Shredded mild cheddar cheese, if desired",
+          "Fresh tomatoes",
+          "Chopped cilantro",
+          "Fresh spinach, shredded or diced",
+          "Mushrooms",
+          "Salsa, or hot sauce, as hot as you would like",
+          "Sour cream",
+          "Chopped lettuce or shredded cabbage",
+          "Chopped tomato",
+          "Chopped onion"
+        ],
+        "steps": [
+          "If you would like to have 'build-your-own' tacos, dice the optional ingredients your desire as needed and place in separate bowls for use on the table.",
+          "Place the beef in a wide pan on a large burner. Ground beef will need to be broken up as it cooks; chopped or sliced beef needs to be stir-fried and may require oil. When using high-fat ground beef, you may wish to drain and very, very lightly rinse the beef in a colander, or add water to float the fat, cool to solidify the fat, remove the fat, drain the water, and reheat. If you are using ground beef, which is quite alright, also see the Taco Meat recipe.",
+          "Add lots of cumin to the beef. Cumin is the magic ingredient that makes a taco taste like a taco. You may also add a bit of salt, a bit of chili powder and/or diced onion.",
+          "Prepare the outside covering:",
+          "* Pre-made shells can be reheated in the microwave as the package directs.",
+          "* Plain corn tortillas can be used for soft tacos, although, for soft tacos, either a double layer of corn tortillas or a single layer of flour tortilla works best. The tortillas should be microwaved, covered, in 15+ second stages, flipping between stages, until warm, and kept covered and warm prior to use.",
+          "* You could make your own hard taco shells from corn tortillas, but rest very well assured that soft corn tortilla tacos are absolutely the most traditional. If you need hard shells and can not find them pre-made, you may, with great effort and use of your time, use a deep-fat process, going one at a time and using a large spoon to form the shells into the normal U shape. Pan frying in ¼ inch to ½ inch of oil will also work; be sure not to let the tortillas stiffen prior to being bent into the U shape you desire.",
+          "Place hot beef into a hard shell or down the middle of a warm soft tortilla (two for corn). A very simple, and quite authentic, taco would be to then add a sprinkling of finely diced onion and cilantro into the inside of the taco, fold the tortilla over (if soft) and serve with lime quarters for squeezing into the taco. See Tacos de Bistec.",
+          "You may also continue on to place cheese onto the beef. The heat of the beef should slightly melt the cheese. You may wish to microwave the taco a bit, especially if the cheese is cold or if you are using low-fat cheese.",
+          "Add other toppings as the cook desires.",
+          "Serve the tacos with a small or large assortment of items that people can add. Traditionally, in a restaurant, this would amount to only pico de gallo or a hot sauce. However, 'build-your-own' tacos with a good assortment of items to add can add a bit of fun to a gathering or family dinner."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATacos"
+      }
+    },
+    {
+      "id": "tamales",
+      "name": "Tamales",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tamales%20recipe",
+      "description": "A tamale is a traditional Mesoamerican dish made of masa, a dough made from nixtamalized corn, which is steamed in a corn husk or banana leaves. The wrapping can either be discarded prior to eating or used as a plate.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tamal_oaxaque%C3%B1o.jpg/500px-Tamal_oaxaque%C3%B1o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tamale"
+    },
+    {
+      "id": "pozole",
+      "name": "Pozole",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pozole%20recipe",
+      "description": "Pozole is a traditional soup or stew from Mexican cuisine. It is made from hominy with meat (typically chicken or pork), and can be seasoned and garnished with shredded lettuce or cabbage, chili peppers, onion, garlic, radishes, avocado, salsa or limes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Green_pozole%2C_dressed_%2829161841908%29_%28cropped%29.jpg/500px-Green_pozole%2C_dressed_%2829161841908%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pozole"
+    },
+    {
+      "id": "chiles-en-nogada",
+      "name": "Chiles en nogada",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chiles%20en%20nogada%20recipe",
+      "description": "Chiles en nogada is a Mexican dish of poblano chiles stuffed with picadillo (a mixture usually containing minced meat, aromatics, fruits and spices) topped with a walnut-based cream sauce called nogada, pomegranate seeds and parsley; it is typically served at room temperature.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Chile_en_nogada24.jpg/500px-Chile_en_nogada24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chiles_en_nogada",
+      "recipe": {
+        "ingredients": [
+          "20–30 peeled almonds",
+          "6–9 peaches",
+          "5–7 apples",
+          "4–6 pears",
+          "Oil",
+          "1 pound ground meat",
+          "Salt to taste",
+          "Raisins",
+          "10–15 poblano peppers",
+          "10 eggs",
+          "1 cup flour",
+          "1 pound peeled walnuts",
+          "½ cup rum (optional)",
+          "5 cups milk",
+          "5–6 slices white cheese"
+        ],
+        "steps": [
+          "Cut the almonds in 2–4 pieces. Peel the peaches, apples, and pears, and chop them up in very tiny pieces. Set aside.",
+          "Fry the ground meat in a pan with garlic and salt (to taste) over low heat in a spoonful of oil.",
+          "When the meat is cooked, add the fruit and the raisins, and fry for about 4 minutes. Let cool.",
+          "Put the poblano peppers on the stove and let them get toasted.",
+          "After toasting them put the peppers in water and cut them on one of the long sides. Wash away the veins and the dark toasted spots on them.",
+          "Stuff the peppers with the fruit-meat mixture.",
+          "Crack and separate the eggs. Whip the whites until puffy, then beat in the flour and yolks until it reaches a yellowish point.",
+          "Dip the whole pepper in the yellowish content that you just prepared and put in a pan to fry until light brown. Do repeatedly until done with all the peppers. Set aside while you make the nogada.",
+          "Grind the walnuts, milk, cheese, and rum in the blender for about a minute. After it will look white if done right",
+          "Pour over the peppers and enjoy!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChiles_en_Nogada_(Stuffed_Chile_Peppers_with_Almonds)"
+      }
+    },
+    {
+      "id": "cochinita-pibil",
+      "name": "Cochinita pibil",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cochinita%20pibil%20recipe",
+      "description": "Cochinita pibil (also puerco pibil or cochinita con achiote) is a traditional Yucatec Mayan slow-roasted pork dish from the Yucatán Peninsula of Mexico.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Cochinita_pibil_2.jpg/500px-Cochinita_pibil_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cochinita_pibil",
+      "recipe": {
+        "ingredients": [
+          "5 Tbsp (75 ml) annatto seeds",
+          "2 tsp (10 ml) cumin seeds",
+          "1 Tbsp (15 ml) peppercorns",
+          "8 allspice berries",
+          "½ tsp (8 ml) whole cloves",
+          "2 habanero chiles (or milder chiles)",
+          "½ cup (120 ml) orange juice",
+          "½ cup (120 ml) white vinegar",
+          "2 Tbsp (30 ml) salt",
+          "8 cloves of garlic",
+          "5 lemons, juiced",
+          "1 splash of tequila",
+          "5 pounds (2.3 kg) pork butt",
+          "Banana leaves and/or heavy-duty aluminium foil",
+          "White or Spanish rice, taco shells, or tortillas for serving"
+        ],
+        "steps": [
+          "Place the annatto, cumin, peppercorns, allspice, and cloves in a spice grinder and process to a fine powder. You can use an electric coffee grinder for the spices, but it will not be suitable for coffee afterwards.",
+          "Remove the seeds and veins from the habanero chiles and chop coarsely. If you want a hotter dish, leave some of the veins and seeds in.",
+          "Process the orange juice, vinegar, chiles, salt, garlic, and the spice powder in a blender or food processor until liquefied. Add the lemon juice and tequila.",
+          "Cut the pork into 2-inch (5 cm) chunks. Leave the fat on the meat, to keep the pork moist while roasting; you can remove it after cooking if you wish.",
+          "Place pork in a large, self-sealing plastic bag with the marinade. Seal bag and turn to evenly coat the meat. Refrigerate for 8 to 24 hours, turning occasionally.",
+          "Heat oven to 325°F (160°C). Dump the meat and the marinade in a roasting pan lined with banana leaves or foil, making sure to wrap tightly so no steam escapes. If using banana leaves, an outer wrapping with foil will help seal in the steam.",
+          "Bake for 4 hours. Open packet carefully; the meat should shred easily with a fork.",
+          "Serve over rice, or shred and serve with taco shells or tortillas."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACochinita_Pibil_(Mexican_Braised_Pork)"
+      }
+    },
+    {
+      "id": "chilaquiles",
+      "name": "Chilaquiles",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chilaquiles%20recipe",
+      "description": "Chilaquiles are a traditional Mexican breakfast dish made with tortillas.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Chilaquiles_at_the_Grand_Cantina%2C_Windsor%2C_Ontario%2C_2025-09-01_04.jpg/500px-Chilaquiles_at_the_Grand_Cantina%2C_Windsor%2C_Ontario%2C_2025-09-01_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chilaquiles",
+      "recipe": {
+        "ingredients": [
+          "1 cup tomatillos, dehusked",
+          "4–6 dried chiles de árbol, roasted",
+          "1 clove garlic",
+          "½ cup water",
+          "Salt to taste",
+          "Pepper to taste",
+          "Vegetable oil (enough to cover the tortillas to deep-fry them)",
+          "2 day-old corn tortillas, cut into strips then squares",
+          "1 standard egg",
+          "¼ white onion, diced",
+          "Crumbled or shredded cheese"
+        ],
+        "steps": [
+          "Roast the tomatillos by wrapping them in heavy duty aluminum foil and placing them on a comal (cast iron skillet) over your stovetop (this does not need to be done in the oven; it never is in Mexico).",
+          "After roasting the tomatillos for approximately 15 to 20 minutes, pull them off the heat and reserve.",
+          "Roast the dried chilies and garlic directly on the comal. Caution: the dried chilies will roast in less than a minute while the garlic will take longer.",
+          "Combine the roasted tomatillos, chilies, garlic, water, salt, and pepper in a blender. Liquefy the mixture thoroughly for a few minutes to ensure that the sauce is smooth and consistent with no large pieces left floating around. You will probably end up with more salsa than you need for this recipe. Use it as a condiment for any other of your favorite Mexican dishes!",
+          "Heat enough vegetable oil in a frying pan to deep fry the tortillas. It should be hot enough so that when you drop the pieces of tortillas into it they immediately begin to fry at a rapid pace.",
+          "Allow the tortillas to fry until they become a chestnut brown, just not too dark or burnt. At this point, drain most of the oil out of the pan leaving only enough to fry the rest of the ingredients.",
+          "Crack the egg into the fried tortillas and scramble it, folding the fried tortilla strips into the egg. At this point season this mixture with salt and pepper if desired. Take this mixture out of the pan and let it rest on a plate while you continue with the rest of the dish.",
+          "Add some of the oil that was taken out of the pan earlier back into it and heat it up again. To this add the diced onion, and allow it to soften for a few minutes. Add the salsa de chile de árbol to the oil and onions and sauté it for a minute or two. Add a little bit of water to dilute it if it becomes too thick.",
+          "Finally, return the fried tortilla and egg mixture to the onion and chili sauce in the pan and allow it cook only for about a minute, enough time to allow the tortillas to soak up some of the sauce. Before plating it, add the cheese and enjoy!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChilaquiles"
+      }
+    },
+    {
+      "id": "enchiladas",
+      "name": "Enchiladas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Enchiladas%20recipe",
+      "description": "An enchilada is a Mexican dish consisting of a corn tortilla rolled around a filling and covered with a savory sauce. Enchiladas can be filled with various ingredients, including meats, cheese, beans, potatoes, vegetables, or combinations.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Enchilada_Rice_Beans.jpg/500px-Enchilada_Rice_Beans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Enchilada",
+      "recipe": {
+        "ingredients": [
+          "6 dried ancho chilies",
+          "1–2 cups boiling water",
+          "6 tomatoes, peeled, seeded and coarsely-chopped OR 2 cups canned Roma tomatoes, drained and chopped",
+          "½ cup diced onions",
+          "1 tsp finely-chopped garlic",
+          "½ tsp epazote, crumbled",
+          "Sugar",
+          "Salt",
+          "¼ tsp freshly-ground black pepper",
+          "5 Tbsp olive oil",
+          "2 eggs",
+          "1 cup cream or half-and-half",
+          "6 chorizo sausages, skinned and chopped OR ¾ lb spiced pork, chicken or turkey sausage, skinned and chopped",
+          "1 cup crumbled queso blanco OR freshly-grated Parmesan cheese",
+          "12 tortillas",
+          "½ cup chopped green onions"
+        ],
+        "steps": [
+          "Soak the chilies in boiling water for 30 minutes.",
+          "Wearing gloves, stem, seed and cut the chilies into small pieces.",
+          "Put the chilies and 1 cup of soaking water in a blender and purée at high speed for 20 seconds.",
+          "Add the tomatoes, onions, garlic, epazote, sugar, salt, and black pepper and blend to a smooth purée.",
+          "In a frying pan, add 1 tablespoon of olive oil and heat over high heat for 3 minutes.",
+          "Pour in the tomato sauce and cook for 5 minutes, stirring frequently. Remove from the heat.",
+          "In a small bowl, beat the eggs with the cream or half-and-half until well blended.",
+          "Slowly pour the egg and cream into the pan with the sauce, stirring constantly. Cover and set aside.",
+          "In another frying pan, fry the sausage meat over moderate heat for 5 minutes or so, until they are lightly browned.",
+          "With a slotted spoon, remove the sausage from the pan and drain on paper towels. Discard the fat in the frying pan.",
+          "Place the sausages in a small bowl and stir in 3 tablespoons of sauce and ½ cup cheese.",
+          "Heat the oven to 350°F.",
+          "In a heavy frying pan, fry the tortillas, one at a time, in very hot olive oil as follows:",
+          "Dip a tortilla in the tomato sauce.",
+          "Fry for a minute each side in the pan.",
+          "Remove the tortilla to a warm plate and place about ¼ cup of sausage mixture in the centre.",
+          "Roll up the tortilla with the filling inside.",
+          "Place filled tortillas in a baking dish, seam side down. Pour the rest of the tomato sauce over them.",
+          "Sprinkle the top with the green onions and ½ cup cheese.",
+          "Bake for about 15 minutes or until the cheese has melted and the top has browned lightly."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AEnchiladas_Rojas"
+      }
+    },
+    {
+      "id": "huevos-rancheros",
+      "name": "Huevos rancheros",
+      "videoSearch": "https://www.youtube.com/results?search_query=Huevos%20rancheros%20recipe",
+      "description": "Huevos rancheros is a breakfast egg dish served in the style of the traditional large mid-morning fare on rural Mexican farms.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Mmm...huevos_rancheros.jpg/500px-Mmm...huevos_rancheros.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Huevos_rancheros",
+      "recipe": {
+        "ingredients": [
+          "3 tablespoons (45 ml) vegetable oil",
+          "1 medium onion, chopped",
+          "1 clove garlic (optional), minced",
+          "Chopped chile peppers, to taste",
+          "1 pinch chili powder",
+          "4 plum tomatoes, peeled, seeded and chopped",
+          "2 corn tortillas",
+          "2 eggs",
+          "½ teaspoon sugar",
+          "Salt to taste",
+          "Pepper to taste",
+          "1 tablespoon cilantro or parsley (optional), finely chopped"
+        ],
+        "steps": [
+          "To prepare the ranchero sauce, in a skillet, heat 1 tablespoon oil over medium-high heat. Add the onion and optional garlic, and sauté until softened but not brown (4–5 minutes).",
+          "Add the tomatoes, peppers, chili powder, salt and a few grinds of black pepper and reduce to a simmer. Simmer for about 10 minutes, until the sauce begins to thicken up.",
+          "Add the cilantro or parsley, turn off the heat and cover the pan to keep the sauce warm.",
+          "In another skillet, lightly fry the tortillas in 1 tablespoon of oil. Remove and drain.",
+          "If necessary, add additional oil to the second skillet, and fry the eggs until they are \"sunny-side up\". Transfer the eggs to the tortillas, and cover with the ranchero sauce."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHuevos_Rancheros"
+      }
+    },
+    {
+      "id": "guacamole",
+      "name": "Guacamole",
+      "videoSearch": "https://www.youtube.com/results?search_query=Guacamole%20recipe",
+      "description": "Guacamole, sometimes informally shortened to guac in the United States, is an avocado-based dip, spread, or salad first developed in Mexico. In addition to its use in modern Mexican cuisine, it has become part of international cuisine as a dip, condiment, and salad ingredient.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Guacamole_IMGP1271.jpg/500px-Guacamole_IMGP1271.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Guacamole",
+      "recipe": {
+        "ingredients": [
+          "4 avocados",
+          "2 tablespoons pico de gallo",
+          "Juice of ½ lime",
+          "2 chopped Jalapeño OR 2 tablespoons of crushed red pepper OR 1 tablespoon of cayenne pepper",
+          "1 teaspoon salt",
+          "4 teaspoons olive oil",
+          "1 ½ teaspoon minced garlic",
+          "½ teaspoon of ground black pepper",
+          "1 minced jalapeño OR 2 minced serrano chiles OR 2 tablespoon minced of any chile pepper like (adjust for spiciness)"
+        ],
+        "steps": [
+          "Halve and pit the avocados.",
+          "Score the avocado flesh in a criss-cross pattern without cutting through the skin.",
+          "Scoop out the flesh of one half with a large spoon and place in mixing bowl.",
+          "Add the lime juice and stir to evenly coat the avocados.",
+          "Stir in the pico de gallo, garlic, oil, jalapeño, salt, red pepper, and black pepper, mashing and tossing the avocado pieces until thoroughly mixed.",
+          "Scoop out the remaining avocado chunks and gently mix and toss in the larger pieces. The guacamole is the right consistency when more large pieces than mashed parts remain.",
+          "Garnish with a sprig of cilantro."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGuacamole_I"
+      }
+    },
+    {
+      "id": "quesadilla",
+      "name": "Quesadilla",
+      "videoSearch": "https://www.youtube.com/results?search_query=Quesadilla%20recipe",
+      "description": "A quesadilla is a Mexican dish made from a tortilla folded in half or two tortillas that are filled with cheese (queso), and sometimes meats, spices, and other fillings, and then cooked on a griddle or stove. Quesadillas are frequently sold at Mexican restaurants all over the world.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Empanada_flor_de_Calabaza.jpg/500px-Empanada_flor_de_Calabaza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Quesadilla",
+      "recipe": {
+        "ingredients": [
+          "2 flour tortillas, 6 inches (15 cm) in diameter",
+          "⅓ cup grated meltable cheese (preferably a Monterey Jack and cheddar blend or a Tex Mex blend)",
+          "¼ cup filling (see options below)",
+          "Cooking spray",
+          "Salsa",
+          "Sarza criolla",
+          "Chile peppers",
+          "Chopped tomatoes and cilantro",
+          "Cooked meat or seafood",
+          "Fresh spinach, washed and torn into small pieces",
+          "Canned black beans, rinsed and well drained"
+        ],
+        "steps": [
+          "Warm both tortillas in the microwave to the point of flexibility, keeping one warm.",
+          "Preheat a frying pan or griddle over medium-low heat. Grease with oil or cooking spray, and place one of the tortillas in the pan.",
+          "Sprinkle the shredded cheese over the tortilla.",
+          "Top the cheese with any combination of the fillings, ideally warmed and very well drained. Make sure they are evenly distributed across the tortilla.",
+          "Allow the cheese to melt. The tortilla may brown in spots but it should not be cooked to the point of changing color substantially.",
+          "Press the other tortilla over the top of the tortilla in the pan, making sure it sticks a bit.",
+          "Flip the quesadilla and allow to warm until it joins as a unit.",
+          "Remove from pan and cut in eight wedges.",
+          "Eat immediately, or remove to a fairly low-temperature 'keep warm' area, below the melting temperature of the cheese."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AQuesadilla"
+      }
+    },
+    {
+      "id": "menudo",
+      "name": "Menudo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Menudo%20recipe",
+      "description": "Menudo, also known as Mondongo, pancita or mole de panza (\"stomach sauce\"), is a traditional Mexican soup, made with cow's stomach (tripe) in broth with a red chili pepper base. It is the Mexican variation of the Spanish callos or menudo.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Bowl_of_menudo_stew.jpg/500px-Bowl_of_menudo_stew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Menudo_(Mexican_soup)",
+      "recipe": {
+        "ingredients": [
+          "4 dried Ancho chiles",
+          "2 pork country ribs",
+          "3 lb pigs feet (patas)",
+          "2 cans (16 oz) white hominy, drained",
+          "3–4 chiles de Arbol",
+          "2½ lb honeycomb tripe",
+          "2 tbsp Mexican oregano",
+          "1 clove garlic",
+          "2 bay leaves",
+          "1 tbsp salt",
+          "2 tbsp red pepper flakes (with the seeds)",
+          "2 tbsp dried Mexican oregano",
+          "Lime",
+          "Corn tortillas",
+          "Diced white or green onion",
+          "Minced cilantro"
+        ],
+        "steps": [
+          "Wipe the dried Anchos off with a wet paper towel.",
+          "If desired, toast dried chilies on each side 15 seconds on a hot griddle (this releases essential oils and enhances the flavor).",
+          "Place the dried chilies into the small pot of boiling water and boil for 10 minutes, turning frequently in the boiling water to ensure all sides receive their fair share of punishment.",
+          "Remove the chili pot from the stove and drain off the boiling water. Fill with cold water; let it sit a few minutes to cool.",
+          "Remove the stems from the chilies, cut chilies longitudinally from stem to tip on one side and open. Flush gently with running cold water to remove the seeds.",
+          "Place stemless and seedless reconstituted chilies into a blender and purée.",
+          "Remove pure from the blender and place in the refrigerator overnight.",
+          "Rinse and drain the white hominy.",
+          "Place the patas (feet) and ribs into a pot.",
+          "Place the hominy in the pot with the patas (feet).",
+          "Put 1 tbsp salt in the pot.",
+          "Take 3–4 dried Chilis de Arbol, discard the seeds and stems, and snip the chilis into ringlets and put into the pot.",
+          "Cover with water to a height not exceeding 1 cm above the ingredients and bring to a boil.",
+          "Cook the posole uncovered until the ribs are finished. Remove from the heat.",
+          "Remove the meat from the ribs and dice into small cubes, place back into the pot with the posole, discard the bones.",
+          "Place the cooked patas (feet) into the pressure pot you will use to make the menudo.",
+          "Place a small pot of water on the stove and set to boil. This will be needed to prepare the chilies.",
+          "Cut the fat from off of the tripe. If fat clings to the non-honeycombed side of the tripe, use a stiff brush to remove it.",
+          "Cut tripe into small pieces, about ¾–1 inch. Strong scissors work well here!",
+          "If the tripe smells overly rank (this is normal), you may want to soak it in clean water for an hour (or possibly boil it in water for five minutes) throwing away the soak (boiling) water.",
+          "Place cut tripe into the pressure cooker on top of the patas (feet).",
+          "Add the garlic, bay leaves, and Mexican oregano.",
+          "Fill pressure cooker with water until about 1 cm. above the height of the stew ingredients.",
+          "Cook at pressure 35–40 minutes.",
+          "After the stew has cooked in the pressure cooker at full pressure for 35–40 minutes, remove from the heat and let the pot cool off completely until pressure returns to ambient.",
+          "Remove the patas from the pot and remove the bones. Put deboned patas into pot with the tripe and discard the bones.",
+          "Transfer the stew to a large bowl and add the posole, ensure all savory pieces lie below the waterline, and set in the refrigerator overnight.",
+          "In the morning, skim all hardened fat from the surface of the stew which has probably gelatinized overnight.",
+          "Reheat a serving portion of the stew in the microwave or on stovetop. When hot, place into a serving bowl.",
+          "Add a tablespoon of chili to the stew and blend thoroughly.",
+          "The menudo is ready to serve with hot corn tortillas. The spices (oregano and chili flakes) are traditionally combined before serving and placed at the side of the bowl of menudo with a lime wedge for the diner to add just prior to eating. Along with the spices, diced onion or cilantro are also traditionally added to the stew just prior to enjoying."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMenudo_(Mexican_Tripe_and_Hominy_Soup)"
+      }
+    },
+    {
+      "id": "tortilla-soup",
+      "name": "Tortilla soup",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tortilla%20soup%20recipe",
+      "description": "Tortilla soup (Spanish: sopa de tortilla) is a traditional Mexican soup containing fried corn tortilla. Although the exact origin of tortilla soup is unknown, it is particularly common in the Mexico City area in Mexico.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Sopa_de_tortilla_con_chicharron_de_real_del_monte.jpg/500px-Sopa_de_tortilla_con_chicharron_de_real_del_monte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tortilla_soup"
+    },
+    {
+      "id": "sopa-de-lima",
+      "name": "Sopa de lima",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sopa%20de%20lima%20recipe",
+      "description": "Lime soup is a traditional dish from the Mexican state of Yucatan, which is made of chicken or some other meat such as pork or beef, lime juice and served with tortilla chips.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Sopa_de_lima.jpg/500px-Sopa_de_lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sopa_de_lima"
+    },
+    {
+      "id": "tlayuda",
+      "name": "Tlayuda",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tlayuda%20recipe",
+      "description": "Tlayuda, sometimes spelled clayuda, is a handmade dish in traditional Oaxacan cuisine, consisting of a large, thin, crunchy, partially fried or toasted tortilla covered with a spread of refried beans, asiento (unrefined pork lard), lettuce or cabbage, avocado, meat (usually shredded chicken, beef tenderloin or pork), O…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Tlayuda12-05oaxaca013x.jpg/500px-Tlayuda12-05oaxaca013x.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tlayuda"
+    },
+    {
+      "id": "sopes",
+      "name": "Sopes",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sopes%20recipe",
+      "description": "A sope is a traditional Mexican dish consisting of a fried masa base with savory toppings. Also known as picadita (in Tierra Caliente, Guerrero), it originates in the central and southern parts of Mexico, where it was sometimes first known as pellizcadas.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Sopes1.jpg/500px-Sopes1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sope_(food)"
+    },
+    {
+      "id": "gorditas",
+      "name": "Gorditas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gorditas%20recipe",
+      "description": "A gordita in Mexican cuisine is a dish made with masa and stuffed with cheese, meat, or other fillings. It is similar to the Colombian and Venezuelan arepa.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/GORDITA.jpg/500px-GORDITA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gordita"
+    },
+    {
+      "id": "tostadas",
+      "name": "Tostadas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tostadas%20recipe",
+      "description": "Tostadas are various dishes in Mexican and Guatemalan cuisine based on toasted tortillas. They are generally a flat or bowl-shaped tortilla that is deep-fried or toasted, but may also be any dish using a tostada as a base. They can be consumed alone, or used as a base for other foods.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Atun_tostadas_%2843015501031%29.jpg/500px-Atun_tostadas_%2843015501031%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tostada_(tortilla)"
+    },
+    {
+      "id": "chile-relleno",
+      "name": "Chile relleno",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chile%20relleno%20recipe",
+      "description": "The chile relleno is a dish in Mexican cuisine. In 1858, it was described as a \"green chile pepper stuffed with minced meat and coated with eggs\". The most common pepper used is Puebla's poblano pepper, though New Mexico chile, pasilla, or even jalapeño peppers are popular as well.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Chile_Rellenos.jpg/500px-Chile_Rellenos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chile_relleno"
+    },
+    {
+      "id": "barbacoa",
+      "name": "Barbacoa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Barbacoa%20recipe",
+      "description": "Barbacoa, or asado en barbacoa in Mexico, is the indigenous variation of the method of cooking in a pit or earth oven.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Barbacoa_%28en_Hidalgo%29.JPG/500px-Barbacoa_%28en_Hidalgo%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbacoa"
+    },
+    {
+      "id": "carnitas",
+      "name": "Carnitas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Carnitas%20recipe",
+      "description": "Carnitas, literally meaning \"little meats\", in Mexican cuisine, is a dish made by braising, simmering and frying pork in lard, its own fat, or cooking oil. The name \"carnitas\" is, historically, the colloquial name given in Mexico for the French dish rillons de Tours, also known in Spanish as chicharrón de Tours.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Carnitas.jpg/500px-Carnitas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Carnitas"
+    },
+    {
+      "id": "birria",
+      "name": "Birria",
+      "videoSearch": "https://www.youtube.com/results?search_query=Birria%20recipe",
+      "description": "Birria is a regional variation of barbacoa from western Mexico, mainly made with goat, beef or lamb. The meat is marinated in an adobo made of vinegar, dried chiles, garlic, and herbs and spices (including cumin, bay leaves, and thyme) before being cooked in a broth (Spanish: consomé).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Plato_de_birria.jpg/500px-Plato_de_birria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Birria"
+    },
+    {
+      "id": "corn-tortilla",
+      "name": "Corn tortilla",
+      "videoSearch": "https://www.youtube.com/results?search_query=Corn%20tortilla%20recipe",
+      "description": "In Mexico and Central America, a corn tortilla or just tortilla is a type of thin, unleavened flatbread, made from hominy, that is the whole kernels of maize treated with alkali to improve their nutrition in a process called nixtamalization.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Mexican_tortilla.jpg/500px-Mexican_tortilla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Corn_tortilla",
+      "recipe": {
+        "ingredients": [
+          "2 cups masa (masa harina, masa lista)",
+          "2 cups water",
+          "1 teaspoon salt"
+        ],
+        "steps": [
+          "In a large bowl, stir together the masa and salt.",
+          "Add the water, and mix together well to form a dough.",
+          "Turn out onto a lightly floured board and knead for 5 minutes.",
+          "Divide the dough into ¼ cup (3 oz / 90 g) portions, and form them into balls.",
+          "Roll each ball into a flat round about 6 inches (10 cm) in diameter and ⅛ inches (0.25 cm) thick.",
+          "Heat a large heavy skillet over medium high heat.",
+          "Place the tortillas one at a time into the dry hot skillet; cook until brown on one side, then turn and brown the other side.",
+          "Remove from the skillet and keep warm in cloth towel."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHomemade_Corn_Tortillas"
+      }
+    },
+    {
+      "id": "tres-leches-cake",
+      "name": "Tres leches cake",
+      "localName": "Pastel de tres leches",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tres%20leches%20cake%20recipe",
+      "description": "A tres leches cake (lit. 'three-milk cake'; Spanish: pastel de tres leches, torta de tres leches or bizcocho de tres leches), also known as dulce de tres leches (lit. 'three-milk sweet'), pan tres leches (lit. 'three-milk bread') or simply tres leches (lit.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Pastel_de_Tres_Leches.jpg/500px-Pastel_de_Tres_Leches.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tres_leches_cake",
+      "recipe": {
+        "ingredients": [
+          "1 box of white cake mix, preferably with pudding in the mix",
+          "1 can of sweetened condensed milk",
+          "1 can of evaporated milk",
+          "1 cup of heavy whipping cream or half and half",
+          "1 container of cool whip"
+        ],
+        "steps": [
+          "Prepare cake mix as directed on the package. Transfer to a greased baking dish or cake pan, and bake per the directions.",
+          "While the cake is baking, combine the sweetened condensed milk, evaporated milk, and heaving whipping cream to make the milk mixture. Mix well.",
+          "When the cake is finished baking, remove from the oven and poke holes all over the top of the cake with a fork.",
+          "Pour all of the milk mixture on top of the cake.",
+          "Cover the cake, and refrigerate it for 8 hours or overnight.",
+          "Immediately before serving, spread cake with cool whip or as guests prefer."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATres_Leches_Cake_II"
+      }
+    },
+    {
+      "id": "pan-de-muerto",
+      "name": "Pan de muerto",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pan%20de%20muerto%20recipe",
+      "description": "Pan de muerto (Spanish for 'bread of the dead') is a type of pan dulce traditionally baked in Mexico and the Mexican diaspora during the weeks leading up to the Día de Muertos, which is celebrated from November 1 to November 2.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Norma_Pati%C3%B1o_S%C3%A1nchez_A01334948_9.jpg/500px-Norma_Pati%C3%B1o_S%C3%A1nchez_A01334948_9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pan_de_muerto"
+    },
+    {
+      "id": "conchas",
+      "name": "Conchas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Conchas%20recipe",
+      "description": "A concha is a traditional Mexican sweet bread (pan dulce) with similar consistency to a brioche. Conchas get their name from their round shape and their striped, seashell-like appearance.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Concha_%28pan_dulce_mexicano%29_02.JPG/500px-Concha_%28pan_dulce_mexicano%29_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Concha"
+    },
+    {
+      "id": "pico-de-gallo",
+      "name": "Pico de gallo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pico%20de%20gallo%20recipe",
+      "description": "Pico de gallo, also called salsa fresca ('fresh sauce'), and salsa cruda ('raw sauce'), is a type of salsa commonly used in Mexican cuisine. It is traditionally made from chopped tomato, onion, and serrano peppers (jalapeños or habaneros may be used as alternatives), with salt, lime juice, and cilantro.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Mmm..._Pico_de_Gallo_%285923456035%29.jpg/500px-Mmm..._Pico_de_Gallo_%285923456035%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pico_de_gallo",
+      "recipe": {
+        "ingredients": [
+          "2 cups chopped fresh, seeded tomato",
+          "½ cup chopped white or yellow onion",
+          "2 tablespoons chopped cilantro",
+          "½ teaspoon salt",
+          "2 teaspoons freshly squeezed lime juice",
+          "1 teaspoon ground black pepper",
+          "1 ½ tablespoons stemmed, seeded, and minced jalapeño or other chiles",
+          "1 small clove of garlic, minced",
+          "Hot sauce, to taste"
+        ],
+        "steps": [
+          "Wash vegetables and cilantro.",
+          "Combine vegetables, mixing well.",
+          "Add salt, pepper, chiles, lime juice, and garlic.",
+          "Add hot sauce as desired.",
+          "Let stand 30 minutes to allow flavors to meld."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APico_de_Gallo"
+      }
+    },
+    {
+      "id": "refried-beans",
+      "name": "Refried beans",
+      "localName": "Frijoles refritos",
+      "videoSearch": "https://www.youtube.com/results?search_query=Refried%20beans%20recipe",
+      "description": "Refried beans (from Spanish: frijoles refritos, lit. 'well-fried beans') is a dish of cooked and mashed beans that is a traditional staple of Mexican and Tex-Mex cuisines, although each cuisine has a different approach when making the dish. Refried beans are also popular in many other Latin American countries.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Frijoles_refritos.jpg/500px-Frijoles_refritos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Refried_beans",
+      "recipe": {
+        "ingredients": [
+          "Pinto beans or black beans",
+          "Butter (optional) or home-rendered lard (optional)"
+        ],
+        "steps": [
+          "If using dried beans, wash them then cover with water in a medium pot and simmer according to the package directions. You may add onion halves or a ham bone, which you can remove at the end. and ham bone]]",
+          "If using canned beans, rinse them briefly before use.",
+          "Smash the beans, perhaps with a potato masher.",
+          "Add home-rendered lard or butter, totaling up to 20% of the total (25% of the amount prior to adding). You may also use a substantially smaller amount of some other oil or omit it entirely.",
+          "Fry the beans, stirring and turning them until they thicken to the degree you desire, which can be anywhere from soupy to parched."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARefried_Beans"
+      }
+    },
+    {
+      "id": "chalupa",
+      "name": "Chalupa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chalupa%20recipe",
+      "description": "A chalupa is one of several specialty dishes of south-central Mexico, including the states of Hidalgo, Puebla, Guerrero, and Oaxaca.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Chalupas_%28food%29.jpg/500px-Chalupas_%28food%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chalupa",
+      "recipe": {
+        "ingredients": [
+          "Vegetable oil",
+          "12 corn tortillas",
+          "6 cups refried beans (pinto beans or black beans may be substituted)",
+          "½ pound grated queso fresco cheese",
+          "Chopped onion",
+          "1 large tomato, chopped",
+          "3 cups shredded lettuce"
+        ],
+        "steps": [
+          "In a small skillet, heat about ½ inch of vegetable oil. Test the oil for the correct temperature by putting in a small piece of tortilla. If the oil immediately bubbles frantically and the bread quickly becomes crisp then the oil is at the right temperature. This is important because a low temperature will produce an unpleasantly oily and soggy chalupa shell.",
+          "Fry the tortilla completely flat in the oil, on both sides, until very crisp. Drain and keep the fried tortilla warm on a newspaper or paper towel-covered cookie sheet in a warm oven. Spread a layer of refried beans on each fried tortilla, about ¼ inch thick. Top with a generous amount of grated cheddar cheese and about 1 tablespoon of chopped onion.",
+          "Place the assembled chalupas on a cookie sheet and brown under broiler until the cheese melts and begins to bubble. Watch them carefully at this stage, as they can burn quite quickly.",
+          "Top with shredded lettuce and tomato, and serve immediately."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChalupa"
+      }
+    },
+    {
+      "id": "aguachile",
+      "name": "Aguachile",
+      "videoSearch": "https://www.youtube.com/results?search_query=Aguachile%20recipe",
+      "description": "Aguachile (lit. chili water) is a Mexican dish typically made of raw seafood.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Aguachiles.jpg/500px-Aguachiles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Aguachile"
+    },
+    {
+      "id": "torta-ahogada",
+      "name": "Torta ahogada",
+      "videoSearch": "https://www.youtube.com/results?search_query=Torta%20ahogada%20recipe",
+      "description": "A torta ahogada is a typical dish from the Mexican state of Jalisco, particularly in the city of Guadalajara. Although it is popular in some other parts of Mexico, it is most popular in Guadalajara.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ahogada.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Torta_ahogada"
+    },
+    {
+      "id": "pambazo",
+      "name": "Pambazo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pambazo%20recipe",
+      "description": "Pambazo is a Mexican dish or antojito (very similar to the torta) made with pambazo bread dipped and fried in a red guajillo pepper sauce. It is traditionally filled with papas con chorizo (potatoes with chorizo) or with potatoes only but there are different varieties.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/PambazosDF.JPG/500px-PambazosDF.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pambazo"
+    },
+    {
+      "id": "champurrado",
+      "name": "Champurrado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Champurrado%20recipe",
+      "description": "Champurrado is a chocolate-based atole, a warm and thick Mexican beverage. It is prepared with either a masa (lime-treated corn dough), masa harina (a dried version of this dough), or corn flour (simply very finely ground dried corn, especially local varieties grown for atole); piloncillo; water or milk; chocolate; and…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Champurrado_thenewplace_sf.jpg/500px-Champurrado_thenewplace_sf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Champurrado"
+    }
+  ]
+}

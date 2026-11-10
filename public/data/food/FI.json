@@ -1,0 +1,161 @@
+{
+  "country": "FI",
+  "dishes": [
+    {
+      "id": "karelian-pasty",
+      "name": "Karelian pasty",
+      "localName": "Karjalanpiirakka",
+      "videoSearch": "https://www.youtube.com/results?search_query=Karelian%20pasty%20recipe",
+      "description": "Karelian pasties, Karelian pies or Karelian pirogs are traditional Finnish pasties or pirogs originating from the region of Karelia. They are eaten throughout Finland as well as in adjacent areas such as Estonia and Russian Karelia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Karjalanpiirakka-20060227.jpg/500px-Karjalanpiirakka-20060227.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Karelian_pasty",
+      "recipe": {
+        "ingredients": [
+          "500 ml boiling water",
+          "300 ml short-grain white rice",
+          "900 ml milk",
+          "1½ tsp salt",
+          "200 ml cold water",
+          "1½ tsp salt",
+          "350 ml rye flour",
+          "150 ml wheat flour",
+          "100 ml milk",
+          "50 g butter",
+          "50 g butter, softened",
+          "2 hard-boiled eggs, chopped",
+          "¼ tsp salt (optional)",
+          "½ can (125 g) cottage cheese (optional)"
+        ],
+        "steps": [
+          "Mix the rice into the boiling water. Boil until the water has saturated the rice.",
+          "Add the milk, and stir the filling for a few minutes. Reduce heat and agitate the porridge. Cook for about 40 minutes. Stir the porridge every now and then. When the porridge is ready, it will seem thick.",
+          "Mix in the salt, and cool the porridge.",
+          "Mix the flours and salt into the cold water.",
+          "Knead the dough until smooth and pliable.",
+          "Shape the dough into a block, and divide it into about twenty pieces.",
+          "Roll the pieces into balls, flatten them into small discs, and cover them with plastic.",
+          "Roll out the discs into thin circles, approximately 17 cm in diameter.",
+          "Spread some of the rice filling in an oblong shape on each dough circle.",
+          "Crimp the edges together with your fingers to make a crust.",
+          "Bake the pasties at about 250–300°C for about 15 minutes, until the crust is browned.",
+          "Heat the butter and milk together until the butter is melted.",
+          "Brush the pasties with hot milk and butter.",
+          "Lay the pasties on each other and rest them under a towel and baking paper.",
+          "Beat together the munavoi ingredients, and use it as butter on the pasties."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKarelian_Pasties_(Karjalanpiirakat)"
+      }
+    },
+    {
+      "id": "kalakukko",
+      "name": "Kalakukko",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kalakukko%20recipe",
+      "description": "Kalakukko is a traditional Finnish dish from the region of Savonia made from fish (e.g., perch, vendace, loach, smelt, or salmon) baked inside a loaf of bread. Kalakukko is especially popular in Kuopio, capital city of the Northern Savonia region. Kuopio is home to many kalakukko bakeries.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Kalakukko_%28opened%29.jpg/500px-Kalakukko_%28opened%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kalakukko"
+    },
+    {
+      "id": "mammi",
+      "name": "Mämmi",
+      "videoSearch": "https://www.youtube.com/results?search_query=M%C3%A4mmi%20recipe",
+      "description": "Mämmi is a traditional Finnish dessert, eaten around Easter. Mämmi is traditionally made of water, rye flour, ground malted rye, salt, and dried, ground Seville orange zest.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/M%C3%A4mmi_Kymppi.jpg/500px-M%C3%A4mmi_Kymppi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A4mmi"
+    },
+    {
+      "id": "lohikeitto",
+      "name": "Lohikeitto",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lohikeitto%20recipe",
+      "description": "Salmon chowder is a common dish in Finland and other Nordic countries. It consists of salmon fillets, boiled potatoes, carrots and leeks. The dish is served hot, and typically seasoned with fresh dill, allspice, salt and black pepper.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Finland_salmonsoup_01.jpg/500px-Finland_salmonsoup_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lohikeitto"
+    },
+    {
+      "id": "karelian-hot-pot",
+      "name": "Karelian hot pot",
+      "localName": "Karjalanpaisti",
+      "videoSearch": "https://www.youtube.com/results?search_query=Karelian%20hot%20pot%20recipe",
+      "description": "The Karelian hot pot (British) or Karelian stew (US) is a traditional Finnish meat stew originating in the region of Karelia. It is commonly prepared using a combination of pork and beef, but elk or lamb can also be used.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Karelskastek1.jpg/500px-Karelskastek1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Karelian_hot_pot"
+    },
+    {
+      "id": "sauteed-reindeer",
+      "name": "Sautéed reindeer",
+      "localName": "Poronkäristys",
+      "videoSearch": "https://www.youtube.com/results?search_query=Saut%C3%A9ed%20reindeer%20recipe",
+      "description": "Sautéed reindeer is perhaps the best known traditional meal from Sápmi in Finland, Sweden, Norway and Russia and Sakha. Usually steak or the back of the reindeer is used.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Poronk%C3%A4ristys.jpg/500px-Poronk%C3%A4ristys.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saut%C3%A9ed_reindeer"
+    },
+    {
+      "id": "leipajuusto",
+      "name": "Leipäjuusto",
+      "videoSearch": "https://www.youtube.com/results?search_query=Leip%C3%A4juusto%20recipe",
+      "description": "Bread cheese, sometimes known in the United States as Finnish squeaky cheese, is a Finnish fresh cheese traditionally made from cow's colostrum. In the US, cow's milk is generally used but can also be made with goat milk. Commercially available versions are typically made from cow's milk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Leip%C3%A4juusto_cheese_with_cloudberry_jam.jpg/500px-Leip%C3%A4juusto_cheese_with_cloudberry_jam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bread_cheese"
+    },
+    {
+      "id": "ruisleipa",
+      "name": "Ruisleipä",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ruisleip%C3%A4%20recipe",
+      "description": "Ruisleipä is a dark sourdough rye bread produced extensively in Finland. It is the most popular type of bread in Finland. It is a staple in Finnish cuisine, and holds the status of the national food, as determined by a 2017 vote.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Ruisleip%C3%A4-limppu_reik%C3%A4leip%C3%A4_reissumies_hapankorppu-1.JPG/500px-Ruisleip%C3%A4-limppu_reik%C3%A4leip%C3%A4_reissumies_hapankorppu-1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ruisleip%C3%A4"
+    },
+    {
+      "id": "mustamakkara",
+      "name": "Mustamakkara",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mustamakkara%20recipe",
+      "description": "Mustamakkara is a type of Finnish blood sausage traditionally eaten with lingonberry jam. It is available in many stores across Finland, but is considered a specialty of Tampere.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Mustamakkara1.jpg/500px-Mustamakkara1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mustamakkara"
+    },
+    {
+      "id": "runeberg-torte",
+      "name": "Runeberg torte",
+      "localName": "Runebergintorttu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Runeberg%20torte%20recipe",
+      "description": "Runeberg torte is a Finnish torte flavored with almonds and arrack or rum and weighing about 100 grams. It usually has raspberry jam encircled by a ring of icing on top.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Runebergintorttu.jpg/500px-Runebergintorttu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Runeberg_torte"
+    },
+    {
+      "id": "makaronilaatikko",
+      "name": "Makaronilaatikko",
+      "videoSearch": "https://www.youtube.com/results?search_query=Makaronilaatikko%20recipe",
+      "description": "Macaroni casserole is a dish of baked pasta, especially known as a staple in northern European home cooking. It is a dish of cooked macaroni mixed with eggs and milk with additional ingredients like meats, vegetables or fish. It is commonly made with cheese or breadcrumbs sprinkled on top.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Soijamakaronilaatikko.JPG/500px-Soijamakaronilaatikko.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Macaroni_casserole"
+    },
+    {
+      "id": "vorschmack",
+      "name": "Vorschmack",
+      "videoSearch": "https://www.youtube.com/results?search_query=Vorschmack%20recipe",
+      "description": "Forshmak (Yiddish: פֿאָרשמאַק, Russian: форшмак), or vorschmack, from German Vorgeschmack (\"foretaste\") or Vorspeise (\"appetizer\"), also known as chopped herring, is a traditional dish of Ashkenazi Jewish cuisine, particularly associated with the Jewish communities of Eastern Europe, including Poland, Lithuania, Ukrain…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Forshmak.jpg/500px-Forshmak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Forshmak",
+      "recipe": {
+        "ingredients": [
+          "4 lb (1800 g) boned leg of lamb, cut into 1-inch (2.5 cm) cubes",
+          "½ lb (225 g) boned beef, diced",
+          "6 herring fillets in salt brine",
+          "1 can (2 ounces / 60 g) anchovies",
+          "5 medium onions, sliced",
+          "Tomato paste",
+          "5 garlic cloves, pressed",
+          "Water"
+        ],
+        "steps": [
+          "Let the herring fillets soak in cold water over night. Dry the fillets on paper towels.",
+          "Preheat the oven to 400°F (220°C). Arrange the meat and onion in a greased baking dish and roast on the medium shelf until golden brown (about 15–20 minutes).",
+          "Let the dish cool, and then grind the contents with the herring and anchovy using a meat grinder. In a large bowl, add some water to the mixture to give it the consistency of thick porridge. Season with white pepper and garlic.",
+          "Place the contents in a baking dish. Spread out some tomato paste over the surface of the mixture. Bake at 350°F (175°C) for 2 hours. Add water if the Vorschmack looks dry. If the consistency is too light, continue baking to evaporate excess water. The consistency should resemble thick hot porridge.",
+          "Serve hot with baked potatoes, smetana, and a shot of ice cold vodka, filled to the rim."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AVorschmack_(Finnish_Ground_Meat)"
+      }
+    }
+  ]
+}

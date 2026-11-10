@@ -1,0 +1,240 @@
+{
+  "country": "IE",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "rte",
+        "name": "RTÉ News",
+        "homepage": "https://www.rte.ie/news/",
+        "lang": "en-IE"
+      },
+      "fetchedAt": "2026-10-22T15:11:44.156Z",
+      "items": [
+        {
+          "title": "'Intense rain' forecast as Storm Austen to hit Ireland",
+          "link": "https://www.rte.ie/news/2026/1022/1596378-weather-warnings/",
+          "summary": "Three counties will fall under a Status Orange weather warning for \"intense rain\" later tonight as Storm Austen arrives from the Atlantic.",
+          "image": "https://www.rte.ie/images/00253730-800.jpg",
+          "publishedAt": "2026-10-22T05:21:39.000Z"
+        },
+        {
+          "title": "Video on hugging consent taken down after criticism",
+          "link": "https://www.rte.ie/news/2026/1022/1596434-consent-video-drcc/",
+          "summary": "The Dublin Rape Crisis Centre has taken down three online video advertisements related to its 'We Consent' campaign, following criticism of one advert in particular.",
+          "image": "https://www.rte.ie/images/00253786-800.jpg",
+          "publishedAt": "2026-10-22T10:55:35.000Z"
+        },
+        {
+          "title": "Charity under garda probe still on regulator's register",
+          "link": "https://www.rte.ie/news/2026/1022/1596396-luxury-cars-seized-dublin-charity/",
+          "summary": "A charity at the centre of a money laundering investigation remains on the register of the Charities Regulator.",
+          "image": "https://www.rte.ie/images/00253736-800.jpg",
+          "publishedAt": "2026-10-22T07:45:59.000Z"
+        },
+        {
+          "title": "Town devastated by Storm Babet prepares for Austen",
+          "link": "https://www.rte.ie/news/munster/2026/1022/1596483-storm-preparation/",
+          "summary": "Preparations for Storm Austen are taking place in Midleton, Co Cork, which was devastated by Storm Babet in October 2023.",
+          "image": "https://www.rte.ie/images/00253812-800.jpg",
+          "publishedAt": "2026-10-22T14:55:10.000Z"
+        },
+        {
+          "title": "Man pleads guilty to manslaughter of 'pure gentleman'",
+          "link": "https://www.rte.ie/news/courts/2026/1022/1596482-courts-philip-ambrose/",
+          "summary": "A man who was charged with murdering a 72-year-old former member of the Defence Forces, has pleaded guilty to his manslaughter.",
+          "image": "https://www.rte.ie/images/00253816-800.jpg",
+          "publishedAt": "2026-10-22T14:46:13.000Z"
+        },
+        {
+          "title": "Sakila died from number of factors, inquest hears",
+          "link": "https://www.rte.ie/news/ireland/2026/1022/1596456-yves-sakila-inquest/",
+          "summary": "A man who became unresponsive while being detained by security staff in Dublin city centre died from a number of factors after being restrained in a prone position, an inquest has heard.",
+          "image": "https://www.rte.ie/images/002463d8-800.jpg",
+          "publishedAt": "2026-10-22T14:25:20.000Z"
+        },
+        {
+          "title": "Russian strikes show 'no change' in Kremlin position",
+          "link": "https://www.rte.ie/news/2026/1022/1596377-russia-ukraine-attacks/",
+          "summary": "Ukraine has accused Russia of failing to change its position on the war, by firing a wave of ballistic missiles just after US envoy Steve Witkoff met President Vladimir Putin to discuss the resumption of peace talks.",
+          "image": "https://www.rte.ie/images/0025382c-800.jpg",
+          "publishedAt": "2026-10-22T04:53:20.000Z"
+        },
+        {
+          "title": "Are more mortgage rate increases likely after PTSB hike?",
+          "link": "https://www.rte.ie/news/business/2026/1022/1596461-are-more-mortgage-rate-increases-likely-after-ptsb-hike/",
+          "summary": "PTSB today announced it is increasing interest rates on its fixed-rate mortgages - what will this mean for borrowers, and will other lenders follow suit?",
+          "image": "https://www.rte.ie/images/002187f4-800.jpg",
+          "publishedAt": "2026-10-22T13:02:42.000Z"
+        },
+        {
+          "title": "Significant increase in young people dying on Irish roads",
+          "link": "https://www.rte.ie/news/ireland/2026/1022/1596355-road-deaths-statistics/",
+          "summary": "There has been a significant increase in the number of young people being killed on the country's road this year, according to new figures released by gardaí.",
+          "image": "https://www.rte.ie/images/002537c8-800.jpg",
+          "publishedAt": "2026-10-22T05:00:00.000Z"
+        },
+        {
+          "title": "Companies and govts step up cyber defences after PHP flaw",
+          "link": "https://www.rte.ie/news/2026/1022/1596428-php-ai-issue/",
+          "summary": "Companies and governments around the world are racing to patch vulnerabilities in the widely used PHP programming language, as experts reported a surge in hacking attempts following their disclosure.",
+          "image": "https://www.rte.ie/images/00253763-800.jpg",
+          "publishedAt": "2026-10-22T09:53:59.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "irish-times",
+        "name": "The Irish Times",
+        "homepage": "https://www.irishtimes.com",
+        "lang": "en-IE"
+      },
+      "fetchedAt": "2026-10-22T15:11:44.219Z",
+      "items": [
+        {
+          "title": "Storm Austen: Orange warnings issued as Ireland braces for torrential rain and wind",
+          "link": "https://www.irishtimes.com/environment/2026/10/22/storm-austen-orange-warnings-issued-by-met-eireann-as-ireland-cork-dublin-braces-for-torrential-rain-and-wind/",
+          "summary": "Warnings of possible transport and power disruptions, with ‘blustery’ conditions for Dublin marathon runners",
+          "image": "https://www.irishtimes.com/resizer/v2/ETEN44Z6RBBGJJEX3YRFRLJXDY.JPG?auth=fb1ab2d94383d05c08a78b5837fbc2257716b57e9e833b18440a7721af6bdfae&smart=true&width=630&height=350",
+          "publishedAt": "2026-10-22T15:06:28.000Z"
+        },
+        {
+          "title": "Law Society seeks to meet O’Callaghan ‘in person’ to solve legal aid payments impasse",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/10/22/law-society-seeks-to-meet-ocallaghan-in-person-to-solve-legal-aid-payments-impasse/",
+          "summary": "Minister for Justice offers talks to hear Law Society’s viewpoint as four-month withdrawal of services escalates",
+          "image": "https://www.irishtimes.com/resizer/v2/QRUZN4O7XB26KUKAU4NAXXZYUQ.JPG?auth=f344b6256af2d0316603a8b977ea9a476f672e6d11a5972196de06d2385ff21a&smart=true&width=630&height=350",
+          "publishedAt": "2026-10-22T15:03:49.000Z"
+        },
+        {
+          "title": "Seán Rooney preliminary inquest hearings private ‘to protect safety of Defence Forces’",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/10/22/sean-rooney-preliminary-inquest-hearings-private-to-protect-safety-of-defence-forces/",
+          "summary": "Several hearings held ‘in camera’ in advance of inquest next month",
+          "image": "https://www.irishtimes.com/resizer/v2/ZVI4RQVVEZA3BO7ONTF3WPQBEY.jpg?auth=398a7c27971c315daf2ed501297f7f341a04548b9c2e627064a4ddaeac99a7d1&smart=true&width=630&height=350",
+          "publishedAt": "2026-10-22T14:46:16.000Z"
+        },
+        {
+          "title": "Heated exchanges at Yves Sakila inquest after solicitor questions Garda investigation",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/10/22/heated-exchanges-at-yves-sakila-inquest-after-solicitor-questions-garda-investigation/",
+          "summary": "Congolese man died from cardiorespiratory arrest after period of restraint with a number of contributory factors, court hears",
+          "image": "https://www.irishtimes.com/resizer/v2/RZ7FUH3MSBGNVCZXQYQPJFSQLI.JPG?auth=cf64844699a51b7edb55ba23ddf7cd2d738bb3812e3d8088c3d351fc853fc327&smart=true&width=630&height=350",
+          "publishedAt": "2026-10-22T14:20:39.000Z"
+        },
+        {
+          "title": "Advert showing grandparents hugging is taken down amid criticism",
+          "link": "https://www.irishtimes.com/ireland/2026/10/22/drcc-removes-consent-video-labelled-inappropriate-and-demeaning-to-grandparents/",
+          "summary": "Dublin Rape Crisis Centre removes video online, saying it does not want ‘negativity’ to impinge on its work",
+          "image": "https://www.irishtimes.com/resizer/v2/OJGVJZF36ZGPZJJWEBK5MYWUYU.jpg?auth=9648786267e903e0f479db15100be2fc2505363eefd80bc2f7c7ccc05ee4d646&smart=true&width=630&height=350",
+          "publishedAt": "2026-10-22T12:58:48.000Z"
+        },
+        {
+          "title": "Leading US medtech charged over alleged safety breaches after worker’s death at Cork plant",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/10/22/stryker-charged-over-alleged-health-and-safety-breaches-after-workers-death-at-cork-plant/",
+          "summary": "John Murphy (41) died from injuries sustained while carrying out at work at company’s plant at Carrigtwohill",
+          "image": "https://www.irishtimes.com/resizer/v2/G4NY62YMFBZSYTYNTSPFJBLVCI.jpg?auth=6b66fa60fc70a0dab163c2c7e9348931b536ceb9508041db7dedc80a587783e5&smart=true&width=630&height=350",
+          "publishedAt": "2026-10-22T12:40:30.000Z"
+        },
+        {
+          "title": "BMWs, Louis Vuitton bags, Rolex watches seized amid charity money-laundering allegations",
+          "link": "https://www.irishtimes.com/crime-law/2026/10/22/bmw-cars-louis-vuitton-bags-rolex-watches-seized-by-gardai-investigating-charitable-body/",
+          "summary": "Charity at centre of investigation is based in Dublin and has national reach, dozens of staff and association with national figures",
+          "image": "https://www.irishtimes.com/resizer/v2/PPRIKDIBCRCIZI4EGP6TMLZKN4.png?auth=5ca2b605e701ef23cac6524bbd8e9830e4f85bd31d7018203fb4c9f194ea5b53&smart=true&width=630&height=350",
+          "publishedAt": "2026-10-22T12:39:02.000Z"
+        },
+        {
+          "title": "Man accused of Dublin mosque arson attack has date set to enter plea",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/10/22/man-accused-of-dublin-mosque-arson-attack-has-date-set-to-enter-plea/",
+          "summary": "Saeid Khosroabadi did not enter a plea on Thursday due to the ongoing solicitor strike",
+          "image": "https://www.irishtimes.com/resizer/v2/5QQG5IUDKBEKVBBTGZ55MFUTCU.JPG?auth=d770386b3318c0b29edffe8328d2ea8e1a6b03e824cd454851f71869cbba026e&smart=true&width=630&height=350",
+          "publishedAt": "2026-10-22T12:03:30.000Z"
+        },
+        {
+          "title": "Financial controls to be tightened on the hot school meals programme",
+          "link": "https://www.irishtimes.com/ireland/social-affairs/2026/10/22/financial-controls-to-be-tightened-on-the-hot-school-meals-programme/",
+          "summary": "Spending watchdog identified opportunities to strengthen financial controls, procurement assurance and performance monitoring",
+          "image": "https://www.irishtimes.com/resizer/v2/D62GC7AX5BEQZAWIUU5ZGFAL2I.jpg?auth=3a0d4d1489eaad35e344052e0e92c044f047a5540578b233769d9ddfd1509456&smart=true&width=630&height=350",
+          "publishedAt": "2026-10-22T10:41:39.000Z"
+        },
+        {
+          "title": "Aughinish Alumina exports not included in draft EU Russia sanctions package",
+          "link": "https://www.irishtimes.com/ireland/2026/10/22/new-eu-sanctions-package-does-not-propose-to-target-aughinish-alumina-exports/",
+          "summary": "Measures cutting Aughinish Alumina’s exports to Russia not included in draft of EU’s next round of economic sanctions targeting Moscow",
+          "image": "https://www.irishtimes.com/resizer/v2/YUWJQHNBGVA3HPGURE64LAJLDI.JPG?auth=e0a519a2d7bb6d3ce6a203d40643e48c6932b9111242533786f0ce5f079a0fe0&smart=true&width=630&height=350",
+          "publishedAt": "2026-10-22T10:35:52.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "irish-independent",
+        "name": "Irish Independent",
+        "homepage": "https://www.independent.ie",
+        "lang": "en-IE"
+      },
+      "fetchedAt": "2026-10-22T15:11:44.324Z",
+      "items": [
+        {
+          "title": "Louth mourns death of ‘Mr Superquinn’ Martin McArdle after decades of service to shoppers",
+          "link": "https://www.independent.ie/county/louth/louth-mourns-death-of-mr-superquinn-martin-mcardle-after-decades-of-service-to-shoppers/a/163446477.html",
+          "image": "https://prod-img.independent.ie/public/county/louth/rxk6sx-ar-martin-mcardle.jpg/alternates/BASE_SIXTEEN_NINE/AR%20martin%20mcardle.jpg",
+          "publishedAt": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Jigsaw notes 54pc rise in youth mental health referrals in Laois and Offaly since last year",
+          "link": "https://www.independent.ie/county/laois/jigsaw-notes-54pc-rise-in-youth-mental-health-referrals-in-laois-and-offaly-since-last-year/a/163389562.html",
+          "image": "https://prod-img.independent.ie/public/incoming/ytqv31-a-teen-girl-in-psychotherapy/alternates/BASE_SIXTEEN_NINE/A%20teen%20girl%20in%20psychotherapy",
+          "publishedAt": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Planners reveal ‘split decision’ over contentious plans for 270-acre solar farm in Midlands",
+          "link": "https://www.independent.ie/county/longford/planners-reveal-split-decision-over-contentious-plans-for-270-acre-solar-farm-in-midlands/a/163326279.html",
+          "image": "https://prod-img.independent.ie/public/incoming/la1cdg-plans-for-a-vast-solar-farm-development-in-county-longford-have-been-upheld-however-moves-to-attach-a-battery-energy-storage-system-bess-with-550-metres-of-security-fencing-have-been-turned-down-by-an-coimisiun-pleanala./alternates/BASE_SIXTEEN_NINE/Plans%20for%20a%20vast%20solar%20farm%20development%20in%20county%20Longford%20have%20been%20upheld%20however%20moves%20to%20attach%20a%20Battery%20Energy%20Storage%20System%20BESS%20with%20550%20metres%20of%20security%20fencing%20have%20been%20turned%20down%20by%20An%20Coimisi%C3%BAn%20Plean%C3%A1la.",
+          "publishedAt": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Jazz fanatics ready to hit the high notes as revellers flock to Cork for autumn music spectacular",
+          "link": "https://www.independent.ie/irish-news/jazz-fanatics-ready-to-hit-the-high-notes-as-revellers-flock-to-cork-for-autumn-music-spectacular/a/163459270.html",
+          "summary": "Boney M will headline the 48th Guinness Cork Jazz Festival",
+          "image": "https://prod-img.independent.ie/public/incoming/elw1s0-new-brass-kings-bring-jazz-to-the-streets-of-cork-as-part-of-the-guinness-cork-jazz-festival./alternates/BASE_SIXTEEN_NINE/New%20Brass%20Kings%20bring%20jazz%20to%20the%20streets%20of%20Cork%20as%20part%20of%20the%20Guinness%20Cork%20Jazz%20Festival.",
+          "publishedAt": "2026-10-22T14:06:33.000Z"
+        },
+        {
+          "title": "Woman (70s) dies in two-car collision in Co Monaghan",
+          "link": "https://www.independent.ie/irish-news/woman-70s-dies-in-two-car-collision-in-co-monaghan/a/163467113.html",
+          "image": "https://prod-img.independent.ie/public/incoming/2bmxeu-file85x0t0xymdy1bdutbl07/alternates/BASE_SIXTEEN_NINE/file85x0t0xymdy1bdutbl07",
+          "publishedAt": "2026-10-22T14:03:38.000Z"
+        },
+        {
+          "title": "Triple murder accused told gardaí he dragged family into garden and ‘tried to revive’ his mother but it was ‘too late’",
+          "link": "https://www.independent.ie/irish-news/courts/triple-murder-accused-told-gardai-he-dragged-family-into-garden-and-tried-to-revive-his-mother-but-it-was-too-late/a/163440514.html",
+          "image": "https://prod-img.independent.ie/public/incoming/it135v-co-louth-incident/alternates/BASE_SIXTEEN_NINE/Co%20Louth%20incident",
+          "publishedAt": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "‘You should be banned from driving for life ’ – Speeding electrician told car in ‘your hands is a dangerous weapon’",
+          "link": "https://www.independent.ie/county/cavan/you-should-be-banned-from-driving-for-life-speeding-electrician-told-car-in-your-hands-is-a-dangerous-weapon/a/163382757.html",
+          "image": "https://prod-img.independent.ie/public/incoming/5zzxsa-file86k5nzzda9k1ljocji31/alternates/BASE_SIXTEEN_NINE/file86k5nzzda9k1ljocji31",
+          "publishedAt": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "French teenager dies from injuries sustained during U18s rugby match",
+          "link": "https://www.independent.ie/sport/rugby/french-teenager-dies-from-injuries-sustained-during-u18s-rugby-match/a/163467593.html",
+          "image": "https://prod-img.independent.ie/public/incoming/nf64hv-3447207.jpg/alternates/BASE_SIXTEEN_NINE/3447207.jpg",
+          "publishedAt": "2026-10-22T13:57:00.000Z"
+        },
+        {
+          "title": "Four people arrested in separate money laundering investigations in Dublin",
+          "link": "https://www.independent.ie/incoming/four-people-arrested-in-separate-money-laundering-investigations-in-dublin/a/163465470.html",
+          "summary": "The four were detained following a series of planned arrests that took place earlier today",
+          "image": "https://prod-img.crimeworld.com/public/incoming/uppgw-gettyimages-2289844247.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-2289844247.jpg",
+          "publishedAt": "2026-10-22T13:45:57.000Z"
+        },
+        {
+          "title": "Missing Donegal man (62) located safe and well",
+          "link": "https://www.independent.ie/county/donegal/missing-donegal-man-62-located-safe-and-well/a/163435908.html",
+          "image": "https://prod-img.independent.ie/public/incoming/9j9gkt-james-paddy-kildea./alternates/BASE_SIXTEEN_NINE/James%20Paddy%20Kildea.",
+          "publishedAt": "2026-10-22T13:42:00.000Z"
+        }
+      ]
+    }
+  ]
+}

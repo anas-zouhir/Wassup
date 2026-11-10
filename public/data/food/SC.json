@@ -1,0 +1,20 @@
+{
+  "country": "SC",
+  "dishes": [
+    {
+      "id": "ladob",
+      "name": "Ladob",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ladob%20recipe",
+      "description": "Ladob is a dish typically consisting of plantains or sweet potatoes, eaten in the Seychelles, either as a savory dish or as a dessert. It was originally a dish eaten in large amounts by the early arrivals to the island due to the ingredients being in plentiful supply.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ladob"
+    },
+    {
+      "id": "shark-chutney",
+      "name": "Shark chutney",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shark%20chutney%20recipe",
+      "description": "Shark chutney is a dish eaten in the Seychelles. It typically consists of 1 kilogram (2.2 lb) of boiled skinned shark, finely mashed, and cooked with squeezed bilimbi juice and lime. This in turn is mixed with onion, pepper, salt and turmeric.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/SeychellesSharkChutney.JPG/500px-SeychellesSharkChutney.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shark_chutney"
+    }
+  ]
+}

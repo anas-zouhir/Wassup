@@ -1,0 +1,134 @@
+{
+  "country": "MW",
+  "dishes": [
+    {
+      "id": "nsima",
+      "name": "Nsima",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nsima%20recipe",
+      "description": "Ugali, also known as posho, nsima, papa, pap, bogobe, sadza, isitshwala, akume, amawe, ewokple, akple, and other names, is a type of corn meal made from maize or corn or mahindi flour in several African countries: Kenya, Uganda, South Sudan, Tanzania, Zimbabwe, Zambia, Lesotho, Eswatini, Angola, Mozambique, Namibia, De…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ugali_%26_Sukuma_Wiki.jpg/500px-Ugali_%26_Sukuma_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ugali",
+      "recipe": {
+        "ingredients": [
+          "2 cups maize flour (cornmeal)",
+          "4 cups water"
+        ],
+        "steps": [
+          "Measure out the maize flour and set it aside.",
+          "In a large cooking pot, bring the water to a boil.",
+          "Once the water is boiling, reduce the heat to low and gradually add the maize flour to the pot while stirring continuously with a wooden spoon or a stiff whisk. Make sure to pour the flour in a slow, steady stream to prevent clumping.",
+          "Keep stirring the mixture vigorously to combine the maize flour and water thoroughly. This step is crucial to avoid lumps from forming. Continue stirring for about 5 minutes until the mixture starts to thicken.",
+          "Increase the heat to medium-low and cover the pot with a lid. Allow the mixture to cook for about 10–15 minutes. This cooking time allows the maize flour to cook fully and eliminates the raw taste.",
+          "Remove the lid and stir the mixture again, making sure to scrape the sides and bottom of the pot to prevent sticking or burning.",
+          "Continue cooking the nsima, stirring frequently, for another 10–15 minutes until it reaches the desired consistency. It should have a thick, smooth texture similar to mashed potatoes or stiff porridge. If it's too thick, you can add a little more water and continue stirring until you achieve the desired consistency.",
+          "Once the nsima is cooked to your liking, remove it from the heat and let it sit for a few minutes to cool slightly before serving.",
+          "Serve the nsima hot with your choice of relishes such as meat, vegetables, or fish. Popular relishes include chicken stew, beef and vegetable stew, fried fish, or a variety of sautéed greens."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ANsima_(Cornmeal_Swallow)"
+      }
+    },
+    {
+      "id": "chambo",
+      "name": "Chambo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chambo%20recipe",
+      "description": "Chambo is a town in Chimborazo Province, Ecuador. It is the county seat of the Chambo Canton. It is also the birthplace of former Ecuadorian president Osvaldo Hurtado (1981–84) as well as notable 19th-century educator Leopoldo Freire, entrepreneur Alejandrino Capelo, and educator Jorge Capelo Freire.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chambo"
+    },
+    {
+      "id": "kondowole",
+      "name": "Kondowole",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kondowole%20recipe",
+      "description": "Kondowole is a staple of Malawian cuisine that is eaten predominantly in the northern region of Malawi. It is made from cassava flour and water. It is a very sticky meal and resembles that of the Malawian nsima, Tanzanian ugali, or English posho.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kondowole",
+      "recipe": {
+        "ingredients": [
+          "1 cup sesame seeds",
+          "Salt, to taste",
+          "Vegetable oil, for toasting"
+        ],
+        "steps": [
+          "In a dry frying pan or skillet, toast the sesame seeds over medium heat.",
+          "Stir the seeds continuously to ensure even toasting and prevent burning. The seeds are ready when they turn golden brown and release a nutty aroma.",
+          "Remove the pan from the heat and let the toasted sesame seeds cool for a few minutes.",
+          "Sprinkle salt over the seeds according to your taste preference and mix well.",
+          "Heat a small amount of vegetable oil in the same pan over low heat.",
+          "Add the toasted sesame seeds to the pan and stir to coat them evenly with the oil. This step helps to enhance the flavor and crunchiness of the seeds.",
+          "Remove the pan from the heat and let the kondowole cool completely before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKondowole_(Malawian_Toasted_Sesame_Seeds)"
+      }
+    },
+    {
+      "id": "zitumbuwa",
+      "name": "Zitumbuwa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zitumbuwa%20recipe",
+      "recipe": {
+        "ingredients": [
+          "2 ripe bananas, mashed",
+          "1 cup all-purpose flour",
+          "1 tablespoon sugar",
+          "1 teaspoon baking powder",
+          "¼ teaspoon salt",
+          "¾ cup milk",
+          "1 large egg",
+          "1 teaspoon vanilla extract",
+          "1 tablespoon vegetable oil"
+        ],
+        "steps": [
+          "In a mixing bowl, combine the mashed bananas, all-purpose flour, sugar, baking powder, and salt. Mix well.",
+          "In a separate bowl, whisk together the milk, egg, and vanilla extract.",
+          "Gradually pour the wet ingredients into the banana-flour mixture, stirring until a smooth batter forms.",
+          "Heat the vegetable oil in a frying pan or griddle over medium heat.",
+          "Pour a small amount of the pancake batter onto the hot pan, forming a circle.",
+          "Cook the pancake for about 2 minutes or until bubbles form on the surface. Then, flip the pancake and cook for an additional 1–2 minutes on the other side until it is golden brown and cooked through.",
+          "Repeat the process with the remaining batter, adding more oil to the pan as needed to prevent sticking.",
+          "Serve warm, and enjoy them plain or with your favorite toppings, such as honey, syrup, or fresh fruit."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AZitumbuwa_(Malawian_Banana_Pancakes)"
+      }
+    },
+    {
+      "id": "thobwa",
+      "name": "Thobwa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Thobwa%20recipe",
+      "description": "Thobwa is a Malawian and Zambian fermented drink that has a milky appearance, a cereal taste and a grainy texture. It is made from white maize and millet or sorghum and is popular in all parts of the country.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Cup_of_thobwa%2C_Malawi.JPG/500px-Cup_of_thobwa%2C_Malawi.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thobwa"
+    },
+    {
+      "id": "usipa",
+      "name": "Usipa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Usipa%20recipe",
+      "description": "Usipa (scientific name: Engraulicypris sardella) is a \"small sardine-like fish that occurs in large shoals\". Because of its small size, it is commonly dried. Usipa is mostly eaten in Malawi and Mozambique along with nsima ugali.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Usipa_and_Pao.jpg/500px-Usipa_and_Pao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Usipa"
+    },
+    {
+      "id": "kachumbari",
+      "name": "Kachumbari",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kachumbari%20recipe",
+      "description": "Kachumbari is a fresh tomato and onion salad relish that is popular in the cuisines of the African Great Lakes region. It is an uncooked salad dish consisting of chopped tomatoes, onions, and chili peppers.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Kachumbari.jpg/500px-Kachumbari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kachumbari",
+      "recipe": {
+        "ingredients": [
+          "4 large ripe tomatoes, diced",
+          "1 large red onion, thinly sliced",
+          "1 cucumber (optional), peeled and diced",
+          "1–2 fresh green chiles (optional), finely chopped",
+          "2 tablespoons chopped fresh coriander (cilantro)",
+          "Juice of 1 lemon or lime",
+          "½ tablespoons salt",
+          "¼ tablespoons black pepper (optional)"
+        ],
+        "steps": [
+          "Gently toss together all the ingredients in a mixing bowl until well-distributed.",
+          "Allow the salad to rest for 5–10 minutes.",
+          "Taste the salad and adjust the seasoning as needed.",
+          "Serve fresh."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKachumbari"
+      }
+    }
+  ]
+}

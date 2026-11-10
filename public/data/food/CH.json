@@ -1,0 +1,178 @@
+{
+  "country": "CH",
+  "dishes": [
+    {
+      "id": "cheese-fondue",
+      "name": "Cheese fondue",
+      "localName": "Fondue",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cheese%20fondue%20recipe",
+      "description": "Fondue is a Swiss dish of melted cheese and wine served in a communal pot (caquelon or fondue pot) over a portable stove (réchaud) heated with a candle or spirit lamp, and eaten by dipping bread and sometimes vegetables or other foods into the cheese using long-stemmed forks.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Fondue_dish.jpg/500px-Fondue_dish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fondue",
+      "recipe": {
+        "ingredients": [
+          "400 g (1 lb) Gruyêre cheese, grated",
+          "400 g (1 lb) Emmenthaler cheese, grated",
+          "400 ml (2 cups) dry white wine",
+          "1 or more cloves garlic",
+          "4 tsp cornstarch",
+          "50 ml (¼ cup) kirschwasser",
+          "Pepper, freshly ground",
+          "Nutmeg, freshly grated",
+          "1 lb or more baguettes (French bread), cut into bite-size cubes"
+        ],
+        "steps": [
+          "Rub a caquelon (fondue pot) with the clove of garlic. Alternatively, if one likes more garlic, chop finely and throw in the caquelon.",
+          "Add the dry white wine and warm slightly on the stove top, over a low flame.",
+          "Mix the cornstarch with the cheese so that the cheese particles are well dusted, and add to the warm wine.",
+          "Melt the cheese, stirring constantly in a figure eight pattern. Stir until the mixture has thickened and starts to boil up.",
+          "Away from the heat, add the kirschwasser and blend in. Traditionally, the cornstarch is mixed into a slurry with the schnapps and added with it at this point. However, adding the cornstarch with the cheese makes it less likely that the fondue will separate and this method is used in many recipes for fondue.",
+          "Season with nutmeg and freshly ground pepper (black or white as you prefer).",
+          "Bring to the boil another 1 or 2 times.",
+          "Bring the caquelon to the table and place on the stand over a spirit burner. The heat should be regulated carefully so that the fondue stays hot but does not boil.",
+          "Pour the wine into a cold caquelon with the garlic.",
+          "Mix the cornstarch to a slurry with the schnapps and add it to the wine.",
+          "Now heat rapidly while whisking until the wine boils up and thickens.",
+          "Lower the heat and add the cheese a handful at a time until it melts, stirring constantly."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFondue_Neuchateloise"
+      }
+    },
+    {
+      "id": "raclette",
+      "name": "Raclette",
+      "videoSearch": "https://www.youtube.com/results?search_query=Raclette%20recipe",
+      "description": "Raclette is a dish of Swiss origin, also popular in other countries, based on heating cheese and scraping off the melted part, then typically served with boiled potatoes. Raclette is historically a dish originating from the canton of Valais in Switzerland. This cheese from Valais benefits from an AOP.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Raclette_20040817_140816.jpg/500px-Raclette_20040817_140816.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Raclette"
+    },
+    {
+      "id": "rosti",
+      "name": "Rösti",
+      "videoSearch": "https://www.youtube.com/results?search_query=R%C3%B6sti%20recipe",
+      "description": "Rösti or rööschti is a Swiss dish consisting mainly of potatoes, sautéed or shallow-fried in a pan. It was originally a breakfast dish, commonly eaten by farmers in the canton of Bern and in parts of the canton of Fribourg, but is now eaten all over Switzerland and around the world.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Roesti.jpg/500px-Roesti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/R%C3%B6sti",
+      "recipe": {
+        "ingredients": [
+          "1 potato (either washed or peeled)",
+          "1 tbsp vegetable oil"
+        ],
+        "steps": [
+          "Grate the potato into a dish, and squeeze out the excess moisture, discarding the liquid.",
+          "Split the mixture into two even piles.",
+          "Pour the oil into a frying pan and heat moderately.",
+          "Place the two piles separately onto the pan, pushing down on top of them with a spatula in order to ensure that the piles stay intact.",
+          "Fry until the underside is golden brown, then carefully flip and cook the other side.",
+          "Add salt and pepper to taste, and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARosti_(Swiss_Potato_Patties)"
+      }
+    },
+    {
+      "id": "zurcher-geschnetzeltes",
+      "name": "Zürcher Geschnetzeltes",
+      "videoSearch": "https://www.youtube.com/results?search_query=Z%C3%BCrcher%20Geschnetzeltes%20recipe",
+      "description": "Zürcher Geschnetzeltes (German for \"sliced meat Zürich style\", Züri-Gschnätzlets in Zürich German, émincé de veau à la zurichoise in French) is a Swiss dish from Zürich. The first mention of Zürcher Geschnetzeltes is in a cookbook from 1947.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Z%C3%BCrcher_Geschnetzeltes_at_Zur_rote_Buech.jpg/500px-Z%C3%BCrcher_Geschnetzeltes_at_Zur_rote_Buech.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Z%C3%BCrcher_Geschnetzeltes"
+    },
+    {
+      "id": "alplermagronen",
+      "name": "Älplermagronen",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C3%84lplermagronen%20recipe",
+      "description": "Älplermagronen, also spelled Älplermakkaronen, is a dish from the Alpine regions of Switzerland, consisting of pasta, potatoes, cream, cheese, and onions. The name is made up of \"Älpler\" as a designation for the Alpine herder and \"Magronen\", which was taken as a loan word from the Italian word maccheroni.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%C3%84lplermagronen_2021.jpeg/500px-%C3%84lplermagronen_2021.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/%C3%84lplermagronen"
+    },
+    {
+      "id": "muesli",
+      "name": "Muesli",
+      "localName": "Birchermüesli",
+      "videoSearch": "https://www.youtube.com/results?search_query=Muesli%20recipe",
+      "description": "Muesli ( MEWZ-lee) is a cold Swiss dish that has become a common breakfast cereal prepared without cooking.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Dorset_Cereals_muesli.jpg/500px-Dorset_Cereals_muesli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Muesli"
+    },
+    {
+      "id": "basler-lackerli",
+      "name": "Basler Läckerli",
+      "videoSearch": "https://www.youtube.com/results?search_query=Basler%20L%C3%A4ckerli%20recipe",
+      "description": "The Basler Läckerli (also Leckerli or Läggerli, lecker meaning \"delicious\" in German and -li being a diminutive suffix) is a traditional hard spice biscuit originating from Basel, Switzerland. It is made of honey, hazelnuts, almonds, candied peel, and Kirsch.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Basler_L%C3%A4ckerli_02.jpeg/500px-Basler_L%C3%A4ckerli_02.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Basler_L%C3%A4ckerli"
+    },
+    {
+      "id": "bundnerfleisch",
+      "name": "Bündnerfleisch",
+      "videoSearch": "https://www.youtube.com/results?search_query=B%C3%BCndnerfleisch%20recipe",
+      "description": "Bündnerfleisch, also known as Bindenfleisch, Grisons Meat or Viande des Grisons, is an air-dried meat that is produced in the canton of Graubünden, Switzerland.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Luzern_asv2022-10_B%C3%BCndnerland_Vorspeise_B%C3%BCndnerfleisch.jpg/500px-Luzern_asv2022-10_B%C3%BCndnerland_Vorspeise_B%C3%BCndnerfleisch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%BCndnerfleisch"
+    },
+    {
+      "id": "engadiner-nusstorte",
+      "name": "Engadiner Nusstorte",
+      "videoSearch": "https://www.youtube.com/results?search_query=Engadiner%20Nusstorte%20recipe",
+      "description": "The Bündner Nusstorte (Graubünden nut pastry), also known as Engadiner Nusstorte, is a traditional sweet, caramelised nut-filled pastry (generally walnut) from canton Graubünden in Switzerland. The modern filled Nusstorte was first widely available in the 1960s, though it was invented in the 1920s.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Engadiner_Nusstorte2.jpg/500px-Engadiner_Nusstorte2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%BCndner_Nusstorte"
+    },
+    {
+      "id": "capuns",
+      "name": "Capuns",
+      "videoSearch": "https://www.youtube.com/results?search_query=Capuns%20recipe",
+      "description": "Capuns is a traditional food from the canton of Graubünden in Switzerland, predominantly made in the eastern part. They are made from Spätzle dough with pieces of dried meat, such as Bündnerfleisch and/or Salsiz, and rolled in a chard leaf.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Capuns_Trun.JPG/500px-Capuns_Trun.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Capuns"
+    },
+    {
+      "id": "zuger-kirschtorte",
+      "name": "Zuger Kirschtorte",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zuger%20Kirschtorte%20recipe",
+      "description": "Zuger Kirschtorte is a Swiss layer cake that consists of layers of nut-meringue, sponge cake and butter cream, and is flavoured with the cherry brandy kirschwasser.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Zuger-Kirschtorte-Stueck-2013.jpg/500px-Zuger-Kirschtorte-Stueck-2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zuger_Kirschtorte"
+    },
+    {
+      "id": "cervelat",
+      "name": "Cervelat",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cervelat%20recipe",
+      "description": "Cervelat, also cervelas, servelat or zervelat, is a sausage produced in Switzerland, France (especially Alsace and Lyon), Belgium, the Netherlands and parts of Germany. The recipe and preparation of the sausage vary regionally.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Cervelas_2.jpg/500px-Cervelas_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cervelat"
+    },
+    {
+      "id": "papet-vaudois",
+      "name": "Papet vaudois",
+      "videoSearch": "https://www.youtube.com/results?search_query=Papet%20vaudois%20recipe",
+      "description": "Papet Vaudois (French: Papet vaudois or simply Papet, \"Vaud papet\") is a dish originating in the Swiss canton of Vaud. It essentially consists of leeks and potatoes and is accompanied by cabbage sausages.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Papet_Vaudois_with_Saucisson.jpg/500px-Papet_Vaudois_with_Saucisson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Papet_Vaudois"
+    },
+    {
+      "id": "malakoff",
+      "name": "Malakoff",
+      "videoSearch": "https://www.youtube.com/results?search_query=Malakoff%20recipe",
+      "description": "A malakoff is a ball of fried cheese typically found in western Switzerland, particularly in the villages of Eysins, Begnins, Bursins, Luins, and Vinzel (where it is also known as “Vinzel beignet”) along the shores of Lake Leman.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Malakoff.jpeg/500px-Malakoff.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Malakoff_(food)"
+    },
+    {
+      "id": "tirggel",
+      "name": "Tirggel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tirggel%20recipe",
+      "description": "Tirggel are traditional Christmas biscuits from Zürich, Switzerland. Made from flour and honey, they are thin, hard, and sweet.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Migros-Tirggel.jpg/500px-Migros-Tirggel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tirggel"
+    },
+    {
+      "id": "swiss-chocolate",
+      "name": "Swiss chocolate",
+      "videoSearch": "https://www.youtube.com/results?search_query=Swiss%20chocolate%20recipe",
+      "description": "Swiss chocolate (German: Schweizer Schokolade; French: chocolat suisse; Italian: cioccolato svizzero) is chocolate produced in Switzerland. Switzerland's chocolates have earned an international reputation for high quality with many famous international chocolate brands.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/L%C3%A4derach.jpg/500px-L%C3%A4derach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Swiss_chocolate"
+    }
+  ]
+}

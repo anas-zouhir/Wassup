@@ -1,0 +1,422 @@
+{
+  "country": "DE",
+  "dishes": [
+    {
+      "id": "bratwurst",
+      "name": "Bratwurst",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bratwurst%20recipe",
+      "description": "Bratwurst is a type of German sausage made from pork or, less commonly, beef, veal, or any combination of beef, veal, and pork.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/German_Bratw%C3%BCrste.jpg/500px-German_Bratw%C3%BCrste.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bratwurst"
+    },
+    {
+      "id": "currywurst",
+      "name": "Currywurst",
+      "videoSearch": "https://www.youtube.com/results?search_query=Currywurst%20recipe",
+      "description": "Currywurst is a fast food dish of German origin consisting of sausage (usually pork) with curry ketchup. It was invented in 1949 by Herta Heuwer, who began selling it at a food stand in West Berlin.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/20220430_currywurst.jpg/500px-20220430_currywurst.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Currywurst"
+    },
+    {
+      "id": "sauerbraten",
+      "name": "Sauerbraten",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sauerbraten%20recipe",
+      "description": "Sauerbraten is a traditional German roast of heavily marinated meat. It is regarded as a national dish of Germany, and is frequently served in German-style restaurants internationally. It can be cooked from a variety of meats, most often from beef, but also from chicken, lamb and mutton, pork and horse.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Heldrunger_Sauerbraten_2.JPG/500px-Heldrunger_Sauerbraten_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sauerbraten"
+    },
+    {
+      "id": "sauerkraut",
+      "name": "Sauerkraut",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sauerkraut%20recipe",
+      "description": "Sauerkraut is finely cut raw white cabbage that has been fermented by various lactic acid bacteria. It has a long shelf life and a distinctive sour flavor, both of which result from the lactic acid formed when the bacteria ferment the sugars in the cabbage leaves.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sauerkraut",
+      "recipe": {
+        "ingredients": [
+          "1 large (2.5 kg / 5 lb) fresh cabbage",
+          "2–3 tablespoons non-iodised salt"
+        ],
+        "steps": [
+          "Clean and dry a large (3 litres) preserves jar or crock, chopping board, and large bowls if needed.",
+          "Quarter the cabbage and remove the core.",
+          "Slice the cabbage finely or thickly, as you prefer.",
+          "If desired, bruise the sliced cabbage by beating with a rolling pin or mortar and pestle.",
+          "Layer the cabbage in the jar or crock, sprinkling salt in between the layers.",
+          "Pack tightly into the jar, leaving 1 cm space at the top; don't seal the jar yet.",
+          "Juice should rise to top of jar as you tightly pack the cabbage in; if not, add a little chlorine-free water.",
+          "Cover the jar with a clean cloth or cling-wrap. Set the jar in a bowl or on a plate, so that any juice that might overflow will be collected and won't make a mess. Don't seal the jar while it is fermenting, as it will build up gas pressure and might break the jar.",
+          "Every morning and evening, insert a narrow long object into the jar to let the air out, then collect the juice from the plate and re-add it to the jar. Ensure the temperature is kept constant during the fermentation—otherwise the fermentation may not proceed correctly, and the wrong bacteria may grow. If you don't heat your kitchen in winter then you will need to store the jar in your bedroom or another area with a steadier temperature throughout day and night.",
+          "The sauerkraut will be fermented in three days to about a week. Wipe any excess liquid from around the jar, and put the lid on tightly before moving it to a cool place (e.g. the refrigerator) to mature. It is ready to eat after the first week, but it will improve with age as the bacteria slowly consume the more complex sugars in the cabbage."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASauerkraut_I"
+      }
+    },
+    {
+      "id": "pretzel",
+      "name": "Pretzel",
+      "localName": "Brezel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pretzel%20recipe",
+      "description": "A pretzel is a type of baked pastry made from dough that is commonly shaped into a knot. The traditional pretzel shape is a distinctive symmetrical form, with the ends of a long strip of dough intertwined and then twisted back onto itself in a particular way (a pretzel loop or pretzel bow).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/BrezelnSalz02_%28cropped%29.JPG/500px-BrezelnSalz02_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pretzel"
+    },
+    {
+      "id": "black-forest-gateau",
+      "name": "Black Forest gateau",
+      "localName": "Schwarzwälder Kirschtorte",
+      "videoSearch": "https://www.youtube.com/results?search_query=Black%20Forest%20gateau%20recipe",
+      "description": "Black Forest gateau, or Black Forest cake, is a layer cake made out of sponge cake flavoured with cocoa powder, cherries, Kirsch, and whipped cream, with dark chocolate as a decoration. The origins of the cake and its name are disputed. However, the cake's recipe from 1927 is kept at an archive in Radolfzell, Germany.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Black_Forest_gateau.jpg/500px-Black_Forest_gateau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Black_Forest_gateau",
+      "recipe": {
+        "ingredients": [
+          "colspan=\"4\" style=\"text-align: center; background: #f5f5f5;;\" |Shortcrust base",
+          "All-purpose flour",
+          "¾ cup",
+          "125 g",
+          "Cocoa powder",
+          "1 tsp",
+          "10 g",
+          "Baking powder",
+          "½ tsp",
+          "3 g",
+          "Sugar",
+          "¼ cup",
+          "50 g",
+          "Vanilla sugar",
+          "1 packet",
+          "2 tsp",
+          "8 g",
+          "Egg white",
+          "1 ea.",
+          "Butter, cut into pieces",
+          "¼ cup",
+          "50 g",
+          "colspan=\"4\" style=\"text-align: center; background: #f5f5f5;;\" |Cake",
+          "Eggs",
+          "3 ea.",
+          "Egg yolk",
+          "1 ea.",
+          "Warm water",
+          "2 tbsp",
+          "Sugar",
+          "½ cup",
+          "100 g",
+          "Vanilla sugar",
+          "1 packet",
+          "2 tsp",
+          "8 g",
+          "Bitter almond oil",
+          "3 drops",
+          "Ground cinnamon",
+          "⅛ tsp",
+          "All-purpose flour",
+          "½ cup",
+          "75 g",
+          "Cocoa powder",
+          "1 tbsp",
+          "10 g",
+          "Cornstarch",
+          "3 tbsp",
+          "25 g",
+          "Baking powder",
+          "½ tsp",
+          "1½ g",
+          "colspan=\"4\" style=\"text-align: center; background: #f5f5f5;;\" |Filling",
+          "Sour cherries, stoned",
+          "1 can",
+          "24 oz (750 g)",
+          "Sugar",
+          "6 tbsp",
+          "80 g",
+          "Cornstarch",
+          "5 tbsp",
+          "40 g",
+          "Kirschwasser",
+          "2 tbsp",
+          "Powdered gelatine",
+          "2 tsp",
+          "Cold water",
+          "3 tbsp",
+          "Heavy cream",
+          "2 cups (500 ml)",
+          "Vanilla sugar",
+          "1 packet",
+          "2 tsp",
+          "8 g",
+          "Sugar",
+          "1 tbsp",
+          "Shaved chocolate for garnish",
+          "40 g (2 oz)",
+          "Glacé or maraschino cherries for decoration",
+          "1 jar"
+        ],
+        "steps": [
+          "Mix the flour, cocoa and baking powder in a bowl. Mix the egg white with the sugar and vanilla sugar, then pour into a well in the middle of the flour.",
+          "Mix the liquid into some of the flour until it forms a porridge-like mass",
+          "Add the cold butter, and rub into the dough.",
+          "Mix in the rest of the flour and knead briefly into a ball.",
+          "Rest the dough in the refrigerator for 30 minutes.",
+          "Roll the dough out to fit the base of a 20 cm (8 inch) springform cake pan.",
+          "Bake at 160°C (325°F) for 20 minutes.",
+          "Mix the flour, cornstarch, baking powder and cocoa powder with a whisk.",
+          "Whisk the 4 egg yolks with the warm water until it is foamy, and little by little add ⅔ of the sugar, the vanilla sugar, almond extract, and cinnamon.",
+          "Whip the egg whites to stiff peaks, and beat in the rest of the sugar a little at a time.",
+          "Fold the beaten egg whites into the egg yolk mixture.",
+          "Sprinkle the flour mixture onto the egg mixture and carefully incorporate.",
+          "Pour into a 20 cm (8 inch) springform pan lined with parchment paper.",
+          "Bake at 160°C (325°F) oven for about 35 minutes until a wooden skewer or toothpick comes out clean when the cake is pierced.",
+          "Cool cake in pan for 15 minutes, then turn out onto a cooling rack to cool completely.",
+          "Drain the cherries in a sieve. Reserve the juice.",
+          "Begin heating ¾ of the juice in a saucepan, and mix the cornstarch with the rest.",
+          "When the juice starts to boil, pour a little hot juice onto the cornstarch. Mix well, then stir it back into the saucepan. Cook until the mixture has thickened.",
+          "Add the sugar and stir to dissolve. Mix in the cherries in, then remove from the heat and allow to cool.",
+          "Add the Kirschwasser.",
+          "Sprinkle the gelatin onto the 3 tablespoons of water, and allow to bloom for 10 minutes, stirring from time to time.",
+          "Heat the gelatin carefully until melted. Allow to cool to room temperature, but don't let it set.",
+          "Whip the cream to soft peaks, and fold in the cool but still liquid gelatin. Whip until stiff, adding vanilla sugar to taste. If you don't have vanilla sugar, use 1 tablespoon of vanilla extract and granulated sugar to taste.",
+          "Spread ½ the cherry mixture then ⅓ of the whipped cream mixture onto the shortcrust base.",
+          "Cut the cake horizontally into two layers using a length of cotton thread.",
+          "Press one cake layer onto the filling.",
+          "Spread the rest of the cherry mixture onto the cake, along with half of the remaining whipped cream.",
+          "Cover the filling with the last layer of cake, and spread the remaining whipped cream on top.",
+          "Strew the top of the torte with shaved chocolate, and decorate with glacé or maraschino cherries.",
+          "Refrigerate for 4 hours or longer before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASchwarzw%C3%A4lder_Kirschtorte_(Black_Forest_Cake)"
+      }
+    },
+    {
+      "id": "spatzle",
+      "name": "Spätzle",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sp%C3%A4tzle%20recipe",
+      "description": "Spätzle, Spätzla Knöpfle or Spatzen, also called nokedli, are a type of egg pasta typically served as a side for meat dishes with sauce.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Sp%C3%A4tzle-02.jpg/500px-Sp%C3%A4tzle-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sp%C3%A4tzle",
+      "recipe": {
+        "ingredients": [
+          "500 g flour",
+          "5 eggs",
+          "150–200 ml water",
+          "Salt"
+        ],
+        "steps": [
+          "Combine all ingredients using hands or an electrical mixer.",
+          "Add enough water to make a dough that is slightly sticky, but still elastic and stiff.",
+          "Beat long enough for bubbles to rise.",
+          "Boil a large pot with salted water.",
+          "If using only a board, sweep a spoon of dough over the kitchen board with the grater. Cut/grate small pieces of the dough with the grater into the hot water. If using a spaetzle-maker, put a spoon of dough into the maker and press through the holes into the water. The spaetzle are done when they rise and swim on the water surface.",
+          "Remove spaetzle from the water with a slotted spoon and put into a lightly oiled bowl."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASpaetzle"
+      }
+    },
+    {
+      "id": "schweinshaxe",
+      "name": "Schweinshaxe",
+      "videoSearch": "https://www.youtube.com/results?search_query=Schweinshaxe%20recipe",
+      "description": "Schweinshaxe, in German cuisine, is a roasted ham hock (or pork knuckle). The ham hock is the end of the pig's leg, just above the ankle and below the meaty ham portion. It is especially popular in Bavaria as Schweinshaxn or Sauhax(n).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/00ane_Haxen.jpg/500px-00ane_Haxen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Schweinshaxe"
+    },
+    {
+      "id": "rouladen",
+      "name": "Rouladen",
+      "localName": "Rinderrouladen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rouladen%20recipe",
+      "description": "A roulade () is a culinary term for a savory or sweet dish that is filled and rolled into a spiral shape. The dish is usually made from a flat piece of meat, fish, bread, pastry, meringue or sponge cake wrapped around a soft filling to create a spiral pattern. A Swiss roll exemplifies a sweet roulade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Unsliced_Flank_Roulade.jpg/500px-Unsliced_Flank_Roulade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Roulade"
+    },
+    {
+      "id": "maultaschen",
+      "name": "Maultaschen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Maultaschen%20recipe",
+      "description": "Maultaschen (German: [ˈmaʊ̯lˌtaʃn̩]; singular Maultasche (), lit. 'mouth pockets') are large meat-filled dumplings in Swabian cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Maultaschensuppe.jpg/500px-Maultaschensuppe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maultasche"
+    },
+    {
+      "id": "eisbein",
+      "name": "Eisbein",
+      "videoSearch": "https://www.youtube.com/results?search_query=Eisbein%20recipe",
+      "description": "Eisbein [ˈaɪ̯sˌbaɪ̯n] is a German dish of corned ham hock, usually cured and slightly boiled.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Eisbein-2.jpg/500px-Eisbein-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eisbein"
+    },
+    {
+      "id": "labskaus",
+      "name": "Labskaus",
+      "videoSearch": "https://www.youtube.com/results?search_query=Labskaus%20recipe",
+      "description": "Labskaus is a culinary speciality from northern Germany and in particular from the cities of Bremen, Hamburg and Lübeck. The main ingredients are salted meat or corned beef, potatoes, and onion. Some recipes put beetroot, pickled gherkin, or even herring into it, while others have these ingredients as side dishes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Hamburger_Labskaus_1.jpg/500px-Hamburger_Labskaus_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Labskaus"
+    },
+    {
+      "id": "leberkase",
+      "name": "Leberkäse",
+      "videoSearch": "https://www.youtube.com/results?search_query=Leberk%C3%A4se%20recipe",
+      "description": "(German, literally 'liver-cheese'; also Leberkäs or Lebaka(a)s) in Austria and the Swabian, Bavarian and Franconian parts of Germany, 'leverkaas' in the Netherlands and Fleischkäse (\"meat-cheese\"; rarely also Fleischkäs) in Saarland, Baden, Switzerland and Tyrol) is a speciality food found in the south of Germany, in A…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Leberk%C3%A4se-1.jpg/500px-Leberk%C3%A4se-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leberk%C3%A4se"
+    },
+    {
+      "id": "weisswurst",
+      "name": "Weisswurst",
+      "localName": "Weißwurst",
+      "videoSearch": "https://www.youtube.com/results?search_query=Weisswurst%20recipe",
+      "description": "Weißwurst is a traditional Bavarian sausage made from minced veal and pork fatback. It is usually flavored with parsley, lemon, mace, onions, ginger and cardamom, although there are some variations.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Wei%C3%9Fwurst-1.jpg/500px-Wei%C3%9Fwurst-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wei%C3%9Fwurst"
+    },
+    {
+      "id": "stollen",
+      "name": "Stollen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Stollen%20recipe",
+      "description": "Stollen or stol is a fruit bread of nuts, spices, and dried or candied fruit, often coated with powdered sugar or icing sugar and often containing marzipan or almond paste. It is a traditional holiday sweet bread in Northwestern Europe, particularly in Germany and the Netherlands. The bread is also popular in Suriname.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Stollen-Dresdner_Christstollen.jpg/500px-Stollen-Dresdner_Christstollen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stollen"
+    },
+    {
+      "id": "nurnberger-lebkuchen",
+      "name": "Nürnberger Lebkuchen",
+      "videoSearch": "https://www.youtube.com/results?search_query=N%C3%BCrnberger%20Lebkuchen%20recipe",
+      "description": "Lebkuchen, Honigkuchen or Pfefferkuchen are honey-sweetened German cakes, moulded cookies or bar cookies that have become part of Germany's Christmas traditions. They are similar to gingerbread.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Lebkuchen-pile.jpg/500px-Lebkuchen-pile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lebkuchen",
+      "recipe": {
+        "ingredients": [
+          "500 g honey",
+          "250 g granulated sugar",
+          "150 g flour",
+          "1 tsp cloves, ground",
+          "1 tsp nutmeg",
+          "1 tsp cardamom",
+          "1 tbsp cinnamon",
+          "1 pinch of ground ginger",
+          "Grated zest of 1 orange",
+          "Grated zest of 1 lemon",
+          "200 g chopped hazelnuts",
+          "50 g lemon flavoring",
+          "50 g orange flavoring",
+          "Gingerbread wafers",
+          "1 packet of baking powder"
+        ],
+        "steps": [
+          "Bring the honey and sugar to the boil in a saucepan while stirring. Remove from the heat and let cool.",
+          "Sift the flour into a bowl.",
+          "Stir in the remaining ingredients.",
+          "Pour the honey mixture, then the baking powder into the flour. Stir and knead the dough until it cools down.",
+          "Roll out the dough.",
+          "Cut out the dough, and place on the gingerbread wafers.",
+          "Decorate with an almond, and transfer to a baking sheet.",
+          "Let cool for about a day",
+          "Bake at 180 °C for 15–20 minutes"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ANuremberg_Gingerbread"
+      }
+    },
+    {
+      "id": "bienenstich",
+      "name": "Bienenstich",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bienenstich%20recipe",
+      "description": "Bienenstich or bee sting cake is a German dessert cake made of a sweet yeast dough with a baked-on topping of caramelized almonds and filled with vanilla custard, buttercream, or cream. The earliest German and Swiss recipes for the cake date to the beginning of the 20th century.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Bienenstich_140531_AW.jpg/500px-Bienenstich_140531_AW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bienenstich"
+    },
+    {
+      "id": "kartoffelpuffer",
+      "name": "Kartoffelpuffer",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kartoffelpuffer%20recipe",
+      "description": "Potato pancakes are shallow-fried pancakes consisting of grated or ground potato, matzo meal or flour and typically a binding ingredient such as egg or corn starch, often flavored with grated garlic or onion and seasonings.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Latkas.jpg/500px-Latkas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Potato_pancake"
+    },
+    {
+      "id": "konigsberger-klopse",
+      "name": "Königsberger Klopse",
+      "videoSearch": "https://www.youtube.com/results?search_query=K%C3%B6nigsberger%20Klopse%20recipe",
+      "description": "Königsberger Klopse, also known as Soßklopse, are a German specialty of meatballs in a creamy white sauce with capers.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Koenigsberger.jpg/500px-Koenigsberger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/K%C3%B6nigsberger_Klopse"
+    },
+    {
+      "id": "himmel-und-erde",
+      "name": "Himmel und Erde",
+      "videoSearch": "https://www.youtube.com/results?search_query=Himmel%20und%20Erde%20recipe",
+      "description": "Himmel und Erde ('Heaven and earth') is a traditional German dish of mashed potato with stewed apples. It is frequently served with sliced blood sausage. The dish is popular in the Rhineland, Westphalia, Lower Saxony and, historically, in Silesia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/2016-01-03_Himmel_und_Erde_anagoria.JPG/500px-2016-01-03_Himmel_und_Erde_anagoria.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Himmel_und_Erde"
+    },
+    {
+      "id": "kasespatzle",
+      "name": "Käsespätzle",
+      "videoSearch": "https://www.youtube.com/results?search_query=K%C3%A4sesp%C3%A4tzle%20recipe",
+      "description": "Käsespätzle (German for \"spätzle with cheese\", also called Käsknöpfle in Vorarlberg and Liechtenstein or Kasspatzl in Tyrol, Austria and Bavaria) is a traditional dish of the German regions of Swabia, Baden and Allgäu, and also in the Austrian regions Vorarlberg and Tyrol, as well as Liechtenstein and Switzerland.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_%281%29.jpg/500px-Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/K%C3%A4sesp%C3%A4tzle"
+    },
+    {
+      "id": "saumagen",
+      "name": "Saumagen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Saumagen%20recipe",
+      "description": "Saumagen is a German dish popular in the Palatinate. The dish is similar to a sausage in that it consists of a stuffed casing; however, the stomach itself is integral to the dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Saumagen_mit_Sauerkraut.JPG/500px-Saumagen_mit_Sauerkraut.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saumagen",
+      "recipe": {
+        "ingredients": [
+          "1 small pork stomach (order from your butcher)",
+          "375 g fatless pork belly (Schweinebauch)",
+          "375 g pork meat",
+          "375 g ground meat (Bratwurstfüllsel)",
+          "1–2 rolls, soaked in some milk",
+          "1 kg boiled potatoes",
+          "2 carrots",
+          "3 eggs",
+          "2 onions",
+          "1 bunch of parsley",
+          "1–2 cloves of garlic",
+          "Salt",
+          "Pepper",
+          "Marjoram",
+          "Nutmeg"
+        ],
+        "steps": [
+          "Soak the pork stomach overnight and use twine to close two of the three apertures.",
+          "Cut the meat and potatoes into small cubes.",
+          "Stew the onions, carrots, and parsley in butter. Smash the garlic.",
+          "Mix everything with the rolls and eggs and spice it well; then put everything into the pork stomach and close the third aperture.",
+          "Put the stomach in hot water and cook for 2–3 hours. The water must not boil.",
+          "Cut the stomach in 2 cm thick slices and serve them with mashed potatoes and sauerkraut. Alternatively you can store the cooked stomach in the fridge and fry it when you are ready to eat it."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APork_Stomach_Filled_with_Meat_and_Vegetables_(Saumagen)"
+      }
+    },
+    {
+      "id": "springerle",
+      "name": "Springerle",
+      "videoSearch": "https://www.youtube.com/results?search_query=Springerle%20recipe",
+      "description": "Springerle is a type of South German biscuit or cookie with an embossed design made by pressing a mold onto rolled dough and allowing the impression to dry before baking. This preserves the detail of the surface pattern.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Springerle_with_typical_foot_swabian_Fuessle.jpg/500px-Springerle_with_typical_foot_swabian_Fuessle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Springerle",
+      "recipe": {
+        "ingredients": [
+          "4.5 eggs",
+          "1 pound (3.5 cups) powdered sugar, sifted",
+          "1 pound (3–4 cups) flour",
+          "1 tsp baking powder",
+          "Anise seeds, crushed"
+        ],
+        "steps": [
+          "Beat eggs until light-colored and almost dry—this takes a long time, and an electric mixer is recommended.",
+          "Beat the sugar into the eggs.",
+          "Combine the flour and baking powder. Work into the eggs to make a delicate dough.",
+          "Grease several cookie sheets and scatter generously with crushed anise seeds.",
+          "Roll the dough gently and carefully imprint with springerle mold. Cut into pieces and transfer to baking sheets. Allow to dry overnight.",
+          "Bake at 250°F (120°C) for 25–30 minutes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASpringerle"
+      }
+    }
+  ]
+}

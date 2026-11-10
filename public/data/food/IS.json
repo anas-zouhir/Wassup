@@ -1,0 +1,62 @@
+{
+  "country": "IS",
+  "dishes": [
+    {
+      "id": "hakarl",
+      "name": "Hákarl",
+      "videoSearch": "https://www.youtube.com/results?search_query=H%C3%A1karl%20recipe",
+      "description": "Hákarl, referred to as fermented shark in English, is a national dish of Iceland consisting of Greenland shark or other sleeper shark that has been cured with a particular fermentation process and hung to dry for four to five months. It has a strong ammonia-rich smell and fishy taste, making hákarl an acquired taste.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Hakarl_near_Bjarnah%C3%B6fn_in_Iceland.JPG/500px-Hakarl_near_Bjarnah%C3%B6fn_in_Iceland.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A1karl"
+    },
+    {
+      "id": "skyr",
+      "name": "Skyr",
+      "videoSearch": "https://www.youtube.com/results?search_query=Skyr%20recipe",
+      "description": "Skyr is a traditional Icelandic cultured dairy product. It has the consistency of strained yogurt, but a milder flavor. Skyr can be classified as a fresh sour milk cheese, similar to curd cheese consumed like a yogurt in the Baltic states, the Low Countries and Germany.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Skyr.is_me%C3%B0_vanillu.jpg/500px-Skyr.is_me%C3%B0_vanillu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Skyr"
+    },
+    {
+      "id": "svid",
+      "name": "Svið",
+      "videoSearch": "https://www.youtube.com/results?search_query=Svi%C3%B0%20recipe",
+      "description": "Svið is a traditional Icelandic dish consisting of a sheep's head cut in half, singed to remove the fur, and boiled with the brain removed, sometimes cured in lactic acid. Svið originally arose at a time when people could not afford to let any part of a slaughtered animal go to waste.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Svi%C3%B0.jpg/500px-Svi%C3%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Svi%C3%B0"
+    },
+    {
+      "id": "hangikjot",
+      "name": "Hangikjöt",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hangikj%C3%B6t%20recipe",
+      "description": "Hangikjöt is a traditional festive food in Iceland, served at Christmas.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Hangikj%C3%B6t.jpg/500px-Hangikj%C3%B6t.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hangikj%C3%B6t"
+    },
+    {
+      "id": "kleina",
+      "name": "Kleina",
+      "localName": "Kleinur",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kleina%20recipe",
+      "description": "Klenät, kleinur, klena, klejne, kleina, kleyna, and fattigmann are all names for angel wings, a fried pastry common in the Nordic countries as well as the rest of Europe and the United States.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kleina.jpg/500px-Kleina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Klen%C3%A4t"
+    },
+    {
+      "id": "laufabraud",
+      "name": "Laufabrauð",
+      "videoSearch": "https://www.youtube.com/results?search_query=Laufabrau%C3%B0%20recipe",
+      "description": "Laufabrauð is a traditional kind of Icelandic bread that is almost exclusively eaten in the Christmas season.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Laufabrau%C3%B0_before_and_after_frying.jpg/500px-Laufabrau%C3%B0_before_and_after_frying.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Laufabrau%C3%B0"
+    },
+    {
+      "id": "rugbraud",
+      "name": "Rúgbrauð",
+      "videoSearch": "https://www.youtube.com/results?search_query=R%C3%BAgbrau%C3%B0%20recipe",
+      "description": "Rúgbrauð is an Icelandic straight rye bread. It is traditionally baked in a pot or steamed in special wooden casks by burying it in the ground near a geyser, in which case it is known as hverabrauð [ˈkʰvɛːraˌprœyːθ] or \"hot-spring-bread\". Modern rúgbrauð is usually made in a square baking pan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/R%C3%BAgbrau%C3%B0_and_Flatbrau%C3%B0.jpg/500px-R%C3%BAgbrau%C3%B0_and_Flatbrau%C3%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/R%C3%BAgbrau%C3%B0"
+    }
+  ]
+}

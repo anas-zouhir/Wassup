@@ -1,0 +1,434 @@
+{
+  "country": "VN",
+  "dishes": [
+    {
+      "id": "pho",
+      "name": "Phở",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ph%E1%BB%9F%20recipe",
+      "description": "Pho is a Vietnamese soup dish consisting of broth, rice noodles (bánh phở), herbs, and meat – usually beef (phở bò), and sometimes chicken (phở gà). Pho is a popular food in Vietnam where it is served in households, street-stalls, and restaurants nationwide.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Bowl_of_Meatball_pho.jpg/500px-Bowl_of_Meatball_pho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pho",
+      "recipe": {
+        "ingredients": [
+          "2 large white onions, cut into quarters",
+          "1 tablespoon vegetable or peanut oil",
+          "5 lbs beef bones (choose ones with a bit of meat on them)",
+          "1 small knob of ginger, chopped",
+          "1 small cinnamon stick",
+          "2 whole cardamom pods",
+          "4 whole cloves",
+          "1 star anise pod",
+          "1 tablespoon whole black peppercorns",
+          "Phở noodles (thin, flat rice noodles), soaked in hot water until soft and drained",
+          "Finely sliced white onion",
+          "Finely sliced scallions",
+          "Chopped coriander leaf",
+          "Finely sliced beef sirloin (ask your butcher)",
+          "Whole chile peppers",
+          "Bean sprouts",
+          "Limes, cut into wedges",
+          "Thai basil",
+          "Nước mắm",
+          "Hot sauce",
+          "Hoisin sauce",
+          "Black pepper"
+        ],
+        "steps": [
+          "Fry onions in oil until lightly browned. Remove and drain.",
+          "Rinse the beef bones, place in a stockpot, cover with cold water, and bring slowly to a boil. Reduce heat and simmer, uncovered, for 10–15 minutes. For a clear broth skim off foam.",
+          "After this initial cooking, add cooked onions, ginger, cinnamon, cardamom, star anise, cloves, garlic and peppercorns. Bring to a boil again and gently simmer the stock, partially covered, for a minimum of 6 hours but up to 12 hours if you can, skimming regularly. If necessary, add more water to keep the bones covered.",
+          "Strain stock to remove the vegetable and spices and discard them. Return the broth to the stove to keep it boiling hot.",
+          "In a large soup bowl, place a handful of cooked phở noodles, top with thinly sliced raw beef, and ladle on generous amounts of very hot broth, which will cook the raw beef. Garnish with sliced onions, scallions and coriander, and serve immediately."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APh%E1%BB%9F_B%C3%B2_(Vietnamese_Beef_Noodle_Soup)"
+      }
+    },
+    {
+      "id": "banh-mi",
+      "name": "Bánh mì",
+      "videoSearch": "https://www.youtube.com/results?search_query=B%C3%A1nh%20m%C3%AC%20recipe",
+      "description": "In Vietnamese cuisine, bánh mì, bánh mỳ or banh mi (,; Vietnamese: [ɓǎjŋ̟ mì],), is a short baguette with thin, crisp crust and a soft, airy texture. Similar to a submarine sandwich, it is often split lengthwise and filled with meat and savory ingredients and served as a meal, called bánh mì thịt.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/B%C3%A1nh_m%C3%AC_th%E1%BB%8Bt_n%C6%B0%E1%BB%9Bng.png/500px-B%C3%A1nh_m%C3%AC_th%E1%BB%8Bt_n%C6%B0%E1%BB%9Bng.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC",
+      "recipe": {
+        "ingredients": [
+          "1 loaf baguette-style bread",
+          "Julienned carrot",
+          "Julienned daikon radish",
+          "Salt",
+          "Water",
+          "Coconut vinegar or white vinegar",
+          "Sugar",
+          "Cilantro (coriander) leaves and stems",
+          "Super-thin jalapeño slices",
+          "Fresh sliced cucumber",
+          "BBQ pork",
+          "BBQ chicken",
+          "Sliced pork pâté",
+          "Sliced pork meatloaf",
+          "Sliced ham",
+          "BBQ beef",
+          "Meatballs",
+          "Sliced Chinese/Thai/Vietnamese-style sausage (waxy kind)",
+          "Sardines",
+          "Tripe",
+          "Smoked salmon",
+          "Grilled or fried whitefish",
+          "Textured vegetable protein (wheat gluten, seitan, sueyu, suegai - vegetarian fish fillets)",
+          "Seasoned tofu",
+          "Sliced turnip",
+          "Sliced green onions",
+          "Sliced, patted dry tomatoes",
+          "Sprigs of mint",
+          "Sprigs of basil",
+          "Shredded cabbage",
+          "Sprout mix",
+          "Lettuce",
+          "Japanese mayonnaise (Kewpie Mayo - squeeze bottle with a baby on front)",
+          "Mayso (mayo and soy sauce)",
+          "Maysocha (mayo, soy sauce, and sriracha chili sauce)",
+          "Maycha (mayo and sriracha)",
+          "Hot Mom (mayo, Lao Gan Ma Chinese hot sauce)",
+          "Any of the above with lime or lemon juice and sugar",
+          "BBQ sauce and mayo"
+        ],
+        "steps": [
+          "Lightly sprinkle the julienned carrot and radish with salt. Let rest 5 min, then rinse with cold water.",
+          "Mix equal parts of water, vinegar with sugar. Bring to a boil, cool, and pour over vegetables.",
+          "Store this mixture in a container in the refrigerator for at least a day before using.",
+          "Slice a length of baguette lengthwise. Form a trench in each half by either removing the excess bread or compressing it. These depressions are where you will put the filling.",
+          "Toast the bread if desired.",
+          "Spread a layer of desired sauce(s) on each half of the bread.",
+          "Fill the sandwich with any of the desired fillings listed above.",
+          "Serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AB%C3%A1nh_M%C3%AC"
+      }
+    },
+    {
+      "id": "bun-cha",
+      "name": "Bún chả",
+      "videoSearch": "https://www.youtube.com/results?search_query=B%C3%BAn%20ch%E1%BA%A3%20recipe",
+      "description": "Bún chả is a Vietnamese dish of grilled pork and noodles, which is thought to have originated from Hanoi, Vietnam. Bún chả is served with grilled fatty pork (chả) over a plate of white rice noodles (bún) and herbs with a side dish of dipping sauce.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/B%C3%BAn_ch%E1%BA%A3_Vietnamese_food.jpg/500px-B%C3%BAn_ch%E1%BA%A3_Vietnamese_food.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bun_cha"
+    },
+    {
+      "id": "bun-bo-hue",
+      "name": "Bún bò Huế",
+      "videoSearch": "https://www.youtube.com/results?search_query=B%C3%BAn%20b%C3%B2%20Hu%E1%BA%BF%20recipe",
+      "description": "Bún bò Huế or bún bò (English: ) is a Vietnamese rice noodle (bún) dish with sliced beef (bò), chả lụa, and sometimes pork knuckles. The dish originates from Huế, a city in central Vietnam associated with the cooking style of the former royal court. The dish has a mix of spicy, salty, and savory flavors.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/B%C3%BAn_b%C3%B2_Hu%E1%BA%BF_-_Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba_%282024%29_-_img_02.jpg/500px-B%C3%BAn_b%C3%B2_Hu%E1%BA%BF_-_Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba_%282024%29_-_img_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%BAn_b%C3%B2_Hu%E1%BA%BF",
+      "recipe": {
+        "ingredients": [
+          "4 tbsp Huế shrimp paste",
+          "1 small onion, finely chopped",
+          "Vegetable oil",
+          "2 fresh medium-sized pigs feet, cut into 1 cm pieces (discard the feet themselves)",
+          "2 stalks of lemongrass, cut into 5-inch pieces",
+          "1 kg beef shank with cartilage, sliced into 2 mm thick pieces and cut about 4 x 4 cm",
+          "Nước mắm",
+          "Sugar",
+          "Red pigment powder (non-spicy, just for coloring)",
+          "Chilli powder",
+          "1 bunch of cilantro leaves, chopped",
+          "1 bunch of Italian (flat leaf) parsley leaves, chopped",
+          "1 medium onion, finely chopped",
+          "1 kg thin rice noodles",
+          "Limes, cut into wedges",
+          "Fresh chilli peppers, sliced",
+          "Bean sprouts",
+          "Banana blossom, thinly sliced",
+          "Shrimp paste"
+        ],
+        "steps": [
+          "Add the shrimp paste to a large 2.5 L bowl, and gradually mix in cold water while vigorously stirring the paste. Keep adding water and stirring until you’ve almost reached the rim of the bowl. Don’t let it spill over. Let the paste mixture rest in the bowl for 1.5 hours to allow the mixture to settle.",
+          "Sauté the small onion in 3 tbsp oil until golden brown.",
+          "In a stockpot, combine the cooked onion and pig feet with 2 L water. Slowly bring it to the boil over medium heat.",
+          "Add lemongrass, then slowly and carefully pour in the shrimp paste mixture, making sure to only add the clear liquid and not the silt that has settled at the bottom of the bowl.",
+          "To the residual shrimp paste, add another litre of water and stir. Again, wait until the mixture has settled before adding it into the stockpot.",
+          "Simmer the stock for 20 minutes.",
+          "Add the beef and occasionally skim the broth to ensure you get a nice clear liquid. Cook for another 20 minutes, checking the beef to be sure it’s not overcooked.",
+          "Add fish sauce and sugar to taste to achieve a nice balance between salty and sweet.",
+          "While the broth is cooking, heat some oil in a pan and add the red pigment. Cook until the pigment is blended with the oil. Add to the stock. Repeat the process with the chilli powder.",
+          "Combine chopped parsley and cilantro leaves with the uncooked medium onion.",
+          "If you are using fresh noodles, simply add boiling water to heat them up. If you’re using dried noodles, soak them in boiling water until they are soft then dip in cold water to stop the cooking process. Do not over cook them or you’ll have mush. Dried noodles have already been cooked.",
+          "In a large soup bowl, place a handful of noodles, top with a handful of the parsley/cilantro/onion mixture, and ladle on generous amounts of steaming hot broth, ensuring there are several pieces of beef and pork.",
+          "Serve hot with the condiments. You can add a squeeze of lime and chopped fresh chillies if you like your food extra spicy. It is also common to add a small dollop of shrimp paste to the soup, but those unfamiliar with the taste may not like it."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AVietnamese_Rice_Noodle_and_Beef_Soup_(B%C3%BAn_b%C3%B2_Hu%E1%BA%BF)"
+      }
+    },
+    {
+      "id": "goi-cuon",
+      "name": "Gỏi cuốn (summer rolls)",
+      "localName": "Gỏi cuốn",
+      "videoSearch": "https://www.youtube.com/results?search_query=G%E1%BB%8Fi%20cu%E1%BB%91n%20(summer%20rolls)%20recipe",
+      "description": "Gỏi cuốn, nem cuốn, salad roll, summer roll, fresh spring roll, or rice paper roll is a Vietnamese dish traditionally consisting of pork, prawn, vegetables, bún (rice vermicelli), and other ingredients wrapped in bánh tráng (commonly known as rice paper or cold roll).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Homemade_spring_rolls_%287010969349%29.jpg/500px-Homemade_spring_rolls_%287010969349%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/G%E1%BB%8Fi_cu%E1%BB%91n",
+      "recipe": {
+        "ingredients": [
+          "4 rice wafers (rice paper, tapioca sheet)",
+          "4–8 prawns",
+          "50 g cooked pork or chicken meat",
+          "50 g cooked rice vermicelli",
+          "1 cucumber, sliced into fingers",
+          "4 leaves of leafy lettuce (e.g. romaine/cos, mignonette, etc.)",
+          "2 leaves of Chinese cabbage, halved lengthways",
+          "Fresh herbs, to taste (e.g. coriander, basil, mint)",
+          "Warm water"
+        ],
+        "steps": [
+          "Dip a rice wafer into the warm water and remove immediately when it is completely wet—it only needs to be in the water for a few seconds.",
+          "Lay the rice wafer on a board or plate.",
+          "Arrange a portion of the ingredients near the edge of the rice wafer in a neat pile, with the fingers of cucumber roughly parallel to the edge of the wafer.",
+          "Fold the edge of the wafer over the pile of ingredients, and roll it over once.",
+          "Fold the sides of the wafer inwards, to close of the ends of the roll you just made.",
+          "Roll the wafer up the rest of the way, to enclose the roll completely.",
+          "Set aside for 5 minutes to dry a little before eating.",
+          "The above process for each summer roll."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASummer_Rolls"
+      }
+    },
+    {
+      "id": "cha-gio",
+      "name": "Chả giò (fried spring rolls)",
+      "localName": "Chả giò",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ch%E1%BA%A3%20gi%C3%B2%20(fried%20spring%20rolls)%20recipe",
+      "description": "Chả giò, or nem rán, also known as fried spring roll, is a popular dish in Vietnamese cuisine and usually served as an appetizer in Europe, North America, and Australia, where there are large communities of the Vietnamese diaspora. It is ground meat, usually pork, wrapped in rice paper and deep-fried.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Cha_gio.jpg/500px-Cha_gio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ch%E1%BA%A3_gi%C3%B2"
+    },
+    {
+      "id": "banh-xeo",
+      "name": "Bánh xèo",
+      "videoSearch": "https://www.youtube.com/results?search_query=B%C3%A1nh%20x%C3%A8o%20recipe",
+      "description": "Bánh xèo is a crispy, stuffed rice crepe popular in Vietnam. The name refers to the sound (from xèo – 'sizzling') a thin layer of rice batter makes when it is poured into the hot skillet. It is a savoury fried pancake made of rice flour, water, and turmeric powder.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Banh_Xeo_with_fish_sauce_and_vegetables.jpg/500px-Banh_Xeo_with_fish_sauce_and_vegetables.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%A1nh_x%C3%A8o"
+    },
+    {
+      "id": "com-tam",
+      "name": "Cơm tấm",
+      "videoSearch": "https://www.youtube.com/results?search_query=C%C6%A1m%20t%E1%BA%A5m%20recipe",
+      "description": "Cơm tấm, also referred as cơm sườn, is a Vietnamese dish made from broken rice, ribs, cucumbers, and pickled carrots, often served with sweet and sour fish sauce. Tấm refers to the broken rice grains, while cơm refers to cooked rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/C%C6%A1m_T%E1%BA%A5m%2C_Da_Nang%2C_Vietnam.jpg/500px-C%C6%A1m_T%E1%BA%A5m%2C_Da_Nang%2C_Vietnam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/C%C6%A1m_t%E1%BA%A5m"
+    },
+    {
+      "id": "cao-lau",
+      "name": "Cao lầu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cao%20l%E1%BA%A7u%20recipe",
+      "description": "Cao lầu is a regional Vietnamese noodle dish, from the city of Hội An, in the central Vietnamese municipality of Da Nang.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Cao_l%E1%BA%A7u_H%E1%BB%99i_An_%282024%29.jpg/500px-Cao_l%E1%BA%A7u_H%E1%BB%99i_An_%282024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cao_l%E1%BA%A7u",
+      "recipe": {
+        "ingredients": [
+          "300 g pork",
+          "2 cups (150 g) uncooked Hokkien-style rice noodles",
+          "2 cups (150 g) bean sprouts",
+          "4 cloves garlic",
+          "1 tsp Chinese five-spice powder",
+          "1 tbsp soy sauce",
+          "1 tsp sugar",
+          "1 pinch chicken stock powder",
+          "Turmeric powder (or paprika), for color",
+          "2 tbsp vegetable oil",
+          "1 cup (250 ml) water",
+          "Lettuce",
+          "Asian greens (basil, cilantro, etc.)",
+          "Chopped fresh chiles (for example Serrano chiles)",
+          "Croûtons",
+          "Spring onions"
+        ],
+        "steps": [
+          "Heat oil and paprika in a pan.",
+          "Add pork, smashed garlic, soy sauce, chicken stock, and spices. Fry for 3 minutes",
+          "Add 1 tbsp water and fry for a further 2 minutes.",
+          "Remove from heat, and set aside.",
+          "Bring a pot of water to a boil. Add sprouts, and cook for 1–2 minutes until soft.",
+          "Remove sprouts, add noodles, and cook noodles for 2 minutes.",
+          "Put noodles in a bowl on top of lettuce and greens. Add pork mixture, chopped spring onions, croûtons, and chiles."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACao_l%E1%BA%A7u_(Vietnamese_Pork_Noodles_with_Greens)"
+      }
+    },
+    {
+      "id": "mi-quang",
+      "name": "Mì Quảng",
+      "videoSearch": "https://www.youtube.com/results?search_query=M%C3%AC%20Qu%E1%BA%A3ng%20recipe",
+      "description": "Mì Quảng, literally \"Quảng noodles\", is a Vietnamese noodle dish that originated in Quảng Nam Province in central Vietnam. It is one of the region's most popular and well recognized food items, and is served on various occasions, like at family parties, death anniversaries, and Tết.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/M%C3%AC_Qu%E1%BA%A3ng%2C_Da_Nang%2C_Vietnam.jpg/500px-M%C3%AC_Qu%E1%BA%A3ng%2C_Da_Nang%2C_Vietnam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/M%C3%AC_Qu%E1%BA%A3ng"
+    },
+    {
+      "id": "hu-tieu",
+      "name": "Hủ tiếu",
+      "videoSearch": "https://www.youtube.com/results?search_query=H%E1%BB%A7%20ti%E1%BA%BFu%20recipe",
+      "description": "Hủ tiếu or Hủ tíu is a Vietnamese dish eaten in Vietnam as breakfast. It may be served either as a soup (hủ tiếu nước) or dry with no broth (hủ tiếu khô). Hủ tiếu became popular in the 1960s in Southern Vietnam, especially in Saigon.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Hu_Tieu_Nam_Vang.jpg/500px-Hu_Tieu_Nam_Vang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/H%E1%BB%A7_ti%E1%BA%BFu"
+    },
+    {
+      "id": "bun-rieu",
+      "name": "Bún riêu",
+      "videoSearch": "https://www.youtube.com/results?search_query=B%C3%BAn%20ri%C3%AAu%20recipe",
+      "description": "Bún riêu is a traditional Vietnamese soup of clear stock and rice vermicelli. There are several varieties of bún riêu, including bún riêu cua (minced crab), bún riêu cá (minced crab and fish) and bún riêu ốc (minced crab and snail).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/B%C3%BAn_ri%C3%AAu_%C4%91%E1%BA%B7c_bi%E1%BB%87t.jpg/500px-B%C3%BAn_ri%C3%AAu_%C4%91%E1%BA%B7c_bi%E1%BB%87t.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%BAn_ri%C3%AAu"
+    },
+    {
+      "id": "banh-cuon",
+      "name": "Bánh cuốn",
+      "videoSearch": "https://www.youtube.com/results?search_query=B%C3%A1nh%20cu%E1%BB%91n%20recipe",
+      "description": "Bánh cuốn or bánh quấn is a Vietnamese dish originating from Northern Vietnam.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/B%C3%A1nh_cu%E1%BB%91n_Thanh_Tr%C3%AC.jpg/500px-B%C3%A1nh_cu%E1%BB%91n_Thanh_Tr%C3%AC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%A1nh_cu%E1%BB%91n"
+    },
+    {
+      "id": "banh-chung",
+      "name": "Bánh chưng",
+      "videoSearch": "https://www.youtube.com/results?search_query=B%C3%A1nh%20ch%C6%B0ng%20recipe",
+      "description": "Bánh chưng, banh chung or chung cake is a traditional Vietnamese dish which is made from glutinous rice, mung beans, pork, and other ingredients. According to legend, its origin traces back to Lang Liêu, a prince of the last king of the Sixth Hùng Dynasty.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Banh_chung_vuong.jpg/500px-Banh_chung_vuong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%A1nh_ch%C6%B0ng",
+      "recipe": {
+        "ingredients": [
+          "1½ cups mung beans, washed and soaked in water for 4 hours, or better overnight",
+          "5½ cups sticky rice, washed and soaked in water for 4 hours, or better overnight, and seasoned with salt",
+          "500 g pork belly",
+          "2½ tsps salt",
+          "2½ tsps black pepper, preferably freshly ground",
+          "3 tbsps fried shallot",
+          "1 tbsp vegetable oil",
+          "3 shallots, minced",
+          "2 tbsps fish sauce",
+          "1 kg banana leaves, fresh or thawed",
+          "To make the fillings for bánh chưng, soak the mung beans in water for at least 4 hours, or better overnight.",
+          "Place the mung beans in a pot and fill with water until covered.",
+          "Bring the pot to a boil and then reduce heat to a simmer.",
+          "Cook until the beans are soft and easily mashable for about 20 minutes.",
+          "Mash the beans into a paste. Season to taste with 1 tsp salt, stock powder, fried shallots, 1 tsp pepper and 1 tbsp vegetable oil.",
+          "For the meat, use both lean pork and pork fat. Cut them into large cubes, then season with ½ tsp salt and 1½ tsp pepper. Also add the minced shallots and 2 tbsps fish sauce. Mix well and let it marinate for a few hours.",
+          "Take about a cup of the mashed mung beans, spread it out on a thin plastic film, add a few pieces of lean pork and pork fat and shape it into a round or squared piece.",
+          "Tear the banana leaves into very large pieces, around 18 to 20 inches.",
+          "Lay out two sheets of partially overlapping banana leaves on a flat surface. Place a cup of sticky rice, which has been soaked in water overnight and seasoned with salt, at the center of the leaves. Place the fillings on top of the rice and then cover it up with another cup of sticky rice. Fold the leaves and wrap it up tightly like a present.",
+          "To prevent water penetrating into the cake during the boiling process, it is important to wrap up the cake two times. For the inner layer, make sure that the darker side of the banana leaf faces the rice so that it can tint the cake with a nice subtle green color later on. However, for the outer layer, the darker side of the banana leaf should face outside to give it a beautiful green package.",
+          "After the cake has been wrapped up, tie the cake tightly with twines.",
+          "Arrange the cakes tightly in a large stockpot and fill with water. Bring the stockpot to a boil and let it simmer until the cakes feel plump and the rice is congealed for about 6 to 8 hours.",
+          "To enjoy the cake, just removes the twines and unwrap the cake. Because the cake is sticky, it might be difficult to cut it with a knife. Cut the cake into wedges or slices using a thread or dental floss.",
+          "Bánh chưng is often eaten with pickled onions (dưa hành), pickled vegetables in fish sauce (dưa món), or dipped in sugar for a sweet treat. They can also be sliced, pan fried until golden, and served with sugar or sweet chili sauce."
+        ],
+        "steps": [
+          "To make the fillings for bánh chưng, soak the mung beans in water for at least 4 hours, or better overnight.",
+          "Place the mung beans in a pot and fill with water until covered.",
+          "Bring the pot to a boil and then reduce heat to a simmer.",
+          "Cook until the beans are soft and easily mashable for about 20 minutes.",
+          "Mash the beans into a paste. Season to taste with 1 tsp salt, stock powder, fried shallots, 1 tsp pepper and 1 tbsp vegetable oil.",
+          "For the meat, use both lean pork and pork fat. Cut them into large cubes, then season with ½ tsp salt and 1½ tsp pepper. Also add the minced shallots and 2 tbsps fish sauce. Mix well and let it marinate for a few hours.",
+          "Take about a cup of the mashed mung beans, spread it out on a thin plastic film, add a few pieces of lean pork and pork fat and shape it into a round or squared piece.",
+          "Tear the banana leaves into very large pieces, around 18 to 20 inches.",
+          "Lay out two sheets of partially overlapping banana leaves on a flat surface. Place a cup of sticky rice, which has been soaked in water overnight and seasoned with salt, at the center of the leaves. Place the fillings on top of the rice and then cover it up with another cup of sticky rice. Fold the leaves and wrap it up tightly like a present.",
+          "To prevent water penetrating into the cake during the boiling process, it is important to wrap up the cake two times. For the inner layer, make sure that the darker side of the banana leaf faces the rice so that it can tint the cake with a nice subtle green color later on. However, for the outer layer, the darker side of the banana leaf should face outside to give it a beautiful green package.",
+          "After the cake has been wrapped up, tie the cake tightly with twines.",
+          "Arrange the cakes tightly in a large stockpot and fill with water. Bring the stockpot to a boil and let it simmer until the cakes feel plump and the rice is congealed for about 6 to 8 hours.",
+          "To enjoy the cake, just removes the twines and unwrap the cake. Because the cake is sticky, it might be difficult to cut it with a knife. Cut the cake into wedges or slices using a thread or dental floss.",
+          "Bánh chưng is often eaten with pickled onions (dưa hành), pickled vegetables in fish sauce (dưa món), or dipped in sugar for a sweet treat. They can also be sliced, pan fried until golden, and served with sugar or sweet chili sauce."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AB%C3%A1nh_ch%C6%B0ng"
+      }
+    },
+    {
+      "id": "canh-chua",
+      "name": "Canh chua",
+      "videoSearch": "https://www.youtube.com/results?search_query=Canh%20chua%20recipe",
+      "description": "Canh chua is a Vietnamese sour soup indigenous to the Mekong Delta region of Southern Vietnam (Central Vietnam also have their own canh chua).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Canhchua2.jpg/500px-Canhchua2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Canh_chua",
+      "recipe": {
+        "ingredients": [
+          "1 whole catfish or other firm white fish",
+          "2 scallions, green part reserved for garnish and white part crushed",
+          "4 teaspoons nước mắm",
+          "1 teaspoon salt",
+          "Freshly-ground black pepper",
+          "1 quart (950 ml) water",
+          "2 teaspoons salt",
+          "2 tablespoons nước mắm",
+          "½ cup (120g) sour bamboo",
+          "¼ fresh pineapple, core removed, cut lengthwise and sliced",
+          "2 tablespoons chopped fresh coriander",
+          "Green part of scallions, chopped"
+        ],
+        "steps": [
+          "Marinate the fish for 15 minutes with the crushed scallions, black pepper, salt, and nước mắm.",
+          "Bring water to the boil. Add the sour bamboo and pineapple slices. Boil for 5 minutes.",
+          "Add marinated fish and continue to boil for a total of 10 minutes. While the fish is boiling, add Nước mắm, and salt.",
+          "For serving, the soup can be garnished with coriander and the green part of scallions."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACanh_Chua_(Vietnamese_Hot_and_Sour_Soup)"
+      }
+    },
+    {
+      "id": "thit-kho",
+      "name": "Thịt kho",
+      "videoSearch": "https://www.youtube.com/results?search_query=Th%E1%BB%8Bt%20kho%20recipe",
+      "description": "Caramelized pork and eggs or thịt kho tàu is a Vietnamese dish that consists of small pieces of marinated pork and boiled eggs braised in coconut juice. Along with being a familiar part of an everyday meal in Vietnam, thịt kho tàu also holds significance as one of the traditional dishes during Tết (Vietnamese New Year).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Caramelized_Pork_and_Eggs.jpg/500px-Caramelized_Pork_and_Eggs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Caramelized_pork_and_eggs"
+    },
+    {
+      "id": "bo-kho",
+      "name": "Bò kho",
+      "videoSearch": "https://www.youtube.com/results?search_query=B%C3%B2%20kho%20recipe",
+      "description": "Bò kho is a Vietnamese stew made by simmering chunks of beef and carrots in a tomato base that has been infused with the aromatic essence of lemongrass, ginger, star anise, cinnamon, and five-spice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Kho.jpg/500px-Kho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%B2_kho"
+    },
+    {
+      "id": "cha-ca",
+      "name": "Chả cá Lã Vọng",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ch%E1%BA%A3%20c%C3%A1%20L%C3%A3%20V%E1%BB%8Dng%20recipe",
+      "description": "Cha ca La Vong (Chả cá Lã Vọng in Vietnamese) is a Vietnamese grilled fish dish originally from Hanoi. The dish is traditionally made with hemibagrus (cá lăng in Vietnamese), which is a genus of catfish. The fish is cut into pieces and marinated with turmeric, galangal, fermented rice and other ingredients.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Ch%E1%BA%A3_c%C3%A1_L%C3%A3_V%E1%BB%8Dng_H%C3%A0_N%E1%BB%99i.jpg/500px-Ch%E1%BA%A3_c%C3%A1_L%C3%A3_V%E1%BB%8Dng_H%C3%A0_N%E1%BB%99i.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ch%E1%BA%A3_c%C3%A1_L%C3%A3_V%E1%BB%8Dng"
+    },
+    {
+      "id": "banh-beo",
+      "name": "Bánh bèo",
+      "videoSearch": "https://www.youtube.com/results?search_query=B%C3%A1nh%20b%C3%A8o%20recipe",
+      "description": "Bánh bèo is a Vietnamese dish originating from Huế, a city in Central Vietnam. The name is sometimes translated as \"water fern cake\", though \"fern-shaped cake\" is a more accurate rendering: the plant referenced is a small, round-leaved aquatic plant resembling duckweed or water lily, whose appearance the steamed cake i…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/B%C3%A1nh_b%C3%A8o.jpg/500px-B%C3%A1nh_b%C3%A8o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%A1nh_b%C3%A8o"
+    },
+    {
+      "id": "xoi",
+      "name": "Xôi (sticky rice)",
+      "localName": "Xôi",
+      "videoSearch": "https://www.youtube.com/results?search_query=X%C3%B4i%20(sticky%20rice)%20recipe",
+      "description": "Xôi is a traditional Vietnamese dish made of sticky rice. With a history tracing back to Tai tribes in Southeast Asia, sticky rice became a staple crop in Vietnam partly due to the region's suitability for its growth.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/X%C3%B4i_s%E1%BA%AFn.jpg/500px-X%C3%B4i_s%E1%BA%AFn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/X%C3%B4i"
+    },
+    {
+      "id": "che",
+      "name": "Chè",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ch%C3%A8%20recipe",
+      "description": "Chè in traditional Vietnamese cuisine refers to a wide variety of distinct sweet beverages, puddings and desserts. Varieties of Chè can be made with mung beans, black-eyed peas, kidney beans, tapioca, jelly (clear or grass), fruit (longan, mango, durian, lychee or jackfruit), and coconut cream.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ch%C3%A8_xo%C3%A0i.jpg/500px-Ch%C3%A8_xo%C3%A0i.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ch%C3%A8"
+    },
+    {
+      "id": "egg-coffee",
+      "name": "Egg coffee",
+      "localName": "Cà phê trứng",
+      "videoSearch": "https://www.youtube.com/results?search_query=Egg%20coffee%20recipe",
+      "description": "Egg coffee (Vietnamese: Cà phê trứng,) is a Vietnamese drink traditionally prepared with egg yolks, sugar, condensed milk and robusta coffee. The drink is made by filtering coffee beans in a phin, and beating egg yolks with sugar and condensed milk over heat to get egg-cream component.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/C%C3%A0_ph%C3%AA_tr%E1%BB%A9ng.jpg/500px-C%C3%A0_ph%C3%AA_tr%E1%BB%A9ng.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Egg_coffee"
+    }
+  ]
+}

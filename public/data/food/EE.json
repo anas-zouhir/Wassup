@@ -1,0 +1,53 @@
+{
+  "country": "EE",
+  "dishes": [
+    {
+      "id": "verivorst",
+      "name": "Verivorst",
+      "videoSearch": "https://www.youtube.com/results?search_query=Verivorst%20recipe",
+      "description": "A blood sausage is a sausage filled with blood that is cooked or dried and mixed with a filler until it is thick enough to solidify when cooled. Most commonly, the blood of pigs, sheep, lamb, cow, chicken, or goose is used.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Boudin3.jpg/500px-Boudin3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Blood_sausage"
+    },
+    {
+      "id": "kama",
+      "name": "Kama",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kama%20recipe",
+      "description": "Kama (from Estonian) is a dish from the Baltic region, most commonly eaten in Estonia and Finland (where it is called talkkuna), based on milled cereals and legumes, traditionally prepared and eaten uncooked as fast food by combining the fine flour mixture with just cow milk or buttermilk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Kama.jpg/500px-Kama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kama_(food)"
+    },
+    {
+      "id": "mulgipuder",
+      "name": "Mulgipuder",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mulgipuder%20recipe",
+      "description": "Mulgipuder (also Mulgi puder) is pieces of potatoes mixed with pearl barley and topped with fried pork. The name literally means 'porridge from Mulgimaa (an area in southern Estonia)'; the word puder 'porridge' comes from Proto-Finnic *putro (cf.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Mulgipuder.jpg/500px-Mulgipuder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mulgipuder"
+    },
+    {
+      "id": "kringel",
+      "name": "Kringel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kringel%20recipe",
+      "description": "Kringle is a Northern European pastry or bread, a variety of pretzel that may be sweet, salty or filled, in a characteristic pretzel-like twisted shape. In Danish and Norwegian, the word is kringle and Swedish: kringla.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Kringle_2.JPG/500px-Kringle_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kringle"
+    },
+    {
+      "id": "mulgikapsad",
+      "name": "Mulgikapsad",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mulgikapsad%20recipe",
+      "description": "Mulgikapsad (also Mulgi kapsad) is sauerkraut stewed with lard, meat (mostly pork) and pearl barley. It is in the list of the Estonian cultural heritage, and can be considered to be an Estonian national food.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Mulgikapsad.jpg/500px-Mulgikapsad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mulgikapsad"
+    },
+    {
+      "id": "kohuke",
+      "name": "Kohuke",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kohuke%20recipe",
+      "description": "Curd snack, quark bar, cottage cheese bar or curd cheese bar is a type of sweet dairy food made from glazed or unglazed curd cheese with or without filling.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Varskes_surelis2.jpg/500px-Varskes_surelis2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Curd_snack"
+    }
+  ]
+}

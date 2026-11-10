@@ -1,0 +1,58 @@
+{
+  "country": "BT",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "bbs",
+        "name": "BBS (Bhutan Broadcasting Service)",
+        "homepage": "https://www.bbs.bt",
+        "lang": "en-BT"
+      },
+      "fetchedAt": "2026-10-22T15:10:03.332Z",
+      "items": [
+        {
+          "title": "Gelephu prepares for traffic surge ahead of 108 Chortens",
+          "link": "https://www.bbs.bt/247768/",
+          "summary": "With more than 40 thousand vehicles expected in Gelephu for the 108 Jangchub Chortens event, the police are stepping up traffic management. Staggered travel schedules, designated parking and free shuttle services aim to…",
+          "publishedAt": "2026-10-22T11:06:18.000Z"
+        },
+        {
+          "title": "Je Khenpo presides over Salang Tendrel for Dewachen Spiritual Centre in Patabari",
+          "link": "https://www.bbs.bt/247772/",
+          "summary": "Prayers echoed across Kencholing in Sarpang today as His Holiness the Je Khenpo presided over the Salang Tendrel for the establishment of Dewachen Spiritual Centre. Set across about 30 acres of land, the project aims to…",
+          "publishedAt": "2026-10-22T10:54:57.000Z"
+        },
+        {
+          "title": "GMC Immigration Terminal opens with automated e-gates",
+          "link": "https://www.bbs.bt/247785/",
+          "summary": "A new pedestrian immigration terminal has opened in Gelephu, introducing biometric e-gates to make cross-border travel faster and more convenient for Bhutanese and Indian nationals. The facility was inaugurated today. It…",
+          "publishedAt": "2026-10-22T10:43:50.000Z"
+        },
+        {
+          "title": "Unhealthy food environment puts children at risk of obesity",
+          "link": "https://www.bbs.bt/247759/",
+          "summary": "Children are increasingly exposed to packaged snacks, sugary drinks and fast food, raising concerns about unhealthy eating habits and childhood obesity in Bhutan. Health authorities say addressing the issue requires…",
+          "publishedAt": "2026-10-22T09:35:52.000Z"
+        },
+        {
+          "title": "Bumthang schools compete to revive theatrical tradition",
+          "link": "https://www.bbs.bt/247755/",
+          "summary": "Four schools in Bumthang took part in a theatrical competition organised by the Wangduechhoeling Palace Museum and Cultural Centre to nurture students’ creativity, build confidence and preserve Bhutanese culture, as…",
+          "publishedAt": "2026-10-21T08:59:13.000Z"
+        },
+        {
+          "title": "Young adults account for more than half of TB cases in Bhutan",
+          "link": "https://www.bbs.bt/247762/",
+          "summary": "Bhutan recorded 846 tuberculosis (TB) cases in 2025, a decrease of 74 cases from 2024. According to the Annual Health Bulletin 2026, people aged 15 to 34 accounted for more than half of the cases, with young adults…",
+          "publishedAt": "2026-10-21T08:51:02.000Z"
+        },
+        {
+          "title": "Tit Tar and Tai Chi training in Thimphu offers tools to ease stress and body pain",
+          "link": "https://www.bbs.bt/247720/",
+          "summary": "Stress, body aches and the pressures of modern life, sound familiar? What if learning simple techniques could help you relax your mind and keep your body moving? That is what Tit Tar and Tai Chi is all about. A training…",
+          "publishedAt": "2026-10-21T07:31:07.000Z"
+        }
+      ]
+    }
+  ]
+}

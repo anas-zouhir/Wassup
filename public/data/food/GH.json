@@ -1,0 +1,213 @@
+{
+  "country": "GH",
+  "dishes": [
+    {
+      "id": "fufu",
+      "name": "Fufu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fufu%20recipe",
+      "description": "Fufu (or fufuo, foofoo, foufou foo-foo ) is a pounded meal found in West African cuisine originally made from boiled cassava, plantains, and cocoyam. Fufu's prevalence in West Africa has been noted in local literature, such as Chinua Achebe's Things Fall Apart. Fufu is a Twi word originating from the Akans in Ghana.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Wrapped_fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fufu"
+    },
+    {
+      "id": "banku",
+      "name": "Banku",
+      "videoSearch": "https://www.youtube.com/results?search_query=Banku%20recipe",
+      "description": "In Ghanaian cuisine, banku and akple ( ) are staple dishes made of a slightly fermented cooked mixture of maize and cassava doughs formed into single-serving balls. Banku is cooked in hot water until it turns into a smooth, whitish paste, served with soup, okra stew or a pepper sauce with fish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/BALLS_OF_BANKU.jpg/500px-BALLS_OF_BANKU.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Banku_(dish)"
+    },
+    {
+      "id": "kenkey",
+      "name": "Kenkey",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kenkey%20recipe",
+      "description": "Kenkey (also known as kɔmi, otim, kooboo or dorkunu, dokunu) is a staple swallow food similar to sourdough dumplings from the Ga and Fante-inhabited regions of West Africa, usually served with pepper crudaiola and fried fish, soup or stew.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Kenkey_and_ground_pepper_with_sardine.jpg/500px-Kenkey_and_ground_pepper_with_sardine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kenkey"
+    },
+    {
+      "id": "waakye",
+      "name": "Waakye",
+      "videoSearch": "https://www.youtube.com/results?search_query=Waakye%20recipe",
+      "description": "Waakye ( WAH-chay) is a Ghanaian dish of cooked rice and beans, commonly eaten for breakfast or lunch. Rice and beans, usually black eyed peas or cow beans, are cooked together, along with red dried sorghum leaf sheaths or stalks and kaun (powdered limestone).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Waakye_with_vegetables%2C_fish_and_egg_with_ripe_plantains.jpg/500px-Waakye_with_vegetables%2C_fish_and_egg_with_ripe_plantains.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Waakye",
+      "recipe": {
+        "ingredients": [
+          "Water",
+          "3–4 leaves of Guinea corn leaves, washed",
+          "1 milk tin (14 fl oz) beans, washed",
+          "2 milk tins (28 fl oz) brown or white rice, washed",
+          "Salt to taste"
+        ],
+        "steps": [
+          "Half-fill a saucepan with water, and place over the fire. Add the Guinea corn leaves.",
+          "Bring to a boil, and add the beans.",
+          "Simmer for 40-45 minutes until the beans split in two when touched.",
+          "Add the rice and salt, and simmer until the beans and rice are very soft. Add additional water as necessary during the cooking.",
+          "Remove from the heat. Serve with shito and fried tomato stew, accompanied by wele, tilapia, boiled eggs, and salad."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AWaakye_(Ghanian_Rice_and_Beans)"
+      }
+    },
+    {
+      "id": "jollof-rice",
+      "name": "Jollof rice",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jollof%20rice%20recipe",
+      "description": "Jollof (), or jollof rice, is a rice dish from Senegal, West Africa. It is typically made with long-grain rice, tomatoes, chilis, onions, spices, and sometimes other vegetables and/or meat in a single pot, although its ingredients and preparation methods vary across different regions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Jollof_Rice_with_Stew.jpg/500px-Jollof_Rice_with_Stew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "id": "kelewele",
+      "name": "Kelewele",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kelewele%20recipe",
+      "description": "Fried plantain is a dish cooked wherever plantains grow, from West Africa to East Africa as well as Central America, the tropical region of northern South America and the Caribbean countries such as Haiti and Cuba and in many parts of Southeast Asia and Oceania, where fried snacks are widely popular.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Vendeuses_de_bananes_plantain.jpg/500px-Vendeuses_de_bananes_plantain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fried_plantain"
+    },
+    {
+      "id": "red-red",
+      "name": "Red red",
+      "videoSearch": "https://www.youtube.com/results?search_query=Red%20red%20recipe",
+      "description": "Red red is a Ghanaian dish composed of black-eyed peas, cooked in palm oil or other vegetable oil with plantain. The dish derives its name from the red color it takes on from the red palm oil (zomi) and the fried plantain.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Red_red"
+    },
+    {
+      "id": "light-soup",
+      "name": "Light soup",
+      "videoSearch": "https://www.youtube.com/results?search_query=Light%20soup%20recipe",
+      "description": "Light soup is a local indigenous soup of the Akan people of Ghana. The soup is called \"light\" because the dark-colored broth is thin.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Light_soup_with_fufu.JPG/500px-Light_soup_with_fufu.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Light_soup"
+    },
+    {
+      "id": "groundnut-soup",
+      "name": "Groundnut soup (nkatenkwan)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Groundnut%20soup%20(nkatenkwan)%20recipe",
+      "description": "Peanut soup or groundnut soup is a soup made from peanuts, often with various other ingredients. It is a staple in West African cuisine but is also eaten in East Asia (Taiwan), the United States (mainly in Virginia) and other areas around the world.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Fufu.jpg/500px-Fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peanut_soup",
+      "recipe": {
+        "ingredients": [
+          "3 lb bone-in chicken pieces",
+          "6 kpakpo shito chile peppers",
+          "2 whole onions",
+          "3 garlic cloves (optional)",
+          "1-inch piece fresh ginger",
+          "3 large ripe tomatoes",
+          "4 cups chicken stock",
+          "2 bay leaves",
+          "½ cup unsweetened peanut butter",
+          "2 cups water",
+          "10 okra pods"
+        ],
+        "steps": [
+          "Start by placing the chicken pieces in a pot. Leave the onions whole, but trim off the top and bottom edges before adding them to the pot.",
+          "Add the whole tomatoes to the pot, making sure to remove the tough cores. You can either grate the garlic and ginger or add them whole, as they will be processed later.",
+          "Add the bay leaves, kpakpo shito peppers, and chicken stock in the pot. Bring the mixture to a boil and then let it simmer until the chicken becomes tender.",
+          "While the soup is simmering, it's time to prepare the peanut sauce. Take another pot and combine the peanut butter with ½ cup water. Mix well to ensure the peanut butter blends smoothly with the water.",
+          "Place the peanut sauce over high heat and gradually add the remaining water. Allow it to simmer for about 20 minutes until the peanut oil rises to the surface.",
+          "Once the onions and tomatoes have softened, remove them from the broth and transfer them to a blender. For those who prefer a spicier soup, you can add some additional kpakpo shito peppers at this stage. Process the mixture in the blender until smooth, then pour it back into the soup and stir. Let it simmer for an additional 5 minutes.",
+          "Gently pour the peanut sauce into the soup and continue simmering for 15 minutes.",
+          "Briefly boil the head and tail of the okra before adding them to the soup,",
+          "Taste the soup and adjust the seasoning with salt and chili powder according to your preference.",
+          "Serve alongside fufu or your preferred accompaniment."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGhanaian_Peanut_Soup_(Nkatenkwan)"
+      }
+    },
+    {
+      "id": "palm-nut-soup",
+      "name": "Palm nut soup (abenkwan)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Palm%20nut%20soup%20(abenkwan)%20recipe",
+      "description": "Palm nut soup or banga is a soup made from palm fruit common in Cameroon, Sierra Leone, Ghana, Nigeria, Democratic Republic of Congo and Ivory Coast. The soup is made from a palm cream or palm nut base with stewed marinated meats, smoked dried fish, and aromatics.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Palm_nut_soup_close_up_02.jpg/500px-Palm_nut_soup_close_up_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Palm_nut_soup"
+    },
+    {
+      "id": "abunuabunu",
+      "name": "Abunuabunu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Abunuabunu%20recipe",
+      "description": "Abunuabunu also known as Abubunabunu in Bono Twi is a soup from the Brong Ahafo Region of Ghana. It is made from cocoyam leaves (locally called kontomire) together with other ingredients (tomatoes, snails, smoked fish, onions, green pepper, turkey berries - called kwahu nsusua in Twi and salt).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Abunuabunu_with_fufu.jpg/500px-Abunuabunu_with_fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Abunuabunu"
+    },
+    {
+      "id": "omo-tuo",
+      "name": "Omo tuo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Omo%20tuo%20recipe",
+      "description": "Omo tuo (Twi: ɛmo tuo; \"rice balls\") is a Ghanaian staple food made with rice. Mostly, \"broken rice\" or long grain rice broken into smaller pieces is used.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Omo_Tuo_at_a_Ghanaian_restaurant_in_Colorado.jpg/500px-Omo_Tuo_at_a_Ghanaian_restaurant_in_Colorado.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Omo_tuo",
+      "recipe": {
+        "ingredients": [
+          "2 cups white rice, cleaned",
+          "5 cups water",
+          "1 tsp salt"
+        ],
+        "steps": [
+          "After properly cleaning the rice, add it to a saucepan of water. When the rice is tender, add salt and bring to a boil. Give it a good five to seven minutes.",
+          "To make the rice smooth, mash it with a wooden spoon or a small pestle.",
+          "Pour cold water into a cup and place it near the pan. Transfer the rice to a serving dish after scooping it with wet hands and rolling it into balls."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AOmo_tuo"
+      }
+    },
+    {
+      "id": "kontomire",
+      "name": "Kontomire stew",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kontomire%20stew%20recipe",
+      "description": "Palaver sauce or palava sauce (or plasas) is a type of stew widely eaten in West Africa, including Ghana, Liberia, Sierra Leone.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Palava_sauce_w-_cocoyam_leaf_%285612472154%29.jpg/500px-Palava_sauce_w-_cocoyam_leaf_%285612472154%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Palaver_sauce"
+    },
+    {
+      "id": "shito",
+      "name": "Shito",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shito%20recipe",
+      "description": "Shito or shitor din (lit. 'black pepper') is a hot black pepper sauce ubiquitous in Ghanaian cuisine. The name comes from the Ga language.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Fante_Kenkey_with_Sardine_and_Shito.jpg/500px-Fante_Kenkey_with_Sardine_and_Shito.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shito"
+    },
+    {
+      "id": "kokonte",
+      "name": "Kokonte",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kokonte%20recipe",
+      "description": "Kokonte, also known as abetiɛ, lapiiwa, lapelawa or “face the wall”, is a staple swallow food eaten in some parts of Africa including Togo, Ghana and others.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Kokonte_Dish.jpg/500px-Kokonte_Dish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kokonte"
+    },
+    {
+      "id": "hausa-koko",
+      "name": "Hausa koko",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hausa%20koko%20recipe",
+      "description": "Koko (also ogi in Yoruba) is a spicy millet porridge. It is a popular Nigerian Ghanaian Togolese street food and commonly consumed as a breakfast meal. It can also be eaten in the late afternoon as snack.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Porridge_and_bean_balls.jpg/500px-Porridge_and_bean_balls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Koko_(millet_porridge)"
+    },
+    {
+      "id": "tatale",
+      "name": "Tatale",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tatale%20recipe",
+      "description": "Tatale is a commercial town in Tatale Sangule District in the Northern Region of Ghana. Layout of the town is part nuclear and part linear. Its inhabitants are diverse in ethnicity with the Basares who speak Ntcham as their official language being the majority.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tatale"
+    },
+    {
+      "id": "aprapransa",
+      "name": "Aprapransa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Aprapransa%20recipe",
+      "description": "Aprapransa, originally called 'akplijii' (or 'akplidzi') is a Ghanaian GaDangme(or Ga) dish prepared by heat mixing (or blending) roasted corn flour with palm nut soup. Palm Nut Soup is an important base ingredient in the preparation of Akplijii.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Aprapransa.jpg/500px-Aprapransa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Aprapransa"
+    },
+    {
+      "id": "kpekpele",
+      "name": "Kpekpele",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kpekpele%20recipe",
+      "description": "Kpekple (also referred to as kpokpoi) is a kind of food eaten by the Gas of Ghana during the celebration of the Homowo festival, which is to hoot at hunger. It is prepared with the primary ingredients of steamed and fermented corn meal, palm nut soup and smoked fish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Kpekpele_or_Kpokpoi.jpg/500px-Kpekpele_or_Kpokpoi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kpekpele"
+    }
+  ]
+}

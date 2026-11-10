@@ -1,0 +1,51 @@
+{
+  "country": "HT",
+  "dishes": [
+    {
+      "id": "griot",
+      "name": "Griot",
+      "videoSearch": "https://www.youtube.com/results?search_query=Griot%20recipe",
+      "description": "Griot is a dish in Haitian cuisine. It consists of pork shoulder marinated in citrus, which is braised and then fried. It is commonly served at parties.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Griot_ha%C3%AFtien_%2842675563925%29.jpg/500px-Griot_ha%C3%AFtien_%2842675563925%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Griot_(food)"
+    },
+    {
+      "id": "diri-ak-djon-djon",
+      "name": "Diri ak djon djon",
+      "videoSearch": "https://www.youtube.com/results?search_query=Diri%20ak%20djon%20djon%20recipe",
+      "description": "Diri djondjon (black mushroom rice) is a native dish of Haiti. It is essentially a meal consisting of rice made with edible black mushrooms called djondjon. The meal is more common in the northern region of the country and therefore can be considered a regional specialty.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Diri_djondjon"
+    },
+    {
+      "id": "soup-joumou",
+      "name": "Soup joumou",
+      "videoSearch": "https://www.youtube.com/results?search_query=Soup%20joumou%20recipe",
+      "description": "Soup Joumou (; French: soupe au giraumon, lit. ‘pumpkin soup’) is a soup native to Haitian cuisine. In 2021, soup joumou was added to the UNESCO Intangible Cultural Heritage List.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Soup_joumou.jpg/500px-Soup_joumou.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Soup_joumou"
+    },
+    {
+      "id": "pikliz",
+      "name": "Pikliz",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pikliz%20recipe",
+      "description": "Pikliz is a pickled condiment in Haitian cuisine. It can be eaten fresh or fermented for taste and health benefit. Pikliz (pronounced PEE-kleez) can be understood based on the word pickle and the French word piquer (meaning to sting).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Haitian_Pikliz.jpg/500px-Haitian_Pikliz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pikliz"
+    },
+    {
+      "id": "fritay",
+      "name": "Fritay",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fritay%20recipe",
+      "description": "Fritay, (; Haitian Creole: Fritay; French: Friture Haïtienne) collectively known as Fritaille, are street foods and culinary styles associated with Haitian culture.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Griot_ha%C3%AFtien_%2842675563925%29.jpg/500px-Griot_ha%C3%AFtien_%2842675563925%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fritay"
+    },
+    {
+      "id": "akasan",
+      "name": "Akasan",
+      "videoSearch": "https://www.youtube.com/results?search_query=Akasan%20recipe",
+      "description": "Akasan (sometimes AK 100) is a popular Haitian beverage made from corn kernels, anise stars, vanilla and cinnamon. It is drunk either warm or cold, often as a breakfast beverage. Akasan is known for its rich sweetness and thickness.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Akasan"
+    }
+  ]
+}

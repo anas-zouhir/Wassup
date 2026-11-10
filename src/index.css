@@ -1,0 +1,734 @@
+:root {
+  --bg: #05070d;
+  --panel-bg: rgba(12, 16, 26, 0.95);
+  --border: rgba(255, 255, 255, 0.1);
+  --text: #c9d1dc;
+  --text-h: #f3f5f8;
+  --muted: #7d8899;
+  --accent: #ffaa28;
+  --accent-ink: #1a1204;
+  --panel-width: 420px;
+
+  font: 16px/1.5 system-ui, 'Segoe UI', Roboto, sans-serif;
+  color-scheme: dark;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Wassup food: warm palette (set by useMode on <html data-mode>). */
+:root[data-mode='food'] {
+  --bg: #0b0806;
+  --panel-bg: rgba(24, 16, 12, 0.96);
+  --muted: #9a8a7c;
+  /* Basil green: matches the selected-country colour in lib/modes.ts. */
+  --accent: #8bd45e;
+  --accent-ink: #0f2205;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+a {
+  color: inherit;
+}
+
+.app {
+  position: relative;
+  width: 100vw;
+  height: 100svh;
+}
+
+.globe {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.logo {
+  position: absolute;
+  top: 18px;
+  left: 24px;
+  display: flex;
+  align-items: baseline;
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  color: var(--text-h);
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.6);
+  pointer-events: none;
+  user-select: none;
+}
+
+/*
+ * The section switch: the italic word ("news" / "food"). A dotted underline
+ * and a small ⇅ badge say "clickable"; on hover the underline turns solid.
+ */
+.logo-switch {
+  position: relative;
+  margin-left: 0.22em;
+  padding: 0 0.04em 0.06em;
+  border: none;
+  border-bottom: 2px dotted color-mix(in srgb, var(--accent) 60%, transparent);
+  background: none;
+  color: var(--accent);
+  font: inherit;
+  /* A serif italic in the accent colour, set against the bold sans "Wassup". */
+  font-family: Georgia, 'Times New Roman', serif;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-shadow: inherit;
+  cursor: pointer;
+  pointer-events: auto;
+  transition: border-color 150ms;
+}
+
+.logo-switch:hover,
+.logo-switch:focus-visible {
+  border-bottom-style: solid;
+  border-bottom-color: var(--accent);
+}
+
+.logo-switch:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 4px;
+  border-radius: 2px;
+}
+
+/* Both words share one grid cell; the inactive one waits above or below. */
+.logo-reel {
+  display: inline-grid;
+  overflow: hidden;
+  /* Room for the italic overhang and descenders inside the clip. */
+  padding: 0.04em 0.12em 0.14em 0.04em;
+  margin: -0.04em -0.12em -0.14em -0.04em;
+}
+
+.logo-word {
+  grid-area: 1 / 1;
+  transition:
+    transform 450ms cubic-bezier(0.2, 0.8, 0.2, 1),
+    opacity 300ms;
+}
+
+.logo-word[data-state='above'] {
+  --off: -110%;
+  transform: translateY(var(--off));
+  opacity: 0;
+}
+
+.logo-word[data-state='below'] {
+  --off: 110%;
+  transform: translateY(var(--off));
+  opacity: 0;
+}
+
+/* The active word leaves in the opposite direction to where the other waits. */
+.logo-reel[data-mode='news'] .logo-word[data-state='active'] {
+  --to: -110%;
+}
+
+.logo-reel[data-mode='food'] .logo-word[data-state='active'] {
+  --to: 110%;
+}
+
+/* First-visit hint: briefly roll to the other word and back. */
+.logo-reel.peeking .logo-word[data-state='active'] {
+  animation: peek-out 2.4s ease-in-out;
+}
+
+.logo-reel.peeking .logo-word:not([data-state='active']) {
+  animation: peek-in 2.4s ease-in-out;
+}
+
+@keyframes peek-out {
+  0%,
+  100% {
+    transform: none;
+    opacity: 1;
+  }
+  18%,
+  72% {
+    transform: translateY(var(--to));
+    opacity: 0;
+  }
+}
+
+@keyframes peek-in {
+  0%,
+  100% {
+    transform: translateY(var(--off));
+    opacity: 0;
+  }
+  18%,
+  72% {
+    transform: none;
+    opacity: 1;
+  }
+}
+
+.logo-switch-icon {
+  position: absolute;
+  top: -0.12em;
+  right: -0.5em;
+  width: 0.36em;
+  height: 0.36em;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  opacity: 0.75;
+  transition:
+    opacity 150ms,
+    transform 300ms;
+}
+
+.logo-switch:hover .logo-switch-icon {
+  opacity: 1;
+  transform: rotate(180deg);
+}
+
+.logo-mark {
+  /* Pictorial marks (book / pan with a globe) need more height than a letter. */
+  height: 1.2em;
+  margin-bottom: -0.12em;
+  margin-left: 0.32em;
+  filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));
+  animation: mark-in 450ms cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+@keyframes mark-in {
+  from {
+    opacity: 0;
+    transform: scale(0.6) rotate(-20deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .logo-word,
+  .logo-mark,
+  .logo-switch-icon {
+    transition: none;
+    animation: none !important;
+  }
+}
+
+/* Loading screen */
+
+.loading {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  overflow: hidden;
+  background:
+    radial-gradient(1px 1px at 12% 18%, #fff8, transparent),
+    radial-gradient(1px 1px at 72% 12%, #fff6, transparent),
+    radial-gradient(1.5px 1.5px at 38% 72%, #fff7, transparent),
+    radial-gradient(1px 1px at 86% 64%, #fff5, transparent),
+    radial-gradient(1px 1px at 22% 88%, #fff6, transparent),
+    radial-gradient(1.5px 1.5px at 58% 34%, #fff5, transparent),
+    radial-gradient(1px 1px at 92% 90%, #fff6, transparent),
+    radial-gradient(ellipse at center, #0c1426 0%, var(--bg) 70%);
+  transition: opacity 600ms ease;
+}
+
+.loading-done {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.shooting-star {
+  position: absolute;
+  width: 140px;
+  height: 1.5px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #fff, rgba(255, 255, 255, 0));
+  opacity: 0;
+  animation: shoot linear infinite;
+}
+
+@keyframes shoot {
+  0% {
+    opacity: 0;
+    transform: rotate(-35deg) translateX(0);
+  }
+  10% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+    transform: rotate(-35deg) translateX(-700px);
+  }
+}
+
+.loading-globe {
+  width: 96px;
+  height: 96px;
+  overflow: visible;
+  fill: none;
+  stroke: var(--accent);
+  stroke-width: 1.5;
+  filter: drop-shadow(0 0 12px rgba(255, 170, 40, 0.5));
+}
+
+.loading-globe path {
+  stroke-opacity: 0.5;
+}
+
+.loading-globe .meridian {
+  transform-box: fill-box;
+  transform-origin: center;
+  vector-effect: non-scaling-stroke;
+  animation: meridian 3s linear infinite;
+}
+
+/* A meridian seen from outside a spinning sphere: an ellipse of width |cos θ|. */
+@keyframes meridian {
+  0%,
+  100% {
+    transform: scaleX(1);
+  }
+  12.5%,
+  87.5% {
+    transform: scaleX(0.924);
+  }
+  25%,
+  75% {
+    transform: scaleX(0.707);
+  }
+  37.5%,
+  62.5% {
+    transform: scaleX(0.383);
+  }
+  50% {
+    transform: scaleX(0);
+  }
+}
+
+.loading-text {
+  color: var(--muted);
+  font-size: 15px;
+  letter-spacing: 0.02em;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  50% {
+    opacity: 0.45;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .shooting-star {
+    display: none;
+  }
+
+  .loading-globe .meridian,
+  .loading-text {
+    animation: none;
+  }
+}
+
+.toast {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 8px 16px;
+  border-radius: 8px;
+  background: #5a1d1d;
+  color: #fff;
+}
+
+.globe-label {
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  font-size: 13px;
+}
+
+/* Side panel */
+
+.panel {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: var(--panel-width);
+  max-width: 100vw;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--panel-bg);
+  border-left: 1px solid var(--border);
+  overflow-y: auto;
+  animation: slide-in 200ms ease-out;
+}
+
+@keyframes slide-in {
+  from {
+    transform: translateX(100%);
+  }
+}
+
+.panel-header {
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  background: var(--panel-bg);
+  border-bottom: 1px solid var(--border);
+}
+
+.panel-header h2 {
+  font-size: 22px;
+  color: var(--text-h);
+}
+
+.panel-message {
+  padding: 20px;
+  color: var(--muted);
+}
+
+.icon-button {
+  width: 32px;
+  height: 32px;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text);
+  font-size: 24px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.icon-button:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.outlet-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 16px 20px 0;
+}
+
+.outlet-tab {
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text);
+  font: inherit;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.outlet-tab[aria-selected='true'] {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.outlet {
+  padding: 16px 20px 24px;
+}
+
+.outlet-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.outlet-meta h3 {
+  font-size: 18px;
+  color: var(--text-h);
+}
+
+.button {
+  flex-shrink: 0;
+  padding: 6px 12px;
+  border-radius: 6px;
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.button-quiet {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-h);
+}
+
+/* Food panel */
+
+.dishes {
+  padding: 12px 20px 24px;
+}
+
+.dishes-count {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.dish-list {
+  list-style: none;
+  margin: 8px 0 0;
+  padding: 0;
+}
+
+.dish {
+  border-top: 1px solid var(--border);
+}
+
+.dish-summary {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  padding: 12px 0;
+  border: none;
+  background: none;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.dish-summary:hover .dish-name {
+  color: var(--accent);
+}
+
+.dish-summary img,
+.dish-placeholder {
+  width: 72px;
+  height: 72px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  object-fit: cover;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.dish-open .dish-summary img {
+  width: 112px;
+  height: 112px;
+}
+
+.dish-text {
+  display: flex;
+  flex: 1;
+  min-width: 0;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.dish-name {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text-h);
+}
+
+.dish-local {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-style: italic;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.dish-description {
+  display: -webkit-box;
+  margin-top: 2px;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.dish-open .dish-description {
+  -webkit-line-clamp: unset;
+}
+
+.dish-badge {
+  flex-shrink: 0;
+  padding: 2px 8px;
+  border: 1px solid color-mix(in srgb, var(--accent) 50%, transparent);
+  border-radius: 999px;
+  color: var(--accent);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.dish-details {
+  padding: 0 0 16px;
+  font-size: 14px;
+}
+
+.dish-details h4 {
+  margin: 12px 0 6px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.ingredients,
+.steps {
+  margin: 0;
+  padding-left: 20px;
+  line-height: 1.5;
+}
+
+.steps li + li,
+.ingredients li + li {
+  margin-top: 4px;
+}
+
+.recipe-source,
+.recipe-missing,
+.attribution {
+  margin-top: 12px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.attribution {
+  margin-top: 20px;
+}
+
+.dish-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.updated {
+  margin-top: 4px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.translate-bar {
+  margin-top: 8px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.link-button {
+  padding: 0;
+  border: none;
+  background: none;
+  color: var(--accent);
+  font: inherit;
+  cursor: pointer;
+}
+
+.link-button:hover {
+  text-decoration: underline;
+}
+
+.headlines {
+  list-style: none;
+  margin: 16px 0 0;
+  padding: 0;
+}
+
+.headline a {
+  display: flex;
+  gap: 12px;
+  padding: 12px 0;
+  border-top: 1px solid var(--border);
+  text-decoration: none;
+}
+
+.headline a:hover h4 {
+  color: var(--accent);
+}
+
+.headline img {
+  width: 88px;
+  height: 64px;
+  flex-shrink: 0;
+  border-radius: 4px;
+  object-fit: cover;
+}
+
+.headline h4 {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.35;
+  color: var(--text-h);
+}
+
+.headline p {
+  margin-top: 4px;
+  font-size: 14px;
+  color: var(--text);
+}
+
+.headline time {
+  display: block;
+  margin-top: 4px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+@media (max-width: 640px) {
+  .panel {
+    top: auto;
+    bottom: 0;
+    width: 100%;
+    height: 65svh;
+    border-left: none;
+    border-top: 1px solid var(--border);
+    border-radius: 12px 12px 0 0;
+    animation-name: slide-up;
+  }
+
+  @keyframes slide-up {
+    from {
+      transform: translateY(100%);
+    }
+  }
+}

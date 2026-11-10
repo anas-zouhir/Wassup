@@ -1,0 +1,28 @@
+{
+  "country": "CD",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "congoindependant-cd",
+        "name": "Congo Indépendant",
+        "homepage": "https://www.congoindependant.com",
+        "lang": "fr-CD"
+      },
+      "fetchedAt": "2026-10-22T15:10:05.432Z",
+      "items": [
+        {
+          "title": "Enfants soldats: le Conseil de sécurité s’attaque au recrutement en ligne",
+          "link": "https://www.congoindependant.com/enfants-soldats-le-conseil-de-securite-sattaque-au-recrutement-en-ligne/",
+          "summary": "Un Android ou un iPad peuvent désormais suffire à un groupe armé pour enrôler un enfant. Lundi, le Conseil de sécurité de l’ONU a adopté à l’unanimité une résolution visant à mieux protéger les mineurs contre savoir +",
+          "publishedAt": "2026-10-20T19:24:49.000Z"
+        },
+        {
+          "title": "Le cas de Kabila est-il inédit?",
+          "link": "https://www.congoindependant.com/le-cas-de-kabila-est-il-inedit/",
+          "summary": "Depuis la prise des commandes du mouvement politico-militaire AFC/M23, supplétif du Rwanda, par l’ancien président Joseph Kabila, les partisans du président en exercice Félix Tshisekedi jouent les vierges effarouchées,…",
+          "publishedAt": "2026-10-20T19:19:47.000Z"
+        }
+      ]
+    }
+  ]
+}

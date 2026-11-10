@@ -1,0 +1,43 @@
+{
+  "country": "MG",
+  "dishes": [
+    {
+      "id": "romazava",
+      "name": "Romazava",
+      "videoSearch": "https://www.youtube.com/results?search_query=Romazava%20recipe",
+      "description": "Romazava is the national dish of Madagascar, consisting of greens, zebu meat, tomatoes, and onions, typically accompanied by a portion of rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Madagaskar_stew_2019-10-01.jpg/500px-Madagaskar_stew_2019-10-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Romazava"
+    },
+    {
+      "id": "ravitoto",
+      "name": "Ravitoto",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ravitoto%20recipe",
+      "description": "Ravitoto is a traditional dish in Malagasy cuisine. Ravitoto means 'crushed cassava leaves'. These are specifically sweet cassava leaves pounded with a mortar or meat grinder.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Ravitoto.jpg/500px-Ravitoto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ravitoto"
+    },
+    {
+      "id": "mofo-gasy",
+      "name": "Mofo gasy",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mofo%20gasy%20recipe",
+      "description": "Mofo Gasy, translated as \"Malagasy bread\", is a Malagasy traditional recipe typically eaten as a breakfast. It consists mainly of rice flour and sugar fried within a specific mold. Mofo gasy can also be made with coconut milk.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mofo_gasy"
+    },
+    {
+      "id": "koba",
+      "name": "Koba",
+      "videoSearch": "https://www.youtube.com/results?search_query=Koba%20recipe",
+      "description": "Koba is a sweet made from ground peanuts, brown sugar and rice flour. It is a traditional food of Madagascar (where it is also known as koba ravina or kobandravina), especially in the highlands.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Kobandravina_dessert_snack_food_Antananarivo_Madagascar.jpg/500px-Kobandravina_dessert_snack_food_Antananarivo_Madagascar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Koba_(sweet)"
+    },
+    {
+      "id": "lasary",
+      "name": "Lasary",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lasary%20recipe",
+      "description": "Lasary is a type of Malagasy salad. It is believed that the dish originates from northern Madagascar. The dish is also named Antsary or Ansary in some places.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lasary"
+    }
+  ]
+}

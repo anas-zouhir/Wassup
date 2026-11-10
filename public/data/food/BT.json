@@ -1,0 +1,66 @@
+{
+  "country": "BT",
+  "dishes": [
+    {
+      "id": "ema-datshi",
+      "name": "Ema datshi",
+      "localName": "ཨེ་མ་དར་ཚིལ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ema%20datshi%20recipe",
+      "description": "Ema datshi (Dzongkha: ཨེ་མ་དར་ཚིལ་; Wylie: e-ma dar-tshil) is a spicy Bhutanese stew made from hot chili peppers and cheese. It is among the most famous dishes in Bhutanese cuisine, recognized as the national dish of the country.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Ema_datshi%28Dry_red_chilli_version%29.jpg/500px-Ema_datshi%28Dry_red_chilli_version%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ema_datshi"
+    },
+    {
+      "id": "red-rice",
+      "name": "Bhutanese red rice",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bhutanese%20red%20rice%20recipe",
+      "description": "Bhutanese red rice is a medium-grain rice grown in the Kingdom of Bhutan in the eastern Himalayas. It is the staple rice of the Bhutanese people. Bhutanese red rice is a red japonica rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Bhutanese_red_rice_with_chicken_and_spinach.jpg/500px-Bhutanese_red_rice_with_chicken_and_spinach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bhutanese_red_rice"
+    },
+    {
+      "id": "suja",
+      "name": "Suja (butter tea)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Suja%20(butter%20tea)%20recipe",
+      "description": "Butter tea, also known as bho jha or po cha (Tibetan: བོད་ཇ་, Wylie: bod ja, THL: bö ja, \"Tibetan tea\"), cha süma (Tibetan: ཇ་སྲུབ་མ་, Wylie: ja srub ma, THL: ja sup ma, \"churned tea\") in Standard Tibetan, sūyóu chá (酥油茶) in Mandarin Chinese, su ja (Tibetan script: སུ་ཇ, Wylie: suja, \"churned tea\") in Dzongkha, cha su-…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Tibetan_butter_tea.jpg/500px-Tibetan_butter_tea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Butter_tea",
+      "recipe": {
+        "ingredients": [
+          "1 tablespoon regular black tea leaves (preferably Nepalese or Indian)",
+          "3 cups whole milk (or 1½ cup half-and-half + 1½ cup water)",
+          "2 tablespoons unsalted butter",
+          "Salt to taste"
+        ],
+        "steps": [
+          "Boil tea with milk for 2–10 minutes, depending upon the strength of tea desired",
+          "Strain into tea cups.",
+          "Add butter and salt. Stir thoroughly, ideally by carefully using a blender, and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AButter_Tea"
+      }
+    },
+    {
+      "id": "hoentay",
+      "name": "Hoentay",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hoentay%20recipe",
+      "description": "Hoentay is a traditional sweet buckwheat dumpling that is known have originated from Haa Valley in Bhutan. Similar to momos they are made from buckwheat dough wrapper usually combined with spinach or turnip leaves, amaranth seeds (zimtse), cottage cheese, butter, chili powder, onion and ginger.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hoentay"
+    },
+    {
+      "id": "sha-phaley",
+      "name": "Sha phaley",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sha%20phaley%20recipe",
+      "description": "Sha phaley, also known as shabhalep (ཤ་བག་ལེབ།), is a Tibetan dish of bread stuffed with seasoned meat and cabbage, which is then fashioned into semi-circular or circular shapes, and is either deep-fried or pan-fried (like pot stickers) based on regional variations.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Tibetan_snack_Syabhaley_in_Nepal.jpg/500px-Tibetan_snack_Syabhaley_in_Nepal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sha_phaley"
+    },
+    {
+      "id": "ara",
+      "name": "Ara",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ara%20recipe",
+      "description": "Ara, or Arag, (Tibetan and Dzongkha: ཨ་རག་; Wylie: a-rag; \"alcohol, liquor\") is a traditional alcoholic beverage consumed in Bhutan and Indian state of Arunachal Pradesh. Ara is made from native high-altitude tolerant barley, rice, maize, millet, or wheat, and may be either fermented or distilled.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ara_(drink)"
+    }
+  ]
+}

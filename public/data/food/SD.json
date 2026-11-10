@@ -1,0 +1,134 @@
+{
+  "country": "SD",
+  "dishes": [
+    {
+      "id": "asida",
+      "name": "Asida",
+      "localName": "عصيدة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Asida%20recipe",
+      "description": "Asida, a common dish in the Arab world, is a lump of dough made by stirring wheat flour into boiling water, sometimes with added butter or honey. Similar in texture to fufu, it is eaten mainly in Middle East and African countries.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%D8%B9%D8%B5%D9%8A%D8%AF%D8%A9-%D9%82%D8%B7%D9%8A%D9%81%D9%8A%D8%A9.jpg/500px-%D8%B9%D8%B5%D9%8A%D8%AF%D8%A9-%D9%82%D8%B7%D9%8A%D9%81%D9%8A%D8%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Asida",
+      "recipe": {
+        "ingredients": [
+          "2 cups wheat flour or sorghum flour",
+          "2 cups water",
+          "¼ teaspoon salt",
+          "Honey or dates",
+          "Ground cinnamon or cardamom (optional)",
+          "Clarified butter or vegetable oil"
+        ],
+        "steps": [
+          "In a mixing bowl, combine the flour and salt. Mix well to ensure the salt is evenly distributed.",
+          "In a large saucepan or pot, bring the water to a boil. Gradually add the flour mixture to the boiling water, stirring constantly with a wooden spoon or spatula to prevent lumps from forming.",
+          "Reduce the heat to low and continue stirring the mixture until it thickens to a porridge-like consistency. This usually takes around 10–15 minutes. Be sure to scrape the sides and bottom of the pot while stirring to prevent sticking.",
+          "Once the porridge thickens, remove the pot from heat. Wet your hands with cold water to prevent sticking, then shape the hot asida into a smooth, round mound or ball. You can also shape it into individual portions if desired.",
+          "Make a small well in the center of the asida and fill it with honey or place a few dates. Sprinkle ground cinnamon or cardamom over the top for additional flavor, if desired.",
+          "Transfer the asida to a serving dish or individual plates. Drizzle a little clarified butter or vegetable oil over the top for added richness and shine. Asida is traditionally eaten by tearing off a piece of the porridge with your fingers, rolling it into a small ball, and dipping it into the honey or date filling. It can be enjoyed warm or at room temperature."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAsida_(Sudanese_Porridge)"
+      }
+    },
+    {
+      "id": "kisra",
+      "name": "Kisra",
+      "localName": "كسرة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kisra%20recipe",
+      "description": "Kisra, also spelled kissra, is a Sudanese popular thin fermented bread made in Sudan, Chad, South Sudan, Algeria and some parts of Uganda and Kenya. It is made from durra or wheat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Kisra_maker.jpeg/500px-Kisra_maker.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kisra",
+      "recipe": {
+        "ingredients": [
+          "2 cups sorghum or millet flour",
+          "1 teaspoon salt",
+          "2 cups warm water",
+          "½ teaspoon active dry yeast (optional, for fermentation)",
+          "Vegetable oil"
+        ],
+        "steps": [
+          "In a mixing bowl, combine the sorghum or millet flour and salt. Gradually add the warm water while whisking or stirring continuously to create a smooth batter. Ensure there are no lumps in the mixture.",
+          "If fermenting the batter, mix in the yeast. Cover the bowl with a clean kitchen towel and let it rest in a warm place for 8–12 hours. This allows the batter to ferment and develop flavor. If you prefer non-fermented kisra, skip this step.",
+          "Preheat a non-stick pan or griddle over medium heat. Make sure the pan is hot before pouring the batter.",
+          "Stir the batter thoroughly before pouring a ladleful onto the hot pan. Immediately tilt and rotate the pan in a circular motion to spread the batter evenly into a thin layer. Kisra should be thin and flexible.",
+          "Allow the kisra to cook on one side for a few minutes until the edges start to lift and the bottom is golden brown. Once the surface is dry and the edges are crisp, remove from the pan using a spatula (it should only be cooked on one side). Repeat the cooking process with the remaining batter.",
+          "Stack the cooked kisra on a plate or wrap them in a clean kitchen towel to keep them soft and pliable. They can be stored at room temperature for a few days or in the refrigerator for a longer shelf life."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKisra_(Sudanese_Bread)"
+      }
+    },
+    {
+      "id": "ful-medames",
+      "name": "Ful medames",
+      "localName": "فول مدمس",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ful%20medames%20recipe",
+      "description": "Ful medames, or simply ful, is a stew of cooked fava beans served with olive oil, cumin, and optionally with chopped parsley, garlic, onion, lemon juice, chili pepper and other vegetables, herbs, and spices. Ful medames is traditionally made in and served out of a large metal jug.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ful_medames_%28arabic_meal%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ful_medames",
+      "recipe": {
+        "ingredients": [
+          "2 cups dried fava beans",
+          "4 cups water (for soaking)",
+          "4 cups water (for cooking)",
+          "4 cloves garlic, minced",
+          "¼ cup extra-virgin olive oil",
+          "Juice of 1 lemon",
+          "1 teaspoon ground cumin",
+          "½ teaspoon ground coriander",
+          "Salt, to taste",
+          "Optional toppings: chopped parsley, diced tomatoes, chopped onions, hard-boiled eggs, feta cheese"
+        ],
+        "steps": [
+          "Rinse the dried fava beans under cold water and then place them in a large pot. Add 4 cups of water to the pot and let the beans soak overnight, or for at least 8 hours. This helps soften the beans and reduce the cooking time.",
+          "Drain the soaked fava beans and rinse them under cold water. Return the beans to the pot and add 4 cups of fresh water. Bring the water to a boil over medium-high heat. Once boiling, reduce the heat to low and let the beans simmer for about 1–1½ hours, or until they become tender. Stir occasionally and skim off any foam that forms on the surface.",
+          "Once the beans are tender, drain them using a colander or strainer and transfer them to a mixing bowl. Add minced garlic, extra-virgin olive oil, lemon juice, ground cumin, ground coriander, and salt to the bowl. Mix everything together, ensuring that the beans are coated evenly with the seasoning.",
+          "For a smoother consistency, you can use a fork or a potato masher to lightly mash some of the beans. This step is optional and can be adjusted according to your preference.",
+          "Transfer the seasoned ful medames to a serving dish. Ful medames can be enjoyed warm or at room temperature. You can serve it with a variety of optional toppings such as chopped parsley, diced tomatoes, chopped onions, hard-boiled eggs, or crumbled feta cheese. It is commonly served with bread or as a side dish alongside other Sudanese specialties."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASudanese_Ful_Medames"
+      }
+    },
+    {
+      "id": "gurasa",
+      "name": "Gurasa",
+      "localName": "قراصة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gurasa%20recipe",
+      "description": "Gurasa is a local bread originating from the Northern part of Nigeria, specifically Kano state. It is similar to bread except the dough is lighter. This local Northern bread is eaten for breakfast, lunch, or as a snack.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Hausa_local_bread.jpg/500px-Hausa_local_bread.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gurasa"
+    },
+    {
+      "id": "mulah",
+      "name": "Mulah",
+      "localName": "ملاح",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mulah%20recipe",
+      "description": "Mulah (Dhivehi: މުލައް) or Boli Mulah is one of the inhabited islands of Meemu Atoll.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mulah"
+    },
+    {
+      "id": "tagalia",
+      "name": "Tagalia",
+      "localName": "تقلية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tagalia%20recipe",
+      "description": "Tagalia, also called mullah tagalia or red stew, is a Sudanese and Chadian sauce popular during Ramadan. It is mainly made from onions, minced beef, tomato paste, oil, and spices such as coriander and red pepper. The spices contribute to the sauce's red color.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Sauce_tagali%C3%A9.jpg/500px-Sauce_tagali%C3%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tagalia"
+    },
+    {
+      "id": "mukhbaza",
+      "name": "Mukhbaza",
+      "localName": "مخبازة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mukhbaza%20recipe",
+      "description": "Mukhbaza (also spelled Moukhbaza or Mukhbasa) is a traditional Middle Eastern and East African dish centered around slow-roasted, heavily spiced fish and flatbread. Originating from the coastal Tihama and Aden regions, it is a staple in Yemeni, Saudi, and Djiboutian cuisines.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mukhbaza"
+    },
+    {
+      "id": "bamia",
+      "name": "Bamia",
+      "localName": "بامية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bamia%20recipe",
+      "description": "There is a variety of okra stews made in Middle Eastern, Balkan, North African, East African, Persian, and Central Asian cuisines and served as main courses. Besides okra, they often include lamb, olive oil, and tomatoes. There are also meatless variants (cf.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bamia-Ocras_tomate_%28cropped%29.JPG/500px-Bamia-Ocras_tomate_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Okra_stew"
+    }
+  ]
+}

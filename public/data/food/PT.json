@@ -1,0 +1,236 @@
+{
+  "country": "PT",
+  "dishes": [
+    {
+      "id": "bacalhau",
+      "name": "Bacalhau",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bacalhau%20recipe",
+      "description": "Bacalhau is the Portuguese word for cod and—in a culinary context—dried and salted cod. Fresh (unsalted) cod is referred to as bacalhau fresco (fresh cod).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Klippfisk.jpg/500px-Klippfisk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bacalhau"
+    },
+    {
+      "id": "pastel-de-nata",
+      "name": "Pastel de nata",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pastel%20de%20nata%20recipe",
+      "description": "Pastel de nata is a Portuguese egg custard tart pastry, optionally dusted with cinnamon. Outside Portugal, they are particularly popular in other parts of Western Europe, former Portuguese colonies, such as Brazil, Mozambique, Macau, Goa, Malacca and Timor-Leste, and other parts of Asia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Pasteis_de_Belem.jpg/500px-Pasteis_de_Belem.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pastel_de_nata"
+    },
+    {
+      "id": "francesinha",
+      "name": "Francesinha",
+      "videoSearch": "https://www.youtube.com/results?search_query=Francesinha%20recipe",
+      "description": "Francesinha is a Portuguese sandwich, originally from Porto, made with layers of toasted bread and assorted hot meats such as roast, steak, wet-cured ham, linguiça, or chipolata, over which sliced cheese is melted by the ladling of a near-boiling tomato-and-beer sauce called molho de francesinha.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Francesinha_Sandwich_%28cropped%29.jpg/500px-Francesinha_Sandwich_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francesinha"
+    },
+    {
+      "id": "caldo-verde",
+      "name": "Caldo verde",
+      "videoSearch": "https://www.youtube.com/results?search_query=Caldo%20verde%20recipe",
+      "description": "Caldo verde is a popular soup in Portuguese cuisine. The basic traditional ingredients for caldo verde are julienned Portuguese cabbage or couve-galega (or alternatively other leafy greens such as kale or mustard greens), potatoes, olive oil, black pepper and salt, mainly flavoured with onion and garlic.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Caldo_verde.jpg/500px-Caldo_verde.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Caldo_verde"
+    },
+    {
+      "id": "bacalhau-a-bras",
+      "name": "Bacalhau à Brás",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bacalhau%20%C3%A0%20Br%C3%A1s%20recipe",
+      "description": "Bacalhau à Brás is a Portuguese dish made from shreds of salted cod (bacalhau), onions and thinly chopped (matchstick-sized) fried potatoes, all bound with eggs. It is usually garnished with black olives and sprinkled with fresh flat-leaf parsley.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Bacalhau_a_Bras.jpg/500px-Bacalhau_a_Bras.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bacalhau_%C3%A0_Br%C3%A1s"
+    },
+    {
+      "id": "bacalhau-a-gomes-de-sa",
+      "name": "Bacalhau à Gomes de Sá",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bacalhau%20%C3%A0%20Gomes%20de%20S%C3%A1%20recipe",
+      "description": "Bacalhau à Gomes de Sá is a common codfish (bacalhau) dish in Portugal, typical of the city of Porto.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Bacalhau_%C3%A0_Gomes_de_S%C3%A1.jpg/500px-Bacalhau_%C3%A0_Gomes_de_S%C3%A1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bacalhau_%C3%A0_Gomes_de_S%C3%A1",
+      "recipe": {
+        "ingredients": [
+          "2 lb (900 g) salt cod",
+          "1 cup olive oil",
+          "4 medium-sized onions",
+          "1 tsp garlic, finely-chopped",
+          "6 medium-sized potatoes",
+          "20 pitted black olives",
+          "6 hard-boiled eggs, sliced",
+          "2 tbsp parsley, finely chopped"
+        ],
+        "steps": [
+          "Starting the day before, soak the salt cod, refrigerated, in a container of water for 16–24 hours, changing the water 3–4 times.",
+          "Drain and rinse the cod. Place in a saucepan and fill with water to cover the fish by 1 inch (2.5 cm). Bring to a boil and then simmer for about 20 minutes until the fish flakes easily when tested with a fork. Drain thoroughly and flake the fish coarsely, removing any skin or bones with a paring knife. Set aside.",
+          "Boil the potatoes in their skins until easily pierced with a fork or skewer but not soft. Drain, cool and peel. Slice into ¼-inch (6 mm) slices. Set aside.",
+          "In a heavy frying-pan, heat a ½ cup of olive oil over medium high heat for two minutes. Add the sliced onion and sauté for about 6–7 minutes until the onions are translucent and slightly brown. Stir in the garlic and remove from the heat.",
+          "To assemble, lay half the potatoes in the bottom of a casserole. Cover them with half the cod and then half the onion. Repeat with the rest and drizzle the rest of the olive oil over the top.",
+          "Bake for about 20 minutes in a 400°F/200°C oven until the top is lightly browned.",
+          "Garnish with olives and hard-boiled egg slices. Sprinkle with parsley.",
+          "Serve from the casserole with a cruet of olive oil and port vinegar on the side."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASalt_Cod_and_Potato_Casserole_(Bacalhau_%C3%A0_Gomes_de_S%C3%A1)"
+      }
+    },
+    {
+      "id": "cozido-a-portuguesa",
+      "name": "Cozido à portuguesa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cozido%20%C3%A0%20portuguesa%20recipe",
+      "description": "Cozido à portuguesa or Portuguese stew is a type of cozido, traditional Portuguese boiled meal. Numerous regional variations exist throughout Portugal, and the dish is considered part of the Portuguese heritage, as well as one of the national dishes of Portugal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Cozido_a_portuguesa_1.JPG/500px-Cozido_a_portuguesa_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cozido_%C3%A0_portuguesa"
+    },
+    {
+      "id": "bifana",
+      "name": "Bifana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bifana%20recipe",
+      "description": "Bifana (lit. 'small steak') is a classic Portuguese sandwich eaten all across the country. According to Taste Atlas, the dish may have first been created in Vendas Novas, but it is served throughout the country.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Porto-style_Bifana_sandwich_with_egg.jpg/500px-Porto-style_Bifana_sandwich_with_egg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bifana"
+    },
+    {
+      "id": "alheira",
+      "name": "Alheira",
+      "videoSearch": "https://www.youtube.com/results?search_query=Alheira%20recipe",
+      "description": "Alheira, or Tabafeia in Mirandese, is a type of Portuguese sausage, made with meats (usually veal, duck, chicken, quail or rabbit) and bread.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Alheira_Feira_2010.jpg/500px-Alheira_Feira_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alheira"
+    },
+    {
+      "id": "caldeirada",
+      "name": "Caldeirada",
+      "videoSearch": "https://www.youtube.com/results?search_query=Caldeirada%20recipe",
+      "description": "Caldeirada is a Portuguese and Galician (Northwestern Spain region) fish stew consisting of a wide variety of fish and potatoes, along with other ingredients.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Caldeirada_Paraense.jpg/500px-Caldeirada_Paraense.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Caldeirada"
+    },
+    {
+      "id": "cataplana",
+      "name": "Cataplana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cataplana%20recipe",
+      "description": "A cataplana is an item of cookware used to prepare Portuguese seafood dishes, popular in the country's Algarve region. The cataplana is also the name of a typical dish of Algarve region as well as a Portuguese item of cookware used to make the dish and a method of cooking using it.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Cataplana1.jpg/500px-Cataplana1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cataplana"
+    },
+    {
+      "id": "bolo-do-caco",
+      "name": "Bolo do caco",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bolo%20do%20caco%20recipe",
+      "description": "Bolo do caco is a round flatbread traditionally produced on the islands of Madeira and Porto Santo. It is shaped like a cake and thus called bolo (Portuguese for 'cake'). It is traditionally cooked on a caco, a flat basalt stone slab.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Bolo_do_caco_acabadinhos_de_cozer.jpg/500px-Bolo_do_caco_acabadinhos_de_cozer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bolo_do_caco"
+    },
+    {
+      "id": "pao-de-lo",
+      "name": "Pão de Ló",
+      "videoSearch": "https://www.youtube.com/results?search_query=P%C3%A3o%20de%20L%C3%B3%20recipe",
+      "description": "Pão de Ló is a Portuguese sponge cake made of eggs, sugar, and wheat flour. Unlike other cakes or breads, yeast or baking powder is generally not used. Rather, to provide volume, air is suspended into the cake batter during mixing.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/P%C3%A3o-de-l%C3%B3.jpg/500px-P%C3%A3o-de-l%C3%B3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/P%C3%A3o_de_L%C3%B3"
+    },
+    {
+      "id": "carne-de-porco-a-alentejana",
+      "name": "Carne de porco à alentejana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Carne%20de%20porco%20%C3%A0%20alentejana%20recipe",
+      "description": "Carne de porco à alentejana (pork with clams) is one of the most traditional and popular pork dishes of Portuguese cuisine. It is a combination of pork and clams, with potatoes and coriander.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Carne_de_porco_%C3%A0_Alentejana.jpg/500px-Carne_de_porco_%C3%A0_Alentejana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Carne_de_porco_%C3%A0_alentejana"
+    },
+    {
+      "id": "acorda",
+      "name": "Açorda",
+      "videoSearch": "https://www.youtube.com/results?search_query=A%C3%A7orda%20recipe",
+      "description": "Açorda is a traditional Portuguese dish composed of cubed or sliced stale bread with garlic, cilantro, and poached eggs. It is a type of bread soup, although some variants have a consistency closer to that of a porridge. The version served in Alentejo, açorda à Alentejana, is a classic of the region's cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Acorda09_%28cropped%29.jpg/500px-Acorda09_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/A%C3%A7orda"
+    },
+    {
+      "id": "prego",
+      "name": "Prego",
+      "videoSearch": "https://www.youtube.com/results?search_query=Prego%20recipe",
+      "description": "Prego (Italian for \"You're welcome!\") is a trade mark brand name pasta sauce of Campbell Soup Company. It was introduced internationally in 1981.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Prego_Farmers%27_Market_Classic_Marinara_Sauce_%2826800683365%29.jpg/500px-Prego_Farmers%27_Market_Classic_Marinara_Sauce_%2826800683365%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Prego"
+    },
+    {
+      "id": "bolo-de-mel",
+      "name": "Bolo de mel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bolo%20de%20mel%20recipe",
+      "description": "Bolo de mel is a traditional cake from the Madeira Islands.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bolo_de_Mel.JPG/500px-Bolo_de_Mel.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bolo_de_mel",
+      "recipe": {
+        "ingredients": [
+          "Bread dough from the baker's shop",
+          "9 ounces (250 g)",
+          "10%",
+          "Baking soda, dissolved in the wine",
+          "5 tablespoons",
+          "69 g",
+          "2.76%",
+          "Madeira wine",
+          "1 cup",
+          "240 g",
+          "9.58%",
+          "Molasses",
+          "1.8 L",
+          "92 ounces (2560 g)",
+          "102%",
+          "Pork fat",
+          "27 ounces (750 g)",
+          "30%",
+          "Butter",
+          "18 ounces (500 g)",
+          "20%",
+          "Flour",
+          "90 ounces (2500 g)",
+          "100%",
+          "White granulated sugar",
+          "36 ounces (1000 g)",
+          "40%",
+          "Candied lemon peel, cut into cubes",
+          "1.8 ounces (50 g)",
+          "2%",
+          "Erva-doce (anise, ground and sifted)",
+          "0.9 ounce (25 g)",
+          "1%",
+          "Cinnamon",
+          "1.8 ounces (50 g)",
+          "2%",
+          "Ground cloves",
+          "0.9 ounce (25 g)",
+          "1%",
+          "Walnuts, cut into halves",
+          "18 ounces (500 g)",
+          "20%",
+          "Ground almonds",
+          "9 ounces (250 g)",
+          "10%",
+          "Oranges, juiced and zested",
+          "4 ea.",
+          "392 g",
+          "15.68%",
+          "Total",
+          "n/a",
+          "n/a",
+          "9160 g",
+          "366%"
+        ],
+        "steps": [
+          "One day before making the cake, buy the bread-dough at the baker's shop, sprinkle a little bit of flour on the dough, put it in a towel and keep it in a warm place until the next day.",
+          "Dissolve the baking soda into the Madeira wine.",
+          "Warm the molasses in a saucepan, add the butter and pork fat, and stir until melted and combined. Let this mixture cool.",
+          "Sift flour into a bowl, and mix in the sugar. Make a well and put the bread dough into it.",
+          "Work the flour-sugar mixture into the bread dough. As soon as this is well-joined, start to incorporate the molasses-fat mixture little by little.",
+          "Add some of the candied lemon peel, as well as the Madeira wine, orange juice and orange zest, anise, cinnamon, and cloves. Incorporate and knead thoroughly until the dough doesn't stick to the bowl.",
+          "Cover the dough with a towel and put it in a warm spot. Keep it in a warm place for 3–4 days.",
+          "Grease the baking pans. This cake is traditionally made in wide, round, low pans.",
+          "Divide the dough into parts of 250–500 g or 750 g, depending on your baking pans.",
+          "Decorate the cake with half-walnuts, sliced almonds, and the rest of the candied lemon peel.",
+          "Bake for about 50 minutes at 355 °F (180 °C). Let cool down before taking it out of the baking pan."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMadeira_Honey_Cake"
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "country": "SE",
+  "dishes": [
+    {
+      "id": "swedish-meatballs",
+      "name": "Swedish meatballs",
+      "localName": "Köttbullar",
+      "videoSearch": "https://www.youtube.com/results?search_query=Swedish%20meatballs%20recipe",
+      "recipe": {
+        "ingredients": [
+          "200–300 ml (¾–1¼ cups) liquid, such as water, milk or cream",
+          "50 ml (¼ cup) dried bread crumbs",
+          "250 g (9 oz) ground beef",
+          "250 g (9 oz) ground pork",
+          "1 egg",
+          "1 small onion, finely chopped or grated",
+          "Salt",
+          "Pepper",
+          "Butter for frying"
+        ],
+        "steps": [
+          "Combine the liquid and bread crumbs in a bowl, and let it sit for 7–8 minutes.",
+          "Mix in the ground beef, ground pork, egg, onion, salt, and pepper.",
+          "Shape the mixture into round meatballs, approximately 2–3 centimeters (1 inch) in diameter.",
+          "Pan fry the meatballs on medium heat in a frying pan with butter for approximately 3–5 minutes. Fry them on all sides until they are brown and not pink in the middle. Shaking the pan occasionally will help the meatballs cook evenly.",
+          "Serve them with mashed potatoes with a veal based brown sauce made with cream and lingonberry preserve or cranberry preserve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASwedish_Meatballs_I"
+      }
+    },
+    {
+      "id": "gravlax",
+      "name": "Gravlax",
+      "localName": "Gravad lax",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gravlax%20recipe",
+      "description": "Gravlax, graavilohi, gravad lax, gravlaks or graved salmon is a Nordic dish consisting of salmon that is cured using a mix of salt, sugar and dill. It is garnished with fresh dill or spruce twigs and may occasionally be cold-smoked after it is cured.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Laxr%C3%A4tter.jpg/500px-Laxr%C3%A4tter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gravlax",
+      "recipe": {
+        "ingredients": [
+          "800 g (1.75 lb) fresh salmon filet, approximately 2–5 cm (1–2 inches) thick",
+          "30 ml (2 Tbsp) salt",
+          "30 ml (2 Tbsp) white granulated sugar",
+          "45 ml (3 Tbsp) juniper berries",
+          "300 ml (1 ¼ cups) gin (optional)",
+          "5 ml (1 tsp) whole or crushed white pepper",
+          "20–40 g (0.75–1.5 oz) fresh dill"
+        ],
+        "steps": [
+          "Cut the salmon filet into two equally-sized parts (if you are making gravlax for many people it is fine to use two filets instead). Freeze the salmon for at least 4 days at -18°C or colder to kill any parasites.",
+          "After deep freezing the salmon remove it from the freezer and let it thaw, preferably overnight in the refrigerator. The salmon does not have to be completely thawed for the next steps.",
+          "Combine the salt and sugar. Place the salmon, skin down, on a table. Rub the salt and sugar mix onto the pieces, then apply the juniper berries and pepper. Finally, cover with dill.",
+          "Put one salmon piece on top of another, flesh side to flesh side so the skin it outside on both pieces, and place in a plastic bag. Add any leftover ingredients to the bag along with the gin.",
+          "Seal the bag and place it in the refrigerator. Let the salmon cure in the mixture, turning the bag over once, preferably twice, a day for 4 days.",
+          "After 4 days, the salmon is ready to serve. If you are not going to eat it immediately (it lasts a couple of days) move it to a fresh plastic bag or jar, removing the salty liquid that has formed in the original bag. If you keep it in the original bag the risk is that it may be too salty once you are about to serve it.",
+          "Use a sharp knife to slice thin slices from the salmon at an angle. During slicing, also remove any remaining bones. The larger the piece of salmon the larger the angle and the larger surface area for the produced slices. Large slices look better when served.",
+          "As a main dish, serve with potato stew, boiled potatoes and gravlax sauce, or in a salad. As an appetizer, serve on crispbread or toast. Potato stew with some additional Dijon mustard is excellent addition to gravlax."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGravlax"
+      }
+    },
+    {
+      "id": "surstromming",
+      "name": "Surströmming",
+      "videoSearch": "https://www.youtube.com/results?search_query=Surstr%C3%B6mming%20recipe",
+      "description": "Surströmming is a lightly salted, fermented Baltic Sea herring traditional to Swedish cuisine since at least the 16th century. It is distinct from fried or pickled herring. The Baltic herring, known as strömming in Swedish, is smaller than the Atlantic herring found in the North Sea.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Surstr%C3%B6mming.jpg/500px-Surstr%C3%B6mming.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Surstr%C3%B6mming"
+    },
+    {
+      "id": "kanelbulle",
+      "name": "Kanelbulle",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kanelbulle%20recipe",
+      "description": "A cinnamon roll (also known as cinnamon bun, cinnamon swirl, cinnamon scroll, cinnamon Danish and cinnamon snail) is a sweet roll commonly served in Northern Europe and North America. Alternative recipes use puff pastry instead of yeasted dough, but are constructed using a similar method.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Cinnamon_roll_in_Stockholm.jpg/500px-Cinnamon_roll_in_Stockholm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cinnamon_roll"
+    },
+    {
+      "id": "semla",
+      "name": "Semla",
+      "videoSearch": "https://www.youtube.com/results?search_query=Semla%20recipe",
+      "description": "A semla, laskiaispulla, Swedish eclair, fastlagsbulle, fastelavnsbolle, vastlakukkel, or vēja kūkas is a traditional sweet roll made in various forms in Sweden, Finland, Estonia, Denmark, the Faroe Islands, Iceland, Norway, and Latvia, associated with Lent and especially Shrove Tuesday in most countries, Shrove Monday …",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/SemlaFlickr.jpg/500px-SemlaFlickr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Semla"
+    },
+    {
+      "id": "princess-cake",
+      "name": "Princess cake",
+      "localName": "Prinsesstårta",
+      "videoSearch": "https://www.youtube.com/results?search_query=Princess%20cake%20recipe",
+      "description": "Princess cake or princess torte (Swedish: prinsesstårta) is a traditional Swedish layer cake or torte consisting of alternating layers of airy sponge cake, pastry cream, and a thick-domed layer of whipped cream. The cake is covered by a layer of rolled marzipan, giving it a smooth, rounded top.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Princess_Cake_2025-Oct-02_%28cropped%29.jpg/500px-Princess_Cake_2025-Oct-02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Princess_cake"
+    },
+    {
+      "id": "jansson-s-temptation",
+      "name": "Jansson's temptation",
+      "localName": "Janssons frestelse",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jansson's%20temptation%20recipe",
+      "description": "Jansson's Temptation (Swedish: Janssons frestelse) is a traditional Swedish casserole made of potatoes, onions, pickled sprats and cream. It is typically served as a late night meal before the guests leave a party.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Janssons_frestelse.jpg/500px-Janssons_frestelse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jansson%27s_temptation"
+    },
+    {
+      "id": "pyttipanna",
+      "name": "Pyttipanna",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pyttipanna%20recipe",
+      "description": "Pytt i panna (Swedish), pytt i panne (Norwegian), pyttipannu (Finnish), bixímatur (Icelandic) or biksemad (Danish), is a culinary dish consisting of chopped meat, potatoes and onions fried in a pan, similar to a hash, and popular in the Nordic countries. The term \"Pytt i panna\" is Swedish for \"small pieces in a pan\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Pyttipanna.JPG/500px-Pyttipanna.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pyttipanna"
+    },
+    {
+      "id": "artsoppa",
+      "name": "Ärtsoppa",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C3%84rtsoppa%20recipe",
+      "recipe": {
+        "ingredients": [
+          "16 oz split yellow Swedish peas",
+          "12 cup water",
+          "2–3 lb smoked pork butt",
+          "1 large yellow onion, peeled and chopped",
+          "1 teaspoon black pepper",
+          "1 teaspoon salt",
+          "¼ teaspoon thyme"
+        ],
+        "steps": [
+          "Soak the dry peas overnight in about 4 cups of cold water.",
+          "Add 8 cups of water to the peas and soaking water. Simmer the peas in a pot until soft.",
+          "In a separate pot, boil the smoked butt for 40 minutes per pound.",
+          "Cut the smoked butt into small cubes, and add to the softened pea stock.",
+          "Add the onion and half the salt and pepper. Adjust to taste, and mix in the thyme.",
+          "Cook for at least 5 minutes together, adding water from the meat if the stock is too thick. Cook longer if it is too thin."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AErtesuppe_(Pea_Soup)"
+      }
+    },
+    {
+      "id": "kroppkaka",
+      "name": "Kroppkaka",
+      "localName": "Kroppkakor",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kroppkaka%20recipe",
+      "description": "Kroppkaka (plural \"kroppkakor\") is a traditional Swedish boiled potato dumpling, most commonly filled with onions and meat. Potatoes, wheat flour, onion, salt and minced meat/pork are common ingredients in kroppkaka. They are very similar to the Norwegian raspeball, Lithuanian cepelinai and German klöße.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Kroppkaka.jpg/500px-Kroppkaka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kroppkaka",
+      "recipe": {
+        "ingredients": [
+          "1 kg cooked potatoes, mashed",
+          "2 egg yolks",
+          "1 ¼ cup all-purpose flour",
+          "Salt",
+          "1 onion, finely chopped",
+          "100 g smoked ham, diced",
+          "100 g bacon, diced",
+          "White pepper",
+          "Allspice (optional)"
+        ],
+        "steps": [
+          "Mound the mashed potatoes on a work surface and make an indentation in the middle.",
+          "Put yolks, flour, and salt in the indentation, and quickly work into a dough. Too much kneading will make the dough tough. Let it rest for a few minutes.",
+          "Fry the onions until translucent. Add the bacon and ham, and cook until it gets colored. Season with pepper.",
+          "Shape the dough into a thick log. Cut the log into thick slices, and make an indentation in each slice.",
+          "Place some of the onion and meat filling in the indentation, and top with another dough slice. Press the edges together to seal, and roll into a ball.",
+          "Lower the balls into boiling salted water, and boil them for about 10–12 minutes or until they float to the surface. Don’t boil too many at a time, as they will then have some difficulty floating to the surface.",
+          "Remove them with a perforated spoon, and transfer them to a hot serving plate.",
+          "Serve hot with melted butter and red whortleberry (lingonberry) or cranberry jam."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKroppkakor_(Swedish_Potato_and_Pork_Dumplings)"
+      }
+    },
+    {
+      "id": "toast-skagen",
+      "name": "Toast Skagen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Toast%20Skagen%20recipe",
+      "description": "Toast Skagen is a Swedish starter and food dish. It consists of pieces of toasted bread and a prawn salad called skagenröra, typically made with mayonnaise, sour cream and dill, sometimes dijon mustard, and garnished with roe. Sometimes crab or crabsticks are substituted for prawns.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Toast_skagen_med_l%C3%B6jrom_och_citron%2C_November_2023.jpg/500px-Toast_skagen_med_l%C3%B6jrom_och_citron%2C_November_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Toast_Skagen"
+    },
+    {
+      "id": "smorgastarta",
+      "name": "Smörgåstårta",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sm%C3%B6rg%C3%A5st%C3%A5rta%20recipe",
+      "description": "Smörgåstårta (Swedish for lit. 'sandwich-torte'), or sandwich cake (Finnish: voileipäkakku; Estonian: võileivatort; Icelandic: brauðterta), is a savoury main dish, not a dessert, of Swedish origin, popular in Sweden, Finland, Estonia, and Iceland, etc.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Plate_of_sm%C3%B6rg%C3%A5st%C3%A5rta_%28cropped%29.jpg/500px-Plate_of_sm%C3%B6rg%C3%A5st%C3%A5rta_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sm%C3%B6rg%C3%A5st%C3%A5rta",
+      "recipe": {
+        "ingredients": [
+          "3–4 eggs",
+          "1 kg (~2.25 lbs) shrimp with shells on",
+          "4.5 dl (450 ml / 1 pint) cottage cheese",
+          "4 dl (400 ml) mayonnaise",
+          "1 dl (100 ml) sour cream",
+          "2 loaves white sandwich bread",
+          "Salt",
+          "Black pepper",
+          "Sprigs of dill or slices of lemon or lime for garnish",
+          "Chopped dill or parsley for garnish"
+        ],
+        "steps": [
+          "Boil the eggs until hard, and peel the shrimp.",
+          "Set aside some shrimp (about ⅓) for garnishing. Chop the remaining shrimp, which will be used for filling.",
+          "Mix 1 dl mayonnaise with 1 dl sour cream in a cup or bowl, place in the refrigerator.",
+          "Mix the remaining mayonnaise with the cottage cheese in another bowl together with the chopped shrimp; this is the filling.",
+          "Cut the bread lengthwise to make eight 1 cm thick slices. Discard the top and bottom slice.",
+          "Place two slices next to each other, preferably on a cutting board. Spread one third of the filling on top of the bread slices. Add two more bread slices on top. Spread half of the remaining filling and repeat for the final layer. The cake should now have four layers of bread with three layers of filling between them.",
+          "If necessary even out the edges of the cake with a sharp knife.",
+          "Take the mayonnaise/sour cream mix out of the refrigerator and spread it thinly and evenly on the sides of and on top of the cake.",
+          "Cover the sides of the cake with chopped parsley or dill. Garnish with shrimp, sliced eggs, and dill sprigs or lemon slices."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASandwich_Layer-Cake"
+      }
+    },
+    {
+      "id": "kladdkaka",
+      "name": "Kladdkaka",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kladdkaka%20recipe",
+      "description": "Kladdkaka is a popular Swedish dessert. This dense, compact cake, similar to a molten chocolate cake, features a crisp exterior and soft, gooey interior. The ingredients are flour, eggs, butter, sugar, vanilla essence and cocoa powder.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Kladdkaka-med-vispgradde.jpg/500px-Kladdkaka-med-vispgradde.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kladdkaka"
+    },
+    {
+      "id": "lussekatt",
+      "name": "Lussekatt",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lussekatt%20recipe",
+      "description": "A saffron bun, Cornish tea treat bun or revel bun is a rich, spiced yeast-leavened sweet bun that is flavoured with saffron and contains dried fruit including currants and raisins similar to a teacake. The main ingredients are plain flour, butter, yeast, caster sugar, currants and sultanas.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Saffron_bun_20051213_001.jpg/500px-Saffron_bun_20051213_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saffron_bun",
+      "recipe": {
+        "ingredients": [
+          "2 packages (4½ tsp) active dry yeast",
+          "¼ cup lukewarm water",
+          "½ tsp crushed (¼ tsp powdered) saffron threads",
+          "¾ cup (180 ml) half and half, lukewarm",
+          "½ cup (120 g) melted butter",
+          "2 eggs, beaten",
+          "¾ cup (180 g) white granulated sugar",
+          "1 tsp salt",
+          "4–5 cups sifted all-purpose flour",
+          "Raisins to decorate"
+        ],
+        "steps": [
+          "Combine the yeast and warm water.",
+          "Mix saffron into the warm half and half and let stand.",
+          "Combine the yeast and saffron mixtures. Mix in the melted butter, eggs, sugar, and salt.",
+          "Mix half of flour into the wet mixture and beat until well-blended.",
+          "Mix in additional flour until dough is smooth but not too firm. Knead on floured surface for ten minutes.",
+          "Place dough in buttered bowl and let rise about 1½ hours or until doubled in volume.",
+          "Divide the dough into multiple pieces. Roll each piece into a 7 inch-long snake, and form into an 'S' shape with the ends curled in. Place a raisin in each curl.",
+          "Place buns on buttered sheet pan, cover, and let rise 45 minutes.",
+          "Brush with beaten egg and bake at 375–400°F (190–200°C) for 10–15 minutes until golden and cooked through."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALuciabullar_(Scandinavian_Saffron_Buns)"
+      }
+    },
+    {
+      "id": "pickled-herring",
+      "name": "Pickled herring",
+      "localName": "Inlagd sill",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pickled%20herring%20recipe",
+      "description": "Pickled herring is a traditional way of preserving herring as food by pickling or curing. Most cured herring use a two-step curing.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Aringa-marinato.jpg/500px-Aringa-marinato.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pickled_herring"
+    },
+    {
+      "id": "knackebrod",
+      "name": "Knäckebröd",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kn%C3%A4ckebr%C3%B6d%20recipe",
+      "description": "Crispbread is a flat and dry type of bread, containing mostly rye flour. Crispbreads are lightweight and keep fresh for a very long time due to their lack of water. Crispbread is a staple food and was for a long time considered a poor man's diet.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Knaeckebroed.jpg/500px-Knaeckebroed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Crispbread"
+    },
+    {
+      "id": "falukorv",
+      "name": "Falukorv",
+      "videoSearch": "https://www.youtube.com/results?search_query=Falukorv%20recipe",
+      "description": "Falukorv, or Falu sausage in English, is a type of sausage (korv in Swedish) that originates from Falun, Sweden. It is made from a mixture of smoked pork and beef or veal, blended with potato starch flour, onion, salt, and mild spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Falukorv.jpg/500px-Falukorv.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Falukorv"
+    },
+    {
+      "id": "chokladboll",
+      "name": "Chokladboll",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chokladboll%20recipe",
+      "description": "The oatmeal ball (Danish: havregrynskugle) or the chocolate ball (Swedish: chokladboll) is a type of unbaked pastry that is a popular Danish and Swedish confectionery. Oatmeal balls consist of oatmeal, sugar, cocoa, vanilla sugar, butter, and sometimes a small amount of coffee mixed until they become a compact mass.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Chokladbollar.jpg/500px-Chokladbollar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Oatmeal_ball",
+      "recipe": {
+        "ingredients": [
+          "3 ¼ cups (500 g / 1.1 lb) quick oats",
+          "1 ¼ cups (275 g / 9.7 oz) white granulated sugar",
+          "6 Tbsp (75 g / 2.6 oz) cocoa",
+          "1 Tbsp (15 ml / 14 g / 0.49 oz) vanilla sugar OR 1 tsp (5 ml / 0.17 oz) vanilla extract, added with the coffee",
+          "⅔ cup (160 g / 5.6 oz) butter or margarine, softened",
+          "6 Tbsp (90 ml / 3 oz) cold coffee",
+          "Flaked coconut or pearl sugar"
+        ],
+        "steps": [
+          "Mix oats, sugar, vanilla sugar, and cocoa in a large bowl.",
+          "Using your hands or a potato masher, incorporate the butter into the dry ingredients until the dough has an even consistency.",
+          "Add the coffee and mix until incorporated.",
+          "Fill a small bowl with flaked coconut or pearl sugar.",
+          "With your hands, roll the dough into 1-inch (3 cm) diameter balls.",
+          "Roll each ball in the coconut or pearl sugar and place on a tray.",
+          "Chill chocolate balls for at least one hour before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChokladboll_(Swedish_Chocolate_Balls)"
+      }
+    }
+  ]
+}

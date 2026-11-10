@@ -1,0 +1,189 @@
+{
+  "country": "NP",
+  "dishes": [
+    {
+      "id": "momo",
+      "name": "Momo",
+      "localName": "मःमः",
+      "videoSearch": "https://www.youtube.com/results?search_query=Momo%20recipe",
+      "description": "Momos are a type of steamed, filled dumpling in Nepalese and Tibetan cuisine, also popular in neighbouring Bangladesh, Bhutan, and India. They are usually served with a dipping sauce known as achar or chutney. They can also be served in soup, such as jhol momo or mokthuk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Momo_nepal.jpg/500px-Momo_nepal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Momo_(food)",
+      "recipe": {
+        "ingredients": [
+          "1 lb ground or minced chicken, turkey, lamb, or pork",
+          "1 cup finely-chopped onion",
+          "½ cup finely-chopped shallots or spring onions",
+          "½ cup cilantro, chopped",
+          "½ cup diced tomatoes",
+          "1 teaspoon garlic paste",
+          "1 teaspoon ginger paste",
+          "¼ teaspoon turmeric (optional)",
+          "1 teaspoon cumin powder",
+          "1 teaspoon coriander powder",
+          "4 tablespoons ghee or butter",
+          "Salt to taste",
+          "3 cups all-purpose flour",
+          "1 cup water",
+          "1 pinch of salt"
+        ],
+        "steps": [
+          "Combine all filling ingredients.",
+          "Mix well, and adjust seasoning according to taste.",
+          "In a bowl, combine flour, salt and water. Mix well, kneading until the dough becomes similar to pizza dough.",
+          "If desired, cover and let stand for about 1 hour. Knead well again before making the wrappers.",
+          "Prepare 4-inch dough balls and roll between your palms to a spherical shape.",
+          "Dust working board with dry flour. On the board gently flatten the ball with a rolling pin. Using a 2 inch-diameter cookie cutter, cut out circles.",
+          "Hold a wrapper on one palm. Put about 1 spoonful of filling in the middle of the wrapper.",
+          "With the other hand, bring all edges together to center, making pleats.",
+          "Pinch and twist the pleats to ensure the absolute closure of the dumpling. Sealing the meat inside the wrapper is the secret to tasty and juicy dumplings.",
+          "Heat up water in a steamer.",
+          "Oil the steamer rack well or put cabbage leaves on the bottom to prevent dumplings from sticking to rack. Put dumplings in the steamer.",
+          "When the water boils, cover the steamer.",
+          "Steam until the dumplings are cooked through, about 10–15 minutes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATibetan_Meat_Momos"
+      }
+    },
+    {
+      "id": "dal-bhat",
+      "name": "Dal bhat",
+      "localName": "दाल भात",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dal%20bhat%20recipe",
+      "description": "Dal bhat (or dhal bhaat), also known as dal chawal, is a legume and rice dish which consists of thick soup called dal (lentils) and cooked rice called bhat (rice). It is a traditional meal in South Asia and one of the most common everyday meals in the region and in the Caribbean.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dal_bhat"
+    },
+    {
+      "id": "dhindo",
+      "name": "Dhindo",
+      "localName": "ढिँडो",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dhindo%20recipe",
+      "description": "Dhindo is a meal prepared in Nepal. It is prepared by gradually adding flour to boiling water while stirring. It is a staple meal in various parts of Nepal, especially in the mountainous regions of Nepal and the Sikkim and Darjeeling regions of India.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Dhindo_by_Ganesh.jpeg/500px-Dhindo_by_Ganesh.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dhindo"
+    },
+    {
+      "id": "gundruk",
+      "name": "Gundruk",
+      "localName": "गुन्द्रुक",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gundruk%20recipe",
+      "description": "Gundruk is a dish made of fermented leafy green vegetables (saag; Nepali: साग), originating in Nepal. It is also popular in Sikkim and other regions of India, as well as in Bhutan and Myanmar. Annual production of gundruk in Nepal is estimated at 2,000 tons, most of it at the household level.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gundruk_NP.jpg/500px-Gundruk_NP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gundruk"
+    },
+    {
+      "id": "sel-roti",
+      "name": "Sel roti",
+      "localName": "सेल रोटी",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sel%20roti%20recipe",
+      "description": "Sel roti (Nepali: सेल रोटी) is a traditional Nepalese ring-shaped sweet fried dough made from rice flour. It is mostly prepared during Dashain and Tihar, widely celebrated Hindu festivals in Nepal as well as Darjeeling, Kalimpong and Sikkim and the Kumaon region of Uttarakhand. The dish is popular throughout Nepal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Sel_Roti.jpg/500px-Sel_Roti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sel_roti"
+    },
+    {
+      "id": "thukpa",
+      "name": "Thukpa",
+      "localName": "थुक्पा",
+      "videoSearch": "https://www.youtube.com/results?search_query=Thukpa%20recipe",
+      "description": "Thukpa (Tibetan: ཐུག་པ; IPA: /tʰu(k̚)ˀ˥˥.pə˥˥/ ) is a Tibetan noodle soup, which originated in the eastern part of Tibet. Amdo thukpa, especially thenthuk, is a variant among the Indians, especially Ladakhis and the Sikkimese.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Thukpa%2C_Tibetan_noodle_in_Osaka%2C_Japan.jpg/500px-Thukpa%2C_Tibetan_noodle_in_Osaka%2C_Japan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thukpa"
+    },
+    {
+      "id": "chatamari",
+      "name": "Chatamari",
+      "localName": "चतामरि",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chatamari%20recipe",
+      "description": "Chatānmari (Nepali: चतांमरि, romanized: catā̃mari, Nepal Bhasa: चतांमरि) is a Nepalese rice crepe, which is a part of Newa cuisine of the Kathmandu Valley in Nepal. It is generally eaten during festivals and other special occasions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Meat_Chatamari.jpg/500px-Meat_Chatamari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chataamari"
+    },
+    {
+      "id": "yomari",
+      "name": "Yomari",
+      "localName": "यःमरि",
+      "videoSearch": "https://www.youtube.com/results?search_query=Yomari%20recipe",
+      "description": "Yo:mari, also called Ya:mari, is a delicacy of the Newar community in Nepal. Usually eaten in the winter, it is a steamed dumpling that consists of an external covering of glutinous rice flour, usually taichin rice, with sweet high caloric fillings such as chaku and khuwa which are traditionally believed to ward off th…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Yomari_double.jpg/500px-Yomari_double.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Yomari"
+    },
+    {
+      "id": "choila",
+      "name": "Choila",
+      "localName": "छोयला",
+      "videoSearch": "https://www.youtube.com/results?search_query=Choila%20recipe",
+      "description": "Choila, sometimes Chhwela or Chhoyela (Nepali: छोयला) is a typical Newari dish that consists of spiced grilled buffalo meat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Chhwela.jpg/500px-Chhwela.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Choila"
+    },
+    {
+      "id": "kwati",
+      "name": "Kwati",
+      "localName": "क्वाँटी",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kwati%20recipe",
+      "description": "Kwātī (Newar: क्वाती (where क्वा (kwā) = 'hot' and ती (tī) = 'soup'); Nepali: क्वाँटी) is a mixed soup of nine types of sprouted beans. It is a traditional Newari dish consumed on the festival of Guni Punhi, the full moon day of Gunlā which is the tenth month in the Nepal Era lunar calendar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/A_bowl_of_Kwati.jpg/500px-A_bowl_of_Kwati.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kwati_(soup)"
+    },
+    {
+      "id": "sekuwa",
+      "name": "Sekuwa",
+      "localName": "सेकुवा",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sekuwa%20recipe",
+      "description": "Sekuwa is a traditional Nepalese dish consisting of meat that is marinated with a blend of spices, ginger-garlic paste, yogurt, lemon juice, mustard oil, and salt, then skewed and grilled over an open flame or charcoal, producing a smoky, rich flavor.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sekuwa.jpg/500px-Sekuwa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sekuwa"
+    },
+    {
+      "id": "aloo-tama",
+      "name": "Aloo tama",
+      "localName": "आलु तामा",
+      "videoSearch": "https://www.youtube.com/results?search_query=Aloo%20tama%20recipe",
+      "description": "Aloo tama (Nepali: आलू तामा) or aloo bodi tama (Nepali: आलू बोडी तामा) is a Nepali soup dish made of fermented bamboo shoots, potatoes and black-eyed peas.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Aalu_Bodi_Tama_3.jpg/500px-Aalu_Bodi_Tama_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Aloo_tama"
+    },
+    {
+      "id": "chukauni",
+      "name": "Chukauni",
+      "localName": "चुकौनी",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chukauni%20recipe",
+      "description": "Chukauni (Nepali: चुकौनी) is a Nepalese salad that originated around the Palpa District of western Nepal. It is made from boiled potatoes, yogurt, onion, coriander and spices. It is a popular type of salad and eaten mainly as a side dish with roti, sel roti or steamed rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Chukauni.jpg/500px-Chukauni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chukauni",
+      "recipe": {
+        "ingredients": [
+          "4 boiled potatoes, peeled and roughly cubed",
+          "200 ml yoghurt",
+          "2 chiles, chopped",
+          "1 large onion, chopped",
+          "2 tbsp mustard oil",
+          "Salt to taste",
+          "½ tsp turmeric powder",
+          "½ tsp fenugreek seeds",
+          "Chile powder (optional)",
+          "2 dried red chiles (optional)"
+        ],
+        "steps": [
+          "Put the boiled potatoes in a bowl.",
+          "Add chopped chilies and chilies.",
+          "Pour the yoghurt over the potatoes.",
+          "Add salt and red chili powder as per your taste.",
+          "In a small wok or pan, heat some oil with red chilies and fenugreek seed.",
+          "When the seeds turn black, remove the pan from heat.",
+          "Add turmeric powder over the oil immediately.",
+          "Pour the oil over the potatoes and yoghurt mixture.",
+          "Mix the mixture evenly with a ladle or a spoon."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChukauni_(Nepalese_Potato_Salad)"
+      }
+    },
+    {
+      "id": "samay-baji",
+      "name": "Samay baji",
+      "videoSearch": "https://www.youtube.com/results?search_query=Samay%20baji%20recipe",
+      "description": "Samay baji (Nepal Bhasa: समय् बजि) is an authentic traditional dish of the Newar community in Nepal. In recent years, it has become one of the main attractions of Nepalese cuisine.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Samay_baji"
+    }
+  ]
+}

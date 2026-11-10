@@ -1,0 +1,238 @@
+{
+  "country": "SE",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "svt",
+        "name": "SVT Nyheter",
+        "homepage": "https://www.svt.se",
+        "lang": "sv"
+      },
+      "fetchedAt": "2026-10-22T15:13:33.862Z",
+      "items": [
+        {
+          "title": "Migrationsverket öppnar för att pausa tonårsutvisningar",
+          "link": "https://www.svt.se/nyheter/inrikes/migrationsverket-oppnar-for-att-pausa-tonarsutvisningar",
+          "summary": "De rödgröna partierna har enats om vilka som ska omfattas av en stopplag för så kallade tonårsutvisningar. Nu öppnar Migrationsverket för att eventuellt pausa utvisningarna i väntan på ny lagstiftning. – Jag har inte…",
+          "publishedAt": "2026-10-22T15:06:46.000Z"
+        },
+        {
+          "title": "Tre misstänkta i valfusk-utredning efter gryningsräd",
+          "link": "https://www.svt.se/nyheter/lokalt/dalarna/tre-misstankta-i-valfusk-utredning-efter-gryningsrad",
+          "summary": "I tisdags slog polisen till mot flera adresser i Borlänge. Nu finns det tre misstänkta personer i den pågående utredningen om valfusk i Borlänge.",
+          "publishedAt": "2026-10-22T14:34:04.000Z"
+        },
+        {
+          "title": "AI-bilder tar över – fotografer i Umeå protesterar: ”Dynga”",
+          "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/ai-bilder-tar-over-fotografer-i-umea-protesterar-dynga",
+          "summary": "Det publiceras stora mängder AI-genererade bilder på sociala medier. Nu protesterar fotografer i Umeå mot utvecklingen. – Det är ett korståg mot AI-genererad dynga. Det kommer mer och mer, folk vet inte vad en riktig…",
+          "publishedAt": "2026-10-22T14:15:41.000Z"
+        },
+        {
+          "title": "Konsthandlarens kompanjon frias från konststölden på Lindgården",
+          "link": "https://www.svt.se/nyheter/lokalt/jonkoping/konsthandlarens-kompanjon-frias-fran-konststolden-pa-lindgarden",
+          "summary": "Jönköpings tingsrätt frikänner en man i 45-årsåldern från åtal om grovt bedrägeri och grovt häleri. Målet rör den värdefulla Bergslagsurnan som hämtades från ett äldreboende i Jönköping för över tio år sedan och senare…",
+          "publishedAt": "2026-10-22T13:51:11.000Z"
+        },
+        {
+          "title": "Därför är det så många nyckelpigor i Uppsala",
+          "link": "https://www.svt.se/nyheter/lokalt/uppsala/darfor-ar-det-sa-manga-nyckelpigor-i-uppsala",
+          "summary": "Har du på sistone sett ovanligt många nyckelpigor i Uppsala? Du är inte ensam. – På vissa träd sitter det flera hundra – och de gillar att ta sig inomhus, säger Mats Jonsell, skogsentomolog på SLU.",
+          "publishedAt": "2026-10-22T12:40:04.000Z"
+        },
+        {
+          "title": "Centerpartiet om vågmästarrollen i Nyköping: ”Minst dåliga resultatet”",
+          "link": "https://www.svt.se/nyheter/lokalt/sormland/centerpartiet-om-vagmastarrollen-i-nykoping-minst-daliga-resultatet",
+          "summary": "Förhandlingarna tog över en månad – och mynnade ut i att Nyköping nu får ett minoritetsstyre. Där ingår inte Centerpartiet, men de får ändå en nyckelroll i det politiska spelet.",
+          "publishedAt": "2026-10-22T11:35:16.000Z"
+        },
+        {
+          "title": "Översergeant imiterade oralsex på kvinnlig kollega – får löneavdrag",
+          "link": "https://www.svt.se/nyheter/lokalt/vast/oversergeant-imiterade-oralsex-pa-kvinnlig-kollega-far-loneavdrag",
+          "summary": "En översergeant på Göta trängregemente imiterade oralsex mot en kvinnlig kollegas kön. Själv hävdar han att han härmade en seriefigur.",
+          "publishedAt": "2026-10-22T10:43:14.000Z"
+        },
+        {
+          "title": "Våldshot mot utländska studenter i Milano",
+          "link": "https://www.svt.se/nyheter/lokalt/varmland/valdshot-mot-utlandska-studenter-i-milano",
+          "summary": "Efter dagar av protester och vandaliseringar i Milano sprids nu hot om våld mot stadens utländska studenter på sociala medier. – Vi kommer bränna ner era skolor, såna saker, säger studenten Lucas Molander från Karlstad.",
+          "publishedAt": "2026-10-22T10:19:43.000Z"
+        },
+        {
+          "title": "Angrepp av tjärfläcksjuka i Sundsvall – så bekämpas den",
+          "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/angrepp-av-tjarflacksjuka-i-sundsvall-sa-bekampas-den",
+          "summary": "Tjärfläcksjukan är här. Eller Lönntjärfläck som den också heter. Det är ett angrepp som drabbar lönnträd. Det handlar om en svamp som angriper bladen. Bland annat på en del håll i Sundsvall just nu.",
+          "publishedAt": "2026-10-22T09:39:16.000Z"
+        },
+        {
+          "title": "Långa köer och regionala skillnader präglar ätstörningsvården",
+          "link": "https://www.svt.se/nyheter/uutiset/svenska/langa-koer-och-regionala-skillnader-praglar-atstorningsvarden",
+          "summary": "Den avgående regeringen skärper tillsynen av den specialiserade ätstörningsvården. Målet är bland annat att förbättra vårdens kvalitet och göra den mer jämlik i hela landet. Organisationen Frisk & Fri, välkomnar beslutet…",
+          "publishedAt": "2026-10-22T09:02:52.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "dn",
+        "name": "Dagens Nyheter",
+        "homepage": "https://www.dn.se",
+        "lang": "sv"
+      },
+      "fetchedAt": "2026-10-22T15:13:33.998Z",
+      "items": [
+        {
+          "title": "Mysteriet bakom van Goghs stjärnhimmel kan vara löst",
+          "link": "https://www.dn.se/kultur/mysteriet-bakom-van-goghs-stjarnhimmel-kan-vara-lost/",
+          "summary": "En av världens mest berömda målningar, ”Stjärnenatt” från 1889, har länge fascinerat forskarna. Använde Vincent van Gogh bara sin fantasi när han målade den spektakulära tavlan, eller föreställer bilden en äkta…",
+          "image": "https://static.bonniernews.se/ba/709ec462-999d-4ab4-b96e-cc2c95cb188c.jpeg?io=1&width=1000",
+          "publishedAt": "2026-10-22T15:00:38.000Z"
+        },
+        {
+          "title": "Insändare. Noterat av DN:s läsare den 22 oktober",
+          "link": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-21-oktober-4/",
+          "summary": "INSÄNDARE. Dagens Nyheters läsare ger sin syn på läget i Sverige och världen samt DN:s innehåll torsdagen den 22 oktober.",
+          "image": "https://static.bonniernews.se/ba/03f045a9-cd47-46c3-ac5e-4c53cc0ef6e0.jpeg?io=1&width=1000",
+          "publishedAt": "2026-10-22T14:36:11.000Z"
+        },
+        {
+          "title": "Insändare. Använd Norges oljefond för att rädda klimatet",
+          "link": "https://www.dn.se/insandare/anvand-norges-oljefond-for-att-radda-klimatet/",
+          "summary": "INSÄNDARE. Att spara pengar till framtida generationers välfärd är meningslöst om vi samtidigt lämnar över en planet i ekologisk kollaps. Genom att utnyttja oljefondens kapital till investeringar i förnybar energi och…",
+          "image": "https://static.bonniernews.se/ba/6ba41307-e45a-4dbb-abdd-a85dd3ea2878.jpeg?io=1&width=1000",
+          "publishedAt": "2026-10-22T14:22:58.000Z"
+        },
+        {
+          "title": "Kulturdebatt. Oskar Månsson: Nu slår gängkriminaliteten även mot fotbollens ljusa krafter",
+          "link": "https://www.dn.se/kultur/oskar-mansson-nu-slar-gangkriminaliteten-aven-mot-fotbollens-ljusa-krafter/",
+          "summary": "Fritidsledaren Saba Abraham sköts ihjäl under en fotbollsmatch i Älvsjö. Elitfotbollen har länge tolererat agenter med gängkopplingar, men nu är det sportens positiva sida som drabbats av våldet. Det skriver Oskar…",
+          "image": "https://static.bonniernews.se/ba/3ef690b1-e96e-4828-bd78-69c8a4c9f312.jpeg?io=1&width=1000",
+          "publishedAt": "2026-10-22T14:16:26.000Z"
+        },
+        {
+          "title": "Sötade ”Klara och solen” förvandlar Nobelprislitteratur till smetig barnsaga",
+          "link": "https://www.dn.se/kultur/sotade-klara-och-solen-forvandlar-nobelprislitteratur-till-smetig-barnsaga/",
+          "summary": "Nobelpristagaren Kazuo Ishiguros romaner blir ofta lyckade filmer, men det AI-inspirerade dramat ”Klara och solen” hör dessvärre inte dit. En överkäck och sötad historia som talar till publiken som om de vore…",
+          "image": "https://static.bonniernews.se/ba/ec80212b-f099-45dc-972d-5e264c92a11c.jpeg?io=1&width=1000",
+          "publishedAt": "2026-10-22T13:47:45.000Z"
+        },
+        {
+          "title": "Busch om elpriserna: ”Kan bli en stökig vinter”",
+          "link": "https://www.dn.se/sverige/busch-om-elpriserna-kan-bli-en-stokig-vinter/",
+          "summary": "Riskerna för stigande elpriser är överhängande, enligt energiminister Ebba Busch (KD). Hon försäkrar att övergångsregeringen är redo att aktivera elprisstödet. – Det kan bli en stökig vinter, säger Ebba Busch.",
+          "image": "https://static.bonniernews.se/ba/e3361af2-9724-4b80-a1e7-15937cefaf27.jpeg?io=1&width=1000",
+          "publishedAt": "2026-10-22T13:30:17.000Z"
+        },
+        {
+          "title": "Advokat kräver att 17-åring släpps i Sigtunamålet",
+          "link": "https://www.dn.se/sverige/advokat-kraver-att-17-aring-slapps-i-sigtunamalet/",
+          "summary": "Pressen växer på Sigtunaskolan som ska granskas på nytt av Skolinspektionen. På fredagen hålls också omhäktningsförhandlingar för en av de pojkar som misstänks för grova brott.",
+          "image": "https://static.bonniernews.se/ba/db040a5d-481e-47dc-b865-7604be79037d.jpeg?io=1&width=1000",
+          "publishedAt": "2026-10-22T13:15:36.000Z"
+        },
+        {
+          "title": "Man död efter fall på stålverksbygget i Boden: ”Otroligt tungt”",
+          "link": "https://www.dn.se/sverige/man-dod-efter-fall-pa-stalverksbygget-i-boden-otroligt-tungt/",
+          "summary": "BODEN. En man har dött efter att ha fallit från en plattform på Stegras stålverksbygge i Boden. Olyckan skedde i området där det byggs en vätgasanläggning. – Det som inte får hända har hänt, säger Karin Hallstan,…",
+          "image": "https://static.bonniernews.se/ba/486800ef-8189-42f4-be0c-07fb303d9522.jpeg?io=1&width=1000",
+          "publishedAt": "2026-10-22T13:07:35.000Z"
+        },
+        {
+          "title": "Insändare. Globen och Strawberry arena är varandras motsatser",
+          "link": "https://www.dn.se/insandare/globen-och-strawberry-arena-ar-varandras-motsatser/",
+          "summary": "INSÄNDARE. För den som vill lyssna på stora musikarrangemang i Stockholm är valet av arena avgörande för hur upplevelsen efteråt blir. Jag korar härmed Globen till tydlig vinnare, skriver Per Wihl.",
+          "image": "https://static.bonniernews.se/ba/e45690ac-a2f6-4745-8109-13e2d0a15047.jpeg?io=1&width=1000",
+          "publishedAt": "2026-10-22T13:02:03.000Z"
+        },
+        {
+          "title": "Svenska kraftnäts generaldirektör om kritiken: ”Har aldrig varit en dålig ton”",
+          "link": "https://www.dn.se/sverige/svenska-kraftnats-generaldirektor-om-kritiken-har-aldrig-varit-en-dalig-ton/",
+          "summary": "Svenska kraftnäts generaldirektör Maja Lundbäck har fått tuff intern kritik efter två månader på posten. Till DN säger hon att hon tar kritiken mot ledarstilen på allvar – men att hon inte oroas av att nyckelpersoner…",
+          "image": "https://static.bonniernews.se/ba/a0bea016-6c5e-46b9-b29c-b4021876f09a.jpeg?io=1&width=1000",
+          "publishedAt": "2026-10-22T12:56:07.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "aftonbladet",
+        "name": "Aftonbladet",
+        "homepage": "https://www.aftonbladet.se",
+        "lang": "sv"
+      },
+      "fetchedAt": "2026-10-22T15:13:37.047Z",
+      "items": [
+        {
+          "title": "Sigtunaskolans vd: Absolut ingen våldskultur",
+          "link": "https://www.aftonbladet.se/nyheter/a/58g8gW/sigtunaskolans-vd-absolut-ingen-valdskultur?utm_medium=rss",
+          "summary": "Sigtunaskolans vd Sofia Kinberg säger att det ”absolut inte” finns en våldskultur…",
+          "image": "https://akamai.vgc.no/v2/images/d1cbf149-fccf-317c-8929-41fbba1051c0?format=auto&w=1000&s=29400ba14cc38ab5d3cbb0d7fcef9847fa16871b",
+          "publishedAt": "2026-10-22T15:07:02.000Z"
+        },
+        {
+          "title": "Emmaskolan räddas – politiker backar efter proteststorm",
+          "link": "https://www.aftonbladet.se/nyheter/a/0ByE0B/goteborg-emmaskolan-i-hammarkullen-raddas-efter-massiva-protester?utm_medium=rss",
+          "summary": "Föräldrarnas seger i Göteborgsförorten",
+          "image": "https://akamai.vgc.no/v2/images/c6564218-963f-30cb-a4db-20b803c087f9?format=auto&w=1000&s=c2c49d72a5885f2472990fe740a6f1ded4763cd3",
+          "publishedAt": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "”Donald Trump” skakar galler i Teheran",
+          "link": "https://www.aftonbladet.se/nyheter/a/kvrv6X/donald-trump-skakar-galler-i-teheran?utm_medium=rss",
+          "summary": "Anti-amerikansk propaganda är en vanlig syn på gatorna i Irans huvudstad.",
+          "image": "https://akamai.vgc.no/v2/images/f4d01ef4-89aa-3725-aceb-b8ea272aa6d8?format=auto&w=1000&s=d94a8e6bc840c664d32be5f1617f1138fdac6676",
+          "publishedAt": "2026-10-22T14:59:41.000Z"
+        },
+        {
+          "title": "Superprognos: Så blir vintern i Sverige",
+          "link": "https://www.aftonbladet.se/nyheter/a/b8oedk/superprognos-sa-blir-vadret-i-vinter?utm_medium=rss",
+          "summary": "November–februari ✓ ”Över det normala”",
+          "image": "https://akamai.vgc.no/v2/images/f07054d8-0cca-329f-8e09-d0f9735691e3?format=auto&w=1000&s=0243dcb369171ab7b7ae0066077e80d76f67dfa2",
+          "publishedAt": "2026-10-22T14:55:58.000Z"
+        },
+        {
+          "title": "Expert: Det här kan vänta Trump efter valet",
+          "link": "https://www.aftonbladet.se/nyheter/a/zl3wvO/mellanarsvalet-i-usa-detta-vantar-for-trump?utm_medium=rss",
+          "summary": "Experten: Fyra punkter kan bli avgörande",
+          "image": "https://akamai.vgc.no/v2/images/3f78a802-4332-3e16-9c15-a1fc1a3d484d?format=auto&w=1000&s=0b7670dc4c6c8c3eec5abe73556c68e75461eb45",
+          "publishedAt": "2026-10-22T14:04:06.000Z"
+        },
+        {
+          "title": "Hjälpte barn kasta handgranat – sex års fängelse",
+          "link": "https://www.aftonbladet.se/nyheter/a/31b4e9/hjalpte-barn-kasta-handgranat-sex-ars-fangelse?utm_medium=rss",
+          "summary": "En kvinna i 20-årsåldern fälls för att ha hjälpt en flicka i yngre tonåren att kasta en handgranat i…",
+          "image": "https://akamai.vgc.no/v2/images/1b953f99-6366-3567-ad43-c053eeb99e90?format=auto&w=1000&s=8ca71c300e1b928f9297365b862b94be17e5c3ea",
+          "publishedAt": "2026-10-22T14:01:35.000Z"
+        },
+        {
+          "title": "Danmark köper robotar av USA och Norge",
+          "link": "https://www.aftonbladet.se/nyheter/a/64R64W/danmark-koper-robotar-av-usa-och-norge?utm_medium=rss",
+          "summary": "Danmark ska köpa robotar från amerikanska och norska bolag, meddelar försvarsminister Jeppe Bruus…",
+          "image": "https://akamai.vgc.no/v2/images/be9cdb1a-81b5-3d2a-9e20-9a120bf47ac1?format=auto&w=1000&s=a4aaa30ee29030aac41d664a908733e1d7dbb996",
+          "publishedAt": "2026-10-22T13:56:20.000Z"
+        },
+        {
+          "title": "Tre misstänkta i valfuskhärvan i Borlänge",
+          "link": "https://www.aftonbladet.se/nyheter/a/R5eyma/tre-misstankta-i-valfuskharvan-i-borlange?utm_medium=rss",
+          "summary": "Tre personer är brottsmisstänkta i ärendet om misstänkt valfusk i Borlänge och som kopplas till…",
+          "image": "https://akamai.vgc.no/v2/images/eee34d77-aa25-3d8c-a87b-cefc78063b5b?format=auto&w=1000&s=7519be4efcda10e617c5d3420b5ded4dcc89e2c0",
+          "publishedAt": "2026-10-22T13:39:25.000Z"
+        },
+        {
+          "title": "Mohamed Alis egna ord: ”Ingen förståelse”",
+          "link": "https://www.aftonbladet.se/nyheter/a/b8v5Mq/mohamed-alis-egna-ord-ingen-forstaelse?utm_medium=rss",
+          "summary": "Riksdagsledamoten: ”Ingen förståelse”",
+          "image": "https://akamai.vgc.no/v2/images/28491b77-be5b-3787-a68c-1a9ead7437df?format=auto&w=1000&s=1cd849c435fd83867df28b1ca4b4d7df4c51de0e",
+          "publishedAt": "2026-10-22T13:35:02.000Z"
+        },
+        {
+          "title": "”Håll er inne” – stormvarning i Bryssel",
+          "link": "https://www.aftonbladet.se/nyheter/a/4Oedna/hall-er-inne-stormvarning-i-bryssel?utm_medium=rss",
+          "summary": "Brandkåren i Bryssel uppmanar invånarna att så gott det går hålla sig inomhus under fredagen när…",
+          "image": "https://akamai.vgc.no/v2/images/363647f8-2c8f-3f38-a669-1168d95cceca?format=auto&w=1000&s=ae738d6251d967fe641649f3ae9b52fc54cec56e",
+          "publishedAt": "2026-10-22T12:56:41.000Z"
+        }
+      ]
+    }
+  ]
+}

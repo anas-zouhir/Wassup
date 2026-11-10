@@ -1,0 +1,527 @@
+{
+  "country": "ET",
+  "dishes": [
+    {
+      "id": "injera",
+      "name": "Injera",
+      "localName": "እንጀራ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Injera%20recipe",
+      "description": "Injera, also known as taita, is a sour fermented pancake-like flatbread with a slightly spongy texture, traditionally made of teff flour. In Ethiopia, injera is a staple. Injera is central to the dining process in Amhara society, like bread or rice elsewhere, and is usually stored in the mesob.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Injera_with_eight_kinds_of_stew.jpg/500px-Injera_with_eight_kinds_of_stew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Injera",
+      "recipe": {
+        "ingredients": [
+          "1 cup teff flour",
+          "1½ cups warm but not hot water",
+          "1 pinch of salt",
+          "Oil for frying",
+          "Fermentation starter (optional; see notes)"
+        ],
+        "steps": [
+          "Mix the flour with the water, and the salt. Add your fermentation starter if using one.",
+          "Set aside to ferment overnight, or at least 12 hours. There should be bubbles on the surface from fermenting, before you use it.",
+          "Heat a large, flat pan until it is hot enough to make a droplet of water sizzle. Oil it very lightly, just enough to make the pan shine.",
+          "Pour or ladle some batter onto the pan, spiralling outwards from the centre. Only a thin layer is required—a little thicker than a crêpe but not by much.",
+          "As it cooks, the surface of the injera will become covered in holes or pits. When the entire injera has changed colour and the edges start to lift from the pan, remove it and set aside, then pour the next injera and repeat until finished."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AInjera_(Ethiopian_Teff_Flatbread)"
+      }
+    },
+    {
+      "id": "doro-wat",
+      "name": "Doro wat",
+      "localName": "ዶሮ ወጥ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Doro%20wat%20recipe",
+      "description": "Wat or wet or ito (Oromo: Ittoo) or tsebhi is an Ethiopian and Eritrean stew that may be prepared with chicken, beef, lamb, a variety of vegetables, spice mixtures such as berbere (hot variety), and niter kibbeh, a seasoned clarified butter.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Ethiopian_wat.jpg/500px-Ethiopian_wat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wat_(food)"
+    },
+    {
+      "id": "kitfo",
+      "name": "Kitfo",
+      "localName": "ክትፎ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kitfo%20recipe",
+      "description": "Kitfo is an Ethiopian traditional dish that originated among the Gurage people. It consists of minced raw beef, marinated in mitmita (a chili-based spice powder) and niter kibbeh (a clarified butter infused with herbs and spices).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Kitfo_with_Ayibe..JPG/500px-Kitfo_with_Ayibe..JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kitfo",
+      "recipe": {
+        "ingredients": [
+          "500 grams (1 lb) lean beef, finely minced",
+          "2 tablespoons clarified butter or olive oil",
+          "1 tablespoon mitmita spice blend",
+          "1 tablespoon spiced clarified butter (optional)",
+          "1 teaspoon salt, or to taste",
+          "1 teaspoon ground black pepper",
+          "1 teaspoon berbere spice blend",
+          "Injera, for serving",
+          "Collard greens, blanched and chopped, for serving (optional)",
+          "Ayib (Ethiopian cheese), crumbled, for serving (optional)"
+        ],
+        "steps": [
+          "Place the minced beef in a large bowl.",
+          "In a separate small bowl, combine the mitmita spice blend, salt, black pepper, and berbere spice blend.",
+          "Sprinkle the spice mixture over the minced beef. Mix well with a spoon or spatula to evenly distribute the spices throughout the meat.",
+          "Heat the clarified butter or olive oil in a small skillet over low heat until melted.",
+          "If using niter qibe, add it to the skillet and let it melt with the clarified butter or olive oil.",
+          "Pour the melted butter or oil over the seasoned minced beef. Mix thoroughly until all the ingredients are well combined.",
+          "Let the kitfo marinate in the refrigerator for at least 1 hour to allow the flavors to meld and develop.",
+          "To serve, place the kitfo on a plate and shape it into a mound or individual portions.",
+          "Accompany the kitfo with injera, collard greens, and crumbled ayib on the side.",
+          "To eat, tear off a piece of injera, scoop a small portion of kitfo onto it, and wrap it before taking a bite."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKitfo_(Ethiopian_Minced_Raw_Meat)"
+      }
+    },
+    {
+      "id": "tibs",
+      "name": "Tibs",
+      "localName": "ጥብስ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tibs%20recipe",
+      "recipe": {
+        "ingredients": [
+          "2 tablespoons olive oil",
+          "1 large onion, finely chopped",
+          "3 cloves of garlic, minced",
+          "500 grams (1 lb) boneless meat (beef, lamb, or chicken), cut into bite-sized pieces",
+          "1 tablespoon berbere spice blend",
+          "1 teaspoon paprika",
+          "½ teaspoon ground cumin",
+          "½ teaspoon salt, or to taste",
+          "¼ teaspoon black pepper",
+          "¼ teaspoon ground cayenne pepper, optional (for extra spiciness)",
+          "¼ cup lemon juice",
+          "2 tablespoons butter",
+          "Fresh parsley or cilantro, chopped, for garnish",
+          "Lemon wedges, for serving"
+        ],
+        "steps": [
+          "Heat the olive oil in a large skillet or frying pan over medium-high heat.",
+          "Add the chopped onion to the pan and sauté until it becomes translucent and starts to brown.",
+          "Add the minced garlic to the pan and sauté for an additional minute until fragrant.",
+          "Add the meat to the pan and cook until browned on all sides. Stir occasionally to ensure even cooking.",
+          "Sprinkle the berbere spice blend, paprika, ground cumin, salt, black pepper, and cayenne pepper (if using) over the meat. Stir well to coat the meat with the spices.",
+          "Reduce the heat to medium and continue cooking for another 5–7 minutes, or until the meat is cooked through and tender.",
+          "Drizzle the lemon juice over the meat and stir to incorporate the flavors.",
+          "Add the butter to the pan and stir until melted, coating the meat with its rich flavor.",
+          "Remove the pan from the heat and garnish the tibs with fresh chopped parsley or cilantro.",
+          "Serve hot with injera or as a side dish alongside other Ethiopian delicacies. Accompany with lemon wedges for extra zest."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATibs_(Ethiopian_Sauteed_Meat_and_Vegetables)"
+      }
+    },
+    {
+      "id": "shiro",
+      "name": "Shiro",
+      "localName": "ሽሮ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shiro%20recipe",
+      "description": "Shiro (Ge'ez: ሽሮ, romanized: šəro), also called shiro wat (Amharic: ሽሮ ወጥ, romanized: šəro wäṭ), or tsebhi shiro (Tigrinya: ጸብሒ ሽሮ, romanized: ṣäbhi šəro), is a stew served for either lunch or dinner, originating from Northern Ethiopia and Southern Eritrea.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Taita_and_shiro.jpg/500px-Taita_and_shiro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shiro_(food)",
+      "recipe": {
+        "ingredients": [
+          "½ cup chopped onion",
+          "¼ cup oil",
+          "4 spoons berberei (a spice mix with red pepper powder)",
+          "2½ cups water",
+          "4 spoons shiro powder (made from different cereals and beans, typically split green peas)",
+          "Salt, to taste",
+          "2 spoons butter (optional)"
+        ],
+        "steps": [
+          "Heat a medium-size skillet, add the onion, and cook for 1–2 minutes.",
+          "Add the oil, and after 1 minute add berberei. Cook it for 4–5 minutes, stirring regularly and adding a dash of water if it tries to stick on the pan.",
+          "Add the water.",
+          "When the water boils, add the shiro, carefully stirring it in the pan; it should not make lumps. Then cook it for 5 minutes, stirring it regularly.",
+          "Finally, add salt and the butter, and after 2–3 minutes, remove it from the heat.",
+          "Served hot or cold with injera."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AShiro_Wat_(Ethiopian_Pea_Stew)"
+      }
+    },
+    {
+      "id": "misir-wat",
+      "name": "Misir wat",
+      "localName": "ምስር ወጥ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Misir%20wat%20recipe",
+      "recipe": {
+        "ingredients": [
+          "2 cups red lentils, rinsed",
+          "4 cups water",
+          "1 large onion, finely chopped",
+          "4 cloves of garlic, minced",
+          "2 tablespoons olive oil",
+          "2 tablespoons berbere spice blend",
+          "1 tablespoon tomato paste",
+          "1 teaspoon ground cumin",
+          "½ teaspoon ground turmeric",
+          "½ teaspoon salt, or to taste",
+          "¼ teaspoon black pepper",
+          "Fresh parsley or cilantro, chopped, for garnish"
+        ],
+        "steps": [
+          "Place the rinsed red lentils in a large pot and add the water. Bring to a boil over medium-high heat.",
+          "Reduce the heat to low and simmer the lentils for about 15–20 minutes or until they are soft and cooked through. Stir occasionally to prevent sticking. Once cooked, remove from heat and set aside.",
+          "In a separate large pot, heat the olive oil over medium heat.",
+          "Add the chopped onion to the pot and sauté until it becomes translucent and slightly browned.",
+          "Add the minced garlic to the pot and sauté for an additional minute until fragrant.",
+          "Stir in the berbere spice blend, tomato paste, ground cumin, ground turmeric, salt, and black pepper. Mix well to combine the spices with the onions and garlic.",
+          "Add the cooked lentils to the pot, including any remaining cooking liquid. Stir well to incorporate the lentils with the spices.",
+          "Bring the mixture to a simmer and cook for an additional 20 minutes, stirring occasionally, to allow the flavors to meld together.",
+          "Taste the stew and adjust the seasoning with salt and pepper if needed.",
+          "Remove the pot from the heat and let rest for a few minutes before serving.",
+          "Garnish with fresh chopped parsley or cilantro. Enjoy hot with injera or bread."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMesir_Wat_(Spicy_Ethiopian_Lentil_Stew)"
+      }
+    },
+    {
+      "id": "kik-alicha",
+      "name": "Kik alicha",
+      "localName": "ክክ አልጫ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kik%20alicha%20recipe",
+      "recipe": {
+        "ingredients": [
+          "1 cup yellow split peas",
+          "1 large onion, finely chopped",
+          "3 cloves of garlic, minced",
+          "1 tablespoon grated ginger",
+          "2 tablespoons niter kibbeh (Ethiopian spiced clarified butter) or regular butter/oil",
+          "1 teaspoon turmeric",
+          "½ teaspoon cumin",
+          "½ teaspoon paprika",
+          "Salt, to taste",
+          "Fresh cilantro or parsley, chopped, for garnish"
+        ],
+        "steps": [
+          "Rinse the yellow split peas under cold water in a strainer to remove any dirt or debris. Drain in a strainer.",
+          "In a medium-sized pot, combine the rinsed split peas, chopped onion, minced garlic, grated ginger, niter kibbeh, turmeric, cumin, paprika, and salt.",
+          "Add enough water to cover the split peas by about an inch.",
+          "Bring the pot to a boil over medium-high heat. Reduce the heat to low, cover with a lid, and simmer for about 35–40 minutes, or until the split peas are tender and cooked through. Stir occasionally to prevent sticking. If needed, add additional water during cooking to maintain the desired consistency.",
+          "Taste the stew and adjust the seasoning with salt, if necessary.",
+          "Remove from heat and let the stew rest for a few minutes to allow the flavors to meld together.",
+          "Garnish with freshly chopped cilantro or parsley. Serve hot as a main course or as part of a traditional Ethiopian meal, accompanied by injera (Ethiopian flatbread) or rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKik_Alicha_(Yellow_Split_Pea_Stew)"
+      }
+    },
+    {
+      "id": "atkilt-wat",
+      "name": "Atkilt wat",
+      "localName": "አትክልት ወጥ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Atkilt%20wat%20recipe",
+      "recipe": {
+        "ingredients": [
+          "2 carrots, peeled and sliced",
+          "2 tablespoons vegetable oil",
+          "1 onion, finely chopped",
+          "3 cloves of garlic, minced",
+          "1 tablespoon grated ginger",
+          "1 teaspoon turmeric",
+          "1 teaspoon paprika",
+          "½ teaspoon cumin",
+          "½ teaspoon coriander",
+          "¼ teaspoon cayenne pepper, or to taste",
+          "1 medium cabbage, finely shredded",
+          "2 large potatoes, peeled and cubed",
+          "Salt, to taste",
+          "Fresh cilantro, chopped, for garnish"
+        ],
+        "steps": [
+          "In a large pot, heat the vegetable oil over medium heat.",
+          "Add the chopped onion and sauté until it becomes soft and translucent.",
+          "Stir in the minced garlic and grated ginger, and cook for another minute until fragrant.",
+          "Add the turmeric, paprika, cumin, coriander, and cayenne pepper to the pot. Mix well to coat the onions and spices.",
+          "Add the cubed potatoes and sliced carrots to the pot. Stir to coat the vegetables with the spices.",
+          "Pour in a small amount of water (about ¼ cup) and cover the pot. Cook for about 5 minutes to soften the potatoes and carrots.",
+          "Add the finely shredded cabbage to the pot. Mix everything together and cover the pot. Cook for another 15–20 minutes, or until the cabbage is tender, stirring occasionally.",
+          "Taste and season with salt according to your preference.",
+          "Remove the pot from the heat and let the stew rest for a few minutes. Garnish with freshly chopped cilantro before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAtkilt_Wat_(Ethiopian_Cabbage_and_Potato_Stew)"
+      }
+    },
+    {
+      "id": "gomen",
+      "name": "Gomen",
+      "localName": "ጎመን",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gomen%20recipe",
+      "recipe": {
+        "ingredients": [
+          "1 tablespoon olive oil",
+          "1 medium onion, finely chopped",
+          "2 cloves of garlic, minced",
+          "1 teaspoon grated ginger",
+          "1 teaspoon turmeric",
+          "½ teaspoon paprika",
+          "½ teaspoon cumin",
+          "¼ teaspoon cayenne pepper (optional)",
+          "1 large bunch of collard greens, washed and chopped",
+          "Salt, to taste",
+          "Freshly squeezed juice from ½ lemon, for added tanginess"
+        ],
+        "steps": [
+          "Heat the olive oil in a large pot or Dutch oven over medium heat.",
+          "Add the chopped onions to the pot and sauté until they become translucent and slightly browned.",
+          "Stir in the minced garlic and grated ginger, and sauté for an additional minute until fragrant.",
+          "Add the turmeric, paprika, cumin, and cayenne pepper (if using) to the pot. Mix well to combine the spices with the onions and garlic.",
+          "Add the chopped collard greens to the pot and stir to coat them with the spice mixture. Cook for a few minutes until the collard greens start to wilt.",
+          "Reduce the heat to low, cover the pot, and simmer for about 20–25 minutes, or until the collard greens are tender and fully cooked. Stir occasionally to prevent sticking.",
+          "Season with salt to taste and add the freshly squeezed lemon juice. Mix well to incorporate the flavors.",
+          "Remove the pot from heat and let rest for a few minutes before serving.",
+          "Serve hot as a side dish with injera or any other bread of your choice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGomen_(Ethiopian_Collard_Greens)"
+      }
+    },
+    {
+      "id": "gored-gored",
+      "name": "Gored gored",
+      "localName": "ጎረድ ጎረድ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gored%20gored%20recipe",
+      "description": "Gored gored, (Oromo: gurguddaa) is a raw beef dish eaten in Ethiopia. Whereas kitfo is minced beef marinated in spices and niter kibbeh (seasoned clarified butter), gored gored is cubed and left unmarinated. Like kitfo, it is widely popular and considered a national dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Gored_gored_plate%2C_July_2019.jpg/500px-Gored_gored_plate%2C_July_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gored_gored",
+      "recipe": {
+        "ingredients": [
+          "2 tablespoons niter kibbeh (spiced clarified butter), melted",
+          "1 tablespoon berbere spice blend",
+          "1 tablespoon freshly squeezed lime juice",
+          "1 teaspoon salt, or to taste",
+          "½ teaspoon freshly ground black pepper",
+          "¼ teaspoon cardamom",
+          "¼ teaspoon cayenne pepper, or to taste",
+          "1 pound high-quality beef, preferably tenderloin or sirloin, cut into bite-sized cubes",
+          "Fresh parsley or cilantro, chopped, for garnish",
+          "Injera (Ethiopian flatbread), for serving"
+        ],
+        "steps": [
+          "In a large mixing bowl, combine the melted niter kibbeh, berbere spice blend, lime juice, salt, black pepper, cardamom, and cayenne pepper. Mix well to create a marinade.",
+          "Add the bite-sized beef cubes to the marinade and toss until they are well coated. Cover the bowl and let the beef marinate in the refrigerator for at least 2 hours, or overnight for more intense flavors.",
+          "Just before serving, remove the beef from the refrigerator and let it come to room temperature.",
+          "Transfer the marinated beef cubes to a serving plate, arranging them in a single layer.",
+          "Garnish with freshly chopped parsley or cilantro.",
+          "Serve the gored gored immediately with injera or other bread of your choice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGored_Gored_(Ethiopian_Raw_Beef)"
+      }
+    },
+    {
+      "id": "fit-fit",
+      "name": "Fit-fit",
+      "localName": "ፍትፍት",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fit-fit%20recipe",
+      "description": "Fit-fit or fir-fir (Ge'ez: ፍትፍት fətfət; ፍርፍር fərfər), (Oromo: chechebsaa), is an Ethiopian and Eritrean food typically served as breakfast. It is generally made with shredded Ethiopian flat bread (injera or kitcha), spiced clarified butter (niter kibbeh), and a hot spice blend called berbere.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Taita_fit-fit.jpg/500px-Taita_fit-fit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fit-fit",
+      "recipe": {
+        "ingredients": [
+          "2 tablespoons niter kibbeh (Ethiopian spiced clarified butter) or regular butter",
+          "1 medium-sized onion, finely chopped",
+          "2 tomatoes, diced",
+          "1 jalapeño pepper, seeded and finely chopped (optional for spice)",
+          "1 teaspoon berbere spice blend, or to taste",
+          "4-6 pieces of leftover injera, torn into bite-sized pieces",
+          "Salt, to taste",
+          "Fresh cilantro or parsley, chopped, for garnish"
+        ],
+        "steps": [
+          "Heat the niter kibbeh or regular butter in a large skillet or frying pan over medium heat.",
+          "Add the finely chopped onion to the pan and sauté until translucent and slightly browned.",
+          "Stir in the diced tomatoes and jalapeño pepper (if using) and cook for a few minutes until the tomatoes start to soften.",
+          "Sprinkle the berbere spice blend over the mixture and mix well to coat the onions and tomatoes. Adjust the amount of berbere according to your preferred level of spiciness.",
+          "Add the torn pieces of injera to the pan and gently toss them with the onion and tomato mixture.",
+          "Sauté the mixture for a few minutes, stirring occasionally, until the injera is heated through and slightly crispy.",
+          "Season with salt to taste. Keep in mind that injera can be slightly sour, so adjust the salt accordingly.",
+          "Remove from heat and transfer to a serving dish. Garnish with freshly chopped cilantro or parsley.",
+          "Serve warm as a delicious and satisfying breakfast or brunch option."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFit-fit_(Ethiopian_Bread_Salad)"
+      }
+    },
+    {
+      "id": "genfo",
+      "name": "Genfo",
+      "localName": "ገንፎ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Genfo%20recipe",
+      "description": "Genfo (Amharic: ገንፎ, romanized: gänfo), also known as ga’at (Tigrinya: ጋዓት, gaʻat) or marca (Oromo: marqaa) is a stiff porridge-like dish that is normally formed into a round shape with a hole in the middle for the dipping sauce, a mixture of butter and red peppers, or pulses such as sunflower, seed, nut (Carthamus tin…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Ga%27at_food.jpg/500px-Ga%27at_food.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Genfo",
+      "recipe": {
+        "ingredients": [
+          "1 cup roasted barley flour",
+          "2 cups water",
+          "¼ teaspoon salt, or to taste",
+          "2 tablespoons niter kibbeh (Ethiopian spiced clarified butter), regular butter, or oil",
+          "Honey or sugar, to taste",
+          "Mitmita spice or berbere spice (optional, for added heat and flavor)",
+          "Fresh nigella seeds or cinnamon (optional, for garnish)"
+        ],
+        "steps": [
+          "In a medium-sized pot, whisk together the roasted barley flour and water until smooth and well combined.",
+          "Place the pot over medium heat and cook the mixture, stirring constantly, until it thickens and reaches a porridge-like consistency. This usually takes about 10–15 minutes. Keep stirring the mixture constantly while cooking to prevent lumps from forming.",
+          "Add the salt and continue to stir until well incorporated.",
+          "Stir in the niter kibbeh, and mix well.",
+          "Taste and adjust the salt if needed.",
+          "Serve the genfo hot in bowls. Drizzle honey or sprinkle sugar over the porridge to sweeten it according to your taste. Optionally, sprinkle mitmita or berbere spice over the genfo for added heat and flavor. Garnish with nigella seeds or a sprinkle of cinnamon."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGenfo_(Ethiopian_Porridge)"
+      }
+    },
+    {
+      "id": "ayib",
+      "name": "Ayib",
+      "localName": "አይብ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ayib%20recipe",
+      "recipe": {
+        "ingredients": [
+          "1 liter (4 cups) whole milk",
+          "¼ cup lemon juice or vinegar",
+          "¼ teaspoon salt"
+        ],
+        "steps": [
+          "Pour the milk into a large pot and heat it over medium-low heat. Stir occasionally to prevent the milk from scorching or sticking to the bottom of the pot.",
+          "Heat the milk until it reaches a gentle simmer. Avoid boiling the milk to prevent it from scorching or curdling.",
+          "Once the milk is simmering, reduce the heat to low and slowly add the lemon juice or vinegar while stirring continuously. The acid will cause the milk to curdle and separate into curds and whey.",
+          "Continue stirring gently for a few more minutes to encourage the curds to form. The whey should become more transparent, and the curds will start to clump together.",
+          "Line a colander with a double layer of cheesecloth or muslin cloth. Place the colander over a large bowl to collect the whey.",
+          "Carefully pour the curdled milk into the lined colander, allowing the whey to drain through the cheesecloth. The curds will remain in the cloth.",
+          "Gather the corners of the cheesecloth and tie them together to create a bundle. Hang the bundle over a faucet or handle, allowing any remaining whey to drip off for about 1 hour.",
+          "After the hour is up, gently squeeze the cheesecloth to remove any remaining whey and shape the cheese.",
+          "Transfer the ayib to a clean bowl and sprinkle it with salt. Mix well to incorporate the salt evenly.",
+          "Cover the bowl and refrigerate for at least 2 hours to allow it to firm up and develop its flavor.",
+          "Once chilled, the ayib is ready to be enjoyed as a side dish or used as an ingredient in various Ethiopian recipes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAyib_(Ethiopian_Fresh_Cheese)"
+      }
+    },
+    {
+      "id": "dabo-kolo",
+      "name": "Dabo kolo",
+      "localName": "ዳቦ ቆሎ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dabo%20kolo%20recipe",
+      "description": "Dabo kolo (Amharic: ዳቦ ቆሎ, romanized: d'abo kolo, lit. 'corn bread'; Oromo: Boqqolloo daabboo) is an Ethiopian and Eritrean snack and finger food consisting of small pieces of spiced fried dough.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/ASC_Leiden_-_Dabo_kolo_-_%22Elsa_kolo_Yegbes_Kolo_Belewez%22_-_A_bowl_of_bread_chunks_with_packaging%2C_Leiden_2022.jpg/500px-ASC_Leiden_-_Dabo_kolo_-_%22Elsa_kolo_Yegbes_Kolo_Belewez%22_-_A_bowl_of_bread_chunks_with_packaging%2C_Leiden_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dabo_kolo",
+      "recipe": {
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "½ teaspoon baking powder",
+          "½ teaspoon salt",
+          "1 teaspoon berbere spice blend",
+          "1 teaspoon paprika",
+          "½ teaspoon cayenne pepper",
+          "¼ teaspoon cumin",
+          "¼ teaspoon coriander",
+          "¼ teaspoon garlic powder",
+          "¼ teaspoon onion powder",
+          "¼ cup water",
+          "Vegetable oil, for frying"
+        ],
+        "steps": [
+          "In a mixing bowl, combine the all-purpose flour, baking powder, salt, berbere spice blend, paprika, cayenne pepper, cumin, coriander, garlic powder, and onion powder. Mix well to ensure the spices are evenly distributed throughout the flour.",
+          "Add the vegetable oil and water to the dry ingredients. Mix together until a soft dough forms.",
+          "Transfer the dough onto a lightly floured surface and knead it for about 5 minutes until it becomes smooth and elastic.",
+          "Divide the dough into smaller portions and roll each portion into a thin rope, about ¼ inch in diameter.",
+          "Cut the rolled dough into small pieces, about ½ inch in length. You can shape the pieces into various shapes like knots or balls if desired.",
+          "Heat vegetable oil in a deep frying pan or pot over medium heat. The oil should be deep enough to fully submerge the dabo kolo.",
+          "Carefully drop the cut dough pieces into the hot oil, frying them in batches. Cook until they turn golden brown and become crispy. This usually takes about 3–5 minutes.",
+          "Use a slotted spoon or spider strainer to remove the fried dabo kolo from the oil and transfer them onto a paper towel-lined plate to drain excess oil.",
+          "Allow to cool completely before storing them in an airtight container."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ADabo_Kolo_(Ethiopian_Spiced_Bread_Snacks)"
+      }
+    },
+    {
+      "id": "ambasha",
+      "name": "Ambasha",
+      "localName": "አምባሻ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ambasha%20recipe",
+      "description": "Himbasha (Tigrinya: ሕምባሻ) or Ambasha (Amharic: አምባሻ), is an Ethiopian and Eritrean celebration bread that is slightly sweet. It became popular in Eritrean cuisine, often served at special occasions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Himbasha.jpg/500px-Himbasha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Himbasha"
+    },
+    {
+      "id": "kocho",
+      "name": "Kocho",
+      "localName": "ቆጮ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kocho%20recipe",
+      "description": "Kocho (Ge'ez: ቆጮ, ḳōč̣ō) is a bread-like fermented food made from chopped and grated ensete pulp. The pseudo-stem of the ensete plant contains a pith that is collected, pulped, and mixed with yeast before being fermented for three months to two years.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Chefuye_in_meskel.jpg/500px-Chefuye_in_meskel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kocho_(food)"
+    },
+    {
+      "id": "shahan-ful",
+      "name": "Ful",
+      "localName": "ፉል",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ful%20recipe",
+      "description": "Shahan ful, simplified to ful, is a dish common in Sudan, South Sudan, Somalia, Ethiopia and other parts of the Horn of Africa, which is generally served for breakfast. Believed to originate from Sudan, it is made by slowly cooking fava beans in water. Once the beans have softened, they are crushed into a coarse paste.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/ShahanFul.jpg/500px-ShahanFul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shahan_ful"
+    },
+    {
+      "id": "beyaynetu",
+      "name": "Beyaynetu",
+      "localName": "በያይነቱ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Beyaynetu%20recipe",
+      "description": "Beyaynetu (Amharic: በያይነቱ, romanized: bäyaynätu) is an Ethiopian/Eritrean dish, often enjoyed as a hearty meal. It combines injera—a sourdough flatbread—with a variety of ingredients, including meat and vegetables. One of the national dishes of Ethiopia, it reflects the diverse flavours of the country's cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Beyaynetu.JPG/500px-Beyaynetu.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Beyaynetu",
+      "recipe": {
+        "ingredients": [
+          "1 cup red lentils",
+          "2 cups water",
+          "1 large onion, finely chopped",
+          "3 cloves of garlic, minced",
+          "2 tomatoes, diced",
+          "2 carrots, diced",
+          "2 potatoes, diced",
+          "1 cup chopped cabbage",
+          "1 cup chopped collard greens",
+          "1 cup chopped spinach",
+          "¼ cup olive oil",
+          "1 tablespoon berbere spice blend",
+          "1 teaspoon cumin",
+          "½ teaspoon turmeric",
+          "Salt, to taste",
+          "2 cups teff flour",
+          "3 cups water",
+          "½ teaspoon salt",
+          "Cooking oil, for greasing the pan"
+        ],
+        "steps": [
+          "In a large pot, combine the red lentils and water. Bring to a boil, then reduce the heat and simmer for about 20 minutes or until the lentils are tender. Drain any excess water and set aside.",
+          "In a skillet or frying pan, heat the olive oil over medium heat. Add the chopped onions and sauté until they become translucent.",
+          "Add the minced garlic and diced tomatoes to the pan. Cook for a few minutes until the tomatoes start to soften.",
+          "Stir in the berbere spice blend, cumin, turmeric, and salt. Mix well to coat the onions and tomatoes with the spices.",
+          "Add the carrots, potatoes, cabbage, collard greens, and spinach to the skillet. Stir to combine the vegetables with the spice mixture.",
+          "Cover the skillet and cook for about 15–20 minutes, or until the vegetables are tender but still retain their shape. Stir occasionally to prevent sticking.",
+          "In the meantime, prepare the injera batter. In a mixing bowl, combine the teff flour, water, and salt. Whisk well until the batter is smooth and free of lumps. Let the batter rest for 15–20 minutes.",
+          "Heat an injera pan or non-stick skillet over medium heat. Lightly grease the pan with cooking oil.",
+          "Using a ladle, pour a thin layer of the injera batter onto the pan, swirling it around to evenly distribute the batter. Cook for about 1–2 minutes until the surface is covered with small bubbles and the edges start to lift.",
+          "Remove the cooked injera from the pan and repeat the process with the remaining batter. Stack the injera on a plate as you go.",
+          "To serve, arrange the cooked lentils and vegetable dishes on a large platter. Place the injera alongside the dishes.",
+          "Tear off pieces of injera and use them to scoop up the lentils and vegetables. Enjoy the vibrant flavors and textures of yetsom beyaynetu!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AYetsom_Beyaynetu_(Ethiopian_Vegan_Platter)"
+      }
+    },
+    {
+      "id": "tihlo",
+      "name": "Tihlo",
+      "localName": "ጥሕሎ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tihlo%20recipe",
+      "description": "Tihlo (Tigrinya: ጥሕሎ) is a dish from the historical Agame province in Tigray, often served as a snack, that consists of barley dough balls covered with meat and berbere-based sauce. Tihlo is commonly consumed as a side dish or snack, especially in Tigrayan communities.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Eating_Traditional_Tihlo%2C_Ethiopia.jpg/500px-Eating_Traditional_Tihlo%2C_Ethiopia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tihlo"
+    },
+    {
+      "id": "tej",
+      "name": "Tej",
+      "localName": "ጠጅ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tej%20recipe",
+      "description": "Tej is a honey wine, like mead, that is brewed and consumed in Ethiopia and Eritrea. It has an alcohol content generally ranging from 7 to 11%. It is often home processed and consists of three main ingredients; honey, water and a medicinal shrub called \"gesho\" (Rhamnus prinoides).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/ET_Amhara_asv2018-02_img077_Lake_Tana_at_Bahir_Dar.jpg/500px-ET_Amhara_asv2018-02_img077_Lake_Tana_at_Bahir_Dar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tej"
+    }
+  ]
+}

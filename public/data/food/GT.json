@@ -1,0 +1,61 @@
+{
+  "country": "GT",
+  "dishes": [
+    {
+      "id": "pepian",
+      "name": "Pepián",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pepi%C3%A1n%20recipe",
+      "description": "Pepián is a thick meat stew from Guatemala. It is one of the oldest and most recognizable dishes of Guatemalan cuisine having as its origin the influences from Guatemala's colonial past and the indigenous cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Cocinando_El_Pepian.jpg/500px-Cocinando_El_Pepian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pepi%C3%A1n"
+    },
+    {
+      "id": "kak-ik",
+      "name": "Kak'ik",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kak'ik%20recipe",
+      "description": "Kak'ik is a soup made from a type of turkey called \"chompipe\" and is typical of Guatemalan cuisine. It is a pre-Hispanic food, and the name is of Mayan origin: it derives from the Q'eqchi' words kak (red) and ik (hot or very spicy). In 2007, it was declared part of the \"Intangible Cultural Heritage of the Nation\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2010.05.13.141849_Kac-iq_Fonda_Calle_Real_Antigua_Guatemala.jpg/500px-2010.05.13.141849_Kac-iq_Fonda_Calle_Real_Antigua_Guatemala.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kak%27ik"
+    },
+    {
+      "id": "hilachas",
+      "name": "Hilachas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hilachas%20recipe",
+      "description": "Hilachas is a dish originating in Guatemalan cuisine that is similar to ropa vieja. It generally consists of boiled, shredded beef served with tomato sauce and tomatillo, potatoes, carrots and Guajillo chiles. The name translates to \"rags\" and is very common throughout Central America.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Hilacha.jpg/500px-Hilacha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hilachas"
+    },
+    {
+      "id": "fiambre",
+      "name": "Fiambre",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fiambre%20recipe",
+      "description": "Fiambre is a traditional Guatemalan salad that is prepared and eaten yearly to celebrate the Day of the Dead (Spanish: Día de los Muertos) and the All Saints Day (Spanish: Día de Todos los Santos). It is served chilled and may be made with dozens of ingredients.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Fiambre_-_11042021_%28cropped%29.jpg/500px-Fiambre_-_11042021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fiambre"
+    },
+    {
+      "id": "rellenitos",
+      "name": "Rellenitos",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rellenitos%20recipe",
+      "description": "Rellenitos de plátano is a dish of sweet mashed plantains stuffed with a mixture of refried beans, chocolate, and cinnamon. The assembled egg-shaped balls are deep-fried, and then served with either powdered sugar or honey on top. It is a common and very popular dessert in the cuisine of Guatemala.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Rellenitos-de-platano-01.jpg/500px-Rellenitos-de-platano-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rellenitos_de_pl%C3%A1tano"
+    },
+    {
+      "id": "tostadas",
+      "name": "Tostadas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tostadas%20recipe",
+      "description": "Tostadas are various dishes in Mexican and Guatemalan cuisine based on toasted tortillas. They are generally a flat or bowl-shaped tortilla that is deep-fried or toasted, but may also be any dish using a tostada as a base. They can be consumed alone, or used as a base for other foods.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Atun_tostadas_%2843015501031%29.jpg/500px-Atun_tostadas_%2843015501031%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tostada_(tortilla)"
+    },
+    {
+      "id": "tamales",
+      "name": "Tamales",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tamales%20recipe",
+      "description": "A tamale is a traditional Mesoamerican dish made of masa, a dough made from nixtamalized corn, which is steamed in a corn husk or banana leaves. The wrapping can either be discarded prior to eating or used as a plate.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tamal_oaxaque%C3%B1o.jpg/500px-Tamal_oaxaque%C3%B1o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tamale"
+    }
+  ]
+}

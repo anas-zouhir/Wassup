@@ -1,0 +1,147 @@
+{
+  "country": "RS",
+  "dishes": [
+    {
+      "id": "pljeskavica",
+      "name": "Pljeskavica",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pljeskavica%20recipe",
+      "description": "Pljeskavica is a Serbian grilled dish consisting of a mixture of spiced minced pork, beef and lamb meat. It is one of the national dishes of Serbia as well as being popular in the neighbouring countries, such as Bosnia and Herzegovina, Croatia, and Montenegro.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Pleskavitsa.JPG/500px-Pleskavitsa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pljeskavica"
+    },
+    {
+      "id": "cevapi",
+      "name": "Ćevapi",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C4%86evapi%20recipe",
+      "description": "Ćevapi is a grilled dish of minced meat popular in Southeast Europe and countries of former Yugoslavia, where it originated. It is considered a national dish of Bosnia and Herzegovina and Serbia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Cevapi_s_kajmakom.jpg/500px-Cevapi_s_kajmakom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/%C4%86evapi"
+    },
+    {
+      "id": "sarma",
+      "name": "Sarma",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sarma%20recipe",
+      "description": "Stuffed leaves—more commonly known by its sub-types stuffed grape leaves, stuffed vine leaves, or stuffed cabbage leaves—are a food made of leaves rolled around a filling of minced meat, grains such as rice, or both.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Yaprak_sarma%2C_Kayseri_style.jpg/500px-Yaprak_sarma%2C_Kayseri_style.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stuffed_leaves"
+    },
+    {
+      "id": "kara-or-eva-snicla",
+      "name": "Karađorđeva šnicla",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kara%C4%91or%C4%91eva%20%C5%A1nicla%20recipe",
+      "description": "Karađorđeva šnicla (English: Karađorđe's schnitzel, Serbian: Карађорђева шницла) is a breaded cutlet dish named after the Serbian revolutionary Karađorđe. The dish consists of a rolled veal, pork, or chicken steak, stuffed with kaymak, which is then breaded and fried.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Kara%C4%91or%C4%91eva_%C5%A1nicla.jpg/500px-Kara%C4%91or%C4%91eva_%C5%A1nicla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kara%C4%91or%C4%91eva_%C5%A1nicla"
+    },
+    {
+      "id": "gibanica",
+      "name": "Gibanica",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gibanica%20recipe",
+      "description": "Gibanica is a traditional pastry dish popular all over the Balkans. It is usually made with cottage cheese and eggs. Recipes can range from sweet to savoury, and from simple to festive and elaborate multi-layered cakes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Gibanica_single_slice_with_full_pie_in_background.jpg/500px-Gibanica_single_slice_with_full_pie_in_background.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gibanica"
+    },
+    {
+      "id": "ajvar",
+      "name": "Ajvar",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ajvar%20recipe",
+      "description": "Ajvar is a condiment made principally from sweet bell peppers and eggplants. The relish became a popular side dish throughout Yugoslavia after World War II and remains popular in Southeast Europe. Homemade ajvar is made of roasted peppers.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ajvar1_bright.jpg/500px-Ajvar1_bright.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ajvar"
+    },
+    {
+      "id": "kajmak",
+      "name": "Kajmak",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kajmak%20recipe",
+      "description": "Kaymak, also known as qishta (Arabic: قشدة) or sarshir (Persian: سَرشیر), is a creamy dairy food similar to clotted cream, made from the milk of water buffalo, cows, sheep, or goats in Central Asia, most Turkic regions on the Eurasian Steppe, the Caucasus, Turkey, most Balkan countries, the Levant, Iran and Iraq.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Kaymak_in_Turkey.jpg/500px-Kaymak_in_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kaymak"
+    },
+    {
+      "id": "proja",
+      "name": "Proja",
+      "videoSearch": "https://www.youtube.com/results?search_query=Proja%20recipe",
+      "description": "Proja is a national dish of Serbia made of corn flour, baking powder, sunflower oil, sparkling water and salt. It is one of Serbia's main national dishes, and the ingredients are respectively made by Serbian local food producers. An alternative name for proja (Проја) is also projara (Пројара).",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Proja.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Proja",
+      "recipe": {
+        "ingredients": [
+          "5 cups cornmeal",
+          "3 cups flour",
+          "3 eggs",
+          "3 cups oil",
+          "1 baking powder",
+          "1 cup yogurt",
+          "1 glass mineral water",
+          "1 big slice cheese, crushed",
+          "Salt"
+        ],
+        "steps": [
+          "Mix everything together to make a batter.",
+          "Bake the batter in a 5 cm deep greased pan until golden.",
+          "Serve with kiseli kupus and pavlaka."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AProja_(Serbian_Cornbread)"
+      }
+    },
+    {
+      "id": "podvarak",
+      "name": "Podvarak",
+      "videoSearch": "https://www.youtube.com/results?search_query=Podvarak%20recipe",
+      "description": "Podvarak (Serbian Cyrillic: подварак) is a dish popular across the countries of the former Yugoslavia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Doma%C4%87i_podvarak_02.jpg/500px-Doma%C4%87i_podvarak_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Podvarak"
+    },
+    {
+      "id": "pasulj",
+      "name": "Pasulj",
+      "localName": "Prebranac",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pasulj%20recipe",
+      "description": "Pasulj (from phaseolus; пасуљ), grah (грах) or grav (грав) is a bean stew or soup made of usually white, cranberry, pinto or kidney beans, which is a popular dish in Balkan cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/%C5%A0areni_pasulj_obrok_%28pinto_beans%29.jpg/500px-%C5%A0areni_pasulj_obrok_%28pinto_beans%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pasulj"
+    },
+    {
+      "id": "urnebes",
+      "name": "Urnebes",
+      "videoSearch": "https://www.youtube.com/results?search_query=Urnebes%20recipe",
+      "description": "Urnebes is a type of spread or salad characteristic of Serbian cuisine, prominent in the city of Niš and southern Serbia. In Serbia, it is common to refer to both dishes consisting primarily of fresh leafy vegetables and thick sauces used as a condiment as salad.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Urnebes_salade.JPG/500px-Urnebes_salade.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Urnebes"
+    },
+    {
+      "id": "svadbarski-kupus",
+      "name": "Svadbarski kupus",
+      "videoSearch": "https://www.youtube.com/results?search_query=Svadbarski%20kupus%20recipe",
+      "description": "Wedding cabbage (Serbian: свадбарски купус / svadbarski kupus) is a traditional Serbian dish. The main ingredients are cabbage and meat, which could be pork or lamb and mutton. It is typically prepared by cooking it slowly for many hours in a large crock.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Svadbarski_Kupus.jpg/500px-Svadbarski_Kupus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wedding_cabbage"
+    },
+    {
+      "id": "lepinja",
+      "name": "Lepinja",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lepinja%20recipe",
+      "recipe": {
+        "ingredients": [
+          "350 g (about ¾ lb) white flour",
+          "1 tbsp sugar",
+          "1 tbsp salt",
+          "30 g fresh yeast",
+          "Warm (not hot) milk",
+          "8 oz warm water"
+        ],
+        "steps": [
+          "Mix sugar, salt, and yeast into a little warm milk. Let stand for a few minutes until foamy.",
+          "Mix the yeast mixture into the flour.",
+          "Add the warm water, and knead the dough until it doesn't stick to your fingers.",
+          "Cover dough with a cloth, and put it in warm place (for instance near a heater) until doubled in size.",
+          "Knead the dough again, and let rest until it doubles again.",
+          "Knead it some more, and sprinkle with some flour.",
+          "Put the dough in the greased pan in which you plan to bake it, spreading it out until it's about ½ inch thick. Let rest for about half an hour.",
+          "Bake in a 400–420°F oven until golden an inserted toothpick comes out clean."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASerbian_Flatbread_(Lepinja)"
+      }
+    }
+  ]
+}

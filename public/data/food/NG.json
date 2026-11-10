@@ -1,0 +1,592 @@
+{
+  "country": "NG",
+  "dishes": [
+    {
+      "id": "jollof-rice",
+      "name": "Jollof rice",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jollof%20rice%20recipe",
+      "description": "Jollof (), or jollof rice, is a rice dish from Senegal, West Africa. It is typically made with long-grain rice, tomatoes, chilis, onions, spices, and sometimes other vegetables and/or meat in a single pot, although its ingredients and preparation methods vary across different regions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Jollof_Rice_with_Stew.jpg/500px-Jollof_Rice_with_Stew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jollof_rice",
+      "recipe": {
+        "ingredients": [
+          "https://en.wikibooks.org/wiki/Cookbook:Rice Rice, 4 cups, 800 g",
+          "https://en.wikibooks.org/wiki/Cookbook:Tomato Tomatoes, 6",
+          "Tomato paste, 3 tbsp, 45 g",
+          "Red bell peppers, 2",
+          "Hot peppers, 1–2",
+          "https://en.wikibooks.org/wiki/Cookbook:Onion Onions, 2",
+          "https://en.wikibooks.org/wiki/Cookbook:Vegetable_Oil Vegetable oil, ½ cup",
+          "Seasoning cubes, 2",
+          "https://en.wikibooks.org/wiki/Cookbook:Salt Salt, 1 tsp",
+          "https://en.wikibooks.org/wiki/Cookbook:Chicken_Stock Chicken stock, 4 cups",
+          "https://en.wikibooks.org/wiki/Cookbook:Curry_Powder Curry powder, 1 tsp",
+          "https://en.wikibooks.org/wiki/Cookbook:Thyme Thyme, 1 tsp"
+        ],
+        "steps": [
+          "Wash the rice thoroughly and set aside.",
+          "Blend the tomatoes, peppers, and one onion until smooth.",
+          "Heat the vegetable oil in a large pot.",
+          "Chop the remaining onion and fry until softened.",
+          "Add the tomato paste and cook for 2 minutes.",
+          "Add the blended tomato mixture and cook until the sauce thickens.",
+          "Season the sauce with seasoning cubes, curry powder, thyme, and salt.",
+          "Pour in the chicken stock and bring to a boil.",
+          "Add the rice and stir to combine.",
+          "Cover the pot and cook over low heat until the rice is tender and the liquid has been absorbed.",
+          "If necessary, add a small amount of water during cooking.",
+          "Fluff the rice with a fork and serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AJollof_Rice"
+      }
+    },
+    {
+      "id": "egusi-soup",
+      "name": "Egusi soup",
+      "videoSearch": "https://www.youtube.com/results?search_query=Egusi%20soup%20recipe",
+      "description": "Egusi sauce or egusi soup a popular soup in Nigeria. The word 'Egusi' is of Yoruba origin. It is prepared with egusi seeds as a primary ingredient.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Egusi_Soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Egusi_sauce",
+      "recipe": {
+        "ingredients": [
+          "2 cups ground egusi (melon seeds)",
+          "½ cup red palm oil",
+          "500g assorted meats(goat, beef, tripe)",
+          "200g soaked stockfish",
+          "2 cups fresh spinach or bitter leaf",
+          "3 tbsp ground crayfish",
+          "2 scotch bonnet peppers, blended",
+          "1 large onion",
+          "3 seasoning cubes",
+          "Salt to taste"
+        ],
+        "steps": [
+          "1. Cook seasoned assorted meats and stockfish. Reserve the stock.",
+          "2. Heat palm oil. Fry sliced onion for 1 mins . Add blended pepper and fry for 10 mins.",
+          "3. Mix egusi with a little water to form a thick paste. Drop in spoonfuls — do not stir yet. Cover and cook 10 mins.",
+          "4. Gently stir egusi into the sauce, breaking up any lumps. Cook another 10 mins.",
+          "5. Add meats, stockfish, crayfish, and meat stock. Simmer 15 mins.",
+          "6. Add cleaned bitter leaf or spinach. Stir in and cook 5 more minutes.",
+          "7. Taste and adjust seasoning if needed.",
+          "8. Allow to Cook until flavors combine well"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AEgusi_soup"
+      }
+    },
+    {
+      "id": "pounded-yam",
+      "name": "Pounded yam",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pounded%20yam%20recipe",
+      "description": "Pounded yam (Yoruba: iyán, Hausa: sakwara, Igbo: utara-ji ) is a Nigerian swallow food. It is commonly prepared by pounding boiled yam with a mortar and pestle. Pounded yam is similar to mashed potatoes but heavier in consistency.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Pounded_yam_%28Iy%C3%A0n%29.jpg/500px-Pounded_yam_%28Iy%C3%A0n%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pounded_yam"
+    },
+    {
+      "id": "suya",
+      "name": "Suya",
+      "videoSearch": "https://www.youtube.com/results?search_query=Suya%20recipe",
+      "description": "Suya, also known as Tsire, is a traditional Hausa (Nigerian) smoke-grilled spiced meat on skewer. Suya is generally made with thin-sliced spiced beef, lamb, goat, ram, or chicken arranged on wooden skewers.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/SuyavarietiesTX.JPG/500px-SuyavarietiesTX.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Suya",
+      "recipe": {
+        "ingredients": [
+          "1 kg beef (thinly sliced)",
+          "4 tablespoons suya spice (yaji)",
+          "2 tablespoons ground peanuts or peanut powder",
+          "1 teaspoon ground ginger",
+          "1 teaspoon garlic powder",
+          "1 teaspoon paprika or chili powder",
+          "1 seasoning cube",
+          "Salt to taste",
+          "2 tablespoons vegetable oil",
+          "1 medium onion (sliced, for serving)",
+          "2 tomatoes (sliced, for serving)",
+          "Wooden skewers"
+        ],
+        "steps": [
+          "Slice meat thinly (usually beef).",
+          "Mix yaji (ground peanuts, chili, ginger, garlic, onion, salt, seasoning).",
+          "Coat the meat with oil and the spice mix; let it rest briefly.",
+          "Skewer the meat and add more spice.",
+          "Grill over charcoal, turning often, until cooked and slightly charred.",
+          "Serve hot with onions, tomatoes, and extra spice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ANigerian_suya"
+      }
+    },
+    {
+      "id": "moi-moi",
+      "name": "Moi moi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Moi%20moi%20recipe",
+      "description": "Moin-moin, moi-moi or olele (Yoruba: mọ́yín-mọyín, ọ́lẹ̀lẹ̀) is a steamed or boiled bean pudding made from a mixture of washed and peeled beans and onions, fresh red peppers, spices, and often fish, eggs, chicken or crayfish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Moin-Moin-good.jpg/500px-Moin-Moin-good.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Moin_moin"
+    },
+    {
+      "id": "akara",
+      "name": "Akara",
+      "videoSearch": "https://www.youtube.com/results?search_query=Akara%20recipe",
+      "description": "Akara (Yoruba: àkàrà; ) is a type of fritter made from cowpeas or beans (black-eyed peas) that originated in Yorubaland, from the Yoruba ethnic group inhabiting parts of Nigeria, Benin and Togo. It is sometimes referred to as \"bean cake\" in English.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Beans_Ball-Akara.jpg/500px-Beans_Ball-Akara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Akara"
+    },
+    {
+      "id": "efo-riro",
+      "name": "Efo riro",
+      "videoSearch": "https://www.youtube.com/results?search_query=Efo%20riro%20recipe",
+      "description": "Efo riro (Yoruba: ẹ̀fọ́ riro) is a vegetable soup and a native food of the Yoruba people of South West Nigeria and other parts of Yorubaland. The two vegetables most commonly used to prepare the soup are Celosia argentea (ṣọkọ̀ yòkòtò) and Amaranthus hybridus (ẹ̀fọ́ tẹ̀tẹ̀).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Efo_Riro_with_fried_mackerel_fishes_and_roasted_cowskin.jpg/500px-Efo_Riro_with_fried_mackerel_fishes_and_roasted_cowskin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Efo_riro"
+    },
+    {
+      "id": "pepper-soup",
+      "name": "Pepper soup",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pepper%20soup%20recipe",
+      "description": "Peppersoup (or pepper soup) is a soup eaten by Cameroonians and Nigerians. This soup is made using various meats or fish, chili peppers, salt, scent leaves and calabash nutmeg as its primary ingredients. It is a spicy soup that has a light, watery texture.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Assorted_meat_pepper_soup_at_Lagos_Island.jpg/500px-Assorted_meat_pepper_soup_at_Lagos_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peppersoup",
+      "recipe": {
+        "ingredients": [
+          "1 kg goat, catfish, chicken, or assorted meats",
+          "1 tsp salt (adjust to taste)",
+          "2–3 seasoning cubes",
+          "1 tbsp fresh grated ginger or garlic (optional)",
+          "4–6 cups water",
+          "2 tbsp pepper soup spice mix",
+          "1 tbsp ground crayfish",
+          "1 tsp ground pepper (adjust to taste)",
+          "1 cup scent leaves or uziza leaves"
+        ],
+        "steps": [
+          "Wash and cut the meat into bite-sized pieces.",
+          "Rub the meat well with the salt, seasoning cube, and ginger/garlic.",
+          "Combine the meat and water in a pot, and simmer until tender.",
+          "Stir in the pepper soup spice mix, ground crayfish, and ground pepper. Simmer for 10 minutes to let the flavors blend.",
+          "Stir in the scent leaves, and cook for 2–3 minutes.",
+          "Taste, adjust seasoning, and serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APepper_Soup"
+      }
+    },
+    {
+      "id": "ogbono-soup",
+      "name": "Ogbono soup",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ogbono%20soup%20recipe",
+      "description": "Ogbono soup is a staple soup in Nigerian cuisine. It is made with ground dry ogbono seeds. The seed is a major ingredient in various West African cuisines and it is made with considerable local variation across cultures.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ogbono_soup_with_assorted_meats.jpg/500px-Ogbono_soup_with_assorted_meats.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ogbono_soup"
+    },
+    {
+      "id": "banga-soup",
+      "name": "Banga soup (ofe akwu)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Banga%20soup%20(ofe%20akwu)%20recipe",
+      "description": "Ofe akwụ is a traditional soup of the Igbo people in the southeastern region of Nigeria. It is commonly served with white rice, which is the most popular accompaniment, though it may also be enjoyed with agidi or other staples.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Ofe_akw%E1%BB%A5.jpg/500px-Ofe_akw%E1%BB%A5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ofe_akw%E1%BB%A5",
+      "recipe": {
+        "ingredients": [
+          "4 cups raw palm nuts or 800 ml canned palm nut extract",
+          "500 g assorted meat (beef, goat meat, tripe)",
+          "1–2 pieces dried fish (washed and deboned)",
+          "1 stock cube (Maggi or Knorr)",
+          "Salt to taste",
+          "1 tablespoon ground crayfish",
+          "1 small onion (chopped)",
+          "1 teaspoon Banga spice mix (optional but traditional)",
+          "Scent leaves (or substitute with basil)",
+          "Water (as needed)"
+        ],
+        "steps": [
+          "If using raw palm nuts, boil until soft, then pound lightly and extract the juice using warm water. Strain to remove the chaff. If using canned extract, skip this step.",
+          "Place the assorted meat and dried fish in a pot. Add chopped onions, stock cube, and salt. Add a small amount of water and boil until the meat is tender.",
+          "Pour in the palm nut extract. Add more water if too thick. Stir well and bring to a boil.",
+          "Add ground crayfish and Banga spice mix. Allow to cook uncovered on medium heat for 15–20 minutes, or until the oil begins to rise to the top.",
+          "Add scent leaves (or basil) and cook for another 5 minutes.",
+          "Remove from heat and serve hot with starch, fufu, pounded yam, or rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABanga_Soup"
+      }
+    },
+    {
+      "id": "edikang-ikong",
+      "name": "Edikang ikong",
+      "videoSearch": "https://www.youtube.com/results?search_query=Edikang%20ikong%20recipe",
+      "description": "Edikang ikong is a vegetable soup made with ikong ubong that originated among the Efik people of Cross River State and Ibibio people of Akwa Ibom State in Nigeria It is considered to be a delicacy among some Nigerians, and is sometimes served during occasions of importance.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Edikang_ikong.jpg/500px-Edikang_ikong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Edikang_ikong"
+    },
+    {
+      "id": "eba",
+      "name": "Eba",
+      "videoSearch": "https://www.youtube.com/results?search_query=Eba%20recipe",
+      "description": "Eba (Yoruba: Ẹ̀bà), also known as Ebe or Pinon' (in Togo, Benin, and southern Ghana) is a staple Okele or swallow from Nigeria, Togo and Benin in the West African sub-region and other African countries. The term Ẹ̀bà originates from Yoruba.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Eba_Swallow.jpg/500px-Eba_Swallow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eba",
+      "recipe": {
+        "ingredients": [
+          "1 liter water",
+          "2 milk tins of processed cassava flakes (garri)"
+        ],
+        "steps": [
+          "Boil water in a pot.",
+          "Gradually stir in the cassava flour, and cook until it forms a smooth dough.",
+          "Serve with your soup of choice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AEba_(Cassava_Flake_Swallow)"
+      }
+    },
+    {
+      "id": "amala",
+      "name": "Amala",
+      "videoSearch": "https://www.youtube.com/results?search_query=Amala%20recipe",
+      "description": "Àmàlà is a staple okele or swallow food originating from and popularized by the Yoruba ethnic group of southwestern Nigeria and other parts of Yorubaland. It is made of yam, cassava flour, or unripe plantain flour. Tubers of yams are peeled, sliced, cleaned, dried and then ground into flour.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Amala_with_Ewedu.jpg/500px-Amala_with_Ewedu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Amala_(food)"
+    },
+    {
+      "id": "ofada-rice",
+      "name": "Ofada rice",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ofada%20rice%20recipe",
+      "description": "Ofada rice is a Yoruba Nigerian dish. It is the name of an indigenous rice from a small community called Ofada, located in the Obafemi Owode Local Government Area of Ogun State.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ofada_rise_with_fried_plantain_and_beaf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ofada_rice",
+      "recipe": {
+        "ingredients": [
+          "2 cups Ofada rice",
+          "Water for washing and cooking",
+          "Salt to taste"
+        ],
+        "steps": [
+          "1. Pick through the rice to remove stones, husks, and debris.",
+          "2.Wash thoroughly in clean water until the water becomes less cloudy.",
+          "3.Repeat washing several times due to the natural bran content.",
+          "1.Place washed rice in a pot and add enough water to cover it.",
+          "2.Boil for 10–15 minutes to reduce strong aroma and remove excess starch.",
+          "3.Drain and rinse again with clean water.",
+          "1.Transfer the rice into a clean pot",
+          "2.Add fresh water (about 1–2 cm above rice level).",
+          "3.Add a pinch of salt if desired.",
+          "4.Cook on medium heat until the rice becomes soft.",
+          "5.Add small amounts of water if necessary during cooking.",
+          "6.Allow to steam on low heat for 5–10 minutes after cooking."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AOfada_rice"
+      }
+    },
+    {
+      "id": "ofe-nsala",
+      "name": "Ofe nsala (white soup)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ofe%20nsala%20(white%20soup)%20recipe",
+      "description": "Ofe Nsala, also known as white soup, and called nsala soup, is a delicacy that originates from the eastern part (Ala Igbo) of Nigeria. A major ingredient is catfish, which gives the soup a unique taste. It also contains small pieces of yam or cocoyam with utazi leaves.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nsala_Soup_%28Pepper_soup%29.jpg/500px-Nsala_Soup_%28Pepper_soup%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ofe_Nsala",
+      "recipe": {
+        "ingredients": [
+          "1 kilograms fresh catfish (or chicken/goat meat), cleaned and cut",
+          "200 grams raw yam, peeled and sliced (for thickening)",
+          "3 tablespoons ground crayfish",
+          "3 scotch bonnet pepper (rodo)",
+          "1 onion",
+          "1 tablespoons ogiri okpei (fermented locust bean paste)",
+          "1 teaspoons ehuru (African nutmeg), ground",
+          "15 uziza leaves, shredded",
+          "150 grams stockfish (panla), soaked and cleaned",
+          "2 seasoning cubes"
+        ],
+        "steps": [
+          "Prepare the protein: Wash and clean 1 kilograms fresh catfish (or chicken/goat meat), cleaned and cut thoroughly. Season lightly with diced 1 onion, a pinch of 1 teaspoons salt, and 1 of 2 seasoning cubes. Set aside. If using goat meat or chicken, cook until nearly tender and reserve the stock.",
+          "Prepare the yam thickener: Boil the sliced 200 grams raw yam, peeled and sliced (for thickening) pieces in a small pot of water until very soft. Pound or blend into a smooth, lump-free paste. This will serve as the soup thickener.",
+          "Cook the fish and build the broth: Place 1 kilograms fresh catfish (or chicken/goat meat), cleaned and cut and 150 grams stockfish (panla), soaked and cleaned in a pot. Add enough water to cover. Add 1 tablespoons ogiri okpei (fermented locust bean paste), 1 teaspoons ehuru (African nutmeg), ground, blended 3 scotch bonnet pepper (rodo), and remaining 1 onion. Bring to a boil on medium heat and cook until the fish is just tender do not overcook catfish or it will fall apart.",
+          "Add yam thickener and season: Add the yam paste in small spoonfuls into the boiling soup. Stir gently and allow it to dissolve and thicken the broth. Add 3 tablespoons ground crayfish and remaining 2 seasoning cubes. Taste and adjust 1 teaspoons salt.",
+          "Add uziza leaves and finish: Stir in shredded 15 uziza leaves, shredded and cook for 3-5 minutes only. The soup should be light, aromatic, pale in colour, and gently thickened.",
+          "Serve: Serve hot with pounded yam (iyán), eba, fufu, or semovita."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ANigerian_White_Soup_(Ofe_Nsala)"
+      }
+    },
+    {
+      "id": "ofe-onugbu",
+      "name": "Ofe onugbu (bitter leaf soup)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ofe%20onugbu%20(bitter%20leaf%20soup)%20recipe",
+      "description": "Ofe onugbu, also known as bitterleaf soup, is a traditional delicacy of the Igbo people in the southeastern region of Nigeria. It is regarded as a native soup.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Bitter_leaf_soup_%28Ofe_Onugbu%29.jpg/500px-Bitter_leaf_soup_%28Ofe_Onugbu%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ofe_onugbu",
+      "recipe": {
+        "ingredients": [
+          "1–2 cups bitterleaf",
+          "300 g assorted meat (beef, tripe, cow skin)",
+          "1 small piece stockish (optional)",
+          "1–2 pieces dried fish (optional)",
+          "2–3 tablespoons palm oil",
+          "1 tablespoon ground crayfish",
+          "2-3 Seasoning cubes",
+          "1-2 tablespoons Salt (to taste)",
+          "1-2 tablespoons ground Pepper (fresh or dried)",
+          "1 tablespoon ogiri or iru (fermented locust beans, optional)",
+          "3–5 small cocoyam pieces or 2 tablespoons achi powder (as thickener)"
+        ],
+        "steps": [
+          "Wash the bitter leaves thoroughly, squeezing and rinsing several times to reduce the bitterness. Set aside.",
+          "In a pot, combine the assorted meat, stockfish, dryfish, salt, seasoning cubes, and chopped onions. Cover with water, and simmer until the meat is tender.",
+          "Add palm oil and allow it to melt into the meat stock.",
+          "If using cocoyam, boil it separately, peel, blend into a paste, and stir into the soup as a thickener. If using achi or ofor powder, stir directly into the pot.",
+          "Stir in the ground crayfish, pepper, ogiri, and ground crayfish.",
+          "Stir in the washed bitter leaves.Allow to simmer for 5–10 minutes until the soup thickens and the flavors combine.",
+          "Taste and adjust seasoning as needed."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AOfe_Onugbu_(Bitter_Leaf_Soup)"
+      }
+    },
+    {
+      "id": "ofe-oha",
+      "name": "Ofe oha",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ofe%20oha%20recipe",
+      "description": "Ofe Ọha (also known as Ọha soup), is a traditional Igbo soup from south eastern part of Nigeria, known for its rich flavour and the use of fresh ọha leaves. Ofe Ọha is a Nigerian delicacy from the eastern region (Igbo land).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Ofe_Oha_%28Oha_Soup%29.png/500px-Ofe_Oha_%28Oha_Soup%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ofe_Oha",
+      "recipe": {
+        "ingredients": [
+          "200 grams fresh oha (ora) leaves, hand-shredded",
+          "500 grams cocoyam (ede), peeled and boiled",
+          "0.3 cups palm oil",
+          "700 grams assorted meat (beef, shaki, oxtail, goat meat)",
+          "200 grams stockfish (panla), soaked and cleaned",
+          "150 grams smoked fish, deboned",
+          "3 tablespoons ground crayfish",
+          "1 onion",
+          "3 scotch bonnet pepper (rodo)",
+          "1 tablespoons ogiri okpei (fermented locust bean paste)",
+          "2 seasoning cubes"
+        ],
+        "steps": [
+          "Cook the meats: Season 700 grams assorted meat (beef, shaki, oxtail, goat meat) with diced 1 onion, 1 of 2 seasoning cubes, and a pinch of 1 teaspoons salt. Add 200 grams stockfish (panla), soaked and cleaned midway through cooking. Cook on medium heat until tender. Reserve the meat stock.",
+          "Prepare the cocoyam thickener: Boil peeled 500 grams cocoyam (ede), peeled and boiled until very soft. Pound in a mortar until smooth and lump-free, or blend with a little water. Set the cocoyam paste aside this is the soup thickener.",
+          "Build the soup base: Pour reserved meat stock into a pot. Add 0.3 cups palm oil and bring to a boil. Add 1 tablespoons ogiri okpei (fermented locust bean paste) and blended 3 scotch bonnet pepper (rodo). Stir well.",
+          "Add cocoyam thickener: Drop spoonfuls of the cocoyam paste into the boiling soup. Do not stir immediately allow it to dissolve slowly into the stock, thickening the soup naturally. Stir gently after 10 minutes",
+          "Add proteins and season: Add cooked 700 grams assorted meat (beef, shaki, oxtail, goat meat), 200 grams stockfish (panla), soaked and cleaned, and 150 grams smoked fish, deboned into the pot. Add 3 tablespoons ground crayfish and remaining 2 seasoning cubes. Taste and adjust 1 teaspoons salt. Simmer on medium-low heat for 10 minutes.",
+          "Add oha leaves and finish: Hand-shred 200 grams fresh oha (ora) leaves, hand-shredded and stir gently into the soup. Cook for 3–5 minutes only. The soup should be thick, richly coloured, and aromatic.",
+          "Serve: Serve hot with pounded yam (iyán), eba, fufu, or semovita."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ANigerian_Oha_Soup_(Ora_Soup)"
+      }
+    },
+    {
+      "id": "afang-soup",
+      "name": "Afang soup",
+      "videoSearch": "https://www.youtube.com/results?search_query=Afang%20soup%20recipe",
+      "description": "Afang soup is a vegetable soup made by the Ibibio people of Akwa Ibom State, Nigeria. The soup is also common to the Efik people of Cross River State. The Ibibio people of Akwa Ibom adopted this soup as part of their cultural identity.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Afang_soup"
+    },
+    {
+      "id": "gbegiri",
+      "name": "Gbegiri",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gbegiri%20recipe",
+      "description": "Gbegiri is a Nigerian bean soup commonly known to the Yoruba people. It is usually eaten with Amala or Ewedu.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Amala_and_gbegiri.jpg/500px-Amala_and_gbegiri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gbegiri"
+    },
+    {
+      "id": "ewedu-soup",
+      "name": "Ewedu soup",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ewedu%20soup%20recipe",
+      "description": "Ewedu soup is a Nigerian soup commonly eaten by west African people. It is made from jute leaf and thus also called \"jute leaf soup\". Similar to okra soup, the soup is viscid in texture and is combined with beef stew and fish stew.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Amala_and_Gbegiri_with_Ewedu_soup.jpg/500px-Amala_and_Gbegiri_with_Ewedu_soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ewedu_soup"
+    },
+    {
+      "id": "tuwo-shinkafa",
+      "name": "Tuwo shinkafa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tuwo%20shinkafa%20recipe",
+      "description": "Tuwon shinkafa is a type of Nigerian and Nigerien rice swallow from Niger and the northern part of Nigeria. It is a thick pudding prepared from local rice that is soft and sticky, and is usually served with different types of soups like miyan kuka and miyan taushe.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Tuwo_Shinkafa_with_garden_egg_Soup.jpg/500px-Tuwo_Shinkafa_with_garden_egg_Soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tuwon_shinkafa"
+    },
+    {
+      "id": "kuli-kuli",
+      "name": "Kuli-kuli",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kuli-kuli%20recipe",
+      "description": "Kuli-kuli is a Nigerian snack primarily made from peanuts, first made by the Nupe people of Nigeria. It is a popular snack in Nigeria, Benin, northern Cameroon and Ghana. Today kuli-kuli is accepted across the globe.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kulikuli.jpg/500px-Kulikuli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kuli-kuli",
+      "recipe": {
+        "ingredients": [
+          "6 cups (750 g) peanuts",
+          "Water",
+          "2 tablespoons sugar",
+          "½–1 teaspoon salt or to taste",
+          "½ onion (optional), puréed",
+          "2 garlic cloves (optional), crushed",
+          "1 tablespoon chili paste (optional)",
+          "1 teaspoon ground ginger (optional)"
+        ],
+        "steps": [
+          "Toast the peanuts in a dry frying pan over medium heat, stirring occasionally to avoid burning. Once roasted, remove the skins by rubbing them between your hands or using a cloth to gently press and peel off the skins.",
+          "Using a food processor or blender, grind the roasted peanuts to form a peanut butter, working in batches as necessary. This will take around 5–10 minutes depending on power.",
+          "Transfer peanut mixture to a large mixing bowl. Add in water, ¼ cup (60 ml) at a time, to peanut butter, kneading with your hands after each addition. This will swell up the grains in the peanut butter, making it thicker and releasing the oils. Stop adding water once the mixture starts releasing oils. Continue to knead for a further 5 minutes to release as much oil as possible.",
+          "Put the mixture into a cheesecloth, and squeeze to release the oils. Transfer the peanut mixture back to the bowl, and set aside the oils for deep-frying.",
+          "Stir in the remaining ingredients, mixing well to combine.",
+          "Mix in enough water, a tablespoon at a time, until you get a moldable dough, and knead well.",
+          "Take teaspoonfuls of the dough and roll them into small balls or form them into flat discs, depending on your preference. You can also shape them into small cylinders or oval shapes, like traditional kuli-kuli. You can experiment with different shapes.",
+          "Heat the reserved oil in a frying pan over medium heat. Fry the kuli-kuli pieces in batches, ensuring they don’t overcrowd the pan, until they are golden brown and crispy on all sides (about 4–5 minutes). Be sure to flip them carefully to ensure even frying.",
+          "Once fried, remove the kuli-kuli from the oil and place them on a paper towel to drain excess oil. Allow them to cool completely before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKuli-kuli"
+      }
+    },
+    {
+      "id": "abacha",
+      "name": "Abacha (African salad)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Abacha%20(African%20salad)%20recipe",
+      "description": "Abacha () is a type of food originating with the Igbos in the southeastern part of Nigeria. Abacha is a product of cassava tubers. When the processing of it is done from scratch, harvested cassava is obtained, peeled, washed, cooked and sliced into desired sizes or shapes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Abacha_by_Chef_Phizzle._Native_Delight._01.jpg/500px-Abacha_by_Chef_Phizzle._Native_Delight._01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Abacha_(food)",
+      "recipe": {
+        "ingredients": [
+          "Abacha (dried shredded cassava)",
+          "4 cups",
+          "400 g",
+          "Palm oil",
+          "1 cup",
+          "Potash (akanwu)",
+          "1 tsp",
+          "Ground crayfish",
+          "2 tbsp",
+          "15 g",
+          "Ugba (oil bean seeds)",
+          "1 cup",
+          "150 g",
+          "Garden eggs",
+          "Pepper",
+          "1–2",
+          "Salt",
+          "1 tsp",
+          "Seasoning cubes",
+          "Utazi leaves",
+          "2 tbsp, sliced",
+          "Fish or stockfish (optional)",
+          "1 cup",
+          "150 g"
+        ],
+        "steps": [
+          "Soak the abacha in warm water for 5–10 minutes, or until softened.",
+          "Drain the abacha thoroughly and set aside.",
+          "Dissolve the potash in a small quantity of water and strain to remove any sediment.",
+          "Pour the palm oil into a mixing bowl. Gradually add the strained potash solution while stirring continuously until the oil thickens and turns yellow.",
+          "Add the ground crayfish, pepper, salt, and crushed seasoning cubes. Mix well to form a smooth sauce.",
+          "Add the softened abacha to the sauce and stir until evenly coated.",
+          "Add the ugba, sliced garden eggs, and sliced utazi leaves. Mix thoroughly.",
+          "Add the fish or stockfish, if using, and stir gently to combine.",
+          "Adjust the seasoning to taste.",
+          "Serve immediately as a main dish or side dish."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAbacha"
+      }
+    },
+    {
+      "id": "ewa-agoyin",
+      "name": "Ewa agoyin",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ewa%20agoyin%20recipe",
+      "description": "Ewa aganyin (Yoruba) (also spelled as Ewa agoyin) is a Yoruba dish commonly eaten in Yorubaland across Togo, Nigeria and Benin. It is also popular as street food. The dish consists of beans cooked until extremely soft and then mashed.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Beans_and_fried_plantains_with_Beef02.jpg/500px-Beans_and_fried_plantains_with_Beef02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ewa_aganyin",
+      "recipe": {
+        "ingredients": [
+          "4 cups brown beans or honey beans",
+          "Salt to taste",
+          "2 cups water",
+          "8–10 dried red chile peppers",
+          "1 onion",
+          "1 cup palm oil",
+          "1 seasoning cube",
+          "1 spoon ground crayfish",
+          "A little garlic or ginger",
+          "2–3 teaspoons locusts beans"
+        ],
+        "steps": [
+          "Cook the beans in plenty of water until they become extremely soft and mushy.",
+          "Stir or lightly mash the cooked beans until you get a smooth, thick, porridge-like texture. Season with salt to taste, and set aside.",
+          "Blend or grind dried pepper and fry it with chopped onions in a pot or pan.{{Recipe summary",
+          "Add salt and seasoning cubes if desired, and continue frying until the oil rises and the sauce is well cooked.",
+          "Spoon the hot pepper sauce over the mashed beans and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ANigerian_Ewa_Agoyin"
+      }
+    },
+    {
+      "id": "nkwobi",
+      "name": "Nkwobi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nkwobi%20recipe",
+      "description": "Nkwobi () is Nigerian food commonly found in the Southern region. It originates from the Igbo tribe. It is a soup made up of cuts from cow feet.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Nkwobi_made_with_Chevon.jpg/500px-Nkwobi_made_with_Chevon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nkwobi"
+    },
+    {
+      "id": "isi-ewu",
+      "name": "Isi ewu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Isi%20ewu%20recipe",
+      "description": "Isi ewu (English: Goat's head) is a traditional Igbo dish that is made with a goat's head. It is a soup similar to spicy cow feet (nkwobi) except that isi ewu is made from the head of a goat rather than cow feet.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Isi_ewu.jpg/500px-Isi_ewu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Isi_ewu"
+    },
+    {
+      "id": "ikokore",
+      "name": "Ikokore",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ikokore%20recipe",
+      "description": "Ikokore or Ifokore is a water yam pottage or porridge dish among the Yoruba people, popular among the Ijebu. It is made from Dioscorea alata, called Isu Ewura in Yoruba, grated and cooked with ingredients like peppers, onions, condiments like Ogiri, and spices. A lot of proteins are usually incorporated into Ikokore.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ikokore",
+      "recipe": {
+        "ingredients": [
+          "1 large water yam",
+          "500 g assorted fish (fresh or smoked)",
+          "1 cup ground crayfish",
+          "1/2 cup palm oil",
+          "2–3 tablespoons ground pepper",
+          "1 medium onion, chopped",
+          "2–3 seasoning cubes",
+          "Salt to taste",
+          "4 cups water or fish stock",
+          "Periwinkles or shrimp (optional)"
+        ],
+        "steps": [
+          "1. Peel and wash the water yam.",
+          "2. Grate the water yam into a bowl and set aside.",
+          "3. Clean and prepare the fish and any seafood being used.",
+          "4. Chop the onion and measure out the remaining ingredients.",
+          "5. Pour water or fish stock into a large pot and bring to a boil.",
+          "6. Add palm oil, onions, pepper, crayfish, seasoning cubes, and salt.",
+          "7. Add the fish and cook for several minutes.",
+          "8. Gradually add the grated water yam in small portions, stirring gently.",
+          "9. Allow the mixture to cook on medium heat until the yam thickens and absorbs the broth.",
+          "10.Add periwinkles or shrimp if using.",
+          "11.Continue cooking for 10–15 minutes, stirring occasionally to prevent sticking.",
+          "12.Adjust seasoning and remove from heat when the dish reaches a soft, thick consistency."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AIkokore"
+      }
+    },
+    {
+      "id": "boli",
+      "name": "Boli (roasted plantain)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Boli%20(roasted%20plantain)%20recipe",
+      "description": "Boli (also known as Bole) is a roasted plantain snack or meal in Nigeria. It is native to the Yoruba people of Nigeria, but is also eaten by their neighbours in Rivers State, due to acculturation. It is referred to as 'boli' by Yoruba people inhabiting South West Nigeria, and is eaten with groundnuts.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Bole_Food_well_garnished.jpg/500px-Bole_Food_well_garnished.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boli_(plantain)"
+    },
+    {
+      "id": "chin-chin",
+      "name": "Chin chin",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chin%20chin%20recipe",
+      "description": "Chin chin is a fried snack from Nigeria. It is known as atchomon in Togo and Benin, achomo in Ghana, and croquette or chin chin in Cameroon. It is similar to the Scandinavian snack klenat, a crunchy, donut-like baked or fried dough of wheat flour.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/LoveChinChin.jpg/500px-LoveChinChin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chin_chin"
+    },
+    {
+      "id": "puff-puff",
+      "name": "Puff-puff",
+      "videoSearch": "https://www.youtube.com/results?search_query=Puff-puff%20recipe",
+      "description": "Puff-puff is a traditional snack made of fried dough and eaten across West Africa. The name \"puff-puff\" is from Nigeria; as listed below, many other names and varieties of the pastry exist.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Nigerian-puff-puff-recipe_cropped.jpg/500px-Nigerian-puff-puff-recipe_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Puff-puff"
+    }
+  ]
+}

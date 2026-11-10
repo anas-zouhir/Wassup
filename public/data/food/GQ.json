@@ -1,0 +1,29 @@
+{
+  "country": "GQ",
+  "dishes": [
+    {
+      "id": "pepesoup",
+      "name": "Pepesoup",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pepesoup%20recipe",
+      "description": "Peppersoup (or pepper soup) is a soup eaten by Cameroonians and Nigerians. This soup is made using various meats or fish, chili peppers, salt, scent leaves and calabash nutmeg as its primary ingredients. It is a spicy soup that has a light, watery texture.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Assorted_meat_pepper_soup_at_Lagos_Island.jpg/500px-Assorted_meat_pepper_soup_at_Lagos_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peppersoup"
+    },
+    {
+      "id": "fufu",
+      "name": "Fufu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fufu%20recipe",
+      "description": "Fufu (or fufuo, foofoo, foufou foo-foo ) is a pounded meal found in West African cuisine originally made from boiled cassava, plantains, and cocoyam. Fufu's prevalence in West Africa has been noted in local literature, such as Chinua Achebe's Things Fall Apart. Fufu is a Twi word originating from the Akans in Ghana.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Wrapped_fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fufu"
+    },
+    {
+      "id": "chikwangue",
+      "name": "Yuca sticks (chikwangue)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Yuca%20sticks%20(chikwangue)%20recipe",
+      "description": "Chikwangue, also known in Cameroon as bobolo and in the Congo River basin language of Lingala as kwanga, is a starchy, fermented-cassava product that is a staple food across Central Africa: the Democratic Republic of Congo (DRC), the Republic of Congo (RotC), Gabon, Cameroon and Equatorial Guinea.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Cassava_Bread_-_cassava_cooked_in_leaf_wrap_%28Kwanga%2C_Chikwangue%29.jpg/500px-Cassava_Bread_-_cassava_cooked_in_leaf_wrap_%28Kwanga%2C_Chikwangue%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chikwangue"
+    }
+  ]
+}

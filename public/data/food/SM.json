@@ -1,0 +1,71 @@
+{
+  "country": "SM",
+  "dishes": [
+    {
+      "id": "torta-tre-monti",
+      "name": "Torta Tre Monti",
+      "videoSearch": "https://www.youtube.com/results?search_query=Torta%20Tre%20Monti%20recipe",
+      "description": "Torta Tre Monti (lit. 'Three Mountains Cake') is a traditional Sammarinese cake made of layers of thin waffled wafers adhered together by chocolate or hazelnut crème. The final product is covered in chocolate fondant.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/La_Serenissima_Torta_Tre_Monti.jpg/500px-La_Serenissima_Torta_Tre_Monti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Torta_Tre_Monti"
+    },
+    {
+      "id": "piadina",
+      "name": "Piadina",
+      "videoSearch": "https://www.youtube.com/results?search_query=Piadina%20recipe",
+      "description": "Piadina romagnola or simply piadina, traditionally piada, is a thin Italian flatbread, typically prepared in the Romagna historical region (which mostly consists of the Italian provinces of Forlì-Cesena, Ravenna, and Rimini, and the Republic of San Marino).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Piadina_romagnola_2.jpg/500px-Piadina_romagnola_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Piadina_romagnola",
+      "recipe": {
+        "ingredients": [
+          "12 oz all-purpose flour",
+          "½ tsp table salt",
+          "¾ tsp baking powder (optional)",
+          "2 tbsp vegetable oil",
+          "½–¾ cup water"
+        ],
+        "steps": [
+          "Pulse the flour, baking powder, and salt in a food processor until blended.",
+          "Add the oil and pulse a few times to blend.",
+          "Start the processor and add the water a little at a time until the dough comes together.",
+          "Remove the dough to a well floured counter top and knead a few times, shaping it into a round ball and adding flour as needed.",
+          "Divide the dough into four pieces and form each into a tight ball.",
+          "Cover all with some plastic wrap and let rest for 30 minutes.",
+          "After the rest period, roll each piece into a 9 inch round.",
+          "Heat a dry 10-inch cast iron frying pan until a drop of water sizzles and evaporates.",
+          "Dock (perforate) one of the rounds with a fork to prevent the formation of bubbles.",
+          "Cook the round in the dry pan until the bottom has a few brown spots, 1½–2 minutes. Keep the docking fork handy to knock down bubbles as they form.",
+          "Flip the round and repeat the browning step as above.",
+          "Remove to a warm plate and gently fold in half. Cover to keep warm.",
+          "Repeat the last four steps with the other rounds.",
+          "Fill each with the foods and condiments of your choice and enjoy."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APiadina_(Thin_Italian_Flatbread)"
+      }
+    },
+    {
+      "id": "bustrengo",
+      "name": "Bustrengo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bustrengo%20recipe",
+      "description": "Bustrengo, also called bustrèng, is a cake in Romagnol and Sammarinese cuisine. It is a traditional Christmas dish in the Italian provinces of Forlì-Cesena and Rimini, Emilia-Romagna, and in the Republic of San Marino.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Bustrengo.jpg/500px-Bustrengo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bustrengo"
+    },
+    {
+      "id": "passatelli",
+      "name": "Passatelli",
+      "videoSearch": "https://www.youtube.com/results?search_query=Passatelli%20recipe",
+      "description": "Passatelli are a pasta formed of bread crumbs, eggs, grated Parmesan cheese, and in some regions lemon, and nutmeg; it is typically cooked in chicken broth. Typically, it is found mainly in Romagna, Pesaro and Urbino province (northern Marche), Ancona province (central Marche) and other regions of Italy, such as Umbria.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Passatelli.jpg/500px-Passatelli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Passatelli"
+    },
+    {
+      "id": "strozzapreti",
+      "name": "Strozzapreti",
+      "videoSearch": "https://www.youtube.com/results?search_query=Strozzapreti%20recipe",
+      "description": "Strozzapreti are hand-made pasta shape, similar to cavatelli, though longer. The name is also used for a baked cheese and vegetable dumpling, prepared in some regions of Italy.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Strozzapreti_bulk.jpg/500px-Strozzapreti_bulk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Strozzapreti"
+    }
+  ]
+}

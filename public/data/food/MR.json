@@ -1,0 +1,44 @@
+{
+  "country": "MR",
+  "dishes": [
+    {
+      "id": "thieboudienne",
+      "name": "Thieboudienne",
+      "videoSearch": "https://www.youtube.com/results?search_query=Thieboudienne%20recipe",
+      "description": "Ceebu or tiep (alternatively thieb, benechin, benachin, or jollof rice) is a traditional dish from Senegal that is also consumed in Mauritania, Guinea-Bissau, Guinea, Mali, The Gambia, and other West and Central African countries. It is the national dish in Senegal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Thieboudienne.JPG/500px-Thieboudienne.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thieboudienne"
+    },
+    {
+      "id": "mechoui",
+      "name": "Méchoui",
+      "videoSearch": "https://www.youtube.com/results?search_query=M%C3%A9choui%20recipe",
+      "description": "Méchoui (Arabic: مشوي) or meshwi is a whole sheep or lamb spit-roasted on a barbecue in Maghrebi cuisine. The word comes from the Arabic word šawā (شواء, \"grilling, roasting\"). This dish is common in North Africa.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Mechoui.jpg/500px-Mechoui.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A9choui"
+    },
+    {
+      "id": "couscous",
+      "name": "Couscous",
+      "videoSearch": "https://www.youtube.com/results?search_query=Couscous%20recipe",
+      "description": "Couscous (Tamazight: ⵙⴽⵙⵓ seksu or ⴽⵙⴽⵙⵓ keskesu), is a traditional North African dish of small steamed granules of rolled semolina that is often served with a stew spooned on top.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg/500px-Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Couscous"
+    },
+    {
+      "id": "zrig",
+      "name": "Zrig",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zrig%20recipe",
+      "description": "Zrig (Hassaniyya: زريق or زريك, zrik; Fula: toufam) is a fermented milk beverage of the west Sahara.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/African_kitchen_utensils_-_stirrers.jpg/500px-African_kitchen_utensils_-_stirrers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zrig"
+    },
+    {
+      "id": "boulaghmane",
+      "name": "Boulaghmane",
+      "videoSearch": "https://www.youtube.com/results?search_query=Boulaghmane%20recipe",
+      "description": "Boulaghmane (Arabic: بلغمان; Hassaniyya: دگيگالمگلي, romanized: dgig lmegli) is a Mauritanian and Western Saharan cuisine dish that consists of toasted barley flour and sugar, which is bound together with either clarified butter, clarified camel hump fat, or a vegetable oil, along with water; the final dish is either s…",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boulaghmane"
+    }
+  ]
+}

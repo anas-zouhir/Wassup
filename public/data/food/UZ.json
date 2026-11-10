@@ -1,0 +1,90 @@
+{
+  "country": "UZ",
+  "dishes": [
+    {
+      "id": "plov",
+      "name": "Plov",
+      "localName": "Palov",
+      "videoSearch": "https://www.youtube.com/results?search_query=Plov%20recipe",
+      "description": "Pilaf (US: or pilau UK: ) is a rice dish, or in some regions, a wheat dish, whose recipe usually involves cooking in stock or broth, adding spices, and other ingredients such as vegetables and meat, and employing some technique for achieving cooked grains that do not adhere.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Afghan_Palo.jpg/500px-Afghan_Palo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pilaf"
+    },
+    {
+      "id": "samsa",
+      "name": "Samsa",
+      "localName": "Somsa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Samsa%20recipe",
+      "description": "Samsa is a savoury pastry in Central Asian cuisines. It is a bun stuffed with meat and sometimes with vegetables. In the countries of Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, Turkey and Iran, as well as in the Xinjiang Uygur Autonomous Region of China, samsas are almost always baked.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ouzb%C3%A9kistan-Samsas.jpg/500px-Ouzb%C3%A9kistan-Samsas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Samsa_(food)"
+    },
+    {
+      "id": "laghman",
+      "name": "Lagman",
+      "localName": "Lag'mon",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lagman%20recipe",
+      "description": "Laghman (Uyghur: لەغمەن, romanized: leghmen), also spelled lagman, is a dish of meat, vegetables and pulled noodles from Uyghur cuisine. In Chinese, the noodle is known as latiaozi (Chinese: 拉条子) or banmian (Chinese: 拌面).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%D0%9B%D0%B0%D0%B3%D0%BC%D0%B0%D0%BD.jpg/500px-%D0%9B%D0%B0%D0%B3%D0%BC%D0%B0%D0%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Laghman_(food)"
+    },
+    {
+      "id": "manti",
+      "name": "Manti",
+      "videoSearch": "https://www.youtube.com/results?search_query=Manti%20recipe",
+      "description": "Manti is a type of dumpling mainly found in Uyghur cuisine and Central Asian cuisine, but also in West Asia, South Caucasus, and the Balkans. Manti is also popular in Turkish cuisine, and it is consumed throughout post-Soviet countries, where the dish spread from the Central Asian republics.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Kayseride_bir_restoranda_Kayseri_mant%C4%B1s%C4%B1_%28cropped%29.jpg/500px-Kayseride_bir_restoranda_Kayseri_mant%C4%B1s%C4%B1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "id": "chuchvara",
+      "name": "Chuchvara",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chuchvara%20recipe",
+      "description": "Joshpara is a kind of dumpling popular in Central Asia, South Caucasus and the Middle East. They are made of unleavened wheat dough squares filled with ground meat and condiments.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/D%C3%BC%C5%9Fb%C9%99r%C9%99_yar%C4%B1mfabrikat%C4%B1_1.jpg/500px-D%C3%BC%C5%9Fb%C9%99r%C9%99_yar%C4%B1mfabrikat%C4%B1_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joshpara"
+    },
+    {
+      "id": "dimlama",
+      "name": "Dimlama",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dimlama%20recipe",
+      "description": "Dimlama or dymdama is an Uzbek stew made with various combinations of meat, potatoes, onions, vegetables, and sometimes fruits. Meat (lamb or sometimes veal or beef) and vegetables are cut into large pieces and placed in layers in a tightly sealed pot to simmer slowly in their own juices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Dimlama_%2816425713838%29.jpg/500px-Dimlama_%2816425713838%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dimlama"
+    },
+    {
+      "id": "mastava",
+      "name": "Mastava",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mastava%20recipe",
+      "description": "Māstāba, or mastava (Cyrillic: Мастава, Tajik: Мастоба), is a traditional Uzbek and Tajik soup. Sometimes it is called \"liquid pilaf\". The soup is always prepared using the frying method typical of Central Asian cuisine, similar to some types of shurpa, and fundamentally differs from the latter in the use of rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%9C%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%B0.jpg/500px-%D0%9C%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mastava"
+    },
+    {
+      "id": "non",
+      "name": "Obi non",
+      "localName": "Non",
+      "videoSearch": "https://www.youtube.com/results?search_query=Obi%20non%20recipe",
+      "description": "Tandyr nan is a type of Central Asian bread cooked in a vertical clay oven, the tandyr or tandoor. It is circular and leavened with yeast, and typically has a crisp golden surface.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Taj_Lepeshki.jpg/500px-Taj_Lepeshki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tandyr_nan"
+    },
+    {
+      "id": "shashlik",
+      "name": "Shashlik",
+      "localName": "Kabob",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shashlik%20recipe",
+      "description": "Shashlik, or shashlyck (Russian: шашлык, romanized: shashlyk ), is a dish of skewered and grilled cubes of meat, similar to or synonymous with shish kebab.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Shashlik.jpg/500px-Shashlik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shashlik"
+    },
+    {
+      "id": "sumalak",
+      "name": "Sumalak",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sumalak%20recipe",
+      "description": "Samanu (Persian: سمنو; Azerbaijani: səməni halvası), samanak (Persian: سمنک), sümelek (Kazakh: сүмелек; Turkmen: sümelek / syumelek), sumanak (Tajik: суманак), sumalak, or sümölök is a sweet paste made from germinated wheat (young wheatgrass) and wheat flour, which is prepared especially for Nowruz (beginning of spring…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Samanu_for_7_sin.jpg/500px-Samanu_for_7_sin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Samanu"
+    }
+  ]
+}

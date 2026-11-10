@@ -1,0 +1,386 @@
+{
+  "country": "BR",
+  "dishes": [
+    {
+      "id": "feijoada",
+      "name": "Feijoada",
+      "videoSearch": "https://www.youtube.com/results?search_query=Feijoada%20recipe",
+      "description": "Feijoada is the name for varieties of bean stew with beef or pork prepared in the Portuguese-speaking world.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Feijoada_%C3%A0_transmontada.jpg/500px-Feijoada_%C3%A0_transmontada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Feijoada",
+      "recipe": {
+        "ingredients": [
+          "½ lb pork ribs",
+          "Salt",
+          "2 filet mignon medallions",
+          "1 smoked sausage",
+          "¼ lb ham steak",
+          "1 package smoked pork chops (such as Hormell)",
+          "Jerked beef (optional)",
+          "1 onion, chopped",
+          "Parsley, chopped",
+          "Chives, minced",
+          "2–3 cans pre-cooked black beans",
+          "3 cups uncooked rice",
+          "2 cloves garlic, minced",
+          "¼ onion",
+          "Collard greens",
+          "Thinly-sliced bacon (optional)",
+          "Sliced onion",
+          "1 pinch salt",
+          "1 pinch sugar",
+          "1 cup sliced bacon",
+          "¼ cup black olives",
+          "¼ cup olive oil",
+          "¼ onion, chopped",
+          "2 cups white toasted cassava flour",
+          "2 tsp chicken flavor bouillon",
+          "Cilantro",
+          "Chives",
+          "Salt",
+          "Olive oil",
+          "A little bit of vinegar",
+          "1 red hot finger pepper, finely chopped",
+          "Sliced oranges (1 orange for each person)",
+          "Tabasco sauce"
+        ],
+        "steps": [
+          "Three days before serving, place the pork ribs in a large stock pot, and cover them thoroughly with salt. Cut off one of the salted ribs, place in a plastic bag, and set aside in the fridge. Cover the stockpot containing the remaining ribs, and store it in the fridge.",
+          "One day before serving, remove the stockpot with the ribs from the fridge. Start the process of withdrawing the excess salt, soaking the ribs in cold water and changing the water three times in intervals of 6 hours. Each time you change the water, return the covered stockpot with water and ribs back to the fridge. After the third and last time, fill again the stockpot with the ribs and water and leave it in the fridge until the time to start the cooking process.",
+          "On the day of cooking and serving, cut the filet mignon into 1-inch cubes. Slice the smoked sausage as thick as you wish. Cut the bacon into small cubes. Cut the ham steak into 1-inch cubes. Cut the smoked pork chops into small pieces. Do not cast away the bone yet; leave some meat on it to be cooked altogether. If you are also using jerked beef, cut the pieces proportionally to the rest of the meat. If any part of the meat has bones, leave part of the meat on the bones to be cooked altogether.",
+          "Take the stockpot with the ribs out of the fridge and throw out the water. Divide the ribs; if you think they are too big, cut each in half.",
+          "In a large pan, put ¼ cup olive oil and heat it. Then add the sliced bacon together with the ribs, including the salted rib you left aside in the fridge (note: the salt on this specific piece of rib will be the basic salt enough for the preparation).",
+          "Put the lid on, and cook all together for 10–15 minutes over medium heat, stirring occasionally.",
+          "Add the sliced onion, the parsley, and the chives. Add the rest of the sliced meat and cook for 15 more minutes.",
+          "Then, add 2–3 cans of black beans, plus one can of water, and cook for more 30 minutes. When it starts boiling, decrease the heat to medium-low temperature. Stir occasionally.",
+          "Taste for salt. It should be enough. If you want to add more salt, be careful. Do not salt your feijoada too much.",
+          "Watch the water. Add more (hot) water, if you want your feijoada more liquid. Your feijoada will be ready when the meat becomes soft and loosens from the bones. Now you can take out the bones, if you wish. Serve it warm.",
+          "Wash the rice and drain.",
+          "In a medium pan, put olive oil and chopped onion. Cook until it gets soft. Add garlic if you want.",
+          "Add the rice previously washed and dry. Add a pinch of salt and stir.",
+          "Add hot water (for each cup of rice, use 2 cups of water) and cook until it starts boiling.",
+          "Reduce the heat. Put the lid on and finish cooking. The rice is be ready when the water is fully evaporated and the rice is soft.",
+          "In a pan, fry 1 cup of sliced bacon until it becomes golden brown.",
+          "Add black olives and cook.",
+          "Add olive oil and onion. Cook until it becomes soft.",
+          "When heated, pour the cassava/manioc flour and stir until you get the desired consistency. The amount of flour will determine the consistency. Be careful with the heat; your farofa should not be burnt in the bottom.",
+          "Wash the collard greens leaf by leaf, then slice them in very thin strips and set it aside.",
+          "In a pan or a skillet, put enough olive oil and sliced onion for the amount of collard greens you use. If using, add sliced bacon.",
+          "Add the thinly-sliced collard greens with a pinch of salt and a pinch of sugar (this will help your collard greens remain green).",
+          "Put the lid on and cook for 15 minutes, stirring occasionally.",
+          "Peel the oranges you have already set aside.",
+          "Cut them in round slices and put them in a ceramic bowl or on a plate.",
+          "In a ceramic or metal bowl, put the cilantro, chives, salt, olive oil, a little bit of vinegar, and one finely chopped red hot finger pepper, and add a cup of warm bean broth, and stir altogether.",
+          "Use a teaspoon to serve. This sauce can be used on top of the feijoada and is added individually.",
+          "Serve the bean stew with accompanying sides and orange slices."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABrazilian_Feijoada"
+      }
+    },
+    {
+      "id": "brazilian-cheese-bread",
+      "name": "Brazilian cheese bread",
+      "localName": "Pão de queijo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Brazilian%20cheese%20bread%20recipe",
+      "description": "Pão de queijo or Brazilian cheese bread is a small, baked cheese roll or cheese ball, a popular snack and breakfast food in Brazil. It is a traditional Brazilian recipe, originating in the state of Minas Gerais.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Cheesebread.jpg/500px-Cheesebread.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/P%C3%A3o_de_queijo",
+      "recipe": {
+        "ingredients": [
+          "⅔ cup (160 ml) milk",
+          "⅓ cup (80 ml) neutral oil (e.g. vegetable oil)",
+          "2 cups (450 g) fine cassava flour or tapioca flour",
+          "6 ounces (170 g) grated hard cheese (a mix of cheddar and parmesan is good)",
+          "2 eggs",
+          "Salt to taste",
+          "Pepper to taste"
+        ],
+        "steps": [
+          "Mix the milk and oil together in a saucepan, and boil until a white foam appears.",
+          "Gradually add flour to this hot mixture; mix well to form a firm dough with no lumps.",
+          "Let the dough rest for 15 minutes.",
+          "Preheat the oven to 375°F (190°C).",
+          "Mix the eggs, cheese, salt, and pepper into the dough. The dough will become sticky and wet. If the dough is too wet, add more flour and cheese in order to make firmer balls (instead of cookies).",
+          "Grease your hands, and form small balls 1–2 inches in diameter.",
+          "Place the balls on a greased baking tray. Bake for 15–20 minutes, until the top begins to brown.",
+          "Cool slightly."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACheese_Puffs_(P%C3%A3o_de_Queijo)"
+      }
+    },
+    {
+      "id": "brigadeiro",
+      "name": "Brigadeiro",
+      "videoSearch": "https://www.youtube.com/results?search_query=Brigadeiro%20recipe",
+      "description": "Brigadeiro is a traditional Brazilian dessert. The dessert was created by a confectioner, Heloísa Nabuco de Oliveira, to promote the presidential candidacy of Eduardo Gomes. The ingredients are condensed milk, cocoa powder, butter and chocolate sprinkles, which coat the outside to prevent any sticking.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Brigadeiro.jpg/500px-Brigadeiro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Brigadeiro",
+      "recipe": {
+        "ingredients": [
+          "1 can (395 g) of sweetened condensed milk",
+          "1 tablespoon of butter",
+          "3 tablespoons of cocoa powder",
+          "1 box (482 g) of chocolate sprinkles"
+        ],
+        "steps": [
+          "In a heavy saucepan, combine the milk, cocoa powder, and butter. Stir to dissolve the chocolate.",
+          "Put over low heat and stir constantly to avoid formation of lumps.",
+          "Continue stirring for 10–12 minutes, or until you are able to see the bottom of the pot for one second when you scratch it side-to-side with the spoon. The more you cook, the harder the resulting candy will be—it may vary from liquid fudge to hard candy.",
+          "Allow mixture to cool.",
+          "Butter your hands, and roll the mixture into small balls (around 2 cm in diameter). Alternatively, you can use two metal spoons to shape the candies. Roll them in the chocolate sprinkles."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABrigadeiro_(Brazilian_Chocolate_Fudge)"
+      }
+    },
+    {
+      "id": "moqueca",
+      "name": "Moqueca",
+      "videoSearch": "https://www.youtube.com/results?search_query=Moqueca%20recipe",
+      "description": "Moqueca is a Brazilian seafood stew. Moqueca is typically made with shrimp or fish in a base of tomatoes, onions, garlic, lime, and coriander. Some recipes include annatto, palm oil, and coconut milk, depending on the regional variation.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Moqueca.jpg/500px-Moqueca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Moqueca",
+      "recipe": {
+        "ingredients": [
+          "1 kg fresh white fish, cut into two finger-wide strips/slices",
+          "1 lemon, juiced",
+          "2 mid-sized onions, cut into circular slices",
+          "2 bell peppers (one red, one green), cut into circular slices",
+          "1 clove of garlic, pressed",
+          "4 ripe tomatoes, optionally skinned then chopped",
+          "4 cilantro stems with leaves, finely chopped",
+          "12 tablespoons Azeite de dendê (a very tasty, heavy, saffron-colored palm oil, which may not be omitted under any circumstances)",
+          "200 ml coconut milk",
+          "Salt",
+          "Pepper"
+        ],
+        "steps": [
+          "Leave the fish in a marinade made out of lemon juice and fine powdered pepper for at least 1 hour.",
+          "Put the fish, onions, bell peppers, garlic, tomatoes and the cilantro in numerous layers into a pot.",
+          "Pour the azeite de dendê and the coconut milk over all, and boil everything for 20 minutes. From time to time, ladle/scoop the liquid from the pot's bottom to its top. Be careful, in order to not break the fish!",
+          "Season to taste with salt.",
+          "Serve with white rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMoqueca_de_Peixe_(Brazilian_Seafood_Stew)"
+      }
+    },
+    {
+      "id": "coxinha",
+      "name": "Coxinha",
+      "videoSearch": "https://www.youtube.com/results?search_query=Coxinha%20recipe",
+      "description": "Coxinha is a Brazilian snack of Paulista origin which consists of chopped or shredded chicken meat, covered in dough, molded into a shape resembling a teardrop, battered and fried.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%282014-11-22%29_La_Donosti_-_Agudos_-_Coxinha_de_Leitoa_Romerito_Pontes_%2815870107515%29.jpg/500px-%282014-11-22%29_La_Donosti_-_Agudos_-_Coxinha_de_Leitoa_Romerito_Pontes_%2815870107515%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Coxinha"
+    },
+    {
+      "id": "acaraje",
+      "name": "Acarajé",
+      "videoSearch": "https://www.youtube.com/results?search_query=Acaraj%C3%A9%20recipe",
+      "description": "Acarajé is a type of fritter made from cowpeas or beans (black-eyed peas) fried in dendê (palm oil). This dish is descended from Akara which originated in Yorubaland, from the Yoruba ethnic group inhabiting parts of Nigeria, Benin and Togo.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Acaraje-Baiana.jpg/500px-Acaraje-Baiana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Acaraj%C3%A9"
+    },
+    {
+      "id": "farofa",
+      "name": "Farofa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Farofa%20recipe",
+      "description": "Farofa is toasted cassava meal. It is eaten mainly in Brazil. It can be found commercially produced and packaged but can also be prepared at home based on family recipes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Farofa_brazil.jpg/500px-Farofa_brazil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Farofa",
+      "recipe": {
+        "ingredients": [
+          "1-2 tbsp butter or vegetable oil, preferably olive oil.",
+          "2 large garlic cloves, minced",
+          "A few pieces of chopped processed fatty meat (typically bacon)",
+          "2 onions, chopped",
+          "500 g manioc (cassava) flour or premade farofa mix",
+          "1–2 tbsp tempero baiano (see notes)",
+          "Salt to taste",
+          "Cilantro to taste, chopped (optional)"
+        ],
+        "steps": [
+          "Heat a skillet over medium heat. Add the meat and fry for a minute or so. Depending on how much fat is released from it, add up to 1 tbsp of the oil or butter, enough to fry the garlic and onions.",
+          "Add the garlic, and stir for a minute or so, making sure not to let it burn.",
+          "Add the onion and seasonings, and cook for about another minute.",
+          "Add the flour and any additional ingredients. Stir well and continue toasting for a couple minutes more. If using premade farofa mix, stir until the extra ingredients are well-done. If using raw cassava flour, slowly add the remaining butter or oil and stir until toasted and golden.",
+          "Turn off the heat, and add chopped cilantro if desired. Serve hot to warm."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFarofa"
+      }
+    },
+    {
+      "id": "feijao-tropeiro",
+      "name": "Feijão tropeiro",
+      "videoSearch": "https://www.youtube.com/results?search_query=Feij%C3%A3o%20tropeiro%20recipe",
+      "description": "Feijão tropeiro, also known as feijão caipira, feijão de preguiça and feijão das onze, is a typical dish from Paulistania Region, specially the states of São Paulo, Minas Gerais, Goiás, Paraná and Mato Grosso, the region travelled by the tropeiros.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Feijao_Tropeiro.jpg/500px-Feijao_Tropeiro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Feij%C3%A3o_tropeiro",
+      "recipe": {
+        "ingredients": [
+          "2 lbs pinto beans",
+          "2 lbs sausage of your choice (mild Italian is good in this dish)",
+          "2 cloves garlic",
+          "2 small yellow onions",
+          "½ pound slab bacon",
+          "4 hard boiled eggs",
+          "1 bunch green onions, chopped",
+          "1 bunch collard greens",
+          "2 tbsp olive oil"
+        ],
+        "steps": [
+          "Prepare beans according to their package. Drain and set aside to cool.",
+          "In large pan, cook bacon and sausage. Remove sausage and bacon.",
+          "Slice sausage into 1 inch-thick pieces.",
+          "In the pan with bacon grease, sauté white onion and garlic.",
+          "Slice collard green into small (⅛-inch) strips.",
+          "Mix all ingredients except hard-boiled eggs in large bowl using a wooden spoon.",
+          "Drizzle with olive oil and stir gently.",
+          "Garnish with sliced boiled eggs.",
+          "Serve hot or cold."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFeij%C3%A3o_Tropeiro_(Brazilian_Beans_and_Sausage)"
+      }
+    },
+    {
+      "id": "bobo-de-camarao",
+      "name": "Bobó de camarão",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bob%C3%B3%20de%20camar%C3%A3o%20recipe",
+      "description": "Bobó de camarão, sometimes referred to as shrimp bobó in English, is a chowder-like Brazilian dish of shrimp in a purée of manioc meal with coconut milk, herbs, ginger, red palm oil, and other ingredients.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Bobo_a_Dish_from_Brazil.JPG/500px-Bobo_a_Dish_from_Brazil.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bob%C3%B3_de_camar%C3%A3o",
+      "recipe": {
+        "ingredients": [
+          "3 lbs (1.2 kg) medium size shrimp",
+          "3 lb (1.2 kg) yuca root",
+          "2 cups onion, chopped",
+          "3 cloves garlic, chopped",
+          "½ cup olive oil",
+          "6 medium tomatoes, peeled and seeded (or a large can of whole tomatoes)",
+          "¼ cup cilantro, chopped",
+          "2 cups coconut milk",
+          "¼ cup palm oil (also known as dendê)",
+          "Salt to taste",
+          "Pepper to taste"
+        ],
+        "steps": [
+          "Peel and cut the manioc and put in a pan with cold water and salt.",
+          "Cook until tender, drain and reserve both the cooked manioc and the liquid.",
+          "Discard any manioc fiber.",
+          "Using a fork, mash the manioc while still hot. Use some of the liquid to help in the process. Do not use a blender or food processor.",
+          "Peel and de-vein the shrimp.",
+          "Sauté the onion and garlic in the olive oil until wilted.",
+          "Add ½ of the chopped cilantro and the tomatoes, stirring well.",
+          "Add the shrimp, and cook it for about 15 minutes.",
+          "Add the puréed manioc. Check the amount of liquid and add more of the reserved manioc liquid to thin the mixture, if necessary.",
+          "Add the coconut milk, the remaining cilantro and the palm oil.",
+          "Check for salt and pepper.",
+          "Serve over Brazilian white rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABrazilian_Shrimp_and_Cassava_Sauce_(Bob%C3%B3_de_Camarao)"
+      }
+    },
+    {
+      "id": "churrasco",
+      "name": "Churrasco",
+      "videoSearch": "https://www.youtube.com/results?search_query=Churrasco%20recipe",
+      "description": "Churrasco is the Portuguese and Spanish name for grilled beef prominent in South American and Iberian cuisines, and in particular in Brazil, Bolivia, Paraguay, Chile, Uruguay, and Argentina. The term is also used in other Spanish- and Portuguese-speaking countries for a variety of different meat products.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Churrasco00003.jpg/500px-Churrasco00003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Churrasco"
+    },
+    {
+      "id": "vatapa",
+      "name": "Vatapá",
+      "videoSearch": "https://www.youtube.com/results?search_query=Vatap%C3%A1%20recipe",
+      "description": "Vatapá (Yoruba: Ẹ̀bà Tápà), [vɐtɐˈpa] is an Afro-Brazilian dish made from bread, shrimp, coconut milk, finely ground peanuts and palm oil mashed into a creamy paste. It is a typical food of Salvador, Bahia, and it is also common to the North and Northeast regions of Brazil.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Vatap%C3%A1.jpg/500px-Vatap%C3%A1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vatap%C3%A1"
+    },
+    {
+      "id": "quindim",
+      "name": "Quindim",
+      "videoSearch": "https://www.youtube.com/results?search_query=Quindim%20recipe",
+      "description": "Quindim is a popular Brazilian baked dessert of Portuguese heritage, made chiefly from sugar, egg yolks and ground coconut. It is a custard and usually presented as an upturned cup with a glistening surface and intensely yellow color.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Quindim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Quindim"
+    },
+    {
+      "id": "beijinho",
+      "name": "Beijinho",
+      "videoSearch": "https://www.youtube.com/results?search_query=Beijinho%20recipe",
+      "description": "Beijinho, also known as branquinho (\"little white one\"), is a typical Brazilian birthday party candy prepared with condensed milk, grated desiccated coconut, rolled over caster sugar or grated coconut and frequently topped with a clove. Beijinho is the coconut version of the Brazilian brigadeiro.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Beijinho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Beijinho"
+    },
+    {
+      "id": "pamonha",
+      "name": "Pamonha",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pamonha%20recipe",
+      "description": "Pamonha is a traditional Brazilian food. It is a boiled paste made from sweet corn whisked in coconut milk, typically served wrapped in corn husks.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Pamonhas.jpg/500px-Pamonhas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pamonha"
+    },
+    {
+      "id": "arroz-carreteiro",
+      "name": "Arroz carreteiro",
+      "videoSearch": "https://www.youtube.com/results?search_query=Arroz%20carreteiro%20recipe",
+      "description": "Arroz carreteiro (\"wagoner's rice\", in Portuguese) or carreteiro rice is a dish from the Brazilian state of Rio Grande do Sul which has become popular throughout Brazil. It is made of a rice base to which shredded or cubed beef is added as well as carne-seca or carne-de-sol, paio, bacon or linguiça, a type of sausage.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Arroz_carreteiro.jpg/500px-Arroz_carreteiro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Arroz_carreteiro"
+    },
+    {
+      "id": "caruru",
+      "name": "Caruru",
+      "videoSearch": "https://www.youtube.com/results?search_query=Caruru%20recipe",
+      "description": "Caruru is a Brazilian food made from okra, onion, shrimp, palm oil and toasted nuts (peanuts and/or cashews).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Foto_de_gomba_man%C4%9Da%C4%B5o_Karuruo_%28cropped%29.jpg/500px-Foto_de_gomba_man%C4%9Da%C4%B5o_Karuruo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Caruru_(food)"
+    },
+    {
+      "id": "tacaca",
+      "name": "Tacacá",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tacac%C3%A1%20recipe",
+      "description": "Tacacá is a typical dish of northern Brazil, mostly consumed in Pará, Amazonas, Acre, Amapá and Roraima. It is made with jambu (a native variety of paracress), tucupi (a broth made with wild manioc), goma de tapioca cooked tapioca gum (also manioc-based), and dried shrimp.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Tacac%C3%A1_servido_na_loja_Tacac%C3%A1_do_Norte_em_2016-12-15.jpg/500px-Tacac%C3%A1_servido_na_loja_Tacac%C3%A1_do_Norte_em_2016-12-15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tacac%C3%A1"
+    },
+    {
+      "id": "pato-no-tucupi",
+      "name": "Pato no tucupi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pato%20no%20tucupi%20recipe",
+      "description": "Pato no tucupi (duck in tucupi sauce) is a traditional Brazilian dish found mostly in the area around the city of Belém in the state of Pará state. The dish consists of a boiled duck (pato in Portuguese) in tucupi.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/BrunaBrandao_Pato_no_Tucupi_Belem_PA_%2826185651117%29.jpg/500px-BrunaBrandao_Pato_no_Tucupi_Belem_PA_%2826185651117%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pato_no_tucupi"
+    },
+    {
+      "id": "escondidinho",
+      "name": "Escondidinho",
+      "videoSearch": "https://www.youtube.com/results?search_query=Escondidinho%20recipe",
+      "description": "Escondidinho (from Portuguese: escondido, literally \"hidden\", plus a diminutive suffix) is a Northeastern Brazilian dish made with carne-de-sol or shredded chicken and topped with a layer of manioc purée. The dish often includes cheese and chicken; cod is sometimes used instead of beef.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Escondidinho_de_carne_seca.jpg/500px-Escondidinho_de_carne_seca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Escondidinho"
+    },
+    {
+      "id": "baiao-de-dois",
+      "name": "Baião de dois",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bai%C3%A3o%20de%20dois%20recipe",
+      "description": "Baião de dois is a dish originating from the Brazilian state of Ceará, typical of the Northeast Region and parts of the North Region, such as Rondônia, Acre, Amazonas and Pará. It consists of a preparation of rice and beans, preferably Brazilian beans such as \"feijão verde\" or \"feijão novo\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bai%C3%A3o_de_dois.jpg/500px-Bai%C3%A3o_de_dois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bai%C3%A3o_de_dois"
+    },
+    {
+      "id": "canjica",
+      "name": "Canjica",
+      "videoSearch": "https://www.youtube.com/results?search_query=Canjica%20recipe",
+      "description": "Canjica is a white variety of corn typical of Brazilian cuisine. It is mostly used in a special kind of sweet popcorn and in a sweet dish also named \"canjica\", a popular Festa Junina dish.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Dry_canjica_kernels.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Canjica"
+    },
+    {
+      "id": "acai-na-tigela",
+      "name": "Açaí na tigela",
+      "videoSearch": "https://www.youtube.com/results?search_query=A%C3%A7a%C3%AD%20na%20tigela%20recipe",
+      "description": "An açai bowl (açaí na tigela, lit. 'Açaí in the bowl') is a sweet Brazilian snack food from Pará and Amazonas. It is a dish made with the frozen and mashed fruit of the açaí palm, described as having an \"earthy\" or creamy taste.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/A%C3%A7a%C3%AD_do_Par%C3%A1.jpg/500px-A%C3%A7a%C3%AD_do_Par%C3%A1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/A%C3%A7ai_bowl"
+    }
+  ]
+}

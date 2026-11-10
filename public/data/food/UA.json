@@ -1,0 +1,231 @@
+{
+  "country": "UA",
+  "dishes": [
+    {
+      "id": "borscht",
+      "name": "Borscht",
+      "localName": "Борщ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Borscht%20recipe",
+      "description": "Borscht (English: ) is a sour soup, made with meat stock, vegetables and seasonings, common in Eastern Europe, Central Europe and Northern Asia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Borscht_served.jpg/500px-Borscht_served.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Borscht",
+      "recipe": {
+        "ingredients": [
+          "½ cup dried beans, soaked in water overnight",
+          "2–3 pounds pork or beef",
+          "3 cups water",
+          "1 large or 2 medium beets, peeled and julienne",
+          "2 tbsp vegetable oil",
+          "1 onion, peeled and diced",
+          "3 carrots, peeled and diced",
+          "Green bell pepper, diced",
+          "Tomatoes, diced",
+          "2 potatoes, cut into thick slices",
+          "Herbs and spices: salt, bay leaf, black pepper, red pepper flakes, thyme",
+          "½ small cabbage, thinly sliced",
+          "3 ounces salted pork fat or bacon",
+          "2 cloves garlic",
+          "2 tbsp chopped dill",
+          "½ cup plain yoghurt",
+          "⅓ cup of tomato paste",
+          "Sour cream"
+        ],
+        "steps": [
+          "Drain the soaked beans and put aside.",
+          "Place the meat in a large pot, and add 3 cups of cold water.",
+          "Bring to a boil slowly and remove scum.",
+          "Add half of the onion and 2 carrots.",
+          "Reduce to a simmer, partially cover the pot, and cook for about 1 hour.",
+          "When done, add the beets and beans, and bring to a boil. Lower the heat, cover, and simmer until the beans are tender.",
+          "In the vegetable oil, sweat half of the onion, carrots, and green pepper over low heat until the onions are yellow.",
+          "Scrape into the pot, and simmer for a few minutes. Scrape in tomatoes, potatoes, and spices, and simmer until the potatoes are tender.",
+          "Add the cabbage and simmer until it has the consistency you like.",
+          "In the meantime, chop the garlic, dill, and pork fat (or bacon) in the food processor, whisking in the yoghurt at the end.",
+          "When the cabbage is the way you like it, add tomato paste and the garlic-dill-fat mixture.",
+          "Return the pot to a simmer, then cover the pot, turn the heat off, and let the flavors mingle for at least 30 minutes.",
+          "When ready to serve, ladle into bowls and top the soup with a dollop of sour cream on top."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AUkrainian_Borscht"
+      }
+    },
+    {
+      "id": "varenyky",
+      "name": "Varenyky",
+      "localName": "Вареники",
+      "videoSearch": "https://www.youtube.com/results?search_query=Varenyky%20recipe",
+      "description": "Varenyky (Ukrainian: вареники, sing.: varenyk) are traditional Ukrainian dumplings made from unleavened dough and filled with sweet or savoury ingredients. They are regarded as one of the most emblematic dishes of Ukrainian cuisine and are closely related to other East European dumplings such as Polish pierogi.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Varenyky_with_Potatoes_-_2026_-03.jpg/500px-Varenyky_with_Potatoes_-_2026_-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Varenyky"
+    },
+    {
+      "id": "holubtsi",
+      "name": "Holubtsi",
+      "localName": "Голубці",
+      "videoSearch": "https://www.youtube.com/results?search_query=Holubtsi%20recipe",
+      "description": "A cabbage roll is a dish consisting of cooked cabbage leaves wrapped around a variety of fillings. It is common to the cuisines of Central, Eastern and Southeastern Europe and much of Western Asia, Northern China, and parts of North Africa.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/02022_Hungarian_stuffed_cabbage_rolls_in_pickled_cabbage_leaves_with_veal_and_deer_meat.jpg/500px-02022_Hungarian_stuffed_cabbage_rolls_in_pickled_cabbage_leaves_with_veal_and_deer_meat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cabbage_roll",
+      "recipe": {
+        "ingredients": [
+          "12 cabbage leaves",
+          "½ cup chopped onion",
+          "2 tsp salt",
+          "1 tsp pepper",
+          "½ cup milk",
+          "1 lb (about 500 g) ground beef",
+          "¾ cup cooked rice",
+          "1 egg",
+          "1 can tomato paste",
+          "1 can chopped tomatoes",
+          "½ cup water",
+          "2 Tbsp vinegar",
+          "3 Tbsp sugar",
+          "2 Tbsp cornstarch mixed with ½ cup cold water"
+        ],
+        "steps": [
+          "Preheat oven to 350°F (175°C).",
+          "Put cabbage into pot of boiling water, cover, let sit for three minutes, then drain.",
+          "Combine ground beef, milk, egg, rice, onion, pepper, and salt. Divide into twelve portions.",
+          "Place 1 meat portion on each cabbage leaf.",
+          "Roll leaf around filling and fasten with toothpick.",
+          "Place the rolls in a baking dish.",
+          "Combine tomato paste, tomatoes, sugar, water, and vinegar, then pour over cabbage rolls.",
+          "Cover baking dish, and bake at 350°F (175C) for 40 minutes.",
+          "Remove cabbage rolls from pan, and take out toothpicks. Place on the serving dish",
+          "Add cornstarch and water to sauce mixture and stir together. Warm, if needed, to allow the cornstarch mixture to thicken the sauce.",
+          "Pour the completed sauce over the rolls on the serving dish.",
+          "Garnish as desired and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACabbage_Rolls_in_Tomato_Sauce_(Holubtsi)"
+      }
+    },
+    {
+      "id": "salo",
+      "name": "Salo",
+      "localName": "Сало",
+      "videoSearch": "https://www.youtube.com/results?search_query=Salo%20recipe",
+      "description": "Salo or slanina is a European food consisting of salt-cured slabs of pork subcutaneous fat with or without skin and with or without layers of meat. It is commonly eaten and known under different names across Central, Eastern and Southeastern Europe. It is usually dry salt or brine cured.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Sa%C5%82o.JPG/500px-Sa%C5%82o.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Salo_(food)"
+    },
+    {
+      "id": "chicken-kiev",
+      "name": "Chicken Kiev",
+      "localName": "Котлета по-київськи",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chicken%20Kiev%20recipe",
+      "description": "Chicken Kiev, also known as chicken Kyiv, is a dish made of chicken fillet pounded and rolled around cold butter, then coated with egg and bread crumbs, and either fried or baked. Since fillets are often referred to as suprêmes in professional cookery, the dish is also called \"suprême de volaille à la Kiev\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Chicken_Kiev_-_Ukrainian_East_Village_restaurant.jpg/500px-Chicken_Kiev_-_Ukrainian_East_Village_restaurant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chicken_Kiev"
+    },
+    {
+      "id": "deruny",
+      "name": "Deruny",
+      "localName": "Деруни",
+      "videoSearch": "https://www.youtube.com/results?search_query=Deruny%20recipe",
+      "description": "Potato pancakes are shallow-fried pancakes consisting of grated or ground potato, matzo meal or flour and typically a binding ingredient such as egg or corn starch, often flavored with grated garlic or onion and seasonings.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Latkas.jpg/500px-Latkas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Potato_pancake"
+    },
+    {
+      "id": "pampushky",
+      "name": "Pampushky",
+      "localName": "Пампушки",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pampushky%20recipe",
+      "description": "Pampushka is a small savory or sweet yeast-raised bun or doughnut typical for Ukrainian cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Pampushky-plain.jpg/500px-Pampushky-plain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pampushka"
+    },
+    {
+      "id": "syrnyky",
+      "name": "Syrnyky",
+      "localName": "Сирники",
+      "videoSearch": "https://www.youtube.com/results?search_query=Syrnyky%20recipe",
+      "description": "Syrniki (Belarusian: сырнікі; Russian: сырники; Ukrainian: сирники) are fried Eastern Slavic quark (curd cheese) pancakes. They are a part of Belarusian, Russian, Ukrainian, Latvian (biezpiena plācenīši) and Lithuanian (varškėčiai) cuisines. In Russia, they are also known as tvorozhniki (творо́жники).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Syrniki6.jpg/500px-Syrniki6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Syrniki"
+    },
+    {
+      "id": "kutia",
+      "name": "Kutia",
+      "localName": "Кутя",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kutia%20recipe",
+      "description": "Kutia or kutya is a ceremonial grain dish in syrup traditionally served predominantly in Belarusian, Lithuanian, Polish, and Ukrainian cuisines, but also in parts of Russia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Kutya.jpg/500px-Kutya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kutia"
+    },
+    {
+      "id": "banosh",
+      "name": "Banosh",
+      "localName": "Банош",
+      "videoSearch": "https://www.youtube.com/results?search_query=Banosh%20recipe",
+      "description": "Banush or banosh (Ukrainian: бануш, банош; Polish: banusz; Romanian: bălmuș) is a Ukrainian dish prepared from cornmeal with added smetana (sour cream), topped with pork rind, mushrooms, and bryndza. The dish is considered to be a part of Ukrainian cuisine, in particularly Hutsul.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Banusz_%28banosz%29_w_restauracji-piwowarni_%22Kumpel%22_we_Lwowie.jpg/500px-Banusz_%28banosz%29_w_restauracji-piwowarni_%22Kumpel%22_we_Lwowie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Banosh"
+    },
+    {
+      "id": "kyiv-cake",
+      "name": "Kyiv cake",
+      "localName": "Київський торт",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kyiv%20cake%20recipe",
+      "description": "The Kyiv cake is a dessert cake produced in Kyiv, Ukraine since 6 December 1956 by the Karl Marx Confectionery Factory, now a subsidiary of the Roshen Confectionery Corporation.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Kiev_cake_slice.JPG/500px-Kiev_cake_slice.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kyiv_cake"
+    },
+    {
+      "id": "kapusniak",
+      "name": "Kapusniak",
+      "localName": "Капусняк",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kapusniak%20recipe",
+      "description": "Cabbage soup may refer to any of the variety of soups based on various cabbages, or on sauerkraut and known under different names in national cuisines. Often it is a vegetable soup, with lentils, peas or beans in place of the meat. It may be prepared with different ingredients.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Kapusniak.jpg/500px-Kapusniak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cabbage_soup",
+      "recipe": {
+        "ingredients": [
+          "Olive oil",
+          "2 medium-size onions, peeled and chopped",
+          "2–5 cloves of garlic, peeled and minced",
+          "1 litre or more chicken broth",
+          "1–2 potatoes, peeled and cut into bite-sized pieces",
+          "4–6 carrots, peeled and cut into bite-sized pieces",
+          "4–5 sticks of celery, sliced into bite-sized pieces",
+          "Pickling spices",
+          "Sage",
+          "Thyme",
+          "Oregano",
+          "Bay leaves,",
+          "Rosemary",
+          "Salt",
+          "Pepper",
+          "Worcestershire sauce",
+          "Soy sauce",
+          "Seasoning salt",
+          "Garlic salt",
+          "Celery salt",
+          "1 large can of diced tomatoes",
+          "1 head of cabbage, sliced",
+          "Fresh dill, chopped",
+          "Sour cream or yoghurt"
+        ],
+        "steps": [
+          "In a large cooking pot heat about 3–4 tablespoons of olive oil. Add the onions and garlic, along with more olive oil if necessary. Let the onions and garlic cook over medium or low heat for 8–10 minutes.",
+          "Add the chicken broth, and bring to a boil.",
+          "Add the potatoes, carrots, celery, and spices; bring to a boil, and simmer over medium heat until vegetables are almost tender enough to eat. If the soup becomes too thick, add some more chicken broth, but it should be a hearty soup with plenty of vegetables.",
+          "Season with salt, pepper, Worcestershire sauce, soy sauce, seasoning salt, garlic salt, and or celery salt as desired.",
+          "Add the can of tomatoes and the shredded cabbage. Again, let the soup simmer over medium heat; continue tasting to see whether your imagination has worked magic.",
+          "Lastly, add the chopped fresh dill.",
+          "When it’s done, serve garnished with sour cream."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AUkrainian_Cabbage_Soup_(Kapusniak)"
+      }
+    },
+    {
+      "id": "paska",
+      "name": "Paska",
+      "localName": "Паска",
+      "videoSearch": "https://www.youtube.com/results?search_query=Paska%20recipe",
+      "description": "Paska is a traditional Ukrainian Easter bread particularly spread in Central and Eastern European countries with cultural connections to the ancient Byzantine Empire, Eastern Orthodoxy or Eastern Catholicism.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Martiniouk_Paska.JPG/500px-Martiniouk_Paska.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paska_(bread)"
+    }
+  ]
+}

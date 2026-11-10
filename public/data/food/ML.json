@@ -1,0 +1,106 @@
+{
+  "country": "ML",
+  "dishes": [
+    {
+      "id": "tiguadege-na",
+      "name": "Tiguadèguèna (peanut stew)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tiguad%C3%A8gu%C3%A8na%20(peanut%20stew)%20recipe",
+      "description": "Peanut stew or groundnut stew, also known as maafe (Wolof mafé, maffé, maffe), and pate d'arachide (French), is a staple food stew in Western Africa.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mafe.malien.jpg/500px-Mafe.malien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peanut_stew",
+      "recipe": {
+        "ingredients": [
+          "4 tablespoons vegetable oil",
+          "2 onions, neatly minced",
+          "3 garlic cloves, neatly minced",
+          "1½ teaspoons grated ginger",
+          "2 cups crushed tomatoes",
+          "4 chicken flavour bouillon cubes, crumbled",
+          "1 cup peanut butter",
+          "4 African eggplants, peeled and chopped",
+          "2 sweet potatoes, peeled and chopped",
+          "1 medium size green cabbage, washed and chopped",
+          "4 medium size carrots, washed and diced",
+          "3 medium size turnips, washed and chopped",
+          "2 medium size habanero chile peppers",
+          "15 medium size okra, washed, trimmed, and chopped",
+          "Salt to taste",
+          "Black pepper to taste",
+          "Chopped peanuts (optional)"
+        ],
+        "steps": [
+          "In a large pot, heat the oil over medium heat.",
+          "Add the onions, garlic, grated ginger. Cook, stirring, for about 5 minutes until the onions become translucent.",
+          "Add the tomato paste, bouillon cubes, and 6 cups (about 1.5 litres) hot water. Simmer over low heat for 10 minutes.",
+          "Stir in the peanut butter until fully incorporated. Add the eggplant, sweet potatoes, green cabbage, carrots, turnips, and habanero, then stir carefully to avoid fully crushing the habanero.",
+          "Cover and cook for about an hour over low heat until thickened.",
+          "Stir in the okra, then season with salt and black pepper to your desired taste. Cook for about 30 minutes until the vegetables become soft.",
+          "Remove the chilli pepper and sprinkle it with peanut butter if you will like and if not leave it like that.",
+          "Serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMaff%C3%A9_(West_African_Peanut_Stew)_II"
+      }
+    },
+    {
+      "id": "to",
+      "name": "Tô",
+      "videoSearch": "https://www.youtube.com/results?search_query=T%C3%B4%20recipe",
+      "description": "Tô or To is a Vietnamese surname. It was formerly written in chữ Hán as 蘇. It derived from the Chinese surname Su, but is written as 苏 in modern simplified characters.",
+      "wikipedia": "https://en.wikipedia.org/wiki/T%C3%B4"
+    },
+    {
+      "id": "fakoye",
+      "name": "Fakoye",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fakoye%20recipe",
+      "description": "Fakou, also known as Fakou Foye or Fakoye, is a traditional soup of the Songhai and Tuareg people in Niger and Northern Mali. This dark green, slightly thick soup is made from jute leaves scientifically known as Corchorus olitorius, commonly referred to as Mulukhiyah in North Africa and Ayoyo in Ghana.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fakou"
+    },
+    {
+      "id": "jollof-rice",
+      "name": "Jollof rice (zamè)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jollof%20rice%20(zam%C3%A8)%20recipe",
+      "description": "Jollof (), or jollof rice, is a rice dish from Senegal, West Africa. It is typically made with long-grain rice, tomatoes, chilis, onions, spices, and sometimes other vegetables and/or meat in a single pot, although its ingredients and preparation methods vary across different regions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Jollof_Rice_with_Stew.jpg/500px-Jollof_Rice_with_Stew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "id": "riz-gras",
+      "name": "Riz gras",
+      "videoSearch": "https://www.youtube.com/results?search_query=Riz%20gras%20recipe",
+      "description": "Riz gras or riz au gras is a rice-based dish in Beninese, Burkinabé, Guinean, Ivorian, and Togolese cuisines, in West Africa. It is also prepared in other African countries, such as Senegal, where it is called tiebou djen and is prepared with significant amounts of fish and meat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Plat_de_riz_au_gras_plus_viande.jpg/500px-Plat_de_riz_au_gras_plus_viande.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Riz_gras"
+    },
+    {
+      "id": "degue",
+      "name": "Dégué",
+      "videoSearch": "https://www.youtube.com/results?search_query=D%C3%A9gu%C3%A9%20recipe",
+      "description": "Thiakry (also spelled thiacry or chakery, from Wolof: cakri), bodé in Fulani or dèguè in Bambara is a sweet millet couscous dish consumed in West Africa. Its first recipe dates from the era of the Fulani people in present day northern Senegal who are traditionally herdsmen, and spread throughout West Africa.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Gambia_Chakery_0001.jpg/500px-Gambia_Chakery_0001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chakery"
+    },
+    {
+      "id": "gnamakoudji",
+      "name": "Gnamakoudji (ginger juice)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gnamakoudji%20(ginger%20juice)%20recipe",
+      "description": "Gnamakoudji, or gnamakou, is a beverage in West African cuisine. Its main ingredient is ginger juice strained through cheesecloth; it is often made with pineapple juice, sugar, vanilla, lemon, or mint. Originating in Ivory Coast, it is also frequently consumed in Benin, Burkina Faso, Mali, and Senegal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Jus_de_gingembre-2025.jpg/500px-Jus_de_gingembre-2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gnamakoudji"
+    },
+    {
+      "id": "ngome",
+      "name": "Ngomi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ngomi%20recipe",
+      "description": "Ngome is a flatbread made in Mali using only millet, water and vegetable oil. The millet is typically home-ground and coarse.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ngome_(bread)"
+    },
+    {
+      "id": "taguella",
+      "name": "Taguella",
+      "videoSearch": "https://www.youtube.com/results?search_query=Taguella%20recipe",
+      "description": "Taguella (tagǝlla) is a flatbread, the staple dish of Tuareg people living in the Sahara. It is a disk-shaped bread made from wheat flour and cooked buried underneath the hot sand and charcoal of a small fire. The bread is then broken up into small pieces and eaten with a meat sauce.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Pain_%28taguella%29_%C3%A0_El_Ghessour%2C_Alg%C3%A9rie%2C_19_novembre_2009.jpg/500px-Pain_%28taguella%29_%C3%A0_El_Ghessour%2C_Alg%C3%A9rie%2C_19_novembre_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Taguella"
+    }
+  ]
+}

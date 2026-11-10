@@ -1,0 +1,231 @@
+{
+  "country": "CA",
+  "dishes": [
+    {
+      "id": "poutine",
+      "name": "Poutine",
+      "videoSearch": "https://www.youtube.com/results?search_query=Poutine%20recipe",
+      "description": "Poutine is a dish of French fries and cheese curds topped with a hot brown beef and chicken stock gravy. It emerged in the Centre-du-Québec region of Quebec in 1959, though its exact origins are uncertain, and there are several competing claims regarding its origin.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Food_at_WIkimanian_2017_02.jpg/500px-Food_at_WIkimanian_2017_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Poutine",
+      "recipe": {
+        "ingredients": [
+          "1 L vegetable oil for deep frying",
+          "1 can (290 g) of poutine sauce (French: mélange à sauce poutine) or gravy",
+          "5 medium potatoes",
+          "2 cups fresh cheddar cheese curds or mozzarella"
+        ],
+        "steps": [
+          "Slice potatoes into finger-width fries and rinse them well to remove any dirt.",
+          "Begin warming gravy, keep the temperature low enough for a slow heating.",
+          "Heat oil to 185°C (365°F).",
+          "Cook sliced potatoes in the oil for about 5 minutes.",
+          "Following a first frying to cook the potatoes, they are often removed and then fried again for about 1 minute to crisp the outside.",
+          "Remove the fries from the oil; optionally place them on a paper towel mat to absorb excess oil.",
+          "Move the fries to a serving dish and put room-temperature cheese curds over the fries.",
+          "Pour the gravy over the top; the dish should be served before the cheese curds start to melt."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APoutine"
+      }
+    },
+    {
+      "id": "butter-tart",
+      "name": "Butter tart",
+      "videoSearch": "https://www.youtube.com/results?search_query=Butter%20tart%20recipe",
+      "description": "A butter tart (French: tarte au beurre) is a type of small pastry tart highly regarded in Canadian cuisine. The sweet tart consists of a filling of butter, brown sugar, maple syrup, and egg, baked in a pastry shell until the filling is semi-solid with a crunchy top.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ButtertartS1360020.jpg/500px-ButtertartS1360020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Butter_tart",
+      "recipe": {
+        "ingredients": [
+          "1 cup shortening",
+          "1 large teaspoon butter or margarine",
+          "¾ cup boiling water",
+          "3 ½ cups pastry flour or 3 cups all-purpose flour",
+          "2 teaspoons baking powder",
+          "¼ teaspoon salt",
+          "2 eggs",
+          "1 ½ cups brown sugar",
+          "½ cup corn syrup",
+          "3 tablespoons butter, melted",
+          "1 cup currants or raisins",
+          "½ cup chopped walnuts",
+          "2 teaspoons vinegar",
+          "1 pinch of salt",
+          "½ teaspoon vanilla extract"
+        ],
+        "steps": [
+          "Beat the shortening, butter, and hot water together until creamy.",
+          "While still warm, sift in the flour, baking powder, and salt. Mix gently until a dough forms. Try not to knead it while forming it into a large ball.",
+          "Separate the dough into two equal portions and chill 20 to 40 minutes.",
+          "Divide the dough into two dozen equal balls. Roll each ball into a flat disc.",
+          "Preheat oven to 350°F (175˚C).",
+          "Beat the eggs well. Add sugar, syrup, and melted butter and beat again.",
+          "Add the currants, walnuts, vinegar, salt, and vanilla extract and mix vigorously.",
+          "Put a small amount of cornmeal into small tartlet pans, or count out 24 cupcake papers.",
+          "Fit the flat circles of pie crust into the pans, or fit them into cupcake papers and insert them into the pans.",
+          "Fill the shells ⅔ full with the prepared filling.",
+          "Bake until the pastry is light brown (about 20 minutes).",
+          "Remove from the oven and let cool."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AButter_Tart"
+      }
+    },
+    {
+      "id": "nanaimo-bar",
+      "name": "Nanaimo bar",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nanaimo%20bar%20recipe",
+      "description": "The Nanaimo bar ( nə-NY-moh) is a bar dessert that requires no baking and is named after the Canadian city of Nanaimo in British Columbia. It consists of three layers: at the bottom, a wafer, nut (walnuts, almonds, or pecans), and coconut crumb base; custard icing in the middle; and a layer of chocolate ganache on top.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nanaimo_bar.JPG/500px-Nanaimo_bar.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nanaimo_bar",
+      "recipe": {
+        "ingredients": [
+          "½ cup unsalted butter (European style cultured)",
+          "¼ cup white granulated sugar",
+          "5 tbsp cocoa",
+          "1 egg beaten",
+          "1¼ cups graham wafer crumbs",
+          "½ cups finely-chopped almonds",
+          "1 cup coconut",
+          "½ cup unsalted butter",
+          "2 tbsp and 2 tsp cream",
+          "2 tbsp vanilla custard powder",
+          "2 cups icing sugar",
+          "4 squares (4 oz) semi-sweet chocolate",
+          "2 tbsp unsalted butter"
+        ],
+        "steps": [
+          "Melt first 3 ingredients in top of double boiler.",
+          "Add egg and stir to cook and thicken.",
+          "Remove from heat. Stir in crumbs, coconut, and nuts.",
+          "Press firmly into an ungreased 8 x 8-inch cake pan.",
+          "Cream butter, cream, custard powder, and icing sugar together well. Beat until light.",
+          "Spread over bottom layer.",
+          "Melt chocolate and butter over low heat. Cool.",
+          "Once cool, but still liquid, pour over second layer and chill in refrigerator.",
+          "Once set, cut into squares and serve. Enjoy."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ANanaimo_Bars_I"
+      }
+    },
+    {
+      "id": "tourtiere",
+      "name": "Tourtière",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tourti%C3%A8re%20recipe",
+      "description": "Tourtière is a French Canadian meat pie dish originating from the province of Quebec, made with minced pork, veal or beef and potatoes. Wild game meat such as bear or venison is sometimes used. It is a traditional part of the Christmas réveillon and New Year's Eve meal in Quebec.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Tourtiere_Fin.jpg/500px-Tourtiere_Fin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tourti%C3%A8re"
+    },
+    {
+      "id": "pate-chinois",
+      "name": "Pâté chinois",
+      "videoSearch": "https://www.youtube.com/results?search_query=P%C3%A2t%C3%A9%20chinois%20recipe",
+      "description": "Pâté chinois is a traditional Quebec dish consisting of three layers baked in the oven: ground beef, corn, and mashed potato, arranged in that order. It is commonly served sprinkled with paprika and accompanied by simple condiments such as pickles or ketchup.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Pat%C3%A9_chinois.png/500px-Pat%C3%A9_chinois.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/P%C3%A2t%C3%A9_chinois",
+      "recipe": {
+        "ingredients": [
+          "8 medium fresh whole white potatoes",
+          "2 lbs ground beef",
+          "1 small yellow or Spanish onion, chopped",
+          "1 small green bell pepper (optional), chopped",
+          "1 can (15 oz) whole kernel corn, drained, or creamed sweet corn with sauce",
+          "2 tbsp butter",
+          "½ cup milk",
+          "Salt",
+          "Pepper"
+        ],
+        "steps": [
+          "Boil potatoes in lightly salted water until soft, drain. Mash potatoes, adding 2 tbsp butter and just enough milk to achieve a spreadable consistency. Set aside.",
+          "Brown ground beef with onions and peppers. Drain fat and put ground beef mixture in bottom of casserole dish.",
+          "Mix creamed corn and whole kernel corn, then spread over beef.",
+          "Spread the mashed potatoes across the top to form a 'crust'. Lightly sprinkle with paprika, and salt/pepper to taste, and make tracks with a fork, if desired.",
+          "Bake uncovered at 400°F until the potatoes are golden brown (approximately 30 minutes).",
+          "Serve hot with a generous portion of sliced chilled pickled beets."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFrench_Canadian_Shepherd's_Pie_(P%C3%A2t%C3%A9_Chinois)"
+      }
+    },
+    {
+      "id": "montreal-style-smoked-meat",
+      "name": "Montreal-style smoked meat",
+      "videoSearch": "https://www.youtube.com/results?search_query=Montreal-style%20smoked%20meat%20recipe",
+      "description": "Montreal-style smoked meat, Montreal smoked meat, or (mainly in Quebec) simply smoked meat (French: viande fumée, lit. 'smoked meat', or sometimes bœuf mariné, 'marinated beef') is a type of kosher-style delicatessen meat product made by salting and curing beef brisket with spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Schwartz_smoked_meat_montreal.JPG/500px-Schwartz_smoked_meat_montreal.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Montreal-style_smoked_meat"
+    },
+    {
+      "id": "montreal-style-bagel",
+      "name": "Montreal-style bagel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Montreal-style%20bagel%20recipe",
+      "description": "The Montreal-style bagel or Montreal bagel (sometimes beigel; Yiddish: בײגל, romanized: beygl; French: Bagel de Montréal) is a distinctive variety of handmade and wood-fired baked bagel.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bagels-Montreal-REAL.jpg/500px-Bagels-Montreal-REAL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Montreal-style_bagel"
+    },
+    {
+      "id": "bannock",
+      "name": "Bannock",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bannock%20recipe",
+      "description": "Bannock, skaan (or scone), Indian bread, alatiq, or frybread is a flatbread produced by the Indigenous peoples of the Americas now found throughout North America, including Inuit in Canada and Alaska, other Alaska Natives, the First Nations of the rest of Canada, the Native Americans in the United States, and the Métis…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Inuit_bannock.JPG/500px-Inuit_bannock.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bannock_(Indigenous_American_food)"
+    },
+    {
+      "id": "sugar-pie",
+      "name": "Sugar pie",
+      "localName": "Tarte au sucre",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sugar%20pie%20recipe",
+      "description": "Tarte au sucre (sugar pie) is a dessert from northern French and Belgian cuisine, which is also popular in Canada. Various type of tarte au sucre are made. Some are a leavened dough topped with beet sugar or brown sugar, while others are made with a shortcrust pastry.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Tarte_au_sucre.jpeg/500px-Tarte_au_sucre.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tarte_au_sucre"
+    },
+    {
+      "id": "peameal-bacon",
+      "name": "Peameal bacon",
+      "videoSearch": "https://www.youtube.com/results?search_query=Peameal%20bacon%20recipe",
+      "description": "Peameal bacon is a wet-cured, unsmoked bacon made from trimmed lean boneless pork loin rolled in cornmeal. It is found mainly in Ontario. Toronto pork packer William Davies, who moved to Canada from England in 1854, is credited with its development.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Flickr_bokchoi-snowpea_4266923676--Roast_peameal_bacon.jpg/500px-Flickr_bokchoi-snowpea_4266923676--Roast_peameal_bacon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peameal_bacon"
+    },
+    {
+      "id": "pouding-chomeur",
+      "name": "Pouding chômeur",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pouding%20ch%C3%B4meur%20recipe",
+      "description": "Pouding chômeur (\"unemployed man's pudding\", often translated idiomatically as \"poor man's pudding\") is a dessert that was created during the early years of the Great Depression in Quebec, Canada. It typically involves a bread pudding covered in a mixture with a syrup, usually maple syrup and cream.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Pouding_Ch%C3%B4meur.png/500px-Pouding_Ch%C3%B4meur.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pouding_ch%C3%B4meur"
+    },
+    {
+      "id": "fish-and-brewis",
+      "name": "Fish and brewis",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fish%20and%20brewis%20recipe",
+      "description": "Fish and brewis (pronounced \"brews\") is a traditional Newfoundland meal consisting of cod and hard bread or hard tack. With the abundance of cod around the coasts of Newfoundland and Labrador it became synonymous with many Newfoundland households as a delicacy to be served as a main meal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/FishAndBrewisWithScrunchions.jpg/500px-FishAndBrewisWithScrunchions.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fish_and_brewis"
+    },
+    {
+      "id": "jiggs-dinner",
+      "name": "Jiggs dinner",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jiggs%20dinner%20recipe",
+      "description": "Jiggs dinner, also called boiled dinner or cooked dinner, is a traditional meal commonly prepared and eaten on Sundays in Newfoundland and other Atlantic provinces.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Jiggs_Dinner.jpg/500px-Jiggs_Dinner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jiggs_dinner"
+    },
+    {
+      "id": "maple-taffy",
+      "name": "Maple taffy",
+      "localName": "Tire d'érable",
+      "videoSearch": "https://www.youtube.com/results?search_query=Maple%20taffy%20recipe",
+      "description": "Maple taffy (sometimes maple toffee in English-speaking Canada, tire d'érable or tire sur la neige in French-speaking Canada; also sugar on snow or candy on the snow or leather aprons in the United States) is a sugar candy made by boiling maple sap past the point where it would form maple syrup, but not so long that it…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Maple_toffee.JPG/500px-Maple_toffee.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maple_taffy"
+    },
+    {
+      "id": "split-pea-soup",
+      "name": "Split pea soup",
+      "videoSearch": "https://www.youtube.com/results?search_query=Split%20pea%20soup%20recipe",
+      "description": "Pea soup or split pea soup is soup made typically from dried peas, such as the split pea. It appears in the cuisine of many cultures, with a wide range of variations. It is most often greyish-green or yellow in color depending on the regional variety of peas used; all are cultivars of Pisum sativum.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hernekeitto.jpg/500px-Hernekeitto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pea_soup"
+    }
+  ]
+}

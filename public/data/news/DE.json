@@ -1,0 +1,157 @@
+{
+  "country": "DE",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "tagesschau",
+        "name": "tagesschau",
+        "homepage": "https://www.tagesschau.de",
+        "lang": "de"
+      },
+      "fetchedAt": "2026-10-22T15:10:41.378Z",
+      "items": [
+        {
+          "title": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
+          "summary": "Trotz aktueller Krisen kann der Bund im kommenden Jahr mit mehr Steuereinnahmen rechnen als zunächst erwartet. Dennoch rechnet Finanzminister Klingbeil nicht mit mehr Spielräumen für den Haushalt.",
+          "publishedAt": "2026-10-22T14:11:16.000Z"
+        },
+        {
+          "title": "Ausschluss einiger Länder vom Finanzausgleich - ginge das?",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/extremismusklausel-laenderfinanzausgleich-soeder-100.html",
+          "summary": "Markus Söder will Bundesländer mit \"extremistischer\" Regierungsbeteiligung vom Länderfinanzausgleich ausschließen - und schaut dabei nach Berlin und Sachsen-Anhalt. Aber ginge das überhaupt? Von Frank Aischmann.",
+          "publishedAt": "2026-10-22T13:27:40.000Z"
+        },
+        {
+          "title": "Marktbericht: SAP-Umbau trägt Früchte",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html",
+          "summary": "Europas größter Softwarekonzern setzt beim Umbau ganz auf KI - mit Erfolg, wie die jüngsten Quartalszahlen zeigen. Vor allem im Cloudgeschäft punkten die Walldorfer. Die Börse honoriert das.",
+          "publishedAt": "2026-10-22T12:10:58.000Z"
+        },
+        {
+          "title": "Internationaler Strafgerichtshof erhält Sacharow-Preis",
+          "link": "https://www.tagesschau.de/ausland/europa/sacharow-preis-internationaler-strafgerichtshof-100.html",
+          "summary": "Der Internationale Strafgerichtshof hat den diesjährigen Sacharow-Preis erhalten. Mit der Auszeichnung würdigt das EU-Parlament den Einsatz des Gerichts für das Völkerrecht - und setzt ein Zeichen gegen die Sanktionen…",
+          "publishedAt": "2026-10-22T11:42:57.000Z"
+        },
+        {
+          "title": "Mutmaßlicher russischer Spion in Brandenburg festgenommen",
+          "link": "https://www.tagesschau.de/inland/spionage-ruestungindustrie-festnahme-100.html",
+          "summary": "In Brandenburg hat die Polizei einen mutmaßlichen Spion festgenommen. Er soll im Dienste Russlands Rüstungsfirmen ausgespäht haben. Der Mann selbst soll ein Ukrainer aus russisch besetztem Gebiet sein. Von. M.…",
+          "publishedAt": "2026-10-22T11:32:31.000Z"
+        },
+        {
+          "title": "Was beim neuen Altersvorsorgedepot zu beachten ist",
+          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-100.html",
+          "summary": "Neben der Kapitalrente wird es auch eine neue staatlich geförderte Zusatzrente geben, das Altersvorsorgedepot. Es soll die \"Riester-Rente\" ablösen. Das Versprechen: mehr Aktien, ETFs und Renditechancen. Was es zu…",
+          "publishedAt": "2026-10-22T11:09:07.000Z"
+        },
+        {
+          "title": "SPD will Pflegereform nachbessern",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/spd-pflegereform-104.html",
+          "summary": "Bei der Ministerpräsidentenkonferenz dürfte heute wohl auch über die Pflegereform diskutiert werden. Die SPD will Nachbesserungen - und fordert eine Überarbeitung des Gesetzentwurfs.",
+          "publishedAt": "2026-10-22T10:31:09.000Z"
+        },
+        {
+          "title": "Livekultur als Geschäftsmodell - Wem gehören unsere Festivals?",
+          "link": "https://www.tagesschau.de/kultur/wem-gehoeren-festivals-100.html",
+          "summary": "Wacken, Rock am Ring, Hurricane: Hinter vielen der größten Musikfestivals stehen inzwischen internationale Konzerne. Die Konzentration verändert das Geschäft mit Livemusik und setzt unabhängige Veranstalter unter Druck.…",
+          "publishedAt": "2026-10-22T10:03:36.000Z"
+        },
+        {
+          "title": "Schnieder besorgt über mögliche AfD-Beteiligung an Ministerpräsidentenkonferenz",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/schnieder-afd-ministerpraesidentenkonferenz-100.html",
+          "summary": "Die Ministerpräsidentenkonferenz tagt heute - noch ist kein AfD-Regierungschef dabei. Das könnte sich ändern, sollte Siegmund in Sachsen-Anhalt gewählt werden. Der rheinland-pfälzische Ministerpräsident Schnieder warnte…",
+          "publishedAt": "2026-10-22T09:25:10.000Z"
+        },
+        {
+          "title": "Die Kapitalrente - Befreiungsschlag oder Risiko?",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/renten-reform-kapitalrente-100.html",
+          "summary": "Von 2028 an soll die Kapitalrente das deutsche Rentensystem ergänzen: Beiträge werden in Fonds investiert, um die Altersvorsorge zu stärken. Kann die Kapitalrente die großen Hoffnungen erfüllen? Von Frank Aischmann.",
+          "publishedAt": "2026-10-22T09:24:26.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "spiegel",
+        "name": "Der Spiegel",
+        "homepage": "https://www.spiegel.de",
+        "lang": "de"
+      },
+      "fetchedAt": "2026-10-22T15:10:34.300Z",
+      "items": [
+        {
+          "title": "Virginia: US-Senatorin wegen Drogenhandel und Geldwäsche angeklagt",
+          "link": "https://www.spiegel.de/ausland/virginia-us-senatorin-wegen-drogenhandel-und-geldwaesche-angeklagt-a-7db2d0d6-c7fe-454f-a999-7407a65c3745#ref=rss",
+          "summary": "Mit ihrer Familie und Geschäftspartnern soll die demokratische Senatorin von Virginia illegale Mengen Cannabis gekauft und verkauft haben. Der FBI-Chef spricht von einem »kriminellen Marihuana-Imperium«.",
+          "image": "https://cdn.prod.www.spiegel.de/images/cacd1abe-62f7-48e8-91d8-de8f59c07cb1_w520_r2.08_fpx54_fpy55.jpg",
+          "publishedAt": "2026-10-22T14:55:00.000Z"
+        },
+        {
+          "title": "Niger: Europäische Geiseln im Niger freigelassen",
+          "link": "https://www.spiegel.de/ausland/niger-europaeische-geiseln-im-niger-freigelassen-a-5e2bf998-1380-4367-8278-222d3cf99cbb#ref=rss",
+          "summary": "Islamisten im Niger haben zwei europäische Geiseln nach mehr als anderthalb Jahren gehen lassen. Den 76 und 69 Jahre alten Frauen geht es offiziellen Angaben zufolge gut.",
+          "image": "https://cdn.prod.www.spiegel.de/images/45de97c0-e200-4760-87df-a5e52072ac7a_w520_r2.08_fpx63.73_fpy54.99.jpg",
+          "publishedAt": "2026-10-22T14:54:00.000Z"
+        },
+        {
+          "title": "Bahn-Verspätungen wegen maroder Infrastruktur 2026 um 40 Prozent gestiegen",
+          "link": "https://www.spiegel.de/mobilitaet/bahn-verspaetungen-wegen-maroder-infrastruktur-2026-um-40-prozent-gestiegen-a-aabe4344-62e7-496c-8f1f-e6bdf08d9e15#ref=rss",
+          "summary": "Kalter Winter, heißer Sommer: Bahn-Anlagen haben laut dem Chef der Infrastruktursparte DB InfraGo, Philipp Nagl, zuletzt besonders gelitten. Doch er äußert sich auch dazu, wann es besser werden soll.",
+          "image": "https://cdn.prod.www.spiegel.de/images/0ee30df5-de09-46e7-a6db-2676537f8e6e_w520_r2.08_fpx33.35_fpy50.jpg",
+          "publishedAt": "2026-10-22T14:35:00.000Z"
+        },
+        {
+          "title": "Jemen: So leicht können die Huthis ihr Gebiet verteidigen",
+          "link": "https://www.spiegel.de/ausland/jemen-so-leicht-koennen-die-huthis-ihr-gebiet-verteidigen-a-0b06ce68-e385-4ec8-b740-fc8a603fb598#ref=rss",
+          "summary": "Saudi-Arabien schmiedet eine Militärallianz, um die Huthis im Jemen zurückzudrängen. Ägypten erwägt schon die Entsendung von Truppen, aber ein Einsatz am Golf von Aden birgt Risiken.",
+          "image": "https://cdn.prod.www.spiegel.de/images/45d7d358-d6d9-4a79-80c8-fe2abce9dca3_w520_r2.08_fpx56_fpy45.jpg",
+          "publishedAt": "2026-10-22T14:24:00.000Z"
+        },
+        {
+          "title": "Deutsche Bahn: Direktverbindung Berlin – Paris kehrt zurück",
+          "link": "https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck-a-88e90b1b-d5cd-497c-b784-6b2bf100f131#ref=rss",
+          "summary": "Ab Mitte Dezember können Reisende mit dem Zug wieder direkt von Berlin nach Paris fahren. Die Probleme mit dem Zugleitsystem sollen dann behoben sein.",
+          "image": "https://cdn.prod.www.spiegel.de/images/9d1fbdb2-7532-493c-823b-1d5e5ef145d2_w520_r2.08_fpx29.94_fpy45.jpg",
+          "publishedAt": "2026-10-22T14:19:00.000Z"
+        },
+        {
+          "title": "Agrarsubventionen: Wirtschaftsliberaler Kronberger Kreis fordert kompletten Ausstieg aus Hilfen",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/agrarsubventionen-wirtschaftsliberaler-kronberger-kreis-fordert-kompletten-ausstieg-aus-hilfen-a-c460c327-0d43-4d23-ac7e-8cc0e9e076d8#ref=rss",
+          "summary": "Es ist ein radikaler Vorschlag: Prominente Wissenschaftler wie Ifo-Chef Clemens Fuest fordern den kompletten Ausstieg aus Agrarsubventionen. Ernährungssicherheit sei kein Argument.",
+          "image": "https://cdn.prod.www.spiegel.de/images/177ba48c-4479-4fc5-9225-b539de57ba53_w520_r2.08_fpx61.32_fpy49.99.jpg",
+          "publishedAt": "2026-10-22T14:14:00.000Z"
+        },
+        {
+          "title": "U15-Fußball-WM: 1000 Spiele, alle Teams der Welt sind eingeladen – ist das die Zukunft?",
+          "link": "https://www.spiegel.de/sport/fussball/u15-fussball-wm-1000-spiele-alle-teams-der-welt-sind-eingeladen-ist-das-die-zukunft-a-958b5c65-9917-46c6-99dc-d29aae9a2a5d#ref=rss",
+          "summary": "In Aserbaidschan startet die U15-Weltmeisterschaft als XXL‑Veranstaltung. Die Fifa hat alle Nationen eingeladen. Deutschland verzichtet, aber Russland freut sich über diese willkommene Gelegenheit.",
+          "image": "https://cdn.prod.www.spiegel.de/images/eb58c998-af03-4865-a2cf-63e56cc06724_w520_r2.08_fpx49.5_fpy50.jpg",
+          "publishedAt": "2026-10-22T14:12:00.000Z"
+        },
+        {
+          "title": "Künstliche Intelligenz: BSI-Präsidentin Claudia Plattner warnt vor zunehmenden KI-Angriffen",
+          "link": "https://www.spiegel.de/politik/kuenstliche-intelligenz-bsi-praesidentin-claudia-plattner-warnt-vor-zunehmenden-ki-angriffen-a-25d55386-c271-4a12-9523-a5ca7ba73135#ref=rss",
+          "summary": "KI-Anwendungen attackieren Regierungswebsites, hacken sich in Unternehmen ein, verbreiten irreführende Informationen. Claudia Plattner, Präsidentin des Bundesamts für Sicherheit in der Informationstechnik, will die…",
+          "image": "https://cdn.prod.www.spiegel.de/images/471c087e-d5ac-4e73-afb0-a1646467ad4e_w520_r2.08_fpx32.77_fpy50.jpg",
+          "publishedAt": "2026-10-22T14:05:00.000Z"
+        },
+        {
+          "title": "Lkw-Sonntagsfahrverbot bleibt bis kurz vor Weihnachten ausgesetzt",
+          "link": "https://www.spiegel.de/wirtschaft/lkw-sonntagsfahrverbot-bleibt-bis-kurz-vor-weihnachten-ausgesetzt-a-4fb87e12-5e5f-419c-ab87-d48efea5c00e#ref=rss",
+          "summary": "Die Pegelstände vieler Flüsse sind viel zu niedrig, deshalb dürfen Lkw derzeit auch sonntags fahren. Und das soll bis 20. Dezember so bleiben. Verkehrsminister Bilger bezeichnete die Maßnahme als »notwendig«.",
+          "image": "https://cdn.prod.www.spiegel.de/images/01627c01-72ee-4774-910e-0753606b03e3_w520_r2.08_fpx32.23_fpy50.jpg",
+          "publishedAt": "2026-10-22T13:52:00.000Z"
+        },
+        {
+          "title": "Drogeriemarkt: Erwin Müller denkt mit 94 nicht an Ruhestand",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/drogeriemarkt-erwin-mueller-denkt-mit-94-nicht-an-ruhestand-a-1f925cde-eb66-4acf-8fe8-e4824a70fca9#ref=rss",
+          "summary": "Nur wenige Gründer führen in seinem Alter noch ihre Unternehmen: Erwin Müller, Chef der gleichnamigen Drogeriemarktkette, bleibt auch nach seinem 94. Geburtstag Geschäftsführer. Er holt sich allerdings erstmals…",
+          "image": "https://cdn.prod.www.spiegel.de/images/00bfee48-acd1-4911-856e-c28470d5e18b_w520_r2.08_fpx45_fpy54.jpg",
+          "publishedAt": "2026-10-22T13:44:00.000Z"
+        }
+      ]
+    }
+  ]
+}

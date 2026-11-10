@@ -1,0 +1,128 @@
+{
+  "country": "HR",
+  "dishes": [
+    {
+      "id": "peka",
+      "name": "Peka",
+      "videoSearch": "https://www.youtube.com/results?search_query=Peka%20recipe",
+      "description": "A sač (Cyrillic: Сач; Croatian: peka) is a large metal or ceramic lid like a shallow bell with which bread dough or various dishes to be baked are covered, and over which ashes and live coals are placed. Dishes prepared in a sač are evenly cooked, retain their juiciness, and are praised for their rich flavour.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Carp_cooked_in_a_sa%C4%8D.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sa%C4%8D"
+    },
+    {
+      "id": "pasticada",
+      "name": "Pašticada",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pa%C5%A1ticada%20recipe",
+      "description": "Pašticada is a braised beef dish cooked in a fragrant sweet and sour sauce, popular in Croatia. It is often called Dalmatinska pašticada because it originates in Dalmatia, where it is served at festivities and gatherings. The meal requires long and meticulous preparation.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Pa%C5%A1ticada_-_Dalmatinska_pa%C5%A1ticada.jpg/500px-Pa%C5%A1ticada_-_Dalmatinska_pa%C5%A1ticada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pa%C5%A1ticada"
+    },
+    {
+      "id": "zagorski-strukli",
+      "name": "Zagorski štrukli",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zagorski%20%C5%A1trukli%20recipe",
+      "description": "Zagorski štrukli or štruklji is a popular traditional Croatian dish served in households across Hrvatsko Zagorje and Zagreb regions in the north of the country, composed of dough and various types of filling which can be either boiled or baked. It is closely related to štruklji, a traditional Slovene dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/%C5%A0trukli_iz_Okrugljaka.jpg/500px-%C5%A0trukli_iz_Okrugljaka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zagorski_%C5%A1trukli"
+    },
+    {
+      "id": "fritule",
+      "name": "Fritule",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fritule%20recipe",
+      "description": "Frittella (pl.: frittelle) is a type of Italian fried doughnut made from dough, typically with raisins, orange peels, or lemon peel in them. They are eaten in and around the Friuli-Venezia Giulia and Veneto regions; however, frittelle originated around the Giuliani areas of Trieste and Venice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Carnival_Frittelle_%28250677305%29.jpeg/500px-Carnival_Frittelle_%28250677305%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frittella_(doughnut)"
+    },
+    {
+      "id": "brudet",
+      "name": "Brudet",
+      "videoSearch": "https://www.youtube.com/results?search_query=Brudet%20recipe",
+      "description": "Brudet or brodet is a fish stew made in the Croatian regions of Dalmatia, Kvarner, and Istria, as well as along the coast of Montenegro.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Brodet.JPG/500px-Brodet.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Brudet"
+    },
+    {
+      "id": "soparnik",
+      "name": "Soparnik",
+      "videoSearch": "https://www.youtube.com/results?search_query=Soparnik%20recipe",
+      "description": "Soparnik is a traditional Croatian dish. It is usually a savoury pie with a filling of Swiss chard and onion. Other names are soparnjak, zeljanik or uljenjak.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Soparnik.jpg/500px-Soparnik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Soparnik"
+    },
+    {
+      "id": "pag-cheese",
+      "name": "Pag cheese",
+      "localName": "Paški sir",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pag%20cheese%20recipe",
+      "description": "Pag cheese or Pag Island cheese is a Croatian variety of hard, distinctively flavored sheep milk cheese originating from the Adriatic island of Pag.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Pa%C5%A1ki_sir.JPG/500px-Pa%C5%A1ki_sir.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pag_cheese"
+    },
+    {
+      "id": "kulen",
+      "name": "Kulen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kulen%20recipe",
+      "description": "Kulen is a type of flavored sausage made of minced pork that is traditionally produced in Croatia (Slavonia) and Serbia (Vojvodina).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Kulin_%28serviran%29.jpg/500px-Kulin_%28serviran%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kulen"
+    },
+    {
+      "id": "mlinci",
+      "name": "Mlinci",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mlinci%20recipe",
+      "description": "Mlinci is a Slovenian, Serbian and Croatian dish. It is a thin dried flatbread that is prepared by pouring boiled salted water or soup over the mlinci. To prepare homemade mlinci, a dough is made of flour, salt, and water, sometimes also with eggs and fat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Mlinci.jpg/500px-Mlinci.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mlinci"
+    },
+    {
+      "id": "fuzi",
+      "name": "Fuži",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fu%C5%BEi%20recipe",
+      "description": "Fusi (also Fuži in Croatian) is a traditional pasta of Istria region, in Croatia and Slovenia. The pasta dough is rolled out into a thin sheet, cut into strips three to four centimetres wide, and placed over each other. The strips are then cut diagonally, producing diamond shapes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Istrski_fu%C5%BEi_02.jpg/500px-Istrski_fu%C5%BEi_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fusi_(pasta)"
+    },
+    {
+      "id": "arambasici",
+      "name": "Arambašići",
+      "videoSearch": "https://www.youtube.com/results?search_query=Aramba%C5%A1i%C4%87i%20recipe",
+      "recipe": {
+        "ingredients": [
+          "600 g beef (best from the neck), finely chopped",
+          "150 g smoked ham or bacon, finely chopped",
+          "50–60 g suet from ox kidneys, finely chopped",
+          "200 g pork, finely chopped",
+          "Mutton (optional), finely chopped",
+          "2 large onions, chopped",
+          "Some garlic",
+          "Cloves",
+          "Grated lemon rind",
+          "Salt",
+          "Pepper",
+          "Some ground cinnamon",
+          "2–3 cloves, crushed",
+          "1 grind nutmeg",
+          "1 head of whole pickled cabbage (sauerkraut) or fresh white of grape leaves",
+          "Smoked pork",
+          "Smoked ham or tongue",
+          "Broth or water"
+        ],
+        "steps": [
+          "Combine the beef, ham, suet, pork, and mutton in a bowl.",
+          "Add the chopped onions, garlic cloves, grated lemon rind, salt, pepper, a little cinnamon, crushed cloves, and ground nutmeg.",
+          "Mix all the ingredients well; knead together with your hands, if desired.",
+          "Separate the leaves from the sauerkraut head, setting aside the better ones for stuffing.",
+          "Cut away part of the leaf stalk at the base.",
+          "Add a spoonful of the meat mixture to each kraut leaf.",
+          "Roll the Aramba&#353;ici from the base of each leaf, and fold the ends together well so that they do not fall apart during cooking.",
+          "Put 1 spoonful of grease in a deep stoneware casserole dish.",
+          "Pack and layer the Aramba&#353;ici rolls tightly next to one another in the casserole dish.",
+          "Layer smoked meat between the layers of kraut rolls.",
+          "Pour the broth or water over the Aramba&#353;ici. Cover tightly and cook 3–4 hours over low heat.",
+          "Shake casserole form several times, but do not stir."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AArambasici_(Croatian_Sour_Cabbage_Rolls)"
+      }
+    }
+  ]
+}

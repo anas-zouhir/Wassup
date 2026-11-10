@@ -1,0 +1,419 @@
+{
+  "country": "AT",
+  "dishes": [
+    {
+      "id": "wiener-schnitzel",
+      "name": "Wiener schnitzel",
+      "localName": "Wiener Schnitzel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Wiener%20schnitzel%20recipe",
+      "description": "Wiener schnitzel, sometimes spelled Wienerschnitzel, is a type of schnitzel made of a thin, breaded, pan-fried veal cutlet. It is one of the best known specialities of Viennese cuisine, and one of the national dishes of Austria.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiener-Schnitzel02.jpg/500px-Wiener-Schnitzel02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wiener_schnitzel"
+    },
+    {
+      "id": "tafelspitz",
+      "name": "Tafelspitz",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tafelspitz%20recipe",
+      "description": "Tafelspitz is boiled veal or beef in broth, served with a mix of minced apples and horseradish. It is a classic dish of the Viennese cuisine and popular in all of Austria and the neighboring German state of Bavaria. Franz Joseph I, Emperor of Austria, was a great lover of Tafelspitz.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Tafelspitz.jpg/500px-Tafelspitz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tafelspitz",
+      "recipe": {
+        "ingredients": [
+          "2½ pounds (1200 g) fresh beef brisket, silverside, or sirloin",
+          "3 whole cloves garlic, slightly crushed and peeled",
+          "3 whole green (freeze dried) or white peppercorns",
+          "2 juniper berries (you may substitute with 1 bay leaf)",
+          "3 ea. (4 oz / 110 g) whole medium size carrots, peeled and trimmed",
+          "1 ea. (2 oz / 55 g) small-medium onion, unpeeled, trimmed, and halved",
+          "3 sprigs fresh parsley"
+        ],
+        "steps": [
+          "Fill a 5-quart (700 ml) Dutch oven with water, season it with salt, and bring to a rolling boil over medium heat.",
+          "When the water boils, add meat, garlic, peppercorns, and juniper berries, then cover the pot.",
+          "Bring the water to a boil again and add carrots, onion, and parsley. Cover and let everything simmer for 60 minutes.",
+          "Turn the meat over, add salt, and let everything cook, covered, for 90 additional minutes.",
+          "Switch off the heat, and let the meat steep for 20 minutes.",
+          "Remove the meat from the broth and cut meat across the grain when you serve it.",
+          "Serve tafelspitz with apfelkren (see notes) and your choice of raw and cooked vegetables."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATable_Point_Boiled_Beef_and_Vegetables_(Tafelspitz)"
+      }
+    },
+    {
+      "id": "sachertorte",
+      "name": "Sachertorte",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sachertorte%20recipe",
+      "description": "Sachertorte is a sponge cake that combines chocolate sponge, apricot jam, and a chocolate glaze. It was invented by the Austrian confectioner Franz Sacher in the mid-19th century. The ingredients include butter, chocolate, eggs, flour, and sugar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sachertorte_DSC03027.JPG/500px-Sachertorte_DSC03027.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sachertorte",
+      "recipe": {
+        "ingredients": [
+          "6 eggs, separated",
+          "½ cup (120 ml) white granulated sugar",
+          "1 cup (240 ml) flour",
+          "1 cup (240 ml) confectioner's sugar",
+          "9 tbsp (135 ml) butter",
+          "1 tsp (4 ml) vanilla extract",
+          "4 ½ oz (130 g) dark chocolate"
+        ],
+        "steps": [
+          "Butter a 9 in (22 cm) pan and line bottom with parchment paper. Preheat oven to 325°F (163°C or Gas Mark 3).",
+          "Melt chocolate in microwave, remove, and let cool, while stirring often.",
+          "Beat butter in mixer, then, on low, add confectioners sugar. Return to high, beat for 2 more minutes, beat in egg yolks one at a time, then add chocolate and vanilla.",
+          "Whisk egg whites and granulated sugar together in a bowl. Stir 1 quarter of it into the chocolate mix, then fold in the rest.",
+          "Sift half the flour into mixture, fold in, and repeat with remaining flour.",
+          "Spread evenly in pan, then bake for about 45 minutes.",
+          "Let cool 10 minutes, then remove from pan.",
+          "Glaze and frost cake to your liking."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASachertorte"
+      }
+    },
+    {
+      "id": "apple-strudel",
+      "name": "Apple strudel",
+      "localName": "Apfelstrudel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Apple%20strudel%20recipe",
+      "description": "Apple strudel (German: Apfelstrudel; Czech: štrúdl; Yiddish: שטרודל) is a traditional Viennese strudel, a popular pastry in Austria, Switzerland, Bavaria, the Czech Republic, Slovakia, Northern Italy, Slovenia, Croatia, Bosnia-Herzegovina and other countries in Europe that once belonged to the Austro-Hungarian Empire (…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Strudel.jpg/500px-Strudel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Apple_strudel",
+      "recipe": {
+        "ingredients": [
+          "colspan=\"4\" style=\"text-align: center; background: #f5f5f5;;\" |Dough",
+          "Wheat flour",
+          "200 g",
+          "Lukewarm water (near \"hot\" is better than near \"cold\")",
+          "63 g",
+          "Oil",
+          "20 g",
+          "Salt",
+          "1 pinch",
+          "colspan=\"4\" style=\"text-align: center; background: #f5f5f5;;\" |Filling",
+          "Apples, peeled and sliced",
+          "1.5 kg",
+          "Butter",
+          "40 g",
+          "Breadcrumbs, toasted",
+          "80 g",
+          "Sugar",
+          "100 g",
+          "Cinnamon",
+          "Raisins",
+          "60 g",
+          "Nuts (optional)",
+          "60 g",
+          "Butter, melted",
+          "80 g",
+          "Powdered sugar"
+        ],
+        "steps": [
+          "Combine the flour and salt. Mound the flour on a wooden work surface.",
+          "Make a well in the center of the flour. Add some of the water and oil to the well (be careful not to take too much liquid at once). Mix in a little flour from the edges (be careful not to break the \"wall\" of flour and let the liquid out). Knead mixture until liquid is incorporated.",
+          "Repeat step 2 until all the oil and water are incorporated.",
+          "Knead the dough until it is smooth and does not stick to the hands or the board anymore.",
+          "Flour a slightly warmed bowl (this dough does not like to get cold). Grease the dough with some extra oil so it cannot form a skin. Place the greased dough in the bowl.",
+          "Cover the bowl with a damp dish cloth, but the cloth should not touch the dough. Let dough rest for 30 minutes (prepare the filling in the meantime). The dough should be soft and smooth.",
+          "Flour a very large cloth (e.g. a bedsheet). Put the dough on the sheet and tumble it",
+          "Flour your hands. With the back of your hand facing upwards, place your hands under the dough. Spread your fingers to stretch the dough, and use the other hand to pull the dough towards the edge of the sheet. Repeat this gradually until the dough is as thin as paper. Be careful not to tear the dough with your fingers. Cut the thick edges off and discard.",
+          "Proceed to the filling and assembly stage.",
+          "Scatter the breadcrumbs over ⅔ of the dough. Arrange the apple slices on top of the breadcrumbs. Sprinkle sugar, cinnamon, raisins, and nuts over the apples.",
+          "Brush the remaining ⅓ of the dough with some melted butter.",
+          "Fold the side edges slightly in towards the center. These will be the ends of the strudel once it is rolled up. If you know how to roll a burrito, assembling the strudel is an analogous process.",
+          "Begin to roll up the strudel, starting with the apple section. Use the cloth to help roll the strudel up completely. Again, it is similar to rolling a burrito.",
+          "Transfer the strudel to a baking sheet. Brush the entire rolled-up strudel with some melted butter. Do not neglect the two ends.",
+          "Bake in a preheated 180°C oven for 35 minutes. Brush the strudel with melted butter two or three times during the first 15 minutes of baking to help it brown.",
+          "When browned and cooked through, remove from oven. Cool slightly.",
+          "Slice into individual portions, and serve sprinkled with powdered sugar."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AApple_Strudel"
+      }
+    },
+    {
+      "id": "kaiserschmarrn",
+      "name": "Kaiserschmarrn",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kaiserschmarrn%20recipe",
+      "description": "Kaiserschmarrn or Kaiserschmarren is a lightly sweetened pancake that takes its name from the Austrian emperor Franz Joseph I, who was fond of this fluffy shredded pancake. It is served as a dessert or as a light lunch.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2015_0731_Kaiserschmarrn_Apfelso%C3%9Fe_Edelweissh%C3%BCtte_S%C3%B6lden.jpg/500px-2015_0731_Kaiserschmarrn_Apfelso%C3%9Fe_Edelweissh%C3%BCtte_S%C3%B6lden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kaiserschmarrn",
+      "recipe": {
+        "ingredients": [
+          "3 eggs",
+          "2 cups (500 ml) milk",
+          "1 tbsp sugar",
+          "1 pinch salt",
+          "1 ½ cups (350 grams) flour",
+          "1 tbsp raisins",
+          "2 tbsp (30 grams) butter or margarine",
+          "Icing sugar, for dusting"
+        ],
+        "steps": [
+          "Separate the whites from the yolks.",
+          "Put yolks, milk, sugar and salt in a bowl and whip well.",
+          "Fold in the flour while stirring thoroughly until the mass is pasty.",
+          "Add the raisins to the mixture.",
+          "Whisk the whites until they are stiff and then fold them into the mixture.",
+          "Melt the butter in a frying pan, and add the dough.",
+          "Cook until the pancake gets solid at the bottom.",
+          "Divide the mass into quarters with a wooden spoon or spatula and turn them over. After a little while start scrambling the quarters.",
+          "Keep turning the Kaiserschmarrn until it is done.",
+          "Serve with icing sugar on top."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKaiserschmarrn_(Austrian_Shredded_Pancake)"
+      }
+    },
+    {
+      "id": "germknodel",
+      "name": "Germknödel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Germkn%C3%B6del%20recipe",
+      "description": "Germknödel is a sweet, fluffy, yeast dough dumpling (Knödel), filled with spiced plum jam, topped with a mix of poppy seeds and sugar, and served with melted butter. It is occasionally, even though less traditional, served with vanilla cream sauce instead. It is a culinary specialty of Austria and Bavaria.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/2015_0720_Germkn%C3%B6del_Vanilleso%C3%9Fe_S%C3%B6lden.jpg/500px-2015_0720_Germkn%C3%B6del_Vanilleso%C3%9Fe_S%C3%B6lden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Germkn%C3%B6del",
+      "recipe": {
+        "ingredients": [
+          "2 tbsp active dry yeast",
+          "4 cups all-purpose flour",
+          "1 tsp salt",
+          "⅓ cup white sugar",
+          "⅓ cup softened butter",
+          "1 cup lukewarm milk",
+          "1 egg yolk",
+          "1 egg",
+          "1 package vanilla sugar or 1 tbsp vanilla extract",
+          "1 ¼ cups plum jam",
+          "1 tbsp rum (optional)",
+          "¾ cup ground poppy seeds",
+          "Powdered sugar",
+          "½ cup melted butter",
+          "Vanilla custard sauce"
+        ],
+        "steps": [
+          "Mix the flour, salt, vanilla, eggs, and sugar in a bowl.",
+          "In another bowl, mix the lukewarm milk with the yeast, and stir until all of the yeast has dissolved.",
+          "Pour the liquid mixture into the flour, and knead everything together with the softened butter. If the dough is too sticky, add more flour.",
+          "Cover the dough and leave it to rise for one hour until it has doubled its size.",
+          "Divide the dough into 8 pieces. Pat them flat and round on a board until they are about 4 inches in diameter.",
+          "Fill each of the pieces of dough with a tablespoon of the plum jam, and carefully form round dumplings. Make sure that the seam is completely closed.",
+          "Place the dumplings on a board with a dishtowel covering them, and let them rest for 10 minutes.",
+          "Boil salted water in a large pot.",
+          "Add the dumplings to the pot. Depending on the size of the pot, only add about 4 at a time so they have space to rise.",
+          "Let them simmer for 20 minutes with the lid on. Do not take the lid off, as the dumplings will not rise properly.",
+          "When finished, remove the dumplings, and place them in a bowl.",
+          "Top the dumplings with poppy seeds and powdered sugar. Pour butter or vanilla sauce over the top.",
+          "Serve right away. Enjoy the delicious dumplings!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGermkn%C3%B6del_(Plum_and_Poppy_Seed_Dumpling)"
+      }
+    },
+    {
+      "id": "linzer-torte",
+      "name": "Linzer torte",
+      "localName": "Linzer Torte",
+      "videoSearch": "https://www.youtube.com/results?search_query=Linzer%20torte%20recipe",
+      "description": "The Linzertorte is a traditional Austrian pastry, a form of shortcrust topped with fruit preserves and sliced nuts with a lattice design on top. It is named after the city of Linz, Austria.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Foto.Linzertorte.JPG/500px-Foto.Linzertorte.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Linzertorte"
+    },
+    {
+      "id": "tiroler-grostl",
+      "name": "Tiroler Gröstl",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tiroler%20Gr%C3%B6stl%20recipe",
+      "description": "Grøstl is a cryptographic hash function submitted to the NIST hash function competition by Praveen Gauravaram, Lars Knudsen, Krystian Matusiewicz, Florian Mendel, Christian Rechberger, Martin Schläffer, and Søren S. Thomsen. Grøstl was chosen as one of the five finalists of the competition.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gr%C3%B8stl"
+    },
+    {
+      "id": "marillenknodel",
+      "name": "Marillenknödel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Marillenkn%C3%B6del%20recipe",
+      "description": "Marillenknödel is a dessert common in Austrian (especially Viennese), Czech, and Hungarian cuisines, and across Central Europe.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/FW_Marillenkn%C3%B6dl1.jpg/500px-FW_Marillenkn%C3%B6dl1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marillenkn%C3%B6del",
+      "recipe": {
+        "ingredients": [
+          "1 cup curd cheese (quark/topfen/farmer cheese)",
+          "1 standard egg",
+          "3–4 tablespoons semolina flour",
+          "Salt",
+          "at least 5 tablespoons all-purpose flour",
+          "10 small apricots",
+          "10 cubes of sugar",
+          "5 tablespoons butter (or more if needed)",
+          "2 cups bread crumbs",
+          "5 tablespoons of sugar",
+          "Ground cinnamon",
+          "Powdered sugar"
+        ],
+        "steps": [
+          "Mix the curd with the egg in a wide bowl. Add the semolina and a pinch of salt.",
+          "Wait for about 20 minutes to allow the semolina to soak. Then, mix in as much flour as is necessary to make a smooth dough. In order to form fine dumplings later on, it is very important that the dough is not sticky. Again, wait for about 10 minutes.",
+          "In the meantime, cut the apricots into two halves. Remove the pits and replace them with a sugar cube. Then, put the halves of the apricots together again.",
+          "Pour water and some salt into a big pot, and bring it to a boil.",
+          "Form the dumplings: divide the dough into 10 equal pieces, and mould them into flat, round disks. Flouring your hands will prevent the dough from sticking onto them. Wrap each apricot with one disk of dough, then roll the dumpling between your hands. Make sure that there are no holes in the dough and that the dough sticks to the apricots. Try to form evenly round dumplings. Don’t worry if this does not work out perfectly the first time you prepare dumplings. The breadcrumbs and the sugar, which the dumplings will be covered with later on, will conceal any irregularities.",
+          "Carefully put the dumplings into the boiling water. The water usually ceases to boil for a short while after the dumplings have been placed into the pot. Wait until it boils again, and then reduce heat. Let the dumplings boil slowly until they start rising to the surface of the water. Now cover the pot and wait for about another 4 minutes. The dumplings will gain size during this period.",
+          "In the meantime, heat the butter in a pan and add bread crumbs along with sugar and a bit of cinnamon. Fry the breadcrumbs until they turn light brown.",
+          "Drain the dumplings, then roll them in the toasted bread crumbs until they are covered all over.",
+          "Serve the Marillenknödel together with the remaining bread crumbs, and coat them with much powdered sugar."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAustrian_Apricot_Dumplings_(Marillenkn%C3%B6del)"
+      }
+    },
+    {
+      "id": "palatschinken",
+      "name": "Palatschinken",
+      "videoSearch": "https://www.youtube.com/results?search_query=Palatschinken%20recipe",
+      "description": "Palatschinke (plural Palatschinken) is a thin crêpe-like variety of pancake of Greco-Roman origin. The dessert is common in Central, Eastern and Southeastern Europe.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Pfannkuchen_mit_Zucker.jpg/500px-Pfannkuchen_mit_Zucker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Palatschinke",
+      "recipe": {
+        "ingredients": [
+          "250 ml milk",
+          "150 g flour (wheat or spelt)",
+          "3 eggs",
+          "1 pinch salt",
+          "A few drops rum (optional)",
+          "Mineral water (optional, makes the dough more fluffy)"
+        ],
+        "steps": [
+          "Mix the flour with the milk, stirring thoroughly. Mix in the eggs one-by-one, then stir in the salt and rum. If desired, thin the batter with a bit of mineral water.",
+          "Heat the pan well. Add a drop of oil and rub it over the pan with a kitchen towel.",
+          "Ladle a dipperful of the batter into the pan, tilting the pan so that the batter spreads as evenly as possible over the whole pan. Alternatively, you can accomplish this by using a special wooden tool used to spread crêpes.",
+          "Let cook about 45 seconds to 1 minute until the top of the palatschinke is dry.",
+          "Flip the pancake over, and allow it to brown for about 30 seconds on the other side. Remove from the pan, and set aside.",
+          "Repeat the cooking process until you have used up all the batter."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APalatschinken_(Czech%2FAustrian_Crepes)"
+      }
+    },
+    {
+      "id": "frittatensuppe",
+      "name": "Frittatensuppe",
+      "videoSearch": "https://www.youtube.com/results?search_query=Frittatensuppe%20recipe",
+      "recipe": {
+        "ingredients": [
+          "2.5 liters water",
+          "300 g beef bones",
+          "400 g beef",
+          "1 onion",
+          "Celery",
+          "Carrots",
+          "Leek",
+          "Lovage",
+          "Salt",
+          "Chives, minced",
+          "2 eggs",
+          "400 ml milk",
+          "180 g flour",
+          "Salt",
+          "Butter or oil"
+        ],
+        "steps": [
+          "Wash the beef bones with warm water.",
+          "Put the meat and bones in cold water and heat. Simmer for 1½ hours at low temperature. Skim the foam off the top of the soup from time to time and add more water if necessary.",
+          "Cut the onion in half, and brown it in a pan with no oil. The browned onion gives the soup its dark color.",
+          "Add all the vegetables and a pinch of salt to the broth, and cook for 20 minutes. Strain all solids from the soup.",
+          "Mix the egg, milk, flour, and salt together.",
+          "Heat the butter or oil in a frying pan.",
+          "Pour some of the batter into the hot pan and wait until the pancake has solidified. Flip the pancake and wait for the other side to cook.",
+          "Let it cool and then cut into thin strips.",
+          "Put the pancake strips into the finished broth.",
+          "Serve with chives on top."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFrittaten_Soup"
+      }
+    },
+    {
+      "id": "vanillekipferl",
+      "name": "Vanillekipferl",
+      "videoSearch": "https://www.youtube.com/results?search_query=Vanillekipferl%20recipe",
+      "description": "Vanillekipferl are Austrian, German, Swiss, Czech, Slovak and Hungarian small, crescent-shaped biscuits. They were originally made with walnuts, but almonds or hazelnuts can also be used. They get their typical flavour from a heavy dusting of vanilla sugar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Vanillekipferl-Nahaufnahme.jpg/500px-Vanillekipferl-Nahaufnahme.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vanillekipferl",
+      "recipe": {
+        "ingredients": [
+          "350 g plain flour",
+          "200 g cold unsalted butter",
+          "100 g icing sugar",
+          "100 g finely-ground almonds",
+          "1 egg",
+          "1 packet (8 g) vanilla sugar",
+          "1 pinch salt",
+          "60 g icing sugar",
+          "2 packets (16 g) of vanilla sugar"
+        ],
+        "steps": [
+          "Sift the flour into a bowl.",
+          "Cut the cold butter into slices and mix it with the flour.",
+          "Add icing sugar, salt, vanilla sugar, ground almonds, and egg to the mixture.",
+          "Rinse hands in cold water, and knead the dough on a pastry board. Let the dough rest for half an hour.",
+          "Grease a baking tray, or alternatively use a sheet of baking paper to prevent the kipferl from sticking.",
+          "Preheat the oven to 180°C (350°F/Gas 4 ).",
+          "Form the dough to a cylinder with a diameter of approximately 5 cm, and cut off 0.5 cm thick slices. Roll them between your flat palms to form a sausage shape that is slightly tapered.",
+          "Lay them in crescent shape on the baking tray, and bake them for 8–10 minutes until they are a light golden brown.",
+          "Immediately after baking, dip the Kipferl into a mixture of icing sugar and vanilla sugar. Try some—they are delicious while still warm!",
+          "Leave the rest out overnight, and then store them in an airtight tin."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AVanillekipferl_(Almond_Crescent_Cookies)"
+      }
+    },
+    {
+      "id": "punschkrapfen",
+      "name": "Punschkrapfen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Punschkrapfen%20recipe",
+      "description": "Punschkrapfen or Punschkrapferl (punch cake) is a nougat and jam filled sponge cake soaked with rum originating from Austrian cuisine. Apart from the filling, it is similar to the French petit fours.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Punschkrapfen.jpg/500px-Punschkrapfen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Punschkrapfen"
+    },
+    {
+      "id": "semmelknodel",
+      "name": "Semmelknödel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Semmelkn%C3%B6del%20recipe",
+      "description": "Semmelknödel is a kind of bread dumplings made from dried wheat bread rolls like Kaiser rolls, milk, and eggs. The name derives from southern Germany, where semmel means bread rolls and knödel refers to something that has been kneaded.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Semmelkn%C3%B6del.jpg/500px-Semmelkn%C3%B6del.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Semmelkn%C3%B6del"
+    },
+    {
+      "id": "mozartkugel",
+      "name": "Mozartkugel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mozartkugel%20recipe",
+      "description": "A Mozartkugel is a small, round sugar confection made of pistachio, marzipan, and nougat that is covered with dark chocolate. It was originally known as Mozart-Bonbon, created in 1890 by Salzburg confectioner Paul Fürst (1856–1941) and named after Wolfgang Amadeus Mozart.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Original_Salzburger_Mozartkugel_F%C3%BCrst_2009.jpg/500px-Original_Salzburger_Mozartkugel_F%C3%BCrst_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mozartkugel"
+    },
+    {
+      "id": "salzburger-nockerl",
+      "name": "Salzburger Nockerl",
+      "videoSearch": "https://www.youtube.com/results?search_query=Salzburger%20Nockerl%20recipe",
+      "description": "Salzburger Nockerl (pl., Austro-Bavarian: Soizbuaga Noggal) are fluffy dumplings resembling a soufflé, traditionally served as dessert in Salzburg, Austria.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Salzburger_Nockerln_04_gastronomie_001.jpg/500px-Salzburger_Nockerln_04_gastronomie_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Salzburger_Nockerl",
+      "recipe": {
+        "ingredients": [
+          "7 egg whites",
+          "2 egg yolks",
+          "½ cup caster sugar",
+          "1 tbsp vanilla sugar",
+          "1 ½ tbsp flour",
+          "Zest of half a lemon",
+          "Jam or custard sauce (as base or to serve with)"
+        ],
+        "steps": [
+          "Preheat oven to 200°C (~400°F).",
+          "Whip the egg whites, gradually adding the sugar, until they are very stiff.",
+          "Quickly beat in the 2 yolks, zest, and vanilla sugar without beating too hard.",
+          "Carefully fold in the flour.",
+          "Butter two oven-proof dishes (you may now line the bottom of the dish with jam or custard if desired).",
+          "Heap three large dollops of the egg mass into the dish, sitting alongside each other, slightly offset. \"Mount\" them to resemble three little mountains.",
+          "Bake in the oven for 10 minutes until your Nockerl have become slightly brown on top."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASalzburger_Nockerl_(Sweet_Austrian_Souffl%C3%A9)"
+      }
+    },
+    {
+      "id": "kasekrainer",
+      "name": "Käsekrainer",
+      "videoSearch": "https://www.youtube.com/results?search_query=K%C3%A4sekrainer%20recipe",
+      "description": "Käsekrainer is a type of lightly smoked Brühwurst containing roughly torn bits of pork and 10% to 20% cheese (for example Emmentaler) cut into small cubes. They are sold all over Austria at sausage stands as well as being available in shops for home consumption and barbecues. It is a variety of Carniolan sausage.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/K%C3%A4sekrainer.jpg/500px-K%C3%A4sekrainer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/K%C3%A4sekrainer"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "country": "GW",
+  "dishes": [
+    {
+      "id": "jollof-rice",
+      "name": "Jollof rice",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jollof%20rice%20recipe",
+      "description": "Jollof (), or jollof rice, is a rice dish from Senegal, West Africa. It is typically made with long-grain rice, tomatoes, chilis, onions, spices, and sometimes other vegetables and/or meat in a single pot, although its ingredients and preparation methods vary across different regions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Jollof_Rice_with_Stew.jpg/500px-Jollof_Rice_with_Stew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jollof_rice"
+    },
+    {
+      "id": "caldo-de-mancarra",
+      "name": "Caldo de mancarra",
+      "videoSearch": "https://www.youtube.com/results?search_query=Caldo%20de%20mancarra%20recipe",
+      "description": "Peanut stew or groundnut stew, also known as maafe (Wolof mafé, maffé, maffe), and pate d'arachide (French), is a staple food stew in Western Africa.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mafe.malien.jpg/500px-Mafe.malien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peanut_stew"
+    },
+    {
+      "id": "caldo-de-chabeu",
+      "name": "Caldo de chabéu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Caldo%20de%20chab%C3%A9u%20recipe",
+      "description": "Palm nut soup or banga is a soup made from palm fruit common in Cameroon, Sierra Leone, Ghana, Nigeria, Democratic Republic of Congo and Ivory Coast. The soup is made from a palm cream or palm nut base with stewed marinated meats, smoked dried fish, and aromatics.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Palm_nut_soup_close_up_02.jpg/500px-Palm_nut_soup_close_up_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Palm_nut_soup"
+    }
+  ]
+}

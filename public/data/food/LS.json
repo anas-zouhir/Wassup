@@ -1,0 +1,37 @@
+{
+  "country": "LS",
+  "dishes": [
+    {
+      "id": "papa",
+      "name": "Papa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Papa%20recipe",
+      "description": "Ugali, also known as posho, nsima, papa, pap, bogobe, sadza, isitshwala, akume, amawe, ewokple, akple, and other names, is a type of corn meal made from maize or corn or mahindi flour in several African countries: Kenya, Uganda, South Sudan, Tanzania, Zimbabwe, Zambia, Lesotho, Eswatini, Angola, Mozambique, Namibia, De…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ugali_%26_Sukuma_Wiki.jpg/500px-Ugali_%26_Sukuma_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ugali"
+    },
+    {
+      "id": "moroho",
+      "name": "Moroho",
+      "videoSearch": "https://www.youtube.com/results?search_query=Moroho%20recipe",
+      "description": "Morogo or moroho, also known as African spinach, pigweed, hanekam, or scientifically as Amaranthus sp., refers to a group of at least three different dark green leafy vegetables found throughout Southern Africa harvested for human consumption.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Amaranthus_thunbergii_1DS-II_1-5841.jpg/500px-Amaranthus_thunbergii_1DS-II_1-5841.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Morogo"
+    },
+    {
+      "id": "joala",
+      "name": "Joala (sorghum beer)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Joala%20(sorghum%20beer)%20recipe",
+      "description": "Umqombothi, is a South African traditional type of beer made from maize (corn), maize malt, sorghum malt, yeast, and water. The beer has a rather low content of alcohol (usually less than 3%) but a high content of B vitamins.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Umqombothi.jpg/500px-Umqombothi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Umqombothi"
+    },
+    {
+      "id": "mahleu",
+      "name": "Mahleu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mahleu%20recipe",
+      "description": "Mageu (Setswana spelling), Mahewu (Shona/Chewa/Nyanja spelling), Mahleu (Sesotho spelling), Magau (xau-Namibia) (Khoikhoi spelling), Madleke (Tsonga spelling), Mabundu (Tshivenda spelling), maHewu, amaRhewu (Xhosa spelling) or amaHewu (Zulu and Northern Ndebele spelling) is a traditional Southern African non-alcoholic …",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Mageu_%28carton_and_glass%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mageu"
+    }
+  ]
+}

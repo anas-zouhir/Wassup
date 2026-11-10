@@ -1,0 +1,301 @@
+{
+  "country": "TZ",
+  "dishes": [
+    {
+      "id": "ugali",
+      "name": "Ugali",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ugali%20recipe",
+      "description": "Ugali, also known as posho, nsima, papa, pap, bogobe, sadza, isitshwala, akume, amawe, ewokple, akple, and other names, is a type of corn meal made from maize or corn or mahindi flour in several African countries: Kenya, Uganda, South Sudan, Tanzania, Zimbabwe, Zambia, Lesotho, Eswatini, Angola, Mozambique, Namibia, De…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ugali_%26_Sukuma_Wiki.jpg/500px-Ugali_%26_Sukuma_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ugali"
+    },
+    {
+      "id": "nyama-choma",
+      "name": "Nyama choma",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nyama%20choma%20recipe",
+      "description": "Nyama Choma is a specialty of grilled or barbecued goat meat or cattle meat. Roasted meat is very popular in Tanzania and Kenya, where it is considered the national dish. The expression nyama choma means \"barbecue meat\" in Kiswahili.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Goat_meat_being_roasted.jpg/500px-Goat_meat_being_roasted.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nyama_choma",
+      "recipe": {
+        "ingredients": [
+          "1 kg goat/lamb/beef/chicken meat, cut into thick chunks",
+          "¼ cup oil",
+          "1 onion, chopped",
+          "1 heaped tbsp crushed fresh ginger",
+          "1 heaped tbsp crushed garlic",
+          "1 heaped tbsp grated raw papaya for tenderness",
+          "¼ cup light soy sauce",
+          "Juice of 2 limes",
+          "2 tsp freshly crushed black pepper",
+          "½ cup fresh chopped parsley",
+          "1 tsp paprika powder",
+          "½ tsp turmeric powder",
+          "1 tsp curry powder",
+          "½ tsp salt"
+        ],
+        "steps": [
+          "To keep the meat juicy and tender, clean it and preserve any extra fat on it. Place the meat in a glass or plastic dish.",
+          "Blend the remaining ingredients, then pour the resulting mixture over the meat.",
+          "Allow mixture to settle into the meat, then thoroughly massage it into the meat. Cover and marinate in the refrigerator for at least 4–5 hours.",
+          "To bring the meat to room temperature for cooking, remove it from the refrigerator approximately an hour beforehand.",
+          "Light a charcoal grill and let it burn until the coals are completely covered with white ash.",
+          "Place a wire rack over the coals, add the meat, and cook until it has a little singe and color. To ensure equal cooking on all sides, turn meat frequently. Use a fresh brush and some oil or marinade to flavor the meat and keep it from drying out while it cooks.",
+          "To allow the inside of the meat to cook slowly and effectively, wrap it in a packet of foil. Or, keep grilling until the food is done to your liking.",
+          "Once the meat is done, use a sharp knife to cut it into bite-sized pieces.",
+          "Serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ANyama_Choma_(Tanzanian_Barbecue)"
+      }
+    },
+    {
+      "id": "chipsi-mayai",
+      "name": "Chipsi mayai",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chipsi%20mayai%20recipe",
+      "description": "Chipsi mayai (Swahili for \"chips and eggs\"), also known as zege, is the most popular street food found all over Tanzania. The dish was invented in the streets of Dar es Salaam. In its most basic form, chipsi mayai is a simple potato-egg omelette.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Chipsi_mayai_%28zege%29.jpg/500px-Chipsi_mayai_%28zege%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chipsi_mayai",
+      "recipe": {
+        "ingredients": [
+          "4 medium potatoes, peeled and cut into fries",
+          "4 large eggs",
+          "2 tbsp vegetable oil (plus extra for frying)",
+          "1 small onion, finely chopped (optional)",
+          "1 small tomato, diced (optional)",
+          "1 green chili, finely chopped (optional)",
+          "½ tsp salt",
+          "¼ tsp black pepper",
+          "Fresh coriander (cilantro), chopped, for garnish"
+        ],
+        "steps": [
+          "Peel the potatoes and cut them into thin fries.",
+          "Heat oil in a deep frying pan or pot.",
+          "Fry the potatoes until golden brown and crispy.",
+          "Remove the fries and drain on paper towels.",
+          "In a bowl, beat the eggs until well combined.",
+          "Add salt and black pepper.",
+          "Stir in the onion, tomato, and chili if using.",
+          "Add the fried chips to the beaten eggs and mix gently.",
+          "Heat 2 tablespoons of oil in a frying pan over medium heat.",
+          "Pour the egg and chips mixture into the pan.",
+          "Cook for 3–5 minutes until the bottom is golden brown.",
+          "Carefully flip the omelette using a plate or lid.",
+          "Cook the other side for another 3–4 minutes.",
+          "Remove from the heat when fully cooked.",
+          "Garnish with fresh coriander.",
+          "Cut into wedges and serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChipsi_mayai"
+      }
+    },
+    {
+      "id": "mtori",
+      "name": "Mtori",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mtori%20recipe",
+      "description": "Mtori is a popular Tanzanian stew made of bananas and meat along with other ingredients (e.g. potatoes, milk or cream). The soup originated in the Kilimanjaro area of Tanzania, specifically the Moshi-Arusha region.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Mtori.jpg/500px-Mtori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mtori",
+      "recipe": {
+        "ingredients": [
+          "1 kg beef with bones",
+          "6–8 green cooking bananas (plantains), peeled and sliced",
+          "1 large onion, chopped",
+          "1 carrot, diced",
+          "1 green bell pepper, chopped",
+          "1 potato, peeled and cubed (optional)",
+          "1 tbsp grated fresh ginger",
+          "2 cloves garlic, minced",
+          "2 tbsp butter or margarine",
+          "6 cups water or beef stock",
+          "Salt, to taste",
+          "Black pepper, to taste",
+          "Fresh coriander (cilantro), chopped, for garnish",
+          "Lime wedges, for serving (optional)"
+        ],
+        "steps": [
+          "Place the beef and water in a large pot.",
+          "Bring to a boil, then reduce the heat and simmer until the meat is tender, about 1–1½ hours.",
+          "Remove the meat from the stock and set aside.",
+          "Add the bananas, onion, carrot, bell pepper, and potato to the stock.",
+          "Cook until the bananas become very soft.",
+          "Return the cooked meat to the pot.",
+          "Add the ginger, garlic, salt, and black pepper.",
+          "Simmer for 10 minutes.",
+          "Mash the bananas using a wooden spoon or potato masher until a thick, creamy consistency is achieved.",
+          "Stir in the butter or margarine.",
+          "Adjust seasoning to taste.",
+          "Simmer for another 5 minutes.",
+          "Garnish with fresh coriander and serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMtori_(Tanzanian_stew)"
+      }
+    },
+    {
+      "id": "mishkaki",
+      "name": "Mishkaki",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mishkaki%20recipe",
+      "recipe": {
+        "ingredients": [
+          "2 tbsp white vinegar",
+          "50 ml (¼ cup) vegetable oil",
+          "2 tbsp water",
+          "1 tsp dried thyme",
+          "1 tsp garlic powder",
+          "1 tsp coriander powder",
+          "1 tsp cumin powder",
+          "½ tsp cayenne pepper",
+          "½ tsp paprika powder",
+          "1 tsp onion powder",
+          "1 tsp ground black pepper",
+          "¼ tsp ground allspice",
+          "1 tsp garlic paste",
+          "1 tsp ginger paste",
+          "Beef sirloin steak, in 1-inch cubes",
+          "80 g fresh coriander, finely chopped"
+        ],
+        "steps": [
+          "Whisk together the vinegar, oil, water, thyme, spices, ginger paste, and garlic paste to make a marinade.",
+          "Add the meat and toss well, then transfer everything to a large ziplock bag. Seal the bag and marinate in the refrigerator for 24–48 hours.",
+          "Take the meat out of the refrigerator, and give it at least an hour to come to room temperature.",
+          "Thread the meat on the skewers.",
+          "Preheat a charcoal grill for some time.",
+          "Grease the grill grate, and place the skewers on the grate. Cook until medium-done (internal temperature of 65°C / 145°F).",
+          "Serve hot with fresh coriander."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMishkaki_(East_African_Meat_Skewers)"
+      }
+    },
+    {
+      "id": "vitumbua",
+      "name": "Vitumbua",
+      "videoSearch": "https://www.youtube.com/results?search_query=Vitumbua%20recipe",
+      "recipe": {
+        "ingredients": [
+          "2 cups finely-ground rice flour (or plain rice)",
+          "1 cup coconut milk (or coconut milk powder)",
+          "1 teaspoon yeast",
+          "½–1 cup sugar (brown, white, or coconut)",
+          "Oil for frying",
+          "8 tablespoons plain wheat flour (possibly whole wheat)",
+          "2 egg white",
+          "2 teaspoons ground cardamom seeds",
+          "2–3 tablespoon coconut flakes",
+          "½–1 teaspoon salt",
+          "1 teaspoon ground nutmeg",
+          "½ teaspoon almond extract",
+          "About ½ cup water if cooking with rice flour and/or coconut milk powder"
+        ],
+        "steps": [
+          "Soak the rice and let it soften for at least 4 hours, maybe over night.",
+          "Drain the rice.",
+          "Blend the rice with the other ingredients to a batter.",
+          "Mix all ingredients, adding water so that a rather thick batter forms.",
+          "Let the covered batter rise in a warm place until it at least doubled in size and bubbles form on the surface. This may take about 45–60 minutes, and some advise letting rise overnight.",
+          "Stir the batter.",
+          "If you have, you should use a vitumbua pan; otherwise, an ordinary pan has to suffice. Oil the pan and heat it.",
+          "Fill the 'holes' (of the vitumbua pan) about ¾ full with batter. Let it cook for about 2–3 minutes; it should starts to brown. Flip the vitumbua and cook the other side.",
+          "Let cool slightly."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AVitumbua_(Coconut_Rice_Pancakes)"
+      }
+    },
+    {
+      "id": "mandazi",
+      "name": "Maandazi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Maandazi%20recipe",
+      "description": "Mandazi (Swahili: mandazi, maandazi) is a form of fried bread that originated on the Swahili coast of East Africa. It is also known as bofrot or puff-puff in Western African countries such as Ghana and Nigeria.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bowl_of_mandazi.jpg/500px-Bowl_of_mandazi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mandazi",
+      "recipe": {
+        "ingredients": [
+          "4 milk cups all-purpose flour, plus extra for working the dough",
+          "1 tsp baking powder",
+          "1 pinch salt",
+          "1 tsp lemon zest",
+          "½ cup white granulated sugar",
+          "½ tsp ground cloves (optional)",
+          "2 tbsp margarine or butter, at room temperature",
+          "2 cups water",
+          "1 tsp vanilla essence",
+          "Vegetable oil for frying"
+        ],
+        "steps": [
+          "Sift together the flour and baking powder in a bowl.",
+          "Mix in the salt, lemon zest, sugar, and cloves.",
+          "Rub in the butter until the flour becomes coarse.",
+          "Combine the vanilla and water, then mix this into the flour mixture to get a firm dough.",
+          "Knead the dough for about 2 minutes until it no longer sticks to your hands. Set aside to rest for 10 minutes.",
+          "Flour a work surface, and roll out the dough to about 1-inch thickness.",
+          "Cut the dough into 10 equal squares, then roll each square into a ball.",
+          "Heat a pan of oil over medium heat. Deep fry the mandazi in batches of 5 for about 10 minutes or until they are puffed, brown all over, and cooked through.",
+          "Remove when it is fully done and enjoy your delicious East African Doughnuts."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMandazi_(East_African_Doughnuts)"
+      }
+    },
+    {
+      "id": "mchemsho",
+      "name": "Mchemsho",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mchemsho%20recipe",
+      "recipe": {
+        "ingredients": [
+          "500 g beef, cut into cubes",
+          "4 green cooking bananas, peeled and sliced",
+          "3 medium potatoes, peeled and cubed",
+          "2 carrots, sliced",
+          "1 cup green beans, trimmed",
+          "1 small cabbage, chopped",
+          "1 large onion, chopped",
+          "3 cloves garlic, minced",
+          "1 tbsp fresh ginger, grated",
+          "2 tomatoes, diced",
+          "1 green bell pepper, sliced",
+          "2 tbsp vegetable oil",
+          "5 cups beef stock or water",
+          "1 tsp ground cumin",
+          "1 tsp ground coriander",
+          "½ tsp turmeric",
+          "Salt, to taste",
+          "Black pepper, to taste",
+          "Juice of 1 lime or lemon",
+          "Fresh coriander (cilantro), chopped, for garnish"
+        ],
+        "steps": [
+          "Place the beef in a large pot and cover with water.",
+          "Add half of the onion, half of the ginger, and a pinch of salt.",
+          "Simmer until the meat becomes tender, about 1–1½ hours.",
+          "Reserve the cooking stock.",
+          "Heat the oil in a separate large pot.",
+          "Sauté the remaining onion until soft.",
+          "Add the garlic and remaining ginger and cook for 1 minute.",
+          "Stir in the tomatoes and cook until softened.",
+          "Add the cumin, coriander, and turmeric.",
+          "Add the potatoes, carrots, green bananas, green beans, cabbage, and bell pepper.",
+          "Pour in the reserved stock.",
+          "Add the cooked beef.",
+          "Bring to a boil, then reduce the heat and simmer for 30–40 minutes.",
+          "Cook until all vegetables are tender.",
+          "Season with salt, black pepper, and lime juice.",
+          "Garnish with chopped coriander.",
+          "Serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMchemsho_(Tanzanian_cuisine)"
+      }
+    },
+    {
+      "id": "sukuma-wiki",
+      "name": "Sukuma wiki",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sukuma%20wiki%20recipe",
+      "description": "Sukuma wiki is an East African dish made with collard greens, known as sukuma, cooked with onions and spices. It is often served and eaten with ugali (made from maize flour).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ugali_%26_Sukuma_Wiki.jpg/500px-Ugali_%26_Sukuma_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sukuma_wiki"
+    },
+    {
+      "id": "mbege",
+      "name": "Mbege",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mbege%20recipe",
+      "description": "Mbege is a kind of banana drink traditional to the Chagga ethnic group of Tanzania located in Kilimanjaro region. It is a mildly alcoholic drink made from fermented bananas and finger millet.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/cd/Mbege_being_poured.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mbege"
+    }
+  ]
+}

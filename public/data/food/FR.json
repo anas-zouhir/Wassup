@@ -1,0 +1,770 @@
+{
+  "country": "FR",
+  "dishes": [
+    {
+      "id": "coq-au-vin",
+      "name": "Coq au vin",
+      "videoSearch": "https://www.youtube.com/results?search_query=Coq%20au%20vin%20recipe",
+      "description": "Coq au vin is a French dish of chicken braised with wine, lardons, mushrooms, and optionally garlic.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Gourmet_coq_au_vin.jpg/500px-Gourmet_coq_au_vin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Coq_au_vin",
+      "recipe": {
+        "ingredients": [
+          "1.5 kg (about 3.5 lbs) chicken, jointed (or drumsticks, thighs, breasts); get the giblets, and the blood if you can; season beforehand; marrow is important.",
+          "1 onion, diced",
+          "1 carrot, chopped",
+          "3 tbsp flour",
+          "½ tsp salt",
+          "¼ tsp pepper",
+          "200 g (about ¼ lb) small mushrooms",
+          "240 ml (1 cup) red wine",
+          "1 clove garlic, minced",
+          "1 tsp basil, chopped and fresh",
+          "1 tsp fresh or dried thyme",
+          "Olive oil for sautéing"
+        ],
+        "steps": [
+          "Mix flour, salt and pepper. Coat chicken, onion and carrot in flour mixture and set aside.",
+          "Sauté mushrooms, set aside.",
+          "Brown the chicken pieces a few at a time, set aside.",
+          "Brown onions and carrots. Put chicken into large casserole on medium-high heat along with onions, carrots and mushrooms.",
+          "Combine wine, garlic, and basil; pour over chicken.",
+          "Cover the casserole, cook until chicken is ready (1–1.5 hours), stirring occasionally."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACoq_au_Vin_I"
+      }
+    },
+    {
+      "id": "bouillabaisse",
+      "name": "Bouillabaisse",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bouillabaisse%20recipe",
+      "description": "Bouillabaisse is a traditional Provençal fish soup originating in the port city of Marseille. The word is originally a compound of the two Provençal verbs bouillir ('to boil') and baisser ('to reduce heat', i.e. 'simmer').",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Bullabessa.jpg/500px-Bullabessa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bouillabaisse",
+      "recipe": {
+        "ingredients": [
+          "660 g whole cleaned sea robin",
+          "660 g whole cleaned scorpionfish",
+          "660 g whole cleaned red gurnard",
+          "660 g whole cleaned conger",
+          "660 g whole cleaned lotte, or monkfish",
+          "660 g whole cleaned John Dory",
+          "1 live octopus (optional), cleaned and cut into pieces",
+          "10 sea urchins",
+          "1 kg of potatoes, peeled and cut into large slices",
+          "7 cloves of garlic",
+          "3 onions, sliced",
+          "5 ripe tomatoes, peeled, quartered and without seeds",
+          "1 cup of olive oil",
+          "1 bouquet garni",
+          "1 branch of fennel",
+          "8 threads of saffron",
+          "10 slices of country bread",
+          "Salt",
+          "Cayenne pepper",
+          "1 egg yolk",
+          "2 cloves of garlic",
+          "1 cup of olive oil",
+          "10 threads of saffron",
+          "Salt",
+          "Cayenne pepper"
+        ],
+        "steps": [
+          "Scale the fish and wash them, if possible, in sea water. Cut them into large slices, leaving the bones.",
+          "Warm the olive oil in a large, deep saucepan.",
+          "Add the onions, along with 6 cloves of crushed garlic, the octopus pieces and tomatoes. Brown at low heat turning gently for 5 minutes.",
+          "Add the fish slices; first the large slices then the smaller ones. Cover with boiling water and add salt, pepper, fennel, the bouquet garni and saffron. Simmer at a low heat, stirring from time to time so the fish doesn't stick to the pan. Correct the seasoning. Remove the bouillabaise from the heat once the oil and water have thoroughly blended with the other ingredients. This should take about twenty minutes.",
+          "Prepare the rouille: Use a mortar to crush the garlic cloves into a fine paste after removing the stems. Add the egg yolk and the saffron, then blend in the olive oil little by little to make a mayonnaise, stirring it with the pestle.",
+          "Cook the potatoes in salted water for 15 to 20 minutes. Open the sea urchins with a pair of scissors and remove the roe with a small spoon.",
+          "Arrange the fish on a platter. Add the sea urchin roe into the broth and stir.",
+          "Rub several slices of bread with garlic and spread a tablespoon of rouille on each. Place at least two slices per serving bowl.",
+          "Remove the fish and potatoes from the broth and place them on a large serving platter.",
+          "Pour the hot broth in each bowl containing a slice of bread smothered in rouille. Then serve the fish and the potatoes on a separate platter."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABouillabaisse"
+      }
+    },
+    {
+      "id": "ratatouille",
+      "name": "Ratatouille",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ratatouille%20recipe",
+      "description": "Ratatouille is a traditional French vegetable dish originating in the Provence region of southern France, particularly associated with Nice and its surrounding region.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Ratatouille_home_cooked.jpg/500px-Ratatouille_home_cooked.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ratatouille",
+      "recipe": {
+        "ingredients": [
+          "Olive oil",
+          "1 onion",
+          "1 clove garlic, or to taste",
+          "1 eggplant (aubergine)",
+          "1 bell pepper (green, red, yellow or a combination)",
+          "2 zucchini (courgettes)",
+          "6 medium tomatoes, ripe (juicy), peeled and seeded",
+          "salt and pepper to taste",
+          "Herbes de Provence to taste or 1 small bunch basil (optional), chiffoned"
+        ],
+        "steps": [
+          "Put a large casserole on the stove on medium heat.",
+          "When the casserole is hot, add enough olive oil to just cover the bottom.",
+          "Cut the zucchini and eggplant into ½ inch slices. Then, cut these into rectangles of about 3x1 inches. Add to the casserole.",
+          "Sauté the slices until light brown; remove from pan and set aside temporarily.",
+          "Chop the onions and garlic. Cut the green pepper into strips or dice, as preferred.",
+          "Add some additional oil if needed, and cook the onions and peppers slowly for about 10 minutes until tender but not brown. Stir in the garlic.",
+          "Peel and seed the tomatoes. Dice them or cut them into quarters, add to the casserole. Add some salt to bring out their juices. Cover and lower the heat.",
+          "Five minutes later, check to see if the tomatoes have made enough juice to almost cover the vegetables—if so, perfect; if not, add water as needed (not too much).",
+          "Add salt, pepper and Herbes de Provence to taste. In general, 1 tsp of salt, ½ tsp of pepper, and 1 tbsp of the herbs will suffice.",
+          "Add the zucchini and eggplant back and blend gently with the tomato-onion-pepper mixture. Cover the casserole and let simmer on low heat until the vegetables are tender but still intact, 10–20 minutes, or to taste.",
+          "Remove the lid, raise the heat a little and cook uncovered for another 15 minutes, basting frequently until the liquids have mostly evaporated, leaving a small amount of juice and olive oil."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARatatouille_I"
+      }
+    },
+    {
+      "id": "beef-bourguignon",
+      "name": "Beef bourguignon",
+      "localName": "Bœuf bourguignon",
+      "videoSearch": "https://www.youtube.com/results?search_query=Beef%20bourguignon%20recipe",
+      "description": "Beef bourguignon () or bœuf bourguignon, is a French stew of beef braised in red wine, often red Burgundy, and beef stock, typically flavored with carrots, onions, garlic, and a bouquet garni, and garnished with pearl onions and mushrooms.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Beef_bourguignon_NYT.jpg/500px-Beef_bourguignon_NYT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Beef_bourguignon",
+      "recipe": {
+        "ingredients": [
+          "1 kg beef (blade steak or stewing shoulder cut)",
+          "3 large onions, chopped",
+          "1–2 cloves of garlic",
+          "300 g of chopped carrot",
+          "300 g of button mushrooms",
+          "Bouquet of herbs: basil, rosemary and thyme tied with string",
+          "2–4 cups of red wine",
+          "Salt",
+          "Pepper",
+          "Olive oil",
+          "Flour"
+        ],
+        "steps": [
+          "Cut beef into large, 5 cm chunks. Season with salt, pepper and olive oil.",
+          "Cook beef a small amount at a time in a dutch oven or large saucepan until it's golden brown on the outside. Remove each portion as it's done and set aside.",
+          "Add onions and garlic to the same pot and cook till golden brown.",
+          "Sprinkle with 2 tablespoons of flour. Cook a few minutes longer.",
+          "Add 1–2 cups of red wine.",
+          "Bring wine to a boil then simmer for 5 minutes.",
+          "Add beef, carrots, herbs, and mushrooms.",
+          "Add another couple cups of red wine and water (enough to cover the meat and vegetables).",
+          "Cook for 2–3 hours, stirring occasionally. Remove surface scum as required."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABoeuf_Bourguignon"
+      }
+    },
+    {
+      "id": "cassoulet",
+      "name": "Cassoulet",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cassoulet%20recipe",
+      "description": "Cassoulet is a rich stew originating in southern France. The food writer Elizabeth David described it as \"that sumptuous amalgamation of haricot beans, sausage, pork, mutton and preserved goose, aromatically spiced with garlic and herbs\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Bowl_of_cassoulet.JPG/500px-Bowl_of_cassoulet.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cassoulet",
+      "recipe": {
+        "ingredients": [
+          "500 g (about 1 lb) dried white haricot/navy beans",
+          "Cumin",
+          "1 pig ear or pork rind (optional)",
+          "1 kg (about 2 lb) mixture of duck or goose meat, Toulouse sausages (strong garlic sausage), pork, and/or mutton",
+          "Duck fat, goose fat, or olive oil",
+          "1 onion, chopped",
+          "Stock or white wine",
+          "Bouquet garni",
+          "1 head of garlic, peeled",
+          "Salt",
+          "Pepper",
+          "Cloves",
+          "Juniper berries",
+          "Water or stock"
+        ],
+        "steps": [
+          "Blanch the beans for a few minutes by immersing them in plenty of boiling water for a few minutes and then into cold water seasoned with cumin.",
+          "Drain the beans and reserve.",
+          "Sear the meat in a pan with duck or goose fat—brown only the outside. Remove the meat and reserve.",
+          "Sauté or stir-fry the onion in the same pan until golden or dark brown, then set aside.",
+          "Drain and discard any residual fat from the pan. Deglaze the dark residue in the pan using stock or white wine. Reserve the deglazing liquid.",
+          "In a casserole dish, pan, or pot, layer beans, meat, cooked onion, garlic cloves, bouquet garni, and juniper berries. Add the deglazing liquid then enough boiling salted water to cover the beans by about an inch.",
+          "Bake at 90 °C (195°F) for about 4½ hours. If necessary, add additional boiling water during the baking. When a light crust has formed and the beans have absorbed all the water and become tender, the preparation is done.",
+          "Let stand for about 1 hour before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACassoulet"
+      }
+    },
+    {
+      "id": "quiche-lorraine",
+      "name": "Quiche lorraine",
+      "videoSearch": "https://www.youtube.com/results?search_query=Quiche%20lorraine%20recipe",
+      "description": "Quiche ( KEESH) is a French tart consisting of a pastry case filled with savory custard and pieces of cheese, meat, seafood or vegetables. A well-known variant is Quiche Lorraine, which includes lardons or bacon. Quiche are served hot, warm or cold.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Quiche.jpg/500px-Quiche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Quiche"
+    },
+    {
+      "id": "french-onion-soup",
+      "name": "French onion soup",
+      "localName": "Soupe à l'oignon",
+      "videoSearch": "https://www.youtube.com/results?search_query=French%20onion%20soup%20recipe",
+      "description": "French onion soup is a soup of onions which are sautéed and then cooked in meat stock or water, usually served gratinéed with croutons or a larger piece of bread covered with cheese floating on top. Onion soups have been known in France since medieval times, but the version now familiar dates from the mid-19th century.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Soupe_%C3%A0_l%27oignon.jpg/500px-Soupe_%C3%A0_l%27oignon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/French_onion_soup",
+      "recipe": {
+        "ingredients": [
+          "3 rounded cups (500g) chopped onion",
+          "A knob of butter (a little less than 2 tbsp or 25g)",
+          "1 tbsp (15g) flour",
+          "1.5 liters (roughly 5¼ cups) beef stock (chicken or vegetable stock is an acceptable alternative)",
+          "1 bouquet garni (fresh bay, thyme, and Herbes de Provence, tied in a bundle or in a temporary sack made of cheesecloth)",
+          "1 slice of stale french bread, per person (or fresh bread, toasted beforehand)",
+          "3 tbsp red (50ml) port wine",
+          "1 cup grated (125g) Gruyère cheese",
+          "Nutmeg",
+          "Salt",
+          "Pepper"
+        ],
+        "steps": [
+          "Melt the butter in a large saucepan. Stir in the onions, and let the onions blonde on moderate heat (which is to say, let them cook until they are light gold and transparent, but do not let them over-caramelize and become dark).",
+          "Add the flour to the onions. Stir gently for 3–4 minutes. The flour will seem to have disappeared, but has been absorbed into the butter. This will give the soup its characteristic slight thickness. Scrape up any of the dark brown butter and flour mixture that has stuck to the bottom of the saucepan; it is called fond, and will add flavour to the soup.",
+          "Pour ⅔ of the beef broth over the onions and mix well. Add the bouquet garni. Bring to a boil, stirring regularly.",
+          "Season with salt and pepper and a little nutmeg, to taste. Add the rest of the broth, and let the soup simmer gently for 10–15 minutes.",
+          "If your bread is fresh, then toast it now over low heat.",
+          "Remove the soup from the heat, and remove the bouquet garni. Add port and stir well.",
+          "Divide the soup into 6 oven-safe ceramic or glass bowls. Press a slice of bread into the top of each bowl of soup. Generously sprinkle grated Gruyère cheese on top. Broil on low for 10 minutes, or until the cheese is melted and browned.",
+          "Serve piping hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFrench_Onion_Soup"
+      }
+    },
+    {
+      "id": "croissant",
+      "name": "Croissant",
+      "videoSearch": "https://www.youtube.com/results?search_query=Croissant%20recipe",
+      "description": "A croissant is a Viennoiserie in a crescent shape made from a laminated yeast dough that sits between a bread and a puff pastry. It is buttery and flaky, inspired by the shape of the Austrian kipferl, but using the Viennoiserie yeast-leavened laminated dough. Croissants are named for their crescent shape.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Croissant-Petr_Kratochvil.jpg/500px-Croissant-Petr_Kratochvil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Croissant"
+    },
+    {
+      "id": "baguette",
+      "name": "Baguette",
+      "videoSearch": "https://www.youtube.com/results?search_query=Baguette%20recipe",
+      "description": "A baguette is a long, thin type of bread commonly made from basic lean dough. Both the dough and the physical dimensions of the traditional baguette are defined by French law. It is distinguishable by its length and crisp crust.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Baguettes%2C_Paris%2C_France_-_panoramio.jpg/500px-Baguettes%2C_Paris%2C_France_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baguette",
+      "recipe": {
+        "ingredients": [
+          "Active dry yeast (95–110°F / 35–43°C)",
+          "1¼ teaspoons",
+          "5 g",
+          "1%",
+          "Very warm water (105–115°F)",
+          "¼ cup",
+          "2 ounces (59.25 g)",
+          "11.85%",
+          "Unbleached all-purpose flour",
+          "4 cups",
+          "18 ounces (500 g)",
+          "100%",
+          "Salt",
+          "2 ¼ teaspoons",
+          "13.5 g",
+          "2.7%",
+          "Cool water (75°F)",
+          "1¼ cups",
+          "10.5 ounces (296.25 g)",
+          "59.25%",
+          "Total",
+          "874 g",
+          "174.8%"
+        ],
+        "steps": [
+          "Using a fork, stir together the yeast and warm water in a small bowl until the yeast dissolves. Let stand for 3 minutes.",
+          "Combine the flour and salt in a large bowl.",
+          "Mix the cool water, yeast mixture and flour gently with your fingers to form a mass.",
+          "On a lightly-floured work surface, knead for 5 minutes. The dough should now be supple and resilient.",
+          "Cover the dough with plastic wrap or a light towel.",
+          "Let the dough rest for 25 minutes—this period is called the autolyse.",
+          "Knead the dough for 6–8 minutes. Overkneading could make an overly tough dough; you're looking for a dough that is smooth and stretchy.",
+          "Lightly oil a bowl, and turn the dough in the bowl to coat it with oil. Cover the bowl with a tea towel.",
+          "Let rise at room temperature (75–77°F) for 1½–2 hours (until the volume doubles).",
+          "Gently deflate the dough. Fold it over itself , then reshape into a ball. Cover again with a tea towel.",
+          "Let rise for 1¼ hours or until it doubles again.",
+          "Once again, gently deflate the dough. Reshape into a round and cover, letting it rise for about 1 hour.",
+          "On a lightly floured surface, divide the dough into 3 equal pieces (about 10 ounces each).",
+          "Take one piece and gently stretch into a rectangle, leaving some large bubbles in the dough.",
+          "Fold the top third down and the bottom third up.",
+          "Form the loaf into a log by rolling the dough over from left to right and sealing the seam with the heel of your palm.",
+          "Fold the dough over about a third of the way each time, seal the length of the loaf, then repeat.",
+          "You want to gently draw the skin tight over the surface of the baguette while leaving some air bubbles in the dough. Seal the seam, being careful not to tear the skin of the dough or deflate its airy structure.",
+          "Set aside on the work surface to relax before elongating it, and repeat the shaping process with remaining pieces of dough.",
+          "Now elongate each baguette, starting with the first one you shaped, by rolling it back and forth on the work surface. Begin with both hands over the center of the loaf and work them out to the ends until the loaf reaches the desired length. Make sure that the loaves don't exceed the length allowed by the oven.",
+          "Place the finished loaves on a peel or upside down baking sheet lined with parchment paper and generously sprinkled with cornmeal or on a baguette pan.",
+          "Cover the loaves with well oiled plastic or a floured cloth and let rise for 30 to 40 minutes until the loaves are slightly plump but still not doubled in volume. The final rise is short, because you want the baguettes to be slightly under-proofed; this will give them a better oven spring, resulting in loaves with a light, airy crumb and more flared cuts.",
+          "Thirty minutes before baking, preheat the oven to 500°F.",
+          "Place a baking stone in the oven to preheat, and place an empty water pan directly under the stone.",
+          "Use a very sharp razor blade or lame to make 3–5 slashes, depending on the length of your loaves, on the top of each baguette. The cuts should run from one end of the loaf to the other, rather than across it, and the blade should be held at a 30° angle to the loaf so that the cuts pop open in the oven. Be careful not to press down too hard, or you may deflate the loaves.",
+          "Using a plant sprayer, mist the loaves.",
+          "Gently slide the loaves onto the preheated stone, or place the baguette mold in the oven. Pour 1 cup of very hot water into the water pan and quickly close the oven door. After 1 minute, mist the loaves and oven walls 6–8 times and close the door. After 2 more minutes, spray the loaves and the oven walls again.",
+          "Bake for 12 minutes, then lower the oven temperature to 400°F and bake for 25–30 minutes longer until the loaves are golden brown and crisp. Move them to a rack to cool.",
+          "Enjoy your baguettes still slightly warm with some soft, ripe French cheese and a glass of wine."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABaguette"
+      }
+    },
+    {
+      "id": "crepe",
+      "name": "Crêpe",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cr%C3%AApe%20recipe",
+      "description": "A crêpe is a dish made from unleavened batter or dough that is cooked on a frying pan or a griddle. Crêpes are usually one of two varieties: sweet crêpes (crêpes sucrées) or savoury crêpes (galettes; crêpes salées).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Crepes_dsc07085.jpg/500px-Crepes_dsc07085.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cr%C3%AApe"
+    },
+    {
+      "id": "creme-brulee",
+      "name": "Crème brûlée",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cr%C3%A8me%20br%C3%BBl%C3%A9e%20recipe",
+      "description": "Crème brûlée, also known as burnt cream, Cambridge burnt cream, or Trinity cream, and virtually identical to crema catalana, is a dessert consisting of a rich custard base topped with a layer of hardened caramelized sugar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/2014_0531_Cr%C3%A8me_br%C3%BBl%C3%A9e_Doi_Mae_Salong_%28cropped%29.jpg/500px-2014_0531_Cr%C3%A8me_br%C3%BBl%C3%A9e_Doi_Mae_Salong_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cr%C3%A8me_br%C3%BBl%C3%A9e"
+    },
+    {
+      "id": "tarte-tatin",
+      "name": "Tarte Tatin",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tarte%20Tatin%20recipe",
+      "description": "The tarte Tatin is a tart in which the fruit (usually apples) is caramelized in butter and sugar before the tart is baked. Named after the Tatin sisters who invented it and served it in their hotel as its signature dish, it originated in France but has spread to other countries over time.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Franse_tarte_tatin.jpg/500px-Franse_tarte_tatin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tarte_Tatin"
+    },
+    {
+      "id": "souffle",
+      "name": "Soufflé",
+      "videoSearch": "https://www.youtube.com/results?search_query=Souffl%C3%A9%20recipe",
+      "description": "A soufflé is a baked egg dish originating in France in the early 18th century. Combined with various other ingredients, it can be served as a savoury main dish or sweetened as a dessert. The word soufflé is the past participle of the French verb souffler, which means to blow, breathe, inflate or puff.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Bacon_and_Cheddar_Cheese_Souffl%C3%A9.jpg/500px-Bacon_and_Cheddar_Cheese_Souffl%C3%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Souffl%C3%A9"
+    },
+    {
+      "id": "escargots",
+      "name": "Escargots",
+      "localName": "Escargots de Bourgogne",
+      "videoSearch": "https://www.youtube.com/results?search_query=Escargots%20recipe",
+      "description": "Snails are eaten by humans in many areas such as Africa, Southeast Asia and Mediterranean Europe, while in other cultures, snails are seen as a taboo food. Borrowed from the French word for 'snail', the term escargot is what English speakers use to specifically denote edible land snails.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Caracoles-del-restaurante-granero.jpg/500px-Caracoles-del-restaurante-granero.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Snails_as_food",
+      "recipe": {
+        "ingredients": [
+          "24 canned snails",
+          "½ lb butter, softened",
+          "1 tbsp minced shallots",
+          "1 tsp grated or minced garlic",
+          "1½ tbsp fresh chopped parsley",
+          "Salt to taste",
+          "Pepper, to taste",
+          "24 snail shells, with snail serving dishes, and snail tongs OR 4 glazed indented earthenware snail serving dishes OR 24 small mushroom caps, trimmed and de-gilled"
+        ],
+        "steps": [
+          "Preheat oven to 400°F.",
+          "Drain and rinse the snails.",
+          "Combine the butter with the shallots, garlic, parsley, salt, and pepper, and blend well.",
+          "Sauté the mushroom caps, if using, in a small amount of garlic butter until cooked but still firm. Remove from the heat.",
+          "If using snail shells, place a snail in each shell and fill the rest of the space with garlic butter. If using a snail dish without the shells, place a snail in each indentation and fill the rest of the space with garlic butter. If using mushroom caps, place 2–3 snails in each cap and top with a generous amount of garlic butter.",
+          "Heat the snails in the oven for 5–7 minutes, and serve with copious quantities of French bread for soaking up the garlic butter."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASnails_with_Garlic_Butter_(Escargots_%C3%A0_la_Bourguignonne)"
+      }
+    },
+    {
+      "id": "foie-gras",
+      "name": "Foie gras",
+      "videoSearch": "https://www.youtube.com/results?search_query=Foie%20gras%20recipe",
+      "description": "Foie gras is a specialty food product made of the liver of a duck or goose. According to French law, foie gras is defined as the liver of a duck or goose fattened by gavage (force feeding). Foie gras is a delicacy in French cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Foie_gras_en_cocotte.jpg/500px-Foie_gras_en_cocotte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Foie_gras"
+    },
+    {
+      "id": "duck-confit",
+      "name": "Duck confit",
+      "localName": "Confit de canard",
+      "videoSearch": "https://www.youtube.com/results?search_query=Duck%20confit%20recipe",
+      "description": "Duck confit is a French dish made with whole duck. In Gascony, according to the families perpetuating the tradition, all of the duck is used to produce the dish. Each part can have a specific destination in traditional cooking, the neck being used for example in an invigorating soup, the garbure.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Confitdecanard.jpg/500px-Confitdecanard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Duck_confit"
+    },
+    {
+      "id": "blanquette-de-veau",
+      "name": "Blanquette de veau",
+      "videoSearch": "https://www.youtube.com/results?search_query=Blanquette%20de%20veau%20recipe",
+      "description": "Blanquette de veau is a French veal stew. In the classic version of the dish the meat is simmered in a white stock and served in a sauce velouté enriched with cream and egg.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Blanquette_de_veau_%C3%A0_l%27ancienne_04.jpg/500px-Blanquette_de_veau_%C3%A0_l%27ancienne_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Blanquette_de_veau"
+    },
+    {
+      "id": "pot-au-feu",
+      "name": "Pot-au-feu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pot-au-feu%20recipe",
+      "description": "Pot-au-feu is a French dish of slowly boiled meat and vegetables, usually served as two courses: first the broth (bouillon) and then the meat (bouilli) and vegetables. The dish is familiar throughout France and has many regional variations.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Pot-au-feu_SAM_2724.JPG/500px-Pot-au-feu_SAM_2724.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pot-au-feu",
+      "recipe": {
+        "ingredients": [
+          "2 ea. (~380 g) onions",
+          "4 ea. (~500 g) carrots",
+          "2 ea. (~600 g) turnips (each is one handful)",
+          "½ ea. (~400 g) celery root OR 3–4 celery stalks",
+          "2 ea. (~450 g) leeks",
+          "¼ ea. white cabbage",
+          "A bouquet garni made of thyme, bay leaf, and parsley",
+          "Salt",
+          "Ground pepper",
+          "4–6 cloves",
+          "Nutmeg (if you plan to serve the broth as the first course, i.e. the traditional way)",
+          "1 kg low-cost, tougher beef meat (e.g. beef chuck)",
+          "Oxtail or marrowbone (optional)"
+        ],
+        "steps": [
+          "Drive the cloves into the onions, so it will be easier to take them off after cooking.",
+          "Peel the onions. Cut them in half and burn the cut surface in a frying pan protected with aluminum foil. The cut surface must become completely black. It will bring a slightly \"smoked\" taste and the typical golden brown color to the broth.",
+          "While burning the onions, peel and cut the turnips, carrots, celery into large pieces.",
+          "For the leeks, cut the root, wash well the green part and cut them in 2–3 pieces. Even the green, more fibrous part is used.",
+          "For the white cabbage, if you took a quarter of a white cabbage, let it in one piece.",
+          "In a pressure cooker, put all the vegetables, ground pepper and the bouquet garni. Try to arrange them so that they take a minimum space. Add enough water to cover the vegetables (warning: a pressure cooker should not be filled more than ⅔ to ¾ of its capacity; check on the user's guide of your pressure cooker). If you cannot cover the vegetables with water, just add as much water as you can.",
+          "Add salt and cook the vegetables under pressure for 20 minutes.",
+          "Put the pressure cooker under cold water so you can open it, and reserve the vegetables. Throw away the onions and the bouquet garni.",
+          "Now you should have a golden brown broth. Taste it and add more salt or pepper if necessary. Note that it does not have its final taste since you have not cooked the meat inside it yet.",
+          "Put the meat inside the broth. Cook for 60–75 minutes under pressure.",
+          "If you use marrowbones, cook them apart or cook them under pressure for 5 minutes with the meat.",
+          "Put the pressure cooker under cold water so you can open it. Take the meat off and put the vegetables back into the broth. Allow the broth to boil to warm them up while you are slicing the meat."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APot-au-feu_(Boiled_Meat_and_Vegetables)"
+      }
+    },
+    {
+      "id": "croque-monsieur",
+      "name": "Croque monsieur",
+      "videoSearch": "https://www.youtube.com/results?search_query=Croque%20monsieur%20recipe",
+      "description": "A croque monsieur is a hot sandwich made with ham and cheese.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Croque_monsieur.jpg/500px-Croque_monsieur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Croque_monsieur",
+      "recipe": {
+        "ingredients": [
+          "12 g (1 tablespoon) butter",
+          "12 g (1 tablespoon) flour",
+          "125 ml (½ cup) milk",
+          "1 tsp Dijon mustard",
+          "1 pinch of ground nutmeg (optional)",
+          "Salt to taste",
+          "Pepper to taste",
+          "2 slices of crusty bread",
+          "2 slices of ham",
+          "2 slices of cheese, such as gruyère",
+          "1 egg (for croque madame)"
+        ],
+        "steps": [
+          "Melt the butter in a small saucepan.",
+          "Add the flour and stir over a medium heat until blended.",
+          "Gradually add the milk, whisking continuously into a smooth sauce.",
+          "Simmer gently for 2–3 minutes until the sauce has thickened.",
+          "Mix in the mustard, nutmeg, salt, and pepper. Set aside.",
+          "Preheat a grill to high. Lightly toast the bread on both sides under the grill.",
+          "Arrange slices of ham and cheese on each slice of bread, then top with béchamel sauce.",
+          "Place back under the grill to brown the béchamel and melt the cheese until golden brown and delicious.",
+          "Serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACroque_Monsieur"
+      }
+    },
+    {
+      "id": "steak-frites",
+      "name": "Steak frites",
+      "videoSearch": "https://www.youtube.com/results?search_query=Steak%20frites%20recipe",
+      "description": "Steak frites, meaning \"steak [and] chipped potatoes\" in French, is a dish consisting of beefsteak accompanied by fried chipped potatoes. It is commonly served in Belgian and French brasseries, and is considered by some to be the national dish of Belgium, which claims to be the country of origin.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Reel_and_Brand_-_September_2021_-_Sarah_Stierch_05.jpg/500px-Reel_and_Brand_-_September_2021_-_Sarah_Stierch_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Steak_frites"
+    },
+    {
+      "id": "gratin-dauphinois",
+      "name": "Gratin dauphinois",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gratin%20dauphinois%20recipe",
+      "description": "Gratin dauphinois ( GRAT-a doh-fi-NWAH) is a French gratin of sliced raw potatoes baked in cream, from the Dauphiné region in south-eastern France. There are many variants of the name of the dish, including pommes de terre dauphinoise, potatoes à la dauphinoise and gratin de pommes à la dauphinoise.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Gratin_dauphinois.jpg/500px-Gratin_dauphinois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gratin_dauphinois"
+    },
+    {
+      "id": "tartiflette",
+      "name": "Tartiflette",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tartiflette%20recipe",
+      "description": "Tartiflette is a dish from Savoy in the French Alps. It is made with potatoes, reblochon cheese, lardons and onions. A splash of white wine can be added too.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Une_tartiflette_sortie_du_four.jpg/500px-Une_tartiflette_sortie_du_four.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tartiflette",
+      "recipe": {
+        "ingredients": [
+          "1¾ pounds Yukon Gold potatoes (5 or 6 medium-sized ones, all the same size) or waxy boiling potatoes",
+          "5–6 ounces slab bacon or salt pork, cut into lardons about 1 x ¼ x ¼ inch",
+          "2 tablespoons butter",
+          "1 ea. (about 6 ounces) medium onion, finely chopped",
+          "¼ cup dry white wine or dry vermouth",
+          "6 tablespoons (¼ cup plus 2 tablespoons) heavy cream",
+          "½ tsp salt, or to taste",
+          "Pepper, to taste",
+          "½ pound reblochon cheese"
+        ],
+        "steps": [
+          "Boil potatoes in their skins for exactly 20 minutes, until they&#8217;re just beginning to get tender. Do not overcook! Rinse with cold water to stop the cooking.",
+          "While still warm, peel the potatoes with your fingers, then use a large, very sharp knife to cut them into slices about ⅓-inch thick. Then cut the slices into rough cubes.",
+          "While the potatoes are cooking, slice the slab bacon or salt pork into slices about ¼-inch thick. Then cut into lardons about ¼-inch across.",
+          "Melt the butter in a large sauté pan, then cook the lardons over medium-high heat until crisp and golden brown. Remove with a slotted spoon and set aside, leaving the bacon fat in the pan.",
+          "Preheat the oven to 350 °F.",
+          "Cook the onions in the bacon fat over medium heat, stirring often, until wilted and slightly golden. Drain in a strainer, pressing with a spoon to remove as much fat as possible, and leave them there.",
+          "Pour off the fat in the pan, return the bacon and onions, and add the wine. Cook over high heat until the wine is nearly evaporated.",
+          "Add the diced potatoes and cook for a minute or so, stirring constantly until all the ingredients are well mixed together.",
+          "Add the cream and salt and pepper to taste. Try using a little more salt than you might think is necessary, at least ½ teaspoon. Stir all the ingredients together for a minute.",
+          "Lightly butter the inside of an 10–11-inch earthenware baking dish. Add the potato mixture and smooth the surface.",
+          "Cut the Reblochon in two down across the top so that you have two pieces in the shape of a half-moon. Put one of the pieces away for another use. Use a sharp knife to lightly score the crust of the remaining half-cheese about every inch, including its side. Then, carefully slice horizontally through its center so that you now have two half-moon pieces.",
+          "Place the two pieces of cheese crust-side-up on top of the potatoes so that they form a circular cheese again.",
+          "Cover the dish tightly with aluminum foil and bake in the center of the oven for 1 hour.",
+          "Remove the foil and stir the cheese, including the crust, into the potatoes, mixing well.",
+          "Place 5–6 inches under the broiler and cook until golden brown on top."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATartiflette"
+      }
+    },
+    {
+      "id": "macaron",
+      "name": "Macaron",
+      "videoSearch": "https://www.youtube.com/results?search_query=Macaron%20recipe",
+      "description": "A macaron or French macaroon ( MAK-ə-ROON) is a sweet meringue-based confection made with egg white, icing sugar, granulated sugar, almond meal, and often food colouring. Since the 19th century, a typical Parisian-style macaron has been filled with a ganache, buttercream or jam.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/VanillaMacaron.jpg/500px-VanillaMacaron.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Macaron",
+      "recipe": {
+        "ingredients": [
+          "125 g icing sugar",
+          "125 g almond flour",
+          "125 g white superfine sugar",
+          "90 g (3 ea.) egg whites",
+          "Food coloring (concentrated variety)",
+          "Filling as desired (see notes)"
+        ],
+        "steps": [
+          "Combine the almond flour and icing sugar. Sift to remove lumps, and set aside.",
+          "Add the superfine sugar to the egg whites, and whip them to stiff peaks.",
+          "Add the food coloring to the egg whites and continue beating until incorporated.",
+          "Use a wooden spoon or rubber spatula to fold the almond flour mixture into the meringue in 3 batches. Mix until you get a lava-like batter (see notes).",
+          "Transfer the batter to a pastry bag fitted with an 8 mm round nozzle. Pipe 3 cm rounds on a baking sheet lined with baking paper.",
+          "Tap the sheet lightly on your work surface to even and flatten the mixture. Leave to air-dry for 30 minutes until a film forms on the surface of the cookies.",
+          "Bake for 12 minutes at 150°C with convection.",
+          "Remove from the oven and let cool completely. It's a good idea to move the parchment onto a cooling rack to avoid carryover cooking.",
+          "Peel the shells from the parchment, and sort them into pairs of equally sized shells.",
+          "Sandwich the cookies together with your desired filling."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABasic_French_Macarons"
+      }
+    },
+    {
+      "id": "profiterole",
+      "name": "Profiterole",
+      "videoSearch": "https://www.youtube.com/results?search_query=Profiterole%20recipe",
+      "description": "A profiterole, or chou à la crème, known as a cream puff in the US and Canada, is a filled French choux pastry ball with a typically sweet and moist filling of whipped cream, custard, pastry cream, or ice cream. They may be garnished with chocolate sauce, caramel, or a dusting of powdered sugar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Paris_2e_-_Rue_Vivienne_-_Restaurant_Le_Vaudeville_-_Profiteroles_au_chocolat.jpg/500px-Paris_2e_-_Rue_Vivienne_-_Restaurant_Le_Vaudeville_-_Profiteroles_au_chocolat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Profiterole"
+    },
+    {
+      "id": "madeleine",
+      "name": "Madeleine",
+      "videoSearch": "https://www.youtube.com/results?search_query=Madeleine%20recipe",
+      "description": "The madeleine is a small traditional cake that originated in Commercy and Liverdun, two communes of the Lorraine region in northeastern France. Madeleines are very small sponge cakes with a distinctive scallop shape acquired from being baked in pans with shell-shaped depressions.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Madeleines_pic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Madeleine_(cake)"
+    },
+    {
+      "id": "salade-nicoise",
+      "name": "Salade niçoise",
+      "videoSearch": "https://www.youtube.com/results?search_query=Salade%20ni%C3%A7oise%20recipe",
+      "description": "Salade niçoise is a salad that originated in the French city of Nice. It is traditionally made of tomatoes, hard-boiled eggs, Niçoise olives and anchovies or tuna, dressed with olive oil or, in some historical versions, a vinaigrette.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Nizza-Salat_an_der_F_Mittelmeerk%C3%BCste.JPG/500px-Nizza-Salat_an_der_F_Mittelmeerk%C3%BCste.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Salade_ni%C3%A7oise",
+      "recipe": {
+        "ingredients": [
+          "10 medium tomatoes",
+          "1 large cucumber",
+          "200 g small fresh broad (fava) beans or green beans",
+          "12 small fresh artichokes, cut into rounds",
+          "2 green bell peppers",
+          "6 small white onions",
+          "6 basil leaves, finely chopped",
+          "1 garlic clove",
+          "3 hard-boiled eggs",
+          "12 anchovy fillets, or 300 g tuna steak",
+          "100 g black olives",
+          "1 handful of capers",
+          "Olive oil",
+          "Salt to taste",
+          "Pepper to taste"
+        ],
+        "steps": [
+          "Cut the tomatoes in quarters and salt them lightly once. Cut the eggs into quarters or slices. Cut the anchovies into 3–4 chunks (if using tuna, cut into similarly sized pieces). Peel the cucumber and finely slice it. Cut the green peppers into thin rings, and do the same with the onions.",
+          "Cut the garlic in two and rub the sides and bottom of a large salad bowl with it. Toss all the ingredients except the tomatoes into the bowl.",
+          "Drain the tomatoes, re-salt lightly and add to salad. In a separate bowl, mix 6 spoonfuls of olive oil with the basil, pepper, and salt and pour over salad. Refrigerate before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ANi%C3%A7oise_Salad"
+      }
+    },
+    {
+      "id": "choucroute-garnie",
+      "name": "Choucroute garnie",
+      "videoSearch": "https://www.youtube.com/results?search_query=Choucroute%20garnie%20recipe",
+      "description": "Choucroute garnie (French for dressed sauerkraut) is an Alsatian recipe of sauerkraut with sausages and other salted meats and charcuterie, and often potatoes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/2021-01-10_13-08-38_ILCE-6500_DSC01353_DxO_%2850958169387%29.jpg/500px-2021-01-10_13-08-38_ILCE-6500_DSC01353_DxO_%2850958169387%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Choucroute_garnie",
+      "recipe": {
+        "ingredients": [
+          "1 or so tablespoons of duck fat",
+          "1 medium onion, finely chopped",
+          "2–3 small potatoes",
+          "5 juniper berries",
+          "1 clove",
+          "1–2 garlic cloves",
+          "1 or so tablespoons of coriander seed",
+          "½ tablespoon black mustard seed",
+          "2 strips of bacon (or the same amount of salted pork belly), sliced into rough squares",
+          "1 pound of sauerkraut",
+          "4 pork sausages",
+          "3 smoked pork slices, bone in",
+          "1 cup (240 ml) or so of white wine (dry)"
+        ],
+        "steps": [
+          "In a pot large enough to in the end hold everything, melt the duck fat over medium heat.",
+          "When hot, add the onions and sauté until translucent (about 5 minutes or so).",
+          "Then, add the sauerkraut, white wine, juniper berries, clove, coriander seed, mustard seed, and garlic.",
+          "Add the smoked pork and bacon.",
+          "Cover, and then simmer for about 2 hours.",
+          "In other pot, simmer the peeled potatoes and your sausages—don't boil, or your sausages will split open.",
+          "Simmer until potatoes are done (and by then the sausage will be, too).",
+          "Serve in a heap—sauerkraut at the bottom, various pig and potato parts on top."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChoucroute_(Sauerkraut_with_Meat_and_Potatoes)"
+      }
+    },
+    {
+      "id": "tarte-flambee",
+      "name": "Tarte flambée",
+      "localName": "Flammekueche",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tarte%20flamb%C3%A9e%20recipe",
+      "description": "Flammekueche (Alsatian), Flammkuchen (Standard German), or tarte flambée (French), is a speciality of the region of Alsace, German-speaking Moselle, Saarland, Baden and the Palatinate.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Flameukeusche_2.jpg/500px-Flameukeusche_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Flammekueche",
+      "recipe": {
+        "ingredients": [
+          "¼ cup all-purpose flour",
+          "¼ cup moderately hot water, about 110 °F (45 °C)",
+          "1 tbsp sugar",
+          "1 package yeast",
+          "2 cups all-purpose flour",
+          "1 tsp salt",
+          "¼ cup beer (home brew)",
+          "6 tbsp (¼ cup + 2 tbsp) milk",
+          "2 tbsp oil",
+          "1 medium (3 oz / 85 g) onion, finely chopped",
+          "1 cup crème fraîche, commercial or home made (see note)",
+          "½ tsp salt",
+          "¼ tsp pepper",
+          "4 pinches nutmeg",
+          "3 ounces bacon, cut into matchsticks"
+        ],
+        "steps": [
+          "Mix the starter ingredients together in a small bowl, cover tightly, and set aside in a warm place for 30 minutes.",
+          "When the starter is light and bubbly, mix the beer and milk into the mixture.",
+          "Put the flour and salt into a food processor, then, with the motor running, add the yeast mixture through the feeding tube. Process the dough until it forms a ball. Add very small amounts of additional flour or milk if necessary.",
+          "Process the ball until it is smooth, elastic, and warm, about 45 seconds to 1 minute.",
+          "Butter a medium-sized bowl, roll the ball around in the butter, then cover and let rise in a warm place until doubled. Punch down and let rise a second time.",
+          "While the dough is rising, heat 1 tablespoon of the oil in a nonstick skillet. Add the onion and cook, stirring, over low heat for 5 minutes or until golden brown. Let cool.",
+          "Combine the crème fraîche, salt, pepper, and nutmeg. Add the cooled onion.",
+          "Heat the remaining oil in the skillet and fry the bacon until lightly browned, stirring constantly. Remove and drain through a strainer.",
+          "Preheat the oven to 450 °F (220 °C) or as hot as it will go. If using a pizza stone, preheat the oven for at least 30 minutes.",
+          "Lightly oil a 14 x 16 inch (35 x 40 cm) baking sheet. Roll the dough until slightly smaller than the baking sheet. Place it on the sheet. If using a pizza stone you may roll the dough onto a sheet of parchment paper.",
+          "Spread the onion mixture over the dough, leaving a very small raised rim all the way around, then dot with the bacon.",
+          "Bake for 4 to 20 minutes depending on oven temperature. The tart should is lightly browned and bubbling. Burned/blackened edges are traditional. Serve very hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFlammekueche_(Bacon_and_Onion_Flatbread)"
+      }
+    },
+    {
+      "id": "pain-au-chocolat",
+      "name": "Pain au chocolat",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pain%20au%20chocolat%20recipe",
+      "description": "Pain au chocolat, also known as chocolatine in the south-west part of France and in French speaking parts of Canada, couque au chocolat (Flemish: chocoladekoek) in Belgium, or chocolate croissant in many English-speaking countries, is a type of viennoiserie consisting of a cuboid-shaped piece of yeast-leavened laminate…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Pain_au_chocolat_Luc_Viatour.jpg/500px-Pain_au_chocolat_Luc_Viatour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pain_au_chocolat"
+    },
+    {
+      "id": "mille-feuille",
+      "name": "Mille-feuille",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mille-feuille%20recipe",
+      "description": "A mille-feuille, also known as Napoleon in Russia and other post-Soviet states, as well as in North America, vanilla slice and custard slice in the United Kingdom, as well as Australia and New Zealand, is a French dessert made of puff pastry layered with pastry cream.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Mille-feuille_fran%C3%A7ais_1.jpg/500px-Mille-feuille_fran%C3%A7ais_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mille-feuille"
+    },
+    {
+      "id": "brandade-de-morue",
+      "name": "Brandade de morue",
+      "videoSearch": "https://www.youtube.com/results?search_query=Brandade%20de%20morue%20recipe",
+      "description": "Brandade (Occitan: Brandada) is an emulsion made from salt cod, olive oil, and usually potatoes. It is eaten in the winter with bread or potatoes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Brandada_de_Bacalao_-_098.jpg/500px-Brandada_de_Bacalao_-_098.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Brandade",
+      "recipe": {
+        "ingredients": [
+          "1 lb salt cod, skinless and boneless",
+          "1 cup olive oil",
+          "½ cup milk or heavy cream",
+          "1 tbsp fresh lemon juice, or to taste",
+          "1 cup finely-chopped onion",
+          "2 cloves garlic, pressed or grated with a microplane",
+          "Pepper"
+        ],
+        "steps": [
+          "Place the salt cod in a large bowl of cold water.",
+          "Soak for 24 hours, changing the water several times. When the fish has completely rehydrated, it is ready for the next step.",
+          "Poach the cod in plain water for 25 minutes or until it flakes easily when tested.",
+          "Drain and break it into pieces.",
+          "Cook the onion in olive oil over low heat until translucent.",
+          "In a food processor, purée the cod, onion, and garlic with half of the olive oil.",
+          "With the motor running add the milk or cream, rest of the oil, lemon juice and pepper.",
+          "Blend until smooth. If it is too thick, thin with milk or cream.",
+          "Serve on toast or over potato slices, coated with olive oil and roasted in a 400ºF (200ºC) oven for 30 to 40 minutes, turning once."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACod%2C_Olive_Oil%2C_and_Cream_Sauce_(Brandade_de_Morue)"
+      }
+    },
+    {
+      "id": "tripes-a-la-mode-de-caen",
+      "name": "Tripes à la mode de Caen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tripes%20%C3%A0%20la%20mode%20de%20Caen%20recipe",
+      "description": "Tripes à la mode de Caen is a traditional dish of the cuisine of Normandy, France.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Tripe_%C3%A0_la_mode_de_Caen_2.jpg/500px-Tripe_%C3%A0_la_mode_de_Caen_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tripes_%C3%A0_la_mode_de_Caen",
+      "recipe": {
+        "ingredients": [
+          "6 lb tripe, cut into 2-inch squares",
+          "1 calf's foot, boned and cut into pieces",
+          "2 lb marrow bone",
+          "1 cup apple brandy",
+          "2 cups dry white wine",
+          "4 cups beef broth",
+          "2 cups diced carrots",
+          "2 cups chopped onions",
+          "3 garlic cloves, pressed or minced",
+          "10 shallots, minced",
+          "½ cup celery leaves",
+          "¼ cup parsley, finely chopped",
+          "Salt",
+          "Pepper"
+        ],
+        "steps": [
+          "Preheat oven to 300°F.",
+          "Mix all of the ingredients together.",
+          "Place in a deep casserole or Dutch oven with a tight fitting lid. Then, wrap the casserole completely in foil.",
+          "Bake for 10–12 hours. Remove bones before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATripes_%C3%A0_la_mode_de_Caen_(Norman_Stewed_Tripe)"
+      }
+    }
+  ]
+}

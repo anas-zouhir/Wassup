@@ -1,0 +1,192 @@
+{
+  "country": "CV",
+  "dishes": [
+    {
+      "id": "cachupa",
+      "name": "Cachupa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cachupa%20recipe",
+      "description": "Cachupa is a dish from the Cape Verde islands, West Africa. It is a slow-cooked stew of corn (hominy), beans, fish or meat (sausage, pork, beef, goat or chicken), and often morcela (blood sausage). Referred to as the country's national dish, each island has its own regional variation.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Cachupa_2.jpg/500px-Cachupa_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cachupa",
+      "recipe": {
+        "ingredients": [
+          "2 pounds corned beef brisket, cut into cubes",
+          "1½ pound salt pork, cut into big chunks",
+          "3 teaspoons apple cider or white vinegar",
+          "2 fresh bay leaves",
+          "2 teaspoons powdered smoked paprika",
+          "1 teaspoon salt or to taste",
+          "½ teaspoon black pepper or to taste",
+          "3 tablespoons crushed garlic",
+          "1 cup feijao Pedro beans (rock beans)",
+          "3 tablespoons olive oil",
+          "2 medium-size onions, neatly chopped",
+          "2 large beef bouillon cubes",
+          "3 teaspoons tomato paste",
+          "About 18 cups watery",
+          "2 cups dry yellow hominy, well-rinsed",
+          "1 cup cranberry beans",
+          "1¼ cup large white fava beans",
+          "1 medium size madioca or yuca",
+          "4 cups collard greens or kale, rinsed and chopped",
+          "2 pounds chourico or linguica sausage, rinsed and sliced into rounds"
+        ],
+        "steps": [
+          "Season the corned beef and salt pork the night before with vinegar, bay leaves, smoked paprika, salt, black pepper, and 2 tablespoons crushed garlic. Let the meat marinate in the refrigerator overnight.",
+          "Soak the beans overnight as well.",
+          "In a saucepan, heat the olive oil over medium heat and add the neatly chopped onions and the remaining tablespoon of garlic. Transfer the bay leaves from the seasoned meat to the saucepan. Sauté the onions until fragrant.",
+          "Add the marinated meat to the saucepan and let brown for about 10 minutes (5 minutes for each side). Remove the meat from the saucepan and set aside.",
+          "Add the tomato paste and some of the crushed bouillon cubes to the saucepan. Whisk until smooth.",
+          "Add the meat back to the saucepan, then cover with water. Cover the pot and bring to a boil.",
+          "Stir in the hominy, bring to a boil, and reduce the heat to low. Cover and simmer for about 1 hour. Make sure there is enough water in the saucepan, and check on the hominy about every 20 minutes to give it a stir.",
+          "Remove the meat from the saucepan and shred it by lightly dragging a fork against it. This step is optional but can help break up some of the pieces of meat to make more space in the saucepan for the remaining ingredients.",
+          "Add the meat back to the saucepan, stir it again and add the cranberry beans, fava beans, yuca, and greens. If the ingredients seem too bulky, add about half of the greens at first and let it cook for about 5 minutes, then add the remaining ones. Let everything cook for about 50 minutes.",
+          "Add the chourico, and let cook for about 20 minutes.",
+          "Stir and taste the cachupa, then adjust the seasoning as desired. Leave it to simmer for another 10–15 minutes.",
+          "Remove from the heat, and let the cachupa rest, covered, for 20 minutes.",
+          "Enjoy with any complimentary or favourite side dish of your choice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACachupa_(Cape_Verdean_Corn_Stew)"
+      }
+    },
+    {
+      "id": "xarem",
+      "name": "Xerém",
+      "videoSearch": "https://www.youtube.com/results?search_query=Xer%C3%A9m%20recipe",
+      "description": "Xarém or xerém is a thick soup or porridge from Algarve, Portugal that is eaten in Cape Verde and Brazil as well. It has a corn flour base combined with other traditional ingredients which vary by region. The dish is prepared using corn meal, clams or sardines, and grilled meats.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Xar%C3%A9m_algarvio.jpg/500px-Xar%C3%A9m_algarvio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Xar%C3%A9m",
+      "recipe": {
+        "ingredients": [
+          "1 cup coarse cornmeal",
+          "4 cups fish stock, chicken stock, or water",
+          "2 tbsp olive oil",
+          "1 medium onion, finely chopped",
+          "3 cloves garlic, minced",
+          "500 g clams, cleaned",
+          "100 g bacon, diced",
+          "100 g chouriço or smoked sausage, sliced",
+          "½ cup dry white wine",
+          "1 bay leaf",
+          "2 tbsp fresh coriander (cilantro), chopped",
+          "Salt, to taste",
+          "Black pepper, to taste"
+        ],
+        "steps": [
+          "Rinse the clams thoroughly and discard any damaged shells.",
+          "Heat the olive oil in a large pot over medium heat.",
+          "Cook the bacon until lightly browned.",
+          "Add the sausage and cook for 2–3 minutes.",
+          "Stir in the onion and cook until softened.",
+          "Add the garlic and cook for 1 minute.",
+          "Pour in the white wine and add the bay leaf.",
+          "Add the clams, cover the pot, and cook until the shells open.",
+          "Remove the clams and set aside.",
+          "Strain the cooking liquid and return it to the pot.",
+          "Add the stock or water and bring to a boil.",
+          "Gradually add the cornmeal while stirring continuously to prevent lumps.",
+          "Reduce the heat and cook for 20–25 minutes, stirring frequently.",
+          "Return the clams, bacon, and sausage to the pot.",
+          "Stir in the coriander.",
+          "Season with salt and black pepper.",
+          "Serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AXar%C3%A9m_(Porridge_dish)"
+      }
+    },
+    {
+      "id": "bafa",
+      "name": "Bafa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bafa%20recipe",
+      "description": "Bafa is a traditional dish of the Capeverdean cuisine. It consists of a stew that can be prepared with limpets, whelks and octopus. The octopus variant is named octopus bafa (bafa de polvo).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Bafa_de_polvo.jpg/500px-Bafa_de_polvo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bafa_(food)",
+      "recipe": {
+        "ingredients": [
+          "1 kg octopus, cleaned and cut into pieces",
+          "500 g clams or mussels, cleaned",
+          "2 tbsp olive oil",
+          "1 large onion, finely chopped",
+          "4 cloves garlic, minced",
+          "2 medium tomatoes, diced",
+          "1 green bell pepper, chopped",
+          "1 bay leaf",
+          "1 tsp paprika",
+          "½ tsp black pepper",
+          "½ tsp chili flakes (optional)",
+          "1 cup dry white wine",
+          "2 cups fish stock or water",
+          "Salt, to taste",
+          "2 tbsp fresh parsley, chopped",
+          "Lemon wedges, for serving"
+        ],
+        "steps": [
+          "Heat the olive oil in a large pot over medium heat.",
+          "Add the onion and cook until softened.",
+          "Stir in the garlic and cook for 1 minute.",
+          "Add the tomatoes and bell pepper and cook until tender.",
+          "Stir in the paprika, black pepper, and chili flakes.",
+          "Add the octopus pieces and cook for 5 minutes.",
+          "Pour in the white wine and allow it to simmer for 2–3 minutes.",
+          "Add the fish stock and bay leaf.",
+          "Bring to a boil, then reduce the heat and simmer for 45 minutes.",
+          "Add the clams or mussels.",
+          "Cover and cook until the shellfish open, about 5–10 minutes.",
+          "Discard any shellfish that do not open.",
+          "Season with salt to taste.",
+          "Stir in the chopped parsley.",
+          "Remove the bay leaf.",
+          "Serve hot with lemon wedges."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABafa_(Cape_Verdean_Seafood_Stew)"
+      }
+    },
+    {
+      "id": "bolinhos-de-mandioca",
+      "name": "Bolinhos de mandioca com mel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bolinhos%20de%20mandioca%20com%20mel%20recipe",
+      "description": "Bolinhos de mandioca com mel (\"little balls of manioc with honey\") is a traditional Cape Verdean dessert. It is made by mixing whole eggs with molasses (referred to in Portuguese as \"cane honey\"). To this are added water, aguardente liquor, and oil.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bolinhos_de_mandioca_com_mel",
+      "recipe": {
+        "ingredients": [
+          "500 g cassava (mandioca), peeled and grated",
+          "2 eggs",
+          "3 tbsp sugar",
+          "1 tsp vanilla extract",
+          "½ tsp ground cinnamon",
+          "¼ tsp salt",
+          "Vegetable oil, for frying",
+          "4 tbsp honey, for serving"
+        ],
+        "steps": [
+          "Place the grated cassava in a large bowl.",
+          "Add the eggs, sugar, vanilla extract, cinnamon, and salt.",
+          "Mix thoroughly until a uniform batter forms.",
+          "Heat oil in a deep frying pan over medium heat.",
+          "Scoop small portions of the mixture and carefully place them into the hot oil.",
+          "Fry until golden brown on all sides, about 3–4 minutes.",
+          "Remove with a slotted spoon and drain on paper towels.",
+          "Arrange the fritters on a serving plate.",
+          "Drizzle generously with honey before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABolinhos_de_mandioca_com_mel"
+      }
+    },
+    {
+      "id": "canja",
+      "name": "Canja de galinha",
+      "videoSearch": "https://www.youtube.com/results?search_query=Canja%20de%20galinha%20recipe",
+      "description": "Canja de galinha (European Portuguese pronunciation: [kɐ̃ʒɐ ðɨ ɣɐˈlĩɲɐ], Brazilian Portuguese pronunciation: [kɐ̃ʒɐ dʒi gaˈlĩj̃ɐ], (literally \"chicken congee\"), or simply canja, is a popular chicken soup of Portuguese, Cape Verdean, and Brazilian cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Canja_de_galinha.jpg/500px-Canja_de_galinha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Canja_de_galinha"
+    },
+    {
+      "id": "grogue",
+      "name": "Grogue",
+      "videoSearch": "https://www.youtube.com/results?search_query=Grogue%20recipe",
+      "description": "Grogue, also known as grogu or grogo (derived from English grog), is a Cape Verdean alcoholic beverage, an aguardente made from sugarcane. Its production is fundamentally artisanal, and nearly all the sugarcane is used in the production of grogue. The cane is processed in a press known as a trapiche.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Grogue%2C_uma_bebida_de_Cabo_Verde_03092007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Grogue"
+    }
+  ]
+}

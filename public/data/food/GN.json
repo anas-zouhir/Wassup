@@ -1,0 +1,44 @@
+{
+  "country": "GN",
+  "dishes": [
+    {
+      "id": "fouti",
+      "name": "Fouti",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fouti%20recipe",
+      "description": "Lafidi (also known as lafidi and marawoulengni) is a vegetable and tomato sauce from Guinea (Guinean cuisine). It is also eaten in Senegalese cuisine.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Footi"
+    },
+    {
+      "id": "mafe",
+      "name": "Maafe",
+      "videoSearch": "https://www.youtube.com/results?search_query=Maafe%20recipe",
+      "description": "Peanut stew or groundnut stew, also known as maafe (Wolof mafé, maffé, maffe), and pate d'arachide (French), is a staple food stew in Western Africa.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mafe.malien.jpg/500px-Mafe.malien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peanut_stew"
+    },
+    {
+      "id": "fufu",
+      "name": "Fufu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fufu%20recipe",
+      "description": "Fufu (or fufuo, foofoo, foufou foo-foo ) is a pounded meal found in West African cuisine originally made from boiled cassava, plantains, and cocoyam. Fufu's prevalence in West Africa has been noted in local literature, such as Chinua Achebe's Things Fall Apart. Fufu is a Twi word originating from the Akans in Ghana.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Wrapped_fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fufu"
+    },
+    {
+      "id": "riz-gras",
+      "name": "Riz gras",
+      "videoSearch": "https://www.youtube.com/results?search_query=Riz%20gras%20recipe",
+      "description": "Riz gras or riz au gras is a rice-based dish in Beninese, Burkinabé, Guinean, Ivorian, and Togolese cuisines, in West Africa. It is also prepared in other African countries, such as Senegal, where it is called tiebou djen and is prepared with significant amounts of fish and meat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Plat_de_riz_au_gras_plus_viande.jpg/500px-Plat_de_riz_au_gras_plus_viande.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Riz_gras"
+    },
+    {
+      "id": "domoda",
+      "name": "Domoda",
+      "videoSearch": "https://www.youtube.com/results?search_query=Domoda%20recipe",
+      "description": "Domoda (also known as domoda farine or domodah) is a Senegalese dish. Like many dishes from Senegal, this one is also influenced by French cuisine. The name ragout comes from the French, a smooth, tomato-based sauce prepared with vinegar and vegetables, to which flour (farine) is added to thicken the sauce.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Domoda_Senegal.jpg/500px-Domoda_Senegal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Domoda"
+    }
+  ]
+}

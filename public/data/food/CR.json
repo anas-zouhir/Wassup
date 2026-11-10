@@ -1,0 +1,37 @@
+{
+  "country": "CR",
+  "dishes": [
+    {
+      "id": "gallo-pinto",
+      "name": "Gallo pinto",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gallo%20pinto%20recipe",
+      "description": "Gallo pinto or gallopinto is a traditional rice and bean dish from Central America. Consisting of rice and beans as a base, gallo pinto is important to both Nicaragua and Costa Rica, both of which consider it a national dish. The beans in gallo pinto are cooked with garlic, oregano and onion.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Gallo_Pinto.jpg/500px-Gallo_Pinto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gallo_pinto"
+    },
+    {
+      "id": "casado",
+      "name": "Casado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Casado%20recipe",
+      "description": "A casado (Spanish: married [dish, platillo) is a Costa Rican meal with rice, black beans, plantains, salad, a tortilla, and an optional protein source such as chicken, beef, pork, fish, and so on.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Casado_Tico.jpg/500px-Casado_Tico.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Casado"
+    },
+    {
+      "id": "olla-de-carne",
+      "name": "Olla de carne",
+      "videoSearch": "https://www.youtube.com/results?search_query=Olla%20de%20carne%20recipe",
+      "description": "Sancocho (from the Spanish verb sancochar, 'to parboil') is a traditional stew in several Caribbean and Latin American cuisines. Latin variations represent popular national dishes in Dominican Republic, Colombia, Cuba, Honduras, Mexico, Panama, Puerto Rico, Trinidad and Tobago and Venezuela.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Sancocho_de_espinazo_de_cerdo.jpg/500px-Sancocho_de_espinazo_de_cerdo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sancocho"
+    },
+    {
+      "id": "tamales",
+      "name": "Tamales",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tamales%20recipe",
+      "description": "A tamale is a traditional Mesoamerican dish made of masa, a dough made from nixtamalized corn, which is steamed in a corn husk or banana leaves. The wrapping can either be discarded prior to eating or used as a plate.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tamal_oaxaque%C3%B1o.jpg/500px-Tamal_oaxaque%C3%B1o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tamale"
+    }
+  ]
+}

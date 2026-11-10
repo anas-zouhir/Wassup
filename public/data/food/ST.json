@@ -1,0 +1,13 @@
+{
+  "country": "ST",
+  "dishes": [
+    {
+      "id": "calulu",
+      "name": "Calulu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Calulu%20recipe",
+      "description": "Calulu is a typical dish from Angola (Angolan cuisine) and São Tomé and Príncipe (Cuisine of São Tomé and Príncipe). Preparations of it can include fish or meat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Calulu.jpg/500px-Calulu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Calulu"
+    }
+  ]
+}

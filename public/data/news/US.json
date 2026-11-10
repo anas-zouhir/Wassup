@@ -1,0 +1,156 @@
+{
+  "country": "US",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "nyt",
+        "name": "The New York Times",
+        "homepage": "https://www.nytimes.com",
+        "lang": "en-US"
+      },
+      "fetchedAt": "2026-10-22T15:15:30.610Z",
+      "items": [
+        {
+          "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
+          "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
+          "summary": "A series of lawsuits has created a new de facto regulatory regime as courts order companies like Meta and Google to change their business practices — and pay up.",
+          "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22BIZ-META-ETA-1-01-qlpv/22BIZ-META-ETA-1-01-qlpv-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-10-22T14:33:42.000Z"
+        },
+        {
+          "title": "New U.S.-Israeli Plans to Attack Iran, and Trump’s Whistle-Blower Rewards Program",
+          "link": "https://www.nytimes.com/2026/10/22/podcasts/the-headlines/us-israel-iran-trump-whistleblower.html",
+          "summary": "Plus, America’s newest national park.",
+          "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22themorning-iran-03-vwtg/22themorning-iran-03-vwtg-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-10-22T10:02:49.000Z"
+        },
+        {
+          "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
+          "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
+          "summary": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
+          "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-russia-putin-ftcl/22int-russia-putin-ftcl-mediumSquareAt3X-v3.jpg",
+          "publishedAt": "2026-10-22T11:11:44.000Z"
+        },
+        {
+          "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
+          "link": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
+          "summary": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.",
+          "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22biz-midterm-ai-disinfo-fjtz/22biz-midterm-ai-disinfo-fjtz-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-10-22T14:34:09.000Z"
+        },
+        {
+          "title": "Employers Shift Rising Health Care Costs Onto Millions of Workers",
+          "link": "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html",
+          "summary": "New surveys show that increases in premiums and deductibles are forcing people to forgo treatments or doctor’s visits while budgets are strained by higher food and gas prices.",
+          "publishedAt": "2026-10-22T09:03:14.000Z"
+        },
+        {
+          "title": "In San Francisco, a Family Earning $325,000 Qualifies for Government Aid",
+          "link": "https://www.nytimes.com/2026/10/21/us/san-francisco-cost-living-affordable-housing.html",
+          "summary": "With the A.I. boom driving up prices, the city is subsidizing child care for households with high incomes. Even with the help, families say they are struggling.",
+          "image": "https://static01.nyt.com/images/2026/10/07/multimedia/00nat-sf-unaffordable-01-qzmv/00nat-sf-unaffordable-01-qzmv-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-10-21T13:08:43.000Z"
+        },
+        {
+          "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
+          "link": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
+          "summary": "Renewed hostilities might not be any more successful than the war’s first phase, and President Trump has repeatedly canceled plans for a return to major combat.",
+          "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-iran-strikes-01-cqpg/21dc-iran-strikes-01-cqpg-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-10-22T00:58:22.000Z"
+        },
+        {
+          "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+          "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+          "summary": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors.",
+          "image": "https://static01.nyt.com/images/2026/10/22/world/22int-Saudi-Diplos-aifb/22int-Saudi-Diplos-aifb-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-10-22T13:34:27.000Z"
+        },
+        {
+          "title": "Stocks Fall and Oil Rises as Investors Retreat from Mounting Risks",
+          "link": "https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html",
+          "summary": "Earnings reports from big technology companies spooked investors and the price of oil jumped to its highest level in months.",
+          "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22osg-promo-lqhb/22osg-promo-lqhb-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-10-22T13:43:13.000Z"
+        },
+        {
+          "title": "METRO with Sarah Koenig: Episode 2",
+          "link": "https://www.nytimes.com/2026/10/22/podcasts/karat-and-schtick.html",
+          "summary": "In New York’s diamond district, there’s a war on: real vs. fake. It’s hard to know which side is which.",
+          "image": "https://static01.nyt.com/images/2026/10/14/multimedia/serial-METRO-ep-2-diamond-district-photo-zjmp/serial-METRO-ep-2-diamond-district-photo-zjmp-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-10-22T14:56:17.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "npr",
+        "name": "NPR",
+        "homepage": "https://www.npr.org",
+        "lang": "en-US"
+      },
+      "fetchedAt": "2026-10-22T15:15:30.650Z",
+      "items": [
+        {
+          "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+          "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
+          "summary": "The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs.",
+          "publishedAt": "2026-10-22T13:50:55.000Z"
+        },
+        {
+          "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+          "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+          "summary": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla.",
+          "publishedAt": "2026-10-22T11:28:24.000Z"
+        },
+        {
+          "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
+          "summary": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement.",
+          "publishedAt": "2026-10-22T09:01:00.000Z"
+        },
+        {
+          "title": "Trump merchandise stores are closing: 'He has peaked'",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
+          "summary": "At least four Trump merchandise stores have closed this year. Store owners say with Trump in his final term, there isn't as much to fire up his consumer fan base and sales have softened.",
+          "publishedAt": "2026-10-22T09:00:00.000Z"
+        },
+        {
+          "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
+          "summary": "Republican U.S. Rep. David Valadao is fighting for reelection in central California. 6 in 10 residents of his district are covered by Medicaid, which he voted to cut last year.",
+          "publishedAt": "2026-10-22T09:00:00.000Z"
+        },
+        {
+          "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
+          "summary": "President Trump, seeking to reshape the voting map, prompted a rare wave of mid-decade redistricting that gave Republicans a boost for holding the House. But the voters will determine if it works.",
+          "publishedAt": "2026-10-22T09:00:00.000Z"
+        },
+        {
+          "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
+          "summary": "A new analysis finds that the average renter household now needs 16 years to save for a down payment and closing costs. Rising rents and other costs have consumed a growing share of household budgets.",
+          "publishedAt": "2026-10-22T09:00:00.000Z"
+        },
+        {
+          "title": "See how Big Tech is transforming Spain's landscape",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
+          "summary": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.",
+          "publishedAt": "2026-10-22T09:00:00.000Z"
+        },
+        {
+          "title": "Can a dream help you solve a problem? Here's how to try tonight",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6008129/dream-incubation-research-self-discovery",
+          "summary": "What can you learn from dreams and how can you remember them and steer them to the topics you wish to dream about. Allison Aubrey and A Martinez discuss the resurgance in dream research and how dreams are a tool for…",
+          "publishedAt": "2026-10-22T09:00:00.000Z"
+        },
+        {
+          "title": "Farm country has beef with Trump as midterms approach",
+          "link": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach",
+          "summary": "President Trump's attempts to bring beef prices down has potentially backfired politically in several key states.",
+          "publishedAt": "2026-10-22T09:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

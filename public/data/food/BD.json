@@ -1,0 +1,183 @@
+{
+  "country": "BD",
+  "dishes": [
+    {
+      "id": "shorshe-ilish",
+      "name": "Shorshe ilish",
+      "localName": "সর্ষে ইলিশ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shorshe%20ilish%20recipe",
+      "description": "Shorshe ilish is a Bengali dish, native to the Bengal region of South Asia, made from hilsa or Tenualosa ilisha, a type of herring, cooked in mustard gravy. The dish is popular among the people of Bangladesh. It is widely considered the national dish of Bangladesh.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80_%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87_%E0%A6%87%E0%A6%B2%E0%A6%BF%E0%A6%B6.jpg/500px-%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80_%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87_%E0%A6%87%E0%A6%B2%E0%A6%BF%E0%A6%B6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shorshe_ilish"
+    },
+    {
+      "id": "bhuna-khichuri",
+      "name": "Khichuri",
+      "localName": "খিচুড়ি",
+      "videoSearch": "https://www.youtube.com/results?search_query=Khichuri%20recipe",
+      "description": "Khichdi or khichri is a dish in South Asian cuisine made of rice and lentils (dal) with numerous variations. Variations include bajra and mung dal khichri. In Indian culture, in several regions, especially in the northern areas, it is one of the first solid foods that babies eat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dall_Khichdi.jpg/500px-Dall_Khichdi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Khichdi",
+      "recipe": {
+        "ingredients": [
+          "1 cup white fragrant rice (e.g Basmati rice or short-grained pilau rice)",
+          "1 cup green gram or red split lentils",
+          "½ cup split dried chickpeas (preferably Bengal variety; optional)",
+          "½ cup garden peas (optional)",
+          "2 tablespoons butter (preferably ghee)",
+          "½ teaspoon turmeric powder",
+          "2 whole green chiles, slit in the middle and optionally de-seeded",
+          "Salt to taste",
+          "4 cups water for boiling",
+          "2 bay leaves",
+          "4 green cardamom pods",
+          "4 whole cloves",
+          "2 sticks of cinnamon 1 inch long",
+          "¼ teaspoon cumin seeds",
+          "2 cm piece of ginger, finely chopped",
+          "1 medium or 2 small onions, thinly sliced",
+          "2 tablespoons butter preferably ghee",
+          "1 bunch coarsely chopped fresh coriander leaves"
+        ],
+        "steps": [
+          "Rinse rice, lentils, and chickpeas separately in cold water.",
+          "Dry rice in a colander or on a flat surface.",
+          "Leave lentils and chickpeas to soak in water for 30 minutes.",
+          "Drain lentils and chickpeas, then roast them briefly until they emit an aroma; set aside to cool.",
+          "Heat water in a kettle to use later. Keep warm but not boiling.",
+          "Semi-crush cardamom, cinnamon, and cloves.",
+          "Heat 2 tbsp butter in a heavy-based pan over medium heat. Add bay leaf and semi-crushed spices in; once they start to sputter, add sliced ginger and cumin. Stir for 1–2 minutes until ginger has a nutty aroma.",
+          "Add green chili and garden peas, and stir once or twice.",
+          "Add rice to the mixture and stir gently for 2–3 minutes, making sure the oil coats it thoroughly.",
+          "Add lentils, chickpeas and salt; stir again for 1–2 more minutes",
+          "Add hot water to the pan. The level of water should be about 1 inch above the mixture. Lower the heat slightly, cover, and simmer until done. Check regularly to make sure rice does not burn at the bottom. Rice and lentils are done when there is no hard part in rice, it is medium firm, each one is easily separable, but not very soft or sticky. This should take around 10 minutes.",
+          "While the rice is simmering, heat the remaining butter in a separate frying pan. Fry the onion on a medium heat until it starts to brown.",
+          "When rice mixture is done, top with onion and accompanying oil. Garnish with coriander.",
+          "Turn down the heat to the lowest and cover until served which should not take long."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABhuna_Khichuri_(Bengali_Rice_and_Lentils)"
+      }
+    },
+    {
+      "id": "panta-bhat",
+      "name": "Panta bhat",
+      "localName": "পান্তা ভাত",
+      "videoSearch": "https://www.youtube.com/results?search_query=Panta%20bhat%20recipe",
+      "description": "Panta bhat or poita bhat (Bengali: পান্তা ভাত pàntà bhàt; Assamese: পঁইতা ভাত poĩta bhat or পন্তা ভাত ponta bhat) consists of cooked rice soaked and fermented in water. The liquid part is known as Toraṇi in Odia. It is a rice-based dish prepared by soaking rice, generally leftover, in water overnight.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Panta_Ilish.jpg/500px-Panta_Ilish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Panta_bhat"
+    },
+    {
+      "id": "kala-bhuna",
+      "name": "Kala bhuna",
+      "localName": "কালা ভুনা",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kala%20bhuna%20recipe",
+      "description": "Kala bhuna (Bengali: কালা ভুনা, Chittagonian: হালা ভুনো, romanized: Hala bhuno) is a meat curry made of beef or mutton, originating from Chittagong, Bangladesh. Different types of spices are needed to prepare this traditional dish of Chittagong.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Kala_bhuna_1.jpg/500px-Kala_bhuna_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kala_Bhuna"
+    },
+    {
+      "id": "mezban",
+      "name": "Mezban",
+      "localName": "মেজবান",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mezban%20recipe",
+      "description": "Mezban (Bengali: মেজবান), locally known as Mejjan (Chittagonian: মেজ্জান) is a popular festival held in Chittagong, Bangladesh. Historically Mezban is a traditional regional Bengali feast and nowadays refers to both the regional tradition and the feast that results in common usage.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/The_unique_culture_of_hospitality%2C_the_Mejbani_Bhoj.jpg/500px-The_unique_culture_of_hospitality%2C_the_Mejbani_Bhoj.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mezban"
+    },
+    {
+      "id": "chingri-malai-curry",
+      "name": "Chingri malai curry",
+      "localName": "চিংড়ি মালাইকারি",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chingri%20malai%20curry%20recipe",
+      "description": "Chingri malai curry or malai chingri, also known as prawn malai curry, is a Bengali curry made from tiger (bagda) and king prawns (chingri) and coconut milk flavoured with spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg/500px-Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chingri_malai_curry"
+    },
+    {
+      "id": "pitha",
+      "name": "Pitha",
+      "localName": "পিঠা",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pitha%20recipe",
+      "description": "Pitha (piṭhā; also called piṭhē) are a variety of food similar to pancakes, dumplings or fritters, originating from the eastern part of the Indian subcontinent (i.e., South Asia). Pitha can be sweet or savoury, and usually made from a dough or batter, which is then steamed, fried or griddled.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Pitha_for_Wedding-_Pakan%2C_Patishapta%2C_Bharandash.jpg/500px-Pitha_for_Wedding-_Pakan%2C_Patishapta%2C_Bharandash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pitha"
+    },
+    {
+      "id": "borhani",
+      "name": "Borhani",
+      "localName": "বোরহানি",
+      "videoSearch": "https://www.youtube.com/results?search_query=Borhani%20recipe",
+      "description": "Borhani (Bengali: বোরহানী) is a traditional yoghurt-based savoury drink from Bangladesh. Borhani is made from sour doi, green chili, mustard seeds, black salt, coriander and mint. It is considered by some to be a type of lassi.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/A_Glass_of_Borhani.jpg/500px-A_Glass_of_Borhani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Borhani",
+      "recipe": {
+        "ingredients": [
+          "3 tsp cumin seeds",
+          "500 mL (2 cups) full-fat plain yoghurt",
+          "1 cup (200 mL) cold water",
+          "½ tsp fresh green chile peppers",
+          "½ tsp mint",
+          "½ tsp coriander",
+          "¾ tsp white mustard seeds",
+          "¾ tsp ground white pepper",
+          "½ tsp ground black pepper",
+          "3 tsp sugar",
+          "½ tsp rock salt",
+          "½ tsp salt"
+        ],
+        "steps": [
+          "Dry-roast cumin seeds by cooking them over low heat in small pan until you can smell the seasoning, about 2 minutes. Cool and grind to a powder.",
+          "Beat yoghurt with water until it becomes smooth. Strain green chili, mint, leaf and coriander pastes with some water blend into the yoghurt. Combine all other ingredients and mix well.",
+          "Serve cold."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABorhani_(Spiced_Yogurt_Drink)"
+      }
+    },
+    {
+      "id": "mishti-doi",
+      "name": "Mishti doi",
+      "localName": "মিষ্টি দই",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mishti%20doi%20recipe",
+      "description": "Mishti doi (Bengali: মিষ্টি দই; transl. Sweet curd) is a fermented sweet doi (curd) originating from the Bengal region of the Indian subcontinent. It is popular in Bangladesh and in the Indian states of West Bengal, Tripura, Assam's Barak Valley. It is made with milk and sugar or jaggery.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Mishti_Doi.jpg/500px-Mishti_Doi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mishti_doi",
+      "recipe": {
+        "ingredients": [
+          "3 cups whole milk",
+          "¾ cup sugar",
+          "1 tablespoon yoghurt, whisked",
+          "1 tablespoon water"
+        ],
+        "steps": [
+          "Place a heavy-bottomed pan on the heat. Add milk, and warm it on medium heat.",
+          "Keep aside ⅓ of the sugar and add the rest of sugar to the milk.",
+          "Reduce the heat and continue to heat the milk until it reduces by half. Remove from the heat and and keep aside.",
+          "Add the remaining sugar to another pan over medium heat. Allow the sugar to get warm and then melt. You will gradually notice the sugar browning and caramelizing.",
+          "When it gets to the point of a golden bubbly mixture, add a tablespoon of water in the caramelized sugar and then pour this mixture into the heavy-bottomed pan with milk. Stir well until combined.",
+          "Once milk cools off, add the whisked yoghurt, stir well and pour the mixture into earthen pots.",
+          "Let the doi set in a warm place for few hours. Once set, refrigerate and serve chilled."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMishti_Doi_(Bengali_Sweetened_Yogurt)"
+      }
+    },
+    {
+      "id": "chomchom",
+      "name": "Chomchom",
+      "localName": "চমচম",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chomchom%20recipe",
+      "description": "Cham cham, Chomchom or chum chum (Bengali: চমচম) is a traditional Bengali sweet, common throughout the Indian subcontinent. The sweet comes in a variety of colours, mainly light pink, light yellow, and white. It is made from chhena and coated with coconut or mawa flakes as a garnish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/BD_Porabarir_Chamcham.JPG/500px-BD_Porabarir_Chamcham.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chomchom"
+    },
+    {
+      "id": "fuchka",
+      "name": "Fuchka",
+      "localName": "ফুচকা",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fuchka%20recipe",
+      "description": "Panipuri (also known by other names, including phuchka and golgappa) is a snack associated with the cuisines of the Indian subcontinent consisting of a deep-fried spherical puri shell, hollowed out for a filling and dipped in flavoured waters.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Pani_Puri1.JPG/500px-Pani_Puri1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Panipuri"
+    }
+  ]
+}

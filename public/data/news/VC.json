@@ -1,0 +1,34 @@
+{
+  "country": "VC",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "iwitness-news",
+        "name": "iWitness News",
+        "homepage": "https://www.iwnsvg.com",
+        "lang": "en-VC"
+      },
+      "fetchedAt": "2026-10-22T15:15:56.448Z",
+      "items": [
+        {
+          "title": "Vincy Jewels rebound against Canada after Trinbago trouncing",
+          "link": "https://www.iwnsvg.com/2026/10/22/vincy-jewels-rebound-against-canada-after-trinbago-trouncing/",
+          "summary": "BRIDGETOWN, Barbados – Vincentian goal shooter Mary-Ann Frederick netted 44 goals from 45 attempts, ensuring no hiccups in St. Vincent and the Grenadines’ 51 –41 victory over Canada on Wednesday,...",
+          "publishedAt": "2026-10-22T08:56:40.000Z"
+        },
+        {
+          "title": "SVG sends largest-ever team to Caribbean Dinghy Championships",
+          "link": "https://www.iwnsvg.com/2026/10/22/svg-sends-largest-ever-team-to-caribbean-dinghy-championships/",
+          "summary": "St. Vincent and the Grenadines (SVG) is sending its largest national sailing contingent to the Caribbean Dinghy Championships 2026, taking place from Thursday to Sunday in St. Maarten. The seven-member...",
+          "publishedAt": "2026-10-22T07:27:26.000Z"
+        },
+        {
+          "title": "VINLEC fuel surcharge rises to 86.71 cents despite $798,000 subsidy",
+          "link": "https://www.iwnsvg.com/2026/10/20/vinlec-fuel-surcharge-rises-to-86-71-cents-despite-798000-subsidy/",
+          "summary": "The fuel surcharge rate applicable to electricity bills for October 2026 is 86.71 cents per kWh despite an EC$798,591 subsidy, VINLEC announced on Tuesday. “This is an increase of 7...",
+          "publishedAt": "2026-10-20T20:37:34.000Z"
+        }
+      ]
+    }
+  ]
+}

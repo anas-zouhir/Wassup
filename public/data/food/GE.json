@@ -1,0 +1,175 @@
+{
+  "country": "GE",
+  "dishes": [
+    {
+      "id": "khachapuri",
+      "name": "Khachapuri",
+      "localName": "ხაჭაპური",
+      "videoSearch": "https://www.youtube.com/results?search_query=Khachapuri%20recipe",
+      "description": "Khachapuri is a Georgian dish of cheese-filled bread. The bread is leavened and allowed to rise, molded into various shapes, and then filled in the center with a mixture of cheese, and sometimes eggs or other ingredients. It is popular in Georgia, both in restaurants and as street food.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Old_Tbilisi%2C_Georgian_khachapuri%2C_Georgia.jpg/500px-Old_Tbilisi%2C_Georgian_khachapuri%2C_Georgia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Khachapuri",
+      "recipe": {
+        "ingredients": [
+          "½ cup warm water",
+          "1 packet (¼ oz) active dry yeast",
+          "1 Tbsp white granulated sugar",
+          "3 eggs",
+          "2 cups flour, plus more to dust counter top, hands, etc.",
+          "3 eggs",
+          "8 oz feta cheese, grated or cut into small pieces",
+          "12 oz smoked provolone cheese, grated or cut into small pieces",
+          "2 oz grated Parmesan cheese, grated or cut into small pieces"
+        ],
+        "steps": [
+          "Add sugar to warm water in a large bowl. Add yeast and wait 5 minutes.",
+          "Add eggs, flour, and salt. Mix with fork until dough becomes too stiff.",
+          "Knead with hands until smooth, approximately five minutes, on floured surface. Add flour as needed if dough sticks to your hands.",
+          "Let dough rise in greased bowl for 30 minutes in a warm place or until doubled in size. Punch down dough, and let it rise again.",
+          "While dough is rising, mix ingredients for filling in separate bowl.",
+          "Preheat oven to 350°F.",
+          "When dough is ready, divide in half. With a rolling pin, flatten dough until it is the size and shape of your cookie sheet. Carefully lay flattened dough on greased cookie sheet.",
+          "Cover dough with cheese filling prepared as above, spreading evenly to within ½ inch of the edge of dough. Roll out the remaining dough to the same size as shape. Cover cheese filling with second layer of dough. Moisten the edges of the dough with water and press to seal.",
+          "Bake at 350°F for 10 minutes. Butter the top layer of dough liberally. Return Khachapuri to oven and continue cooking until dough is golden brown.",
+          "Cut with a pizza cutter or knife. Serve hot, cold, or reheated in the microwave!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKhachapuri_(Georgian_Cheese_Bread)"
+      }
+    },
+    {
+      "id": "khinkali",
+      "name": "Khinkali",
+      "localName": "ხინკალი",
+      "videoSearch": "https://www.youtube.com/results?search_query=Khinkali%20recipe",
+      "description": "Khinkali (Georgian: ხინკალი, romanized: khink'ali, plural Georgian: ხინკლები, romanized: khink'lebi) is a dumpling in Georgian cuisine. It is made of twisted knobs of dough, stuffed with meat, fish or vegetables and spices. Khinkali originate in the mountainous regions of eastern Georgia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Khinkali%2C_Restaurant_Aragvi.jpg/500px-Khinkali%2C_Restaurant_Aragvi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Khinkali"
+    },
+    {
+      "id": "churchkhela",
+      "name": "Churchkhela",
+      "localName": "ჩურჩხელა",
+      "videoSearch": "https://www.youtube.com/results?search_query=Churchkhela%20recipe",
+      "description": "Churchkhela (Georgian: ჩურჩხელა, romanized: churchkhela; CHURCH-kheh-LAH) is a traditional Georgian candle-shaped brittle confection. The main ingredients of churchkhela are grape must, nuts, and flour.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Kakheti%2C_Georgia_%E2%80%94_Churchkhela.jpg/500px-Kakheti%2C_Georgia_%E2%80%94_Churchkhela.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Churchkhela"
+    },
+    {
+      "id": "lobio",
+      "name": "Lobio",
+      "localName": "ლობიო",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lobio%20recipe",
+      "description": "Lobio (Georgian: ლობიო) is a traditional Georgian dish of various kinds of prepared beans (cooked or stewed), also containing coriander, walnuts, garlic and onion. There are many varieties of lobio, both hot and cold.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Lobio_with_summer_savory_and_ajika.jpg/500px-Lobio_with_summer_savory_and_ajika.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lobio"
+    },
+    {
+      "id": "satsivi",
+      "name": "Satsivi",
+      "localName": "საცივი",
+      "videoSearch": "https://www.youtube.com/results?search_query=Satsivi%20recipe",
+      "description": "Satsivi (Georgian: საცივი, romanized: satsivi, lit. 'cold dish'; also known as chicken in walnut sauce) is a Georgian dish. It is made using poultry (such as chicken or turkey) put into a walnut sauce, typically seasoned with salt, pepper, garlic, fenugreek, coriander and cinnamon.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Satsivi_%282%29.jpg/500px-Satsivi_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Satsivi"
+    },
+    {
+      "id": "pkhali",
+      "name": "Pkhali",
+      "localName": "ფხალი",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pkhali%20recipe",
+      "description": "Pkhali (Georgian: ფხალი) is a traditional Georgian dish of chopped and minced vegetables, made of cabbage, eggplant, spinach, beans, beets and combined with ground walnuts, vinegar, onions, garlic, and herbs. Pkhali is also called mkhali. The common ingredient of all variations of pkhali is puréed walnut sauce.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Pkhali%2C_Badrijani_and_Ajika.jpg/500px-Pkhali%2C_Badrijani_and_Ajika.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pkhali"
+    },
+    {
+      "id": "chakapuli",
+      "name": "Chakapuli",
+      "localName": "ჩაქაფული",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chakapuli%20recipe",
+      "description": "Chakapuli (Georgian: ჩაქაფული, romanized: chakapuli) is a Georgian stew. It is considered to be one of the most popular dishes in Georgia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/PXL_20260504_183036483.MP.jpg/500px-PXL_20260504_183036483.MP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chakapuli"
+    },
+    {
+      "id": "badrijani-nigvzit",
+      "name": "Badrijani nigvzit",
+      "localName": "ბადრიჯანი ნიგვზით",
+      "videoSearch": "https://www.youtube.com/results?search_query=Badrijani%20nigvzit%20recipe",
+      "description": "Nigvziani badrijani (Georgian: ნიგვზიანი ბადრიჯანი, romanized: nigvziani badrijani, lit. 'walnut eggplant'), or Voloran (Armenian: վոլորան) is a Georgian and Armenian dish made with fried eggplant stuffed with a spiced walnut and garlic paste. It is often topped with pomegranate seeds.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Roulade_aubergines_noix_-_la_cuisine_arm%C3%A9nienne.jpg/500px-Roulade_aubergines_noix_-_la_cuisine_arm%C3%A9nienne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nigvziani_badrijani"
+    },
+    {
+      "id": "kharcho",
+      "name": "Kharcho",
+      "localName": "ხარჩო",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kharcho%20recipe",
+      "description": "Kharcho, also spelled Harcho (Georgian: ხარჩო), is a traditional Georgian soup containing beef, rice, cherry plum purée, and chopped walnuts (Juglans regia), but they are not compulsory. The soup is seasoned with Khmeli Suneli and coriander. The soup is usually served with finely chopped fresh coriander.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Kharcho_soup_of_beef_with_walnuts_and_rice%2C_Georgian_cuisine_%282%29.jpg/500px-Kharcho_soup_of_beef_with_walnuts_and_rice%2C_Georgian_cuisine_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kharcho"
+    },
+    {
+      "id": "chakhokhbili",
+      "name": "Chakhokhbili",
+      "localName": "ჩახოხბილი",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chakhokhbili%20recipe",
+      "description": "Chakhokhbili is a traditional Georgian dish of stewed chicken and tomato with fresh herbs. The characteristic feature of Chakhokhbili is to dry-fry chicken without adding any kind of oil. Its name comes from the Georgian word ხოხობი (khokhobi) which means \"pheasant\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/%D0%A7%D0%B0%D1%85%D0%BE%D1%85%D0%B1%D0%B8%D0%BB%D0%B8.JPG/500px-%D0%A7%D0%B0%D1%85%D0%BE%D1%85%D0%B1%D0%B8%D0%BB%D0%B8.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chakhokhbili"
+    },
+    {
+      "id": "ajapsandali",
+      "name": "Ajapsandali",
+      "localName": "აჯაფსანდალი",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ajapsandali%20recipe",
+      "description": "Ajapsandali, ajapsandal is a traditional Georgian and Armenian dish, also popular in the Northern Caucasus. It consists of onion, eggplant, tomato and bell pepper grilled, stewed, or fried in vegetable oil and seasoned with garlic, basil, coriander leaves, parsley and other seasoning.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Ajapsandali_-_Georgian_eggplant_stew.jpg/500px-Ajapsandali_-_Georgian_eggplant_stew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ajapsandali"
+    },
+    {
+      "id": "tkemali",
+      "name": "Tkemali",
+      "localName": "ტყემალი",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tkemali%20recipe",
+      "description": "Tkemali (Georgian: ტყემალი, romanized: t'q'emali) is a Georgian sauce primarily made of cherry plum; alucha plum and red-leaf plum are also common plum species used to make Tkemali in Georgia. While the sauce is typically red, both red and green varieties of these plums may be used.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Red_and_brown_tkemali.jpg/500px-Red_and_brown_tkemali.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tkemali"
+    },
+    {
+      "id": "chikhirtma",
+      "name": "Chikhirtma",
+      "localName": "ჩიხირთმა",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chikhirtma%20recipe",
+      "description": "Chikhirtma is a traditional Georgian soup. Chikhirtma is described as a soup almost completely without a vegetable base. It is made with chicken broth, thickened with beaten eggs (or only yolks).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Chikhirtma.jpg/500px-Chikhirtma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chikhirtma"
+    },
+    {
+      "id": "gozinaki",
+      "name": "Gozinaki",
+      "localName": "გოზინაყი",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gozinaki%20recipe",
+      "description": "Gozinaki is a traditional Georgian brittle confection made of caramelized nuts, usually walnuts, and fried in honey. In the western Georgian provinces of Imereti and Racha, it was sometimes called \"churchkhela\", a name more commonly applied to walnuts sewn onto a string, dipped in thickened white grape juice and dried.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Gozinaki_with_walnuts.jpg/500px-Gozinaki_with_walnuts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gozinaki"
+    },
+    {
+      "id": "shotis-puri",
+      "name": "Shotis puri",
+      "localName": "შოთის პური",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shotis%20puri%20recipe",
+      "description": "Shotis puri or simply shoti (Georgian: შოთი) is a type of traditional Georgian bread, made of white flour and shaped like a canoe. Shoti is baked in a specific bakery called tone or torne/turne (old Georgian). The word is cognate with tandoor.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/%D0%A8%D0%BE%D1%82%D0%B8_%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%BB%D0%B5%D0%B1.jpg/500px-%D0%A8%D0%BE%D1%82%D0%B8_%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%BB%D0%B5%D0%B1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shoti"
+    },
+    {
+      "id": "elarji",
+      "name": "Elarji",
+      "localName": "ელარჯი",
+      "videoSearch": "https://www.youtube.com/results?search_query=Elarji%20recipe",
+      "description": "Elarji (Georgian: ელარჯი) is a traditional Georgian dish and a staple for the Samegrelo region of the country. It is prepared by kneading a large amount of sulguni cheese into a thick porridge (ghomi) made from cornmeal and flour. The dish is distinguished by its high elasticity and uniform structure.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Elarji_in_Acha-Chacha_restaurant.jpg/500px-Elarji_in_Acha-Chacha_restaurant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Elarji"
+    }
+  ]
+}

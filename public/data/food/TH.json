@@ -1,0 +1,512 @@
+{
+  "country": "TH",
+  "dishes": [
+    {
+      "id": "pad-thai",
+      "name": "Pad thai",
+      "localName": "ผัดไทย",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pad%20thai%20recipe",
+      "description": "Pad thai is a stir-fried rice noodle dish commonly served as a street food in Thailand as part of Thai cuisine. It is typically made with rice noodles, shrimp, peanuts, green onions, scrambled egg, sugar and bean sprouts. The ingredients are fried in a wok.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Phat_Thai_kung_Chang_Khien_street_stall.jpg/500px-Phat_Thai_kung_Chang_Khien_street_stall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pad_thai",
+      "recipe": {
+        "ingredients": [
+          "½ pound (225 g) rice noodles",
+          "¼ cup (60 ml) fish sauce",
+          "3+ tablespoons (50 ml) white vinegar (or rice vinegar)",
+          "¼ cup plus 1 tablespoon (75 ml) tamarind juice",
+          "¼ cup and 1 tablespoon (75 ml) palm sugar (or granulated sugar)",
+          "4 tablespoons (60 ml) vegetable oil",
+          "2 cloves garlic, chopped",
+          "2 tablespoons (30 ml) dried red chili pepper flakes (or to taste)",
+          "½ pound (225 g) of shrimp, tofu, chicken, squid, or beef (or a combination thereof)",
+          "Assorted vegetables (e.g., shredded carrots, white onions, red or green peppers)",
+          "2 eggs",
+          "4 chopped green onions",
+          "¾ pound (340 g) bean sprouts",
+          "¾ cup (175 ml) chopped unroasted peanuts",
+          "Wedge of lime (garnish)",
+          "Cilantro (coriander) leaves (garnish)"
+        ],
+        "steps": [
+          "Soak the noodles in warm water for about 20 minutes and strain. Alternatively, pour boiling water over the noodles and let them sit for 7 minutes.)",
+          "Mix the fish sauce with the vinegar, sugar and tamarind juice together in a small bowl.",
+          "Heat the vegetable oil in a wok on high, and brown the chopped garlic and chili peppers for a minute.",
+          "Cook the meats/tofu in oil, until they are browned (6–8 minutes).",
+          "Add assorted veggies and cook until tender.",
+          "Add noodles. Crack the eggs over the noodles, allow them to cook, and then mix them up.",
+          "Add the fish sauce mix into the wok, mix it all up and turn the heat down to medium.",
+          "Add the chopped green onions and bean sprouts, then stir fry for 2 more minutes.",
+          "Serve on a large plate or bowl. Garnish with chopped peanuts and, optionally, chopped cilantro or coriander and a wedge of lime."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APad_Thai"
+      }
+    },
+    {
+      "id": "tom-yum",
+      "name": "Tom yum",
+      "localName": "ต้มยำ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tom%20yum%20recipe",
+      "description": "Tom yum or tom yam is a family of hot and sour Thai soups. The name tom yam is composed of two words in the Thai language: tom refers to the boiling process, while yam means \"mixed\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Tom_yam_kung_maenam.jpg/500px-Tom_yam_kung_maenam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tom_yum",
+      "recipe": {
+        "ingredients": [
+          "400 grams (about 1 lb) boneless chicken meat, diced",
+          "3 cups chicken stock",
+          "100 grams (3.5 oz) straw mushrooms, halved",
+          "6 cherry tomatoes",
+          "1 fresh lemongrass stem, cut into short lengths",
+          "2–3 kaffir lime leaves, torn",
+          "3 tbsp Thai fish sauce",
+          "4 tbsp fresh lime juice",
+          "½ tsp sugar",
+          "5–6 hot fresh Thai chilies, just broken with pestle"
+        ],
+        "steps": [
+          "Place the stock in a pot, add the lemongrass and kaffir lime leaves, and bring to boil over medium heat.",
+          "Add the chicken meat, mushroom, fish sauce, lime juice, and sugar; cook slowly and uncovered for 10 minutes. Do not stir.",
+          "Add the tomatoes and chilies and cook for 5 more minutes. Remove from heat.",
+          "Serve with steamed jasmine rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATom_Yum_Gai"
+      }
+    },
+    {
+      "id": "tom-kha-kai",
+      "name": "Tom kha kai",
+      "localName": "ต้มข่าไก่",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tom%20kha%20kai%20recipe",
+      "description": "Tom kha kai, tom kha gai, or Thai coconut soup is a spicy and sour hot soup with coconut milk in Thai cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Flickr_preppybyday_4711943668--Tom_kha_gai.jpg/500px-Flickr_preppybyday_4711943668--Tom_kha_gai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tom_kha_kai",
+      "recipe": {
+        "ingredients": [
+          "2½ cups (600 ml) coconut milk",
+          "3¼ cups (775 ml) chicken stock",
+          "4 stalks lemongrass, cut into 1-inch (2.5 cm) pieces or split lengthwise",
+          "2 x 1-inch (5 x 2.5 cm) cube galangal, sliced thin",
+          "3–4 mini Thai bird chilies, finely chopped",
+          "400 g chicken, cubed",
+          "1 medium onion, quartered",
+          "1 tomato, quartered and peeled",
+          "1 cup (150 g) mushrooms, sliced",
+          "1½ teaspoon sugar",
+          "¼ teaspoon pepper",
+          "3 tablespoons lime juice",
+          "2 tablespoons soy sauce",
+          "4 tablespoons cilantro"
+        ],
+        "steps": [
+          "Bring stock and coconut milk to a boil.",
+          "Add lemongrass, galangal, chilies, sugar, and pepper.",
+          "Add onion, tomato, chicken bits, and mushrooms.",
+          "Keep at a rolling boil for 4 minutes.",
+          "Remove the pot from the heat.",
+          "Stir in lime juice and soy sauce.",
+          "Garnish with cilantro and chilies."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATom_Kha_Kai"
+      }
+    },
+    {
+      "id": "green-curry",
+      "name": "Green curry",
+      "localName": "แกงเขียวหวาน",
+      "videoSearch": "https://www.youtube.com/results?search_query=Green%20curry%20recipe",
+      "description": "Green curry is a variety of curry originating from central Thailand.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Thai_green_chicken_curry_and_roti.jpg/500px-Thai_green_chicken_curry_and_roti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Green_curry",
+      "recipe": {
+        "ingredients": [
+          "1 tbsp vegetable oil",
+          "2 tbsp Thai green curry paste (according to taste)",
+          "1 tbsp soft dark brown sugar",
+          "1–2 thick stalks lemongrass, fat ends bashed with a rolling pin (optional)",
+          "750 g (1½ lb) skinless, boneless chicken, cut into chunks (use breast and/or leg meat)",
+          "6–8 kaffir lime leaves, torn into pieces (if unavailable, use the grated zest of 1 lime)",
+          "400 ml (14 fl oz) coconut milk",
+          "1 good shake of Thai fish sauce or light soy sauce",
+          "1 small handful of coriander leaves, roughly chopped",
+          "½–1 ea. lime, juiced"
+        ],
+        "steps": [
+          "Heat the oil in a wok or large frying pan.",
+          "Add the green curry paste and sugar and cook over a fairly high heat for about a minute, stirring with the lemongrass, if using.",
+          "Reduce the heat slightly and stir in the chicken pieces and lime leaves or zest until coated in the paste.",
+          "Add the coconut milk, fish sauce or soy sauce and bring to a simmer, cooking for 25–30 minutes until thickened slightly.",
+          "Stir in the coriander and lime juice.",
+          "Check for seasoning, adding more fish sauce or soy sauce if needed.",
+          "Leave the curry to sit for a few minutes so the sauce becomes creamier. You will also taste the true flavours of the curry paste ingredients when it's slightly cooler.",
+          "Serve with lots of fragrant Thai jasmine rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AThai_Green_Curry_with_Chicken"
+      }
+    },
+    {
+      "id": "red-curry",
+      "name": "Red curry",
+      "localName": "แกงเผ็ด",
+      "videoSearch": "https://www.youtube.com/results?search_query=Red%20curry%20recipe",
+      "description": "Red curry is a Thai dish consisting of red curry paste cooked in coconut milk with meat such as chicken, beef, pork, duck or shrimp added, or else a vegetarian protein source such as tofu.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Kaeng_phet_mu.jpg/500px-Kaeng_phet_mu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Red_curry"
+    },
+    {
+      "id": "massaman-curry",
+      "name": "Massaman curry",
+      "localName": "แกงมัสมั่น",
+      "videoSearch": "https://www.youtube.com/results?search_query=Massaman%20curry%20recipe",
+      "description": "Massaman curry is a rich, flavourful, and mildly spicy Thai curry. It is a fusion dish, combining foreign ingredients from three regions — Persia, India, and the Malay Archipelago (e.g., cardamom, cinnamon, cloves, star anise, cumin, bay leaves, nutmeg, and mace) — with ingredients more commonly used in native Thai cui…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Kaeng_matsaman_kai.JPG/500px-Kaeng_matsaman_kai.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Massaman_curry"
+    },
+    {
+      "id": "phanaeng-curry",
+      "name": "Phanaeng curry",
+      "localName": "พะแนง",
+      "videoSearch": "https://www.youtube.com/results?search_query=Phanaeng%20curry%20recipe",
+      "description": "Phanaeng (Thai: พะแนง) also spelled Panang, is a type of Thai curry distinguished by its thick, creamy texture and mildly sweet, aromatic flavor.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Panang_curry_%2842943883862%29.jpg/500px-Panang_curry_%2842943883862%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Phanaeng"
+    },
+    {
+      "id": "som-tam",
+      "name": "Som tam",
+      "localName": "ส้มตำ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Som%20tam%20recipe",
+      "description": "Green papaya salad is a spicy salad made from shredded unripe papaya. It is believed to have been created by Lao people and is considered one of the national dishes of Laos. The dish is also popular in neighboring Thailand, particularly in the Isan region, where the population is predominantly ethnic Lao.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/2013_Tam_Lao.jpg/500px-2013_Tam_Lao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Green_papaya_salad"
+    },
+    {
+      "id": "phat-kaphrao",
+      "name": "Pad kra pao",
+      "localName": "ผัดกะเพรา",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pad%20kra%20pao%20recipe",
+      "description": "Pad kaphrao, also spelled pad kaprow, pad kaprao, or pad gaprao, is one of the most popular Thai dishes in Thailand.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Basil_fried_crispy_pork_with_rice_-_Chiang_Mai_-_2017-07-11_%28002%29.jpg/500px-Basil_fried_crispy_pork_with_rice_-_Chiang_Mai_-_2017-07-11_%28002%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Phat_kaphrao",
+      "recipe": {
+        "ingredients": [
+          "1½ tablespoons cooking oil",
+          "5–10 Thai chillis",
+          "5 cloves garlic, finely chopped",
+          "500 g lean minced chicken",
+          "125 g green beans, finely chopped",
+          "2 tablespoons fish sauce",
+          "3 tablespoons oyster sauce",
+          "1 pinch of sugar",
+          "15–20 Thai or sweet basil leaves"
+        ],
+        "steps": [
+          "Add the oil to a pan over high heat. Wait until the oil has heated up.",
+          "One the oil is hot, add the chillis and garlic to the pan and stir fry for roughly 10 seconds.",
+          "Add the minced chicken, and stir fry with a spatula.",
+          "When the chicken is nearly done add the green beans.",
+          "Add the fish sauce, oyster sauce, and sugar. Stir fry for 2 minutes.",
+          "Turn the heat off, add basil, and stir for 5 seconds.",
+          "Serve with rice and a fried egg on top."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APad_Kra_Pao_Gai_(Thai_Basil_Chicken_Stir_Fry)"
+      }
+    },
+    {
+      "id": "khao-phat",
+      "name": "Khao phat (Thai fried rice)",
+      "localName": "ข้าวผัด",
+      "videoSearch": "https://www.youtube.com/results?search_query=Khao%20phat%20(Thai%20fried%20rice)%20recipe",
+      "description": "Thai fried rice is a variety of fried rice typical of central Thai cuisine. In Thai, khao means \"rice\" and phat means \"of or relating to being stir-fried.\" This dish normally contains meat (chicken, shrimp, and crab are all common), egg, onions, garlic and sometimes tomatoes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Thaifriedrice.jpg/500px-Thaifriedrice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thai_fried_rice",
+      "recipe": {
+        "ingredients": [
+          "1 tablespoon vegetable oil",
+          "1 tablespoon minced garlic",
+          "2 eggs",
+          "2 cups cooked rice, cooled",
+          "1 tablespoon fish sauce",
+          "1 tablespoon soy sauce",
+          "1 cup cooked meat (e.g. shrimp, pork, chicken, etc.)",
+          "2 teaspoons sugar",
+          "½ teaspoon ground black pepper",
+          "Spring onion as desired, sliced"
+        ],
+        "steps": [
+          "Heat up a frying pan or wok and add the oil, then the minced garlic. Stir fry until fragrant.",
+          "Add the eggs, and stir fry the eggs until cooked.",
+          "Add the rice and stir fry.",
+          "Season with fish sauce, soy sauce, and sugar, then continue frying until the rice is crumbly.",
+          "Add meat, pepper, and spring onions. Stir again until heated through, then transfer to a serving dish."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKhao_Pad_(Thai_Fried_Rice)"
+      }
+    },
+    {
+      "id": "larb",
+      "name": "Larb",
+      "localName": "ลาบ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Larb%20recipe",
+      "description": "Laab / Larb is a type of Lao meat salad that is the national dish of Laos, along with green papaya salad and sticky rice. Laab in the Lao language is a noun that refers to meat or other flesh that has been finely chopped and pounded.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/LaoFood_LarbNeua.JPG/500px-LaoFood_LarbNeua.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Larb"
+    },
+    {
+      "id": "phat-si-io",
+      "name": "Pad see ew",
+      "localName": "ผัดซีอิ๊ว",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pad%20see%20ew%20recipe",
+      "description": "Pad see ew is a stir-fried noodle dish that is commonly eaten in Thailand. It can be found easily among street food vendors and is also common in Thai restaurants around the world. The origins of the dish can be traced to China, from where the noodle stir-frying technique was brought.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pad_see_ew.jpg/500px-Pad_see_ew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pad_see_ew"
+    },
+    {
+      "id": "rat-na",
+      "name": "Rat na",
+      "localName": "ราดหน้า",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rat%20na%20recipe",
+      "description": "Rat na, also written as rad na or lad na, is a Thai-Chinese noodle dish. The name of the dish is pronounced [lâːt nâː] in Thai colloquial speech. It is made with stir-fried wide rice noodles; a meat such as chicken, beef, pork, or seafood, or tofu; garlic, and gai lan (Thai: คะน้า; RTGS: khana).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Kuai-tiao_rat_na_mu.JPG/500px-Kuai-tiao_rat_na_mu.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rat_na"
+    },
+    {
+      "id": "khao-soi",
+      "name": "Khao soi",
+      "localName": "ข้าวซอย",
+      "videoSearch": "https://www.youtube.com/results?search_query=Khao%20soi%20recipe",
+      "description": "Khao soi or khao soy (Thai: ข้าวซอย, pronounced [kʰâ(ː)w sɔ̄ːj]; Northern Thai: ᩮᨡᩢ᩶ᩣᨪᩬ᩠ᨿ, pronounced [kʰa᷇(ː)w sɔ̄ːj]; Lao: ເຂົ້າຊອຍ, pronounced [kʰȁ(ː)w sɔ́ːj]; Shan: ၶဝ်ႈသွႆး, pronounced [kʰaw˧˧˨.sʰɔj˥]; Burmese: အုန်းနို့ခေါက်ဆွဲ, pronounced [ʔóʊɴ no̰ kʰaʊʔ sʰwɛ́]) is a dish served in Northern Thailand.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Khao_Soi_Northern_Thai_food_%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%8B%E0%B8%AD%E0%B8%A2_%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%AD%E0%B8%87.jpg/500px-Khao_Soi_Northern_Thai_food_%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%8B%E0%B8%AD%E0%B8%A2_%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%AD%E0%B8%87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Khao_soi"
+    },
+    {
+      "id": "boat-noodles",
+      "name": "Boat noodles",
+      "localName": "ก๋วยเตี๋ยวเรือ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Boat%20noodles%20recipe",
+      "description": "Boat noodles is a Thai-style noodle dish with a strong flavor. It contains both pork and beef, as well as dark soy sauce, pickled bean curd, and some other spices, and it is normally served with meatballs and pig's liver.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Boat_noodles.jpg/500px-Boat_noodles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boat_noodles"
+    },
+    {
+      "id": "kai-yang",
+      "name": "Kai yang",
+      "localName": "ไก่ย่าง",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kai%20yang%20recipe",
+      "description": "Kai yang or gai yang, also known as kai ping or gai ping (Thai: ไก่ปิ้ง), or pīng kai, is a dish of shared origin from Lao and Thai peoples commonly eaten throughout the regions of both Laos and Thailand. The dish is a standard staple of street markets and readily available at all times.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Gaiyangtaladdonwai06.jpg/500px-Gaiyangtaladdonwai06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kai_yang",
+      "recipe": {
+        "ingredients": [
+          "2 Thai bird chiles, stemmed",
+          "¼ cup (60 ml) soy sauce",
+          "1 tbsp (15 ml) fish sauce",
+          "1 tsp (5 ml) Thai chile paste (Sriracha recommended)",
+          "2 tbsp (30 ml) minced garlic",
+          "2 tbsp (30 ml) minced ginger",
+          "2 tbsp (30 ml) rice wine vinegar",
+          "4 ea. (24 ounces / 680 g) boneless skinless chicken breasts",
+          "A flame-resistant towel tied into a roll with twine and soaked in oil"
+        ],
+        "steps": [
+          "In a blender, purée the chiles, chile paste, sauces, garlic, ginger, and vinegar until smooth. Pour into a gallon-size zip-top bag and add chicken breasts. Refrigerate for at least 1 hour.",
+          "Heat a grill to medium heat. Quickly swab the grill with the towel and add chicken breasts. Cook 4–6 minutes per side or until internal temperature reaches 165°F (75 °C).",
+          "Remove to a plate and let rest 5 minutes. Serve warm."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AThai_Grilled_Chicken_I"
+      }
+    },
+    {
+      "id": "thot-man-pla",
+      "name": "Tod mun pla",
+      "localName": "ทอดมันปลา",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tod%20mun%20pla%20recipe",
+      "recipe": {
+        "ingredients": [
+          "½ cup (120 ml) vegetable oil (for frying)",
+          "1 tablespoon (15 ml) sugar",
+          "½ teaspoon (7.5 ml) salt",
+          "120 grams (about ¼ lb) green beans",
+          "360 grams (about ¾ lb) ground fish or fish paste (pla kuud)",
+          "1 tablespoon (15 ml) red curry paste",
+          "1 egg",
+          "3 Kaffir lime leaves"
+        ],
+        "steps": [
+          "Stack the lime leaves and roll them together into a tube shape. Slice them into thin strips.",
+          "Slice the green beans into small (½ inch) pieces.",
+          "Mince the fish.",
+          "Mix all the ingredients except the green beans and lime leaves in a bowl.",
+          "Stir until the mixture is smooth.",
+          "Add the green beans and lime leaves to the mixture and stir again.",
+          "Add the oil to a frying pan and heat to a medium temperature.",
+          "Drop a tablespoon of the mixture into the pan and flatten slightly. When the bottom is cooked, turn over.",
+          "When cooked on both sides, place on a paper towel to drain any extra oil. Continue with the rest of the mixture."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATod_Mun_(Thai_Fish_Cakes)"
+      }
+    },
+    {
+      "id": "sai-ua",
+      "name": "Sai ua",
+      "localName": "ไส้อั่ว",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sai%20ua%20recipe",
+      "description": "Sai oua, sometimes also known as Laotian sausage, is a popular type of sausage made in Laos, Myanmar, and Thailand, particularly in northern Thailand and northern Laos.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Lao_Sai_Oua.png/500px-Lao_Sai_Oua.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sai_oua"
+    },
+    {
+      "id": "nam-phrik-ong",
+      "name": "Nam phrik ong",
+      "localName": "น้ำพริกอ่อง",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nam%20phrik%20ong%20recipe",
+      "description": "Nam phrik ong is a popular Thai food in Northern Thailand. It is often paired with sticky rice, pork and fresh vegetables such as cucumber, lentils, Chinese cabbage etc.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Nam_phrik_ong_02.jpg/500px-Nam_phrik_ong_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nam_phrik_ong",
+      "recipe": {
+        "ingredients": [
+          "20 dried paprika chile peppers",
+          "20 shallots",
+          "10 garlic cloves",
+          "1 tbsp shrimp paste",
+          "½ tsp salt",
+          "1 tbsp sliced coriander leaves",
+          "1 tbsp sliced onion",
+          "2 tbsp oil",
+          "400 g minced or ground pork",
+          "20 small tomatoes"
+        ],
+        "steps": [
+          "Pound together the peppers, shallots, and garlic.",
+          "Add the shrimp paste and salt, and continue pounding the mixture.",
+          "Heat the oil in a pan, and add the pounded mixture. Stir in the coriander and onion. Cook until fragrant.",
+          "Add the pork, and stir it until it is cooked. Add some water if it gets dry.",
+          "Bring the mixture to a boil.",
+          "When the mixture is boiling, add the tomatoes and stir them around. Wait until they are cooked.",
+          "Serve with some vegetables for dipping such as lettuce wraps, cabbage, and/or green beans."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ANam_Phrik_Ong_(Thai_Pork_and_Tomato_Dip)"
+      }
+    },
+    {
+      "id": "mango-sticky-rice",
+      "name": "Mango sticky rice",
+      "localName": "ข้าวเหนียวมะม่วง",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mango%20sticky%20rice%20recipe",
+      "description": "Mango sticky rice is a traditional Southeast Asian and South Asian dessert made with glutinous rice, fresh mango and coconut milk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Mango_sticy_rice_%283859549574%29.jpg/500px-Mango_sticy_rice_%283859549574%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mango_sticky_rice"
+    },
+    {
+      "id": "khanom-krok",
+      "name": "Khanom krok",
+      "localName": "ขนมครก",
+      "videoSearch": "https://www.youtube.com/results?search_query=Khanom%20krok%20recipe",
+      "description": "Khanom krok or coconut-rice pancakes or mortar toasted pastry, is a traditional Thai dessert. They are prepared by mixing rice flour, sugar, and coconut milk to form a dough. Usually, khanom krok is composed of two batters, one salty and one sweet, both of which are cooked in a heating mantle—a hot indented frying pan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Khanom_Krok.jpg/500px-Khanom_Krok.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Khanom_krok"
+    },
+    {
+      "id": "foi-thong",
+      "name": "Foi thong",
+      "localName": "ฝอยทอง",
+      "videoSearch": "https://www.youtube.com/results?search_query=Foi%20thong%20recipe",
+      "description": "Fios de ovos (lit. 'egg threads') is a traditional Portuguese sweet food made out of egg yolks, drawn into thin strands and boiled in sugar syrup. It is used as a garnish on cakes and puddings, as a filling for cakes, or eaten on its own.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Fios_de_ovos.jpg/500px-Fios_de_ovos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fios_de_ovos"
+    },
+    {
+      "id": "thong-yip",
+      "name": "Thong yip",
+      "localName": "ทองหยิบ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Thong%20yip%20recipe",
+      "description": "Thong yip or pinched gold egg yolks is one of the nine auspicious traditional Thai desserts. It is usually made for important occasions and ceremonies such as weddings, ordinations, and housewarmings.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Thong_yib.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thong_yip",
+      "recipe": {
+        "ingredients": [
+          "15 duck eggs",
+          "7 cups white granulated sugar",
+          "6 cups jasmine water"
+        ],
+        "steps": [
+          "Combine 2 cups of sugar and 2 cups of jasmine water in a saucepan.",
+          "Bring to a simmer, and wait until the sugar is dissolved.",
+          "Remove from the heat and let cool.",
+          "Bring 5 cups of sugar and 4 cups of jasmine water to a simmer in a saucepan. Wait for it to dissolve without stirring.",
+          "Separate the egg yolks from egg white.",
+          "Whisk the egg yolks constantly for about 3–5 minutes. The more you whisk the egg yolks, the softer the egg. If too soft, it will be hard to crimp once the eggs are cooked.",
+          "When the syrup is boiling, remove from the heat.",
+          "Immediately use a spoon to pour dollops of egg yolk into the hot syrup. The yolks will spread into circles.",
+          "Return the pot to the heat, and keep flipping the egg yolks until completely cooked.",
+          "Spoon the cooked yolks into the cooled syrup. Cool slightly, then crimp it into flower-like shape of 3, 4, or 5 petals.",
+          "Put the crimped yolks in small bowl and wait for them to cool down completely.",
+          "Serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AThong_Yib_(Thai_Candied_Egg_Yolks)"
+      }
+    },
+    {
+      "id": "bua-loi",
+      "name": "Bua loi",
+      "localName": "บัวลอย",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bua%20loi%20recipe",
+      "description": "Bua loi or bua loy is a Thai dessert. It consists of rice flour rolled into small balls, and cooked in coconut milk and sugar. Some Bua loi also adds sweet egg into the recipe.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Bualoi_Boiled_flour_balls_with_coconut_milk.jpg/500px-Bualoi_Boiled_flour_balls_with_coconut_milk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bua_loi",
+      "recipe": {
+        "ingredients": [
+          "3 cups (700 g) glutinous rice flour",
+          "1½ teaspoons pandan essence",
+          "4 cups (950 ml) coconut cream",
+          "2 cups (480 g) white granulated sugar",
+          "1 teaspoon (5 ml) salt",
+          "3 eggs (optional)"
+        ],
+        "steps": [
+          "Mix the rice flour with enough water to make a stiff paste, adding the pandan essence to the water before mixing with the rice flour. Knead well, then form the dough into pea-sized balls.",
+          "Bring a large pot of water to a boil. Add the rice balls, and remove them when they float to the surface. Drain.",
+          "Bring half the coconut cream to a boil, stirring constantly to prevent it from separating, then add the flour balls.",
+          "When the mixture returns to a boil, remove from heat and stir in the remaining coconut cream.",
+          "If serving this dish with eggs, in a separate saucepan bring water to a boil and reduce heat, then crack eggs one at a time into the water. When eggs are done, remove from water and set aside.",
+          "Serve as dessert in small bowls, adding one egg per bowl. Thais often add sweet corn kernels to the final product."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AThai_Rice_Balls_in_Coconut_Milk_(Bua_Loi)"
+      }
+    },
+    {
+      "id": "thapthim-krop",
+      "name": "Tub tim krob",
+      "localName": "ทับทิมกรอบ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tub%20tim%20krob%20recipe",
+      "description": "Thapthim krop is one of the best known Thai desserts, having been named one of the world's best 50 desserts by CNN Travel. It is made of cubes of water chestnuts soaked in grenadine or red food dye, then boiled in tapioca flour. This dessert is known as \"pomegranate seeds\" or \"rubies\" because of its appearance.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A.jpg/500px-%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thapthim_krop",
+      "recipe": {
+        "ingredients": [
+          "⅓ cup coconut milk",
+          "5 drops red food coloring",
+          "½ cup tapioca flour",
+          "¼ cup water",
+          "½ can whole water chestnuts"
+        ],
+        "steps": [
+          "Peel and cut the water chestnuts into small cubes.",
+          "Soak the water chestnut cubes in red food coloring until their color changes to red.",
+          "Mix the colored water chestnut cubes with tapioca flour until the skin of the cubes is covered with the flour.",
+          "Boil them in hot water for several minutes or until the water chestnut cubes float to the top of the water.",
+          "Mix the water chestnut cubes with coconut milk and serve with ice cubes in a bowl."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATub_Tim_Krob_(Thai_Water_Chestnuts_in_Coconut)"
+      }
+    },
+    {
+      "id": "khanom-chan",
+      "name": "Khanom chan",
+      "localName": "ขนมชั้น",
+      "videoSearch": "https://www.youtube.com/results?search_query=Khanom%20chan%20recipe",
+      "description": "Khanom chan is an ancient Thai khanom, or dessert. Originating from the Sukhothai Period, the dessert is a staple snack in Thai cuisine, and Thai people usually prepare it for auspicious ceremonies is a traditional Thai dessert distinguished by its layered appearance and method of preparation.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/YosriKuihLapis.jpg/500px-YosriKuihLapis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Khanom_chan"
+    }
+  ]
+}

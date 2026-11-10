@@ -1,0 +1,194 @@
+{
+  "country": "YE",
+  "dishes": [
+    {
+      "id": "saltah",
+      "name": "Saltah",
+      "localName": "سلتة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Saltah%20recipe",
+      "description": "Saltah (Arabic: سلتة) is a traditional Yemeni dish. Saltah is considered to be the national dish of Yemen. In the Ottoman Empire, saltah was used as a charitable food and was made with leftover food that was donated by the wealthy or the mosques.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Saltah.jpg/500px-Saltah.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saltah"
+    },
+    {
+      "id": "fahsa",
+      "name": "Fahsa",
+      "localName": "فحسة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fahsa%20recipe",
+      "description": "Fahsa (Arabic: فحسة, romanized: Fahsa) is a Yemeni stew. It is made of lamb cutlets with lamb broth. Spices and hilbah (a dip made with fenugreek) are added after cooking.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%D8%AE%D8%A8%D8%B2_%D9%85%D9%84%D9%88%D8%AD.jpg/500px-%D8%AE%D8%A8%D8%B2_%D9%85%D9%84%D9%88%D8%AD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fahsa"
+    },
+    {
+      "id": "bint-al-sahn",
+      "name": "Bint al-sahn",
+      "localName": "بنت الصحن",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bint%20al-sahn%20recipe",
+      "description": "Bint al-sahn (Arabic: بنت الصحن, romanized: Bint as-Saḥn, lit. 'daughter of the plate'), also known as sabayah, is a Yemeni pastry made from a dough, which is prepared by mixing white flour, eggs, yeast and clarified butter, known as samn (سمن).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Bint_al_Sahn.png/500px-Bint_al_Sahn.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bint_al-sahn"
+    },
+    {
+      "id": "mandi",
+      "name": "Mandi",
+      "localName": "مندي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mandi%20recipe",
+      "description": "Mandi (Arabic: مندي, also known as zarb or quzi) is a traditional Arab dish with regional variations across the Arab world. It consists mainly of meat and rice with a blend of spices, and is cooked in a pit.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Mandi_pit_from_inside.jpg/500px-Mandi_pit_from_inside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mandi_(food)"
+    },
+    {
+      "id": "haneeth",
+      "name": "Haneeth",
+      "localName": "حنيذ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Haneeth%20recipe",
+      "description": "Haneeth is a slow-roasted lamb dish from Yemen. It is a very popular dish throughout the Arabian Peninsula. It is cooked in a tannour oven and has a different spice rub.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Overhead_view%2C_haneeth%2C_Marib_restaurant%2C_Springfield%2C_Virginia.jpg/500px-Overhead_view%2C_haneeth%2C_Marib_restaurant%2C_Springfield%2C_Virginia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Haneeth"
+    },
+    {
+      "id": "zhug",
+      "name": "Zhug",
+      "localName": "سحاوق",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zhug%20recipe",
+      "description": "Zhug (from Yemenite Arabic سحوق) also known as sahawiq, is a hot sauce originating in Yemeni cuisine. In other countries of the Arabian Peninsula it is also called mabooj (Arabic: معبوج), and bisbaas.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Zkhoug_vert.jpg/500px-Zkhoug_vert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zhug",
+      "recipe": {
+        "ingredients": [
+          "1 tbsp cumin",
+          "1 tsp ground black pepper",
+          "1 tsp caraway seed",
+          "3–4 pods of cardamom",
+          "4 red, very hot dried cayenne peppers, stems removed",
+          "1 head of fresh garlic, peeled",
+          "1 bunch of fresh coriander (cilantro)",
+          "Salt"
+        ],
+        "steps": [
+          "Grind and blend all the above ingredients together.",
+          "Store in a sealed jar."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AZhug_I"
+      }
+    },
+    {
+      "id": "hilbeh",
+      "name": "Hilbeh",
+      "localName": "حلبة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hilbeh%20recipe",
+      "description": "Hilbeh (Arabic: حلبة) is a condiment made from ground fenugreek seeds. A traditional Yemeni food, now popularized among other cultures as well, especially by Yemenite Jews in Israel, who have introduced it to other ethnic groups. Hulbah greatly expands when added to water.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Hilbah_%28cropped%29.png/500px-Hilbah_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hulbah",
+      "recipe": {
+        "ingredients": [
+          "3 tbsp ground fenugreek seeds",
+          "1 cup water",
+          "Coriander leaves, finely chopped",
+          "Leeks, chopped",
+          "1 lemon or citric acid to taste",
+          "1 tsp salt",
+          "1 tbsp zḥug (hot sauce made from red peppers, garlic, coriander leaves, etc.)",
+          "Grated tomato (optional)"
+        ],
+        "steps": [
+          "Soak ground fenugreek in the water for 3 hours until expanded.",
+          "Beat with a spatula until paste becomes light and frothy. Gradually add more water if necessary.",
+          "Mix in coriander leaves and leeks.",
+          "Mix in salt, lemon juice, and zḥug.",
+          "Mix in grated tomato if using."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHilbah_(Fenugreek_Condiment)"
+      }
+    },
+    {
+      "id": "malawach",
+      "name": "Malawach",
+      "localName": "ملوح",
+      "videoSearch": "https://www.youtube.com/results?search_query=Malawach%20recipe",
+      "description": "Malawach or melawwaḥ (Hebrew: מלוואח), is a Jewish Yemenite flatbread that is traditional in Yemeni cuisine and Israeli cuisine. The name of the dish comes from the Arabic \"ملوح\", literally “board-like bread”. It was brought to Israel by Yemenite Jews whose population no longer exists in Yemen.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Malawach.jpg/500px-Malawach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Malawach"
+    },
+    {
+      "id": "kubaneh",
+      "name": "Kubaneh",
+      "localName": "كبانة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kubaneh%20recipe",
+      "description": "Kubaneh (Hebrew: כֻּבַּאנֶה) is a traditional Yemenite Jewish yeast bread that is popular in Israel. It is traditionally baked overnight to be served for Shabbat breakfast. The bread is often served alongside haminados (eggs that are baked in their shells along with the bread), and grated tomato.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Yemenite_Kubaneh.jpg/500px-Yemenite_Kubaneh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kubaneh",
+      "recipe": {
+        "ingredients": [
+          "1 tsp salt",
+          "2½–3 cups lukewarm water (or enough for kneading dough)",
+          "1 tsp dried yeast",
+          "3 tsp white granulated sugar",
+          "3 cups white, all-purpose wheat flour (optional: try using some sorghum flour)",
+          "2 tbsp vegetable oil or other fat",
+          "1 tsp black cumin (Nigella sativa; optional)"
+        ],
+        "steps": [
+          "Dissolve salt in lukewarm water.",
+          "Sprinkle yeast over lukewarm water and add sugar. Leave for 10 minutes until yeast is foamy.",
+          "Add yeast mixture to flour, and knead to form a dough.",
+          "After kneading the dough, allow it to sit 10 minutes until it begins to rise.",
+          "Repeat process: turn it and knead it again and let sit 10 minutes until it rises. Repeat this process 3 or 4 times until dough rises to the top of the kneading bowl and one is left with a uniform texture and consistency.",
+          "Grease the baking pot with the vegetable oil.",
+          "Divide dough into smaller pieces (8–10 round pieces).",
+          "Place all dough pieces in pot, one after the other; compacted together. Fill to one-third the capacity of baking pot and cover tightly with lid.",
+          "Preheat oven to 225–280°F (107–138°C). Bake bread for 1 hour at the higher temperature or 3 hours at the lower temperature. It should be golden brown.",
+          "Turn bread out onto a plate, turn bread upside down, and restore to baking pot.",
+          "Cover pot with lid and bake another hour; or reduce oven temperature to and bake overnight. If desired, remove from oven and afterwards return it only close to the Sabbath.",
+          "Serve hot with clarified butter, usually also with tomato salsa mixed with chopped coriander."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKubaneh_(Yemenite_Pull-Apart_Bread)"
+      }
+    },
+    {
+      "id": "lahoh",
+      "name": "Lahoh",
+      "localName": "لحوح",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lahoh%20recipe",
+      "description": "Lahoh is a spongy, flat pancake-like bread. It is a type of flatbread eaten regularly in Somaliland, Somalia, Djibouti, Kenya, Ethiopia, Yemen and Saudi Arabia. Yemenite Jewish immigrants popularized the dish in Israel.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/LahohS.jpg/500px-LahohS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lahoh"
+    },
+    {
+      "id": "shafut",
+      "name": "Shafut",
+      "localName": "شفوت",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shafut%20recipe",
+      "description": "Shafoot (Arabic: شفوت) also known as shafuta, is a traditional and very popular appetizer food in Yemen. It is typically made of lahoh (a sourdough flatbread) or shredded bread, haqeen (traditional buttermilk) and yogurt, sahawiq and leek.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Shafoot_with_Vegetables.jpg/500px-Shafoot_with_Vegetables.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shafoot"
+    },
+    {
+      "id": "asida",
+      "name": "Aseeda",
+      "localName": "عصيدة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Aseeda%20recipe",
+      "description": "Asida, a common dish in the Arab world, is a lump of dough made by stirring wheat flour into boiling water, sometimes with added butter or honey. Similar in texture to fufu, it is eaten mainly in Middle East and African countries.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%D8%B9%D8%B5%D9%8A%D8%AF%D8%A9-%D9%82%D8%B7%D9%8A%D9%81%D9%8A%D8%A9.jpg/500px-%D8%B9%D8%B5%D9%8A%D8%AF%D8%A9-%D9%82%D8%B7%D9%8A%D9%81%D9%8A%D8%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Asida"
+    },
+    {
+      "id": "masoub",
+      "name": "Masoub",
+      "localName": "معصوب",
+      "videoSearch": "https://www.youtube.com/results?search_query=Masoub%20recipe",
+      "description": "Masoob (Arabic: معصوب) is a traditional banana-based pudding from the Hadhramaut region in Yemen. It is made from over-ripe bananas, ground flat bread, cream, cheese, honey, and sometimes dates. It is popular in other Arab states like Saudi Arabia and the UAE, where Hadhrami immigrant communities introduced the dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Yemeni_Masoob.jpg/500px-Yemeni_Masoob.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Masoob"
+    },
+    {
+      "id": "qishr",
+      "name": "Qishr",
+      "localName": "قشر",
+      "videoSearch": "https://www.youtube.com/results?search_query=Qishr%20recipe",
+      "description": "Qishr (Arabic: قشر geshir, gishr, kishr) is a Yemeni traditional hot drink made of spiced coffee husks, ginger, and sometimes cinnamon. In Yemen, it is usually drunk as an alternative to coffee because it does not need to be roasted.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Syrian_meal.jpg/500px-Syrian_meal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Qishr"
+    }
+  ]
+}

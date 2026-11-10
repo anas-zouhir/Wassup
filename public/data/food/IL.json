@@ -1,0 +1,377 @@
+{
+  "country": "IL",
+  "dishes": [
+    {
+      "id": "falafel",
+      "name": "Falafel",
+      "localName": "פלאפל",
+      "videoSearch": "https://www.youtube.com/results?search_query=Falafel%20recipe",
+      "description": "Falafel is a deep-fried ball or patty-shaped fritter of Egyptian origin that features in Middle Eastern cuisine, particularly Levantine cuisines. It is made from ground fava beans, chickpeas, or both, and mixed with herbs and spices before frying.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Falafels_2.jpg/500px-Falafels_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "id": "hummus",
+      "name": "Hummus",
+      "localName": "חומוס",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hummus%20recipe",
+      "description": "Hummus (,; Arabic: حُمُّص, romanized: ḥummuṣ, lit. 'chickpeas', also spelled hommus or houmous) (full name: Hummus Bi Tahini) is a Levantine dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Lebanese_style_hummus.jpg/500px-Lebanese_style_hummus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hummus"
+    },
+    {
+      "id": "israeli-salad",
+      "name": "Israeli salad",
+      "localName": "סלט ישראלי",
+      "videoSearch": "https://www.youtube.com/results?search_query=Israeli%20salad%20recipe",
+      "description": "Israeli salad (Hebrew: סָלָט יְרָקוֹת יִשְׂרְאֵלִי, romanized: salat yerakot yisra'eli, lit. 'Israeli vegetable salad') is a chopped salad of finely diced tomato, onion, cucumber, and bell or chili peppers.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Salad.jpg/500px-Salad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Israeli_salad",
+      "recipe": {
+        "ingredients": [
+          "1 cucumber, chopped in 1 cm cubes",
+          "1 tomato, chopped in 1 cm cubes",
+          "1 onion, chopped in 1 cm cubes",
+          "¼ cup chopped parsley",
+          "2 tbsp oil",
+          "2 tbsp lemon juice or vinegar",
+          "½ tsp salt",
+          "½ tsp freshly-ground black pepper",
+          "1 tsp za'atar (can substitute ¼ tsp thyme)"
+        ],
+        "steps": [
+          "Mix cucumber, tomato, onion, and parsley.",
+          "Mix oil, lemon juice, salt, pepper, and za'atar to make dressing.",
+          "Pour dressing over vegetables. Correct seasoning to taste."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AIsraeli_Salad"
+      }
+    },
+    {
+      "id": "shakshouka",
+      "name": "Shakshouka",
+      "localName": "שקשוקה",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shakshouka%20recipe",
+      "description": "Shakshouka is a Maghrebi dish of eggs poached in a sauce of tomatoes, olive oil, peppers, onion, and garlic, commonly spiced with cumin, paprika, and cayenne pepper. Shakshouka is a popular dish throughout North Africa and the Middle East.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Shakshuka_by_Calliopejen1.jpg/500px-Shakshuka_by_Calliopejen1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shakshouka",
+      "recipe": {
+        "ingredients": [
+          "6 tbsp olive oil",
+          "1 tbsp sweet paprika",
+          "6 cloves garlic, minced",
+          "1 large sweet red pepper, diced",
+          "1 chile pepper (red or green), chopped",
+          "6 ripe tomatoes diced",
+          "Ground black pepper",
+          "Salt to taste",
+          "6 eggs"
+        ],
+        "steps": [
+          "On a high heat, heat the oil for about ½ minute. Add the paprika and blend well.",
+          "Add the garlic and peppers, and turn to low flame. Cook for about 10 minutes, until the peppers have slightly softened.",
+          "Add the tomatoes and bring to a boil, then season to taste with salt and pepper.",
+          "Make 6 dents in the mixture. Into each dent, put an egg yolk, and spread the egg whites around.",
+          "Continue to cook on low until the egg whites have coagulated."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AShakshuka_I"
+      }
+    },
+    {
+      "id": "sabich",
+      "name": "Sabich",
+      "localName": "סביח",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sabich%20recipe",
+      "description": "Sabich or sabih is a sandwich of pita or laffa bread stuffed with fried eggplant, hard-boiled eggs, chopped salad, parsley, amba and tahini sauce. It is a staple of Israeli cuisine and is based on a traditional Iraqi Jewish breakfast.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Sabich1.png/500px-Sabich1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sabich",
+      "recipe": {
+        "ingredients": [
+          "2 tomatoes, cored and chopped",
+          "½ ea. cucumber, chopped",
+          "1 onion, chopped",
+          "1 tbsp minced parsley",
+          "2 tbsp lemon juice",
+          "2 tbsp oil",
+          "Salt",
+          "1 eggplant, sliced into 1 cm rounds",
+          "4 hard-boiled eggs, peeled and sliced",
+          "Vegetable oil, for frying",
+          "4 pita breads",
+          "¾ cup hummus",
+          "½ cup tahini",
+          "Amba sauce"
+        ],
+        "steps": [
+          "Put the tomatoes, cucumber, onion, and parsley in a bowl.",
+          "Take another small bowl and mix the lemon juice, oil, and salt.",
+          "Pour the dressing over the vegetables and toss well, leave it to stand for a couple of minutes.",
+          "Meanwhile, heat the oil in a large skillet over medium-high temperature. When the oil has become hot enough, fry the eggplant slices until they turn golden brown. Place the golden eggplant slices on a paper towel to remove the excess oil.",
+          "Spread the hummus evenly in each pita bread",
+          "Stuff the pitas with the slices of fried eggplants and the boiled eggs.",
+          "Spoon over some of the Israeli salad, drizzle the tahini and amba over the pitas, and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASabich_(Vegetable_and_Pita_Sandwich)"
+      }
+    },
+    {
+      "id": "jachnun",
+      "name": "Jachnun",
+      "localName": "ג'חנון",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jachnun%20recipe",
+      "description": "Jachnun or jahnun is a Jewish enriched bread, originating from the Adeni Jews, and traditionally served on Shabbat morning, with resek agvaniyot (a freshly grated tomato dip), hard-boiled eggs, and zhug (a type of spicy green herbal condiment).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Jachnun.jpg/500px-Jachnun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jachnun",
+      "recipe": {
+        "ingredients": [
+          "1 kg white wheat flour",
+          "10 g baking powder (optional)",
+          "2–3 tbsp white granulated sugar (or to taste)",
+          "1 leveled tbsp salt",
+          "2¼ cups of water",
+          "Canola oil",
+          "200 g butter, soft margarine, or shortening",
+          "10 hard-boiled eggs"
+        ],
+        "steps": [
+          "Combine the flour, baking powder, sugar, and salt. Make a well in the center.",
+          "Add some of the water to the well, and mix with your hands. Gradually knead in the rest of the water, then continue kneading for 15 minutes. The dough should not be too soft or sticky.",
+          "Tear off a piece of dough the size of your fist. Flatten and roll it out on your work surface, then shape again into a ball. Repeat this step for the rest of the dough, then brush all the balls with a thin coating of oil.",
+          "Allow the dough to rest for about 1–2 hours, until they have sunken slightly.",
+          "Roll and stretch each ball out on a greased surface until it is very thin. Try to make the dough as thin as possible without it tearing.",
+          "Spread some soft butter over the whole surface of the flattened dough. Make a triangular fold lengthwise, like a shirt fold: fold one-third of the dough toward the middle then fold the other side. Make a small fold up and down, and start rolling (with greased hands) from the bottom to the top, like folding a sleeping bag. You should be left with an elongated, slightly fat rolled jachnun. Repeat this shaping step for all the dough balls.",
+          "Preheat oven to . Line a pot with slices of bread or pita so that it does not become overly dry while baking in the oven.",
+          "Place the unbaked jachnun into a cookie bag, with each bag holding a single layer of jachnun. This prevents loss of moisture. Stack the jachnun in the pot, with 2–3 rows stacked one on top of the other in a criss-crossed fashion (horizontally and vertically).",
+          "Cover the pot with the lid, and bake in the preheated oven for 6–10 hours.",
+          "Serve with hard-boiled eggs and tomato salsa, with a little zhug over the paste."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AJahnun_(Yemenite_Layered_Pastry)"
+      }
+    },
+    {
+      "id": "malawach",
+      "name": "Malawach",
+      "localName": "מלאווח",
+      "videoSearch": "https://www.youtube.com/results?search_query=Malawach%20recipe",
+      "description": "Malawach or melawwaḥ (Hebrew: מלוואח), is a Jewish Yemenite flatbread that is traditional in Yemeni cuisine and Israeli cuisine. The name of the dish comes from the Arabic \"ملوح\", literally “board-like bread”. It was brought to Israel by Yemenite Jews whose population no longer exists in Yemen.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Malawach.jpg/500px-Malawach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Malawach"
+    },
+    {
+      "id": "jerusalem-mixed-grill",
+      "name": "Jerusalem mixed grill",
+      "localName": "מעורב ירושלמי",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jerusalem%20mixed%20grill%20recipe",
+      "description": "Jerusalem mixed grill (Hebrew: מעורב ירושלמי, romanized: me'orav Yerushalmi) is a grilled meat dish considered a specialty of Jerusalem.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Maoravyerushalmi.jpeg/500px-Maoravyerushalmi.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jerusalem_mixed_grill"
+    },
+    {
+      "id": "bourekas",
+      "name": "Bourekas",
+      "localName": "בורקס",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bourekas%20recipe",
+      "description": "Bourekas or burekas (Hebrew: בורקס, Ladino: burekas) are a baked turnover in Sephardic Jewish cuisine and Israeli cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Bourekas.jpg/500px-Bourekas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bourekas"
+    },
+    {
+      "id": "kugel-yerushalmi",
+      "name": "Kugel Yerushalmi",
+      "localName": "קוגל ירושלמי",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kugel%20Yerushalmi%20recipe",
+      "description": "Yerushalmi Kugel (Hebrew: קוגל ירושלמי, romanized: kūgel yerūshálmi), also known as Jerusalem kugel, is an Israeli kugel originating from the local Jewish community of Jerusalem in the 18th century. The dish is served on Shabbat and on Jewish holidays.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Kugel-Yerushalmi03.jpg/500px-Kugel-Yerushalmi03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Yerushalmi_Kugel",
+      "recipe": {
+        "ingredients": [
+          "8 oz (200 g) noodles (egg noodles are preferred, but others work fine as well)",
+          "⅔ cup (160 g) sugar (white sugar is helpful because it's more obvious when it begins to brown)",
+          "4 tbsp olive oil",
+          "1 handful of raisins",
+          "1–2 tsp pepper",
+          "1 tsp cinnamon",
+          "3 eggs"
+        ],
+        "steps": [
+          "Boil noodles according to the package instructions and drain.",
+          "Heat the olive oil in a frying pan, and add ⅓ cup (80 g) sugar.",
+          "Stir continuously until the sugar begins to brown. Remove from heat.",
+          "The sugar will continue to brown for a few more minutes, creating a thick caramel.",
+          "Add the caramel to the noodles.",
+          "Add the sugar, eggs, cinnamon, pepper, and raisins. Stir.",
+          "Bake in a pan at 350°F (180°C) until the top begins to brown (about 40 minutes)."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AYerushalmi_Kugel_(Sweet_Noodle_Casserole)"
+      }
+    },
+    {
+      "id": "challah",
+      "name": "Challah",
+      "localName": "חלה",
+      "videoSearch": "https://www.youtube.com/results?search_query=Challah%20recipe",
+      "description": "Challah ( (K)HAH-lə; Hebrew: חַלָּה, romanized: ḥallā, pronounced [χaˈla, ħalˈlaː]; pl.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Challah_Bread_Six_Braid_1.JPG/500px-Challah_Bread_Six_Braid_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Challah",
+      "recipe": {
+        "ingredients": [
+          "Bread flour",
+          "9 cups",
+          "1233 g",
+          "100%",
+          "White granulated sugar",
+          "½ cup plus 1 tbsp (9 tbsp)",
+          "112.6 g",
+          "9.13%",
+          "Warm water",
+          "1 ½ cups plus 1 cup",
+          "593 g",
+          "48.05%",
+          "Active dry yeast",
+          "6 ¾ teaspoons",
+          "27 g",
+          "2.19%",
+          "Salt",
+          "1 tbsp",
+          "18 g",
+          "1.46%",
+          "Eggs",
+          "4 ea.",
+          "200 g",
+          "16.22%",
+          "Vegetable oil",
+          "½ cup",
+          "109 g",
+          "8.84%",
+          "Egg wash",
+          "Sesame seeds",
+          "Total",
+          "n/a",
+          "n/a",
+          "2292 g",
+          "186%"
+        ],
+        "steps": [
+          "Put bread flour in a bowl. Mix in the ½ cup of sugar and the salt.",
+          "In a small bowl or large measuring cup, add the 1 ½ cups of warm water. Mix in the 1 tablespoon of sugar. Sprinkle the yeast on top and wait 8 minutes. The yeast mixture should be foamy.",
+          "Briefly mix the yeast mixture, then mix it into the flour mixture.",
+          "Mix in the eggs and oil.",
+          "Add the remaining 1 cup warm water, and knead the dough for about 10 minutes.",
+          "Let the dough rise, covered, for two-four hours.",
+          "Divide the dough into four parts. These will make 4 challahs.",
+          "Take one part. Separate it into four pieces. Take each piece and roll it between your hands until it is a long strand. Attach the four strands together at one end by squeezing the ends together (see picture).",
+          "Place on a piece of foil or a pan.",
+          "Take the strand at the far left and braid by putting it over two strands to the right and then put it back under one strand to the left.",
+          "Take the strand at the far right and put it over two strands to the left and then put it back under one strand to the right.",
+          "Repeat the last two steps until you reach the end of the strands.",
+          "Do the same thing with the other three parts.",
+          "Brush each loaf with egg wash and sprinkle with sesame seeds.",
+          "Allow to rise for two hours.",
+          "Bake in preheated oven at 400°F (200°C) for 25 minutes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChallah"
+      }
+    },
+    {
+      "id": "chraime",
+      "name": "Chraime",
+      "localName": "חריימה",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chraime%20recipe",
+      "description": "Chraime (Hebrew: חריימה, Arabic: حرايمي haraime) is a spicy fish stew with tomatoes from North Africa. The name of the dish comes from the Arabic word for \"hot\". Chraime is traditionally eaten by Jews on Erev Shabbat as well as on Rosh Hashanah and Passover for the Seder.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%D7%A6%D7%9C%D7%97%D7%AA_%D7%97%D7%A8%D7%99%D7%99%D7%9E%D7%94.png/500px-%D7%A6%D7%9C%D7%97%D7%AA_%D7%97%D7%A8%D7%99%D7%99%D7%9E%D7%94.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chraime",
+      "recipe": {
+        "ingredients": [
+          "2 large baking potatoes",
+          "2 medium red bell peppers, cored, seeded, and cut into ½-inch thick wedges",
+          "5 garlic cloves, peeled and smashed",
+          "1 small jalapeño or other hot chili pepper, quartered and seeded",
+          "Salt, to taste",
+          "1¼–1½ pounds of white fish fillets (e.g. sole, halibut, or cod)",
+          "1 tablespoon sweet paprika",
+          "3 ripe tomatoes, coarsely chopped",
+          "1 cup chopped fresh cilantro or parsley",
+          "1 cup water",
+          "⅓ cup olive oil",
+          "Coarse salt, to taste"
+        ],
+        "steps": [
+          "In a large flame-proof casserole or Dutch oven, set the potato slices on the bottom. Scatter the bell peppers, garlic, and jalapeño pepper on the potatoes. Sprinkle with salt. Place the fish on top and sprinkle it with paprika and salt. Add the tomatoes and cilantro or parsley.",
+          "Pour the water in at the edges. Sprinkle the top with oil and sprinkle generously with salt.",
+          "Set the pan over high heat, cover, and bring the mixture to a boil. Reduce the heat slightly and simmer for 25–30 minutes or until the vegetables are tender and the fish is cooked through. Check the pan after 20 minutes; if there seems to be too much liquid, uncover the pan for the remaining cooking time.",
+          "Serve hot or warm with challah."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChraime_(Sephardic_Fish_and_Vegetable_Casserole)"
+      }
+    },
+    {
+      "id": "hamin",
+      "name": "Hamin",
+      "localName": "חמין",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hamin%20recipe",
+      "description": "Cholent or Schalet (Yiddish: טשאָלנט, romanized: tsholnt) is a traditional slow-simmering Sabbath stew in Jewish cuisine that was developed by Ashkenazi Jews first in France and later Germany, and is first mentioned in the 12th century.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Chol_001.jpg/500px-Chol_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cholent"
+    },
+    {
+      "id": "sufganiyah",
+      "name": "Sufganiyah",
+      "localName": "סופגנייה",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sufganiyah%20recipe",
+      "description": "Sufganiyah is a round, jelly doughnut–like pastry, eaten around the world during the Jewish festival of Hanukkah. The doughnut is deep-fried, injected with jam or custard, and then topped with powdered sugar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Classic_Hanukkah_sufganiyot.JPG/500px-Classic_Hanukkah_sufganiyot.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sufganiyah"
+    },
+    {
+      "id": "ptitim",
+      "name": "Ptitim",
+      "localName": "פתיתים",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ptitim%20recipe",
+      "description": "Ptitim (Hebrew: פְּתִיתִים, romanized: pṯīṯīm, lit. 'flakes', singular: פְּתִית, pṯīṯ, 'flake') is a type of toasted grain-shaped pasta.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Israeli_couscous.jpg/500px-Israeli_couscous.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Israeli_couscous"
+    },
+    {
+      "id": "rugelach",
+      "name": "Rugelach",
+      "localName": "רוגלך",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rugelach%20recipe",
+      "description": "Rugelach ( ROO-gəl-əkh; Polish: rogaliki, Yiddish: ראָגאַל, romanized: rogal, or Yiddish: ראָגאַלעך, romanized: rogalekh; Hebrew: רוגלך rōgalaḵ) is a filled baked confection originating in the Jewish communities of Poland. It has become a popular treat among Jews in the diaspora and in Israel.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/ChocolateRugelach.JPG/500px-ChocolateRugelach.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rugelach",
+      "recipe": {
+        "ingredients": [
+          "2 cups (260 g) all-purpose flour",
+          "½ cup (65 g) plus 4 tsp white granulated sugar",
+          "1 tsp cinnamon",
+          "½ tsp salt",
+          "1 cup loosely packed golden raisins, chopped",
+          "1 ¼ cups walnuts (¼ lb), finely chopped",
+          "16 tbsp (2 sticks) unsalted butter, softened",
+          "8 oz (220 g) cream cheese, softened",
+          "1 cup apricot jam or raspberry jam",
+          "Milk to brush"
+        ],
+        "steps": [
+          "Whisk flour and salt in a medium bowl.",
+          "Beat butter and cream cheese in a large bowl with a mixer until well combined.",
+          "Stir in flour until the contents is the consistency of dough.",
+          "Roll the dough into a ball and wrap in plastic; flatten into a 5 x 7 inch (12 x 17 cm) rectangle.",
+          "Refrigerate for 12–24 hours.",
+          "Line a large shallow baking pan with parchment paper. Preheat oven to 350°F (180°C).",
+          "Cut the chilled dough into 4 even pieces, and return all but 1 to the fridge in plastic wrap. Roll the remaining piece into a 12 x 8 inch (30 x 19 cm) rectangle on a floured surface with a floured rolling pin (to prevent sticking).",
+          "Put the flattened dough on parchment paper, and then return to the fridge to chill while you repeat the flattening process on all other dough quarters.",
+          "After you are done flattening the dough, return the last piece to the fridge.",
+          "Whisk the ½ cup sugar with cinnamon in a medium bowl.",
+          "Take one dough quarter out of the fridge and spread ¼ cup of the jam over the dough with a spatula. Over the dough, scatter ¼ cup of raisins and then walnuts, finally 2 tablespoons of the whisked cinnamon sugar.",
+          "Roll the dough quarter up into a tight cylinder. Place the dough cylinder seam-side down in the baking pan and close and tuck the ends.",
+          "Repeat the same process with the other 3 dough rectangles.",
+          "Finish the cylinders by brushing with milk, sprinkle each with a teaspoon of sugar. Using a large knife, score the dough cylinders with ¾ inch (2 cm) deep cuts, at one inch intervals.",
+          "Bake at 350°F (180°C) for 45–50 minutes.",
+          "Take out of the oven, cool in the pan on a wire rack for 30 minutes. Transfer cylinders to a cutting board and cut slices from the cylinders to make rugelach."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARugelach"
+      }
+    }
+  ]
+}

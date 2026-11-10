@@ -1,0 +1,111 @@
+{
+  "country": "AZ",
+  "dishes": [
+    {
+      "id": "plov",
+      "name": "Plov",
+      "videoSearch": "https://www.youtube.com/results?search_query=Plov%20recipe",
+      "description": "Pilaf (US: or pilau UK: ) is a rice dish, or in some regions, a wheat dish, whose recipe usually involves cooking in stock or broth, adding spices, and other ingredients such as vegetables and meat, and employing some technique for achieving cooked grains that do not adhere.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Afghan_Palo.jpg/500px-Afghan_Palo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pilaf"
+    },
+    {
+      "id": "dushbara",
+      "name": "Dushbara",
+      "localName": "Düşbərə",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dushbara%20recipe",
+      "description": "Joshpara is a kind of dumpling popular in Central Asia, South Caucasus and the Middle East. They are made of unleavened wheat dough squares filled with ground meat and condiments.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/D%C3%BC%C5%9Fb%C9%99r%C9%99_yar%C4%B1mfabrikat%C4%B1_1.jpg/500px-D%C3%BC%C5%9Fb%C9%99r%C9%99_yar%C4%B1mfabrikat%C4%B1_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joshpara"
+    },
+    {
+      "id": "dolma",
+      "name": "Dolma",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dolma%20recipe",
+      "description": "Dolma is a family of stuffed dishes largely associated with Ottoman cuisine. It mainly includes vegetables and leaves, and occasionally seafood, offal, fruits, and meats, that are hollowed out or wrapped, then filled with a mixture of rice, minced meat, herbs, and spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Speca_te_mbushura_me_mish.JPG/500px-Speca_te_mbushura_me_mish.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dolma"
+    },
+    {
+      "id": "qutab",
+      "name": "Qutab",
+      "videoSearch": "https://www.youtube.com/results?search_query=Qutab%20recipe",
+      "description": "Qutab, or Gutab is a traditional dish in Azerbaijani, Turkmen and Turkish cuisine, made from thinly rolled dough that is filled with a variety of ingredients and cooked briefly on a convex griddle called a saj.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/K%C3%BCk%C3%BC-Gutab_Azerbaijani.gif/500px-K%C3%BCk%C3%BC-Gutab_Azerbaijani.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Qutab"
+    },
+    {
+      "id": "piti",
+      "name": "Piti",
+      "videoSearch": "https://www.youtube.com/results?search_query=Piti%20recipe",
+      "description": "Piti is a soup in the cuisines of the South Caucasus and its bordering nations, and is prepared in the oven in individual crocks with a glazed interior (called piti in Turkic languages).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Shaki_piti.jpg/500px-Shaki_piti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Piti_(food)"
+    },
+    {
+      "id": "lula-kebab",
+      "name": "Lula kebab",
+      "localName": "Lülə kabab",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lula%20kebab%20recipe",
+      "description": "Lula kebab (Armenian: լուլա քյաբաբ, romanized: lula kʿyabab; Azerbaijani: lülə kabab) is a type of kebab cooked on skewers. It is made from minced meat. It is a specialty of Armenian, and Azerbaijani cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Azerbaijani_lyulya_kebab.jpg/500px-Azerbaijani_lyulya_kebab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lula_kebab"
+    },
+    {
+      "id": "dovga",
+      "name": "Dovga",
+      "localName": "Dovğa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dovga%20recipe",
+      "description": "Dovga (Azerbaijani: Dovğа) is an Azerbaijani soup made from plain yoghurt and herbs. Traditionally, it is served as a wedding soup and is introduced between courses of meat, intended to boost digestion. Dovga is a soup that is cooked with a variety of herbs.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Dovga_e-citizen.JPG/500px-Dovga_e-citizen.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dovga",
+      "recipe": {
+        "ingredients": [
+          "1 liter yogurt",
+          "2 tablespoons uncooked rice",
+          "1 egg",
+          "1 bunch of spinach",
+          "1 bunch of dill",
+          "1 bunch of coriander",
+          "1 bunch of mint",
+          "Boiled peas (optional)"
+        ],
+        "steps": [
+          "Stir yogurt to remove lumps, then pour into a pot.",
+          "Add rice and egg, and thoroughly mix.",
+          "Set pot over low heat. Mix continuously and slowly until it boils (otherwise the yogurt and eggs may curdle).",
+          "While the mixture is boiling, chop the greens. Add these into the yogurt mixture, and boil again for about 5 minutes.",
+          "Stir in peas, if using.",
+          "Serve in plates or glasses, adding salt to taste."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ADovga_(Azerbaijani_Yogurt_Soup)"
+      }
+    },
+    {
+      "id": "pakhlava",
+      "name": "Pakhlava",
+      "localName": "Paxlava",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pakhlava%20recipe",
+      "description": "Baklava (, or ) is a layered pastry dessert made of filo pastry, filled with chopped nuts, and sweetened with either syrup or honey.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Baklava%281%29.png/500px-Baklava%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baklava"
+    },
+    {
+      "id": "shekerbura",
+      "name": "Shekerbura",
+      "localName": "Şəkərbura",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shekerbura%20recipe",
+      "description": "Shekerbura or shekarbura (Azerbaijani: şəkərbura) is an Azerbaijani sweet pastry, usually eaten as a dessert. It is made in a half-moon shape, filled with ground almonds, hazelnuts, or walnuts, and sugar. Shekerbura, shorgoghal, and pakhlava are the traditional foods of Novruz in Azerbaijan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/%C5%9E%C9%99k%C9%99rbura_Novruz_%C5%9Firniyyat%C4%B1.jpg/500px-%C5%9E%C9%99k%C9%99rbura_Novruz_%C5%9Firniyyat%C4%B1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shekerbura"
+    },
+    {
+      "id": "badambura",
+      "name": "Badambura",
+      "videoSearch": "https://www.youtube.com/results?search_query=Badambura%20recipe",
+      "description": "Badambura is an Azerbaijani sweet pastry, usually eaten as a dessert, especially when celebrating Nowruz. It consists of several layers of soft, flaky dough and is filled with almonds, sugar and cardamom. It is also topped with powdered sugar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Badambura_Novruz_%C5%9Firniyyat%C4%B1.jpg/500px-Badambura_Novruz_%C5%9Firniyyat%C4%B1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Badambura"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "country": "BY",
+  "dishes": [
+    {
+      "id": "draniki",
+      "name": "Draniki",
+      "localName": "Дранікі",
+      "videoSearch": "https://www.youtube.com/results?search_query=Draniki%20recipe",
+      "description": "Potato pancakes are shallow-fried pancakes consisting of grated or ground potato, matzo meal or flour and typically a binding ingredient such as egg or corn starch, often flavored with grated garlic or onion and seasonings.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Latkas.jpg/500px-Latkas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Potato_pancake"
+    },
+    {
+      "id": "kalduny",
+      "name": "Kalduny",
+      "localName": "Калдуны",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kalduny%20recipe",
+      "description": "Kalduny or kolduny (Belarusian: калдуны́, Polish: kołduny, Lithuanian: koldūnai) are dumplings stuffed with meat, mushrooms or other ingredients, made in Belarusian, Lithuanian, and Polish cuisines, akin to the Polish pierogi, Russian pelmeni and the Ukrainian varenyky.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Kold%C5%ABnai.JPG/500px-Kold%C5%ABnai.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kalduny"
+    },
+    {
+      "id": "potato-babka",
+      "name": "Potato babka",
+      "localName": "Бульбяная бабка",
+      "videoSearch": "https://www.youtube.com/results?search_query=Potato%20babka%20recipe",
+      "description": "Potato babka is a savoury baked potato dish, popular especially in Belarus and northeastern Poland, where it is known as babka ziemniaczana. It is considered the most famous dish of the Polish region of Podlachia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Babka-ziemniaczana.jpg/500px-Babka-ziemniaczana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Potato_babka"
+    },
+    {
+      "id": "kletski",
+      "name": "Kletski",
+      "localName": "Клёцкі",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kletski%20recipe",
+      "description": "Kletsky (Russian: Клетский; masculine), Kletskaya (Клетская; feminine), or Kletskoye (Клетское; neuter) is the name of several rural localities in Volgograd Oblast, Russia:",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kletsky"
+    },
+    {
+      "id": "kholodnik",
+      "name": "Kholodnik",
+      "localName": "Халаднік",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kholodnik%20recipe",
+      "description": "Cold beet soup (Belarusian: халаднік, romanized: chaladnik; Latvian: aukstā zupa, lit. 'cold soup'; Lithuanian: šaltibarščiai, lit. 'cold borscht'; Polish: chłodnik litewski, lit.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Lurid_borscht.jpg/500px-Lurid_borscht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cold_beet_soup"
+    },
+    {
+      "id": "zrazy",
+      "name": "Zrazy",
+      "localName": "Зразы",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zrazy%20recipe",
+      "description": "Zrazy or zrazi is a meat roulade dish popular in Poland (Silesian rouladen), western Belarus and Lithuania. Its origin can be traced back to the time of the Polish–Lithuanian Commonwealth.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Zrazy1.jpg/500px-Zrazy1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zrazy"
+    }
+  ]
+}

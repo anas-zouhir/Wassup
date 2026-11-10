@@ -1,0 +1,60 @@
+{
+  "country": "BW",
+  "dishes": [
+    {
+      "id": "seswaa",
+      "name": "Seswaa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Seswaa%20recipe",
+      "description": "Seswaa (as the dish is called in the north of Botswana) or loswao (as the dish is called in the south of the country and western South Africa) is a traditional meat dish of Botswana, made of beef or goat meat. It is prepared using cuts or tough cuts such as legs, neck and back. Sometimes, the whole animal is used.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Seswaa.jpg/500px-Seswaa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Seswaa"
+    },
+    {
+      "id": "pap",
+      "name": "Pap (bogobe)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pap%20(bogobe)%20recipe",
+      "description": "Ugali, also known as posho, nsima, papa, pap, bogobe, sadza, isitshwala, akume, amawe, ewokple, akple, and other names, is a type of corn meal made from maize or corn or mahindi flour in several African countries: Kenya, Uganda, South Sudan, Tanzania, Zimbabwe, Zambia, Lesotho, Eswatini, Angola, Mozambique, Namibia, De…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ugali_%26_Sukuma_Wiki.jpg/500px-Ugali_%26_Sukuma_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ugali"
+    },
+    {
+      "id": "mopane-worms",
+      "name": "Mopane worms (phane)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mopane%20worms%20(phane)%20recipe",
+      "description": "Gonimbrasia belina is a species of emperor moth which is native to the warmer parts of southern Africa. Its large edible caterpillar, known as the mopane worm, madora, amacimbi, pigeon moth or masonja, feeds primarily but not exclusively on mopane tree leaves.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Colophospermum_mopane_50D_0486.jpg/500px-Colophospermum_mopane_50D_0486.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gonimbrasia_belina"
+    },
+    {
+      "id": "bogobe-jwa-logala",
+      "name": "Bogobe jwa logala",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bogobe%20jwa%20logala%20recipe",
+      "description": "Bogobe jwa logala is a sorghum porridge eaten in Botswana. It is made by combining sorghum flour with nearly-boiling milk and simmering it until it forms a gel. It is a breakfast dish.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bogobe_jwa_logala"
+    },
+    {
+      "id": "magwinya",
+      "name": "Magwinya (fat cakes)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Magwinya%20(fat%20cakes)%20recipe",
+      "description": "Vetkoek is a traditional South African fried dough bread. It is similar to the Caribbean Johnny cake, the Dutch oliebol, and the Mexican sopaipillas. It is also known by the Xhosa, Zulu, and Setswana name igwinya (plural amagwinya) and legwinya (plural magwinya) respectively.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Vetkoek_with_mince-001.jpg/500px-Vetkoek_with_mince-001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vetkoek"
+    },
+    {
+      "id": "mala-mogodu",
+      "name": "Mala mogodu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mala%20mogodu%20recipe",
+      "description": "Mala mogodu is a Southern African food. Mogodu is a combination of chopped serobe (tripe) and mala (intestines) served as a stew often with hot pap or dumpling. Mala (in Setswana/Sotho) is the insides, usually of a mammal such as a cow or sheep.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Mala_Mogodu01.jpg/500px-Mala_Mogodu01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mala_mogodu"
+    },
+    {
+      "id": "morama",
+      "name": "Morama beans",
+      "videoSearch": "https://www.youtube.com/results?search_query=Morama%20beans%20recipe",
+      "description": "Tylosema esculentum, with common names gemsbok bean and marama bean or morama bean, is a long-lived perennial legume native to arid areas of southern Africa. Stems grow at least 3 metres (9.8 ft), in a prostrate or trailing form, with forked tendrils that facilitate climbing.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tylosema_esculentum.png/500px-Tylosema_esculentum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tylosema_esculentum"
+    }
+  ]
+}

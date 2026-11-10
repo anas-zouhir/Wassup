@@ -1,0 +1,97 @@
+{
+  "country": "BF",
+  "dishes": [
+    {
+      "id": "to",
+      "name": "Tô",
+      "videoSearch": "https://www.youtube.com/results?search_query=T%C3%B4%20recipe",
+      "description": "Tô or To is a Vietnamese surname. It was formerly written in chữ Hán as 蘇. It derived from the Chinese surname Su, but is written as 苏 in modern simplified characters.",
+      "wikipedia": "https://en.wikipedia.org/wiki/T%C3%B4"
+    },
+    {
+      "id": "riz-gras",
+      "name": "Riz gras",
+      "videoSearch": "https://www.youtube.com/results?search_query=Riz%20gras%20recipe",
+      "description": "Riz gras or riz au gras is a rice-based dish in Beninese, Burkinabé, Guinean, Ivorian, and Togolese cuisines, in West Africa. It is also prepared in other African countries, such as Senegal, where it is called tiebou djen and is prepared with significant amounts of fish and meat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Plat_de_riz_au_gras_plus_viande.jpg/500px-Plat_de_riz_au_gras_plus_viande.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Riz_gras",
+      "recipe": {
+        "ingredients": [
+          "2 cups long-grain rice",
+          "2 tablespoons vegetable oil",
+          "1 onion, chopped",
+          "2 cloves of garlic, minced",
+          "1 cup mixed vegetables (carrots, peas, corn, bell peppers, etc.), diced",
+          "1 cup cooked meat (chicken, shrimp, beef, or tofu; optional), diced",
+          "2 eggs, lightly beaten",
+          "3 tablespoons soy sauce",
+          "1 teaspoon sesame oil",
+          "Salt",
+          "Chopped green onions"
+        ],
+        "steps": [
+          "Rinse the rice thoroughly under cold water until the water runs clear.",
+          "In a pot, add the rinsed rice and the appropriate amount of water, following the package instructions.",
+          "Bring the water to a boil, then reduce the heat to low, cover with a tight-fitting lid, and let the rice simmer for the recommended cooking time (usually around 15–20 minutes or as per package instructions).",
+          "Once cooked, fluff the rice with a fork and set it aside.",
+          "Heat a small amount of vegetable oil in the skillet or wok over medium heat.",
+          "Pour the lightly beaten eggs into the pan, and scramble them until cooked through.",
+          "Remove the scrambled eggs from the pan, and set them aside.",
+          "In the same skillet or wok, add more vegetable oil if needed, and heat it over medium-high heat.",
+          "Add the onion and garlic, and sauté until the onion turns translucent and the garlic is fragrant.",
+          "Add the mixed vegetables and cooked meat (if using) to the skillet, and stir-fry until they are tender and heated through.",
+          "Add the cooked rice to the skillet and stir-fry with the vegetables and meat until everything is well combined.",
+          "Pour the soy sauce, and oyster sauce (if using) over the rice mixture and mix well to evenly coat the rice.",
+          "Season with salt and pepper according to your taste. Drizzle the sesame oil over the fried rice and give it a final toss to enhance the flavor.",
+          "Garnish with chopped green onions, cilantro, and prepared scrambled eggs.",
+          "Transfer to a serving dish and enjoy it hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARiz_Gras_(West_African_Fried_Rice)"
+      }
+    },
+    {
+      "id": "wasawasa",
+      "name": "Wasawasa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Wasawasa%20recipe",
+      "description": "Wasawasa is a popular dish, eaten in Dagbon and other parts of Northern Ghana. It is also eaten in some West African countries, such as Burkina Faso, Benin, Nigeria etc. It is made from dried yam peelings called jaling, which have been grounded into flour and steamed.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Wasawasa.jpg/500px-Wasawasa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wasawasa",
+      "recipe": {
+        "ingredients": [
+          "Yam flour",
+          "Salt",
+          "Freshly ground pepper",
+          "Water",
+          "Groundnut oil or shea butter oil"
+        ],
+        "steps": [
+          "Start heating a saucepan of water over medium heat so that it will begin to boil by the time the yam mixture is ready.",
+          "Sieve the yam flour into a bowl to remove any undesired particles that might be present from the processing.",
+          "Very gradually stir in water, stirring in a circular motion to form tiny grains resembling couscous. Avoid using too much water; but, if you do, you can correct with more flour. Be patient; it can take up to 10 minutes to complete. You can shake the bowl to hasten the process, so be patient and keep working until you achieve the desired texture .",
+          "Transfer the mixture to the top of a steamer over the boiling water, and then cover it for 15 minutes, lifting the lid gently after the first 10 minutes.",
+          "Take the steamer off the heat after 15 minutes, and rinse the contents in cold water to remove any remaining undesirable particles and any bitterness that the yam may occasionally have. Any clumps that may have developed are also broken up by the water. It might require two washes.",
+          "After letting it drain for a few minutes, toss with 3 teaspoons of oil and your preferred amount of salt.",
+          "Place the mixture in the steamer back over the boiling water. Cover with a fresh kitchen towel or piece of parchment paper to trap the steam, then cover with the lid. Cook for another 10–12 minutes.",
+          "Serve with any desired garnishes, such as pasta."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AWasawasa_(Yam_Couscous)"
+      }
+    },
+    {
+      "id": "sauce-arachide",
+      "name": "Peanut sauce (sauce arachide)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Peanut%20sauce%20(sauce%20arachide)%20recipe",
+      "description": "Peanut stew or groundnut stew, also known as maafe (Wolof mafé, maffé, maffe), and pate d'arachide (French), is a staple food stew in Western Africa.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mafe.malien.jpg/500px-Mafe.malien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peanut_stew"
+    },
+    {
+      "id": "bissap",
+      "name": "Bissap",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bissap%20recipe",
+      "description": "Hibiscus tea (served hot), or roselle juice (served cold), is an infusion made from the crimson or deep magenta-colored sepals or calyces of the roselle flower (Hibiscus sabdariffa). It is consumed both hot and cold and has a tart, strong cranberry-like flavor.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Hibiscus_tea.jpg/500px-Hibiscus_tea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hibiscus_tea"
+    }
+  ]
+}

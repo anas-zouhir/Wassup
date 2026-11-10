@@ -1,0 +1,96 @@
+{
+  "country": "NI",
+  "dishes": [
+    {
+      "id": "gallo-pinto",
+      "name": "Gallo pinto",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gallo%20pinto%20recipe",
+      "description": "Gallo pinto or gallopinto is a traditional rice and bean dish from Central America. Consisting of rice and beans as a base, gallo pinto is important to both Nicaragua and Costa Rica, both of which consider it a national dish. The beans in gallo pinto are cooked with garlic, oregano and onion.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Gallo_Pinto.jpg/500px-Gallo_Pinto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gallo_pinto"
+    },
+    {
+      "id": "nacatamal",
+      "name": "Nacatamal",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nacatamal%20recipe",
+      "description": "A nacatamal (Nahuat: Nakatamal, Nakat \"meat\", tamal \"tamale\") (Nahuatl: Nacatamal, Nacatl \"meat\", tamalli \"tamale\") is a traditional Nicaraguan dish similar to the tamal and to the hallaca.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Nicaraguan_Nacatamal.jpg/500px-Nicaraguan_Nacatamal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nacatamal"
+    },
+    {
+      "id": "vigoron",
+      "name": "Vigorón",
+      "videoSearch": "https://www.youtube.com/results?search_query=Vigor%C3%B3n%20recipe",
+      "description": "Vigorón is a traditional Nicaraguan dish. It consists of a cabbage salad, or curtido (chopped cabbage, tomatoes, onions, and chili pepper marinated in vinegar and salt), boiled yuca, and chicharrones (fried pork belly or fried pork rinds), over a banana leaf.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/VIGORON.JPG/500px-VIGORON.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vigor%C3%B3n"
+    },
+    {
+      "id": "indio-viejo",
+      "name": "Indio viejo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Indio%20viejo%20recipe",
+      "description": "Indio viejo (\"old Indian\") is a traditional dish from Nicaragua dating back to the pre-Columbian era. It is a stew or thick soup made out of maize mixed with tomatoes, achiote, onions, garlic, shredded meat, and herbs.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Indio-viejo-nicaraguense.jpg/500px-Indio-viejo-nicaraguense.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Indio_viejo"
+    },
+    {
+      "id": "quesillo",
+      "name": "Quesillo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Quesillo%20recipe",
+      "description": "Quesillo refers to different Latin American, Spanish, and Filipino foods or dishes depending on the country:",
+      "wikipedia": "https://en.wikipedia.org/wiki/Quesillo"
+    },
+    {
+      "id": "vaho",
+      "name": "Vaho",
+      "videoSearch": "https://www.youtube.com/results?search_query=Vaho%20recipe",
+      "description": "Vaho or baho is a mix of meat, green plantains and yuca cooked in and served on banana leaves. It is a traditional Nicaraguan dish originated from the mix of cultures between the indigenous, mestizos and Afro-Nicaraguans of the country.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Baho.jpg/500px-Baho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vaho"
+    },
+    {
+      "id": "rondon",
+      "name": "Rondón",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rond%C3%B3n%20recipe",
+      "description": "Run down, also referred to as rundown, run dun, rondón, fling-me-far, and fling mi for, is a stew dish in Jamaican cuisine and Tobago cuisine. The traditional Jamaican dish is eaten in several Latin American countries that share a coast with the Caribbean Sea.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Plate_of_Rondon.jpg/500px-Plate_of_Rondon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Run_down"
+    },
+    {
+      "id": "sopa-de-mondongo",
+      "name": "Sopa de mondongo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sopa%20de%20mondongo%20recipe",
+      "description": "Sopa de mondongo is a soup that originally came from Latin America. It is made from diced tripe (the stomach of a cow or pig) slow-cooked with vegetables such as bell peppers, onions, carrots, cabbage, celery, tomatoes, cilantro, garlic or root vegetables.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Modongo_soup.jpg/500px-Modongo_soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sopa_de_mondongo"
+    },
+    {
+      "id": "pescado-a-la-tipitapa",
+      "name": "Pescado a la Tipitapa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pescado%20a%20la%20Tipitapa%20recipe",
+      "recipe": {
+        "ingredients": [
+          "1–2 tbsp virgin olive oil",
+          "½ ea. onion (vidalia onions are okay, purple or white onions are also acceptable), chopped",
+          "3 oz (85 g) tomato, sliced in rings",
+          "Vinegar",
+          "Brown sugar",
+          "Salt",
+          "Lemon",
+          "5 tbsp virgin olive oil",
+          "½–1 lb (225–450 g) whole fresh carp, fully cleaned and scaled",
+          "Salt"
+        ],
+        "steps": [
+          "Heat the oil in a pan over medium heat. Add onions, and cook until translucent.",
+          "When the onion is translucent, add tomato slices. Cook for 5 minutes, then add a drop or two of vinegar and a pinch of brown sugar. Season to taste with salt. Let it cook for a few more minutes, and set to the side.",
+          "Heat the 5 tbsp oil in a pan over medium heat. Add the fish to the pan, and fry until the skin is crispy (approximately 7 minutes per side).",
+          "Place a rack in a baking pan. Transfer the fish to the rack, and bake about 15 minutes at 350°F (175°C).",
+          "Let the fish cool, then salt to taste and return to its pan. Fry again over low heat for 3 minutes each side while re-heating the salsa.",
+          "Add the salsa on top of the fish, and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATipitapa_Fish_Topped_with_Salsa_(Pescado_a_la_Tipitapa)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "country": "NE",
+  "dishes": [
+    {
+      "id": "kilishi",
+      "name": "Kilishi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kilishi%20recipe",
+      "description": "Kilishi is a version of jerky that originates in Hausaland which consists of most of Southern Niger and Northern Nigeria. It is a form of dried meat, typically made with beef, lamb and mutton, or chevon.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/%22Kilishi%22.JPG/500px-%22Kilishi%22.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kilishi"
+    },
+    {
+      "id": "dambou",
+      "name": "Dambou",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dambou%20recipe",
+      "description": "Dambu or dambou is a dish native to the Zarma and Songhai of Southwestern Niger made from cereals and moringa. It is consumed at any time but mainly during festive occasions such as outdoorings and weddings. This dish is also common among the Dendi people of North Benin and other West African cities.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Dambu.jpg/500px-Dambu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dambou"
+    },
+    {
+      "id": "fura",
+      "name": "Fura",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fura%20recipe",
+      "description": "Fura or doonu is a type of food originating from West Africa's Sahel region and that is popular among the Zarma-Songhai, Fulani and Hausa peoples of the Sahel. It is a millet dough ball, with \"fura\" meaning millet ball. It is also eaten in Niger and Ghana.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Fura_da_nono.jpg/500px-Fura_da_nono.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fura_(food)"
+    },
+    {
+      "id": "tuwo",
+      "name": "Tuwo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tuwo%20recipe",
+      "description": "Tuwon shinkafa is a type of Nigerian and Nigerien rice swallow from Niger and the northern part of Nigeria. It is a thick pudding prepared from local rice that is soft and sticky, and is usually served with different types of soups like miyan kuka and miyan taushe.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Tuwo_Shinkafa_with_garden_egg_Soup.jpg/500px-Tuwo_Shinkafa_with_garden_egg_Soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tuwon_shinkafa"
+    },
+    {
+      "id": "kuli-kuli",
+      "name": "Kuli-kuli",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kuli-kuli%20recipe",
+      "description": "Kuli-kuli is a Nigerian snack primarily made from peanuts, first made by the Nupe people of Nigeria. It is a popular snack in Nigeria, Benin, northern Cameroon and Ghana. Today kuli-kuli is accepted across the globe.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kulikuli.jpg/500px-Kulikuli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kuli-kuli"
+    },
+    {
+      "id": "fakou",
+      "name": "Fakou",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fakou%20recipe",
+      "description": "Fakou, also known as Fakou Foye or Fakoye, is a traditional soup of the Songhai and Tuareg people in Niger and Northern Mali. This dark green, slightly thick soup is made from jute leaves scientifically known as Corchorus olitorius, commonly referred to as Mulukhiyah in North Africa and Ayoyo in Ghana.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fakou"
+    }
+  ]
+}

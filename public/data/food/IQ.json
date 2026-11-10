@@ -1,0 +1,122 @@
+{
+  "country": "IQ",
+  "dishes": [
+    {
+      "id": "masgouf",
+      "name": "Masgouf",
+      "localName": "مسگوف",
+      "videoSearch": "https://www.youtube.com/results?search_query=Masgouf%20recipe",
+      "description": "Masgouf (Arabic: المسكوف), is a Mesopotamian dish consisting of seasoned, grilled carp; it is often considered the national dish of Iraq.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Masgouf.jpg/500px-Masgouf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Masgouf"
+    },
+    {
+      "id": "dolma",
+      "name": "Dolma",
+      "localName": "دولمة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dolma%20recipe",
+      "description": "Dolma is a family of stuffed dishes largely associated with Ottoman cuisine. It mainly includes vegetables and leaves, and occasionally seafood, offal, fruits, and meats, that are hollowed out or wrapped, then filled with a mixture of rice, minced meat, herbs, and spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Speca_te_mbushura_me_mish.JPG/500px-Speca_te_mbushura_me_mish.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dolma"
+    },
+    {
+      "id": "quzi",
+      "name": "Quzi",
+      "localName": "قوزي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Quzi%20recipe",
+      "description": "Quzi (Arabic: قوزي), also spelled as qoozi or ghoozi, is a popular rice-based dish and is considered one of Iraq's national dishes. It is served with very slowly cooked lamb, roasted nuts, and raisins served over rice. The dish can also be found in some Arab states of the Persian Gulf.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Iraqi_Qoozi_.jpg/500px-Iraqi_Qoozi_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Quzi"
+    },
+    {
+      "id": "kubba",
+      "name": "Kubba",
+      "localName": "كبة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kubba%20recipe",
+      "description": "Kibbeh (, also kubba and other spellings; Arabic: كبّة, romanized: kibba; Egyptian Arabic: كبيبة, romanized: kobeba) is a popular dish in the Arab world and the Levant in particular, made of spiced lean ground meat and bulgur wheat. Kibbeh is considered to be a national dish of Lebanon and Syria.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kibbeh3.jpg/500px-Kibbeh3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kibbeh"
+    },
+    {
+      "id": "pacha",
+      "name": "Pacha",
+      "localName": "پاچة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pacha%20recipe",
+      "description": "Khash (Armenian: խաշ) is a traditional dish made from a boiled cow or sheep parts, which might include the head, feet, and stomach (tripe). It originates from Armenia and is considered one of the oldest Armenian dishes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Khash.jpg/500px-Khash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Khash_(dish)"
+    },
+    {
+      "id": "tepsi-baytinijan",
+      "name": "Tepsi baytinijan",
+      "localName": "تبسي باذنجان",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tepsi%20baytinijan%20recipe",
+      "description": "Tepsi baytinijan (Arabic: تبسي بيتنجان, lit. 'eggplant platter') is a popular Iraqi casserole dish consisting of eggplant, sliced and fried before placing in a baking dish, accompanied with meatballs, tomatoes, onions and garlic. Potato slices are placed on top of the mixture, and the dish is baked.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Tepsi-Baytinijan.jpg/500px-Tepsi-Baytinijan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tepsi_baytinijan"
+    },
+    {
+      "id": "kleicha",
+      "name": "Kleicha",
+      "localName": "كليچة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kleicha%20recipe",
+      "description": "Kleicha (Persian: کلوچه, romanized: koluche; North Mesopotamian Arabic: كليچة, romanized: klēči, Mesopotamian Arabic: كليچة, romanized: kilēča; Najdi Arabic: كليجة, romanized: k(i)lēja; Syriac: ܟܠܫ̮ܵܐ, romanized: kleča; Kurmanji Kurdish: kade; Sorani Kurdish: کادە, romanized: kāda; Turkish: kiliçe) is a type of Middle …",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Kleicha_%28%D9%83%D9%84%D9%8A%D8%AC%D8%A9%29.jpg/500px-Kleicha_%28%D9%83%D9%84%D9%8A%D8%AC%D8%A9%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kleicha"
+    },
+    {
+      "id": "samoon",
+      "name": "Samoon",
+      "localName": "صمون",
+      "videoSearch": "https://www.youtube.com/results?search_query=Samoon%20recipe",
+      "description": "Samoon (Arabic: صمون) is a type of yeast bread that is consumed mainly in Iraq. It is baked in traditional stone ovens. This bread is one of the most widespread breads in Iraq, along with khubz.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Iraqi_Samoon_2.jpg/500px-Iraqi_Samoon_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Samoon"
+    },
+    {
+      "id": "kahi",
+      "name": "Kahi",
+      "localName": "كاهي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kahi%20recipe",
+      "description": "Kahi (Arabic: كاهي) is an Iraqi breakfast dish made from layered flaky filo pastry often served for breakfast with a type of clotted cream called geymar (Arabic: قيمر), which is made from water buffalo milk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Perfect_kahi.png/500px-Perfect_kahi.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kahi_(food)"
+    },
+    {
+      "id": "geymar",
+      "name": "Geymar",
+      "localName": "قيمر",
+      "videoSearch": "https://www.youtube.com/results?search_query=Geymar%20recipe",
+      "description": "Kaymak, also known as qishta (Arabic: قشدة) or sarshir (Persian: سَرشیر), is a creamy dairy food similar to clotted cream, made from the milk of water buffalo, cows, sheep, or goats in Central Asia, most Turkic regions on the Eurasian Steppe, the Caucasus, Turkey, most Balkan countries, the Levant, Iran and Iraq.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Kaymak_in_Turkey.jpg/500px-Kaymak_in_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kaymak"
+    },
+    {
+      "id": "amba",
+      "name": "Amba",
+      "localName": "عمبة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Amba%20recipe",
+      "description": "Amba or anba (Arabic: عنبة, Hebrew: עמבה) is a tangy condiment made with mango pickle. Created by Iraqi Jewish merchants in Bombay who purportedly shipped mangoes in vinegar back to Baghdad, Amba bears a resemblance to chutneys from South Asia.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Amba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Amba_(condiment)"
+    },
+    {
+      "id": "bamia",
+      "name": "Bamia",
+      "localName": "بامية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bamia%20recipe",
+      "description": "There is a variety of okra stews made in Middle Eastern, Balkan, North African, East African, Persian, and Central Asian cuisines and served as main courses. Besides okra, they often include lamb, olive oil, and tomatoes. There are also meatless variants (cf.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bamia-Ocras_tomate_%28cropped%29.JPG/500px-Bamia-Ocras_tomate_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Okra_stew"
+    },
+    {
+      "id": "zalabia",
+      "name": "Zalabia",
+      "localName": "زلابية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zalabia%20recipe",
+      "description": "Zalabiyeh (Arabic: زلابية) is a fritter or doughnut found in several cuisines across the Arab world, West Asia and some parts of Europe influenced by the former. The fritter version is made from a semi-thin batter of wheat flour which is poured into hot oil and deep-fried.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jalebi_Colors.JPG/500px-Jalebi_Colors.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zalabiyeh"
+    }
+  ]
+}

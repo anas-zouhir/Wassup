@@ -1,0 +1,510 @@
+{
+  "country": "ID",
+  "dishes": [
+    {
+      "id": "nasi-goreng",
+      "name": "Nasi goreng",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nasi%20goreng%20recipe",
+      "description": "Nasi goreng (English pronunciation: ), (Indonesian and Malay for 'fried rice') is a Southeast Asian rice dish typically prepared with pre-cooked rice stir-fried in a small amount of oil or margarine and seasoned with ingredients such as sweet soy sauce, shallots, garlic, ground shrimp paste, tamarind and chilli.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Nasi_Goreng_Kampung_%2811967588375%29.jpg/500px-Nasi_Goreng_Kampung_%2811967588375%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nasi_goreng",
+      "recipe": {
+        "ingredients": [
+          "2 servings of steamed rice",
+          "2 eggs",
+          "1 clove garlic",
+          "2 shallots",
+          "1 red chile pepper",
+          "1 Tbsp fish oil",
+          "10 ml coconut oil",
+          "Sweet soy sauce",
+          "Salty soy sauce or salt",
+          "Ground pepper",
+          "20 stink beans or green beans",
+          "100 g chicken fillet, cut into small pieces",
+          "100 g small prawns",
+          "4 fish meatballs",
+          "2 spoons of tinned corned beef",
+          "1 cucumber",
+          "Sliced hot dogs or sausages",
+          "Sliced chicken liver",
+          "Cauliflower",
+          "Sliced salted dried fish",
+          "Spring onion"
+        ],
+        "steps": [
+          "Slice shallots and red pepper into thin slices.",
+          "Crush garlic, peel of the skin, and mince well.",
+          "Slice stinky beans in half, or as desired.",
+          "Heat oil in wok, add the chicken or prawn, and stir fry until done.",
+          "Add shallot, pepper, garlic and stink beans. Stir until garlic turns golden.",
+          "Crack in the eggs, and stir fry until half done.",
+          "Add the steamed rice, and stir until all mixed.",
+          "Add soy sauces, salt, and ground pepper as desired.",
+          "Serve on plates, adding fresh cucumber slices or tomatoes as garnish."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ANasi_Goreng_(Indonesian_Fried_Rice)"
+      }
+    },
+    {
+      "id": "rendang",
+      "name": "Rendang",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rendang%20recipe",
+      "description": "Rendang is a stir-fried meat dish or dry curry made of meat stewed in coconut milk and spices, widely popular across Indonesia, Malaysia, Singapore, Brunei, and the southern parts of the Philippines, where each version is considered local cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Rendang_daging_sapi_asli_Padang.JPG/500px-Rendang_daging_sapi_asli_Padang.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rendang",
+      "recipe": {
+        "ingredients": [
+          "2 cloves garlic",
+          "4 shallots",
+          "25 g ginger",
+          "15 g turmeric",
+          "75 g young galangal",
+          "1 tbsp ground fresh red chile pepper",
+          "1 tsp black pepper",
+          "½ pod dried nutmeg",
+          "2 candlenuts",
+          "½ tbsp salt",
+          "1 tbsp gula jawa (Indonesian palm sugar)",
+          "1 kg beef, cut into big cubes to make 20 pieces",
+          "4 lime leaves",
+          "1 stalk lemongrass",
+          "2 L ready-to-use coconut milk or coconut milk from 1 big fresh coconut"
+        ],
+        "steps": [
+          "Using a food processor, grind together all the ingredients for the spice paste.",
+          "Marinate meat with the spice paste for at least 1 hour.",
+          "Heat the coconut milk over low heat until some oil rises to the surface (at least 20 minutes). Stir the coconut milk while it is cooking.",
+          "Transfer the meat and spice paste mixture to a large wok or pot. Cover with 300 ml of the hot coconut milk.",
+          "Stirring occasionally, cook over medium-low heat until half of the coconut milk has evaporated.",
+          "Add another 100 ml hot coconut milk, and stir until almost all of the coconut milk has evaporated.",
+          "Keep on adding coconut milk, 100 ml at a time, and cooking until the previous addition has evaporated.",
+          "Cook until the meat is tender (at least 1½ hours) and almost all the liquid from the coconut milk has reduced to a spicy sauce."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARendang_(Indonesian_Beef_and_Coconut_Stew)"
+      }
+    },
+    {
+      "id": "satay",
+      "name": "Satay",
+      "localName": "Sate",
+      "videoSearch": "https://www.youtube.com/results?search_query=Satay%20recipe",
+      "description": "Satay or sate is a Southeast Asian dish consisting of small pieces of seasoned meat, seafood or vegetables skewered on sticks and grilled over charcoal. It is typically served with a sauce, most commonly peanut-based and accompanied by rice cakes, cucumber or pickled vegetables.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Sate_Udang.JPG/500px-Sate_Udang.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Satay"
+    },
+    {
+      "id": "gado-gado",
+      "name": "Gado-gado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gado-gado%20recipe",
+      "description": "Gado-gado (Indonesian or Betawi) is an Indonesian salad of raw, slightly boiled, blanched or steamed vegetables and hard-boiled eggs, boiled potato, fried tofu and tempeh, and sliced lontong (compressed cylinder rice cake wrapped in a banana leaf), served with a peanut sauce dressing.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Gado_gado_jakarta.jpg/500px-Gado_gado_jakarta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gado-gado",
+      "recipe": {
+        "ingredients": [
+          "1 g terasi (fermented prawn paste)",
+          "Vegetable oil",
+          "300 g peanuts",
+          "Fresh or dried chile pepper",
+          "1 clove garlic",
+          "Salt",
+          "125 g gula jawa (Indonesian palm sugar)",
+          "4 shallots",
+          "Sugar",
+          "Fresh lime juice or rice vinegar",
+          "Hard-boiled eggs, sliced",
+          "Whole potatoes, steamed or boiled",
+          "Mixed vegetables (e.g. cabbage, bean sprouts, cucumber, chayote, water spinach, asparagus bean, spinach)",
+          "Deep fried soybean cake",
+          "Deep fried tempeh",
+          "Deep fried kerupuk (fish or prawn crackers)",
+          "Deep fried shallot"
+        ],
+        "steps": [
+          "Fry prawn paste with vegetable oil until fragrant.",
+          "Fry the peanuts until golden brown. Remove from the pan and leave to cool, then drain off all but a little of the excess oil.",
+          "Grind the peanuts to a paste.",
+          "Add ground chili pepper, garlic, salt, sugar, and prawn paste to the peanut paste. Grind to mix.",
+          "Put peanut paste in a pan, add some water to dissolve (use coconut milk for a richer taste).",
+          "Add additional sugar into the peanut sauce to taste, and bring to the boil.",
+          "Simmer peanut sauce until thick, and season with the lime juice or vinegar.",
+          "Remove the skin from the boiled potatoes. Deep fry the potatoes until golden brown, then slice.",
+          "Wash, shred, or chop cabbage, spinach, and water spinach.",
+          "Boil water in a pan. Add cabbage, and cook until tender. Drain.",
+          "Use strained boiling water to boil the spinach and water spinach, one after another. Drain.",
+          "Blanch bean sprouts for about 30 seconds. Drain.",
+          "Peel chayote, wash, slice, and boil until tender.",
+          "Wash and slice cucumber.",
+          "Place the salad, sliced potatoes, fried tofu, fried tempeh, and eggs in a large plate, either randomly or in layers.",
+          "Pour the peanut sauce over the salad.",
+          "Spread deep fried shallots on top, and serve with kerupuk."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGado-gado_(Indonesian_Salad_with_Peanut_Sauce)"
+      }
+    },
+    {
+      "id": "soto-ayam",
+      "name": "Soto ayam",
+      "videoSearch": "https://www.youtube.com/results?search_query=Soto%20ayam%20recipe",
+      "description": "Soto ayam is a traditional Indonesian dish with ingredients such as chicken, lontong, noodles, and rice vermicelli. Soto ayam is also popular in Singapore, Malaysia and Suriname, where it is made with slightly different ingredients and known as saoto.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Soto_ayam.JPG/500px-Soto_ayam.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Soto_ayam",
+      "recipe": {
+        "ingredients": [
+          "5 g turmeric",
+          "½ tsp pepper",
+          "2 candlenuts",
+          "15 g ginger",
+          "3 shallot",
+          "2 cloves garlic",
+          "2 tsp salt",
+          "1 whole chicken with bones or 1 kg chicken parts with bones",
+          "200 g cabbage, thinly sliced",
+          "200 g bean sprouts, blanched",
+          "4 potatoes, steamed, peeled, deep fried until golden brown",
+          "2 fresh tomatoes",
+          "25 g sohun vermicelli, soaked in hot water for 10 minutes",
+          "25 g fried shallots",
+          "3 hard boiled eggs",
+          "1.8 liters chicken stock",
+          "3 kaffir lime leaves",
+          "½ stalk lemongrass",
+          "2 bay leaves",
+          "1 stalk green onion",
+          "25 g galangal",
+          "2 tbsp cooking oil"
+        ],
+        "steps": [
+          "Grind the ingredients for the spice paste together in a food processor. Stir fry the spice paste over slow fire until fragrant. Remove from the heat.",
+          "Make soup by cooking the whole chicken with spice paste, galangal, lime leaves, lemon grass, and bay leaves in a pot for at least 30 minutes until the meat is tender. Use a pressure cooker for faster cooking time and better broth. For a traditional method, bring soup to boil, cover, and turn off heat, then let steep for 30–40 minutes—this makes the meat more tender.",
+          "Add a little bit of salt or pepper to taste.",
+          "Leave the chicken in a pot until the soup is cool.",
+          "Remove the meat from the bones, and slice the meat into tiny bit size using fork and knife, then set aside.",
+          "Put back the bones into the soup, add sliced green onion, and bring the soup to the boil right before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASoto_Ayam_(Indonesian_Chicken_Noodle_Soup)"
+      }
+    },
+    {
+      "id": "bakso",
+      "name": "Bakso",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bakso%20recipe",
+      "description": "Bakso or baso is an Indonesian meatball, or a meat paste made from beef surimi. Its texture is similar to the Chinese beef ball, fish ball, or pork ball. The word bakso may refer to a single meatball or the complete dish of meatball soup.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Bakso_mi_bihun.jpg/500px-Bakso_mi_bihun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bakso"
+    },
+    {
+      "id": "rawon",
+      "name": "Rawon",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rawon%20recipe",
+      "description": "Rawon (Javanese: ꦫꦮꦺꦴꦤ꧀) is an Indonesian beef soup. Originating from the Javanese cuisine of East Java, rawon utilizes the black keluak nut as the main seasoning, which gives a dark color and nutty flavor to the soup; thus rawon is often described as \"black beef soup\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Rawon_Setan_II.jpg/500px-Rawon_Setan_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rawon"
+    },
+    {
+      "id": "gudeg",
+      "name": "Gudeg",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gudeg%20recipe",
+      "description": "Gudeg is a traditional Javanese dish from Yogyakarta, Indonesia. It is made from young, unripe jackfruit (gori, nangka muda) stewed for several hours with palm sugar and coconut milk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Nasi_Gudeg.jpg/500px-Nasi_Gudeg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gudeg",
+      "recipe": {
+        "ingredients": [
+          "½ lb (250 g) jackfruit",
+          "5 shallots",
+          "10 candlenuts",
+          "10 garlic cloves",
+          "4 Indian bay leaves / salam",
+          "2 inches bruised galangal",
+          "2½ tsp (12 g) coriander seeds",
+          "1¼ tsp (6 g) cumin",
+          "¼ cup (62 ml) coconut sugar",
+          "2 cup (500 ml) coconut milk",
+          "2 tsp (30 g) tamarind",
+          "2 lb (1 kg) chicken (cut into small pieces with bone)"
+        ],
+        "steps": [
+          "Cut jackfruit into 1 inch-thick pieces and wash.",
+          "Boil jackfruit in water until tender. Drain.",
+          "Grind shallots, candle nuts, garlic, salam leaves, and galangal together until fragrant. Add the chicken pieces and toss to coat.",
+          "Stir-fry chicken until it changes color. Add 4 cups of water and coconut sugar, and bring to a boil.",
+          "Add jackfruit and simmer until chicken and vegetables are tender.",
+          "Add coconut milk 5 minutes before it's done; bring back to a boil.",
+          "Serve hot with rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGudeg_(Green_Jackfruit_Stew)"
+      }
+    },
+    {
+      "id": "tempeh",
+      "name": "Tempeh",
+      "localName": "Tempe",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tempeh%20recipe",
+      "description": "Tempeh or tempe is a traditional Indonesian food made from fermented soybeans. It is made by a natural culturing and controlled fermentation process that binds soybeans into a cake form. A fungus, Rhizopus oligosporus or Rhizopus oryzae, is used in the fermentation process and is also known as tempeh starter.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Tempeh_%288681605421%29.jpg/500px-Tempeh_%288681605421%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tempeh",
+      "recipe": {
+        "ingredients": [
+          "400 grams (14 ounces) dried soybeans",
+          "Water",
+          "2 tablespoons cider vinegar",
+          "1 teaspoon tempeh starter (or ragi tempe)"
+        ],
+        "steps": [
+          "Cover soybeans with water, and soak overnight or at least 12 hours.",
+          "Remove the hulls (i.e. skins) from the beans by rubbing between both hands (see notes).",
+          "Skim off most of the hulls either by washing them away or by using a skimmer or strainer. Some hulls may be left behind without affecting tempeh quality.",
+          "Cook beans until just tender, not mushy; undercooked is best for tempeh (see notes).",
+          "Drain beans, and spread to dry somewhere with airflow (see notes).",
+          "Collect beans into a bowl, and mix in the cider vinegar. This acidifies the beans slightly, inhibiting unwanted spoilage organisms during fermentation.",
+          "Sprinkle the tempeh starter over the beans and mix in well (see notes).",
+          "Pack the beans loosely into banana leaves, zip-lock bags, or shallow dishes for incubating. Zip-lock bags must be punctured at roughly 1 cm (&frac12; inch) intervals to keep oxygen up to the fermenting beans.",
+          "Load the soon-to-be tempeh into your incubator, preferably on racks that will allow air circulation. An electric oven with a light on makes a pretty good incubator, because the light provides just enough heat to keep the beans warm while the fermentation starts happening.",
+          "Incubate for 12 hours or so at around 30–35°C (86–95°F) with a heat source (unless it's already that hot where you are).",
+          "After 12 hours, remove or turn off the heat source - the fermenting beans will be making their own heat, and may overheat if you keep them too warm.",
+          "Monitor periodically from then on, and remove when the beans are totally consumed by fluffy white tempeh with no gaps.",
+          "After fermentation is complete, serve straight away in your favourite tempeh recipe, refrigerate for two to three days, or freeze for up to two months."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHomemade_Tempeh"
+      }
+    },
+    {
+      "id": "mendoan",
+      "name": "Tempe mendoan",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tempe%20mendoan%20recipe",
+      "description": "Mendoan is a type of fried food that comes from the residency of Banyumas, Central Java, Indonesia. The word mendoan comes from the Banyumasan language word Mendo which means half-cooked or mushy; mendoan means cooking with much hot oil quickly so the cooking is not properly completed.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Mendoan.jpg/500px-Mendoan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mendoan",
+      "recipe": {
+        "ingredients": [
+          "100 g rice flour",
+          "1 tbsp wheat flour",
+          "2 cloves of garlic",
+          "1 piece shallot, ground",
+          "1 tsp coriander, ground",
+          "¼ tsp white pepper, ground",
+          "2 tsp salt",
+          "125 ml water",
+          "2 pieces green onion, thinly sliced",
+          "300 g tempeh, size 10&times;15 cm",
+          "½ ml cooking oil"
+        ],
+        "steps": [
+          "Combine rice flour, wheat flour, garlic, shallot, coriander, pepper, salt, water, and green onion to make a thin batter.",
+          "Dip each piece of tempeh into the batter, and coat entirely.",
+          "Warm the oil in a frying pan, and put it on the stove until hot. Put each piece of coated tempeh into hot oil.",
+          "Fry the tempeh until hardened and well done. Don't wait until it becomes yellow and crispy.",
+          "Remove the tempeh from the oil, letting the oil drip from the tempeh so that there is not much oil on it.",
+          "Serve tempeh with soy bean sauce and sliced small chilies."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATempe_Mendoan_I"
+      }
+    },
+    {
+      "id": "nasi-uduk",
+      "name": "Nasi uduk",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nasi%20uduk%20recipe",
+      "description": "Nasi uduk (from Javanese nasi wuduk; Javanese script: ꦤꦱꦶ​ꦮꦸꦢꦸꦏ꧀) is an Indonesian-style steamed rice cooked in coconut milk dish, especially popular in Betawi and Javanese culinary traditions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Nasi_uduk_netherlands.jpg/500px-Nasi_uduk_netherlands.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nasi_uduk"
+    },
+    {
+      "id": "tumpeng",
+      "name": "Tumpeng",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tumpeng%20recipe",
+      "description": "Tumpeng (Javanese: ꦠꦸꦩ꧀ꦥꦼꦁ; Balinese: ᬢᬸᬫ᭄ᬧᭂᬂ) is an Indonesian cone-shaped rice dish with side dishes of vegetables and meat originating from Javanese cuisine. Traditionally featured in the slametan ceremony, the rice is made by using a cone-shaped woven bamboo container.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Tumpeng-Jawa.jpg/500px-Tumpeng-Jawa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tumpeng"
+    },
+    {
+      "id": "pempek",
+      "name": "Pempek",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pempek%20recipe",
+      "description": "Pempek, mpek-mpek, or, colloquially, empek-empek, is a savory Indonesian fishcake, made of fish and tapioca, from Palembang, South Sumatra, Indonesia. Pempek is served with a rich sweet and sour sauce called kuah cuka or kuah cuko (lit. 'vinegar sauce'), or just \"cuko\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Pempek_Kuah_Cuko.jpg/500px-Pempek_Kuah_Cuko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pempek"
+    },
+    {
+      "id": "sayur-asem",
+      "name": "Sayur asem",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sayur%20asem%20recipe",
+      "description": "Sayur asem or sayur asam is an Indonesian vegetable soup. It is a popular Southeast Asian dish originating from Sundanese cuisine, consisting of vegetables in tamarind soup.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Sayur_asem_vegetable_soup.jpg/500px-Sayur_asem_vegetable_soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sayur_asem",
+      "recipe": {
+        "ingredients": [
+          "1 fresh red chile pepper",
+          "2 shallots",
+          "2 g terasi",
+          "½ tbsp salt",
+          "20 g fresh tamarind or asam jawa tamarind paste, or 5 dried bilimbi fruit",
+          "105 g galangal",
+          "2 salam leaves",
+          "100 g yardlong beans",
+          "1 chayote squash",
+          "50 g corn",
+          "100 g young jackfuit",
+          "50 g gnetum (melinjo/belinjau) leaves and fruits",
+          "50 g raw peanuts",
+          "Salt",
+          "Sugar"
+        ],
+        "steps": [
+          "Grind together all the ingredients for the spice paste until smooth.",
+          "Clean the vegetables, and cut into bite-size pieces.",
+          "Bring 1.2 liters of water to a boil in a pot. Stir in the spice paste, tamarind, galangal, and salam leaves.",
+          "Gradually add the vegetables, starting with those that require a longer cooking time.",
+          "Season with salt and sugar to taste."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASayur_Asem_(Indonesian_Tamarind_Vegetable_Soup)"
+      }
+    },
+    {
+      "id": "pepes",
+      "name": "Pepes",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pepes%20recipe",
+      "description": "Pepes is an Indonesian cooking method using banana leaves as food wrappings. The banana-leaf package containing food is secured with lidi seumat (a small nail made from the central ribs of coconut leaves) and then steamed or grilled on charcoal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Pepes_ikan_emas_%28pais_lauk_mas%29_Sunda.jpg/500px-Pepes_ikan_emas_%28pais_lauk_mas%29_Sunda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pepes",
+      "recipe": {
+        "ingredients": [
+          "2 cloves garlic",
+          "4 shallot",
+          "2 cm fresh ginger",
+          "2 cm fresh turmeric",
+          "50 g fresh chile pepper",
+          "5 candlenut",
+          "5 g tamarind",
+          "½ tsp salt",
+          "25 ml water",
+          "1 kg whole fish (carp or snapper)",
+          "1 chopped tomato",
+          "1 stalk green onion",
+          "1 stalk lemongrass",
+          "5 salam leaves",
+          "50 g kemangi leaves (sweet basil; optional)",
+          "Salt",
+          "1 tsp sugar",
+          "2 tbsp salad oil",
+          "Banana leaves or aluminum foil to wrap"
+        ],
+        "steps": [
+          "Grind together all the ingredients for the spice paste.",
+          "Scale and clean the fish. Take out the intestines but not the eggs.",
+          "Make three diagonal slashes on each side of the fish for spice paste flavor to immerse.",
+          "Marinate the fish with salt and tamarind for 15 minutes then wash the fish with a bowl of water to remove excess salt.",
+          "Add cooking oil to the spice-paste, mix.",
+          "Coat fish with spice paste.",
+          "Put kemangi leaves, salam leaves and sliced lemon grass for the flavor.",
+          "Wrap the fish in banana leaves or aluminum foil.",
+          "Steam over medium heat for 30 minutes. Use pressure cooker for faster cooking time and better taste.",
+          "Let it cool and grill the wrapped fish over charcoal fire."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APepes_Ikan_(Indonesian_Steamed_Fish)"
+      }
+    },
+    {
+      "id": "klepon",
+      "name": "Klepon",
+      "videoSearch": "https://www.youtube.com/results?search_query=Klepon%20recipe",
+      "description": "Klepon, also known as Onde-onde or Buah Melaka, is a traditional Southeast Asian confection made from glutinous rice flour filled with palm sugar and coated in grated coconut.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Klepon_Khas_Tulungagung.jpg/500px-Klepon_Khas_Tulungagung.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Klepon",
+      "recipe": {
+        "ingredients": [
+          "8–10 pandan leaves or pandan paste",
+          "300 g glutinous rice flour",
+          "30 g sago flour",
+          "150 g gula jawa (palm sugar)",
+          "300 g grated coconut",
+          "Water"
+        ],
+        "steps": [
+          "If using whole pandan leaves, grind them to a smooth paste with a little water if necessary.",
+          "Combine the glutinous rice flour and sago flour until well-mixed. Stir in the pandan paste, then gradually mix in water until it forms a soft green dough.",
+          "Shape the dough into small balls about 2–3 cm in diameter. Make a small hole in the balls with your finger. Fill the hole with palm sugar, and seal the dough to enclose the sugar. Gently reshape it into a ball if necessary.",
+          "Boil a lot of water in a large pot. Put the little balls one by one in the boiling water. Cook for about 5 minutes until they rise to the surface.",
+          "Drain the dumplings.",
+          "Roll the dumplings in the shredded coconut, and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKlepon_(Indonesian_Sweet_Boiled_Rice_Cake)"
+      }
+    },
+    {
+      "id": "lapis-legit",
+      "name": "Lapis legit",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lapis%20legit%20recipe",
+      "description": "Lapis legit, also known as spekkoek, and kueh lapis in Singapore, is a type of Indonesian layer cake. It was developed during colonial times in the Dutch East Indies.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Spekkoek_naturel_en_pandan.jpg/500px-Spekkoek_naturel_en_pandan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lapis_legit",
+      "recipe": {
+        "ingredients": [
+          "10 whole cloves, ground",
+          "10 cardamom seeds, ground",
+          "2 teaspoon nutmeg powder",
+          "1 teaspoon cinnamon powder",
+          "1 teaspoon vanilla powder",
+          "10 egg yolks",
+          "4 egg whites",
+          "125 g castor sugar",
+          "195 g sweetened condensed milk",
+          "500 g butter",
+          "125 g cake flour"
+        ],
+        "steps": [
+          "Mix and sift cloves, cardamom, nutmeg, and cinnamon.",
+          "Beat butter until smooth and creamy.",
+          "Whip egg yolks with sugar until fluffy.",
+          "Whip egg whites in separate mixing bowl until fluffy, then mix with egg yolks.",
+          "Combine the spices, condensed milk, flour, and butter.",
+          "Grease a cake pan.",
+          "Using a small cup, spread 30–35 ml batter into the pan to make a layer.",
+          "Bake in preheated 350°F oven, heated from the top, until golden (4–5 minutes).",
+          "Remove from oven, brush with butter for flavoring, and top with another 30–35 ml batter to make another layer.",
+          "Repeat the baking and layering to make around 30–40 layers."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALapis_Legit_(Many-Layered_Spiced_Cake)"
+      }
+    },
+    {
+      "id": "seblak",
+      "name": "Seblak",
+      "videoSearch": "https://www.youtube.com/results?search_query=Seblak%20recipe",
+      "description": "Seblak is a Sundanese savoury and spicy dish, originating from the Sundanese people in Indonesia. Made of wet kurupuk (traditional Indonesian crackers) cooked with protein sources (egg, chicken, seafood or beef) in spicy sauce. Seblak is a specialty of Bandung city, West Java, Indonesia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Seblak_di_Garut.jpg/500px-Seblak_di_Garut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Seblak",
+      "recipe": {
+        "ingredients": [
+          "250 grams of raw crackers",
+          "2 chicken eggs",
+          "1/4 kg of boiled chicken meat (cut into small pieces)",
+          "2 packs of instant noodles",
+          "2 pieces of kencur (aromatic ginger)",
+          "2 shallots",
+          "2 cloves of garlic",
+          "100 grams of fresh chili",
+          "1 tablespoon of chicken broth powder",
+          "1 teaspoon of sugar",
+          "1/2 teaspoon of salt",
+          "2 tablespoons of cooking oil (for sautéing)",
+          "200 ml of water"
+        ],
+        "steps": [
+          "Prepare all the ingredients.",
+          "Blend kencur (aromatic ginger), shallots, and garlic. Add a little salt.",
+          "Blend the chili separately.",
+          "Heat the oil in a pan.",
+          "Sauté the blended kencur, shallots, and garlic until fragrant and cooked.",
+          "Add the blended chili, then stir until it smells fragrant.",
+          "Next, pour in the water.",
+          "Add salt, chicken broth powder, and sugar to taste.",
+          "Put in the crackers and boiled chicken pieces, then stir until cooked.",
+          "Add the instant noodles, and stir again until everything is well-cooked.",
+          "Pour it into a bowl according to your preferred portion.",
+          "Seblak is ready to serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASeblak"
+      }
+    }
+  ]
+}

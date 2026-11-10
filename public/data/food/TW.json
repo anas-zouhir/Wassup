@@ -1,0 +1,155 @@
+{
+  "country": "TW",
+  "dishes": [
+    {
+      "id": "beef-noodle-soup",
+      "name": "Taiwanese beef noodle soup",
+      "localName": "牛肉麵",
+      "videoSearch": "https://www.youtube.com/results?search_query=Taiwanese%20beef%20noodle%20soup%20recipe",
+      "description": "Beef noodle soup is a noodle soup made of stewed or braised beef, beef broth, vegetables and noodles. One of the oldest beef noodle soups is the Lanzhou niuroumian (蘭州牛肉麵), or Lanzhou beef noodle soup, which was created by the Hui people of northwest China during the Tang dynasty.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Lanzhou_La_Mian.jpg/500px-Lanzhou_La_Mian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Beef_noodle_soup"
+    },
+    {
+      "id": "lu-rou-fan",
+      "name": "Lu rou fan",
+      "localName": "滷肉飯",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lu%20rou%20fan%20recipe",
+      "description": "Ló͘-bah-pn̄g, also called bah-sò-pn̄g or Lou-rou-fan in southern Taiwan, or translated to minced pork rice in English, is a rice dish that is commonly seen throughout Taiwan and Southern Fujian, China.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Lurou_fan%28Taiwanese_cuisine%29.jpg/500px-Lurou_fan%28Taiwanese_cuisine%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/L%C3%B3%CD%98-bah-pn%CC%84g"
+    },
+    {
+      "id": "oyster-omelette",
+      "name": "Oyster omelette",
+      "localName": "蚵仔煎",
+      "videoSearch": "https://www.youtube.com/results?search_query=Oyster%20omelette%20recipe",
+      "description": "The oyster omelette or oyster cake, also known as o-a-tsian (Hokkien Chinese: 蚵仔煎; Pe̍h-ōe-jī: ô-á-chian; Tâi-lô: ô-á-tsian), o-chien (Hokkien: 蚵煎; ô-chian) or orh luak (Teochew traditional Chinese: 蠔烙; simplified Chinese: 蚝烙; Peng'im: o5 luah4), is a dish of Southern Min (Hokkien and Teochew) origin that is renowned f…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Billyfoodoysteromelette.jpg/500px-Billyfoodoysteromelette.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Oyster_omelette"
+    },
+    {
+      "id": "stinky-tofu",
+      "name": "Stinky tofu",
+      "localName": "臭豆腐",
+      "videoSearch": "https://www.youtube.com/results?search_query=Stinky%20tofu%20recipe",
+      "description": "Stinky tofu (Chinese: 臭豆腐; pinyin: chòu dòufu) is a traditional Chinese delicacy made from fermented tofu, renowned for its distinctive and pungent aroma. Despite its strong odor, it typically has a surprisingly mild and savoury flavour.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Stinkender_Tofu_1.JPG/500px-Stinkender_Tofu_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stinky_tofu"
+    },
+    {
+      "id": "gua-bao",
+      "name": "Gua bao",
+      "localName": "刈包",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gua%20bao%20recipe",
+      "description": "Koah-pau or gua bao or cuapao also known as a pork belly bun, ambiguously as bao, or erroneously as bao bun, is a type of lotus leaf bun originating from Fujianese cuisine in China. It is also a popular snack in Taiwan, Singapore, Malaysia, the Philippines, and Nagasaki Chinatown in Japan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Steamed_Sandwich%2Ctaken_by_LeoAlmighty.jpg/500px-Steamed_Sandwich%2Ctaken_by_LeoAlmighty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Koah-pau"
+    },
+    {
+      "id": "three-cup-chicken",
+      "name": "Three-cup chicken",
+      "localName": "三杯雞",
+      "videoSearch": "https://www.youtube.com/results?search_query=Three-cup%20chicken%20recipe",
+      "description": "Sanbeiji (simplified Chinese: 三杯鸡; traditional Chinese: 三杯雞; pinyin: sānbēijī; Wade–Giles: San1-pei1 chi1; Pe̍h-ōe-jī: sam-poe-ke; lit. 'three-cup chicken') is a popular chicken dish in Chinese cuisine and one of the most iconic dishes of Jiangxi cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Sanbeiji.jpg/500px-Sanbeiji.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sanbeiji"
+    },
+    {
+      "id": "danzai-noodles",
+      "name": "Danzai noodles",
+      "localName": "擔仔麵",
+      "videoSearch": "https://www.youtube.com/results?search_query=Danzai%20noodles%20recipe",
+      "description": "Tàⁿ-á-mī (Chinese: 擔仔麵; pinyin: dànzǎimiàn; Tâi-lô: tànn-á-mī; lit. 'shoulder pole noodle'), also known as ta-a noodles or danzai noodles, are a type of snack found in Tainan, Taiwan. Also known as \"slack season ta-a noodles\", they originated in Tainan (in southern Taiwan) about 130 years ago.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Du_Hsiao_Yueh%27s_Tan_Tsu_Mien_in_ECmall_%2820160514183239%29.jpg/500px-Du_Hsiao_Yueh%27s_Tan_Tsu_Mien_in_ECmall_%2820160514183239%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/T%C3%A0%E2%81%BF-%C3%A1-m%C4%AB"
+    },
+    {
+      "id": "coffin-bread",
+      "name": "Coffin bread",
+      "localName": "棺材板",
+      "videoSearch": "https://www.youtube.com/results?search_query=Coffin%20bread%20recipe",
+      "description": "Coffin bread, also known as coffin lid or coffin board (Taiwanese Hokkien: koaⁿ-chhâ-pang 棺柴枋, Chinese: 棺材板; pinyin: guāncaibǎn), is a Taiwanese bread bowl which originated in Tainan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Coffin_sandwich%2C_Dec_06.JPG/500px-Coffin_sandwich%2C_Dec_06.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Coffin_bread"
+    },
+    {
+      "id": "taiwanese-fried-chicken",
+      "name": "Taiwanese fried chicken",
+      "localName": "鹹酥雞",
+      "videoSearch": "https://www.youtube.com/results?search_query=Taiwanese%20fried%20chicken%20recipe",
+      "description": "Taiwanese fried chicken (Chinese: 鹹酥雞; pinyin: xiánsūjī; Wade–Giles: hsien²su¹chi¹; Pe̍h-ōe-jī: kiâm-so͘-ke; also 鹽酥雞; yánsūjī; 'salty crispy chicken'), westernized as popcorn chicken, is a dish in Taiwanese cuisine commonly found as a street snack. It is popular at the night markets in Taiwan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Taiwanese_Pepper_Salt_Chicken_%28%E9%B9%BD%E9%85%A5%E9%9B%9E%29_in_Clovis%2C_CA.jpg/500px-Taiwanese_Pepper_Salt_Chicken_%28%E9%B9%BD%E9%85%A5%E9%9B%9E%29_in_Clovis%2C_CA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Taiwanese_fried_chicken"
+    },
+    {
+      "id": "tea-egg",
+      "name": "Tea egg",
+      "localName": "茶葉蛋",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tea%20egg%20recipe",
+      "description": "Tea egg is a Chinese savory food commonly sold as a snack, in which a boiled egg is cracked slightly and then boiled again in tea, and sauce or spices. It is also known as marble egg because cracks in the egg shell create darkened lines with marble-like patterns.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Tea_eggs_1.jpg/500px-Tea_eggs_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tea_egg",
+      "recipe": {
+        "ingredients": [
+          "6 chicken eggs",
+          "4 cups water",
+          "3 tbsp Jasmine green tea leaves",
+          "¼ tbsp dark soy sauce",
+          "½ tsp minced ginger",
+          "½ tsp minced garlic"
+        ],
+        "steps": [
+          "Bring water and spices to a boil.",
+          "Add eggs, and boil for 3 minutes.",
+          "Remove eggs from the liquid and roll them gently on a hard surface to crack the shell all over.",
+          "Return the eggs to the pot of liquid, reduce to a simmer, and simmer for 1 hour.",
+          "Reduce to low heat and allow eggs to sit in brine until served."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATea_Eggs"
+      }
+    },
+    {
+      "id": "pineapple-cake",
+      "name": "Pineapple cake",
+      "localName": "鳳梨酥",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pineapple%20cake%20recipe",
+      "description": "Pineapple cake (Chinese: 鳳梨酥; pinyin: fènglísū; Taiwanese Hokkien: 王梨酥 ông-lâi-so͘) is a Taiwanese sweet traditional pastry where pineapple filling is covered in a thin golden pastry shell.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Taiwanese_Pineapple_Cake_001.jpg/500px-Taiwanese_Pineapple_Cake_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pineapple_cake"
+    },
+    {
+      "id": "aiyu-jelly",
+      "name": "Aiyu jelly",
+      "localName": "愛玉",
+      "videoSearch": "https://www.youtube.com/results?search_query=Aiyu%20jelly%20recipe",
+      "description": "Aiyu jelly (Chinese: 愛玉冰; pinyin: àiyùbīng; or 愛玉凍; àiyùdòng; or simply 愛玉; àiyù), known in Amoy Hokkien as ogio (Chinese: 薁蕘; Pe̍h-ōe-jī: ò-giô), and as ice jelly in Singapore (Chinese: 文頭雪; pinyin: wéntóu xuě), is a jelly made from the gel from the seeds of the awkeotsang creeping fig found in Taiwan and East Asian c…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Aiyu_jelly_by_abon_in_Taiwan.jpg/500px-Aiyu_jelly_by_abon_in_Taiwan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Aiyu_jelly"
+    },
+    {
+      "id": "bubble-tea",
+      "name": "Bubble tea",
+      "localName": "珍珠奶茶",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bubble%20tea%20recipe",
+      "description": "Bubble tea (also known as pearl milk tea, bubble milk tea, tapioca milk tea, boba tea, or boba; Chinese: 珍珠奶茶; pinyin: zhēnzhū nǎichá, 波霸奶茶; bōbà nǎichá) is a tea-based drink most often containing chewy tapioca balls, milk, and flavoring.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Bubble_Tea.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bubble_tea",
+      "recipe": {
+        "ingredients": [
+          "½ cup (125 ml) cooked boba tapioca pearls",
+          "1 cup (250 ml) crushed ice",
+          "1 cup (250 ml) very strong chilled black tea",
+          "1 cup (250 ml) milk, to taste",
+          "Honey or granulated sugar, to taste"
+        ],
+        "steps": [
+          "Place pearls in a large glass.",
+          "Combine all remaining ingredients in a cocktail shaker. Shake vigorously until mixture is frothy.",
+          "Pour into glass and serve with large-diameter straws."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABubble_Tea"
+      }
+    }
+  ]
+}

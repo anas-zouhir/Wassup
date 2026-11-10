@@ -1,0 +1,181 @@
+{
+  "country": "BE",
+  "dishes": [
+    {
+      "id": "moules-frites",
+      "name": "Moules-frites",
+      "videoSearch": "https://www.youtube.com/results?search_query=Moules-frites%20recipe",
+      "description": "Moules-frites or moules et frites is a main dish of mussels and French fries originating in Northern France and Belgium. The name is French, moules meaning mussels and frites fries, with the Dutch name for the dish meaning the same. It is the national dish of Belgium.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Moules-frites_at_Chez_Leon_in_Brussels.jpg/500px-Moules-frites_at_Chez_Leon_in_Brussels.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Moules-frites"
+    },
+    {
+      "id": "belgian-waffle",
+      "name": "Belgian waffle",
+      "videoSearch": "https://www.youtube.com/results?search_query=Belgian%20waffle%20recipe",
+      "description": "In English-speaking countries, Belgian waffles are a variety of waffle with a lighter batter, larger squares, and deeper pockets than North American waffles. Belgian waffles were originally leavened with yeast, but baking powder is now often used.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Waffle_with_strawberries_and_confectioner%27s_sugar.jpg/500px-Waffle_with_strawberries_and_confectioner%27s_sugar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Belgian_waffle"
+    },
+    {
+      "id": "carbonade-flamande",
+      "name": "Carbonade flamande",
+      "localName": "Stoofvlees",
+      "videoSearch": "https://www.youtube.com/results?search_query=Carbonade%20flamande%20recipe",
+      "description": "Flemish stew, known in Dutch as stoofvlees or stoverij and in French as carbon(n)ade flamande, is a beef (or pork) stew popular in Belgium, the Netherlands, and French Flanders.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Jielbeaumadier_carbonade_flamande_2010.jpg/500px-Jielbeaumadier_carbonade_flamande_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Flemish_stew",
+      "recipe": {
+        "ingredients": [
+          "Flour",
+          "Pepper",
+          "Salt",
+          "500 g beef suitable for stew (e.g. from the neck)",
+          "Butter",
+          "2 onions, chopped",
+          "1 bottle of dark beer (preferably Trappist, but any dark beer will do)",
+          "1 bottle of cherry beer (any kind blond beer would also work)",
+          "2 bay leaves",
+          "Thyme",
+          "1 slice of bread",
+          "Mustard",
+          "Vinegar (optional)"
+        ],
+        "steps": [
+          "Combine the flour, pepper, and salt.",
+          "Dice the meat into 2 cm cubes. Mix the meat with the flour until it's lightly coated.",
+          "Sear the meat in a pan with butter (not oil) until brown on all sides—it has to be brown in order to add colour to the sauce. Put aside.",
+          "Fry the onion in a pot with butter. When it changes colour, add the meat and pour in the beers.",
+          "Add the bay leaves and thyme. Spread the bread with mustard, and place mustard side-down on the meat.",
+          "Cover the pot, placing a piece of wet baking paper between the pot and lid (this seals the pot so it doesn't burn; don't forget this!)",
+          "Cook over low heat for 2–3 hours, or put it in a 100°C oven for about 4–5 hours.",
+          "If desired, mix in a dash of vinegar.",
+          "Serve with French fries, lettuce, and tomatoes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AStoofvlees_(Flemish_Beef_Stew)"
+      }
+    },
+    {
+      "id": "waterzooi",
+      "name": "Waterzooi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Waterzooi%20recipe",
+      "description": "Waterzooi is a soup from Belgium and originating in Flanders. The second part of the name derives from the Middle Dutch terms sode, zo(o)de and soot, words referring to the act of boiling or the ingredients being boiled.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/%28waterzooi%29_%2879743868%29.jpg/500px-%28waterzooi%29_%2879743868%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Waterzooi",
+      "recipe": {
+        "ingredients": [
+          "500 g fish of choice",
+          "75 g butter (unsalted)",
+          "5 L vegetable or fish stock",
+          "1 leek, cleaned and julienned",
+          "2 carrots, julienned",
+          "2 medium potatoes, peeled and cut into 2 cm pieces",
+          "Bay leaf",
+          "10 black peppercorns",
+          "1 egg yolk",
+          "2.5 L double cream",
+          "Salt"
+        ],
+        "steps": [
+          "Melt butter in large pot over medium heat. Add vegetables, bay leaf, and peppercorns then sauté for a few minutes.",
+          "Stir in the butter, then cook for 5 minutes without allowing the vegetables to brown.",
+          "Add stock and bring to boil.",
+          "Add fish, reduce the heat, and let simmer for 10 minutes.",
+          "Remove fish and cut into pieces.",
+          "Temper 200 ml of the stock into the egg yolk, stirring to prevent curdling. Stir the mixture back into the pot along with the cream, and bring the mixture back to just below boiling.",
+          "Add fish and taste everything for flavour, adding salt as required.",
+          "Serve in shallow bowls."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AWaterzooi"
+      }
+    },
+    {
+      "id": "stoemp",
+      "name": "Stoemp",
+      "videoSearch": "https://www.youtube.com/results?search_query=Stoemp%20recipe",
+      "description": "Stoemp is a Flemish dish, found in Belgium, Northern France and the Netherlands, of pureed or mashed potatoes and other root vegetables, and can also include cream, bacon, onion or shallot, herbs, and spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Cod_and_stoemp.jpg/500px-Cod_and_stoemp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stoemp"
+    },
+    {
+      "id": "belgian-fries",
+      "name": "Belgian fries",
+      "localName": "Frieten",
+      "videoSearch": "https://www.youtube.com/results?search_query=Belgian%20fries%20recipe",
+      "description": "French fries, or simply fries, also known as French fried potatoes, chips, and finger chips, are batonnet or julienne-cut deep-fried potatoes of disputed origin. They are prepared by cutting potatoes into even strips, drying them, and frying them, usually in a deep fryer.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/French_Fries.JPG/500px-French_Fries.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/French_fries"
+    },
+    {
+      "id": "speculoos",
+      "name": "Speculoos",
+      "videoSearch": "https://www.youtube.com/results?search_query=Speculoos%20recipe",
+      "description": "Speculaas or speculoos is a biscuit with origins in the historical region of the Low Countries (modern-day Belgium and the Netherlands).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Saint_Nicholas_Speculaas_%286465422349%29.jpg/500px-Saint_Nicholas_Speculaas_%286465422349%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Speculoos"
+    },
+    {
+      "id": "liege-waffle",
+      "name": "Liège waffle",
+      "videoSearch": "https://www.youtube.com/results?search_query=Li%C3%A8ge%20waffle%20recipe",
+      "description": "Liège waffles are a variety of waffle developed in the Wallonia region of Belgium. The Liège waffle differs from the Brussels waffle (sometimes referred to as the Belgian waffle) in several ways.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Li%C3%A8ge_waffles_on_a_plate.jpg/500px-Li%C3%A8ge_waffles_on_a_plate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Li%C3%A8ge_waffle"
+    },
+    {
+      "id": "cuberdon",
+      "name": "Cuberdon",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cuberdon%20recipe",
+      "description": "A cuberdon is a cone-shaped Belgian candy and a popular local delicacy in Ghent. In Dutch it is also known as a neus (\"nose\"), Gentse neus (\"Ghent nose\"), or neuzeke (\"little nose\") for its likeness to a human nose. In French, cuberdons are also called chapeau-de-curé and chapeau-de-prêtre (priest's hat).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/6_cuberdons.JPG/500px-6_cuberdons.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cuberdon"
+    },
+    {
+      "id": "boulets-a-la-liegeoise",
+      "name": "Boulets à la liégeoise",
+      "videoSearch": "https://www.youtube.com/results?search_query=Boulets%20%C3%A0%20la%20li%C3%A9geoise%20recipe",
+      "description": "The boulet à la liégeoise (French pronunciation: [bulɛ a la ljeʒwaz]; or more regionally called boulet sauce lapin, boulet (sauce) chasseur, or Boulets) is a Belgian dish made from balls of mixed minced pork and beef in a sauce containing Liège syrup.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Boulets_%C3%A0_la_li%C3%A9geoise_1.jpg/500px-Boulets_%C3%A0_la_li%C3%A9geoise_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boulets_%C3%A0_la_Li%C3%A9geoise"
+    },
+    {
+      "id": "filet-americain",
+      "name": "Filet américain",
+      "videoSearch": "https://www.youtube.com/results?search_query=Filet%20am%C3%A9ricain%20recipe",
+      "description": "Filet américain (often shortened to américain) a raw beef preparation associated particularly with Belgian cuisine and closely related to steak tartare. It consists of finely minced or ground beef, served either plain (nature) or seasoned with ingredients such as egg yolk, mustard, capers, onion and sauces.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Filet_americain_on_bread.jpg/500px-Filet_americain_on_bread.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Filet_am%C3%A9ricain"
+    },
+    {
+      "id": "mitraillette",
+      "name": "Mitraillette",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mitraillette%20recipe",
+      "description": "A mitraillette is a type of sandwich in Belgium commonly served at friteries and cafés. It is popular among students. It is thought to have originated in Brussels, but is also popular in Flanders, Wallonia, and the Nord region of France, where it is also known as an \"Américain\" (literally an \"American\").",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Mitraillette_%28fast_food%29.jpg/500px-Mitraillette_%28fast_food%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mitraillette"
+    },
+    {
+      "id": "belgian-chocolate",
+      "name": "Belgian chocolate",
+      "videoSearch": "https://www.youtube.com/results?search_query=Belgian%20chocolate%20recipe",
+      "description": "Belgian chocolate (Dutch: Belgische chocolade; French: Chocolat belge; German: Belgische Schokolade) is chocolate produced in Belgium. A major industry since the 19th century, today it forms an important part of the nation's economy and culture.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Belgian_chocolates.jpg/500px-Belgian_chocolates.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Belgian_chocolate"
+    },
+    {
+      "id": "pain-a-la-grecque",
+      "name": "Pain à la grecque",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pain%20%C3%A0%20la%20grecque%20recipe",
+      "description": "The pain à la grecque is a Belgian sweet bread consisting of a simple rectangle of milk bread, brown sugar, and cinnamon sprinkled with granulated sugar. The name translates as Greek Bread, but this was a Frenchification of the name.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Pain_grecque.jpg/500px-Pain_grecque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pain_%C3%A0_la_grecque"
+    },
+    {
+      "id": "craquelin",
+      "name": "Craquelin",
+      "videoSearch": "https://www.youtube.com/results?search_query=Craquelin%20recipe",
+      "description": "Craquelin is a type of Belgian brioche, a Viennoiserie, that is filled with nib sugar. Sugar pieces are flavoured with orange, lemon, vanilla, or almond essence, then inserted into the dough before cooking. They melt and cool, leaving gaps encrusted in sugar.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Craquelin"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "country": "LV",
+  "dishes": [
+    {
+      "id": "grey-peas-with-speck",
+      "name": "Grey peas with speck",
+      "localName": "Pelēkie zirņi ar speķi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Grey%20peas%20with%20speck%20recipe",
+      "description": "Grey peas (Latvian: Pelēkie zirņi) is a popular Latvian cuisine snack made from large grey peas. It is a traditional Christmas dish in Latvia. Grey peas also survive as a tradition meal in parts of Britain.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Grey_peas_at_restaurant_Milda_in_Riga.jpg/500px-Grey_peas_at_restaurant_Milda_in_Riga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Grey_peas"
+    },
+    {
+      "id": "sklandrausis",
+      "name": "Sklandrausis",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sklandrausis%20recipe",
+      "description": "Sklandrausis (pl.: sklandrauši; Livonian dialect: sklandrouš, from Curonian: sklanda – 'fence-post, wattle fence, slope, declivity'; Livonian: sūrkak, pl.: sūr kakūd), žograusis (pl.: žograuši) or dižrausis (pl.: dižrauši) is a traditional Latvian dish of Livonian origin.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Suitu_sklandrau%C5%A1i.jpg/500px-Suitu_sklandrau%C5%A1i.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sklandrausis"
+    },
+    {
+      "id": "rupjmaize",
+      "name": "Rupjmaize",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rupjmaize%20recipe",
+      "description": "Rupjmaize is a traditional dark bread made from rye and is considered to be the staple of the Latvian diet. The first written references to Latvian rye bread are found in a recipes book dating back to 1901. The bread is made in a wood fueled hearth furnace from coarse (1740.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Lithuanian_traditional_bread.jpg/500px-Lithuanian_traditional_bread.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rupjmaize"
+    },
+    {
+      "id": "spekrausi",
+      "name": "Speķrauši",
+      "videoSearch": "https://www.youtube.com/results?search_query=Spe%C4%B7rau%C5%A1i%20recipe",
+      "description": "Speķrauši or speķa pīrādziņi, sometimes also colloquially known simply as pīrāgi or pīrādziņi, are Latvian oblong or crescent-shaped baked bread rolls or pastries filled with finely chopped fatty bacon cubes and onions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/L%C4%ABgo_p%C4%ABr%C4%81dzi%C5%86i.jpg/500px-L%C4%ABgo_p%C4%ABr%C4%81dzi%C5%86i.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Spe%C4%B7rau%C5%A1i"
+    },
+    {
+      "id": "jani-cheese",
+      "name": "Jāņi cheese",
+      "localName": "Jāņu siers",
+      "videoSearch": "https://www.youtube.com/results?search_query=J%C4%81%C5%86i%20cheese%20recipe",
+      "description": "Jāņi cheese (Latvian: Jāņu siers) is a Latvian sour milk cheese, traditionally eaten on Jāņi, the Latvian celebration of the summer solstice. Nowadays the cheese has become one of the symbols of Latvian culture.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Caraway_cheese.jpg/500px-Caraway_cheese.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/J%C4%81%C5%86i_cheese"
+    },
+    {
+      "id": "debesmanna",
+      "name": "Debesmanna",
+      "videoSearch": "https://www.youtube.com/results?search_query=Debesmanna%20recipe",
+      "description": "Vispipuuro, russedessert (Norwegian name), vispgröt/klappgröt/klappkräm (Swedish name), debesmanna (Latvian name, \"sky-semolina\"), or mannavaht (Estonian name) is a sweet, wheat semolina (manna) cold porridge made with berries, usually lingonberries.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Klappgr%C3%B6t.jpg/500px-Klappgr%C3%B6t.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vispipuuro"
+    }
+  ]
+}

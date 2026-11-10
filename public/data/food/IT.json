@@ -1,0 +1,756 @@
+{
+  "country": "IT",
+  "dishes": [
+    {
+      "id": "neapolitan-pizza",
+      "name": "Neapolitan pizza",
+      "localName": "Pizza napoletana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Neapolitan%20pizza%20recipe",
+      "description": "Neapolitan pizza (Italian: pizza napoletana; Neapolitan: pizza napulitana) is the version of the round pizza typically prepared in the Italian city of Naples and characterised by a soft, thin dough with high edges.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Neapolitan_pizza_at_Trappica_%2848701940197%29.jpg/500px-Neapolitan_pizza_at_Trappica_%2848701940197%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Neapolitan_pizza"
+    },
+    {
+      "id": "lasagne",
+      "name": "Lasagne",
+      "localName": "Lasagne alla bolognese",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lasagne%20recipe",
+      "description": "Lasagna, also known by the plural form lasagne, is a type of pasta made in wide, flat sheets.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Lasagne_-_stonesoup.jpg/500px-Lasagne_-_stonesoup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lasagna",
+      "recipe": {
+        "ingredients": [
+          "6 eggs, separated",
+          "2 cups ricotta cheese OR shredded mozzarella cheese OR shredded cheddar cheese",
+          "1 pinch of salt",
+          "¼ tsp freshly-ground white pepper",
+          "½ cup heavy cream",
+          "~1000 g cooked lasagne noodles",
+          "1 ½ cups Italian Tomato Sauce"
+        ],
+        "steps": [
+          "In a large spotlessly clean stainless steel bowl, whip egg whites to stiff peaks and set aside.",
+          "Combine egg yolks, cheese, salt, pepper, and heavy cream.",
+          "Gently fold egg whites into cheese mixture.",
+          "Lay half the cooked noodles in the bottom of a roasting pan. Add a layer of tomato sauce on top, then a layer of the cheese mixture. Repeat this step for a second layer of noodles/tomato/cheese. The last layer should be cheese.",
+          "Cover with aluminum foil and bake at 375°F for 15 minutes. Remove foil and bake for another 20 minutes.",
+          "Remove from oven, and let rest for 10 minutes. Serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABasic_Lasagna"
+      }
+    },
+    {
+      "id": "carbonara",
+      "name": "Carbonara",
+      "localName": "Spaghetti alla carbonara",
+      "videoSearch": "https://www.youtube.com/results?search_query=Carbonara%20recipe",
+      "description": "Carbonara is a pasta dish made with cured pork, hard cheese, eggs, salt, and black pepper. It is typical of the Lazio region of Italy. The dish took its modern form and name in the middle of the 20th century.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/500px-Espaguetis_carbonara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Carbonara",
+      "recipe": {
+        "ingredients": [
+          "4 free-range eggs with large yolks",
+          "3 oz (65 g) fresh Italian pancetta, cubed into ¼–⅜-inch (0.64–0.95 cm) pieces",
+          "1 sprig of fresh thyme, finely chopped",
+          "¼ small onion, finely chopped",
+          "The minced zest of ½ a lemon",
+          "Salt to taste",
+          "Pepper to taste",
+          "Grated parmigiano and/or pecorino romano cheese",
+          "12 oz (340 g) uncooked pasta (e.g. spaghetti or penne)"
+        ],
+        "steps": [
+          "Put on the desired quantity of pasta to cook.",
+          "Crack the eggs carefully, and separate the yolks from the whites—a good way of doing this is to run the egg through the almost closed fingers of your upturned palm, so as the white runs away through the fingers, and the yolk remains in your hand. Keep the yolks in a large bowl, and use the whites for another purpose. Remember to pick out the pesky little white bit that always remains behind on the yolk.",
+          "Fry the pancetta on a lowish heat in a dry frying pan until it is crispy.",
+          "When the pancetta is cooked, drain and allow it to cool for a few minutes before combining it with the yolks in a large bowl. Allowing it to cool prevents cooking of the eggs.",
+          "Add a pinch of rock-salt and a very generous amount of ground pepper to the yolk mixture.",
+          "Add the lemon zest, chopped thyme, and a small amount of the Parmigiano cheese.",
+          "Drain the pasta through a colander, count to 10 to let the pasta cool slightly, and add it to the bowl with the yolk mixture.",
+          "Mix it through with a wooden spoon and serve immediately, sprinkling the remaining Parmigiano cheese over the top."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACarbonara_Pasta"
+      }
+    },
+    {
+      "id": "arancini",
+      "name": "Arancini",
+      "videoSearch": "https://www.youtube.com/results?search_query=Arancini%20recipe",
+      "description": "Arancini, also known as arancine, are Italian rice balls that are stuffed, coated with breadcrumbs and deep-fried. They are a staple of Sicilian cuisine. The most common arancini fillings are al ragù or al sugo, i.e.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Arancini_002.jpg/500px-Arancini_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Arancini",
+      "recipe": {
+        "ingredients": [
+          "1 lb of arborio rice (this is the type of rice used to make risotto)",
+          "4 oz of fresh mozzarella, grated",
+          "¼ cup of grated Parmesan cheese",
+          "Ground black pepper",
+          "4 oz of ham, chopped",
+          "1 tablespoon of butter, chopped",
+          "1½ cups of breadcrumbs",
+          "1 cup of all-purpose flour",
+          "2 eggs",
+          "A little olive oil",
+          "Vegetable oil for frying",
+          "2 cups of your favorite marinara sauce"
+        ],
+        "steps": [
+          "1½ cups of breadcrumbs",
+          "1 cup of all-purpose flour",
+          "2 eggs",
+          "A little olive oil",
+          "Vegetable oil for frying",
+          "2 cups of your favorite marinara sauce"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AArancini_(Italian_Fried_Rice_Balls)"
+      }
+    },
+    {
+      "id": "cannoli",
+      "name": "Cannoli",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cannoli%20recipe",
+      "description": "Cannoli are Sicilian pastries consisting of a tube-shaped shell of pastry dough, filled with a sweet and creamy filling containing ricotta cheese. Their size ranges from 9 to 20 centimetres (3+1⁄2 to 8 in). In mainland Italy, the food is commonly known as cannolo siciliano (lit. 'Sicilian cannoli').",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Cannoli_siciliani_al_Caff%C3%A8_Impero%2C_ad_Alcamo.jpg/500px-Cannoli_siciliani_al_Caff%C3%A8_Impero%2C_ad_Alcamo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cannoli",
+      "recipe": {
+        "ingredients": [
+          "Cannoli shells (store-bought or homemade)",
+          "2 tablespoons ricotta cheese",
+          "1 tablespoon granulated white sugar",
+          "1 tablespoon whipped cream",
+          "1 tablespoon chocolate chips",
+          "½ tablespoon icing"
+        ],
+        "steps": [
+          "Prepare the cannoli shells if you are making them yourself.",
+          "Combine the ricotta and sugar. Fold in the whipped cream and chocolate chips.",
+          "Fill shells with the ricotta mixture. A piping bag works well here.",
+          "Cool cannoli in the fridge before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACannoli"
+      }
+    },
+    {
+      "id": "risotto-alla-milanese",
+      "name": "Risotto alla milanese",
+      "videoSearch": "https://www.youtube.com/results?search_query=Risotto%20alla%20milanese%20recipe",
+      "description": "Risotto is an Italian rice dish cooked with broth until it reaches a creamy consistency. The broth can be derived from meat, fish or vegetables. Many types of risotto contain butter, onion, white wine, and Parmesan cheese.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Risotto_with_speck_and_goat_cheese_%286101067436%29.jpg/500px-Risotto_with_speck_and_goat_cheese_%286101067436%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Risotto",
+      "recipe": {
+        "ingredients": [
+          "¼ tsp saffron threads",
+          "3½–4 cups chicken broth",
+          "7 tbsp butter or margarine, divided",
+          "1 large onion, chopped",
+          "1½ cups uncooked risotto rice",
+          "½ cup dry white wine",
+          "½ tsp salt",
+          "Dash pepper",
+          "¼ cup freshly-grated Parmesan cheese",
+          "Chopped fresh parsley, fresh parsley sprig, and tomato slices for garnish (optional)"
+        ],
+        "steps": [
+          "Crush saffron in mortar with pestle to a powder. Place saffron in glass measuring cup.",
+          "Bring broth to a boil in small saucepan over medium heat; reduce heat to low.",
+          "Stir ½ cup broth into saffron to dissolve; set aside. Keep remaining broth hot.",
+          "Heat 6 tablespoons butter in large, heavy skillet or 2½-quart saucepan over medium heat until melted and bubbly.",
+          "Cook and stir onion 5 minutes or until onion is soft.",
+          "Stir in rice; cook and stir 2 minutes.",
+          "Stir in wine, salt and pepper.",
+          "Cook, uncovered, over medium-high heat 3–5 minutes until wine has evaporated, stirring occasionally.",
+          "Measure ½ cup hot broth; stir into rice mixture. Reduce heat to medium-low, maintaining a simmer throughout adding broth.",
+          "Cook and stir until broth has absorbed. Repeat, adding ½ cup broth 3 more times, cooking and stirring until broth has absorbed.",
+          "Add saffron-flavored broth to rice and cook until absorbed.",
+          "Continue to add remaining broth, ½ cup at a time, cooking and stirring until rice is tender but firm and mixture has slight creamy consistency. Not all broth may be necessary. Total cooking time of rice will be about 20 minutes.",
+          "Remove risotto from heat.",
+          "Stir in remaining 1 tablespoon butter and cheese.",
+          "Garnish, if desired.",
+          "Serve immediately."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARisotto_alla_Milanese"
+      }
+    },
+    {
+      "id": "ossobuco",
+      "name": "Ossobuco",
+      "localName": "Ossobuco alla milanese",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ossobuco%20recipe",
+      "description": "Ossobuco or osso buco, also known as ossobuco alla milanese, is a specialty of Lombard cuisine of cross-cut veal shanks braised with vegetables, white wine, and broth. It is often garnished with gremolada and traditionally served with either risotto alla milanese or polenta, depending on the regional variation.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Ossobuco.jpg/500px-Ossobuco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ossobuco",
+      "recipe": {
+        "ingredients": [
+          "4 slices veal hind shank, about 2.5–4 centimeters (1–1½ inches) thick",
+          "1 medium onion, chopped fine",
+          "3 ribs celery with leaves, chopped fine",
+          "1 medium carrot, chopped fine",
+          "2 cloves garlic, minced",
+          "3 tablespoons butter",
+          "4 tablespoons vegetable oil",
+          "240 ml (1 cup) dry white wine or white vermouth",
+          "About 480 ml (2 cups) meat broth",
+          "3 tablespoons tomato paste",
+          "6 anchovy fillets, mashed",
+          "½ teaspoon dried thyme",
+          "2–3 bay leaves",
+          "2 strips lemon peel",
+          "Salt",
+          "Fresh ground pepper",
+          "Flour"
+        ],
+        "steps": [
+          "Preheat oven to .",
+          "If the butcher has not done so, tie the shanks around the middle with kitchen twine; this will keep them from falling apart during cooking.",
+          "Choose a heavy, covered roasting pan or Dutch oven which will just accommodate the veal shanks in one layer. Put the butter, two tablespoons of the oil, the onions, celery and carrots in the pan and sweat over medium heat until the vegetables have wilted—about 8 minutes. Add the garlic and lemon peel and sweat until they're fragrant, about 2 minutes more. Remove from the heat.",
+          "Meanwhile, heat the remaining oil in a skillet until it is near the smoking point. Lightly flour the veal shanks and slip them into the oil. Richly brown the shanks on both of the cut sides, then place them in the roasting pan on top of the vegetables.",
+          "Place the wine in the skillet and boil until reduced by one-half, deglazing the bottom of the pan. Pour this over the veal shanks.",
+          "Heat the beef broth to a boil in the skillet, whisking in the tomato paste and anchovies. Add this to the veal shanks, along with the herbs, several grindings of pepper, and a large pinch of salt. The liquid should cover three quarters of the shanks. If not, add extra water.",
+          "Bring the pot to a simmer, cover, and place in the oven. Cook for approximately 2 hours, turning and basting the shanks every half hour. If you notice that the cooking liquids have nearly evaporated, add hot water, about one half cup at a time. The veal is done when it is fork tender and falling from the bone.",
+          "Transfer the shanks to a platter, remove the strings, and cover to keep warm. If the sauce seems watery, as is probable, place the pan on the stove top over high heat and reduce the cooking liquid until the sauce has a thick, creamy consistency. Pour the sauce over the shanks and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AOssobuco_Alla_Milanese"
+      }
+    },
+    {
+      "id": "pesto-alla-genovese",
+      "name": "Pesto alla genovese",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pesto%20alla%20genovese%20recipe",
+      "description": "Pesto, also known as pesto genovese, is an Italian paste traditionally made with leaves of Genovese basil, extra virgin olive oil, Parmesan (alternatively Grana Padano), pecorino sardo, pine nuts, and garlic. It originated in the Ligurian city of Genoa and is used to dress pasta.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/BasilPesto.JPG/500px-BasilPesto.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pesto",
+      "recipe": {
+        "ingredients": [
+          "4 oz (100 g) fresh basil",
+          "About 8 oz (200 g) extra virgin olive oil",
+          "⅓ cup freshly grated Pecorino Romano or Parmigiano-Reggiano cheese or a 1:1 mixture.",
+          "¼ cup pine nuts or nut of choice (optional)",
+          "4 cloves garlic",
+          "Freshly ground salt and pepper (to taste)"
+        ],
+        "steps": [
+          "Preheat the oven to 425 °F (220 °C).",
+          "If using, toast the pine nuts in an ovenproof pan for 10–15 minutes, checking every 5 minutes to prevent excessive browning or burning.",
+          "In a small frying pan (skillet), heat 2 tbsp of the olive oil on medium heat.",
+          "Crush the garlic and sauté in the oil until soft, about 2–3 minutes.",
+          "Combine the basil, garlic, cheese, pine nuts and oil in a mortar and pestle until it forms a smooth paste, or use a food processor or blender and chop finely, slowly adding the oil to reach the paste-like consistency."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APesto_I"
+      }
+    },
+    {
+      "id": "tiramisu",
+      "name": "Tiramisu",
+      "localName": "Tiramisù",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tiramisu%20recipe",
+      "description": "Tiramisu is an Italian dessert made with coffee-soaked ladyfingers (savoiardi) covered with a cream of egg yolks, sugar, mascarpone, and cocoa powder. It originated in northeastern Italy, and modern versions were popularized in restaurants from the late 1960s.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/500px-Tiramisu_-_Raffaele_Diomede.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tiramisu",
+      "recipe": {
+        "ingredients": [
+          "4 egg whites",
+          "2 egg yolks",
+          "100 g (½ cup) white granulated sugar",
+          "500 g (2 ½ cups) mascarpone cheese",
+          "4 small coffee cups espresso coffee",
+          "400 g of lady fingers (savoiardi) (or sponge cake)",
+          "Unsweetened cocoa powder"
+        ],
+        "steps": [
+          "Make espresso coffee, and let it cool a bit.",
+          "Separate the egg yolks and the whites of two eggs in two bowls.",
+          "Beat sugar into the egg yolks.",
+          "Beat the mascarpone into the sweetened yolks.",
+          "Add two more egg whites to the other two and whip until they form stiff peaks.",
+          "Gently fold egg whites into mascarpone mixture.",
+          "Quickly dip both sides of the ladyfingers in the espresso.",
+          "Layer soaked ladyfingers and mascarpone in a large bowl or pan (start with fingers, finish with mascarpone).",
+          "Refrigerate for one hour or two.",
+          "Sprinkle unsweetened cocoa powder on top just before to serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATiramis%C3%B9"
+      }
+    },
+    {
+      "id": "ragu-alla-bolognese",
+      "name": "Ragù alla bolognese",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rag%C3%B9%20alla%20bolognese%20recipe",
+      "description": "Bolognese sauce, known in Italian as ragù alla bolognese or ragù bolognese (in Bologna simply ragù; Bolognese dialect: ragó), is the main variety of ragù in Italian cuisine, typical of the city of Bologna.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Tagliatelle_al_rag%C3%B9_%28image_modified%29.jpg/500px-Tagliatelle_al_rag%C3%B9_%28image_modified%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bolognese_sauce"
+    },
+    {
+      "id": "minestrone",
+      "name": "Minestrone",
+      "videoSearch": "https://www.youtube.com/results?search_query=Minestrone%20recipe",
+      "description": "Minestrone or minestrone di verdure is a thick vegetable soup of Italian origin. It typically includes onions, carrots, celery, potatoes, cabbage, tomatoes, courgettes, often legumes, such as beans, chickpeas or fava beans, and sometimes pasta or rice, and is characterized by the mixture of different vegetables and not…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Minestrone_soup_%285%29.jpg/500px-Minestrone_soup_%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Minestrone"
+    },
+    {
+      "id": "focaccia",
+      "name": "Focaccia",
+      "videoSearch": "https://www.youtube.com/results?search_query=Focaccia%20recipe",
+      "description": "Focaccia is a flat leavened oven-baked Italian bread. It is similar to a flatbread called pizza bianca (lit. 'white pizza') in Roman cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Focaccia_with_Crumb.jpg/500px-Focaccia_with_Crumb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Focaccia",
+      "recipe": {
+        "ingredients": [
+          "Unbleached bread flour",
+          "5¾ cups",
+          "787.75 g",
+          "100%",
+          "Table salt or kosher salt",
+          "2 teaspoons (table) or 4 teaspoons (kosher)",
+          "12 g",
+          "1.52%",
+          "Instant yeast",
+          "2 teaspoons",
+          "8 g",
+          "1.02%",
+          "Cold water",
+          "2⅛ cups",
+          "503.62 g",
+          "63.93%",
+          "Olive oil",
+          "¼ cup plus 2 tablespoons, divided",
+          "18 g",
+          "2.28%",
+          "Total",
+          "n/a",
+          "1329 g",
+          "169%"
+        ],
+        "steps": [
+          "In a 4-quart bowl (or the bowl of an electric mixer), combine flour, salt, yeast and water.",
+          "With a large metal spoon, stir together until all the flour is absorbed. If you are mixing by hand, repeatedly dip one of your hands or the spoon in cold water and use it, much like a dough hook, to work the dough vigorously into a smooth mass while rotating the bowl in a circular motion with the other hand.",
+          "When the dough sets up, wash and dry your hands and let the dough rest for 5 minutes. Then add ¼ cup olive and dip your hand or spoon again in water and continue to work the dough for another 5 minutes until it is smooth and stretchy. The dough should be very sticky, but it should also have some texture and structure. Even if mixed with the wet hands method, it should still pass the windowpane test (snip off a small piece of dough and gently stretch it until it forms a paper-thin, translucent membrane).",
+          "If the dough seems like a batter and does not have enough structure, work in some more flour.",
+          "Transfer the dough to an oiled bowl, turn it to coat the dough with the oil, cover it with plastic wrap and refrigerate overnight. The next day, the dough should have nearly doubled in size. If not, allow it to sit at room temperature for about 2 hours or until it doubles in size.",
+          "Line a 12-by-17-inch sheet pan (technically called a \"half sheet pan\") with either baking parchment or a silicon baking pad (Silpat).",
+          "Drizzle about 2 tablespoons of olive oil on the parchment or pad and spread it over the surface. Using a plastic bowl scraper dipped in water, gently transfer the dough from the bowl to the pan, taking care to de-gas the dough as little as possible.",
+          "Drizzle the remaining ¼ cup olive oil on the surface of the dough.",
+          "Using only your fingertips, press down on the dough, creating dimples and pockets all over the surface for the oil to fill. Do not press the dough outward toward the edges of the pan; instead simply press downward at only a slight angle toward the edges. When the dough fills the pan a little more than half full and springs back toward the center, stop pressing and let the dough relax at room temperature for about 15 minutes.",
+          "Repeat the dimpling process, beginning at the center and gradually working out toward the edges of the pan. This time the dough will nearly fill the pan. Again let the dough relax at room temperature for about 15 minutes.",
+          "Repeat the dimpling. This time the dough should fill the pan. Let the dough rise for approximately 2 to 3 hours at room temperature or until it fills the pan.",
+          "Your dough is now ready for topping and baking."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFocaccia_(Genovese)"
+      }
+    },
+    {
+      "id": "bruschetta",
+      "name": "Bruschetta",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bruschetta%20recipe",
+      "description": "Bruschetta is an Italian appetizer (antipasto) consisting of grilled bread topped with garlic, olive oil, and salt. Most commonly it is served with toppings of tomatoes, vegetables, beans, cured meat or cheese. In Italy, bruschetta is often prepared using a brustolina grill.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2014_Bruschetta_The_Larder_Chiang_Mai.jpg/500px-2014_Bruschetta_The_Larder_Chiang_Mai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bruschetta",
+      "recipe": {
+        "ingredients": [
+          "1 loaf of Italian or French bread, sliced ½ inch (1.25 cm) thick on the bias",
+          "½ head garlic",
+          "Kosher salt or sea salt",
+          "Freshly-ground black pepper",
+          "Extra-virgin olive oil",
+          "Toppings of your choice (see examples below)",
+          "Chopped tomatoes with arugula or basil",
+          "Cooked white beans (topped, if you like, with sautéed kale)",
+          "Sautéed mushrooms (preferably wild varieties)",
+          "Minced anchovies flavored with wine vinegar and herbs",
+          "Thinly-sliced pancetta crisped under the broiler",
+          "Pugliese-style chopped mixture of summer vegetables (red onion, cucumber, tomatoes, oregano, flat-leaf parsley, basil, and red pepper flakes)"
+        ],
+        "steps": [
+          "Toast the bread slices in a toaster oven, under a broiler, or on a grill, until they turn golden.",
+          "Immediately rub the bread with the cut side of the garlic. Sprinkle with salt and black pepper, and drizzle generously with extra-virgin olive oil.",
+          "Serve warm topped with whatever combinations of seasonal ingredients you choose."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABruschetta"
+      }
+    },
+    {
+      "id": "panna-cotta",
+      "name": "Panna cotta",
+      "videoSearch": "https://www.youtube.com/results?search_query=Panna%20cotta%20recipe",
+      "description": "Panna cotta is an Italian dessert of sweetened cream thickened with gelatin and moulded. It may be flavoured with coffee, vanilla, or other flavours.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Panna_Cotta_with_cream_and_garnish.jpg/500px-Panna_Cotta_with_cream_and_garnish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Panna_cotta",
+      "recipe": {
+        "ingredients": [
+          "15 g gelatin",
+          "2 cups (500 ml) cold water",
+          "2 cups (500 ml) heavy cream",
+          "200 g white granulated sugar",
+          "2 cups (500 ml) milk",
+          "100 g berries (e.g. strawberries, raspberries, blueberries)",
+          "100 g sugar"
+        ],
+        "steps": [
+          "Stir the gelatin into the water, and let bloom for about 5 minutes.",
+          "In a pot, place the milk, cream, sugar, and soaked gelatin. Heat the pot to a gentle boil (stirring regularly to prevent scorching) and remove from heat.",
+          "Pour the mixture into molds suited to a small portion for dessert, and let cool for 2–3 hours in the refrigerator.",
+          "While waiting, liquidize the berries, combining with the sugar to make the fruit sauce.",
+          "When ready to serve, unmold the dessert onto a plate, and decorate with red fruit sauce."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APanna_Cotta_with_Red_Fruit_Sauce"
+      }
+    },
+    {
+      "id": "caprese-salad",
+      "name": "Caprese salad",
+      "localName": "Insalata caprese",
+      "videoSearch": "https://www.youtube.com/results?search_query=Caprese%20salad%20recipe",
+      "description": "Caprese salad is an Italian salad composed of sliced fresh mozzarella, tomatoes, and basil, seasoned with salt and olive oil or balsamic vinegar. The salad's name references the island of Capri, where it is believed to have originated.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Caprese-1_%28tigher_crop%29.jpg/500px-Caprese-1_%28tigher_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Caprese_salad",
+      "recipe": {
+        "ingredients": [
+          "1 medium tomato",
+          "A few basil leaves",
+          "about ¾ the weight of Mozzarella cheese as the tomato, sliced",
+          "Olive oil",
+          "Balsamic vinegar",
+          "Italian seasoning or oregano and pepper (optional)"
+        ],
+        "steps": [
+          "Cut the tomato into about 5 slices.",
+          "Put a slice of mozzarella cheese on top of each tomato slice.",
+          "Cut a horizontal slit halfway through each slice.",
+          "Put a basil leaf on top of each one.",
+          "Sprinkle herbs over each slice.",
+          "Drizzle some vinegar and olive oil on top. Do not mix the vinegar and olive oil.",
+          "Eat fresh."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACaprese_Salad"
+      }
+    },
+    {
+      "id": "saltimbocca",
+      "name": "Saltimbocca",
+      "videoSearch": "https://www.youtube.com/results?search_query=Saltimbocca%20recipe",
+      "description": "Saltimbocca is an Italian dish (also popular in southern Switzerland). It consists of veal that has been wrapped (lined) with prosciutto and sage and then marinated in wine, oil or salt water, depending on the region or one's own taste. The original version of this dish is saltimbocca alla romana (lit.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Saltimbocca_01.jpg/500px-Saltimbocca_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saltimbocca"
+    },
+    {
+      "id": "vitello-tonnato",
+      "name": "Vitello tonnato",
+      "videoSearch": "https://www.youtube.com/results?search_query=Vitello%20tonnato%20recipe",
+      "description": "Vitello tonnato is a Piedmontese dish of cold, thinly sliced veal topped with a creamy, mayonnaise-style sauce flavored with tuna. The dish is typically served chilled or at room temperature, especially in summer, either as a main course or an antipasto.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Vitello_tonnato.jpg/500px-Vitello_tonnato.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vitello_tonnato",
+      "recipe": {
+        "ingredients": [
+          "1 piece of fillet of veal",
+          "2 bay leaves",
+          "1 bouquet garni of mixed herbs",
+          "1 jar (400 grams) mayonnaise (it's not worth making your own for this one)",
+          "1 tin (200 grams) good quality tuna in olive oil",
+          "1 lemon, juiced",
+          "Pepper",
+          "Salt",
+          "1 small jar of single cream (in reserve)"
+        ],
+        "steps": [
+          "Simmer the veal for about 15 minutes in water with the bay leaves and bouquet garni.",
+          "Remove from the water once cooked, wrap it in either clingfilm or aluminium foil, and place in the fridge for 3 hours until quite cool, or preferably overnight. It is important you don't try to do this whilst the veal is even slightly warm as it will mess up the sauce.",
+          "Turn the mayonnaise and the tin of tuna into a blender and blend until it is a smooth paste",
+          "Add the juice of the lemon, a large pinch of pepper, and a normal pinch of salt, and blend again. The sauce should not be runny, but neither should it be too stiff. So that it becomes a pourable consistency, add a few spoonfuls of the cream.",
+          "Now take the cooked veal out of its wrapping and using a sharp knife slice as thin as you can possibly make them and arrange on a large serving dish. If you have a mallet, cover the slices of veal in foil and bash away at them until they are as thin as possible!",
+          "Take the sauce and pour it over the veal so that the veal becomes completely covered in the sauce. Not too thick, not too thin.",
+          "Decorate with capers. Grind some red pepper over the top (optional) and it is ready to serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AVitello_Tonnato_(Veal_with_Tuna_Sauce)"
+      }
+    },
+    {
+      "id": "cacio-e-pepe",
+      "name": "Cacio e pepe",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cacio%20e%20pepe%20recipe",
+      "description": "Cacio e pepe is a pasta dish typical of Lazio, Italy. It contains grated pecorino romano and black pepper with tonnarelli or spaghetti. Achieving a smooth and creamy texture during preparation requires special attention, as the cheese is prone to becoming lumpy.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Cacio_e_pepe.jpg/500px-Cacio_e_pepe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cacio_e_pepe"
+    },
+    {
+      "id": "amatriciana",
+      "name": "Amatriciana",
+      "localName": "Pasta all'amatriciana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Amatriciana%20recipe",
+      "description": "Amatriciana (matriciana in Romanesco dialect) is a sauce made with tomatoes, guanciale (cured pork cheek), pecorino romano or pecorino di Amatrice cheese, black pepper, dried chili pepper, extra virgin olive oil, dry white wine, and salt.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Bucatini_allamatriciana.jpg/500px-Bucatini_allamatriciana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Amatriciana"
+    },
+    {
+      "id": "gnocchi",
+      "name": "Gnocchi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gnocchi%20recipe",
+      "description": "Gnocchi are a varied family of pasta-like dumplings in Italian cuisine. They are made of small rolls of dough, such as those composed of a simple combination of wheat flour, potato, egg, and salt.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Gnocchi_di_ricotta_burro_e_salvia.jpg/500px-Gnocchi_di_ricotta_burro_e_salvia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gnocchi"
+    },
+    {
+      "id": "polenta",
+      "name": "Polenta",
+      "videoSearch": "https://www.youtube.com/results?search_query=Polenta%20recipe",
+      "description": "Polenta is an Italian dish of boiled cornmeal that was historically made from other grains. It may be allowed to cool and solidify into a loaf that can be baked, fried or grilled. The variety of cereal used is usually yellow maize, but often buckwheat, white maize or mixtures thereof may be used.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Cotechino-Servito-Polenta-Lenticchie.jpg/500px-Cotechino-Servito-Polenta-Lenticchie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Polenta",
+      "recipe": {
+        "ingredients": [
+          "3 cups (~750 mL) water and/or milk",
+          "1 cup (~250 mL) coarse ground cornmeal or polenta",
+          "Butter and/or olive oil to taste (likely in the range of 1–2 tablespoons / 15–30 mL)",
+          "Salt",
+          "Parmesan cheese, to taste"
+        ],
+        "steps": [
+          "Bring the liquid to a boil in a heavy pot. If you're using milk, keep an eye on it: it can easily boil over and make a mess all over the place in seconds.",
+          "When the liquid is at a boil, add a pinch or so of salt. Add the polenta, stirring frequently to avoid lumps and form a stable suspension.",
+          "Cover pot and turn to low heat, checking on it occasionally. Add more liquid if necessary. The polenta will be finished in approximately 45 minutes.",
+          "Polenta can be kept on low heat for up to 20 minutes or allowed to cool for future use."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABasic_Polenta"
+      }
+    },
+    {
+      "id": "ribollita",
+      "name": "Ribollita",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ribollita%20recipe",
+      "description": "Ribollita (lit. 'reboiled') is a Tuscan panade (a variety of bread soup) made with bread and vegetables, often from leftovers. There are many variations, but it usually contains cannellini beans, lacinato kale, cabbage and inexpensive vegetables such as carrot, beans, chard, celery, potatoes and onion.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Ribollita_Siena.jpg/500px-Ribollita_Siena.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ribollita"
+    },
+    {
+      "id": "bistecca-alla-fiorentina",
+      "name": "Bistecca alla fiorentina",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bistecca%20alla%20fiorentina%20recipe",
+      "description": "Bistecca alla fiorentina (lit. 'beefsteak Florentine style') is an Italian steak dish made of young steer (vitellone) or heifer (scottona) that is one of the most famous dishes in Tuscan cuisine. It is loin steak on the bone cooked on a grill until rare (50 °C).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Bistecca_alla_fiorentina-01.jpg/500px-Bistecca_alla_fiorentina-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bistecca_alla_fiorentina"
+    },
+    {
+      "id": "panettone",
+      "name": "Panettone",
+      "videoSearch": "https://www.youtube.com/results?search_query=Panettone%20recipe",
+      "description": "Panettone is an Italian sweet bread and fruitcake that is associated with the city of Milan, Lombardy. It is usually prepared for Christmas and New Year in Western, Southern, and Southeastern Europe, as well as in South America, Eritrea, Australia, and North America.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Panettone_-_Nicolettone_2017_-_IMG_7085_%2831752542285%29.jpg/500px-Panettone_-_Nicolettone_2017_-_IMG_7085_%2831752542285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Panettone"
+    },
+    {
+      "id": "suppli",
+      "name": "Supplì",
+      "videoSearch": "https://www.youtube.com/results?search_query=Suppl%C3%AC%20recipe",
+      "description": "Supplì are Italian snacks consisting of a ball of rice (generally risotto) with tomato sauce, typical of Roman cuisine. Some believe that they derive from the French croquettes and were introduced to Rome by the French troops of Napoleon at the beginning of the 19th century.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Suppl%C3%AC.jpg/500px-Suppl%C3%AC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Suppl%C3%AC"
+    },
+    {
+      "id": "pasta-alla-norma",
+      "name": "Pasta alla Norma",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pasta%20alla%20Norma%20recipe",
+      "description": "Pasta alla Norma, also called pasta con le melanzane (lit. 'pasta with eggplant'), is a pasta dish made from eggplant. It is typical of Sicilian cuisine, from Catania in particular. In the Sicilian language, it is known as a pasta cu sucu di mulinciani, pasta ca sassa e mulinciani and pasta câ Norma.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Pasta_alla_Norma_-_Wiki_Loves_Sicilia.jpg/500px-Pasta_alla_Norma_-_Wiki_Loves_Sicilia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pasta_alla_Norma"
+    },
+    {
+      "id": "parmigiana",
+      "name": "Parmigiana",
+      "localName": "Parmigiana di melanzane",
+      "videoSearch": "https://www.youtube.com/results?search_query=Parmigiana%20recipe",
+      "description": "Parmigiana is an Italian dish made with fried, sliced eggplant layered with mozzarella cheese and tomato sauce, then baked. The origin of the dish is claimed by the regions of Calabria, Campania, Apulia, and Sicily.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Parmigiana_di_melanzane.jpg/500px-Parmigiana_di_melanzane.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Parmigiana",
+      "recipe": {
+        "ingredients": [
+          "3–4 big eggplants (aubergines)",
+          "Tomato sauce",
+          "200–300 grams of mozzarella cheese, sliced",
+          "Grated Parmesan cheese",
+          "Flour or breadcrumbs",
+          "Oil to fry",
+          "Salt",
+          "2 eggs (optional)",
+          "Fresh basil (optional)",
+          "Pepper or other spices (optional), to taste"
+        ],
+        "steps": [
+          "Wash eggplants and cut them in slices about 1–1.5 cm (or about ¼ inch) thick.",
+          "Salt each slice on both sides, and use one of the following techniques to draw the water out. Then rinse off the salt under running water and let them dry. Arrange them on a plate, and cover them with another. Let them rest for 60–120 minutes, time permitting. Alternatively, place salted eggplant slices in a large strainer, cover, and place a weight (e.g., a pot of water) on top to help squeeze out the water faster.",
+          "Bread and cook the eggplant slices, with one of these two methods. Do not overcook, as they will spend more time in the oven later.",
+          "*For a thicker breading, dredge and fry them.",
+          "*#Whisk the eggs in a shallow dish, and spread the crumbs (or flour) in another. Mix any dry spices in the flour.",
+          "*#Dip each slice in eggs, cover both sides. Then, cover them in the crumbs, and fry them in a pan over medium heat.",
+          "*For a light thin breading, dust with flour and bake. They should come out lighter than if fried.",
+          "*#Arrange in a baking dish, dust each slice with flour, and drizzle with oil.",
+          "*#Bake at 180°C (350°F) for about 10 minutes. Leave them in the baking dish.",
+          "Layer the eggplant slices, tomato sauce, then mozzarella and Parmesan cheese in a baking dish. Some cooks add fresh basil leaves. Make as many layers as you wish, but 3 or 4 should be enough.",
+          "For a nice crust, finish with another covering of Parmesan.",
+          "Bake at 180°C (350°F) for about 20–30 minutes, or until cheese topping is lightly browned."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AEggplant_Parmesan_(Melanzane_alla_Parmigiana)_I"
+      }
+    },
+    {
+      "id": "cassata",
+      "name": "Cassata",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cassata%20recipe",
+      "description": "Cassata ( kə-SAH-tə) or cassata siciliana is an Italian cake originating in the Sicily region. It is typically composed of a round sponge cake moistened with fruit juices or liqueur and layered with ricotta cheese and candied fruit (a filling also used with cannoli).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Cassatasiciliana.jpg/500px-Cassatasiciliana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cassata"
+    },
+    {
+      "id": "caponata",
+      "name": "Caponata",
+      "videoSearch": "https://www.youtube.com/results?search_query=Caponata%20recipe",
+      "description": "Caponata (Sicilian: capunata) is a Sicilian dish consisting of chopped, fried eggplant and other vegetables, seasoned with olive oil, tomato sauce, celery, olives, and capers, in an agrodolce (sweet and sour) sauce. Variants add carrots, bell peppers, potatoes, pine nuts, and raisins.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Caponata_%2814049113982%29.jpg/500px-Caponata_%2814049113982%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Caponata",
+      "recipe": {
+        "ingredients": [
+          "2 ¼ pounds (1 kg) eggplant (aubergine)",
+          "½ pound (225 g) green olives packed in brine, pitted",
+          "6 ounces (170 g) salted capers, rinsed",
+          "1 ¼ (570 g) pounds celery ribs",
+          "1 cup tomato sauce (optional)",
+          "⅔ pound (300 g) onions",
+          "⅔ pound (300 g) tomatoes",
+          "⅓ cup vinegar",
+          "2 tablespoons sugar",
+          "Basil",
+          "⅜ cup pine nuts",
+          "Olive oil",
+          "Salt"
+        ],
+        "steps": [
+          "Strip the filaments from the celery sticks and blanch in lightly salted water for five minutes. Drain and cut the celery into bite-size pieces, sauté them in a little oil, and set aside.",
+          "Wash and dice the eggplant, strain, and sprinkle liberally with salt, and let sit for several hours to draw out the bitterness. In the meantime, blanch, peel, seed and chop the tomatoes.",
+          "Once the eggplant has sat, rinse away the salt and pat the pieces dry. Finely slice the onion and sauté them in olive oil; once they have turned translucent, add the capers, pine nuts, olives, and tomatoes. Continue cooking, stirring with a wooden spoon, until the tomatoes are done, about 15 minutes, and then remove the pot from the heat.",
+          "While the tomatoes are cooking, heat another pan of oil and fry the eggplant, in batches, to prevent lowering of the frying temperature. When the last batch is done, return the tomato pot to the heat and stir in the eggplant together with the previously sautéed celery. Cook for several minutes over low flame, stirring gently, then stir in the vinegar and the sugar; when the vinegar has almost completely evaporated, remove the pot from the fire and let it cool.",
+          "Serve the caponata cold with a garnish of fresh basil. Caponata keeps for several days in the refrigerator."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACaponata_(Sicilian_Eggplant_and_Vegetables)"
+      }
+    },
+    {
+      "id": "spaghetti-alla-puttanesca",
+      "name": "Spaghetti alla puttanesca",
+      "videoSearch": "https://www.youtube.com/results?search_query=Spaghetti%20alla%20puttanesca%20recipe",
+      "description": "Spaghetti alla puttanesca is a pasta dish invented in the Italian city of Naples in the mid-20th century, typically made with tomatoes, olives, capers, anchovies, garlic, peperoncino, and extra virgin olive oil.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Pasta_Puttanesca.jpg/500px-Pasta_Puttanesca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Spaghetti_alla_puttanesca",
+      "recipe": {
+        "ingredients": [
+          "600 grams (21 ounces) uncooked spaghetti",
+          "4 tablespoons extra-virgin olive oil",
+          "115 grams (4 ounces) unsalted anchovy fillets, crushed into a paste (omit anchovies for Neapolitan version)",
+          "5 cloves of garlic, finely chopped",
+          "200 grams (7 ounces) black olives, pitted and chopped",
+          "2 tablespoons salted capers, washed well and coarsely chopped",
+          "1–3 small dried chile peppers, chopped (optional)",
+          "900 grams (roughly 2 pounds) plum tomatoes, peeled and puréed",
+          "2 tablespoons chopped parsley",
+          "Salt to taste"
+        ],
+        "steps": [
+          "Put the olive oil, garlic, and anchovy paste in a skillet over medium heat.",
+          "Before the garlic browns, add the olives, capers, tomato sauce, and chile peppers.",
+          "Add 2–3 pinches of salt, mixing over high heat. Then lower the heat and allow to simmer for 15 to 20 minutes.",
+          "Meanwhile, cook the spaghetti in salted water (at least 4 quarts of water per pound of spaghetti being cooked). Strain it when it's al dente.",
+          "Place pasta in a large serving bowl, and coat it with sauce. Then, sprinkle it with chopped parsley.",
+          "Mix and serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASpaghetti_alla_Puttanesca"
+      }
+    },
+    {
+      "id": "pasta-e-fagioli",
+      "name": "Pasta e fagioli",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pasta%20e%20fagioli%20recipe",
+      "description": "Pasta e fagioli is an Italian pasta soup of which there are several regional variants. Once a dish eaten by the poor, pasta e fagioli is now eaten across social classes, and considered nostalgic and healthy.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Pasta_e_fagioli_cannellini.jpg/500px-Pasta_e_fagioli_cannellini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pasta_e_fagioli",
+      "recipe": {
+        "ingredients": [
+          "1 pound dried white beans",
+          "1 cup olive oil",
+          "1 whole clove of garlic, unshelled",
+          "1 bay leaf",
+          "1 teaspoon or more crushed or ground hot red pepper",
+          "Fresh parsley",
+          "½ pound small diameter macaroni (whole wheat is best)",
+          "Salt to taste"
+        ],
+        "steps": [
+          "Put washed beans in salted water (3 parts to 1 part beans).",
+          "Soak overnight OR bring to boil, boil 2 minutes and let stand, covered, for 1 hour.",
+          "Do not drain beans, but bring to a boil.",
+          "Skim off foam and add oil, garlic and bay leaf.",
+          "Simmer for about 2 hours, or until tender.",
+          "Cook pasta for 6–7 minutes, but don't let it get too soft.",
+          "Drain pasta and save some of the water.",
+          "Stir pasta and red pepper into beans and simmer until pasta is al dente, adding some of the saved water if necessary.",
+          "Garnish with red pepper to taste and parsley."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APasta_and_Bean_Soup_(Pasta_e_Fagioli)"
+      }
+    },
+    {
+      "id": "carpaccio",
+      "name": "Carpaccio",
+      "videoSearch": "https://www.youtube.com/results?search_query=Carpaccio%20recipe",
+      "description": "Carpaccio is a dish of meat or fish (such as beef, veal, venison, salmon or tuna), thinly sliced or pounded thin, and served raw, typically as an appetiser. It was invented in 1950 by Giuseppe Cipriani, founder of Harry's Bar in Venice, Italy, and popularised during the second half of the twentieth century.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Carpaccio_with_cheese_in_Warsaw.jpg/500px-Carpaccio_with_cheese_in_Warsaw.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Carpaccio",
+      "recipe": {
+        "ingredients": [
+          "400 g high quality beef fillet",
+          "90 ml extra-virgin olive oil",
+          "1 small handful pine kernels, for toasting",
+          "50 g Parmesan, for shaving",
+          "1 dash of truffle oil, for drizzling (optional)",
+          "Salt",
+          "Black pepper"
+        ],
+        "steps": [
+          "Cut the beef fillet into extremely thin slices (about 2 mm).",
+          "Lay a piece of cling film on the work surface, place the sliced beef on top and place another layer of film over. Flatten the slices with the back of a knife.",
+          "Pour a small puddle of olive oil onto a large plate and place a layer of beef over it. Season with the salt and pepper and continue making layers with all the beef.",
+          "Cover the plate with cling film and leave to marinate for half an hour.",
+          "Meanwhile toast the pine nuts in a dry frying pan.",
+          "Transfer the beef onto individual plates. Cover with pine nuts, shavings of Parmesan and a dash of truffle oil if you have any."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABeef_Carpaccio_I"
+      }
+    },
+    {
+      "id": "struffoli",
+      "name": "Struffoli",
+      "videoSearch": "https://www.youtube.com/results?search_query=Struffoli%20recipe",
+      "description": "Struffoli, also known as Honey Balls, is a Neapolitan dish made of deep fried balls of sweet dough. The dough is used in many Italian sweet treats such as chiacchiere. For struffoli, the dough is formed in to balls about the size of marbles.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Struffoli2.JPG/500px-Struffoli2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Struffoli",
+      "recipe": {
+        "ingredients": [
+          "6 eggs",
+          "6 tbsp vegetable oil",
+          "3 tsp baking powder",
+          "½ tsp cream of tartar",
+          "1½ cups white granulated sugar",
+          "½ cup dry sherry",
+          "Flour",
+          "Shortening or oil for deep frying",
+          "1½ cups white granulated sugar",
+          "2 cups honey",
+          "1 tbsp orange zest"
+        ],
+        "steps": [
+          "Combine eggs, oil, baking powder, cream of tartar, sugar, and sherry. Mix in enough flour to make a dough. The dough should be somewhat sticky but still workable.",
+          "Shape dough into small balls, about ½ inch in diameter.",
+          "Heat the shortening or oil to 350–375°F. Deep fry the dough balls until golden brown and cooked through.",
+          "Mix all the glaze ingredients over low heat until sugar is dissolved. Dip each fritter into the glaze, and remove."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AStruffoli_(Neapolitan_Honey_Fried_Dough)"
+      }
+    }
+  ]
+}

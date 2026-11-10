@@ -1,0 +1,61 @@
+{
+  "country": "LU",
+  "dishes": [
+    {
+      "id": "judd-mat-gaardebounen",
+      "name": "Judd mat Gaardebounen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Judd%20mat%20Gaardebounen%20recipe",
+      "description": "Judd mat Gaardebounen is a savory dish of smoked pork collar and broad beans which is one of the most widely recognized national dishes of Luxembourg.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/JuddMatGaardebounen_Beer.JPG/500px-JuddMatGaardebounen_Beer.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Judd_mat_Gaardebounen"
+    },
+    {
+      "id": "bouneschlupp",
+      "name": "Bouneschlupp",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bouneschlupp%20recipe",
+      "description": "Bouneschlupp is a traditional Luxembourgish green bean soup with potatoes, bacon, and onions. Although Bouneschlupp is considered a Luxembourgish national dish, it can also be found in Saarland (Germany), Gaume, Arelerland (Belgium), and Lorraine (France).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Bouneschlupp16.jpg/500px-Bouneschlupp16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bouneschlupp"
+    },
+    {
+      "id": "gromperekichelcher",
+      "name": "Gromperekichelcher",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gromperekichelcher%20recipe",
+      "description": "Potato pancakes are shallow-fried pancakes consisting of grated or ground potato, matzo meal or flour and typically a binding ingredient such as egg or corn starch, often flavored with grated garlic or onion and seasonings.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Latkas.jpg/500px-Latkas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Potato_pancake"
+    },
+    {
+      "id": "kniddelen",
+      "name": "Kniddelen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kniddelen%20recipe",
+      "description": "Knödel or Klöße are boiled dumplings commonly found in Central European and Eastern European cuisine. Countries in which their variant of Knödel is popular include Austria, Bosnia, Croatia, Czech Republic, Germany, Poland, Romania, Serbia, Slovakia and Slovenia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Kn%C3%B6delschneem%C3%A4nner_1.jpg/500px-Kn%C3%B6delschneem%C3%A4nner_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kn%C3%B6del"
+    },
+    {
+      "id": "quetschentaart",
+      "name": "Quetschentaart",
+      "videoSearch": "https://www.youtube.com/results?search_query=Quetschentaart%20recipe",
+      "description": "Quetschentaart, a popular Luxembourg speciality, is a simple open fruit tart with Prune plums, known as zwetschgen. In the Ketty Thull recipe, the dough for the shortcrust pastry base consists of flour, butter and sugar only. In other recipes, the base is made with a yeast dough.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Quetschentaart_02.jpg/500px-Quetschentaart_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Quetschentaart"
+    },
+    {
+      "id": "kachkeis",
+      "name": "Kachkéis",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kachk%C3%A9is%20recipe",
+      "description": "Cancoillotte or cancoyotte is a runny French cheese made from metton cheese, and produced principally in Franche-Comté, but also Lorraine and Luxembourg, where it is also called Kachkéis or Kochkäse in German (cooking cheese). It is a typical cheese in Franc-Comtois gastronomy.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Cancoillotte.jpg/500px-Cancoillotte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cancoillotte"
+    },
+    {
+      "id": "traipen",
+      "name": "Träipen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tr%C3%A4ipen%20recipe",
+      "description": "Träipen, sometimes treipen, is the Luxembourg variant of blood sausage. The sausages are traditionally prepared from 1⁄3 hog's head (or offal and any other scraps of pork) and fat, 1⁄3 blood, and 1⁄3 (winter) vegetables (such as white cabbage and onions).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Tr%C3%A4ipen_w.jpg/500px-Tr%C3%A4ipen_w.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tr%C3%A4ipen"
+    }
+  ]
+}

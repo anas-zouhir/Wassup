@@ -1,0 +1,53 @@
+{
+  "country": "BO",
+  "dishes": [
+    {
+      "id": "saltenas",
+      "name": "Salteñas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Salte%C3%B1as%20recipe",
+      "description": "A salteña is a Bolivian type of baked empanada, a type of turnover. Salteñas are savory pastries filled with beef, pork or chicken mixed in a sweet, slightly spicy sauce containing ají, potatoes and sometimes egg. Vegetarian salteñas are sometimes available at certain restaurants.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Salte%C3%B1as_de_Bolivia.jpg/500px-Salte%C3%B1as_de_Bolivia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Salte%C3%B1a"
+    },
+    {
+      "id": "silpancho",
+      "name": "Silpancho",
+      "videoSearch": "https://www.youtube.com/results?search_query=Silpancho%20recipe",
+      "description": "Silpancho (original Quechua word: Sillp'anchu) is a popular Bolivian food from the city of Cochabamba. When prepared properly, this tends to be a large and fulfilling meal with a diversity of carbohydrates and fats. It consists of a base layer of rice, usually white, followed by a layer of boiled and sliced potatoes.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Silpancho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Silpancho"
+    },
+    {
+      "id": "pique-a-lo-macho",
+      "name": "Pique a lo macho",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pique%20a%20lo%20macho%20recipe",
+      "description": "Pique macho (also referred to as pique a lo macho) is a Bolivian dish consisting of beef, sausage, red onion, green pepper, tomato, french fries, mustard, mayonnaise, and ketchup that originated from the region of Cochabamba Department.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Pique_macho.jpg/500px-Pique_macho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pique_macho"
+    },
+    {
+      "id": "chairo",
+      "name": "Chairo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chairo%20recipe",
+      "description": "Chairo is a traditional dish of the Aymara people, consumed mainly in Bolivia and other countries in the Andes. It is a soup made of vegetables and beef.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Chairo_at_Ciclik_La_Paz.png/500px-Chairo_at_Ciclik_La_Paz.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chairo_(stew)"
+    },
+    {
+      "id": "api",
+      "name": "Api",
+      "videoSearch": "https://www.youtube.com/results?search_query=Api%20recipe",
+      "description": "Api, also known as api morado (purple api) is a sweet beverage of pre-Columbian origin that is still consumed in modern Argentina, Bolivia, and Peru. It is made with purple corn, which gives it its characteristic flavor and color. Yellow corn, sugar, cinnamon in branches and cloves are sometimes added as well.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Api_con_cachangas%2C_Per%C3%BA.webp/500px-Api_con_cachangas%2C_Per%C3%BA.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Api_(beverage)"
+    },
+    {
+      "id": "fricase",
+      "name": "Fricasé",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fricas%C3%A9%20recipe",
+      "description": "Fricasé is a traditional soup in Bolivian cuisine prepared with pork, pork ribs or chicken, hominy, chuño (a freeze-dried potato product) or potatoes, onion, garlic, salt, pepper and spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Fricas%C3%A9_de_Cerdo.jpg/500px-Fricas%C3%A9_de_Cerdo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fricas%C3%A9"
+    }
+  ]
+}

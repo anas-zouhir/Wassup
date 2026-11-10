@@ -1,0 +1,178 @@
+{
+  "country": "DO",
+  "dishes": [
+    {
+      "id": "mangu",
+      "name": "Mangú",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mang%C3%BA%20recipe",
+      "description": "Mangú is the national breakfast dish of the Dominican Republic. It can also be served for lunch or dinner.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Mangu_dominicano_--Contenido-_-Lonjas_de_salami_fritas_-Lonjas_de_queso_blanco_-Mangu_o_pur%C3%A9_de_pl%C3%A1tano_verde_-Mantequilla_--Este_es_un_plato_t%C3%ADpico_en_el_desayuno_dominicano_--Rep%C3%BAblica_Dominicana_-_2013-10-08_14-28.jpg/500px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mang%C3%BA"
+    },
+    {
+      "id": "sancocho",
+      "name": "Sancocho",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sancocho%20recipe",
+      "description": "Sancocho (from the Spanish verb sancochar, 'to parboil') is a traditional stew in several Caribbean and Latin American cuisines. Latin variations represent popular national dishes in Dominican Republic, Colombia, Cuba, Honduras, Mexico, Panama, Puerto Rico, Trinidad and Tobago and Venezuela.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Sancocho_de_espinazo_de_cerdo.jpg/500px-Sancocho_de_espinazo_de_cerdo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sancocho",
+      "recipe": {
+        "ingredients": [
+          "1 large orange, juiced",
+          "1 tablespoon fresh lemon juice",
+          "¼ bunch curly parsley, large stems removed",
+          "¼ bunch cilantro, large stems removed",
+          "2 tablespoons fresh oregano leaves",
+          "2 cloves garlic, minced",
+          "Salt",
+          "Freshly ground black pepper",
+          "1 pound (about 500 g) boneless, skinless chicken breasts, cut into bite-size pieces",
+          "1 tablespoon clear oil, such as canola",
+          "2 cups vegetable stock",
+          "4 cups water",
+          "1 medium white onion, chopped",
+          "1 medium sweet potato, peeled and cut into ½-inch chunks",
+          "1 medium boiling potato, unpeeled and cut into bite-size chunks",
+          "1 green plantain, peeled and sliced into ½-inch thick slices (see notes)",
+          "1 ear corn, quartered",
+          "1 jalapeño or habanero chile, seeded and minced",
+          "Salt to taste",
+          "Pepper, to taste",
+          "Hot cooked rice (optional)",
+          "Hot sauce (optional but not recommended)",
+          "Chopped cilantro (optional)"
+        ],
+        "steps": [
+          "In bowl of a food processor or blender, combine orange juice, lemon juice, parsley, cilantro, oregano, garlic, salt, and pepper, and process until combined.",
+          "Pour mixture into a non-reactive bowl, add chicken and stir to combine.",
+          "Cover and refrigerate 1–2 hours.",
+          "Heat oil in a large soup pot over medium heat. When hot, use a slotted spoon to lift the chicken out of the marinade and place in the pot, reserving marinade. Cook chicken until opaque, stirring occasionally.",
+          "Add reserved marinade, vegetable stock and water to the pot, and bring to a boil.",
+          "Add onion, sweet potato, potato, plantain, corn, jalapeño, salt and pepper.",
+          "Bring back to a boil, reduce to low and cook partially covered for 1–1½ hours."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASancocho_(Dominican_Meat_and_Vegetable_Soup)"
+      }
+    },
+    {
+      "id": "locrio",
+      "name": "Locrio",
+      "videoSearch": "https://www.youtube.com/results?search_query=Locrio%20recipe",
+      "description": "A locrio is a rice dish from the Dominican Republic. Similar to pilaf, jollof, and paella, it consists of seasoned rice with some kind of meat, such as chicken, Dominican salami or pork.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Locrio_de_Pollo_%28Dominicano%29.jpg/500px-Locrio_de_Pollo_%28Dominicano%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Locrio",
+      "recipe": {
+        "ingredients": [
+          "¼ cup oil for frying",
+          "1 tbsp sugar",
+          "4 lbs (1.8 kg) chicken, cut in pieces",
+          "½ cup olives (pitted) or capers",
+          "2 tbsp oil, for when rice is almost done",
+          "½ cup finely diced celery",
+          "½ cup finely diced onion",
+          "2 cloves of garlic, chopped",
+          "4 cups rice",
+          "5¼ cups chicken stock or water",
+          "¼ cup tomato paste",
+          "1 tsp salt or to taste",
+          "1 tsp thyme",
+          "½ tsp oregano (optional)",
+          "1 tsp ground black pepper"
+        ],
+        "steps": [
+          "Heat the ¼ cup oil in a pot over high heat.",
+          "Add the sugar to the pot. Let it melt and caramelize, turning light brown. Pay close attention and don't let the sugar burn. Do not use plastic utensils to stir the sugar, since it will be at around 350°F (175°C).",
+          "Add the meat to the caramel and let it brown on all sides. Remove and reserve the meat.",
+          "Add the garlic, onions, and celery to the pot. Fry.",
+          "Add rice and cooked meat to pot with the vegetables. Whisk together chicken stock and tomato paste until smooth, then stir it into the rice mixture. Stir in the salt, pepper, thyme, and olives.",
+          "Check the seasoning. If the salt level is good, add an extra ½ tsp of salt. This is because the rice will absorb some of the salt, and it will come out a bit flat in the end unless you add extra salt.",
+          "Bring to a boil over high heat. Let it boil, stirring occasionally, until the water is absorbed. The high heat is needed to bring the rice temperature up so that it cooks. If you lower the flame at this point, the rice might not cook all the way.",
+          "Cover, lower the heat, and let it cook for 15 minutes.",
+          "Uncover, sprinkle 2 Tbsp oil on top, and stir so that the uncooked rice on top goes to the bottom. Cook for another 5 minutes.",
+          "If rice still not cooked, give it another stir and cook for another 5 minutes. Sometimes you may need more time; see notes below.",
+          "Turn heat on high for a couple of minutes to brown and toast the rice on bottom. Sometimes it does this by itself during the main cooking so you don't have to do this. Experience will tell.",
+          "Serve.",
+          "Preheat oven to 350°F (125°C).",
+          "Proceed with the recipe as above, using an oven-proof pot, until the rice absorbs all the liquid. Once this happens, cover the pot, put it in the oven, and bake for 30 minutes.",
+          "Add 2 tbsp oil, and stir so the uncooked rice is on the bottom and the bottom rice is on the top. Bake for another 20 minutes.",
+          "Stir. If it is still not fully cooked, bake another 20 minutes.",
+          "Serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALocrio_(Dominican_Chicken_and_Rice)"
+      }
+    },
+    {
+      "id": "habichuelas-con-dulce",
+      "name": "Habichuelas con dulce",
+      "videoSearch": "https://www.youtube.com/results?search_query=Habichuelas%20con%20dulce%20recipe",
+      "description": "Habichuelas con dulce is a sweet bean liquid dessert from the Dominican Republic that is especially popular around the Easter holiday.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Habichuelas_con_dulce_dominicana.jpg/500px-Habichuelas_con_dulce_dominicana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Habichuelas_con_dulce",
+      "recipe": {
+        "ingredients": [
+          "4 cups soft-boiled red kidney beans",
+          "½ cup raisins",
+          "3 cups evaporated milk",
+          "2 cups sweetened condensed milk",
+          "½ tsp salt (or 1 pinch)",
+          "1 cup granulated sugar",
+          "1 tsp vanilla extract",
+          "2 cinnamon sticks",
+          "10 cloves",
+          "1 sweet potato (batata), cubed small",
+          "Milk cookies"
+        ],
+        "steps": [
+          "Blend cooked beans, including the water they cooked in, into a purée.",
+          "Strain beans into a pot in order to get rid of any skins.",
+          "Mix in sweetened condensed milk, evaporated milk, vanilla extract, salt, sugar, sweet potatoes, cinnamon sticks, and cloves.",
+          "Simmer over low heat until the sweet potatoes are fully cooked. Stir occasionally so that it will not stick on the bottom.",
+          "Add raisins and simmer for 10 minutes. You can also add the milk cookies if you want them to become soft.",
+          "Remove beans from heat.",
+          "If you want, you may remove the cinnamon sticks and cloves.",
+          "Serve beans in a bowl, and add milk cookies on top. You may serve warm or chilled."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHabichuela_con_Dulce_(Dominican_Sweet_Beans)"
+      }
+    },
+    {
+      "id": "pastelon",
+      "name": "Pastelón",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pastel%C3%B3n%20recipe",
+      "description": "Pastelón (Spanish for \"big cake\") is a dish from the Dominican Republic and Puerto Rico. It is prepared differently in each Caribbean nation.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Puerto_rican_dish.jpg/500px-Puerto_rican_dish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pastel%C3%B3n"
+    },
+    {
+      "id": "mofongo",
+      "name": "Mofongo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mofongo%20recipe",
+      "description": "Mofongo is a dish from Puerto Rico with plantains as its main ingredient. Plantains are picked green, cut into pieces and typically fried in more modern versions but can be boiled in broth or roasted, then mashed with salt, garlic, pork, broth, and cooking oil (olive oil, butter, and lard is typically used) in a wooden…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Mofongo.jpg/500px-Mofongo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mofongo"
+    },
+    {
+      "id": "moro-de-guandules-con-coco",
+      "name": "Moro de guandules con coco",
+      "videoSearch": "https://www.youtube.com/results?search_query=Moro%20de%20guandules%20con%20coco%20recipe",
+      "description": "Moro de guandules (Moorish pigeon peas), is a traditional dish from the Dominican Republic consisting of rice and pigeon peas.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Moro_de_guandules.jpg/500px-Moro_de_guandules.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Moro_de_guandules"
+    },
+    {
+      "id": "chapea",
+      "name": "Chapea",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chapea%20recipe",
+      "description": "Chapea is a bean stew, a popular dish from the countryside of the Dominican Republic. Kidney beans or white beans with longaniza (sausage), rice, and green plantains are the basic ingredients, with other meats, vegetables and mashed squash used as a thickener.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chapea"
+    },
+    {
+      "id": "casabe",
+      "name": "Casabe",
+      "videoSearch": "https://www.youtube.com/results?search_query=Casabe%20recipe",
+      "description": "Casabe or cassava bread is a flatbread made of cassava, eaten across the Caribbean Basin and the Amazon. It is usually made of bitter cassava, which is toxic before processing. Some cultures use mashed, fermented cassava, while others use cassava starch (tapioca), and additional ingredients may be used for flavor.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Tortasdecasabe.JPG/500px-Tortasdecasabe.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Casabe"
+    }
+  ]
+}

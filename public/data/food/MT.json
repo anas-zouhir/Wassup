@@ -1,0 +1,131 @@
+{
+  "country": "MT",
+  "dishes": [
+    {
+      "id": "pastizz",
+      "name": "Pastizz",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pastizz%20recipe",
+      "description": "A pastizz (pl.: pastizzi) is a traditional savoury pastry from Malta. Pastizzi usually have a filling either of ricotta (pastizzi tal-irkotta or pastizzi tal-ħaxu in Maltese) or curried peas (pastizzi tal-piżelli in Maltese). Pastizzi are a popular and well-known traditional Maltese food.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Malta_Pastizzi.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pastizz"
+    },
+    {
+      "id": "ftira",
+      "name": "Ftira",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ftira%20recipe",
+      "description": "Ftira (plural: ftajjar) is a ring-shaped, leavened, Maltese bread, usually eaten with fillings such as sardines, tuna, potato, fresh tomato, onion, capers and olives. Regional variations include Gozo ftira, which is served more like a pizza than a sandwich.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Ftira_with_Tuna_in_Marsaxlokk_02.jpg/500px-Ftira_with_Tuna_in_Marsaxlokk_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ftira"
+    },
+    {
+      "id": "stuffat-tal-fenek",
+      "name": "Stuffat tal-fenek",
+      "videoSearch": "https://www.youtube.com/results?search_query=Stuffat%20tal-fenek%20recipe",
+      "description": "Stuffat tal-Fenek is a type of rabbit stew in Maltese cuisine. It is the national dish of Malta. It is typically slow-cooked or braised with wine, tomatoes, garlic, bay leaves, cloves, salt, pepper and vegetables.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Malta_Rabbit_fried_with_wine_and_garlic.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stuffat_tal-Fenek",
+      "recipe": {
+        "ingredients": [
+          "1 large (about 2 kg) whole rabbit",
+          "2 tbsp sunflower oil",
+          "1 clove garlic",
+          "300 g white potatoes, peeled",
+          "1 small carrot, peeled and chopped",
+          "800 g canned crushed tomatoes or canned 'Pelati'",
+          "200 ml red wine",
+          "1 tbsp sugar",
+          "2–3 Mediterranean bay leaves",
+          "Tabasco sauce",
+          "Freshly-ground black pepper",
+          "Salt to taste",
+          "100 g canned peas",
+          "½ tsp mixed spice"
+        ],
+        "steps": [
+          "Cut up the rabbit at the joints. Cut the rib section into 3–4 pieces, and divide the legs at all the joints. Split the head of the rabbit in half. The whole animal should be cut into about 10–12 pieces so they are large and chunky, but small enough that they can be easily manipulated with large spoon. Remove and keep internal organs apart.",
+          "Mince the garlic. Heat the oil in a large frying pan. Heat some of the garlic in the oil. Add some rabbit pieces and cook through.",
+          "Remove cooked meat from the pan and place in a large container. Cook the rest of the meat in the same way in batches, adding some garlic with every batch. The meat should be well cooked but not very brown.",
+          "Fry the internal organs whole in the same oil until well-cooked. Take some of the smaller pieces of meat without bone and add them to the organs. Keep these apart from the main meat.",
+          "Cut the potatoes into large irregular chunks, slightly smaller than the pieces of meat.",
+          "In a stock pot, place the fried rabbit, the potatoes, the chopped carrot, the tomato pulp, wine, sugar and laurel leaves. Add salt, pepper, mixed spice and Tabasco carefully. Cover and simmer on a low flame for 4 hours. Stir occasionally during the first hour.",
+          "Once done, add the peas, and cook until tender (about 10 minutes)."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMaltese_Rabbit_Stew_(Stuffat_tal-Fenek)"
+      }
+    },
+    {
+      "id": "hobz-biz-zejt",
+      "name": "Ħobż biż-żejt",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C4%A6ob%C5%BC%20bi%C5%BC-%C5%BCejt%20recipe",
+      "description": "Maltese bread (Maltese: Il-Ħobż tal-Malti, tal-malti) is a crusty sourdough bread from Malta, usually baked in wood ovens.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/%C4%A6ob%C5%BC_Malti.jpg/500px-%C4%A6ob%C5%BC_Malti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maltese_bread"
+    },
+    {
+      "id": "bigilla",
+      "name": "Bigilla",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bigilla%20recipe",
+      "description": "Bigilla is a traditional Maltese dish, made of mashed beans, olive oil, salt and red pepper, and usually served as a dip. Bigilla uses tic beans (Maltese: ful ta’ Ġirba, \"Djerba beans\"), which are similar to broad beans, but smaller and with a darker and harder skin.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Homemade_Bigilla_from_Malta.jpg/500px-Homemade_Bigilla_from_Malta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bigilla"
+    },
+    {
+      "id": "imqaret",
+      "name": "Imqaret",
+      "videoSearch": "https://www.youtube.com/results?search_query=Imqaret%20recipe",
+      "description": "Imqaret are traditional Maltese sweets made with pastry and a filling of dates. The word imqaret in Maltese, is the plural of maqrut (diamond-shaped) and it signifies the diamond shape of the sweets – even though in many cases they are sold in a rectangular shape.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Homemade_Imqaret.jpg/500px-Homemade_Imqaret.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Imqaret"
+    },
+    {
+      "id": "gbejna",
+      "name": "Ġbejna",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C4%A0bejna%20recipe",
+      "description": "Ġbejna is a small round cheese made in Malta from sheep milk, salt and rennet. Most sheep's milk produced in Malta is used for the production of these small cheeses. Ġbejna is the diminutive of the Maltese word ġobna, which means \"cheese\"; it is synonymous with the Maltese English word \"cheeselet\", i.e.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Malta_Gbejniet.JPG/500px-Malta_Gbejniet.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/%C4%A0bejna"
+    },
+    {
+      "id": "kawlata",
+      "name": "Kawlata",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kawlata%20recipe",
+      "description": "Kawlata is a traditional Maltese vegetable soup, typically made with cabbage and pork, and consumed during the winter months. During World War II, kawlata was a food staple prepared by the Communal Feeding Kitchens. The first Maltese newspaper was called Il-kawlata maltija (\"Maltese Medley\").",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Kawlata_with_veggies_and_pork_01.jpg/500px-Kawlata_with_veggies_and_pork_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kawlata",
+      "recipe": {
+        "ingredients": [
+          "4 fresh whole Maltese sausages",
+          "4 shoulder-cut pork chops (ideally left attached in one piece and separated only after cooking)",
+          "1 piece (300 g) fresh pork belly, salt-cured gammon, or smoked bacon",
+          "1 ham hock or a pig's trotter (not boned)",
+          "Oil for frying the onion",
+          "2 large onions, chopped",
+          "1 whole medium cabbage, cut into medium chunks",
+          "2 large potatoes, cut into medium chunks",
+          "1–2 kohlrabi, cut into medium chunks",
+          "1 large slice of red-fleshed pumpkin (qargħa hamra; optional), cut into medium chunks",
+          "1 large slice of yellow-fleshed pumpkin (qargħa Torka; optional), cut into medium chunks",
+          "½ ea. medium cauliflower (optional), cut into medium chunks",
+          "3–4 carrots (optional), cut into medium chunks",
+          "Chopped green celery leaves (Maltese krafes)",
+          "Salt",
+          "Pepper",
+          "1–2 tbsp tomato paste, diluted with a little water",
+          "A few sprigs of flat-leaf parsley, chopped"
+        ],
+        "steps": [
+          "Bring a pot of water to a rolling boil, and scald the hock or trotter in it for 10 minutes.",
+          "Remove the hock or trotter, discard the water, refill with fresh water and bring to the boil again.",
+          "Place the hock or trotter in the boiling water with the other meats you are using, turn heat down, and cook a few minutes, skimming scum from the surface.",
+          "When there is no more scum forming, remove the meats from the water. Reserve both the cooking water and all the meats.",
+          "In a pot over medium heat, soften and wilt the onion in the olive oil without letting it brown.",
+          "Add the cabbage, potatoes, kohlrabi, pumpkin, cauliflower, carrots, and celery leaves. Season with salt and pepper, cover, and sweat together on low heat for 5–6 minutes",
+          "Add the tomato paste and reserved meats.",
+          "Add some of the water in which you boiled the meats (the quantity depends on whether you want a one-dish stew or a two course meal, see below). Simmer over moderately low heat until the meats are tender.",
+          "Five minutes from the end of cooking time, taste and adjust for seasoning, then add the chopped flat leaf parsley."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKawlata_(Maltese_Vegetable_and_Pork_Soup)"
+      }
+    }
+  ]
+}

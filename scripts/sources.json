@@ -1,0 +1,873 @@
+{
+  "AD": [
+    { "id": "bondia", "name": "Bondia", "homepage": "https://www.bondia.ad", "lang": "ca", "feed": "https://www.bondia.ad/rss.xml" }
+  ],
+  "AE": [
+    { "id": "alkhaleej", "name": "Al Khaleej (الخليج)", "homepage": "https://www.alkhaleej.ae", "lang": "ar", "feed": "https://www.alkhaleej.ae/rssFeed/0" },
+    { "id": "the-national", "name": "The National", "homepage": "https://www.thenationalnews.com", "lang": "en", "feed": "https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml" },
+    { "id": "khaleej-times", "name": "Khaleej Times", "homepage": "https://www.khaleejtimes.com", "lang": "en", "feed": "https://www.khaleejtimes.com/api/v1/collections/top-section.rss" }
+  ],
+  "AF": [
+    { "id": "tolonews", "name": "TOLOnews", "homepage": "https://tolonews.com", "lang": "en", "feed": "https://tolonews.com/rss.xml" },
+    { "id": "khaama-press", "name": "Khaama Press", "homepage": "https://www.khaama.com", "lang": "en", "feed": "https://www.khaama.com/feed/" },
+    { "id": "ariana-news", "name": "Ariana News", "homepage": "https://www.ariananews.af", "lang": "en", "feed": "https://www.ariananews.af/feed/" }
+  ],
+  "AG": [
+    { "id": "antigua-observer", "name": "Antigua Observer", "homepage": "https://antiguaobserver.com", "lang": "en-AG", "feed": "https://antiguaobserver.com/feed/" },
+    { "id": "antigua-news", "name": "Antigua News", "homepage": "https://antigua.news", "lang": "en-AG", "feed": "https://antigua.news/feed/" }
+  ],
+  "AL": [
+    { "id": "rtsh", "name": "RTSH", "homepage": "https://rtsh.al", "lang": "sq", "feed": "https://rtsh.al/feed/" },
+    { "id": "balkanweb", "name": "BalkanWeb", "homepage": "https://www.balkanweb.com", "lang": "sq", "feed": "https://www.balkanweb.com/feed/" },
+    { "id": "euronews-al", "name": "Euronews Albania", "homepage": "https://euronews.al", "lang": "sq", "feed": "https://euronews.al/feed/" }
+  ],
+  "AM": [
+    { "id": "azatutyun", "name": "Azatutyun (RFE/RL)", "homepage": "https://www.azatutyun.am", "lang": "hy", "feed": "https://www.azatutyun.am/api/ztvv_l-vomx-tpekqky" },
+    { "id": "news-am", "name": "News.am", "homepage": "https://news.am", "lang": "hy", "feed": "https://news.am/arm/rss/" },
+    { "id": "hetq", "name": "Hetq", "homepage": "https://hetq.am", "lang": "hy", "feed": "https://hetq.am/hy/rss" }
+  ],
+  "AO": [
+    { "id": "expansao-ao", "name": "Expansão", "homepage": "https://expansao.co.ao", "lang": "pt-AO", "feed": "https://expansao.co.ao/rss" },
+    { "id": "correiokianda-ao", "name": "Correio da Kianda", "homepage": "https://correiokianda.info", "lang": "pt-AO", "feed": "https://correiokianda.info/feed/" },
+    { "id": "rna-ao", "name": "Rádio Nacional de Angola", "homepage": "https://rna.ao", "lang": "pt-AO", "feed": "https://rna.ao/rna.ao/feed/" }
+  ],
+  "AR": [
+    { "id": "clarin", "name": "Clarín", "homepage": "https://www.clarin.com", "lang": "es-AR", "feed": "https://www.clarin.com/rss/lo-ultimo/" },
+    { "id": "la-nacion-ar", "name": "La Nación", "homepage": "https://www.lanacion.com.ar", "lang": "es-AR", "feed": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml" },
+    { "id": "infobae", "name": "Infobae", "homepage": "https://www.infobae.com", "lang": "es-AR", "feed": "https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml" }
+  ],
+  "AT": [
+    { "id": "orf", "name": "ORF.at", "homepage": "https://orf.at", "lang": "de-AT", "feed": "https://rss.orf.at/news.xml" },
+    { "id": "der-standard", "name": "Der Standard", "homepage": "https://www.derstandard.at", "lang": "de-AT", "feed": "https://www.derstandard.at/rss" },
+    { "id": "die-presse", "name": "Die Presse", "homepage": "https://www.diepresse.com", "lang": "de-AT", "feed": "https://www.diepresse.com/rss/" }
+  ],
+  "AU": [
+    { "id": "abc-au", "name": "ABC News", "homepage": "https://www.abc.net.au/news", "lang": "en-AU", "feed": "https://www.abc.net.au/news/feed/51120/rss.xml" },
+    { "id": "smh", "name": "The Sydney Morning Herald", "homepage": "https://www.smh.com.au", "lang": "en-AU", "feed": "https://www.smh.com.au/rss/feed.xml" }
+  ],
+  "AZ": [
+    { "id": "apa", "name": "APA", "homepage": "https://apa.az", "lang": "az", "feed": "https://apa.az/rss" },
+    { "id": "report-az", "name": "Report.az", "homepage": "https://report.az", "lang": "az", "feed": "https://report.az/rss/" },
+    { "id": "azertac", "name": "AZERTAC", "homepage": "https://azertag.az", "lang": "az", "feed": "https://azertag.az/rss" }
+  ],
+  "BA": [
+    { "id": "klix", "name": "Klix.ba", "homepage": "https://www.klix.ba", "lang": "bs", "feed": "https://www.klix.ba/rss" },
+    { "id": "n1-ba", "name": "N1 BiH", "homepage": "https://n1info.ba", "lang": "bs", "feed": "https://n1info.ba/feed/" },
+    { "id": "avaz", "name": "Dnevni avaz", "homepage": "https://avaz.ba", "lang": "bs", "feed": "https://avaz.ba/rss" }
+  ],
+  "BB": [
+    { "id": "barbados-today", "name": "Barbados Today", "homepage": "https://barbadostoday.bb", "lang": "en-BB", "feed": "https://barbadostoday.bb/feed/" },
+    { "id": "cbc-barbados", "name": "CBC Barbados", "homepage": "https://www.cbc.bb", "lang": "en-BB", "feed": "https://www.cbc.bb/feed/" }
+  ],
+  "BD": [
+    { "id": "prothom-alo", "name": "Prothom Alo (প্রথম আলো)", "homepage": "https://www.prothomalo.com", "lang": "bn", "feed": "https://www.prothomalo.com/feed/" },
+    { "id": "dhaka-tribune", "name": "Dhaka Tribune", "homepage": "https://www.dhakatribune.com", "lang": "en-BD", "feed": "https://www.dhakatribune.com/feed/" }
+  ],
+  "BE": [
+    { "id": "vrt-nws", "name": "VRT NWS", "homepage": "https://www.vrt.be/vrtnws/nl/", "lang": "nl", "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml" },
+    { "id": "rtbf", "name": "RTBF Info", "homepage": "https://www.rtbf.be/info", "lang": "fr", "feed": "https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml" },
+    { "id": "le-soir", "name": "Le Soir", "homepage": "https://www.lesoir.be", "lang": "fr", "feed": "https://www.lesoir.be/rss2/2/cible_principale" }
+  ],
+  "BF": [
+    { "id": "lefaso-bf", "name": "Lefaso.net", "homepage": "https://lefaso.net", "lang": "fr-BF", "feed": "https://lefaso.net/spip.php?page=backend" },
+    { "id": "burkina24-bf", "name": "Burkina 24", "homepage": "https://burkina24.com", "lang": "fr-BF", "feed": "https://burkina24.com/feed/" },
+    { "id": "sidwaya-bf", "name": "Sidwaya", "homepage": "https://www.sidwaya.info", "lang": "fr-BF", "feed": "https://www.sidwaya.info/feed/" }
+  ],
+  "BG": [
+    { "id": "bnt", "name": "BNT News", "homepage": "https://bntnews.bg", "lang": "bg", "feed": "https://bntnews.bg/bg/rss/news" },
+    { "id": "dnevnik", "name": "Dnevnik", "homepage": "https://www.dnevnik.bg", "lang": "bg", "feed": "https://www.dnevnik.bg/rss/" },
+    { "id": "mediapool", "name": "Mediapool", "homepage": "https://www.mediapool.bg", "lang": "bg", "feed": "https://www.mediapool.bg/rss/" }
+  ],
+  "BH": [
+    { "id": "albilad", "name": "Al Bilad (البلاد)", "homepage": "https://www.albiladpress.com", "lang": "ar", "feed": "https://www.albiladpress.com/rss" },
+    { "id": "bahrain-mirror", "name": "Bahrain Mirror (مرآة البحرين)", "homepage": "https://bahrainmirror.com", "lang": "ar", "feed": "https://bahrainmirror.com/rss.xml" }
+  ],
+  "BI": [
+    { "id": "iwacu-bi", "name": "Iwacu", "homepage": "https://www.iwacu-burundi.org", "lang": "fr-BI", "feed": "https://www.iwacu-burundi.org/feed/" },
+    { "id": "sosmedias-bi", "name": "SOS Médias Burundi", "homepage": "https://www.sosmediasburundi.org", "lang": "fr-BI", "feed": "https://www.sosmediasburundi.org/feed/" }
+  ],
+  "BJ": [
+    { "id": "lanouvelletribune-bj", "name": "La Nouvelle Tribune", "homepage": "https://lanouvelletribune.info", "lang": "fr-BJ", "feed": "https://lanouvelletribune.info/feed/" },
+    { "id": "24haubenin-bj", "name": "24 Heures au Bénin", "homepage": "https://www.24haubenin.info", "lang": "fr-BJ", "feed": "https://www.24haubenin.info/spip.php?page=backend" },
+    { "id": "beninwebtv-bj", "name": "Bénin Web TV", "homepage": "https://beninwebtv.com", "lang": "fr-BJ", "feed": "https://beninwebtv.com/feed/" }
+  ],
+  "BO": [
+    { "id": "los-tiempos", "name": "Los Tiempos", "homepage": "https://www.lostiempos.com", "lang": "es-BO", "feed": "https://www.lostiempos.com/rss/portada" },
+    { "id": "la-razon-bo", "name": "La Razón", "homepage": "https://www.la-razon.com", "lang": "es-BO", "feed": "https://www.la-razon.com/feed/" },
+    { "id": "opinion-bo", "name": "Opinión", "homepage": "https://www.opinion.com.bo", "lang": "es-BO", "feed": "https://www.opinion.com.bo/rss" }
+  ],
+  "BR": [
+    { "id": "folha", "name": "Folha de S.Paulo", "homepage": "https://www.folha.uol.com.br", "lang": "pt-BR", "feed": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml" },
+    { "id": "g1", "name": "g1", "homepage": "https://g1.globo.com", "lang": "pt-BR", "feed": "https://g1.globo.com/rss/g1/" }
+  ],
+  "BS": [
+    { "id": "tribune242", "name": "The Tribune", "homepage": "https://www.tribune242.com", "lang": "en-BS", "feed": "https://www.tribune242.com/rss/headlines/" },
+    { "id": "eyewitness-news-bs", "name": "Eyewitness News", "homepage": "https://ewnews.com", "lang": "en-BS", "feed": "https://ewnews.com/feed" },
+    { "id": "our-news-bs", "name": "Our News", "homepage": "https://ournews.bs", "lang": "en-BS", "feed": "https://ournews.bs/feed/" }
+  ],
+  "BT": [
+    { "id": "bbs", "name": "BBS (Bhutan Broadcasting Service)", "homepage": "https://www.bbs.bt", "lang": "en-BT", "feed": "https://www.bbs.bt/feed/" }
+  ],
+  "BW": [
+    { "id": "sundaystandard-bw", "name": "Sunday Standard", "homepage": "https://www.sundaystandard.info", "lang": "en-BW", "feed": "https://www.sundaystandard.info/feed/" },
+    { "id": "weekendpost-bw", "name": "Weekend Post", "homepage": "https://www.weekendpost.co.bw", "lang": "en-BW", "feed": "https://www.weekendpost.co.bw/feed/" },
+    { "id": "thevoice-bw", "name": "The Voice", "homepage": "https://news.thevoicebw.com", "lang": "en-BW", "feed": "https://news.thevoicebw.com/feed/" }
+  ],
+  "BY": [
+    { "id": "zerkalo", "name": "Zerkalo", "homepage": "https://news.zerkalo.io", "lang": "ru", "feed": "https://news.zerkalo.io/rss/all.rss" },
+    { "id": "onliner", "name": "Onliner", "homepage": "https://www.onliner.by", "lang": "ru", "feed": "https://people.onliner.by/feed" },
+    { "id": "belta", "name": "BelTA", "homepage": "https://www.belta.by", "lang": "ru", "feed": "https://www.belta.by/rss/" }
+  ],
+  "BZ": [
+    { "id": "amandala", "name": "Amandala", "homepage": "https://amandala.com.bz", "lang": "en-BZ", "feed": "https://amandala.com.bz/news/feed/" },
+    { "id": "breaking-belize-news", "name": "Breaking Belize News", "homepage": "https://www.breakingbelizenews.com", "lang": "en-BZ", "feed": "https://www.breakingbelizenews.com/feed/" },
+    { "id": "7news-belize", "name": "7 News Belize", "homepage": "https://www.7newsbelize.com", "lang": "en-BZ", "feed": "https://www.7newsbelize.com/rss.php" }
+  ],
+  "CA": [
+    { "id": "globe-and-mail", "name": "The Globe and Mail", "homepage": "https://www.theglobeandmail.com", "lang": "en-CA", "feed": "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/canada/" },
+    { "id": "ctv-news", "name": "CTV News", "homepage": "https://www.ctvnews.ca", "lang": "en-CA", "feed": "https://www.ctvnews.ca/arc/outboundfeeds/rss/?outputType=xml" },
+    { "id": "radio-canada", "name": "Radio-Canada Info", "homepage": "https://ici.radio-canada.ca/info", "lang": "fr-CA", "feed": "https://ici.radio-canada.ca/rss/4159" }
+  ],
+  "CD": [
+    { "id": "radiookapi-cd", "name": "Radio Okapi", "homepage": "https://www.radiookapi.net", "lang": "fr-CD", "feed": "https://www.radiookapi.net/rss.xml" },
+    { "id": "politico-cd", "name": "Politico.cd", "homepage": "https://www.politico.cd", "lang": "fr-CD", "feed": "https://www.politico.cd/feed/" },
+    { "id": "congoindependant-cd", "name": "Congo Indépendant", "homepage": "https://www.congoindependant.com", "lang": "fr-CD", "feed": "https://www.congoindependant.com/feed/" }
+  ],
+  "CF": [
+    { "id": "corbeaunews-cf", "name": "Corbeau News Centrafrique", "homepage": "https://corbeaunews-centrafrique.org", "lang": "fr-CF", "feed": "https://corbeaunews-centrafrique.org/feed/" },
+    { "id": "oubangui-cf", "name": "Oubangui Médias", "homepage": "https://oubanguimedias.com", "lang": "fr-CF", "feed": "https://oubanguimedias.com/feed/" },
+    { "id": "radiondeke-cf", "name": "Radio Ndeke Luka", "homepage": "https://www.radiondekeluka.org", "lang": "fr-CF", "feed": "https://www.radiondekeluka.org/feed/" }
+  ],
+  "CG": [
+    { "id": "adiac-cg", "name": "Les Dépêches de Brazzaville", "homepage": "https://www.adiac-congo.com", "lang": "fr-CG", "feed": "https://www.adiac-congo.com/rss.xml" }
+  ],
+  "CH": [
+    { "id": "srf", "name": "SRF News", "homepage": "https://www.srf.ch/news", "lang": "de-CH", "feed": "https://www.srf.ch/news/bnf/rss/1646" },
+    { "id": "nzz", "name": "Neue Zürcher Zeitung", "homepage": "https://www.nzz.ch", "lang": "de-CH", "feed": "https://www.nzz.ch/recent.rss" },
+    { "id": "rts", "name": "RTS Info", "homepage": "https://www.rts.ch/info/", "lang": "fr-CH", "feed": "https://www.rts.ch/info/?format=rss/news" }
+  ],
+  "CI": [
+    { "id": "linfodrome-ci", "name": "L'Infodrome", "homepage": "https://www.linfodrome.com", "lang": "fr-CI", "feed": "https://www.linfodrome.com/rss" },
+    { "id": "rti-ci", "name": "RTI Info", "homepage": "https://www.rti.info", "lang": "fr-CI", "feed": "https://www.rti.info/feed" },
+    { "id": "connectionivoirienne-ci", "name": "Connectionivoirienne", "homepage": "https://www.connectionivoirienne.net", "lang": "fr-CI", "feed": "https://www.connectionivoirienne.net/feed/" }
+  ],
+  "CL": [
+    { "id": "la-tercera", "name": "La Tercera", "homepage": "https://www.latercera.com", "lang": "es-CL", "feed": "https://www.latercera.com/arc/outboundfeeds/rss/?outputType=xml" },
+    { "id": "biobiochile", "name": "BioBioChile", "homepage": "https://www.biobiochile.cl", "lang": "es-CL", "feed": "https://www.biobiochile.cl/static/feed-rss" },
+    { "id": "cooperativa", "name": "Cooperativa", "homepage": "https://www.cooperativa.cl", "lang": "es-CL", "feed": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss_3___1.xml" }
+  ],
+  "CM": [
+    { "id": "actucameroun-cm", "name": "Actu Cameroun", "homepage": "https://actucameroun.com", "lang": "fr-CM", "feed": "https://actucameroun.com/feed/" },
+    { "id": "journalducameroun-cm", "name": "Journal du Cameroun", "homepage": "https://www.journalducameroun.com", "lang": "fr-CM", "feed": "https://www.journalducameroun.com/feed/" },
+    { "id": "mimimefoinfos-cm", "name": "Mimi Mefo Info", "homepage": "https://mimimefoinfos.com", "lang": "en-CM", "feed": "https://mimimefoinfos.com/feed/" }
+  ],
+  "CN": [
+    { "id": "chinanews", "name": "China News Service (中国新闻网)", "homepage": "https://www.chinanews.com.cn", "lang": "zh-CN", "feed": "https://www.chinanews.com.cn/rss/scroll-news.xml" },
+    { "id": "xinhua", "name": "Xinhua (新华网)", "homepage": "http://www.news.cn", "lang": "zh-CN", "feed": "http://www.news.cn/politics/news_politics.xml" },
+    { "id": "cgtn", "name": "CGTN", "homepage": "https://www.cgtn.com", "lang": "en", "feed": "https://www.cgtn.com/subscribe/rss/section/china.xml" }
+  ],
+  "CO": [
+    { "id": "el-tiempo", "name": "El Tiempo", "homepage": "https://www.eltiempo.com", "lang": "es-CO", "feed": "https://www.eltiempo.com/rss/colombia.xml" },
+    { "id": "semana", "name": "Semana", "homepage": "https://www.semana.com", "lang": "es-CO", "feed": "https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml" },
+    { "id": "el-colombiano", "name": "El Colombiano", "homepage": "https://www.elcolombiano.com", "lang": "es-CO", "feed": "https://www.elcolombiano.com/rss/portada.xml" }
+  ],
+  "CR": [
+    { "id": "la-nacion-cr", "name": "La Nación", "homepage": "https://www.nacion.com", "lang": "es-CR", "feed": "https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml" },
+    { "id": "semanario-universidad", "name": "Semanario Universidad", "homepage": "https://semanariouniversidad.com", "lang": "es-CR", "feed": "https://semanariouniversidad.com/feed/" },
+    { "id": "el-observador-cr", "name": "El Observador", "homepage": "https://observador.cr", "lang": "es-CR", "feed": "https://observador.cr/feed/" }
+  ],
+  "CU": [
+    { "id": "cubadebate", "name": "Cubadebate", "homepage": "http://www.cubadebate.cu", "lang": "es-CU", "feed": "http://www.cubadebate.cu/feed/" },
+    { "id": "14ymedio", "name": "14ymedio", "homepage": "https://www.14ymedio.com", "lang": "es-CU", "feed": "https://www.14ymedio.com/rss/" },
+    { "id": "cibercuba", "name": "CiberCuba", "homepage": "https://www.cibercuba.com", "lang": "es-CU", "feed": "https://www.cibercuba.com/rss.xml" }
+  ],
+  "CV": [
+    { "id": "expressodasilhas-cv", "name": "Expresso das Ilhas", "homepage": "https://expressodasilhas.cv", "lang": "pt-CV", "feed": "https://expressodasilhas.cv/rss" },
+    { "id": "anacao-cv", "name": "A Nação", "homepage": "https://anacao.cv", "lang": "pt-CV", "feed": "https://anacao.cv/feed/" }
+  ],
+  "CY": [
+    { "id": "philenews", "name": "Phileleftheros", "homepage": "https://www.philenews.com", "lang": "el", "feed": "https://www.philenews.com/feed/" },
+    { "id": "cyprus-mail", "name": "Cyprus Mail", "homepage": "https://cyprus-mail.com", "lang": "en", "feed": "https://cyprus-mail.com/feed/" },
+    { "id": "sigmalive", "name": "SigmaLive", "homepage": "https://www.sigmalive.com", "lang": "el", "feed": "https://www.sigmalive.com/rss" }
+  ],
+  "CZ": [
+    { "id": "ct24", "name": "ČT24", "homepage": "https://ct24.ceskatelevize.cz", "lang": "cs", "feed": "https://ct24.ceskatelevize.cz/rss/hlavni-zpravy" },
+    { "id": "novinky", "name": "Novinky.cz", "homepage": "https://www.novinky.cz", "lang": "cs", "feed": "https://www.novinky.cz/rss" }
+  ],
+  "DE": [
+    { "id": "tagesschau", "name": "tagesschau", "homepage": "https://www.tagesschau.de", "lang": "de", "feed": "https://www.tagesschau.de/xml/rss2" },
+    { "id": "spiegel", "name": "Der Spiegel", "homepage": "https://www.spiegel.de", "lang": "de", "feed": "https://www.spiegel.de/schlagzeilen/index.rss" }
+  ],
+  "DJ": [
+    { "id": "lanation-dj", "name": "La Nation", "homepage": "https://www.lanation.dj", "lang": "fr-DJ", "feed": "https://www.lanation.dj/feed/" },
+    { "id": "rtd-dj", "name": "RTD", "homepage": "https://www.rtd.dj", "lang": "fr-DJ", "feed": "https://www.rtd.dj/feed/" }
+  ],
+  "DK": [
+    { "id": "dr", "name": "DR Nyheder", "homepage": "https://www.dr.dk/nyheder", "lang": "da", "feed": "https://www.dr.dk/nyheder/service/feeds/senestenyt" },
+    { "id": "politiken", "name": "Politiken", "homepage": "https://politiken.dk", "lang": "da", "feed": "https://politiken.dk/rss/senestenyt.rss" },
+    { "id": "berlingske", "name": "Berlingske", "homepage": "https://www.berlingske.dk", "lang": "da", "feed": "https://www.berlingske.dk/content/rss" }
+  ],
+  "DM": [
+    { "id": "dominica-news-online", "name": "Dominica News Online", "homepage": "https://dominicanewsonline.com", "lang": "en-DM", "feed": "https://dominicanewsonline.com/news/feed/" },
+    { "id": "emo-news", "name": "Emo News", "homepage": "https://emonewsdm.com", "lang": "en-DM", "feed": "https://emonewsdm.com/feed/" }
+  ],
+  "DO": [
+    { "id": "diario-libre", "name": "Diario Libre", "homepage": "https://www.diariolibre.com", "lang": "es-DO", "feed": "https://www.diariolibre.com/rss/portada.xml" },
+    { "id": "el-dia-do", "name": "El Día", "homepage": "https://eldia.com.do", "lang": "es-DO", "feed": "https://eldia.com.do/feed/" },
+    { "id": "n-digital", "name": "N Digital", "homepage": "https://n.com.do", "lang": "es-DO", "feed": "https://n.com.do/feed/" }
+  ],
+  "DZ": [
+    { "id": "echorouk", "name": "Echorouk (الشروق)", "homepage": "https://www.echoroukonline.com", "lang": "ar", "feed": "https://www.echoroukonline.com/feed" },
+    { "id": "tsa-algerie", "name": "TSA Algérie", "homepage": "https://www.tsa-algerie.com", "lang": "fr-DZ", "feed": "https://www.tsa-algerie.com/feed/" },
+    { "id": "ennahar", "name": "Ennahar (النهار)", "homepage": "https://www.ennaharonline.com", "lang": "ar", "feed": "https://www.ennaharonline.com/feed/" }
+  ],
+  "EC": [
+    { "id": "el-universo", "name": "El Universo", "homepage": "https://www.eluniverso.com", "lang": "es-EC", "feed": "https://www.eluniverso.com/arc/outboundfeeds/rss/?outputType=xml" },
+    { "id": "el-comercio-ec", "name": "El Comercio", "homepage": "https://www.elcomercio.com", "lang": "es-EC", "feed": "https://www.elcomercio.com/feed/" },
+    { "id": "expreso-ec", "name": "Expreso", "homepage": "https://www.expreso.ec", "lang": "es-EC", "feed": "https://www.expreso.ec/rss/portada.xml" }
+  ],
+  "EE": [
+    { "id": "err", "name": "ERR News", "homepage": "https://www.err.ee", "lang": "et", "feed": "https://www.err.ee/rss" },
+    { "id": "postimees", "name": "Postimees", "homepage": "https://www.postimees.ee", "lang": "et", "feed": "https://www.postimees.ee/rss" },
+    { "id": "ohtuleht", "name": "Õhtuleht", "homepage": "https://www.ohtuleht.ee", "lang": "et", "feed": "https://www.ohtuleht.ee/rss" }
+  ],
+  "EG": [
+    { "id": "almasryalyoum", "name": "Al-Masry Al-Youm (المصري اليوم)", "homepage": "https://www.almasryalyoum.com", "lang": "ar", "feed": "https://www.almasryalyoum.com/rss/rssfeeds" },
+    { "id": "masrawy", "name": "Masrawy (مصراوي)", "homepage": "https://www.masrawy.com", "lang": "ar", "feed": "https://www.masrawy.com/rss/feed/25/news" },
+    { "id": "egypt-independent", "name": "Egypt Independent", "homepage": "https://www.egyptindependent.com", "lang": "en", "feed": "https://www.egyptindependent.com/feed/" }
+  ],
+  "ER": [
+    { "id": "shabait-er", "name": "Shabait", "homepage": "https://shabait.com", "lang": "en-ER", "feed": "https://shabait.com/feed/" }
+  ],
+  "ES": [
+    { "id": "el-pais", "name": "El País", "homepage": "https://elpais.com", "lang": "es", "feed": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada" },
+    { "id": "el-mundo", "name": "El Mundo", "homepage": "https://www.elmundo.es", "lang": "es", "feed": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml" }
+  ],
+  "ET": [
+    { "id": "fana-et", "name": "Fana Broadcasting", "homepage": "https://www.fanabc.com", "lang": "am", "feed": "https://www.fanabc.com/feed/" },
+    { "id": "reporter-et", "name": "The Reporter", "homepage": "https://www.thereporterethiopia.com", "lang": "en-ET", "feed": "https://www.thereporterethiopia.com/feed/" },
+    { "id": "ethiopiaobserver-et", "name": "Ethiopia Observer", "homepage": "https://www.ethiopiaobserver.com", "lang": "en-ET", "feed": "https://www.ethiopiaobserver.com/feed/" }
+  ],
+  "FI": [
+    { "id": "yle", "name": "Yle Uutiset", "homepage": "https://yle.fi/uutiset", "lang": "fi", "feed": "https://yle.fi/rss/uutiset/paauutiset" },
+    { "id": "hs", "name": "Helsingin Sanomat", "homepage": "https://www.hs.fi", "lang": "fi", "feed": "https://www.hs.fi/rss/tuoreimmat.xml" },
+    { "id": "iltalehti", "name": "Iltalehti", "homepage": "https://www.iltalehti.fi", "lang": "fi", "feed": "https://www.iltalehti.fi/rss/uutiset.xml" }
+  ],
+  "FJ": [
+    { "id": "fbc-news", "name": "FBC News", "homepage": "https://www.fbcnews.com.fj", "lang": "en-FJ", "feed": "https://www.fbcnews.com.fj/feed/" }
+  ],
+  "FR": [
+    { "id": "le-monde", "name": "Le Monde", "homepage": "https://www.lemonde.fr", "lang": "fr", "feed": "https://www.lemonde.fr/rss/une.xml" },
+    { "id": "le-figaro", "name": "Le Figaro", "homepage": "https://www.lefigaro.fr", "lang": "fr", "feed": "https://www.lefigaro.fr/rss/figaro_actualites.xml" },
+    { "id": "france-24", "name": "France 24", "homepage": "https://www.france24.com/fr/", "lang": "fr", "feed": "https://www.france24.com/fr/rss" }
+  ],
+  "GA": [
+    { "id": "gabonreview-ga", "name": "Gabonreview", "homepage": "https://www.gabonreview.com", "lang": "fr-GA", "feed": "https://www.gabonreview.com/feed/" },
+    { "id": "gabonactu-ga", "name": "Gabonactu", "homepage": "https://gabonactu.com", "lang": "fr-GA", "feed": "https://gabonactu.com/feed/" },
+    { "id": "union-ga", "name": "L'Union", "homepage": "https://www.union.sonapresse.com", "lang": "fr-GA", "feed": "https://www.union.sonapresse.com/rss.xml" }
+  ],
+  "GB": [
+    { "id": "bbc-news", "name": "BBC News", "homepage": "https://www.bbc.co.uk/news", "lang": "en-GB", "feed": "https://feeds.bbci.co.uk/news/rss.xml" },
+    { "id": "the-guardian", "name": "The Guardian", "homepage": "https://www.theguardian.com/uk", "lang": "en-GB", "feed": "https://www.theguardian.com/uk/rss" },
+    { "id": "sky-news", "name": "Sky News", "homepage": "https://news.sky.com", "lang": "en-GB", "feed": "https://feeds.skynews.com/feeds/rss/home.xml" }
+  ],
+  "GD": [
+    { "id": "now-grenada", "name": "NOW Grenada", "homepage": "https://nowgrenada.com", "lang": "en-GD", "feed": "https://nowgrenada.com/feed/" }
+  ],
+  "GE": [
+    { "id": "civil-ge", "name": "Civil.ge", "homepage": "https://civil.ge", "lang": "en", "feed": "https://civil.ge/feed" },
+    { "id": "netgazeti", "name": "Netgazeti", "homepage": "https://netgazeti.ge", "lang": "ka", "feed": "https://netgazeti.ge/feed/" }
+  ],
+  "GH": [
+    { "id": "myjoyonline-gh", "name": "MyJoyOnline", "homepage": "https://www.myjoyonline.com", "lang": "en-GH", "feed": "https://www.myjoyonline.com/feed/" },
+    { "id": "graphic-gh", "name": "Graphic Online", "homepage": "https://www.graphic.com.gh", "lang": "en-GH", "feed": "https://www.graphic.com.gh/news.feed?type=rss" },
+    { "id": "3news-gh", "name": "3News", "homepage": "https://3news.com", "lang": "en-GH", "feed": "https://3news.com/feed/" }
+  ],
+  "GM": [
+    { "id": "thepoint-gm", "name": "The Point", "homepage": "https://thepoint.gm", "lang": "en-GM", "feed": "https://thepoint.gm/posts/rss/xml" },
+    { "id": "standard-gm", "name": "The Standard", "homepage": "https://standard.gm", "lang": "en-GM", "feed": "https://standard.gm/feed/" }
+  ],
+  "GN": [
+    { "id": "guineenews-gn", "name": "Guinéenews", "homepage": "https://guineenews.org", "lang": "fr-GN", "feed": "https://guineenews.org/feed/" },
+    { "id": "guineematin-gn", "name": "Guineematin", "homepage": "https://guineematin.com", "lang": "fr-GN", "feed": "https://guineematin.com/feed/" },
+    { "id": "africaguinee-gn", "name": "Africaguinee", "homepage": "https://www.africaguinee.com", "lang": "fr-GN", "feed": "https://www.africaguinee.com/feed/" }
+  ],
+  "GQ": [
+    { "id": "ahoraeg-gq", "name": "Ahora EG", "homepage": "https://ahoraeg.com", "lang": "es-GQ", "feed": "https://ahoraeg.com/feed/" },
+    { "id": "diariorombe-gq", "name": "Diario Rombe", "homepage": "https://www.diariorombe.es", "lang": "es-GQ", "feed": "https://www.diariorombe.es/feed/" }
+  ],
+  "GR": [
+    { "id": "kathimerini", "name": "Kathimerini", "homepage": "https://www.kathimerini.gr", "lang": "el", "feed": "https://www.kathimerini.gr/infeeds/rss/nx-rss-feed.xml" },
+    { "id": "ert", "name": "ERT News", "homepage": "https://www.ertnews.gr", "lang": "el", "feed": "https://www.ertnews.gr/feed/" },
+    { "id": "protothema", "name": "Proto Thema", "homepage": "https://www.protothema.gr", "lang": "el", "feed": "https://www.protothema.gr/rss/" }
+  ],
+  "GT": [
+    { "id": "prensa-libre", "name": "Prensa Libre", "homepage": "https://www.prensalibre.com", "lang": "es-GT", "feed": "https://www.prensalibre.com/feed/" },
+    { "id": "republica-gt", "name": "República", "homepage": "https://republica.gt", "lang": "es-GT", "feed": "https://republica.gt/feed/" },
+    { "id": "la-hora-gt", "name": "La Hora", "homepage": "https://lahora.gt", "lang": "es-GT", "feed": "https://lahora.gt/feed/" }
+  ],
+  "GW": [
+    { "id": "odemocrata-gw", "name": "O Democrata", "homepage": "https://www.odemocratagb.com", "lang": "pt-GW", "feed": "https://www.odemocratagb.com/?feed=rss2" }
+  ],
+  "GY": [
+    { "id": "demerara-waves", "name": "Demerara Waves", "homepage": "https://demerarawaves.com", "lang": "en-GY", "feed": "https://demerarawaves.com/feed/" },
+    { "id": "guyana-times", "name": "Guyana Times", "homepage": "https://guyanatimesgy.com", "lang": "en-GY", "feed": "https://guyanatimesgy.com/feed/" },
+    { "id": "inews-guyana", "name": "iNews Guyana", "homepage": "https://www.inewsguyana.com", "lang": "en-GY", "feed": "https://www.inewsguyana.com/feed/" }
+  ],
+  "HK": [
+    { "id": "rthk", "name": "RTHK (香港電台)", "homepage": "https://news.rthk.hk", "lang": "zh-HK", "feed": "https://rthk.hk/rthk/news/rss/c_expressnews_clocal.xml" },
+    { "id": "ming-pao", "name": "Ming Pao (明報)", "homepage": "https://news.mingpao.com", "lang": "zh-HK", "feed": "https://news.mingpao.com/rss/pns/s00001.xml" },
+    { "id": "scmp", "name": "South China Morning Post", "homepage": "https://www.scmp.com", "lang": "en-HK", "feed": "https://www.scmp.com/rss/91/feed" }
+  ],
+  "HN": [
+    { "id": "la-prensa-hn", "name": "La Prensa", "homepage": "https://www.laprensa.hn", "lang": "es-HN", "feed": "https://www.laprensa.hn/rss/portada" },
+    { "id": "el-heraldo-hn", "name": "El Heraldo", "homepage": "https://www.elheraldo.hn", "lang": "es-HN", "feed": "https://www.elheraldo.hn/rss/honduras" },
+    { "id": "proceso-digital-hn", "name": "Proceso Digital", "homepage": "https://proceso.hn", "lang": "es-HN", "feed": "https://proceso.hn/feed/" }
+  ],
+  "HR": [
+    { "id": "hrt", "name": "HRT Vijesti", "homepage": "https://www.hrt.hr", "lang": "hr", "feed": "https://www.hrt.hr/rss/vijesti" },
+    { "id": "index-hr", "name": "Index.hr", "homepage": "https://www.index.hr", "lang": "hr", "feed": "https://www.index.hr/rss" },
+    { "id": "jutarnji", "name": "Jutarnji list", "homepage": "https://www.jutarnji.hr", "lang": "hr", "feed": "https://www.jutarnji.hr/feed" }
+  ],
+  "HT": [
+    { "id": "le-nouvelliste", "name": "Le Nouvelliste", "homepage": "https://lenouvelliste.com", "lang": "fr-HT", "feed": "https://lenouvelliste.com/rss" },
+    { "id": "haiti-libre", "name": "HaïtiLibre", "homepage": "https://www.haitilibre.com", "lang": "fr-HT", "feed": "https://www.haitilibre.com/rss-flash.xml" },
+    { "id": "juno7", "name": "Juno7", "homepage": "https://www.juno7.ht", "lang": "fr-HT", "feed": "https://www.juno7.ht/feed/" }
+  ],
+  "HU": [
+    { "id": "telex", "name": "Telex", "homepage": "https://telex.hu", "lang": "hu", "feed": "https://telex.hu/rss" },
+    { "id": "hvg", "name": "HVG", "homepage": "https://hvg.hu", "lang": "hu", "feed": "https://hvg.hu/rss" },
+    { "id": "index-hu", "name": "Index", "homepage": "https://index.hu", "lang": "hu", "feed": "https://index.hu/24ora/rss/" }
+  ],
+  "ID": [
+    { "id": "detik", "name": "detikcom", "homepage": "https://www.detik.com", "lang": "id", "feed": "https://news.detik.com/rss" },
+    { "id": "tempo", "name": "Tempo", "homepage": "https://www.tempo.co", "lang": "id", "feed": "https://rss.tempo.co/" },
+    { "id": "antara", "name": "Antara", "homepage": "https://www.antaranews.com", "lang": "id", "feed": "https://www.antaranews.com/rss/terkini.xml" }
+  ],
+  "IE": [
+    { "id": "rte", "name": "RTÉ News", "homepage": "https://www.rte.ie/news/", "lang": "en-IE", "feed": "https://www.rte.ie/feeds/rss/?index=/news/" },
+    { "id": "irish-times", "name": "The Irish Times", "homepage": "https://www.irishtimes.com", "lang": "en-IE", "feed": "https://www.irishtimes.com/arc/outboundfeeds/feed-irish-news/?outputType=xml" },
+    { "id": "irish-independent", "name": "Irish Independent", "homepage": "https://www.independent.ie", "lang": "en-IE", "feed": "https://www.independent.ie/rss" }
+  ],
+  "IL": [
+    { "id": "ynet", "name": "Ynet (ynet)", "homepage": "https://www.ynet.co.il", "lang": "he", "feed": "https://www.ynet.co.il/Integration/StoryRss2.xml" },
+    { "id": "maariv", "name": "Maariv (מעריב)", "homepage": "https://www.maariv.co.il", "lang": "he", "feed": "https://www.maariv.co.il/Rss/RssChadashot" },
+    { "id": "times-of-israel", "name": "The Times of Israel", "homepage": "https://www.timesofisrael.com", "lang": "en", "feed": "https://www.timesofisrael.com/feed/" }
+  ],
+  "IN": [
+    { "id": "the-hindu", "name": "The Hindu", "homepage": "https://www.thehindu.com", "lang": "en-IN", "feed": "https://www.thehindu.com/news/feeder/default.rss" },
+    { "id": "times-of-india", "name": "The Times of India", "homepage": "https://timesofindia.indiatimes.com", "lang": "en-IN", "feed": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms" }
+  ],
+  "IQ": [
+    { "id": "alsumaria", "name": "Alsumaria (السومرية)", "homepage": "https://www.alsumaria.tv", "lang": "ar", "feed": "https://www.alsumaria.tv/Rss/iraq-latest-news/ar" },
+    { "id": "almada", "name": "Al Mada (المدى)", "homepage": "https://almadapaper.net", "lang": "ar", "feed": "https://almadapaper.net/rss" },
+    { "id": "baghdad-today", "name": "Baghdad Today (بغداد اليوم)", "homepage": "https://baghdadtoday.news", "lang": "ar", "feed": "https://baghdadtoday.news/rss" }
+  ],
+  "IR": [
+    { "id": "hamshahri", "name": "Hamshahri Online (همشهری)", "homepage": "https://www.hamshahrionline.ir", "lang": "fa", "feed": "https://www.hamshahrionline.ir/rss" },
+    { "id": "khabaronline", "name": "Khabar Online (خبرآنلاین)", "homepage": "https://www.khabaronline.ir", "lang": "fa", "feed": "https://www.khabaronline.ir/rss" },
+    { "id": "iranintl", "name": "Iran International (ایران اینترنشنال)", "homepage": "https://www.iranintl.com", "lang": "fa", "feed": "https://www.iranintl.com/fa/feed" }
+  ],
+  "IS": [
+    { "id": "ruv", "name": "RÚV", "homepage": "https://www.ruv.is", "lang": "is", "feed": "https://www.ruv.is/rss/frettir" },
+    { "id": "mbl", "name": "mbl.is", "homepage": "https://www.mbl.is", "lang": "is", "feed": "https://www.mbl.is/feeds/fp/" },
+    { "id": "visir", "name": "Vísir", "homepage": "https://www.visir.is", "lang": "is", "feed": "https://www.visir.is/rss/allt" }
+  ],
+  "IT": [
+    { "id": "repubblica", "name": "la Repubblica", "homepage": "https://www.repubblica.it", "lang": "it", "feed": "https://www.repubblica.it/rss/homepage/rss2.0.xml" },
+    { "id": "ansa", "name": "ANSA", "homepage": "https://www.ansa.it", "lang": "it", "feed": "https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml" }
+  ],
+  "JM": [
+    { "id": "jamaica-gleaner", "name": "The Gleaner", "homepage": "https://jamaica-gleaner.com", "lang": "en-JM", "feed": "https://jamaica-gleaner.com/feed/rss.xml" },
+    { "id": "jamaica-observer", "name": "Jamaica Observer", "homepage": "https://www.jamaicaobserver.com", "lang": "en-JM", "feed": "https://www.jamaicaobserver.com/feed/" },
+    { "id": "nationwide-90fm", "name": "Nationwide 90FM", "homepage": "https://nationwideradiojm.com", "lang": "en-JM", "feed": "https://nationwideradiojm.com/feed/" }
+  ],
+  "JO": [
+    { "id": "roya", "name": "Roya News (رؤيا)", "homepage": "https://royanews.tv", "lang": "ar", "feed": "https://royanews.tv/rss" },
+    { "id": "alwakeel", "name": "Alwakeel News (الوكيل)", "homepage": "https://alwakeelnews.com", "lang": "ar", "feed": "https://alwakeelnews.com/rss" },
+    { "id": "hala", "name": "Hala Akhbar (هلا أخبار)", "homepage": "https://hala.jo", "lang": "ar", "feed": "https://hala.jo/feed/" }
+  ],
+  "JP": [
+    { "id": "nhk", "name": "NHK", "homepage": "https://news.web.nhk/newsweb", "lang": "ja", "feed": "https://news.web.nhk/n-data/conf/na/rss/cat0.xml" },
+    { "id": "asahi", "name": "朝日新聞 (Asahi Shimbun)", "homepage": "https://www.asahi.com", "lang": "ja", "feed": "https://www.asahi.com/rss/asahi/newsheadlines.rdf" },
+    { "id": "japan-times", "name": "The Japan Times", "homepage": "https://www.japantimes.co.jp", "lang": "en", "feed": "https://www.japantimes.co.jp/feed/" }
+  ],
+  "KE": [
+    { "id": "nation-ke", "name": "Nation", "homepage": "https://nation.africa/kenya", "lang": "en-KE", "feed": "https://nation.africa/kenya/rss.xml" },
+    { "id": "standard-ke", "name": "The Standard", "homepage": "https://www.standardmedia.co.ke", "lang": "en-KE", "feed": "https://www.standardmedia.co.ke/rss/headlines.php" },
+    { "id": "citizen-ke", "name": "Citizen Digital", "homepage": "https://www.citizen.digital", "lang": "en-KE", "feed": "https://www.citizen.digital/feed.xml" }
+  ],
+  "KG": [
+    { "id": "24-kg", "name": "24.kg", "homepage": "https://24.kg", "lang": "ru", "feed": "https://24.kg/rss/" },
+    { "id": "kaktus-media", "name": "Kaktus.media", "homepage": "https://kaktus.media", "lang": "ru", "feed": "https://kaktus.media/?rss" },
+    { "id": "kloop", "name": "Kloop", "homepage": "https://kloop.kg", "lang": "ru", "feed": "https://kloop.kg/feed/" }
+  ],
+  "KH": [
+    { "id": "khmer-times", "name": "Khmer Times", "homepage": "https://www.khmertimeskh.com", "lang": "en-KH", "feed": "https://www.khmertimeskh.com/feed/" },
+    { "id": "kampuchea-thmey", "name": "Kampuchea Thmey", "homepage": "https://www.kampucheathmey.com", "lang": "km", "feed": "https://www.kampucheathmey.com/feed" },
+    { "id": "camboja-news", "name": "CamboJA News", "homepage": "https://cambojanews.com", "lang": "en-KH", "feed": "https://cambojanews.com/feed/" }
+  ],
+  "KM": [
+    { "id": "comoresinfos-km", "name": "Comores Infos", "homepage": "https://www.comoresinfos.net", "lang": "fr-KM", "feed": "https://www.comoresinfos.net/feed/" }
+  ],
+  "KN": [
+    { "id": "zizonline", "name": "ZIZ Online", "homepage": "https://zizonline.com", "lang": "en-KN", "feed": "https://zizonline.com/feed/" },
+    { "id": "sknis", "name": "SKNIS", "homepage": "https://www.sknis.gov.kn", "lang": "en-KN", "feed": "https://www.sknis.gov.kn/feed/" }
+  ],
+  "KR": [
+    { "id": "yonhap", "name": "Yonhap News (연합뉴스)", "homepage": "https://www.yna.co.kr", "lang": "ko", "feed": "https://www.yna.co.kr/rss/news.xml" },
+    { "id": "chosun-ilbo", "name": "Chosun Ilbo (조선일보)", "homepage": "https://www.chosun.com", "lang": "ko", "feed": "https://www.chosun.com/arc/outboundfeeds/rss/?outputType=xml" },
+    { "id": "hankyoreh", "name": "Hankyoreh (한겨레)", "homepage": "https://www.hani.co.kr", "lang": "ko", "feed": "https://www.hani.co.kr/rss/" }
+  ],
+  "KW": [
+    { "id": "alrai-kw", "name": "Al Rai (الراي)", "homepage": "https://www.alraimedia.com", "lang": "ar", "feed": "https://www.alraimedia.com/rssFeed/0" },
+    { "id": "aljarida", "name": "Al Jarida (الجريدة)", "homepage": "https://www.aljarida.com", "lang": "ar", "feed": "https://www.aljarida.com/rssFeed/0" },
+    { "id": "arab-times", "name": "Arab Times", "homepage": "https://www.arabtimesonline.com", "lang": "en", "feed": "https://www.arabtimesonline.com/rssFeed/0" }
+  ],
+  "KZ": [
+    { "id": "tengrinews", "name": "Tengrinews", "homepage": "https://tengrinews.kz", "lang": "ru", "feed": "https://tengrinews.kz/news.rss" },
+    { "id": "nur-kz", "name": "NUR.KZ", "homepage": "https://www.nur.kz", "lang": "ru", "feed": "https://www.nur.kz/rss/all.rss" },
+    { "id": "kazinform", "name": "Kazinform", "homepage": "https://www.inform.kz", "lang": "ru", "feed": "https://www.inform.kz/rss/ru.xml" }
+  ],
+  "LA": [
+    { "id": "laotian-times", "name": "Laotian Times", "homepage": "https://laotiantimes.com", "lang": "en-LA", "feed": "https://laotiantimes.com/feed/" },
+    { "id": "lao-post", "name": "Laopost", "homepage": "https://laopost.com", "lang": "lo", "feed": "https://laopost.com/feed" }
+  ],
+  "LB": [
+    { "id": "annahar", "name": "Annahar (النهار)", "homepage": "https://www.annahar.com", "lang": "ar", "feed": "https://www.annahar.com/rss" },
+    { "id": "lbci", "name": "LBCI", "homepage": "https://www.lbcgroup.tv", "lang": "ar", "feed": "https://www.lbcgroup.tv/Rss/latest-news/ar" },
+    { "id": "almodon", "name": "Al Modon (المدن)", "homepage": "https://www.almodon.com", "lang": "ar", "feed": "https://www.almodon.com/rss" }
+  ],
+  "LC": [
+    { "id": "st-lucia-times", "name": "St Lucia Times", "homepage": "https://stluciatimes.com", "lang": "en-LC", "feed": "https://stluciatimes.com/feed/" },
+    { "id": "the-voice-lc", "name": "The Voice", "homepage": "https://thevoiceslu.com", "lang": "en-LC", "feed": "https://thevoiceslu.com/feed/" }
+  ],
+  "LK": [
+    { "id": "ada-derana", "name": "Ada Derana", "homepage": "https://www.adaderana.lk", "lang": "en-LK", "feed": "http://www.adaderana.lk/rss.php" },
+    { "id": "daily-mirror-lk", "name": "Daily Mirror", "homepage": "https://www.dailymirror.lk", "lang": "en-LK", "feed": "https://www.dailymirror.lk/rss/breaking_news/108" },
+    { "id": "newswire-lk", "name": "Newswire", "homepage": "https://www.newswire.lk", "lang": "en-LK", "feed": "https://www.newswire.lk/feed/" }
+  ],
+  "LR": [
+    { "id": "frontpage-lr", "name": "FrontPage Africa", "homepage": "https://frontpageafricaonline.com", "lang": "en-LR", "feed": "https://frontpageafricaonline.com/feed/" },
+    { "id": "newdawn-lr", "name": "The New Dawn", "homepage": "https://thenewdawnliberia.com", "lang": "en-LR", "feed": "https://thenewdawnliberia.com/feed/" },
+    { "id": "smartnews-lr", "name": "Smart News Liberia", "homepage": "https://smartnewsliberia.com", "lang": "en-LR", "feed": "https://smartnewsliberia.com/feed/" }
+  ],
+  "LS": [
+    { "id": "publiceye-ls", "name": "Public Eye", "homepage": "https://publiceyenews.com", "lang": "en-LS", "feed": "https://publiceyenews.com/feed/" }
+  ],
+  "LT": [
+    { "id": "lrt", "name": "LRT", "homepage": "https://www.lrt.lt", "lang": "lt", "feed": "https://www.lrt.lt/?rss" },
+    { "id": "delfi-lt", "name": "Delfi", "homepage": "https://www.delfi.lt", "lang": "lt", "feed": "https://www.delfi.lt/rss/feeds/daily.xml" },
+    { "id": "15min", "name": "15min", "homepage": "https://www.15min.lt", "lang": "lt", "feed": "https://www.15min.lt/rss" }
+  ],
+  "LU": [
+    { "id": "rtl-lu", "name": "RTL Lëtzebuerg", "homepage": "https://www.rtl.lu", "lang": "lb", "feed": "https://www.rtl.lu/rss/national" },
+    { "id": "wort", "name": "Luxemburger Wort", "homepage": "https://www.wort.lu", "lang": "de", "feed": "https://www.wort.lu/de/rss" },
+    { "id": "luxembourg-times", "name": "Luxembourg Times", "homepage": "https://www.luxtimes.lu", "lang": "en", "feed": "https://www.luxtimes.lu/rss" }
+  ],
+  "LV": [
+    { "id": "lsm", "name": "LSM.lv", "homepage": "https://www.lsm.lv", "lang": "lv", "feed": "https://www.lsm.lv/rss/" },
+    { "id": "delfi-lv", "name": "Delfi", "homepage": "https://www.delfi.lv", "lang": "lv", "feed": "https://www.delfi.lv/rss/index.xml" },
+    { "id": "tvnet", "name": "TVNET", "homepage": "https://www.tvnet.lv", "lang": "lv", "feed": "https://www.tvnet.lv/rss" }
+  ],
+  "LY": [
+    { "id": "almarsad", "name": "Al Marsad (المرصد)", "homepage": "https://almarsad.co", "lang": "ar", "feed": "https://almarsad.co/feed/" },
+    { "id": "libya-herald", "name": "Libya Herald", "homepage": "https://libyaherald.com", "lang": "en", "feed": "https://libyaherald.com/feed/" },
+    { "id": "libya-review", "name": "Libya Review", "homepage": "https://libyareview.com", "lang": "en", "feed": "https://libyareview.com/feed/" }
+  ],
+  "MA": [
+    { "id": "hespress", "name": "Hespress (هسبريس)", "homepage": "https://www.hespress.com", "lang": "ar", "feed": "https://www.hespress.com/feed" },
+    { "id": "hespress-fr", "name": "Hespress FR", "homepage": "https://fr.hespress.com", "lang": "fr-MA", "feed": "https://fr.hespress.com/feed" },
+    { "id": "alyaoum24", "name": "Alyaoum24 (اليوم 24)", "homepage": "https://alyaoum24.com", "lang": "ar", "feed": "https://alyaoum24.com/feed" }
+  ],
+  "MD": [
+    { "id": "zdg", "name": "Ziarul de Gardă", "homepage": "https://www.zdg.md", "lang": "ro", "feed": "https://www.zdg.md/feed/" },
+    { "id": "newsmaker", "name": "NewsMaker", "homepage": "https://newsmaker.md", "lang": "ro", "feed": "https://newsmaker.md/ro/feed/" }
+  ],
+  "ME": [
+    { "id": "vijesti-me", "name": "Vijesti", "homepage": "https://www.vijesti.me", "lang": "sr-Latn", "feed": "https://www.vijesti.me/rss" },
+    { "id": "cdm", "name": "CdM", "homepage": "https://www.cdm.me", "lang": "sr-Latn", "feed": "https://www.cdm.me/feed/" },
+    { "id": "rtcg", "name": "RTCG", "homepage": "https://www.rtcg.me", "lang": "sr-Latn", "feed": "https://www.rtcg.me/rss.html" }
+  ],
+  "MG": [
+    { "id": "midi-mg", "name": "Midi Madagasikara", "homepage": "https://midi-madagasikara.mg", "lang": "fr-MG", "feed": "https://midi-madagasikara.mg/feed/" },
+    { "id": "newsmada-mg", "name": "NewsMada", "homepage": "https://www.newsmada.com", "lang": "fr-MG", "feed": "https://www.newsmada.com/feed/" },
+    { "id": "2424-mg", "name": "2424.mg", "homepage": "https://www.2424.mg", "lang": "fr-MG", "feed": "https://www.2424.mg/feed/" }
+  ],
+  "MK": [
+    { "id": "kanal5", "name": "Kanal 5", "homepage": "https://kanal5.com.mk", "lang": "mk", "feed": "https://kanal5.com.mk/rss.aspx" },
+    { "id": "sitel", "name": "Sitel", "homepage": "https://sitel.com.mk", "lang": "mk", "feed": "https://sitel.com.mk/rss.xml" },
+    { "id": "telma", "name": "Telma", "homepage": "https://telma.com.mk", "lang": "mk", "feed": "https://telma.com.mk/feed/" }
+  ],
+  "ML": [
+    { "id": "malijet-ml", "name": "Malijet", "homepage": "https://malijet.com", "lang": "fr-ML", "feed": "https://malijet.com/rss" },
+    { "id": "studiotamani-ml", "name": "Studio Tamani", "homepage": "https://www.studiotamani.org", "lang": "fr-ML", "feed": "https://www.studiotamani.org/feed" },
+    { "id": "bamada-ml", "name": "Bamada.net", "homepage": "https://bamada.net", "lang": "fr-ML", "feed": "https://bamada.net/feed" }
+  ],
+  "MM": [
+    { "id": "irrawaddy", "name": "The Irrawaddy", "homepage": "https://www.irrawaddy.com", "lang": "en-MM", "feed": "https://www.irrawaddy.com/feed" },
+    { "id": "myanmar-now", "name": "Myanmar Now", "homepage": "https://myanmar-now.org", "lang": "en-MM", "feed": "https://myanmar-now.org/en/feed/" },
+    { "id": "dvb", "name": "DVB (Democratic Voice of Burma)", "homepage": "https://english.dvb.no", "lang": "en-MM", "feed": "https://english.dvb.no/feed/" }
+  ],
+  "MN": [
+    { "id": "ikon", "name": "iKon.mn", "homepage": "https://ikon.mn", "lang": "mn", "feed": "https://ikon.mn/rss" },
+    { "id": "mnb", "name": "MNB (Mongolian National Broadcaster)", "homepage": "https://www.mnb.mn", "lang": "mn", "feed": "https://mnb.mn/rss" },
+    { "id": "sonin", "name": "Sonin.mn", "homepage": "https://sonin.mn", "lang": "mn", "feed": "https://sonin.mn/rss" }
+  ],
+  "MR": [
+    { "id": "saharamedias-mr", "name": "Sahara Medias", "homepage": "https://saharamedias.net", "lang": "ar-MR", "feed": "https://saharamedias.net/feed/" },
+    { "id": "lecalame-mr", "name": "Le Calame", "homepage": "https://lecalame.info", "lang": "fr-MR", "feed": "https://lecalame.info/?q=rss.xml" }
+  ],
+  "MT": [
+    { "id": "malta-today", "name": "MaltaToday", "homepage": "https://www.maltatoday.com.mt", "lang": "en-MT", "feed": "https://www.maltatoday.com.mt/rss/news/" },
+    { "id": "newsbook", "name": "Newsbook", "homepage": "https://newsbook.com.mt", "lang": "mt", "feed": "https://newsbook.com.mt/feed/" }
+  ],
+  "MU": [
+    { "id": "defimedia-mu", "name": "Defimedia", "homepage": "https://defimedia.info", "lang": "fr-MU", "feed": "https://defimedia.info/rss.xml" },
+    { "id": "ionnews-mu", "name": "ION News", "homepage": "https://ionnews.mu", "lang": "fr-MU", "feed": "https://ionnews.mu/feed/" },
+    { "id": "newsmoris-mu", "name": "News Moris", "homepage": "https://newsmoris.com", "lang": "fr-MU", "feed": "https://newsmoris.com/feed/" }
+  ],
+  "MV": [
+    { "id": "sun-online", "name": "Sun Online", "homepage": "https://en.sun.mv", "lang": "en-MV", "feed": "https://en.sun.mv/feed" },
+    { "id": "psm-news", "name": "PSM News", "homepage": "https://psmnews.mv", "lang": "dv", "feed": "https://psmnews.mv/feed" },
+    { "id": "atoll-times", "name": "Atoll Times", "homepage": "https://atolltimes.mv", "lang": "en-MV", "feed": "https://atolltimes.mv/feed" }
+  ],
+  "MW": [
+    { "id": "nyasatimes-mw", "name": "Nyasa Times", "homepage": "https://www.nyasatimes.com", "lang": "en-MW", "feed": "https://www.nyasatimes.com/feed/" },
+    { "id": "times-mw", "name": "Times 360 Malawi", "homepage": "https://times.mw", "lang": "en-MW", "feed": "https://times.mw/feed/" },
+    { "id": "malawi24-mw", "name": "Malawi24", "homepage": "https://malawi24.com", "lang": "en-MW", "feed": "https://malawi24.com/feed/" }
+  ],
+  "MX": [
+    { "id": "el-universal-mx", "name": "El Universal", "homepage": "https://www.eluniversal.com.mx", "lang": "es-MX", "feed": "https://www.eluniversal.com.mx/arc/outboundfeeds/rss/?outputType=xml" },
+    { "id": "la-jornada", "name": "La Jornada", "homepage": "https://www.jornada.com.mx", "lang": "es-MX", "feed": "https://www.jornada.com.mx/rss/edicion.xml" },
+    { "id": "el-financiero-mx", "name": "El Financiero", "homepage": "https://www.elfinanciero.com.mx", "lang": "es-MX", "feed": "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml" }
+  ],
+  "MY": [
+    { "id": "malaysiakini", "name": "Malaysiakini", "homepage": "https://www.malaysiakini.com", "lang": "en-MY", "feed": "https://www.malaysiakini.com/rss/en/news.rss" },
+    { "id": "berita-harian", "name": "Berita Harian", "homepage": "https://www.bharian.com.my", "lang": "ms", "feed": "https://www.bharian.com.my/feed" },
+    { "id": "astro-awani", "name": "Astro Awani", "homepage": "https://www.astroawani.com", "lang": "ms", "feed": "https://www.astroawani.com/rss/latest/public" }
+  ],
+  "MZ": [
+    { "id": "noticias-mz", "name": "Jornal Notícias", "homepage": "https://www.jornalnoticias.co.mz", "lang": "pt-MZ", "feed": "https://www.jornalnoticias.co.mz/feed/" },
+    { "id": "opais-mz", "name": "O País", "homepage": "https://opais.co.mz", "lang": "pt-MZ", "feed": "https://opais.co.mz/feed/" },
+    { "id": "clubofmozambique-mz", "name": "Club of Mozambique", "homepage": "https://clubofmozambique.com", "lang": "en-MZ", "feed": "https://clubofmozambique.com/feed/" }
+  ],
+  "NA": [
+    { "id": "newera-na", "name": "New Era", "homepage": "https://neweralive.na", "lang": "en-NA", "feed": "https://neweralive.na/feed/" },
+    { "id": "nbc-na", "name": "NBC", "homepage": "https://nbcnews.na", "lang": "en-NA", "feed": "https://nbcnews.na/rss.xml" }
+  ],
+  "NE": [
+    { "id": "lesahel-ne", "name": "Le Sahel", "homepage": "https://www.lesahel.org", "lang": "fr-NE", "feed": "https://www.lesahel.org/feed/" },
+    { "id": "airinfo-ne", "name": "Aïr Info", "homepage": "https://www.airinfoagadez.com", "lang": "fr-NE", "feed": "https://www.airinfoagadez.com/feed/" },
+    { "id": "tamtaminfo-ne", "name": "Tam Tam Info", "homepage": "https://www.tamtaminfo.com", "lang": "fr-NE", "feed": "https://www.tamtaminfo.com/feed/" }
+  ],
+  "NG": [
+    { "id": "punch-ng", "name": "Punch", "homepage": "https://punchng.com", "lang": "en-NG", "feed": "https://punchng.com/feed/" },
+    { "id": "premiumtimes-ng", "name": "Premium Times", "homepage": "https://www.premiumtimesng.com", "lang": "en-NG", "feed": "https://www.premiumtimesng.com/feed" },
+    { "id": "channels-ng", "name": "Channels TV", "homepage": "https://www.channelstv.com", "lang": "en-NG", "feed": "https://www.channelstv.com/feed/" }
+  ],
+  "NI": [
+    { "id": "confidencial", "name": "Confidencial", "homepage": "https://confidencial.digital", "lang": "es-NI", "feed": "https://confidencial.digital/feed/" },
+    { "id": "despacho-505", "name": "Despacho 505", "homepage": "https://www.despacho505.com", "lang": "es-NI", "feed": "https://www.despacho505.com/feed/" },
+    { "id": "divergentes", "name": "Divergentes", "homepage": "https://www.divergentes.com", "lang": "es-NI", "feed": "https://www.divergentes.com/feed/" }
+  ],
+  "NL": [
+    { "id": "nos", "name": "NOS Nieuws", "homepage": "https://nos.nl", "lang": "nl", "feed": "https://feeds.nos.nl/nosnieuwsalgemeen" },
+    { "id": "nu-nl", "name": "NU.nl", "homepage": "https://www.nu.nl", "lang": "nl", "feed": "https://www.nu.nl/rss/Algemeen" },
+    { "id": "volkskrant", "name": "de Volkskrant", "homepage": "https://www.volkskrant.nl", "lang": "nl", "feed": "https://www.volkskrant.nl/voorpagina/rss.xml" }
+  ],
+  "NO": [
+    { "id": "nrk", "name": "NRK", "homepage": "https://www.nrk.no", "lang": "nb", "feed": "https://www.nrk.no/toppsaker.rss" },
+    { "id": "vg", "name": "VG", "homepage": "https://www.vg.no", "lang": "nb", "feed": "https://www.vg.no/rss/feed/" },
+    { "id": "aftenposten", "name": "Aftenposten", "homepage": "https://www.aftenposten.no", "lang": "nb", "feed": "https://www.aftenposten.no/rss" }
+  ],
+  "NP": [
+    { "id": "onlinekhabar", "name": "Onlinekhabar (अनलाइनखबर)", "homepage": "https://www.onlinekhabar.com", "lang": "ne", "feed": "https://www.onlinekhabar.com/feed" },
+    { "id": "kathmandu-post", "name": "The Kathmandu Post", "homepage": "https://kathmandupost.com", "lang": "en-NP", "feed": "https://kathmandupost.com/rss" },
+    { "id": "setopati", "name": "Setopati (सेतोपाटी)", "homepage": "https://www.setopati.com", "lang": "ne", "feed": "https://www.setopati.com/feed" }
+  ],
+  "NZ": [
+    { "id": "rnz", "name": "RNZ", "homepage": "https://www.rnz.co.nz/news", "lang": "en-NZ", "feed": "https://www.rnz.co.nz/rss/national.xml" },
+    { "id": "nz-herald", "name": "NZ Herald", "homepage": "https://www.nzherald.co.nz", "lang": "en-NZ", "feed": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml" },
+    { "id": "stuff", "name": "Stuff", "homepage": "https://www.stuff.co.nz", "lang": "en-NZ", "feed": "https://www.stuff.co.nz/rss" }
+  ],
+  "OM": [
+    { "id": "omandaily", "name": "Oman Daily (عُمان)", "homepage": "https://www.omandaily.om", "lang": "ar", "feed": "https://www.omandaily.om/rssFeed/0" },
+    { "id": "alroya-om", "name": "Alroya (الرؤية)", "homepage": "https://alroya.om", "lang": "ar", "feed": "https://alroya.om/rss" },
+    { "id": "oman-observer", "name": "Oman Observer", "homepage": "https://www.omanobserver.om", "lang": "en", "feed": "https://www.omanobserver.om/rssFeed/1" }
+  ],
+  "PA": [
+    { "id": "la-prensa-pa", "name": "La Prensa", "homepage": "https://www.prensa.com", "lang": "es-PA", "feed": "https://www.prensa.com/arc/outboundfeeds/rss/?outputType=xml" },
+    { "id": "tvn-pa", "name": "TVN Noticias", "homepage": "https://www.tvn-2.com", "lang": "es-PA", "feed": "https://www.tvn-2.com/rss" },
+    { "id": "telemetro", "name": "Telemetro", "homepage": "https://www.telemetro.com", "lang": "es-PA", "feed": "https://www.telemetro.com/rss/pages/ultimas-noticias.xml" }
+  ],
+  "PE": [
+    { "id": "el-comercio-pe", "name": "El Comercio", "homepage": "https://elcomercio.pe", "lang": "es-PE", "feed": "https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml" },
+    { "id": "la-republica-pe", "name": "La República", "homepage": "https://larepublica.pe", "lang": "es-PE", "feed": "https://larepublica.pe/rss/home.xml" },
+    { "id": "rpp", "name": "RPP Noticias", "homepage": "https://rpp.pe", "lang": "es-PE", "feed": "https://rpp.pe/rss" }
+  ],
+  "PG": [
+    { "id": "post-courier", "name": "Post-Courier", "homepage": "https://www.postcourier.com.pg", "lang": "en-PG", "feed": "https://www.postcourier.com.pg/feed/" }
+  ],
+  "PH": [
+    { "id": "inquirer", "name": "Philippine Daily Inquirer", "homepage": "https://www.inquirer.net", "lang": "en-PH", "feed": "https://newsinfo.inquirer.net/feed" },
+    { "id": "philstar", "name": "The Philippine Star", "homepage": "https://www.philstar.com", "lang": "en-PH", "feed": "https://www.philstar.com/rss/headlines" },
+    { "id": "gma-news", "name": "GMA News", "homepage": "https://www.gmanetwork.com/news/", "lang": "en-PH", "feed": "https://data.gmanetwork.com/gno/rss/news/feed.xml" }
+  ],
+  "PK": [
+    { "id": "dawn", "name": "Dawn", "homepage": "https://www.dawn.com", "lang": "en-PK", "feed": "https://www.dawn.com/feeds/home" },
+    { "id": "geo-news", "name": "Geo News", "homepage": "https://www.geo.tv", "lang": "en-PK", "feed": "https://www.geo.tv/rss/1/1" },
+    { "id": "daily-jang", "name": "Daily Jang", "homepage": "https://jang.com.pk", "lang": "ur", "feed": "https://jang.com.pk/rss/1/1" }
+  ],
+  "PL": [
+    { "id": "tvn24", "name": "TVN24", "homepage": "https://tvn24.pl", "lang": "pl", "feed": "https://tvn24.pl/najnowsze.xml" },
+    { "id": "rmf24", "name": "RMF24", "homepage": "https://www.rmf24.pl", "lang": "pl", "feed": "https://www.rmf24.pl/feed" },
+    { "id": "polsat-news", "name": "Polsat News", "homepage": "https://www.polsatnews.pl", "lang": "pl", "feed": "https://www.polsatnews.pl/rss/wszystkie.xml" }
+  ],
+  "PR": [
+    { "id": "el-nuevo-dia", "name": "El Nuevo Día", "homepage": "https://www.elnuevodia.com", "lang": "es-PR", "feed": "https://www.elnuevodia.com/arc/outboundfeeds/rss/?outputType=xml" },
+    { "id": "primera-hora", "name": "Primera Hora", "homepage": "https://www.primerahora.com", "lang": "es-PR", "feed": "https://www.primerahora.com/arc/outboundfeeds/rss/?outputType=xml" }
+  ],
+  "PS": [
+    { "id": "alquds", "name": "Al-Quds (القدس)", "homepage": "https://www.alquds.com", "lang": "ar", "feed": "https://www.alquds.com/ar/rss" },
+    { "id": "palinfo", "name": "Palestinian Information Center (المركز الفلسطيني للإعلام)", "homepage": "https://palinfo.com", "lang": "ar", "feed": "https://palinfo.com/feed/" },
+    { "id": "shehab", "name": "Shehab News (شهاب)", "homepage": "https://shehabnews.com", "lang": "ar", "feed": "https://shehabnews.com/rss" }
+  ],
+  "PT": [
+    { "id": "publico", "name": "Público", "homepage": "https://www.publico.pt", "lang": "pt-PT", "feed": "https://feeds.feedburner.com/PublicoRSS" },
+    { "id": "rtp", "name": "RTP Notícias", "homepage": "https://www.rtp.pt/noticias/", "lang": "pt-PT", "feed": "https://www.rtp.pt/noticias/rss" },
+    { "id": "observador", "name": "Observador", "homepage": "https://observador.pt", "lang": "pt-PT", "feed": "https://observador.pt/feed/" }
+  ],
+  "PY": [
+    { "id": "abc-color", "name": "ABC Color", "homepage": "https://www.abc.com.py", "lang": "es-PY", "feed": "https://www.abc.com.py/arc/outboundfeeds/rss/?outputType=xml" },
+    { "id": "la-nacion-py", "name": "La Nación", "homepage": "https://www.lanacion.com.py", "lang": "es-PY", "feed": "https://www.lanacion.com.py/arc/outboundfeeds/rss/?outputType=xml" }
+  ],
+  "QA": [
+    { "id": "aljazeera-ar", "name": "Al Jazeera (الجزيرة)", "homepage": "https://www.aljazeera.net", "lang": "ar", "feed": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9" },
+    { "id": "al-sharq", "name": "Al Sharq (الشرق)", "homepage": "https://al-sharq.com", "lang": "ar", "feed": "https://al-sharq.com/category/محليات/feed" },
+    { "id": "gulf-times", "name": "Gulf Times", "homepage": "https://www.gulf-times.com", "lang": "en", "feed": "https://www.gulf-times.com/rssFeed/0" }
+  ],
+  "RO": [
+    { "id": "digi24", "name": "Digi24", "homepage": "https://www.digi24.ro", "lang": "ro", "feed": "https://www.digi24.ro/rss" },
+    { "id": "hotnews", "name": "HotNews.ro", "homepage": "https://hotnews.ro", "lang": "ro", "feed": "https://hotnews.ro/feed" },
+    { "id": "adevarul", "name": "Adevărul", "homepage": "https://adevarul.ro", "lang": "ro", "feed": "https://adevarul.ro/rss/index" }
+  ],
+  "RS": [
+    { "id": "rts-rs", "name": "RTS", "homepage": "https://www.rts.rs", "lang": "sr-Cyrl", "feed": "https://www.rts.rs/page/stories/ci/rss.html" },
+    { "id": "n1-rs", "name": "N1 Srbija", "homepage": "https://n1info.rs", "lang": "sr-Latn", "feed": "https://n1info.rs/feed/" },
+    { "id": "danas", "name": "Danas", "homepage": "https://www.danas.rs", "lang": "sr-Latn", "feed": "https://www.danas.rs/feed/" }
+  ],
+  "RU": [
+    { "id": "ria", "name": "RIA Novosti", "homepage": "https://ria.ru", "lang": "ru", "feed": "https://ria.ru/export/rss2/archive/index.xml" },
+    { "id": "kommersant", "name": "Kommersant", "homepage": "https://www.kommersant.ru", "lang": "ru", "feed": "https://www.kommersant.ru/RSS/news.xml" },
+    { "id": "meduza", "name": "Meduza", "homepage": "https://meduza.io", "lang": "ru", "feed": "https://meduza.io/rss/all" }
+  ],
+  "RW": [
+    { "id": "ktpress-rw", "name": "KT Press", "homepage": "https://www.ktpress.rw", "lang": "en-RW", "feed": "https://www.ktpress.rw/feed/" },
+    { "id": "taarifa-rw", "name": "Taarifa", "homepage": "https://taarifa.rw", "lang": "en-RW", "feed": "https://taarifa.rw/feed/" }
+  ],
+  "SA": [
+    { "id": "okaz", "name": "Okaz (عكاظ)", "homepage": "https://www.okaz.com.sa", "lang": "ar", "feed": "https://www.okaz.com.sa/rssFeed/0" },
+    { "id": "almadina", "name": "Al Madina (المدينة)", "homepage": "https://www.al-madina.com", "lang": "ar", "feed": "https://www.al-madina.com/rssFeed/1" },
+    { "id": "arab-news", "name": "Arab News", "homepage": "https://www.arabnews.com", "lang": "en", "feed": "https://www.arabnews.com/rss.xml" }
+  ],
+  "SB": [
+    { "id": "sibc", "name": "SIBC", "homepage": "https://www.sibconline.com.sb", "lang": "en-SB", "feed": "https://www.sibconline.com.sb/feed/" },
+    { "id": "island-sun", "name": "Island Sun", "homepage": "https://www.theislandsun.com.sb", "lang": "en-SB", "feed": "https://www.theislandsun.com.sb/feed/" },
+    { "id": "in-depth-solomons", "name": "In-depth Solomons", "homepage": "https://indepthsolomons.com.sb", "lang": "en-SB", "feed": "https://indepthsolomons.com.sb/feed/" }
+  ],
+  "SC": [
+    { "id": "sbc-sc", "name": "SBC", "homepage": "https://www.sbc.sc", "lang": "en-SC", "feed": "https://www.sbc.sc/feed/" }
+  ],
+  "SD": [
+    { "id": "sudan-tribune-ar", "name": "Sudan Tribune (سودان تربيون)", "homepage": "https://sudantribune.net", "lang": "ar", "feed": "https://sudantribune.net/feed/" },
+    { "id": "dabanga", "name": "Radio Dabanga (راديو دبنقا)", "homepage": "https://www.dabangasudan.org/ar", "lang": "ar", "feed": "https://www.dabangasudan.org/ar/feed" },
+    { "id": "altaghyeer", "name": "Altaghyeer (التغيير)", "homepage": "https://www.altaghyeer.info", "lang": "ar", "feed": "https://www.altaghyeer.info/ar/feed/" }
+  ],
+  "SE": [
+    { "id": "svt", "name": "SVT Nyheter", "homepage": "https://www.svt.se", "lang": "sv", "feed": "https://www.svt.se/nyheter/rss.xml" },
+    { "id": "dn", "name": "Dagens Nyheter", "homepage": "https://www.dn.se", "lang": "sv", "feed": "https://www.dn.se/rss/" },
+    { "id": "aftonbladet", "name": "Aftonbladet", "homepage": "https://www.aftonbladet.se", "lang": "sv", "feed": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/" }
+  ],
+  "SG": [
+    { "id": "cna", "name": "CNA", "homepage": "https://www.channelnewsasia.com", "lang": "en-SG", "feed": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml" },
+    { "id": "straits-times", "name": "The Straits Times", "homepage": "https://www.straitstimes.com", "lang": "en-SG", "feed": "https://www.straitstimes.com/news/singapore/rss.xml" }
+  ],
+  "SI": [
+    { "id": "rtv-slo", "name": "RTV SLO MMC", "homepage": "https://www.rtvslo.si", "lang": "sl", "feed": "https://img.rtvslo.si/feeds/00.xml" },
+    { "id": "24ur", "name": "24ur", "homepage": "https://www.24ur.com", "lang": "sl", "feed": "https://www.24ur.com/rss" },
+    { "id": "delo", "name": "Delo", "homepage": "https://www.delo.si", "lang": "sl", "feed": "https://www.delo.si/rss" }
+  ],
+  "SK": [
+    { "id": "sme", "name": "SME", "homepage": "https://www.sme.sk", "lang": "sk", "feed": "https://www.sme.sk/rss-title" },
+    { "id": "aktuality", "name": "Aktuality.sk", "homepage": "https://www.aktuality.sk", "lang": "sk", "feed": "https://www.aktuality.sk/rss/" },
+    { "id": "pravda-sk", "name": "Pravda", "homepage": "https://www.pravda.sk", "lang": "sk", "feed": "https://spravy.pravda.sk/rss/xml/" }
+  ],
+  "SL": [
+    { "id": "sierraloaded-sl", "name": "Sierraloaded", "homepage": "https://www.sierraloaded.sl", "lang": "en-SL", "feed": "https://www.sierraloaded.sl/feed/" },
+    { "id": "calabash-sl", "name": "Calabash Newspaper", "homepage": "https://thecalabashnewspaper.com", "lang": "en-SL", "feed": "https://thecalabashnewspaper.com/feed/" }
+  ],
+  "SM": [
+    { "id": "libertas-sm", "name": "Libertas", "homepage": "https://www.libertas.sm", "lang": "it", "feed": "https://www.libertas.sm/feed/" }
+  ],
+  "SN": [
+    { "id": "seneweb-sn", "name": "Seneweb", "homepage": "https://www.seneweb.com", "lang": "fr-SN", "feed": "https://www.seneweb.com/feed" },
+    { "id": "dakaractu-sn", "name": "Dakaractu", "homepage": "https://www.dakaractu.com", "lang": "fr-SN", "feed": "https://www.dakaractu.com/xml/syndication.rss" },
+    { "id": "lesoleil-sn", "name": "Le Soleil", "homepage": "https://lesoleil.sn", "lang": "fr-SN", "feed": "https://lesoleil.sn/feed/" }
+  ],
+  "SO": [
+    { "id": "goobjoog-so", "name": "Goobjoog News", "homepage": "https://goobjoog.com", "lang": "so", "feed": "https://goobjoog.com/feed/" },
+    { "id": "somaliguardian-so", "name": "Somali Guardian", "homepage": "https://somaliguardian.com", "lang": "en-SO", "feed": "https://somaliguardian.com/feed/" },
+    { "id": "caasimada-so", "name": "Caasimada", "homepage": "https://www.caasimada.net", "lang": "so", "feed": "https://www.caasimada.net/feed/" }
+  ],
+  "SR": [
+    { "id": "de-ware-tijd", "name": "De Ware Tijd", "homepage": "https://dwtonline.com", "lang": "nl-SR", "feed": "https://dwtonline.com/feed/" },
+    { "id": "starnieuws", "name": "Starnieuws", "homepage": "https://www.starnieuws.com", "lang": "nl-SR", "feed": "https://www.starnieuws.com/rss/starnieuws.rss" },
+    { "id": "suriname-herald", "name": "Suriname Herald", "homepage": "https://www.srherald.com", "lang": "nl-SR", "feed": "https://www.srherald.com/feed/" }
+  ],
+  "SS": [
+    { "id": "eyeradio-ss", "name": "Eye Radio", "homepage": "https://eyeradio.org", "lang": "en-SS", "feed": "https://eyeradio.org/feed/" },
+    { "id": "radiotamazuj-ss", "name": "Radio Tamazuj", "homepage": "https://www.radiotamazuj.org/en", "lang": "en-SS", "feed": "https://www.radiotamazuj.org/en/feed" },
+    { "id": "sudanspost-ss", "name": "Sudans Post", "homepage": "https://www.sudanspost.com", "lang": "en-SS", "feed": "https://www.sudanspost.com/feed/" }
+  ],
+  "ST": [
+    { "id": "telanon-st", "name": "Téla Nón", "homepage": "https://www.telanon.info", "lang": "pt-ST", "feed": "https://www.telanon.info/feed/" },
+    { "id": "jornaltropical-st", "name": "Jornal Tropical", "homepage": "https://jornaltropical.st", "lang": "pt-ST", "feed": "https://jornaltropical.st/feed/" },
+    { "id": "stp-press-st", "name": "STP-Press", "homepage": "https://www.stp-press.st", "lang": "pt-ST", "feed": "https://www.stp-press.st/feed/" }
+  ],
+  "SV": [
+    { "id": "diario-co-latino", "name": "Diario Co Latino", "homepage": "https://www.diariocolatino.com", "lang": "es-SV", "feed": "https://www.diariocolatino.com/feed/" },
+    { "id": "la-pagina-sv", "name": "La Página", "homepage": "https://www.lapagina.com.sv", "lang": "es-SV", "feed": "https://www.lapagina.com.sv/feed/" }
+  ],
+  "SY": [
+    { "id": "sana", "name": "SANA (سانا)", "homepage": "https://sana.sy", "lang": "ar", "feed": "https://sana.sy/feed/" },
+    { "id": "syria-tv", "name": "Syria TV (تلفزيون سوريا)", "homepage": "https://www.syria.tv", "lang": "ar", "feed": "https://www.syria.tv/rss.xml" },
+    { "id": "enab-baladi-en", "name": "Enab Baladi", "homepage": "https://english.enabbaladi.net", "lang": "en", "feed": "https://english.enabbaladi.net/feed/" }
+  ],
+  "SZ": [
+    { "id": "times-sz", "name": "Times of Eswatini", "homepage": "http://www.times.co.sz", "lang": "en-SZ", "feed": "http://www.times.co.sz/rss/" }
+  ],
+  "TD": [
+    { "id": "alwihda-td", "name": "Alwihda Info", "homepage": "https://www.alwihdainfo.com", "lang": "fr-TD", "feed": "https://www.alwihdainfo.com/rss" },
+    { "id": "tchadinfos-td", "name": "Tchadinfos", "homepage": "https://tchadinfos.com", "lang": "fr-TD", "feed": "https://tchadinfos.com/feed/" },
+    { "id": "journaldutchad-td", "name": "Journal du Tchad", "homepage": "https://www.journaldutchad.com", "lang": "fr-TD", "feed": "https://www.journaldutchad.com/feed/" }
+  ],
+  "TG": [
+    { "id": "icilome-tg", "name": "iciLomé", "homepage": "https://www.icilome.com", "lang": "fr-TG", "feed": "https://www.icilome.com/feed/" },
+    { "id": "togofirst-tg", "name": "Togo First", "homepage": "https://www.togofirst.com/fr", "lang": "fr-TG", "feed": "https://www.togofirst.com/fr/rss-fr" },
+    { "id": "27avril-tg", "name": "27avril.com", "homepage": "https://www.27avril.com", "lang": "fr-TG", "feed": "https://www.27avril.com/feed/" }
+  ],
+  "TH": [
+    { "id": "thairath", "name": "Thairath (ไทยรัฐ)", "homepage": "https://www.thairath.co.th", "lang": "th", "feed": "https://www.thairath.co.th/rss/news" },
+    { "id": "matichon", "name": "Matichon (มติชน)", "homepage": "https://www.matichon.co.th", "lang": "th", "feed": "https://www.matichon.co.th/feed" },
+    { "id": "bangkok-post", "name": "Bangkok Post", "homepage": "https://www.bangkokpost.com", "lang": "en-TH", "feed": "https://www.bangkokpost.com/rss/data/topstories.xml" }
+  ],
+  "TJ": [
+    { "id": "asia-plus", "name": "Asia-Plus", "homepage": "https://asiaplustj.info", "lang": "ru", "feed": "https://asiaplustj.info/ru/rss" },
+    { "id": "avesta", "name": "Avesta.tj", "homepage": "https://avesta.tj", "lang": "ru", "feed": "https://avesta.tj/feed/" },
+    { "id": "khovar", "name": "Khovar", "homepage": "https://khovar.tj", "lang": "ru", "feed": "https://khovar.tj/feed/" }
+  ],
+  "TL": [
+    { "id": "tatoli", "name": "Tatoli", "homepage": "https://tatoli.tl", "lang": "tet", "feed": "https://tatoli.tl/feed/" },
+    { "id": "diligente", "name": "Diligente", "homepage": "https://www.diligenteonline.com", "lang": "pt-TL", "feed": "https://www.diligenteonline.com/feed/" }
+  ],
+  "TM": [
+    { "id": "tdh", "name": "TDH (Turkmen State News Agency)", "homepage": "https://tdh.gov.tm/en", "lang": "en", "feed": "https://tdh.gov.tm/en/rss.xml" }
+  ],
+  "TN": [
+    { "id": "mosaiquefm", "name": "Mosaïque FM (موزاييك)", "homepage": "https://www.mosaiquefm.net", "lang": "ar", "feed": "https://www.mosaiquefm.net/ar/rss" },
+    { "id": "lapresse-tn", "name": "La Presse de Tunisie", "homepage": "https://lapresse.tn", "lang": "fr-TN", "feed": "https://lapresse.tn/feed/" },
+    { "id": "babnet", "name": "Babnet Tunisie", "homepage": "https://www.babnet.net", "lang": "ar", "feed": "https://www.babnet.net/feed.php" }
+  ],
+  "TO": [
+    { "id": "kaniva-tonga", "name": "Kaniva Tonga", "homepage": "https://kanivatonga.co.nz", "lang": "en-TO", "feed": "https://kanivatonga.co.nz/feed/" }
+  ],
+  "TR": [
+    { "id": "hurriyet", "name": "Hürriyet", "homepage": "https://www.hurriyet.com.tr", "lang": "tr", "feed": "https://www.hurriyet.com.tr/rss/anasayfa" },
+    { "id": "ntv-tr", "name": "NTV", "homepage": "https://www.ntv.com.tr", "lang": "tr", "feed": "https://www.ntv.com.tr/gundem.rss" },
+    { "id": "sozcu", "name": "Sözcü", "homepage": "https://www.sozcu.com.tr", "lang": "tr", "feed": "https://www.sozcu.com.tr/feeds-rss-category-gundem" }
+  ],
+  "TT": [
+    { "id": "ttt-live", "name": "TTT Live", "homepage": "https://www.ttt.live", "lang": "en-TT", "feed": "https://www.ttt.live/feed/" }
+  ],
+  "TW": [
+    { "id": "liberty-times", "name": "Liberty Times (自由時報)", "homepage": "https://news.ltn.com.tw", "lang": "zh-TW", "feed": "https://news.ltn.com.tw/rss/all.xml" },
+    { "id": "pts-news", "name": "PTS News (公視新聞)", "homepage": "https://news.pts.org.tw", "lang": "zh-TW", "feed": "https://news.pts.org.tw/xml/newsfeed.xml" },
+    { "id": "ettoday", "name": "ETtoday (東森新聞雲)", "homepage": "https://www.ettoday.net", "lang": "zh-TW", "feed": "https://feeds.feedburner.com/ettoday/realtime" }
+  ],
+  "TZ": [
+    { "id": "citizen-tz", "name": "The Citizen", "homepage": "https://www.thecitizen.co.tz", "lang": "en-TZ", "feed": "https://www.thecitizen.co.tz/rss.xml" },
+    { "id": "mwananchi-tz", "name": "Mwananchi", "homepage": "https://www.mwananchi.co.tz", "lang": "sw", "feed": "https://www.mwananchi.co.tz/rss.xml" },
+    { "id": "dailynews-tz", "name": "Daily News", "homepage": "https://dailynews.co.tz", "lang": "en-TZ", "feed": "https://dailynews.co.tz/feed/" }
+  ],
+  "UA": [
+    { "id": "ukrainska-pravda", "name": "Ukrainska Pravda", "homepage": "https://www.pravda.com.ua", "lang": "uk", "feed": "https://www.pravda.com.ua/rss/" },
+    { "id": "nv-ua", "name": "NV (Novoe Vremya)", "homepage": "https://nv.ua/ukr/", "lang": "uk", "feed": "https://nv.ua/ukr/rss/all.xml" },
+    { "id": "unian", "name": "UNIAN", "homepage": "https://www.unian.ua", "lang": "uk", "feed": "https://rss.unian.net/site/news_ukr.rss" }
+  ],
+  "UG": [
+    { "id": "monitor-ug", "name": "Daily Monitor", "homepage": "https://www.monitor.co.ug", "lang": "en-UG", "feed": "https://www.monitor.co.ug/rss.xml" },
+    { "id": "nilepost-ug", "name": "Nile Post", "homepage": "https://nilepost.co.ug", "lang": "en-UG", "feed": "https://nilepost.co.ug/feed/" },
+    { "id": "observer-ug", "name": "The Observer", "homepage": "https://observer.ug", "lang": "en-UG", "feed": "https://observer.ug/feed/" }
+  ],
+  "US": [
+    { "id": "nyt", "name": "The New York Times", "homepage": "https://www.nytimes.com", "lang": "en-US", "feed": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" },
+    { "id": "npr", "name": "NPR", "homepage": "https://www.npr.org", "lang": "en-US", "feed": "https://feeds.npr.org/1001/rss.xml" },
+    { "id": "washington-post", "name": "The Washington Post", "homepage": "https://www.washingtonpost.com", "lang": "en-US", "feed": "https://feeds.washingtonpost.com/rss/national" }
+  ],
+  "UY": [
+    { "id": "el-observador-uy", "name": "El Observador", "homepage": "https://www.elobservador.com.uy", "lang": "es-UY", "feed": "https://www.elobservador.com.uy/rss/pages/home.xml" },
+    { "id": "la-diaria", "name": "la diaria", "homepage": "https://ladiaria.com.uy", "lang": "es-UY", "feed": "https://ladiaria.com.uy/feeds/articulos/" },
+    { "id": "montevideo-portal", "name": "Montevideo Portal", "homepage": "https://www.montevideo.com.uy", "lang": "es-UY", "feed": "https://www.montevideo.com.uy/anxml.aspx?59" }
+  ],
+  "UZ": [
+    { "id": "kun-uz", "name": "Kun.uz", "homepage": "https://kun.uz", "lang": "uz", "feed": "https://kun.uz/news/rss" },
+    { "id": "gazeta-uz", "name": "Gazeta.uz", "homepage": "https://www.gazeta.uz", "lang": "ru", "feed": "https://www.gazeta.uz/ru/rss/" },
+    { "id": "daryo", "name": "Daryo", "homepage": "https://daryo.uz", "lang": "uz", "feed": "https://daryo.uz/feed/" }
+  ],
+  "VC": [
+    { "id": "iwitness-news", "name": "iWitness News", "homepage": "https://www.iwnsvg.com", "lang": "en-VC", "feed": "https://www.iwnsvg.com/feed/" },
+    { "id": "searchlight-vc", "name": "Searchlight", "homepage": "https://www.searchlight.vc", "lang": "en-VC", "feed": "https://www.searchlight.vc/feed/" }
+  ],
+  "VE": [
+    { "id": "el-nacional-ve", "name": "El Nacional", "homepage": "https://www.elnacional.com", "lang": "es-VE", "feed": "https://www.elnacional.com/feed/" },
+    { "id": "efecto-cocuyo", "name": "Efecto Cocuyo", "homepage": "https://efectococuyo.com", "lang": "es-VE", "feed": "https://efectococuyo.com/feed/" },
+    { "id": "el-pitazo", "name": "El Pitazo", "homepage": "https://elpitazo.net", "lang": "es-VE", "feed": "https://elpitazo.net/feed/" }
+  ],
+  "VN": [
+    { "id": "vnexpress", "name": "VnExpress", "homepage": "https://vnexpress.net", "lang": "vi", "feed": "https://vnexpress.net/rss/tin-moi-nhat.rss" },
+    { "id": "tuoi-tre", "name": "Tuổi Trẻ", "homepage": "https://tuoitre.vn", "lang": "vi", "feed": "https://tuoitre.vn/rss/tin-moi-nhat.rss" },
+    { "id": "thanh-nien", "name": "Thanh Niên", "homepage": "https://thanhnien.vn", "lang": "vi", "feed": "https://thanhnien.vn/rss/home.rss" }
+  ],
+  "VU": [
+    { "id": "vbtc", "name": "VBTC", "homepage": "https://www.vbtc.vu", "lang": "en-VU", "feed": "https://www.vbtc.vu/feed/" }
+  ],
+  "WS": [
+    { "id": "samoa-global-news", "name": "Samoa Global News", "homepage": "https://samoaglobalnews.com", "lang": "en-WS", "feed": "https://samoaglobalnews.com/feed/" }
+  ],
+  "XK": [
+    { "id": "koha", "name": "Koha", "homepage": "https://www.koha.net", "lang": "sq", "feed": "https://www.koha.net/rss" },
+    { "id": "telegrafi", "name": "Telegrafi", "homepage": "https://telegrafi.com", "lang": "sq", "feed": "https://telegrafi.com/feed/" },
+    { "id": "gazeta-express", "name": "Gazeta Express", "homepage": "https://www.gazetaexpress.com", "lang": "sq", "feed": "https://www.gazetaexpress.com/feed/" }
+  ],
+  "YE": [
+    { "id": "aden-alghad", "name": "Aden Al-Ghad (عدن الغد)", "homepage": "https://adengad.net", "lang": "ar", "feed": "https://www.adngad.net/feed" },
+    { "id": "almashhad-alyemeni", "name": "Al-Mashhad Al-Yemeni (المشهد اليمني)", "homepage": "https://www.almashhad-alyemeni.com", "lang": "ar", "feed": "https://www.almashhad.news/feed" },
+    { "id": "saba-aden", "name": "Saba News Agency (سبأ)", "homepage": "https://www.sabanew.net", "lang": "ar", "feed": "https://www.sabanew.net/rss.php" }
+  ],
+  "ZA": [
+    { "id": "iol-za", "name": "IOL", "homepage": "https://iol.co.za", "lang": "en-ZA", "feed": "https://iol.co.za/rss/iol/news/" },
+    { "id": "dailymaverick-za", "name": "Daily Maverick", "homepage": "https://www.dailymaverick.co.za", "lang": "en-ZA", "feed": "https://www.dailymaverick.co.za/dmrss/" },
+    { "id": "sabc-za", "name": "SABC News", "homepage": "https://www.sabcnews.com", "lang": "en-ZA", "feed": "https://www.sabcnews.com/sabcnews/feed/" }
+  ],
+  "ZM": [
+    { "id": "lusakatimes-zm", "name": "Lusaka Times", "homepage": "https://www.lusakatimes.com", "lang": "en-ZM", "feed": "https://www.lusakatimes.com/feed/" },
+    { "id": "dailymail-zm", "name": "Zambia Daily Mail", "homepage": "https://www.daily-mail.co.zm", "lang": "en-ZM", "feed": "https://www.daily-mail.co.zm/feed/" },
+    { "id": "diggers-zm", "name": "News Diggers", "homepage": "https://diggers.news", "lang": "en-ZM", "feed": "https://diggers.news/feed/" }
+  ],
+  "ZW": [
+    { "id": "herald-zw", "name": "The Herald", "homepage": "https://www.herald.co.zw", "lang": "en-ZW", "feed": "https://www.herald.co.zw/feed/" },
+    { "id": "newsday-zw", "name": "NewsDay", "homepage": "https://www.newsday.co.zw", "lang": "en-ZW", "feed": "https://www.newsday.co.zw/feed/" },
+    { "id": "newzimbabwe-zw", "name": "NewZimbabwe", "homepage": "https://www.newzimbabwe.com", "lang": "en-ZW", "feed": "https://www.newzimbabwe.com/feed/" }
+  ]
+}

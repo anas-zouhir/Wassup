@@ -1,0 +1,117 @@
+{
+  "country": "TD",
+  "dishes": [
+    {
+      "id": "la-boule",
+      "name": "La boule",
+      "videoSearch": "https://www.youtube.com/results?search_query=La%20boule%20recipe",
+      "recipe": {
+        "ingredients": [
+          "2 cups millet flour",
+          "Water as needed",
+          "Salt to taste"
+        ],
+        "steps": [
+          "In a mixing bowl, combine the millet flour and a pinch of salt. Mix them together to distribute the salt evenly.",
+          "Gradually add water to the millet flour while stirring with a wooden spoon or spatula. Continue adding water until a thick, smooth batter is formed. The consistency should be similar to a pancake batter.",
+          "Let the batter rest for about 30 minutes. This allows the millet flour to hydrate and absorb the water.",
+          "Meanwhile, prepare the steamer or large pot with a steaming basket. Add water to the pot, ensuring that it doesn't touch the bottom of the steamer or basket. If desired, you can line the steaming basket with a cloth or cheesecloth to help prevent sticking. This step is optional but can make it easier to remove the cooked la boule.",
+          "After the resting period, give the batter a final stir. It should be a pourable consistency, but not too thin.",
+          "Pour the batter into the steaming basket, spreading it evenly to form a layer about 1 inch thick.",
+          "Place the steamer or basket over the pot of simmering water. Cover the pot with a lid to trap the steam.",
+          "Steam the la boule for approximately 30–40 minutes, or until it becomes firm and cooked through. The exact cooking time may vary depending on the thickness of the la boule.",
+          "Once cooked, carefully remove the steaming basket from the pot and let the La Boule cool slightly.",
+          "To serve, shape the la boule into a ball or any desired shape using your hands. It should hold its shape easily due to the cooked millet flour.",
+          "Serve on its own or accompanied by various sauces or stews, such as peanut sauce, tomato-based stews, or vegetable soups."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALa_Boule_(Steamed_Millet_Bread)"
+      }
+    },
+    {
+      "id": "esh",
+      "name": "Esh",
+      "videoSearch": "https://www.youtube.com/results?search_query=Esh%20recipe",
+      "description": "Esh (Chadian Arabic: عيش (/ʔeːʃ/ )), also spelled aiyash, is a common Chadian dish made of boiled flour, typically served with moulah sauce. Esh is a staple food of Chad and is often eaten daily for lunch and dinner.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Esh_(dish)"
+    },
+    {
+      "id": "la-bouillie",
+      "name": "La bouillie",
+      "videoSearch": "https://www.youtube.com/results?search_query=La%20bouillie%20recipe",
+      "description": "La bouillie is a porridge from Chad similar to oatmeal. It is made from milk and wheat berry or rice, thickened with flour or millet paste, and sweetened with peanut butter or brown sugar. It can be further flavored with lemon or buttermilk to make it tangy.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Femme_servant_de_la_bouillie_lors_d%27un_evenement_%C3%A0_N%27Djam%C3%A9na.png/500px-Femme_servant_de_la_bouillie_lors_d%27un_evenement_%C3%A0_N%27Djam%C3%A9na.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/La_bouillie_(Chadian_food)"
+    },
+    {
+      "id": "kisra",
+      "name": "Kisra",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kisra%20recipe",
+      "description": "Kisra, also spelled kissra, is a Sudanese popular thin fermented bread made in Sudan, Chad, South Sudan, Algeria and some parts of Uganda and Kenya. It is made from durra or wheat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Kisra_maker.jpeg/500px-Kisra_maker.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kisra",
+      "recipe": {
+        "ingredients": [
+          "2 cups sorghum or millet flour",
+          "1 teaspoon salt",
+          "2 cups warm water",
+          "½ teaspoon active dry yeast (optional, for fermentation)",
+          "Vegetable oil"
+        ],
+        "steps": [
+          "In a mixing bowl, combine the sorghum or millet flour and salt. Gradually add the warm water while whisking or stirring continuously to create a smooth batter. Ensure there are no lumps in the mixture.",
+          "If fermenting the batter, mix in the yeast. Cover the bowl with a clean kitchen towel and let it rest in a warm place for 8–12 hours. This allows the batter to ferment and develop flavor. If you prefer non-fermented kisra, skip this step.",
+          "Preheat a non-stick pan or griddle over medium heat. Make sure the pan is hot before pouring the batter.",
+          "Stir the batter thoroughly before pouring a ladleful onto the hot pan. Immediately tilt and rotate the pan in a circular motion to spread the batter evenly into a thin layer. Kisra should be thin and flexible.",
+          "Allow the kisra to cook on one side for a few minutes until the edges start to lift and the bottom is golden brown. Once the surface is dry and the edges are crisp, remove from the pan using a spatula (it should only be cooked on one side). Repeat the cooking process with the remaining batter.",
+          "Stack the cooked kisra on a plate or wrap them in a clean kitchen towel to keep them soft and pliable. They can be stored at room temperature for a few days or in the refrigerator for a longer shelf life."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKisra_(Sudanese_Bread)"
+      }
+    },
+    {
+      "id": "karkanji",
+      "name": "Karkanji",
+      "videoSearch": "https://www.youtube.com/results?search_query=Karkanji%20recipe",
+      "description": "Hibiscus tea (served hot), or roselle juice (served cold), is an infusion made from the crimson or deep magenta-colored sepals or calyces of the roselle flower (Hibiscus sabdariffa). It is consumed both hot and cold and has a tart, strong cranberry-like flavor.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Hibiscus_tea.jpg/500px-Hibiscus_tea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hibiscus_tea",
+      "recipe": {
+        "ingredients": [
+          "1 cup dried hibiscus (also known as roselle or sorrel) petals",
+          "4–5 cups water",
+          "2–3 tablespoons grated fresh ginger",
+          "Sugar, to taste (start with ½ cup)",
+          "1 stick of cinnamon (optional)",
+          "A few slices of lemon (optional)"
+        ],
+        "steps": [
+          "Rinse the dried hibiscus petals under cold water to remove any dust or debris.",
+          "In a saucepan, bring the water to a boil.",
+          "Add the rinsed hibiscus petals, grated ginger, cloves, and cinnamon stick. Stir well.",
+          "Let the mixture boil for about 5–7 minutes, or until the water turns a rich deep red and the spices have released their aroma.",
+          "Remove the saucepan from heat and let it steep for another 10 minutes for a stronger flavor.",
+          "Strain the liquid using a sieve into a clean jug or bowl to remove the solids.",
+          "Stir in sugar while the drink is still warm, adjusting to your preferred sweetness level.",
+          "Allow the drink to cool completely. Refrigerate until chilled or serve over ice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKarkanji_(Chadian_Spiced_Hibiscus_Drink)"
+      }
+    },
+    {
+      "id": "tagalia",
+      "name": "Tagalia",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tagalia%20recipe",
+      "description": "Tagalia, also called mullah tagalia or red stew, is a Sudanese and Chadian sauce popular during Ramadan. It is mainly made from onions, minced beef, tomato paste, oil, and spices such as coriander and red pepper. The spices contribute to the sauce's red color.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Sauce_tagali%C3%A9.jpg/500px-Sauce_tagali%C3%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tagalia"
+    },
+    {
+      "id": "kilishi",
+      "name": "Kilishi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kilishi%20recipe",
+      "description": "Kilishi is a version of jerky that originates in Hausaland which consists of most of Southern Niger and Northern Nigeria. It is a form of dried meat, typically made with beef, lamb and mutton, or chevon.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/%22Kilishi%22.JPG/500px-%22Kilishi%22.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kilishi"
+    }
+  ]
+}

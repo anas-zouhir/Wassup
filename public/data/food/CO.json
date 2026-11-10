@@ -1,0 +1,268 @@
+{
+  "country": "CO",
+  "dishes": [
+    {
+      "id": "bandeja-paisa",
+      "name": "Bandeja paisa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bandeja%20paisa%20recipe",
+      "description": "Bandeja paisa, with variations known as bandeja de arriero, bandeja montañera, and bandeja antioqueña, is one of the most representative meals in Colombian cuisine, especially of the Antioquia department and the Paisa region, as well as with the Colombian Coffee-Growers Axis (the departments of Caldas, Quindío and Risa…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bandeja_paisa%2C_plato_Colombiano.jpg/500px-Bandeja_paisa%2C_plato_Colombiano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bandeja_paisa"
+    },
+    {
+      "id": "ajiaco",
+      "name": "Ajiaco",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ajiaco%20recipe",
+      "description": "Ajiaco is a soup common to Colombia, Cuba, and Peru. Scholars have debated the origin of the dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ajiaco.jpg/500px-Ajiaco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ajiaco",
+      "recipe": {
+        "ingredients": [
+          "1 ea. (approximately 750 g) whole skin-on bone-in chicken breast",
+          "1 L chicken broth",
+          "1 onion, peeled",
+          "2 scallions (white part and first 2 cm of green)",
+          "2 carrots, peeled",
+          "4 cloves garlic, peeled",
+          "1 bay leaf",
+          "3 ml dried thyme",
+          "2 ml ground cumin",
+          "4 sprigs fresh cilantro",
+          "10 black peppercorns",
+          "5 ml tomato paste",
+          "0.5 kg small yellow potatoes, peeled",
+          "0.5 kg small purple potatoes, peeled",
+          "0.5 kg mashing potatoes, peeled and sliced 2 cm thickness",
+          "1 L water",
+          "2 ml of beef bouillon granules",
+          "0.25 ml frozen peas",
+          "4 ears of corn, quartered lengthwise and cooked",
+          "10 ml whipping cream mixed with 10 ml créme fraíche",
+          "2 ripe but firm Hass avocados, peeled, pitted and cut into eight slices right before serving",
+          "10 ml of finely chopped cilantro",
+          "5–10 ml of pickled capers"
+        ],
+        "steps": [
+          "Combine chicken, broth, onions, scallions, carrots, garlic, bay leaf, thyme, cumin, cilantro and peppercorns in large saucepan and bring to a boil. Skim off froth as it rises. Reduce heat to low and cover when frothing finishes.",
+          "Remove and reserve chicken after it is cooked through (about 20 minutes).",
+          "Strain broth through sieve and return to pot, boil again over medium heat. Reserve carrots.",
+          "Add tomato paste and yellow and purple potatoes. Cover and cook until potatoes are soft (approximately 20 minutes).",
+          "While yellow and purple potatoes are cooking, boil sliced mashing potatoes in water and beef bouillon in separate pot. Once boiling, reduce to medium heat until potatoes start to fall apart (approximately 30 minutes).",
+          "Drain and reserve a quarter of the slices and mash the rest of the sliced potatoes. Add mashed and sliced potatoes to soup.",
+          "Remove bones and skin from chicken and discard. Cut chicken into strips 1 cm wide and 3 cm long.",
+          "Add chicken and peas to soup and simmer for 5 minutes. Slice the carrots into .5 cm thick rounds and add back into soup. Salt to taste.",
+          "Serve hot with garnishes available."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APotato_and_Chicken_Stew_(Ajiaco)"
+      }
+    },
+    {
+      "id": "arepa",
+      "name": "Arepa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Arepa%20recipe",
+      "description": "An arepa is a type of flatbread made of ground maize dough that may be stuffed with a filling, eaten in northern parts of South America since pre-Columbian times, and notable primarily in the cuisine of Colombia and Venezuela, but also present in Bolivia, Ecuador, and Central America.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Arepitas_Food_Macro.jpg/500px-Arepitas_Food_Macro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Arepa",
+      "recipe": {
+        "ingredients": [
+          "2.4 cups (500 g) corn flour for arepas",
+          "1.2 tsp salt",
+          "0.6 cup (140 g) grated white cheese",
+          "2.4 cups (500 g) cool water (or more if needed)"
+        ],
+        "steps": [
+          "In a large mixing bowl, whisk together the flour, salt, and white cheese. Stir in enough water to make a firm, slightly moist dough.",
+          "Cover the dough and let it rest for 5 minutes.",
+          "Divide the dough into 10 pieces and form each piece into a ball. Flatten the ball slightly.",
+          "Preheat the oven to 350 °F (180 °C).",
+          "Oil a griddle very lightly and warm it over medium heat. Cook the arepas on the griddle for about 5 minutes on each side, until a golden brown crust forms.",
+          "Transfer the arepas to a baking sheet and bake 20–25 minutes, turning them several times as they bake.",
+          "Serve immediately, with cheese, ham and black beans."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACornmeal_Pancakes_(Arepa)"
+      }
+    },
+    {
+      "id": "sancocho",
+      "name": "Sancocho",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sancocho%20recipe",
+      "description": "Sancocho (from the Spanish verb sancochar, 'to parboil') is a traditional stew in several Caribbean and Latin American cuisines. Latin variations represent popular national dishes in Dominican Republic, Colombia, Cuba, Honduras, Mexico, Panama, Puerto Rico, Trinidad and Tobago and Venezuela.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Sancocho_de_espinazo_de_cerdo.jpg/500px-Sancocho_de_espinazo_de_cerdo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sancocho"
+    },
+    {
+      "id": "empanadas",
+      "name": "Empanadas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Empanadas%20recipe",
+      "description": "An empanada is a type of baked or fried turnover consisting of pastry and filling, common in Spain, Portugal, other Southern European countries, North African countries, West African countries (where they are known as meatpies in Ghana and Nigeria), South Asian countries, Latin American countries, and the Philippines.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Tapa_de_empanadillitas.JPG/500px-Tapa_de_empanadillitas.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Empanada",
+      "recipe": {
+        "ingredients": [
+          "1 tsp salt",
+          "2–3 cups cold water",
+          "1 kg (about 8 cups) flour",
+          "2 eggs",
+          "200 g (about 1 cup) butter or margarine",
+          "Olive oil",
+          "Cornstarch",
+          "1 kg ground beef",
+          "1 large onion",
+          "2 tbsp vegetable oil",
+          "2 tbsp sugar",
+          "1 ½ tsp black pepper",
+          "1 ½ tsp paprika",
+          "1 tsp salt",
+          "½ tsp ground cumin (comino), optional. Cumin is very invasive and gives the filling a whole different flavor.",
+          "½ tsp ground cinnamon",
+          "¼ tsp nutmeg",
+          "¼ tsp cloves",
+          "½ cup raisins",
+          "Green olives (optional)",
+          "Diced hard-boiled egg (optional)",
+          "Diced boiled potatoes (optional)",
+          "1 kg ground beef",
+          "2 cloves garlic",
+          "3 large onion",
+          "2 tbsp olive oil",
+          "1 tbsp sugar",
+          "1 ½ tsp black pepper",
+          "1 ½ tsp paprika",
+          "1 tsp salt",
+          "½ tsp ground cumin (comino)",
+          "1 bay leaf",
+          "½ cup raisins",
+          "Black olives",
+          "Diced hard-boiled egg"
+        ],
+        "steps": [
+          "Dissolve salt in water.",
+          "Mix eggs, flour, butter and 1 cup of water to form a dough. While kneading the dough, gradually add in more water until the dough is soft and stretchy. If the dough becomes sticky, add more flour.",
+          "Once the dough is the desired consistency, allow to rest for a couple minutes, then roll it out to a thickness of ~2–3 mm (1/10 inch).",
+          "Cut the dough into discs roughly 10–15 cm (4–6 inches) in diameter.",
+          "Dice onion into small pieces and sauté in vegetable oil in a large frying pan. Add ground beef, and brown it.",
+          "While beef is browning, mix in salt, sugar and spices.",
+          "Once meat has finished cooking, remove from heat and add raisins.",
+          "If desired add sliced olives, egg, or potatoes.",
+          "Dice onion into small pieces and sauté in olive oil in a large frying pan. Mince garlic and add to the onions. Add and brown ground beef.",
+          "While beef is browning, mix in salt, sugar, spices and bay leaf.",
+          "Allow to simmer for about 20 minutes for flavours to blend.",
+          "Remove bay leaf, and add olives and raisins.",
+          "Place 1–2 tablespoons of empanada filling into the center of one of the dough discs (tapa).",
+          "If Chilean empanadas are being made add one piece of the diced hardboiled egg next to the filling.",
+          "Wet the outer edge of the tapa with cold water and fold the tapa in half to encase the filling, ensuring there is no air left inside (the wet portion will help the dough stick together, air will burst out when cooked).",
+          "Holding the empanada in the palm of one hand, with the round edge pointing outwards, pinch and twist over a small (finger-sized) portion of the dough at the top. Continue pinching and twisting around the outer edge until you reach the bottom of the empanada, so that the open edge is sealed shut. You can also use a fork to smash together the lips of the outer edge, but it is not the traditional way and the filling can burst through.",
+          "Repeat for the remaining filling and dough.",
+          "To cook the empanadas, deep fry in vegetable oil on medium heat until golden brown. Alternatively, you can brush them with butter and bake on a cookie sheet in the oven at 400 °F for 8–10 minutes or until light brown.",
+          "Allow empanadas to cool and then eat."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AEmpanada"
+      }
+    },
+    {
+      "id": "lechona",
+      "name": "Lechona",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lechona%20recipe",
+      "description": "A sucking-pig (BrE) or suckling pig (AmE) is a piglet fed on its mother's milk (i.e., a piglet which is still being \"suckled\"). In culinary contexts, a sucking-pig is slaughtered before the end of its second month.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Cochinillos-Mercado_de_la_Cebada.jpg/500px-Cochinillos-Mercado_de_la_Cebada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Suckling_pig"
+    },
+    {
+      "id": "changua",
+      "name": "Changua",
+      "videoSearch": "https://www.youtube.com/results?search_query=Changua%20recipe",
+      "description": "Changua (milk broth with eggs) is a typical hearty breakfast soup of the central Andes region of Colombia, in particular in the Boyacá and Cundinamarca area, including the capital, Bogotá. It also has a reputation as a hangover cure, being a popular late night meal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Changua_Soup.jpg/500px-Changua_Soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Changua"
+    },
+    {
+      "id": "bunuelos",
+      "name": "Buñuelos",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bu%C3%B1uelos%20recipe",
+      "description": "A buñuelo (Spanish: [buˈɲwelo], alternatively called boñuelo, bimuelo, birmuelo, bermuelo, bumuelo, burmuelo, or bonuelo, is a fried dough fritter found in Spain, Latin America, Philippines, and other regions with a historical connection to Spaniards or Sephardic Jews, including Southwest Europe, the Balkans, Anatolia,…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Bunyol_de_carabassa.jpg/500px-Bunyol_de_carabassa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bu%C3%B1uelo"
+    },
+    {
+      "id": "arroz-con-coco",
+      "name": "Arroz con coco",
+      "videoSearch": "https://www.youtube.com/results?search_query=Arroz%20con%20coco%20recipe",
+      "description": "Coconut rice is a dish prepared by cooking white rice in coconut milk or coconut flakes. As both the coconut and the rice-plant are commonly found in the tropics all around the world, coconut rice too, is found in many cultures throughout the world.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Nasi_Liwet_Solo.jpg/500px-Nasi_Liwet_Solo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Coconut_rice"
+    },
+    {
+      "id": "hogao",
+      "name": "Hogao",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hogao%20recipe",
+      "description": "Hogao is a variant of Spanish sofrito and is typically used in Colombian cuisine. It is traditionally made with only long green onions and tomatoes, differing from guiso, which can also be made with round onions, garlic, cumin, salt, and pepper that are sauteed over low heat during the cooking process.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Hogao.JPG/500px-Hogao.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hogao",
+      "recipe": {
+        "ingredients": [
+          "2 large red tomatoes, finely diced",
+          "2 scallions, finely chopped",
+          "¼ cup oil",
+          "Allspice",
+          "Chicken bouillon cube",
+          "Salt",
+          "Pepper"
+        ],
+        "steps": [
+          "Heat oil in a medium frying pan.",
+          "Add scallions, and fry 5 minutes over medium heat.",
+          "Add tomato, allspice, bouillon, salt, and pepper. Let cook over low heat for 10 minutes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHogao_(Colombian_Scallion_Tomato_Sauce)"
+      }
+    },
+    {
+      "id": "calentado",
+      "name": "Calentado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Calentado%20recipe",
+      "description": "Calentao', sometimes spelled calenta'o (Colombian Spanish creole folk slang for \"heated,\" derived from the Standard Spanish word calentado) is a Colombian cuisine dish made from reheated leftovers including rice, egg, pasta, beans, potatoes and other foods such as arepa, chorizo, and ground beef.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Calentao.jpg/500px-Calentao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Calentao"
+    },
+    {
+      "id": "pandebono",
+      "name": "Pandebono",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pandebono%20recipe",
+      "description": "Pandebono or pan de bono is a type of Colombian bread made of cassava starch, cheese, eggs, and in some regions of the country, guava paste. Traditionally, it is consumed with hot chocolate, still warm a few minutes after baking. It is especially common in the Colombian department of Valle del Cauca.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Pandebono.jpg/500px-Pandebono.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pandebono"
+    },
+    {
+      "id": "almojabana",
+      "name": "Almojábana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Almoj%C3%A1bana%20recipe",
+      "description": "Almojábana is a type of bread made with cuajada cheese and corn flour.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Galguer%C3%ADas_II.jpg/500px-Galguer%C3%ADas_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Almoj%C3%A1bana"
+    },
+    {
+      "id": "cholado",
+      "name": "Cholado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cholado%20recipe",
+      "description": "Cholado, raspao, or raspado is an icy beverage with fresh fruit and sweetened condensed milk traditionally from Jamundí, in the region of Valle del Cauca, Colombia. It is made from crushed ice or shaved ice, chopped fruit, condensed milk, fruit syrup, and served with a wafer cookie.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Cholado_jamundi.jpg/500px-Cholado_jamundi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cholado"
+    },
+    {
+      "id": "mondongo",
+      "name": "Mondongo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mondongo%20recipe",
+      "description": "Sopa de mondongo is a soup that originally came from Latin America. It is made from diced tripe (the stomach of a cow or pig) slow-cooked with vegetables such as bell peppers, onions, carrots, cabbage, celery, tomatoes, cilantro, garlic or root vegetables.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Modongo_soup.jpg/500px-Modongo_soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sopa_de_mondongo"
+    },
+    {
+      "id": "arroz-atollado",
+      "name": "Arroz atollado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Arroz%20atollado%20recipe",
+      "description": "Arroz atollado is a Colombian dish from Cali, Colombia and the surrounding area. It is a typical dish of the Valle del Cauca department. It contains rice, chicken, pork, potatoes of various kinds, vegetables and seasonings.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Arroz_atollado.jpg/500px-Arroz_atollado.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Arroz_atollado"
+    }
+  ]
+}

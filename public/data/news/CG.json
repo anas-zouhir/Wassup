@@ -1,0 +1,22 @@
+{
+  "country": "CG",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "adiac-cg",
+        "name": "Les Dépêches de Brazzaville",
+        "homepage": "https://www.adiac-congo.com",
+        "lang": "fr-CG"
+      },
+      "fetchedAt": "2026-10-22T15:10:14.391Z",
+      "items": [
+        {
+          "title": "edition_brazaville - 20261021",
+          "link": "https://www.adiac-congo.com/content/editionbrazaville-20261021-172066",
+          "summary": "apercu: 20261021_DBZ_DBZ_thumb.png fichier Pdf: 20261021_DBZ_DBZ_ALL.pdf",
+          "publishedAt": "2026-10-20T23:40:50.000Z"
+        }
+      ]
+    }
+  ]
+}

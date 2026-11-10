@@ -1,0 +1,243 @@
+{
+  "country": "PA",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "la-prensa-pa",
+        "name": "La Prensa",
+        "homepage": "https://www.prensa.com",
+        "lang": "es-PA"
+      },
+      "fetchedAt": "2026-10-22T15:13:02.761Z",
+      "items": [
+        {
+          "title": "La repregunta del 22 de octubre de 2026",
+          "link": "https://www.prensa.com/politica/la-repregunta-del-22-de-octubre-de-2026/",
+          "summary": "Las periodistas Mónica Palm y Sabrina Bacal analizan diversos temas de actualidad nacional, entre ellos, el impacto del terremoto, las reformas que intentan hacer en la Asamblea Nacional y otros temas de interés…",
+          "image": "https://www.prensa.com/resizer/v2/BLSWBBO4UNBL7EARF7NV4X63XE.png?auth=f477a49b20c39403baa2eb0331086257eeed061b828a005e5d2e0ef06a2ad365&smart=true&width=1920&height=1080",
+          "publishedAt": "2026-10-22T14:40:32.000Z"
+        },
+        {
+          "title": "Fe de errata: 22 de octubre de 2026",
+          "link": "https://www.prensa.com/opinion/fe-de-errata-22-de-octubre-de-2026/",
+          "publishedAt": "2026-10-22T14:18:24.000Z"
+        },
+        {
+          "title": "‘Se armó el debate’: Boric y Uribe confrontan ideas sobre la pobreza desde Panamá",
+          "link": "https://www.prensa.com/sociedad/se-armo-el-debate-boric-y-uribe-confrontan-ideas-sobre-la-pobreza-en-panama/",
+          "summary": "Los expresidentes de Chile y Colombia defendieron visiones distintas sobre el papel del Estado, los impuestos y la inversión privada para reducir la pobreza en América Latina.",
+          "image": "https://www.prensa.com/resizer/v2/FKIYUX64AJG67EMDWLZZVXHYDA.jpg?auth=37fdf2aa57e923951d62cccc0b7b58c5ef106e529a664b4c2f0883ec7d6f0c4a&smart=true&width=799&height=533",
+          "publishedAt": "2026-10-20T05:03:00.000Z"
+        },
+        {
+          "title": "Tal cual",
+          "link": "https://www.prensa.com/opinion/tal-cual-1181/",
+          "summary": "SECUACES. En los pasillos de la Asamblea, ya se habla abiertamente del compinche entre Benicio, Camacho y Shirley. Pronto podrían llamarle la bancada PRM. Juntos o por separado, tienen en la mira a Popi, Dana y Eduardo…",
+          "image": "https://www.prensa.com/resizer/v2/MEN4GVPUSVFHVPWQL5BY2WC5TM.jpeg?auth=b928c509b4fc0871e5470860466f220cf6d95c424a080c4d84455a830d30a0fa&smart=true&width=2844&height=1600",
+          "publishedAt": "2026-10-22T05:01:45.000Z"
+        },
+        {
+          "title": "Pugna por reformas electorales desatan gritos y acusaciones entre diputados de la Asamblea",
+          "link": "https://www.prensa.com/politica/pugna-por-reformas-electorales-desatan-gritos-y-acusaciones-entre-diputados-de-la-asamblea/",
+          "summary": "‘El que busca encuentra’ le dijo la presidenta Shirley Castañedas a Popi Varela en el pleno de la Asamblea.",
+          "image": "https://www.prensa.com/resizer/v2/IARXX6TAGBFSPH66HCDRWIQLLQ.JPG?auth=239998db821c3523cb1854239e24cf55940e0944fd2006f2860346f15ab34bca&smart=true&width=6048&height=4032",
+          "publishedAt": "2026-10-21T23:45:18.000Z"
+        },
+        {
+          "title": "¿Qué es PHP y por qué generó una falla de seguridad en internet que desató una alerta global?",
+          "link": "https://www.prensa.com/bbc/que-es-php-y-por-que-genero-una-falla-de-seguridad-en-internet-que-desato-una-alerta-global/",
+          "summary": "Una IA detectó fallos de programación ocultos durante años, lo que desencadenó una inusual respuesta de ciberseguridad por temor a que fueran explotados por ciberatacantes.",
+          "image": "https://www.prensa.com/resizer/v2/EOJKLR3Z4FGLZESEODHC7TCH5Q.jpg?auth=8b602c698cb859ac320e8eae42cdf31a774c0120d2658edb5f5bd581d4fd976a&smart=true&width=881&height=496",
+          "publishedAt": "2026-10-22T10:40:10.000Z"
+        },
+        {
+          "title": "La literatura como catalizador de la tragedia",
+          "link": "https://www.prensa.com/vivir/la-literatura-como-catalizador-de-la-tragedia/",
+          "image": "https://www.prensa.com/resizer/v2/ITW2KOTYHNGALFYZ3NFAABTK24.jpg?auth=3b9b5e942ff768c5a3beda7e790813323868a172234e69f95d89cdd9741ebcda&smart=true&width=4209&height=2806",
+          "publishedAt": "2026-10-22T05:02:00.000Z"
+        },
+        {
+          "title": "Lo que el terremoto dejó al descubierto",
+          "link": "https://www.prensa.com/opinion/lo-que-el-terremoto-dejo-al-descubierto/",
+          "summary": "Un terremoto destapó la desatención que ya sufrían los niños del interior: la solidaridad ciudadana no puede sustituir a un sistema de salud presente.",
+          "image": "https://www.prensa.com/resizer/v2/5AADJURM6VD3DFTWCG6LXJUMOI.png?auth=e685d5e4f2980c9c928c6671cad12812b3172cdd8b0aeaa0ef120a76cb04db23&smart=true&width=1536&height=1024",
+          "publishedAt": "2026-10-22T05:00:00.000Z"
+        },
+        {
+          "title": "Hoy por hoy: el disfraz de las palabras",
+          "link": "https://www.prensa.com/opinion/hoy-por-hoy-el-disfraz-de-las-palabras/",
+          "summary": "Cuando hay dinero y planillas de por medio, la Asamblea Nacional —particularmente su Comisión de Gobierno— demuestra una notable resistencia a ceder. Su empeño en vincular los despachos legislativos con proyectos…",
+          "publishedAt": "2026-10-22T05:00:00.000Z"
+        },
+        {
+          "title": "Estados Unidos sanciona a una firma panameña, sus socios y siete buques por vínculos con una red petrolera iraní",
+          "link": "https://www.prensa.com/politica/estados-unidos-sanciona-a-una-firma-panamena-sus-socios-y-siete-buques-por-vinculos-con-una-red-petrolera-irani/",
+          "image": "https://www.prensa.com/resizer/v2/MPJN7SNVPZC4VPDP2FN2PIFAVI.jpeg?auth=1a456243c0d6f2af8001165f2de2163e3a732b4239e00b3fde8d2f52b47bac3e&smart=true&width=1280&height=960",
+          "publishedAt": "2026-10-21T18:11:00.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "tvn-pa",
+        "name": "TVN Noticias",
+        "homepage": "https://www.tvn-2.com",
+        "lang": "es-PA"
+      },
+      "fetchedAt": "2026-10-22T15:13:02.974Z",
+      "items": [
+        {
+          "title": "Temblor en Panamá: Comerciantes de Chitré resienten caída en las ventas",
+          "link": "https://www.tvn-2.com/nacionales/temblor-panama-comerciantes-chitre-resienten_1_2267387.html",
+          "summary": "Algunos indicaron que el movimiento comercial que percibieron durante los últimos días estuvo relacionado principalmente con la llegada de panameños que acudieron el fin de semana a llevar donaciones.",
+          "image": "https://static.tvn-2.com/clip/26c4689e-5098-45c4-9e96-e089dcc51d59_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-10-22T01:17:59.000Z"
+        },
+        {
+          "title": "Temblor en Panamá: demuelen histórica iglesia de Soná; residentes ofrecen apoyo para reconstruirla",
+          "link": "https://www.tvn-2.com/nacionales/provincias/temblor-panama-demuelen-iglesia-sona_1_2267356.html",
+          "summary": "El templo tenía más de 140 años y formaba parte de la historia y la vida religiosa de la comunidad.",
+          "image": "https://static.tvn-2.com/clip/2e7053d8-08fc-45b7-8d36-6becf4673402_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-10-22T01:03:28.000Z"
+        },
+        {
+          "title": "Temblor en Panamá| Más de 70 familias afectadas en El Barrito de Atalaya; paredes siguen cayendo por las réplicas",
+          "link": "https://www.tvn-2.com/nacionales/provincias/temblor-en-panama-familias-afectadas-barrito-atalaya-veraguas_1_2267363.html",
+          "summary": "En esta comunidad, de aproximadamente mil habitantes, hay familias que permanecen bajo lonas y en un albergue improvisado porque sus viviendas no pueden ser habitadas.",
+          "image": "https://static.tvn-2.com/clip/4cd0b0f5-698b-4873-8390-77129b160032_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-10-22T00:58:43.000Z"
+        },
+        {
+          "title": "Temblor en Panamá: En El Barrito de Atalaya el sismo deja más de 70 familias afectadas",
+          "link": "https://www.tvn-2.com/nacionales/provincias/temblor-panama-afectados-el-barrito-atalaya-damnificados-veraguas_1_2267285.html",
+          "summary": "En este corregimiento de la provincia de Veraguas hay familias que perdieron su vivienda tras el sismo del 9 de octubre. Una de ellas permanece en un cuarto de lona junto a su casa destruida.",
+          "image": "https://static.tvn-2.com/clip/88c65c23-d3e4-4ad6-8417-5da2a706842d_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-10-21T18:16:34.000Z"
+        },
+        {
+          "title": "Minsa refuerza vigilancia sanitaria en más de 50 albergues temporales en Herrera tras sismo",
+          "link": "https://www.tvn-2.com/nacionales/minsa-vigilancia-sanitaria-atencion-medica-herrera_1_2267304.html",
+          "summary": "Las autoridades de salud supervisan la calidad del agua, la manipulación de alimentos y las condiciones de higiene para prevenir enfermedades gastrointestinales en la población afectada.",
+          "image": "https://static.tvn-2.com/clip/275070a4-705d-4965-bf56-33531a1d5d43_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-10-21T18:51:21.000Z"
+        },
+        {
+          "title": "Temblor en Panamá: Más de 300 niños de Tonosí se reencuentran entre juegos y risas",
+          "link": "https://www.tvn-2.com/nacionales/provincias/temblor-panama-300-ninos-tonosi-juegos-afectados_1_2267298.html",
+          "summary": "La plaza de la Escuela Primaria de Tonosí, en la provincia de Los Santos, fue el escenario del encuentro, que incluyó pintacaritas, inflables, golosinas, refrescos, la participación de un payaso y psicólogos.",
+          "image": "https://static.tvn-2.com/clip/fdf90fa9-79f5-4e5e-8245-9a3ad5572d55_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-10-21T18:38:44.000Z"
+        },
+        {
+          "title": "Temblor en Panamá: Santa Catalina comienza a recibir turistas y retoma la pesca",
+          "link": "https://www.tvn-2.com/nacionales/temblor-panama-santa-catalina-comienza-recibir-turistas-retoma-pesca-turismo_1_2267148.html",
+          "summary": "Mientras algunas instalaciones turísticas continúan con reparaciones, otros negocios se preparan para recibir visitantes este fin de semana y durante las fiestas patrias.",
+          "image": "https://static.tvn-2.com/clip/4350cbac-b457-4894-a95e-7b20ae2d453f_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-10-21T00:05:36.000Z"
+        },
+        {
+          "title": "Temblor en Panamá: Contraloría ya desembolsó $2.48 millones a 228 gobiernos locales para atender la emergencia",
+          "link": "https://www.tvn-2.com/nacionales/temblor-panama-contraloria-reporta-desembolso-dos-millones-juntas-comunales-alcaldias-afectadas_1_2267153.html",
+          "summary": "Flores explicó que se prepara una nueva planilla para incluir a las zonas que no habían reportado afectaciones .",
+          "image": "https://static.tvn-2.com/clip/f846591e-aec9-4d60-b930-2b57db675528_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-10-20T22:23:00.000Z"
+        },
+        {
+          "title": "Entre réplicas y lluvias, Claudina, de 82 años, espera una inspección de su casa mientras se inunda su refugio",
+          "link": "https://www.tvn-2.com/nacionales/provincias/temblor-panama-replicas-lluvias-claudina-guayabal-los-santos-inspeccion-casa_1_2267187.html",
+          "summary": "Claudina pide un espacio donde pueda permanecer junto a su hijo. Mientras esperan que se evalúe la vivienda.",
+          "image": "https://static.tvn-2.com/clip/1278eb30-4538-4578-95a5-bdfeb9599b2c_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-10-21T00:43:00.000Z"
+        },
+        {
+          "title": "Temblor en Panamá: Diputados proponen moratoria bancaria y ayudas de hasta $5,000 para afectados",
+          "link": "https://www.tvn-2.com/nacionales/temblor-panama-diputados-proponen-moratoria_1_2267194.html",
+          "summary": "Las iniciativas buscan brindar un respiro financiero a las familias, comerciantes, productores y propietarios de negocios turísticos de las provincias afectadas, especialmente en el interior del país.",
+          "image": "https://static.tvn-2.com/clip/94030d71-3f52-4402-b348-592ee9e7870d_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-10-21T01:23:38.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "telemetro",
+        "name": "Telemetro",
+        "homepage": "https://www.telemetro.com",
+        "lang": "es-PA"
+      },
+      "fetchedAt": "2026-10-22T15:13:03.461Z",
+      "items": [
+        {
+          "title": "Estados Unidos destina $1 millón para atender a comunidades afectadas por el terremoto en Panamá",
+          "link": "https://www.telemetro.com/nacionales/estados-unidos-destina-1-millon-atender-comunidades-afectadas-el-terremoto-panama-n6096156",
+          "summary": "La asistencia humanitaria de EE. UU. permitirá evaluar estructuras dañadas y apoyar la recuperación de las comunidades afectadas.",
+          "image": "https://media.telemetro.com/p/8b450a1b0863464ecb6e290953eff3e0/adjuntos/311/imagenes/019/146/0019146893/1200x675/smart/estados-unidos-destina-1-millon-comunidades-afectadas.jpeg",
+          "publishedAt": "2026-10-22T16:35:00.000Z"
+        },
+        {
+          "title": "Shirley Castañeda responde a José Luis Varela por mensaje sobre reformas electorales: \"A mí me va a respetar\"",
+          "link": "https://www.telemetro.com/nacionales/shirley-castaneda-responde-jose-luis-varela-mensaje-reformas-electorales-a-mi-me-va-respetar-n6096153",
+          "summary": "Shirley Castañeda cuestionó una publicación del diputado José Luis Varela sobre las reformas electorales y aseguró que no aceptará amenazas.",
+          "image": "https://media.telemetro.com/p/b2accbac26253c352be9b364bf303a6d/adjuntos/311/imagenes/018/893/0018893060/1200x675/smart/shirley-castanedapng.png",
+          "publishedAt": "2026-10-22T16:01:00.000Z"
+        },
+        {
+          "title": "Jubilados y pensionados: CSS adelanta el pago de noviembre y el cobro será la próxima semana",
+          "link": "https://www.telemetro.com/nacionales/jubilados-y-pensionados-css-adelanta-el-pago-noviembre-y-el-cobro-sera-la-proxima-semana-n6096146",
+          "summary": "La CSS anunció las fechas de pago para jubilados y pensionados por las Fiestas Patrias: el 30 de octubre por ACH y el 2 de noviembre por cheque.",
+          "image": "https://media.telemetro.com/p/359e0c9875e2fad5811773837eefc268/adjuntos/311/imagenes/019/134/0019134399/1200x675/smart/pago-jubilados-y-pensionados.png",
+          "publishedAt": "2026-10-22T15:48:00.000Z"
+        },
+        {
+          "title": "Juan Díaz suspende su celebración de más de 30 años y organiza caravana solidaria hacia Los Santos",
+          "link": "https://www.telemetro.com/nacionales/juan-diaz-suspende-su-celebracion-mas-30-anos-y-organiza-caravana-solidaria-los-santos-n6096148",
+          "summary": "aLa tradicional celebración de Juan Díaz fue suspendida por el terremoto. En su lugar, realizarán una caravana para llevar donaciones a las familias afectadas.",
+          "image": "https://media.telemetro.com/p/93bedb5978198e861ae5476ef4fe5b90/adjuntos/311/imagenes/019/146/0019146872/1200x675/smart/sheila-chen.png",
+          "publishedAt": "2026-10-22T15:29:00.000Z"
+        },
+        {
+          "title": "Terremoto de 7.5 en Panamá: SINAPROC presenta balance oficial con 11,321 viviendas evaluadas",
+          "link": "https://www.telemetro.com/nacionales/terremoto-75-panama-sinaproc-presenta-balance-oficial-11321-viviendas-evaluadas-n6096139",
+          "summary": "Consulta el balance de Sinaproc tras el terremoto de magnitud 7.5 en Panamá: viviendas evaluadas, personas albergadas y distribución de ayuda humanitaria.",
+          "image": "https://media.telemetro.com/p/35bd29706cac108443bbf2d9fa301137/adjuntos/311/imagenes/019/146/0019146851/1200x675/smart/terremoto-75-panama.png",
+          "publishedAt": "2026-10-22T15:12:00.000Z"
+        },
+        {
+          "title": "Penonomé cancela sus desfiles y celebraciones patrias de noviembre tras los daños del terremoto",
+          "link": "https://www.telemetro.com/nacionales/penonome-cancela-sus-desfiles-y-celebraciones-patrias-noviembre-los-danos-del-terremoto-n6096140",
+          "summary": "La Alcaldía de Penonomé anunció la suspensión de los desfiles patrios de noviembre de 2026 debido a las afectaciones provocadas por el terremoto.",
+          "image": "https://media.telemetro.com/p/d2097a8bdaebeb236e0527bf7e1f4a0d/adjuntos/311/imagenes/019/146/0019146833/1200x675/smart/penonome-cancela-sus-desfiles.png",
+          "publishedAt": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "¿Quiénes podrán desfilar el 3 y 4 de noviembre en Panamá?",
+          "link": "https://www.telemetro.com/nacionales/quienes-podran-desfilar-el-3-y-4-noviembre-panama-n6096132",
+          "summary": "Las actividades patrias se realizarán en dos rutas de la capital. Conozca qué agrupaciones podrán desfilar y dónde se desarrollarán las celebraciones.",
+          "image": "https://media.telemetro.com/p/d286d9bc0fe37fba0cbacf9bbcb54117/adjuntos/311/imagenes/018/959/0018959078/1200x675/smart/desfiles-patrios-casco-antiguo-2025.jpg",
+          "publishedAt": "2026-10-22T14:56:00.000Z"
+        },
+        {
+          "title": "¿Te tocó el sorteo Miercolito? Estos son los números ganadores del 21 de octubre y las provincias favorecidas",
+          "link": "https://www.telemetro.com/entretenimiento/te-toco-el-sorteo-miercolito-estos-son-los-numeros-ganadores-del-21-octubre-y-las-provincias-favorecidas-n6096138",
+          "summary": "Consulta los números premiados del Sorteo Miercolito del 21 de octubre de 2026, incluyendo el primer premio, las letras, la serie, el folio y las provincias.",
+          "image": "https://media.telemetro.com/p/3ea235d79a815e751e8c3de2e6b8a5ad/adjuntos/311/imagenes/019/107/0019107190/1200x675/926x379:946x399/sorteo-miercolito-la-loteria-nacional.png",
+          "publishedAt": "2026-10-22T14:45:00.000Z"
+        },
+        {
+          "title": "Metro San Isidro cambia desde hoy: así funcionará el tránsito y dónde abordar el metrobús",
+          "link": "https://www.telemetro.com/nacionales/metro-san-isidro-cambia-hoy-asi-funcionara-el-transito-y-donde-abordar-el-metrobus-n6096136",
+          "summary": "Desde este jueves 22 de octubre, MiBus implementará cambios en el intercambiador de Metro San Isidro de lunes a viernes, entre las 3:00 p.m. y las 6:30 p.m.",
+          "image": "https://media.telemetro.com/p/58de1e72130d3c4bc005c05c91845e4e/adjuntos/311/imagenes/019/018/0019018155/1200x675/smart/metrobus-mibus.png",
+          "publishedAt": "2026-10-22T14:36:55.000Z"
+        },
+        {
+          "title": "Tarjetas PUNCH del IFARHU: estos estudiantes con becas deben estar atentos al anuncio del lunes 26 de octubre",
+          "link": "https://www.telemetro.com/nacionales/tarjetas-punch-del-ifarhu-estos-estudiantes-becas-deben-estar-atentos-al-anuncio-del-lunes-26-octubre-n6096135",
+          "summary": "El IFARHU y la Caja de Ahorros anunciarán el 26 de octubre las sucursales y fechas para retirar tarjetas PUNCH de becas y asistencias económicas.",
+          "image": "https://media.telemetro.com/p/c30329fa7e2fa8ecbf18f3534ee9f2a1/adjuntos/311/imagenes/019/134/0019134124/1200x675/smart/tarjetas-punch-del-pase-u.png",
+          "publishedAt": "2026-10-22T14:28:00.000Z"
+        }
+      ]
+    }
+  ]
+}

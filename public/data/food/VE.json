@@ -1,0 +1,295 @@
+{
+  "country": "VE",
+  "dishes": [
+    {
+      "id": "arepa",
+      "name": "Arepa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Arepa%20recipe",
+      "description": "An arepa is a type of flatbread made of ground maize dough that may be stuffed with a filling, eaten in northern parts of South America since pre-Columbian times, and notable primarily in the cuisine of Colombia and Venezuela, but also present in Bolivia, Ecuador, and Central America.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Arepitas_Food_Macro.jpg/500px-Arepitas_Food_Macro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Arepa",
+      "recipe": {
+        "ingredients": [
+          "2.4 cups (500 g) corn flour for arepas",
+          "1.2 tsp salt",
+          "0.6 cup (140 g) grated white cheese",
+          "2.4 cups (500 g) cool water (or more if needed)"
+        ],
+        "steps": [
+          "In a large mixing bowl, whisk together the flour, salt, and white cheese. Stir in enough water to make a firm, slightly moist dough.",
+          "Cover the dough and let it rest for 5 minutes.",
+          "Divide the dough into 10 pieces and form each piece into a ball. Flatten the ball slightly.",
+          "Preheat the oven to 350 °F (180 °C).",
+          "Oil a griddle very lightly and warm it over medium heat. Cook the arepas on the griddle for about 5 minutes on each side, until a golden brown crust forms.",
+          "Transfer the arepas to a baking sheet and bake 20–25 minutes, turning them several times as they bake.",
+          "Serve immediately, with cheese, ham and black beans."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACornmeal_Pancakes_(Arepa)"
+      }
+    },
+    {
+      "id": "pabellon-criollo",
+      "name": "Pabellón criollo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pabell%C3%B3n%20criollo%20recipe",
+      "description": "Pabellón criollo is a traditional Venezuelan dish that is considered the national dish. It mixes elements from the three different cultures that intermixed during Spanish colonial times: Native Americans, Spanish and Africans. It is a plate of rice, shredded beef in stew and stewed black beans.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Pabell%C3%B3n_Criollo_Venezolano.jpg/500px-Pabell%C3%B3n_Criollo_Venezolano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pabell%C3%B3n_criollo",
+      "recipe": {
+        "ingredients": [
+          "3 tbsp olive oil",
+          "1 large onion, chopped",
+          "1 tsp finely chopped garlic",
+          "400 g (14 oz) tinned chopped tomatoes",
+          "½ tsp ground cumin",
+          "1 tsp salt",
+          "900 g (2 lb) lean steak, (sirloin or rump), about 12 mm (½ inch) thick"
+        ],
+        "steps": [
+          "Heat the oil in a large saucepan, add the onions and garlic and cook over a medium heat for about 5 minutes until the onions are soft and transparent.",
+          "Add the tomatoes, cumin and salt, mix well, reduce the heat to low and cook uncovered, for about 30 minutes, stirring often, until the tomato juices evaporate and the sauce becomes thick.",
+          "15 minutes before the end of the cooking time, preheat the grill to hot, place the steak on the grill pan and cook under the grill for 5 minute on each side.",
+          "Remove from the grill and cut into pieces about 12mm/ ½-inch long and 6mm/ ¼-inch wide then add the strips of beef to the sauce, mixing well."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APabell%C3%B3n_Criollo_(Venezuelan_Rice_and_Beans_with_Steak)"
+      }
+    },
+    {
+      "id": "hallaca",
+      "name": "Hallaca",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hallaca%20recipe",
+      "description": "Hallaca is a traditional South American dish. Its origin is indigenous, but raisins, capers, olives, and sometimes bits of bacon were added in the 16th Century and after by settlers from the Iberian Peninsula.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Hallacas_con_pan_de_jamon%2C_plato_Venezuelano.jpg/500px-Hallacas_con_pan_de_jamon%2C_plato_Venezuelano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hallaca",
+      "recipe": {
+        "ingredients": [
+          "Olive oil",
+          "1 tsp annatto seeds (also called \"achiote\" or \"onoto\")",
+          "1 tsp cumin seeds",
+          "1 tsp black peppercorns",
+          "1 tsp coriander seeds",
+          "4 white onions, sliced",
+          "1 vegetable stock cube",
+          "1 mushroom stock cube",
+          "1 tsp marmite",
+          "2 leeks, green and white parts cut in 1-inch chunks",
+          "1 large bunch of fresh herbs (coriander leaf, thyme, parsley, celery)",
+          "2 packets of spring onions, chopped",
+          "1 head of garlic, halved",
+          "1 jar of green olives",
+          "1 jar of capers",
+          "1 kg instant polenta meal (coarse corn meal)",
+          "500 g cooked and mashed new potatoes",
+          "Olive oil",
+          "2 red bell peppers",
+          "2 carrots, shredded",
+          "6 Brussels sprouts, shredded",
+          "1 handful of green beans, chopped",
+          "100 g mixed vine fruit",
+          "Cooking wine",
+          "20 prunes",
+          "1 can of chickpeas",
+          "1 jar of mixed pickles in mustard sauce",
+          "50 g almonds",
+          "1 can of mock duck or 1 packet of marinated tofu pieces",
+          "1 can of artichoke hearts",
+          "1 can of asparagus",
+          "Olive oil",
+          "2 red onions, sliced",
+          "1 leek, white part chopped",
+          "1 packet of mi-cuit (half dried) tomatoes or 1 tube of tomato paste",
+          "2 red bell peppers",
+          "2 green bell peppers",
+          "Soy sauce",
+          "Chili sauce",
+          "Ground cumin",
+          "Cooking wine (optional)",
+          "Wheat flour or cornstarch"
+        ],
+        "steps": [
+          "With a damp cloth, wipe the banana leaves.",
+          "Heat the banana leaves over a flame (gas cooker, camping fire, etc). The leaves should turn softer and darker, with a distinctive smoky smell.",
+          "Cut the hard rim without shredding the leaves. Cut in 30 cm segments along the transversal veins",
+          "In a small pan, warm 5 tsp olive oil with the annatto seeds for 20 minutes over very low heat. The oil should turn red. Strain to remove the seeds.",
+          "In the meantime, fry the cumin, black pepper, and coriander seeds in 2–3 tsp olive oil in a deep pan.",
+          "Add the white onion, 5 cups of boiling water, stock cubes, Marmite, chunked leeks, fresh herbs, three-quarters of the chopped spring onions, and garlic head.",
+          "Simmer this broth for 15 minutes.",
+          "Put the contents of the pot in a food processor and liquidise it. Strain the mixture very well, keeping the liquid and discarding the solids.",
+          "Put the broth in a large bowl, then add the annatto oil along with the liquid from the olive and the caper jars.",
+          "Add the polenta meal, 1 cup at a time, stirring very well. The consistency should be that of a smooth dough.",
+          "Mix the mashed potatoes with the polenta dough.",
+          "Test the consistency of the dough: Wrap 1 tsp dough with a small segment of banana leaf. Wrap it in aluminum foil and boil it in water for 15 minutes. If the cooked dough maintain the shape of the banana leaf \"package\", the dough is ready. If it crumbles or comes out half dissolved in water, then add more polenta meal. If it comes out rock hard, then add more water to the dough. Adjust the salt content as well.",
+          "Rub olive oil on 2 red bell peppers and grill them all over to char the skin.",
+          "Remove the skin and seeds and cut in 1 cm-wide strips. Set aside in a small bowl.",
+          "Vegetables: Combine the carrot, Brussels sprout, and green beans. Set aside in a small bowl.",
+          "Soak the vine fruit in cooking wine or replacement. Set aside in a small bowl.",
+          "Soak prunes in cooking wine or replacement. Set aside in a small bowl.",
+          "Drain chickpeas and set aside in a small bowl.",
+          "Set pickles aside in a small bowl.",
+          "Blanch and toast the almonds, and set aside in a small bowl.",
+          "Drain and chop the mock duck into 1 cm cubes and set aside in a small bowl.",
+          "Put the olives in a small bowl.",
+          "Put the capers in a small bowl.",
+          "Drain the artichoke hearts, cut in quarters and set aside in a small bowl.",
+          "Drain the asparagus and put it on a plate.",
+          "Quickly stir-fry the red onion, chopped leek, and the remaining chopped spring onions.",
+          "Using a food processor, liquidise the tomatoes, and peppers. Add to the cooking onions and leek, and stir for a minute.",
+          "Add soy sauce, chili sauce, and ground cumin to season. Add some cooking wine if you want. Let it simmer for another minute.",
+          "Add some flour to thicken. Set the sauce aside in a bowl.",
+          "Cut a 35 cm-long piece of aluminum foil and put it over the table. Cover with a banana leaf, with the transversal veins along the horizontal axis.",
+          "Rub oil on the surface of the banana leaf. Put a bit more than half a ladle of dough in the centre of the leaf. Spread with a spoon to make a 14 cm-diameter circle.",
+          "Put 1 tsp sauce in the middle. Put 1½ tsp shredded vegetables over the sauce. Add 2 olives and 2 capers, one on each corner of the dough. Keep placing the rest of the fillings as in a collage: 1 tsp vine fruit, 1 prune, 2 tsp pickles, 1 tsp chickpeas, 3 cubes of mock duck, 1 asparagus, 2 strips of grilled pepper, and some leaves of parsley.",
+          "Wrap the filling with the banana leaf (not against the veins). Fold the foil to seal the ends of the banana leaf packet. Then, fold the foil to wrap the whole packet. Tie it with kitchen string. Repeat for the rest of the dough.",
+          "Boil the hallacas in a covered pot of water for 20–30 minutes. You may have to do this in batches unless you have a huge cauldron.",
+          "Drain the hallacas and let them cool for 10 hours. Store them in the fridge or freezer if desired.",
+          "Reheat the hallacas in boiling water, simmering for 10 minutes before eat them. Enjoy your meal!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHallaca_(Venezuelan_Stuffed_Corn_Dough)"
+      }
+    },
+    {
+      "id": "cachapa",
+      "name": "Cachapa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cachapa%20recipe",
+      "description": "Cachapa is a traditional dish made from maize flour from Venezuela. Like arepas, they are popular at roadside stands. They can be made like pancakes of fresh corn dough, or wrapped in dry corn leaves and boiled (cachapa de hoja).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Cooking_a_cachapa.jpg/500px-Cooking_a_cachapa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cachapa",
+      "recipe": {
+        "ingredients": [
+          "1 can (14 fl oz / 398 g) creamed corn",
+          "¾ cup pancake mix",
+          "¼ cup flour",
+          "1 egg",
+          "2 tablespoons melted butter or margarine",
+          "2 tablespoons sugar, or to taste",
+          "Cheese of your choice"
+        ],
+        "steps": [
+          "Blend all the ingredients together in a blender. The mix should become thick and heavy. If not, add more corn.",
+          "Shape the mix into small pancakes approximately ½ inch (1.5 cm) thick and about 5 inches (13 cm) in diameter. Let them cook on medium heat for about 1 minute on each side, or until small bubbles form on the top.",
+          "Cachapas should be served hot and may be accompanied with cheese (feta cheese is one option, Mexican white cheese \"Cotija\", Venezuelan or Colombian \"Queso Blanco\" ,\"Queso de Mano\" or \"Queso Guayanes\" where available)."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACachapa_(Venezuelan_Corn_Pancakes)"
+      }
+    },
+    {
+      "id": "tequenos",
+      "name": "Tequeños",
+      "videoSearch": "https://www.youtube.com/results?search_query=Teque%C3%B1os%20recipe",
+      "description": "Tequeño is a fried spear of wheat dough stuffed with semi-hard queso blanco (white cheese), and is a popular meal or snack in Venezuela. To prepare it, the dough is wrapped around a cheesestick, formed into a breadstick and then fried or sometimes oven-baked.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Teque%C3%B1os_v%C3%A9n%C3%A9zu%C3%A9liens_%C3%A0_Arepado_%28Lyon%29%2C_avril_2019_%282%29.jpg/500px-Teque%C3%B1os_v%C3%A9n%C3%A9zu%C3%A9liens_%C3%A0_Arepado_%28Lyon%29%2C_avril_2019_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Teque%C3%B1o",
+      "recipe": {
+        "ingredients": [
+          "1 kg flour",
+          "1 cup vegetable oil",
+          "1 egg",
+          "1 teaspoon salt",
+          "1 teaspoon sugar",
+          "1 kg white soft cheese"
+        ],
+        "steps": [
+          "Mix the flour, oil, egg, salt and sugar in a bowl to make a dough.",
+          "While kneading, add 1–2 tablespoons water. Keep kneading until it does not stick to your hands.",
+          "Let the dough rest for 1–2 hours.",
+          "While the dough is resting, cut the cheese into finger-like strips, roughly 1 x 1 x 7 cm (½ x ½ x 3 inches).",
+          "After the dough has rested, shape it into palm sized balls.",
+          "Roll them out until they are ½ cm (¼–0.125 inch) thick.",
+          "Cut the rolled-out dough into long strips that are 1½ cm (¾ inch) wide.",
+          "Wrap the cheese strips with the dough strips.",
+          "Make sure you cover all the cheese and seal it inside the dough, because otherwise the cheese will leak out of the dough when frying.",
+          "After you have wrapped the cheese in dough, dust the raw tequeños with flour and deep fry them in hot oil until golden.",
+          "Serve with guasacaca, in either its mild (green) or spicy (red) formats."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATeque%C3%B1os_(Venezuelan_Breaded_Cheese_Sticks)"
+      }
+    },
+    {
+      "id": "pan-de-jamon",
+      "name": "Pan de jamón",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pan%20de%20jam%C3%B3n%20recipe",
+      "description": "Pan de jamón (ham bread) is a typical Venezuelan Christmas bread, filled with ham, raisins and green olives. Many variations have been created, some filling the bread with other ingredients like turkey or cream cheese and others using puff pastry as the dough.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Pan_de_jamon%2C_Venezuelan_food.jpg/500px-Pan_de_jamon%2C_Venezuelan_food.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pan_de_jam%C3%B3n",
+      "recipe": {
+        "ingredients": [
+          "¼ cup warm water",
+          "1 teaspoon (4 g / ½ packet) active dry yeast",
+          "6 teaspoons brown sugar",
+          "5 tablespoons melted butter",
+          "2 eggs",
+          "2 cups flour, plus extra",
+          "¼ lb (220 g) thin-sliced, cured ham",
+          "2 teaspoons olive oil",
+          "¼ cup milk",
+          "½ teaspoon salt",
+          "¼ cup raisins",
+          "¼ cup pimento-stuffed olives"
+        ],
+        "steps": [
+          "In a large bowl stir 1 teaspoon of the brown sugar into the water and sprinkle the yeast on top. Let sit 5–8 minutes until the yeast is foamy.",
+          "While the yeast is proofing, lightly chop the raisins and olives, or give them a few pulses in a food processor. Put in a small bowl and set aside. Make sure the olives are drained of liquid before chopping.",
+          "Once the yeast is foamy, add 1 cup of the flour, one egg, and 4 tablespoons of the butter. Mix thoroughly with a fork or with dough hooks.",
+          "Add the second cup of flour, the milk, 4 teaspoons of the brown sugar, olive oil, and the salt. Blend thoroughly until it pulls together. Knead by hand or with dough hooks for 5–6 minutes. The dough should be smooth and slightly sticky.",
+          "Place the dough in an oiled bowl and lightly cover the top of the dough with spray oil. Put in a warm place to rise, about 90 minutes.",
+          "Once the dough is risen, turn out onto a lightly floured surface and roll into a square about 12 inches to a side. Brush with the remaining melted butter.",
+          "Place a layer of ham slices, leaving a strip about 1 inch on one side uncovered. This will form the outermost edge of the roll.",
+          "Spread the raisin/olive mixture evenly on top of the ham.",
+          "Starting on the inner edge, tightly roll up the dough. It should make 3–4 full revolutions.",
+          "Wet the uncovered strip of dough and roll the loaf until the edge is directly on the bottom. This allows the dough to stick to itself and form a tight seal. Pinch and twist the ends of the loaf with wet fingers to seal.",
+          "Place the loaf on parchment paper on a large baking sheet.",
+          "Beat the remaining egg with the remaining 1 teaspoon of brown sugar. Evenly brush the outside of the loaf with the mixture, taking care to wipe away any puddles that form.",
+          "Put in a warm place to continue rising for about 40 minutes.",
+          "Preheat the oven to 350°F. Put the loaf in and bake for 30–40 minutes.",
+          "Remove and cool on a wire rack.",
+          "To serve, cut into slices about the width of your finger."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APan_de_Jam%C3%B3n"
+      }
+    },
+    {
+      "id": "tostones",
+      "name": "Tostones",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tostones%20recipe",
+      "description": "Tostones are twice-fried plantain slices commonly found in Latin American cuisine and Caribbean cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Tostones.JPG/500px-Tostones.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tostones",
+      "recipe": {
+        "ingredients": [
+          "2 green (unripe) plantains",
+          "Oil for deep frying",
+          "Salt"
+        ],
+        "steps": [
+          "Heat the oil in a deep fat fryer to 180°C / 350°F.",
+          "Slice the plantain very thinly, then fry in the hot oil until golden brown.",
+          "Remove from the oil, and when cool enough to handle, sprinkle with salt and flatten each slice with a mallet until very thin.",
+          "Reheat the oil until very hot, then fry the flattened plantain slices until crisp and golden on both sides. Drain on absorbent paper."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATost%C3%B3n_(Fried_Plantains)"
+      }
+    },
+    {
+      "id": "quesillo",
+      "name": "Quesillo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Quesillo%20recipe",
+      "description": "Quesillo refers to different Latin American, Spanish, and Filipino foods or dishes depending on the country:",
+      "wikipedia": "https://en.wikipedia.org/wiki/Quesillo"
+    },
+    {
+      "id": "mandoca",
+      "name": "Mandoca",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mandoca%20recipe",
+      "description": "A mandoca is a Venezuelan deep fried, ring-shaped food, made with a mix of plantains and cornmeal. It is usually served at breakfast, with butter, cheese and coffee, and it is most popular in the Venezuelan states of Zulia and Falcón. Mandocas are one of a variety of culinary specialties of Zulia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mandocas_maracuchas.jpg/500px-Mandocas_maracuchas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mandoca"
+    },
+    {
+      "id": "cachito",
+      "name": "Cachito",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cachito%20recipe",
+      "description": "The cachito, also known as cachito de jamón, is a Venezuelan pastry similar to the croissant that is often filled with ham and cheese.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Cachitos_close-up_%283175160347%29.jpg/500px-Cachitos_close-up_%283175160347%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cachito"
+    }
+  ]
+}

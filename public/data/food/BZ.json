@@ -1,0 +1,53 @@
+{
+  "country": "BZ",
+  "dishes": [
+    {
+      "id": "fry-jacks",
+      "name": "Fry jacks",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fry%20jacks%20recipe",
+      "description": "Fry jacks are a traditional dish in Belizean cuisine. They are deep-fried dough pieces served for breakfast, and can be shaped as circles or triangles.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Fry_jacks_with_eggs_and_salsa.jpg/500px-Fry_jacks_with_eggs_and_salsa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fry_jack"
+    },
+    {
+      "id": "salbutes",
+      "name": "Salbutes",
+      "videoSearch": "https://www.youtube.com/results?search_query=Salbutes%20recipe",
+      "description": "A salbut (pl. salbutes, from Yucatec Maya sáal 'light' and buutʼ 'stuffed') is a puffed deep fried tortilla that is topped with lettuce, sliced avocado, pulled chicken or turkey, tomato and pickled red onion. Salbutes originate from the Yucatán Peninsula and are a staple in Belize.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Coox_hanal_salbutes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Salbute"
+    },
+    {
+      "id": "garnaches",
+      "name": "Garnaches",
+      "videoSearch": "https://www.youtube.com/results?search_query=Garnaches%20recipe",
+      "description": "Garnachas (alternatively Garnaches) is a traditional Guatemalan dish composed of fried corn tortillas topped with refried beans, shredded cabbage, cheese, and other garnishes. Aside from Guatemala, garnaches are especially popular in Belize and in the Mexican states of Veracruz and Oaxaca.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Garnachas.jpg/500px-Garnachas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Garnacha_(food)"
+    },
+    {
+      "id": "rice-and-beans",
+      "name": "Rice and beans",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rice%20and%20beans%20recipe",
+      "description": "Rice and beans, or beans and rice, is a category of dishes from many cultures around the world where the staple foods of rice and beans are combined in some manner. The grain and legume combination provides several important nutrients and many calories, and both foods are widely available.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Rice_and_beans%2C_Hotel_in_Itatiaia.jpeg/500px-Rice_and_beans%2C_Hotel_in_Itatiaia.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rice_and_beans"
+    },
+    {
+      "id": "dukunu",
+      "name": "Dukunu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dukunu%20recipe",
+      "description": "Duckunoo or duckanoo, also referred to as tie-a-leaf, blue drawers (draws), dokonon (in French Guiana), and dukunou (in Haiti), is a dessert in Jamaica, Belize, Haiti, Antigua and Barbuda, St Vincent, French Guiana and some other islands in the Lesser Antilles.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Jamaican_cornmeal_duckunoo.jpg/500px-Jamaican_cornmeal_duckunoo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Duckanoo"
+    },
+    {
+      "id": "stew-chicken",
+      "name": "Stew chicken",
+      "videoSearch": "https://www.youtube.com/results?search_query=Stew%20chicken%20recipe",
+      "description": "Brown stew chicken is a meat dish eaten throughout the English-speaking Caribbean islands. Some countries in the Caribbean use this name interchangeably with another popular dish referred to as stew chicken that has a different recipe.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Brown_stew_and_jerk_chicken.jpg/500px-Brown_stew_and_jerk_chicken.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Brown_stew_chicken"
+    }
+  ]
+}

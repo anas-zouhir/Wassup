@@ -1,0 +1,107 @@
+{
+  "country": "TG",
+  "dishes": [
+    {
+      "id": "fufu",
+      "name": "Fufu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fufu%20recipe",
+      "description": "Fufu (or fufuo, foofoo, foufou foo-foo ) is a pounded meal found in West African cuisine originally made from boiled cassava, plantains, and cocoyam. Fufu's prevalence in West Africa has been noted in local literature, such as Chinua Achebe's Things Fall Apart. Fufu is a Twi word originating from the Akans in Ghana.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Wrapped_fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fufu"
+    },
+    {
+      "id": "akoume",
+      "name": "Akoumé with gboma dessi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Akoum%C3%A9%20with%20gboma%20dessi%20recipe",
+      "recipe": {
+        "ingredients": [
+          "5 tablespoons palm oil or vegetable oil",
+          "3 medium size onions, thinly sliced",
+          "3 medium size garlic cloves, finely minced",
+          "2 tablespoon ginger powder (optional)",
+          "3 lb meat, cut into large cubes",
+          "Salt to taste",
+          "2 hot pepper, neatly chopped",
+          "3 crushed chicken bouillon cubes",
+          "Gbotemi spice blend (cloves, aniseed, ajwain, and cardamom, toasted and ground with ginger powder)",
+          "1 lb spinach",
+          "1 can (14 oz) tomato paste",
+          "2 cups water",
+          "1 cup corn flour",
+          "1½ cup all purpose flour",
+          "¼ cup potato starch"
+        ],
+        "steps": [
+          "Put a pressure cooker on the fire and pour some oil into it. Add and sauté some of the sliced onions, minced garlic, and ginger powder for 2 minutes.",
+          "Add the meat, hot pepper, 2 bouillon cubes, and salt to taste. Add enough water to slightly cover the meat. Reduce the heat and cook for about 40 minutes or more, depending on the meat and the pressure cooker.",
+          "While the meat is cooking, wash the spinach leaves and boil in salted water for 15 minutes. Then, drain and cut into thin slices.",
+          "Remove the meat from the pressure cooker, drain it and put it in a bowl. Keep the broth in the pot.",
+          "Season the meat with the gbotemi spice blend.",
+          "Sauté the remaining onions and garlic cloves in a saucepan with the remaining palm oil or vegetable oil.",
+          "Add the tomato paste, and cook, stirring regularly for at least 10 minutes. Season with the remaining bouillon cube and hot pepper, then stir in the reserved broth. Boil over medium heat for 25 minutes.",
+          "Add spinach then the meat. Simmer for at least 15 minutes, then remove from the heat.",
+          "Pour 2 cups of water in a saucepan. Add the corn flour and mix with a wooden spoon.",
+          "When the water boils, add the all purpose flour and stir vigorously.",
+          "Dilute the starch potato in 1 cup of water and pour into the pan.",
+          "Stir vigorously for 3 minutes, then cover the pot and cook over medium heat for 5 minutes.",
+          "Once the dough is ready, you can shape it to any form of your desire.",
+          "Serve the gboma dessi on top of this akoume in a banana leaf, or serve the gboma dessi on the side of the akoume in a big plate."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGboma_Dessi_and_Akoume_(Togolese_Spinach_Stew_with_Corn_Swallow)"
+      }
+    },
+    {
+      "id": "ablo",
+      "name": "Ablo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ablo%20recipe",
+      "description": "Ablo was a social networking service for instant communications. It enabled users to communicate with people from anywhere in the world by having live one-to-one text and video conversations, using an automated translation feature. Ablo was owned by Massive Media, a Belgium-based company founded in 2011.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ablo_logo.png/500px-Ablo_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ablo"
+    },
+    {
+      "id": "ewa-aganyin",
+      "name": "Ewa aganyin",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ewa%20aganyin%20recipe",
+      "description": "Ewa aganyin (Yoruba) (also spelled as Ewa agoyin) is a Yoruba dish commonly eaten in Yorubaland across Togo, Nigeria and Benin. It is also popular as street food. The dish consists of beans cooked until extremely soft and then mashed.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Beans_and_fried_plantains_with_Beef02.jpg/500px-Beans_and_fried_plantains_with_Beef02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ewa_aganyin",
+      "recipe": {
+        "ingredients": [
+          "3 cups dried beans, picked free of debris",
+          "4 medium-size onions, finely chopped",
+          "Salt to taste",
+          "100 grams crushed dried chiles, soaked in warm water for at least 3 hours or preferably overnight",
+          "Palm oil",
+          "Chicken bouillon cubes"
+        ],
+        "steps": [
+          "Put a pot on a medium heat, then add the rinsed beans, enough water to cook it, half of the finely cut onions, and salt to taste. Boil together until they become tender. This will take a while using a regular pot; if you want the cooking process to be faster, you can use a pressure cooking pot. Check regularly to avoid the beans drying out, and add water when needed.",
+          "While waiting for the beans to cook, start preparing the sauce below.",
+          "Once the beans becomes tender, mash until almost smooth.",
+          "Drain the soaked crushed chillies, and blend with some onions to a purée; you can add a little bit of water when blending if needed.",
+          "Place a clean dry pan on medium heat, pour in the palm oil, and leave to bleach for about 2 minutes. Add the remaining chopped onions and fry until the onions are brown but not burnt.",
+          "Add the blended pepper and cook on low heat. Once the pepper starts changing colour from bright red to brown, add salt and the bouillon cubes to taste. If you feel the sauce is soaking up the oil, you can add more palm oil, but do not add water at all. You will need to keep an eye on the sauce so that it does not get burnt, but it might get burnt a little.",
+          "Continue to cook on low heat until the oil floats on the top.",
+          "When it is fully done, serve the beans and sauce together."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AEwa_Aganyin_(Togolese_Mashed_Beans_and_Special_Sauce)"
+      }
+    },
+    {
+      "id": "akpan",
+      "name": "Akpan",
+      "videoSearch": "https://www.youtube.com/results?search_query=Akpan%20recipe",
+      "description": "Akpan, also known as akassa, is a fermented maize yogurt. A product of Togolese and Beninese cuisine, it is considered a dessert.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Akpan.JPG/500px-Akpan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Akpan_(dessert)"
+    },
+    {
+      "id": "kokonte",
+      "name": "Kokonte",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kokonte%20recipe",
+      "description": "Kokonte, also known as abetiɛ, lapiiwa, lapelawa or “face the wall”, is a staple swallow food eaten in some parts of Africa including Togo, Ghana and others.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Kokonte_Dish.jpg/500px-Kokonte_Dish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kokonte"
+    }
+  ]
+}

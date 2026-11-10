@@ -1,0 +1,77 @@
+{
+  "country": "ER",
+  "dishes": [
+    {
+      "id": "injera",
+      "name": "Injera",
+      "localName": "እንጀራ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Injera%20recipe",
+      "description": "Injera, also known as taita, is a sour fermented pancake-like flatbread with a slightly spongy texture, traditionally made of teff flour. In Ethiopia, injera is a staple. Injera is central to the dining process in Amhara society, like bread or rice elsewhere, and is usually stored in the mesob.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Injera_with_eight_kinds_of_stew.jpg/500px-Injera_with_eight_kinds_of_stew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Injera"
+    },
+    {
+      "id": "zigni",
+      "name": "Zigni",
+      "localName": "ዝግኒ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zigni%20recipe",
+      "description": "Zigni (Tigrinya: ዝግኒ), kaih tsebhi (Tigrinya: ቀይሕ ጸብሒ) or kai wat (Amharic: ቀይ ወጥ) is a popular Eritrean and Ethiopian stew (tsebhi or wat) made from meat, tomatoes, red onions and Berbere spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Zigni.jpg/500px-Zigni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zigni"
+    },
+    {
+      "id": "shiro",
+      "name": "Shiro",
+      "localName": "ሽሮ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shiro%20recipe",
+      "description": "Shiro (Ge'ez: ሽሮ, romanized: šəro), also called shiro wat (Amharic: ሽሮ ወጥ, romanized: šəro wäṭ), or tsebhi shiro (Tigrinya: ጸብሒ ሽሮ, romanized: ṣäbhi šəro), is a stew served for either lunch or dinner, originating from Northern Ethiopia and Southern Eritrea.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Taita_and_shiro.jpg/500px-Taita_and_shiro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shiro_(food)"
+    },
+    {
+      "id": "kitcha-fit-fit",
+      "name": "Kitcha fit-fit",
+      "localName": "ቂጣ ፍትፍት",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kitcha%20fit-fit%20recipe",
+      "description": "Kitta (Tigrinya: ቅጫ, kitta Amharic: ቂጣ) (Oromo: Maxinoo) is a relatively thin unleavened bread typical of Ethiopian and Eritrean cuisine. It is generally made with wheat flour, water, and salt. It is cooked in a hot pan free-form until one side is cooked.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Kita_herb_bread.jpg/500px-Kita_herb_bread.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kitcha"
+    },
+    {
+      "id": "ful",
+      "name": "Ful",
+      "localName": "ፉል",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ful%20recipe",
+      "description": "Shahan ful, simplified to ful, is a dish common in Sudan, South Sudan, Somalia, Ethiopia and other parts of the Horn of Africa, which is generally served for breakfast. Believed to originate from Sudan, it is made by slowly cooking fava beans in water. Once the beans have softened, they are crushed into a coarse paste.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/ShahanFul.jpg/500px-ShahanFul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shahan_ful"
+    },
+    {
+      "id": "himbasha",
+      "name": "Himbasha",
+      "localName": "ሕምባሻ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Himbasha%20recipe",
+      "description": "Himbasha (Tigrinya: ሕምባሻ) or Ambasha (Amharic: አምባሻ), is an Ethiopian and Eritrean celebration bread that is slightly sweet. It became popular in Eritrean cuisine, often served at special occasions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Himbasha.jpg/500px-Himbasha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Himbasha"
+    },
+    {
+      "id": "gaat",
+      "name": "Ga'at",
+      "localName": "ገዓት",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ga'at%20recipe",
+      "description": "Genfo (Amharic: ገንፎ, romanized: gänfo), also known as ga’at (Tigrinya: ጋዓት, gaʻat) or marca (Oromo: marqaa) is a stiff porridge-like dish that is normally formed into a round shape with a hole in the middle for the dipping sauce, a mixture of butter and red peppers, or pulses such as sunflower, seed, nut (Carthamus tin…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Ga%27at_food.jpg/500px-Ga%27at_food.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Genfo"
+    },
+    {
+      "id": "hilbet",
+      "name": "Hilbet",
+      "localName": "ሕልበት",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hilbet%20recipe",
+      "description": "Hilbet (Tigrinya፡ ሕልበት) is a traditional food originating from the Tigray-Tigrinya people found in southern Eritrea and northern Ethiopia. It is a vegan food that is made from fava beans, fenugreek, lentil, and other spices that are ground into a powder.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Hilbet.jpg/500px-Hilbet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hilbet"
+    }
+  ]
+}

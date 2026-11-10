@@ -1,0 +1,79 @@
+{
+  "country": "SG",
+  "dishes": [
+    {
+      "id": "hainanese-chicken-rice",
+      "name": "Hainanese chicken rice",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hainanese%20chicken%20rice%20recipe",
+      "description": "Hainanese chicken rice is a dish of poached or roasted chicken with seasoned rice, served with chilli sauce and usually with cucumbers, tomato slices or cilantro garnishes. It was created by immigrants from Hainan in southern China and adapted from the Hainanese dishes of Wenchang chicken and Wenchang chicken rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Hainanese_Chicken_Rice.jpg/500px-Hainanese_Chicken_Rice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hainanese_chicken_rice"
+    },
+    {
+      "id": "chilli-crab",
+      "name": "Chilli crab",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chilli%20crab%20recipe",
+      "description": "Chilli crab (Chinese: 辣椒螃蟹; pinyin: làjiāo pángxiè; Malay: ketam cabai, ketam cili) is a Southeast Asian seafood dish that is most popular in the cuisines of Malaysia and Singapore. The widely known version of chilli crab today could be traced back to the 1950s in Malaysia and Singapore.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Chilli_crab-02.jpg/500px-Chilli_crab-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chilli_crab"
+    },
+    {
+      "id": "kaya-toast",
+      "name": "Kaya toast",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kaya%20toast%20recipe",
+      "description": "Kaya toast is a dish consisting of two slices of toast with butter and kaya (coconut jam), commonly served alongside kopi and soft-boiled eggs. The dish was believed to be created by Hainanese immigrants to the Straits Settlements in the 19th century while serving on British ships at the Port of Singapore.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Kaya_toast_on_a_plate.jpg/500px-Kaya_toast_on_a_plate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kaya_toast"
+    },
+    {
+      "id": "fish-head-curry",
+      "name": "Fish head curry",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fish%20head%20curry%20recipe",
+      "description": "Fish head curry (Malay: kari kepala ikan) is a dish in Malaysian and Singaporean cuisines with mixed Indian and Chinese origins. The head of a red snapper is stewed in a Kerala-style curry with assorted vegetables such as okra and eggplants. It is usually served with either rice or bread, or as a shared dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Fisheadcurry.JPG/500px-Fisheadcurry.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fish_head_curry"
+    },
+    {
+      "id": "hokkien-mee",
+      "name": "Hokkien mee",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hokkien%20mee%20recipe",
+      "description": "Hokkien mee, meaning \"Fujian noodles\" in Southern Min, is a group of related Southeast Asian dishes that have their origins in the cuisine of China's Fujian (Hokkien) province.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Newton_HokkienMee.JPG/500px-Newton_HokkienMee.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hokkien_mee"
+    },
+    {
+      "id": "chai-tow-kway",
+      "name": "Fried carrot cake",
+      "localName": "菜头粿",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fried%20carrot%20cake%20recipe",
+      "description": "Radish cake, turnip cake or chai tow kway is a Chinese dish made of steamed rice flour and shredded daikon radish often served as dim sum. It is traditionally called carrot cake in Singapore, but has no relation to European carrot cake.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/%E9%A6%99%E7%85%8E%E8%98%BF%E8%94%94%E7%B3%95_%E2%80%9CFried_Turnip_Cake%E2%80%9D%2C_%E5%88%A9%E8%8B%91%E9%85%92%E5%AE%B6%E5%8D%88%E5%B8%82%E9%BB%9E%E5%BF%83_Lei_Garden_Lunchtime_Dim_Sum_SML.20120925.G12.00418_%288085981921%29.jpg/500px-%E9%A6%99%E7%85%8E%E8%98%BF%E8%94%94%E7%B3%95_%E2%80%9CFried_Turnip_Cake%E2%80%9D%2C_%E5%88%A9%E8%8B%91%E9%85%92%E5%AE%B6%E5%8D%88%E5%B8%82%E9%BB%9E%E5%BF%83_Lei_Garden_Lunchtime_Dim_Sum_SML.20120925.G12.00418_%288085981921%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Turnip_cake"
+    },
+    {
+      "id": "rojak",
+      "name": "Rojak",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rojak%20recipe",
+      "description": "Rojak or rujak (Javanese: ꦫꦸꦗꦏ꧀) is a salad dish of Javanese origin, commonly found in Indonesia, Malaysia, and Singapore. The most popular variant in all three countries is composed of a mixture of sliced fruit and vegetables and served with a spicy palm sugar dressing.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Rujak_Buah_%28Indonesian_Fruit_Salad%29.JPG/500px-Rujak_Buah_%28Indonesian_Fruit_Salad%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rojak"
+    },
+    {
+      "id": "katong-laksa",
+      "name": "Katong laksa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Katong%20laksa%20recipe",
+      "description": "Katong laksa is a variant of laksa lemak inspired by the Peranakans who live in the precinct of Katong in Singapore. It has an orange-yellow-coloured spicy soup stock, flavoured with coconut milk and dried shrimp, topped with ingredients like cockles, prawns and fish cake.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Food_KatongLaksa.JPG/500px-Food_KatongLaksa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Katong_laksa"
+    },
+    {
+      "id": "popiah",
+      "name": "Popiah",
+      "localName": "薄饼",
+      "videoSearch": "https://www.youtube.com/results?search_query=Popiah%20recipe",
+      "description": "Popiah (Pe̍h-ōe-jī: po̍h-piáⁿ, Teochew Peng'im: boh⁸ bian²) is a Fujianese/Teochew-style fresh spring roll filled with an assortment of fresh, dried, and cooked ingredients, eaten during the Qingming Festival and other celebratory occasions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/LunBhia.jpg/500px-LunBhia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Popiah"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "country": "SA",
+  "dishes": [
+    {
+      "id": "kabsa",
+      "name": "Kabsa",
+      "localName": "كبسة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kabsa%20recipe",
+      "description": "Kabsa (Arabic: كبسة, romanized: kabsah), also known as Makboos (Gulf Arabic: مكبوس) or Machboos, is an Arab mixed rice dish that originates from Saudi Arabia or Yemen. It is commonly regarded as a national dish in all the countries of the Gulf Cooperation Council.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Machboos_%28cropped%29.JPG/500px-Machboos_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kabsa"
+    },
+    {
+      "id": "mandi",
+      "name": "Mandi",
+      "localName": "مندي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mandi%20recipe",
+      "description": "Mandi (Arabic: مندي, also known as zarb or quzi) is a traditional Arab dish with regional variations across the Arab world. It consists mainly of meat and rice with a blend of spices, and is cooked in a pit.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Mandi_pit_from_inside.jpg/500px-Mandi_pit_from_inside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mandi_(food)"
+    },
+    {
+      "id": "saleeg",
+      "name": "Saleeg",
+      "localName": "سليق",
+      "videoSearch": "https://www.youtube.com/results?search_query=Saleeg%20recipe",
+      "description": "Saleeg is a white-rice dish, cooked with broth (chicken or other meat) and milk. It originates in Hejaz region in the west of Saudi Arabia, where it is commonly regarded as a national dish of the region. The dish is very popular in the city of Taif.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Hijazi_Saleeg.jpg/500px-The_Hijazi_Saleeg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saleeg"
+    },
+    {
+      "id": "harees",
+      "name": "Harees",
+      "localName": "هريس",
+      "videoSearch": "https://www.youtube.com/results?search_query=Harees%20recipe",
+      "description": "Harees, haresa, hareesa, arizah, harise, jarish, jareesh, (Arabic: هريس), harisa (Armenian: հարիսա), or korkot (Armenian: կորկոտ) is a dish of boiled, cracked, or coarsely-ground cracked wheat or bulgur, mixed with meat, spices, and butter. Its consistency varies between a porridge and a gruel.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Armenian_Harisa.JPG/500px-Armenian_Harisa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Harees"
+    },
+    {
+      "id": "masoub",
+      "name": "Masoub",
+      "localName": "معصوب",
+      "videoSearch": "https://www.youtube.com/results?search_query=Masoub%20recipe",
+      "description": "Masoob (Arabic: معصوب) is a traditional banana-based pudding from the Hadhramaut region in Yemen. It is made from over-ripe bananas, ground flat bread, cream, cheese, honey, and sometimes dates. It is popular in other Arab states like Saudi Arabia and the UAE, where Hadhrami immigrant communities introduced the dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Yemeni_Masoob.jpg/500px-Yemeni_Masoob.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Masoob"
+    },
+    {
+      "id": "mutabbaq",
+      "name": "Mutabbaq",
+      "localName": "مطبق",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mutabbaq%20recipe",
+      "description": "Murtabak, or mutabbaq, is a stuffed pancake or pan-fried bread commonly found in the Arabian Peninsula, parts of the Indian subcontinent, and Southeast Asia (especially Maritime Southeast Asia), notably in Saudi Arabia, Yemen, parts of South India, Indonesia, Malaysia, Singapore, Brunei, and Southern Thailand.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Murtabak.jpg/500px-Murtabak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Murtabak"
+    },
+    {
+      "id": "tharid",
+      "name": "Thareed",
+      "localName": "ثريد",
+      "videoSearch": "https://www.youtube.com/results?search_query=Thareed%20recipe",
+      "description": "Tharid (Arabic: ثريد) also known as thareed, trid, fareed, tashrib, tashreeb or taghrib is a bread soup that originates from Mecca, Saudi Arabia, an Arab cuisine also found in many other Arab countries.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Tharid._%28cropped%29.JPG/500px-Tharid._%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tharid"
+    },
+    {
+      "id": "luqaimat",
+      "name": "Luqaimat",
+      "localName": "لقيمات",
+      "videoSearch": "https://www.youtube.com/results?search_query=Luqaimat%20recipe",
+      "description": "Lokma (derived from the 13th century Arab dessert luqmat al-qādi) is a dessert made of leavened and deep-fried dough balls, soaked in syrup or honey, and sometimes coated with cinnamon or other ingredients.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Sam%27dan_lokma_tatlisi.jpg/500px-Sam%27dan_lokma_tatlisi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lokma"
+    },
+    {
+      "id": "kleija",
+      "name": "Kleija",
+      "localName": "كليجا",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kleija%20recipe",
+      "description": "Kleicha (Persian: کلوچه, romanized: koluche; North Mesopotamian Arabic: كليچة, romanized: klēči, Mesopotamian Arabic: كليچة, romanized: kilēča; Najdi Arabic: كليجة, romanized: k(i)lēja; Syriac: ܟܠܫ̮ܵܐ, romanized: kleča; Kurmanji Kurdish: kade; Sorani Kurdish: کادە, romanized: kāda; Turkish: kiliçe) is a type of Middle …",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Kleicha_%28%D9%83%D9%84%D9%8A%D8%AC%D8%A9%29.jpg/500px-Kleicha_%28%D9%83%D9%84%D9%8A%D8%AC%D8%A9%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kleicha"
+    },
+    {
+      "id": "arabic-coffee",
+      "name": "Arabic coffee",
+      "localName": "قهوة عربية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Arabic%20coffee%20recipe",
+      "description": "Arabic coffee, known in Arabic as qahwa (Arabic: قهوة), is a family of brewed coffee made from Coffea arabica beans. Most Arab countries throughout the Middle East developed distinct methods for brewing and preparing coffee. Cardamom is an often-added spice, but it can also be served plain or with sugar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/A_dallah_a_traditional_Arabic_coffee_pot_with_cups_and_coffee_beans.jpg/500px-A_dallah_a_traditional_Arabic_coffee_pot_with_cups_and_coffee_beans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Arabic_coffee"
+    },
+    {
+      "id": "haneeth",
+      "name": "Haneeth",
+      "localName": "حنيذ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Haneeth%20recipe",
+      "description": "Haneeth is a slow-roasted lamb dish from Yemen. It is a very popular dish throughout the Arabian Peninsula. It is cooked in a tannour oven and has a different spice rub.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Overhead_view%2C_haneeth%2C_Marib_restaurant%2C_Springfield%2C_Virginia.jpg/500px-Overhead_view%2C_haneeth%2C_Marib_restaurant%2C_Springfield%2C_Virginia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Haneeth"
+    }
+  ]
+}

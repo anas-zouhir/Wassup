@@ -1,0 +1,59 @@
+{
+  "country": "KZ",
+  "dishes": [
+    {
+      "id": "beshbarmak",
+      "name": "Beshbarmak",
+      "localName": "Бешбармақ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Beshbarmak%20recipe",
+      "description": "Beshbarmak (Kyrgyz: бешбармак, romanized: beşbarmak; Bashkir: бишбармаҡ, romanized: bişbarmaq; lit. 'five fingers') is a meat, noodles, and onion broth dish in Central Asian cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%D0%91%D0%B5%D1%88%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B_01.jpg/500px-%D0%91%D0%B5%D1%88%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Beshbarmak"
+    },
+    {
+      "id": "kazy",
+      "name": "Kazy",
+      "localName": "Қазы",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kazy%20recipe",
+      "description": "Kazy (Kazakh: Қазы; Russian: Казы) is a salt lake in Akkuly District, Pavlodar Region, Kazakhstan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Kazy_2018-10-26-23_59_Sentinel-2_L2A.jpg/500px-Kazy_2018-10-26-23_59_Sentinel-2_L2A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kazy"
+    },
+    {
+      "id": "baursak",
+      "name": "Baursak",
+      "localName": "Бауырсақ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Baursak%20recipe",
+      "description": "Boortsog, boorsoq, baursak, baursaq, bauyrsaq, borsok, or boorsok is a fried dough food found in the cuisines of Central Asia, Idel-Ural, Mongolia, and the Middle East.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Boortsog.JPG/500px-Boortsog.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boortsog"
+    },
+    {
+      "id": "kuyrdak",
+      "name": "Kuyrdak",
+      "localName": "Қуырдақ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kuyrdak%20recipe",
+      "description": "Kuurdak (Kazakh: қуырдақ, quyrdaq, Kyrgyz: куурдак, Turkmen: gowurdak; Говурдак, Uyghur: قورداق қордақ qordaq, Uzbek: qovurdoq, Mongolian: Хуурдаг), transliterated with various spellings, is a traditional meat dish made in Central Asia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Kazakh_quwyrdaq.jpg/500px-Kazakh_quwyrdaq.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kuurdak"
+    },
+    {
+      "id": "kumis",
+      "name": "Kumis",
+      "localName": "Қымыз",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kumis%20recipe",
+      "description": "Kumis ( KOO-mis, rarely KUM-is), alternatively spelled coumis or kumyz, also known as airag ( EYE-rag), is a traditional fermented dairy product made from mare milk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Kumys-bottle.jpg/500px-Kumys-bottle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kumis"
+    },
+    {
+      "id": "shubat",
+      "name": "Shubat",
+      "localName": "Шұбат",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shubat%20recipe",
+      "description": "Chal, also shubat or khoormog, is a Turkic (especially Turkmen, Uzbek and Kazakh) and Mongolic beverage of fermented camel milk, sparkling white with a sour flavor, popular in Central Asia — particularly in Kazakhstan, Uzbekistan and Turkmenistan. In Kazakhstan the drink is known as shubat, and is a staple summer food.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Shubat_vs_Kumis.jpg/500px-Shubat_vs_Kumis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chal"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "country": "MA",
+  "dishes": [
+    {
+      "id": "tagine",
+      "name": "Tagine",
+      "localName": "طاجين",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tagine%20recipe",
+      "description": "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Moroccan stew, named for the earthenware pot in which it is cooked. The pot consists of two parts: a shallow, circular clay skillet and a tall cone- or dome-shaped cover.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Tajine-marocain-un-plat-varie-et-sain_%28cropped%29.jpg/500px-Tajine-marocain-un-plat-varie-et-sain_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tagine"
+    },
+    {
+      "id": "couscous",
+      "name": "Couscous",
+      "localName": "كسكس",
+      "videoSearch": "https://www.youtube.com/results?search_query=Couscous%20recipe",
+      "description": "Couscous (Tamazight: ⵙⴽⵙⵓ seksu or ⴽⵙⴽⵙⵓ keskesu), is a traditional North African dish of small steamed granules of rolled semolina that is often served with a stew spooned on top.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg/500px-Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Couscous",
+      "recipe": {
+        "ingredients": [
+          "1 box (10 ounces) quick-cooking couscous",
+          "2 ¾ cups chicken broth",
+          "¼ cup freshly-squeezed lemon juice",
+          "2 tbsp hot pepper paste",
+          "1 ½ tsp salt",
+          "1 ½ tsp freshly-ground coriander",
+          "¼ tsp freshly-ground cumin",
+          "Olive oil",
+          "4 preserved lemon wedges",
+          "2 bay leaves"
+        ],
+        "steps": [
+          "Combine liquids in a bowl. Set aside.",
+          "Heat a large pot over medium high heat. Pour some oil into the pot and add couscous. Sauté until couscous is slightly browned.",
+          "Add liquid mixture and remaining ingredients. Bring to a boil, cover, remove from the heat, and set aside, 5 minutes or until couscous is tender and all liquid has been absorbed.",
+          "Open pot and fluff couscous thoroughly with a fork or chopsticks. Serve immediately with lamb."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMoroccan_Couscous"
+      }
+    },
+    {
+      "id": "pastilla",
+      "name": "Pastilla",
+      "localName": "بسطيلة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pastilla%20recipe",
+      "description": "Pastilla (Arabic: بسطيلة, romanized: basṭīla, also called a bastilla or a North African pie) is a meat or seafood pie in Maghrebi cuisine made with warqa dough (ورقة), which is similar to filo. It is a specialty of Morocco, Algeria, and Tunisia, where its variation is known as malsouka.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bisteeya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pastilla"
+    },
+    {
+      "id": "harira",
+      "name": "Harira",
+      "localName": "الحريرة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Harira%20recipe",
+      "description": "Harira (Arabic: الحريرة, romanized: al-ḥarīra) is a traditional North African soup prepared in Morocco, Tunisia, Algeria, Libya and of Andalusian and Amazigh North African origin, with many variations, the best-known being Moroccan harira. Harira is popular as a starter, and is also eaten on its own as a light snack.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Harira.png/500px-Harira.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Harira"
+    },
+    {
+      "id": "rfissa",
+      "name": "Rfissa",
+      "localName": "رفيسة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rfissa%20recipe",
+      "description": "Rfissa (Arabic: رفيسة; Standard Moroccan Tamazight: ⵔⵔⴼⵉⵙⴰ) is a Moroccan dish that is served during various traditional celebrations. It traditionally includes chicken, lentils, fenugreek seeds (helba in Arabic), msemmen, meloui or day-old bread, and the spice blend ras el hanout.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Rfissa_marocaine.jpg/500px-Rfissa_marocaine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rfissa"
+    },
+    {
+      "id": "tanjia",
+      "name": "Tanjia",
+      "localName": "طنجية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tanjia%20recipe",
+      "description": "Tangia (Arabic: طنجية) is an urn-shaped terra cotta cooking vessel. It is also the name of the stew cooked in the pot. It is common in Marrakesh, Morocco.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tanjia-959.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tangia"
+    },
+    {
+      "id": "mechoui",
+      "name": "Mechoui",
+      "localName": "مشوي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mechoui%20recipe",
+      "description": "Méchoui (Arabic: مشوي) or meshwi is a whole sheep or lamb spit-roasted on a barbecue in Maghrebi cuisine. The word comes from the Arabic word šawā (شواء, \"grilling, roasting\"). This dish is common in North Africa.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Mechoui.jpg/500px-Mechoui.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A9choui"
+    },
+    {
+      "id": "zaalouk",
+      "name": "Zaalouk",
+      "localName": "زعلوك",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zaalouk%20recipe",
+      "description": "Zaalouk or zalouk (Berber: ⵣⴰⵄⵍⵓⴽ Moroccan Arabic: زعلوك, romanized: zaʿlūk) is a Moroccan salad of cooked eggplants and tomatoes. After being grilled, the eggplant is combined with the tomatoes and seasoned with spices and garlic.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Zaalouk-01.JPG/500px-Zaalouk-01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zaalouk"
+    },
+    {
+      "id": "bissara",
+      "name": "Bissara",
+      "localName": "بيصارة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bissara%20recipe",
+      "description": "Bissara (Arabic: بصارة) is a dish in Egyptian and Moroccan cuisine. The dish contains split fava beans, onions, garlic, fresh aromatic herbs and spices. All ingredients are slowly cooked and then blended to yield a creamy and fragrant dip or side dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Bissara_Moroccan_split_pea_and_fava_bean_soup.jpg/500px-Bissara_Moroccan_split_pea_and_fava_bean_soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bissara"
+    },
+    {
+      "id": "msemen",
+      "name": "Msemen",
+      "localName": "مسمن",
+      "videoSearch": "https://www.youtube.com/results?search_query=Msemen%20recipe",
+      "description": "Msemmen (Arabic: مسمن, romanized: musamman, msamman) or rghaif (رغايف), is a traditional flatbread originally from the Maghreb, commonly found in Algeria and Morocco, It is folded into square pancakes with multiple internal layers and cooked on a griddle, usually served with honey or a cup of aromatic morning mint tea …",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%D9%85%D8%B3%D9%85%D9%86.jpg/500px-%D9%85%D8%B3%D9%85%D9%86.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Msemmen"
+    },
+    {
+      "id": "baghrir",
+      "name": "Baghrir",
+      "localName": "بغرير",
+      "videoSearch": "https://www.youtube.com/results?search_query=Baghrir%20recipe",
+      "description": "Baghrir or beghrir (Arabic:البغرير), also known as ghrayef or mchahda, is a pancake consumed in Algeria, Morocco and Tunisia. They are small, spongy, and made with semolina or flour; when cooked correctly, they are riddled with tiny holes (which soak up whatever sauce they are served with).",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/%D8%A8%D8%BA%D8%B1%D9%8A%D8%B1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baghrir"
+    },
+    {
+      "id": "harcha",
+      "name": "Harcha",
+      "localName": "حرشة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Harcha%20recipe",
+      "description": "Harcha or harsha (Arabic: حرشة, romanized: ḥarša) is a griddle- or pan-cooked semolina flatbread native to the Middle Atlas in Morocco. It is also found in Algeria.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Ary-7ercha.JPG/500px-Ary-7ercha.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Harcha"
+    },
+    {
+      "id": "chebakia",
+      "name": "Chebakia",
+      "localName": "شباكية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chebakia%20recipe",
+      "description": "Shebakia (Arabic: شباكية) or chebakia, also known as griwech or griouech, is a Maghrebi sweet pastry made of strips of dough rolled to resemble a rose, deep-fried until golden, then coated with a syrup made of honey and orange blossom water and sprinkled with sesame.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Chebakia.jpg/500px-Chebakia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shebakia"
+    },
+    {
+      "id": "sellou",
+      "name": "Sellou",
+      "localName": "سلو",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sellou%20recipe",
+      "description": "Sellou (Moroccan Arabic: سلّو səllu), also called slilou or sfouf, is a dessert consumed in Morocco. It is made from a base of roasted flour mixed with butter, honey, almonds, sesame, and possibly other nuts and spices. It is one of the important dishes in Morocco during the holy month of Ramadan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Sfouf.jpg/500px-Sfouf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sellou"
+    },
+    {
+      "id": "kaab-el-ghazal",
+      "name": "Kaab el ghazal",
+      "localName": "كعب الغزال",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kaab%20el%20ghazal%20recipe",
+      "description": "Gazelle ankles (Arabic: كعب الغزال; French: cornes de gazelle, lit. 'gazelle horns'), also known as kaab el-ghazal, are a traditional cookie of the Maghreb. They are crescent-shaped cookies made of flour-based dough filled with almond paste aromatized with orange blossom water.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/%D9%83%D8%B9%D8%A8_%D8%A7%D9%84%D8%BA%D8%B2%D8%A7%D9%84.jpg/500px-%D9%83%D8%B9%D8%A8_%D8%A7%D9%84%D8%BA%D8%B2%D8%A7%D9%84.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gazelle_ankles"
+    },
+    {
+      "id": "briouat",
+      "name": "Briouat",
+      "localName": "بريوات",
+      "videoSearch": "https://www.youtube.com/results?search_query=Briouat%20recipe",
+      "description": "A brioua or briwa, plural briwat (Arabic: بريوات) is a sweet or savory turnover made with puff pastry. It is part of the Moroccan cuisine. Briwat are filled with meat (mostly chicken or lamb) or fish and shrimp, mixed with cheese, lemon and pepper.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/%D8%A3%D9%83%D9%84%D8%A7%D8%AA_%D8%AA%D9%82%D9%84%D9%8A%D8%AF%D9%8A%D8%A9_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D8%AC_%D9%85%D8%B9%D8%B1%D9%88%D8%B6%D8%A9_%D9%81%D9%8A_%D9%85%D8%AA%D8%AC%D8%B1_%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D8%B9%D8%AA%D9%8A%D9%82%D8%A9_%D8%A8%D9%81%D8%A7%D8%B3.jpg/500px-%D8%A3%D9%83%D9%84%D8%A7%D8%AA_%D8%AA%D9%82%D9%84%D9%8A%D8%AF%D9%8A%D8%A9_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D8%AC_%D9%85%D8%B9%D8%B1%D9%88%D8%B6%D8%A9_%D9%81%D9%8A_%D9%85%D8%AA%D8%AC%D8%B1_%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D8%B9%D8%AA%D9%8A%D9%82%D8%A9_%D8%A8%D9%81%D8%A7%D8%B3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Briouat"
+    },
+    {
+      "id": "seffa",
+      "name": "Seffa",
+      "localName": "سفة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Seffa%20recipe",
+      "description": "Seffa (Arabic: السفة) is a Maghrebi term for a dish of sweetened semolina cuscus with butter, cinnamon, and almonds. The dish may incorporate meat, and also alternatively be made with vermicelli or rice. This dish is generally consumed at the end of a meal, before dessert.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Seffa_%28Maroc%29.jpg/500px-Seffa_%28Maroc%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Seffa"
+    },
+    {
+      "id": "mrouzia",
+      "name": "Mrouzia",
+      "localName": "مروزية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mrouzia%20recipe",
+      "description": "Mrouzia (Arabic: المروزية), is a dish of the Maghribi cuisine It is a sweet and salty meat tajine, combining a ras el hanout blend of spices with honey, cinnamon and almonds. This dish is attested in the XIII century Anonymous Andalusian cookbook as being a dish from Ifriqiya and Egypt.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/IB_tajine_02.jpg/500px-IB_tajine_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mrouzia"
+    },
+    {
+      "id": "boulfaf",
+      "name": "Boulfaf",
+      "localName": "بولفاف",
+      "videoSearch": "https://www.youtube.com/results?search_query=Boulfaf%20recipe",
+      "description": "Boulfaf (Arabic: بولفاف) is a grilled kebab made from liver wrapped in caul fat. A Moroccan cuisine dish, it is traditionally made during Eid al-Adha from a sacrificial lamb.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/%D8%A8%D9%88%D9%84%D9%81%D8%A7%D9%81.jpg/500px-%D8%A8%D9%88%D9%84%D9%81%D8%A7%D9%81.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boulfaf",
+      "recipe": {
+        "ingredients": [
+          "½ kg liver",
+          "1 tsp paprika",
+          "Salt",
+          "Pepper",
+          "1 handful fresh coriander, finely chopped",
+          "2–3 cloves garlic, minced (optional)",
+          "1 tbsp sunflower or olive oil"
+        ],
+        "steps": [
+          "Cut the liver into small cubes about 1 cm square, and put them in a container.",
+          "Add paprika, some salt and pepper, chopped coriander, minced garlic, and oil to the liver.",
+          "Mix this all together and leave to marinate for 30 minutes or more.",
+          "Slide the meat onto skewers, and grill to preferred level of char."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALiver_Kebabs"
+      }
+    },
+    {
+      "id": "sfenj",
+      "name": "Sfenj",
+      "localName": "سفنج",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sfenj%20recipe",
+      "description": "Sfenj (from the Arabic word Arabic: سفنج, romanized: Safanj, meaning sponge) is a Maghrebi doughnut: a light, spongy ring of dough fried in oil. Sfenj is eaten plain, sprinkled with sugar, or soaked in honey.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Sfenj_in_Marrakesh_Morocco.jpg/500px-Sfenj_in_Marrakesh_Morocco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sfenj"
+    },
+    {
+      "id": "amlou",
+      "name": "Amlou",
+      "localName": "أملو",
+      "videoSearch": "https://www.youtube.com/results?search_query=Amlou%20recipe",
+      "description": "Amlu (Berber languages: ⴰⵎⵍⵓ; Arabic: أملو), also spelled amlou, is a spread used in Moroccan cuisine. It consists of argan oil, almonds and honey. The almonds are toasted, which are then crushed and kneaded with honey and argan oil.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/ArganAmlou_Oil_Mill.jpg/500px-ArganAmlou_Oil_Mill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Amlu"
+    },
+    {
+      "id": "khlea",
+      "name": "Khlea",
+      "localName": "خليع",
+      "videoSearch": "https://www.youtube.com/results?search_query=Khlea%20recipe",
+      "description": "Khlea or khlii (Arabic: الخليع) is a preserved meat, usually made with beef or lamb, originating from Morocco. Khlea is made by cutting meat into strips and letting it dry in the sun after marinating it in garlic, coriander and cumin. The meat is cooked in a mixture of water, oil and animal fat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/%D8%A8%D9%8A%D8%B6_%D8%A8%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%B9.jpg/500px-%D8%A8%D9%8A%D8%B6_%D8%A8%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%B9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Khlea"
+    },
+    {
+      "id": "preserved-lemon",
+      "name": "Preserved lemon",
+      "localName": "مصير",
+      "videoSearch": "https://www.youtube.com/results?search_query=Preserved%20lemon%20recipe",
+      "description": "Preserved lemon or lemon pickle is a condiment that is common in the cuisines of the Indian subcontinent and Morocco. It was also found in 18th-century English cuisine. It is also known as \"country lemon\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Lemon_Pickle.jpg/500px-Lemon_Pickle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Preserved_lemon",
+      "recipe": {
+        "ingredients": [
+          "Lemons",
+          "Salt"
+        ],
+        "steps": [
+          "Poke holes in the lemons with a sharp knife. Pack them in an airtight jar, separating them from one another with salt.",
+          "Cover the jar, and store in a dark place for a day. If the lemons have not released enough liquid to cover, add additional salt and reseal the jar.",
+          "Store in a cool dark place for approximately 2 weeks. Refrigerate afterwards."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APreserved_Lemon"
+      }
+    },
+    {
+      "id": "mint-tea",
+      "name": "Moroccan mint tea",
+      "localName": "أتاي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Moroccan%20mint%20tea%20recipe",
+      "description": "Maghrebi mint tea (Maghrebi Arabic: أتاي, ʾatāy; Arabic: الشاي بالنعناع, romanized: aš-šāy bin-naʿnāʿ), also known as Tunisian mint tea, Algerian mint tea, or Moroccan mint tea is a North African preparation of gunpowder green tea with spearmint leaves and sugar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Tunisian_Tea_with_pine_nuts.jpg/500px-Tunisian_Tea_with_pine_nuts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maghrebi_mint_tea"
+    },
+    {
+      "id": "mhancha",
+      "name": "Mhancha",
+      "localName": "المحنشة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mhancha%20recipe",
+      "description": "Mhancha is a sweet coiled \"serpentine\" pastry made using phyllo dough and almonds. Mhancha is made using ground almonds or an almond paste or even walnuts. It is made using thin sheets of phyllo dough pastry and is arranged in a spiral, hence its name.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Mhancha.jpg/500px-Mhancha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mhancha"
+    }
+  ]
+}

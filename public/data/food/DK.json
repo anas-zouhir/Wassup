@@ -1,0 +1,200 @@
+{
+  "country": "DK",
+  "dishes": [
+    {
+      "id": "smorrebrod",
+      "name": "Smørrebrød",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sm%C3%B8rrebr%C3%B8d%20recipe",
+      "description": "Smørrebrød, smørbrød \"butter bread\" (Norwegian), or smörgås [ˈsmœrˌɡoːs] \"butter goose\" (Swedish), is a traditional open-faced sandwich in the cuisines of Denmark, Norway and Sweden that usually consists of a piece of buttered rugbrød (a dense, dark rye bread) topped with commercial or homemade cold cuts, pieces of mea…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ida_Davidsen_udsnit_af_glasmontren.JPG/500px-Ida_Davidsen_udsnit_af_glasmontren.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sm%C3%B8rrebr%C3%B8d"
+    },
+    {
+      "id": "frikadeller",
+      "name": "Frikadeller",
+      "videoSearch": "https://www.youtube.com/results?search_query=Frikadeller%20recipe",
+      "description": "A Frikadelle is a rounded, flat-bottomed, pan-fried meatball of ground meat, often likened to the German version of meatballs. The origin of the dish is unknown. The term Frikadelle is German, but the dish is associated with German, Nordic, and Eastern European cuisines.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Frikadeller.jpg/500px-Frikadeller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frikadelle",
+      "recipe": {
+        "ingredients": [
+          "250 grams (about 0.5 lb) ground veal",
+          "250 grams ground pork",
+          "1 large egg",
+          "1 onion, finely chopped",
+          "20% by volume (about ¾ cup) of bread crumbs",
+          "Pepper to taste",
+          "Salt to taste",
+          "Minced garlic (optional)",
+          "Ground parsley to taste",
+          "Butter"
+        ],
+        "steps": [
+          "Mix all ingredients except butter together.",
+          "Shape mixture into small patties.",
+          "Fry in hot skillet with lots of butter."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFrikadeller_(Danish_Meatballs)"
+      }
+    },
+    {
+      "id": "stegt-flaesk",
+      "name": "Stegt flæsk",
+      "videoSearch": "https://www.youtube.com/results?search_query=Stegt%20fl%C3%A6sk%20recipe",
+      "description": "Stegt flæsk is a dish from Scandinavia consisting of fried pork belly and generally served with potatoes and parsley sauce (persillesovs). The dish is sometimes translated as 'pork strips' or 'crisp fried pork slices'.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Stegt_fl%C3%A6sk.jpg/500px-Stegt_fl%C3%A6sk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stegt_fl%C3%A6sk"
+    },
+    {
+      "id": "bleskiver",
+      "name": "Æbleskiver",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C3%86bleskiver%20recipe",
+      "description": "Æbleskiver are spherical Danish snacks made from fried batter. The name literally means \"apple slices\" in Danish, although slices of apples are not an ingredient in present-day versions. The crust is similar in texture to European pancakes, but with a light and fluffy interior similar to a Yorkshire pudding.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/%C3%86bleskriver_%2854997580931%29.jpg/500px-%C3%86bleskriver_%2854997580931%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/%C3%86bleskiver",
+      "recipe": {
+        "ingredients": [
+          "2 egg whites",
+          "2 cups (480 ml) all-purpose flour",
+          "2 teaspoons (10 ml) baking powder",
+          "1 tablespoon (15 ml) white sugar",
+          "½ teaspoon (5 ml) baking soda",
+          "½ teaspoon (5 ml) salt",
+          "4 tablespoons (60 ml) butter, melted",
+          "2 cups (480 ml) buttermilk",
+          "1 cup (240 ml) vegetable oil, for frying"
+        ],
+        "steps": [
+          "Beat the whites until stiff.",
+          "Mix together the flour, baking powder, salt, baking soda, sugar, melted butter and buttermilk at one time and beat until smooth. Gently fold in the egg whites last.",
+          "Put about 1 tablespoon (15 ml) of vegetable oil in the bottom of each æbleskiver pan cup and heat until hot. Pour in about 2 tablespoons (30 ml) of the batter into each cup.",
+          "As soon as they get bubbly around the edge, turn them quickly. Alternatively, you can turn them halfway first, so that the baked crusts protruding from the pan will look like the Sydney Opera House. And after a while you turn them the remaining 90°. This will give them a perfect ball-shape. Danish cooks use a long knitting needle, but a fork will work.",
+          "Continue cooking, turning the ball to keep it from burning."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3A%C3%86bleskiver_(Danish_Spherical_Pancakes)"
+      }
+    },
+    {
+      "id": "flaeskesteg",
+      "name": "Flæskesteg",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fl%C3%A6skesteg%20recipe",
+      "description": "Flæskesteg, the Danish version of roast pork, is considered to be one of Denmark's principal national dishes. Always prepared with crackling, it is traditionally on the menu for the Danish Christmas dinner served as the evening meal on Christmas Eve.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Julemiddag.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fl%C3%A6skesteg"
+    },
+    {
+      "id": "rodgrod-med-flode",
+      "name": "Rødgrød med fløde",
+      "videoSearch": "https://www.youtube.com/results?search_query=R%C3%B8dgr%C3%B8d%20med%20fl%C3%B8de%20recipe",
+      "description": "Rødgrød, Rote Grütze, or Rode Grütt, meaning \"red groats\", is a sweet berry pudding from Denmark and Northern Germany.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Rote_Gr%C3%BCtze_mit_Vanilleso%C3%9Fe.JPG/500px-Rote_Gr%C3%BCtze_mit_Vanilleso%C3%9Fe.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/R%C3%B8dgr%C3%B8d"
+    },
+    {
+      "id": "danish-pastry",
+      "name": "Danish pastry",
+      "localName": "Wienerbrød",
+      "videoSearch": "https://www.youtube.com/results?search_query=Danish%20pastry%20recipe",
+      "description": "A Danish pastry is a multilayered, laminated sweet viennoiserie. Like other viennoiserie, such as croissants, it is neither a bread nor a pastry, as it uses yeast-leavened dough, that is laminated like puff pastry to create a layered texture.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Glazed_apple_Danish.jpg/500px-Glazed_apple_Danish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Danish_pastry"
+    },
+    {
+      "id": "risalamande",
+      "name": "Risalamande",
+      "videoSearch": "https://www.youtube.com/results?search_query=Risalamande%20recipe",
+      "description": "Risalamande is a traditional Danish dessert served at Christmas dinner and julefrokost (Christmas lunch). It is made of rice pudding mixed with whipped cream, sugar, vanilla, and chopped almonds. It is served cold with either warm or cold cherry sauce (kirsebærsovs).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Risalamande%2C_a_Danish_Christmas_dessert.jpg/500px-Risalamande%2C_a_Danish_Christmas_dessert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Risalamande"
+    },
+    {
+      "id": "rugbrod",
+      "name": "Rugbrød",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rugbr%C3%B8d%20recipe",
+      "description": "Rugbrød is a very common form of rye bread from Denmark. Rugbrød usually resembles a long brown extruded rectangle, no more than 12 cm (4.7 in) high, and 30 to 35 cm (11.8 to 13.8 in) long, depending on the bread pan in which it is baked.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Rugbr%C3%B8d.JPG/500px-Rugbr%C3%B8d.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rugbr%C3%B8d",
+      "recipe": {
+        "ingredients": [
+          "1500 g rye flour",
+          "1000 g cracked rye seeds",
+          "5 tsp salt",
+          "About 2 L water",
+          "300 ml sourdough starter"
+        ],
+        "steps": [
+          "Mix the salt with the rye flour in a big bowl.",
+          "Add 1.8 L of the water and mix it.",
+          "Mix in the sourdough starter. The result should be wet enough to flow very slowly.",
+          "Cover it with a cloth and let it rise for at 12–30 hours as convenient. Then add the cracked rye seeds.",
+          "If the resulting dough feels dry, add a bit of water. The result should be just dry enough to retain an approximate shape, but no drier.",
+          "Take out 300 ml of dough to act as the starter next time you make this recipe.",
+          "Butter 3 bread forms and put the dough into it, forcing it into all corners with a spoon. Then using a fork, make deep holes as close as you can all over the bread.",
+          "Let it rise for 5–10 hours, and then bake it for about 90 minutes at about 180°C.",
+          "Let the bread cool for 15 minutes, and then tip them out to cool further on a table.",
+          "The loaves can keep for about a week in a plastic bag. Do not refrigerate."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARye_Bread"
+      }
+    },
+    {
+      "id": "rod-polse",
+      "name": "Rød pølse",
+      "videoSearch": "https://www.youtube.com/results?search_query=R%C3%B8d%20p%C3%B8lse%20recipe",
+      "description": "Rød pølse (, \"red sausage\") is a type of brightly red, boiled pork sausage very common in Denmark. Since hot dog stands are almost everywhere in Denmark, some people regard røde pølser as one of the national dishes. They are made of the Vienna type and the skin is colored with a traditional red dye (carmine).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Copenhagen_red_sausage_2.jpg/500px-Copenhagen_red_sausage_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/R%C3%B8d_p%C3%B8lse"
+    },
+    {
+      "id": "leverpostej",
+      "name": "Leverpostej",
+      "videoSearch": "https://www.youtube.com/results?search_query=Leverpostej%20recipe",
+      "description": "Liver pate is a pâté and meat spread popular in Northern and Eastern Europe. Made from finely or coarsely ground pork liver and lard, it is similar to certain types of French and Belgian pâtés.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Leverpostej_01.jpg/500px-Leverpostej_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Liver_p%C3%A2t%C3%A9"
+    },
+    {
+      "id": "kransekage",
+      "name": "Kransekage",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kransekage%20recipe",
+      "description": "Kransekage, kransekake (Norwegian) or kransakaka (Icelandic) is a traditional Danish and Norwegian confection, often eaten on special occasions in Scandinavia. In English, the name means 'wreath cake'.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Kransekage_%28wreath_cake%29.jpg/500px-Kransekage_%28wreath_cake%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kransekage"
+    },
+    {
+      "id": "koldskal",
+      "name": "Koldskål",
+      "videoSearch": "https://www.youtube.com/results?search_query=Koldsk%C3%A5l%20recipe",
+      "description": "Buttermilk koldskål (Danish: kærnemælkskoldskål, often simply koldskål – literally cold bowl) is a sweet cold dairy beverage or dessert eaten in Denmark. Koldskål is made with buttermilk and other varying ingredients: eggs, sugar, yoghurt and/or other similar dairy products, vanilla, and sometimes lemon.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Koldskaal_with_strawberries_and_kammerjunker.jpg/500px-Koldskaal_with_strawberries_and_kammerjunker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Buttermilk_koldsk%C3%A5l"
+    },
+    {
+      "id": "llebrod",
+      "name": "Øllebrød",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C3%98llebr%C3%B8d%20recipe",
+      "description": "Øllebrød (lit. 'beer bread') is a traditional Danish dish. It is a porridge or thick bread soup made of sourdough rye bread (rugbrød) and beer (often hvidtøl). These ingredients give it a slightly tangy, caramelly, full taste.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%C3%98llebr%C3%B8d.jpg/500px-%C3%98llebr%C3%B8d.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/%C3%98llebr%C3%B8d",
+      "recipe": {
+        "ingredients": [
+          "1 loaf of day-old rye bread (preferably without whole grain)",
+          "Malt beer (preferably a sweet dark stout)",
+          "Sweetener, as desired (e.g. sugar or honey)",
+          "Lemon juice (optional)"
+        ],
+        "steps": [
+          "Put the rye bread to soak in beer for 6&ndash;12 hours.",
+          "Bring the mixture to a boil, and simmer slowly for about 1 hour. Add more beer if it's too dry; the consistency should be like that of oatmeal. If you want it sweet you can mix in some sweetener. For a fresher taste, add a touch of lemon.",
+          "Serve with whipped cream if you're introducing this meal to someone who is not Danish.",
+          "In the evening, cut away the crust from the rye bread, and cut it into cubes.",
+          "Put the bread in a pot and cover it with beer (or water) and a lid. Set aside.",
+          "In the morning, add sweetener if using, then heat it all up.",
+          "Stir until it steams vigorously, adding water if it gets too dry.",
+          "Serve with milk for a warm, very solid breakfast."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABeer_and_Rye_Bread_Porridge_(%C3%98llebr%C3%B8d)"
+      }
+    }
+  ]
+}

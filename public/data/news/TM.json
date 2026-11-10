@@ -1,0 +1,31 @@
+{
+  "country": "TM",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "tdh",
+        "name": "TDH (Turkmen State News Agency)",
+        "homepage": "https://tdh.gov.tm/en",
+        "lang": "en"
+      },
+      "fetchedAt": "2026-10-22T15:15:19.686Z",
+      "items": [
+        {
+          "title": "A complex of new buildings and facilities of a military unit of the Armed Forces of Turkmenistan was put into operation",
+          "link": "https://tdh.gov.tm/en/post/50149/complex-new-buildings-and-facilities-military-unit-armed-forces-turkmenistan-was-put-operation",
+          "publishedAt": "2026-10-21T18:30:00.000Z"
+        },
+        {
+          "title": "The book by the President of Turkmenistan, «Neutrality of Turkmenistan – A Bright path of peace and trust», has been published in the Azerbaijani language",
+          "link": "https://tdh.gov.tm/en/post/50148/book-president-turkmenistan-neutrality-turkmenistan-bright-path-peace-and-trust-has-been-published-azerbaijani-language",
+          "publishedAt": "2026-10-21T18:15:00.000Z"
+        },
+        {
+          "title": "President of Turkmenistan held a working meeting",
+          "link": "https://tdh.gov.tm/en/post/50134/president-turkmenistan-held-working-meeting-40",
+          "publishedAt": "2026-10-19T18:55:00.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "country": "PK",
+  "dishes": [
+    {
+      "id": "nihari",
+      "name": "Nihari",
+      "localName": "نہاری",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nihari%20recipe",
+      "description": "Nihari (Hindi: निहारी, Urdu: نہاری) is a stew of the Indian subcontinent, which consists of slow-cooked meat, mainly a shank cut of beef, lamb and mutton, or goat meat, as well as chicken and bone marrow.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Nalli_Nihari_India.jpg/500px-Nalli_Nihari_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nihari"
+    },
+    {
+      "id": "haleem",
+      "name": "Haleem",
+      "localName": "حلیم",
+      "videoSearch": "https://www.youtube.com/results?search_query=Haleem%20recipe",
+      "description": "Haleem or halim is a type of stew that is widely consumed in West Asia, Central Asia and South Asia. Although the dish varies from region to region, it optionally includes wheat or barley, dal, meat, and spices. It is made by slow cooking the meat in barley.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Pakistani_Haleem_served_with_garnish.jpg/500px-Pakistani_Haleem_served_with_garnish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Haleem"
+    },
+    {
+      "id": "sindhi-biryani",
+      "name": "Sindhi biryani",
+      "localName": "سندھی بریانی",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sindhi%20biryani%20recipe",
+      "description": "Sindhi biryani is a meat-and-rice biryani dish originating from the Sindh province of Pakistan. It is one of the most consumed dishes of Pakistani cuisine and Sindhi cuisine. Basic ingredients include mutton, chicken, fish, or shrimp, with basmati rice, potatoes, tomatoes, onions, spices, and yoghurt.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Sindhi_Biryani.JPG/500px-Sindhi_Biryani.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sindhi_biryani"
+    },
+    {
+      "id": "karahi",
+      "name": "Chicken karahi",
+      "localName": "کڑاہی",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chicken%20karahi%20recipe",
+      "description": "Chicken karahi, or chicken kadahi, is a chicken dish from South Asia. It is known as gosht karahi or gosht kadahi when prepared with goat or lamb meat instead of that of chicken.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Punjabi_Chicken_Karahi.JPG/500px-Punjabi_Chicken_Karahi.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chicken_karahi"
+    },
+    {
+      "id": "chapli-kebab",
+      "name": "Chapli kebab",
+      "localName": "چپلی کباب",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chapli%20kebab%20recipe",
+      "description": "Chapli kabab is a minced kebab made from ground beef, mutton or chicken with various spices in the shape of a patty. The chapli kabab originated from the city of Peshawar in Khyber Pakhtunkhwa province, Pakistan and is today prepared across South Asia. It is strongly associated with Pashtun cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Chapli_Kebab.jpg/500px-Chapli_Kebab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chapli_kebab"
+    },
+    {
+      "id": "seekh-kebab",
+      "name": "Seekh kebab",
+      "localName": "سیخ کباب",
+      "videoSearch": "https://www.youtube.com/results?search_query=Seekh%20kebab%20recipe",
+      "description": "Seekh kebab is a type of kebab from the Indian subcontinent. It is made with Indian spices, spiced minced or ground meat, usually lamb, beef, or chicken, formed into cylinders on skewers and grilled. It is typically cooked on a mangal or barbecue, or in a tandoor.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Pakistani_Food_Beef_Kabobs.jpg/500px-Pakistani_Food_Beef_Kabobs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Seekh_kebab"
+    },
+    {
+      "id": "sajji",
+      "name": "Sajji",
+      "localName": "سجی",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sajji%20recipe",
+      "description": "Sajji (Urdu: سجی) is a meat dish from Pakistan, today popular amongst the South Asian diaspora. Its origin lies with the Baloch people, specifically the Lehri tribe of southern Punjab. The traditional sajji consists of lamb, marinated only in salt with a few spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Sajji.JPG/500px-Sajji.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sajji"
+    },
+    {
+      "id": "paya",
+      "name": "Paya",
+      "localName": "پائے",
+      "videoSearch": "https://www.youtube.com/results?search_query=Paya%20recipe",
+      "description": "Paya is a traditional stew from South Asia. It is served at various festivals and gatherings, or made for special guests. Paya means 'leg'/'feet' in the Hindi and Urdu languages.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Paya_Curry.JPG/500px-Paya_Curry.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paya_(food)"
+    },
+    {
+      "id": "dum-pukht",
+      "name": "Dum pukht",
+      "localName": "دم پخت",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dum%20pukht%20recipe",
+      "description": "Dum pukht (Persian: دَم‌ پخت), larhmeen, dampokhtak, or slow oven cooking is an Indo-Persian cooking technique in which meat and vegetables are cooked over a low flame, generally in dough-sealed containers.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Lucknowi_Mutton_Matka_Dum_Biriyani.jpg/500px-Lucknowi_Mutton_Matka_Dum_Biriyani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dum_pukht"
+    },
+    {
+      "id": "sarson-da-saag",
+      "name": "Sarson da saag",
+      "localName": "سرسوں دا ساگ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sarson%20da%20saag%20recipe",
+      "description": "Sarson ka saag, also known as sarsa da saag and saron da saag, is a dish of mustard greens cooked with spices. It originated in the Indian subcontinent and is well known throughout the region.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Saagroti.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sarson_ka_saag"
+    },
+    {
+      "id": "makki-di-roti",
+      "name": "Makki di roti",
+      "localName": "مکئی دی روٹی",
+      "videoSearch": "https://www.youtube.com/results?search_query=Makki%20di%20roti%20recipe",
+      "description": "Makki ki roti is a flat unleavened bread made from corn meal (maize flour). Like most rotis in the Indian subcontinent, it is baked on a tava.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Makki_Di_Roti.JPG/500px-Makki_Di_Roti.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Makki_ki_roti",
+      "recipe": {
+        "ingredients": [
+          "1 handful cornmeal",
+          "1 spoonful unsalted butter, softened",
+          "1 cupful lukewarm water"
+        ],
+        "steps": [
+          "Heap the cornmeal in a praat (a wide flat mixing tray) so it forms a hill. Make a well, and pour in a small quantity of the lukewarm water.",
+          "Start to mix the cornmeal and water into a dough. The dough should remain moist but not become sticky. Add water in small quantities to retain a moist feel. The final dough should not be sticky (sprinkle some extra cornmeal if needed to help soak up excess moisture).",
+          "Add the soft butter (makhan) at the end and give it a final kneading.",
+          "Take a small hand-sized portion of the dough from the mixing tray and roll it into a small ball (ladu) between the two hands. Gradually start to flatten the ball between the palms of the two hands (wet the hands and fingers to help the dough to stretch). At the same time rotate the flattening dough so that the thinning of the roti is even. It may start to crack at the edges. Repair any cracks by pressing them at the rims. Wetting the fingers and the palm of the hand will help to spread and give the roti a circular shape. Aim for an evenly thinned roti.",
+          "When the roti is about the size of a small plate (or a little larger then a spread-out hand) place it on the preheated tahva. Leave the roti to take in the heat (it takes a while for roti to get cooked). Some areas of the roti will change in colour as the water evaporates. Soon after, the roti will be able to be moved on the tahva. With a dry cloth, press the areas of the roti that look moist.",
+          "It is a matter of judgement when the roti can be turned over and heated on the other side. When the roti have been well cooked they should not have any moist looking areas. Some areas will have burned slightly but this is normal."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMakki_di_Roti_(Indian_Cornmeal_Flatbread)"
+      }
+    },
+    {
+      "id": "sai-bhaji",
+      "name": "Sai bhaji",
+      "localName": "سائي ڀاڄي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sai%20bhaji%20recipe",
+      "description": "Sai bhaji (Sindhi: سائي ڀاڄي) is a Sindhi vegetarian curry, consisting of dal (lentils), palak (spinach) and other vegetables. It forms a staple part of the local cuisine and is considered a rich source of nutrition due to its mix of various greens.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Sindhi_Sai_Bhaji.JPG/500px-Sindhi_Sai_Bhaji.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sai_bhaji",
+      "recipe": {
+        "ingredients": [
+          "150 g dried chana dal",
+          "1 tbsp minced ginger",
+          "3–4 chiles, chopped",
+          "Oil",
+          "3 small bunches fenugreek leaves, finely chopped",
+          "2 bunches spinach, finely chopped",
+          "Small amount of soy leaves, finely chopped",
+          "2 average-size tomatoes, chopped",
+          "2 eggplants, chopped",
+          "2 potatoes, chopped",
+          "8–10 ea. okra",
+          "50 cloves garlic, minced",
+          "Salt to taste",
+          "2 pinches turmeric powder",
+          "1 tbsp red chile powder"
+        ],
+        "steps": [
+          "Soak the chana dal overnight. Drain and transfer dal to a pot.",
+          "Add the ginger and chiles to the dal. Cover with water, and boil for at least 5 minutes until tender. Drain.",
+          "Heat the oil in a pan. Add the fenugreek leaves, spinach, soy leaves, tomatoes, eggplant, potatoes, and okra. Cook until the greens are well-wilted.",
+          "Fry the garlic in some oil until golden. Stir in the salt, turmeric, and chile powder.",
+          "Stir the garlic and dal into the vegetables.",
+          "Serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASai_Bhaji_(Sindhi_Vegetable_Curry)"
+      }
+    },
+    {
+      "id": "sheer-khurma",
+      "name": "Sheer khurma",
+      "localName": "شیر خرما",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sheer%20khurma%20recipe",
+      "description": "Sheer khurma, sheer khorma, or seviyan (Persian: شير خرما, romanized: shîr xormâ \"milk and dates\") is a festival vermicelli pudding prepared by Muslims on Eid ul-Fitr and Eid al-Adha in India, Pakistan, Afghanistan, and parts of Central Asia. It is equivalent to shemai, a Bengali dessert.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Sheer_Khurma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sheer_khurma",
+      "recipe": {
+        "ingredients": [
+          "200 g dry vermicelli",
+          "1¼ cups ghee",
+          "100 g dried dates, soaked overnight, pitted and chopped thin",
+          "100 g almonds, blanched and slivered",
+          "100 g white raisins",
+          "100 g halved cashew nuts",
+          "12 cups milk",
+          "2 cups cream",
+          "4 cups water",
+          "3 cups white granulated sugar",
+          "2 tbsp cardamom powder"
+        ],
+        "steps": [
+          "Heat the ghee in a large pot over a low heat.",
+          "Add the cashew nuts to the ghee, and fry until browned.",
+          "Turn off the flame and add the raisins. When the raisins swell up, take both them and the cashews out of the ghee with a spoon and set aside.",
+          "Switch the low heat back on and heat the ghee. Add the vermicelli and fry, stirring so it turns golden-brown. Watch it carefully so it does not burn.",
+          "Pour in the milk and water. Add the cashews and raisins back into the mixture.",
+          "Add the sliced dates and almonds. Cook for about 2 minutes, or until the vermicelli starts to get flexible; then add sugar.",
+          "Keep on the low flame for another 2 minutes, then add cream and cardamom powder.",
+          "Heat just a little longer and mix well.",
+          "Serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASheer_Khurma"
+      }
+    }
+  ]
+}

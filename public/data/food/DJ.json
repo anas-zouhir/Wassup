@@ -1,0 +1,52 @@
+{
+  "country": "DJ",
+  "dishes": [
+    {
+      "id": "skoudehkaris",
+      "name": "Skoudehkaris",
+      "videoSearch": "https://www.youtube.com/results?search_query=Skoudehkaris%20recipe",
+      "description": "Bariis iskukaris, also called isku-dheh karis, is a traditional rice dish from Somali cuisine that is customarily cooked in a single pan or where the tenderization of both rice and stew occurs at some point in a single pan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Somalicamelmeat.jpg/500px-Somalicamelmeat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bariis_iskukaris"
+    },
+    {
+      "id": "lahoh",
+      "name": "Lahoh",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lahoh%20recipe",
+      "description": "Lahoh is a spongy, flat pancake-like bread. It is a type of flatbread eaten regularly in Somaliland, Somalia, Djibouti, Kenya, Ethiopia, Yemen and Saudi Arabia. Yemenite Jewish immigrants popularized the dish in Israel.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/LahohS.jpg/500px-LahohS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lahoh"
+    },
+    {
+      "id": "fah-fah",
+      "name": "Fah-fah",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fah-fah%20recipe",
+      "description": "Fah-fah is a Djiboutian soup, mostly eaten in southern parts of the country, as well as northern Somalia. It is popular in East African cuisine. Fah-fah is typically made of goat meat with vegetables and green chilies.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Fahfah.jpg/500px-Fahfah.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fah-fah"
+    },
+    {
+      "id": "malawah",
+      "name": "Malawah",
+      "videoSearch": "https://www.youtube.com/results?search_query=Malawah%20recipe",
+      "description": "Malawah (Somali: Malawax 𐒐𐒖𐒄𐒝𐒄), also known as Malawax (Arabic: ملوح), is a sweet pancake. It has origins from Somalia and is eaten regularly in Somalia, Djibouti, The Ogaden region of Ethiopia Kenya, And Minnesota due to the Somali diaspora.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Malawaax.jpg/500px-Malawaax.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Malawah"
+    },
+    {
+      "id": "mukhbaza",
+      "name": "Mukhbaza",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mukhbaza%20recipe",
+      "description": "Mukhbaza (also spelled Moukhbaza or Mukhbasa) is a traditional Middle Eastern and East African dish centered around slow-roasted, heavily spiced fish and flatbread. Originating from the coastal Tihama and Aden regions, it is a staple in Yemeni, Saudi, and Djiboutian cuisines.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mukhbaza"
+    },
+    {
+      "id": "sabaayad",
+      "name": "Sabaayad",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sabaayad%20recipe",
+      "description": "Sabayad, (Somali: Sabaayad) also known as Kimis or Ceesh, is a chewy, slightly flaky type of square Somali flatbread eaten in Somalia, Kenya, Ethiopia and Djibouti.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Djiboutian_rice_%28bariis%29_and_fish_%28kalluun%29%2C_Liver_%28beerka%29_with_vegetable_also_%28Sabaayad%29_pancakes.jpg/500px-Djiboutian_rice_%28bariis%29_and_fish_%28kalluun%29%2C_Liver_%28beerka%29_with_vegetable_also_%28Sabaayad%29_pancakes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sabaayad"
+    }
+  ]
+}

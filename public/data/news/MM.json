@@ -1,0 +1,217 @@
+{
+  "country": "MM",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "irrawaddy",
+        "name": "The Irrawaddy",
+        "homepage": "https://www.irrawaddy.com",
+        "lang": "en-MM"
+      },
+      "fetchedAt": "2026-10-22T15:12:24.045Z",
+      "items": [
+        {
+          "title": "Myanmar Ranks Worst in World for Internet Freedom",
+          "link": "https://www.irrawaddy.com/news/burma/myanmar-ranks-worst-in-world-for-internet-freedom.html",
+          "summary": "Freedom House gives Myanmar 9 out of 100 for the third straight year, as the regime tightens online censorship, surveillance and restrictions on access to information.",
+          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/10/Internet-Freedom-2210261926-feat.jpg",
+          "publishedAt": "2026-10-22T12:27:32.000Z"
+        },
+        {
+          "title": "China’s Myanmar Policy—Consistent but Fundamentally Flawed",
+          "link": "https://www.irrawaddy.com/opinion/analysis/chinas-myanmar-policy-consistent-but-fundamentally-flawed.html",
+          "summary": "Motivated by bare self-interest, China continues to see the military as the sole guarantor of stability in Myanmar. The reality has proved it wrong, says Thet Htar Maung.",
+          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/10/Xi-and-CL-221026183-feat.jpg",
+          "publishedAt": "2026-10-22T11:32:36.000Z"
+        },
+        {
+          "title": "Son of Aung San Suu Kyi Says He Has First Call With Her in 5 Years",
+          "link": "https://www.irrawaddy.com/news/burma/son-of-aung-san-suu-kyi-says-he-has-first-call-with-her-in-5-years.html",
+          "summary": "Kim Aris said hearing his mother’s voice after more than five years meant more than words could express, but stressed that one conversation does not amount to freedom.",
+          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/10/dassk-and-her-son-2210261800-feat.jpg",
+          "publishedAt": "2026-10-22T10:54:49.000Z"
+        },
+        {
+          "title": "Japan’s Sasakawa Renews Myanmar Peace Pledge as Regime Battles Arakan Army",
+          "link": "https://www.irrawaddy.com/news/burma/japans-sasakawa-renews-myanmar-peace-pledge-as-regime-battles-arakan-army.html",
+          "summary": "The Nippon Foundation chairman offered fresh assistance to Myanmar’s peace process but disclosed few details as fighting intensifies in Rakhine State.",
+          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/10/Sasakawa-2210261458-feat.jpg",
+          "publishedAt": "2026-10-22T07:58:51.000Z"
+        },
+        {
+          "title": "Has the Myanmar Resistance Lost Politically and Diplomatically?",
+          "link": "https://www.irrawaddy.com/video/has-the-myanmar-resistance-lost-politically-and-diplomatically.html",
+          "summary": "This week our editors discuss an explosive article suggesting Myanmar’s opposition can’t win because it is led by an “insurgency industrial complex” that stands to gain from a forever-war.",
+          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/10/E-Talk-2110261923-cover.jpg",
+          "publishedAt": "2026-10-21T12:24:17.000Z"
+        },
+        {
+          "title": "Buying Gas or Buying Surveillance? Gas-Rich Myanmar’s Deal With Russia",
+          "link": "https://www.irrawaddy.com/opinion/analysis/buying-gas-or-buying-surveillance-gas-rich-myanmars-deal-with-russia.html",
+          "summary": "As Myanmar negotiates Russian gas imports, accompanying satellite and communications deals could strengthen the regime’s military surveillance capabilities.",
+          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/10/Buying-Surveillance-2110261826-feat.jpg",
+          "publishedAt": "2026-10-21T11:30:30.000Z"
+        },
+        {
+          "title": "‘They’re Definitely Afraid of Her’: Aung San Suu Kyi’s Son Speaks Out",
+          "link": "https://www.irrawaddy.com/in-person/interview/theyre-definitely-afraid-of-her-aung-san-suu-kyis-son-speaks-out.html",
+          "summary": "At the recent Forum 2000 in Prague, Kim Aris talked to the Seznam Zpravy website about his mother’s many years in detention and his own reluctant journey into the limelight.",
+          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/10/DASSK-2110261810-feat.jpg",
+          "publishedAt": "2026-10-21T11:12:27.000Z"
+        },
+        {
+          "title": "China Moves to Cement Myanmar Influence After U.S. Talks With Regime",
+          "link": "https://www.irrawaddy.com/news/burma/china-moves-to-cement-myanmar-influence-after-u-s-talks-with-regime.html",
+          "summary": "A Chinese delegation met with the military’s proxy USDP and eight other parties last week to gauge public sentiment and obstacles to bilateral relations.",
+          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/10/CCP-2110261704-feat.jpg",
+          "publishedAt": "2026-10-21T10:06:33.000Z"
+        },
+        {
+          "title": "Migrants Urge Thai Gov’t to Let Them Work Free of Myanmar Regime Extortion",
+          "link": "https://www.irrawaddy.com/news/burma/migrants-urge-thai-govt-to-let-them-work-free-of-myanmar-regime-extortion.html",
+          "summary": "Migrant workers in Thailand seek to dodge the regime’s attempts to squeeze money from them through controversial Certificates of Identity, which are now needed for their work permits.",
+          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/10/Myanmar-CI-2110261510-feat.jpg",
+          "publishedAt": "2026-10-21T08:12:04.000Z"
+        },
+        {
+          "title": "Why Is the Regime Targeting Civilians in Rakhine?",
+          "link": "https://www.irrawaddy.com/video/why-is-the-regime-targeting-civilians-in-rakhine.html",
+          "summary": "This week our editors discuss the regime’s senseless slaughter of civilians from the air while its foot soldiers are being decimated on the battlefield.",
+          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/10/1002-2110261429-EDT-Th.jpg",
+          "publishedAt": "2026-10-21T07:30:18.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "myanmar-now",
+        "name": "Myanmar Now",
+        "homepage": "https://myanmar-now.org",
+        "lang": "en-MM"
+      },
+      "fetchedAt": "2026-10-22T15:12:24.195Z",
+      "items": [
+        {
+          "title": "Nighttime junta airstrike kills 2 and injures 6 in Pauktaw Township",
+          "link": "https://myanmar-now.org/en/news/nighttime-junta-airstrike-kills-2-and-injures-6-in-pauktaw-township/",
+          "summary": "The regime has been bombing Rakhine State townships almost daily for months in its attempt to fend off the AA, leaving civilians reeling in fear",
+          "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/10/AFP__20260327__A4YU9UX__v1__HighRes__MyanmarMilitaryParadeHoliday-1024x683.webp",
+          "publishedAt": "2026-10-22T11:29:33.000Z"
+        },
+        {
+          "title": "Suu Kyi speaks to son for first time in more than five years",
+          "link": "https://myanmar-now.org/en/news/suu-kyi-speaks-to-son-for-first-time-in-more-than-five-years/",
+          "summary": "Kim Aris welcomes the conversation with his detained mother, but urges continued pressure to secure her freedom",
+          "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/10/Kim_supplied-1-731x1024.jpeg",
+          "publishedAt": "2026-10-22T09:47:46.000Z"
+        },
+        {
+          "title": "Six women killed by Myanmar junta airstrike in Budalin",
+          "link": "https://myanmar-now.org/en/news/six-women-killed-by-myanmar-junta-airstrike-in-budalin/",
+          "summary": "A regime gyrocopter attack killed six women, including a mother and her three daughters, in Sagaing Region’s Budalin Township early this week",
+          "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/10/signal-2026-10-21-14-46-54-861_012-1024x576.jpg",
+          "publishedAt": "2026-10-22T07:50:57.000Z"
+        },
+        {
+          "title": "Yangon’s luxury condo buyers left waiting as projects stall",
+          "link": "https://myanmar-now.org/en/news/yangons-luxury-condo-buyers-left-waiting-as-projects-stall/",
+          "summary": "Delayed developments and the cancellation of a major project raise doubts about the property market in Myanmar’s largest city",
+          "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/10/the-central-1024x682.jpg",
+          "publishedAt": "2026-10-21T10:54:52.000Z"
+        },
+        {
+          "title": "TNLA-backed force defects to the junta",
+          "link": "https://myanmar-now.org/en/news/tnla-backed-force-defects-to-the-junta/",
+          "summary": "Led by a former member of the regime’s police force, over 50 TNLA-backed forces defected to the junta last week in Kyaukme town, northern Shan State",
+          "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2024/07/tnla-1024x683.jpeg",
+          "publishedAt": "2026-10-21T09:51:34.000Z"
+        },
+        {
+          "title": "Myanmar military airstrikes kill 16 in single day",
+          "link": "https://myanmar-now.org/en/news/myanmar-military-airstrikes-kill-16-in-single-day/",
+          "summary": "The regime employed an arsenal of gyrocopters, kamikaze drones and jet fighters in three separate attacks on civilian targets in Magway and Mandalay regions, and Chin State",
+          "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/10/signal-2026-10-19-17-36-59-189_007-1024x768.jpeg",
+          "publishedAt": "2026-10-20T10:29:11.000Z"
+        },
+        {
+          "title": "Detained Suu Kyi receives UK royal package: Myanmar regime",
+          "link": "https://myanmar-now.org/en/news/detained-suu-kyi-receives-uk-royal-package-myanmar-regime/",
+          "summary": "Britain’s King Charles sent imprisoned Aung San Suu Kyi two books on soil, as well as two sealed envelopes, according to the junta",
+          "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/10/AFP__20261019__D3QL3VQ__v2__MidRes__MyanmarBritainPoliticsDemocracyRoyals-1024x683.jpg",
+          "publishedAt": "2026-10-20T05:19:07.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "dvb",
+        "name": "DVB (Democratic Voice of Burma)",
+        "homepage": "https://english.dvb.no",
+        "lang": "en-MM"
+      },
+      "fetchedAt": "2026-10-22T15:12:24.141Z",
+      "items": [
+        {
+          "title": "Aung San Suu Kyi speaks to son for first time since 2021 Myanmar military coup",
+          "link": "https://english.dvb.no/aung-san-suu-kyi-speaks-to-son-for-first-time-since-2021-myanmar-military-coup/",
+          "summary": "Jailed State Counsellor Aung San Suu Kyi’s son, Kim Aris, shared on Thursday that he had spoken to his 81-year-old mother for the first time since she was first detained during the military coup on Feb. 1, 2021, but did…",
+          "publishedAt": "2026-10-22T09:29:09.000Z"
+        },
+        {
+          "title": "Meet the first foreign bus driver in Japan’s Shizuoka Prefecture",
+          "link": "https://english.dvb.no/meet-the-first-foreign-bus-driver-in-japans-shizuoka-prefecture-hes-from-myanmar/",
+          "summary": "Pyae Son, 26, began his work as the first-ever foreign national bus driver in Japan’s Shizuoka Prefecture, saying that he will prioritize his passengers’ safety overall. “I’ll guarantee safe and joy rides for the…",
+          "publishedAt": "2026-10-22T08:01:31.000Z"
+        },
+        {
+          "title": "Myanmar refugees find hope in Thailand’s work program",
+          "link": "https://english.dvb.no/myanmar-refugees-find-hope-in-thailands-work-program/",
+          "summary": "Zsombor Peter for DW A year ago, Thailand granted long-staying refugees from Myanmar the right to work legally. Refugees and rights groups welcome the move but say the program’s first year has exposed significant…",
+          "publishedAt": "2026-10-22T06:43:38.000Z"
+        },
+        {
+          "title": "Min Aung Hlaing meets Nippon Foundation chair amid backchannel talks in Japan",
+          "link": "https://english.dvb.no/min-aung-hlaing-meets-nippon-foundation-chair-amid-backchannel-talks-in-japan/",
+          "summary": "Pro-democracy activists in Japan told DVB that they were “concerned” over a recent meeting between regime leader Min Aung Hlaing and Japan’s Special Envoy for National Reconciliation in Myanmar, Yohei Sasakawa, in…",
+          "publishedAt": "2026-10-22T06:29:32.000Z"
+        },
+        {
+          "title": "Over 400 Rakhine returnees from Malaysia held in military custody in Yangon",
+          "link": "https://english.dvb.no/over-400-rakhine-returnees-from-malaysia-held-in-military-custody-in-yangon/",
+          "summary": "Over 400 Myanmar nationals, who are ethnic Rakhine, deported from Malaysia earlier this month remain in military custody more than two weeks after arriving in Yangon, prompting family members to call for their immediate…",
+          "publishedAt": "2026-10-22T05:30:26.000Z"
+        },
+        {
+          "title": "NUG accuses Myanmar rights commission of acting as a ‘shield’ for military atrocities",
+          "link": "https://english.dvb.no/nug-accuses-myanmar-rights-commission-of-acting-as-a-shield-for-military-atrocities/",
+          "summary": "Myanmar’s National Unity Government (NUG) issued an official statement on Tuesday expressing strong support for the Southeast Asia National Human Rights Institutions Forum’s (SEANF) decision to terminate the membership…",
+          "publishedAt": "2026-10-21T22:54:54.000Z"
+        },
+        {
+          "title": "The money behind Myanmar’s coups, and the test in Paris",
+          "link": "https://english.dvb.no/the-money-behind-myanmars-coups-and-the-test-in-paris/",
+          "summary": "Guest contributor James Shwe From Ne Win to Min Aung Hlaing, every military seizure of power has made a narrow circle rich and the people poorer. When the Financial Action Task Force meets in Paris on October 26–30, it…",
+          "publishedAt": "2026-10-21T22:37:34.000Z"
+        },
+        {
+          "title": "EU urged to sanction entire oil and gas sector; Southeast Asian human rights forum expels Myanmar",
+          "link": "https://english.dvb.no/eu-urged-to-sanction-entire-oil-and-gas-sector-southeast-asian-human-rights-forum-expels-myanmar/",
+          "summary": "EU urged to sanction Myanmar’s entire oil and gas sector Fourteen advocacy groups, including human rights groups such as Burma Campaign UK, Burmese Rohingya Organisation UK (BROUK), and Fortify Rights, have demanded on…",
+          "publishedAt": "2026-10-21T22:36:15.000Z"
+        },
+        {
+          "title": "Torrential rain destroys urad bean farms across Irrawaddy delta",
+          "link": "https://english.dvb.no/torrential-rain-destroys-urad-bean-fields-across-irrawaddy-delta/",
+          "summary": "Residents and farmers in Ayeyarwady Region’s Myaungmya and Einme townships told DVB that their urad bean fields were destroyed by flooding caused by the continuous rainfall in the region since mid-October. Urad bean,…",
+          "publishedAt": "2026-10-21T08:24:40.000Z"
+        },
+        {
+          "title": "Waves of arrests in Thailand’s Mae Sot and Chiang Mai leave Myanmar migrants in fear",
+          "link": "https://english.dvb.no/waves-of-arrests-in-northern-thailand-leave-myanmar-migrants-in-fear/",
+          "summary": "Thousands of Myanmar migrant workers living in Thailand are facing uncertainty about their futures in the country as Thai authorities continue inspections and arrests in cities with large migrant populations, after…",
+          "publishedAt": "2026-10-21T08:05:47.000Z"
+        }
+      ]
+    }
+  ]
+}

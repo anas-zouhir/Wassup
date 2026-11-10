@@ -1,0 +1,121 @@
+{
+  "country": "CI",
+  "dishes": [
+    {
+      "id": "attieke",
+      "name": "Attiéké",
+      "videoSearch": "https://www.youtube.com/results?search_query=Atti%C3%A9k%C3%A9%20recipe",
+      "description": "Attiéké (Bambara: cɛkɛ) (Nzema; Akyɛkɛ) (correct spelling being attiéké (Ivory Coast) or akyeke (Ghana)), is a dish made from cassava that is popular and traditional in the Côte d’Ivoire and Ghana. The dish is prepared from fermented cassava pulp that has been grated or granulated.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Attieke.JPG/500px-Attieke.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Acheke"
+    },
+    {
+      "id": "alloco",
+      "name": "Alloco",
+      "videoSearch": "https://www.youtube.com/results?search_query=Alloco%20recipe",
+      "description": "Fried plantain is a dish cooked wherever plantains grow, from West Africa to East Africa as well as Central America, the tropical region of northern South America and the Caribbean countries such as Haiti and Cuba and in many parts of Southeast Asia and Oceania, where fried snacks are widely popular.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Vendeuses_de_bananes_plantain.jpg/500px-Vendeuses_de_bananes_plantain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fried_plantain"
+    },
+    {
+      "id": "foutou",
+      "name": "Foutou",
+      "videoSearch": "https://www.youtube.com/results?search_query=Foutou%20recipe",
+      "description": "Fufu (or fufuo, foofoo, foufou foo-foo ) is a pounded meal found in West African cuisine originally made from boiled cassava, plantains, and cocoyam. Fufu's prevalence in West Africa has been noted in local literature, such as Chinua Achebe's Things Fall Apart. Fufu is a Twi word originating from the Akans in Ghana.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Wrapped_fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fufu"
+    },
+    {
+      "id": "kedjenou",
+      "name": "Kedjenou",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kedjenou%20recipe",
+      "description": "Kedjenou (also known as Kedjenou poulet and Kedjenou de Poulet) is a spicy stew that is slow-cooked in a sealed canari (terra-cotta pot) over fire or coals and prepared with chicken or guinea hen and vegetables. It is a traditional and popular dish of the cuisine of Côte d'Ivoire. Preparation methods for the stew vary.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Kedjenou_-_01.jpg/500px-Kedjenou_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kedjenou",
+      "recipe": {
+        "ingredients": [
+          "2 whole chickens, cut into medium pieces",
+          "Salt to taste",
+          "Black pepper to taste",
+          "2 tablespoons ginger paste",
+          "2 tablespoon garlic purée",
+          "2 tablespoons fresh thyme",
+          "2 bay leaves",
+          "2 teaspoons smoked paprika",
+          "1 tablespoon chicken bouillon cube",
+          "3 medium onions, chopped",
+          "3 green onions, chopped",
+          "2 fresh red or green bell peppers, chopped",
+          "6 medium size tomatoes, chopped",
+          "2 whole habanero peppers (optional), neatly cut",
+          "2 eggplants, diced"
+        ],
+        "steps": [
+          "Preheat the oven to 350 °F.",
+          "Trim excess fat of chicken and pat dry with a cloth or paper towel.",
+          "Season chicken with salt, garlic, ginger, thyme, smoked paprika, green onions, chicken bouillon cube, and onions. Let rest in the fridge for at least 2 hours to season well.",
+          "Combine the tomatoes, onions, green onions, and red or green pepper in a Dutch oven. Add the chicken, and cover with the lid.",
+          "Place it in the oven, and bake for about an hour or until the chicken is cooked through. Shake the pot once or twice during cooking without opening the pot.",
+          "Remove from the oven. Serve with attieke or white rice and enjoy."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKedjenou_Chicken_(Chicken_and_Vegetable_Stew)"
+      }
+    },
+    {
+      "id": "sauce-graine",
+      "name": "Sauce graine",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sauce%20graine%20recipe",
+      "description": "Palm nut soup or banga is a soup made from palm fruit common in Cameroon, Sierra Leone, Ghana, Nigeria, Democratic Republic of Congo and Ivory Coast. The soup is made from a palm cream or palm nut base with stewed marinated meats, smoked dried fish, and aromatics.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Palm_nut_soup_close_up_02.jpg/500px-Palm_nut_soup_close_up_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Palm_nut_soup"
+    },
+    {
+      "id": "placali",
+      "name": "Placali",
+      "videoSearch": "https://www.youtube.com/results?search_query=Placali%20recipe",
+      "description": "Plakali is a staple food mainly prepared by the Ahanta and Nzema peoples of the Western region of Ghana and Akan people of Ivory Coast (Baoulé people, Aboure, Nzema, Anyi people). It consists of cassava dough cooked in hot water, and it is similar to banku, another Ivorian and Ghanaian staple food, and fufu.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Plakali"
+    },
+    {
+      "id": "poisson-braise",
+      "name": "Poisson braisé",
+      "videoSearch": "https://www.youtube.com/results?search_query=Poisson%20brais%C3%A9%20recipe",
+      "recipe": {
+        "ingredients": [
+          "6 tablespoons extra-virgin olive oil",
+          "5 cloves of garlic, finely chopped",
+          "1 cup fresh lemon juice",
+          "3 pinches salt or to taste",
+          "3 pinches grated red or black pepper",
+          "4 tablespoons all-purpose fish seasonings (e.g. grated garlic, cilantro,basil, thyme, paprika, salt, and pepper)",
+          "4 ea. (32 oz) swordfish fillets, deboned",
+          "2 large tomatoes, neatly diced",
+          "2 medium-size onions, neatly diced",
+          "2 medium-size yellow bell peppers, neatly diced",
+          "2 medium-size zucchini, neatly diced",
+          "2 dashes tabasco sauce",
+          "1 can (14 oz) tomato paste"
+        ],
+        "steps": [
+          "Combine 4 tablespoons of the extra- virgin olive oil in a large bowl, then add all the finely chopped garlic, lemon juice, 2 pinches of salt, 2 pinches of either the red or black pepper, and all of the fish seasonings. Mix them together very well to make a marinade.",
+          "Add the fish to the marinade, cover, and marinate in the fridge for about an hour.",
+          "Combine the tomatoes, onions, yellow pepper, zucchini, tabasco sauce, remaining extra-virgin olive oil, salt, and pepper in a bowl. Set aside.",
+          "Remove the fish from the fridge.",
+          "Heat a greased stovetop grill or skillet over medium heat. Add the fish and cook for at least 5 minutes. Flip and cook the other side for about another 4 minutes.",
+          "While the fish is cooking, put half of the tomato paste mixture onto a sheet pan and bake in a 350°F oven for about 7 minutes.",
+          "Put the remaining half tomato paste mixture on the plate followed by each one of the sword fish fillets. Garnish with the slice from the remaining lemon.",
+          "Serve with a side dish such as white rice or attieke."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APoisson_Braise_(Ivorian_Grilled_Fish)"
+      }
+    },
+    {
+      "id": "gnamakoudji",
+      "name": "Gnamankoudji (ginger juice)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gnamankoudji%20(ginger%20juice)%20recipe",
+      "description": "Gnamakoudji, or gnamakou, is a beverage in West African cuisine. Its main ingredient is ginger juice strained through cheesecloth; it is often made with pineapple juice, sugar, vanilla, lemon, or mint. Originating in Ivory Coast, it is also frequently consumed in Benin, Burkina Faso, Mali, and Senegal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Jus_de_gingembre-2025.jpg/500px-Jus_de_gingembre-2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gnamakoudji"
+    }
+  ]
+}

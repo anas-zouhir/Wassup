@@ -1,0 +1,246 @@
+{
+  "country": "TR",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "hurriyet",
+        "name": "Hürriyet",
+        "homepage": "https://www.hurriyet.com.tr",
+        "lang": "tr"
+      },
+      "fetchedAt": "2026-10-22T15:15:19.144Z",
+      "items": [
+        {
+          "title": "Netanyahu'dan İran talimatı! 'Trump işi bitirmeye hazır'",
+          "link": "https://www.hurriyet.com.tr/dunya/netanyahudan-iran-talimati-trump-isi-bitirmeye-hazir-43351325",
+          "summary": "İsrail Başbakanı Binyamin Netanyahu, İsrail ordusu ve Mossad'a da talimat verdiğini açıkladı. Netanyahu, İran'ın “varoluşsal tehdit” olduğunu öne sürdü ve ABD Başkanı Donald Trump'ın İran konusunda “işi bitirmeye hazır”…",
+          "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ada1e634735ad389d604294.jpg",
+          "publishedAt": "2026-10-22T14:34:49.000Z"
+        },
+        {
+          "title": "Galatasaray'ın Lille galibiyeti Fransız basınında: 'Osimhen savunmanın başına bela oldu! Lille, Galatasaray karşısında dağıldı'",
+          "link": "https://www.hurriyet.com.tr/sporarena/galatasarayin-lille-zaferi-fransa-basininda-osimhen-savunmanin-basina-bela-oldu-lille-galatasaray-karsisinda-dagildi-43350582",
+          "summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında Galatasaray, dün akşam deplasmanda karşılaştığı Lille'i 4-2 mağlup etti. Sarı-kırmızılıların bu galibiyeti Fransız basınında geniş yer buldu.",
+          "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad9bfe24735ad389d603c1b.jpg",
+          "publishedAt": "2026-10-22T07:50:11.000Z"
+        },
+        {
+          "title": "EDİRNE BELEDİYE BAŞKANLIĞI",
+          "link": "https://www.hurriyet.com.tr/resmi-ilanlar/edirne-belediye-baskanligi-43350171",
+          "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad8de1222393fcfc7d3c3a8.jpg",
+          "publishedAt": "2026-10-21T21:00:00.000Z"
+        },
+        {
+          "title": "BURSA GAYRİMENKUL SATIŞ İCRA DAİRESİ MÜDÜRLÜĞÜ",
+          "link": "https://www.hurriyet.com.tr/resmi-ilanlar/bursa-gayrimenkul-satis-icra-dairesi-mudurlugu-43350206",
+          "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad8e50022393fcfc7d3c3f3.jpg",
+          "publishedAt": "2026-10-21T21:00:00.000Z"
+        },
+        {
+          "title": "6 yaşındaki Ela'nın öldüğü kazada servis şoförüne 5 yıl 10 ay hapis: Ev hapsi kaldırıldı",
+          "link": "https://www.hurriyet.com.tr/gundem/6-yasindaki-elanin-oldugu-kazada-servis-soforune-5-yil-10-ay-hapis-ev-hapsi-kaldirildi-43351299",
+          "summary": "Kocaeli'nin Gebze ilçesinde okul çıkışında öğrenci servisinin çarpması sonucu yaşamını yitiren ilkokul 1'inci sınıf öğrencisi Ela Tabakoğlu'nun davasında karar çıktı. Sürücü İsa Can'a 5 yıl 10 ay 22 gün hapis cezası…",
+          "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ada10cf646226c0cc174a65.jpg",
+          "publishedAt": "2026-10-22T13:35:42.000Z"
+        },
+        {
+          "title": "17'nci kattan boş araziye uzanan hesaplaşma: Rezidans saldırganı otomobilde ölü bulundu",
+          "link": "https://www.hurriyet.com.tr/gundem/17nci-kattan-bos-araziye-uzanan-hesaplasma-rezidans-saldirgani-otomobilde-olu-bulundu-43351056",
+          "summary": "İstanbul, Büyükçekmece'de bir rezidansta Yasin Binarci’nin hayatını kaybettiği, Mehmet Işık’ın yaralandığı silahlı saldırının şüphelisi Mehmet Emin Yüksel, Bağcılar’da boş arazideki bir otomobilde silahla vurulmuş halde…",
+          "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad9f0a2c628bee4419f18f9.jpg",
+          "publishedAt": "2026-10-22T11:18:46.000Z"
+        },
+        {
+          "title": "Gören müteahhit sanıyor, o inşaat işçisi: 5.7 litrelik canavara 30 bin lira maaşla bakıyor",
+          "link": "https://www.hurriyet.com.tr/gundem/goren-muteahhit-saniyor-o-insaat-iscisi-5-7-litrelik-canavara-30-bin-lira-maasla-bakiyor-43350728",
+          "summary": "Irak'tan 850 bin liraya getirdiği milyonluk otomobiliyle Eskişehir caddelerinde turlayan Velat Ceylan'ın hikayesi dikkat çekiyor. Çocukluk tutkusunun peşini bırakmayan genç işçi, \"Tek başıma eve çıksam bu arabayı kapıda…",
+          "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad9c492c628bee4419f171c.jpg",
+          "publishedAt": "2026-10-22T08:11:00.000Z"
+        },
+        {
+          "title": "Küresel PHP açığı! Siber Güvenlik Başkanlığı'ndan açıklama: e-Devlet Kapısı'ndaki güvenlik incelemesi tamamlandı",
+          "link": "https://www.hurriyet.com.tr/gundem/kuresel-php-acigi-siber-guvenlik-baskanligindan-aciklama-kritik-guvenlik-aciklarina-iliskin-onleyici-calismalar-suruyor-43350827",
+          "summary": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, dünya genelinde kullanılan PHP yazılımında tespit edilen kritik güvenlik açıklarına ilişkin e-Devlet Kapısı'nda gerçekleştirilen güvenlik kontrollerinin tamamlandığını ve…",
+          "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad9d0ebc628bee4419f175e.jpg",
+          "publishedAt": "2026-10-22T09:04:00.000Z"
+        },
+        {
+          "title": "Trump hakkında şok iddia: Putin'in elinde görüntüleri var",
+          "link": "https://www.hurriyet.com.tr/dunya/trump-hakkinda-sok-iddia-putinin-elinde-goruntuleri-var-43350757",
+          "summary": "Eski ABD Dışişleri Bakanı Hillary Clinton podcast yayınında yaptığı açıklamada, \"Putin'in Trump hakkında elinde bazı şeyler olduğuna inanmaya devam ediyorum. Elinde fotoğraflar, videolar ya da her ne varsa bunları…",
+          "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad9ca471412951abe662aad.jpg",
+          "publishedAt": "2026-10-22T08:33:17.000Z"
+        },
+        {
+          "title": "Gökyüzünden tespit edildi, sahada imha edildi: Diyarbakır kırsalında dev kenevir operasyonu",
+          "link": "https://www.hurriyet.com.tr/gundem/gokyuzunden-tespit-edildi-sahada-imha-edildi-diyarbakir-kirsalinda-dev-kenevir-operasyonu-43350668",
+          "summary": "Jandarma İHA ve uzaktan algılama sistemleriyle belirlenen 35 yasa dışı ekim alanına 230 personelle nokta operasyon düzenlendi. Piyasa sürülmeden yerinde imha edilen 48 bini aşkın kök kenevir ve skunk ile 1,2 tonluk esrar…",
+          "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad9c1d3c628bee4419f16ea.jpg",
+          "publishedAt": "2026-10-22T07:53:00.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "ntv-tr",
+        "name": "NTV",
+        "homepage": "https://www.ntv.com.tr",
+        "lang": "tr"
+      },
+      "fetchedAt": "2026-10-22T15:15:19.157Z",
+      "items": [
+        {
+          "title": "MEB'den Meta'ya dava hazırlığı. Bakan Tekin: İçerikleri çocuğun erişemeyeceği şekle sokun",
+          "link": "https://www.ntv.com.tr/turkiye/mebden-metaya-dava-hazirligi-bakan-tekin-icerikleri-cocugun-erisemeyecegi-sekle-sokun-1747520",
+          "summary": "Milli Eğitim Bakanı Yusuf Tekin; Facebook, Instagram ve WhatsApp'ın sahibi Meta'ya dava açmaya hazırlandıklarını açıkladı. Milli Eğitim Bakanı Yusuf Tekin, Birleşik Arap Emirlikleri ziyareti dönüşünde açıklamalarda…",
+          "image": "https://images.ntv.com.tr/images/tekin-514189(2).jpg?width=930&format=webp",
+          "publishedAt": "2026-10-22T13:51:50.000Z"
+        },
+        {
+          "title": "İstanbul’da araçla işe gidip gelmenin aylık maliyeti ne kadar?",
+          "link": "https://www.ntv.com.tr/turkiye/video-istanbulda-aracla-ise-gidip-gelmenin-aylik-maliyeti-ne-kadar-1747511",
+          "summary": "Artan akaryakıt fiyatları, köprü geçişi, araç bakımı derken İstanbul'da araçla işe gidip gelmenin maliyeti katlandı. Peki 5 gün çalışan bir kişinin aylık yol masrafı ne kadar tutuyor?",
+          "image": "https://images.ntv.com.tr/images/iStock-148421596-889339.jpg?width=930&format=webp",
+          "publishedAt": "2026-10-22T13:12:57.000Z"
+        },
+        {
+          "title": "20 suç kaydı vardı: Çatıda böyle yakalandı",
+          "link": "https://www.ntv.com.tr/turkiye/video-20-suc-kaydi-vardi-catida-boyle-yakalandi-1747510",
+          "summary": "Bursa'da uyuşturucu madde kullanmak ve bulundurmak suçundan 3 yıl 10 ay hapis cezasıyla aranan kaçak şahıs bir apartmanın çatı katında saklanırken yakalandı. Bursa Emniyet Müdürlüğü Asayiş Şube Müdürlüğü ekipleri, aranan…",
+          "image": "https://images.ntv.com.tr/images/AW816099_01-355466.jpg?width=930&format=webp",
+          "publishedAt": "2026-10-22T13:03:51.000Z"
+        },
+        {
+          "title": "Lütfi Arıboğan'a 5 yıla kadar hapis istemi",
+          "link": "https://www.ntv.com.tr/turkiye/lutfi-aribogana-5-yila-kadar-hapis-istemi-1747505",
+          "summary": "TFF'nin eski başkanvekili Lütfi Arıboğan hakkında FETÖ davası açıldı. Arıboğan'ın 5 yıla kadar hapsi talep edildi. İstanbul Terör Suçları Soruşturma Bürosu tarafından TFF'nin eski başkanvekili Lütfi Arıboğan hakkında, ,…",
+          "image": "https://images.ntv.com.tr/images/thumbs_b_c_1797110890923561b25be2388db602c9-961413-593729.png?width=930&format=webp",
+          "publishedAt": "2026-10-22T13:02:49.000Z"
+        },
+        {
+          "title": "İstanbul'da yolculuk maliyeti arttı. Özel araçla işe gidip gelme maliyeti aylık yaklaşık 15 bin lira",
+          "link": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-yolculuk-maliyeti-artti-ozel-aracla-ise-gidip-gelme-maliyeti-aylik-yaklasik-15-bin-lira-1747501",
+          "summary": "Artan akaryakıt fiyatları, köprü geçişi, araç bakımı derken İstanbul'da araçla işe gidip gelmenin maliyeti katlandı. Haftada 5 gün çalışan bir kişinin aylık yol masrafı ne kadar? Haber: Canan Yıldırım Arabayla işi gidip…",
+          "image": "https://images.ntv.com.tr/images/trafik3-325813(2).jpg?width=930&format=webp",
+          "publishedAt": "2026-10-22T12:23:46.000Z"
+        },
+        {
+          "title": "Kurtulmuş: Terörsüz Türkiye süreci tıkır tıkır işliyor",
+          "link": "https://www.ntv.com.tr/turkiye/kurtulmus-terorsuz-turkiye-sureci-tikir-tikir-isliyor-1747494",
+          "summary": "Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş, Terörsüz Türkiye sürecinin sorunsuz şekilde ilerlediğini söyledi. Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş, Lüksemburg Temsilciler Meclisi…",
+          "image": "https://images.ntv.com.tr/images/numan-kurtulmuş-4-728553(2).jpg?width=930&format=webp",
+          "publishedAt": "2026-10-22T10:57:52.000Z"
+        },
+        {
+          "title": "Emine Erdoğan'dan Semerkant'ta çocukların geleceğine odaklanan sergiye ziyaret",
+          "link": "https://www.ntv.com.tr/turkiye/emine-erdogandan-semerkantta-cocuklarin-gelecegine-odaklanan-sergiye-ziyaret-1747492",
+          "summary": "Emine Erdoğan, Özbekistan'da düzenlenen \"Çocukların Refahına Yatırım Yapmak: Gelecek Nesillerin Sürdürülebilir ve Adil Kalkınmasına Giden Yol Dünya Zirvesi\" kapsamında açılan sergiyi gezdi. Çocuklara yapılan yatırımların…",
+          "image": "https://images.ntv.com.tr/images/AA-20261022-42830812-42830811-EMINE_ERDOGAN_OZBEKISTANDA_DUZENLENEN_ZIRVE_KAPSAMINDA_ACILAN_SERGIYI_ZIYARET_ETTI-161636.jpg?width=930&format=webp",
+          "publishedAt": "2026-10-22T10:54:01.000Z"
+        },
+        {
+          "title": "Adalet Bakanı Gürlek duyurdu: Üç faili meçhul cinayet daha aydınlatıldı",
+          "link": "https://www.ntv.com.tr/turkiye/adalet-bakani-gurlek-duyurdu-uc-faili-mechul-cinayet-daha-aydinlatildi-1747487",
+          "summary": "Adalet Bakanı Akın Gürlek, 64 dosyada 71 cinayetin faili meçhul olmaktan çıkarıldığını açıkladı. Adalet Bakanı Akın Gürlek sosyal medya hesabından yaptığı paylaşımda, faili meçhul dosyaların aydınlatılmasına yönelik…",
+          "image": "https://images.ntv.com.tr/images/gürlek-823399-438409.jpg?width=930&format=webp",
+          "publishedAt": "2026-10-22T11:44:17.000Z"
+        },
+        {
+          "title": "\"Dedem nerede şehit oldu?\": İşte MSB şehit bilgisi sorgulama ekranı",
+          "link": "https://www.ntv.com.tr/turkiye/galeri-msb-sehit-bilgisi-sorgulama-ekrani-sosyal-medyada-sehit-bilgi-kapisi-gundem-oldu-1747482",
+          "summary": "Milli Savunma Bakanlığı (MSB), \"Şehit Bilgi Kapısı\" uygulamasını erişime sundu. \"Dedem nerede şehit oldu?\" sorusuna yanıt arayan vatandaşlar, \"Şehit Bilgi Kapısı\" uygulamasıyla arama yapabiliyor. Milli Savunma Bakanlığı…",
+          "image": "https://images.ntv.com.tr/images/msb-404610.png?width=930&format=webp",
+          "publishedAt": "2026-10-22T10:13:28.000Z"
+        },
+        {
+          "title": "AB'ye Libya tepkisi. MSB: \"Mutabakat uluslararası hukuk temelinde imzalandı\"",
+          "link": "https://www.ntv.com.tr/turkiye/abye-libya-tepkisi-msb-mutabakat-uluslararasi-hukuk-temelinde-imzalandi-1747473",
+          "summary": "Milli Savunma Bakanlığı, \"AB'nin tek taraflı değerlendirmesi Libya anlaşmasının geçerliliğini ortadan kaldırmaz.\" kaldırmaz tepkisiyle mutabakatın uluslararası hukuk temelinde imzalandığını bildirdi. Milli Savunma…",
+          "image": "https://images.ntv.com.tr/images/MSBbasınbilgilendirme-953042(2).jpg?width=930&format=webp",
+          "publishedAt": "2026-10-22T09:53:58.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "sozcu",
+        "name": "Sözcü",
+        "homepage": "https://www.sozcu.com.tr",
+        "lang": "tr"
+      },
+      "fetchedAt": "2026-10-22T15:15:19.069Z",
+      "items": [
+        {
+          "title": "Midyeci Ahmet'in sakatat temizlediği görüntü infial yarattı",
+          "link": "https://www.sozcu.com.tr/midyeci-ahmet-in-sakatat-temizledigi-goruntu-infial-yaratti-p371778",
+          "summary": "Kamuoyunda “Midyeci Ahmet” olarak tanınan Ahmet Çiçek’in, açık alanda bahçe zemininde sakatat hazırlayıp eldiven kullanm...",
+          "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/kirjpg-w4w409kiREmRf_WtbgJqsQ.jpg",
+          "publishedAt": "2026-10-22T15:06:34.000Z"
+        },
+        {
+          "title": "Fon krizinde AKP'den bürokrasiye koruma kalkanı önergesi vermesi bekleniyor",
+          "link": "https://www.sozcu.com.tr/fon-krizinde-akp-nin-sorumluluktan-muafiyet-onergesi-vermesi-bekleniyor-p371773",
+          "summary": "AKP'li vekiller tarafından meclise sunulan Fon Kanunu kapsamında bir yeni önergenin daha sunulması bekleniyor. Henüz res...",
+          "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/707jpg-Z6h4hQRiLk2hgfh6f04X5A.jpg",
+          "publishedAt": "2026-10-22T15:09:57.000Z"
+        },
+        {
+          "title": "Arnavutköy'de 9 yaralının olduğu minibüs kazasının görüntüleri ortaya çıktı",
+          "link": "https://www.sozcu.com.tr/arnavutkoy-kazasinin-goruntuleri-ortaya-cikti-p371771",
+          "summary": "Arnavutköy'de dokuz kişinin yaralandığı, servis minibüsünün park halindeki hafriyat kamyonuna çarptığı kazanın güvenlik ...",
+          "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/arnavutkoyde9kisininyaralandigiserv1568668466774jpg-5H8FRv2cFUiatHw7hP6rmw.jpg",
+          "publishedAt": "2026-10-22T14:37:37.000Z"
+        },
+        {
+          "title": "Berber cinayetinin sırrı çözüldü: Köprü altında kafasının arkasından vurulmuş halde bulunmuştu",
+          "link": "https://www.sozcu.com.tr/berber-cinayetinin-sirri-cozuldu-kopru-altinda-kafasinin-arkasindan-vurulmus-halde-bulunmustu-p371769",
+          "summary": "Bartın’ın Kozcağız beldesinde köprü altında cansız bedeni bulunan 35 yaşındaki berber Murat Barışık’ın öldürülmesine ili...",
+          "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/bartin-berber-cinayet-kopru-altijpg-uJs6NtCyc0_k4zeiUAbYfQ.jpg",
+          "publishedAt": "2026-10-22T14:38:16.000Z"
+        },
+        {
+          "title": "Polis, avukat nişanlısını öldürüp intihar etti",
+          "link": "https://www.sozcu.com.tr/polis-avukat-nisanlisini-oldurup-intihar-etti-p371767",
+          "summary": "İzmir’in Menemen ilçesinde polis memuru Aykut Erol, tartıştığı nişanlısı avukat Özge Penbegül’ü tabancayla vurarak öldür...",
+          "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/pasporjpg-blVEnTaGoEO_uMRmfWfDPg.jpg",
+          "publishedAt": "2026-10-22T14:13:58.000Z"
+        },
+        {
+          "title": "Dalaman'da kolunu silaj makinesine kaptırdı: Hayati tehlikesi var",
+          "link": "https://www.sozcu.com.tr/dalamanda-kolunu-silaj-makinesine-kaptirdi-hayati-tehlikesi-var-p371764",
+          "summary": "Muğla'nın Dalaman ilçesinde silaj yapmak için çalışan 57 yaşındaki S.A.'nın makineye kaptırdığı kolu omuz kısmından kopt...",
+          "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/aciljpg-TL6TL8U100m7ToMVuu7FCw.jpg",
+          "publishedAt": "2026-10-22T14:05:53.000Z"
+        },
+        {
+          "title": "Oraj nedir, Oraj yağış ne demek? İstanbul için yeni sağanak uyarısı",
+          "link": "https://www.sozcu.com.tr/oraj-nedir-oraj-yagis-ne-demek-istanbul-icin-yeni-saganak-uyarisi-p371762",
+          "summary": "İstanbul’da geçen hafta sel ve su baskınlarına neden olan sağanağın ardından yeni bir fırtına sistemi yaklaşıyor. Cuma g...",
+          "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/yagmurjpg-SVXYPIF3rEu-A3rQEMRAEA.jpg",
+          "publishedAt": "2026-10-22T13:52:35.000Z"
+        },
+        {
+          "title": "Cübbeli Ahmet'ten Hafız Mahmud'un ölümüyle ilgili İsmailağa cemaatine ağır suçlama!",
+          "link": "https://www.sozcu.com.tr/cubbeli-ahmet-ten-hafiz-mahmud-un-olumuyle-ilgili-ismailaga-cemaatine-agir-suclama-p371755",
+          "summary": "İstanbul Fatih’te otoparkta elektrik akımına kapılarak hayatını kaybeden 14 yaşındaki Hafız Mahmud Işıldak’ın ölümü kamu...",
+          "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/yeni-proje-20261022t162235152png-l_7aQCQUMkuWzNyAW-kiOg.png",
+          "publishedAt": "2026-10-22T13:35:10.000Z"
+        },
+        {
+          "title": "Hastalık tarlayı vurdu, çiftçi perişan oldu: Tarihin en kötü hasadı",
+          "link": "https://www.sozcu.com.tr/hastalik-tarlayi-vurdu-ciftci-perisan-oldu-tarihin-en-kotu-hasadi-p371753",
+          "summary": "Trakya ve Marmara’da sinsice yayılan çürüklük hastalığı, bu kez biçilmeyi bekleyen tarlaları vurdu. Ürünlerin dalında ku...",
+          "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/hastalik-tarlayi-vurdu-ciftci-perisan-oldu-tarihin-en-kotu-hasadijpg-k_xE2F5G60_VlW5m2P9NvQ.jpg",
+          "publishedAt": "2026-10-22T13:33:57.000Z"
+        },
+        {
+          "title": "31 Mart'tan bugüne seçim olmadan harita böyle değişti",
+          "link": "https://www.sozcu.com.tr/31-mart-tan-bugune-secim-olmadan-harita-boyle-degisti-p371750",
+          "summary": "31 Mart 2024 yerel seçimlerinin ardından geçen tutuklamalar, görevden almalar, kayyum atamaları ve parti değişiklikleri ...",
+          "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/harita-icjpg-NF56kXSP6USYBJ_AiGohWA.jpg",
+          "publishedAt": "2026-10-22T13:27:48.000Z"
+        }
+      ]
+    }
+  ]
+}

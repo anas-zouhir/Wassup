@@ -1,0 +1,242 @@
+{
+  "country": "CU",
+  "dishes": [
+    {
+      "id": "ropa-vieja",
+      "name": "Ropa vieja",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ropa%20vieja%20recipe",
+      "description": "Ropa vieja is a dish with regional variations in Spain, Latin America and the Philippines. It normally includes some form of stewed beef and tomatoes with a sofrito base. Originating in Spain, it is known today as one of the national dishes of Cuba.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/RealRopaVieja.jpg/500px-RealRopaVieja.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ropa_vieja",
+      "recipe": {
+        "ingredients": [
+          "1 kg boiled beef (preferably flank steak, but any meat with long threads will do)",
+          "⅓ cup olive oil",
+          "1 onion",
+          "3 garlic cloves",
+          "1 green bell pepper",
+          "1 red bell pepper",
+          "1½ cup tomato sauce",
+          "1 tsp salt",
+          "1 bay leaf",
+          "1 cup red cooking wine or beer"
+        ],
+        "steps": [
+          "Cut the meat in pieces, not too small, not too big. Using a pressure cooker, boil the meat for about 15 minutes. Add a teaspoon of olive oil to the water to avoid foaming; also, add a teaspoon of salt. After boiling the meat, save 1 cup of the broth.",
+          "Shred the meat in thin strips using a fork. Chop the onion, cut the peppers in thin strips and mince the garlic cloves.",
+          "Sauté the garlic and the onion for a bit in hot oil, then add the peppers, sauté a bit more. Add the meat and the rest of the ingredients, including the cup of broth.",
+          "Cook the mix over low heat for 20–30 minutes. Stir a few times. Season to taste."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARopa_Vieja_(Caribbean_Shredded_Beef)"
+      }
+    },
+    {
+      "id": "cuban-sandwich",
+      "name": "Cuban sandwich",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cuban%20sandwich%20recipe",
+      "description": "A Cuban sandwich (Spanish: Sándwich cubano) is a variation of a ham and cheese sandwich that likely originated before the turn of the 20th century in cafes catering to Cuban workers in Tampa or Key West, two early Cuban immigrant communities in Florida, United States, centered on the cigar industry.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tampa_Cuban_sandwich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cuban_sandwich",
+      "recipe": {
+        "ingredients": [
+          "Ham",
+          "Pernil (pork leg)",
+          "Swiss cheese, sliced",
+          "Tomatoes, sliced",
+          "Yellow deli mustard",
+          "Onions, sliced",
+          "Bread roll",
+          "Lettuce",
+          "Mayonnaise",
+          "Dill pickle",
+          "Spanish sausage (chorizo; optional)"
+        ],
+        "steps": [
+          "Assemble like a normal sandwich."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACuban_Sandwich_I"
+      }
+    },
+    {
+      "id": "picadillo",
+      "name": "Picadillo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Picadillo%20recipe",
+      "description": "Picadillo is a traditional dish in many Latin American countries including Mexico and Cuba, as well as the Philippines. It is made with ground meat (most commonly beef), tomatoes (tomato sauce may be used as a substitute), and also raisins, olives, and other ingredients that vary by region.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Picadillo_and_rice.jpg/500px-Picadillo_and_rice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Picadillo",
+      "recipe": {
+        "ingredients": [
+          "2 pounds ground beef",
+          "¼ cup olive oil, divided",
+          "1 cup diced Oso Sweet onions",
+          "1 green pepper, diced",
+          "1 tablespoon chopped garlic",
+          "1 can (15 ounces) tomato sauce",
+          "2 teaspoons ground cumin",
+          "2 teaspoons dried oregano",
+          "½ cup raisins",
+          "½ cup chopped pimento-stuffed green olives",
+          "2 tablespoons red wine vinegar",
+          "Salt and fresh ground black pepper to taste"
+        ],
+        "steps": [
+          "In large skillet, brown beef in 2 tablespoons olive oil over high heat; drain and reserve.",
+          "In same skillet, lightly brown onion, pepper, and garlic in remaining oil.",
+          "Add tomato sauce, cumin, and oregano; bring to boil.",
+          "Reduce heat and simmer 20 minutes, stirring occasionally, until mixture has thickened.",
+          "Stir in beef, raisins, olives and season to taste with salt and pepper.",
+          "Bring back to boil, simmer 10 minutes, and serve over steamed rice with sautéed sliced ripe plantains and black beans."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACuban_Picadillo"
+      }
+    },
+    {
+      "id": "moros-y-cristianos",
+      "name": "Moros y cristianos",
+      "videoSearch": "https://www.youtube.com/results?search_query=Moros%20y%20cristianos%20recipe",
+      "description": "Moros y Cristianos or Moros i Cristians, literally in English Moors and Christians, is a set of festival activities which are celebrated in many towns and cities of Spain, mainly in the southern Valencian Community.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Fil%C3%A0_Marraqueix.jpg/500px-Fil%C3%A0_Marraqueix.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Moros_y_Cristianos"
+    },
+    {
+      "id": "arroz-con-pollo",
+      "name": "Arroz con pollo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Arroz%20con%20pollo%20recipe",
+      "description": "Arroz con pollo (Spanish for rice with chicken) is a traditional dish of Latin America. It typically consists of chicken cooked with rice, onions, saffron, and a plethora of other grains or vegetables. In the Dominican Republic it is alternately called locrio de pollo, and in Saint Martin it is called lokri or locreo.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Arroz-con-Pollo.jpg/500px-Arroz-con-Pollo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Arroz_con_pollo",
+      "recipe": {
+        "ingredients": [
+          "1 ea. (1.3–1.8 kg) chicken, cut into serving pieces",
+          "Salt to taste",
+          "Pepper to taste",
+          "Olive oil",
+          "4 cloves of fresh garlic, minced",
+          "1 medium onion, chopped",
+          "225 g diced red bell pepper",
+          "425 g (1 can) diced tomatoes",
+          "7.5 g (½ tablespoon) sweet paprika",
+          "14 g (½ oz) chopped cilantro",
+          "1.4 liter (6 cups) chicken stock",
+          "8 saffron threads or 1 teaspoon food coloring for yellow rice",
+          "370 g (2 cups) medium or long-grain rice",
+          "225 g (8 oz) canned peas (thoroughly drained)"
+        ],
+        "steps": [
+          "Season the chicken with two pinches of salt and a pinch of pepper.",
+          "Pour enough olive oil into a large skillet to just barely cover the bottom.",
+          "Sauté chicken in oil until brown. There are two ways to proceed from here: either remove the chicken from the skillet or keep it there.",
+          "Sauté garlic until brown. Be careful, garlic burns easily.",
+          "Add the onion, bell pepper, tomatoes and paprika. Sauté until the vegetables are tender.",
+          "Transfer the ingredients to a large stewing pot.",
+          "Add the cilantro, bouillon and saffron (or food coloring). Bring to a rolling boil.",
+          "Add the rice and mix well. Simmer over medium heat until the rice is cooked and the liquid is absorbed. Add more broth or water if the liquid evaporates before the rice is cooked.",
+          "Add the chicken to the pot (if you removed it previously) and cover it with rice. Wait two to three minutes to allow the chicken to warm.",
+          "Sprinkle peas on top of the rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AArroz_con_Pollo_(Rice_and_Chicken)"
+      }
+    },
+    {
+      "id": "lechon-asado",
+      "name": "Lechón asado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lech%C3%B3n%20asado%20recipe",
+      "description": "A sucking-pig (BrE) or suckling pig (AmE) is a piglet fed on its mother's milk (i.e., a piglet which is still being \"suckled\"). In culinary contexts, a sucking-pig is slaughtered before the end of its second month.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Cochinillos-Mercado_de_la_Cebada.jpg/500px-Cochinillos-Mercado_de_la_Cebada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Suckling_pig"
+    },
+    {
+      "id": "tostones",
+      "name": "Tostones",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tostones%20recipe",
+      "description": "Tostones are twice-fried plantain slices commonly found in Latin American cuisine and Caribbean cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Tostones.JPG/500px-Tostones.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tostones"
+    },
+    {
+      "id": "vaca-frita",
+      "name": "Vaca frita",
+      "videoSearch": "https://www.youtube.com/results?search_query=Vaca%20frita%20recipe",
+      "description": "Vaca frita (literally \"Fried Cow\") is a Cuban dish consisting of fried and shredded skirt or flank steak. It is often topped with sauteed onions with a squeeze of lime, and served with rice and black beans. It is prepared by sauteeing slow cooked steak.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Vaca_frita_at_cuba_nyc.jpg/500px-Vaca_frita_at_cuba_nyc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vaca_frita"
+    },
+    {
+      "id": "boliche",
+      "name": "Boliche",
+      "videoSearch": "https://www.youtube.com/results?search_query=Boliche%20recipe",
+      "description": "Boliche is a pot roast dish from Cuban cuisine consisting of eye round beef roast stuffed with ham. The stuffed roast is browned in olive oil and simmered in water with onions until the meat is soft, and then quartered potatoes are added.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Boliche.jpg/500px-Boliche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boliche",
+      "recipe": {
+        "ingredients": [
+          "3–5 lb beef eye round roast",
+          "4 Goya chorizos, quartered lengthwise",
+          "2 tbsp Goya adobo seasoning",
+          "2 large pinches saffron",
+          "6 cloves garlic, minced",
+          "1 large onion, chopped",
+          "1 large green bell pepper",
+          "3 bay leaves",
+          "1–2 heaping tbsp oregano",
+          "3 tbsp green Spanish olives with pimentos",
+          "3 tbsp capers",
+          "2 packets Goya sazon con azafran",
+          "1 cup red wine",
+          "1 can (29 oz) tomato sauce",
+          "¼ cup olive oil",
+          "1 package Badia cilantro"
+        ],
+        "steps": [
+          "Cut slits into eye round roast, and stuff with quartered chorizos (follow the grain of meat).",
+          "Lightly rub meat with adobo seasoning.",
+          "Brown the meat on all sides in a sauté pan to seal in the juices. Remove and place in a large covered roasting pan.",
+          "In the same pan as the beef was browned, add saffron, garlic, onions, peppers, bay leaves, oregano, olives, capers, and the Sazon seasoning. Sauté until the onions are translucent in color.",
+          "Deglaze with red wine, turn heat down, and simmer about 5 minutes. Add the cilantro and the tomato sauce and stir well.",
+          "Pour this mixture over the beef, and roast at 325 °F for 1 ½–2 hours, or until meat is tender. Turn the roast over and baste with the sauce once in a while to assure full flavor penetration and even cooking.",
+          "Serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABoliche_(Cuban_Chorizo-Stuffed_Roast)"
+      }
+    },
+    {
+      "id": "pastelitos",
+      "name": "Pastelitos",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pastelitos%20recipe",
+      "description": "Cuban pastries (known in Spanish as pasteles or pastelitos) are baked puff pastry–type pastries filled with sweet or savory fillings. Traditional fillings include cream cheese quesitos, guava (pastelito de guayaba) and cheese, pineapple, and coconut. The sweet fillings are made with sweetened fruit pulps.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Cuban_pastry%2C_guava.jpg/500px-Cuban_pastry%2C_guava.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cuban_pastry"
+    },
+    {
+      "id": "cuban-bread",
+      "name": "Cuban bread",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cuban%20bread%20recipe",
+      "description": "Cuban bread is a white bread formed into long, baguette-like loaves. Though similar to French bread and Italian bread, it is slightly different in its preparation and ingredients, which include a small amount of fat in the form of lard or vegetable shortening.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Cuban_sandwiches.jpg/500px-Cuban_sandwiches.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cuban_bread"
+    },
+    {
+      "id": "medianoche",
+      "name": "Medianoche",
+      "videoSearch": "https://www.youtube.com/results?search_query=Medianoche%20recipe",
+      "description": "A medianoche is a type of sandwich which originated in Cuba. It is served in many Cuban communities in the United States. It is so named because of the sandwich's popularity as a staple served in Havana's night clubs right around or after midnight.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Sandwich_de_Medianoche.jpg/500px-Sandwich_de_Medianoche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Medianoche"
+    },
+    {
+      "id": "ajiaco-cubano",
+      "name": "Ajiaco cubano",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ajiaco%20cubano%20recipe",
+      "description": "Ajiaco is a soup common to Colombia, Cuba, and Peru. Scholars have debated the origin of the dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ajiaco.jpg/500px-Ajiaco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ajiaco"
+    },
+    {
+      "id": "yuca-con-mojo",
+      "name": "Yuca con mojo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Yuca%20con%20mojo%20recipe",
+      "description": "Yuca con mojo, or yuca with sauce, is a traditional Cuban side dish made by marinating yuca root (also known as cassava) in garlic, lime, and olive oil. Often, onions are included in the marinade.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Yuca_con_mojo"
+    }
+  ]
+}

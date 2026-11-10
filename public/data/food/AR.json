@@ -1,0 +1,251 @@
+{
+  "country": "AR",
+  "dishes": [
+    {
+      "id": "asado",
+      "name": "Asado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Asado%20recipe",
+      "description": "Asado is the technique and the social event of having or attending a barbecue in various South American countries: especially Argentina and Uruguay where it is also a traditional event, as well as Brazil (Rio Grande do Sul), Chile and Paraguay.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Asado_2005.jpg/500px-Asado_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Asado"
+    },
+    {
+      "id": "empanadas",
+      "name": "Empanadas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Empanadas%20recipe",
+      "description": "An empanada is a type of baked or fried turnover consisting of pastry and filling, common in Spain, Portugal, other Southern European countries, North African countries, West African countries (where they are known as meatpies in Ghana and Nigeria), South Asian countries, Latin American countries, and the Philippines.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Tapa_de_empanadillitas.JPG/500px-Tapa_de_empanadillitas.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Empanada",
+      "recipe": {
+        "ingredients": [
+          "1 tsp salt",
+          "2–3 cups cold water",
+          "1 kg (about 8 cups) flour",
+          "2 eggs",
+          "200 g (about 1 cup) butter or margarine",
+          "Olive oil",
+          "Cornstarch",
+          "1 kg ground beef",
+          "1 large onion",
+          "2 tbsp vegetable oil",
+          "2 tbsp sugar",
+          "1 ½ tsp black pepper",
+          "1 ½ tsp paprika",
+          "1 tsp salt",
+          "½ tsp ground cumin (comino), optional. Cumin is very invasive and gives the filling a whole different flavor.",
+          "½ tsp ground cinnamon",
+          "¼ tsp nutmeg",
+          "¼ tsp cloves",
+          "½ cup raisins",
+          "Green olives (optional)",
+          "Diced hard-boiled egg (optional)",
+          "Diced boiled potatoes (optional)",
+          "1 kg ground beef",
+          "2 cloves garlic",
+          "3 large onion",
+          "2 tbsp olive oil",
+          "1 tbsp sugar",
+          "1 ½ tsp black pepper",
+          "1 ½ tsp paprika",
+          "1 tsp salt",
+          "½ tsp ground cumin (comino)",
+          "1 bay leaf",
+          "½ cup raisins",
+          "Black olives",
+          "Diced hard-boiled egg"
+        ],
+        "steps": [
+          "Dissolve salt in water.",
+          "Mix eggs, flour, butter and 1 cup of water to form a dough. While kneading the dough, gradually add in more water until the dough is soft and stretchy. If the dough becomes sticky, add more flour.",
+          "Once the dough is the desired consistency, allow to rest for a couple minutes, then roll it out to a thickness of ~2–3 mm (1/10 inch).",
+          "Cut the dough into discs roughly 10–15 cm (4–6 inches) in diameter.",
+          "Dice onion into small pieces and sauté in vegetable oil in a large frying pan. Add ground beef, and brown it.",
+          "While beef is browning, mix in salt, sugar and spices.",
+          "Once meat has finished cooking, remove from heat and add raisins.",
+          "If desired add sliced olives, egg, or potatoes.",
+          "Dice onion into small pieces and sauté in olive oil in a large frying pan. Mince garlic and add to the onions. Add and brown ground beef.",
+          "While beef is browning, mix in salt, sugar, spices and bay leaf.",
+          "Allow to simmer for about 20 minutes for flavours to blend.",
+          "Remove bay leaf, and add olives and raisins.",
+          "Place 1–2 tablespoons of empanada filling into the center of one of the dough discs (tapa).",
+          "If Chilean empanadas are being made add one piece of the diced hardboiled egg next to the filling.",
+          "Wet the outer edge of the tapa with cold water and fold the tapa in half to encase the filling, ensuring there is no air left inside (the wet portion will help the dough stick together, air will burst out when cooked).",
+          "Holding the empanada in the palm of one hand, with the round edge pointing outwards, pinch and twist over a small (finger-sized) portion of the dough at the top. Continue pinching and twisting around the outer edge until you reach the bottom of the empanada, so that the open edge is sealed shut. You can also use a fork to smash together the lips of the outer edge, but it is not the traditional way and the filling can burst through.",
+          "Repeat for the remaining filling and dough.",
+          "To cook the empanadas, deep fry in vegetable oil on medium heat until golden brown. Alternatively, you can brush them with butter and bake on a cookie sheet in the oven at 400 °F for 8–10 minutes or until light brown.",
+          "Allow empanadas to cool and then eat."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AEmpanada"
+      }
+    },
+    {
+      "id": "chimichurri",
+      "name": "Chimichurri",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chimichurri%20recipe",
+      "description": "Chimichurri is an uncooked sauce used as an ingredient in cooking and as a table condiment for grilled meat. Found originally in Argentina and used in Argentine, Uruguayan, Paraguayan and Brazilian cuisines, it has become widely adopted in most of Latin America.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Chimichurri_Sauce_Recipe_%2813294574784%29.jpg/500px-Chimichurri_Sauce_Recipe_%2813294574784%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chimichurri",
+      "recipe": {
+        "ingredients": [
+          "100 ml olive oil",
+          "50 ml white wine vinegar",
+          "50 ml water",
+          "1 bunch flat-leaf parsley, chopped",
+          "1 medium onion, finely chopped",
+          "4 cloves garlic, finely minced",
+          "Red chile flakes, to taste",
+          "1 tbsp oregano",
+          "1 tbsp paprika",
+          "1 tbsp sea salt flakes",
+          "1 tsp ground black pepper",
+          "1 tbsp thyme, finely chopped",
+          "1 tsp lemon juice",
+          "1 tsp bay leaf, small flakes",
+          "1 tbsp coriander, finely chopped",
+          "½ green bell pepper, seeded and finely chopped"
+        ],
+        "steps": [
+          "Combine all the ingredients except the oil, vinegar and water in a large bowl and mix together well, ensuring all the herbs and spices (especially the salt) are distributed evenly.",
+          "Allow to rest for 30 minutes.",
+          "Bring the vinegar and water to the boil, add to the other ingredients and mix well. This helps to soften the taste of the onion and garlic.",
+          "Allow to rest for 30 minutes.",
+          "Add the oil and mix well. If the liquid part doesn't cover the ingredients add oil water and vinegar in a 2:1:1 ratio to cover them.",
+          "Transfer to an air-tight container and refrigerate overnight at least, or better, for a few days.",
+          "When needed, remove from refrigerator about 30 minutes ahead of time to allow the oil to thin out again. Stir well and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChimichurri"
+      }
+    },
+    {
+      "id": "choripan",
+      "name": "Choripán",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chorip%C3%A1n%20recipe",
+      "description": "Choripán (plural: choripanes) is a type of asado sandwich with grilled chorizo. It is popular in Argentina, Chile, Uruguay, Paraguay, Peru, Ecuador, Bolivia and Venezuela.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Choripan.jpg/500px-Choripan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chorip%C3%A1n",
+      "recipe": {
+        "ingredients": [
+          "2 fresh Argentinian chorizo sausages",
+          "2 crusty bread rolls",
+          "Sliced tomato (optional)",
+          "Lettuce (optional)",
+          "Mayonnaise",
+          "Chimichurri sauce for serving"
+        ],
+        "steps": [
+          "Fire up your grill. Preheat the grates to medium heat (approximately 350 °F / 175 °C).",
+          "Grill the chorizo sausages 20 minutes per side.",
+          "When the chorizos are nearly done, slice the rolls in half and char it slightly on the grill.",
+          "Remove the chorizo sausages from the grill and slice them lengthwise, \"butterfly style.\"",
+          "Smear some mayonnaise on the bread halves.",
+          "Assemble the sandwiches with 1 sausage per roll. Add tomato slices and lettuce to taste. Dress with chimichurri sauce."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChorip%C3%A1n_(Argentine_Chorizo_Sandwich)"
+      }
+    },
+    {
+      "id": "milanesa",
+      "name": "Milanesa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Milanesa%20recipe",
+      "description": "Milanesa (Spanish for \"Milanese\") is a form of breaded cutlet that is mainly associated with the Southern Cone and the Río de la Plata region. Although known throughout Latin American cuisine, it is closely tied to the cuisine of Argentina, where it is considered a quintessential national dish and a cultural mainstay.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Milanesa_con_fritas.png/500px-Milanesa_con_fritas.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Milanesa"
+    },
+    {
+      "id": "dulce-de-leche",
+      "name": "Dulce de leche",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dulce%20de%20leche%20recipe",
+      "description": "Dulce de leche, caramelized milk, milk candy, or milk jam is a confection commonly made by heating sugar and milk over several hours. The substance takes on a spreadable, sauce-like consistency and derives its rich flavour and colour from non-enzymatic browning. It is typically used to top or fill other sweet foods.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/DulceDeLeche.jpg/500px-DulceDeLeche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dulce_de_leche"
+    },
+    {
+      "id": "alfajores",
+      "name": "Alfajores",
+      "videoSearch": "https://www.youtube.com/results?search_query=Alfajores%20recipe",
+      "description": "An alfajor or alajú is a traditional confection. Originally from present-day Spain, it is found now in Argentina, Bolivia, Southern Brazil, Chile, Colombia, Dominican Republic, Ecuador, El Salvador, Southern France, Paraguay, Peru, the Philippines, Uruguay, and Venezuela.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/AlfajoresP1115215_02.jpg/500px-AlfajoresP1115215_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alfajor",
+      "recipe": {
+        "ingredients": [
+          "½ cup (120 ml) butter",
+          "1 cup (240 ml) white granulated sugar",
+          "1 egg",
+          "2 egg yolks",
+          "1 tsp vanilla",
+          "2 tsp lemon rind, grated",
+          "1½ cup (360 ml) cornstarch",
+          "½ cup (120 ml) flour",
+          "1 tsp baking powder",
+          "¼ tsp salt",
+          "Dulce de leche"
+        ],
+        "steps": [
+          "Cream butter; add sugar and beat until fluffy.",
+          "Add egg and egg yolks one at a time, beating well. Beat in vanilla and lemon rind.",
+          "Sift together cornstarch, flour, baking powder, and salt. Add to batter and mix well.",
+          "Drop batter by small spoonfuls onto well-buttered baking sheet.",
+          "Bake at 350°F for 15 minutes. Remove immediately and cool.",
+          "Sandwich the cookies together with dulce de leche."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAlfajores_(Latin_American_Sandwich_Cookies)"
+      }
+    },
+    {
+      "id": "locro",
+      "name": "Locro",
+      "videoSearch": "https://www.youtube.com/results?search_query=Locro%20recipe",
+      "description": "Locro or lojro (from the Quechua ruqru) is a hearty thick squash or potato stew, associated with Native Andean civilizations, and popular along the Andes mountain range. It is one of the national dishes of Peru, Bolivia, Ecuador, Chile, Paraguay, Northwest Argentina and Southwestern Colombia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Locro_argentino.jpg/500px-Locro_argentino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Locro"
+    },
+    {
+      "id": "provoleta",
+      "name": "Provoleta",
+      "videoSearch": "https://www.youtube.com/results?search_query=Provoleta%20recipe",
+      "description": "Provoleta is an Argentine variant of provolone cheese described as \"Argentine pulled-curd provolone cheese\". It can be heated on a grill, or indoors in a cast-iron pan. The cheese is firm and can hold its shape when grilled.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Asado_argentino_en_parrilla_a_carb%C3%B3n.jpg/500px-Asado_argentino_en_parrilla_a_carb%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Provoleta"
+    },
+    {
+      "id": "matambre",
+      "name": "Matambre",
+      "videoSearch": "https://www.youtube.com/results?search_query=Matambre%20recipe",
+      "description": "Matambre is the name of a very thin cut of beef in Argentina, Uruguay, Rio Grande do Sul and also Paraguay. It is a rose-colored muscle taken between the skin and the ribs of the steer, a sort of flank steak. It is not the cut known normally in the U.S. as flank steak.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Matambrerelleno.JPG/500px-Matambrerelleno.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Matambre"
+    },
+    {
+      "id": "humita",
+      "name": "Humita",
+      "videoSearch": "https://www.youtube.com/results?search_query=Humita%20recipe",
+      "description": "Huminta (from Quechua umint'a), huma (from Quechua possibly uma head) or humita (possibly employing the Spanish diminutive -ita) is a dish that dates back to pre-Hispanic times. A traditional food, it can be found in Peru, Bolivia, Chile, Ecuador, and Northwest Argentina.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Humitas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Humita"
+    },
+    {
+      "id": "chocotorta",
+      "name": "Chocotorta",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chocotorta%20recipe",
+      "description": "Chocotorta (a portmanteau of \"choco\" for \"chocolinas\" and \"torta\", Spanish for \"cake\") is a typical no-bake dessert of Argentina that is made with chocolate biscuits or cookies—specifically the Chocolinas brand produced by Bagley—that are soaked with milk or coffee and layered with a mixture of dulce de leche and cream…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Chocotorta_recipe.png/500px-Chocotorta_recipe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chocotorta"
+    },
+    {
+      "id": "pastafrola",
+      "name": "Pastafrola",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pastafrola%20recipe",
+      "description": "Pastafrola, pasta frolla or pastaflora (Greek: πάστα φλώρα) is a type of sweet tart that originated in Italy and is common in Argentina, Paraguay, Uruguay, Egypt and Greece. It is a covered, jam-filled shortcrust pastry dish principally made from flour, sugar and egg.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Pastafrola.jpg/500px-Pastafrola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pastafrola"
+    },
+    {
+      "id": "revuelto-gramajo",
+      "name": "Revuelto Gramajo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Revuelto%20Gramajo%20recipe",
+      "description": "Revuelto Gramajo (English: Gramajo scramble) is a common hash dish in Argentine cuisine consisting of fried julienned potatoes, ham and eggs. The dish can be adapted to use any ingredients the cook may have on hand, including peas, other fresh vegetables, fish, pork, and other meats.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Revuelto_gramajo.jpg/500px-Revuelto_gramajo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Revuelto_Gramajo"
+    }
+  ]
+}

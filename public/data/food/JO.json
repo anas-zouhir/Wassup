@@ -1,0 +1,141 @@
+{
+  "country": "JO",
+  "dishes": [
+    {
+      "id": "mansaf",
+      "name": "Mansaf",
+      "localName": "منسف",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mansaf%20recipe",
+      "description": "Mansaf (Arabic: منسف /‍ˈ‍man‍.‍saf‍‍‍/) is a traditional Jordanian dish made of lamb, cooked in a sauce of fermented dried yogurt and served with rice or bulgur. It is a popular dish eaten throughout the Levant. It is considered the national dish of Jordan and common and popular especially in Palestine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mansaf%2C_the_traditional_dish_of_Jordan.jpg/500px-Mansaf%2C_the_traditional_dish_of_Jordan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mansaf"
+    },
+    {
+      "id": "maqluba",
+      "name": "Maqluba",
+      "localName": "مقلوبة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Maqluba%20recipe",
+      "description": "Maqluba (also attested by a variety of other spellings in English; Arabic: مَقْلُوبَة, romanized: maqlūba, lit. 'upside-down') is a traditional Levantine dish, a variety of Pilaf that is popular across Palestine, Jordan, Syria, Lebanon, Israel, and Iraq.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Makluba.JPG/500px-Makluba.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maqluba",
+      "recipe": {
+        "ingredients": [
+          "½ pound ground beef",
+          "½ onion, chopped",
+          "Olive oil",
+          "1 cup rice",
+          "1 ½ cups water",
+          "Salt",
+          "Black pepper",
+          "Allspice",
+          "Plain yogurt"
+        ],
+        "steps": [
+          "In a saucepan, brown ground beef and onion with salt, pepper, and allspice in a little olive oil (use more allspice than pepper). Remove from heat.",
+          "Add the rice and water. Bring to a boil over medium heat.",
+          "Turn down to medium low, and cover with the lid tilted to let some steam escape.",
+          "When most of the water has evaporated and the surface of the rice becomes pitted, put the lid on tight. Cook on low heat for 15 minutes.",
+          "Remove from heat and leave covered for 2–3 minutes. Serve with yogurt."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMaklubi_(Rice_with_Meat_and_Vegetables)"
+      }
+    },
+    {
+      "id": "musakhan",
+      "name": "Musakhan",
+      "localName": "مسخن",
+      "videoSearch": "https://www.youtube.com/results?search_query=Musakhan%20recipe",
+      "description": "Musakhan, also known as muhammar (Arabic: محمّر, lit. 'reddened'), is a Palestinian dish composed of roasted chicken baked with onions, sumac, allspice, saffron, and fried pine nuts served over taboon bread. Originating in the Tulkarm and Jenin area, musakhan is often considered the national dish of Palestine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mushakhan_Dish.jpg/500px-Mushakhan_Dish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Musakhan",
+      "recipe": {
+        "ingredients": [
+          "1 ea. (about 3½ pounds / 1.5 kg) whole free-range chicken",
+          "Salt, to taste",
+          "Freshly-ground black pepper, to taste",
+          "½ cup extra virgin olive oil",
+          "3½ pounds (1.5 kg) onions, peeled and sliced thin",
+          "¼ cup soumak",
+          "½ teaspoon ground allspice",
+          "2 large khubz 'arabi (Arabic flatbread or pita bread), split open and separated",
+          "Pine nuts to decorate"
+        ],
+        "steps": [
+          "Cut the chicken up into two breasts, two thighs, two legs, and two wings. Salt and pepper the chicken.",
+          "In a large, deep pot, heat ¼ cup of the olive oil, then lightly brown the chicken on all sides over a medium heat, about 20 minutes. Remove and set aside.",
+          "Add the remaining ¼ cup olive oil to the pot and cook the onions until translucent, about 35 minutes, stirring occasionally.",
+          "Add the sumac and allspice and cook for 2 minutes to mix.",
+          "Preheat the oven to 350°F (175°C).",
+          "Cover a 9 x 12-inch baking dish with the Arabic bread. Spoon half the onions over each, then arrange the chicken on top of the onions and cover with the remaining onions and the juices from the casserole.",
+          "Bake until the chicken is golden crisp and almost falling off the bone, about 1½ hours.",
+          "Roast the pine nuts in a pan until golden in olive oil.",
+          "Sprinkle with the roasted pine nuts and serve with yoghurt."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABaked_Chicken_with_Onions%2C_Sumac_and_Allspice_(Musakhan)"
+      }
+    },
+    {
+      "id": "galayet-bandora",
+      "name": "Galayet bandora",
+      "localName": "قلاية بندورة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Galayet%20bandora%20recipe",
+      "description": "Qalayet bandora (Arabic: قلّاية بندورة أو مسقّعة البندورة, lit. 'pan of tomatoes') is a simple Levantine dish of tomatoes, onions, hot peppers (usually serranos or jalapenos), olive oil, and salt.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/%D9%82%D9%84%D8%A7%D9%8A%D8%A9_%D8%A8%D9%86%D8%AF%D9%88%D8%B1%D8%A9.jpg/500px-%D9%82%D9%84%D8%A7%D9%8A%D8%A9_%D8%A8%D9%86%D8%AF%D9%88%D8%B1%D8%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Qalayet_bandora"
+    },
+    {
+      "id": "knafeh",
+      "name": "Knafeh",
+      "localName": "كنافة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Knafeh%20recipe",
+      "description": "Knafeh (Arabic: كنافة) is a traditional Arab dessert made with kadayif (spun pastry dough) layered with cheese and soaked in a sweet, sugar-based syrup called attar. Knafeh is popular throughout the Arab world, especially Egypt and the Levant. Knafeh is often served on special occasions, holidays and Ramadan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/K%C3%BCnefe.jpg/500px-K%C3%BCnefe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Knafeh"
+    },
+    {
+      "id": "shrak",
+      "name": "Shrak",
+      "localName": "شراك",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shrak%20recipe",
+      "description": "Saj bread (Arabic: خبز صاج, romanized: khubz ṣāj, Turkish: sac ekmeği, Sorani Kurdish: نانی کوردی, romanized: nanî kurdî), also known as markook bread (خبز مرقوق, khubz marqūq), khubz ruqaq (رقاق), shrak (شراك), khubz rqeeq (رقيق), or mashrooh (مشروح), is a type of unleavened flatbread in Middle Eastern cuisine that is…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Yufka_ekmek.jpg/500px-Yufka_ekmek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saj_bread"
+    },
+    {
+      "id": "falafel",
+      "name": "Falafel",
+      "localName": "فلافل",
+      "videoSearch": "https://www.youtube.com/results?search_query=Falafel%20recipe",
+      "description": "Falafel is a deep-fried ball or patty-shaped fritter of Egyptian origin that features in Middle Eastern cuisine, particularly Levantine cuisines. It is made from ground fava beans, chickpeas, or both, and mixed with herbs and spices before frying.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Falafels_2.jpg/500px-Falafels_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "id": "hummus",
+      "name": "Hummus",
+      "localName": "حمص",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hummus%20recipe",
+      "description": "Hummus (,; Arabic: حُمُّص, romanized: ḥummuṣ, lit. 'chickpeas', also spelled hommus or houmous) (full name: Hummus Bi Tahini) is a Levantine dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Lebanese_style_hummus.jpg/500px-Lebanese_style_hummus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hummus"
+    },
+    {
+      "id": "ouzi",
+      "name": "Ouzi",
+      "localName": "أوزي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ouzi%20recipe",
+      "description": "Quzi (Arabic: قوزي), also spelled as qoozi or ghoozi, is a popular rice-based dish and is considered one of Iraq's national dishes. It is served with very slowly cooked lamb, roasted nuts, and raisins served over rice. The dish can also be found in some Arab states of the Persian Gulf.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Iraqi_Qoozi_.jpg/500px-Iraqi_Qoozi_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Quzi"
+    },
+    {
+      "id": "mujaddara",
+      "name": "Mujaddara",
+      "localName": "مجدرة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mujaddara%20recipe",
+      "description": "Mujaddara (Arabic: مجدّرة, romanized: mujaddarah, with alternative spellings in English majadra, mejadra, moujadara, mudardara, and megadarra) is a dish consisting of cooked lentils together with groats, generally rice, and garnished with sautéed onions. It is especially popular in the Levant.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Mujaddara.jpg/500px-Mujaddara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mujaddara"
+    }
+  ]
+}

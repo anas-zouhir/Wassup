@@ -1,0 +1,164 @@
+{
+  "country": "ES",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "el-pais",
+        "name": "El País",
+        "homepage": "https://elpais.com",
+        "lang": "es"
+      },
+      "fetchedAt": "2026-10-22T15:10:56.211Z",
+      "items": [
+        {
+          "title": "Álvarez de Toledo y Sémper serán los números dos y tres de Feijóo en la lista por Madrid",
+          "link": "https://elpais.com/espana/2026-10-22/alvarez-de-toledo-y-semper-seran-los-numeros-dos-y-tres-de-feijoo-en-la-lista-por-madrid.html",
+          "summary": "La diputada madrileña y el parlamentario vasco, que han tenido discrepancias en el pasado, representan las dos almas del PP",
+          "image": "https://imagenes.elpais.com/resizer/v2/I7FMFRW2XNFJVGYO7OBVGVIXPE.jpg?auth=241354d6edbb3b40bd91ef33355806064168bd0590fcacfdd6286d397695a9d3",
+          "publishedAt": "2026-10-22T10:45:24.000Z"
+        },
+        {
+          "title": "La oposición carga contra Ayuso por el abrazo a Milei y la presidenta defiende su gestión: “Argentina es el país que más crece”",
+          "link": "https://elpais.com/espana/madrid/2026-10-22/psoe-y-mas-madrid-esperan-a-ayuso-en-la-asamblea-con-todo-el-arsenal-tras-su-efusivo-abrazo-con-milei.html",
+          "summary": "El PSOE le reprocha a la presidenta que le gusten “tanto los áticos como recibir a los lunáticos”",
+          "publishedAt": "2026-10-22T07:52:40.000Z"
+        },
+        {
+          "title": "El cabeza de lista de Vox por Tarragona debe sentarse en el banquillo en julio por un delito de odio",
+          "link": "https://elpais.com/espana/2026-10-22/el-cabeza-de-lista-de-vox-por-tarragona-debe-sentarse-en-el-banquillo-en-julio-por-un-delito-de-odio.html",
+          "summary": "El retraso del juicio por el asalto a un centro de menores permite a De la Fuente presentarse el 29-N pese a la inhabilitación que le pide el fiscal",
+          "image": "https://imagenes.elpais.com/resizer/v2/M33EDD7NHZEWPAXKTPKMEVFWZE.JPG?auth=bb355019cdbf98f85271dc250893ee8612b79ba10c9facb0e80e10d875343ffb",
+          "publishedAt": "2026-10-22T13:27:59.000Z"
+        },
+        {
+          "title": "El PP da un paso más en su campaña y suplanta la identidad de Begoña Gómez, Zapatero y Ábalos: “¿Irse de putas? Sí, soy zurdo”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-pp-da-un-paso-mas-en-su-campana-y-suplanta-la-identidad-de-begona-gomez-zapatero-y-abalos-irse-de-putas-si-soy-zurdo.html",
+          "summary": "La nueva estrategia digital de los populares sube otro escalón en redes sociales. El PSOE estudia emprender acciones legales",
+          "image": "https://imagenes.elpais.com/resizer/v2/FTMLQ6AANVANDJUETPFQ4VYTMQ.jpg?auth=aa5fdda1f4399262482f338707ecf3afd521a2673b9da965ccf1526dadaff690",
+          "publishedAt": "2026-10-22T10:43:28.000Z"
+        },
+        {
+          "title": "Última hora de la actualidad política, en directo | La Junta Electoral desestima dos denuncias del PP contra Sánchez por sus declaraciones durante el último Consejo Europeo",
+          "link": "https://elpais.com/espana/2026-10-22/ultima-hora-de-la-actualidad-politica-en-directo.html",
+          "summary": "Felipe González confirma que votará en blanco y afirma que si Milei visita España “15 veces más, es posible que gane Sánchez” | El PP defiende los vídeos de IA de la campaña porque no tienen una “finalidad espuria”",
+          "image": "https://imagenes.elpais.com/resizer/v2/PBZMTLWGURBPDPKECEDTA4EOYY.jpg?auth=4f8031fe04aeaf718a081675b0a0a0475c6402b4cbdb3d425d8662fd42fde4b9",
+          "publishedAt": "2026-10-22T14:48:28.000Z"
+        },
+        {
+          "title": "Felipe González cree que Sánchez tiene opciones en los comicios generales “si Milei visita España 15 veces más”",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-10-22/gonzalez-confirma-que-votara-en-blanco-el-29-n-y-ve-opciones-para-sanchez-si-milei-visita-espana-15-veces-mas.html",
+          "summary": "El expresidente del Gobierno asegura que votará en blanco porque no se siente representado por ningún candidato",
+          "publishedAt": "2026-10-22T13:33:44.000Z"
+        },
+        {
+          "title": "Muere en Francia un hombre infectado por el virus Shamonda en el primer caso conocido en un ser humano",
+          "link": "https://elpais.com/sociedad/2026-10-22/muere-en-francia-un-hombre-infectado-por-el-virus-shamonda-en-el-primer-caso-conocido-en-un-ser-humano.html",
+          "summary": "La Unión Europea investiga las “implicaciones” del caso. El patógeno afecta principalmente a animales de granja y ha sido detectado desde el verano en varios países europeos, entre ellos España",
+          "image": "https://imagenes.elpais.com/resizer/v2/ZPXYLXM3M5HLRADKAR7AWY6RIM.jpg?auth=38aa98d204685fba510717b9ffe2445222d48aa1fd58846c077cde4d7875c63e",
+          "publishedAt": "2026-10-22T11:05:32.000Z"
+        },
+        {
+          "title": "Buscador | Madrid copa los barrios más caros para comprar o alquilar casa en las grandes ciudades",
+          "link": "https://elpais.com/economia/vivienda/2026-10-22/buscador-madrid-copa-los-barrios-mas-caros-para-comprar-o-alquilar-casa-en-las-grandes-ciudades.html",
+          "summary": "La capital se distancia de Barcelona al concentrar siete de las diez zonas donde los arrendamientos son más altos y los diez distritos con precios de venta más prohibitivos",
+          "image": "https://imagenes.elpais.com/resizer/v2/2BFQ64YRENHNVPMEX5VZS5EW44.jpg?auth=ac24c6cdde0c8b7fe0ce06173fb1034bb4595f5502a5c1ea736a80850f0cef17",
+          "publishedAt": "2026-10-22T03:45:01.000Z"
+        },
+        {
+          "title": "Sara Carbonero: “Lo que viví en el Mundial de Sudáfrica fue machismo”",
+          "link": "https://elpais.com/smoda/feminismo/2026-10-22/sara-carbonero-mi-beso-no-tuvo-nada-que-ver-con-el-de-jenni-hermoso.html",
+          "summary": "Con nueve tiendas independientes y 150 puntos de venta de Slowlove, Sara Carbonero es una empresaria de la industria de la moda en toda regla, aunque ella siga amando el periodismo",
+          "image": "https://imagenes.elpais.com/resizer/v2/BIJD6Y7ZB5H2FFJURUOOCLGMUI.JPG?auth=6f4c6897f9e9e031fa3795bf6f78a598f78c6cd8a25851991abca12b8b3c0fea",
+          "publishedAt": "2026-10-22T03:30:01.000Z"
+        },
+        {
+          "title": "Messi llega a Oviedo para recibir el Premio Princesa de Asturias de los Deportes 2026",
+          "link": "https://elpais.com/videos/2026-10-22/messi-llega-a-oviedo-para-recibir-el-premio-princesa-de-asturias-de-los-deportes-2026.html",
+          "summary": "El futbolista argentino, considerado uno de los mejores de la historia, ha sido recibido en la ciudad entre los gritos y aplausos de sus seguidores",
+          "publishedAt": "2026-10-22T14:49:19.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "el-mundo",
+        "name": "El Mundo",
+        "homepage": "https://www.elmundo.es",
+        "lang": "es"
+      },
+      "fetchedAt": "2026-10-22T15:10:56.253Z",
+      "items": [
+        {
+          "title": "El PSOE responde al juez del 'caso Cloacas' que está ocupado con las elecciones y no puede enviarle por ahora la información que le reclama",
+          "link": "https://www.elmundo.es/espana/2026/10/22/6ad9cf0bfdddff94708b4597.html",
+          "summary": "El magistrado de la Audiencia Nacional Santiago Pedraz pretendía aclarar si el dinero abonado a algunos abogados estaba en realidad destinado a la 'fontanera' Leire Díez Leer",
+          "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926593858292.jpg",
+          "publishedAt": "2026-10-22T13:21:42.000Z"
+        },
+        {
+          "title": "Feijóo confirma el ascenso de Cayetana Álvarez de Toledo como número dos y mantiene a Sémper como tres: \"En el PP caben todas las sensibilidades\"",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ad9b4a3e9cf4ab91c8b4595.html",
+          "summary": "La diputada y ex columnista de EL MUNDO será el ariete de los 'populares' para apuntalar el electorado fronterizo con Vox Leer",
+          "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926525298538.jpg",
+          "publishedAt": "2026-10-22T07:42:47.000Z"
+        },
+        {
+          "title": "La Junta Electoral Central avisa a Sánchez de que sus palabras en el último Consejo Europeo están \"al límite\" de lo aceptable",
+          "link": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ada1d9dfc6c83566c8b4584.html",
+          "summary": "El presidente ya fue sancionado con una multa de 2.200 euros antes de las generales del 23-J por publicitar sus propios logros y arremeter contra la oposición desde una tribuna institucional Leer",
+          "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926792973846.jpg",
+          "publishedAt": "2026-10-22T14:28:48.000Z"
+        },
+        {
+          "title": "Registran una ONG en Ceuta y detienen a dos ceutíes acusados de repartir espray pimienta e incitar \"a atacar a las fuerzas de seguridad\"",
+          "link": "https://www.elmundo.es/espana/2026/10/22/6ad9ec33fc6c83d4428b45a7.html",
+          "summary": "A principios de la crisis se apuntó a la ONG No Name Kitchen, que trabaja sobre el terreno, como responsable del suministro de botes de espray y de llamadas a atacar a policías y guardias civiles. La operación indaga en…",
+          "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926662018310.jpg",
+          "publishedAt": "2026-10-22T11:10:50.000Z"
+        },
+        {
+          "title": "'Casa de los horrores' en Ceuta: la Policía detiene a un ceutí por alojar a 74 migrantes hacinados, 10 de ellos niños, y explotarlos",
+          "link": "https://www.elmundo.es/espana/2026/10/22/6ada0335fc6c83d4428b45b6.html",
+          "summary": "El detenido, que habría tratado a los menores y a las 10 mujeres del grupo con violencia e intimidación, formaría parte de una red que pretendía enviarlos a la Península y obtener beneficio económico Leer",
+          "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926736924046.png",
+          "publishedAt": "2026-10-22T13:58:17.000Z"
+        },
+        {
+          "title": "Urtasun intenta frenar la sangría del voto útil: dice que el Frente Amplio busca \"el mejor resultado en todas las provincias\" tras retirarse, por \"casuística\", en Teruel",
+          "link": "https://www.elmundo.es/cataluna/2026/10/22/6ad9ffabe85ece63028b4595.html",
+          "summary": "\"Sin un buen resultado del Frente Amplio no va a haber gobierno progresista\", avisa el ministro de Cultura y número dos por Barcelona Leer",
+          "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926726940149.jpg",
+          "publishedAt": "2026-10-22T12:41:52.000Z"
+        },
+        {
+          "title": "División en Comuns por la exclusión de Aina Vidal de las listas del 29-N del Frente Amplio",
+          "link": "https://www.elmundo.es/cataluna/2026/10/22/6ad9fd71fdddff70698b4596.html",
+          "summary": "Ha sido diputada en el Congreso en la última década y portavoz adjunta de Sumar en la última legislatura Leer",
+          "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926710470041.jpg",
+          "publishedAt": "2026-10-22T13:24:35.000Z"
+        },
+        {
+          "title": "La ropa y el maquillaje como campo de batalla ideológico: \"La cara Mar-a-Lago es una reacción a las reivindicaciones feministas y a la estética 'woke'\"",
+          "link": "https://www.elmundo.es/papel/cultura/2026/10/22/6acf65aae9cf4a48088b4587.html",
+          "summary": "El mundo MAGA extiende su influencia más allá de la política con una \"estética post Barbie\" y un nuevo código de vestuario para \"restaurar el viejo orden\". La estrategia \"esconde una vuelta a los valores del…",
+          "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/16/17921623339068.jpg",
+          "publishedAt": "2026-10-22T05:35:32.000Z"
+        },
+        {
+          "title": "Muere en Francia una persona con el virus shamonda, que se creía no transmisible al hombre",
+          "link": "https://www.elmundo.es/salud/2026/10/22/6ad9d347e4d4d82d478b457a.html",
+          "summary": "Los Ministerios de Sanidad y de Agricultura destacaron que con los conocimientos disponibles sobre el virus, \"no se ha identificado por ahora ningún riesgo sanitario para la población general\" Leer",
+          "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926602558626.jpg",
+          "publishedAt": "2026-10-22T09:12:45.000Z"
+        },
+        {
+          "title": "Irán se prepara para una nueva guerra y convierte Ormuz en su principal arma de presión",
+          "link": "https://www.elmundo.es/internacional/2026/10/22/6ad9dd5ee85ece97458b4576.html",
+          "summary": "Teherán intensifica los ataques contra buques en el estrecho con una violencia mayor que en plena guerra de marzo, mientras Estados Unidos evacúa personal diplomático en la región Leer",
+          "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926629789017.jpg",
+          "publishedAt": "2026-10-22T11:01:23.000Z"
+        }
+      ]
+    }
+  ]
+}

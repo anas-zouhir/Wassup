@@ -1,0 +1,435 @@
+{
+  "country": "EG",
+  "dishes": [
+    {
+      "id": "koshary",
+      "name": "Koshary",
+      "localName": "كشري",
+      "videoSearch": "https://www.youtube.com/results?search_query=Koshary%20recipe",
+      "description": "Koshary, Kushari or Koshari is Egypt's national dish and a widely popular street food. It is a traditional Egyptian staple, mixing pasta, Egyptian fried rice, vermicelli and brown lentils, and topped with chickpeas, a garlicky tomato sauce, garlic vinegar, and crispy fried onions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Egyptian_food_Koshary.jpg/500px-Egyptian_food_Koshary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Koshary",
+      "recipe": {
+        "ingredients": [
+          "1 cup uncooked rice",
+          "1 cup dried lentils",
+          "1 cup small macaroni or short pasta",
+          "1 can (400 grams) chopped tomatoes",
+          "3 tablespoons tomato paste",
+          "2 tablespoons vegetable oil",
+          "1 large onion, thinly sliced",
+          "4 cloves garlic, minced",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground cinnamon",
+          "Salt to taste",
+          "Black pepper to taste",
+          "Chile powder (optional, for added spice)",
+          "Fresh parsley or cilantro, chopped (for garnish)"
+        ],
+        "steps": [
+          "In a saucepan, cook the rice according to the package instructions until it is tender and fluffy. Once cooked, set the rice aside.",
+          "In a separate pot, cook the lentils in boiling water until they are tender but not mushy. Drain the lentils in a colander and set them aside.",
+          "Cook the small macaroni or short pasta in a pot of salted boiling water until it is al dente. Drain the pasta in a colander and set it aside.",
+          "In a skillet, heat the vegetable oil over medium heat. Add the thinly sliced onion and sauté until it turns golden brown and crispy. Remove the fried onions from the skillet and set them aside on a paper towel to drain excess oil.",
+          "In the same skillet, add the minced garlic and sauté for a minute until fragrant.",
+          "Add the chopped tomatoes, tomato paste, ground cumin, ground cinnamon, salt, black pepper, and chili powder (if using) to the skillet. Stir well to combine the ingredients.",
+          "Simmer the tomato sauce over low heat for about 10–15 minutes, allowing the flavors to meld together and the sauce to thicken slightly.",
+          "To serve, layer the cooked rice, lentils, and pasta in a serving dish. Drizzle the tomato sauce generously over the top.",
+          "Garnish with the crispy fried onions and freshly chopped parsley or cilantro.",
+          "Serve the koshari hot and enjoy the harmonious blend of flavors and textures."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKoshari_(Egyptian_Rice_with_Pasta_and_Lentils)"
+      }
+    },
+    {
+      "id": "ful-medames",
+      "name": "Ful medames",
+      "localName": "فول مدمس",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ful%20medames%20recipe",
+      "description": "Ful medames, or simply ful, is a stew of cooked fava beans served with olive oil, cumin, and optionally with chopped parsley, garlic, onion, lemon juice, chili pepper and other vegetables, herbs, and spices. Ful medames is traditionally made in and served out of a large metal jug.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ful_medames_%28arabic_meal%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ful_medames",
+      "recipe": {
+        "ingredients": [
+          "2 cups dried fava beans",
+          "4 cups water",
+          "3 cloves garlic, minced",
+          "¼ cup olive oil",
+          "Juice of 1 lemon",
+          "1 teaspoon ground cumin",
+          "Salt to taste",
+          "Black pepper to taste",
+          "Fresh parsley or cilantro, chopped (for garnish)",
+          "Pita bread, for serving"
+        ],
+        "steps": [
+          "Rinse the dried fava beans under cold water and remove any impurities or debris. Place the beans in a saucepan and cover them with water.",
+          "Bring the water to a boil over medium-high heat, then reduce the heat to low and let the beans simmer for about 1–1.5 hours, or until they are tender. Check the beans periodically and add more water if needed.",
+          "Once the beans are tender, drain them in a colander and return them to the saucepan.",
+          "Add the minced garlic, olive oil, lemon juice, ground cumin, salt, and black pepper to the saucepan with the cooked beans. Stir well to combine the ingredients and allow the flavors to meld together over low heat for a few minutes.",
+          "Remove the ful medames from the heat and transfer it to a serving dish.",
+          "Garnish the dish with freshly chopped parsley or cilantro.",
+          "Serve the ful medames warm with fresh pita bread or other bread of your choice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFul_Medames_(Egyptian_Fava_Beans)"
+      }
+    },
+    {
+      "id": "taameya",
+      "name": "Ta'ameya",
+      "localName": "طعمية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ta'ameya%20recipe",
+      "description": "Falafel is a deep-fried ball or patty-shaped fritter of Egyptian origin that features in Middle Eastern cuisine, particularly Levantine cuisines. It is made from ground fava beans, chickpeas, or both, and mixed with herbs and spices before frying.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Falafels_2.jpg/500px-Falafels_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "id": "molokhia",
+      "name": "Molokhia",
+      "localName": "ملوخية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Molokhia%20recipe",
+      "description": "Mulukhiyah (Arabic: مُلُوخِيَّة, romanized: mulūḫiyya), also known as mulukhiyya, molokhiyya, melokhiyya, molohiya or ewédú, is a type of jute plant whose leaves are used to prepare a traditional Egyptian and Arab dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Molokheya_Egypt%2C_2012.JPG/500px-Molokheya_Egypt%2C_2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mulukhiyah",
+      "recipe": {
+        "ingredients": [
+          "2 cups fresh or frozen jute mallow (molokhia) leaves",
+          "4 cups vegetable or chicken broth",
+          "2 tablespoons olive oil",
+          "1 large onion, finely chopped",
+          "3 cloves garlic, minced",
+          "1 teaspoon ground cumin",
+          "Salt to taste",
+          "Black pepper to taste",
+          "Juice of 1 lemon (optional)",
+          "Cooked rice or bread for serving"
+        ],
+        "steps": [
+          "If using fresh molokhia leaves, remove any tough stems and wash the leaves thoroughly. If using frozen molokhia, thaw it according to the package instructions.",
+          "In a saucepan, heat the olive oil over medium heat. Add the finely chopped onion and minced garlic. Sauté until the onion becomes translucent and the garlic becomes fragrant.",
+          "Add the fresh or thawed molokhia leaves to the saucepan and stir well to combine with the onion and garlic mixture.",
+          "Pour in the vegetable or chicken broth, ensuring that the molokhia leaves are fully submerged.",
+          "Season the soup with ground cumin, salt, and black pepper to taste. Stir to incorporate the spices.",
+          "Bring the soup to a gentle boil, then reduce the heat to low and let it simmer for about 20–30 minutes, allowing the flavors to meld together.",
+          "Remove the soup from the heat. Optionally, squeeze the juice of a lemon into the soup and stir well to enhance the flavors.",
+          "Serve the molokhia hot, accompanied by cooked rice or bread."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMolokhia_(Egyptian_Jute_Mallow_Soup)"
+      }
+    },
+    {
+      "id": "mahshi",
+      "name": "Mahshi",
+      "localName": "محشي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mahshi%20recipe",
+      "description": "Dolma is a family of stuffed dishes largely associated with Ottoman cuisine. It mainly includes vegetables and leaves, and occasionally seafood, offal, fruits, and meats, that are hollowed out or wrapped, then filled with a mixture of rice, minced meat, herbs, and spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Speca_te_mbushura_me_mish.JPG/500px-Speca_te_mbushura_me_mish.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dolma",
+      "recipe": {
+        "ingredients": [
+          "Assorted vegetables for stuffing, such as zucchini, eggplant, bell pepper, and tomato",
+          "1 cup medium-grain rice",
+          "½ cup tomato paste",
+          "¼ cup olive oil",
+          "¼ cup fresh parsley, finely chopped",
+          "¼ cup fresh mint leaves, finely chopped",
+          "2 cloves garlic, minced",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "Salt to taste",
+          "Black pepper to taste",
+          "Water, as needed"
+        ],
+        "steps": [
+          "Prepare the vegetables for stuffing by carefully cutting off the tops and scooping out the seeds and flesh, creating hollow shells. Set aside the scooped-out vegetable flesh for later use.",
+          "In a mixing bowl, combine the medium-grain rice, tomato paste, olive oil, finely chopped parsley, finely chopped mint leaves, minced garlic, ground cumin, ground coriander, salt, and black pepper. Mix well until all the ingredients are thoroughly combined.",
+          "Fill each hollowed vegetable with the rice and herb mixture, packing it firmly and leaving some space at the top for the rice to expand while cooking.",
+          "Arrange the stuffed vegetables in a baking dish or casserole dish, placing them closely together to support each other.",
+          "Use the reserved vegetable flesh to fill any empty spaces between the stuffed vegetables. This helps to prevent them from shifting during cooking.",
+          "Pour enough water into the baking dish to partially cover the stuffed vegetables. This will help create a moist cooking environment.",
+          "Cover the baking dish with aluminum foil, ensuring it is tightly sealed to retain moisture.",
+          "Preheat the oven to 180°C (350°F) and bake the mahshi for about 60–75 minutes, or until the vegetables are tender and the rice filling is cooked through.",
+          "Remove the foil and continue baking for an additional 10–15 minutes to allow the tops of the stuffed vegetables to slightly brown.",
+          "Once cooked, remove the mahshi from the oven and let it cool slightly before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMahshi_(Egyptian_Stuffed_Vegetables)"
+      }
+    },
+    {
+      "id": "fattah",
+      "name": "Fattah",
+      "localName": "فتة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fattah%20recipe",
+      "description": "Fatteh (Arabic: فتّة meaning crushed or crumbs, also romanized as fette, fetté, fatta or fattah) is a dish eaten in the Arab world consisting of pieces of fresh, toasted, grilled, or fried flatbread covered with other ingredients that vary according to region.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%D9%81%D8%AA%D9%91%D8%A9_%D8%A8%D8%A7%D9%84%D9%84%D9%88%D8%B2_%D9%88_%D8%A7%D9%84%D8%B3%D9%91%D9%85%D9%86.jpg/500px-%D9%81%D8%AA%D9%91%D8%A9_%D8%A8%D8%A7%D9%84%D9%84%D9%88%D8%B2_%D9%88_%D8%A7%D9%84%D8%B3%D9%91%D9%85%D9%86.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fatteh",
+      "recipe": {
+        "ingredients": [
+          "4–6 pieces of pita bread or Egyptian flatbread",
+          "2 cups cooked rice",
+          "500 grams cooked lamb or beef, cubed",
+          "1 cup tomato sauce",
+          "1 cup yogurt",
+          "4 cloves garlic, minced",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground paprika",
+          "Salt to taste",
+          "Black pepper to taste",
+          "Chopped fresh parsley and mint leaves for garnish"
+        ],
+        "steps": [
+          "Preheat the oven to 180°C (350°F).",
+          "Tear the pita bread or flatbread into bite-sized pieces and spread them in an even layer at the bottom of a baking dish.",
+          "In a mixing bowl, combine the cooked rice and cubed cooked lamb or beef. Season with ground cumin, ground paprika, salt, and black pepper. Mix well to ensure the flavors are evenly distributed.",
+          "Spread the rice and meat mixture over the layer of torn bread in the baking dish, creating an even layer.",
+          "In a separate bowl, mix together the tomato sauce, yogurt, minced garlic, and a pinch of salt.",
+          "Pour the tomato-yogurt sauce over the rice and meat layer, covering it evenly.",
+          "Place the baking dish in the preheated oven and bake for approximately 15–20 minutes, or until the dish is heated through and the flavors meld together.",
+          "Remove the fattah from the oven and let it cool slightly.",
+          "Garnish the fattah with chopped fresh parsley and mint leaves.",
+          "Serve the fattah warm as a main dish or as part of a larger meal."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFattah_(Egyptian_Layered_Bread_Dish)"
+      }
+    },
+    {
+      "id": "hawawshi",
+      "name": "Hawawshi",
+      "localName": "حواوشي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hawawshi%20recipe",
+      "description": "Hawawshi is a traditional Egyptian dish. It is a pita stuffed with minced meat and spiced with onions, pepper, parsley, and occasionally chilies. The major variants of hawawshi are \"baladi\" (standard) and Alexandrian.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Egyptian_meatloaf.jpg/500px-Egyptian_meatloaf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hawawshi",
+      "recipe": {
+        "ingredients": [
+          "2 tablespoons olive oil",
+          "2 medium onions, finely chopped",
+          "2 cloves garlic, minced",
+          "2 bell peppers, finely chopped",
+          "500 grams ground beef or lamb",
+          "2 teaspoons ground cumin",
+          "2 teaspoons ground paprika",
+          "1 teaspoon ground coriander",
+          "1 teaspoon cayenne pepper (optional, for spice)",
+          "Salt to taste",
+          "Black pepper to taste",
+          "4–6 pieces of soft flatbread or pita bread"
+        ],
+        "steps": [
+          "In a skillet or frying pan, heat the olive oil over medium heat.",
+          "Add the finely chopped onions and minced garlic. Sauté until the onions become translucent and the garlic becomes fragrant.",
+          "Add the finely chopped bell peppers to the skillet and cook until they are soft and slightly caramelized.",
+          "Add the ground beef or lamb to the skillet and break it up with a wooden spoon or spatula. Cook until the meat is browned and cooked through.",
+          "Season the meat mixture with ground cumin, ground paprika, ground coriander, cayenne pepper (if desired), salt, and black pepper. Stir well to combine the spices and ensure they are evenly distributed.",
+          "Preheat the oven to 180°C (350°F) or preheat a grill.",
+          "Cut the flatbread or pita bread into square or triangular shapes, depending on your preference.",
+          "Place a generous amount of the meat mixture onto one side of each bread piece, leaving some space around the edges.",
+          "Fold the bread over the meat filling to create a pocket or triangle shape. Press the edges firmly to seal the filling inside.",
+          "Place the filled bread pieces on a baking sheet or grill and bake or grill them until they are golden brown and crispy, usually about 10–15 minutes.",
+          "Remove the hawawshi from the oven or grill and let them cool slightly before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHawawshi_(Egyptian_Meat_Pies)"
+      }
+    },
+    {
+      "id": "feteer-meshaltet",
+      "name": "Feteer meshaltet",
+      "localName": "فطير مشلتت",
+      "videoSearch": "https://www.youtube.com/results?search_query=Feteer%20meshaltet%20recipe",
+      "description": "Feteer meshaltet, often simply referred to as meshaltet (مشلتت), is a traditional Egyptian flaky layered pastry. It is composed of numerous thin layers of dough and ghee. Feteer meshaltet is typically served with sweet or savory accompaniments.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Egyptian-food-16.jpg/500px-Egyptian-food-16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Feteer_meshaltet"
+    },
+    {
+      "id": "hamam-mahshi",
+      "name": "Hamam mahshi",
+      "localName": "حمام محشي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hamam%20mahshi%20recipe",
+      "description": "Hamam mahshi (Arabic: حمام محشي) is a traditional Egyptian dish comprising pigeons stuffed with a seasoned mixture of grains, herbs, and spices. This delicacy has been a staple in Egyptian cuisine for centuries and is often associated with special occasions and gatherings.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Hamam_mahshi.jpg/500px-Hamam_mahshi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hamam_mahshi"
+    },
+    {
+      "id": "fesikh",
+      "name": "Fesikh",
+      "localName": "فسيخ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fesikh%20recipe",
+      "description": "Fesikh is a traditional Egyptian dish. It is consumed primarily, though not exclusively, during the Sham Ennessim festival, a spring celebration that traces its origins to ancient Egyptian times and is observed as a national holiday in Egypt.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Fesikh_of_Desouk.JPG/500px-Fesikh_of_Desouk.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fesikh"
+    },
+    {
+      "id": "sayadeya",
+      "name": "Sayadeya",
+      "localName": "صيادية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sayadeya%20recipe",
+      "description": "Sayadieh (Arabic: صيادية) is a seasoned fish and rice dish from the Middle East, made with cumin and other spices, as well as fried onions. The spice mix is called baharat in Arabic and its preparation varies from cook to cook but may include caraway, cinnamon, cumin and coriander.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Fish_Sayadieh.jpg/500px-Fish_Sayadieh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sayadieh",
+      "recipe": {
+        "ingredients": [
+          "500 grams white fish fillets (such as tilapia)",
+          "2 cups rice",
+          "2 tablespoons olive oil",
+          "1 large onion, finely chopped",
+          "3 cloves garlic, minced",
+          "1 cup tomato sauce",
+          "2 teaspoons ground cumin",
+          "1 teaspoon ground paprika",
+          "1 teaspoon ground coriander",
+          "Salt to taste",
+          "Black pepper to taste",
+          "Chopped fresh parsley for garnish",
+          "Lemon wedges for serving"
+        ],
+        "steps": [
+          "Rinse the fish fillets under cold water and pat them dry with paper towels. Cut them into medium-sized pieces and set aside.",
+          "In a mixing bowl, combine the rice with enough water to cover it completely. Let it soak for about 15 minutes, then drain the water.",
+          "In a large skillet or frying pan, heat the olive oil over medium heat.",
+          "Add the finely chopped onion and minced garlic to the skillet. Sauté until the onions become translucent and the garlic becomes fragrant.",
+          "Add the drained rice to the skillet and stir well to coat the rice with the onion and garlic mixture.",
+          "Pour in the tomato sauce and add the ground cumin, ground paprika, ground coriander, salt, and black pepper. Stir to combine the ingredients and distribute the spices evenly.",
+          "Place the fish fillets on top of the rice mixture in the skillet. Cover the skillet with a lid and let the dish simmer on low heat for about 20–25 minutes, or until the fish is cooked through and the rice is tender.",
+          "Once the fish and rice are cooked, remove the skillet from the heat and let it rest for a few minutes.",
+          "Garnish the sayadeya with chopped fresh parsley. Serve hot, accompanied by lemon wedges for squeezing over the fish and rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASayadeya_(Egyptian_Fish_with_Rice)"
+      }
+    },
+    {
+      "id": "umm-ali",
+      "name": "Umm Ali",
+      "localName": "أم علي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Umm%20Ali%20recipe",
+      "description": "Om Ali, Omali, Umm Ali, or Oumm Ali (Arabic: أم علي), meaning \"Ali's Mother\", is a traditional Egyptian dessert, and is a national dessert of Egypt. There are numerous variations with different composition. The dish, which is traced back to as far as Medieval Egypt, is named after the wife of the Sultan of Egypt.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Umm_Ali.JPG/500px-Umm_Ali.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Om_Ali",
+      "recipe": {
+        "ingredients": [
+          "1 package (17.5 ounces) frozen puff pastry sheets, thawed",
+          "½ cup chopped walnuts",
+          "1 cup chopped pecans",
+          "1 cup chopped hazelnuts",
+          "1 cup raisins",
+          "1 cup flaked coconut",
+          "1¼ cups white sugar, divided",
+          "4 cups milk",
+          "½ cup heavy cream"
+        ],
+        "steps": [
+          "Preheat oven to 350°F (175°C). Butter a 9x13-inch baking dish.",
+          "Place the pastry sheets in the baking dish and place the dish in the oven. Watch it closely. When the top layer turns crunchy and golden, remove it from the oven. Continue until all the sheets are cooked.",
+          "Preheat the oven broiler.",
+          "In a bowl, combine walnuts, pecans, hazelnuts, raisins, coconut and ¼ cup sugar. Break cooked pastry into pieces and stir into nut mixture. Spread mixture evenly in a 9x13 inch dish.",
+          "Bring milk and ½ cup sugar to a boil in a medium saucepan over medium heat. Pour over nut mixture.",
+          "Whip the heavy cream with the remaining ½ cup sugar until stiff peaks form. Spread evenly over nut mixture in dish.",
+          "Place dessert under oven broiler until top is golden brown, about 10 minutes. Serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APuff_Pastry_with_Nuts_and_Whipped_Cream_(Om_Ali)"
+      }
+    },
+    {
+      "id": "basbousa",
+      "name": "Basbousa",
+      "localName": "بسبوسة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Basbousa%20recipe",
+      "description": "Basbousa (Arabic: بسبوسة, romanized: basbūsah, also known as harisa, nammoura, or revani) is a sweet, syrup-soaked semolina dessert popular throughout the Middle East, North Africa, Caucasus and the Balkans.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Basboosa.jpg/500px-Basboosa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Basbousa",
+      "recipe": {
+        "ingredients": [
+          "1 cup fine semolina",
+          "½ cup desiccated coconut",
+          "½ cup unsalted butter, melted",
+          "¾ cup granulated sugar",
+          "1 cup plain yogurt",
+          "1 teaspoon baking powder",
+          "½ teaspoon vanilla extract",
+          "Almonds or pistachios, chopped (for garnish)",
+          "1 cup water",
+          "1 cup granulated sugar",
+          "1 tablespoon lemon juice"
+        ],
+        "steps": [
+          "Preheat the oven to 180°C (350°F).",
+          "In a mixing bowl, combine the fine semolina, desiccated coconut, melted unsalted butter, granulated sugar, plain yogurt, baking powder, and vanilla extract. Stir well until all the ingredients are thoroughly combined and form a smooth batter.",
+          "Grease a 9x9 inch baking pan and pour the batter into it, spreading it out evenly.",
+          "Using a knife, score the surface of the batter into diamond or square shapes. This will help the syrup to penetrate the cake.",
+          "Bake the basbousa in the preheated oven for about 30–35 minutes or until the top is golden brown and a toothpick inserted into the center comes out clean.",
+          "While the basbousa is baking, prepare the syrup by the water, granulated sugar, and lemon juice in a saucepan. Bring the mixture to a boil, stirring occasionally, until the sugar is fully dissolved. Remove the syrup from heat and set it aside to cool.",
+          "Once the basbousa is baked, remove it from the oven and let it cool for a few minutes.",
+          "Pour the prepared syrup evenly over the warm basbousa, allowing it to soak into the cake.",
+          "Garnish the basbousa with chopped almonds or pistachios for added texture and presentation.",
+          "Allow the basbousa to cool completely before cutting and serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABasbousa_(Egyptian_Semolina_Cake)"
+      }
+    },
+    {
+      "id": "konafa",
+      "name": "Konafa",
+      "localName": "كنافة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Konafa%20recipe",
+      "description": "Knafeh (Arabic: كنافة) is a traditional Arab dessert made with kadayif (spun pastry dough) layered with cheese and soaked in a sweet, sugar-based syrup called attar. Knafeh is popular throughout the Arab world, especially Egypt and the Levant. Knafeh is often served on special occasions, holidays and Ramadan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/K%C3%BCnefe.jpg/500px-K%C3%BCnefe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Knafeh",
+      "recipe": {
+        "ingredients": [
+          "1 package (450 grams) kataifi pastry",
+          "1 cup ghee or melted butter",
+          "2 cups granulated sugar",
+          "1 cup water",
+          "1 tablespoon lemon juice",
+          "2 cups ashta (similar to clotted cream)",
+          "Crushed pistachios or almonds for garnish"
+        ],
+        "steps": [
+          "Preheat the oven to 180°C (350°F).",
+          "In a saucepan, combine the sugar, water, and lemon juice. Place the saucepan over medium heat and cook, stirring occasionally, until the sugar has dissolved and the mixture comes to a gentle boil. Reduce the heat to low and let the syrup simmer for about 10 minutes, until it slightly thickens. Remove the syrup from the heat and set it aside to cool.",
+          "In a baking dish or round cake pan, spread a layer of shredded phyllo dough, making sure to cover the bottom and sides of the pan. Brush the phyllo dough with melted ghee or butter.",
+          "Repeat the process, layering the shredded phyllo dough and brushing each layer with melted ghee or butter, until you have used about half of the dough.",
+          "Spread the ashta evenly over the layer of shredded phyllo dough.",
+          "Continue layering the remaining shredded phyllo dough on top of the ashta, brushing each layer with melted ghee or butter.",
+          "Once all the shredded phyllo dough has been layered, brush the top layer with melted ghee or butter.",
+          "Place the baking dish in the preheated oven and bake for about 30–40 minutes, or until the kunafa is golden brown and crispy.",
+          "Remove the kunafa from the oven and pour the cooled sugar syrup evenly over the hot pastry. Let the kunafa absorb the syrup for a few minutes.",
+          "Garnish the kunafa with crushed pistachios or almonds.",
+          "Allow the kunafa to cool for a while before serving. It can be enjoyed warm or at room temperature."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKunafa_Bil_Ashta_(Egyptian_Clotted_Cream_Pastry)"
+      }
+    },
+    {
+      "id": "roz-bel-laban",
+      "name": "Roz bel laban",
+      "localName": "رز بلبن",
+      "videoSearch": "https://www.youtube.com/results?search_query=Roz%20bel%20laban%20recipe",
+      "description": "Rice pudding is a dish made from rice and milk, and commonly other ingredients such as sweeteners, spices, flavourings and sometimes eggs. Variants are used for either desserts or dinners. When used as a dessert, it is commonly combined with a sweetener such as sugar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kheer_with_condensed_milk..JPG/500px-Kheer_with_condensed_milk..JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rice_pudding",
+      "recipe": {
+        "ingredients": [
+          "1 cup rice, preferably short-grain",
+          "4 cups milk",
+          "½ cup granulated sugar",
+          "1 teaspoon vanilla extract",
+          "¼ teaspoon ground cinnamon",
+          "1 pinch of ground nutmeg",
+          "1 pinch of salt",
+          "Pistachios or almonds, chopped (for garnish)"
+        ],
+        "steps": [
+          "Rinse the rice under cold water until the water runs clear. Drain well.",
+          "In the saucepan, combine the rinsed rice, milk, sugar, vanilla extract, cinnamon, nutmeg, and salt. Stir well to combine the ingredients.",
+          "Place the saucepan over medium heat and bring the mixture to a gentle simmer, stirring occasionally to prevent the rice from sticking to the bottom of the pan.",
+          "Reduce the heat to low and let the mixture simmer uncovered, stirring occasionally, for about 30–40 minutes or until the rice is tender and the mixture thickens to a creamy consistency.",
+          "Remove the saucepan from the heat and let the roz bel laban cool for a few minutes.",
+          "Once the pudding has cooled slightly, divide it between serving bowls or cups.",
+          "If you prefer to enjoy the pudding warm, it can be served immediately. If you prefer it chilled, refrigerate the pudding for at least 2 hours or until it is cold and set.",
+          "Before serving, garnish with chopped pistachios or almonds for added texture and flavor."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARoz_bel_Laban_(Egyptian_Rice_Pudding)"
+      }
+    }
+  ]
+}

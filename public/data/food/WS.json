@@ -1,0 +1,36 @@
+{
+  "country": "WS",
+  "dishes": [
+    {
+      "id": "palusami",
+      "name": "Palusami",
+      "videoSearch": "https://www.youtube.com/results?search_query=Palusami%20recipe",
+      "description": "Lūʻau, luʻau, laulau, lū, rourou, rukau, fāfā, hāhā, and palusami are all related dishes found throughout Polynesia based on the use of taro leaves as a primary ingredient. While taro is known worldwide as a root vegetable, the leaves with stems can be consumed as well. The base recipe is vegetarian.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Luaulau.png/500px-Luaulau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/L%C5%AB%CA%BBau_(food)"
+    },
+    {
+      "id": "koko-samoa",
+      "name": "Koko Samoa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Koko%20Samoa%20recipe",
+      "description": "Koko Samoa is a traditional Samoan hot chocolate drink made from ground cocoa beans. Most cocoa produced in Samoa is consumed domestically as koko Samoa, which is sold at local markets by cocoa farmers and their families.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Koko_Samoa"
+    },
+    {
+      "id": "oka",
+      "name": "Oka",
+      "videoSearch": "https://www.youtube.com/results?search_query=Oka%20recipe",
+      "description": "ʻOta ʻika is a Oceanian dish consisting of raw fish marinated in citrus juice and coconut milk. The Tongan, Tahitian, and Samoan variants are essentially identical in that the raw fish is briefly marinated in lemon or lime juice until the surface of the flesh becomes opaque.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Poisson_cru_au_lait_de_coco.jpg/500px-Poisson_cru_au_lait_de_coco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/%27Ota_%27ika"
+    },
+    {
+      "id": "palolo",
+      "name": "Palolo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Palolo%20recipe",
+      "description": "Palola viridis (or Eunice viridis), commonly known as the palolo worm, Samoan palolo worm, balolo, wawo, or nyale, is a Polychaeta species from the waters of some of the Pacific islands, including Samoa, Tonga, Fiji, Vanuatu, the Solomon Islands, Papua New Guinea, and the islands of the maritime Southeast Asia (which a…",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Palolo00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Palola_viridis"
+    }
+  ]
+}

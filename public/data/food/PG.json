@@ -1,0 +1,21 @@
+{
+  "country": "PG",
+  "dishes": [
+    {
+      "id": "mumu",
+      "name": "Mumu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mumu%20recipe",
+      "description": "An earth oven, ground oven or cooking pit is one of the simplest and most ancient cooking structures. The earliest known earth oven was discovered in Central Europe and dated to 29,000 BC. At its most basic, an earth oven is a pit in the ground used to trap heat and bake, smoke, or steam food.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Samoa_umu.JPG/500px-Samoa_umu.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Earth_oven"
+    },
+    {
+      "id": "sago",
+      "name": "Sago (saksak)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sago%20(saksak)%20recipe",
+      "description": "Sago () is a starch extracted from the soft, spongy core tissue of several tropical palm species, especially Metroxylon sagu.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Sago_%28Metroxylon_sagu%29_in_New_Guinea.jpg/500px-Sago_%28Metroxylon_sagu%29_in_New_Guinea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sago"
+    }
+  ]
+}

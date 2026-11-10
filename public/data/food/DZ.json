@@ -1,0 +1,379 @@
+{
+  "country": "DZ",
+  "dishes": [
+    {
+      "id": "couscous",
+      "name": "Couscous",
+      "localName": "كسكس",
+      "videoSearch": "https://www.youtube.com/results?search_query=Couscous%20recipe",
+      "description": "Couscous (Tamazight: ⵙⴽⵙⵓ seksu or ⴽⵙⴽⵙⵓ keskesu), is a traditional North African dish of small steamed granules of rolled semolina that is often served with a stew spooned on top.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg/500px-Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Couscous",
+      "recipe": {
+        "ingredients": [
+          "500 g (about 2½ cups) fine or medium couscous",
+          "2 tablespoons olive oil",
+          "500 ml (2 cups) warm water",
+          "250 ml (1 cup) water mixed with 1 teaspoon salt",
+          "500 g (1 lb) lamb, chicken, or beef, cut into chunks",
+          "2 large onions, finely chopped",
+          "3 cloves garlic, minced",
+          "2 tablespoons tomato paste",
+          "2 tablespoons olive oil",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "1 teaspoon paprika",
+          "½ teaspoon ground turmeric",
+          "½ teaspoon cinnamon (optional, for a hint of sweetness)",
+          "1.5 liters (6 cups) water or broth",
+          "Salt and pepper to taste",
+          "2 carrots, peeled and cut into chunks",
+          "2 zucchini, cut into chunks",
+          "2 potatoes, peeled and cut into chunks",
+          "1 turnip, peeled and cut into chunks",
+          "1 cup pumpkin or other hard squash, cut into chunks",
+          "1 cup cooked chickpeas (canned or pre-cooked)",
+          "1 green bell pepper, cut into chunks"
+        ],
+        "steps": [
+          "To hydrate the couscous, mix the couscous with olive oil and a little salt in a large bowl. Rub the grains between your hands to coat them evenly with oil. Gradually add the warm water while stirring to moisten the couscous. Let it sit for 10 minutes to absorb the water.",
+          "Transfer the couscous to a couscoussier (a traditional steamer) or a fine-mesh steamer basket. Steam over simmering water for 20 minutes, fluffing the couscous with a fork every 10 minutes to prevent clumping. If you don’t have a steamer, you can use a colander placed over a pot of boiling water, covered with a lid.",
+          "After the first steam, transfer the couscous back to a large bowl.",
+          "Gradually sprinkle the salted water over the couscous while using your hands or a fork to break up any clumps. This step ensures the couscous is evenly seasoned and moist.",
+          "Let the couscous cool for 10–15 minutes. This allows the grains to absorb the salted water and prepares them for the second steam.",
+          "In a large pot, heat the olive oil over medium heat. Add the meat and brown it on all sides. Remove and set aside.",
+          "In the same pot, add the chopped onions and garlic. Sauté until softened and golden.",
+          "Stir in the tomato paste, cumin, coriander, paprika, turmeric, and cinnamon (if using). Cook for 2–3 minutes to release the flavors.",
+          "Return the meat to the pot and add the water or broth. Season with salt and pepper. Bring to a boil, then reduce the heat to low, cover and simmer for about 1 hour or until the meat is tender.",
+          "Return the couscous to the steamer. Steam for another 20 minutes, fluffing with a fork every 10 minutes. This second steam ensures the couscous is light, fluffy and fully cooked.",
+          "After the meat has simmered for 30 minutes, add the carrots, turnip and potatoes. Continue simmering for another 15 minutes.",
+          "Add the zucchini, pumpkin and chickpeas. Cook until all the vegetables are tender but not mushy (about 15–20 minutes).",
+          "Once the couscous is steamed for the second time, transfer it to a large serving dish. Drizzle a ladle of broth from the stew over the couscous, and fluff it with a fork to separate the grains.",
+          "Place the couscous on a large platter, arrange the meat and vegetables on top, and pour some of the broth over everything."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAlgerian_Couscous_with_Meat_and_Vegetables"
+      }
+    },
+    {
+      "id": "chakhchoukha",
+      "name": "Chakhchoukha",
+      "localName": "شخشوخة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chakhchoukha%20recipe",
+      "description": "Chakhchoukha or chekhechoukha (Arabic: شخشوخة) is a traditional Algerian dish made from torn or rolled pieces of cooked semolina dough that are served in a tomato-based sauce. The dish consists of small pieces of rougag (thin round flatbread) mixed with marqa, a tomato stew.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Algerian_Chakhchoukha.jpg/500px-Algerian_Chakhchoukha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chakhchoukha",
+      "recipe": {
+        "ingredients": [
+          "Olive oil",
+          "1 onion, chopped",
+          "3 cloves garlic, minced",
+          "Salt to taste",
+          "Black pepper to taste",
+          "1 tbsp paprika",
+          "1 tbsp tomato paste",
+          "2 tomatoes, grated",
+          "2 cups dried chickpeas, soaked and drained",
+          "Chile pepper (optional)",
+          "Meat (e.g. lamb, beef, chicken), cubed",
+          "Water",
+          "Rougag"
+        ],
+        "steps": [
+          "Heat some olive oil in a saucepan over medium heat.",
+          "Add the onion, garlic, salt, pepper, paprika, and tomato paste, and cook for 5 minutes.",
+          "Add the tomato, chickpeas, and chili pepper, and cook for 10–15 minutes.",
+          "Add the meat and enough boiling water to slightly cover everything. Let the mixture cook for approximately 45 minutes, or until the meat and chickpeas are cooked and the sauce is thick.",
+          "Rip the sheets of rougag with your hands into tiny pieces. Place them in the top of a steamer and steam for 5 minutes, then remove and set aside.",
+          "Adjust the seasoning of the stew, adding salt if necessary.",
+          "Place the meat and vegetables over the rougag in a dish, and pour the sauce on top.",
+          "Serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAlgerian_Chakhchoukha_(Vegetable_and_Flatbread_Stew)"
+      }
+    },
+    {
+      "id": "chorba-frik",
+      "name": "Chorba frik",
+      "localName": "شربة فريك",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chorba%20frik%20recipe",
+      "description": "Chorba frik (Arabic: شربة فريك) is a traditional soup prepared in Algeria and Tunisia that is made with lamb or beef, vegetables, and frik, a type of wheat that has been harvested while still green and then roasted and rubbed to remove the outer husk. The resulting grain is then dried and can be stored for later use.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Chorba_frik_algerienne.jpg/500px-Chorba_frik_algerienne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chorba_frik",
+      "recipe": {
+        "ingredients": [
+          "300 grams (⅔ pound) ground beef",
+          "200 grams (7 ounces) crushed green wheat",
+          "100 grams (3.5 ounces) chopped celery",
+          "100 grams (3.5 ounces) chopped parsley",
+          "1 tablespoon tomato puree",
+          "1 teaspoon chile flakes",
+          "1 teaspoon pepper",
+          "2 teaspoons salt",
+          "2 tablespoons olive oil",
+          "2 liters (8½ cups) water",
+          "1 lemon",
+          "100 grams (3.5 ounces) soaked chickpeas (optional)"
+        ],
+        "steps": [
+          "Mix all the ingredients together in a pot large enough to contain everything.",
+          "Place the pot over low heat. Cook for 90 minutes, stirring often.",
+          "Serve with lemon"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChorba_Frik_(Freekeh_Soup)"
+      }
+    },
+    {
+      "id": "chorba-beida",
+      "name": "Chorba beida",
+      "localName": "شربة بيضاء",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chorba%20beida%20recipe",
+      "recipe": {
+        "ingredients": [
+          "500 g chicken (thighs, drumsticks or breast) (cut into pieces)",
+          "1 large onion (finely chopped)",
+          "1 tbsp neutral oil",
+          "1 tbsp butter or smen",
+          "1 cinnamon stick",
+          "½ tsp ground white pepper",
+          "Salt (to taste)",
+          "1 L water or chicken stock",
+          "1 handful chickpeas (soaked overnight)",
+          "50 g vermicelli",
+          "1 egg yolk",
+          "Juice of 1 lemon",
+          "2 tbsp parsley (finely chopped)"
+        ],
+        "steps": [
+          "Heat the oil and butter (or smen) in a large pot over medium heat.",
+          "Add the onion and cook until translucent.",
+          "Add the chicken, cinnamon stick, white pepper and salt. Cook for several minutes, stirring occasionally, until the chicken is lightly browned.",
+          "Pour in the water or chicken stock and add the soaked chickpeas.",
+          "Bring to a boil, then reduce the heat, cover and simmer for 40–50 minutes or until the chicken is tender and the chickpeas are cooked.",
+          "Remove the chicken from the pot. Discard the bones and shred the meat into small pieces.",
+          "Add the vermicelli to the broth and cook for 5–7 minutes until tender.",
+          "In a bowl, whisk together the egg yolk, lemon juice and parsley.",
+          "Gradually add a ladleful of hot broth to the egg mixture while whisking continuously.",
+          "Reduce the soup to very low heat and slowly stir the egg mixture into the pot.",
+          "Return the shredded chicken to the soup and stir well.",
+          "Serve immediately."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAlgerian_White_Chicken_Vermicelli_Soup_(Chorba_Beida)"
+      }
+    },
+    {
+      "id": "rechta",
+      "name": "Rechta",
+      "localName": "رشتة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rechta%20recipe",
+      "description": "Rechta (Arabic: رشتة) is a dish made from pasta cut into thin fresh artisan strips, typical of Algeria. It is in particular the symbolic dish of Algiers cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Rechtaalgeroise.jpg/500px-Rechtaalgeroise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rechta"
+    },
+    {
+      "id": "mhadjeb",
+      "name": "Mhadjeb",
+      "localName": "محاجب",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mhadjeb%20recipe",
+      "description": "Mahdjouba (Arabic: محجوبة) or mhadjeb is a crepe-like semolina based flatbread originating from Algeria. A traditional Algerian dish, mhadjeb is a fine crepe-like semolina-based flatbread, typically stuffed with a mixture of onion, garlic, tomato, peppers and spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Mhajeb1.jpg/500px-Mhajeb1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mahdjouba",
+      "recipe": {
+        "ingredients": [
+          "1 cup semolina",
+          "½ cup all-purpose flour",
+          "Salt",
+          "Water",
+          "2 tomatoes",
+          "Vegetable oil",
+          "4 onions, sliced thin",
+          "Black pepper",
+          "Ground chili pepper"
+        ],
+        "steps": [
+          "Combine the semolina, flour, and salt together in a bowl. Gradually stir in water with your hands until you get a smooth and soft dough.",
+          "Wet a plastic bag in warm water, cover the dough while still dripping, and let it rest. Afterwards, uncover the dough and knead lightly for a few minutes.",
+          "Coat your hands in oil, and shape the dough into balls, arranging them beside each other. Cover and allow to rest once more. These extra relaxation periods help to produce superior results.",
+          "Peel the tomatoes, then dice them into small pieces.",
+          "Heat some oil in a pan over medium-low heat. Add the onions, and stir regularly until they become translucent and soft.",
+          "Add the diced tomatoes, seasonings, and salt. Cover the pan and allow the mixture to cook over low heat, stirring occasionally to prevent it from sticking.",
+          "Let cool.",
+          "On an oiled surface, roll out the first ball of dough and give it a light coating of oil.",
+          "Place some filling in the center, and fold the dough over it on four sides to form a square.",
+          "Lightly oil the top of the dough and move it to a hot pan over medium-low heat. Cook until the first side is well-browned, then flip it to the other side and brown again. Remove from the pan.",
+          "Repeat the shaping and cooking process with the remaining dough and filling.",
+          "Serve hot and enjoy!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMhadjeb_(Algerian_Stuffed_Flatbread)"
+      }
+    },
+    {
+      "id": "kesra",
+      "name": "Kesra",
+      "localName": "كسرة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kesra%20recipe",
+      "description": "Kesra is a town and commune in the Siliana Governorate, Tunisia. As of 2004 it had a population of 2,490. In 2014 this was 2,600.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Vue_panoramique_de_Kesra_Tunisie.jpeg/500px-Vue_panoramique_de_Kesra_Tunisie.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kesra",
+      "recipe": {
+        "ingredients": [
+          "450 g fine semolina",
+          "1 tbsp salt",
+          "240 g warm water",
+          "30 g sunflower oil"
+        ],
+        "steps": [
+          "Combine the semolina and salt in a mixing bowl.",
+          "Add the oil and mix everything to obtain a sand-like texture.",
+          "Gradually add water by kneading the dough to incorporate it well for about 10 minutes. The dough is ready when it is well collected and no longer sticks to the edges of the bowl or to your hands.",
+          "Cover the bowl with plastic wrap and let it rest for at least 30 minutes.",
+          "Divide the dough into small parts of around 190 g (normally 4 for this recipe).",
+          "Using a rolling pin, roll out the pieces while keeping a round shape.",
+          "Delicately prick the kesra all over with a fork.",
+          "Cook each kesra using a griddle or frying pan for about 4–5 minutes on both sides."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKesra_(Algerian_Semolina_Flatbread)"
+      }
+    },
+    {
+      "id": "msemen",
+      "name": "Msemen",
+      "localName": "مسمن",
+      "videoSearch": "https://www.youtube.com/results?search_query=Msemen%20recipe",
+      "description": "Msemmen (Arabic: مسمن, romanized: musamman, msamman) or rghaif (رغايف), is a traditional flatbread originally from the Maghreb, commonly found in Algeria and Morocco, It is folded into square pancakes with multiple internal layers and cooked on a griddle, usually served with honey or a cup of aromatic morning mint tea …",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%D9%85%D8%B3%D9%85%D9%86.jpg/500px-%D9%85%D8%B3%D9%85%D9%86.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Msemmen",
+      "recipe": {
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "1 cup semolina flour",
+          "1 tsp sugar",
+          "Salt",
+          "¼ tsp instant yeast",
+          "1 ½ cups warm water",
+          "Vegetable oil"
+        ],
+        "steps": [
+          "Combine both flours, sugar, salt, and yeast in a bowl.",
+          "Gradually mix in the warm water until you get a soft dough. If it feels too sticky, mix in a little more all-purpose flour. If too dry, mix in some more water.",
+          "On a lightly-floured surface, knead the dough for 10 minutes or until it is smooth.",
+          "Divide the dough into smaller pieces, and roll each out into very thin rounds.",
+          "Brush each dough round with oil.",
+          "Fold the rounds into square envelope shapes, making 4 folds into the center.",
+          "Cook each flatbread in a hot, lightly-greased skillet until browned."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AM'semen_(Layered_Algerian_Flatbread)"
+      }
+    },
+    {
+      "id": "baghrir",
+      "name": "Baghrir",
+      "localName": "بغرير",
+      "videoSearch": "https://www.youtube.com/results?search_query=Baghrir%20recipe",
+      "description": "Baghrir or beghrir (Arabic:البغرير), also known as ghrayef or mchahda, is a pancake consumed in Algeria, Morocco and Tunisia. They are small, spongy, and made with semolina or flour; when cooked correctly, they are riddled with tiny holes (which soak up whatever sauce they are served with).",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/%D8%A8%D8%BA%D8%B1%D9%8A%D8%B1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baghrir",
+      "recipe": {
+        "ingredients": [
+          "2½ cups semolina",
+          "½ cup plain flour",
+          "15 g instant yeast",
+          "15 g white granulated sugar",
+          "7 g table salt",
+          "1 egg",
+          "4 cups warm water",
+          "½ tsp baking powder"
+        ],
+        "steps": [
+          "Combine the semolina, flour, yeast, sugar, and salt in a bowl.",
+          "Mix in the water and egg until you get a smooth batter.",
+          "Set batter aside, and let rest for 15–20 minutes or until doubled in size.",
+          "Thin with a little water if necessary, then whisk in the baking powder.",
+          "Heat a skillet over medium heat.",
+          "Lightly grease the skillet, then dollop in enough batter to make a few small pancakes.",
+          "Cook the pancakes on one side until the top is covered in holes and fully cooked. Do not flip and cook on the second side.",
+          "Remove baghrir from the pan, and repeat the cooking process with any remaining batter.",
+          "Serve with butter."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAlgerian_Baghrir"
+      }
+    },
+    {
+      "id": "karantika",
+      "name": "Karantika",
+      "localName": "قرنطيطة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Karantika%20recipe",
+      "description": "Karantika (Arabic: كارنتيكا) is an iconic Algerian street food sold throughout the Maghreb by street vendors. It has similarities to pies, pancakes, and flans and consists of a chickpea batter topped with beaten egg and baked, served with harissa and cumin either hot on bread as a sandwich, or sliced into squares.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Karantika_Algerian.jpg/500px-Karantika_Algerian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Karantika"
+    },
+    {
+      "id": "makroudh",
+      "name": "Makroudh",
+      "localName": "مقروض",
+      "videoSearch": "https://www.youtube.com/results?search_query=Makroudh%20recipe",
+      "description": "Makroudh (Arabic: مقروض, romanized: maqrūḍ), also spelled Makrout, is a cookie from the cuisine of the Maghreb. It is filled with dates and nuts or almond paste, that has a diamond shape – the name derives from this characteristic shape.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Makrouds.JPG/500px-Makrouds.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Makroudh"
+    },
+    {
+      "id": "tamina",
+      "name": "Tamina",
+      "localName": "تمينة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tamina%20recipe",
+      "recipe": {
+        "ingredients": [
+          "500 g semolina (medium-grind)",
+          "250 g melted butter",
+          "250 g honey",
+          "1 tbsp orange blossom water (mazhar)",
+          "Ground cinnamon (for decoration)",
+          "Dragées or almonds (for final decoration)"
+        ],
+        "steps": [
+          "Toast the semolina in a frying pan or in a cast iron dish until it takes on a nice golden color. Remove from the heat, and let it completely cool down.",
+          "Melt the butter and honey in a saucepan, and add orange blossom water.",
+          "Gradually add the cooled semolina while mixing.",
+          "Cook for 3–5 minutes while stirring to combine everything well.",
+          "Pour the tamina on a plate without waiting too long, and even out the surface.",
+          "Sprinkle with cinnamon and garnish with almonds or dragées.",
+          "Let cool and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATamina_(Algerian_Semolina_Honey_Dessert)"
+      }
+    },
+    {
+      "id": "merguez",
+      "name": "Merguez",
+      "localName": "مرقاز",
+      "videoSearch": "https://www.youtube.com/results?search_query=Merguez%20recipe",
+      "description": "Merguez ( mair-GHEZ) is a red, spicy lamb- or beef-based fresh sausage in Maghrebi cuisine. In France, merguez became popular in the 1960s and 1970s, as Algerian immigrants and the pieds-noirs of Algeria settled in the country and opened small shops and restaurants that served traditional dishes like merguez.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Merguez_sausages.jpg/500px-Merguez_sausages.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Merguez"
+    },
+    {
+      "id": "mazagran",
+      "name": "Mazagran",
+      "localName": "مازاغران",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mazagran%20recipe",
+      "description": "Mazagran (also called café mazagran, formerly spelt masagran) is a cold, sweetened coffee drink that originated in Algeria. Portuguese versions may use espresso, lemon, mint and rum, and Austrian versions are served with an ice cube and include rum or maraschino.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Caf%C3%A9_mazagran.jpg/500px-Caf%C3%A9_mazagran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mazagran_(drink)",
+      "recipe": {
+        "ingredients": [
+          "Ice cubes",
+          "1 cup brewed black coffee",
+          "Freshly-squeezed lemon juice",
+          "Sugar or other sweetener",
+          "1 lemon slice or wedge (optional)"
+        ],
+        "steps": [
+          "Fill a tall, narrow glass with the ice cubes.",
+          "Pour the coffee over the ice.",
+          "Add the lemon juice and sugar to taste.",
+          "Add the lemon slice or wedge as a final touch if desired."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMazagran_(Algerian_Iced_Coffee)"
+      }
+    }
+  ]
+}

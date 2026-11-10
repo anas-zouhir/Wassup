@@ -1,0 +1,238 @@
+{
+  "country": "PH",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "inquirer",
+        "name": "Philippine Daily Inquirer",
+        "homepage": "https://www.inquirer.net",
+        "lang": "en-PH"
+      },
+      "fetchedAt": "2026-10-22T15:13:03.930Z",
+      "items": [
+        {
+          "title": "Dengue fatalities in Negros Occidental rise to 23",
+          "link": "https://newsinfo.inquirer.net/2328696/dengue-fatalities-in-negros-occidental-rise-to-23",
+          "summary": "BACOLOD CITY — Dengue-related fatalities in Negros Occidental have climbed to 23 as total infections reached 4,208, the Provincial Health Office (PHO) reported Thursday, Oct. 22. The figures from January 4 to October 17…",
+          "image": "https://newsinfo.inquirer.net/files/2022/09/Negros-Occidental-map-filephoto-091322.jpg",
+          "publishedAt": "2026-10-22T22:57:34.000Z"
+        },
+        {
+          "title": "SWS: Fewer Filipinos follow Duterte trial than past impeachments",
+          "link": "https://newsinfo.inquirer.net/2328665/sws-42-of-filipinos-tune-in-to-sara-dutertes-impeachment-trial",
+          "summary": "MANILA, Philippines — Fewer Filipinos closely followed the impeachment trial of Vice President Sara Duterte compared with past impeachment proceedings, the Social Weather Stations (SWS) reported. According to its survey…",
+          "image": "https://newsinfo.inquirer.net/files/2026/10/Day-32-of-Vice-President-Sara-Dutertes-impeachment-trial-senate-impeachment-court-INQUIRER-PHOTO-NINO-JESUS-ORBETA.png",
+          "publishedAt": "2026-10-22T22:04:47.000Z"
+        },
+        {
+          "title": "PCSO lotto results Oct. 22: No jackpot winners",
+          "link": "https://newsinfo.inquirer.net/2328664/pcso-lotto-results-oct-22-no-jackpot-winners",
+          "summary": "MANILA, Philippines — No ticket holder won the jackpots in Super Lotto 6/49, Lotto 6/42 or 6D Lotto during the Philippine Charity Sweepstakes Office (PCSO) draws on Thursday, Oct. 22. According to the PCSO results…",
+          "image": "https://newsinfo.inquirer.net/files/2025/05/lotto-pcso.jpeg",
+          "publishedAt": "2026-10-22T21:55:53.000Z"
+        },
+        {
+          "title": "Surigao town’s ‘arm-to-spoon’ program among 2026 Galing Pook awardees",
+          "link": "https://newsinfo.inquirer.net/2328568/surigao-towns-arm-to-spoon-program-among-2026-galing-pook-awardees",
+          "summary": "SAN FRANCISCO, Agusan del Sur — The coastal municipality of Del Carmen on Siargao Island, Surigao del Norte, earned national acclaim after its flagship food security and climate-adaptation program, “Farm-to-Spoon,” was…",
+          "image": "https://newsinfo.inquirer.net/files/2026/10/Del-Carmen-2026-Galing-Pook-Awards.jpg",
+          "publishedAt": "2026-10-22T20:18:02.000Z"
+        },
+        {
+          "title": "PH Army holds medical mission in Lanao del Norte",
+          "link": "https://newsinfo.inquirer.net/2328564/ph-army-holds-medical-mission-in-lanao-del-norte",
+          "summary": "MUNAI, Lanao del Norte — For Anisah Madkura, getting medicines for her allergies without spending money was a welcome relief as rising healthcare costs continue to burden families with limited means. Madkura was among…",
+          "image": "https://newsinfo.inquirer.net/files/2026/10/lanao-outreach-program.jpg",
+          "publishedAt": "2026-10-22T20:01:32.000Z"
+        },
+        {
+          "title": "Almirol: eGov deals went to PLDT firms serving gov’t before me",
+          "link": "https://newsinfo.inquirer.net/2328601/almirol-egov-deals-went-to-pldt-firms-serving-govt-before-me",
+          "summary": "MANILA, Philippines — There was no conflict of interest in the P1.55 billion in e-government contracts now under investigation, as they went to companies of the PLDT group, the country’s largest telecommunications…",
+          "image": "https://newsinfo.inquirer.net/files/2026/10/DavidAlmirolJr.-22Oct2026.jpg",
+          "publishedAt": "2026-10-22T19:55:49.000Z"
+        },
+        {
+          "title": "Drilon: Congress must clarify SC ruling on unprogrammed funds",
+          "link": "https://newsinfo.inquirer.net/2328562/drilon-congress-must-clarify-sc-ruling-on-unprogrammed-funds",
+          "summary": "MANILA, Philippines — Former Senate President Franklin Drilon on Thursday urged Congress to clarify the Supreme Court’s ruling on unprogrammed appropriations, particularly provisions that may infringe on its…",
+          "image": "https://newsinfo.inquirer.net/files/2026/05/drilon-14may2026-e1778759243979.jpg",
+          "publishedAt": "2026-10-22T19:55:22.000Z"
+        },
+        {
+          "title": "Latter-day Saints group donates disaster gear to Army reservists",
+          "link": "https://newsinfo.inquirer.net/2328576/latter-day-saints-group-donates-disaster-gear-to-army-reservists",
+          "summary": "CAGAYAN DE ORO CITY — Military reservists in the Davao region received a much-needed boost to their disaster response capabilities on Wednesday (Oct. 21) as the soldiers respond to the earthquakes and flash floods that…",
+          "image": "https://newsinfo.inquirer.net/files/2026/10/Latter-day-Saints-Charities-Southeast-Asia-Inc.jpg",
+          "publishedAt": "2026-10-22T19:52:49.000Z"
+        },
+        {
+          "title": "Pagasa: Typhoon Rosal slows down, may further weaken by Saturday",
+          "link": "https://newsinfo.inquirer.net/2328541/pagasa-typhoon-rosal-slows-down-may-further-weaken-by-saturday",
+          "summary": "MANILA, Philippines — Typhoon Rosal has slowed down and may continue to weaken into a severe tropical storm by Saturday, Oct. 24, the state weather bureau said. A Philippine Atmospheric, Geophysical and Astronomical…",
+          "image": "https://newsinfo.inquirer.net/files/2026/10/rosal-weaken-sat-22oct2026.jpg",
+          "publishedAt": "2026-10-22T19:39:14.000Z"
+        },
+        {
+          "title": "El Niño response must draw on scientific, historical data – expert",
+          "link": "https://newsinfo.inquirer.net/2328534/el-nino-response-must-draw-on-scientific-historical-data-expert",
+          "summary": "MANILA, Philippines — Authorities must use science-based forecasts and historical data to make informed decisions and develop specific measures to prepare for El Niño, University of the Philippines (UP) Resilience…",
+          "image": "https://newsinfo.inquirer.net/files/2026/10/da9428f7-ff6f-4b08-a3af-15987c10a8bf.jpeg",
+          "publishedAt": "2026-10-22T19:33:10.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "philstar",
+        "name": "The Philippine Star",
+        "homepage": "https://www.philstar.com",
+        "lang": "en-PH"
+      },
+      "fetchedAt": "2026-10-22T15:13:04.161Z",
+      "items": [
+        {
+          "title": "1 Filipino dead after drone attack on oil field — Saudi Arabia",
+          "link": "https://www.philstar.com/headlines/2026/10/22/2565013/1-filipino-dead-after-drone-attack-oil-field-saudi-arabia",
+          "summary": "A Filipino and a Nepali national were killed after debris from a drone intercepted by Saudi air defenses fell near Saudi Aramco’s Shaybah oilfield.",
+          "publishedAt": "2026-10-22T08:23:00.000Z"
+        },
+        {
+          "title": "Entry ban a ‘small price to pay,’ says lawmaker on Chinese Embassy ‘list’",
+          "link": "https://www.philstar.com/headlines/2026/10/22/2565006/entry-ban-small-price-pay-says-lawmaker-chinese-embassy-list",
+          "summary": "Ten lawmakers now want Marcos to expel the Chinese envoy or seek his recall.",
+          "publishedAt": "2026-10-22T08:08:00.000Z"
+        },
+        {
+          "title": "DFA calls out Chinese Embassy for series of 'undiplomatic' posts",
+          "link": "https://www.philstar.com/headlines/2026/10/22/2564995/dfa-calls-out-chinese-embassy-series-undiplomatic-posts",
+          "summary": "The Department of Foreign Affairs has rebuked the Chinese Embassy in Manila over a string of increasingly combative social media posts targeting Filipino officials since the Chinese ambassador remarked last week that…",
+          "publishedAt": "2026-10-22T04:42:00.000Z"
+        },
+        {
+          "title": "Signal No. 2 remains in 2 areas as Super Typhoon Rosal weakens",
+          "link": "https://www.philstar.com/weather/2026/10/22/2564994/signal-no-2-remains-2-areas-super-typhoon-rosal-weakens",
+          "summary": "The super typhoon was last spotted 400 kilometers east of Basco, Batanes, moving west-northwestward at 20 kph.",
+          "publishedAt": "2026-10-22T04:09:00.000Z"
+        },
+        {
+          "title": "SolGen seeks review of SC ruling on unprogrammed appropriations",
+          "link": "https://www.philstar.com/headlines/2026/10/22/2564991/solgen-seeks-review-sc-ruling-unprogrammed-appropriations",
+          "summary": "The Office of the Solicitor General said it will seek clarification and partial reconsideration from the Supreme Court regarding its ruling on the constitutionality of unprogrammed appropriations.",
+          "publishedAt": "2026-10-22T03:47:00.000Z"
+        },
+        {
+          "title": "Interviews for next chief justice begin",
+          "link": "https://www.philstar.com/headlines/2026/10/22/2564983/interviews-next-chief-justice-begin",
+          "summary": "The JBC has begun public interviews for the country's next chief justice.",
+          "publishedAt": "2026-10-22T03:05:00.000Z"
+        },
+        {
+          "title": "Lawmakers hail Supreme Court ruling voiding billions in budget items",
+          "link": "https://www.philstar.com/headlines/2026/10/22/2564977/lawmakers-hail-supreme-court-ruling-voiding-billions-budget-items",
+          "summary": "Lawmakers have welcomed the Supreme Court's ruling declaring key provisions of the 2024, 2025 and 2026 General Appropriations Acts (GAA) unconstitutional, describing the decision as a decisive victory for public…",
+          "publishedAt": "2026-10-22T00:09:00.000Z"
+        },
+        {
+          "title": "'Rosal' slightly weakens; Batanes, Babuyan Islands under Signal No. 2",
+          "link": "https://www.philstar.com/weather/2026/10/22/2564976/rosal-slightly-weakens-batanes-babuyan-islands-under-signal-no-2",
+          "summary": "PAGASA said the center of Rosal's eye is estimated to be 495 kilometers east of Basco, Batanes.",
+          "publishedAt": "2026-10-21T23:15:00.000Z"
+        },
+        {
+          "title": "Online sale of fake PWD IDs flagged",
+          "link": "https://www.philstar.com/headlines/2026/10/22/2564848/online-sale-fake-pwd-ids-flagged",
+          "summary": "Sen. Raffy Tulfo has expressed alarm over the widespread circulation of fake identification cards for persons with disabilities sold online.",
+          "publishedAt": "2026-10-21T16:00:00.000Z"
+        },
+        {
+          "title": "ICC prosecutor updates trial brief vs Duterte",
+          "link": "https://www.philstar.com/headlines/2026/10/22/2564849/icc-prosecutor-updates-trial-brief-vs-duterte",
+          "summary": "The prosecutor of the International Criminal Court has filed a revised trial brief detailing the charges of crimes against humanity against former president Rodrigo Duterte.",
+          "publishedAt": "2026-10-21T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "gma-news",
+        "name": "GMA News",
+        "homepage": "https://www.gmanetwork.com/news/",
+        "lang": "en-PH"
+      },
+      "fetchedAt": "2026-10-22T15:13:03.457Z",
+      "items": [
+        {
+          "title": "Ombudsman to review impeachment prosecutors' evidence vs. VP Sara",
+          "link": "https://www.gmanetwork.com/news/topstories/nation/1006862/ombudsman-to-review-impeachment-prosecutors-evidence-vs-vp-sara/story/",
+          "summary": "Ombudsman Jesus Crispin Remulla on Thursday said his office will review the evidence that the House prosecution will turn over from the impeachment trial of Vice President Sara Duterte.",
+          "image": "https://images.gmanews.tv/webpics/2026/10/omb_remulla_102226_2026_10_22_22_59_34.jpg",
+          "publishedAt": "2026-10-22T15:07:07.000Z"
+        },
+        {
+          "title": "2027 budget has no unconstitutional items, says DBM",
+          "link": "https://www.gmanetwork.com/news/topstories/nation/1006868/2027-budget-has-no-unconstitutional-items-says-dbm/story/",
+          "summary": "The Department of Budget and Management (DBM) on Thursday told senators that the provisions that the Supreme Court (SC) declared unconstitutional in the 2024 and 2025 budgets were no longer in the proposed 2027 budget.",
+          "image": "https://images.gmanews.tv/webpics/2026/10/NEP_2026_10_22_22_53_59_1.jpg",
+          "publishedAt": "2026-10-22T15:01:55.000Z"
+        },
+        {
+          "title": "San Juan cemetery extends hours ahead of Undas",
+          "link": "https://www.gmanetwork.com/news/topstories/metro/1006865/san-juan-cemetery-extends-hours-ahead-of-undas/story/",
+          "summary": "The San Juan City Cemetery will implement extended hours ahead of the observance of All Saints\" Day and All Souls\" Day, with other cemeteries and local governments making preparations for the season.",
+          "image": "https://images.gmanews.tv/webpics/2026/10/manilanorthcemetery_2026_10_17_11_42_15.jpg",
+          "publishedAt": "2026-10-22T14:36:27.000Z"
+        },
+        {
+          "title": "SWS: 42% of Filipinos follow Sara Duterte's impeachment trial closely",
+          "link": "https://www.gmanetwork.com/news/topstories/nation/1006863/sws-42-of-filipinos-follow-sara-duterte-s-impeachment-trial-closely/story/",
+          "summary": "Less than half of Filipinos follow the impeachment trial of Vice President Sara Duterte either closely or somewhat closely, according to the Social Weather Stations (SWS).",
+          "image": "https://images.gmanews.tv/webpics/2026/10/trial_2026_10_06_07_04_53.jpg",
+          "publishedAt": "2026-10-22T14:22:18.000Z"
+        },
+        {
+          "title": "Brgy. kagawad at kapatid niya, patay sa pamamaril sa Cotabato; 1 estudyante, sugatan din",
+          "link": "https://www.gmanetwork.com/news/balitambayan/promdi/1006861/brgy-kagawad-at-kapatid-niya-patay-sa-pamamaril-sa-cotabato-1-estudyante-sugatan-din/story/",
+          "summary": "Patay ang isang barangay kagawad at kaniyang kapatid matapos umano silang pagbabarilin ng suspek na isang sundalo sa Kabacan, Cotabato.",
+          "image": "https://images.gmanews.tv/webpics/2026/10/Untitled7_2026_10_22_22_11_20.jpg",
+          "publishedAt": "2026-10-22T14:11:55.000Z"
+        },
+        {
+          "title": "Batanes, Cagayan feel impact of Typhoon Rosal",
+          "link": "https://www.gmanetwork.com/news/topstories/regions/1006860/batanes-cagayan-feel-impact-of-typhoon-rosal/story/",
+          "summary": "Despite weakening, Typhoon Rosal (international name: Champi) still affected part of northern Luzon on Thursday.",
+          "image": "https://images.gmanews.tv/webpics/2026/10/Batanes_waves_2026_10_22_22_00_23.jpg",
+          "publishedAt": "2026-10-22T14:03:17.000Z"
+        },
+        {
+          "title": "Traders hold pig holiday to protest imports",
+          "link": "https://www.gmanetwork.com/news/topstories/nation/1006859/traders-hold-pig-holiday-to-protest-imports/story/",
+          "summary": "Hog traders are implementing a three-day “pig holiday,” or a temporary suspension of the sale of pork, to protest the imports affecting the industry.",
+          "image": "https://images.gmanews.tv/webpics/2026/10/pig_holiday_2026_10_22_21_50_56.jpg",
+          "publishedAt": "2026-10-22T13:58:18.000Z"
+        },
+        {
+          "title": "Makabayan Bloc urges recall of 2027 appropriations bill",
+          "link": "https://www.gmanetwork.com/news/topstories/nation/1006858/makabayan-bloc-urges-recall-of-2027-appropriations-bill/story/",
+          "summary": "The Makabayan Bloc in the House of Representatives on Thursday called on the House of Representatives to recall the 2027 House General Appropriations Bill to correct what its members said were unconstitutional provisions…",
+          "image": "https://images.gmanews.tv/webpics/2025/09/Makabayan_bloc_Luneta_rally_against_corruption,_not_Marcos_resign_call_Courtesy_Llanesca_T_Panti_X_20250918_2025_09_18_17_03_17.jpg",
+          "publishedAt": "2026-10-22T13:45:22.000Z"
+        },
+        {
+          "title": "Negosyong Texas BBQ na mula sa US na dinala sa Pilipinas, paldo sa kita",
+          "link": "https://www.gmanetwork.com/news/balitambayan/talakayan/1006857/negosyong-texas-bbq-na-mula-sa-us-na-dinala-sa-pilipinas-paldo-sa-kita/story/",
+          "summary": "Patok sa mga customer ang Texas barbecue sa Amerika dahil sa pagiging juicy at smoky matapos pausukan ng 16 na oras. Sa Pilipinas, matitikman na rin ito sa murang halaga.",
+          "image": "https://images.gmanews.tv/webpics/2026/10/Untitled7_2026_10_22_21_42_22.jpg",
+          "publishedAt": "2026-10-22T13:43:47.000Z"
+        },
+        {
+          "title": "Caguioa vows to restore public trust in judiciary if named chief justice",
+          "link": "https://www.gmanetwork.com/news/topstories/nation/1006853/caguioa-vows-to-restore-public-trust-in-judiciary-if-named-chief-justice/story/",
+          "summary": "Associate Justice Benjamin Caguioa said Thursday that he wants to restore public trust in the judiciary if appointed chief justice of the Supreme Court.",
+          "image": "https://images.gmanews.tv/webpics/2026/10/caguioa_2026_10_22_21_29_21.jpg",
+          "publishedAt": "2026-10-22T13:30:06.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "country": "UG",
+  "dishes": [
+    {
+      "id": "matooke",
+      "name": "Matooke",
+      "videoSearch": "https://www.youtube.com/results?search_query=Matooke%20recipe",
+      "description": "Matoke, locally also known as matooke, amatooke in Buganda (Central Uganda), ekitookye in southwestern Uganda, ekitooke in western Uganda, kamatore in Lugisu (Eastern Uganda), ebitooke in northwestern Tanzania, igitoki in Rwanda, Burundi and by the cultivar name East African Highland banana, are a group of starchy trip…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Matooke_to_the_market.jpg/500px-Matooke_to_the_market.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Matoke",
+      "recipe": {
+        "ingredients": [
+          "8–10 medium-size plantains",
+          "1 lemon (optional), juiced",
+          "Vegetable oil for frying",
+          "2–3 tomatoes, chopped",
+          "1 onion, chopped",
+          "1 green bell pepper, chopped",
+          "1 chile pepper, chopped",
+          "2–3 garlic cloves, crushed",
+          "Curry spices to taste",
+          "Beef stew meat (optional), cut in bite-size pieces",
+          "1 cup beef stock (optional)",
+          "Salt",
+          "Red chile powder"
+        ],
+        "steps": [
+          "Peel the plantains and cut into cubes. Toss with lemon juice and set aside.",
+          "Heat the oil in a large pan. Add the tomatoes, onions, peppers, and garlic. Fry together.",
+          "Stir in the curry spice to taste, then the meat and stock. Cook, stirring, until the meat is nearly done or the mixture is boiling.",
+          "Stir in the plantains. Cover and simmer over low heat until until the plantains are tender and the meat is fully cooked.",
+          "Season with salt and chili pepper to taste.",
+          "Serve and enjoy your delicious meal."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMatoke_and_Beef_Stew"
+      }
+    },
+    {
+      "id": "luwombo",
+      "name": "Luwombo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Luwombo%20recipe",
+      "description": "Luwombo, also known as Oluwombo (singular) and as Mpombo or Empombo (plural), is a traditional Ugandan stew or sauce prepared using smoked young banana leaves from the Ndiizi banana plant.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Chicken_Luwombo.JPG/500px-Chicken_Luwombo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Luwombo",
+      "recipe": {
+        "ingredients": [
+          "1 lb (450 g) beef or chicken, cut into chunks",
+          "1 cup diced red onions",
+          "1 tablespoon minced garlic",
+          "1 tablespoon minced ginger",
+          "Cayenne pepper",
+          "2 tablespoons groundnut paste (or peanut butter)",
+          "1 tablespoon groundnut powder (or peanut powder)",
+          "2 tablespoons palm oil or groundnut oil",
+          "1 cup diced sweet potatoes",
+          "1 cup diced cassava",
+          "1 cup diced green bananas (matooke)",
+          "1 cup diced eggplant",
+          "2 tablespoons ground crayfish (optional, for added flavor)",
+          "1 cup fresh or canned coconut milk",
+          "1 cup homemade chicken or vegetable broth",
+          "Salt, to taste",
+          "Banana leaves, for wrapping"
+        ],
+        "steps": [
+          "In a large bowl, marinate the meat chunks with minced garlic, minced ginger, groundnut paste, groundnut powder, ground crayfish (if using), salt, and cayenne pepper. Allow the meat to marinate for at least 30 minutes to absorb the flavorful blend.",
+          "Heat palm oil or groundnut oil in a large pot or skillet over medium-high heat. Add the marinated meat and cook until beautifully browned on all sides, releasing an enticing aroma.",
+          "Stir in the diced onions and cook until they soften and become fragrant.",
+          "Add the diced sweet potatoes, cassava, green bananas, and eggplant to the pot.",
+          "Pour in the fresh coconut milk and homemade chicken or vegetable broth, ensuring all the ingredients are immersed in the rich and creamy goodness. Bring the mixture to a gentle simmer.",
+          "Reduce the heat to low, cover the pot with a lid, and let the ingredients steam for about 1–2 hours until the meat is tender.",
+          "Meanwhile, prepare the banana leaves by briefly holding them over an open flame to soften and make them pliable for wrapping.",
+          "Take a portion of the steamed mixture and place it in the center of a banana leaf, folding the leaf around the mixture to create a packet. Repeat with the remaining mixture and banana leaves.",
+          "Once all the packets are prepared, return them to the steamer or large pot with a steaming rack.",
+          "Steam the luwombo packets for an additional 30 minutes.",
+          "Serve the luwombo packets on individual plates."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALuwombo_(Ugandan_Steamed_Meat_and_Vegetables)"
+      }
+    },
+    {
+      "id": "rolex",
+      "name": "Rolex",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rolex%20recipe",
+      "description": "Ugandan Rolex, commonly referred to as Rolex, is a popular food item in Uganda prepared by combining an egg omelette and vegetables wrapped in a chapati. This single-portion dish is quick to prepare, and can be eaten at any time of the day, from breakfast to a lunch or supper meal or snack.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Rolex_wrap.jpg/500px-Rolex_wrap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rolex_(food)",
+      "recipe": {
+        "ingredients": [
+          "2 standard eggs",
+          "1 medium-sized tomato, finely chopped",
+          "1 medium-sized onion, finely chopped",
+          "1 medium-sized cabbage, finely chopped or grated",
+          "2 tablespoons chopped cilantro (optional but recommended)",
+          "½ tablespoon black pepper powder",
+          "½ tablespoon salt or to taste",
+          "2 East African chapati (homemade or purchased)",
+          "2 tablespoons vegetable oil"
+        ],
+        "steps": [
+          "Heat a pan over medium heat.",
+          "Crack the eggs in a medium sized bowl. Whisk in the onions, tomato, cabbage, coriander, salt, and pepper.",
+          "Add 1 tablespoon of the oil to the hot pan, and pour in half the egg mixture. Allow it to cook for about 3 minutes.",
+          "When the top is only a little wet, place a chapati over it.",
+          "Flip the omelette and chapati over so the chapati is at the bottom. Allow the chapati to warm for 2 minutes.",
+          "Roll the omelet up with the chapati on the outside.",
+          "Wrap in foil and serve it immediately.",
+          "Repeat the steps above with the remaining egg mixture and chapati."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARolex_(Ugandan_Flatbread-Rolled_Omelet)"
+      }
+    },
+    {
+      "id": "posho",
+      "name": "Posho",
+      "videoSearch": "https://www.youtube.com/results?search_query=Posho%20recipe",
+      "description": "Ugali, also known as posho, nsima, papa, pap, bogobe, sadza, isitshwala, akume, amawe, ewokple, akple, and other names, is a type of corn meal made from maize or corn or mahindi flour in several African countries: Kenya, Uganda, South Sudan, Tanzania, Zimbabwe, Zambia, Lesotho, Eswatini, Angola, Mozambique, Namibia, De…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ugali_%26_Sukuma_Wiki.jpg/500px-Ugali_%26_Sukuma_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ugali",
+      "recipe": {
+        "ingredients": [
+          "3 cups water",
+          "1 cup maize flour (cornmeal)",
+          "1 tablespoon butter or vegetable oil (optional, for added richness)"
+        ],
+        "steps": [
+          "In a cooking pot, bring the water to a boil over medium heat.",
+          "Gradually add the maize flour to the boiling water, stirring constantly with a wooden spoon or whisk to prevent lumps from forming.",
+          "Continue stirring the mixture until it thickens and begins to pull away from the sides of the pot. This typically takes about 5–10 minutes.",
+          "Reduce the heat to low, cover the pot with a lid, and let the porridge simmer for an additional 5–10 minutes, allowing the flavors to meld and the porridge to reach the desired consistency.",
+          "If using, add butter or vegetable oil to the porridge and stir until well incorporated. This step adds a delightful richness to the posho.",
+          "Remove the pot from the heat and let the posho rest for a few minutes before serving to allow it to set further.",
+          "Serve the posho warm as a comforting and nourishing side dish with stews, vegetables, or any other Ugandan delicacies."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APosho_(Ugandan_Cornmeal_Porridge)"
+      }
+    },
+    {
+      "id": "katogo",
+      "name": "Katogo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Katogo%20recipe",
+      "description": "Katogo is a traditional breakfast dish in Uganda. It is served in most regions of Uganda and is defined as a mixture of ingredients.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Katogo.jpg/500px-Katogo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Katogo_(food)",
+      "recipe": {
+        "ingredients": [
+          "500 g peeled green bananas (matooke)",
+          "Cooking oil",
+          "1 medium-size onion, neatly chopped",
+          "1 medium-size green pepper, neatly chopped",
+          "3 medium-size grated tomatoes",
+          "Salt to taste",
+          "2 cups water",
+          "1 teaspoon black pepper",
+          "1 teaspoon cumin",
+          "1 teaspoon curry powder",
+          "250 g boiled beans"
+        ],
+        "steps": [
+          "Chop the green bananas and set aside.",
+          "Sauté the onions in a pot of cooking oil until lightly browned.",
+          "Add the pepper and tomatoes, then season to taste with salt. Cook, stirring, for 1 minute.",
+          "Add the banana, and stir for another minute.",
+          "Add the water and cook for 10 minutes over medium heat.",
+          "Stir in the cumin, curry powder, and black pepper. Make sure all the spices are well-incorporated. Simmer for 2 minutes, and adjust the spices to taste.",
+          "Rinse the cooked beans with clean water, then drain them well. Stir into the pot, and simmer for another 10 minutes.",
+          "Serve hot, garnished with coriander."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKatogo_(Ugandan_Mixed_Breakfast_Vegetables)"
+      }
+    },
+    {
+      "id": "eshabwe",
+      "name": "Eshabwe",
+      "videoSearch": "https://www.youtube.com/results?search_query=Eshabwe%20recipe",
+      "description": "Eshabwe is a class of clarified butter that originated in Ankole and is commonly used as condiment. Eshabwe, also known as ghee sauce, is a traditional dish prepared in Ankole. The dish is usually prepared for special ceremonies or occasions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Eshabwe.jpg/500px-Eshabwe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eshabwe",
+      "recipe": {
+        "ingredients": [
+          "1 cup ghee (clarified butter)",
+          "1 cup whole milk",
+          "1 pinch of salt"
+        ],
+        "steps": [
+          "In a saucepan, heat the ghee over low to medium heat until it melts completely.",
+          "Gradually add the whole milk to the melted ghee, stirring constantly with a wooden spoon or spatula. The milk and ghee should blend together to form a smooth and creamy mixture.",
+          "Continue cooking the mixture over low heat, stirring occasionally, until it thickens and reaches a creamy consistency. This typically takes about 10–15 minutes.",
+          "Add a pinch of salt and stir to enhance the flavor.",
+          "For a smoother texture, you can use a whisk to further blend the eshabwe until it becomes velvety and uniform.",
+          "Remove the saucepan from the heat and let cool slightly before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AEshabwe_(Ugandan_Milk_Cream)"
+      }
+    },
+    {
+      "id": "nsenene",
+      "name": "Nsenene",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nsenene%20recipe",
+      "description": "Nsenene is the Luganda name for Ruspolia differens: a bush cricket (a.k.a. katydids or misnamed \"long-horned grasshoppers\") in the tribe Copiphorini of the 'cone-head' subfamily. It is often confused with the closely related Ruspolia nitidula.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Ruspolia_nitidula_male_%283788698376%29.jpg/500px-Ruspolia_nitidula_male_%283788698376%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nsenene"
+    },
+    {
+      "id": "malewa",
+      "name": "Malewa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Malewa%20recipe",
+      "description": "Malewa is smoked bamboo shoot which is dried for preservation. The bamboo trees grow in the wild in eastern Uganda around Mt. Elgon in the districts of Bududa, Sironko and Mbale.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Malewa_1.JPG/500px-Malewa_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Malewa"
+    },
+    {
+      "id": "kabalagala",
+      "name": "Kabalagala",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kabalagala%20recipe",
+      "description": "Kabalagala is a neighbourhood in Kampala, the capital and largest city in Uganda. It houses some of the leading partygoers in the city. It is located next to Nsambya where the American Embassy in Uganda is found.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Kabalagala_slum.jpg/500px-Kabalagala_slum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kabalagala",
+      "recipe": {
+        "ingredients": [
+          "2 ripe bananas, mashed",
+          "1 cup all-purpose flour",
+          "¼ cup sugar",
+          "½ teaspoon baking powder",
+          "1 pinch of salt",
+          "½ cup milk",
+          "Vegetable oil, for deep-frying"
+        ],
+        "steps": [
+          "In a bowl, combine the mashed bananas with the all-purpose flour, sugar, baking powder, and salt.",
+          "Gradually add the milk to the banana-flour mixture, stirring continuously with a whisk or spoon until a smooth and thick batter forms. The consistency should be similar to that of regular pancake batter.",
+          "Heat vegetable oil in a deep frying pan or pot over medium-high heat. The oil should be deep enough to fully submerge the Kabalagala.",
+          "Carefully drop spoonfuls of the batter into the hot oil, working in batches to avoid overcrowding the pan. Each pancake should be about 3–4 inches in diameter.",
+          "Fry the pancakes until they turn golden brown and become crispy on both sides. This usually takes about 2–3 minutes per side.",
+          "Use a slotted spoon or spider strainer to remove the fried kabalagala from the oil and transfer them onto a plate lined with paper towels to drain excess oil.",
+          "Serve the kabalagala while still warm. They can be enjoyed on their own as a tasty snack or paired with a cup of tea or coffee."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKabalagala_(Ugandan_Pancakes)"
+      }
+    },
+    {
+      "id": "kikomando",
+      "name": "Kikomando",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kikomando%20recipe",
+      "description": "Kikomando is a Ugandan dish consisting of chapati and beans. It is a variant of the rolex. This dish was created in the early 2000s.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Kikomando_ekyaddala.jpg/500px-Kikomando_ekyaddala.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kikomando"
+    },
+    {
+      "id": "malakwang",
+      "name": "Malakwang",
+      "videoSearch": "https://www.youtube.com/results?search_query=Malakwang%20recipe",
+      "description": "Amalakwang or Malakwang is a vegetable found in Northern Uganda. It is a type of roselle (Hibiscus sabdariffa) that has multiple preparations. One recipe boils it, combines it with groundnut paste, and serves it with sweet potatoes, posho and rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Malakwang_dish.jpg/500px-Malakwang_dish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Amalakwang"
+    },
+    {
+      "id": "mugoyo",
+      "name": "Mugoyo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mugoyo%20recipe",
+      "description": "Mugoyo is a traditional main course dish in Uganda. It is served in most regions in Uganda and is defined as mingled. The main ingredients of the dish are sweet potatoes and beans.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mugoyo"
+    }
+  ]
+}

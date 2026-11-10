@@ -1,0 +1,68 @@
+{
+  "country": "LA",
+  "dishes": [
+    {
+      "id": "larb",
+      "name": "Larb",
+      "localName": "ລາບ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Larb%20recipe",
+      "description": "Laab / Larb is a type of Lao meat salad that is the national dish of Laos, along with green papaya salad and sticky rice. Laab in the Lao language is a noun that refers to meat or other flesh that has been finely chopped and pounded.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/LaoFood_LarbNeua.JPG/500px-LaoFood_LarbNeua.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Larb"
+    },
+    {
+      "id": "tam-mak-hoong",
+      "name": "Tam mak hoong",
+      "localName": "ຕຳໝາກຫຸ່ງ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tam%20mak%20hoong%20recipe",
+      "description": "Green papaya salad is a spicy salad made from shredded unripe papaya. It is believed to have been created by Lao people and is considered one of the national dishes of Laos. The dish is also popular in neighboring Thailand, particularly in the Isan region, where the population is predominantly ethnic Lao.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/2013_Tam_Lao.jpg/500px-2013_Tam_Lao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Green_papaya_salad"
+    },
+    {
+      "id": "or-lam",
+      "name": "Or lam",
+      "localName": "ເອາະຫຼາມ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Or%20lam%20recipe",
+      "description": "Or lam is a mildly spicy, slightly tongue numbing, Laotian stew originating from Luang Prabang, Laos. The peppery and thick broth is prepared by slowly simmering lemongrass, chilies and Lao chili wood (sakhaan) with crushed or mashed up sticky rice, grilled citronella, garlic, dill and onions added to thicken the broth.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/O-lam.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Or_lam"
+    },
+    {
+      "id": "khao-piak-sen",
+      "name": "Khao piak sen",
+      "localName": "ເຂົ້າປຽກເສັ້ນ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Khao%20piak%20sen%20recipe",
+      "description": "Khao piak sen is a rice noodle soup that is a part of traditional Lao cuisine. It is often made in large batches to eat with a large group of people. It is sometimes prepared using pork belly.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Khao_piak_sen.jpg/500px-Khao_piak_sen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Khao_piak_sen"
+    },
+    {
+      "id": "khao-jee",
+      "name": "Khao jee",
+      "localName": "ເຂົ້າຈີ່",
+      "videoSearch": "https://www.youtube.com/results?search_query=Khao%20jee%20recipe",
+      "description": "Khao jee, khao gee or jee khao, also khao ping, is an ancient Laotian cooking method of grilling glutinous rice or sticky rice on a stick over an open fire. Khao jee or, more specifically, khao jee joom kai (lit.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Lao_grilled_stickyrice_joom_kai.jpg/500px-Lao_grilled_stickyrice_joom_kai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Khao_jee"
+    },
+    {
+      "id": "sai-oua",
+      "name": "Sai oua",
+      "localName": "ໄສ້ອົ່ວ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sai%20oua%20recipe",
+      "description": "Sai oua, sometimes also known as Laotian sausage, is a popular type of sausage made in Laos, Myanmar, and Thailand, particularly in northern Thailand and northern Laos.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Lao_Sai_Oua.png/500px-Lao_Sai_Oua.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sai_oua"
+    },
+    {
+      "id": "jaew-bong",
+      "name": "Jaew bong",
+      "localName": "ແຈ່ວບອງ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jaew%20bong%20recipe",
+      "description": "Jeow bong or jaew bong, also called Luang Prabang chili sauce, is a sweet and savory Lao chili paste originating from Luang Prabang, Laos. Jeow bong is made with sundried chilies, galangal, garlic, fish sauce and other ingredients commonly found in Laos.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Jeow_Bong_-_Laotian_chili_dip.jpg/500px-Jeow_Bong_-_Laotian_chili_dip.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jeow_bong"
+    }
+  ]
+}

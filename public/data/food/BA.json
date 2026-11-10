@@ -1,0 +1,53 @@
+{
+  "country": "BA",
+  "dishes": [
+    {
+      "id": "cevapi",
+      "name": "Ćevapi",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C4%86evapi%20recipe",
+      "description": "Ćevapi is a grilled dish of minced meat popular in Southeast Europe and countries of former Yugoslavia, where it originated. It is considered a national dish of Bosnia and Herzegovina and Serbia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Cevapi_s_kajmakom.jpg/500px-Cevapi_s_kajmakom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/%C4%86evapi"
+    },
+    {
+      "id": "burek",
+      "name": "Burek",
+      "videoSearch": "https://www.youtube.com/results?search_query=Burek%20recipe",
+      "description": "Börek, also referred to as burek or byrek or burekas, is a family of pastries or pies made in West Asia and Southeast Europe. The pastry is made of a thin flaky dough such as filo with a variety of fillings, such as meat, cheese, spinach, or potatoes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Burek_trokut_1.png/500px-Burek_trokut_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%B6rek"
+    },
+    {
+      "id": "begova-corba",
+      "name": "Begova čorba",
+      "videoSearch": "https://www.youtube.com/results?search_query=Begova%20%C4%8Dorba%20recipe",
+      "description": "Begova čorba (literally \"Bey's soup\") is a type of soup and a traditional festive dish from Bosnia and Herzegovina. It is commonly served as a warm appetizer in the form of a classic soup made with vegetables and chicken meat. The dish has its origins during the Ottoman period.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Begova_%C4%8Corba_%28Ba%C5%A1%C4%8Dar%C5%A1ija_in_Sarajevo%2C_Bosnia%29.JPG/500px-Begova_%C4%8Corba_%28Ba%C5%A1%C4%8Dar%C5%A1ija_in_Sarajevo%2C_Bosnia%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bey%27s_soup"
+    },
+    {
+      "id": "bosanski-lonac",
+      "name": "Bosanski lonac",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bosanski%20lonac%20recipe",
+      "description": "Bosnian pot (Bosanski lonac) is a Bosnian stew, a culinary speciality, appreciated for its rich taste and flexibility. Recipes for Bosanski lonac vary greatly according to personal and regional preference, but the main ingredients generally include chunked meat and vegetables. Mixed meats may be used in the dish.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bosanskilonac.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bosnian_pot"
+    },
+    {
+      "id": "tufahija",
+      "name": "Tufahija",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tufahija%20recipe",
+      "description": "Tufahije (singular: tufahija) is a dessert made of walnut-stuffed apples poached in sugar water. It is very popular in Bosnia and Herzegovina, Croatia, Serbia, and Bulgaria. The Bulgarian pechani yabalki are also stuffed with walnuts, but are usually baked, not poached.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Tufahiija_in_Mori%C4%87a_Han_2.JPG/500px-Tufahiija_in_Mori%C4%87a_Han_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tufahije"
+    },
+    {
+      "id": "kajmak",
+      "name": "Kajmak",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kajmak%20recipe",
+      "description": "Kaymak, also known as qishta (Arabic: قشدة) or sarshir (Persian: سَرشیر), is a creamy dairy food similar to clotted cream, made from the milk of water buffalo, cows, sheep, or goats in Central Asia, most Turkic regions on the Eurasian Steppe, the Caucasus, Turkey, most Balkan countries, the Levant, Iran and Iraq.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Kaymak_in_Turkey.jpg/500px-Kaymak_in_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kaymak"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "country": "AO",
+  "dishes": [
+    {
+      "id": "funge",
+      "name": "Funge",
+      "videoSearch": "https://www.youtube.com/results?search_query=Funge%20recipe",
+      "description": "Funge or fúngi (Angola) or mfundi (Congo - DRC and the Congo Republic) is a traditional African swallow made of cassava flour whisked into boiling water. It can also be made with sorghum, maize, or millet. It can be served with textured vegetable, fish, or meat stew, as well as other vegetable, meat, and fish dishes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Moamba_traditional_dish_in_Luanda.JPG/500px-Moamba_traditional_dish_in_Luanda.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Funge",
+      "recipe": {
+        "ingredients": [
+          "3 cups water",
+          "1½ cup cassava flour"
+        ],
+        "steps": [
+          "Preheat the oven to about 350 °F.",
+          "Put the water in a medium-size pot and let boil.",
+          "Put the cassava flour in a medium-size bowl, and mix with a little cold water until it is just damp. Make sure to mix it very well so as to have an and even mixture.",
+          "When the water is boiling, mix in the damp pre-mixed cassava flour.",
+          "Whisk to combine, and continue to whisk until all lump-free.",
+          "Cover with the lid and place it in the oven to cook for about 30 minutes.",
+          "Whisk any further if you want, then remove and serve with any soup of your desire.",
+          "Bring the water to a boil in a pot.",
+          "When the water is boiling, remove from the stove and place on the floor. Sit on a small stool with the pot between your legs.",
+          "Pour the cassava flour into the water and start to whisk as fast as you can using a wooden spoon.",
+          "Continue to mix until the mixture is completely smooth.",
+          "When you are done whisking it to your satisfaction, cover with a lid and leave on a reduced heat for about 3 minutes.",
+          "Enjoy with any complimentary soup of your choice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFunje_(Cassava_Flour_Pudding)"
+      }
+    },
+    {
+      "id": "moamba-de-galinha",
+      "name": "Moamba de galinha",
+      "videoSearch": "https://www.youtube.com/results?search_query=Moamba%20de%20galinha%20recipe",
+      "description": "Moambe chicken (French: poulet à la moambe or simply poulet moambe, Portuguese: moamba de galinha) is a savory chicken dish popular in Central Africa and considered the national dish of Angola, the Republic of the Congo, and the Democratic Republic of the Congo.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Poulet_%C3%A0_la_moambe.JPG/500px-Poulet_%C3%A0_la_moambe.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Moambe_chicken"
+    },
+    {
+      "id": "calulu",
+      "name": "Calulu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Calulu%20recipe",
+      "description": "Calulu is a typical dish from Angola (Angolan cuisine) and São Tomé and Príncipe (Cuisine of São Tomé and Príncipe). Preparations of it can include fish or meat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Calulu.jpg/500px-Calulu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Calulu"
+    },
+    {
+      "id": "mufete",
+      "name": "Mufete",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mufete%20recipe",
+      "recipe": {
+        "ingredients": [
+          "2 whole fish (tilapia, mackerel, or snapper)",
+          "2 cups cooked beans",
+          "3 tablespoons palm oil",
+          "2 onions",
+          "2 tomatoes",
+          "2 garlic cloves",
+          "1 lemon",
+          "Salt and pepper",
+          "Cassava (yuca)",
+          "Sweet potatoes",
+          "Plantains"
+        ],
+        "steps": [
+          "Clean the fish and season with salt, pepper, garlic, and lemon juice. Leave it for 20 minutes.",
+          "Grill the fish or bake it until it is well cooked and golden brown.",
+          "Heat palm oil in a pot. Add chopped onions, tomatoes, and garlic. Stir for a few minutes.",
+          "Add the cooked beans and allow it to simmer for 10 minutes.",
+          "Peel and boil the cassava and sweet potatoes until soft.",
+          "Boil or fry the plantains.",
+          "Prepare onion sauce by mixing chopped onions, tomatoes, little oil, lemon juice, and salt."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMufete"
+      }
+    },
+    {
+      "id": "cocada-amarela",
+      "name": "Cocada amarela",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cocada%20amarela%20recipe",
+      "description": "Cocada Amarela is a traditional Angolan dessert made from eggs and coconut. It has a distinctive yellow colour due to the large quantity of eggs used. The name, Cocada Amarela, literally means yellow Cocada.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Cocada_amarela.jpg/500px-Cocada_amarela.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cocada_amarela"
+    },
+    {
+      "id": "catatos",
+      "name": "Catatos",
+      "videoSearch": "https://www.youtube.com/results?search_query=Catatos%20recipe",
+      "description": "Catatos is a traditional Angolan dish made with fried caterpillars and garlic. It is often served over rice. The dish is a specialty of the Uíge Province in northwestern Angola.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catatos"
+    },
+    {
+      "id": "kissuto-rombo",
+      "name": "Kissuto rombo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kissuto%20rombo%20recipe",
+      "description": "Kissuto rombo is a traditional meat dish originating from Angola. The dish is prepared with roasted goat meat rubbed with a combination of garlic and lemon juice.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kissuto_rombo"
+    }
+  ]
+}

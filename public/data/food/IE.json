@@ -1,0 +1,202 @@
+{
+  "country": "IE",
+  "dishes": [
+    {
+      "id": "irish-stew",
+      "name": "Irish stew",
+      "videoSearch": "https://www.youtube.com/results?search_query=Irish%20stew%20recipe",
+      "description": "Irish stew (Irish: stobhach Gaelach) or stobhach is a stew from Ireland that is traditionally made with root vegetables and lamb or mutton, but in modern times also it is commonly made with beef. As in all traditional folk dishes, the exact recipe is not consistent from time to time or place to place.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Irish_Beef_Stew_%2834046928633%29.jpg/500px-Irish_Beef_Stew_%2834046928633%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Irish_stew",
+      "recipe": {
+        "ingredients": [
+          "2½ lb (1.1 kg) deboned mutton, cut in chunks",
+          "4 large potatoes, peeled and thickly sliced",
+          "2 large onions, thickly sliced",
+          "3–4 medium carrots, peeled and thickly sliced",
+          "1 sprig of parsley, chopped",
+          "2 cups (480 ml) water",
+          "Salt",
+          "Pepper"
+        ],
+        "steps": [
+          "Choose a pot with a well-fitting lid and put in the ingredients in layers, starting and finishing with potatoes. Pour in the water and season to taste.",
+          "Cover and put on a very low heat for about 2½ hours until the meat is tender and the potatoes have thickened the liquid."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AIrish_Stew"
+      }
+    },
+    {
+      "id": "colcannon",
+      "name": "Colcannon",
+      "videoSearch": "https://www.youtube.com/results?search_query=Colcannon%20recipe",
+      "description": "Colcannon is a traditional Irish dish of mashed potatoes with cabbage. It is a popular dish on Saint Patrick's Day and on the feast day of St. Brigid.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Colcannon.JPG/500px-Colcannon.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Colcannon",
+      "recipe": {
+        "ingredients": [
+          "450 g potatoes (floury Maris Piper or Golden Wonders are best; leave skin on if you want)",
+          "150 ml single cream",
+          "Mace",
+          "Ground paprika",
+          "450 g white or savoy shredded cabbage",
+          "2 small leeks or 1 bunch of spring onion tops, chopped",
+          "125 g unsalted butter",
+          "200 g mature Gouda cheese, grated",
+          "Salt",
+          "Pepper"
+        ],
+        "steps": [
+          "Boil or steam the potatoes until soft, then shake the drained spuds in a deep pot with the lid on, until they crumble.",
+          "Mash the crumbled potatoes up with a fork and season with the salt, pepper, and mace/paprika, before stirring in the cream.",
+          "Add 100 g of the butter in pieces and put the lid back on, leaving the butter to melt, then stir. Transfer the mix to a clean bowl.",
+          "Blanch the cabbage in boiling water for 2 minutes and drain.",
+          "Fry the leeks in the remaining butter for a few minutes, then add the cabbage and toss around for a few more minutes.",
+          "Spoon the cabbage into the bowl and mix with the mashed potatoes.",
+          "Stir the gouda into the mix, leaving a little to coat the top. Put the bowl in an oven on 2/3 heat for 20 minutes or until the cheese is melted."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AColcannon"
+      }
+    },
+    {
+      "id": "boxty",
+      "name": "Boxty",
+      "videoSearch": "https://www.youtube.com/results?search_query=Boxty%20recipe",
+      "description": "Boxty (Irish: bacstaí or steaimpí) is a traditional Irish potato pancake. The dish is mostly associated with the north midlands, north Connacht and southern Ulster, in particular the counties of Leitrim, Mayo, Sligo, Fermanagh, Longford, and Cavan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Boxty_triangle.jpg/500px-Boxty_triangle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boxty",
+      "recipe": {
+        "ingredients": [
+          "2 pounds potatoes",
+          "1 cup milk",
+          "1 tablespoon butter",
+          "1–2 tablespoons butter, for frying",
+          "1½ cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1 cup buttermilk",
+          "Freshly-ground black pepper"
+        ],
+        "steps": [
+          "Take half of the potatoes and wash, peel, chunk, and boil them.",
+          "Mash the boiled potatoes with milk and 1 tablespoon butter and set them aside.",
+          "Grate the other pound of (raw) potatoes into a strong cloth.",
+          "Squeeze cloth to remove all possible liquid from the raw potatoes.",
+          "Mix together the grated potatoes, the mashed potatoes, baking soda, buttermilk, flour, and black pepper (to taste).",
+          "Stir thoroughly to combine.",
+          "Warm nonstick griddle or skillet over medium heat and melt butter.",
+          "Pour potato cakes on griddle, ¼ cup at a time.",
+          "Fry until edges are soft and cake is bubbling.",
+          "Cook on other side.",
+          "Serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABoxty_(Irish_Potato_Cakes)"
+      }
+    },
+    {
+      "id": "soda-bread",
+      "name": "Soda bread",
+      "videoSearch": "https://www.youtube.com/results?search_query=Soda%20bread%20recipe",
+      "description": "Soda bread is a variety of quick bread in many cuisines which uses sodium bicarbonate (baking soda or bread soda) as a leavening agent instead of yeast. The basic ingredients of soda bread are flour, baking soda, salt, and buttermilk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Ben_W_Bell_Soda_Bread_Farl_05_June_2007.jpg/500px-Ben_W_Bell_Soda_Bread_Farl_05_June_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Soda_bread",
+      "recipe": {
+        "ingredients": [
+          "3 cups all-purpose flour",
+          "1 tablespoon baking powder",
+          "1 teaspoon baking soda",
+          "⅛ cup white sugar",
+          "1 teaspoon salt",
+          "1 egg, lightly beaten",
+          "2 cups buttermilk",
+          "¼ cup butter, melted"
+        ],
+        "steps": [
+          "Preheat oven to 325°F (160°C).",
+          "Grease and flour a 9x5-inch loaf pan.",
+          "Combine flour, baking powder, baking soda, sugar, and salt in a large mixing bowl.",
+          "Blend egg and buttermilk together, and add all at once to the flour mixture.",
+          "Mix until just moistened. Too much mixing will make it tough.",
+          "Stir in butter; pour into prepared pan.",
+          "Bake for 65–70 minutes, or until a toothpick inserted in the bread comes out clean. The loaf should sound hollow if you tap the base.",
+          "Cool on a wire rack.",
+          "Wrap in tea-towel or foil several hours or overnight for best flavor."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AIrish_Soda_Bread"
+      }
+    },
+    {
+      "id": "dublin-coddle",
+      "name": "Dublin coddle",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dublin%20coddle%20recipe",
+      "description": "Coddle (sometimes Dublin coddle; Irish: cadal) is an Irish dish which is often made to use up leftovers. It most commonly consists of layers of roughly sliced pork sausages and rashers (thinly sliced, somewhat-fatty back bacon) with chunky potatoes, sliced onion, salt, pepper, and herbs.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Irish_Coddle.jpg/500px-Irish_Coddle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Coddle",
+      "recipe": {
+        "ingredients": [
+          "550 g sausages",
+          "250 g bacon, chopped into 3 cm pieces",
+          "300 ml chicken stock or water",
+          "6 medium-sized potatoes",
+          "2 medium onions",
+          "Salt",
+          "Pepper"
+        ],
+        "steps": [
+          "Completely submerge bacon, onions, and sausages in broth, then boil for about 5 minutes.",
+          "Add the potatoes, cutting into bite-sized pieces if necessary, then add the rest of the stock.",
+          "Return to the boil and simmer for about 1 hour, or until the potatoes have started to disintegrate, thickening the broth.",
+          "Add salt and pepper to serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACoddle"
+      }
+    },
+    {
+      "id": "champ",
+      "name": "Champ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Champ%20recipe",
+      "description": "Champ is an Irish dish of mashed potatoes with scallions, butter and milk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Champ_%28food%29.JPG/500px-Champ_%28food%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Champ_(food)"
+    },
+    {
+      "id": "barmbrack",
+      "name": "Barmbrack",
+      "videoSearch": "https://www.youtube.com/results?search_query=Barmbrack%20recipe",
+      "description": "Barmbrack (Irish: bairín breac), also often shortened to brack, is a bread with added sultanas and raisins made with yeast or baking powder. The bread is associated with Halloween in Ireland, where an item (often a ring) is placed inside the bread, with the person receiving it considered to be fortunate.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Barmbrack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barmbrack"
+    },
+    {
+      "id": "bacon-and-cabbage",
+      "name": "Bacon and cabbage",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bacon%20and%20cabbage%20recipe",
+      "description": "Bacon and cabbage (Irish: bagún agus cabáiste) is a dish especially associated with Ireland. The dish consists of sliced back bacon boiled with cabbage served with potatoes. Smoked bacon is sometimes used.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Bacon_and_Cabbage_in_Ireland.jpg/500px-Bacon_and_Cabbage_in_Ireland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bacon_and_cabbage"
+    },
+    {
+      "id": "white-pudding",
+      "name": "White pudding",
+      "videoSearch": "https://www.youtube.com/results?search_query=White%20pudding%20recipe",
+      "description": "White pudding, oatmeal pudding or (in Scotland) mealy pudding is a meat dish in Great Britain and Ireland. White pudding is broadly similar to black pudding, but does not include blood.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Irish_black_and_white_pudding_slices.JPG/500px-Irish_black_and_white_pudding_slices.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/White_pudding"
+    },
+    {
+      "id": "drisheen",
+      "name": "Drisheen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Drisheen%20recipe",
+      "description": "Drisheen (Irish: drisín) is a type of blood pudding made in Ireland. It is distinguished from other forms of Irish black pudding by having a gelatinous consistency.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Drisheen.jpg/500px-Drisheen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Drisheen"
+    },
+    {
+      "id": "full-irish-breakfast",
+      "name": "Full Irish breakfast",
+      "videoSearch": "https://www.youtube.com/results?search_query=Full%20Irish%20breakfast%20recipe",
+      "description": "A full breakfast or fry-up is a substantial cooked breakfast meal often made in Great Britain and Ireland. Depending on the region where it is served a full breakfast, or one of its variants, may also be referred to as a full English, full Scottish, full Welsh, full Irish fry up, or Ulster fry.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Full_English_breakfast_%28cropped%29.jpg/500px-Full_English_breakfast_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Full_breakfast"
+    }
+  ]
+}

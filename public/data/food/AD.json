@@ -1,0 +1,46 @@
+{
+  "country": "AD",
+  "dishes": [
+    {
+      "id": "escudella",
+      "name": "Escudella",
+      "localName": "Escudella i carn d'olla",
+      "videoSearch": "https://www.youtube.com/results?search_query=Escudella%20recipe",
+      "description": "Escudella i carn d'olla, or shorter escudella, is a traditional Catalan and Valencian soup made with meat and vegetables. Francesc Eiximenis wrote in the 14th century that it was eaten every day by Catalan people.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Escudella_Catalana_-_Barcelona_%282011%29.JPG/500px-Escudella_Catalana_-_Barcelona_%282011%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Escudella"
+    },
+    {
+      "id": "trinxat",
+      "name": "Trinxat",
+      "videoSearch": "https://www.youtube.com/results?search_query=Trinxat%20recipe",
+      "description": "Trinxat is a food from the Pyrenees, principally Andorra and the Catalan comarques of Cerdanya and Alt Urgell. It is made with potatoes, cabbage and pork meat, and resembles bubble and squeak. The name, meaning “mashed” or “chopped”, is the past participle of the Catalan word trinxar, which means \"to slice\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Trinxat_1.jpg/500px-Trinxat_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Trinxat"
+    },
+    {
+      "id": "coca",
+      "name": "Coca",
+      "videoSearch": "https://www.youtube.com/results?search_query=Coca%20recipe",
+      "description": "The coca, coc or fogassa, is a pastry typically made and consumed in Catalonia, the Aragonese Strip, most of Valencia, the Balearic Islands, Andorra and in French Catalonia. All around the Mediterranean there are similar typical dishes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Coques.JPG/500px-Coques.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Coca_(pastry)"
+    },
+    {
+      "id": "crema-catalana",
+      "name": "Crema catalana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Crema%20catalana%20recipe",
+      "description": "Crema catalana (Catalan for 'Catalan cream'), or crema cremada ('burnt cream'), is a Catalan dessert consisting of a custard topped with a layer of caramelized sugar. It is \"virtually identical\" to the French crème brûlée. It is made from milk, egg yolks, and sugar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Creme_catalane.jpg/500px-Creme_catalane.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Crema_catalana"
+    },
+    {
+      "id": "botifarra",
+      "name": "Botifarra",
+      "videoSearch": "https://www.youtube.com/results?search_query=Botifarra%20recipe",
+      "description": "Botifarra (Catalan: botifarra; Spanish: butifarra; French: boutifarre) is a type of sausage and one of the most important dishes of the Catalan cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Grilled_sausages.jpg/500px-Grilled_sausages.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Botifarra"
+    }
+  ]
+}

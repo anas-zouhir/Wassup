@@ -1,0 +1,55 @@
+{
+  "country": "XK",
+  "dishes": [
+    {
+      "id": "flija",
+      "name": "Flija",
+      "localName": "Fli",
+      "videoSearch": "https://www.youtube.com/results?search_query=Flija%20recipe",
+      "description": "Flia (also flija; Albanian indefinite form: fli) is an Albanian dish typical of northern Albania and of the cuisine of Kosovo. It consists of multiple crêpe-like layers brushed with cream and served with sour cream and butter, or with white cheese and pickled cucumber (an alternative is turshia).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Flia%CC%A0.jpg/500px-Flia%CC%A0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Flia"
+    },
+    {
+      "id": "pite",
+      "name": "Pite",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pite%20recipe",
+      "description": "Börek, also referred to as burek or byrek or burekas, is a family of pastries or pies made in West Asia and Southeast Europe. The pastry is made of a thin flaky dough such as filo with a variety of fillings, such as meat, cheese, spinach, or potatoes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Burek_trokut_1.png/500px-Burek_trokut_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%B6rek"
+    },
+    {
+      "id": "sujuk",
+      "name": "Sujuk",
+      "localName": "Suxhuk",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sujuk%20recipe",
+      "description": "Sujuk, sugou or sucuk (/suːˈd͡ʒʊk/) is a Turkish dry, spicy and fermented sausage which is consumed in several Anatolian, Balkan, Middle Eastern and Central Asian cuisines.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sucuk-1.jpg/500px-Sucuk-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sujuk"
+    },
+    {
+      "id": "bakllava",
+      "name": "Bakllava",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bakllava%20recipe",
+      "description": "Baklava (, or ) is a layered pastry dessert made of filo pastry, filled with chopped nuts, and sweetened with either syrup or honey.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Baklava%281%29.png/500px-Baklava%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baklava"
+    },
+    {
+      "id": "kacamak",
+      "name": "Kaçamak",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ka%C3%A7amak%20recipe",
+      "description": "Kačamak is a kind of maize porridge made in parts of Western Asia and Southeastern Europe. Its name is derived from the Turkish word kaçamak, meaning 'escapade'.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%D0%9A%D0%B0%D1%87%D0%B0%D0%BC%D0%B0%D0%BA_%D1%81%D0%BE_%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D0%BE_%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE_%D0%B8_%D0%BF%D0%B0%D1%80%D1%87%D0%B5_%D1%81%D0%B8%D1%80%D0%B5%D1%9A%D0%B5.jpg/500px-%D0%9A%D0%B0%D1%87%D0%B0%D0%BC%D0%B0%D0%BA_%D1%81%D0%BE_%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D0%BE_%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE_%D0%B8_%D0%BF%D0%B0%D1%80%D1%87%D0%B5_%D1%81%D0%B8%D1%80%D0%B5%D1%9A%D0%B5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ka%C4%8Damak"
+    },
+    {
+      "id": "tave-kosi",
+      "name": "Tavë kosi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tav%C3%AB%20kosi%20recipe",
+      "description": "Tavë kosi (\"yogurt casserole\"), also known as Tavë Elbasani, is a traditional Albanian baked dish consisting of mutton and rice covered with a mixture of yogurt, eggs, butter and flour before being baked in the oven.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Tav%C3%AB_kosi.jpg/500px-Tav%C3%AB_kosi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tav%C3%AB_kosi"
+    }
+  ]
+}

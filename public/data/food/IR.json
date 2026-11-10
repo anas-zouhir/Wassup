@@ -1,0 +1,392 @@
+{
+  "country": "IR",
+  "dishes": [
+    {
+      "id": "chelow-kabab",
+      "name": "Chelow kabab",
+      "localName": "چلوکباب",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chelow%20kabab%20recipe",
+      "description": "Chelow kebab or chelow kabab is an Iranian dish consisting of steamed rice (chelow) and one of the many varieties of Iranian kebab. It is considered the national dish of Iran, and was probably created during the time of the Qajar dynasty.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Kebab_Bakhtyari.jpg/500px-Kebab_Bakhtyari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chelow_kabab"
+    },
+    {
+      "id": "kabab-koobideh",
+      "name": "Kabab koobideh",
+      "localName": "کباب کوبیده",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kabab%20koobideh%20recipe",
+      "description": "Kabāb koobideh is an Iranian kabāb made from ground lamb, often mixed with salt, ground black pepper and grated onions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Kabab_koobideh_bbq_persian_food.jpg/500px-Kabab_koobideh_bbq_persian_food.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kabab_koobideh"
+    },
+    {
+      "id": "kabab-barg",
+      "name": "Kabab barg",
+      "localName": "کباب برگ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kabab%20barg%20recipe",
+      "description": "Kabāb-e Barg (Persian: کباب برگ, Kabāb-e Barg; lit. 'Leaf Kebab') is a Persian style barbecued and marinated lamb, chicken or beef kabab dish. The main ingredients of Kabab-e Barg are beef tenderloin, lamb sirloin, or less commonly chicken breast, along with onions and olive oil.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Kababi_alborz2.jpg/500px-Kababi_alborz2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kabab_barg",
+      "recipe": {
+        "ingredients": [
+          "Olive oil",
+          "3 onions",
+          "Garlic",
+          "½ teaspoon saffron",
+          "Salt",
+          "Black pepper",
+          "1 kg lamb, cut into 1 x 5 cm pieces"
+        ],
+        "steps": [
+          "Combine the olive oil, onions, garlic, saffron, salt, and pepper to make the marinade.",
+          "Toss the lamb pieces with the marinade. Cover, and marinate overnight in the refrigerator.",
+          "Thread the lamb onto metal skewers.",
+          "Brush the lamb with the marinade. Grill for 5–10 minutes on each side over an open fire."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKabab_Barg_(Persian_Grilled_Meat)"
+      }
+    },
+    {
+      "id": "joojeh-kabab",
+      "name": "Joojeh kabab",
+      "localName": "جوجه‌کباب",
+      "videoSearch": "https://www.youtube.com/results?search_query=Joojeh%20kabab%20recipe",
+      "description": "Jujeh kabab (Persian: جوجه‌ کباب) is a Persian dish that consists of grilled chunks of chicken which are sometimes with bone and other times without bone. It is one of the most common and popular dishes of Iran. It is common to marinate the chunks in minced onion, lemon juice and saffron.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Isfahan_1220532_nevit.jpg/500px-Isfahan_1220532_nevit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jujeh_kabab"
+    },
+    {
+      "id": "ghormeh-sabzi",
+      "name": "Ghormeh sabzi",
+      "localName": "قورمه‌سبزی",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ghormeh%20sabzi%20recipe",
+      "description": "Ghormeh sabzi (Persian: قرمه سبزی, lit. 'Preserved Meat in Fat with Leaf vegetable') or Khoresht Sabzi (Persian: خورشت سبزی ) is a traditional Persian herbal stew. It is considered the national dish of Iran and is a very commonly served dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Ghormeh_Sabzi.JPG/500px-Ghormeh_Sabzi.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ghormeh_sabzi",
+      "recipe": {
+        "ingredients": [
+          "200 g red beans",
+          "2 onions, finely chopped",
+          "800 g beef or lamb which has some fat (such as the meat for boiled beef)",
+          "1 tablespoon oil",
+          "1 bunch parsley, finely chopped",
+          "1 bunch spinach, finely chopped",
+          "1 bunch coriander leaves, finely chopped",
+          "1 can (about 400 g) fried ghormeh sabzi herbs",
+          "8 dried limes",
+          "1 teaspoon turmeric",
+          "Salt",
+          "Pepper",
+          "800 g rice",
+          "Saffron",
+          "Sugar (optional)"
+        ],
+        "steps": [
+          "Boil the red beans for 1 hour.",
+          "Remove unnecessary fat from the meat, and cut the meat into smaller pieces.",
+          "Heat a bit of normal olive oil in a big pot with lid. Add the onions, and fry at high temperature for 1–2 minutes.",
+          "Stir in the meat, and cook for another 1–2 minutes.",
+          "Reduce the heat to the lowest level. The meat will release a significant amount of juice which will contribute to the flavor of the stew.",
+          "Stir in the parsley, spinach, coriander leaves, and ghormeh sabzi herbs.",
+          "Stir in boiling water (about 0.5 L or until the consistency is right).",
+          "Stir in the cooked, drained beans. Simmer for about ½–3 hours over low heat. The longer the better.",
+          "Soak the dried limes in hot water for 15 minutes, and puncture each of them with a fork.",
+          "Add the dried limes, turmeric, pepper, and salt to the stew. Simmer for another ½–1 hour.",
+          "If desired, for the best taste, let the stew cool down and store it in a fridge. The taste is better over the next two days.",
+          "Steam the rice.",
+          "Grind the saffron and sugar together in a mortar. Add about 1 tablespoon boiling water. Toss some of the cooked rice with the saffron water to color it.",
+          "Serve the stew hot in its own bowl. Serve the plain rice in a separate bowl, topped with the saffron rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGhormeh_Sabzi_(Iranian_Herb_Stew)"
+      }
+    },
+    {
+      "id": "fesenjan",
+      "name": "Fesenjan",
+      "localName": "فسنجان",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fesenjan%20recipe",
+      "description": "Fesenjān (Persian: فسنجان; also called fesenjoon in Tehrani dialect) is a sweet and sour Iranian stew (a khoresh). The roots of this Persian delicacy trace back to the Sassanid Persia's golden age. It is typically served over rice in the Iranian manner.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Khoresht-e_fesenjan.jpg/500px-Khoresht-e_fesenjan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fesenj%C4%81n"
+    },
+    {
+      "id": "gheymeh",
+      "name": "Gheymeh",
+      "localName": "قیمه",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gheymeh%20recipe",
+      "description": "Gheimeh, also spelled as gheymeh, or qeimeh (Persian: قیمه) is an Iranian stew (khoresh) consisting of diced mutton, tomatoes, split peas, onion, and dried lime, garnished with golden, thinly sliced crispy potatoes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Gheymeh_stew.jpg/500px-Gheymeh_stew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gheimeh"
+    },
+    {
+      "id": "khoresh-bademjan",
+      "name": "Khoresh bademjan",
+      "localName": "خورش بادمجان",
+      "videoSearch": "https://www.youtube.com/results?search_query=Khoresh%20bademjan%20recipe",
+      "description": "Khoresh bademjan (Persian: خورش بادمجان, romanized: xoreš bâdemjân), also spelled khoresh bademjoon or khoresh-e bademjan, is a Persian stew (khoresh) made principally of eggplant and tomato, usually with lamb and a souring agent, and served over steamed Persian rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Eggplant_stew_persian.jpg/500px-Eggplant_stew_persian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Khoresh_bademjan"
+    },
+    {
+      "id": "khoresh-bamieh",
+      "name": "Khoresh bamieh",
+      "localName": "خورش بامیه",
+      "videoSearch": "https://www.youtube.com/results?search_query=Khoresh%20bamieh%20recipe",
+      "description": "There is a variety of okra stews made in Middle Eastern, Balkan, North African, East African, Persian, and Central Asian cuisines and served as main courses. Besides okra, they often include lamb, olive oil, and tomatoes. There are also meatless variants (cf.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bamia-Ocras_tomate_%28cropped%29.JPG/500px-Bamia-Ocras_tomate_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Okra_stew",
+      "recipe": {
+        "ingredients": [
+          "3–4 onions, peeled and thinly sliced",
+          "Cooking oil",
+          "500 grams stewing lamb or beef, cut into small pieces",
+          "750 grams okra, washed with stems trimmed",
+          "Salt",
+          "Black pepper",
+          "3–4 spoons tomato paste",
+          "2–3 spoons fresh lime juice"
+        ],
+        "steps": [
+          "Fry the sliced onion in oil until slightly golden.",
+          "Add the meat and fry with the onions until the color changes.",
+          "Add 3 glasses of hot water and bring to boil. Turn heat down and let boil slowly for about 45 minutes, adding more hot water during cooking if needed.",
+          "Add okra, salt, pepper, and tomato paste to the meat. Cook for another 10–15 minutes. Take care not to overcook the okras so that they do not become slippery.",
+          "Add lime juice and adjust seasoning. Cook for another 3–4 minutes.",
+          "Serve with white rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALamb_and_Okra_Stew_(Khoresht_Bamiye)"
+      }
+    },
+    {
+      "id": "tahdig",
+      "name": "Tahdig",
+      "localName": "ته‌دیگ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tahdig%20recipe",
+      "description": "Scorched rice, also known as crunchy rice or tahdig, is a thin crust of slightly browned rice that forms at the bottom of a pot while the rice is cooking.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Persianmom%27s_mother%27s_%28persiangrandma%29_perfect_tahdig_rice.png/500px-Persianmom%27s_mother%27s_%28persiangrandma%29_perfect_tahdig_rice.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Scorched_rice",
+      "recipe": {
+        "ingredients": [
+          "2 medium size potatoes",
+          "2 cups uncooked basmati rice",
+          "⅓ cup vegetable oil",
+          "Salt (as desired)",
+          "Water"
+        ],
+        "steps": [
+          "Peel and slice the raw potatoes into ½ inch thick slices.",
+          "Rinse and drain rice. Bring 4–5 cups of water to a boil in a 3-quart pot, adding salt if desired. Add rice, and continue to boil the water, stirring occasionally, for about 10 minutes. Check to be sure that the rice doesn't cook completely at this point.",
+          "When rice is roughly half cooked, drain into a colander.",
+          "Pour ¼ cup of cooking oil into the pot and lay the potato slices in the bottom close together in a single layer. Add a small amount of salt (if desired). Layer the half-cooked, drained rice loosely atop the potatoes.",
+          "Place pot on stove over medium high heat for 4–5 minutes or until rice begins to steam.",
+          "Lower heat and add 5 tbsp water and 2–3 tbsp oil on top of rice. Cover and let simmer for about ½ hour or until cooked and tender. The higher the heat, the crunchier the tahdig.",
+          "Scoop out the rice and use a soft spatula to remove tahdig at bottom, or try to make the contents of the pot come out as an entire cake of rice on the serving dish."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATahdiq_(Crisped_Persian_Rice)"
+      }
+    },
+    {
+      "id": "zereshk-polo",
+      "name": "Zereshk polo",
+      "localName": "زرشک‌پلو",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zereshk%20polo%20recipe",
+      "description": "Zereshk polo (Persian: زرشک‌پلو, lit. 'barberry rice') is an Iranian rice dish featuring basmati rice layered or topped with tart red barberries (zereshk), and often served with saffron-infused chicken (morgh), or other meats.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zereshk_polo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zereshk_polo",
+      "recipe": {
+        "ingredients": [
+          "1 package of dried barberries",
+          "Vegetable oil",
+          "1 onion, chopped",
+          "1 tsp sugar",
+          "2 cups basmati rice",
+          "Cooked, diced chicken",
+          "1 dash of salt",
+          "A few threads of saffron"
+        ],
+        "steps": [
+          "Soak dried barberries in water for 20–30 minutes. Strain to remove any stones.",
+          "Sauté the chopped onion in a frying pan with a dash of oil. Mix in the barberries, and cook over low heat.",
+          "Cook chicken on top of rice in a rice cooker.",
+          "When rice is done, fluff and put in a large bowl.",
+          "Grind saffron with mortar and pestle. Mix in 1 teaspoon of water, then stir in some of the cooked rice.",
+          "Return the saffron rice to the main dish, and add the onion mixture.",
+          "Toss rice to mix well with other ingredients.",
+          "Serve with lavash or barbari bread."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AZereshk_Palau_(Iranian_Rice_with_Barberries)_I"
+      }
+    },
+    {
+      "id": "sabzi-polo",
+      "name": "Sabzi polo",
+      "localName": "سبزی‌پلو",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sabzi%20polo%20recipe",
+      "description": "Sabzi polo (Persian: سبزی پلو) is a Persian dish of rice and chopped herbs, usually served with fish. In Persian, sabzi refers to herbs or vegetables (sabz means \"green\"); polo is pilaf, a traditional Persian style of cooked rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Sabzi_polo.jpg/500px-Sabzi_polo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sabzi_polo"
+    },
+    {
+      "id": "baghali-polo",
+      "name": "Baghali polo",
+      "localName": "باقالی‌پلو",
+      "videoSearch": "https://www.youtube.com/results?search_query=Baghali%20polo%20recipe",
+      "description": "Baghali polo (Persian: باقلا پلو); is an Iranian dish of rice, fava beans and dill. In Persian, baghali means fava bean, while polo is pilaf, a style of cooked rice. It is made by cooking rice and green broad beans in boiling water.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Baghala_polo.jpg/500px-Baghala_polo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baghali_polo"
+    },
+    {
+      "id": "tahchin",
+      "name": "Tahchin",
+      "localName": "ته‌چین",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tahchin%20recipe",
+      "description": "Tahchin or tahcheen (Persian: ته‌چین) is an Iranian rice dish primarily consisting of rice, yogurt, eggs, saffron, and various types of meat. Tahchin translates from Persian as \"arranged on the bottom\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tachin.jpg/500px-Tachin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tahchin"
+    },
+    {
+      "id": "ash-reshteh",
+      "name": "Ash reshteh",
+      "localName": "آش رشته",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ash%20reshteh%20recipe",
+      "description": "Aush reshteh or ash-e-reshteh (Persian: آش رشته) is a type of āsh (Iranian thick soup) featuring reshteh (thin noodles), kidney beans, chickpeas, lentils, herbs, and kashk (a sour dairy product made from cooked or dried yogurt), commonly made in Iran. Hot fried garlic, onion, or mint are used as garnishes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Ash_Reshteh.JPG/500px-Ash_Reshteh.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Aush_reshteh"
+    },
+    {
+      "id": "dizi",
+      "name": "Dizi",
+      "localName": "دیزی",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dizi%20recipe",
+      "description": "Abgoosht or abgusht is an Iranian stew. It is also called dizi, which refers to the traditional stoneware crocks it is served in.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Dizi.jpg/500px-Dizi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Abgoosht"
+    },
+    {
+      "id": "kalle-pache",
+      "name": "Kalle pache",
+      "localName": "کله‌پاچه",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kalle%20pache%20recipe",
+      "description": "Khash (Armenian: խաշ) is a traditional dish made from a boiled cow or sheep parts, which might include the head, feet, and stomach (tripe). It originates from Armenia and is considered one of the oldest Armenian dishes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Khash.jpg/500px-Khash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Khash_(dish)"
+    },
+    {
+      "id": "haleem",
+      "name": "Haleem",
+      "localName": "حلیم",
+      "videoSearch": "https://www.youtube.com/results?search_query=Haleem%20recipe",
+      "description": "Haleem or halim is a type of stew that is widely consumed in West Asia, Central Asia and South Asia. Although the dish varies from region to region, it optionally includes wheat or barley, dal, meat, and spices. It is made by slow cooking the meat in barley.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Pakistani_Haleem_served_with_garnish.jpg/500px-Pakistani_Haleem_served_with_garnish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Haleem"
+    },
+    {
+      "id": "kuku-sabzi",
+      "name": "Kuku sabzi",
+      "localName": "کوکو سبزی",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kuku%20sabzi%20recipe",
+      "description": "Kuku or kookoo (Persian: کوکو) is an Iranian dish made of whipped eggs with various ingredients folded in.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Kuku_Sabzi_%28Iranian_food%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kuku_(food)"
+    },
+    {
+      "id": "mirza-ghasemi",
+      "name": "Mirza ghasemi",
+      "localName": "میرزاقاسمی",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mirza%20ghasemi%20recipe",
+      "description": "Mirza ghassemi (Persian: میرزا قاسمی; alternative spelling: mirza qassemi) is an Iranian dish from Gilan, appetizer or main course based on tandoori or grilled aubergine (eggplant), distinct to the Northern Iran and Caspian Sea region (specifically Gilan province).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Mirza-Qasemi_dish.jpg/500px-Mirza-Qasemi_dish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mirza_ghassemi"
+    },
+    {
+      "id": "kashk-e-bademjan",
+      "name": "Kashk-e bademjan",
+      "localName": "کشک بادمجان",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kashk-e%20bademjan%20recipe",
+      "description": "Kashk bademjan (Persian: کشک بادمجان), alternatively kashk-e bademjan or Kashk-o bademjan (Persian: کشک و بادمجان), is a staple Iranian dish made with \"kashk and eggplant\" – also the literal translation of its Persian language name.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Kashk_e_Baademjaan.jpg/500px-Kashk_e_Baademjaan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kashk_bademjan"
+    },
+    {
+      "id": "shirazi-salad",
+      "name": "Shirazi salad",
+      "localName": "سالاد شیرازی",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shirazi%20salad%20recipe",
+      "description": "Shirazi salad (Persian: سالاد شیرازی sālād shirāzi) is a Persian salad that originated from and is named after Shiraz in southern Iran. It is a relatively modern dish, dating to sometime after the introduction of the tomato to Iran at the end of the nineteenth century in the Qajar era.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/%D8%B3%D8%A7%D9%84%D8%A7%D8%AF_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2%DB%8C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shirazi_salad"
+    },
+    {
+      "id": "sangak",
+      "name": "Sangak",
+      "localName": "سنگک",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sangak%20recipe",
+      "description": "Sangak (Persian: سَنگَگ) or Nân-e Sangak (Persian: نانِ سَنگَگ) is a triangular traditional Iranian whole wheat leavened flatbread.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Sangak_05.jpg/500px-Sangak_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sangak"
+    },
+    {
+      "id": "barbari",
+      "name": "Barbari bread",
+      "localName": "نان بربری",
+      "videoSearch": "https://www.youtube.com/results?search_query=Barbari%20bread%20recipe",
+      "description": "Barbari bread (Persian: نان بربری, romanized: nân-e barbari) is a type of Iranian yeast leavened flatbread. It is one of the thickest flat breads and is commonly topped with sesame or black caraway seeds.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Nun_Barbar%C3%AD_fatto_con_farina_di_grano_del_Senatore_Cappelli.jpg/500px-Nun_Barbar%C3%AD_fatto_con_farina_di_grano_del_Senatore_Cappelli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbari_bread"
+    },
+    {
+      "id": "sholeh-zard",
+      "name": "Sholeh zard",
+      "localName": "شله‌زرد",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sholeh%20zard%20recipe",
+      "description": "Sholezard (Persian: شله‌زرد; also known as zard birinj or zard berenj (Persian: زردبرنج) or zarda) is a rice pudding composed of saffron, sugar, rose water, butter, cinnamon and cardamom. It is often made and distributed in substantial quantities in religious ceremonies.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sholezard_for_Nowruz.jpg/500px-Sholezard_for_Nowruz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sholezard"
+    },
+    {
+      "id": "faloodeh",
+      "name": "Faloodeh",
+      "localName": "فالوده",
+      "videoSearch": "https://www.youtube.com/results?search_query=Faloodeh%20recipe",
+      "description": "Faloodeh, or paloodeh, is a traditional Iranian cold dessert similar to a sorbet. It consists of thin vermicelli-sized noodles made from starch in a semi-frozen syrup containing sugar and rose water. Faloodeh is often served with lime juice and sometimes ground pistachios.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Faloodeh1.jpg/500px-Faloodeh1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Faloodeh"
+    },
+    {
+      "id": "bastani",
+      "name": "Bastani sonnati",
+      "localName": "بستنی سنتی",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bastani%20sonnati%20recipe",
+      "description": "Bastani (Persian: بستنی), locally known as bastani sonnati (Persian: بستنی سنتی \"traditional ice cream\") or bastani sonnati zaferani (Persian: بستنی سنتی زعفرانی \"traditional saffron ice cream\"), is an Iranian ice cream made from milk, yolk, sugar, rose water, saffron, vanilla, and pistachios.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Gilak%2C_Archway%2C_London_%285241860049%29.jpg/500px-Gilak%2C_Archway%2C_London_%285241860049%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bastani"
+    },
+    {
+      "id": "gaz",
+      "name": "Gaz",
+      "localName": "گز",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gaz%20recipe",
+      "description": "Gaz (Persian: گز) is an Iranian nougat that originated in the Isfahan region. It is widely known as Persian Nougat in American and European countries. It is made from egg whites, sugar, pistachios and/or almonds, rosewater, and (traditionally) psyllid honeydew collected from Persian manna.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Gaz_Candy_From_Iran.jpg/500px-Gaz_Candy_From_Iran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gaz_(candy)"
+    },
+    {
+      "id": "sohan",
+      "name": "Sohan",
+      "localName": "سوهان",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sohan%20recipe",
+      "description": "Sohan (Persian: سوهان, romanized: Sôhân) is a traditional Persian saffron brittle toffee made in Iran. Its ingredients consist of wheat sprout, flour, egg yolks, rose water, sugar, butter or vegetable oil, saffron, cardamom, and slivers of almond and pistachio.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%D8%B3%D9%88%D9%87%D8%A7%D9%86_%D8%B3%D9%88%D8%BA%D8%A7%D8%AA_%D8%B4%D9%87%D8%B1_%D9%82%D9%85_04.jpg/500px-%D8%B3%D9%88%D9%87%D8%A7%D9%86_%D8%B3%D9%88%D8%BA%D8%A7%D8%AA_%D8%B4%D9%87%D8%B1_%D9%82%D9%85_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sohan_(confectionery)"
+    },
+    {
+      "id": "doogh",
+      "name": "Doogh",
+      "localName": "دوغ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Doogh%20recipe",
+      "description": "Doogh (Persian: دوغ) is a cold and savoury Persian drink. It is made with fermented milk. Unlike ayran, a yoghurt drink of Turkish origin, doogh is not diluted yogurt.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%D0%A2%D0%90%D0%9D_%28%D0%BD%D0%B0%D0%BF%D0%B8%D1%82%D0%BE%D0%BA%29.jpg/500px-%D0%A2%D0%90%D0%9D_%28%D0%BD%D0%B0%D0%BF%D0%B8%D1%82%D0%BE%D0%BA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Doogh"
+    }
+  ]
+}

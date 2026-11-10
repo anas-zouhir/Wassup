@@ -1,0 +1,259 @@
+{
+  "country": "SN",
+  "dishes": [
+    {
+      "id": "thieboudienne",
+      "name": "Thieboudienne",
+      "localName": "Ceebu jën",
+      "videoSearch": "https://www.youtube.com/results?search_query=Thieboudienne%20recipe",
+      "description": "Ceebu or tiep (alternatively thieb, benechin, benachin, or jollof rice) is a traditional dish from Senegal that is also consumed in Mauritania, Guinea-Bissau, Guinea, Mali, The Gambia, and other West and Central African countries. It is the national dish in Senegal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Thieboudienne.JPG/500px-Thieboudienne.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thieboudienne"
+    },
+    {
+      "id": "yassa",
+      "name": "Yassa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Yassa%20recipe",
+      "description": "Yassa is a spicy dish prepared with onions, lemon or mustard and marinated poultry, fish, or lamb. Originally from Senegal, it has become popular throughout West Africa. Other names for chicken yassa include yassa au poulet (in French) and yassa ganaar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Poulet_Yassa_Chicken_rice_with_onion_sauce.jpg/500px-Poulet_Yassa_Chicken_rice_with_onion_sauce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Yassa_(food)",
+      "recipe": {
+        "ingredients": [
+          "6 chicken thighs",
+          "3 large onions, thinly sliced",
+          "4 garlic cloves, neatly minced",
+          "3 tablespoons dijon mustard",
+          "2 cups chicken broth",
+          "½ cup lemon juice",
+          "2 teaspoons smoked paprika",
+          "1 teaspoon cayenne pepper",
+          "2 teaspoons bouillon powder",
+          "1 teaspoon salt or to taste",
+          "4 tablespoons olive oil"
+        ],
+        "steps": [
+          "Wash the chicken and pat it dry with paper towels.",
+          "Put the chicken in a large bowl with the garlic, onions, dijon mustard, lemon juice, salt, bouillon powder, cayenne pepper and smoked paprika. Mix together well and place in the fridge to marinate for 2–12 hours.",
+          "Take the chicken out of the marinade, and scrape off the marinade and the onions. Reserve the marinade.",
+          "Heat the olive oil in the large Dutch oven over medium heat, and add the chicken. Let it brown on both sides for 5 minutes. Take out and set aside the chicken.",
+          "To the pot, add the onions and remaining marinade. Cook on medium heat for 5 minutes until browned.",
+          "Return the browned chicken pieces to the sweet caramelized onions.",
+          "Add the chicken broth, and simmer for 20 minutes over medium heat until the chicken is fully cooked.",
+          "Taste for salt and other ingredients and make any necessary adjustments."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AYassa_Poulet_(Senegalese_Chicken)"
+      }
+    },
+    {
+      "id": "mafe",
+      "name": "Mafé",
+      "videoSearch": "https://www.youtube.com/results?search_query=Maf%C3%A9%20recipe",
+      "description": "Peanut stew or groundnut stew, also known as maafe (Wolof mafé, maffé, maffe), and pate d'arachide (French), is a staple food stew in Western Africa.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mafe.malien.jpg/500px-Mafe.malien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peanut_stew",
+      "recipe": {
+        "ingredients": [
+          "2 tablespoons vegetable oil",
+          "1 pound beef or chicken, cut into cubes",
+          "1 large onion, finely chopped",
+          "3 garlic cloves, minced",
+          "1 cup smooth peanut butter",
+          "1 teaspoon ground cumin",
+          "1 teaspoon paprika",
+          "1 teaspoon chile powder (adjust to your preferred level of spiciness)",
+          "Salt to taste",
+          "Pepper to taste",
+          "1 can (14 ounces) diced tomatoes",
+          "4 cups beef or chicken broth",
+          "2 carrots, diced",
+          "2 potatoes, diced",
+          "1 bell pepper (any color of your choice), diced",
+          "1 cup sliced okra",
+          "1 cup chopped leafy greens (such as spinach or kale)",
+          "Fresh cilantro or parsley, chopped (for garnish)"
+        ],
+        "steps": [
+          "Heat the vegetable oil in a large pot or Dutch oven over medium-high heat. Add the beef or chicken cubes and cook until browned on all sides. Remove the meat from the pot and set it aside.",
+          "In the same pot, add the chopped onions and minced garlic. Sauté until the onions become translucent and the garlic is fragrant.",
+          "Reduce the heat to low and add the peanut butter to the pot. Stir constantly until the peanut butter melts and combines with the onions and garlic.",
+          "Add the ground cumin, paprika, chili powder, salt, and pepper to the pot. Stir well to incorporate the spices into the peanut sauce. Then add the diced tomatoes, including their juices, and mix everything together",
+          "Gradually pour the beef or chicken broth into the pot, stirring continuously to create a smooth sauce. Return the seared meat to the pot and stir to coat it with the sauce.",
+          "Cover the pot with a lid and let the stew simmer over low heat for about 30 minutes, allowing the flavors to meld together and the meat to become tender.",
+          "After 30 minutes, add the diced carrots, potatoes, bell pepper, okra, and chopped leafy greens to the pot. Stir well, ensuring that all the vegetables are submerged in the sauce.",
+          "Cover the pot again and let the stew simmer for an additional 15–20 minutes, or until the vegetables are cooked to your desired tenderness.",
+          "Remove the pot from heat and let it sit for a few minutes. This allows the stew to thicken slightly. Serve hot, garnished with fresh cilantro or parsley."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMaff%C3%A9_(West_African_Peanut_Stew)_I"
+      }
+    },
+    {
+      "id": "thiebou-yapp",
+      "name": "Thiebou yapp",
+      "videoSearch": "https://www.youtube.com/results?search_query=Thiebou%20yapp%20recipe",
+      "recipe": {
+        "ingredients": [
+          "Bunch of garlic cloves",
+          "Salt",
+          "Pepper",
+          "2 small green peppers",
+          "6 cubes of bouillon",
+          "1 kilo of meat",
+          "1 kilo onions",
+          "1 small head of cabbage",
+          "250g carrots",
+          "250g turnip",
+          "3 hot peppers",
+          "¼ cup mustard",
+          "1 splash vinegar",
+          "1 splash lemon juice",
+          "1 liter vegetable oil",
+          "3 kilos white rice",
+          "1 ½ cups vermicelli",
+          "Parsley and or celery leaves",
+          "Tomato slices"
+        ],
+        "steps": [
+          "Cut the meat into smaller sizes, put oil in a pot and boil at medium heat.",
+          "Add Garlic, salt, pepper and hot pepper, cover and allow cook.",
+          "Add 1 liter of water, add rice according to the quantity you want.",
+          "Add salt and seasoning cube, cover and allow to cook for 2 minutes.",
+          "Wash the vegetables and add pepper, hot pepper, lemon juice. pour half cup of water and mix well allow to cook for 10 minutes and leave to heat.",
+          "Slice tomatoes, mix with vinegar in a small bowl, (you can add ketchup if you want).",
+          "Add sliced meat into the pot of rice and allow to cook for 5 minutes.",
+          "And your food is ready."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AThiebou_Yapp"
+      }
+    },
+    {
+      "id": "thiebou-diola",
+      "name": "Thiebou diola",
+      "videoSearch": "https://www.youtube.com/results?search_query=Thiebou%20diola%20recipe",
+      "description": "Thiebou Diola (\"C'est Bon\") (also spelled Ceebu Diola) is a traditional rice-based dish from the Diola (Jola) ethnic group in the Casamance region of southern Senegal. It is a lesser-known variant of the more widely known Thieboudienne, but with unique ingredients and flavours specific to the Diola culinary tradition.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thiebou_Diola"
+    },
+    {
+      "id": "thiakry",
+      "name": "Thiakry",
+      "videoSearch": "https://www.youtube.com/results?search_query=Thiakry%20recipe",
+      "description": "Thiakry (also spelled thiacry or chakery, from Wolof: cakri), bodé in Fulani or dèguè in Bambara is a sweet millet couscous dish consumed in West Africa. Its first recipe dates from the era of the Fulani people in present day northern Senegal who are traditionally herdsmen, and spread throughout West Africa.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Gambia_Chakery_0001.jpg/500px-Gambia_Chakery_0001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chakery"
+    },
+    {
+      "id": "lakh",
+      "name": "Lakh",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lakh%20recipe",
+      "description": "Rolled flour porridge (Bambara: fini môni; in Guinea, yefouré, m'boyri) is a family of porridges in West African cuisine and South Sudanese cuisine made by boiling rolled flour - comparable to couscous - to produce a starchy porridge with boiled flour granules.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rolled_flour_porridge"
+    },
+    {
+      "id": "bissap",
+      "name": "Bissap",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bissap%20recipe",
+      "description": "Hibiscus tea (served hot), or roselle juice (served cold), is an infusion made from the crimson or deep magenta-colored sepals or calyces of the roselle flower (Hibiscus sabdariffa). It is consumed both hot and cold and has a tart, strong cranberry-like flavor.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Hibiscus_tea.jpg/500px-Hibiscus_tea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hibiscus_tea"
+    },
+    {
+      "id": "dibi",
+      "name": "Dibi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dibi%20recipe",
+      "description": "Dibi is a Senegalese dish consisting of fire-grilled meat (usually lamb) that has been seasoned and cut into pieces. Dibi is typically served with grilled or raw onions, mustard, and bread. Eateries that serve dibi are called \"dibiteries.\" Dibi is commonly served by street vendors in Mali and Senegal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Dibi_accompagn%C3%A9_de_salades_et_frites.jpg/500px-Dibi_accompagn%C3%A9_de_salades_et_frites.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dibi_(food)",
+      "recipe": {
+        "ingredients": [
+          "¼ cup vegetable oil",
+          "4 cloves garlic, minced",
+          "1 onion, chopped",
+          "2 tablespoons Dijon mustard",
+          "1 tablespoon paprika",
+          "1 tablespoon ground coriander",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground turmeric",
+          "1 teaspoon ground ginger",
+          "1 teaspoon thyme (or the equivalent amount of dried thyme)",
+          "¼ cup white vinegar or lemon juice",
+          "¼ cup water (or more if needed)",
+          "1½ pounds (about 700 g) lamb or goat meat, cut into large chunks or small pieces for skewering",
+          "Chopped onions (optional)",
+          "Tomatoes (optional)",
+          "Hot pepper sauce (optional)",
+          "French fries or bread (optional)"
+        ],
+        "steps": [
+          "In a bowl, combine the vegetable oil, garlic, onion, mustard, paprika, coriander, cumin, turmeric, ginger, thyme, salt, and pepper. Mix well.",
+          "Add the vinegar or lemon juice and water to form a slightly thick marinade.",
+          "Taste and adjust seasoning as needed.",
+          "Place the chunks of lamb or goat meat into a large bowl or resealable bag.",
+          "Pour the marinade over the meat and toss to ensure all pieces are well-coated.",
+          "Let the meat marinate in the fridge for at least 2 hours (or overnight for better flavor).",
+          "Preheat a grill or barbecue to medium-high heat.",
+          "If using skewers, thread the marinated meat onto the skewers.",
+          "Grill the meat, turning occasionally, for about 10–15 minutes, or until cooked to your desired level of doneness. For extra flavor, baste the meat with some of the leftover marinade while grilling.",
+          "Remove the meat from the grill and let it rest for a few minutes before serving.",
+          "Optionally, serve the dibi with chopped onions, tomatoes, and a hot pepper sauce on the side. You can serve it with French fries or bread to complete the meal."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ADibi_(Senegalese_Grilled_Meat)"
+      }
+    },
+    {
+      "id": "caldou",
+      "name": "Caldou",
+      "videoSearch": "https://www.youtube.com/results?search_query=Caldou%20recipe",
+      "description": "Caldou, also spelled kaldou, is a traditional dish from Senegal, particularly associated with the coastal regions. It is a broth-based meal primarily prepared with fresh fish and vegetables.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Caldou%2C_a_Senegalese_culinary_specialty.jpg/500px-Caldou%2C_a_Senegalese_culinary_specialty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Caldou"
+    },
+    {
+      "id": "soupou-kandja",
+      "name": "Soupou kandja",
+      "videoSearch": "https://www.youtube.com/results?search_query=Soupou%20kandja%20recipe",
+      "description": "Soup kandia (also soupe kandja or kandia soup) is a traditional West African soup widely consumed in countries such as Côte d'Ivoire, Guinea, Senegal, and Mali. It is especially popular among Mandinka, Wolof, and Dioula communities.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Soupou_Kandja_preparation.jpg/500px-Soupou_Kandja_preparation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Soupe_kandia"
+    },
+    {
+      "id": "thiere",
+      "name": "Thiéré",
+      "videoSearch": "https://www.youtube.com/results?search_query=Thi%C3%A9r%C3%A9%20recipe",
+      "description": "Thiere or thiéré is a millet-based couscous and an important staple food in Senegal, The Gambia and Mauritania. Thiere is very versatile and can be eaten with fermented milk or cream and sugar as a breakfast cereal or prepared just as a standard couscous.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Thiere_Senegalese_couscous_with_lamb.jpg/500px-Thiere_Senegalese_couscous_with_lamb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thiere"
+    },
+    {
+      "id": "sombi",
+      "name": "Sombi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sombi%20recipe",
+      "description": "Sombi is a traditional West African dish, popular in Senegal. It is made from rice and coconut milk and served as a creamy, slightly sweet porridge or dessert.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sombi",
+      "recipe": {
+        "ingredients": [
+          "4 cups coconut milk",
+          "1 cup unsweetened shredded coconut (fresh or dried)",
+          "½ cup packed light or dark brown sugar",
+          "½ teaspoon kosher salt",
+          "1 vanilla bean (seeds scraped and reserved)",
+          "2 cups cooked white rice",
+          "2 tablespoons fresh lime juice"
+        ],
+        "steps": [
+          "1. In a medium saucepan over medium heat, combine the coconut milk, shredded coconut, brown sugar, salt, and vanilla bean seeds. Bring the mixture to a gentle boil, stirring frequently. Cook for about 5 minutes, or until slightly reduced.",
+          "2.Add the cooked white rice and continue to stir. Cook for another 5 minutes, or until the rice begins to break down and the mixture thickens into a porridge-like consistency.",
+          "3.Remove the saucepan from heat and stir in the fresh lime juice.",
+          "4.Serve hot as a warm, mildly sweet dessert or breakfast porridge."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASombi"
+      }
+    },
+    {
+      "id": "cafe-touba",
+      "name": "Café Touba",
+      "videoSearch": "https://www.youtube.com/results?search_query=Caf%C3%A9%20Touba%20recipe",
+      "description": "Café Touba is a coffee beverage that is a popular traditional drink from Senegal that is (more recently) also consumed in Guinea-Bissau, and is named for the city of Touba, Senegal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Caf%C3%A9_Touba._Pouring.jpg/500px-Caf%C3%A9_Touba._Pouring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Caf%C3%A9_Touba"
+    }
+  ]
+}

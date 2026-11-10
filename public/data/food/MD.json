@@ -1,0 +1,53 @@
+{
+  "country": "MD",
+  "dishes": [
+    {
+      "id": "mamaliga",
+      "name": "Mămăligă",
+      "videoSearch": "https://www.youtube.com/results?search_query=M%C4%83m%C4%83lig%C4%83%20recipe",
+      "description": "Mămăligă is a dish made out of yellow maize flour, traditional in Romania, Moldova, Hungary (puliszka, mamaliga or málé), and Ukraine (kulesha or mamałyga). On the Balkan Peninsula, the dish is known as kačamak. It is similar to Georgian ghomi (alternatively called mamaliga) and Italian polenta.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mamaliga.jpg/500px-Mamaliga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/M%C4%83m%C4%83lig%C4%83"
+    },
+    {
+      "id": "placinta",
+      "name": "Plăcintă",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pl%C4%83cint%C4%83%20recipe",
+      "description": "Plăcintă is a Romanian and Moldovan traditional pastry resembling a thin, small round or square-shaped cake, usually filled with apples or a soft cheese such as Urdă.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Placinta.jpg/500px-Placinta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pl%C4%83cint%C4%83"
+    },
+    {
+      "id": "sarmale",
+      "name": "Sarmale",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sarmale%20recipe",
+      "description": "Stuffed leaves—more commonly known by its sub-types stuffed grape leaves, stuffed vine leaves, or stuffed cabbage leaves—are a food made of leaves rolled around a filling of minced meat, grains such as rice, or both.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Yaprak_sarma%2C_Kayseri_style.jpg/500px-Yaprak_sarma%2C_Kayseri_style.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stuffed_leaves"
+    },
+    {
+      "id": "cozonac",
+      "name": "Cozonac",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cozonac%20recipe",
+      "description": "Cozonac or Kozunak is both a sweet bread and a sweet yeast dough that can be used to make different traditional holiday breads and cakes. Often mixed with raisins or nuts, it can be baked as a loaf or rolled out with fillings like poppy seed or walnuts.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Cozonac-cu-nuca-103.jpg/500px-Cozonac-cu-nuca-103.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cozonac"
+    },
+    {
+      "id": "mititei",
+      "name": "Mititei",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mititei%20recipe",
+      "description": "Mititei or mici is a traditional dish from Romanian cuisine, consisting of grilled ground meat sausages made from a mixture of beef, lamb and pork, with spices such as garlic, black pepper, thyme, coriander, anise, savory, and sometimes a touch of paprika.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Mititei_aufm_Grill.jpg/500px-Mititei_aufm_Grill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mititei"
+    },
+    {
+      "id": "zacusca",
+      "name": "Zacuscă",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zacusc%C4%83%20recipe",
+      "description": "Zacuscă is a vegetable spread popular in Romania, Moldova and Hungary (zakuszka), which originated from Romania. Similar spreads are found in other countries in the Balkan region.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Zacusc%C4%83_bgiu.jpg/500px-Zacusc%C4%83_bgiu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zacusc%C4%83"
+    }
+  ]
+}

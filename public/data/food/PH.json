@@ -1,0 +1,495 @@
+{
+  "country": "PH",
+  "dishes": [
+    {
+      "id": "adobo",
+      "name": "Adobo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Adobo%20recipe",
+      "description": "Adobo is a popular Filipino dish and cooking process in Philippine cuisine. In its base form, meat, seafood, or vegetables are first browned in oil, and then marinated and simmered in vinegar, salt and/or soy sauce, and garlic. It is often considered the unofficial national dish in the Philippines.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Adobo_DSCF4391.jpg/500px-Adobo_DSCF4391.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Adobo_(Filipino_dish)",
+      "recipe": {
+        "ingredients": [
+          "6–8 chicken pieces, preferably legs and wings",
+          "⅓ cup (80 ml) vinegar made from coconut juice (as a variant, try balsamic vinegar)",
+          "¼ cup (60 ml) soy sauce",
+          "4 cloves of garlic, crushed",
+          "1–2 bay leaves",
+          "½ tsp (2.5 ml) freshly cracked (not ground) black peppercorns"
+        ],
+        "steps": [
+          "Put chicken, garlic, peppercorn, soy sauce and vinegar in a pan and bring to a boil.",
+          "When chicken is cooked, put chicken pieces in a colander and drain. Put aside the pot with soy sauce and vinegar.",
+          "When chicken pieces are no longer draining, fry them in hot oil at medium heat. Have a cover ready for splatters.",
+          "Sear the chicken, browning on all sides.",
+          "Put chicken pieces back in the pot with soy sauce and vinegar and bring to simmer. Add 1–2 pieces of bay leaf.",
+          "Cook until the sauce has largely evaporated; some take this to an extreme and cook until the sauce has thickened and adhered to the chicken, which begins to make a popping noise due to the high, direct heat.",
+          "Serve over hot steamed rice. May be eaten with tomato slices in fish sauce, tapsilog, soy sauce, vinegar, hotdog, etc."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAdobo_Chicken_(Philippine)"
+      }
+    },
+    {
+      "id": "sinigang",
+      "name": "Sinigang",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sinigang%20recipe",
+      "description": "Sinigang, sometimes anglicized as sour broth, is a Filipino soup or stew characterized by its sour and savory taste. It is most often associated with tamarind (Filipino: sampalok), although it can use other sour fruits and leaves as the souring agent such as unripe mangoes or rice vinegar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/The_Best_Sinigang_Cuisine.jpg/500px-The_Best_Sinigang_Cuisine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sinigang",
+      "recipe": {
+        "ingredients": [
+          "Sampaloc (tamarind) fruits or ready-to-use tamarind paste",
+          "1 onion, chopped",
+          "4–6 tomatoes, quartered",
+          "½–1 kg pork belly, cubed",
+          "250 g taro root, diced or sliced into chunks",
+          "3–4 horseradish, sliced",
+          "200 g string beans, cut in 1-inch pieces",
+          "1–3 onions, quartered",
+          "250 g kangkung (water spinach) leaves or other leafy yet crunchy vegetable even when cooked.",
+          "5 Tbsp fish sauce",
+          "Salt",
+          "Pepper",
+          "MSG (optional)",
+          "3 green chiles (e.g. serrano or any other fragrant and mild variety)"
+        ],
+        "steps": [
+          "If using whole tamarind, boil it in water until the shells crack, then work the flesh away from the seeds and strain, reserving all the liquid for the soup. Skip this process if using packed tamarind base.",
+          "Sauté the chopped onions in another large pot.",
+          "Add the tomato and pork to the onions, and sauté until the pork is no longer pink.",
+          "Add enough water or boiled tamarind stock to cover the contents of the pot. Boil until tender.",
+          "Add taro root, and simmer until soft and tender. The soup should to thicken at this point.",
+          "Add the horseradish, and simmer until tender-crunchy.",
+          "Add the string beans, quartered onions, and water spinach. Simmer for another 2–3 minutes.",
+          "Check to make sure all ingredients were cooked enough, then add the tamarind pack if using.",
+          "Add fish sauce, salt, pepper, and MSG to taste. Top with green chillies.",
+          "Serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASinigang_(Philippine_Sour_Soup)"
+      }
+    },
+    {
+      "id": "kare-kare",
+      "name": "Kare-kare",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kare-kare%20recipe",
+      "description": "Kare-kare is a Filipino dish featuring a thick savory peanut sauce. It is generally made from a base of stewed oxtail, beef tripe, pork hocks, calves' feet, pig's feet or trotters, various cuts of pork, beef stew meat, and occasionally offal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Mac_MG_5939.jpg/500px-Mac_MG_5939.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kare-kare",
+      "recipe": {
+        "ingredients": [
+          "1 pack (1.5–2 lb) oxtail",
+          "6 cups water",
+          "½ cup annatto seeds for coloring",
+          "3 eggplants",
+          "1 lb string beans",
+          "1 banana blossom",
+          "1 head garlic, chopped",
+          "1 onion, sliced",
+          "¼ cup cooking oil",
+          "1 cup ground peanuts",
+          "1 cup toasted ground rice"
+        ],
+        "steps": [
+          "Boil the oxtail in water until tender.",
+          "Soak annatto seeds in ½ cup water, set aside. Rub the seeds if necessary to bring out color.",
+          "Cut string beans in 3-inch lengths.",
+          "Cut eggplants diagonally, ½-inch thick.",
+          "Cut banana blossoms diagonally, ½-inch thick.",
+          "Parboil string beans, eggplants and banana blossoms, then set aside.",
+          "Sauté garlic and onions in cooking oil.",
+          "Take out the annatto seeds, add the water, and boil for 5 minutes.",
+          "Stir in ground peanuts and ground rice.",
+          "Bring to a boil, then add the oxtail and vegetables.",
+          "Add more water if needed to have enough sauce; it should be thick and not watery. Add fish sauce to taste.",
+          "Serve with steamed rice and shrimp paste (bagoong) on the side."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKare-Kare_(Oxtail_and_Vegetables_in_Peanut_Sauce)"
+      }
+    },
+    {
+      "id": "sisig",
+      "name": "Sisig",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sisig%20recipe",
+      "description": "Sisig is a Filipino dish made from pork jowl and ears (maskara), which is usually seasoned with calamansi, onions, and chili peppers. It originates from the Pampanga region in Luzon. Sisig is a staple of Kapampangan cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Authentic_Kapampangan_Sisig.jpg/500px-Authentic_Kapampangan_Sisig.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sisig",
+      "recipe": {
+        "ingredients": [
+          "1½ kilo pork head",
+          "¼ cup grilled liver, diced",
+          "½ kilo of pig's heart, grilled and minced",
+          "½ kilo of pig's lungs, grilled and minced",
+          "½ kilo of pig's intestines, grilled and minced",
+          "2 small onions, minced",
+          "2 pieces red pepper, minced",
+          "1 head garlic, minced",
+          "6 pieces hot chile pepper, minced",
+          "2 tbsp oil from the pork fat",
+          "1 cup vinegar (sukang iloko would be good)",
+          "1½ tbsp liquid seasoning",
+          "1 tsp black pepper",
+          "1 tsp brown sugar",
+          "1 cup beef stock"
+        ],
+        "steps": [
+          "Grill pork head to remove hair.",
+          "Boil pork head until tender.",
+          "Take out all the meat and dice.",
+          "In a sauté pan, heat oil and sauté garlic, onion, red pepper, pork meat and liver.",
+          "Season with liquid seasoning, black pepper, and brown sugar.",
+          "Pour in beef stock and cook until meat is tender and starts to oil again.",
+          "Add minced chili pepper last.",
+          "Serve on a sizzling plate."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASizzling_Sisig_(Filipino_Pork_Saut%C3%A9)"
+      }
+    },
+    {
+      "id": "pinakbet",
+      "name": "Pinakbet",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pinakbet%20recipe",
+      "description": "Pinakbet, also known as pakbét, is a Filipino vegetable dish characterized by its savory, earthy, and complex flavor profile, primarily derived from the pungent, salty umami of fermented fish sauce made from anchovies (buggúong or bagoong isda) or, in some modern variations, shrimp paste (armang or bagoong alamang).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pinakbet_ni_Lakay_Jesse.jpg/500px-Pinakbet_ni_Lakay_Jesse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pinakbet",
+      "recipe": {
+        "ingredients": [
+          "2 tablespoons (30 ml) vegetable oil",
+          "2 medium garlic cloves, minced",
+          "1 small (4 ounces / 115 g) yellow onion, finely chopped",
+          "2 plum tomatoes (about 8 ounces / 225 g), cored and chopped",
+          "2 ounces (¼ cup / 60 g) bagoong alamang",
+          "1 pinch of salt",
+          "1 ea. (about 8 ounces / 225 g) bitter melon, halved lengthwise, seeded, and sliced ¼ inch thick",
+          "1 small (about 8 ounces / 225 g) sweet potato, peeled, quartered, and cut into ¼-inch slices",
+          "8 ounces (225 g) string beans, stem ends trimmed and beans cut into 2-inch lengths",
+          "1 medium (about 6 ounces / 170 g) eggplant, halved lengthwise, and sliced ½ inch thick",
+          "8 ounces (225 g) okra, caps trimmed, pods cut in half on the bias",
+          "Cooked white rice, for serving"
+        ],
+        "steps": [
+          "Heat a skillet over medium heat.",
+          "Add the oil, then garlic to the pan. Sauté briefly until aromatic.",
+          "Add the onion, and cook until softened.",
+          "Add the tomato, bagoong alamang, and salt; simmer for 5 minutes.",
+          "Add the bitter melon and sweet potato. Cover and cook until almost, but not quite, tender.",
+          "Add the string beans, eggplant, and okra. Cover and cook for a few minutes until all the vegetables are tender.",
+          "Serve the vegetables with rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APinakbet"
+      }
+    },
+    {
+      "id": "dinuguan",
+      "name": "Dinuguan",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dinuguan%20recipe",
+      "description": "Dinuguan is a Filipino savory stew usually of pork offal (typically lungs, kidneys, intestines, ears, heart and snout) and/or meat simmered in a rich, spicy dark gravy of pig blood, garlic, chili (most often siling haba), and vinegar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Dinuguan_and_Puto.jpg/500px-Dinuguan_and_Puto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dinuguan",
+      "recipe": {
+        "ingredients": [
+          "3 cups (700 g) ½-inch cubed boneless pork butt with fat",
+          "3 tablespoons lard or peanut oil",
+          "½ cup (120 ml) vinegar mixed with 1 cup (240 ml) water and 1 tablespoon salt",
+          "1 medium-sized yellow onion, peeled and sliced",
+          "1½ cups (360 ml) pork blood (Ideally from Vietnamese, Filipino or Western European markets)",
+          "3 cloves garlic, peeled and crushed",
+          "2 hot jalapeño peppers, seeded and chopped"
+        ],
+        "steps": [
+          "Place the pork in a 4-quart (560 ml) covered stove-top casserole dish and add the vinegar mixture. Bring to a boil and reduce the heat.",
+          "Cook, covered, for about an hour, until the pork is tender. Make sure that the liquid doesn't dry out. Add more water if necessary.",
+          "Heat a frying pan and add the lard or oil.",
+          "When the oil is hot enough, sauté the onion and garlic until the onion appears translucent. Remove from heat.",
+          "Add the oil, garlic, and onion to the pork and continue cooking for 5 minutes.",
+          "Purée the pork blood in a food processor.",
+          "Add the blood to the pork gradually while stirring the mixture. Bring to a boil.",
+          "Add the chopped pepper and simmer uncovered to reduce the sauce until desired thickness is achieved. Keep covered and serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ADinuguan_(Pork_Blood_Stew)"
+      }
+    },
+    {
+      "id": "bicol-express",
+      "name": "Bicol Express",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bicol%20Express%20recipe",
+      "description": "Bicol express, known natively in Bikol as sinilihan (lit. ''spiced with chili''), is a common Filipino dish which was popularized in the district of Malate, Manila, but made in traditional Bicolano style.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bicol_Express.jpg/500px-Bicol_Express.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bicol_express",
+      "recipe": {
+        "ingredients": [
+          "1 spoon cooking oil",
+          "1 onion, chopped",
+          "1 head garlic, minced",
+          "1 kg pork belly",
+          "½ kg bagoong alamang (shrimp paste)",
+          "15 pieces siling labuyo (bird's eye chili)",
+          "2 spoons sugar",
+          "1 teaspoon black pepper",
+          "Monosodium glutamate (optional)",
+          "1 can (400 ml) coconut milk"
+        ],
+        "steps": [
+          "Heat a frying pan over medium heat, then add the cooking oil.",
+          "When the oil is hot, add the onion and garlic. Sauté until fragrant and aromatic.",
+          "Add the shrimp paste, siling labuyo and the pork belly. Stir fry the mixture until the pork is browned on all sides.",
+          "Add the sugar, pepper, and monosodium glutamate if using.",
+          "Stir in the coconut milk, and simmer until the meat is cooked through."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABicol_Express"
+      }
+    },
+    {
+      "id": "binagoongan",
+      "name": "Binagoongan",
+      "videoSearch": "https://www.youtube.com/results?search_query=Binagoongan%20recipe",
+      "description": "Binagoongan is a Filipino cooking process consisting of vegetables (most notably water spinach) or meat (usually pork, but can also be chicken or beef) sautéed or braised in bagoong alamang (shrimp paste), garlic, black peppercorns, and bay leaves.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/4336Cuisine_and_foods_of_Baliuag%2C_Bulacan_08.jpg/500px-4336Cuisine_and_foods_of_Baliuag%2C_Bulacan_08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Binagoongan",
+      "recipe": {
+        "ingredients": [
+          "1 lb pork, cut into pieces",
+          "½ lb of baby shrimp",
+          "½ cup of bitter melon",
+          "¼ cup oil",
+          "½ head garlic, crushed",
+          "1 onion, sliced thinly",
+          "1 large tomato, sliced",
+          "½ cup bagoong alamang",
+          "½ cup vinegar",
+          "2 cups water"
+        ],
+        "steps": [
+          "Fry pork pieces in hot oil.",
+          "Sauté garlic, onions and tomatoes after pork has browned.",
+          "Add shrimp.",
+          "Add the rest of the ingredients and let simmer until pork is tender. If desired, let water reduce.",
+          "Serve with rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABinagoongan_(Saut%C3%A9ed_Pork_with_Shrimp_Paste)"
+      }
+    },
+    {
+      "id": "kinilaw",
+      "name": "Kinilaw",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kinilaw%20recipe",
+      "description": "Kinilaw (pronounced [kɪnɪˈlaʊ] or [kɪˈnɪlaʊ], is a Visayan/Cebuano term that means \"to eat raw\". It is a raw seafood dish and preparation method native to the Philippines.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Kinilaw_of_Northern_Mindanao.jpg/500px-Kinilaw_of_Northern_Mindanao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kinilaw"
+    },
+    {
+      "id": "pancit",
+      "name": "Pancit",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pancit%20recipe",
+      "description": "Pancit, also spelled pansit, is a general term referring to various traditional noodle dishes in Filipino cuisine. There are numerous types of pancit, often named based on the noodles used, method of cooking, place of origin or the ingredients. Most pancit dishes are served with calamansi, which adds a citrusy flavor.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Pancit_Ilonggo_Style_-_12110747826.jpg/500px-Pancit_Ilonggo_Style_-_12110747826.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pancit"
+    },
+    {
+      "id": "lumpia",
+      "name": "Lumpiang Shanghai",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lumpiang%20Shanghai%20recipe",
+      "description": "Lumpia (in Indonesian and Filipino) are various types of spring rolls commonly found in Indonesian and Filipino cuisines. Lumpia are made of thin paper-like or crêpe-like pastry skin called \"lumpia wrapper\" enveloping savory or sweet fillings.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Loenpia_Semarang.JPG/500px-Loenpia_Semarang.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lumpia",
+      "recipe": {
+        "ingredients": [
+          "½ kg ground pork",
+          "1 medium-sized clove of garlic, minced",
+          "1 carrot, shredded",
+          "1 egg, beaten",
+          "Water",
+          "1 pack lumpia or spring roll wrappers",
+          "Vegetable oil",
+          "1 cup banana ketchup"
+        ],
+        "steps": [
+          "Combine the pork, garlic, and carrot in a mixing bowl.",
+          "Add the egg, and mix well to combine.",
+          "Lay one wrapper flat on your work surface. Place a small amount of the filling mixture on it, shaped like a log.",
+          "Fold two opposite sides of the wrapper over the filling to enclose the two ends of the filling. Then, use the rest of the of wrapper to roll everything up length-wise.",
+          "Moisten the edge of the wrapper and press it against the roll to seal and prevent it from unwrapping.",
+          "Repeat the filling and rolling steps with the remaining filling and wrappers.",
+          "Deep fry the rolls in the oil until golden brown all over and cooked through.",
+          "Serve with the banana ketchup."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALumpiang_Shanghai_(Filipino_Pork_Spring_Rolls)"
+      }
+    },
+    {
+      "id": "silog",
+      "name": "Silog",
+      "videoSearch": "https://www.youtube.com/results?search_query=Silog%20recipe",
+      "description": "Silog is a class of Filipino breakfast dishes containing sinangag (garlic fried rice) and itlog (\"egg\"; in context, fried egg \"sunny side up\"). They are served with various accompanying savory dishes (ulam), usually fried meat dishes such as tapa, longganisa or ham.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Tapsilog_in_saudi_arabia.jpg/500px-Tapsilog_in_saudi_arabia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Silog",
+      "recipe": {
+        "ingredients": [
+          "1 serving of fried rice",
+          "1 fried chicken egg (sunny side-up or beaten)",
+          "Add-ons of your choice, such as:",
+          "2 hot dogs",
+          "1 can of corned beef",
+          "1 longganisa sausage",
+          "Sliced cucumber and tomato"
+        ],
+        "steps": [
+          "Place the fried rice and the egg on your plate.",
+          "Arrange your desired add-ons around the rice.",
+          "Serve with any desired condiments, such as spicy vinegar."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASilog"
+      }
+    },
+    {
+      "id": "balut",
+      "name": "Balut",
+      "videoSearch": "https://www.youtube.com/results?search_query=Balut%20recipe",
+      "description": "Balut ( bə-LOOT, BAH-loot; also spelled as balot) is a fertilized developing egg embryo that is boiled or steamed and eaten from the shell.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/The_Balut.jpg/500px-The_Balut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Balut_(food)"
+    },
+    {
+      "id": "kwek-kwek",
+      "name": "Kwek-kwek",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kwek-kwek%20recipe",
+      "description": "Tokneneng (or tukneneng) and kwek kwek (or kwek-kwek) are terms for a tempura-like Filipino street food made by deep-frying hard-boiled chicken or duck or quail eggs covered in orange batter.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/05223jfPhilippine_cuisine_dishes_Bulacafvf_10.jpg/500px-05223jfPhilippine_cuisine_dishes_Bulacafvf_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tokneneng",
+      "recipe": {
+        "ingredients": [
+          "Hard-cooked quail eggs, peeled",
+          "1 cup water",
+          "1 cup all-purpose flour",
+          "Orange food coloring or annatto",
+          "Vegetable oil"
+        ],
+        "steps": [
+          "Gradually but vigorously whisk the water into the flour. The wet mixture should be thick but flow like a pancake batter.",
+          "Dip the eggs in the batter to coat them completely.",
+          "Heat several inches of vegetable oil in a deep pot. You're aiming for about 350°F (180°C).",
+          "Add the coated eggs to the hot oil, and deep fry until very light golden and cooked through. Remove from the oil and drain off any excess.",
+          "Serve with spicy vinegar."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKwek-Kwek_(Deep-Fried_Quail_Eggs)"
+      }
+    },
+    {
+      "id": "champorado",
+      "name": "Champorado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Champorado%20recipe",
+      "description": "Champorado or tsampurado is a sweet chocolate rice porridge in Filipino cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Champorado.jpg/500px-Champorado.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Champorado",
+      "recipe": {
+        "ingredients": [
+          "½ kg glutinous rice",
+          "Water (about 4–6 times the rice volume)",
+          "½ kg white granulated sugar",
+          "2 spoons cocoa powder",
+          "1 can (12 oz) evaporated milk"
+        ],
+        "steps": [
+          "Wash the rice twice.",
+          "Combine the rice and water in a pot. Place the pot over medium heat, cover, and bring to a boil.",
+          "Uncover the pot and stir in the sugar and cocoa powder until well mixed.",
+          "Simmer over low heat, stirring regularly, until the rice is cooked and the porridge is thickened as desired.",
+          "Stir in the evaporated milk and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChamporado_(Chocolate_Rice_Porridge)"
+      }
+    },
+    {
+      "id": "halo-halo",
+      "name": "Halo-halo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Halo-halo%20recipe",
+      "description": "Halo-halo is a popular cold dessert in the Philippines made with crushed ice, evaporated milk or sometimes coconut milk, and flavoring such as ube jam (ube halaya), sweetened kidney beans or garbanzo beans, coconut strips, sago, gulaman (agar), pinipig, boiled taro or soft yams in cubes, flan, slices or portions of fru…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Halo-Halo.jpg/500px-Halo-Halo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Halo-halo",
+      "recipe": {
+        "ingredients": [
+          "1½ cup shaved ice",
+          "½ cup chickpeas in syrup",
+          "½ cup red mung beans in syrup",
+          "⅓ cup nata de coco (coconut gel in syrup)",
+          "¼ cup kaong in syrup",
+          "1 tbsp ube jam (sweet purple yam paste)",
+          "2 scoops ube ice cream",
+          "2 ea. 2 inch cubes leche flan",
+          "½ cup evaporated milk",
+          "Pinipig (toasted flattened rice), for serving (optional)"
+        ],
+        "steps": [
+          "Cover the bottoms of two serving bowls or glasses with a layer of shaved ice.",
+          "Top the ice with the chickpeas, mung beans, nata de coco, kaong, and ube jam.",
+          "Top with ube ice cream and leche flan, then pour the evaporated milk over everything.",
+          "Sprinkle with pinipig, if using."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHalo-Halo_(Filipino_Layered_Dessert)"
+      }
+    },
+    {
+      "id": "bibingka",
+      "name": "Bibingka",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bibingka%20recipe",
+      "description": "Bibingka (; bib-EENG-kah) is a type of baked rice cake in Filipino cuisine that is cooked in a terracotta oven lined with banana leaves and is usually eaten for breakfast or as merienda (mid-afternoon snack), especially during the Christmas season. It is also known as bingka in the Visayas and Mindanao islands.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/02545jfPlaza_Publika_de_Baliuag_Bulacanfvf_03.jpg/500px-02545jfPlaza_Publika_de_Baliuag_Bulacanfvf_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bibingka"
+    },
+    {
+      "id": "maja-blanca",
+      "name": "Maja blanca",
+      "videoSearch": "https://www.youtube.com/results?search_query=Maja%20blanca%20recipe",
+      "description": "Maja blanca is a Filipino dessert with a gelatin-like consistency made primarily from coconut milk. Also known as coconut pudding, it is usually served during fiestas and during the holidays, especially Christmas.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Majablanca.jpg/500px-Majablanca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maja_blanca",
+      "recipe": {
+        "ingredients": [
+          "2 cups cornstarch",
+          "4 cups coconut milk",
+          "1 can (14 oz) sweetened condensed milk",
+          "1 can (13.5 oz) coconut cream",
+          "¾ cup white granulated sugar",
+          "1 cup corn kernels (optional)",
+          "¼ cup toasted coconut flakes (optional)"
+        ],
+        "steps": [
+          "In a bowl, dissolve cornstarch in 1 cup of coconut milk. Set aside.",
+          "In a pot, combine the remaining coconut milk, condensed milk, coconut cream, and sugar. Bring to a gentle boil over medium heat.",
+          "Gradually pour the cornstarch mixture into the pot while continuously stirring. Lower the heat and continue stirring until the mixture thickens, about 10–15 minutes.",
+          "If desired, add corn kernels into the mixture and stir for an additional 2–3 minutes.",
+          "Pour the mixture into a greased baking dish or other mold. Let it cool and set for at least an hour in the refrigerator.",
+          "Once set, slice the pudding into squares and sprinkle toasted coconut flakes on top before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMaja_Blanca_(Coconut_Milk_Pudding)"
+      }
+    },
+    {
+      "id": "turon",
+      "name": "Turon",
+      "videoSearch": "https://www.youtube.com/results?search_query=Turon%20recipe",
+      "description": "Turón is a Philippine snack made of thinly-sliced bananas (preferably saba or Cardaba bananas) rolled in a spring roll wrapper, fried until the wrapper is crisp, and coated with caramelized brown sugar.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Turon_na_Saging.jpg/500px-Turon_na_Saging.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Turon_(food)",
+      "recipe": {
+        "ingredients": [
+          "2 saba plantains, cut into 10 3-inch pieces",
+          "Jackfruit (optional), sliced",
+          "10 lumpia/spring roll wrappers",
+          "Oil for frying",
+          "½ cup brown sugar"
+        ],
+        "steps": [
+          "Lay a lumpia wrapper on your work surface. Arrange a piece of banana and jackfruit in a line down the center.",
+          "Fold the sides of the wrapper towards the center, then roll everything up. Brush the overlapping end of the wrapper with a little water, then press against the roll to seal.",
+          "Repeat the filling and rolling steps to make a total of 10 rolls.",
+          "Heat an inch of oil in a pan over medium heat. Add the rolls and fry until golden brown on all sides.",
+          "Remove from the pan, and let any excess oil drain.",
+          "Add the sugar to a heavy-bottomed pan. Carefully heat over medium heat, stirring periodically, until the sugar is fully melted. Make sure not to let it burn.",
+          "Remove the melted sugar pan from the heat. Immediately add the rolls to the pan and turn to coat with caramelized sugar.",
+          "Remove the rolls from the sugar and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATuron_(Filipino_Plantain_Spring_Rolls)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "country": "HU",
+  "dishes": [
+    {
+      "id": "goulash",
+      "name": "Goulash",
+      "localName": "Gulyás",
+      "videoSearch": "https://www.youtube.com/results?search_query=Goulash%20recipe",
+      "description": "Goulash is a meal made of meat and vegetables seasoned with paprika and other spices. Originating in Hungary, goulash is a common meal predominantly eaten in Central Europe but also in other parts of Europe. It is one of the national dishes of Hungary and a symbol of the country.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Gulyas080.jpg/500px-Gulyas080.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Goulash",
+      "recipe": {
+        "ingredients": [
+          "Olive oil",
+          "3 onions, chopped",
+          "1.5 lb (750 g) stew beef, cubed",
+          "2 bell peppers, chopped",
+          "1 tomato, chopped",
+          "2 tbsp ground sweet paprika",
+          "5 black peppercorns",
+          "1 bay leaf",
+          "6 cloves garlic",
+          "Salt to taste",
+          "4 potatoes, chopped"
+        ],
+        "steps": [
+          "Fry half of the onions in a pot with olive oil.",
+          "Put a layer of meat over the fried onions, then a layer of raw onions, peppers, tomato, whole garlic cloves, spices, and salt. Add another meat layer; continue until you have used all the ingredients except the potato.",
+          "Cover the meat with water. Put on a lid, and simmer on low heat. Add water only if there is not enough while cooking. It requires almost no stirring.",
+          "When the meat is cooked and tender, add potatoes. Add additional water to cover it if needed, and cook for further 15 minutes until the potatoes are tender."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGoulash"
+      }
+    },
+    {
+      "id": "porkolt",
+      "name": "Pörkölt",
+      "videoSearch": "https://www.youtube.com/results?search_query=P%C3%B6rk%C3%B6lt%20recipe",
+      "description": "Pörkölt is a meat stew originating in Hungary. It is popular in Hungary as well as Croatia, Romania, Serbia and Slovakia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2009-09-gulasch-p%C3%B6rk%C3%B6lt-paprikas-1.jpg/500px-2009-09-gulasch-p%C3%B6rk%C3%B6lt-paprikas-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/P%C3%B6rk%C3%B6lt"
+    },
+    {
+      "id": "chicken-paprikash",
+      "name": "Chicken paprikash",
+      "localName": "Paprikás csirke",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chicken%20paprikash%20recipe",
+      "description": "Chicken paprikash (Hungarian: paprikás csirke or csirkepaprikás) or paprika chicken is a popular Hungarian cuisine dish and one of the most famous variations on the paprikás preparations common to Hungarian tables. The name is derived from paprika, a spice commonly used in the country’s cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Chicken_Paprikash_%28Csirke_Paprik%C3%A1s%29.jpg/500px-Chicken_Paprikash_%28Csirke_Paprik%C3%A1s%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chicken_paprikash",
+      "recipe": {
+        "ingredients": [
+          "1 whole chicken, cut up (skin optional)",
+          "Bacon grease, lard, or other fat",
+          "2 standard-size containers of sour cream",
+          "Paprika",
+          "White or yellow onion, finely chopped",
+          "2–3 cups (480–700 g) flour",
+          "2–3 eggs",
+          "Water",
+          "Salt",
+          "Bacon grease or oil"
+        ],
+        "steps": [
+          "Brown the onions in a heavy skillet with some bacon grease until softened and well-colored.",
+          "Add chicken. Brown rapidly, then season with paprika to taste.",
+          "Turn heat down, add enough water added to cover the bottom of the pan, and cook on low. Keep covered but with the lid slightly cocked to prevent boiling.",
+          "Proceed with the dumplings while cooking the chicken.",
+          "Combine flour, eggs, and a pinch of salt with enough to make a dough. For dumplings to be ‘sticky’ inside, make a wetter dough; for all the way through, make a drier dough.",
+          "Use a dessert spoon (or a melon baller for smaller dumplings) to drop pieces of dough into boiling salted water. To keep them from sticking to the spoon, let it heat up in the water.",
+          "Let simmer until the dumplings float. Drain, put in a bowl with a tiny slick of melted fat, and keep them to one side in a warm place.",
+          "Once the chicken is fully cooked (160°F) and your dumplings are all done, stir dumplings and sour cream into the pan of chicken. Mix thoroughly but carefully to coat.",
+          "Add more paprika until it is more pink (or orange) than white.",
+          "Taste sauce; it may need more paprika or salt. Sometimes it is easier to remove the chicken, and then pour the dumplings and sour cream over the top to coat (when serving), depending on how big your pan is."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AChicken_Paprikash"
+      }
+    },
+    {
+      "id": "halaszle",
+      "name": "Halászlé",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hal%C3%A1szl%C3%A9%20recipe",
+      "description": "Fisherman's soup or halászlé is a hot, spicy paprika-based fish soup. A folk item of Hungarian cuisine, it is a bright-red hot dish prepared with generous amounts of hot paprika and carp or mixed river fish. It is native to the Pannonian Plain, particularly the Danube and Tisza river regions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Pot_of_Hungarian_Fisherman%27s_Soup_%28Hal%C3%A1szl%C3%A9%2C_Karpfensuppe%29.jpg/500px-Pot_of_Hungarian_Fisherman%27s_Soup_%28Hal%C3%A1szl%C3%A9%2C_Karpfensuppe%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fisherman%27s_soup"
+    },
+    {
+      "id": "langos",
+      "name": "Lángos",
+      "videoSearch": "https://www.youtube.com/results?search_query=L%C3%A1ngos%20recipe",
+      "description": "Lángos is a Hungarian flatbread. The dish was historically made of the last bits of the bread dough and baked at the front of a brick or clay oven, to be served hot as the breakfast of the bread-baking day.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Langos_Eger_Hungary.jpg/500px-Langos_Eger_Hungary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/L%C3%A1ngos",
+      "recipe": {
+        "ingredients": [
+          "500 g all-purpose flour",
+          "Instant yeast",
+          "4 eggs",
+          "4 tbsp yogurt or sour cream",
+          "2 tsp salt",
+          "Lard or canola oil"
+        ],
+        "steps": [
+          "Combine the flour and yeast. Add the eggs, then mix the yoghurt to make a dough.",
+          "Add the salt, and knead until the dough is pliant and not too sticky, adding more flour or yogurt as necessary. The correct texture is really a matter of trial-and-error. It's not unlike an egg pasta dough, but it's rather less stiff.",
+          "Transfer the dough to an oiled bowl. Cover and let rise overnight in a cool location, like the refrigerator.",
+          "Gently deflate the dough.",
+          "When you're ready to cook, heat about 2 inches of lard in a pan. The oil should be hot enough that when you put a very small piece of the dough into it, it drops to the bottom, and immediately rises up to the surface frying.",
+          "Take a lump of the dough (roughly a bit bigger than a ping-pong ball, but rather smaller than a tennis-ball) and flatten it into a disk shape. Do this by hand rather than using a rolling pin—just keep pressing it between fingers and thumbs, and turning it round and round. Make the centre of the disk fairly thin, and the edge rather thicker. It should end up about 8 inches across if possible. Don't worry over-much about getting it too circular and even; the hand-made look is all part of their attraction.",
+          "Carefully slide the disk of dough into the hot oil and let it fry for 30 seconds or so. It should start to puff up as it fries; if it doesn't, either the oil isn't hot enough, or the disk is too thick.",
+          "Carefully turn the dough over, and fry for another 30 seconds or so. Turn it over and see if the underside is golden brown or not. If not, fry for a while longer until both sides are golden brown, with a 'puffed-up' surface. Adjust the frying times for subsequent ones accordingly.",
+          "Remove from the hot oil and drain away any excess."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AL%C3%A1ngos_(Hungarian_Fried_Flatbread)"
+      }
+    },
+    {
+      "id": "lecso",
+      "name": "Lecsó",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lecs%C3%B3%20recipe",
+      "description": "Lecsó, also anglicized as lecho, is a Hungarian thick vegetable ragout or stew which traditionally contains yellow pointed peppers, tomato, onion, salt, and ground sweet and/or hot paprika as a base recipe. The onions and peppers are usually sauteed in lard, bacon fat, or sunflower oil.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Warm_Colors-_my_Mom%27s_Hungarian_Lecs%C3%B3_cropped.jpg/500px-Warm_Colors-_my_Mom%27s_Hungarian_Lecs%C3%B3_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lecs%C3%B3"
+    },
+    {
+      "id": "dobos-torte",
+      "name": "Dobos torte",
+      "localName": "Dobos torta",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dobos%20torte%20recipe",
+      "description": "Dobos torte, also known as Dobosh, is a Hungarian sponge cake layered with chocolate buttercream and topped with caramel. The layered pastry is named after its inventor, Hungarian chef József C. Dobos, a delicatessen owner in Budapest.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Dobos_cake_%28Gerbeaud_Confectionery_Budapest_Hungary%29.jpg/500px-Dobos_cake_%28Gerbeaud_Confectionery_Budapest_Hungary%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dobos_torte"
+    },
+    {
+      "id": "kurtoskalacs",
+      "name": "Kürtőskalács",
+      "videoSearch": "https://www.youtube.com/results?search_query=K%C3%BCrt%C5%91skal%C3%A1cs%20recipe",
+      "description": "Kürtőskalács is a spit cake specific to Hungarians from Transylvania, more specifically the Székelys. Originally popular in the Székely Land, it became popular in both Hungary and Romania.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/K%C3%BCrt%C5%91skal%C3%A1cs2011.jpg/500px-K%C3%BCrt%C5%91skal%C3%A1cs2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/K%C3%BCrt%C5%91skal%C3%A1cs"
+    },
+    {
+      "id": "turo-rudi",
+      "name": "Túró Rudi",
+      "videoSearch": "https://www.youtube.com/results?search_query=T%C3%BAr%C3%B3%20Rudi%20recipe",
+      "description": "Túró Rudi is the name of a curd snack which has been popular in Hungary since 1968. The bar is composed of a thin chocolate-flavored outer coating and an inner filling of túró (curd).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Rudi_akt.jpg/500px-Rudi_akt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/T%C3%BAr%C3%B3_Rudi"
+    },
+    {
+      "id": "hortobagyi-palacsinta",
+      "name": "Hortobágyi palacsinta",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hortob%C3%A1gyi%20palacsinta%20recipe",
+      "description": "Hortobágyi palacsinta is a savoury Hungarian crêpe dish, filled with meat (usually veal or beef). The meat is prepared as a stew with onions, and seasoned with hot paprika, garlic, salt and pepper, using veal, beef, chicken or Hungarian sausage. The sauce is drained from the stew and set aside.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Hortobagy_palacsinta.JPG/500px-Hortobagy_palacsinta.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hortob%C3%A1gyi_palacsinta"
+    },
+    {
+      "id": "fozelek",
+      "name": "Főzelék",
+      "videoSearch": "https://www.youtube.com/results?search_query=F%C5%91zel%C3%A9k%20recipe",
+      "description": "Főzelék is a type of thick Hungarian vegetable stew or soup, similar to pottage. Főzelék is a special category in Hungarian cuisine, not quite like a soup and thinner than a stew. It is simply cooked, typically by simmering, not mashing.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Fozelek.jpg/500px-Fozelek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/F%C5%91zel%C3%A9k"
+    },
+    {
+      "id": "rakott-krumpli",
+      "name": "Rakott krumpli",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rakott%20krumpli%20recipe",
+      "description": "Rakott krumpli (or rarely rakott burgonya) is a Hungarian dish made from potatoes, sour cream, smoked sausage, and hard-boiled eggs.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Rakott_krumpli.jpg/500px-Rakott_krumpli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rakott_krumpli",
+      "recipe": {
+        "ingredients": [
+          "6 medium potatoes",
+          "4 hard boiled eggs",
+          "Salt",
+          "1 kolbász (Hungarian sausage) or 1 cup diced ham (optional)",
+          "4 tablespoons olive oil",
+          "350 grams sour cream around 40% fat (called tejföl or smetana)"
+        ],
+        "steps": [
+          "Cook the potatoes for about 15–20 minutes.",
+          "Peel the potatoes and the eggs.",
+          "Slice the potatoes, eggs, and sausage.",
+          "Put a little olive oil in a baking dish. Arrange alternating layers of potatoes, eggs, and salt or sausage in the dish.",
+          "Drizzle olive oil over the filling, and top with sour cream.",
+          "Bake in a preheated oven at 200°C for about 35 minutes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APotato_Casserole_(Rakott_Krumpli)"
+      }
+    },
+    {
+      "id": "gundel-pancake",
+      "name": "Gundel pancake",
+      "localName": "Gundel palacsinta",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gundel%20pancake%20recipe",
+      "description": "A Gundel crêpe (original Gundel palacsinta) is a crêpe-like variety of pancake from Hungary.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Gundel_Palacsinta_at_Gundel.jpg/500px-Gundel_Palacsinta_at_Gundel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gundel_pancake"
+    },
+    {
+      "id": "turos-csusza",
+      "name": "Túrós csusza",
+      "videoSearch": "https://www.youtube.com/results?search_query=T%C3%BAr%C3%B3s%20csusza%20recipe",
+      "description": "Túrós csusza is a traditional Hungarian savoury curd cheese noodle dish made with small home-made noodles or pasta. Traditionally, noodles used for this dish are home-made with flour and eggs, mixed into a dough, and torn by hand into uneven fingernail-sized pieces that are then boiled in water.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/T%C3%BAr%C3%B3st%C3%A9szta.jpg/500px-T%C3%BAr%C3%B3st%C3%A9szta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/T%C3%BAr%C3%B3s_csusza"
+    },
+    {
+      "id": "retes",
+      "name": "Rétes",
+      "videoSearch": "https://www.youtube.com/results?search_query=R%C3%A9tes%20recipe",
+      "description": "Strudel is a type of layered baked good made with pastry, with a filling that is usually sweet, but savoury fillings are also common. It became popular in the 18th century throughout the Austrian Empire. Strudel is part of Austrian cuisine and German cuisine but is also common in other Central European cuisines.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Strudel.jpg/500px-Strudel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Strudel"
+    },
+    {
+      "id": "szegedin-goulash",
+      "name": "Szegedin goulash",
+      "localName": "Székelygulyás",
+      "videoSearch": "https://www.youtube.com/results?search_query=Szegedin%20goulash%20recipe",
+      "recipe": {
+        "ingredients": [
+          "100 g lard",
+          "600 g pork shoulder, cut into bite-sized cubes",
+          "1 large onion, finely chopped",
+          "1–2 tbsp tomato purée",
+          "1½ tsp paprika",
+          "Water or beef stock",
+          "2 bay leaves",
+          "1–2 garlic cloves, minced",
+          "Salt",
+          "Freshly-ground pepper",
+          "700 g sauerkraut",
+          "125 ml sour cream"
+        ],
+        "steps": [
+          "Heat the lard in a pot, then add the pork and sauté it for about 3 minutes. Take out the pork and set it aside on a plate.",
+          "Put the finely chopped onions into the casserole and fry until they become golden brown.",
+          "Stir in the tomato purée and paprika, and add some water or stock. Then add the meat, bay leaves and garlic; pour in more water or stock and season with salt and pepper. Reduce the heat and cook for about 30 minutes.",
+          "Add the sauerkraut, and cook for another 40 minutes.",
+          "Add the sour cream, mix it thoroughly with the goulash, and serve it on warm plates."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASzegedin_Goulash"
+      }
+    }
+  ]
+}

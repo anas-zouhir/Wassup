@@ -1,0 +1,193 @@
+{
+  "country": "PR",
+  "dishes": [
+    {
+      "id": "mofongo",
+      "name": "Mofongo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mofongo%20recipe",
+      "description": "Mofongo is a dish from Puerto Rico with plantains as its main ingredient. Plantains are picked green, cut into pieces and typically fried in more modern versions but can be boiled in broth or roasted, then mashed with salt, garlic, pork, broth, and cooking oil (olive oil, butter, and lard is typically used) in a wooden…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Mofongo.jpg/500px-Mofongo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mofongo",
+      "recipe": {
+        "ingredients": [
+          "3 very green plantains",
+          "Vegetable oil for frying",
+          "½ pound pork rinds, also known as chicharrones or pork cracklings, ground",
+          "3 cloves garlic, minced",
+          "1 cup stock or broth",
+          "1 tablespoon fat (e.g. olive oil, butter, or lard)"
+        ],
+        "steps": [
+          "Peel the plantains and cut into 1-inch diagonal pieces.",
+          "Heat the oil in a large skillet. Place the plantains in the oil and fry on both sides (approximately 3 ½ minutes per side).",
+          "Remove the plantains from the pan and flatten the plantains by placing a plate over the fried plantains and pressing down.",
+          "Return the plantains to the hot oil and fry 1 minute on each side. Then, place on paper towels.",
+          "While the plantains are still hot, use a mortar and pestle to mash them with the garlic, fat, and stock or broth. Add the chicharrones, salt, and pepper to taste."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMashed_Plantains_and_Pork_Rinds_(Mofongo)"
+      }
+    },
+    {
+      "id": "arroz-con-gandules",
+      "name": "Arroz con gandules",
+      "videoSearch": "https://www.youtube.com/results?search_query=Arroz%20con%20gandules%20recipe",
+      "description": "Arroz con gandules is a combination of rice, pigeon peas, and pork, cooked in the same pot with sofrito. This is Puerto Rico's national dish along with roasted pork.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Arrozcongandules2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Arroz_con_gandules",
+      "recipe": {
+        "ingredients": [
+          "2 medium yellow onions, cut into large chunks",
+          "3–4 Italian frying peppers (also known as cubanelle peppers)",
+          "16–20 cloves garlic, peeled",
+          "1 large bunch cilantro macho or common cilantro, washed (with roots if possible but just the leaves and stems are fine)",
+          "10–12 ají dulce chile peppers, seeded (e.g. ají cachucha, quechucha, ajicito, or ají gustoso)",
+          "10 leaves of culantro (recao), or another handful of cilantro",
+          "3–4 ripe plum tomatoes, seeded, cored and cut into chunks or roasted then skin and seeds removed",
+          "1 large red bell pepper, cored, seeded and cut into large chunks or roasted first then seeds and some skin removed",
+          "½ cup extra-virgin olive oil",
+          "1 tablespoon achiote (annatto) seeds",
+          "3 cups sofrito (recipe above)",
+          "½ cup coarsely-chopped alcaparrado (manzanilla olives, pimiento, and capers)",
+          "3 tablespoons of salt",
+          "1 tablespoon fresh cracked black pepper",
+          "1 tablespoon cumin seeds or ground cumin or more to taste",
+          "2 teaspoons coriander seeds or ground coriander or more to taste",
+          "5 tablespoons (⅓ cup) chopped Mexican mint (optional)",
+          "2 green plantains or 3 green bananas grated",
+          "1–2 whole pieces of smoked ham hock or smoked turkey, depending how big just for flavor",
+          "1½ pounds Puerto Rican salami (salchichón), ham, or chorizo, diced",
+          "6 cups medium grain rice (do not rinse)",
+          "1 bag (13 ounces) of frozen pigeon peas or 1 can (15 ounces) of pigeon peas",
+          "About 7 cups beef, chicken, turkey, or vegetable broth",
+          "6 bay leaves or avocado leaves",
+          "1 banana leaf or plantain leaf (optional)"
+        ],
+        "steps": [
+          "Add chopped onions to blender, and blend until liquefied.",
+          "With the motor running, add the remaining sofrito ingredients one at a time and process until smooth.",
+          "Remove and reserve 3 cups of sofrito for rice.",
+          "Heat the oil and annatto seeds in a small skillet over medium heat just until the seeds give off a lively, steady sizzle. Don't overheat the mixture or the seeds will turn black and the oil green. Once they're sizzling, pull the pan from the heat and let stand until the sizzling stops. Strain as much of the oil as you can into a heavy 5-quart pot or Dutch oven and let it stand for at least 5 minutes.",
+          "Lightly toast the cumin and coriander seeds in a small skillet over low heat for a few minutes before grinding them releases flavor and aroma. Keep an eye on them, they turn dark fast. Grind in a little spice grinder, coffee mill, or mortar and pestle.",
+          "If using frozen pigeon peas, boil them for 10 minutes before using. If using from a can, drain the liquid and rinse the peas.",
+          "Re-heat oil over high heat until rippling. Stir in ham hock and salami and brown. Add sofrito, alcaparrado, grated plantain, and salt. Cook until sofrito stops boiling and sizzles, about 5 minutes.",
+          "Add cumin, coriander, orégano brujo, bay leaves or avocado leaves, and black pepper. Cook, stirring in the sofrito for an additional 30–45 seconds until the aroma release from spices.",
+          "Stir in the rice and peas until everything is mixed together and rice is coated with oil all over. Stir in enough broth or water to cover the rice by the width of two fingers. Top with banana leaf (or pan lid), folding it up as necessary to fit over rice or can cut what ever sticks out pot.",
+          "Bring to a boil, then boil without stirring until the level of liquid meets the rice. Remove the banana leaf, give the rice a big stir, and put leaf back on top.",
+          "Reduce the heat to low, cover the pot with lid, and cook until the water has been absorbed and the rice is tender (about 20 minutes)."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AArroz_con_Gandules_(Puerto_Rican_Rice_and_Pigeon_Peas)"
+      }
+    },
+    {
+      "id": "pernil",
+      "name": "Pernil",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pernil%20recipe",
+      "description": "Pernil (pernil asado, pernil al horno, roast pork) is a slow-roasted marinated pork leg or pork shoulder common in Puerto Rico, Dominican Republic, Cuba, Colombia, Venezuela and Ecuador. Pernil is typically accompanied by rice and is commonly shared during Christmas.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Pernil.1.jpg/500px-Pernil.1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pernil",
+      "recipe": {
+        "ingredients": [
+          "1 ea. 4 ½-pound (2.5 kg) pork shoulder",
+          "1 ½ tbsp kosher salt",
+          "12 medium garlic cloves, peeled",
+          "1 tbsp pepper",
+          "2 tbsp whole dry oregano",
+          "2 tbsp fresh thyme",
+          "2 tbsp olive oil",
+          "2 tbsp white wine vinegar"
+        ],
+        "steps": [
+          "Wash the pork shoulder.",
+          "Skin side down, use a sharp knife to make incisions in different places of the pork shoulder.",
+          "Grind together the garlic, pepper, oregano, and salt",
+          "When done grinding, mix in oil and vinegar.",
+          "Fill the incisions of the pork with the ground mixture. Whatever is left over rub on the outside of the pork.",
+          "Put away in the refrigerator for 3 days. If you planned to cook it the same day, prepare the pork at least 1 hour ahead of time.",
+          "Remove the pork shoulder from the refrigerator 2 hours before putting it in the oven.",
+          "Preheat the oven at 350ºF (180°C) for at least 10 minutes before you begin cooking the pork shoulder.",
+          "Cook the pork for 3½ hours.",
+          "Raise the temperature to 375°F (195°C) and cook for 15–30 minutes until the skin is toasted and browned."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARoasted_Pork_Shoulder_(Pernil_Asado)"
+      }
+    },
+    {
+      "id": "asopao",
+      "name": "Asopao",
+      "videoSearch": "https://www.youtube.com/results?search_query=Asopao%20recipe",
+      "description": "Asopao is a family of stews that can be made with chicken, pork, beef, shrimp seafood, vegetables, or any combination of the above. Asopao is Puerto Rico's national soup and one of the best known gastronomic recipes in Puerto Rico.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/AsopaodeCamarones.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Asopao"
+    },
+    {
+      "id": "tembleque",
+      "name": "Tembleque",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tembleque%20recipe",
+      "description": "Tembleque is a coconut dessert pudding from Puerto Rico similar to blancmange and related to Catalan menjar blanc and Filipino maja blanca. It is one of the best-known desserts in Puerto Rican cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Tembleque_-_coconut_pudding.jpg/500px-Tembleque_-_coconut_pudding.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tembleque",
+      "recipe": {
+        "ingredients": [
+          "1 can (16 oz) of coconut milk",
+          "1 can (16 oz) of coconut cream",
+          "½ cup heavy whipping cream",
+          "¼ cup cornstarch or rice flour",
+          "½ tsp orange blossom water (optional)",
+          "¾ cup white granulated sugar",
+          "1 pinch salt",
+          "Ground cinnamon for garnish"
+        ],
+        "steps": [
+          "Put sugar, coconut milk, coconut cream, and. salt, into a saucepan. Cook until sugar devolves and the milk starts to simmer.",
+          "Mix 3 tablespoons or more of cold heavy whipping cream into the corn starch. Whip until all the cornstarch is diluted but still thick. You want a smooth thick paste with no lumps.",
+          "When milk starts to simmer, add the remaining heavy whipping cream and cornstarch mixture into the saucepan.",
+          "Keep the heat on low and stir constantly until the pudding thickens.",
+          "Pour into pudding cups or small bowls.",
+          "Cool in the fridge for 2 hours.",
+          "To serve, flip the pudding bowls onto a plate to remove the pudding, then sprinkle cinnamon on top."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATembleque_(Puerto_Rican_Coconut_Pudding)"
+      }
+    },
+    {
+      "id": "alcapurria",
+      "name": "Alcapurria",
+      "videoSearch": "https://www.youtube.com/results?search_query=Alcapurria%20recipe",
+      "description": "Alcapurria is a well-known fritter from Puerto Rico. It is one of the most popular food items offered at Puerto Rican Cuchifritos restaurants.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Alcapurrias-many.jpg/500px-Alcapurrias-many.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alcapurria"
+    },
+    {
+      "id": "pasteles",
+      "name": "Pasteles",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pasteles%20recipe",
+      "description": "Pasteles, also pastelles in the English-speaking Caribbean, are a traditional dish in several Latin American and Caribbean countries. In Puerto Rico, the Dominican Republic, Venezuela, Panama, Trinidad and Tobago, and the Caribbean coast of Colombia, the dish looks like a tamal.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Pasteles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pasteles"
+    },
+    {
+      "id": "lechon",
+      "name": "Lechón",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lech%C3%B3n%20recipe",
+      "description": "A sucking-pig (BrE) or suckling pig (AmE) is a piglet fed on its mother's milk (i.e., a piglet which is still being \"suckled\"). In culinary contexts, a sucking-pig is slaughtered before the end of its second month.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Cochinillos-Mercado_de_la_Cebada.jpg/500px-Cochinillos-Mercado_de_la_Cebada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Suckling_pig"
+    },
+    {
+      "id": "bacalaitos",
+      "name": "Bacalaítos",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bacala%C3%ADtos%20recipe",
+      "description": "A bacalaíto is a salted codfish fritter, a traditional Puerto Rican snack that typically is eaten with an entire meal. Bacalaítos are served at the beach, cuchifritos, and at festivals. They are crispy on the outside and dense and chewy in the inside.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Bacala%C3%ADto_and_fried_pork.jpg/500px-Bacala%C3%ADto_and_fried_pork.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bacala%C3%ADto"
+    },
+    {
+      "id": "tostones",
+      "name": "Tostones",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tostones%20recipe",
+      "description": "Tostones are twice-fried plantain slices commonly found in Latin American cuisine and Caribbean cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Tostones.JPG/500px-Tostones.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tostones"
+    }
+  ]
+}

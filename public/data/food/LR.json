@@ -1,0 +1,290 @@
+{
+  "country": "LR",
+  "dishes": [
+    {
+      "id": "jollof-rice",
+      "name": "Jollof rice",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jollof%20rice%20recipe",
+      "description": "Jollof (), or jollof rice, is a rice dish from Senegal, West Africa. It is typically made with long-grain rice, tomatoes, chilis, onions, spices, and sometimes other vegetables and/or meat in a single pot, although its ingredients and preparation methods vary across different regions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Jollof_Rice_with_Stew.jpg/500px-Jollof_Rice_with_Stew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jollof_rice",
+      "recipe": {
+        "ingredients": [
+          "2 large chicken breasts, cut into cubes",
+          "Salt to taste",
+          "Chile powder to taste",
+          "1 cup vegetable oil",
+          "1 large sweet onions, neatly chopped",
+          "2 pounds boiled pork or beef, cut into cubes",
+          "2 bags of frozen mixed vegetables (such as sweet corn, string beans, etc), thawed and drained",
+          "2 medium-size cans of tomato paste",
+          "4 chicken bouillon cubes, crushed",
+          "3 pounds steamed shrimp (optional)",
+          "2 cups diced bell pepper",
+          "5 cups rice, rinsed"
+        ],
+        "steps": [
+          "Season the chicken with salt and red pepper. Leave it to stand for about 5 minutes.",
+          "In a frying pan, brown the chicken in hot vegetable oil. Then transfer the chicken to a large pot.",
+          "In the same frying pan, add the onions and beef or pork. Fry lightly and add to the pot with the chicken.",
+          "Combine the mixed vegetables, tomato paste, bouillon cubes, salt to taste, shrimp, and bell pepper. Leave to simmer for about 10 minutes.",
+          "Add the rice, stir well, and cook over low heat for about 40–45 minutes.",
+          "Serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALiberian_Jollof_Rice"
+      }
+    },
+    {
+      "id": "cassava-leaf-soup",
+      "name": "Cassava leaf soup",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cassava%20leaf%20soup%20recipe",
+      "recipe": {
+        "ingredients": [
+          "2 pounds cassava leaves, fresh or frozen",
+          "1 pound meat (beef, chicken, or fish), cut into bite-sized pieces",
+          "1 onion, finely chopped",
+          "2–3 cloves of garlic, minced",
+          "1 piece of ginger, grated",
+          "2–3 Scotch bonnet chile peppers, finely chopped",
+          "2 tablespoons palm oil",
+          "4–5 cups chicken broth or water",
+          "1 sweet potato, peeled and diced",
+          "1 plantain, peeled and sliced",
+          "Salt, to taste",
+          "Ground black pepper, to taste"
+        ],
+        "steps": [
+          "If using fresh cassava leaves, wash them thoroughly and remove any tough stems. If using frozen cassava leaves, thaw them according to the package instructions.",
+          "In a large pot, heat the palm oil over medium heat.",
+          "Add the chopped onion, minced garlic, and grated ginger to the pot. Sauté until the onion becomes translucent and fragrant.",
+          "Stir in the chopped Scotch bonnet peppers and cook for a few minutes to release the flavors.",
+          "Add the meat to the pot and cook until it is browned on all sides.",
+          "Pour in the chicken broth or water and bring the mixture to a simmer. Cover the pot and let the meat cook for about 20–25 minutes, or until it is tender.",
+          "Add the diced sweet potato and sliced plantain to the pot. Let the soup simmer for another 10–15 minutes, or until the vegetables are cooked through.",
+          "Stir in the cassava leaves and let the soup simmer for an additional 45 minutes to 1 hour, stirring occasionally to prevent sticking.",
+          "Season the soup with salt and ground black pepper to taste. Adjust the seasoning according to your preference.",
+          "Remove the pot from the heat and let the soup rest for a few minutes before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALiberian_Cassava_Leaf_Soup"
+      }
+    },
+    {
+      "id": "dumboy",
+      "name": "Dumboy",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dumboy%20recipe",
+      "recipe": {
+        "ingredients": [
+          "Cassava tubers, peeled and cut into chunks",
+          "3 lb goat, chicken, or beef, cut into bite-size pieces",
+          "1 large onion, neatly chopped",
+          "3 bay leaves",
+          "2 habanero peppers, neatly chopped",
+          "3 tablespoons salt, or to taste",
+          "3 beef bouillon cubes, crushed",
+          "3 lb raw shrimp",
+          "4 whole okra pods, finely chopped"
+        ],
+        "steps": [
+          "Rinse the cassava chunks, then boil in a saucepan of water for 20 minutes. Drain and cool.",
+          "If desired, slice the boiled cassava into smaller chunks.",
+          "Mash the cassava in a mortar until it begins to form a sticky dough. Occasionally, you can moisten the pestle with a little water if necessary.",
+          "When the desired consistency is reached, mould the dough into nicely shaped balls, and set them aside.",
+          "Combine the meat, onions, bay leaves, and habanero pepper in a large dutch oven. Add a reasonable amount of water and season with a generous pinch of salt and crushed bouillon cubes.",
+          "Cover the pot and boil for about 30 minutes until the meat becomes tender.",
+          "Add the shrimp and okra to the soup. Stir and simmer for another 10 minutes over medium heat.",
+          "Serve the soup with the prepared dumboy."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ADumboy_and_Pepper_Soup"
+      }
+    },
+    {
+      "id": "fufu",
+      "name": "Fufu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fufu%20recipe",
+      "description": "Fufu (or fufuo, foofoo, foufou foo-foo ) is a pounded meal found in West African cuisine originally made from boiled cassava, plantains, and cocoyam. Fufu's prevalence in West Africa has been noted in local literature, such as Chinua Achebe's Things Fall Apart. Fufu is a Twi word originating from the Akans in Ghana.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Wrapped_fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fufu",
+      "recipe": {
+        "ingredients": [
+          "2 pounds cassava, yams, or plantains",
+          "Water"
+        ],
+        "steps": [
+          "Peel and cut the cassava, yams, or plantains into chunks, and place them in a large pot.",
+          "Add enough water to cover the vegetables, and bring the pot to a boil over high heat.",
+          "Reduce the heat to medium and let the vegetables simmer until they are tender and easily pierced with a fork.",
+          "Drain the water from the cooked vegetables, and transfer them to a large bowl.",
+          "Use a potato masher, or mortar and pestle to pound the vegetables into a smooth, thick paste. You can also use a stand mixer or food processor for this step.",
+          "Continue pounding and kneading the mixture until it forms a smooth and stretchy dough-like consistency. This process may take some time and effort, but it is essential for achieving the right texture.",
+          "Once the fufu has reached the desired consistency, shape it into small balls or serve it as a large mound on a serving platter.",
+          "Serve with various soups and stews. It can be used as a utensil to scoop up the soup or stew."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALiberian_Fufu"
+      }
+    },
+    {
+      "id": "pepper-soup",
+      "name": "Pepper soup",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pepper%20soup%20recipe",
+      "description": "Peppersoup (or pepper soup) is a soup eaten by Cameroonians and Nigerians. This soup is made using various meats or fish, chili peppers, salt, scent leaves and calabash nutmeg as its primary ingredients. It is a spicy soup that has a light, watery texture.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Assorted_meat_pepper_soup_at_Lagos_Island.jpg/500px-Assorted_meat_pepper_soup_at_Lagos_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peppersoup",
+      "recipe": {
+        "ingredients": [
+          "2 tablespoons palm oil",
+          "1 onion, finely chopped",
+          "2 cloves of garlic, minced",
+          "1 ginger, grated",
+          "2 Scotch bonnet chile peppers, finely chopped",
+          "1 bay leaf",
+          "1 pound chicken, cut into pieces",
+          "4–5 cups chicken broth",
+          "1 pound fish, cut into steaks or fillets",
+          "1 plantain, peeled and sliced",
+          "1 carrot, sliced",
+          "Salt to taste",
+          "Ground black pepper, to taste"
+        ],
+        "steps": [
+          "In a large pot, heat the palm oil over medium heat.",
+          "Add the chopped onion, minced garlic, and grated ginger to the pot. Sauté until the onion becomes translucent and fragrant.",
+          "Stir in the chopped Scotch bonnet peppers and bay leaf. Cook for a few minutes to release the flavors.",
+          "Add the chicken pieces to the pot and cook until they are lightly browned on all sides.",
+          "Pour in the chicken broth and bring the mixture to a simmer. Cover the pot and let the chicken cook for about 20–25 minutes, or until it is fully cooked and tender.",
+          "Once the chicken is cooked, add the fish steaks or fillets to the pot and let them simmer in the soup for an additional 5–10 minutes, or until they are cooked through.",
+          "Stir in the sliced plantain and carrot. Let the soup simmer for another 5–7 minutes, or until the vegetables are tender.",
+          "Season the soup with salt and ground black pepper to taste. Adjust the seasoning according to your preference and desired level of spiciness.",
+          "Remove the pot from the heat and let the soup rest for a few minutes before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALiberian_Pepper_Soup"
+      }
+    },
+    {
+      "id": "kala",
+      "name": "Kala",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kala%20recipe",
+      "recipe": {
+        "ingredients": [
+          "1 tablespoon salt or to taste",
+          "1 cup sugar",
+          "3–4 cups warm water",
+          "4½ teaspoon active dry yeast",
+          "6–7 cups all purpose flour",
+          "Vegetable oil for deep frying"
+        ],
+        "steps": [
+          "Combine the salt, sugar, warm water, and yeast in a medium-size bowl. Set aside for about 5–7 minutes.",
+          "Add the flour and mix very well; if you have a mixer, use it.",
+          "Let the mixture rise for approximately 2 hours.",
+          "Pour the vegetable oil in a large saucepan until it reaches at least 5 cm deep—too little oil will result in flatter fritter. Heat over medium heat—a drop of batter should rise to the surface and start sizzling.",
+          "Use a spoon or your hands to drop dollops of batter into the hot oil. Fry for a few minutes until golden brown on one side. Turn the ball to the other side and fry until golden brown.",
+          "Use a large perforated spoon to remove the fritters and place them on paper towels to soak up excess oil.",
+          "If desired, roll the finished product in powdered sugar or table sugar."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKala_(Liberian_Fritters)"
+      }
+    },
+    {
+      "id": "potato-greens",
+      "name": "Potato greens",
+      "videoSearch": "https://www.youtube.com/results?search_query=Potato%20greens%20recipe",
+      "recipe": {
+        "ingredients": [
+          "3 large bunches of sweet potato greens (see notes)",
+          "Vegetable oil",
+          "2 big onions, neatly chopped",
+          "2 lbs meat, cut into medium cubes",
+          "Seasoned salt to taste",
+          "Onion powder to taste",
+          "Chicken bouillon cubes, crushed",
+          "Ground red or black pepper to taste"
+        ],
+        "steps": [
+          "Wash the potato greens very well, and remove the leaves from the stems. Chop the leaves into small pieces and set aside.",
+          "Heat a few tablespoons of oil in a large pot. Add the onions and meat, and cook until almost done. Remove from the pot and set aside.",
+          "Add the potato greens, and fry for about 15 minutes or until tender. Stir frequently to prevent burning.",
+          "Add enough water to cover the greens, and season to taste with salt, onion powder, bouillon cubes, and ground pepper.",
+          "Cook over medium heat until all the water is gone, stirring frequently.",
+          "Remove from the heat and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALiberian_Potato_Greens"
+      }
+    },
+    {
+      "id": "torborgee",
+      "name": "Torborgee",
+      "videoSearch": "https://www.youtube.com/results?search_query=Torborgee%20recipe",
+      "recipe": {
+        "ingredients": [
+          "48 oz dried beans",
+          "4 cups vegetable broth",
+          "2 medium size onions, neatly chopped",
+          "1 cup water",
+          "22 oz seitan",
+          "2 habanero pepper, neatly chopped",
+          "1 cup palm oil",
+          "½ teaspoon country soda or 2 pinches of baking soda, dissolved in warm water",
+          "1 teaspoon of salt or to taste"
+        ],
+        "steps": [
+          "Pick over the beans and remove any unwanted ones. You may soak them overnight to reduce the cooking period. Place beans in a pot and cover with water. Boil until tender, adding water if needed.",
+          "Drain and mash the beans to your preferred consistency.",
+          "Bring the vegetable broth to a boil in a separate pot. Stir in the mashed beans along with the onions, 1 cup water, seitan, and habanero pepper. Boil for about 20–25 minutes.",
+          "Stir in the palm oil. Reduce to low heat and simmer for about 5 minutes, stirring to prevent burning.",
+          "Stir in the potash and salt to taste.",
+          "Remove from the heat and let rest for about 5 minutes.",
+          "Enjoy with any complimentary dish of your choice such as bread, rice, or garri."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALiberian_Country_Beans_Torborgee"
+      }
+    },
+    {
+      "id": "palava-sauce",
+      "name": "Palava sauce",
+      "videoSearch": "https://www.youtube.com/results?search_query=Palava%20sauce%20recipe",
+      "description": "Palaver sauce or palava sauce (or plasas) is a type of stew widely eaten in West Africa, including Ghana, Liberia, Sierra Leone.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Palava_sauce_w-_cocoyam_leaf_%285612472154%29.jpg/500px-Palava_sauce_w-_cocoyam_leaf_%285612472154%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Palaver_sauce",
+      "recipe": {
+        "ingredients": [
+          "1 lb meat (e.g. stew beef), cut into ½-inch cubes",
+          "½ teaspoon salt or to taste",
+          "3 large onions, chopped",
+          "3 large garlic cloves, finely minced",
+          "1 medium-size dried red chile pepper, ground",
+          "2 large fresh tomatoes, diced",
+          "1 tablespoon tomato paste",
+          "1 lb frozen tilapia or cod fillet (or other firm white fish; optional)",
+          "2-inch square piece of salted cod",
+          "1 cup palm oil or vegetable oil",
+          "3 lb mixed chopped greens (e.g. kale, spinach, or mustard leaves)",
+          "5 oz smoked fish (e.g. mackerel)",
+          "1½ cup agushi seeds",
+          "3 fresh bay leaves (optional)",
+          "Ground dried shrimp (optional)"
+        ],
+        "steps": [
+          "Combine the beef, 1 cup water, and salt. Sprinkle some of the onions, garlic, and red pepper over the beef. Bring to a boil over medium heat, then cover and cook for about 15 minutes.",
+          "Add the remaining onions and red pepper, along with the tomatoes, tomato paste, fish, salt cod, and palm oil. Cook for about 5–10 minutes.",
+          "Add the chopped greens, then stir well and let it simmer over medium heat for another few minutes.",
+          "While the sauce simmers, clean the smoked fish, removing the head, skin, and bones. If you notice the sauce is boiling you can reduce the heat.",
+          "Gently put in the smoked fish into the saucepan, and let it simmer uncovered.",
+          "Grind the agushi seed in a blender with an equal amount of water. Transfer the mixture to the saucepan along with the bay leaves.",
+          "Try to avoid stirring the contents at this point, and leave the saucepan to simmer for about another 10 minutes.",
+          "Uncover the saucepan and mix the sauce. After that, continue to simmer on low heat until majority of the liquid is gone.",
+          "Taste and adjust the seasonings as needed to your desired taste. Enjoy with any complimentary dish of your choice.",
+          "Cook the greens in ½–1 cup of boiling water for 5 minutes. Drain the water from the greens, setting both the greens and the water aside for later.",
+          "Season and steam the meat as in the above method. Set aside.",
+          "In a large pot, heat some oil along with some chopped onions and fresh bay leaves. Fry them over medium heat until they are browned in order to season the oil. Remove and discard the bay leaves.",
+          "Stir in the ground red chili pepper, frozen fish, and salted cod. Cook for 10 minutes over medium heat.",
+          "Stir in the tomato paste and the water from cooking the greens. Cook, stirring constantly, for about 4 minutes.",
+          "Add the tomatoes and the cooked meat along with its juices.",
+          "Add the ground dried shrimp and the smoked fish (cleaned as in the above method).",
+          "Grind the agushi and stir it into the pot. Cover and cook for 10 minutes.",
+          "Stir and adjust the seasonings to taste. Remove from the heat, and enjoy with any special dish of your choice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APalaver_Sauce"
+      }
+    }
+  ]
+}

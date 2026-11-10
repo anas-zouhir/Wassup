@@ -1,0 +1,226 @@
+{
+  "country": "RU",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "ria",
+        "name": "RIA Novosti",
+        "homepage": "https://ria.ru",
+        "lang": "ru"
+      },
+      "fetchedAt": "2026-10-22T15:13:20.597Z",
+      "items": [
+        {
+          "title": "В Госдуме призвали Лондон рассказать правду о \"Северных потоках\"",
+          "link": "https://ria.ru/20261022/zhurova-2126331489.html",
+          "publishedAt": "2026-10-22T15:12:36.000Z"
+        },
+        {
+          "title": "В Приднестровье призвали жителей выйти на митинг против давления Молдавии",
+          "link": "https://ria.ru/20261022/pmr-2126331181.html",
+          "publishedAt": "2026-10-22T15:08:02.000Z"
+        },
+        {
+          "title": "Уиткофф в шпаргалке обозначил Зеленского всего одной буквой",
+          "link": "https://ria.ru/20261022/uitkoff-2126330786.html",
+          "image": "https://cdnn21.imgria.ru/images/07ea/0a/15/2125874292_0:80:2969:1750_650x0_80_0_0_99cac127e7df45a77e48e5fa671d0ce2.jpg",
+          "publishedAt": "2026-10-22T15:06:20.000Z"
+        },
+        {
+          "title": "Спецоперация, 22 октября: ВС России освободили Мировку",
+          "link": "https://ria.ru/20261022/spetsoperatsiya-2126330321.html",
+          "image": "https://cdnn21.imgria.ru/images/07ea/08/0e/2110865070_0:0:3151:1772_650x0_80_0_0_f638e4b23a47f752340159b46e91a9e7.jpg",
+          "publishedAt": "2026-10-22T15:06:13.000Z"
+        },
+        {
+          "title": "Минпромторг анонсировал расширение списка локализованных авто для такси",
+          "link": "https://ria.ru/20261022/taksi-2126326398.html",
+          "image": "https://cdnn21.imgria.ru/images/07ea/0a/0b/2123826773_0:133:3071:1860_650x0_80_0_0_9bebbfd2fc6657efae89c0d098d62522.jpg",
+          "publishedAt": "2026-10-22T15:04:21.000Z"
+        },
+        {
+          "title": "Уиткофф пришел на встречу с Путиным с заметками о трехсторонних переговорах",
+          "link": "https://ria.ru/20261022/uitkoff-2126325366.html",
+          "image": "https://cdnn21.imgria.ru/images/07ea/0a/15/2125944327_0:155:3065:1879_650x0_80_0_0_e57457f2728bda3842db7038a251d935.jpg",
+          "publishedAt": "2026-10-22T15:01:20.000Z"
+        },
+        {
+          "title": "Российские правозащитники осудили идею властей Львова объявить год УПА*",
+          "link": "https://ria.ru/20261022/pravozaschitniki-2126325111.html",
+          "image": "https://cdnn21.imgria.ru/images/07e9/0c/0c/2061679052_0:155:3071:1882_650x0_80_0_0_61f75bd0d30000e2edbdfaf6a3c6b6f7.jpg",
+          "publishedAt": "2026-10-22T14:57:52.000Z"
+        },
+        {
+          "title": "В Белгородской области два человека пострадали при атаках ВСУ",
+          "link": "https://ria.ru/20261022/vsu-2126325023.html",
+          "image": "https://cdnn21.imgria.ru/images/07ea/08/0e/2110898446_0:141:3140:1907_650x0_80_0_0_765eb71b47caaed0d4566cb08aae9b8e.jpg",
+          "publishedAt": "2026-10-22T14:57:45.000Z"
+        },
+        {
+          "title": "В Вене тысячи студентов участвуют в протестном шествии",
+          "link": "https://ria.ru/20261022/vena-2126324779.html",
+          "publishedAt": "2026-10-22T14:56:33.000Z"
+        },
+        {
+          "title": "Банки США выявили ИИ-агентов, действующих без разрешения клиентов",
+          "link": "https://ria.ru/20261022/banki-2126324262.html",
+          "image": "https://cdnn21.imgria.ru/images/94188/40/941884062_0:469:5001:3282_650x0_80_0_0_81292dbd2cbe7ce1c5d02741dea33d97.jpg",
+          "publishedAt": "2026-10-22T14:55:33.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "kommersant",
+        "name": "Kommersant",
+        "homepage": "https://www.kommersant.ru",
+        "lang": "ru"
+      },
+      "fetchedAt": "2026-10-22T15:13:23.394Z",
+      "items": [
+        {
+          "title": "Суд в Молдавии вернул Некоглая в СИЗО из-под домашнего ареста",
+          "link": "https://www.kommersant.ru/doc/9045083",
+          "summary": "Апелляционная палата Кишинева удовлетворила ходатайство прокуратуры об ужесточении меры пресечения блогеру Некоглаю (Николаю Лебедеву). Его переведут в следственный изолятор №13 из-под домашнего ареста, сообщает TVR…",
+          "publishedAt": "2026-10-22T15:00:19.000Z"
+        },
+        {
+          "title": "Егор Крид извинился за лонгслив с героем «Иди и смотри» после жалобы в СКР",
+          "link": "https://www.kommersant.ru/doc/9045110",
+          "summary": "Российский музыкант Егор Крид извинился за то, что был одет в лонгслив с изображением лица главного героя фильма «Иди и смотри» на съемках клипа. Он написал в Telegram-канале, что никакого политического или исторического…",
+          "publishedAt": "2026-10-22T14:59:14.000Z"
+        },
+        {
+          "title": "Флойд Мейуэзер договорился о бое за звание чемпиона мира по версии WBC",
+          "link": "https://www.kommersant.ru/doc/9045108",
+          "summary": "Действующий чемпион мира по версии WBC в полусреднем весе американец Райан Гарсия 21 сентября выступил в соцсети Х с громким заявлением. По его словам, он договорился о бое со знаменитым Флойдом Мейуэзером.",
+          "publishedAt": "2026-10-22T14:56:26.000Z"
+        },
+        {
+          "title": "Суд передал государству активы экс-судьи Метелкина почти на 230 млн рублей",
+          "link": "https://www.kommersant.ru/doc/9045088",
+          "summary": "Ленинский районный суд Краснодара удовлетворил иск о конфискации активов бывшего судьи Темрюкского районного суда Евгения Метелкина. В доход государства обратили земельный участок, здание гостиничного комплекса и…",
+          "publishedAt": "2026-10-22T14:52:03.000Z"
+        },
+        {
+          "title": "Крупнейший российский хостинг «Рег.ру» временно ограничил загрузку файлов",
+          "link": "https://www.kommersant.ru/doc/9045041",
+          "summary": "Пользователи крупнейшего российского регистратора доменных имен и хостинг-провайдера «Рег.ру» пожаловались на проблемы у сайтов, работающих через него. Комментаторы на платформе Detector404 пишут, что из-за «ошибки 403»…",
+          "publishedAt": "2026-10-22T14:48:05.000Z"
+        },
+        {
+          "title": "Вышел в прокат фильм Джордана Дауни «Цикл зверя»",
+          "link": "https://www.kommersant.ru/doc/9045084",
+          "summary": "На экранах — фильм Джордана Дауни «Цикл зверя» (The Cycle). Михаил Трофименков честно изучил пятьдесят оттенков слякоти, в гамме которой снят этот нелепый гибрид триллера и фильма ужасов о волке-оборотне.",
+          "publishedAt": "2026-10-22T14:34:45.000Z"
+        },
+        {
+          "title": "Коммерческий директор «Осторожно Media» Кирилл Суханов вышел на свободу",
+          "link": "https://www.kommersant.ru/doc/9045026",
+          "summary": "Коммерческий директор холдинга «Осторожно Media» Кирилл Суханов вышел на свободу из колонии строгого режима в Рязанской области, где отбывал срок по делу о вымогательстве, сообщил «Ъ» источник во ФСИН. 6 октября…",
+          "image": "https://im2.kommersant.ru/Issues.photo2/NEWS/2026/10/22/KMO_197761_00017_1_t219_174327.jpg",
+          "publishedAt": "2026-10-22T14:31:21.000Z"
+        },
+        {
+          "title": "В ЕС снова занялись поиском переговорщика для диалога с Владимиром Путиным",
+          "link": "https://www.kommersant.ru/doc/9045061",
+          "summary": "ЕС вернулся к проблеме выбора кандидата, который будет представлять объединение на переговорах по украинскому конфликту. 22 октября об этом написало издание Politico.",
+          "publishedAt": "2026-10-22T14:07:04.000Z"
+        },
+        {
+          "title": "В Румынии ученик 9-го класса напал на сверстников с мачете",
+          "link": "https://www.kommersant.ru/doc/9045008",
+          "summary": "В румынском городе Питешти ученик 9-го класса напал с мачете на двух одноклассников. Причиной этого могла стать травля с их стороны, сообщает ePitesti со ссылкой на директора учреждения.",
+          "publishedAt": "2026-10-22T13:59:58.000Z"
+        },
+        {
+          "title": "Пашинян назвал возможный срок подписания соглашения с Азербайджаном",
+          "link": "https://www.kommersant.ru/doc/9045051",
+          "summary": "Премьер-министр Армении Никол Пашинян заявил, что мирное соглашение с Азербайджаном может быть подписано в 2027-2028 годах. По его словам, сроки, которые озвучивают СМИ -- 2031 год -- были названы лишь потому, что мандат…",
+          "publishedAt": "2026-10-22T13:59:53.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "meduza",
+        "name": "Meduza",
+        "homepage": "https://meduza.io",
+        "lang": "ru"
+      },
+      "fetchedAt": "2026-10-22T15:13:19.913Z",
+      "items": [
+        {
+          "title": "Бывший коммерческий директор Ксении Собчак Кирилл Суханов вышел на свободу. Он отсидел четыре года по делу о вымогательстве у главы «Ростеха»",
+          "link": "https://meduza.io/news/2026/10/22/byvshiy-kommercheskiy-direktor-ksenii-sobchak-kirill-suhanov-vyshel-na-svobodu-on-otsidel-chetyre-goda-po-delu-o-vymogatelstve-u-glavy-rosteha",
+          "summary": "Бывший коммерческий директор Ксении Собчак Кирилл Суханов освободился из колонии, пишут телеграм-каналы Mash, «База» и «112».",
+          "image": "https://meduza.io/imgly/share/1792680935/news/2026/10/22/byvshiy-kommercheskiy-direktor-ksenii-sobchak-kirill-suhanov-vyshel-na-svobodu-on-otsidel-chetyre-goda-po-delu-o-vymogatelstve-u-glavy-rosteha",
+          "publishedAt": "2026-10-22T14:55:35.000Z"
+        },
+        {
+          "title": "Глава Пентагона захотел украсить свой кабинет старинным глобусом Эйзенхауэра. Но при переноске его сломали",
+          "link": "https://meduza.io/news/2026/10/22/glava-pentagona-zahotel-ukrasit-svoy-kabinet-starinnym-globusom-eyzenhauera-no-pri-perenoske-ego-slomali",
+          "summary": "Сотрудники команды министра обороны США Пита Хегсета повредили хранившийся в Пентагоне старинный глобус, пишет The Washington Post. Этот глобус диаметром около 76 сантиметров был изготовлен в 1930-х годах и,…",
+          "image": "https://meduza.io/imgly/share/1792679070/news/2026/10/22/glava-pentagona-zahotel-ukrasit-svoy-kabinet-starinnym-globusom-eyzenhauera-no-pri-perenoske-ego-slomali",
+          "publishedAt": "2026-10-22T14:23:56.000Z"
+        },
+        {
+          "title": "Сотни миллионов сайтов оказались под угрозой взлома из-за уязвимостей в языке программирования PHP. Насколько это опасно? И угрожает ли что-то лично вам?",
+          "link": "https://meduza.io/cards/sotni-millionov-saytov-okazalis-pod-ugrozoy-vzloma-iz-za-uyazvimostey-v-yazyke-programmirovaniya-php-naskolko-eto-opasno",
+          "summary": "21 октября команда разработчиков языка программирования PHP сообщила, что обнаружила две уязвимости. По шкале CVSS они получили оценку 9,2 из 10 — это соответствует критическому уровню. Найденные уязвимости позволяют…",
+          "image": "https://meduza.io/imgly/zen/1792679032/cards/sotni-millionov-saytov-okazalis-pod-ugrozoy-vzloma-iz-za-uyazvimostey-v-yazyke-programmirovaniya-php-naskolko-eto-opasno",
+          "publishedAt": "2026-10-22T14:23:52.000Z"
+        },
+        {
+          "title": "Жительница Петербурга обратилась в полицию с заявлением об изнасиловании. В отделении над ней пять часов издевались, избивали и подвергали сексуализированному насилию",
+          "link": "https://meduza.io/feature/2026/10/22/zhitelnitsa-peterburga-obratilas-v-politsiyu-s-zayavleniem-ob-iznasilovanii",
+          "summary": "Жительница Петербурга Ирина обвинила сотрудника отделения полиции № 14 по Фрунзенскому району в издевательствах, избиении и сексуализированном насилии.",
+          "image": "https://meduza.io/image/attachments/images/012/883/334/small/GopxqFD_XUqFCyRCCtUKBg",
+          "publishedAt": "2026-10-22T13:54:32.000Z"
+        },
+        {
+          "title": "Вирус Шамонда, который раньше встречался только у животных, впервые обнаружили у умершего человека. Звучит страшно — но как на самом деле? Экономим ваше время — и отвечаем в одном абзаце",
+          "link": "https://meduza.io/feature/2026/10/22/virus-shamonda-kotoryy-ranshe-vstrechalsya-tolko-u-zhivotnyh-vpervye-obnaruzhili-u-umershego-cheloveka-zvuchit-strashno-no-kak-na-samom-dele",
+          "summary": "22 октября стало известно, что во Франции умер человек, у которого обнаружили вирус Шамонда. Вероятно, он заболел из-за укуса мокреца, когда находился на востоке страны. Это первый известный случай, когда вирус…",
+          "image": "https://meduza.io/image/attachments/images/012/883/890/small/KCqgzISxxAZYobunG4o9jw",
+          "publishedAt": "2026-10-22T13:34:02.000Z"
+        },
+        {
+          "title": "Bloomberg: в «Роснефти» считают, что еще несколько месяцев войны нанесут компании долгосрочный ущерб",
+          "link": "https://meduza.io/news/2026/10/22/bloomberg-v-rosnefti-schitayut-chto-esche-neskolko-mesyatsev-voyny-nanesut-kompanii-dolgosrochnyy-uscherb",
+          "summary": "Представители «Роснефти» выражают опасение, что даже еще несколько месяцев войны с Украиной могут нанести долгосрочный ущерб бизнесу компании. Об этом сообщает Bloomberg со ссылкой на источники.",
+          "image": "https://meduza.io/imgly/share/1792674006/news/2026/10/22/bloomberg-v-rosnefti-schitayut-chto-esche-neskolko-mesyatsev-voyny-nanesut-kompanii-dolgosrochnyy-uscherb",
+          "publishedAt": "2026-10-22T13:00:06.000Z"
+        },
+        {
+          "title": "Европарламент наградил премией Сахарова Международный уголовный суд (против которого Трамп ввел санкции)",
+          "link": "https://meduza.io/news/2026/10/22/evroparlament-nagradil-premiey-saharova-mezhdunarodnyy-ugolovnyy-sud-protiv-kotorogo-tramp-vvel-sanktsii",
+          "summary": "Европарламент присудил ежегодную премию имени Сахарова Международному уголовному суду (МУС). Тем самым депутаты решили поддержать суд, против которого в начале октября администрация Дональда Трампа ввела санкции.",
+          "image": "https://meduza.io/imgly/share/1792673456/news/2026/10/22/evroparlament-nagradil-premiey-saharova-mezhdunarodnyy-ugolovnyy-sud-protiv-kotorogo-tramp-vvel-sanktsii",
+          "publishedAt": "2026-10-22T12:50:56.000Z"
+        },
+        {
+          "title": "«Али Джи: Кто есть я?» — режиссерский дебют Саши Барона Коэна. Это неполиткорректная комедия о неполиткорректности. И, к сожалению, она оказалась недостаточно смешной",
+          "link": "https://meduza.io/feature/2026/10/22/ali-dzhi-kto-est-ya-rezhisserskiy-debyut-sashi-barona-koena",
+          "summary": "«Али Джи: Кто есть я?» (Ali G: Who Iz I?) — первая режиссерская работа Саши Барона Коэна. Предыдущие фильмы о его непутевых героях (к ним относятся Борат, генерал Аладдин и так далее) снимали другие режиссеры; последний…",
+          "image": "https://meduza.io/image/attachments/images/012/883/638/small/3mVo30yBBJ-JmILDrGpOMA",
+          "publishedAt": "2026-10-22T12:42:46.000Z"
+        },
+        {
+          "title": "В Германии задержали украинца по подозрению в шпионаже в пользу России",
+          "link": "https://meduza.io/news/2026/10/22/v-germanii-zaderzhali-ukraintsa-po-podozreniyu-v-shpionazhe-v-polzu-rossii",
+          "summary": "Гражданин Украины Вадим Ю. задержан в земле Бранденбург по подозрению в шпионаже в пользу России, сообщили в федеральной прокуратуре Германии.",
+          "image": "https://meduza.io/imgly/share/1792671927/news/2026/10/22/v-germanii-zaderzhali-ukraintsa-po-podozreniyu-v-shpionazhe-v-polzu-rossii",
+          "publishedAt": "2026-10-22T12:25:27.000Z"
+        },
+        {
+          "title": "Анкета эмигранта: журналист Владимир Раевский. Из России он уехал в Израиль, а теперь живет в Великобритании. Конечно же, в Лондоне — городе, который заставляет тебя «держать спину прямо»",
+          "link": "https://meduza.io/feature/2026/10/22/anketa-emigranta-zhurnalist-vladimir-raevskiy",
+          "summary": "Новый выпуск в нашей рубрике «Анкета эмигранта»! Напомним, первую анкету заполнила Монеточка, которая живет в Вильнюсе, а вторую — 32-летняя преподавательница английского Эльмира Драу из Еревана. На этот же раз о жизни в…",
+          "image": "https://meduza.io/image/attachments/images/012/869/452/small/j2dUzjS2SQ8zgdf5Ijjg4A",
+          "publishedAt": "2026-10-22T12:19:00.000Z"
+        }
+      ]
+    }
+  ]
+}

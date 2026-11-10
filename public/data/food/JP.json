@@ -1,0 +1,678 @@
+{
+  "country": "JP",
+  "dishes": [
+    {
+      "id": "sushi",
+      "name": "Sushi",
+      "localName": "寿司",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sushi%20recipe",
+      "description": "Sushi is a traditional Japanese dish made with vinegared rice (鮨飯, sushi-meshi), typically seasoned with sugar and salt, and combined with a variety of ingredients (ねた, neta), such as seafood, vegetables, or meat; raw seafood is the most common, although some may be cooked.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sushi_platter.jpg/500px-Sushi_platter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sushi",
+      "recipe": {
+        "ingredients": [
+          "Sushi rice",
+          "Topping",
+          "Wasabi (as needed)",
+          "Nori (as needed)"
+        ],
+        "steps": [
+          "If making nigirizushi that requires a band of nori to hold the sushi together, cut the nori into strips about ¼ inch wide and long enough to wrap around the finished sushi with at least 1 inch (2.5 cm) of overlap. Place one such strip on the preparing surface.",
+          "Hand form the sushi rice into suitable sized sushi bases. Generally, this means a rectangular block about ½–1 inch wide, 1–1½ inch (2.5–4 cm) long, and ½–¾ inch (1.5–2 cm) high. It takes considerable experience to form pleasing sushi bases by hand (beginners may find a plastic sushi mold helpful for forming the bases). Wetting the hands in water prior to forming each sushi base keeps the rice from sticking to the hands.",
+          "For nigirizushi requiring wasabi between the rice and topping, add a small dab of wasabi on the rice.",
+          "Add the selected topping on top of the sushi rice.",
+          "If nori is used, wrap one of the nori band ends up and over the nigirisushi topping firmly, so that it sticks to the rice and topping. Wet the other nori band end with a small amount of water, and wrap it up and over the topping so that it overlaps the other nori end. The water causes the nori ends to stick together."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ANigiri_Sushi"
+      }
+    },
+    {
+      "id": "ramen",
+      "name": "Ramen",
+      "localName": "ラーメン",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ramen%20recipe",
+      "description": "Ramen () is a Japanese-Chinese fusion noodle dish. It includes Chinese-style alkaline wheat noodles (中華麺, chūkamen) served in several flavors of hot broth.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Shoyu_Ramen%EF%BC%88Tokyo_Ramen%EF%BC%89_-_01.jpg/500px-Shoyu_Ramen%EF%BC%88Tokyo_Ramen%EF%BC%89_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ramen",
+      "recipe": {
+        "ingredients": [
+          "12 eggs in shells",
+          "1 lb diced pork hock meat",
+          "3 green onions, cut into 1-inch pieces",
+          "1 thumb-sized piece of ginger, sliced",
+          "2 large cloves of garlic, sliced",
+          "½ cup soy sauce",
+          "2 tbsp cooking wine/sake/sherry",
+          "2 tbsp sugar",
+          "½ cup water",
+          "6 pork hock bones",
+          "3 green onion",
+          "1 Fuji apple",
+          "2 medium-sized yellow onions",
+          "1½ tbsp fresh grated ginger or 2 tsp prepackaged ginger paste",
+          "3 cloves of garlic, quartered",
+          "2 tbsp sesame oil",
+          "12–16 cups water",
+          "500 grams all-purpose flour or medium-strength flour",
+          "5 grams powdered kansui (see notes)",
+          "200 ml water",
+          "Potato or corn starch",
+          "500 grams side pork",
+          "50 ml soy sauce",
+          "50 ml mirin",
+          "1 tbsp sugar",
+          "500 ml water"
+        ],
+        "steps": [
+          "Bring a pot of water to a rolling boil. If desired, use a small thumb tack to prick a pin hole in the base of every egg, then add eggs to the pot. The water should cover the eggs.",
+          "Wait for the water to come back to a full boil, then cook for 7–9 minutes. 9 minutes will give you a fully hard boiled egg, while 7 minutes makes a jammier egg.",
+          "Drain the pot and eggs and plunge the eggs in ice water to stop the cooking. This also makes the shells a bit easier to peel.",
+          "In a small pot, sauté pork, garlic, onions, and ginger until slightly browned. Add soy sauce, cooking alcohol, sugar, and water, and simmer for 10 minutes until pork is cooked through and flavors meld. Remove from stove.",
+          "Remove pork to eat separately. Pour everything else into a bowl large enough to hold marinade and eggs. Carefully, peel the eggs, and place in marinade. Try to make sure the marinade covers all of the eggs. If not, try transferring the sauce into a large ziplock bag, and place the eggs in the bag and seal.",
+          "Place the bag in a bowl, and put everything in the refrigerator overnight or at least for a few hours.",
+          "Using a butcher knife, separate off the pork hock bones.",
+          "Rinse well in running water to wash off the blood. Boil in large pot for 15 minutes and make sure you barely cover the bones with the water.",
+          "Skim off as much scum/foam as much possible as it forms.",
+          "Drain in colander and use a brush to remove any bloody meat.",
+          "Use a saw and cut halfway down the center of the bones. Then use hammer to break bone.",
+          "The bones will be filled with marrow. Simmer for several hours until the marrow dissolves out from the bones.",
+          "Scum will form at the start. Carefully skim the scum off. Maintain a low boil over medium heat.",
+          "After scum has stopped forming, simmer for 6 hours or more. Add more water if the water level drops.",
+          "2 hours after the pork bones have started simmering, the soup should become progressively white and cloudy. If tasted at this stage, the soup will not taste good since it will still have a raw flavor.",
+          "After the soup has simmered for 6 hours, the inside of the bones should be empty and the soup should have a rich smell just like a ramen place.",
+          "Brown the meat in a pan and then simmer in a pot for 2 hours in a sauce made from the remaining ingredients. Allow to cool in the pot. The char siu should be a nice amber color. Slice with care since it will be very tender and tend to fall apart.",
+          "Mix the flour and kansui together, then add the water. It may feel as if the amount of water is insufficient—this is normal.",
+          "Mix in bowl until a mealy consistency is achieved. The dough will be very stiff. Use you body weight to form the dough into a ball.",
+          "Transfer to kneading surface and knead. Knead vigorously for 10 minutes. It is okay if the dough cracks or does not knead together well.",
+          "Form into ball, cover with plastic wrap and allow to rest in the refrigerator for at least 30 minutes. Make sure that the dough does not dry out.",
+          "After the dough has rested, roll the dough out with a rolling pin to a thickness of 5 mm and then insert into pasta machine. Start out with the highest thickness and then continue on the lower settings until the desired thickness is achieved. If a pasta machine is not used, roll out the dough to the desired thickness with the rolling pin. Take into account that the noodles will expand 1.3 times when boiled.",
+          "The dough will not be that sticky, so a small amount of flour or potato (or corn) starch is sufficient for flouring.",
+          "A wooden box is best for storing the noodles, but if one is not available, use a metal tray lined with wax paper (to prevent sticking) and store in the refrigerator.",
+          "Bring a pot of water to a boil, and add the noodles. Cook the noodles to each person’s preference, then drain. For people who like curly noodles, firmly squeeze the noodles until the desired effect is achieved.",
+          "Warm a large soup bowl, and add the drained noodles. Add broth, then top with char siu and marinated egg. Add salt for flavor—use sparingly at first and then add more if desired."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATonkotsu_Ramen"
+      }
+    },
+    {
+      "id": "tempura",
+      "name": "Tempura",
+      "localName": "天ぷら",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tempura%20recipe",
+      "description": "Tempura is a Japanese dish that usually consists of seafood and vegetables that have been coated in a thin batter and deep-fried. Tempura originated in the 16th century, when Portuguese Jesuits brought the Western-style cooking method of coating foods with flour and frying, via Nanban trade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Tempura_01.jpg/500px-Tempura_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tempura",
+      "recipe": {
+        "ingredients": [
+          "1 egg",
+          "1 cup ice cold water",
+          "1 cup all-purpose flour",
+          "Oil for deep-frying (peanut oil is best)",
+          "Meat, vegetables, or seafood"
+        ],
+        "steps": [
+          "Heat oil in a deep pan to 340–350°F (~171–176°C).",
+          "Beat the egg in a bowl and add ice cold water. Warmer water will produce a sticky batter and more oily tempura.",
+          "Add flour and mix lightly. Do not overmix batter—a few lumps actually improve the result, adding crispiness.",
+          "Dip meat or vegetables briefly in the batter, and fry until brown.",
+          "Remove from the oil and drain.",
+          "Serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATempura"
+      }
+    },
+    {
+      "id": "sashimi",
+      "name": "Sashimi",
+      "localName": "刺身",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sashimi%20recipe",
+      "description": "Sashimi is a Japanese delicacy that consists of fresh raw fish or other raw meat that is sliced into thin pieces, and is often eaten with soy sauce.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/241109_Shigaraki_ware_Koga_Shiga_pref_Japan01s3.jpg/500px-241109_Shigaraki_ware_Koga_Shiga_pref_Japan01s3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sashimi"
+    },
+    {
+      "id": "miso-soup",
+      "name": "Miso soup",
+      "localName": "味噌汁",
+      "videoSearch": "https://www.youtube.com/results?search_query=Miso%20soup%20recipe",
+      "description": "Miso soup (味噌汁 or お味噌汁, miso-shiru or omiso-shiru; お-/o- being honorific) is a traditional Japanese soup consisting of miso in a dashi stock. It is commonly served as part of an ichijū-sansai (一汁三菜) meal 'one soup, three dishes' consisting of rice, soup, and side dishes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Miso_Soup_001.jpg/500px-Miso_Soup_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Miso_soup",
+      "recipe": {
+        "ingredients": [
+          "90–94% by volume dashi (consider using instant dashi mix)",
+          "6–10% by volume miso (red, white, or a combination)",
+          "Finely sliced and deep-fried tofu (agedashi tofu)",
+          "Cubed raw silky tofu (recommended)",
+          "Wakame seaweed (recommended)",
+          "Konbu (kelp), perhaps left over from making dashi",
+          "Spinach",
+          "Sliced scallion (recommended)",
+          "Grated daikon radish",
+          "Boiled and finely cubed potato",
+          "Clams (asari or shijimi)",
+          "Grated eggplant",
+          "Shrimp",
+          "Mushrooms"
+        ],
+        "steps": [
+          "Put dashi in a pot.",
+          "Add any garnish that needs cooking.",
+          "Heat the dashi, letting it simmer to cook any garnish that needs cooking. Do not bring to a rolling boil, as this degrades the flavor.",
+          "Add any garnish that does not need cooking, and remove from heat.",
+          "Add the miso to the soup. Avoid boiling the miso; some nuances of the flavor will be lost."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMiso_Soup_(Traditional)"
+      }
+    },
+    {
+      "id": "udon",
+      "name": "Udon",
+      "localName": "うどん",
+      "videoSearch": "https://www.youtube.com/results?search_query=Udon%20recipe",
+      "description": "Udon (うどん or 饂飩) is a thick noodle made from wheat flour, used in Japanese cuisine. There are a variety of ways it is prepared and served. Its simplest form is in a soup as kake udon with a mild broth called kakejiru made from dashi, soy sauce, and mirin.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%E9%B6%8F%E5%A4%A9%E3%81%AE%E3%81%86%E3%81%A9%E3%82%93.jpg/500px-%E9%B6%8F%E5%A4%A9%E3%81%AE%E3%81%86%E3%81%A9%E3%82%93.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Udon"
+    },
+    {
+      "id": "soba",
+      "name": "Soba",
+      "localName": "蕎麦",
+      "videoSearch": "https://www.youtube.com/results?search_query=Soba%20recipe",
+      "description": "Soba (そば or 蕎麦, \"buckwheat\") are Japanese noodles made from buckwheat flour, with varying amounts of wheat flour mixed in. It has an ashen brown color, and a slightly grainy texture. The noodles are served either chilled with a dipping sauce, or hot in a noodle soup.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Dried_soba_noodles_by_FotoosVanRobin.jpg/500px-Dried_soba_noodles_by_FotoosVanRobin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Soba"
+    },
+    {
+      "id": "okonomiyaki",
+      "name": "Okonomiyaki",
+      "localName": "お好み焼き",
+      "videoSearch": "https://www.youtube.com/results?search_query=Okonomiyaki%20recipe",
+      "description": "Okonomiyaki is a Japanese teppanyaki savory pancake dish consisting of wheat flour batter and other ingredients (mixed, or as toppings) cooked on a teppan (flat griddle).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Okonomiyaki_001.jpg/500px-Okonomiyaki_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Okonomiyaki",
+      "recipe": {
+        "ingredients": [
+          "1 cup all-purpose flour (or yam flour if you can get it)",
+          "1 cup water (or stock)",
+          "2 eggs",
+          "¾ cup finely sliced cabbage (about 2 inches long by ¼ inch wide)",
+          "2–3 green onions, chopped into ¼\" rounds (use white part and freshest bit of green part)",
+          "¼ cup mozzarella cheese (optional; other cheese may be substituted)",
+          "10 small slices of chicken, bacon or beef (your choice)",
+          "Okonomiyaki sauce (sold at Japanese markets)",
+          "Dried bonito flakes",
+          "Powdered nori (seaweed)"
+        ],
+        "steps": [
+          "Mix flour, water and eggs until smooth (about 25–30 strokes with a spoon or whisk; do not overmix.)",
+          "Gently fold in cabbage, green onions and cheese.",
+          "Heat a griddle or non-stick frying pan over medium heat. When pan is hot, add 1 tablespoon oil.",
+          "Add ⅓ cup of batter and flatten slightly. Fry for 2–3 minutes.",
+          "When pancake is golden brown on bottom, add toppings (chicken, bacon or beef, or other topping of your choice), and press into the batter slightly. Turn the pancake and fry for five minutes or until golden brown on other side.",
+          "Turn once more and fry topping side up for another minute.",
+          "To serve, place the okonomiyaki on a plate, top with bottled sauce, nori, and/or bonito flakes. Enjoy!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AOkonomiyaki_(Japanese_Savory_Pancake)"
+      }
+    },
+    {
+      "id": "takoyaki",
+      "name": "Takoyaki",
+      "localName": "たこ焼き",
+      "videoSearch": "https://www.youtube.com/results?search_query=Takoyaki%20recipe",
+      "description": "Takoyaki (Japanese: たこ焼き or 蛸焼) is a ball-shaped Japanese snack made of a wheat flour–based batter and cooked in a special molded pan. It is typically filled with minced or diced octopus (tako), tempura scraps (tenkasu), pickled ginger (beni shoga), and green onion (negi).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%A8%E3%83%9D%E3%83%B3%E9%85%A2%E3%81%AE%E3%81%9F%E3%81%93%E7%84%BC%E3%81%8D.jpg/500px-%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%A8%E3%83%9D%E3%83%B3%E9%85%A2%E3%81%AE%E3%81%9F%E3%81%93%E7%84%BC%E3%81%8D.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Takoyaki"
+    },
+    {
+      "id": "onigiri",
+      "name": "Onigiri",
+      "localName": "おにぎり",
+      "videoSearch": "https://www.youtube.com/results?search_query=Onigiri%20recipe",
+      "description": "Onigiri (おにぎり, お握り or 御握り), also known as omusubi (おむすび or お結び) or nigirimeshi (握り飯), is a Japanese rice ball made from white rice. It is usually formed into triangular or cylindrical shapes, and wrapped in nori (seaweed).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/%E5%B0%8F%E6%96%99%E7%90%86%E3%83%90%E3%83%AB%E3%81%95%E3%81%8F%E3%82%89_%E7%89%B9%E8%A3%BD%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A.jpg/500px-%E5%B0%8F%E6%96%99%E7%90%86%E3%83%90%E3%83%AB%E3%81%95%E3%81%8F%E3%82%89_%E7%89%B9%E8%A3%BD%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Onigiri",
+      "recipe": {
+        "ingredients": [
+          "100 ml (½ cup) uncooked Japanese-style short grain rice",
+          "Filling of choice, such as any of the following:",
+          "Umeboshi (pickled plums), stones removed",
+          "Canned tuna, mixed with mayonnaise and seasoned to taste with chopped leeks, soy sauce, or chilies; sour or salty flavours work well.",
+          "Cooked salmon",
+          "Cooked egg",
+          "Katsuobushi, moistened with a small amount of soy sauce",
+          "Nori sheets"
+        ],
+        "steps": [
+          "Cook the rice according to package or rice cooker directions. Let cool just enough to handle with your hands.",
+          "While the rice is cooking, prepare your fillings.",
+          "Fill a bowl with salt water to rinse your fingers and season the onigiri. You can fill and shape the onigiri using two different methods:",
+          "* Method 1: Wet your hands in the salt water. Take two large spoonfuls of rice into one hand (carefully; the rice is hot), and gently squeeze and flatten it with the other. Make an indentation in the middle, and put some of the filling into the center. Be a little careful to get the filling only in the center and not all over the ball; that can make the rice less sticky, and stickiness is good. \"Fold\" the rice over the filling so it becomes covered. Squeeze gently, and mold it into a triangular shape by folding both your hands along the palms while keeping the fingers straight. Squeeze like that, rotating the ball a few times, and you will soon have a very neat triangle—this really is much harder to explain than to do. Once the ball is done, put it down on a clean surface to cool down. Rinse your hands in the salt water and repeat.",
+          "* Method 2: Use a bowl and some plastic film. Place about ⅔ of the mixture into the centre of the cling wrap that has been draped into the bowl loosely. Then, add approximately 2 teaspoons of filling (this is working off of about 3–4 portions per cup of rice. Then, place the last ⅓ of the rice to the top. Then, mould the onigiri within the cling wrap. This drastically reduces mess and also is slightly more 'kid friendly'.",
+          "Once the balls are reasonably cool, you need to protect them from drying out. The easiest way is to wrap them in cling wrap, or put them into an airtight plastic food container. When it is time to eat, take one rice ball, wrap it in a piece of nori, and eat away. If you don't mind soggy nori, you can wrap the balls in nori beforehand."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AOnigiri"
+      }
+    },
+    {
+      "id": "tonkatsu",
+      "name": "Tonkatsu",
+      "localName": "豚カツ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tonkatsu%20recipe",
+      "description": "Tonkatsu is a type of Japanese cutlet (カツレツ, katsuretsu) made from pork. Slices of pork loin or fillet are coated with panko (bread crumbs) and then deep-fried in oil.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/%22Amai-Yuwaku%22_Special_Loin_Pork_Cutlet1.jpg/500px-%22Amai-Yuwaku%22_Special_Loin_Pork_Cutlet1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tonkatsu",
+      "recipe": {
+        "ingredients": [
+          "Soy sauce",
+          "Sugar",
+          "Worcestershire sauce",
+          "Ketchup",
+          "2 pork cutlets (boneless pork loin chop), about 1 cm thick",
+          "½ teaspoon kosher salt",
+          "⅛ teaspoon black pepper",
+          "1 egg (beaten)",
+          "2 tablespoons flour",
+          "½ cup panko (Japanese bread crumbs)",
+          "Vegetable oil for frying"
+        ],
+        "steps": [
+          "Combine the soy sauce, sugar, Worcestershire, and ketchup. Beat with fork until consistent.",
+          "If desired, chill sauce for a half hour to thicken.",
+          "Pound pork with meat mallet until thin, perhaps ¼ inch (a little more than 0.5 cm) thick. To reduce splatter you should put the meat in an open ziplock bag.",
+          "Season pounded cutlets with salt and pepper on each side.",
+          "Put beaten egg, flour, and bread crumbs in separate shallow bowls.",
+          "Place pork in the flour, then egg, then crumbs (in that order) so that it is completely coated with each.",
+          "Heat oil in a frying pan to about ½ inch or 1.25 cm deep. Drop in crumbs to test when the oil is ready—the crumbs should float and sizzle.",
+          "Fry pork until deep golden or golden brown, most likely a for a few minutes on either side.",
+          "With a sharp knife cut pork into strips.",
+          "Serve with Japanese short grain rice and thinly shredded cabbage."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATonkatsu"
+      }
+    },
+    {
+      "id": "gyudon",
+      "name": "Gyūdon",
+      "localName": "牛丼",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gy%C5%ABdon%20recipe",
+      "description": "Gyūdon (牛丼; \"beef bowl\"), also known as gyūmeshi, is a Japanese dish consisting of a bowl of rice topped with beef and onion, simmered in a mildly sweet sauce flavored with dashi (fish and seaweed stock), soy sauce and mirin (sweet rice wine).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Gyuu-don_001.jpg/500px-Gyuu-don_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gy%C5%ABdon",
+      "recipe": {
+        "ingredients": [
+          "2 eggs",
+          "200 g thinly-sliced beef",
+          "½ onion, cut into wedges",
+          "1 tablespoon sake",
+          "1 tablespoon sugar",
+          "1 tablespoon mirin",
+          "2 tablespoons soy sauce",
+          "100 ml water",
+          "½ teaspoon dashi",
+          "5 g ginger, grated",
+          "Steamed rice",
+          "Beni shōga (pickled ginger)",
+          "Shichimi seasoning",
+          "Scallions, chopped"
+        ],
+        "steps": [
+          "Cover the eggs in boiling water, and let them sit for 20 minutes so they are soft inside and not hard. Carefully peel off the shell.",
+          "Boil the beef and drain the water.",
+          "Combine sake, mirin, soy sauce, and sugar in a frying pan. Stir over at medium heat.",
+          "Add beef and cook. Before all the sauce evaporates, remove the beef.",
+          "Add water, dashi, grated ginger, and onions to the sauce. Cover and boil.",
+          "Mix in the beef.",
+          "Put the steamed rice in a bowl, and top with the sauced meat.",
+          "Arrange the soft egg and pickled ginger on top. Top with scallions and shichimi seasoning."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGyudon_(Japanese_Beef_and_Rice_Bowl)"
+      }
+    },
+    {
+      "id": "katsudon",
+      "name": "Katsudon",
+      "localName": "カツ丼",
+      "videoSearch": "https://www.youtube.com/results?search_query=Katsudon%20recipe",
+      "description": "Katsudon is a popular Japanese food, a bowl of rice topped with a fried tonkatsu pork cutlet, egg, vegetables, and condiments. The dish's name is a portmanteau of the Japanese words tonkatsu (pork cutlet) and donburi (rice bowl).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Katsudon_001.jpg/500px-Katsudon_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Katsudon"
+    },
+    {
+      "id": "sukiyaki",
+      "name": "Sukiyaki",
+      "localName": "すき焼き",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sukiyaki%20recipe",
+      "description": "Sukiyaki is a Japanese dish that is prepared and served in the nabemono (Japanese hot pot) style. It consists of meat (usually thinly sliced beef) which is slowly cooked or simmered at the table, alongside vegetables and other ingredients, in a shallow iron pot in a mixture of soy sauce, sugar, and mirin.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Sukiyaki_01.jpg/500px-Sukiyaki_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sukiyaki",
+      "recipe": {
+        "ingredients": [
+          "Beef, sliced thin",
+          "1 napa cabbage",
+          "Green onions",
+          "Firm tofu",
+          "Shiitake mushrooms",
+          "Spinach",
+          "Shirataki noodles",
+          "Soy sauce",
+          "Sake",
+          "Sugar",
+          "Water"
+        ],
+        "steps": [
+          "Wash the vegetables, and cut them into large pieces.",
+          "Soak the mushrooms in warm water for 15 minutes.",
+          "Mix the sauce ingredients in a small bowl.",
+          "Heat an electric skillet on low heat, and grease with a little bit of oil.",
+          "Put a few slices of beef into the skillet, and cook them until brown.",
+          "Add sauce (don't add all of them at the same time).",
+          "Sort the beef slices to the sides. Add the rest of the ingredients in an organized fashion.",
+          "Serve the sukiyaki with bowls of rice, with a raw egg yolk as the dip. Add more ingredients as necessary."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASukiyaki"
+      }
+    },
+    {
+      "id": "shabu-shabu",
+      "name": "Shabu-shabu",
+      "localName": "しゃぶしゃぶ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shabu-shabu%20recipe",
+      "description": "Shabu-shabu (Japanese: しゃぶしゃぶ, romanized: shabushabu) is a Japanese nabemono hotpot dish of thinly sliced meat and vegetables boiled in water and served with dipping sauces. The term is onomatopoeic, derived from the sound – \"swish swish\" – emitted when the ingredients are stirred in the cooking pot.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Shabu-shabu-01.jpg/500px-Shabu-shabu-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shabu-shabu"
+    },
+    {
+      "id": "nikujaga",
+      "name": "Nikujaga",
+      "localName": "肉じゃが",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nikujaga%20recipe",
+      "description": "Nikujaga is a Japanese dish of meat, potatoes, and onions stewed in dashi, soy sauce, mirin, and sugar, sometimes with ito konnyaku and vegetables like carrots. Nikujaga is a kind of nimono.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Braised_pork_and_potatoes_%283089327692%29.jpg/500px-Braised_pork_and_potatoes_%283089327692%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nikujaga",
+      "recipe": {
+        "ingredients": [
+          "200 g (7.1 oz) sliced beef",
+          "4 small potatoes (red potatoes recommended)",
+          "1 white onion, sliced",
+          "1½ cups water",
+          "2 tbsp mirin",
+          "3 tbsp soy sauce",
+          "2 tbsp sugar",
+          "1 slice of ginger",
+          "100 g (3.53 oz) shirataki noodles"
+        ],
+        "steps": [
+          "Cut potatoes into bite-sized pieces. Set aside to soak in cold water.",
+          "Combine mirin, soy sauce, sugar, ginger, and beef in a saucepan. Boil lightly for 2–3 minutes.",
+          "Remove beef from pan. Add potatoes, sliced onion, and water. Bring to a boil.",
+          "Simmer uncovered until the broth reduces to about ⅓ by volume.",
+          "Replace beef in pan, add shirataki noodles, and simmer for roughly 5 minutes.",
+          "Remove from heat and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMeat_and_Potatoes_in_Broth_(Niku_Jaga)"
+      }
+    },
+    {
+      "id": "yakitori",
+      "name": "Yakitori",
+      "localName": "焼き鳥",
+      "videoSearch": "https://www.youtube.com/results?search_query=Yakitori%20recipe",
+      "description": "In Japanese cuisine, yakitori (Japanese: 焼き鳥; lit. 'grilled bird') is chicken cooked on a skewer over a charcoal fire and seasoned with tare sauce or salt. The term sometimes refers to kushiyaki (grilled and skewered foods) in general.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Cooking_yakitori.jpg/500px-Cooking_yakitori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Yakitori"
+    },
+    {
+      "id": "karaage",
+      "name": "Karaage",
+      "localName": "唐揚げ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Karaage%20recipe",
+      "description": "Karaage is a Japanese cooking technique in which small pieces of meat or fish are marinated, dredged with a starch, and deep fried in oil. The usual meat is chicken, but may also be other meats, fish, or tofu. Karaage may be served alone or with rice and shredded cabbage.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Chicken_karaage_003.jpg/500px-Chicken_karaage_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Karaage"
+    },
+    {
+      "id": "japanese-curry",
+      "name": "Japanese curry",
+      "localName": "カレーライス",
+      "videoSearch": "https://www.youtube.com/results?search_query=Japanese%20curry%20recipe",
+      "description": "Japanese curry (カレー, karē) is commonly served in three main forms: curry rice (カレーライス, karē raisu) (curry over white rice), curry udon (カレーうどん, karē udon) (curry over thick noodles), and curry bread (カレーパン, karē pan) (a curry-filled pastry). It is one of the most popular dishes in Japan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Beef_curry_rice_003.jpg/500px-Beef_curry_rice_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Japanese_curry"
+    },
+    {
+      "id": "oden",
+      "name": "Oden",
+      "localName": "おでん",
+      "videoSearch": "https://www.youtube.com/results?search_query=Oden%20recipe",
+      "description": "Oden (おでん or 御田) is a type of nabemono (Japanese one-pot dishes) consisting of several ingredients such as boiled eggs, daikon or konjac, and processed fish balls stewed in a light, soy-flavored dashi broth.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Yataioden.jpg/500px-Yataioden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Oden"
+    },
+    {
+      "id": "kabayaki",
+      "name": "Unagi kabayaki",
+      "localName": "蒲焼",
+      "videoSearch": "https://www.youtube.com/results?search_query=Unagi%20kabayaki%20recipe",
+      "description": "Kabayaki (蒲焼) is a preparation of fish, especially unagi eel, where the fish is split down the back (or belly), gutted and boned, butterflied, cut into square fillets, skewered, and dipped in a sweet soy sauce-based marinade before being cooked on a grill or griddle.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Unagi1.jpg/500px-Unagi1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kabayaki"
+    },
+    {
+      "id": "tamagoyaki",
+      "name": "Tamagoyaki",
+      "localName": "卵焼き",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tamagoyaki%20recipe",
+      "description": "Tamagoyaki (卵焼き or 玉子焼き; literally 'grilled egg') is a type of Japanese omelette made by rolling together several layers of fried beaten eggs. It is often prepared in a rectangular omelette pan called a makiyakinabe or tamagoyaki.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%E9%B3%A5%E7%84%BC%E3%81%8D%E5%B1%85%E9%85%92%E5%B1%8B_%2839394233682%29.jpg/500px-%E9%B3%A5%E7%84%BC%E3%81%8D%E5%B1%85%E9%85%92%E5%B1%8B_%2839394233682%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tamagoyaki"
+    },
+    {
+      "id": "agedashi-tofu",
+      "name": "Agedashi tofu",
+      "localName": "揚げ出し豆腐",
+      "videoSearch": "https://www.youtube.com/results?search_query=Agedashi%20tofu%20recipe",
+      "description": "Agedashi dōfu (揚げ出し豆腐, \"lightly deep-fried tofu\") is a Japanese hot tofu dish. Soft or medium-firm silken tofu (kinugoshi) is cut into cubes, before being lightly dusted with potato starch or cornstarch and then deep-fried until golden brown.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Agedashi_tofu%2C_fried_tofu_with_broth.jpg/500px-Agedashi_tofu%2C_fried_tofu_with_broth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Agedashi_d%C5%8Dfu",
+      "recipe": {
+        "ingredients": [
+          "4–6 oz (~115–170 g) soft tofu",
+          "Potato starch or corn starch",
+          "Oil for deep frying",
+          "½ cup (120 ml) dashi",
+          "2 Tbsp (30 ml) light soy sauce",
+          "1½ Tbsp (22.5 ml) mirin",
+          "Green onions, thinly sliced",
+          "Grated ginger",
+          "Grated daikon (white radish)"
+        ],
+        "steps": [
+          "Cut the soft tofu into rectangular pieces about 1 inch thick.",
+          "Arrange the layers on rack with paper towels and leave for 10–15 minutes to drain. Change the paper and turn over the slices.",
+          "In pan, mix sauce ingredients, and heat in a pan until boiling. Turn off the heat.",
+          "Sprinkle starch on a plate. Arrange the tofu slices on it. Sprinkle more starch over the tofu.",
+          "Heat the oil to 355°F (180°C) for deep frying.",
+          "Pat any excess starch off the tofu slices and slide them into the hot oil, one by one. Don't add too many slices at once, because the tofu lowers the oil temperature. Fry until golden, turning once.",
+          "Remove and drain on paper towels.",
+          "Arrange the tofu in a dish, and pour the sauce over top. Top with a mound of grated daikon (radish), a bit of grated ginger, and sliced green onions."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAgedashi_Tofu"
+      }
+    },
+    {
+      "id": "natto",
+      "name": "Nattō",
+      "localName": "納豆",
+      "videoSearch": "https://www.youtube.com/results?search_query=Natt%C5%8D%20recipe",
+      "description": "Natto (Japanese: 納豆, Hepburn: nattō) is a traditional Japanese food made from whole soybeans that have been fermented with Bacillus subtilis var. natto. It is often served as a breakfast food with rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Matsunoya_Breakfast_20240421_102843.jpg/500px-Matsunoya_Breakfast_20240421_102843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Natto",
+      "recipe": {
+        "ingredients": [
+          "2 lbs (about 4 cups) soybeans",
+          "2 tsp boiled (sterilized) water",
+          "1 spoonful nattomoto powder"
+        ],
+        "steps": [
+          "Wash the soybeans and soak for 9–12 hours (longer soaking time recommended during colder months). Use approximately 3 parts water and 1 part soybeans to allow for expansion. You will have 8–12 cups of beans.",
+          "Drain the beans from the soaking water. Place beans in a large pot, fill with water and boil for 9 hours.",
+          "Drain the cooked beans and place in a sterilized pot. Dissolve one special spoonful of nattomoto into 2 tsp of sterilized water.",
+          "Immediately pour the nattomoto solution over the beans while the beans are still warm. Stir the beans and water mixture together carefully using a sterilized spoon.",
+          "Place a thin layer of beans in each of the 3–4 containers. If at any point during the process some beans are spilled on the counter, etc., discard the spilled beans as they can contaminate the other beans if added back in to the batch.",
+          "Place the sterilized cheese cloth over the top of the containers and place the tight-fitting lid over the cheese cloth. Preheat the oven, dehydrator, or KOTATSU Japanese Warmer to 100°F (38°C).",
+          "Place the covered containers in the oven, dehydrator, or warmer and allow the natto to ferment for 22–24 hours, making sure to keep the temperature steady at 100°F (38°C).",
+          "At the conclusion of the fermentation period, let the natto cool for a couple of hours, then remove the lid and the cloth, replace the lid, and store the containers in the refrigerator at least overnight. The Natto can be consumed as early as the next morning and are often served as a Japanese-style breakfast."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ANatto_(Japanese_Fermented_Soybeans)"
+      }
+    },
+    {
+      "id": "umeboshi",
+      "name": "Umeboshi",
+      "localName": "梅干し",
+      "videoSearch": "https://www.youtube.com/results?search_query=Umeboshi%20recipe",
+      "description": "Umeboshi are pickled (brined) ume fruits common in Japan. Umeboshi is often translated as 'salted Japanese plums', 'Japanese plums' or 'preserved plums'. Ume (Prunus mume) is a species of fruit-bearing tree in the genus Prunus, which is often called a \"plum\", but is actually more closely related to the apricot.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Umeboshi2.JPG/500px-Umeboshi2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Umeboshi",
+      "recipe": {
+        "ingredients": [
+          "Japanese plums",
+          "Salt, measured to 20% by weight of the plums"
+        ],
+        "steps": [
+          "Sterilize a jar and utensils with potable alcohol or boiling water.",
+          "Remove any damaged plums. Wash the remaining plums, and wipe them dry.",
+          "Remove the plum stems and any woody bits, making sure not to damage the fruit.",
+          "Cover plums with cold water and let stand overnight.",
+          "Drain water and place drained plums in a larger, non-reactive (i.e. glass or ceramic) container.",
+          "Evenly layer the salt and plums in the container, making sure the plums are well coated with salt.",
+          "Place a non-reactive plate directly on top of plums in their container. Place a weight on top of the plate to weight down the plums—this helps ensure the plums become submerged in brine.",
+          "Cover the container with a clean cloth to keep out debris, and place in a cool dark place to pickle.",
+          "Check the container after 3 days—pickling liquid should be forming and submerging the plums. There should be no mold growth—if there is a very small amount, you can carefully remove it with clean utensils. It is important to keep the plums fully submerged in the pickling liquid to prevent mold growth and rotting.",
+          "Re-weight the plums, and leave to pickle for another 3–4 weeks.",
+          "Remove the plums from the pickling liquid, and arrange over a bamboo mat or other woven tray that won't keep the moisture in. Set them outside in hot, dry, sunny weather, and allow them to dry for three full days.",
+          "Strain the pickling liquid, and boil it to remove any impurities.",
+          "Rub salt into the shiso to remove scum. Squeeze the shiso to remove liquid.",
+          "Put the plums, shiso, and boiled liquid back into a clean jar, and store in the fridge."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AJapanese_Pickled_Plums_(Umeboshi)"
+      }
+    },
+    {
+      "id": "kinpira",
+      "name": "Kinpira",
+      "localName": "きんぴら",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kinpira%20recipe",
+      "description": "Kinpira (金平) is a Japanese side dish, usually made of root vegetables that have been sautéed and simmered. The most common variety is kinpira gobō, or braised burdock root.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Kinpira_002.jpg/500px-Kinpira_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kinpira",
+      "recipe": {
+        "ingredients": [
+          "250 g (½ lb) carrots, julienned",
+          "1 Tbsp vegetable oil, preferably sesame oil",
+          "Water",
+          "Tamari or shoyu soy sauce, to taste"
+        ],
+        "steps": [
+          "Cut the carrots into thin matchstick pieces (sen-giri, or julienned)",
+          "Pour a small amount of oil into a saucepan and sauté the carrot pieces briefly",
+          "Add just enough water to half-cover the carrot pieces",
+          "Place the lid on the pot and let the carrots simmer briefly on medium-low heat",
+          "Add a little tamari or shoyu to enhance flavour. Serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACarrots_Cooked_Kinpira_Style"
+      }
+    },
+    {
+      "id": "mochi",
+      "name": "Mochi",
+      "localName": "餅",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mochi%20recipe",
+      "description": "Mochi is a Japanese rice cake made of mochigome (もち米), a short-grain japonica glutinous rice, and sometimes other ingredients such as water, sugar, and cornstarch. The steamed rice is pounded into paste and molded into the desired shape. In Japan, it is traditionally made in a ceremony called mochitsuki (餅搗き).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Mochi_002.jpg/500px-Mochi_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mochi"
+    },
+    {
+      "id": "daifuku",
+      "name": "Daifuku",
+      "localName": "大福",
+      "videoSearch": "https://www.youtube.com/results?search_query=Daifuku%20recipe",
+      "description": "Daifukumochi (大福餅), or daifuku (大福) (literally \"great luck\"), is a wagashi, a type of Japanese confection, consisting of a small round mochi stuffed with a sweet filling, most commonly anko, a sweetened red bean paste made from azuki beans. Daifuku is often served with green tea. Daifuku comes in many varieties.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Daifuku_1.jpg/500px-Daifuku_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Daifuku",
+      "recipe": {
+        "ingredients": [
+          "Anko filling",
+          "~½ cup potato starch (katakuriko)",
+          "1 cup sweet glutinous rice flour (mochiko)",
+          "⅔ cup water",
+          "¼ cup white granulated sugar"
+        ],
+        "steps": [
+          "Prepare anko filling as directed. Shape into 12 small, marble-sized balls and set aside.",
+          "Prepare a smooth surface, such as a cutting board, by coating with potato starch; be generous, as the dough will be very sticky.",
+          "Heat water and sugar together in a microwave until sugar is dissolved. Add rice flour and stir completely. Microwave for 2 minutes, remove and stir. Microwave for 2 more minutes, or until dough begins to expand. Remove from microwave, stir again, and remove the dough to the potato starch-coated surface. The dough, called mochi, will be very hot.",
+          "Spread or roll the mochi dough out until thin. Using a knife, cut into 12 even sized pieces.",
+          "Coat the palms and fingers of your hands in potato starch. Spread each piece out as thin as possible.",
+          "Place an anko ball in the middle of each mochi piece, then wrap the mochi around the ball, forming a bigger ball.",
+          "Roll shaped daifuku in potato starch, and set on a plate dusted with potato starch or a piece of wax paper.",
+          "Serve warm or cool. Store in an airtight container. Very perishable."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ADaifuku_(Sweet_Filled_Mochi)"
+      }
+    },
+    {
+      "id": "dango",
+      "name": "Dango",
+      "localName": "団子",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dango%20recipe",
+      "description": "Dango (団子) is a Japanese dumpling made with regular rice flour and glutinous rice flour. They are usually made in round shapes, and three to five pieces are served on a skewer, which is called kushi-dango (串団子). The pieces are eaten with sugar, syrup, red bean paste, and other sweeteners.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Mitarashi_dango_by_denver935.jpg/500px-Mitarashi_dango_by_denver935.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dango"
+    },
+    {
+      "id": "dorayaki",
+      "name": "Dorayaki",
+      "localName": "どら焼き",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dorayaki%20recipe",
+      "description": "Dorayaki (Japanese: どら焼き, ドラ焼き, 銅鑼焼き, lit. 'gong bake/grill', hence \"gong cake\") is a type of Japanese confection. It consists of two small pancake-like patties made from castella wrapped around a filling of sweet azuki bean paste.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Dorayaki_001_%283%29.jpg/500px-Dorayaki_001_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dorayaki"
+    },
+    {
+      "id": "taiyaki",
+      "name": "Taiyaki",
+      "localName": "たい焼き",
+      "videoSearch": "https://www.youtube.com/results?search_query=Taiyaki%20recipe",
+      "description": "Taiyaki (鯛焼き, lit. 'baked sea bream') is a Japanese fish-shaped cake, commonly sold as street food. It imitates the shape of tai (鯛, red sea bream), which it is named after. The most common filling is anko.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Taiyaki_003.jpg/500px-Taiyaki_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Taiyaki"
+    },
+    {
+      "id": "daigakuimo",
+      "name": "Daigaku-imo",
+      "localName": "大学芋",
+      "videoSearch": "https://www.youtube.com/results?search_query=Daigaku-imo%20recipe",
+      "recipe": {
+        "ingredients": [
+          "1 pound (½ kg) Japanese sweet potatoes",
+          "⅓ cup white granulated sugar",
+          "1 tsp soy sauce",
+          "2 tbsp water",
+          "1 tsp sesame seeds",
+          "vegetable oil for frying"
+        ],
+        "steps": [
+          "Cut sweet potatoes into bite-sized pieces.",
+          "Heat the oil and fry the sweet potatoes at 350°F (175°C) until brown.",
+          "Mix water, sugar, and soy sauce in a saucepan. Put the pan on low heat.",
+          "When the liquid turns sticky, remove from the heat and add fried sweet potatoes. Quickly mix the potatoes with the sticky sugar.",
+          "Sprinkle sesame seeds over the coated sweet potatoes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ADaigakuimo_(Japanese_Candied_Sweet_Potato)"
+      }
+    }
+  ]
+}

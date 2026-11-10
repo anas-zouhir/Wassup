@@ -1,0 +1,135 @@
+{
+  "country": "SO",
+  "dishes": [
+    {
+      "id": "canjeero",
+      "name": "Canjeero",
+      "videoSearch": "https://www.youtube.com/results?search_query=Canjeero%20recipe",
+      "description": "Lahoh is a spongy, flat pancake-like bread. It is a type of flatbread eaten regularly in Somaliland, Somalia, Djibouti, Kenya, Ethiopia, Yemen and Saudi Arabia. Yemenite Jewish immigrants popularized the dish in Israel.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/LahohS.jpg/500px-LahohS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lahoh",
+      "recipe": {
+        "ingredients": [
+          "2 cups flour",
+          "1 cup self-rising flour",
+          "1 teaspoon active dry yeast",
+          "1 tablespoon sugar",
+          "3 cups lukewarm water",
+          "Salt, to taste"
+        ],
+        "steps": [
+          "In a large bowl, combine the all-purpose flour and self-rising flour.",
+          "In a separate small bowl, mix the active dry yeast and sugar with 1 cup of lukewarm water. Let it sit for a few minutes to activate the yeast; it should become frothy.",
+          "Pour the yeast mixture into the large bowl with the flours.",
+          "Gradually add the remaining 2 cups of lukewarm water to the bowl while whisking or stirring continuously to form a smooth batter. The consistency should be similar to pancake batter.",
+          "Cover the bowl with a clean kitchen towel or plastic wrap and let the batter ferment for at least 2 hours, or until it doubles in size and becomes slightly bubbly.",
+          "After the fermentation process, add a pinch of salt to the batter and stir well.",
+          "Preheat a griddle or non-stick frying pan over medium heat.",
+          "Pour a ladleful of the batter onto the hot griddle to form a round pancake. You can make the pancakes as small or as large as you like.",
+          "Cook the pancake on one side until bubbles start to form on the surface and the edges look set. Then, flip it over and cook the other side until it turns golden brown.",
+          "Repeat the process with the remaining batter, adding more oil to the griddle or pan as needed to prevent sticking.",
+          "Serve warm with your favorite toppings, such as honey, butter, or Somali tea."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACanjeero_(Somali_Pancake)"
+      }
+    },
+    {
+      "id": "suqaar",
+      "name": "Suqaar",
+      "videoSearch": "https://www.youtube.com/results?search_query=Suqaar%20recipe",
+      "description": "Suqaar (Arabic: صغار) is a seasoned meat and vegetable dish popular in Somalia and diaspora communities. According to chef Ifrah F. Ahmed, the core ingredients in hilib suqaar are finely chopped meat, xawaash seasoning, and peppers. The meat can be camel, chicken, lamb, beef, etc.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Suqaar",
+      "recipe": {
+        "ingredients": [
+          "1 pound beef, thinly sliced",
+          "2 tablespoons vegetable oil",
+          "1 onion, finely chopped",
+          "2 cloves of garlic, minced",
+          "1 tomato, diced",
+          "1 bell pepper, thinly sliced",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "1 teaspoon ground turmeric",
+          "½ teaspoon ground cayenne pepper",
+          "Salt, to taste",
+          "Fresh cilantro or parsley, chopped, for garnish"
+        ],
+        "steps": [
+          "In a large skillet or frying pan, heat the vegetable oil over medium-high heat.",
+          "Add the finely chopped onion to the hot oil and sauté until it becomes soft and translucent.",
+          "Stir in the minced garlic and cook for another minute until fragrant.",
+          "Add the thinly sliced beef to the pan and cook until it browns and develops a nice sear on both sides.",
+          "Toss in the diced tomato and thinly sliced bell pepper. Continue to stir-fry until the vegetables soften slightly.",
+          "Sprinkle the ground cumin, coriander, turmeric, and cayenne pepper over the meat and vegetables. Mix well to evenly coat everything with the spices.",
+          "Season with salt to taste, adjusting the seasoning according to your preference.",
+          "Lower the heat to medium-low, cover the skillet, and let the suqaar simmer for a few minutes to allow the flavors to meld and the meat to become tender.",
+          "Once the meat is fully cooked and tender, remove the skillet from the heat.",
+          "Garnish with freshly chopped cilantro or parsley before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASuqaar_(Somali_Spiced_Meat_Stir-fry)"
+      }
+    },
+    {
+      "id": "sabaayad",
+      "name": "Sabaayad",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sabaayad%20recipe",
+      "description": "Sabayad, (Somali: Sabaayad) also known as Kimis or Ceesh, is a chewy, slightly flaky type of square Somali flatbread eaten in Somalia, Kenya, Ethiopia and Djibouti.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Djiboutian_rice_%28bariis%29_and_fish_%28kalluun%29%2C_Liver_%28beerka%29_with_vegetable_also_%28Sabaayad%29_pancakes.jpg/500px-Djiboutian_rice_%28bariis%29_and_fish_%28kalluun%29%2C_Liver_%28beerka%29_with_vegetable_also_%28Sabaayad%29_pancakes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sabaayad",
+      "recipe": {
+        "ingredients": [
+          "3 cups (375 g) all-purpose flour",
+          "1 teaspoon salt",
+          "2 tablespoons vegetable oil",
+          "1–1½ cups warm water",
+          "Additional oil for layering and frying"
+        ],
+        "steps": [
+          "Combine the flour and salt in a large bowl.",
+          "Add the oil and mix thoroughly.",
+          "Gradually add the warm water and knead until a soft, smooth dough forms.",
+          "Continue kneading for 5–10 minutes.",
+          "Cover the dough and allow it to rest for 30 minutes.",
+          "Divide the dough into 8 equal portions and shape into balls.",
+          "Roll each ball into a thin circle.",
+          "Brush the surface lightly with oil.",
+          "Fold the dough into a square and roll it out again.",
+          "Heat a lightly oiled griddle or frying pan over medium heat.",
+          "Cook each sabaayad until golden brown on both sides, turning once."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASabaayad"
+      }
+    },
+    {
+      "id": "bariis-iskukaris",
+      "name": "Bariis iskukaris",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bariis%20iskukaris%20recipe",
+      "description": "Bariis iskukaris, also called isku-dheh karis, is a traditional rice dish from Somali cuisine that is customarily cooked in a single pan or where the tenderization of both rice and stew occurs at some point in a single pan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Somalicamelmeat.jpg/500px-Somalicamelmeat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bariis_iskukaris"
+    },
+    {
+      "id": "oodkac",
+      "name": "Oodkac",
+      "videoSearch": "https://www.youtube.com/results?search_query=Oodkac%20recipe",
+      "description": "Muqmad or oodkac is a Somali dish consisting of preserved meat. The term muqmad is used in Djibouti, Ethiopia and Somaliland; the term oodkac is more popular in central and southern parts of Somalia and Kenya. It is typically eaten with canjeero or lahoh, but sometimes by itself.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Oodkac"
+    },
+    {
+      "id": "malawah",
+      "name": "Malawah",
+      "videoSearch": "https://www.youtube.com/results?search_query=Malawah%20recipe",
+      "description": "Malawah (Somali: Malawax 𐒐𐒖𐒄𐒝𐒄), also known as Malawax (Arabic: ملوح), is a sweet pancake. It has origins from Somalia and is eaten regularly in Somalia, Djibouti, The Ogaden region of Ethiopia Kenya, And Minnesota due to the Somali diaspora.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Malawaax.jpg/500px-Malawaax.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Malawah"
+    },
+    {
+      "id": "maraq",
+      "name": "Maraq",
+      "videoSearch": "https://www.youtube.com/results?search_query=Maraq%20recipe",
+      "description": "Maraq (Arabic: مرق) is a broth or soup dish commonly eaten in the Greater Somalia region and the Arabian Peninsula. It can also be found in Indonesia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Maraq.jpg/500px-Maraq.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maraq_(dish)"
+    }
+  ]
+}

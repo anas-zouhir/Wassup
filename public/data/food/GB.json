@@ -1,0 +1,721 @@
+{
+  "country": "GB",
+  "dishes": [
+    {
+      "id": "fish-and-chips",
+      "name": "Fish and chips",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fish%20and%20chips%20recipe",
+      "description": "Fish and chips is a hot dish consisting of battered and fried fish served with chips. Often considered the national dish of the United Kingdom, fish and chips originated in England in the 19th century.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Fish_and_chips_blackpool.jpg/500px-Fish_and_chips_blackpool.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fish_and_chips",
+      "recipe": {
+        "ingredients": [
+          "125 g (4 oz) plain flour",
+          "125 g (4 oz) corn flour (cornstarch)",
+          "Salt",
+          "Enough cold water to form a batter",
+          "4 cod/haddock/monkfish (or any other suitable flaky fish) fillets",
+          "4 white potatoes, Maris Piper preferably",
+          "1 litre (1¾ pint) vegetable oil for deep-frying",
+          "Sea salt",
+          "1 lemon, wedged",
+          "Sprig of parsley, to garnish",
+          "Sea salt",
+          "Malt Vinegar"
+        ],
+        "steps": [
+          "Preheat the vegetable oil in a deep fryer to 180°C (350°F), or until a cube of bread browns in 15 seconds when added to the oil.",
+          "Peel the potatoes and cut into thick wedges. Deep-fry the potatoes in batches for 6–8 minutes or until they are crisp and golden.",
+          "Remove from the oil, and drain on kitchen paper. Sprinkle with sea salt and keep warm.",
+          "In a bowl, whisk together the plain flour, corn flour, salt, and enough cold water to form a batter.",
+          "Cut the fish into thick slices, then coat in the batter.",
+          "Deep fry the fish in batches for 5–6 minutes, depending on the size of the fish. Remove and drain on kitchen paper.",
+          "Transfer the fish and chips to serving plates and garnish with lemon wedges and sprig of parsley. Or for a fun, traditional twist, place the fried fish and chips on brown paper or newsprint.",
+          "Top with salt and/or vinegar. Typically the lemon wedges are squeezed over the fish and the vinegar is sprinkled on the chips. Also can be served with pickles, pickled onions, tartar sauce, pickled eggs, and mushy peas."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AFish_and_Chips"
+      }
+    },
+    {
+      "id": "full-english-breakfast",
+      "name": "Full English breakfast",
+      "videoSearch": "https://www.youtube.com/results?search_query=Full%20English%20breakfast%20recipe",
+      "description": "A full breakfast or fry-up is a substantial cooked breakfast meal often made in Great Britain and Ireland. Depending on the region where it is served a full breakfast, or one of its variants, may also be referred to as a full English, full Scottish, full Welsh, full Irish fry up, or Ulster fry.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Full_English_breakfast_%28cropped%29.jpg/500px-Full_English_breakfast_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Full_breakfast",
+      "recipe": {
+        "ingredients": [
+          "4 rashers of bacon (smoked bacon without too much fat is best, e.g. smoked back bacon)",
+          "4 eggs",
+          "4 English-style pork sausages",
+          "4 medium-sized tomatoes, halved around the equator",
+          "400 g mushrooms, sliced",
+          "4–8 slices of bread (traditionally white)",
+          "1 tin baked beans (optional)"
+        ],
+        "steps": [
+          "Heat a broiler to medium heat, and cook the sausages under it, turning frequently. They should take about 10–15 minutes total to cook.",
+          "Cover the base of a frying pan with about 1cm of water, and heat on a high heat until boiling. When it is boiling, carefully break the eggs into it. If you have cooking rings, you can put these into the water first and then break the eggs into the rings, to prevent the eggs from spreading too much, although really fresh eggs should stay together anyway. Once the eggs are in the pan, wait a few moments for the water to heat up again, then turn the heat down to a very very gently simmer. To ensure the tops of the eggs are cooked, spoon water from around the edge of the pan over the top of the eggs a few times during cooking. When cooked, the egg white should be soft but cooked through and the yolk still runny. They should take about 8–10 minutes to cook.",
+          "Put the halved tomatoes under the broiler with the sausages. They should take about 6 minutes to cook.",
+          "If using, put the baked beans into a saucepan and heat through over a medium heat. They should take about 5 minutes to heat through.",
+          "Heat up a very small amount of oil in a pan, and fry the mushrooms until they are soft. They should take about 4 minutes to cook.",
+          "Put the bacon under the grill along with the sausages and tomatoes. Cook on one side for about 2 minutes, then turn once and repeat. Cook longer if crispier bacon is preferred. This should take about 4 minutes to cook.",
+          "Whilst cooking the bacon, toast the bread until golden.",
+          "Serve the eggs, bacon, mushrooms, sausage, tomato and beans onto piping hot plates, with the toast on a separate plate or toast rack. Serve with butter and jam for the toast, and hot tea with milk.",
+          "Start toasting the bread before cooking the rest of the food. Assuming 2 slices per person, you should have enough by the time you finish the fried food. Be sure to butter them heavily with real butter rather than low-fat spread. Place 4 plates on the bottom shelf of an oven, and one on the top. Set the oven to its lowest heat.",
+          "Melt some lard in a large frying pan (enough to make a layer of fat around 1 cm deep) and brown the sausage in it over a high heat. Lower heat and cook the sausage for around 4 minutes, and leave it in the pan. A lot of fat will leak from the sausages. Add the bacon (2 strips per person rather than 1) and cook to taste, flipping regularly (2–3 minutes for pink, 4–6 for a darker red bacon with crispy fat). The bacon will also release a lot of fat. Transfer the bacon to the warmed dish in the top of the oven. Leave the sausage in the pan.",
+          "Add the mushrooms and tomatoes to the pan. Add the tin of baked beans to a small pot and heat on a separate burner. After 2–4 minutes, transfer the mushrooms to the oven with the bacon. Transfer the tomato then too, or leave it a little longer depending on taste.",
+          "The sausages should now be dark brown, push them to the side of the pan and break an egg into the fat. Using a spatula, push hot fat over the yolk until it begins to bubble but is still liquid. This should take about 1 minute or so in a hot pan. Set out the 4 warmed plates beforehand and add an egg to each. When done, add the sausage, bacon, and mushrooms. Add the beans last. Serve with the buttered toast on a separate plate.",
+          "If you are using black pudding, add it to the fat with the bacon and remove it before the eggs.",
+          "If you desire a fried slice, add a slice of bread (whole or cut diagonally, in half or quarters) and allow it to absorb some of the leftover fat and lightly fry, then flip over and repeat. Alternatively, you can just fry some bread in vegetable oil in a separate pan but it doesn't have the same flavour as bread fried in the leftover fat from cooking a full breakfast in lard. If a whole slice is used it is preferable to place the fried egg on top, so the yolk runs into the bread and can easily be absorbed by the fried slice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AEnglish_Breakfast"
+      }
+    },
+    {
+      "id": "sunday-roast",
+      "name": "Sunday roast",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sunday%20roast%20recipe",
+      "description": "A Sunday roast or roast dinner is a British dish traditionally eaten on Sunday. It consists of roast meat, roast or mashed potatoes, and accompaniments such as Yorkshire pudding, gravy and stuffing, and may include condiments such as apple sauce, mint sauce, redcurrant sauce, mustard, cranberry sauce or horseradish sau…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Sunday_roast_lamb_Cock_Inn_Henham_Essex_England_01.jpg/500px-Sunday_roast_lamb_Cock_Inn_Henham_Essex_England_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sunday_roast"
+    },
+    {
+      "id": "shepherd-s-pie",
+      "name": "Shepherd's pie",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shepherd's%20pie%20recipe",
+      "description": "Shepherd's pie, cottage pie, or in French cuisine hachis Parmentier, is a savoury dish of cooked minced meat topped with mashed potato and baked, formerly also called Sanders or Saunders. The meat used may be either previously cooked or freshly minced.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Homerton_College_-_Shepherd%27s_pie_%28cropped%29.jpg/500px-Homerton_College_-_Shepherd%27s_pie_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shepherd%27s_pie"
+    },
+    {
+      "id": "bangers-and-mash",
+      "name": "Bangers and mash",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bangers%20and%20mash%20recipe",
+      "description": "Bangers and mash or sausages and mash is a traditional British dish consisting of sausages and mashed potato. The dish is usually served with onion gravy, and may also include fried onions and peas.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Sausage_and_mash_with_peas.jpg/500px-Sausage_and_mash_with_peas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bangers_and_mash",
+      "recipe": {
+        "ingredients": [
+          "2–3 good British butcher's sausages per person",
+          "2 medium-to-large potatoes per person (Maris piper potatoes are good.)",
+          "A little vegetable oil",
+          "Some butter or margarine",
+          "A splash of milk"
+        ],
+        "steps": [
+          "Put a large heavy frying pan on a hob over a medium heat. Put in a little vegetable oil (if desired) and let it warm up.",
+          "Then place the sausages in a single layer in the frying pan. Let them fry a minute or so, then turn them over, fry another minute, turn them around again, to try and get a bit of colour all over.",
+          "Once they've been in the hot pan for 5 minutes or so, turn the heat right down to low. Let them fry very gently for the next 25 minutes, turning them over every 5 or 10 minutes so they get cooked evenly. You can cook them for longer than this (even up to about an hour on a very low heat). Always make sure the sausages are cooked all the way through (no pinkness should remain).",
+          "Peel the potatoes and chop them roughly into pieces around 1 or 2 cm thick. Add them to a large pan of boiling water and boil vigorously for 15 minutes.",
+          "When they're done (they'll be soft enough that you can easily put a knife/fork into one of the pieces), drain them in a colander and return them to the big pan (not on the heat any more).",
+          "Add a generous knob of butter and a splash of milk to the potatoes, and mash them all up with a potato masher."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABangers_and_Mash"
+      }
+    },
+    {
+      "id": "toad-in-the-hole",
+      "name": "Toad in the hole",
+      "videoSearch": "https://www.youtube.com/results?search_query=Toad%20in%20the%20hole%20recipe",
+      "description": "Toad in the hole is a traditional British dish consisting of sausages in Yorkshire pudding batter, usually served with onion gravy, mashed potatoes and vegetables. Historically, the dish has also been prepared using other meats, such as rump steak and lamb's kidney.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Toad_in_the_hole.jpg/500px-Toad_in_the_hole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Toad_in_the_hole",
+      "recipe": {
+        "ingredients": [
+          "250 g sausage links",
+          "1 recipe Yorkshire pudding batter, uncooked",
+          "1 tbsp oil"
+        ],
+        "steps": [
+          "Preheat the oven to 200°C.",
+          "Bake the sausages with the oil in a roasting pan for 10 minutes. This cooks the sausages and allows the pan to heat up.",
+          "Add batter to the hot pan. The oil should sizzle as the cold batter is added to the pan.",
+          "Bake in the oven for about 40–45 minutes. The oven door must not be opened while the batter is baking; once the crust has risen and browned, you can open the oven. The outside should be crispy and the inside should be firm.",
+          "Remove and serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AToad_in_the_Hole"
+      }
+    },
+    {
+      "id": "yorkshire-pudding",
+      "name": "Yorkshire pudding",
+      "videoSearch": "https://www.youtube.com/results?search_query=Yorkshire%20pudding%20recipe",
+      "description": "Yorkshire pudding is a baked pudding made from a batter of eggs, flour, and milk or water. A common British side dish, it is a versatile food that can be served in numerous ways depending on its ingredients, size, and the accompanying components of the meal. As a first course, it can be served with onion gravy.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yorkshire_Puddings_on_plate.jpg/500px-Yorkshire_Puddings_on_plate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Yorkshire_pudding",
+      "recipe": {
+        "ingredients": [
+          "140 g plain flour",
+          "4 ea. (200 g) eggs",
+          "200 ml milk",
+          "Sunflower oil or meat drippings",
+          "¼ teaspoon salt",
+          "¼ teaspoon pepper",
+          "Thyme (optional)",
+          "Rosemary (optional)",
+          "Mustard powder (optional)",
+          "Sage (optional)",
+          "Red onion (optional)"
+        ],
+        "steps": [
+          "Preheat the oven to 230°C (210°C convection)",
+          "Fill your tin(s) with a thin layer of your chosen oil, and place into the oven to heat up.",
+          "Sieve flour into a bowl, then beat in eggs until smooth.",
+          "Slowly add the milk in stages, beating as you go until well-mixed.",
+          "Season with salt and pepper. Add optional ingredients as desired.",
+          "Transfer the batter to a pouring jug. For best results, rest the batter in the fridge for 1 hour.",
+          "Being swift, but careful, remove the hot tin(s) from the oven, and evenly fill the holes with your batter.",
+          "Place the tin(s) back into the oven, and leave them undisturbed for 20–25 minutes until puffed and golden brown. Opening the oven door can upset the cooking of the Yorkshire puddings—trust the process and watch with the door closed.",
+          "Serve immediately. They can also be cooled and frozen for up to 1 month."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AYorkshire_Pudding"
+      }
+    },
+    {
+      "id": "beef-wellington",
+      "name": "Beef Wellington",
+      "videoSearch": "https://www.youtube.com/results?search_query=Beef%20Wellington%20recipe",
+      "description": "Beef Wellington is a baked dish made of beef fillet and duxelles wrapped in puff pastry. Some recipes include wrapping the contents in prosciutto, or dry-cured ham, which helps retain moisture while preventing the pastry from becoming soggy; coating the beef in mustard; or substituting shortcrust pastry for puff.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Beef_Wellington_2019.jpg/500px-Beef_Wellington_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Beef_Wellington"
+    },
+    {
+      "id": "cornish-pasty",
+      "name": "Cornish pasty",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cornish%20pasty%20recipe",
+      "description": "A pasty ( PASS-tee) is a British baked turnover, a variety of which is particularly associated with Cornwall and Devon but has spread all over the United Kingdom and elsewhere through the Cornish diaspora. It consists of a filling, typically meat and vegetables, baked in a folded and crimped shortcrust pastry circle.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Cornish_Pasty_%28cropped%29.jpeg/500px-Cornish_Pasty_%28cropped%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pasty"
+    },
+    {
+      "id": "haggis",
+      "name": "Haggis",
+      "videoSearch": "https://www.youtube.com/results?search_query=Haggis%20recipe",
+      "description": "Haggis is a savoury pudding and sausage containing sheep's pluck (heart, liver, and lungs), minced with chopped onion, oatmeal, suet, seasonings, and salt, mixed with stock, and cooked while traditionally encased in the animal's stomach though now an artificial casing is often used instead.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Scotland_Haggis.jpg/500px-Scotland_Haggis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Haggis",
+      "recipe": {
+        "ingredients": [
+          "1 pound (450 g) beef or lamb heart, cut into 2 inch-wide strips",
+          "1 pound (450 g) beef or lamb liver",
+          "½ pound (225 g) lamb stew meat, cut in 1-inch cubes",
+          "1 ½ cups peeled and finely-chopped yellow onion",
+          "4 tablespoons Scotch whiskey",
+          "1 tablespoon eggnog",
+          "2 cups oatmeal, toasted in a 375°F (200°C) oven for 10 minutes",
+          "2 teaspoons salt",
+          "½ teaspoon freshly ground black pepper",
+          "1 teaspoon dried thyme, whole",
+          "½ teaspoon dried rosemary",
+          "¼ teaspoon freshly grated nutmeg",
+          "3 beef CAPS (Talk to a sausage shop about these)",
+          "1 cup distilled white vinegar",
+          "½ tablespoon salt for soaking"
+        ],
+        "steps": [
+          "Place the beef heart in a 4-quart (about 3–3.5 litre) covered pot and just cover with cold water. Simmer, covered, for 1 hour and 10 minutes.",
+          "Add the beef liver and lamb stew meat, cover, and simmer for 20 minutes. Remove the contents of the pot and cool. Reserve 1 cup of the liquid. Grind all the meat coarsely.",
+          "In a large bowl mix all of the ingredients except for the beef caps, vinegar, and salt for soaking. Mix well and set aside.",
+          "Rinse the beef caps in cold water. Turn them inside out and soak them in 2 quarts of cold water with the salt and vinegar for ½ hour. Drain them and rinse very well, inside and out.",
+          "Divide the meat mixture into three parts. Fill the beef caps with the meat mixture and tie the ends off with string. Two will have to be tied on just one end, but the third piece will be tied on both ends. Prick the Haggis all over with corn holders or a sharp fork. Place in a steamer and steam for 1 hour and 20 minutes.",
+          "Serve the haggis, sliced, with beef or lamb gravy."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHaggis"
+      }
+    },
+    {
+      "id": "welsh-rarebit",
+      "name": "Welsh rarebit",
+      "videoSearch": "https://www.youtube.com/results?search_query=Welsh%20rarebit%20recipe",
+      "description": "Welsh rarebit, also spelled Welsh rabbit, is a dish of hot cheese sauce, often including ale, mustard, or Worcestershire sauce, served on toasted bread.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Welsh_rarebit.JPG/500px-Welsh_rarebit.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Welsh_rarebit",
+      "recipe": {
+        "ingredients": [
+          "2 tablespoons unsalted butter",
+          "2 tablespoons all-purpose flour",
+          "1 teaspoon Dijon mustard",
+          "1 teaspoon Worcestershire sauce",
+          "½ teaspoon salt",
+          "½ teaspoon freshly ground black pepper",
+          "2 fl oz (60 ml) beer such as porter (Guinness will do)",
+          "4 fl oz (120 ml) double cream",
+          "6 oz (170 g) grated Cheddar cheese",
+          "4 slices of toast"
+        ],
+        "steps": [
+          "In a medium saucepan over low heat, melt the butter and whisk in the flour.",
+          "Cook, whisking constantly for 2–3 minutes, being careful not to brown the flour.",
+          "Whisk in mustard, Worcestershire sauce, salt, and pepper until smooth.",
+          "Add beer and whisk to combine.",
+          "Pour in cream and whisk until well combined and smooth.",
+          "Gradually add cheese, stirring constantly, until cheese melts and sauce is smooth; this will take 4–5 minutes.",
+          "Pour over toast and serve immediately."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AWelsh_Rarebit"
+      }
+    },
+    {
+      "id": "scotch-egg",
+      "name": "Scotch egg",
+      "videoSearch": "https://www.youtube.com/results?search_query=Scotch%20egg%20recipe",
+      "description": "A Scotch egg is a boiled egg wrapped in sausage meat, coated in breadcrumbs and baked or deep-fried.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/One_scotch_egg_%28No_jar_of_Marmite%29.jpg/500px-One_scotch_egg_%28No_jar_of_Marmite%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Scotch_egg"
+    },
+    {
+      "id": "ploughman-s-lunch",
+      "name": "Ploughman's lunch",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ploughman's%20lunch%20recipe",
+      "description": "A ploughman's lunch is an originally English cold meal based around bread, cheese, and fresh or pickled onions. Additional items can be added, such as ham, green salad, hard boiled eggs, and apple, and usual accompaniments are butter and a sweet pickle such as Branston.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Ploughmans_lunch.jpg/500px-Ploughmans_lunch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ploughman%27s_lunch",
+      "recipe": {
+        "ingredients": [
+          "1 big chunk of good English cheese (e.g. Cheshire, Stilton, Lancashire), or a selection of 2–3 types of cheese if available",
+          "1 big doorstop of granary bread",
+          "Butter",
+          "Pickle (e.g. Branston pickle, or a good chunky local pickle)",
+          "Lettuce leaves",
+          "½ apple (optional)",
+          "Pickled onions (optional)",
+          "Cocktail pork pie (optional)",
+          "Sausage rolls (optional)"
+        ],
+        "steps": [
+          "Arrange all ingredients on a plate."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APloughman's_Lunch"
+      }
+    },
+    {
+      "id": "sticky-toffee-pudding",
+      "name": "Sticky toffee pudding",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sticky%20toffee%20pudding%20recipe",
+      "description": "Sticky toffee pudding is an English dessert consisting of a moist sponge cake covered in a toffee sauce, often served with a vanilla custard or vanilla ice cream. It is widely served in the Lake District in North West England, where it is a culinary symbol.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Sticky_toffee_pudding_at_the_Black_Swan_-_Stierch.jpg/500px-Sticky_toffee_pudding_at_the_Black_Swan_-_Stierch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sticky_toffee_pudding"
+    },
+    {
+      "id": "scone",
+      "name": "Scone",
+      "videoSearch": "https://www.youtube.com/results?search_query=Scone%20recipe",
+      "description": "A scone ( SKON or SKOHN) is a traditional British and Irish baked good, popular in the United Kingdom, Ireland, Canada, Australia and New Zealand. In the US, scones are a different baked product from the rest of the world, usually sweeter, triangular in shape and served on their own.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Scone_varieties.jpg/500px-Scone_varieties.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Scone"
+    },
+    {
+      "id": "trifle",
+      "name": "Trifle",
+      "videoSearch": "https://www.youtube.com/results?search_query=Trifle%20recipe",
+      "description": "Trifle is an English layered dessert. The usual ingredients are a thin layer of ladyfingers or sponge cake soaked in sherry or another fortified wine, a fruit element (fresh or jelly), custard and whipped cream layered in that ascending order in a glass dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Trifle_4layer.jpg/500px-Trifle_4layer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Trifle",
+      "recipe": {
+        "ingredients": [
+          "1 swiss roll or similar sponge cake",
+          "50–100 ml dry sherry",
+          "1 packet/sachet fruit-flavoured jelly (can be found under the brand names \"Quick-Jel\" or \"Jell-O\")",
+          "1 tin of peach segments",
+          "Custard",
+          "Whipped double cream",
+          "Hundreds and thousands, sprinkles, or other sweet topping (optional)"
+        ],
+        "steps": [
+          "Slice the Swiss roll approximately ¾-inch (2 cm) thick, and line the base of a Pyrex casserole dish with it.",
+          "Pour sherry over the swiss roll.",
+          "Drain the peaches, keeping the juice/syrup aside and then arrange the peaches over the swiss roll.",
+          "Prepare the jelly as per the instructions, you may wish to use the syrup from the peaches for this. Pour the jelly into the casserole dish and allow to set in the fridge.",
+          "Make the custard, again as per the instructions (use fresh or powdered as opposed to canned). Allow this to cool to lukewarm, and pour into the casserole. Allow this to set in the fridge.",
+          "Whip the cream for the top of the trifle and spread it over the custard. Garnish with hundreds and thousands, sprinkles, or other cake decorations.",
+          "Serve!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATrifle"
+      }
+    },
+    {
+      "id": "eton-mess",
+      "name": "Eton mess",
+      "videoSearch": "https://www.youtube.com/results?search_query=Eton%20mess%20recipe",
+      "description": "Eton mess is a traditional English dessert consisting of a mixture of strawberries or other berries, meringue, and whipped cream. First mentioned in print in 1893, it is commonly believed to originate from Eton College and is served at the annual cricket match against the pupils of Harrow School.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Eton_Mess_2025-2_%28cropped%29.jpg/500px-Eton_Mess_2025-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eton_mess"
+    },
+    {
+      "id": "cullen-skink",
+      "name": "Cullen skink",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cullen%20skink%20recipe",
+      "description": "Cullen skink is a thick Scottish soup typically made of at least smoked haddock, potatoes, and onions. An authentic Cullen skink will use finnan haddie, but it may be prepared with any other undyed smoked haddock. Sometimes ocean perch or salmon are used in the soup.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Cullen_Skink.JPG/500px-Cullen_Skink.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cullen_skink",
+      "recipe": {
+        "ingredients": [
+          "1 large (2 lb) smoked haddock, preferably Finny haddock",
+          "1 medium onion, finely chopped",
+          "1½ pints milk",
+          "2 tablespoons butter",
+          "8 oz mashed potato",
+          "Salt",
+          "Pepper",
+          "1 bay leaf",
+          "Parsley, chopped",
+          "Water",
+          "Toast (optional)"
+        ],
+        "steps": [
+          "Cover the haddock with water in a shallow pan with skin side down.",
+          "Bring to the boil and simmer for 5 minutes, turning once.",
+          "Take the fish from the pan and remove the skin and bones.",
+          "Flake the fish and return to the stock.",
+          "Add chopped onion, bay leaf, salt and pepper.",
+          "Simmer for a further 10 minutes.",
+          "Strain the stock and keep it ready. Discard the bay leaf and keep the fish warm.",
+          "Add the milk to the fish stock and bring to the boil.",
+          "Add mashed potato to make a rich and thick soup.",
+          "Add the fish and check the seasoning—add more if needed.",
+          "When serving, add the butter in small pieces so it runs through the soup.",
+          "Serve with chopped parsley on top, and toast by the side."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACullen_Skink_(Haddock_and_Potato_Soup)"
+      }
+    },
+    {
+      "id": "lancashire-hotpot",
+      "name": "Lancashire hotpot",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lancashire%20hotpot%20recipe",
+      "description": "Lancashire hotpot is a stew originating in Lancashire in North West England. It consists of lamb or mutton and onion, topped with sliced potatoes and slowly baked in a pot at a low heat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Lancashire_hotpot.jpg/500px-Lancashire_hotpot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lancashire_hotpot",
+      "recipe": {
+        "ingredients": [
+          "2 lb (900 g) neck of lamb or mutton",
+          "2 large potatoes, sliced",
+          "1 large or 2 small white onions, diced",
+          "Choice of mixed herbs",
+          "500 ml boiling water"
+        ],
+        "steps": [
+          "Dice the lamb and set aside. Preheat oven to 325°F / 170°C / Gas mark 3.",
+          "Add a layer of the potatoes to the bottom of a casserole dish, and cover with a handful of the diced onion. Layer the diced lamb on top of this, sprinkling with the herbs.",
+          "Repeat these layers until the dish is full. Top with a final layer of the potatoes.",
+          "Pour boiling water into the dish until filled—if more water is needed, continue to add until topped.",
+          "Bake for at least 1 hour, though traditionally the dish was left baking all day. Mutton will require a longer cooking time."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALancashire_Hotpot"
+      }
+    },
+    {
+      "id": "pork-pie",
+      "name": "Pork pie",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pork%20pie%20recipe",
+      "description": "A pork pie is a traditional English meat pie, usually served at room temperature, although occasionally served hot. It consists of a filling of roughly chopped pork and pork fat, surrounded by a layer of jellied pork stock in a hot water crust pastry.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/PORK_PIES.jpg/500px-PORK_PIES.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pork_pie"
+    },
+    {
+      "id": "cranachan",
+      "name": "Cranachan",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cranachan%20recipe",
+      "description": "Cranachan is a traditional Scottish dessert. It was originally a celebration of harvest, made following the raspberry harvest in August. The dessert of cream and fresh seasonal raspberries is bolstered by Scottish oats and whisky.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Cranachan_%284332953688%29.jpg/500px-Cranachan_%284332953688%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cranachan"
+    },
+    {
+      "id": "black-pudding",
+      "name": "Black pudding",
+      "videoSearch": "https://www.youtube.com/results?search_query=Black%20pudding%20recipe",
+      "description": "Black pudding is a type of blood sausage originating in the United Kingdom and Ireland. It is made from pork or occasionally beef blood, with pork fat or beef suet, and a cereal, usually oatmeal, oat groats, or barley groats.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Stornoway_Black_Pudding.jpg/500px-Stornoway_Black_Pudding.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Black_pudding"
+    },
+    {
+      "id": "victoria-sponge",
+      "name": "Victoria sponge",
+      "videoSearch": "https://www.youtube.com/results?search_query=Victoria%20sponge%20recipe",
+      "description": "Sponge cake is a light cake made with egg whites, flour and sugar, sometimes leavened with baking powder. Most sponge cakes contain egg yolks, but some do not, such as angel food cake.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Victoria_Sponges.jpg/500px-Victoria_Sponges.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sponge_cake",
+      "recipe": {
+        "ingredients": [
+          "170 g (⅔ cup or 6 oz) self-raising flour",
+          "170 g (⅔ cup or 6 oz) unsalted butter or margarine",
+          "170 g (⅔ cup or 6 oz) caster sugar",
+          "3 eggs (170 g without shell)",
+          "1 tsp vanilla essence",
+          "Fruit jam",
+          "Whipped cream or buttercream"
+        ],
+        "steps": [
+          "Preheat the oven to 200°C (400°F or Gas Mark 6).",
+          "Cream the butter and sugar into a bowl and mix with a wooden spoon until softened.",
+          "Add the 3 eggs, the vanilla essence, and the flour and mix until smooth.",
+          "Divide the mixture between the two greased cake pans.",
+          "Bake in the oven for 20–30 minutes (10–15 in a fan-assisted oven) until firm to the touch.",
+          "Leave to cool completely on a cooling rack.",
+          "Turn one cake upside down and spread jam and whipped cream over it. Then, place the second cake on top.",
+          "Cut into wedges, and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AVictoria_Sandwich"
+      }
+    },
+    {
+      "id": "welsh-cake",
+      "name": "Welsh cake",
+      "videoSearch": "https://www.youtube.com/results?search_query=Welsh%20cake%20recipe",
+      "description": "Welsh cakes (Welsh: picau ar y maen, pice bach, cacennau cri or teisennau gradell), also known as bakestones, griddle cakes, or pics, are a traditional sweet bread from Wales.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Closeup_of_Welsh_cakes%2C_February_2009.jpg/500px-Closeup_of_Welsh_cakes%2C_February_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Welsh_cake",
+      "recipe": {
+        "ingredients": [
+          "450 g (2 cups or 1 lb) plain flour",
+          "225 g (1 cup or 8 oz) butter",
+          "170 g (¾ cup or 6 oz) castor sugar",
+          "4 eggs",
+          "85 g (3 oz) currants, sultanas, raisins or other dried fruit",
+          "dash of milk",
+          "pinch of salt"
+        ],
+        "steps": [
+          "In a large mixing bowl, sift the flour then rub together with the butter and salt until mixture resembles fine breadcrumbs.",
+          "Mix in sugar and dried fruit.",
+          "Add eggs one at a time, beating together until mixture forms a thick dough. If dough will not form, add a small amount of milk (i.e. a tablespoon).",
+          "Knead for two to three minutes until dough becomes cohesive and slightly elastic.",
+          "Roll dough out on a flat surface.",
+          "Cut 2–3-inch circles from the dough and fry",
+          "Preheat a griddle on high than lower it to medium-low (this is important to stop burning)",
+          "Griddle 2-4 minutes on each side until golden brown."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AWelsh_Cakes"
+      }
+    },
+    {
+      "id": "bara-brith",
+      "name": "Bara brith",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bara%20brith%20recipe",
+      "description": "Bara brith is a traditional Welsh tea bread flavoured with tea, dried fruits and spices. It is similar to fruitcake. It has been championed as a symbol of Welsh cookery by celebrity chefs such as Bryn Williams, especially in response to a decline in popularity in recent decades.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Bara_Brith_%283320696816%29.jpg/500px-Bara_Brith_%283320696816%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bara_brith",
+      "recipe": {
+        "ingredients": [
+          "8 fl oz (225 ml) milk",
+          "2 oz (50 g) brown sugar, plus 1 teaspoon",
+          "4 level teaspoons dried yeast",
+          "1 lb (450 g) strong plain flour",
+          "1 level teaspoon salt",
+          "3 oz (75 g) butter or margarine",
+          "1 level teaspoon mixed spice",
+          "1 egg, beaten",
+          "12 oz (350 g) mixed dried fruit",
+          "Clear honey, to glaze",
+          "2 lb (900 g) loaf tin, well greased"
+        ],
+        "steps": [
+          "Warm the milk in a small pan until hand-hot. Put it into a bowl with 1 teaspoon of sugar and the yeast. Leave it in a warm place for about 15 minutes until a froth appears.",
+          "Sift the flour and place in a large bowl with 2 oz (50 g) sugar and the salt. Rub the fat into the flour until it resembles fine breadcrumbs, then stir in the mixed spice. Add the egg and frothed yeast. Mix to a dough in the bowl before turning it out onto a floured surface. Knead until smooth and elastic. Place back into a bowl and cover with plastic film or a damp cloth. Leave it to rise in a warm place for about 90 minutes.",
+          "After it has been left to stand, 'knock down' the dough and knead again, adding the fruit slowly.",
+          "Place into a bread tin and put the tin into an oiled plastic bag. Leave to rise for about 35–40 minutes and preheat the oven to gas mark 5, 190°C (375°F).",
+          "When the dough has risen and springs back when pressed, take the tin out of the bag and bake in the centre of the oven for about 30 minutes.",
+          "Cover the top of the loaf tin with aluminium foil to stop it burning and bake for another 30 minutes.",
+          "Take out of the oven and tap the bottom of the loaf, which should sound hollow—if not, bake it for another 5 minutes.",
+          "Brush the honey onto the top of the loaf and cool it on a wire rack. Slice it thinly and serve buttered."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AWelsh_Fruit_Bread_(Bara_Brith)_I"
+      }
+    },
+    {
+      "id": "christmas-pudding",
+      "name": "Christmas pudding",
+      "videoSearch": "https://www.youtube.com/results?search_query=Christmas%20pudding%20recipe",
+      "description": "Christmas pudding is a sweet boiled or steamed pudding traditionally served as part of Christmas dinner in Britain. It has its origins in medieval England, with early recipes making use of dried fruit, suet, breadcrumbs, flour, eggs and spice, along with liquid such as milk or fortified wine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Christmas_pudding_%2811927643275%29.jpg/500px-Christmas_pudding_%2811927643275%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Christmas_pudding",
+      "recipe": {
+        "ingredients": [
+          "450 g dried mixed fruit (raisins, currants)",
+          "55 g flour",
+          "100 g brown sugar",
+          "½ lemon",
+          "½ orange",
+          "40 g fresh white breadcrumbs",
+          "40 g chopped almonds",
+          "2 eggs",
+          "75 g butter",
+          "1 small apple"
+        ],
+        "steps": [
+          "Combine all dried mixed fruit in a large bowl. Stir well.",
+          "Mix in the flour, then the sugar, lemon, orange, breadcrumbs, and nuts.",
+          "Whisk eggs in a separate bowl. Mix eggs into the dry ingredients.",
+          "Steam the pudding for several hours, remove it, and put it in a cool place.",
+          "Serve with butter, cream, custard, or brandy."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABritish_Christmas_Pudding"
+      }
+    },
+    {
+      "id": "bubble-and-squeak",
+      "name": "Bubble and squeak",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bubble%20and%20squeak%20recipe",
+      "description": "Bubble and squeak is an English dish made from cooked potatoes and cabbage, mixed together and fried. The food writer Howard Hillman classes it as one of the \"great peasant dishes of the world\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/-2021-12-03_Pan_fried_Bubble_and_squeak%2C_Trimingham%2C_Norfolk_%284%29.JPG/500px--2021-12-03_Pan_fried_Bubble_and_squeak%2C_Trimingham%2C_Norfolk_%284%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bubble_and_squeak",
+      "recipe": {
+        "ingredients": [
+          "1 medium onion (optional), chopped",
+          "1 tablespoon fat or oil",
+          "Various cooked vegetables (e.g. potatoes, cabbage, carrots, peas, and/or Brussels sprouts)"
+        ],
+        "steps": [
+          "Fry the chopped onion in fat or oil.",
+          "Chop the vegetables, and add to the pan.",
+          "Cook over a medium heat till the underside is golden brown and crispy, then turn it, scraping the crispy bits into the mix. Repeat the turning and scraping a few times until browned and cooked through."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABubble_and_Squeak"
+      }
+    },
+    {
+      "id": "scouse",
+      "name": "Scouse",
+      "videoSearch": "https://www.youtube.com/results?search_query=Scouse%20recipe",
+      "description": "Scouse is a type of stew typically made from meat (usually beef or lamb) with potatoes, carrots, and onions. It is particularly associated with the city of Liverpool, to the extent that the Liverpool accent is also widely referred to as \"Scouse\" and locals as \"Scousers\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Lobscouse%2C_Lobby%2C_Scouse.jpg/500px-Lobscouse%2C_Lobby%2C_Scouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Scouse_(food)",
+      "recipe": {
+        "ingredients": [
+          "A cheap cut of lamb or mutton (such as breast or forequarter)",
+          "A little oil",
+          "Onions, chopped",
+          "Carrots, chopped",
+          "Water or meat stock",
+          "Potatoes, diced"
+        ],
+        "steps": [
+          "Remove the meat from the bone (if needed), and dice it.",
+          "Heat a little oil in a large saucepan. Add the meat, and brown it.",
+          "Add the chopped onions, carrots, and water or meat stock, and as many potatoes as possible.",
+          "Simmer until everything is cooked."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALiverpool_Lamb_and_Vegetable_Soup_(Scouse)"
+      }
+    },
+    {
+      "id": "stovies",
+      "name": "Stovies",
+      "videoSearch": "https://www.youtube.com/results?search_query=Stovies%20recipe",
+      "description": "Stovies (also stovy tatties, stoved potatoes, stovers or stovocks) is a Scottish stew based on potatoes. Recipes and ingredients vary widely but the dish contains potatoes, fat, usually onions and often pieces of meat. In some versions, other vegetables may be added.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Stovies_containing_beef.jpg/500px-Stovies_containing_beef.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stovies",
+      "recipe": {
+        "ingredients": [
+          "1 kg (2 pounds) potatoes",
+          "50 g (2 oz) beef drippings or butter",
+          "3 medium onions, roughly chopped",
+          "125–250 g (4–8 oz) cooked beef or lamb (leftovers from a roast dinner)",
+          "2–3 tbsp finely chopped parsley, chives, or spring onions",
+          "Seasoning salt (optional)",
+          "Freshly ground black pepper (optional)",
+          "Allspice or grated nutmeg (optional)"
+        ],
+        "steps": [
+          "Peel potatoes if they are \"main crop\", but leave the skins on new potatoes. Slice about 5 mm (¼-inch) thick. Or, slice roughly in different thickness so that the thin make a mush when cooked, while the others stay whole.",
+          "Heat fat in a large heavy-base pot (one with a tight-fitting lid) and add the onions. Cook until lightly brown. Add the potatoes and stir well, coating all sides with the fat.",
+          "Put the lid on and cook over a very low heat, shaking the pot once or twice to prevent sticking, until the potatoes are cooked.",
+          "Add the meat, mix through, and turn up the heat to brown a little.",
+          "Serve with brown sauce, parsley, and optional seasonings."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AStovies"
+      }
+    },
+    {
+      "id": "tattie-scone",
+      "name": "Tattie scone",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tattie%20scone%20recipe",
+      "description": "A tattie scone (tottie scone) or potato scone is a regional variant of the savoury griddle scone which is especially popular in Scotland. Many variations of the recipe exist. They generally include liberal quantities of boiled potatoes, butter and salt.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Potato_scone_with_vegetable_bake.jpg/500px-Potato_scone_with_vegetable_bake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tattie_scone",
+      "recipe": {
+        "ingredients": [
+          "1 kg floury potatoes (e.g. Yukon gold)",
+          "Butter",
+          "Salt and pepper",
+          "Flour"
+        ],
+        "steps": [
+          "Cook potatoes in salted boiling water until tender, drain them well and put them back into the hot pot to dry them out a bit.",
+          "Mash them well with lots of butter and salt and pepper, but no milk or other liquid. Let them cool.",
+          "When the potatoes are cold, stir in flour and a little more melted butter to make a smooth dough. Roll out to a thickness of about 5 mm, and cut into 3-inch (7.5 cm) wedges.",
+          "Cook in a lightly-buttered frying pan until golden, about 1–2 minutes a side.",
+          "Serve the potato scones right away with cold butter to spread on top, or store them in the fridge until you want to use them, reheating them in a well-buttered frying pan.",
+          "Some people are content to eat them cold with butter, or heat them in a toaster for buttering. They also freeze very, very well."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATattie_Scones"
+      }
+    },
+    {
+      "id": "summer-pudding",
+      "name": "Summer pudding",
+      "videoSearch": "https://www.youtube.com/results?search_query=Summer%20pudding%20recipe",
+      "description": "Summer pudding or summer fruit pudding is an English dessert made of sliced white bread, layered in a deep bowl with fruit and fruit juice. It is left to soak overnight and turned out onto a plate. The dessert was most popular from the late 19th to the early 20th century.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Summer_Pudding-3.jpg/500px-Summer_Pudding-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Summer_pudding",
+      "recipe": {
+        "ingredients": [
+          "1 punnet strawberries, large ones halved",
+          "1 punnet raspberries",
+          "½ punnet blackcurrants",
+          "½ punnet redcurrants",
+          "1 loaf of white, pappy sort of bread or brioche, crusts removed and sliced",
+          "2 tbsp caster sugar",
+          "1 lime, finely zested",
+          "2–3 mint leaves, finely chopped",
+          "1 bottle of the best quality blackcurrant cordial you can find, in reserve"
+        ],
+        "steps": [
+          "Liberally butter the inside a pudding bowl about 5 inches in diameter. The bowl should preferably not be greater in diameter that the size of your pieces of sliced bread. If you are worried about getting the whole thing out of the bowl in one piece, line the bowl first with some cling film. It's a fiddly job, but ensures you get a perfect shape at the end.",
+          "Combine the blackcurrants, redcurrants, mint leaves, lime zest, sugar, and about 3 tbsp water. Poach them for about 5 minutes on the lowest possible heat setting of your stove. Add the strawberries and poach for another minute.",
+          "Turn the heat off and add the raspberries. Leave to cool.",
+          "Using the prepared bowl as a guide, cut a circle out of the white bread the same diameter as the top of the bowl. Do the same with the bottom of the bowl.",
+          "Using a sharp knife, slice the bread into squares or oblongs, roughly the same height as the bowl, which will be used to line the inside of the bowl. This does not have to be an exact science. In simple terms what we are trying to do is to line the bowl with the white bread.",
+          "Lay the smaller circle of white bread on the bottom of the bowl. Put the oblongs of white bread up the side of the bowl, overlapping slightly, and pour the fruit mixture into the void right up to the top. The bread should become well soaked in the juice from the cooked fruit. Indeed if there is not enough juice to soak the bread so it turns very red, use the cordial as a top-up.",
+          "Place the large circle, or disc, of bread on the top and press it down well.",
+          "Top with a weight or something that fits into the top of the bowl so it squashes everything down tight, and place it in the fridge for at least 40 minutes.",
+          "When you are ready to serve the pudding, carefully using a knife to release the bread mould from the side of the bowl, and invert the whole thing onto a plate. If things become a little fraught and wobbly at this point, don't panic—just sort of whack everything back into shape using a wooden spoon.",
+          "Decorate your plate with some more summer fruit, maybe a couple of mint leaves, and an artistic dollop of fresh whipped cream or crème fraîche, then serve with a flourish."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASummer_Pudding"
+      }
+    },
+    {
+      "id": "jam-roly-poly",
+      "name": "Jam roly-poly",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jam%20roly-poly%20recipe",
+      "description": "Jam roly-poly, shirt-sleeve pudding, dead man's arm or dead man's leg is a traditional British pudding probably first created in the early 19th century. It is a flat-rolled suet pudding, which is spread with jam and rolled up, similar to a Swiss roll, then steamed or baked and traditionally served with custard.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Jam_roly-poly02.jpg/500px-Jam_roly-poly02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jam_roly-poly",
+      "recipe": {
+        "ingredients": [
+          "250 g (1 cup or 8 oz) self-rising flour",
+          "1 pinch salt",
+          "125 g (½ cup or 4 oz) shredded suet",
+          "90–120 ml (6–8 tbsp) water",
+          "4 tbsp raspberry jam, warmed",
+          "A little milk",
+          "1 egg, beaten",
+          "1 tsp caster sugar to glaze"
+        ],
+        "steps": [
+          "Preheat the oven to 200°C (400°F or Gas Mark 6).",
+          "Sift the flour into a bowl with the salt. Add the suet and sufficient water to create a soft but not sticky dough.",
+          "Turn on to a floured board and roll out to a rectangle about 20×30 cm (8×12 inches).",
+          "Brush the pastry with the warmed jam, leaving a 1 cm (½ inch) border all around.",
+          "Fold in this border and brush with milk. With the short side towards you, roll up the pastry loosely and seal the ends well.",
+          "Place on a greased baking sheet, with the sealed edge underneath. Brush with the beaten egg and sprinkle with caster sugar.",
+          "Bake in the oven for 35–40 minutes until golden brown.",
+          "Remove from the oven, sprinkle on a little more sugar and serve hot with home-made English custard."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AJam_Roly-Poly"
+      }
+    }
+  ]
+}

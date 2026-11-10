@@ -1,0 +1,317 @@
+{
+  "country": "PL",
+  "dishes": [
+    {
+      "id": "pierogi",
+      "name": "Pierogi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pierogi%20recipe",
+      "description": "Pierogi are filled dumplings made by wrapping unleavened dough around a filling and cooking in boiling water. They are occasionally flavored with a savory or sweet garnish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Pierogi_z_mas%C5%82em_-_2023.03.31.jpg/500px-Pierogi_z_mas%C5%82em_-_2023.03.31.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pierogi",
+      "recipe": {
+        "ingredients": [
+          "1 tbsp salt",
+          "½ cup cold water",
+          "1–2 large eggs",
+          "3½ cups all-purpose flour, plus extra for rolling dough",
+          "~1 cup water",
+          "1½ tbsp unsalted butter, melted",
+          "1 recipe sauerkraut filling or cheese filling"
+        ],
+        "steps": [
+          "Place flour in a large bowl.",
+          "In a measuring cup, combine the salt, eggs, and the ½ cup cold water, and beat well with a fork. Add those ingredients to flour and mix with your hands until blended.",
+          "Slowly mix in the remaining water (you do not have to add the entire cup, just keep adding until the dough feels wet).",
+          "Add the butter and knead until there are no lumps and it feels very smooth. This should take 15 minutes.",
+          "Cover and refrigerate the dough for at least 1 hour, but for best results let it sit in the refrigerator for at least 24 hours.",
+          "Divide the dough into thirds and roll out each on a lightly floured surface until the dough is approximately ⅛ inch thick.",
+          "With a cup or glass, cut as many circles as possible out of the dough, but do not lift them off the work surface.",
+          "Carefully lift each circle of dough from the table (a spatula helps) and put between 1 tsp and 1 tbsp of filling in its center. The amount varies depending on the size of the glass that was used to cut the dough.",
+          "For each circle, fold dough over to form a half-moon shape, and pinch edges closed, making sure there are no air pockets.",
+          "Repeat for the remaining dough.",
+          "Place no more than ⅓ of the pierogi at a time in boiling salted water for 5–10 minutes.",
+          "Drain in colander and lightly rinse with cold water—this will prevent them from sticking together.",
+          "Serve immediately or fry in butter."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APierogi_I"
+      }
+    },
+    {
+      "id": "bigos",
+      "name": "Bigos",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bigos%20recipe",
+      "description": "Bigos, or hunter's stew, is a Polish dish of chopped meat of various kinds stewed with sauerkraut, shredded fresh cabbage and spices. It is served hot and can be enriched with additional vegetables and wine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Bigos_%281%29.jpg/500px-Bigos_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bigos",
+      "recipe": {
+        "ingredients": [
+          "2.5 kg fresh cabbage",
+          "2 kg fermented cabbage (sauerkraut)",
+          "500 g pork or venison",
+          "250 g sausage",
+          "250 g bacon",
+          "Fresh or dried mushrooms",
+          "Whole black pepper",
+          "Salt",
+          "Bay leaf"
+        ],
+        "steps": [
+          "Chop the cabbage, add pepper and salt, a part of the mushrooms and bay leaf, and cook until soft (about 2–3 hours).",
+          "Chop the bacon and let it melt in a frying pan.",
+          "Fry the chopped meat and sausage in the bacon grease.",
+          "If necessary, drain excess water from the stewed cabbage and add the fried meat, bacon, and sausage along with the grease out of the pan. Stew everything as long as possible—the longer, the better (sometimes it is done for 3 hours a day in 3 following days, or even longer).",
+          "When ready, the dish should be a thick mash that does not \"leak\" water on the plate; it should be mildly sour and have a strong flavour of smoked bacon."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABigos_(Polish_Cabbage_Meat_Stew)"
+      }
+    },
+    {
+      "id": "zurek",
+      "name": "Żurek",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C5%BBurek%20recipe",
+      "description": "Sour cereal soup is a Slavic traditional soup made with various types of cereals such as rye, wheat and oats, which are fermented to create a sourdough-like soup base and stirred into a pot of stock which may contain meat such as boiled sausage and bacon, along with other ingredients such as hard-boiled eggs, potatoes …",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sour_cereal_soup"
+    },
+    {
+      "id": "golabki",
+      "name": "Gołąbki",
+      "videoSearch": "https://www.youtube.com/results?search_query=Go%C5%82%C4%85bki%20recipe",
+      "description": "Gołąbki is the Polish name of a dish popular in cuisines of Central and Eastern Europe, made from boiled cabbage leaves wrapped around a filling of minced pork or beef, chopped onions, and rice or other carbohydrates such as kasha groats or potatoes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/00101_Rindfleisch_-_Kohlroulade%2C_Podkarpackie.JPG/500px-00101_Rindfleisch_-_Kohlroulade%2C_Podkarpackie.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Go%C5%82%C4%85bki"
+    },
+    {
+      "id": "kotlet-schabowy",
+      "name": "Kotlet schabowy",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kotlet%20schabowy%20recipe",
+      "description": "Kotlet schabowy is a Polish variety of a breaded cutlet of pork coated with breadcrumbs. It is similar to Viennese schnitzel or Italian cotoletta, French côtelette de veau frite (or côtelette Menon), North and South American milanesa, Spanish cachopo and Japanese tonkatsu.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kotlet_Schabowy.jpg/500px-Kotlet_Schabowy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kotlet_schabowy"
+    },
+    {
+      "id": "rosol",
+      "name": "Rosół",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ros%C3%B3%C5%82%20recipe",
+      "description": "Rosół is a traditional Polish soup based primarily on meat broth. Its most popular variety is the rosół z kury, or clear chicken soup. It is commonly served with capellini pasta (polish makaron nitki).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/09516_rosol_z_makaronem%2C_sanok.jpg/500px-09516_rosol_z_makaronem%2C_sanok.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ros%C3%B3%C5%82",
+      "recipe": {
+        "ingredients": [
+          "1 chicken",
+          "1 onion",
+          "1 small leek",
+          "2 carrots, peeled and sliced lengthwise",
+          "½ celery root",
+          "2–3 sprigs green celery",
+          "1–2 parsley roots",
+          "1 bunch of parsley",
+          "Salt",
+          "Pepper",
+          "⅛ sweet cabbage",
+          "Garlic, to taste",
+          "Bay leaf, to taste",
+          "Juniper seeds",
+          "Dried wild mushrooms",
+          "Allspice, to taste"
+        ],
+        "steps": [
+          "Quarter the chicken and place in a stock pot with ~1.5 cold water. Do not add salt at this time, as this may harden some meats. Bring to a boil on high heat, then simmer for 30–45 minutes. At this time, remove (skim) the surface flotsam (a mix of protein and some fat).",
+          "Add peeled garlic clove, carrots, celery root, parsley root similarly prepared, and other vegetables previously washed.",
+          "Sauté onion halves in minimal oil to caramelize the flesh. Add to the soup. Omitting this step will result in a clearer, less-yellow product.",
+          "Simmer on low heat for approx 2 hours or more. Rosó&#322; should not boil, as this will result in a cloudy consistency.",
+          "Season to taste with salt, pepper, bay leaf, allspice, juniper seeds, dried wild mushrooms, etc.",
+          "Continue simmering. You may skim fat off the surface, if so desired (traditionally it should be as fat as possible)",
+          "Remove cabbage, parsley, celery root and any \"undesired\" vegetables. Carrots are usually left in and served with the broth.",
+          "Serve hot with noodles and fresh parsley. Individuals may season with maggi, soy sauce, freshly ground black pepper and/or chilli flakes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARos%C3%B3%C5%82_(Polish_Meat_Soup)"
+      }
+    },
+    {
+      "id": "paczki",
+      "name": "Pączki",
+      "videoSearch": "https://www.youtube.com/results?search_query=P%C4%85czki%20recipe",
+      "description": "Pączki are filled doughnuts found in Polish cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Polskie_p%C4%85czki.jpg/500px-Polskie_p%C4%85czki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/P%C4%85czki",
+      "recipe": {
+        "ingredients": [
+          "2 tbsp sugar",
+          "2 tbsp softened unsalted butter",
+          "½ cup warm whole milk",
+          "¼ tsp vanilla extract",
+          "1 pinch of salt",
+          "2 eggs",
+          "1 tsp dry yeast",
+          "2 cups all-purpose flour",
+          "Enough oil for deep frying (see notes)",
+          "Roughly 2½ cups jelly, jam, or custard, for filling (optional)",
+          "Powdered sugar, for dusting (optional)"
+        ],
+        "steps": [
+          "Whisk together the sugar, butter, milk, vanilla, salt, and eggs. Then, whisk in the yeast.",
+          "While continuously stirring, add the flour ½ cup at a time until the mixture is a firm dough.",
+          "Knead the dough for about 5 minutes. Put it back in the bowl, cover, and let it rise somewhere warm until it's twice its original size—this should take about 1½ hours.",
+          "Pat the dough on a lightly floured surface, and roll the dough until it's about ½ inch thick. Cut out circles of dough and set aside. The exact size the circles should be is entirely up to your preference; the final product will have only a slightly larger diameter. You can roll out the excess dough again to cut more pączki.",
+          "Let the dough rounds rise for about 30 minutes or until they've doubled in size.",
+          "Heat oil to about 350°F in a deep pot or pan. Carefully spoon or slide a few pączki into the oil at a time to deep fry them until golden-brown. They will only be half submerged, so you will have to flip them to fry both sides; in a pinch, disposable chopsticks work well for this.",
+          "While the pączki cool, spoon some fruit jelly, jam, or custard in a pastry bag with a long, narrow point. Fill the pączki by pushing the point into their sides.",
+          "Sprinkle some powdered sugar on top, to taste. If the pączki are still warm, the powdered sugar may melt a bit."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APolish_Doughnuts_(Paczki)"
+      }
+    },
+    {
+      "id": "kielbasa",
+      "name": "Kiełbasa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kie%C5%82basa%20recipe",
+      "description": "Kielbasa is any type of meat sausage from Poland and a staple of Polish cuisine. In American English, it is typically a coarse, U-shaped smoked sausage of any kind of meat, which closely resembles the Wiejska sausage (typically pork only).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Kielbasa.jpg/500px-Kielbasa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kielbasa"
+    },
+    {
+      "id": "oscypek",
+      "name": "Oscypek",
+      "videoSearch": "https://www.youtube.com/results?search_query=Oscypek%20recipe",
+      "description": "Oscypek, rarely oszczypek, is a smoked cheese made of salted sheep milk exclusively in the Tatra Mountains region of Poland. Oscypek is made by an expert named \"baca\", a term also denoting a shepherd in the mountains.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Oscypki.jpg/500px-Oscypki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Oscypek"
+    },
+    {
+      "id": "zapiekanka",
+      "name": "Zapiekanka",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zapiekanka%20recipe",
+      "description": "A zapiekanka is a toasted open-face sandwich made of a sliced baguette or other long roll of bread, topped with sautéed white mushrooms, cheese and sometimes other ingredients, such as ham. Served hot with ketchup, it has been a popular street food in Poland since the 1970s.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Polish_zapiekanka%2C_June_2021.jpg/500px-Polish_zapiekanka%2C_June_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zapiekanka"
+    },
+    {
+      "id": "obwarzanek-krakowski",
+      "name": "Obwarzanek krakowski",
+      "videoSearch": "https://www.youtube.com/results?search_query=Obwarzanek%20krakowski%20recipe",
+      "description": "An obwarzanek krakowski is a braided ring-shaped bread that is boiled and sprinkled with salt and sesame or poppy seeds before being baked. It has a white, sweetish, moist and chewy crumb underneath a crunchy golden-brown crust.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Obwarzanek_mak.jpg/500px-Obwarzanek_mak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Obwarzanek_krakowski"
+    },
+    {
+      "id": "makowiec",
+      "name": "Makowiec",
+      "videoSearch": "https://www.youtube.com/results?search_query=Makowiec%20recipe",
+      "description": "The poppy seed roll is a roulade consisting of a roll of sweet yeast bread (a sweet bread) with a dense, rich, bittersweet filling of poppy seed. An alternative filling is a paste of minced walnuts, or minced chestnuts.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Bejgli1.jpg/500px-Bejgli1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Poppy_seed_roll"
+    },
+    {
+      "id": "flaki",
+      "name": "Flaki",
+      "videoSearch": "https://www.youtube.com/results?search_query=Flaki%20recipe",
+      "description": "Flaki or flaczki is a traditional Polish tripe stew. It is one of the many Polish soups, which represent an important part of Polish cuisine. Along with bigos, żurek, and pierogi, it is one of the most notable specialities in Polish cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Flaki_%281%29.JPG/500px-Flaki_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Flaki"
+    },
+    {
+      "id": "mizeria",
+      "name": "Mizeria",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mizeria%20recipe",
+      "description": "Mizeria is a salad which originated in Poland and consists of thinly sliced or grated cucumbers, often with sweet sour cream or kefir and vinegar, although in some cases oil. Other possible ingredients include onions, pepper or lemon juice, sugar, dill, chives, mint or parsley.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mizeria_-_2023.06.04.jpg/500px-Mizeria_-_2023.06.04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mizeria"
+    },
+    {
+      "id": "zupa-ogorkowa",
+      "name": "Zupa ogórkowa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zupa%20og%C3%B3rkowa%20recipe",
+      "description": "Cucumber soup is a traditional Polish and Lithuanian soup. It is made from sour, salted cucumbers and potato. Occasionally, rice is substituted for the potatoes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Cucumber_soup.jpg/500px-Cucumber_soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cucumber_soup",
+      "recipe": {
+        "ingredients": [
+          "4 chicken wings",
+          "1 small leek (or 1 small onion)",
+          "2 carrots",
+          "½ celery root (optional)",
+          "1 parsnip root",
+          "3 medium potatoes",
+          "3 big sour-salted (pickled) cucumbers",
+          "1 tablespoon butter",
+          "1 teaspoon flour",
+          "2 bay leaves",
+          "3 pimentos",
+          "Salt",
+          "Pepper",
+          "1–2 tablespoons of cream or half and half (optional; yoghurt is also acceptable but not traditional)"
+        ],
+        "steps": [
+          "Put the chicken wings, salt, pepper, bay leaves and pimentos into a saucepan or stock pot with 1.5 L (1½ quarts) cold water. After bringing it to a boil, let it simmer for 25 minutes on low heat.",
+          "Add the peeled carrots, celery root, parsnip root, and leek, and boil it for 10 more minutes. During that time peel the potatoes and dice them into 6 mm x 6 mm/quarter inch cubes (0.25 x 0.25 inches).",
+          "Take out the leek, and add the potatoes to the pot. Boil them for 10–12 minutes and make sure the potatoes are cooked through.",
+          "Grate the sour-salted (pickled) cucumbers and put them into a sauté pan with the melted butter. Sauté for 2 minutes, and add the flour and constantly stir it over low heat.",
+          "Add ½–⅓ cups (120-80 ml) of water to the sauté pan and continue stirring.",
+          "When the potatoes are cooked, add the prepared sour cucumber preparation to the stock pot and mix them well. Boil for 3–5 minutes and season the soup to taste. If you like, mix some soup with cream or sour cream in a small cup and add it to the pan, or a smaller amount to each individual serving.",
+          "Bon appétit! Smacznego!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AZupa_Og%C3%B3rkowa_(Polish_Cucumber_Soup)"
+      }
+    },
+    {
+      "id": "racuchy",
+      "name": "Racuchy",
+      "videoSearch": "https://www.youtube.com/results?search_query=Racuchy%20recipe",
+      "description": "Racuchy is a traditional Polish dish from the same family of foods as the crêpe and similar to American or Scottish pancakes. Racuchy are made from flour, milk, eggs, and sugar, with a pinch of salt. Racuchy are made with yeast other versions of Racuchy include, baking powder or baking soda.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Polish_pastries.jpg/500px-Polish_pastries.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Racuchy",
+      "recipe": {
+        "ingredients": [
+          "1 L sour milk or cultured buttermilk",
+          "1 cup white flour",
+          "1½ tsp baking soda",
+          "1 pinch salt",
+          "2 eggs",
+          "1 kg apples (optional), sliced",
+          "½ tsp ground cinnamon (optional)",
+          "½ cup raisins (optional)"
+        ],
+        "steps": [
+          "In large bowl, mix the baking soda, salt, and flour together well.",
+          "Add sour milk and eggs, and mix until smooth.",
+          "Pour small ladlefuls of the mixture into a non-stick pan, one at a time OR dip slices of peeled apples in batter and put them in the pan.",
+          "Cook until the edges are dry. Turn; cook until golden."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARacuszki_(Polish_Pancakes)"
+      }
+    },
+    {
+      "id": "kopytka",
+      "name": "Kopytka",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kopytka%20recipe",
+      "description": "Kopytka or kopitka (literally \"little hooves\") are a kind of potato dumpling in Polish, Belarusian, and Lithuanian cuisines.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Kopytka_in_tomato_sauce.jpg/500px-Kopytka_in_tomato_sauce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kopytka"
+    },
+    {
+      "id": "faworki",
+      "name": "Faworki",
+      "videoSearch": "https://www.youtube.com/results?search_query=Faworki%20recipe",
+      "description": "Angel wings are a traditional sweet crisp pastry made out of dough that has been shaped into thin twisted ribbons, deep-fried, and sprinkled with powdered sugar. Common to many European cuisines, angel wings have been incorporated into other regional cuisines (such as American cuisine) by immigrant populations.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Faworki_%28close-up%29.jpg/500px-Faworki_%28close-up%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Angel_wings"
+    },
+    {
+      "id": "torun-gingerbread",
+      "name": "Toruń gingerbread",
+      "localName": "Toruńskie pierniki",
+      "videoSearch": "https://www.youtube.com/results?search_query=Toru%C5%84%20gingerbread%20recipe",
+      "description": "Toruń gingerbread (Polish: pierniki toruńskie, German: Thorner Lebkuchen) is a traditional Polish gingerbread that has been produced since the Middle Ages in the city of Toruń.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/PL_gingerbread_from_Torun.jpg/500px-PL_gingerbread_from_Torun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Toru%C5%84_gingerbread"
+    },
+    {
+      "id": "kremowka",
+      "name": "Kremówka",
+      "videoSearch": "https://www.youtube.com/results?search_query=Krem%C3%B3wka%20recipe",
+      "description": "Napoleonka (Polish: [napɔlɛˈɔnka]; colloquially kremówka, is a Polish type of cream pie.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Kremowki_dwie.JPG/500px-Kremowki_dwie.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Napoleonka"
+    }
+  ]
+}

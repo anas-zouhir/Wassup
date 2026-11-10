@@ -1,0 +1,84 @@
+{
+  "country": "EC",
+  "dishes": [
+    {
+      "id": "encebollado",
+      "name": "Encebollado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Encebollado%20recipe",
+      "description": "Encebollado (Spanish: onionized, participle of “encebollar” to onionize/to make in onions) is an onion-dressed fish stew from Ecuador, where it is regarded as a national dish. Although known throughout Ecuador, the dish is most popular in the country's coastal region.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Semifinal_del_Campeonato_del_Encebollado_en_Esmeraldas_2015_%2818062294436%29.jpg/500px-Semifinal_del_Campeonato_del_Encebollado_en_Esmeraldas_2015_%2818062294436%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Encebollado"
+    },
+    {
+      "id": "llapingacho",
+      "name": "Llapingacho",
+      "videoSearch": "https://www.youtube.com/results?search_query=Llapingacho%20recipe",
+      "description": "Llapingachos are fried potato pancakes that originated in Ecuador. They are usually served with salsa de maní, a peanut sauce. The potato patties or thick pancakes are stuffed with cheese and cooked on a hot griddle until crispy brown.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Llapingachos._%2840491622163%29.jpg/500px-Llapingachos._%2840491622163%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Llapingacho"
+    },
+    {
+      "id": "fanesca",
+      "name": "Fanesca",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fanesca%20recipe",
+      "description": "Fanesca is a soup traditionally prepared only on Good Friday and is eaten by households and communities in Ecuador. This dish is an Ecuadorian tradition that is prepared to give thanks to God for the food provided and blessings.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/SEMANA_SANTA_QUITE%C3%91A_%2833852581341%29.jpg/500px-SEMANA_SANTA_QUITE%C3%91A_%2833852581341%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fanesca"
+    },
+    {
+      "id": "hornado",
+      "name": "Hornado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hornado%20recipe",
+      "description": "Hornado is roast pig, cooked whole, in Ecuadorian cuisine. It is often served in highland markets. Hornado is generally accompanied by llapingacho, mote (hominy), and vegetables.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Hornado.jpg/500px-Hornado.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hornado"
+    },
+    {
+      "id": "fritada",
+      "name": "Fritada",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fritada%20recipe",
+      "description": "Fritada is a typical dish in Ecuadorian cuisine. Its main ingredient is braised pork. It is a traditional dish from the highlands, and its origins date back to the colonial era, to the beginning of the 19th century.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/CUENCA_-_CIUDAD_-_GENTE_-_GASTRONOM%C3%8DA_%2818136357868%29.jpg/500px-CUENCA_-_CIUDAD_-_GENTE_-_GASTRONOM%C3%8DA_%2818136357868%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fritada"
+    },
+    {
+      "id": "guatita",
+      "name": "Guatita",
+      "videoSearch": "https://www.youtube.com/results?search_query=Guatita%20recipe",
+      "description": "Guatita, or guatita criolla, is a popular dish in Ecuador, where it is considered a national dish, and in Chile. It is essentially a stew whose main ingredient is pieces of tripe (cow stomach), known locally as \"guatitas\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Guatita_%28gastronom%C3%ADa_Ecuatoriana%29.jpg/500px-Guatita_%28gastronom%C3%ADa_Ecuatoriana%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Guatita"
+    },
+    {
+      "id": "seco-de-chivo",
+      "name": "Seco de chivo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Seco%20de%20chivo%20recipe",
+      "description": "The seco is a stew typical of Peruvian and Ecuadorian cuisine. It can be made with any type of meat.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Seco_(food)"
+    },
+    {
+      "id": "colada-morada",
+      "name": "Colada morada",
+      "videoSearch": "https://www.youtube.com/results?search_query=Colada%20morada%20recipe",
+      "description": "Colada morada is a drink that is part of Ecuador's gastronomic culture along with t'anta wawa bread dolls. It is a purple and thick liquid that is prepared with typical fruits of Ecuador, spices and corn flour.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Colada_morada.jpg/500px-Colada_morada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Colada_morada"
+    },
+    {
+      "id": "pan-de-yuca",
+      "name": "Pan de yuca",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pan%20de%20yuca%20recipe",
+      "description": "Pan de yuca (Spanish for 'cassava bread') is a type of bread made of cassava starch and cheese typical of western Ecuador and southern Colombia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Pandeyuca-colombiano.jpg/500px-Pandeyuca-colombiano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pan_de_yuca"
+    },
+    {
+      "id": "locro-de-papa",
+      "name": "Locro de papa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Locro%20de%20papa%20recipe",
+      "description": "Locro or lojro (from the Quechua ruqru) is a hearty thick squash or potato stew, associated with Native Andean civilizations, and popular along the Andes mountain range. It is one of the national dishes of Peru, Bolivia, Ecuador, Chile, Paraguay, Northwest Argentina and Southwestern Colombia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Locro_argentino.jpg/500px-Locro_argentino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Locro"
+    }
+  ]
+}

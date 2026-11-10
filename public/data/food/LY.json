@@ -1,0 +1,288 @@
+{
+  "country": "LY",
+  "dishes": [
+    {
+      "id": "bazeen",
+      "name": "Bazeen",
+      "localName": "بازين",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bazeen%20recipe",
+      "description": "Bazin alternatively recognized as Bazeen,, Bézine or Bazine is an unleavened bread in the cuisine of Libya prepared with barley, water and salt. Bazin is prepared by boiling barley flour or wheat flour in water and then beating it to create a dough using a magraf, which is a unique stick designed for this purpose.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Bazin.jpg/500px-Bazin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bazin_(bread)",
+      "recipe": {
+        "ingredients": [
+          "2 tablespoons olive oil",
+          "1 onion, finely chopped",
+          "3 cloves of garlic, minced",
+          "500 grams (1 lb) beef or lamb, cut into small cubes",
+          "2 tomatoes, diced",
+          "2 carrots, peeled and sliced",
+          "2 potatoes, peeled and diced",
+          "2 bell peppers, diced",
+          "1 tablespoon tomato paste",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "1 teaspoon ground turmeric",
+          "½ teaspoon ground cayenne pepper (optional, for added heat)",
+          "Salt, to taste",
+          "Pepper, to taste",
+          "4 cups water",
+          "Bazeen dough"
+        ],
+        "steps": [
+          "In a large pot or Dutch oven, heat the olive oil over medium heat.",
+          "Add the chopped onion and minced garlic. Sauté until the onion becomes translucent and fragrant.",
+          "Add the meat cubes to the pot and cook until browned on all sides.",
+          "Stir in the diced tomatoes, sliced carrots, diced potatoes, and bell peppers.",
+          "Add the tomato paste, cumin, coriander, turmeric, cayenne pepper (if using), salt, and pepper. Mix well to coat the ingredients with the spices.",
+          "Pour in the water and bring the mixture to a boil.",
+          "Reduce the heat to low, cover the pot with a lid, and let the bazeen simmer for about 1.5–2 hours, or until the meat is tender and the flavors have melded together.",
+          "While the stew is cooking, prepare the bazeen dough according to the package instructions or homemade recipe.",
+          "Once the stew is ready, shape the dough into small balls and place them in the serving bowls.",
+          "Ladle the cooked meat and vegetable mixture over the bazeen dough.",
+          "Serve hot and enjoy the delicious flavors of this traditional Libyan dish."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABazeen_bil_Lahm_(Libyan_Meat_Bazeen)"
+      }
+    },
+    {
+      "id": "sharba",
+      "name": "Sharba libiya",
+      "localName": "شربة ليبية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sharba%20libiya%20recipe",
+      "description": "Chorba, shorwa, shurba, shurpa, shurbah or shorba ( SHOR-bə) is a broad class of stews or rich soups found in national cuisines across North Africa, The Middle East, Iran, Turkey, Southeast Europe, Central Asia, East Africa and South Asia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Bean_soup_with_tomatoes_and_red_peppers.jpeg/500px-Bean_soup_with_tomatoes_and_red_peppers.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chorba",
+      "recipe": {
+        "ingredients": [
+          "2 tablespoons olive oil",
+          "500 grams (1 lb) lamb or beef, cut into small cubes",
+          "1 large onion, finely chopped",
+          "4 cloves of garlic, minced",
+          "2 medium carrots, peeled and diced",
+          "2 medium potatoes, peeled and diced",
+          "2 stalks of celery, diced",
+          "1 green bell pepper, diced",
+          "1 red bell pepper, diced",
+          "1 zucchini, diced",
+          "1 cup green peas (fresh or frozen)",
+          "1 cup chickpeas, cooked or canned",
+          "1 cup macaroni or other small pasta",
+          "2 ripe tomatoes, diced",
+          "2 tablespoons tomato paste",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground paprika",
+          "½ teaspoon ground turmeric",
+          "½ teaspoon ground cayenne pepper",
+          "½ teaspoon ground cinnamon",
+          "½ teaspoon ground coriander",
+          "Salt to taste",
+          "Pepper, to taste",
+          "Fresh parsley or cilantro, chopped, for garnish"
+        ],
+        "steps": [
+          "Heat the olive oil in a large pot over medium heat. Add the chopped onion and minced garlic, and sauté until they become translucent and fragrant.",
+          "Add the diced lamb or beef cubes to the pot and cook until browned on all sides. Stir occasionally to prevent sticking.",
+          "Once the meat is browned, add the diced carrots, potatoes, celery, green and red bell peppers, zucchini, green peas, and chickpeas to the pot. Stir well to combine with the meat.",
+          "Add the diced tomatoes, tomato paste, cumin, paprika, turmeric, cayenne pepper, cinnamon, coriander, salt, and pepper to the pot. Stir to coat the ingredients with the spices and tomato paste.",
+          "Pour enough water into the pot to cover all the ingredients. Bring the soup to a boil, then reduce the heat to low, cover the pot, and let it simmer for about 1 hour. This allows the flavors to meld together and the meat to become tender.",
+          "In the meantime, cook the macaroni or small pasta according to the package instructions. Drain and set aside.",
+          "After the soup has simmered for an hour, taste and adjust the seasoning with salt and pepper if needed.",
+          "Add the cooked macaroni or small pasta to the soup and stir to incorporate. Let the soup simmer for another 10 minutes to allow the pasta to absorb the flavors.",
+          "Remove the pot from the heat. Ladle into serving bowls and garnish with fresh chopped parsley or cilantro.",
+          "Serve the soup hot with crusty bread on the side."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASharba_Libya_(Libyan_Soup)"
+      }
+    },
+    {
+      "id": "couscous",
+      "name": "Couscous",
+      "localName": "كسكسي",
+      "videoSearch": "https://www.youtube.com/results?search_query=Couscous%20recipe",
+      "description": "Couscous (Tamazight: ⵙⴽⵙⵓ seksu or ⴽⵙⴽⵙⵓ keskesu), is a traditional North African dish of small steamed granules of rolled semolina that is often served with a stew spooned on top.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg/500px-Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Couscous",
+      "recipe": {
+        "ingredients": [
+          "2 tablespoons olive oil",
+          "1 onion, finely chopped",
+          "2 cloves of garlic, minced",
+          "1 carrot, diced",
+          "1 zucchini, diced",
+          "1 bell pepper, diced",
+          "1 cup green beans, trimmed and cut into bite-sized pieces",
+          "1 cup canned chickpeas, rinsed and drained",
+          "2 tomatoes, diced",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "½ teaspoon ground turmeric",
+          "½ teaspoon paprika",
+          "Salt, to taste",
+          "Pepper, to taste",
+          "2 cups vegetable broth",
+          "2 cups couscous",
+          "Fresh parsley or cilantro, chopped (for garnish)"
+        ],
+        "steps": [
+          "In a large pot, heat olive oil over medium heat. Add the chopped onion and minced garlic. Sauté until the onion becomes translucent.",
+          "Add the diced carrot, zucchini, bell pepper, and green beans to the pot. Stir and cook the vegetables for a few minutes until they start to soften.",
+          "Add the diced tomatoes, chickpeas, cumin, coriander, turmeric, paprika, salt, and pepper to the pot. Stir well to coat the vegetables with the spices.",
+          "Pour the vegetable broth into the pot. Bring the mixture to a boil, then reduce the heat to low. Cover the pot and let the vegetables simmer for about 15–20 minutes, or until they are tender.",
+          "Meanwhile, prepare the couscous according to the package instructions. Typically, couscous is steamed or soaked in hot water until it becomes fluffy and tender. Fluff the cooked couscous with a fork.",
+          "Once the vegetables are cooked, remove the pot from the heat. Gently stir in the cooked couscous, ensuring that it is well-incorporated with the vegetables.",
+          "Taste and adjust the seasoning if needed. You can add more salt, pepper, or spices according to your preference.",
+          "Serve hot, garnished with freshly chopped parsley or cilantro."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACouscous_bil_Khodra_(Libyan_Vegetable_Couscous)"
+      }
+    },
+    {
+      "id": "asida",
+      "name": "Asida",
+      "localName": "عصيدة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Asida%20recipe",
+      "description": "Asida, a common dish in the Arab world, is a lump of dough made by stirring wheat flour into boiling water, sometimes with added butter or honey. Similar in texture to fufu, it is eaten mainly in Middle East and African countries.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%D8%B9%D8%B5%D9%8A%D8%AF%D8%A9-%D9%82%D8%B7%D9%8A%D9%81%D9%8A%D8%A9.jpg/500px-%D8%B9%D8%B5%D9%8A%D8%AF%D8%A9-%D9%82%D8%B7%D9%8A%D9%81%D9%8A%D8%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Asida",
+      "recipe": {
+        "ingredients": [
+          "1 cup butter, softened",
+          "2 cups semolina",
+          "1 cup granulated sugar",
+          "1 teaspoon ground cardamom",
+          "1 cup milk",
+          "Ground cinnamon, for garnish (optional)",
+          "Chopped nuts, for garnish (optional)"
+        ],
+        "steps": [
+          "In a large pot or saucepan, melt the butter over medium heat.",
+          "Add the semolina to the pot and cook, stirring continuously, for about 10 minutes, or until it turns golden brown and gives off a nutty aroma.",
+          "Reduce the heat to low and add the sugar and ground cardamom to the pot. Mix well to combine.",
+          "Gradually pour in the milk while stirring constantly to prevent lumps from forming.",
+          "Continue to cook the mixture, stirring continuously, for about 10–15 minutes, or until it thickens and pulls away from the sides of the pot. The consistency should be smooth and creamy.",
+          "Remove the pot from the heat and cool slightly.",
+          "To serve, transfer the asida bil zibda to individual serving bowls or a large platter. Smooth the surface with the back of a spoon or a spatula.",
+          "If desired, sprinkle ground cinnamon and chopped nuts on top for garnish. Serve warm or at room temperature."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAsida_bil_Zibda_(Libyan_Semolina_Pudding)"
+      }
+    },
+    {
+      "id": "mafroum",
+      "name": "Mafroum",
+      "localName": "مفروم",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mafroum%20recipe",
+      "description": "Mafrum, also spelled \"mafroom\" (Arabic: مفروم), is a Libyan Jewish stuffed vegetable dish. Root vegetables are hollowed out and filled with a blend of ground meat and spices. These stuffed vegetables are then fried and simmered in a tomato-based sauce.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%D7%9E%D7%A4%D7%A8%D7%95%D7%9D_%D7%91%D7%99%D7%AA%D7%99_%D7%9E%D7%A1%D7%95%D7%A8%D7%AA%D7%99.jpg/500px-%D7%9E%D7%A4%D7%A8%D7%95%D7%9D_%D7%91%D7%99%D7%AA%D7%99_%D7%9E%D7%A1%D7%95%D7%A8%D7%AA%D7%99.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mafrum",
+      "recipe": {
+        "ingredients": [
+          "4 potatoes, peeled and cut into thick slices",
+          "2 tablespoons olive oil",
+          "1 onion, finely chopped",
+          "3 cloves of garlic, minced",
+          "500 grams (1 lb) ground beef or lamb",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground paprika",
+          "½ teaspoon ground cayenne pepper (adjust according to spice preference)",
+          "Salt to taste",
+          "Pepper, to taste",
+          "400 grams (14 oz) canned tomatoes, crushed",
+          "Fresh parsley or cilantro, chopped, for garnish"
+        ],
+        "steps": [
+          "In a large pot, bring water to a boil and add the potato slices. Boil them for about 5 minutes, or until slightly tender. Drain and set aside.",
+          "In a skillet, heat the olive oil over medium heat. Add the chopped onion and minced garlic, and sauté until they become translucent and fragrant.",
+          "Add the ground beef or lamb to the skillet and cook until browned. Break up the meat with a wooden spoon or spatula as it cooks.",
+          "Stir in the ground cumin, paprika, cayenne pepper, salt, and pepper, and cook for another minute to toast the spices.",
+          "Remove the skillet from the heat and set aside.",
+          "Preheat the oven to 180°C (350°F).",
+          "Take a slice of the boiled potato and flatten it with the palm of your hand. Place a spoonful of the cooked meat mixture in the center of the potato slice, and fold the sides over to enclose the filling. Repeat with the remaining potato slices and meat mixture.",
+          "Arrange the stuffed potato slices in a single layer in a baking dish.",
+          "In a separate bowl, mix the crushed tomatoes with salt, pepper, and any remaining spices. Pour the tomato sauce over the stuffed potatoes, ensuring they are well-coated.",
+          "Cover the baking dish with aluminum foil and bake in the preheated oven for 45 minutes.",
+          "Remove the foil and continue baking for an additional 10–15 minutes, or until the potatoes are fully cooked and golden brown on top.",
+          "Garnish with fresh parsley or cilantro before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMafrum_bil_Lahm_(Libyan_Baked_Meat_and_Potatoes)"
+      }
+    },
+    {
+      "id": "usban",
+      "name": "Usban",
+      "localName": "عصبان",
+      "videoSearch": "https://www.youtube.com/results?search_query=Usban%20recipe",
+      "description": "Usban (or osban) is a traditional kind of sausage in Tunisia and Libya stuffed with a mixture of rice, herbs, lamb, chopped liver and heart. This dish is usually served alongside the main meal of rice or couscous, often on special occasions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Tunisian_Osban_couscous.JPG/500px-Tunisian_Osban_couscous.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Usban"
+    },
+    {
+      "id": "shakshouka",
+      "name": "Shakshouka",
+      "localName": "شكشوكة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shakshouka%20recipe",
+      "description": "Shakshouka is a Maghrebi dish of eggs poached in a sauce of tomatoes, olive oil, peppers, onion, and garlic, commonly spiced with cumin, paprika, and cayenne pepper. Shakshouka is a popular dish throughout North Africa and the Middle East.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Shakshuka_by_Calliopejen1.jpg/500px-Shakshuka_by_Calliopejen1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shakshouka",
+      "recipe": {
+        "ingredients": [
+          "2 tablespoons olive oil",
+          "1 onion, finely chopped",
+          "2 cloves of garlic, minced",
+          "500 grams (1 lb) beef or lamb, cut into small cubes",
+          "2 bell peppers, diced",
+          "4 tomatoes, diced",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground paprika",
+          "½ teaspoon ground cayenne pepper (optional, for extra heat)",
+          "Salt, to taste",
+          "Pepper, to taste",
+          "4–6 eggs",
+          "Fresh parsley or cilantro, chopped (for garnish)"
+        ],
+        "steps": [
+          "Heat the olive oil in a large skillet or frying pan over medium heat.",
+          "Add the chopped onion and minced garlic. Sauté until the onion becomes translucent and fragrant.",
+          "Add the cubed meat to the skillet and cook until browned on all sides.",
+          "Add the diced bell peppers and tomatoes to the skillet. Stir well to combine.",
+          "Sprinkle the cumin, paprika, cayenne pepper (if using), salt, and pepper over the ingredients in the skillet. Stir to evenly distribute the spices.",
+          "Reduce the heat to low, cover the skillet with a lid, and let the mixture simmer for about 15–20 minutes, or until the meat is tender and the flavors have melded together.",
+          "Using a spoon, create small wells in the sauce and carefully crack the eggs into each well.",
+          "Cover the skillet again and let the shakshuka cook for an additional 5–7 minutes, or until the eggs are cooked to your desired level of doneness.",
+          "Garnish with freshly chopped parsley or cilantro."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AShakshuka_bil_Lahm_(Libyan_Meat_Shakshuka)"
+      }
+    },
+    {
+      "id": "ghraiba",
+      "name": "Ghraiba",
+      "localName": "غريبة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ghraiba%20recipe",
+      "description": "Ghorayeba(h) are shortbread-type biscuits, usually made with ground almonds. Versions are found in most Arab, Balkan and Ottoman cuisines, with various forms and recipes. They are similar to polvorones from Andalusia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Gurabija_%28%D0%B3%D1%83%D1%80%D0%B0%D0%B1%D0%B8%D1%98%D0%B0%2CQurabiya%3B_Cuisine_of_Serbia%29.jpg/500px-Gurabija_%28%D0%B3%D1%83%D1%80%D0%B0%D0%B1%D0%B8%D1%98%D0%B0%2CQurabiya%3B_Cuisine_of_Serbia%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ghorayeba",
+      "recipe": {
+        "ingredients": [
+          "1 cup butter, softened",
+          "½ cup powdered sugar",
+          "2 cups all-purpose flour",
+          "½ cup finely ground almonds",
+          "1 teaspoon vanilla extract",
+          "Whole almonds, for decoration"
+        ],
+        "steps": [
+          "Preheat the oven to 350°F (175°C) and line a baking sheet with parchment paper or a silicone baking mat.",
+          "In a mixing bowl, cream together the softened butter and powdered sugar until light and fluffy.",
+          "Add the flour, ground almonds, and vanilla extract to the butter mixture. Mix until well combined and a soft dough forms.",
+          "Pinch off small portions of the dough and roll them into balls about the size of a walnut. Place the balls on the prepared baking sheet, leaving some space between them.",
+          "Press a whole almond into the center of each cookie ball, gently flattening the cookies slightly.",
+          "Bake in the preheated oven for 12–15 minutes, or until the edges of the cookies turn golden brown.",
+          "Remove from the oven and let the cookies cool on the baking sheet for a few minutes, then transfer them to a wire rack to cool completely."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGhraiba_bil_Loz_(Libyan_Almond_Ghraiba)"
+      }
+    }
+  ]
+}

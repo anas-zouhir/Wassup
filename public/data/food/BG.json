@@ -1,0 +1,359 @@
+{
+  "country": "BG",
+  "dishes": [
+    {
+      "id": "banitsa",
+      "name": "Banitsa",
+      "localName": "Баница",
+      "videoSearch": "https://www.youtube.com/results?search_query=Banitsa%20recipe",
+      "description": "Banitsa (Bulgarian: баница), also transliterated as banica and banitza, is a traditional pie made in Bulgaria. It is also made in Budjak, where it is known as milina by Ukrainian Bulgarians; North Macedonia; and southeastern Serbia. In southeastern Serbia, it may also be known as gibanica.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/%D0%92%D0%BA%D1%83%D1%81%D0%BD%D0%B0_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B0_%D0%B1%D0%B0%D0%BD%D0%B8%D1%86%D0%B0.JPG/500px-%D0%92%D0%BA%D1%83%D1%81%D0%BD%D0%B0_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B0_%D0%B1%D0%B0%D0%BD%D0%B8%D1%86%D0%B0.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Banitsa",
+      "recipe": {
+        "ingredients": [
+          "2 packets phyllo dough (Bulgarian \"fini kori\" or phyllo from the frozen section)",
+          "200 grams kashkaval cheese (or a mixture of cheddar and mozzarella), cut in small pieces",
+          "500 grams sirene or feta cheese, crumbled",
+          "7 eggs",
+          "100 grams of butter",
+          "½ cup soda water",
+          "1 cup yogurt"
+        ],
+        "steps": [
+          "Mix 6 of the eggs, the grated butter, both cheeses, and the yogurt.",
+          "In a buttered pan, lay a layer of the phyllo dough, spread a layer of the mixture, and continue alternating layers so that the phyllo and the mixture are finished about the same time.",
+          "Finish with a layer of phyllo dough on top.",
+          "Cut the banitsa into serving pieces.",
+          "Mix the last egg with the soda water, and stir well.",
+          "Pour the egg mixture over the banitsa, and make sure there are no pieces of the phyllo dough left dry.",
+          "Bake in a preheated oven at 200 °C (390 °F) for 40 minutes, or until golden. Enjoy!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AEgg%2C_Cheese_and_Phyllo_Casserole_(Banitsa)"
+      }
+    },
+    {
+      "id": "shopska-salad",
+      "name": "Shopska salad",
+      "localName": "Шопска салата",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shopska%20salad%20recipe",
+      "description": "Shopska salad is a cold salad popular throughout Southeastern Europe. It is Bulgaria's most famous salad and national dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Chopska.jpg/500px-Chopska.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shopska_salad",
+      "recipe": {
+        "ingredients": [
+          "4 tomatoes",
+          "2 cucumbers",
+          "2 roasted peppers or fresh green bell peppers",
+          "2 spoonfuls chopped parsley",
+          "2 spoonfuls chopped red onion or green onion",
+          "½ pound (225 g) white cheese (feta; optional)",
+          "Some olives (optional)",
+          "salt, vinegar, oil to taste"
+        ],
+        "steps": [
+          "Cut the tomatoes, cucumbers and peppers in small pieces—cubes if possible.",
+          "Mix well with the parsley, onion, salt, and oil.",
+          "Serve with white cheese grated on top. Enjoy!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AShopska_Salata_(Tomato%2C_Cucumber%2C_and_Bell_Pepper_Salad)"
+      }
+    },
+    {
+      "id": "kebapche",
+      "name": "Kebapche",
+      "localName": "Кебапче",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kebapche%20recipe",
+      "description": "Kebapche (Bulgarian: кебапче, plural: кебапчета, kebapcheta; ḱebapče, Macedonian: ќебапче, plural: ќебапчиња, ḱebapčinja) is a dish of grilled minced meat with spices. The meat is shaped into an elongated cylindrical form, similar to a hot dog.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Kebapche_bg.jpg/500px-Kebapche_bg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kebapche"
+    },
+    {
+      "id": "lyutenitsa",
+      "name": "Lyutenitsa",
+      "localName": "Лютеница",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lyutenitsa%20recipe",
+      "description": "Lyutenitsa, ljutenica, lütenitsa or lutenica (Bulgarian: лютеница, Serbian: љутеница, Macedonian: лутеница, lyuto, ljuto or luto, Bulgarian: люто, Serbian: љуто, Macedonian: луто, Turkish: lütenitsa), meaning \"spicy\", is a (sometimes spicy hot) vegetable relish or chutney in Bulgarian, Macedonian, Serbian and Turkish c…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%D0%9B%D1%83%D1%82%D0%B5%D0%BD%D0%B8%D1%86%D0%B0.jpg/500px-%D0%9B%D1%83%D1%82%D0%B5%D0%BD%D0%B8%D1%86%D0%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lyutenitsa"
+    },
+    {
+      "id": "mish-mash",
+      "name": "Mish-mash",
+      "localName": "Миш-маш",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mish-mash%20recipe",
+      "description": "Mish-mash (in Bulgarian: Миш-маш) is a Bulgarian spring dish made with fresh vegetables (typically tomatoes, peppers and onions), eggs and sirene (a type of Balkan brined cheese), and often garnished with freshly cut parsley.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cuisinebg_mishmash.jpg/500px-Cuisinebg_mishmash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mish-mash_(food)"
+    },
+    {
+      "id": "gyuvech",
+      "name": "Gyuvech",
+      "localName": "Гювеч",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gyuvech%20recipe",
+      "description": "Güveç is a family of earthenware pots used in Balkan, Persian, Turkish, and Levantine cuisine; various casserole or stew dishes cooked in them are called ghivetch. The pot is wide and medium-tall, can be glazed or unglazed, and the dish in it is cooked with little or no additional liquid.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Turkish_earthenware_pots_or_guvech.jpg/500px-Turkish_earthenware_pots_or_guvech.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/G%C3%BCve%C3%A7",
+      "recipe": {
+        "ingredients": [
+          "About 200–300 g cheese",
+          "Various chopped herbs",
+          "Any kind of cooked chicken, pork, or beef (optional)",
+          "Any kind of sausage or hot dogs (optional)",
+          "Vegetables (optional), such as tomatoes, peppers, small hot pepper, mushrooms, cooked potatoes",
+          "Fresh greens (optional), such as parsley, dill, celery leaves",
+          "1 egg"
+        ],
+        "steps": [
+          "Chop or dice everything you want to put in.",
+          "Alternate layers of cheese, meat, and vegetables in a baking dish. Finish with cheese on top.",
+          "Bake in the oven at 200 °C (375 °F) for 20 minutes or until the cheese is melted.",
+          "Break the egg on top and put back in the oven for another 5–10 minutes depending on how well-done you like your eggs.",
+          "Serve with fresh bread or toast. Enjoy!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGyuveche_(Bulgarian_Casserole)_II"
+      }
+    },
+    {
+      "id": "kyopolou",
+      "name": "Kyopolou",
+      "localName": "Кьопоолу",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kyopolou%20recipe",
+      "description": "Kyopolou (Bulgarian: Кьопоолу, Kopoolu, more often Кьополу, Kopolu; Turkish: Köpoğlu) is a popular Bulgarian and Turkish spread, relish and salad made principally from roasted eggplants and garlic.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Kyopoolu_bg.jpg/500px-Kyopoolu_bg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kyopolou",
+      "recipe": {
+        "ingredients": [
+          "2–3 aubergines",
+          "4–5 bell peppers",
+          "2–3 tomatoes, diced or grated",
+          "3–4 cloves garlic, crushed",
+          "Sunflower oil",
+          "Vinegar",
+          "Salt",
+          "Parsley, finely chopped"
+        ],
+        "steps": [
+          "Roast the aubergines and peppers on a hot plate. Remove the skins, and cut into small pieces.",
+          "Add the tomatoes, then the crushed garlic.",
+          "Mix with a wooden spoon, then add oil, vinegar, and salt to taste. Beat together well.",
+          "Pour into a plate and top with finely chopped parsley."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKyopulo_(Eggplant_with_Peppers_and_Tomatoes)"
+      }
+    },
+    {
+      "id": "bob-chorba",
+      "name": "Bob chorba",
+      "localName": "Боб чорба",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bob%20chorba%20recipe",
+      "description": "Bob chorba (Bulgarian: боб чорба; lit. \"bean soup\") is a chorba, a Bulgarian soup. It is made from dry beans, onions, tomatoes, chubritza or dzhodzhen (spearmint) and carrots.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Bean_soup_with_tomatoes_and_red_peppers.jpeg/500px-Bean_soup_with_tomatoes_and_red_peppers.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bob_chorba"
+    },
+    {
+      "id": "lukanka",
+      "name": "Lukanka",
+      "localName": "Луканка",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lukanka%20recipe",
+      "description": "Lukanka (Bulgarian: луканка) is a Bulgarian (sometimes spicy) salami unique to Bulgarian cuisine. It is similar to sujuk, but often stronger flavored. Lukanka is semi-dried, has a flattened cylindrical shape, and brownish-red interior in a skin that is normally covered with a white fungus.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Lukanka.jpg/500px-Lukanka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lukanka"
+    },
+    {
+      "id": "elenski-but",
+      "name": "Elenski but",
+      "localName": "Еленски бут",
+      "videoSearch": "https://www.youtube.com/results?search_query=Elenski%20but%20recipe",
+      "description": "Elenski but (Bulgarian: еленски бут or (more precisely but less commonly), бут по еленски, sometimes translated as Elena round or Elena leg) is a dry-cured ham from the town of Elena, in northern Bulgaria, and a popular delicacy throughout the country.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Elenski_but"
+    },
+    {
+      "id": "patatnik",
+      "name": "Patatnik",
+      "localName": "Пататник",
+      "videoSearch": "https://www.youtube.com/results?search_query=Patatnik%20recipe",
+      "description": "Patatnik or patetnik (Bulgarian: пататник or патетник) is a Bulgarian potato dish characteristic of the Rhodope Mountains in the country's central south. Patatnik is made of grated potatoes, onions, salt and a type of very mild mint called gyosum in Bulgarian, all mixed and cooked on a slow fire.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Patatnik.jpg/500px-Patatnik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Patatnik"
+    },
+    {
+      "id": "shkembe-chorba",
+      "name": "Shkembe chorba",
+      "localName": "Шкембе чорба",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shkembe%20chorba%20recipe",
+      "recipe": {
+        "ingredients": [
+          "1 tbsp butter",
+          "3½ cup beef stock",
+          "1 ea. onion, chopped fine",
+          "1 tsp salt",
+          "1 ea. bell pepper, cut into thin-strips",
+          "½ tsp dried marjoram",
+          "1 ea. bay leaf",
+          "2 tbsp flour",
+          "2 tbsp parsley, chopped fine",
+          "1 can (6 oz / 180 g) tomato paste",
+          "1 ea. garlic clove, crushed",
+          "1½ lb (675 g) tripe, cooked",
+          "⅔ cup grated Kashkaval cheese"
+        ],
+        "steps": [
+          "Combine onion, red pepper, butter in large saucepan.",
+          "Sprinkle flour over onion mixture, then stir in the tomato paste.",
+          "Cut tripe into thin strips.",
+          "Add tripe pieces, stock, salt, marjoram and bay leaf to onion mixture.",
+          "Partially cover the pot and simmer 30 minutes.",
+          "Remove and discard bay leaf.",
+          "Pour soup into a tureen or serve in individual bowls.",
+          "In a small bowl, combine parsley, garlic and cheese. Sprinkle over hot soup and serve immediately."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABulgarian_Tripe_Soup_(Shkembe_Chorba)"
+      }
+    },
+    {
+      "id": "snezhanka",
+      "name": "Snezhanka",
+      "localName": "Снежанка",
+      "videoSearch": "https://www.youtube.com/results?search_query=Snezhanka%20recipe",
+      "description": "Snezhanka salad or Snow White salad (Bulgarian: салата Снежанка) is a traditional Bulgarian salad, which is made of strained yogurt, cucumber, garlic, salt, usually cooking oil, dill, sometimes roasted peppers, walnuts and parsley.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Snezhanka.jpg/500px-Snezhanka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Snow_White_salad",
+      "recipe": {
+        "ingredients": [
+          "1 liter of plain yogurt (two regular containers in Bulgaria)",
+          "½ kg pickles or cucumbers or mixed",
+          "1–2 tbsp of oil",
+          "1 tbsp vinegar or lemon juice",
+          "1 tsp seasoned salt (like \"Vegeta\") or salt (use no salt if you are using salty pickles)",
+          "2–3 tbsp chopped dill",
+          "2–3 cloves crushed garlic",
+          "2–3 spoonfuls ground walnuts"
+        ],
+        "steps": [
+          "Strain the yogurt, and cut the pickles/cucumbers into tiny cubes.",
+          "Mix all the ingredients except for the walnuts.",
+          "Sprinkle the walnuts on top of the salad. Enjoy!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASnezhanka_(Bulgarian_Cucumber_and_Yogurt_Salad)"
+      }
+    },
+    {
+      "id": "sirene-po-shopski",
+      "name": "Sirene po shopski",
+      "localName": "Сирене по шопски",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sirene%20po%20shopski%20recipe",
+      "recipe": {
+        "ingredients": [
+          "400 g white cheese",
+          "150 g yellow cheese",
+          "2 hot peppers",
+          "2 sliced tomatoes",
+          "2 roasted bell peppers, chopped",
+          "oregano, parsley or any other dry green spice",
+          "2 eggs"
+        ],
+        "steps": [
+          "Take two small earthware pots with lids (\"gyuveche\" pots), add a layer of cheese, then a layer of peppers and tomatoes, then more cheese. Season with spices as you layer.",
+          "Bake for about 20 minutes or until the cheese is melted.",
+          "Break an egg on top of each dish, and cook until the egg is the consistency you like.",
+          "Serve with salad and beer. Enjoy!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASirene_po_Shopski_(Bulgarian_Cheese_and_Tomatoes)"
+      }
+    },
+    {
+      "id": "chushki-byurek",
+      "name": "Chushki byurek",
+      "localName": "Чушки бюрек",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chushki%20byurek%20recipe",
+      "recipe": {
+        "ingredients": [
+          "1 kg red bell peppers",
+          "250 g brined sheep's cheese",
+          "6 eggs",
+          "Sunflower oil",
+          "Salt",
+          "Parsley, finely chopped"
+        ],
+        "steps": [
+          "Roast, peel, and seed the peppers.",
+          "Mix the crumbled cheese with 4 of the eggs. Stuff the peppers with this mixture.",
+          "Beat the remaining two eggs.",
+          "Roll the stuffed peppers in breadcrumbs and beaten eggs.",
+          "Fry the breaded peppers in hot oil.",
+          "Serve sprinkled with finely-chopped parsley."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARed_Bell_Peppers_Stuffed_with_Cheese_and_Egg_(Chushki_Byurek)"
+      }
+    },
+    {
+      "id": "kashkaval-pane",
+      "name": "Kashkaval pane",
+      "localName": "Кашкавал пане",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kashkaval%20pane%20recipe",
+      "description": "Fried cheese (Romanian: cașcaval pane; Hungarian: rántott sajt) is a popular Eastern and Central European dish, most common in Hungary, Romania, and Bulgaria.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/R%C3%A1ntott_sajt_rizibizivel.jpg/500px-R%C3%A1ntott_sajt_rizibizivel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ca%C8%99caval_pane",
+      "recipe": {
+        "ingredients": [
+          "12 oz yellow kashkaval cheese",
+          "Oil for deep frying",
+          "2 eggs",
+          "Flour seasoned with salt and freshly ground black pepper",
+          "Bread crumbs",
+          "Flat-leaf parsley to garnish"
+        ],
+        "steps": [
+          "Cut the yellow cheese into slices about ½ inch thick. Wet in water. Gently pat off any excess moisture with paper towels.",
+          "Heat the oil in a pot until a small piece of bread sizzles as soon as it is dropped in.",
+          "Beat the eggs in a shallow bowl, while the oil is heating.",
+          "Spread some seasoned flour on a plate and some bread crumbs on another plate.",
+          "Press the yellow cheese slices into the flour, coating them evenly with a thin layer of flour, shaking off any excess flour. Dip them into the egg, then into the bread crumbs, then once more into the egg, then again into the bread crumbs, covering the whole slice.",
+          "Fry immediately in the hot oil until golden brown.",
+          "Drain on paper towels and serve hot, garnished with parsley. Enjoy!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKashkaval_Pane_(Bulgarian_Fried_Cheese)"
+      }
+    },
+    {
+      "id": "supa-topcheta",
+      "name": "Supa topcheta",
+      "localName": "Супа топчета",
+      "videoSearch": "https://www.youtube.com/results?search_query=Supa%20topcheta%20recipe",
+      "description": "Meatball soup is a soup made using meatballs, simmered with various other ingredients. Meatball soup typically consists of broth with whole or cut meatballs. Common additions are vegetables, pasta (e.g., noodles, although almost any form can be used), dumplings, or grains such as rice and barley.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Soup_with_meatballs-01.jpg/500px-Soup_with_meatballs-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Meatball_soup",
+      "recipe": {
+        "ingredients": [
+          "1 lb (450 g) ground beef",
+          "6 Tbsp rice",
+          "1 tsp paprika",
+          "1 tsp dried savory",
+          "Salt to taste",
+          "Pepper to taste",
+          "6 cups water",
+          "2 beef bouillon cubes",
+          "½ bunch green onions, sliced",
+          "1 green bell pepper, chopped",
+          "2 carrots, peeled and sliced thin",
+          "3 tomatoes, peeled and chopped",
+          "½ bunch parsley, minced",
+          "1 egg",
+          "1 lemon, juiced"
+        ],
+        "steps": [
+          "Combine beef, rice, paprika, and savory.",
+          "Season to taste with salt and pepper, and mix lightly but thoroughly.",
+          "Form mixture into 1-inch (2.5 cm) balls, then roll in flour.",
+          "Combine water, bouillon cubes, 1 tablespoon salt, 1 teaspoon pepper, green onions, green pepper, carrots, and tomatoes in large pot. Cover, bring to boil, reduce heat, and simmer 30 minutes.",
+          "Add meatballs, cover, and bring to boil again. Reduce heat and simmer 20 minutes.",
+          "Add chiles and simmer, covered, 40 minutes or until rice is cooked.",
+          "Add parsley during last 5 minutes of cooking time. Taste and add more salt and pepper, if needed.",
+          "Just before serving, beat egg with lemon juice. Stir 1 to 2 tablespoons hot soup into egg mixture, then stir egg mixture into soup.",
+          "Heat gently, stirring, until soup is thickened slightly, but do not allow to boil."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABulgarian_Meatball_Soup_(Supa_Topcheta)"
+      }
+    }
+  ]
+}

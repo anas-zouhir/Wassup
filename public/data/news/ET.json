@@ -1,0 +1,40 @@
+{
+  "country": "ET",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "reporter-et",
+        "name": "The Reporter",
+        "homepage": "https://www.thereporterethiopia.com",
+        "lang": "en-ET"
+      },
+      "fetchedAt": "2026-10-22T15:10:58.152Z",
+      "items": [
+        {
+          "title": "A 20-Million-Birr House from Aman Properties: Biggest Prize Ever in Ethiopia",
+          "link": "https://www.thereporterethiopia.com/53583/",
+          "summary": "For years, winning an award in Ethiopia usually meant a trophy, a certificate, or a modest cash prize. Great for recognition, but rarely life-changing. That dynamic began to shift as digital culture took over. Organised…",
+          "publishedAt": "2026-10-21T11:21:46.000Z"
+        },
+        {
+          "title": "Meet A7 International, an innovative global platform designed to reinvent the international payments market",
+          "link": "https://www.thereporterethiopia.com/53577/",
+          "summary": "A7 International enables businesses and individuals to pay invoices with digital assets, while recipients receive a regular bank transfer, reflecting A7’s international positioning and expanding the geography of…",
+          "publishedAt": "2026-10-21T06:37:56.000Z"
+        },
+        {
+          "title": "UN Urges End to Tigray Fighting, Humanitarian Access and Civilian Rule Restoration",
+          "link": "https://www.thereporterethiopia.com/53573/",
+          "summary": "UN Urges As fighting intensifies in northern Ethiopia, United Nations Resident and Humanitarian Coordinator in Ethiopia, Ozonnia Ojielo, has called for an immediate cessation of hostilities, the restoration of civilian…",
+          "publishedAt": "2026-10-20T14:46:46.000Z"
+        },
+        {
+          "title": "Whose Land, Whose Life? Tigray and the Limits of Ethno-territorialism",
+          "link": "https://www.thereporterethiopia.com/53547/",
+          "summary": "By Tsegaye Nega (PhD) Ethno-territorialism seeks to make ethnic identity and territorial space coincide. It identifies particular territories as belonging to particular ethnic collectivities and makes that association a…",
+          "publishedAt": "2026-10-20T06:17:23.000Z"
+        }
+      ]
+    }
+  ]
+}

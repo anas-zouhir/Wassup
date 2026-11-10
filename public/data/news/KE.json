@@ -1,0 +1,176 @@
+{
+  "country": "KE",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "nation-ke",
+        "name": "Nation",
+        "homepage": "https://nation.africa/kenya",
+        "lang": "en-KE"
+      },
+      "fetchedAt": "2026-10-22T15:11:48.911Z",
+      "items": [
+        {
+          "title": "Mosiria: How my fallout with Governor Sakaja started",
+          "link": "https://nation.africa/kenya/counties/nairobi/mosiria-how-my-fallout-with-governor-sakaja-started-5642010",
+          "summary": "The former City Hall chief officer traces his sacking to a three-year feud.",
+          "publishedAt": "2026-10-22T14:25:31.000Z"
+        },
+        {
+          "title": "Mbadi: Bill effecting Ruto's PAYE order will be tabled next week",
+          "link": "https://nation.africa/kenya/business/mbadi-bill-effecting-ruto-s-paye-order-will-be-tabled-next-week-5641992",
+          "summary": "The proposed law will scrap personal relief and raise the tax exemption ceiling to Sh32,333.",
+          "publishedAt": "2026-10-22T13:26:14.000Z"
+        },
+        {
+          "title": "Ruto: Kenyans earning Sh32,333 per month or less will not pay PAYE",
+          "link": "https://nation.africa/kenya/business/-ruto-kenyans-earning-sh32-333-per-month-or-less-will-not-pay-paye-5642000",
+          "publishedAt": "2026-10-22T13:17:49.000Z"
+        },
+        {
+          "title": "African Cycling Championships brings business boon to Kisumu, but not everyone is smiling",
+          "link": "https://nation.africa/kenya/sports/other-sports/african-cycling-championships-brings-business-boon-to-kisumu-but-not-everyone-is-smiling-5641792",
+          "summary": "Rroad closures leave some traders struggling.",
+          "publishedAt": "2026-10-22T13:06:04.000Z"
+        },
+        {
+          "title": "Family demands answers after mother of three dies following childbirth at Mama Lucy Hospital",
+          "link": "https://nation.africa/kenya/videos/family-demands-answers-after-mother-of-three-dies-following-childbirth-at-mama-lucy-hospital-5641782",
+          "publishedAt": "2026-10-22T12:17:59.000Z"
+        },
+        {
+          "title": "Saitoti’s widow fights bid to exhume his remains for DNA test",
+          "link": "https://nation.africa/kenya/news/saitoti-s-widow-fights-bid-to-exhume-his-remains-for-dna-test-5641704",
+          "summary": "Man claiming to be Saitoti’s son wants DNA proof and share of Sh84.5m estate.",
+          "publishedAt": "2026-10-22T12:06:03.000Z"
+        },
+        {
+          "title": "Education officials in Murang'a urge exam officials to prevent malpractice in national assessments",
+          "link": "https://nation.africa/kenya/videos/education-officials-in-murang-a-urge-exam-officials-to-prevent-malpractice-in-national-assessments-5641788",
+          "publishedAt": "2026-10-22T12:05:37.000Z"
+        },
+        {
+          "title": "DP Kindiki warns against political intolerance",
+          "link": "https://nation.africa/kenya/videos/dp-kindiki-warns-against-political-intolerance-5641786",
+          "publishedAt": "2026-10-22T12:04:33.000Z"
+        },
+        {
+          "title": "Martha Karua urges Opposition to remain open to new leaders",
+          "link": "https://nation.africa/kenya/videos/martha-karua-urges-opposition-to-remain-open-to-new-leaders-5641784",
+          "publishedAt": "2026-10-22T12:03:45.000Z"
+        },
+        {
+          "title": "Police conduct under scrutiny as Ipoa investigates arrest of Citizen TV reporter",
+          "link": "https://nation.africa/kenya/news/police-conduct-under-scrutiny-as-ipoa-investigates-arrest-of-citizen-tv-reporter-5641512",
+          "summary": "Investigators will visit the Central Police Station to examine deployment records.",
+          "publishedAt": "2026-10-22T12:15:14.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "standard-ke",
+        "name": "The Standard",
+        "homepage": "https://www.standardmedia.co.ke",
+        "lang": "en-KE"
+      },
+      "fetchedAt": "2026-10-22T15:11:49.056Z",
+      "items": [
+        {
+          "title": "Ruto hands over COMESA chairmanship, pushes for levy to fund regional programmes",
+          "link": "https://www.standardmedia.co.ke/article/2001560659/ruto-hands-over-comesa-chairmanship-pushes-for-levy-to-fund-regional-programmes",
+          "summary": "President William Ruto has handed over the Common Market for Eastern and Southern Africa (COMESA) chairmanship to Zimbabwean President Emmerson Mnangagwa.",
+          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/tGA5odttollQNgefCBEUX8VvZiPdOIw9nyxtnhU9.jpg",
+          "publishedAt": "2026-10-22T11:11:22.000Z"
+        },
+        {
+          "title": "Judge certifies fresh bid to jail Sakaja, Charles Kerich over Sh76.7m debt as urgent",
+          "link": "https://www.standardmedia.co.ke/article/2001560549/judge-certifies-fresh-bid-to-jail-sakaja-charles-kerich-over-sh76-7m-debt-as-urgent",
+          "summary": "A High Court judge has certified an application seeking to jail Governor Johnson Sakaja and three Nairobi County officials over an unpaid Sh76.7 million legal fees balance.",
+          "image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/sJS85bxLz0MQgDlmbNd1FcLti6jjJscJprgyOM0z.jpg",
+          "publishedAt": "2026-10-20T15:35:38.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "citizen-ke",
+        "name": "Citizen Digital",
+        "homepage": "https://www.citizen.digital",
+        "lang": "en-KE"
+      },
+      "fetchedAt": "2026-10-22T15:11:56.850Z",
+      "items": [
+        {
+          "title": "Carrick unconcerned over future despite 'unacceptable' Como loss",
+          "link": "https://citizen.digital/article/carrick-unconcerned-over-future-despite-unacceptable-como-loss-n392521",
+          "summary": "The Old Trafford boss insisted that his apology to the travelling fans at the end of the game held no extra significance as pressure builds on his position.",
+          "image": "https://assets.citizen.digital/176068/conversions/4657bbbb-e84d-4a31-aa40-20710d37dae9_AFP__20261021__D3ZM2UB__v2__MidRes__TopshotFblEurC1ComoManUnited-thumbnail.webp",
+          "publishedAt": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Kenya reports zero new Ebola cases as Gov’t says end of outbreak ‘within reach’",
+          "link": "https://citizen.digital/article/kenya-reports-zero-new-ebola-cases-as-govt-says-end-of-outbreak-within-reach-n392534",
+          "summary": "The Ministry of Health said all 14 samples collected and tested from various alerts across the country in the past 24 hours had returned negative results. The number of confirmed cases remains nine, including the index…",
+          "image": "https://assets.citizen.digital/176079/conversions/f20fb82a-e122-450d-b479-7067f5bce289_Amoth-thumbnail.webp",
+          "publishedAt": "2026-10-22T13:58:05.000Z"
+        },
+        {
+          "title": "Francis Ode arrest: NPS vows to cooperate with IPOA on investigations",
+          "link": "https://citizen.digital/article/francis-ode-arrest-nps-vows-to-cooperate-with-ipoa-on-investigations-n392528",
+          "summary": "NPS has now called on the public and the media to remain calm, as investigations take place.",
+          "image": "https://assets.citizen.digital/173770/conversions/d154e1a2-4b57-4b86-b354-59d3017699fb_Kanja-thumbnail.webp",
+          "publishedAt": "2026-10-22T13:25:00.000Z"
+        },
+        {
+          "title": "Arsenal 'concerned' about Saka injury, says Arteta",
+          "link": "https://citizen.digital/article/arsenal-concerned-about-saka-injury-says-arteta-n392520",
+          "summary": "\"They are a bit concerned about Saka. When a player has to come off with sharp pain it is never good news. We have to wait and see,\" Arteta said.",
+          "image": "https://assets.citizen.digital/176067/conversions/050a1607-ea29-4e00-afd7-cb1ba8bff4b7_AFP__20261021__D3ZN8M6__v1__MidRes__FblEurC1BayernMunichArsenal-thumbnail.webp",
+          "publishedAt": "2026-10-22T12:35:00.000Z"
+        },
+        {
+          "title": "Right groups condemn arrest of Citizen TV journalist Francis Ode",
+          "link": "https://citizen.digital/article/right-groups-condemn-arrest-of-citizen-tv-journalist-francis-ode-n392527",
+          "summary": "The Defenders Coalition has condemned the harassment, physical assault and arrest of Ode on Mashujaa Day.",
+          "image": "https://assets.citizen.digital/175948/conversions/eaa6af23-8ce0-47e9-a463-250800f18ddf_Screenshot-2026-10-20-at-12.26.09-PM-thumbnail.webp",
+          "publishedAt": "2026-10-22T11:46:29.000Z"
+        },
+        {
+          "title": "New Nithi Bridge to cost Ksh.7.5B as Kindiki announces start of works",
+          "link": "https://citizen.digital/article/new-nithi-bridge-to-cost-ksh75-billion-as-kindiki-announces-start-of-works-n392525",
+          "summary": "Speaking during the launch of construction works in Maara Constituency on Thursday, October 22, Kindiki said the new bridge will measure 880 metres in length and stand 100 metres high, with an additional 2.7 kilometres…",
+          "image": "https://assets.citizen.digital/176071/conversions/9a71ac71-2651-402a-a402-8fb72a889517_WhatsApp-Image-2026-10-22-at-2.32.46-PM-thumbnail.webp",
+          "publishedAt": "2026-10-22T11:35:10.000Z"
+        },
+        {
+          "title": "Fear not, David Ouma tells Junior Starlets ahead of USA clash",
+          "link": "https://citizen.digital/article/fear-not-david-ouma-tells-junior-starlets-ahead-of-usa-clash-n392518",
+          "summary": "'USA beating Samoa 17-0 should not scare them at all, I remember a situation when I was coaching Starlets back in the years when Malawi beat Mozambique 13-0 in the Olympic qualifiers but we went on and defeated them so…",
+          "image": "https://assets.citizen.digital/176065/conversions/44f5f510-f245-4cc4-857a-f60c4438b8d9_IMG-20261022-WA0102-thumbnail.webp",
+          "publishedAt": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "France reports first human Shamonda virus case",
+          "link": "https://citizen.digital/article/france-reports-first-human-shamonda-virus-case-n392523",
+          "summary": "There is \"no health risk to the general public identified at this time\".",
+          "image": "https://assets.citizen.digital/176069/conversions/4aeafaef-3116-4739-8b1a-edd26a157f2e_Virus-thumbnail.webp",
+          "publishedAt": "2026-10-22T11:17:21.000Z"
+        },
+        {
+          "title": "WATCH LIVE: Public Investments Committee Examines University of Nairobi’s Audit Report",
+          "link": "https://citizen.digital/article/public-investments-committee-examines-university-of-nairobis-audit-report-n392522",
+          "image": "https://assets.citizen.digital/173691/conversions/81d3212a-021e-4863-b0d7-8deb8336b58c_University-of-Nairobi-thumbnail.webp",
+          "publishedAt": "2026-10-22T11:17:06.000Z"
+        },
+        {
+          "title": "Body of Kirinyaga University student recovered from River Thiba after four-day search",
+          "link": "https://citizen.digital/article/body-of-kirinyaga-university-student-recovered-from-river-thiba-after-four-day-search-n392519",
+          "summary": "Gideon Ekai, a first-year student who joined the university in September, drowned on Sunday while swimming with a friend at Thiba Falls in Kirinyaga County.",
+          "image": "https://assets.citizen.digital/176064/conversions/70121be3-536c-4ce7-ab3b-862ad9e416d1_WhatsApp-Image-2026-10-22-at-1.49.57-PM-thumbnail.webp",
+          "publishedAt": "2026-10-22T10:54:00.000Z"
+        }
+      ]
+    }
+  ]
+}

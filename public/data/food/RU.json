@@ -1,0 +1,337 @@
+{
+  "country": "RU",
+  "dishes": [
+    {
+      "id": "beef-stroganoff",
+      "name": "Beef Stroganoff",
+      "localName": "Бефстроганов",
+      "videoSearch": "https://www.youtube.com/results?search_query=Beef%20Stroganoff%20recipe",
+      "description": "Beef Stroganoff, also spelled beef Stroganov, is a Russian dish of sautéed pieces of beef in a sauce of mustard and smetana (heavy sour cream). It is named after one of the members of the Stroganov family.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Moscow_%288351271825%29.jpg/500px-Moscow_%288351271825%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Beef_Stroganoff",
+      "recipe": {
+        "ingredients": [
+          "2 pounds (900 g) beef chuck roast",
+          "½ teaspoon (2.5 ml) salt",
+          "½ teaspoon (2.5 ml) ground black pepper",
+          "8 tablespoons (110 g) butter",
+          "4 green onions (white parts only), sliced",
+          "4 tablespoons (60 ml) all-purpose flour",
+          "10.5 ounces (300 ml) condensed beef broth",
+          "1 teaspoon (5 ml) prepared mustard",
+          "6 ounces (150 g) sliced canned mushrooms, drained",
+          "⅓ cup (160 ml) sour cream",
+          "⅓ cup (160 ml) white wine",
+          "Salt to taste",
+          "Ground black pepper to taste"
+        ],
+        "steps": [
+          "Remove any fat and gristle from the roast, and cut into strips ½ inch thick by 2 inches long. Season with ½ teaspoon each of salt and pepper.",
+          "In a large skillet over medium heat, melt the butter and brown the beef strips quickly, then push the beef strips off to one side. Add the onions and cook slowly for 3 to 5 minutes, then push to the side with the beef strips.",
+          "Stir the flour into the juices on the empty side of the pan. Pour in beef broth and bring to a boil, stirring constantly. Lower the heat and stir in mustard.",
+          "Cover and simmer for 1 hour or until the meat is tender.",
+          "Five minutes before serving, stir in the mushrooms, sour cream, and white wine. Heat briefly then salt and pepper to taste."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATraditional_Beef_Stroganoff"
+      }
+    },
+    {
+      "id": "pelmeni",
+      "name": "Pelmeni",
+      "localName": "Пельмени",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pelmeni%20recipe",
+      "description": "Pelmeni are dumplings of Russian cuisine that consist of a filling wrapped in thin, unleavened dough. They are considered a national dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Pelmeni_Russian.jpg/500px-Pelmeni_Russian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pelmeni"
+    },
+    {
+      "id": "blini",
+      "name": "Blini",
+      "localName": "Блины",
+      "videoSearch": "https://www.youtube.com/results?search_query=Blini%20recipe",
+      "description": "Blini (also blinis or bliny; Russian: блины; sing. blin; Russian: блин) are Russian pancakes, often made with a yeast-raised batter of buckwheat, or wheat flour and milk. They may be served with smetana, cottage cheese, caviar and other garnishes, or simply smeared with butter.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/50_%D0%B1%D0%BB%D1%96%D0%BD%D0%BA%D0%BE%D1%9E_%D0%BD%D0%B0_%D1%82%D0%B0%D0%BB%D0%B5%D1%80%D1%86%D1%8B_240_%D0%BC%D0%BC.jpg/500px-50_%D0%B1%D0%BB%D1%96%D0%BD%D0%BA%D0%BE%D1%9E_%D0%BD%D0%B0_%D1%82%D0%B0%D0%BB%D0%B5%D1%80%D1%86%D1%8B_240_%D0%BC%D0%BC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Blini",
+      "recipe": {
+        "ingredients": [
+          "4 cups of milk, warmed (80–95°F)",
+          "1 tablespoon of white granulated sugar",
+          "1 tablespoon of salt",
+          "5 teaspoons of butter, melted",
+          "1 ounce of yeast",
+          "1 egg white",
+          "1.3 pounds (5 cups) of wheat flour",
+          "5 teaspoons of olive oil"
+        ],
+        "steps": [
+          "Dissolve the yeast in 3 cups of the warm milk. Add ½ tablespoon of sugar, salt, egg yolk, and melted butter.",
+          "Stir, then add half the flour, and knead the dough.",
+          "Cover the bowl with the dough with a cloth or towel and leave it in a warm place for 1.5–2 hours, or until the volume of the dough is doubled.",
+          "Heat the rest of the milk to 122°F, then mix it into the batter along with the rest of flour and sugar. Pour in well-whipped egg white.",
+          "Knead the dough again and leave it until it rises.",
+          "Heat an oiled frying pan. With a large ladle pour some batter in the center so it makes a circle.",
+          "When the bottom of the blin is ready (the edges of the blin should have separated from the pan and be pointing upwards), turn it over.",
+          "After it is ready, put the blin on a large plate and start making the next one."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABliny"
+      }
+    },
+    {
+      "id": "shchi",
+      "name": "Shchi",
+      "localName": "Щи",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shchi%20recipe",
+      "description": "Shchi is a Russian-style cabbage soup. When sauerkraut is used instead, the soup is called sour shchi, while soups based on sorrel, spinach, nettle, and similar plants are called green shchi. In the past, the term sour shchi was also used to refer to a drink, a variation of kvass, which was unrelated to the soup.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Schi.jpg/500px-Schi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shchi"
+    },
+    {
+      "id": "solyanka",
+      "name": "Solyanka",
+      "localName": "Солянка",
+      "videoSearch": "https://www.youtube.com/results?search_query=Solyanka%20recipe",
+      "description": "Solyanka is a thick and sour soup of Russian origin. It is a common dish in Russia, Ukraine, Belarus, the Baltic states, and other post-Soviet states and other parts of the former Eastern Bloc. It was one of the most reliably available dishes in East Germany (German: Soljanka).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Soljanka_food_05.jpg/500px-Soljanka_food_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Solyanka"
+    },
+    {
+      "id": "olivier-salad",
+      "name": "Olivier salad",
+      "localName": "Салат Оливье",
+      "videoSearch": "https://www.youtube.com/results?search_query=Olivier%20salad%20recipe",
+      "description": "Olivier salad (Russian: салат Оливье, romanized: salat Olivye, ), also known as Russian salad or Stolichny salad, is a traditional salad dish in Russian cuisine. Its creation is generally attributed to Lucien Olivier. It is popular in the post-Soviet and other Eastern Bloc states around the world.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82_%D0%9E%D0%BB%D0%B8%D0%B2%D1%8C%D0%B5_03.jpg/500px-%D0%A1%D0%B0%D0%BB%D0%B0%D1%82_%D0%9E%D0%BB%D0%B8%D0%B2%D1%8C%D0%B5_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Olivier_salad",
+      "recipe": {
+        "ingredients": [
+          "1 cup frozen corn",
+          "1 cup frozen diced carrots",
+          "1 cup peas",
+          "1 cup potatoes",
+          "½ cup diced cucumber pickles",
+          "2 cups mayonnaise",
+          "Salt"
+        ],
+        "steps": [
+          "Boil together the vegetables, then drain and transfer to a bowl.",
+          "Add the diced pickles and cool to room temperature.",
+          "Add the mayonnaise, and stir until uniformly mixed.",
+          "Finish by seasoning with some salt to taste."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARussian_Salad"
+      }
+    },
+    {
+      "id": "pirozhki",
+      "name": "Pirozhki",
+      "localName": "Пирожки",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pirozhki%20recipe",
+      "description": "Pirozhki is the Russian name for baked or fried yeast-leavened boat-shaped buns with a variety of fillings in Russian and Eastern European cuisine in general. Pirozhki are a popular street food and comfort food.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Piroshki.JPG/500px-Piroshki.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pirozhki"
+    },
+    {
+      "id": "kasha",
+      "name": "Kasha",
+      "localName": "Каша",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kasha%20recipe",
+      "description": "In English, kasha () is a porridge usually made from buckwheat, a pseudocereal. In the Slavic languages, kasha means porridge. In some varieties of Central and Eastern European cuisine, kasha can apply to any kind of cooked grain.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/%D0%93%D1%80%D0%B5%D1%87%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B0%D1%88%D0%B0.jpg/500px-%D0%93%D1%80%D0%B5%D1%87%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B0%D1%88%D0%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kasha"
+    },
+    {
+      "id": "ukha",
+      "name": "Ukha",
+      "localName": "Уха",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ukha%20recipe",
+      "description": "Ukha is a clear Russian soup, made from various types of fish such as bream, wels catfish, northern pike, or even ruffe. It usually contains root vegetables, parsley root, leek, potato, bay leaf, dill, tarragon, and green parsley, and is spiced with black pepper, saffron, nutmeg, and fennel seed.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Uha_013.jpg/500px-Uha_013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ukha"
+    },
+    {
+      "id": "okroshka",
+      "name": "Okroshka",
+      "localName": "Окрошка",
+      "videoSearch": "https://www.youtube.com/results?search_query=Okroshka%20recipe",
+      "description": "Okróshka is a cold soup of Russian origin, which probably originated in the Volga region.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/%D0%93%D0%BE%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D0%BA%D1%80%D0%BE%D1%88%D0%BA%D0%B0.jpg/500px-%D0%93%D0%BE%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D0%BA%D1%80%D0%BE%D1%88%D0%BA%D0%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Okroshka"
+    },
+    {
+      "id": "kulebyaka",
+      "name": "Kulebyaka",
+      "localName": "Кулебяка",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kulebyaka%20recipe",
+      "description": "A coulibiac is a type of pirog usually filled with salmon or sturgeon, rice or buckwheat, hard-boiled eggs, mushrooms, onions, and dill. The pie is baked in a pastry shell, usually of brioche or puff pastry.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Koulibiak_au_saumon.jpg/500px-Koulibiak_au_saumon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Coulibiac"
+    },
+    {
+      "id": "medovik",
+      "name": "Medovik",
+      "localName": "Медовик",
+      "videoSearch": "https://www.youtube.com/results?search_query=Medovik%20recipe",
+      "description": "Medovik is a layer cake popular in countries of the former Soviet Union. The identifying ingredients are honey and smetana (sour cream) or condensed milk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Honey_cake_Medovik.jpg/500px-Honey_cake_Medovik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Medovik"
+    },
+    {
+      "id": "paskha",
+      "name": "Paskha",
+      "localName": "Пасха",
+      "videoSearch": "https://www.youtube.com/results?search_query=Paskha%20recipe",
+      "description": "Paskha is an East Slavic festive dish made in Eastern Orthodox countries which consists of food that is forbidden during the fast of Great Lent. It is made during Holy Week and then brought to Church on Great Saturday to be blessed after the Paschal Vigil.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Paskha2.jpg/500px-Paskha2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paskha"
+    },
+    {
+      "id": "kholodets",
+      "name": "Kholodets",
+      "localName": "Холодец",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kholodets%20recipe",
+      "description": "Kholodets (Ukrainian: Холодець; Polish: Chołodec, Chołodziec, Hołodki) is a small village in the historical Volhynia region, and located 2–3 km from the village of Kupel, in Khmelnytskyi Raion in Khmelnytskyi Oblast of Ukraine. It belongs to Volochysk urban hromada, one of the hromadas of Ukraine.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kholodets"
+    },
+    {
+      "id": "dressed-herring",
+      "name": "Dressed herring",
+      "localName": "Сельдь под шубой",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dressed%20herring%20recipe",
+      "description": "Dressed herring, colloquially known as shuba, herring under a fur coat, or furry herring (Russian: \"сельдь под шубой\", romanized: \"sel'd pod shuboy\" or \"селёдка под шубой\", \"selyodka pod shuboy\"), is a layered salad composed of diced spekesild covered with layers of grated boiled eggs, vegetables (potatoes, carrots, be…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Selidi_pod_shuboi.jpg/500px-Selidi_pod_shuboi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dressed_herring"
+    },
+    {
+      "id": "vinegret",
+      "name": "Vinegret",
+      "localName": "Винегрет",
+      "videoSearch": "https://www.youtube.com/results?search_query=Vinegret%20recipe",
+      "description": "Vinegret (Russian: винегрет), or Russian vinaigrette, is a salad in Russian cuisine which is also popular in other post-Soviet states. The dish includes diced cooked vegetables (red beets, potatoes, carrots), chopped onions, as well as sauerkraut and/or brined pickles.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Vinegret_cleaned.jpg/500px-Vinegret_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vinegret"
+    },
+    {
+      "id": "shashlik",
+      "name": "Shashlik",
+      "localName": "Шашлык",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shashlik%20recipe",
+      "description": "Shashlik, or shashlyck (Russian: шашлык, romanized: shashlyk ), is a dish of skewered and grilled cubes of meat, similar to or synonymous with shish kebab.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Shashlik.jpg/500px-Shashlik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shashlik"
+    },
+    {
+      "id": "pozharsky-cutlet",
+      "name": "Pozharsky cutlet",
+      "localName": "Пожарская котлета",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pozharsky%20cutlet%20recipe",
+      "description": "A Pozharsky cutlet (Russian: пожарская котлета, pozharskaya kotleta, plural: пожарские котлеты, pozharskie kotlety; also spelled Pojarski) is a breaded ground chicken or veal patty that is typical of Russian cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Pozharskaya_kotleta.jpg/500px-Pozharskaya_kotleta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pozharsky_cutlet"
+    },
+    {
+      "id": "rassolnik",
+      "name": "Rassolnik",
+      "localName": "Рассольник",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rassolnik%20recipe",
+      "description": "Rassolnik is a traditional Russian soup made from pickled cucumbers, pearl barley, and pork or beef kidneys. A vegetarian variant of rassolnik also exists, usually made during Lent. The dish is known to have existed as far back as the 15th century, when it was called kalya.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%A0%D0%B0%D1%81%D1%81%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_%D0%BF%D0%BE-%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8.JPG/500px-%D0%A0%D0%B0%D1%81%D1%81%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_%D0%BF%D0%BE-%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rassolnik",
+      "recipe": {
+        "ingredients": [
+          "500 g beef kidneys",
+          "2 tbsp butter",
+          "2 parsley roots, sliced in strips",
+          "1 onion, sliced in strips",
+          "4 potatoes, sliced",
+          "2 pickled cucumbers",
+          "100 g sorrel",
+          "Salt to taste",
+          "Sour cream",
+          "Fresh parsley and/or dill"
+        ],
+        "steps": [
+          "Trim fat from kidneys, and cut into pieces. Rinse them well.",
+          "Cover the kidneys with cold water, and bring to a boil. Drain the water, and rinse the kidneys again.",
+          "Cover kidneys with cold water again, and boil for half an hour.",
+          "Melt the butter in a soup pot. Add parsley root and onion, and fry until onions are translucent.",
+          "Add sliced potatoes to pot, and cover with filtered broth. Cook for 30 minutes.",
+          "10 minutes before the end of cooking, add the cucumbers, chopped sorrel, and salt.",
+          "Just before serving, add kidneys, sour cream, and parsley or dill."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARassolnik_(Russian_Barley_and_Kidney_Soup)"
+      }
+    },
+    {
+      "id": "sushki",
+      "name": "Sushki",
+      "localName": "Сушки",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sushki%20recipe",
+      "description": "Sushki are traditional Eastern European small, crunchy, mildly sweet bread rings eaten for dessert, usually with tea or coffee. The word sushka has a common root with the Russian verb sushit (сушить) \"to dry\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sooshki.jpg/500px-Sooshki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sushki"
+    },
+    {
+      "id": "kissel",
+      "name": "Kissel",
+      "localName": "Кисель",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kissel%20recipe",
+      "description": "Kissel or kisel is a dish with the consistency of a thick gel, and made of sweet fruits such as berries, grains (such as oatmeal, rye, wheat), peas, or milk. It is commonly thickened with potato starch or corn starch and may be served either as a drinkable dessert or as a thicker, jelly-like dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Red_Currant_Kissel.jpg/500px-Red_Currant_Kissel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kissel"
+    },
+    {
+      "id": "pryanik",
+      "name": "Pryanik",
+      "localName": "Пряник",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pryanik%20recipe",
+      "description": "Pryanik refers to a range of traditional sweet-baked goods in Russia, Ukraine, Belarus, Czechia, Slovenia (Slovene: medenjak), Poland and other countries such as Lithuania (Lithuanian: meduolis) and Bulgaria (Bulgarian: меденка). Traditionally, pryaniks are made from flour and honey.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Prjaniki.jpg/500px-Prjaniki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pryanik"
+    },
+    {
+      "id": "kurnik",
+      "name": "Kurnik",
+      "localName": "Курник",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kurnik%20recipe",
+      "description": "Kurnik (Russian: курник; \"chicken pirog\"), also known as wedding pirog or tsar pirog, is a dome-shaped savoury Russian pirog (loosely, a pie) usually filled with chicken or turkey, eggs, onions, kasha or rice, and other optional components.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Kurnik_1.jpg/500px-Kurnik_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kurnik_(pirog)"
+    },
+    {
+      "id": "syrniki",
+      "name": "Syrniki",
+      "localName": "Сырники",
+      "videoSearch": "https://www.youtube.com/results?search_query=Syrniki%20recipe",
+      "description": "Syrniki (Belarusian: сырнікі; Russian: сырники; Ukrainian: сирники) are fried Eastern Slavic quark (curd cheese) pancakes. They are a part of Belarusian, Russian, Ukrainian, Latvian (biezpiena plācenīši) and Lithuanian (varškėčiai) cuisines. In Russia, they are also known as tvorozhniki (творо́жники).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Syrniki6.jpg/500px-Syrniki6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Syrniki",
+      "recipe": {
+        "ingredients": [
+          "500 grams cottage cheese",
+          "2 eggs",
+          "6 tablespoons flour",
+          "2 tablespoons sugar",
+          "1 teaspoon salt",
+          "Sour cream and sugar or jam, confiture.",
+          "Apple sauce"
+        ],
+        "steps": [
+          "Mix cottage cheese, eggs, flour, sugar and salt.",
+          "Take piece of paste, make round, flat shape and put on warm frying pan with oil or melted butter.",
+          "Wait until it becomes gold colour and flip.",
+          "When it is brown on both sides you can eat it."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASirniki_(Russian_Cheese_Fritters)"
+      }
+    },
+    {
+      "id": "golubtsy",
+      "name": "Golubtsy",
+      "localName": "Голубцы",
+      "videoSearch": "https://www.youtube.com/results?search_query=Golubtsy%20recipe",
+      "description": "A cabbage roll is a dish consisting of cooked cabbage leaves wrapped around a variety of fillings. It is common to the cuisines of Central, Eastern and Southeastern Europe and much of Western Asia, Northern China, and parts of North Africa.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/02022_Hungarian_stuffed_cabbage_rolls_in_pickled_cabbage_leaves_with_veal_and_deer_meat.jpg/500px-02022_Hungarian_stuffed_cabbage_rolls_in_pickled_cabbage_leaves_with_veal_and_deer_meat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cabbage_roll"
+    }
+  ]
+}

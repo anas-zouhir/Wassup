@@ -1,0 +1,442 @@
+{
+  "country": "KR",
+  "dishes": [
+    {
+      "id": "kimchi",
+      "name": "Kimchi",
+      "localName": "김치",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kimchi%20recipe",
+      "description": "Kimchi is a traditional Korean side dish (banchan) consisting of salted and fermented vegetables, most often Chinese cabbage or Korean radish. A wide selection of seasonings are used, including gochugaru (Korean chili powder), spring onions, garlic, ginger, and jeotgal (salted seafood).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Various_kimchi.jpg/500px-Various_kimchi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kimchi",
+      "recipe": {
+        "ingredients": [
+          "1 head napa cabbage (baechu, Chinese cabbage, wombok)",
+          "½ cup sea salt (or any coarse salt)",
+          "1 cup water",
+          "2 tbsp minced garlic",
+          "1 tsp minced ginger",
+          "½ cup gochugaru (Korean chile flakes)",
+          "2 tsp salt",
+          "1 tbsp sugar",
+          "¼ cup aekjeot (Korean fish sauce)",
+          "½ onion, thinly sliced",
+          "¼ carrot, thinly julienned",
+          "¼ Korean radish (muwoo), thinly julienned",
+          "4 green onions, cut into 3-cm pieces"
+        ],
+        "steps": [
+          "Quarter the napa cabbage, wash, and drain.",
+          "Combine coarse sea salt and water.",
+          "Put cabbages in salted water and take out one at a time to get salt down.",
+          "Add cabbages to a container. Pour salted water over top, and set aside for at least 6–8 hours (overnight is great). The cabbage should be soft enough to bend.",
+          "Wash cabbages and drain well.",
+          "Combine gochugaru, salt, sugar, jeot gal (Korean fish sauce), minced garlic, and minced ginger.",
+          "Mix the onion, carrot, radish, and green onion into the chilli powder mixture.",
+          "Take one cabbage, and stuff the above mixture between every layer.",
+          "Try to fold the cabbage in half. With 2 outer leaves, wrap the whole thing securely.",
+          "Put cabbages in an airtight container, and let it sit at room temperature overnight.",
+          "Refrigerate for 2–3 days at minimum. After a few days, you will notice some liquid. This is totally normal and a sign that the kimchi is ripening.",
+          "Enjoy your kimchi!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACabbage_Kimchi"
+      }
+    },
+    {
+      "id": "bibimbap",
+      "name": "Bibimbap",
+      "localName": "비빔밥",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bibimbap%20recipe",
+      "description": "Bibimbap ( BEE-bim-bap; Korean: 비빔밥; lit. ''mixed rice''), sometimes romanised as bi bim bap or bi bim bop, is a Korean rice dish. It is served as a bowl of warm white rice topped with namul (sautéed or blanched seasoned vegetables) and gochujang (chili pepper paste).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Dolsot-bibimbap.jpg/500px-Dolsot-bibimbap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bibimbap",
+      "recipe": {
+        "ingredients": [
+          "2 small carrots",
+          "2 tbsp sesame oil",
+          "2 tbsp ground sesame seeds",
+          "¼ tsp grated garlic",
+          "1–2 pinches salt",
+          "10 oz fresh spinach",
+          "1 tbsp sesame oil",
+          "2 tsp ground sesame seeds",
+          "¼ tsp grated garlic",
+          "8 oz bean sprouts, with beans attached",
+          "2 tsp sesame oil",
+          "1 tsp ground sesame seeds",
+          "¼ tsp grated garlic",
+          "1 pinch salt",
+          "1 tbsp olive or other oil",
+          "1 lb steak",
+          "¼ cup soy sauce",
+          "1 tbsp sesame oil",
+          "1 tbsp ground sesame seeds",
+          "¼ tsp grated garlic",
+          "¾–1 ½ cup white rice, steamed",
+          "3 eggs, cooked over easy",
+          "¾ cup kimchi",
+          "1 cucumber, cut into strips",
+          "Gochujang",
+          "1 tbsp vegetable oil"
+        ],
+        "steps": [
+          "Cut the carrots into matchsticks.",
+          "Boil matchsticks in a covered pot of salted water for a few minutes. Drain.",
+          "Rinse carrots with cold water until cool. Drain again, then put in a bowl.",
+          "Add the sesame oil, ground sesame seeds, grated garlic, and salt. Toss together with your fingers.",
+          "Put the spinach in a large covered pot with 1 inch of water.",
+          "Bring to a boil and cook as usual. Stir occasionally to keep the spinach from sticking to the pot. The spinach is done when it's dark green and reduced to a small fraction of its original volume.",
+          "Drain the cooked spinach. Cool by adding cold water to the pot and drain again. Squeeze the spinach in your hands to remove the water.",
+          "Slice the cooked spinach into 1-inch pieces.",
+          "Put the cooked spinach in a bowl with the sesame oil, ground sesame seeds, and grated garlic. Mix with your fingers.",
+          "Blanch the bean sprouts in a pot of salted water until they become clear.",
+          "Drain the cooked sprouts, and transfer to a bowl.",
+          "Toss with sesame oil, ground sesame seeds, grated garlic, and salt.",
+          "Slice the steak thinly, but not paper-thin.",
+          "Heat the oil in a large frying pan on high heat. When the oil is hot, but not smoking, add the beef. Stir-fry.",
+          "While the beef is cooking, add the sesame oil, ground sesame seeds, and grated garlic. Cook until the meat is well browned.",
+          "Add the soy sauce. Continue cooking until the liquid has boiled off.",
+          "Place rice in each bowl.",
+          "Arrange the prepared namuls, beef soboro, cucumbers, and egg on top of the rice. They should be arranged separately and attractively. The egg sits in the middle. Gochujang, kimchi, and any other root or leafy vegetable is served on the side in small individual bowls for the table to help themselves.",
+          "Rub the inside of the dolsots with sesame oil.",
+          "Spread the cooked rice evenly over the bottom of the dolsots and part way up the sides. Place the namurus and the beef soboro on top of the rice, each in its own area.",
+          "Cover the dolsots and cook over medium-high heat. Watch carefully near the end to avoid burning the rice on the bottom. To test, use a spoon to scrape the rice from the side. Remember that the bottom cooks more than the sides and that the rice keeps cooking after you remove it from the heat. Do not preheat the dolsots.",
+          "Add an uncooked egg to the middle of each dolsot.",
+          "Serve dolsots on small pieces of wood to keep the heat from damaging the table.",
+          "To eat, start by scraping the rice from the bottom and stirring the ingredients together with a metal spoon. The egg will cook as it breaks up. The rice on the bottom will be crunchy and sometimes hard to remove unless you continue stirring as you eat."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABibimbap"
+      }
+    },
+    {
+      "id": "bulgogi",
+      "name": "Bulgogi",
+      "localName": "불고기",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bulgogi%20recipe",
+      "description": "Bulgogi is a gui (Korean-style grilled or roasted dish) made of thin, marinated slices of meat, most commonly beef, grilled on a barbecue or on a stove-top griddle. It is also often stir-fried in a pan in home cooking. Sirloin and rib eye are frequently used cuts of beef for the dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Bulgogi_2.jpg/500px-Bulgogi_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bulgogi",
+      "recipe": {
+        "ingredients": [
+          "1 lb (450 g) beef suitable for grilling, sliced as thin as possible",
+          "3 green onions, sliced on the bias",
+          "4 button mushrooms (optional), sliced",
+          "½ onion (optional), thinly sliced",
+          "¾ cup soy sauce",
+          "¼ cup white granulated sugar",
+          "¼ cup (4 tbsp) sesame oil",
+          "4 tsp pepper",
+          "1–2 tbsp minced garlic",
+          "1 tbsp mirin (optional)"
+        ],
+        "steps": [
+          "Combine all the ingredients in a big bowl. Marinate for at least 30 minutes, but marinating overnight will get the best flavor and tenderization.",
+          "Grill the beef.",
+          "Serve with rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABulgogi"
+      }
+    },
+    {
+      "id": "galbi",
+      "name": "Galbi",
+      "localName": "갈비",
+      "videoSearch": "https://www.youtube.com/results?search_query=Galbi%20recipe",
+      "description": "Galbi, kalbi, galbi-gui (갈비구이), or grilled ribs is a type of gui (grilled dish) in traditional Korean cuisine. \"Galbi\" is the Korean word for \"rib\", and the dish is usually made with beef short ribs. When pork spare ribs or another meat is used instead, the dish is named accordingly.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Korean.food-Galbi-03.jpg/500px-Korean.food-Galbi-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Galbi",
+      "recipe": {
+        "ingredients": [
+          "⅓ cup soy sauce",
+          "4 scallions, chopped",
+          "6 cloves garlic, smashed and minced",
+          "1 ½ tbsp toasted sesame oil",
+          "2 tbsp minced fresh ginger",
+          "¼ cup canola oil",
+          "4 Thai bird chiles, stemmed",
+          "12 English-cut beef shortribs"
+        ],
+        "steps": [
+          "Process all ingredients except meat in a blender until smooth. Pour into a gallon size zip-top bag, and add shortribs.",
+          "Toss to coat the meat in the marinade, and refrigerate overnight. Note that this flavors but does not tenderize the meat.",
+          "Preheat grill to 225–300°F. Add shortribs and cover. Cook 5 hours or until meat falls right off the bone and is extremely tender. Serve immediately."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKorean_Shortribs"
+      }
+    },
+    {
+      "id": "samgyeopsal",
+      "name": "Samgyeopsal",
+      "localName": "삼겹살",
+      "videoSearch": "https://www.youtube.com/results?search_query=Samgyeopsal%20recipe",
+      "description": "Samgyeopsal, samgyeopsal-gui (삼겹살구이; lit. 'grilled three-layer meat'), or grilled pork belly is a type of gui (grilled dish) in Korean cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Samgyeopsal-gui.jpg/500px-Samgyeopsal-gui.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Samgyeopsal"
+    },
+    {
+      "id": "gimbap",
+      "name": "Gimbap",
+      "localName": "김밥",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gimbap%20recipe",
+      "description": "Gimbap, also romanized as kimbap, is a Korean dish made from bap (cooked rice), vegetables, and optionally, cooked seafood or meat rolled in gim—dried sheets of seaweed—and served in bite-sized slices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Gimbap_%28pixabay%29.jpg/500px-Gimbap_%28pixabay%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gimbap",
+      "recipe": {
+        "ingredients": [
+          "Yellow pickled daikon radish",
+          "Spinach",
+          "Salt",
+          "Sesame oil",
+          "Sesame seeds",
+          "Carrots",
+          "Ground pepper",
+          "Vegetable oil",
+          "Eggs",
+          "Steamed short-grain or sushi rice",
+          "Gim seaweed",
+          "Tuna, ham, sausage, or any other kind of cooked meat"
+        ],
+        "steps": [
+          "Slice radish lengthwise, about 1 cm thick.",
+          "Boil water and add spinach. Boil for about 10 seconds, then drain it.",
+          "Rinse the spinach with cold water, and squeeze all the water out. Season with salt, sesame oil, and sesame seeds.",
+          "Shred carrots about 2 inches (5 cm) long. Stir-fry it with salt, pepper, and vegetable oil. You don’t have to cook it all the way through.",
+          "Crack about 4–5 eggs into a little bowl. Mix well, and season with salt and pepper. Transfer beaten eggs to a hot greased skillet, and cook like an omelet until it is solid. Cut lengthwise, about 1 cm thick.",
+          "Mix rice, 2 tbsp of oil, and sesame seed together.",
+          "Place the mat on a flat surface and place a sheet of seaweed on top. Spread a layer of seasoned rice on top of the seaweed, and arrange the eggs, carrots, spinach, radish, and meat on top of that in long strips.",
+          "Use the bamboo mat to tightly roll everything up, with the fillings on the inside and the seaweed on the outside.",
+          "If desired, slice the roll into rounds."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGimbap"
+      }
+    },
+    {
+      "id": "japchae",
+      "name": "Japchae",
+      "localName": "잡채",
+      "videoSearch": "https://www.youtube.com/results?search_query=Japchae%20recipe",
+      "description": "Japchae is a savory and slightly sweet dish of stir-fried glass noodles and vegetables that is popular in Korean cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Polish_Korean_Cuisine_and_Culture_Exchanges_Gradmother%E2%80%99s_Recipes_05.jpg/500px-Polish_Korean_Cuisine_and_Culture_Exchanges_Gradmother%E2%80%99s_Recipes_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Japchae"
+    },
+    {
+      "id": "tteokbokki",
+      "name": "Tteokbokki",
+      "localName": "떡볶이",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tteokbokki%20recipe",
+      "description": "Tteokbokki (Korean: 떡볶이), topokki or simmered rice cake, is a Korean food made from small-sized garae-tteok (long, white, cylinder-shaped rice cakes) called tteokmyeon (떡면; lit. 'rice cake noodles') or commonly tteokbokki-tteok (떡볶이 떡; lit. 'tteokbokki rice cakes').",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Tteokbokki.JPG/500px-Tteokbokki.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tteokbokki"
+    },
+    {
+      "id": "kimchi-jjigae",
+      "name": "Kimchi-jjigae",
+      "localName": "김치찌개",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kimchi-jjigae%20recipe",
+      "description": "Kimchi-jjigae (Korean: 김치찌개) or kimchi stew is a jjigae, or stew-like Korean dish, made with kimchi and other ingredients, such as pork, scallions, onions, and diced tofu. It is one of the most common stews in Korean cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Korean_stew_dish_-_Kimchi-jjigae_Kimchi_Stew_2019_%2801%29.jpg/500px-Korean_stew_dish_-_Kimchi-jjigae_Kimchi_Stew_2019_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kimchi-jjigae"
+    },
+    {
+      "id": "doenjang-jjigae",
+      "name": "Doenjang-jjigae",
+      "localName": "된장찌개",
+      "videoSearch": "https://www.youtube.com/results?search_query=Doenjang-jjigae%20recipe",
+      "description": "Doenjang-jjigae, referred to in English as soybean paste stew, is a Korean traditional jjigae (stew-type dish), made from the primary ingredient of doenjang (soybean paste), and additional optional ingredients of vegetables, seafood, and meat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Doenjang-jjigae.jpg/500px-Doenjang-jjigae.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Doenjang-jjigae"
+    },
+    {
+      "id": "sundubu-jjigae",
+      "name": "Sundubu-jjigae",
+      "localName": "순두부찌개",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sundubu-jjigae%20recipe",
+      "description": "Sundubu-jjigae (Korean: 순두부찌개) is a jjigae in Korean cuisine. The dish is made with freshly curdled extra soft tofu (sundubu) which has not been strained and pressed, vegetables, sometimes mushrooms, onion, optional seafood (commonly oysters, mussels, clams and shrimp), optional meat (commonly beef or pork), and gochuj…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sundubu-jjigae.jpg/500px-Sundubu-jjigae.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sundubu-jjigae"
+    },
+    {
+      "id": "budae-jjigae",
+      "name": "Budae-jjigae",
+      "localName": "부대찌개",
+      "videoSearch": "https://www.youtube.com/results?search_query=Budae-jjigae%20recipe",
+      "description": "Budae-jjigae (Korean: 부대찌개; lit. 'army base stew') is a type of spicy jjigae (Korean stew) from South Korea that is made with a variety of ingredients, often canned or processed. Common ingredients include ham, sausage, Spam, baked beans, kimchi, instant noodles, gochujang, and American cheese.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Budae_jjigae_%2828587380901%29.jpg/500px-Budae_jjigae_%2828587380901%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Budae-jjigae"
+    },
+    {
+      "id": "samgyetang",
+      "name": "Samgyetang",
+      "localName": "삼계탕",
+      "videoSearch": "https://www.youtube.com/results?search_query=Samgyetang%20recipe",
+      "description": "Samgye-tang (Korean: 삼계탕), or \"ginseng chicken soup\" is a tang (Korean soup) that consists primarily of a whole young chicken (poussin) or quail filled with garlic, rice, jujube, mung bean, and ginseng. It is traditionally considered to be a health food. Samgye-tang is a representative summer health food.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Samgye-tang_2.jpg/500px-Samgye-tang_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Samgye-tang"
+    },
+    {
+      "id": "seolleongtang",
+      "name": "Seolleongtang",
+      "localName": "설렁탕",
+      "videoSearch": "https://www.youtube.com/results?search_query=Seolleongtang%20recipe",
+      "description": "Seolleongtang (Korean: 설렁탕) or ox bone soup is a Korean tang (soup) made from ox bones (mostly leg bones), brisket and other cuts. Seasoning is generally done at the table according to personal taste by adding salt, ground black pepper, red pepper, minced garlic, or chopped spring onions. It is a local dish of Seoul.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Seolleongtang2024.jpg/500px-Seolleongtang2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Seolleongtang"
+    },
+    {
+      "id": "galbitang",
+      "name": "Galbitang",
+      "localName": "갈비탕",
+      "videoSearch": "https://www.youtube.com/results?search_query=Galbitang%20recipe",
+      "description": "Galbi-tang (Korean: 갈비탕) or short rib soup is a variety of guk, or Korean soup, made primarily from beef short ribs along with stewing beef, radish, onions, and other ingredients.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Galbitang_%EA%B0%88%EB%B9%84%ED%83%95_beeniru.jpg/500px-Galbitang_%EA%B0%88%EB%B9%84%ED%83%95_beeniru.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Galbi-tang"
+    },
+    {
+      "id": "haejangguk",
+      "name": "Haejang-guk",
+      "localName": "해장국",
+      "videoSearch": "https://www.youtube.com/results?search_query=Haejang-guk%20recipe",
+      "description": "Haejang-guk (Korean: 해장국) or hangover soup refers to every kind of guk or soup eaten as a hangover cure in Korean cuisine. It means \"soup to chase a hangover\" and is also called sulguk (술국). It usually consists of dried napa cabbage, vegetables and meat in a hearty beef broth.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Korean_soup-Seonjiguk-01.jpg/500px-Korean_soup-Seonjiguk-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Haejang-guk"
+    },
+    {
+      "id": "naengmyeon",
+      "name": "Naengmyeon",
+      "localName": "냉면",
+      "videoSearch": "https://www.youtube.com/results?search_query=Naengmyeon%20recipe",
+      "description": "Naengmyeon (냉면, in South Korea) or raengmyŏn (랭면, in North Korea) is a noodle dish of North Korean origin which consists of long and thin handmade noodles made from the flour and starch of various ingredients, including most commonly buckwheat (메밀, memil) but also potatoes, sweet potatoes, arrowroot starch (darker colo…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Naengmyeon_%28cold_noodles%29.jpg/500px-Naengmyeon_%28cold_noodles%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Naengmyeon"
+    },
+    {
+      "id": "kalguksu",
+      "name": "Kalguksu",
+      "localName": "칼국수",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kalguksu%20recipe",
+      "description": "Kal-guksu (Korean: 칼국수; lit. 'knife noodles') is a Korean noodle dish consisting of handmade, knife-cut wheat flour noodles served in a large bowl with broth and other ingredients. It is traditionally considered a seasonal food, consumed most often in summer.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Haemul-kal-guksu.jpg/500px-Haemul-kal-guksu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kal-guksu"
+    },
+    {
+      "id": "pajeon",
+      "name": "Pajeon",
+      "localName": "파전",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pajeon%20recipe",
+      "description": "Pajeon is a variety of jeon with scallion as its prominent ingredient, as pa (파) means 'scallion'. It is a Korean dish made from a batter of eggs, wheat flour, rice flour, scallions, and often other ingredients depending on the variety. Beef, pork, kimchi, shellfish, and other seafood are mostly used.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Korean_pancake-Pajeon-05.jpg/500px-Korean_pancake-Pajeon-05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pajeon"
+    },
+    {
+      "id": "bossam",
+      "name": "Bossam",
+      "localName": "보쌈",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bossam%20recipe",
+      "description": "Bossam (Korean: 보쌈) is a pork dish in Korean cuisine. It usually consists of pork belly that is boiled in spices and thinly sliced.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/KOCIS_BOSSAM%2C_napa_wraps_with_pork_%284618280268%29.jpg/500px-KOCIS_BOSSAM%2C_napa_wraps_with_pork_%284618280268%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bossam"
+    },
+    {
+      "id": "jokbal",
+      "name": "Jokbal",
+      "localName": "족발",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jokbal%20recipe",
+      "description": "Jokbal (Korean: 족발) is a Korean dish consisting of pig's trotters cooked with soy sauce and spices. It is usually braised in a combination of soy sauce, ginger, garlic, and rice wine. Additional ingredients used can include onion, leeks, garlic, cinnamon, and black pepper.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Korean.food-Jokbal-01.jpg/500px-Korean.food-Jokbal-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jokbal"
+    },
+    {
+      "id": "dak-galbi",
+      "name": "Dak-galbi",
+      "localName": "닭갈비",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dak-galbi%20recipe",
+      "description": "Dak-galbi, or spicy stir-fried chicken, is a popular South Korean dish made by stir-frying marinated diced chicken in a gochujang-based sauce with sweet potatoes, cabbage, Korean perilla, spring onion, tteok (rice cake), and other ingredients. Lettuce and perilla leaves may be served as ssam (wrap) vegetables.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Korean_cuisine-Dakgalbi-01.jpg/500px-Korean_cuisine-Dakgalbi-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dak-galbi"
+    },
+    {
+      "id": "mandu",
+      "name": "Mandu",
+      "localName": "만두",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mandu%20recipe",
+      "description": "Mandu (Korean: 만두), or mandoo, are dumplings in Korean cuisine. Mandu can be steamed, boiled, pan-fried, or deep-fried. The styles also vary across regions in the Korean Peninsula.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%EB%A7%8C%EB%91%90.jpg/500px-%EB%A7%8C%EB%91%90.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mandu_(food)"
+    },
+    {
+      "id": "sundae",
+      "name": "Sundae",
+      "localName": "순대",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sundae%20recipe",
+      "description": "Sundae is a type of blood sausage in Korean cuisine. It is a popular street food in both North and South Korea, generally made by steaming cow or pig's intestines stuffed with various ingredients.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Sundae.jpg/500px-Sundae.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sundae_(sausage)"
+    },
+    {
+      "id": "jangjorim",
+      "name": "Jangjorim",
+      "localName": "장조림",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jangjorim%20recipe",
+      "description": "Jang-jorim (Korean: 장조림) is a Korean side dish consisting of lean beef braised in soy sauce with eggs. Jang-jorim is a type of jorim, a Korean simmered dish that preserves well. The side dish is commonly packed in lunch boxes in South Korea and is sold at South Korean convenience stores as a lunchtime dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Jangjorim.jpg/500px-Jangjorim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jang-jorim",
+      "recipe": {
+        "ingredients": [
+          "Quail eggs",
+          "3 cups water",
+          "1 cup soy sauce",
+          "½ cup sugar",
+          "¼ cup refined rice wine",
+          "6 cloves garlic",
+          "3 slices of fresh ginger",
+          "3 dried red chile peppers"
+        ],
+        "steps": [
+          "Bring a pot of water to a boil. Add the quail eggs, and boil for about 10 minutes.",
+          "Carefully drain the eggs, and cool in cold water.",
+          "Peel the cooled eggs.",
+          "Combine the water, soy sauce, sugar, wine, garlic, and ginger in a saucepan. Bring to a boil.",
+          "Add the eggs to the pot, and simmer until the liquid is reduced by half.",
+          "Add the peppers, and cook just for 1–2 minutes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AQuail_Egg_and_Chili_Jangjorim"
+      }
+    },
+    {
+      "id": "tteok",
+      "name": "Tteok",
+      "localName": "떡",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tteok%20recipe",
+      "description": "Tteok (Korean: 떡) is a general term for Korean rice cakes. They are made with steamed flour of various grains, both glutinous and non-glutinous rice. Steamed flour can also be pounded, shaped, or pan-fried to make tteok.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Tteok.jpg/500px-Tteok.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tteok"
+    },
+    {
+      "id": "hotteok",
+      "name": "Hotteok",
+      "localName": "호떡",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hotteok%20recipe",
+      "description": "Hotteok, sometimes called hoeddeok, is a type of filled pancake known as a popular street food in South Korea. It originated in Qing dynasty China and was first brought into Joseon Korea during the 19th century.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Hotteok.jpg/500px-Hotteok.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hotteok"
+    },
+    {
+      "id": "bingsu",
+      "name": "Bingsu",
+      "localName": "빙수",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bingsu%20recipe",
+      "description": "Bingsu (Korean: 빙수; lit. 'ice water'), sometimes written as bingsoo, is a milk-based Korean shaved ice dessert with sweet toppings that may include chopped fruit, condensed milk, fruit syrup, tteok, and red beans. The most common variety is patbingsu (Korean: 팥빙수, lit.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Patbingsu.jpg/500px-Patbingsu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bingsu"
+    },
+    {
+      "id": "yakgwa",
+      "name": "Yakgwa",
+      "localName": "약과",
+      "videoSearch": "https://www.youtube.com/results?search_query=Yakgwa%20recipe",
+      "description": "Yakgwa (Korean: 약과), also called gwajul (과줄), is a type of yumil-gwa, which is deep-fried, wheat-based hangwa (Korean confection) made with honey, cheongju (rice wine), sesame oil, and ginger juice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/KOCIS_yakgwa%2C_honey_cookies_%284646996556%29.jpg/500px-KOCIS_yakgwa%2C_honey_cookies_%284646996556%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Yakgwa"
+    }
+  ]
+}

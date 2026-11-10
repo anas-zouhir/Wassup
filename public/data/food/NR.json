@@ -1,0 +1,13 @@
+{
+  "country": "NR",
+  "dishes": [
+    {
+      "id": "coconut-fish",
+      "name": "Coconut fish",
+      "videoSearch": "https://www.youtube.com/results?search_query=Coconut%20fish%20recipe",
+      "description": "ʻOta ʻika is a Oceanian dish consisting of raw fish marinated in citrus juice and coconut milk. The Tongan, Tahitian, and Samoan variants are essentially identical in that the raw fish is briefly marinated in lemon or lime juice until the surface of the flesh becomes opaque.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Poisson_cru_au_lait_de_coco.jpg/500px-Poisson_cru_au_lait_de_coco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/%27Ota_%27ika"
+    }
+  ]
+}

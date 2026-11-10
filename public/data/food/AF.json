@@ -1,0 +1,142 @@
+{
+  "country": "AF",
+  "dishes": [
+    {
+      "id": "kabuli-palaw",
+      "name": "Kabuli palaw",
+      "localName": "قابلی پلو",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kabuli%20palaw%20recipe",
+      "description": "Kabuli pulao (or pulaw) is a variety of pilaf made in Afghanistan and Uzbekistan. It is known in Afghanistan as Qābilī palaw, and in Uzbekistan as the Osh palov, with neither country referring to it by the name of the city, Kabul. In English the dish tends to be known by the name Kabuli.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Afghan_Palo.jpg/500px-Afghan_Palo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kabuli_pulao"
+    },
+    {
+      "id": "mantu",
+      "name": "Mantu",
+      "localName": "منتو",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mantu%20recipe",
+      "description": "Manti is a type of dumpling mainly found in Uyghur cuisine and Central Asian cuisine, but also in West Asia, South Caucasus, and the Balkans. Manti is also popular in Turkish cuisine, and it is consumed throughout post-Soviet countries, where the dish spread from the Central Asian republics.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Kayseride_bir_restoranda_Kayseri_mant%C4%B1s%C4%B1_%28cropped%29.jpg/500px-Kayseride_bir_restoranda_Kayseri_mant%C4%B1s%C4%B1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "id": "aushak",
+      "name": "Aushak",
+      "localName": "آشک",
+      "videoSearch": "https://www.youtube.com/results?search_query=Aushak%20recipe",
+      "description": "Aushak or ashak (Pashto/Persian: آشک) is an Afghan dish made of pasta dumplings filled with chives, with a (frequently meaty) tomato sauce, topped with yogurt and dried mint. A time-consuming meal to prepare, it is usually served on holidays or at special gatherings.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Afghan_Ashak_dumplings.jpg/500px-Afghan_Ashak_dumplings.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Aushak"
+    },
+    {
+      "id": "bolani",
+      "name": "Bolani",
+      "localName": "بولانی",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bolani%20recipe",
+      "description": "Bolani or bulani is a stuffed flatbread from Afghanistan, fried with a filling. It has a thin crust and can be stuffed with a variety of ingredients, such as potatoes or leeks but also grated pumpkin, chives, red lentils or with minced meat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Bolani.jpg/500px-Bolani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bolani"
+    },
+    {
+      "id": "qorma",
+      "name": "Qorma",
+      "localName": "قورمه",
+      "videoSearch": "https://www.youtube.com/results?search_query=Qorma%20recipe",
+      "description": "Korma, kurma, qorma or qurma (Urdu: قورمہ; Hindi: क़ोरमा; Bengali: কোরমা; Persian: قرمه; Kashmiri: قۄرمہٕ) is a curry dish originating in the Indian subcontinent influenced by Mughlai cuisine, versions of which later were modified to Anglo-Indian and then to British tastes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Chicken_Korma.JPG/500px-Chicken_Korma.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Korma"
+    },
+    {
+      "id": "borani-banjan",
+      "name": "Borani banjan",
+      "localName": "بورانی بانجان",
+      "videoSearch": "https://www.youtube.com/results?search_query=Borani%20banjan%20recipe",
+      "description": "Borani (Persian: بورانی, romanized: bowrâni) is a salad dish from Iranian cuisine. It is also found in Turkish cuisine where it is associated with certain provinces like Isparta, Urfa and Van.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Bouranee.png/500px-Bouranee.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Borani"
+    },
+    {
+      "id": "chapli-kebab",
+      "name": "Chapli kebab",
+      "localName": "چپلي کباب",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chapli%20kebab%20recipe",
+      "description": "Chapli kabab is a minced kebab made from ground beef, mutton or chicken with various spices in the shape of a patty. The chapli kabab originated from the city of Peshawar in Khyber Pakhtunkhwa province, Pakistan and is today prepared across South Asia. It is strongly associated with Pashtun cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Chapli_Kebab.jpg/500px-Chapli_Kebab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chapli_kebab"
+    },
+    {
+      "id": "afghan-bread",
+      "name": "Afghan bread",
+      "localName": "نان",
+      "videoSearch": "https://www.youtube.com/results?search_query=Afghan%20bread%20recipe",
+      "description": "Naan () is a leavened, oven-baked or tawa-fried flatbread, that can also be baked in a tandoor. It is characterised by a light and fluffy texture and golden-brown spots from the baking process. Naan is used in many cuisines worldwide.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Annapurna_Naan.jpg/500px-Annapurna_Naan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Naan",
+      "recipe": {
+        "ingredients": [
+          "colspan=\"5\" style=\"text-align: center; background: #f5f5f5;;\" |Dough",
+          "Water",
+          "1½ cups",
+          "375 g",
+          "68.2%",
+          "Dry yeast",
+          "1 sachet",
+          "7 g",
+          "1.3%",
+          "Sugar",
+          "1 tablespoon",
+          "14 g",
+          "2.5%",
+          "All-purpose flour",
+          "4 cups",
+          "550 g",
+          "100%",
+          "Salt",
+          "1 tablespoon",
+          "18 g",
+          "3.3%",
+          "Baking soda",
+          "1¾ teaspoons",
+          "7 g",
+          "1.6%",
+          "Corn oil",
+          "¼ cup",
+          "55 g",
+          "10%",
+          "colspan=\"5\" style=\"text-align: center; background: #f5f5f5;;\" |Egg wash",
+          "Water",
+          "1 tablespoon",
+          "15 g",
+          "2.7%",
+          "Egg yolk",
+          "1 ea.",
+          "24 g",
+          "4.4%",
+          "colspan=\"5\" style=\"text-align: center; background: #f5f5f5;;\" |Topping",
+          "Black cumin seeds",
+          "2 tablespoons",
+          "30 g",
+          "5.5%"
+        ],
+        "steps": [
+          "Mix ½ cup water, yeast, and sugar. Let it sit for 10 minutes until foamy.",
+          "Place flour in a mixing bowl and sprinkle in the salt. Make a well, then add oil and yeast mixture. Stir in add small amounts of the remaining water until it forms a soft dough that can be moulded. Knead for 5 mins. Cover with paper and let rise for 1½ hours.",
+          "Mix together the egg yolk and 1 tablespoon of water to make egg wash. Set aside.",
+          "Divide dough into eight parts and roll each into a ball. Roll each bread into an oval shape 20 cm long and 5 cm thick.",
+          "Make lines in top of dough. Brush on egg wash, and sprinkle with black cumin seeds.",
+          "Bake in a preheated 350°F (175°C) oven for 25 mins. Total cooking time is around 2½ hours."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAfghan_Bread"
+      }
+    },
+    {
+      "id": "firni",
+      "name": "Firni",
+      "localName": "فرنی",
+      "videoSearch": "https://www.youtube.com/results?search_query=Firni%20recipe",
+      "description": "Phirni or firni is a rice pudding dessert made with ground rice, rice flour or cornflour cooked in milk. It is eaten chilled and traditionally served in clay bowls called shikoras.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Firni_Or_Phirni.jpg/500px-Firni_Or_Phirni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Phirni"
+    }
+  ]
+}

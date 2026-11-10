@@ -1,0 +1,238 @@
+{
+  "country": "NL",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "nos",
+        "name": "NOS Nieuws",
+        "homepage": "https://nos.nl",
+        "lang": "nl"
+      },
+      "fetchedAt": "2026-10-22T15:12:51.220Z",
+      "items": [
+        {
+          "title": "Kabinetsbelofte over begrenzen studierente onder druk: plan blijkt veel te duur",
+          "link": "https://nos.nl/l/2636221",
+          "summary": "Het begrenzen van de rente op studieleningen op maximaal 2,5 procent is risicovol en duur. Dat schrijft minister Letschert van Onderwijs (D66) aan de Tweede Kamer. De minister \"baalt ervan\", maar komt tot de conclusie…",
+          "image": "https://images.cdn.nos.nl/6/B/d/B/Q/9/g1wMNeBhoGMKr3QjdQsuTezzJYPNZXBuh3anb22/8x420x3984x2241-1024x576.webp",
+          "publishedAt": "2026-10-22T14:39:22.000Z"
+        },
+        {
+          "title": "Oekraïners die alles kwijtraakten eisen via Nederland vergoeding van Rusland",
+          "link": "https://nos.nl/l/2636215",
+          "summary": "\"Ik wil helemaal niets van Rusland, maar zij hebben mijn huis verwoest. En daar moeten ze voor betalen.\" Oleksandr Tereshchenko veegt regelmatig de tranen van zijn wangen terwijl hij vertelt hoe hij zijn woning is…",
+          "image": "https://images.cdn.nos.nl/5/7/n/D/F/n/6nwXt8DQBXnq4aqakk16jKDQNGE5EQstUMPNaWE/8x110x2032x1143-1024x576.webp",
+          "publishedAt": "2026-10-22T14:11:00.000Z"
+        },
+        {
+          "title": "Podcast De Dag: de kwetsbaarheid van PHP, 'de onderbroek' van het internet",
+          "link": "https://nos.nl/l/2636214",
+          "summary": "Van DigiD tot de Franse overheid, en van RTL Nieuws tot Schiphol. Sites van allerlei instanties gingen gisteren een paar uur offline. Er zaten lekken in PHP, een taal om sites te programmeren. Doordat die lekken op…",
+          "image": "https://images.cdn.nos.nl/1/A/j/W/Y/X/z3VGVMYSHWHYAY3M2QSx46WTEDq6Yj74msWipwd/0x0x1280x720-1024x576.webp",
+          "publishedAt": "2026-10-22T13:32:23.000Z"
+        },
+        {
+          "title": "Recordboete van 37 miljoen euro voor illegale gokaanbieder",
+          "link": "https://nos.nl/l/2636211",
+          "summary": "De Kansspelautoriteit (Ksa) heeft een recordboete van 37 miljoen euro opgelegd aan een gokbedrijf. Het gaat om het illegale gokbedrijf EOD Code SRL, geregistreerd in Costa Rica. Het bedrijf biedt in ons land op allerlei…",
+          "image": "https://images.cdn.nos.nl/5/H/E/e/V/r/p7z8MYAqy69eqmdKKCUmgRTKjneX9KNicaGX3n/8x372x3984x2241-1024x576.webp",
+          "publishedAt": "2026-10-22T13:03:06.000Z"
+        },
+        {
+          "title": "Zoon mag Aung San Suu Kyi voor het eerst in vijf jaar spreken",
+          "link": "https://nos.nl/l/2636207",
+          "summary": "De opgesloten oud-leider van Myanmar Aung San Suu Kyi heeft voor het eerst in vijf jaar haar zoon telefonisch mogen spreken. Kim Aris schrijft op Facebook dat \"woorden niet kunnen uitdrukken hoeveel het betekent om haar…",
+          "image": "https://images.cdn.nos.nl/3/7/c/F/D/X/CtKyZjjRe5qkWbcHqHCwkoCPaZKq65ddrBaYkzw/8x154x1984x1116-1024x576.webp",
+          "publishedAt": "2026-10-22T11:50:50.000Z"
+        },
+        {
+          "title": "Politie krijgt hulp van marechaussee om overlast in Ter Apel terug te dringen",
+          "link": "https://nos.nl/l/2636202",
+          "summary": "De politie in Ter Apel krijgt hulp van de marechaussee om de problemen in het dorp aan te pakken, meldt RTV Noord. Een groep migranten, met name 'veiligelanders', zorgt voor veel overlast in het Groningse dorp. Het gaat…",
+          "image": "https://images.cdn.nos.nl/1/2/g/P/t/U/hqg8TQLFNdav37NGvrghhHeCrbbTp1uVC4GWsZg/8x303x3984x2241-1024x576.webp",
+          "publishedAt": "2026-10-22T11:44:23.000Z"
+        },
+        {
+          "title": "Macron verbiedt alle niet-vakbondsprotesten en haalt uit naar extreemlinks",
+          "link": "https://nos.nl/l/2636201",
+          "summary": "Alle protesten die komende zaterdag niet zijn georganiseerd door vakbonden, worden verboden. Dat zei de Franse president Macron na een uren durend spoedberaad met onder meer de Franse inlichtingendiensten. \"Overal waar…",
+          "image": "https://images.cdn.nos.nl/1/H/B/F/s/X/mwQHR974TTNDiyospwTtEjuCqEnaRZCpYzX2LdF/8x33x3984x2241-1024x576.webp",
+          "publishedAt": "2026-10-22T11:40:58.000Z"
+        },
+        {
+          "title": "Eerste mens besmet met veeziekte shamondavirus, Franse patiënt overleden",
+          "link": "https://nos.nl/l/2636199",
+          "summary": "In Frankrijk is voor het eerst een menselijke besmetting met het shamondavirus vastgesteld. Begin deze maand overleed een patiënt die de veeziekte had opgelopen. Er wordt nog onderzocht of dat ook de doodsoorzaak was; de…",
+          "image": "https://images.cdn.nos.nl/8/A/d/z/i/e/dhAJBTF8JPEJ1PH2WbwRfEgECWhZedFr9qJMhpx/8x74x3984x2241-1024x576.webp",
+          "publishedAt": "2026-10-22T11:18:23.000Z"
+        },
+        {
+          "title": "Overheidspagina's weer online na PHP-lek, vooralsnog geen data gelekt of gestolen",
+          "link": "https://nos.nl/l/2636196",
+          "summary": "De laatste websites van de Nederlandse overheid die vannacht nog onbereikbaar waren na het grote PHP-lek van gisteren, zijn nu weer online. De sites Meld Misdaad Anoniem en Overheid.nl zijn weer te bezoeken, net als…",
+          "image": "https://images.cdn.nos.nl/4/A/N/7/r/W/KosWoFgCyr3TYDftD7jAjwibAVcq8xvNWrYNEaE/8x60x3984x2241-1024x576.webp",
+          "publishedAt": "2026-10-22T10:29:18.000Z"
+        },
+        {
+          "title": "Duitse WO II-onderzeeër gevonden die door tikfout verdwenen was",
+          "link": "https://nos.nl/l/2636195",
+          "summary": "82 jaar nadat hij door een tikfout spoorloos was verdwenen, is een Duitse onderzeeër uit de Tweede Wereldoorlog teruggevonden in Het Kanaal. Duikers uit Plymouth vonden de U-672 32 kilometer uit de kust van Devon, op 70…",
+          "image": "https://images.cdn.nos.nl/7/3/d/5/D/1/kYYRs875AFmmszNLZgKQGhCHvMWXSsoSy1fJmVL/8x134x1584x891-1024x576.webp",
+          "publishedAt": "2026-10-22T10:19:32.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "nu-nl",
+        "name": "NU.nl",
+        "homepage": "https://www.nu.nl",
+        "lang": "nl"
+      },
+      "fetchedAt": "2026-10-22T15:12:51.213Z",
+      "items": [
+        {
+          "title": "Wéér crisis bij Manchester United: hoe één familie de grootmacht te gronde richtte",
+          "link": "https://www.nu.nl/voetbal/6414001/weer-crisis-bij-manchester-united-hoe-een-familie-de-grootmacht-te-gronde-richtte.html",
+          "summary": "Na een ontluisterende 4-1-nederlaag in de Champions League-wedstrijd tegen Como is het weer crisis bij Manchester United. Het is de zoveelste sinds het vertrek van succescoach Alex Ferguson. De immense problemen zijn…",
+          "image": "https://images.nu.nl/m/1ioxpb9ahuv0_sqr256/298/2/2448/2448/weer-crisis-bij-manchester-united-hoe-een-familie-de-grootmacht-te-gronde-richtte.jpg",
+          "publishedAt": "2026-10-22T14:53:21.000Z"
+        },
+        {
+          "title": "Nepal krijgt als eerste land ooit miljoenen voor klimaatramp",
+          "link": "https://www.nu.nl/klimaat/6414009/nepal-krijgt-als-eerste-land-ooit-miljoenen-voor-klimaatramp.html",
+          "summary": "Nepal krijgt een toezegging van 20 miljoen dollar om te herstellen van de verwoestende overstromingen. Het is de eerste keer dat er geld wordt vrijgemaakt uit een speciaal fonds voor klimaatrampen. Maar voor de miljarden…",
+          "image": "https://images.nu.nl/m/9zfxy8aap0xp_sqr256/1141/0/4000/4000/nepal-krijgt-als-eerste-land-ooit-miljoenen-voor-klimaatramp.jpg",
+          "publishedAt": "2026-10-22T14:37:50.000Z"
+        },
+        {
+          "title": "PHP spoort gebruikers aan te updaten: 'Anders hebben kwaadwillenden vrij spel'",
+          "link": "https://www.nu.nl/economie/6414042/php-spoort-gebruikers-aan-te-updaten-anders-hebben-kwaadwillenden-vrij-spel.html",
+          "summary": "Websites die gebruikmaken van programmeertaal PHP en nog niet de benodigde veiligheidsupdate hebben doorgevoerd blijven kwetsbaar. Updaten is noodzakelijk, benadrukt PHP.",
+          "image": "https://images.nu.nl/m/5q1xaxzasr0x_sqr256/834/0/2666/2666/php-spoort-gebruikers-aan-te-updaten-anders-hebben-kwaadwillenden-vrij-spel.jpg",
+          "publishedAt": "2026-10-22T13:45:42.000Z"
+        },
+        {
+          "title": "Zonder klimaatmaatregelen dreigen bijna alle koraalriffen te verdwijnen",
+          "link": "https://www.nu.nl/klimaat/6414041/zonder-klimaatmaatregelen-dreigen-bijna-alle-koraalriffen-te-verdwijnen.html",
+          "summary": "Zonder klimaatmaatregelen wordt het voortbestaan van vrijwel alle koraalriffen ter wereld binnen vijftig jaar ernstig bedreigd, meldt de internationale natuurbeschermingsorganisatie IUCN. Van de 127 onderzochte…",
+          "image": "https://images.nu.nl/m/86mx0siaf7y7_sqr256/99/0/682/682/zonder-klimaatmaatregelen-dreigen-bijna-alle-koraalriffen-te-verdwijnen.jpg",
+          "publishedAt": "2026-10-22T13:41:09.000Z"
+        },
+        {
+          "title": "Carolien Spoor heeft nieuwe liefde na breuk met Jon Karthaus",
+          "link": "https://www.nu.nl/achterklap/6414043/carolien-spoor-heeft-nieuwe-liefde-na-breuk-met-jon-karthaus.html",
+          "summary": "Carolien Spoor heeft sinds begin dit jaar een nieuwe liefde. De actrice had eerder een relatie met regisseur Jon Karthaus, met wie ze bijna twintig jaar samen was.",
+          "image": "https://images.nu.nl/m/a8cx3pmaj98b_sqr256/2223/0/5374/5374/carolien-spoor-heeft-nieuwe-liefde-na-breuk-met-jon-karthaus.jpg",
+          "publishedAt": "2026-10-22T13:35:02.000Z"
+        },
+        {
+          "title": "Frankrijk vreest opnieuw 'illegale' protesten, Macron legt schuld bij extreemlinks",
+          "link": "https://www.nu.nl/buitenland/6414029/frankrijk-vreest-opnieuw-illegale-protesten-macron-legt-schuld-bij-extreemlinks.html",
+          "summary": "President Emmanuel Macron zegt dat hij de \"illegale protesten\" van de komende dagen in Franse steden gaat verbieden. Alleen demonstraties die de vakbonden organiseren, mogen van hem doorgaan.",
+          "image": "https://images.nu.nl/m/m22xynzaa938_sqr256/2469/0/4947/4947/frankrijk-vreest-opnieuw-illegale-protesten-macron-legt-schuld-bij-extreemlinks.jpg",
+          "publishedAt": "2026-10-22T13:05:35.000Z"
+        },
+        {
+          "title": "Oekraïner verdacht van spionage voor Rusland opgepakt in Duitsland",
+          "link": "https://www.nu.nl/buitenland/6414028/oekrainer-verdacht-van-spionage-voor-rusland-opgepakt-in-duitsland.html",
+          "summary": "Een Oekraïense man is in Duitsland gearresteerd op verdenking van spionage voor Rusland, meldt het federaal openbaar ministerie donderdag in een verklaring. Hij zou sinds de zomer van 2025 via een tussenpersoon contact…",
+          "image": "https://images.nu.nl/m/k0sxf1wamlk5_sqr256/1355/0/3512/3512/oekrainer-verdacht-van-spionage-voor-rusland-opgepakt-in-duitsland.jpg",
+          "publishedAt": "2026-10-22T12:12:42.000Z"
+        },
+        {
+          "title": "Immunotherapie lijkt veelbelovend bij specifieke vorm van darmkanker",
+          "link": "https://www.nu.nl/gezondheid/6414012/immunotherapie-lijkt-veelbelovend-bij-specifieke-vorm-van-darmkanker.html",
+          "summary": "Immunotherapie kan bij sommige patiënten met darmkanker een toevoeging zijn aan de gebruikelijke behandeling. Volgens een Nederlandse studie van het Antoni van Leeuwenhoek, gepubliceerd in The Lancet, keerde de kanker…",
+          "image": "https://images.nu.nl/m/wdpxndoa7m7a_sqr256/1404/0/2158/2158/immunotherapie-lijkt-veelbelovend-bij-specifieke-vorm-van-darmkanker.jpg",
+          "publishedAt": "2026-10-22T11:52:25.000Z"
+        },
+        {
+          "title": "Vrijdagavond code geel in drie provincies vanwege harde wind door storm Austen",
+          "link": "https://www.nu.nl/binnenland/6414025/vrijdagavond-code-geel-in-drie-provincies-vanwege-harde-wind-door-storm-austen.html",
+          "summary": "Het KNMI heeft voor vrijdagavond code geel afgegeven in Limburg, Zeeland en Zuid-Holland vanwege harde windstoten. Doordat veel bomen nog vol in het blad staan, is er groter risico op het afbreken van takken.",
+          "image": "https://images.nu.nl/m/d44x5j8agif4_sqr256/898/0/4000/4000/vrijdagavond-code-geel-in-drie-provincies-vanwege-harde-wind-door-storm-austen.jpg",
+          "publishedAt": "2026-10-22T11:40:15.000Z"
+        },
+        {
+          "title": "Zanger Frans Duijts ligt in het ziekenhuis na hartinfarct, situatie is stabiel",
+          "link": "https://www.nu.nl/muziek/6414024/zanger-frans-duijts-ligt-in-het-ziekenhuis-na-hartinfarct-situatie-is-stabiel.html",
+          "summary": "Zanger Frans Duijts is vorige week getroffen door een acuut hartinfarct. De schade is beperkt gebleven dankzij het adequate handelen van zijn familie en hulpverleners.",
+          "image": "https://images.nu.nl/m/btzxqega5jvk_sqr256/686/0/3648/3648/zanger-frans-duijts-ligt-in-het-ziekenhuis-na-hartinfarct-situatie-is-stabiel.jpg",
+          "publishedAt": "2026-10-22T11:03:11.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "volkskrant",
+        "name": "de Volkskrant",
+        "homepage": "https://www.volkskrant.nl",
+        "lang": "nl"
+      },
+      "fetchedAt": "2026-10-22T15:12:51.395Z",
+      "items": [
+        {
+          "title": "Nederland reageerde snel op PHP-lek, mede dankzij de media, volgens deze expert: ‘Iedereen stond op scherp voor dit soort nieuws’",
+          "link": "https://www.volkskrant.nl/tech/nederland-reageerde-snel-op-php-lek-mede-dankzij-de-media-volgens-deze-expert-iedereen-stond-op-scherp-voor-dit-soort-nieuws~b42480d0/",
+          "image": "https://image.volkskrant.nl/279397532/feature-crop/320/320/afbeelding",
+          "publishedAt": "2026-10-22T14:45:05.000Z"
+        },
+        {
+          "title": "Nog geen signalen om uit te gaan van succesvol misbruik van kwetsbaarheden in PHP, zegt NCSC",
+          "link": "https://www.volkskrant.nl/binnenland/nog-geen-signalen-om-uit-te-gaan-van-succesvol-misbruik-van-kwetsbaarheden-in-php-zegt-ncsc~b8a449e9/",
+          "image": "https://image.volkskrant.nl/279359794/feature-crop/320/320/afbeelding",
+          "publishedAt": "2026-10-22T12:37:00.000Z"
+        },
+        {
+          "title": "Israël laat bijna alle gearresteerde kolonisten vrij die buitenlanders aanvielen op Westelijke Jordaanoever; nu onder huisarrest",
+          "link": "https://www.volkskrant.nl/buitenland/israel-laat-bijna-alle-gearresteerde-kolonisten-vrij-die-buitenlanders-aanvielen-op-westelijke-jordaanoever-nu-onder-huisarrest~b2d71a17/",
+          "image": "https://image.volkskrant.nl/279177304/feature-crop/320/320/de-israelische-kolonisten-die-de-amerikaanse-journaliste-heidi",
+          "publishedAt": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Politieke tegenstanders van Rwandese president Kagame vrezen voor hun veiligheid nadat criticus werd onthoofd",
+          "link": "https://www.volkskrant.nl/buitenland/politieke-tegenstanders-van-rwandese-president-kagame-vrezen-voor-hun-veiligheid-nadat-criticus-werd-onthoofd~b80f0a4f/",
+          "image": "https://image.volkskrant.nl/279400754/feature-crop/320/320/afbeelding",
+          "publishedAt": "2026-10-22T14:09:00.000Z"
+        },
+        {
+          "title": "Belaagd Internationaal Strafhof wint Europese Sacharov-prijs voor de mensenrechten",
+          "link": "https://www.volkskrant.nl/nieuws-achtergrond/belaagd-internationaal-strafhof-wint-europese-sacharov-prijs-voor-de-mensenrechten~be5fc99b/",
+          "image": "https://image.volkskrant.nl/279328298/feature-crop/320/320/afbeelding",
+          "publishedAt": "2026-10-22T14:21:50.000Z"
+        },
+        {
+          "title": "Tour 2027: opnieuw Montmartre, waar Mathieu van der Poel zo heroïsch won",
+          "link": "https://www.volkskrant.nl/sport/tour-2027-opnieuw-montmartre-waar-mathieu-van-der-poel-zo-heroisch-won-en-groot-aandeel-tijdrit-met-kansen-voor-remco-evenepoel~b50ab2e8/",
+          "image": "https://image.volkskrant.nl/279398381/feature-crop/320/320/afbeelding",
+          "publishedAt": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Oekraïne ontvangt lichamen van 252 militairen van Rusland",
+          "link": "https://www.volkskrant.nl/buitenland/oekraine-ontvangt-lichamen-van-252-militairen-van-rusland~bc9888fd/",
+          "image": "https://image.volkskrant.nl/279360708/feature-crop/320/320/ukraine-president-meets-nordic-leaders-and-us-envoys-oslo",
+          "publishedAt": "2026-10-22T12:13:00.000Z"
+        },
+        {
+          "title": "Kansspelautoriteit legt illegaal gokbedrijf recordboete van 37 miljoen euro op",
+          "link": "https://www.volkskrant.nl/economie/kansspelautoriteit-legt-illegaal-gokbedrijf-recordboete-van-37-miljoen-euro-op~b9a88135/",
+          "image": "https://image.volkskrant.nl/279395983/feature-crop/320/320/afbeelding",
+          "publishedAt": "2026-10-22T10:57:00.000Z"
+        },
+        {
+          "title": "Politie haalt 30 webshops met illegale medicijnen offline, drie verdachten aangehouden",
+          "link": "https://www.volkskrant.nl/binnenland/politie-haalt-30-webshops-met-illegale-medicijnen-offline-drie-verdachten-aangehouden~b6321566/",
+          "image": "https://image.volkskrant.nl/279394167/feature-crop/320/320/afbeelding",
+          "publishedAt": "2026-10-22T10:48:44.000Z"
+        },
+        {
+          "title": "Uitgever verbreekt banden met Haïtiaans-Canadese auteur Orélien, die AI zou hebben gebruikt bij het schrijven van geprezen roman",
+          "link": "https://www.volkskrant.nl/boeken/uitgever-verbreekt-banden-met-haitiaans-canadese-auteur-orelien-die-ai-zou-hebben-gebruikt-bij-het-schrijven-van-geprezen-roman~b276ec71/",
+          "image": "https://image.volkskrant.nl/279393603/feature-crop/320/320/afbeelding",
+          "publishedAt": "2026-10-22T10:45:00.000Z"
+        }
+      ]
+    }
+  ]
+}

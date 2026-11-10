@@ -1,0 +1,85 @@
+{
+  "country": "CY",
+  "dishes": [
+    {
+      "id": "halloumi",
+      "name": "Halloumi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Halloumi%20recipe",
+      "description": "Halloumi, or haloumi, is a type of dairy product made with milk originating from Cyprus. It is traditionally made from a mixture of goat milk and sheep's milk; however, due to lower cost of cow's milk and price sensitivity of consumers, modern halloumi increasingly contains cow's milk.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Halloumislice_zoom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Halloumi"
+    },
+    {
+      "id": "sheftalia",
+      "name": "Sheftalia",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sheftalia%20recipe",
+      "description": "Sheftalia is a traditional sausage that originated in Cyprus. It is made from caul fat, or omentum, the membrane that surrounds the stomach of pig or lamb, to wrap the ingredients rather than sausage casing. It can be regarded as a type of crépinette.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Typical_Greek_Cypriot_plate%2C_sheftalia_%28in_greek%3B_%CF%83%CE%B5%CF%86%CF%84%CE%B1%CE%BB%CE%B9%CE%AC%29.jpg/500px-Typical_Greek_Cypriot_plate%2C_sheftalia_%28in_greek%3B_%CF%83%CE%B5%CF%86%CF%84%CE%B1%CE%BB%CE%B9%CE%AC%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sheftalia"
+    },
+    {
+      "id": "afelia",
+      "name": "Afelia",
+      "videoSearch": "https://www.youtube.com/results?search_query=Afelia%20recipe",
+      "description": "Afelia (Greek: αφέλια) is a traditional Cypriot pork dish. It is pork marinated and cooked in red wine with coarsely crushed coriander seed. In order to prepare the dish, ingredients like salt, pepper, oil etc.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Af%C3%A9lia.jpg/500px-Af%C3%A9lia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Afelia"
+    },
+    {
+      "id": "flaouna",
+      "name": "Flaouna",
+      "videoSearch": "https://www.youtube.com/results?search_query=Flaouna%20recipe",
+      "description": "Flaouna (Greek: φλαούνα) (Turkish: Pilavuna) is a cheese-filled baked goods from Cyprus, also consumed in parts of Greece. Most recipes may include raisins or be garnished with sesame seeds. Flaounes are traditionally prepared for Easter.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Flaounes_halved.jpg/500px-Flaounes_halved.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Flaouna"
+    },
+    {
+      "id": "souvla",
+      "name": "Souvla",
+      "videoSearch": "https://www.youtube.com/results?search_query=Souvla%20recipe",
+      "description": "Souvla (Greek: σούβλα) is a popular dish from Cyprus. It consists of large pieces of meat cooked on a long skewer over a charcoal barbecue. It differs from the popular Greek dish souvlaki, in that meat cuts are much larger and slow cooked for a much longer period at a greater distance from the hot charcoal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Souvla.jpg/500px-Souvla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Souvla"
+    },
+    {
+      "id": "kleftiko",
+      "name": "Kleftiko",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kleftiko%20recipe",
+      "description": "Kleftiko is a traditional Greek dish of slow-roasted marinated meat dish (traditionally lamb or goat, but also pork) most often cooked en papillote and served with potatoes. Bell peppers, onions, and cheese (usually kefalotyri) can also be added.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Kleftiko.JPG/500px-Kleftiko.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kleftiko"
+    },
+    {
+      "id": "loukoumi",
+      "name": "Loukoumi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Loukoumi%20recipe",
+      "description": "Turkish delight, lokum () or loqum () is a family of confections based on a gel of starch and sugar. Premium varieties consist largely of chopped dates, pistachios, hazelnuts or walnuts bound by the gel; traditional varieties are often flavored with rosewater, mastic gum, bergamot orange, or lemon.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/TurkishDelightDisplay.jpg/500px-TurkishDelightDisplay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Turkish_delight"
+    },
+    {
+      "id": "cypriot-village-salad",
+      "name": "Cypriot village salad",
+      "localName": "Χωριάτικη σαλάτα",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cypriot%20village%20salad%20recipe",
+      "recipe": {
+        "ingredients": [
+          "1 tomato",
+          "1 cucumber",
+          "3 leaves of lettuce",
+          "1 small onion",
+          "1 spoon of feta cheese, cut into small pieces",
+          "5–6 black olives",
+          "3 spoons of olive oil",
+          "2 spoons of lemon juice"
+        ],
+        "steps": [
+          "Cut the vegetables into pieces.",
+          "Put them in a bowl and decorate them with onions, feta cheese and olives. If you want you can decorate your bowl with every way!",
+          "Before serving, add salad and olive oil with lemon and shake."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ACypriot_Salad"
+      }
+    }
+  ]
+}

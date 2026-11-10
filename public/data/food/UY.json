@@ -1,0 +1,61 @@
+{
+  "country": "UY",
+  "dishes": [
+    {
+      "id": "chivito",
+      "name": "Chivito",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chivito%20recipe",
+      "description": "Chivito is the national dish of Uruguay. It is a sandwich of sliced beefsteak (churrasco), mozzarella, ham, tomatoes, mustard, mayonnaise and black or green olives. A chivito commonly also includes bacon and fried or hard-boiled eggs.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Chivito1.jpg/500px-Chivito1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chivito_(sandwich)"
+    },
+    {
+      "id": "asado",
+      "name": "Asado",
+      "videoSearch": "https://www.youtube.com/results?search_query=Asado%20recipe",
+      "description": "Asado is the technique and the social event of having or attending a barbecue in various South American countries: especially Argentina and Uruguay where it is also a traditional event, as well as Brazil (Rio Grande do Sul), Chile and Paraguay.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Asado_2005.jpg/500px-Asado_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Asado"
+    },
+    {
+      "id": "torta-frita",
+      "name": "Torta frita",
+      "videoSearch": "https://www.youtube.com/results?search_query=Torta%20frita%20recipe",
+      "description": "A sopaipilla, sopapilla, sopaipa, torta frita or cachanga is a kind of fried pastry and a type of quick bread served in several regions with Spanish heritage in the Americas. The word sopaipilla is the diminutive of sopaipa, a word that entered Spanish from the Mozarabic language of Al-Andalus.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sopapillas.jpg/500px-Sopapillas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sopaipilla"
+    },
+    {
+      "id": "chaja",
+      "name": "Chajá",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chaj%C3%A1%20recipe",
+      "description": "The chajá cake, or postre chajá, is a typical dessert in Uruguayan cuisine. It was created on April 27, 1927 by Orlando Castellano, the owner of the Confitería Las Familias in the city of Paysandú.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Postres_uruguayos.jpg/500px-Postres_uruguayos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chaj%C3%A1"
+    },
+    {
+      "id": "dulce-de-leche",
+      "name": "Dulce de leche",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dulce%20de%20leche%20recipe",
+      "description": "Dulce de leche, caramelized milk, milk candy, or milk jam is a confection commonly made by heating sugar and milk over several hours. The substance takes on a spreadable, sauce-like consistency and derives its rich flavour and colour from non-enzymatic browning. It is typically used to top or fill other sweet foods.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/DulceDeLeche.jpg/500px-DulceDeLeche.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dulce_de_leche"
+    },
+    {
+      "id": "choripan",
+      "name": "Choripán",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chorip%C3%A1n%20recipe",
+      "description": "Choripán (plural: choripanes) is a type of asado sandwich with grilled chorizo. It is popular in Argentina, Chile, Uruguay, Paraguay, Peru, Ecuador, Bolivia and Venezuela.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Choripan.jpg/500px-Choripan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chorip%C3%A1n"
+    },
+    {
+      "id": "milanesa",
+      "name": "Milanesa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Milanesa%20recipe",
+      "description": "Milanesa (Spanish for \"Milanese\") is a form of breaded cutlet that is mainly associated with the Southern Cone and the Río de la Plata region. Although known throughout Latin American cuisine, it is closely tied to the cuisine of Argentina, where it is considered a quintessential national dish and a cultural mainstay.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Milanesa_con_fritas.png/500px-Milanesa_con_fritas.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Milanesa"
+    }
+  ]
+}

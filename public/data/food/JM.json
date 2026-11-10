@@ -1,0 +1,193 @@
+{
+  "country": "JM",
+  "dishes": [
+    {
+      "id": "ackee-and-saltfish",
+      "name": "Ackee and saltfish",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ackee%20and%20saltfish%20recipe",
+      "description": "Ackee and saltfish is the Jamaican national dish prepared with sauteed ackee and salted codfish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Ackee_and_Saltfish.jpg/500px-Ackee_and_Saltfish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ackee_and_saltfish"
+    },
+    {
+      "id": "jerk-chicken",
+      "name": "Jerk chicken",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jerk%20chicken%20recipe",
+      "description": "Jerk is a style of cooking native to Jamaica, in which meat is dry-rubbed or wet-marinated with a hot spice mixture called Jamaican jerk spice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/BBQJerk_Chicken.jpg/500px-BBQJerk_Chicken.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jerk_(cooking)",
+      "recipe": {
+        "ingredients": [
+          "½ tsp ground allspice",
+          "1 tsp salt",
+          "1 tsp black pepper",
+          "2 tbsp cayenne pepper",
+          "½ tsp ground ginger",
+          "1 tsp ground cinnamon",
+          "¼ tsp freshly-grated nutmeg",
+          "½ tbsp dried thyme",
+          "2 tbsp dehydrated lemon peel",
+          "3 tbsp dark rum",
+          "4 boneless skinless chicken breasts",
+          "¼ cup brown mustard"
+        ],
+        "steps": [
+          "Combine rum and mustard, and rub all over chicken.",
+          "Combine remaining ingredients and rub all over chicken. Refrigerate for at least 1 hour, but it is better to marinate overnight.",
+          "Place chicken on a greased, preheated charcoal grill. Cook, turning constantly until internal temperature reaches 165°F. Remove and let rest for 10 minutes.",
+          "Serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AJamaican_Jerk_Chicken"
+      }
+    },
+    {
+      "id": "jamaican-patty",
+      "name": "Jamaican patty",
+      "videoSearch": "https://www.youtube.com/results?search_query=Jamaican%20patty%20recipe",
+      "description": "A Jamaican patty is a semicircular pastry that contains various fillings and spices baked inside a flaky shell, often tinted golden yellow with an egg yolk mixture, annatto or turmeric.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Jamaican_patties_and_redstripe.jpg/500px-Jamaican_patties_and_redstripe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jamaican_patty",
+      "recipe": {
+        "ingredients": [
+          "2 lbs ground beef",
+          "2 bundles fresh thyme",
+          "1 tsp paprika",
+          "½ loaf of French bread (e.g. baguette)",
+          "½ tsp Island Spice Scotch Bonnet Soya Sauce",
+          "2 oz scallion or spring onion",
+          "1 tsp salt",
+          "2 cups flour",
+          "½ tsp salt",
+          "1 cup lard",
+          "1 cup cold water",
+          "1 teaspoon ground turmeric (or ½ teaspoon Jamaican Curry Powder and ½ teaspoon annatto for coloring)",
+          "Beef filling for patties",
+          "½ cup milk"
+        ],
+        "steps": [
+          "Grind together scallion and Island Spice Scotch Bonnet Pepper Soya sauce. Add to ground beef along with salt and thyme.",
+          "Cook beef.",
+          "While beef is cooking, pour cold water over bread in a saucepan to cover. Soak for a few minutes, then squeeze dry, saving the water.",
+          "Pass bread through a mincing mill, and return the ground bread to the water with thyme and cook until bread is dry. Combine meat and cooked bread.",
+          "Add paprika and cook for 20 minutes.",
+          "Remove from heat.",
+          "Allow to cool.",
+          "Sift flour, turmeric, curry powder, salt and knead in lard.",
+          "Bind with water to form a firm dough and knead for 2 minutes.",
+          "Roll pastry ⅛ inch thick.",
+          "Cut out pastry rounds 6 inches in diameter.",
+          "Divide beef filling between patties, and brush edges with water.",
+          "Fold dough over filling, and seal. Brush with milk.",
+          "Bake on top shelf of oven for about 25 minutes at 450°F until golden brown"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AJamaican_Patty"
+      }
+    },
+    {
+      "id": "rice-and-peas",
+      "name": "Rice and peas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rice%20and%20peas%20recipe",
+      "description": "Rice and peas or peas and rice is a traditional rice dish in some Caribbean and Latin American countries. Kidney beans (red peas/beans) and other similar varieties are typically used to prepare the dish in the Greater Antilles and coastal Latin America.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Rice_and_Peas.jpg/500px-Rice_and_Peas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rice_and_peas",
+      "recipe": {
+        "ingredients": [
+          "3 cups dried red peas (kidney beans) or gungo peas (pigeon peas)",
+          "8 cups water",
+          "½ tbsp salt",
+          "2 cloves garlic, crushed",
+          "2 cups coconut milk or 1 packet coconut powder",
+          "1 Scotch bonnet pepper",
+          "1 bunch scallions or 1 small white onion, chopped",
+          "1 tbsp thyme",
+          "¼ cup margarine",
+          "2 tbsp all-purpose seasoning",
+          "2 tbsp seasoning salt",
+          "1 tbsp chicken seasoning (optional)",
+          "1 ½ lb white or brown rice, rinsed and drained"
+        ],
+        "steps": [
+          "Wash peas with clean water. Place them in a pot with the water, salt, and garlic. Stir and leave to soak overnight.",
+          "Transfer the entire pot of soaked peas and liquid to the stovetop. Cover and bring to a boil over medium heat. Simmer, stirring occasionally, until the peas become tender (about 20 minutes). Add more hot water if the level drops too low.",
+          "Lower the heat, then add the coconut milk, scotch bonnet pepper, scallion, thyme, margarine, all-purpose seasoning, seasoning salt, and chicken seasoning. Stir well.",
+          "Cover and boil over medium heat for 10 minutes.",
+          "Stir in the rice until evenly distributed. Cover, lower heat, and boil until the rice is soft and liquid is boiled out (about 10–15 minutes).",
+          "Serve and enjoy!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AJamaican_Rice_and_Peas"
+      }
+    },
+    {
+      "id": "curry-goat",
+      "name": "Curry goat",
+      "videoSearch": "https://www.youtube.com/results?search_query=Curry%20goat%20recipe",
+      "description": "Goat curry (Malay: kari kambing, Indonesian: kari kambing or gulai kambing), curried goat, or curry goat is a curry dish prepared with goat meat, originating from the Indian subcontinent. The dish is a staple in Southeast Asian cuisine, Caribbean cuisine, and the cuisine of the Indian subcontinent.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Curry_Goat_and_Rice.jpg/500px-Curry_Goat_and_Rice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Goat_curry"
+    },
+    {
+      "id": "bammy",
+      "name": "Bammy",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bammy%20recipe",
+      "description": "Bammy is a traditional Jamaican cassava flatbread descended from the simple flatbread called casabe, eaten by the Taínos, Jamaica's Indigenous people. Variations of bammy exist throughout the Americas. It is produced in many rural communities and sold in stores and by street vendors in Jamaica and abroad.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Bammies.jpg/500px-Bammies.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bammy"
+    },
+    {
+      "id": "festival",
+      "name": "Festival",
+      "videoSearch": "https://www.youtube.com/results?search_query=Festival%20recipe",
+      "description": "Festival or Jamaican festival is a type of deep-fried bread, typical of Jamaican cuisine, Despite its slightly sweet taste, it is served as a side dish with escovitch fish, seafood or jerk chicken, as well as a breakfast item and street food.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Jamaican_seafood_and_festival.jpg/500px-Jamaican_seafood_and_festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Festival_(food)"
+    },
+    {
+      "id": "run-down",
+      "name": "Run down",
+      "videoSearch": "https://www.youtube.com/results?search_query=Run%20down%20recipe",
+      "description": "Run down, also referred to as rundown, run dun, rondón, fling-me-far, and fling mi for, is a stew dish in Jamaican cuisine and Tobago cuisine. The traditional Jamaican dish is eaten in several Latin American countries that share a coast with the Caribbean Sea.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Plate_of_Rondon.jpg/500px-Plate_of_Rondon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Run_down"
+    },
+    {
+      "id": "callaloo",
+      "name": "Callaloo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Callaloo%20recipe",
+      "description": "Callaloo is a plant used in popular dishes in many Caribbean countries, while for other Caribbean countries, a stew made with the plant is called callaloo. Cuisines, including the plant callaloo or dishes called callaloo, vary throughout the Caribbean.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Callaloo.jpg/500px-Callaloo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Callaloo"
+    },
+    {
+      "id": "mannish-water",
+      "name": "Mannish water",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mannish%20water%20recipe",
+      "description": "Mannish water is a goat soup in the Caribbean cuisine. It is believed to be an aphrodisiac and is made from various goat parts. The meal has been part of Maroon celebrations for over 300 years.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Mannish_Water.jpg/500px-Mannish_Water.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mannish_water"
+    },
+    {
+      "id": "hard-dough-bread",
+      "name": "Hard dough bread",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hard%20dough%20bread%20recipe",
+      "description": "Hard dough bread, also called hardo bread, is a Jamaican bread similar to the Pullman loaf or pain de mie, although hard dough bread tends to be sweeter. The dough consists of flour, water, yeast, salt and sugar. Additional ingredients such as treacle, molasses, and vegetable shortening can be used.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Jamaican_hard_dough_bread.jpg/500px-Jamaican_hard_dough_bread.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hard_dough_bread"
+    },
+    {
+      "id": "gizzada",
+      "name": "Gizzada",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gizzada%20recipe",
+      "description": "Gizzada, also referred to as pinch-me-round, is a classic traditional pastry in Jamaican cuisine. The tart is contained in a small, crisp pastry shell with a pinched crust and filled with a sweet and spiced coconut filling. It bears semblance to Portuguese queijada.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Jamaican_Gizzada.jpg/500px-Jamaican_Gizzada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gizzada"
+    },
+    {
+      "id": "bulla-cake",
+      "name": "Bulla cake",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bulla%20cake%20recipe",
+      "description": "Bulla cake, usually referred to as bulla, is a rich Jamaican cake made with molasses and brown sugar, and spiced with ginger and nutmeg.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Jamaican_bulla.jpg/500px-Jamaican_bulla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bulla_cake"
+    }
+  ]
+}

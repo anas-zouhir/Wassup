@@ -1,0 +1,238 @@
+{
+  "country": "CR",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "la-nacion-cr",
+        "name": "La Nación",
+        "homepage": "https://www.nacion.com",
+        "lang": "es-CR"
+      },
+      "fetchedAt": "2026-10-22T15:10:31.608Z",
+      "items": [
+        {
+          "title": "Amarini Villatoro le tira un dardo venenoso a Olimpia sobre lo que pasa en sus partidos en Honduras",
+          "link": "https://www.nacion.com/puro-deporte/amarini-villatoro-le-tira-un-dardo-venenoso-a/CU2EAQVHFJFFZJ5BN55D6QK5VU/story/",
+          "summary": "Esto dijo Amarini Villatoro luego de la victoria de Cartaginés ante Olimpia, en el primer round de la semifinal en la Copa Centroamericana.",
+          "image": "https://www.nacion.com/resizer/v2/4G6PBMP67VHH3JQSFIONMG56JM.JPG?auth=daa25dc24f64e5b38f49e36ae7238812b95cf5cdfdfc7dec7c66d1503a2e0f24&smart=true&width=4000&height=2666",
+          "publishedAt": "2026-10-22T14:54:47.000Z"
+        },
+        {
+          "title": "A Eduardo Espinel no le gustó que un árbitro guatemalteco pitara el partido Cartaginés vs. Olimpia",
+          "link": "https://www.nacion.com/puro-deporte/a-eduardo-espinel-no-le-gusto-que-un-arbitro/2UWKXHQYHZH4NCAC2NJW6P3ODM/story/",
+          "summary": "El técnico de Olimpia expresó su malestar por una situación que según él no debió presentarse en el partido ante Cartaginés.",
+          "image": "https://www.nacion.com/resizer/v2/C7IV5H7NRRBA3LCTFPMH64ZJEQ.JPG?auth=246850ab841ff67c15dcf8639d48b7ec1201571e32de58d4276e7ca5368702d5&smart=true&width=4000&height=2666",
+          "publishedAt": "2026-10-22T14:49:53.000Z"
+        },
+        {
+          "title": "37 reos de cárcel de Puntarenas son trasladados a alta contención tras intento de motín",
+          "link": "https://www.nacion.com/sucesos/37-reos-de-carcel-de-puntarenas-son-trasladados-a/FFGKNMMITBHDRG225UYQ7G5WQA/story/",
+          "summary": "Un intento de motín en el CAI 26 de Julio, en Puntarenas, dejó un privado de libertad muerto y 37 reos trasladados a alta contención en Alajuela, confirmó el Ministerio de Justicia y Paz.",
+          "image": "https://www.nacion.com/resizer/v2/WQQINKDFPJDOZD5Q4MIYBUDFH4.jpg?auth=0d52017a1e3b82783602b21074fd1e58a93132aeadae778d914fce36ea67196d&smart=true&width=3750&height=2362",
+          "publishedAt": "2026-10-22T14:23:33.000Z"
+        },
+        {
+          "title": "Enfrentó el cáncer de mama, una mastectomía y volvió a correr 5 km: ‘Retire lo que necesite para que siga con vida’",
+          "link": "https://www.nacion.com/mi-bienestar/enfrento-el-cancer-de-mama-una-mastectomia-y/VIIWL3PYXJDXXGB2K2SCCDSSZE/story/",
+          "summary": "Un bulto intermitente en el pecho fue su primera señal. Conozca la historia de Lorena López, quien recibió un diagnóstico de cáncer de mama a los 41 años.",
+          "image": "https://www.nacion.com/resizer/v2/BJPDBMDJJRDYPILSBRMT4AN6MM.png?auth=a2a1d0ec5834036bc213b4209089419072464cd877fbf856761de8f9dbda33c3&smart=true&width=1920&height=1080",
+          "publishedAt": "2026-10-22T14:03:00.000Z"
+        },
+        {
+          "title": "Hallazgo en sistema PHP amenaza la seguridad de sitios web en el mundo: conozca los detalles del fallo",
+          "link": "https://www.nacion.com/el-mundo/hallazgo-en-sistema-php-amenaza-la-seguridad-de/BNF344J6EVEGPACMEIQBPCSR7E/story/",
+          "summary": "Fallos de seguridad en PHP detectados por inteligencia artificial provocan la desconexión preventiva de sitios web en todo el mundo.",
+          "image": "https://www.nacion.com/resizer/v2/DMBKCAPBWJBVHOUWDLZ6IQKHEI.jpg?auth=589e88c957171491c863ebebff93b2f2077b6a1d926923d43223debbed437575&smart=true&width=5000&height=3692",
+          "publishedAt": "2026-10-22T13:43:35.000Z"
+        },
+        {
+          "title": "Hace 50 años: ministro de Salud señaló que la medicina debía contener una dosis real de justicia",
+          "link": "https://www.nacion.com/el-pais/hace-50-anos-ministro-de-salud-senalo-que-la/TQO7SYJDQZAJ3NKZN7JU7KH5LE/story/",
+          "summary": "En octubre de 1976, expertos reunidos en Costa Rica abogaron por la medicina nuclear y garantizar el acceso equitativo a la salud.",
+          "image": "https://www.nacion.com/resizer/v2/WGBGSDVTN5CEFO4OL2ABMQP6P4.jpeg?auth=0b7fba7961dac0a20b2dca9dfbb8bbe8a7add49283aaec23a34f4f236a1a6d5e&smart=true&width=1280&height=943",
+          "publishedAt": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Una sencillísima forma de bajar la morosidad tributaria",
+          "link": "https://www.nacion.com/opinion/cartas/una-sencillisima-forma-de-bajar-la-morosidad/RTKDCI6KQREC3LE6IXE7NOYSCE/story/",
+          "summary": "Ahora, muchos de nosotros debemos desplazarnos en bus o en Uber para hacer esos pagos desde la ventanilla de los bancos BCR o BAC",
+          "image": "https://www.nacion.com/resizer/v2/HWQUK2RFGRGPJFIVPMTSGWOVK4.png?auth=13b240b0fab5c371f6efd89ffefa1e052b04a2d7fa0cfd6b35036fca7d49e1a3&smart=true&width=1920&height=1080",
+          "publishedAt": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Francia detectó primer caso del virus shamonda en humanos",
+          "link": "https://www.nacion.com/el-mundo/francia-detecto-primer-caso-del-virus-shamonda-en/UPDKKA5L4JB7BOZU6CHQ5NE72A/story/",
+          "summary": "Francia confirma el primer caso del virus shamonda en un ser humano. Conozca los detalles de este hallazgo.",
+          "image": "https://www.nacion.com/resizer/v2/D3RUCNFKMJBNTB35SGE45I3W4E.jpg?auth=eee888a6b35fbfbfe64a2039cff392598d66a679a9083cddf809af53f6eed024&smart=true&width=4800&height=3200",
+          "publishedAt": "2026-10-22T12:55:11.000Z"
+        },
+        {
+          "title": "¿Qué dice el acuerdo petrolero de Trump con Venezuela? Esto revela investigación de ProPublica",
+          "link": "https://www.nacion.com/el-mundo/que-dice-el-acuerdo-petrolero-de-trump-con/IDK2WQ25F5BNXF3XE2HU3N363M/story/",
+          "summary": "Acuerdo blinda sus condiciones ante futuros cambios y protege al polémico empresario Alejandro Betancourt e inversionistas “anónimos”. ¿Qué más dice sobre el petróleo de Venezuela?",
+          "image": "https://www.nacion.com/resizer/v2/SBJOTPV4XJHVDPPS3KFYXAEV6Y.jpg?auth=76f922cafd72ad22dbc58de6d1e0b3dfc37a26121d33b08dcd59ea8bfc5b6bfb&smart=true&width=8256&height=5504",
+          "publishedAt": "2026-10-22T12:53:54.000Z"
+        },
+        {
+          "title": "El legado social de Costa Rica no puede quedarse congelado en el siglo XX",
+          "link": "https://www.nacion.com/opinion/foros/el-legado-social-de-costa-rica-no-puede-quedarse/TEZ6NOW2AVEADFM4ZQQGY3BVBA/story/",
+          "summary": "El debate nacional debería superar la dicotomía entre privatización y estatización para concentrarse en una pregunta mucho más relevante: ¿cómo puede Costa Rica ampliar su capacidad para resolver problemas y aprovechar…",
+          "image": "https://www.nacion.com/resizer/v2/NYGWJLZRCFDPDM4J73EVJXLKVE.JPG?auth=30eff7b276f307c256047d46229736738b97272cb9be6180f023162f7f7aaa9f&smart=true&width=3000&height=2000",
+          "publishedAt": "2026-10-22T12:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "semanario-universidad",
+        "name": "Semanario Universidad",
+        "homepage": "https://semanariouniversidad.com",
+        "lang": "es-CR"
+      },
+      "fetchedAt": "2026-10-22T15:10:32.506Z",
+      "items": [
+        {
+          "title": "Oposición quiere que Patricia Solano siga como magistrada; el PPSO se opone",
+          "link": "https://semanariouniversidad.com/sin-categoria/oposicion-quiere-que-patricia-solano-siga-como-magistrada-el-ppso-se-opone/",
+          "summary": "Marta Esquivel señaló que un “juez verdadero” no se deja influir por “problemas presupuestarios” en un momento en que el Poder Ejecutivo propone un recorte de ₡13.105 millones al Poder Judicial. La entrada Oposición…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-8.48.26-PM-1024x682.jpeg",
+          "publishedAt": "2026-10-22T12:10:36.000Z"
+        },
+        {
+          "title": "Piden que una mujer presida la Corte ante amenazas a independencia judicial",
+          "link": "https://semanariouniversidad.com/pais/movimientos-feministas-demandan-que-una-mujer-presida-la-corte-ante-amenazas-a-independencia-judicial/",
+          "summary": "Organizaciones advierten que, de las últimas 11 presidencias de la Corte Suprema de Justicia, solo una ha sido ocupada por una mujer. Marcia Aguiluz, de la Colectiva Acción Feminista, señaló que persisten barreras…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-6.21.23-PM-1024x768.jpeg",
+          "publishedAt": "2026-10-22T10:45:49.000Z"
+        },
+        {
+          "title": "Auditoría del ICE indaga sobre supuesto ingreso de militares estadounidenses a instalaciones del Instituto",
+          "link": "https://semanariouniversidad.com/pais/auditoria-del-ice-indaga-sobre-supuesto-ingreso-de-militares-estadounidenses-a-instalaciones-del-instituto/",
+          "summary": "El Instituto confirmó la colaboración con Estados Unidos, pero omitió referirse a la aparente entrada de militares a su sede en San Pedro. La entrada Auditoría del ICE indaga sobre supuesto ingreso de militares…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2025/01/Auditora-ICE-1024x683.jpg",
+          "publishedAt": "2026-10-22T10:45:37.000Z"
+        },
+        {
+          "title": "Abogado que presentó acción de inconstitucionalidad contra decreto de “Secreto de Estado” afirma que reforma es “un maquillaje”",
+          "link": "https://semanariouniversidad.com/pais/abogado-que-presento-accion-de-inconstitucionalidad-contra-decreto-de-secreto-de-estado-afirma-que-reforma-es-un-maquillaje/",
+          "summary": "Yashin Castrillo presentó una de las cuatro acciones de inconstitucionalidad que tramita la Sala IV contra el decreto original. La entrada Abogado que presentó acción de inconstitucionalidad contra decreto de “Secreto de…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/10/yashin.jpg",
+          "publishedAt": "2026-10-22T10:42:13.000Z"
+        },
+        {
+          "title": "Ministro de Seguridad sobre policía que intentó meter celular a cárcel donde está ‘Diablo’: «no puedo despedirlo sin un órgano administrativo»",
+          "link": "https://semanariouniversidad.com/pais/ministro-de-seguridad-sobre-policia-que-intento-meter-celular-a-carcel-donde-esta-diablo-no-puedo-despedirlo-sin-un-organo-administrativo/",
+          "summary": "Gerald Campos y Laura Fernández señalan que no puede haber sanciones hasta que se haga la investigación interna y descartan que el oficial sea hijo de uno de los guardaespaldas de Rodrigo Chaves, aunque el papá sí es…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-4.07.24-PM.jpeg",
+          "publishedAt": "2026-10-21T23:45:16.000Z"
+        },
+        {
+          "title": "PPSO vota en contra de moción para investigar nexos entre el oro de Crucitas, lavado de dinero y financiamiento político",
+          "link": "https://semanariouniversidad.com/pais/ppso-vota-en-contra-de-mocion-para-investigar-nexos-entre-el-oro-de-crucitas-lavado-de-dinero-y-financiamiento-politico/",
+          "summary": "En la sesión de ayer de la Comisión de Ambiente votaron en contra de la moción los oficialistas Zaira Murillo, Ariel Mora, Ana Ruth Esquivel, Stephan Brunner y Juan Manuel Quesada. La entrada PPSO vota en contra de…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/10/foto-nota-mineria-1024x682.jpg",
+          "publishedAt": "2026-10-21T22:43:13.000Z"
+        },
+        {
+          "title": "Problemas continúan: Sindicato de Enfermería reporta pagos parciales a trabajadores, pese a promesa de la CCSS",
+          "link": "https://semanariouniversidad.com/pais/problemas-continuan-sindicato-de-enfermeria-reporta-pagos-parciales-a-trabajadores-pese-a-promesa-de-la-ccss/",
+          "summary": "El Sindicato Nacional de Enfermería y Afines denunció que existen funcionarios de la CCSS que apenas recibieron ₡40.000 en el último pago bisemanal. La entrada Problemas continúan: Sindicato de Enfermería reporta pagos…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/10/20260917_102454-1024x768-1.jpg",
+          "publishedAt": "2026-10-21T22:18:34.000Z"
+        },
+        {
+          "title": "Fernández anuncia nuevo plan de reforma eléctrica que no requiera votos de «terroristas políticos»",
+          "link": "https://semanariouniversidad.com/pais/fernandez-anuncia-nuevo-plan-de-reforma-electrica-que-no-requiera-votos-de-terroristas-politicos/",
+          "summary": "Reacción del Ejecutivo tras fracasar en promover proyecto de \"armonización eléctrica\" por falta de votos de la oposición La entrada Fernández anuncia nuevo plan de reforma eléctrica que no requiera votos de «terroristas…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/01/027_ICE_edificio-central_instituto-costarricense-de-electricidad-1024x683-1.jpg",
+          "publishedAt": "2026-10-21T21:53:26.000Z"
+        },
+        {
+          "title": "Hacendarios dictaminó presupuesto 2027 con reacomodos por ₡313 mil millones y limitaciones a universidades y Poder Judicial",
+          "link": "https://semanariouniversidad.com/pais/hacendarios-dictamino-presupuesto-2027-con-reacomodos-por-%e2%82%a1313-mil-millones-y-limitaciones-a-universidades-y-poder-judicial/",
+          "summary": "También quedó dictaminado segundo presupuesto extraordinario de 2026, con reducción de gastos por ₡167 mil millones, por caída en ingresos por mas de ₡350 mil millones La entrada Hacendarios dictaminó presupuesto 2027…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/10/Nogui-y-Gretel-en-H-1024x682.jpg",
+          "publishedAt": "2026-10-21T20:40:33.000Z"
+        },
+        {
+          "title": "Sindicatos y empresarios pusieron propuesta de ajuste salarial sobre la mesa: el lunes lo hará el gobierno",
+          "link": "https://semanariouniversidad.com/pais/sindicatos-y-empresarios-pusieron-propuesta-de-ajuste-salarial-sobre-la-mesa-el-lunes-lo-hara-el-gobierno/",
+          "summary": "Los trabajadores plantearon un aumento por costo de vida de 2,23% y 1,70%, mientras que los patronos coincidieron con un 1,70%. La entrada Sindicatos y empresarios pusieron propuesta de ajuste salarial sobre la mesa: el…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-5.45.29-PM-1024x768.jpeg",
+          "publishedAt": "2026-10-21T20:33:42.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "el-observador-cr",
+        "name": "El Observador",
+        "homepage": "https://observador.cr",
+        "lang": "es-CR"
+      },
+      "fetchedAt": "2026-10-22T15:10:32.594Z",
+      "items": [
+        {
+          "title": "Amor prohibido y una leyenda de 1.200 años: la ópera japonesa que agotó sus entradas en Costa Rica",
+          "link": "https://observador.cr/amor-prohibido-y-una-leyenda-de-1-200-anos-la-opera-japonesa-que-agoto-sus-entradas-en-costa-rica/",
+          "summary": "La historia se desarrolla en la antigua provincia japonesa de Sagami, donde una joven monja y un pescador se enamoran en secreto. The post Amor prohibido y una leyenda de 1.200 años: la ópera japonesa que agotó sus…",
+          "publishedAt": "2026-10-22T14:50:00.000Z"
+        },
+        {
+          "title": "Fotos | Los secretos de una lujosa casa de Uvita: 357 paquetes de cocaína y armas fabricadas con tecnología 3D",
+          "link": "https://observador.cr/fotos-los-secretos-de-una-lujosa-casa-de-uvita-357-paquetes-de-cocaina-y-armas-fabricadas-con-tecnologia-3d/",
+          "summary": "Según la PCD, una organización narcotraficante utilizaba esta propiedad como un sitio de almacenamiento. The post Fotos | Los secretos de una lujosa casa de Uvita: 357 paquetes de cocaína y armas fabricadas con…",
+          "publishedAt": "2026-10-22T06:05:00.000Z"
+        },
+        {
+          "title": "El Niño podría mantenerse en Costa Rica hasta julio de 2027 o prolongarse más, según el IMN",
+          "link": "https://observador.cr/el-nino-podria-mantenerse-en-costa-rica-hasta-julio-de-2027-o-prolongarse-mas-segun-el-imn/",
+          "summary": "El fenómeno de El Niño podría mantenerse al menos hasta julio de 2027, un mes más de lo contemplado en las proyecciones anteriores del Instituto Meteorológico Nacional (IMN). Sin embargo, todavía no existe certeza de que…",
+          "publishedAt": "2026-10-22T06:01:00.000Z"
+        },
+        {
+          "title": "Oficialismo recomienda no reelegir por 8 años más a magistrada Patricia Solano; PLN y el Frente Amplio la respaldan",
+          "link": "https://observador.cr/oficialismo-recomienda-no-reelegir-por-8-anos-mas-a-magistrada-patricia-solano-pln-y-el-frente-amplio-la-respaldan/",
+          "summary": "Presidenta de la Sala Tercera es candidata a la presidencia de la Corte Suprema de Justicia The post Oficialismo recomienda no reelegir por 8 años más a magistrada Patricia Solano; PLN y el Frente Amplio la respaldan…",
+          "publishedAt": "2026-10-22T02:51:34.000Z"
+        },
+        {
+          "title": "TEC aplaza resultados de admisión por incertidumbre sobre presupuesto universitario",
+          "link": "https://observador.cr/tec-aplaza-resultados-de-admision-por-incertidumbre-sobre-presupuesto-universitario/",
+          "summary": "La institución aplicó la prueba a 16.227 estudiantes y espera recibir a cerca de 2.400 nuevos alumnos en 2027. La publicación de las notas quedó suspendida hasta nuevo aviso. The post TEC aplaza resultados de admisión…",
+          "publishedAt": "2026-10-22T02:47:26.000Z"
+        },
+        {
+          "title": "Privado de libertad muere tras ataque a tablazos durante intento de motín en cárcel de Puntarenas",
+          "link": "https://observador.cr/privado-de-libertad-muere-tras-ataque-a-tablazos-durante-intento-de-motin-en-carcel-de-puntarenas/",
+          "summary": "Los disturbios involucraron a 132 reclusos del ámbito A y requirieron la intervención de la Policía Penitenciaria. The post Privado de libertad muere tras ataque a tablazos durante intento de motín en cárcel de…",
+          "publishedAt": "2026-10-22T02:42:09.000Z"
+        },
+        {
+          "title": "Gerald Campos dio información de seguridad a Manuel Tovar para reunión del Escudo de las Américas, reconoce la presidenta",
+          "link": "https://observador.cr/gerald-campos-dio-informacion-de-seguridad-a-manuel-tovar-para-reunion-del-escudo-de-las-americas-reconoce-la-presidenta/",
+          "summary": "Cancillería confirmó que no trasladó la invitación a Casa Presidencial. The post Gerald Campos dio información de seguridad a Manuel Tovar para reunión del Escudo de las Américas, reconoce la presidenta appeared first on…",
+          "publishedAt": "2026-10-22T02:11:00.000Z"
+        },
+        {
+          "title": "Capturan en Nicaragua a sospechoso de asesinar a su esposa e hija en Liberia; él sería juzgado en ese país, reporta prensa local",
+          "link": "https://observador.cr/capturan-en-nicaragua-a-sospechoso-de-asesinar-a-su-esposa-e-hija-en-liberia-el-seria-juzgado-en-ese-pais-reporta-prensa-local/",
+          "summary": "Rafael Antonio Valdez García fue detenido este miércoles en Jinotega y será juzgado en ese país. The post Capturan en Nicaragua a sospechoso de asesinar a su esposa e hija en Liberia; él sería juzgado en ese país,…",
+          "publishedAt": "2026-10-22T01:47:42.000Z"
+        },
+        {
+          "title": "Castraciones para perros y gatos desde ¢15.500: conozca dónde y cuándo será esta jornada en Heredia",
+          "link": "https://observador.cr/castraciones-para-perros-y-gatos-desde-15-500-conozca-donde-y-cuando-sera-esta-jornada-en-heredia/",
+          "summary": "La actividad se realizará el domingo 25 de octubre en la Universidad Hispanoamericana. Se atenderá solo con cita previa. The post Castraciones para perros y gatos desde ¢15.500: conozca dónde y cuándo será esta jornada…",
+          "publishedAt": "2026-10-22T01:30:00.000Z"
+        },
+        {
+          "title": "Salud reporta 66 casos sospechosos y dos hospitalizados por salmonela en Hospital Cima",
+          "link": "https://observador.cr/salud-reporta-66-casos-sospechosos-y-dos-hospitalizados-por-salmonela-en-hospital-cima/",
+          "summary": "Brote entre trabajadores del centro médico se detectó el 16 de octubre. The post Salud reporta 66 casos sospechosos y dos hospitalizados por salmonela en Hospital Cima appeared first on El Observador CR.",
+          "publishedAt": "2026-10-22T01:17:02.000Z"
+        }
+      ]
+    }
+  ]
+}

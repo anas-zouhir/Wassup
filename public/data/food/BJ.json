@@ -1,0 +1,60 @@
+{
+  "country": "BJ",
+  "dishes": [
+    {
+      "id": "amiwo",
+      "name": "Amiwo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Amiwo%20recipe",
+      "description": "Amiwo is a traditional dish in Benin, consisting of a savory pudding made from spices (onions, garlic, black pepper, salt), cornflour and tomato paste, cooking oil or more traditionally palm oil. It is often served as a side with fried or grilled chicken or fish and a fresh tomato and onion relish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Un_plats_d%27amiwo_au_poisson_au_benin.jpg/500px-Un_plats_d%27amiwo_au_poisson_au_benin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Amiwo"
+    },
+    {
+      "id": "akassa",
+      "name": "Akassa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Akassa%20recipe",
+      "description": "Akassa, is an Ijaw town at the southernmost tip of Nigeria in Brass LGA, Bayelsa State where the Nun River estuary meets the Atlantic Ocean. It has a lighthouse that has stood since 1910, Akassa Lighthouse.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Akassa_on_a_John_Bartholomew_%26_Co._map_published_c._1914_%28part%29.jpg/500px-Akassa_on_a_John_Bartholomew_%26_Co._map_published_c._1914_%28part%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Akassa"
+    },
+    {
+      "id": "wagasi",
+      "name": "Wagasi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Wagasi%20recipe",
+      "description": "Wagasi is a type of West African cheese made from cow's milk. It is commonly made in northern Benin. It is sold in abundance in Parakou, a city in central Benin.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Wagasi.jpg/500px-Wagasi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wagasi"
+    },
+    {
+      "id": "kuli-kuli",
+      "name": "Kuli-kuli",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kuli-kuli%20recipe",
+      "description": "Kuli-kuli is a Nigerian snack primarily made from peanuts, first made by the Nupe people of Nigeria. It is a popular snack in Nigeria, Benin, northern Cameroon and Ghana. Today kuli-kuli is accepted across the globe.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kulikuli.jpg/500px-Kulikuli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kuli-kuli"
+    },
+    {
+      "id": "akpan",
+      "name": "Akpan",
+      "videoSearch": "https://www.youtube.com/results?search_query=Akpan%20recipe",
+      "description": "Akpan, also known as akassa, is a fermented maize yogurt. A product of Togolese and Beninese cuisine, it is considered a dessert.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Akpan.JPG/500px-Akpan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Akpan_(dessert)"
+    },
+    {
+      "id": "ogi",
+      "name": "Ogi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ogi%20recipe",
+      "description": "Ogi, pap, eko, koko or akamu is a cereal pudding and street food in Nigeria, Benin and Togo., typically made from maize, sorghum, or millet. Traditionally, the grains are soaked in water for up to three days, before wet-milling or grinding, sieving to remove husks, and straining.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Ogi%3BPap.jpg/500px-Ogi%3BPap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ogi_(food)"
+    },
+    {
+      "id": "choukachou",
+      "name": "Choukachou",
+      "videoSearch": "https://www.youtube.com/results?search_query=Choukachou%20recipe",
+      "description": "Choukachou or chouk is a Beninese type of millet beer. It is widely consumed in northern Benin and the city of Parakou is an important centre for brewing. The beer is transported to southern Benin via the railway or road.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Choukachou"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "country": "CL",
+  "dishes": [
+    {
+      "id": "pastel-de-choclo",
+      "name": "Pastel de choclo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pastel%20de%20choclo%20recipe",
+      "description": "Pastel de choclo (\"corn pie\" or \"corn cake\") is a South American dish made from sweetcorn or choclo. It is similar to the pastel de elote found in Mexican cuisine and to the English corn pudding. The filling usually contains ground beef, chicken, raisins, black olives, onions, or slices of hard boiled egg.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Pastel_de_choclo.jpg/500px-Pastel_de_choclo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pastel_de_choclo"
+    },
+    {
+      "id": "empanadas-de-pino",
+      "name": "Empanadas de pino",
+      "videoSearch": "https://www.youtube.com/results?search_query=Empanadas%20de%20pino%20recipe",
+      "description": "An empanada is a type of baked or fried turnover consisting of pastry and filling, common in Spain, Portugal, other Southern European countries, North African countries, West African countries (where they are known as meatpies in Ghana and Nigeria), South Asian countries, Latin American countries, and the Philippines.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Tapa_de_empanadillitas.JPG/500px-Tapa_de_empanadillitas.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Empanada",
+      "recipe": {
+        "ingredients": [
+          "1 tsp salt",
+          "2–3 cups cold water",
+          "1 kg (about 8 cups) flour",
+          "2 eggs",
+          "200 g (about 1 cup) butter or margarine",
+          "Olive oil",
+          "Cornstarch",
+          "1 kg ground beef",
+          "1 large onion",
+          "2 tbsp vegetable oil",
+          "2 tbsp sugar",
+          "1 ½ tsp black pepper",
+          "1 ½ tsp paprika",
+          "1 tsp salt",
+          "½ tsp ground cumin (comino), optional. Cumin is very invasive and gives the filling a whole different flavor.",
+          "½ tsp ground cinnamon",
+          "¼ tsp nutmeg",
+          "¼ tsp cloves",
+          "½ cup raisins",
+          "Green olives (optional)",
+          "Diced hard-boiled egg (optional)",
+          "Diced boiled potatoes (optional)",
+          "1 kg ground beef",
+          "2 cloves garlic",
+          "3 large onion",
+          "2 tbsp olive oil",
+          "1 tbsp sugar",
+          "1 ½ tsp black pepper",
+          "1 ½ tsp paprika",
+          "1 tsp salt",
+          "½ tsp ground cumin (comino)",
+          "1 bay leaf",
+          "½ cup raisins",
+          "Black olives",
+          "Diced hard-boiled egg"
+        ],
+        "steps": [
+          "Dissolve salt in water.",
+          "Mix eggs, flour, butter and 1 cup of water to form a dough. While kneading the dough, gradually add in more water until the dough is soft and stretchy. If the dough becomes sticky, add more flour.",
+          "Once the dough is the desired consistency, allow to rest for a couple minutes, then roll it out to a thickness of ~2–3 mm (1/10 inch).",
+          "Cut the dough into discs roughly 10–15 cm (4–6 inches) in diameter.",
+          "Dice onion into small pieces and sauté in vegetable oil in a large frying pan. Add ground beef, and brown it.",
+          "While beef is browning, mix in salt, sugar and spices.",
+          "Once meat has finished cooking, remove from heat and add raisins.",
+          "If desired add sliced olives, egg, or potatoes.",
+          "Dice onion into small pieces and sauté in olive oil in a large frying pan. Mince garlic and add to the onions. Add and brown ground beef.",
+          "While beef is browning, mix in salt, sugar, spices and bay leaf.",
+          "Allow to simmer for about 20 minutes for flavours to blend.",
+          "Remove bay leaf, and add olives and raisins.",
+          "Place 1–2 tablespoons of empanada filling into the center of one of the dough discs (tapa).",
+          "If Chilean empanadas are being made add one piece of the diced hardboiled egg next to the filling.",
+          "Wet the outer edge of the tapa with cold water and fold the tapa in half to encase the filling, ensuring there is no air left inside (the wet portion will help the dough stick together, air will burst out when cooked).",
+          "Holding the empanada in the palm of one hand, with the round edge pointing outwards, pinch and twist over a small (finger-sized) portion of the dough at the top. Continue pinching and twisting around the outer edge until you reach the bottom of the empanada, so that the open edge is sealed shut. You can also use a fork to smash together the lips of the outer edge, but it is not the traditional way and the filling can burst through.",
+          "Repeat for the remaining filling and dough.",
+          "To cook the empanadas, deep fry in vegetable oil on medium heat until golden brown. Alternatively, you can brush them with butter and bake on a cookie sheet in the oven at 400 °F for 8–10 minutes or until light brown.",
+          "Allow empanadas to cool and then eat."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AEmpanada"
+      }
+    },
+    {
+      "id": "cazuela",
+      "name": "Cazuela",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cazuela%20recipe",
+      "description": "Cazuela is the common name given to a variety of dishes, especially from South America. It receives its name from the cazuela (Spanish for 'cooking pot')—traditionally, an often shallow pot made of unglazed earthenware used for cooking.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Cazuela_ecuatoriana.jpg/500px-Cazuela_ecuatoriana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cazuela"
+    },
+    {
+      "id": "curanto",
+      "name": "Curanto",
+      "videoSearch": "https://www.youtube.com/results?search_query=Curanto%20recipe",
+      "description": "Curanto (from Mapudungun: kurantu 'stony') is a traditional Chilote method of cooking food using heated rocks buried in an earth oven that is covered with pangue leaves and turf.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Destape_de_curanto.JPG/500px-Destape_de_curanto.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Curanto"
+    },
+    {
+      "id": "sopaipillas",
+      "name": "Sopaipillas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sopaipillas%20recipe",
+      "description": "A sopaipilla, sopapilla, sopaipa, torta frita or cachanga is a kind of fried pastry and a type of quick bread served in several regions with Spanish heritage in the Americas. The word sopaipilla is the diminutive of sopaipa, a word that entered Spanish from the Mozarabic language of Al-Andalus.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sopapillas.jpg/500px-Sopapillas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sopaipilla"
+    },
+    {
+      "id": "completo",
+      "name": "Completo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Completo%20recipe",
+      "description": "The completo (Spanish for \"complete\", \"total\"; in the sense of \"the works\") is a hot dog variation eaten in Chile, usually served with ingredients such as chopped tomatoes, avocados, mayonnaise, sauerkraut, ketchup, mustard. It can be twice the size of an American hot dog.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Completo_italiano.jpg/500px-Completo_italiano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Completo"
+    },
+    {
+      "id": "porotos-granados",
+      "name": "Porotos granados",
+      "videoSearch": "https://www.youtube.com/results?search_query=Porotos%20granados%20recipe",
+      "description": "Porotos granados is a traditional Chilean countryside stew made mainly of ripe cranberry beans, maize kernels and squash. Other common ingredients are onions, and herbs such as cumin, basil and oregano. Pumpkin is also used in some recipes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Porotos_granados_and_Chilean_salad.jpg/500px-Porotos_granados_and_Chilean_salad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Porotos_granados"
+    },
+    {
+      "id": "charquican",
+      "name": "Charquicán",
+      "videoSearch": "https://www.youtube.com/results?search_query=Charquic%C3%A1n%20recipe",
+      "description": "Charquicán is the dry meat popular in Incas times, used in different dishes around the Andean region. Charquican in Chile is a popular stew. A similar dish eaten in Northwest Argentina is called charquisillo, a dish made with ch’arki and rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Charquic%C3%A1n.png/500px-Charquic%C3%A1n.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charquic%C3%A1n"
+    },
+    {
+      "id": "humitas",
+      "name": "Humitas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Humitas%20recipe",
+      "description": "Huminta (from Quechua umint'a), huma (from Quechua possibly uma head) or humita (possibly employing the Spanish diminutive -ita) is a dish that dates back to pre-Hispanic times. A traditional food, it can be found in Peru, Bolivia, Chile, Ecuador, and Northwest Argentina.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Humitas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Humita"
+    },
+    {
+      "id": "chorrillana",
+      "name": "Chorrillana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Chorrillana%20recipe",
+      "description": "Chorrillana is a Chilean dish consisting of a plate of salted French fries topped with different types of sliced meat, sausages and other ingredients, most commonly scrambled or fried eggs, and caramelized onions. It is commonly served as a comfort food in bars.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Chorrillana.jpg/500px-Chorrillana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chorrillana"
+    },
+    {
+      "id": "mote-con-huesillo",
+      "name": "Mote con huesillo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mote%20con%20huesillo%20recipe",
+      "description": "Mote con huesillo is a traditional Chilean summer-time drink often sold in street stands or vendor carts.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Mote_con_huesillo.jpg/500px-Mote_con_huesillo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mote_con_huesillo"
+    },
+    {
+      "id": "pebre",
+      "name": "Pebre",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pebre%20recipe",
+      "description": "Pebre is a Chilean condiment made with coriander, parsley, chopped onion, vinegar, a neutral oil, ground or pureed spicy ají, and usually chopped tomatoes. Pebre is most commonly used on bread. It is also used on meat, or when meat such as choripán is provided in a bread roll.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Pebre_chileno.jpg/500px-Pebre_chileno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pebre"
+    },
+    {
+      "id": "machas-a-la-parmesana",
+      "name": "Machas a la parmesana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Machas%20a%20la%20parmesana%20recipe",
+      "description": "Machas a la parmesana or “Parmesan machas” is a dish made with the macha. This is a saltwater clam, a bivalve that is native to Chile. It was harvested by ancient fishermen of these two countries.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/500px-Flag_of_Chile.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Machas_a_la_parmesana"
+    },
+    {
+      "id": "caldillo-de-congrio",
+      "name": "Caldillo de congrio",
+      "videoSearch": "https://www.youtube.com/results?search_query=Caldillo%20de%20congrio%20recipe",
+      "description": "Caldillo de congrio (Spanish for cusk-eel stock) is a Chilean fish soup. The dish is made of congrio dorado (pink cusk-eel) or congrio colorado (red cusk-eel), cusk-eel species common in the Chilean Sea. The dish is made by boiling together fish heads, onion, garlic, coriander, carrots, and pepper.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Caldillo_de_congrio.jpg/500px-Caldillo_de_congrio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Caldillo_de_congrio"
+    }
+  ]
+}

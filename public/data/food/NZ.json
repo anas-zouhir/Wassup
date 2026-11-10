@@ -1,0 +1,165 @@
+{
+  "country": "NZ",
+  "dishes": [
+    {
+      "id": "hangi",
+      "name": "Hāngī",
+      "videoSearch": "https://www.youtube.com/results?search_query=H%C4%81ng%C4%AB%20recipe",
+      "description": "Hāngī is a traditional New Zealand Māori method of cooking food using heated rocks buried in a pit oven, called an umu.‍ It is still used for large groups on special occasions, as it allows large quantities of food to be cooked without the need for commercial cooking appliances.‍",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hangi_prepare.jpg/500px-Hangi_prepare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/H%C4%81ng%C4%AB"
+    },
+    {
+      "id": "pavlova",
+      "name": "Pavlova",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pavlova%20recipe",
+      "description": "Pavlova is a meringue-based dessert. Originating in either Australia or New Zealand in the early 20th century, it was named after the Russian ballerina Anna Pavlova. Taking the form of a cake-like circular block of baked meringue, pavlova has a crisp crust and soft, light inside.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Pavlova_dessert.JPG/500px-Pavlova_dessert.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pavlova",
+      "recipe": {
+        "ingredients": [
+          "3 egg whites",
+          "3 tablespoons water",
+          "250 g (9 oz) caster sugar",
+          "1 pinch salt",
+          "5 ml (1 tsp) vinegar",
+          "5 ml (1 tsp) vanilla extract",
+          "1 tsp cornstarch (optional)",
+          "Heavy cream",
+          "Powdered sugar to taste",
+          "Cut fruit and/or berries"
+        ],
+        "steps": [
+          "Whip the egg whites and salt to a very stiff consistency. Add water and beat again before folding in caster sugar, vanilla and vinegar. Whip until the mixture holds its shape and stands in sharp peaks.",
+          "Spread the mixture onto a baking sheet lined with parchment paper.",
+          "Slow-bake the mixture at 150°C (300°F) to dry all the moisture and create the meringue, approximately 45 minutes. This leaves the outside of the pavlova a crisp crunchy shell, while the interior remains soft and moist. Let cool.",
+          "Whip the cream and powdered sugar to medium peaks. Spread the whipped cream on top of the meringue.",
+          "Arrange the fruit on top of the whipped cream layer. Serve immediately."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APavlova"
+      }
+    },
+    {
+      "id": "meat-pie",
+      "name": "Mince and cheese pie",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mince%20and%20cheese%20pie%20recipe",
+      "description": "In Australia and New Zealand, a meat pie is a handheld meat pie containing diced or minced meat and gravy, sometimes with other ingredients, in a piecrust. It is often consumed as a takeaway food snack.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Meat_pie.jpg/500px-Meat_pie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Meat_pie_(Australia_and_New_Zealand)"
+    },
+    {
+      "id": "hokey-pokey",
+      "name": "Hokey pokey ice cream",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hokey%20pokey%20ice%20cream%20recipe",
+      "description": "Hokey pokey is a flavour of ice cream in New Zealand and Australia consisting of plain vanilla ice cream with small, solid lumps of honeycomb toffee. Hokey pokey is the New Zealand term for honeycomb toffee.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Honeycomb_ice_cream_and_hot_toffee_sauce_%285725734559%29.jpg/500px-Honeycomb_ice_cream_and_hot_toffee_sauce_%285725734559%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hokey_pokey_(ice_cream)"
+    },
+    {
+      "id": "lolly-cake",
+      "name": "Lolly cake",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lolly%20cake%20recipe",
+      "description": "A lolly cake or lolly log is an unbaked New Zealand sweet dish that features malt, butter, and lollies (typically explorer candy or fruit puff sweets) as key ingredients.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Lolly_cakes_20231119_140506_%28cropped%29.jpg/500px-Lolly_cakes_20231119_140506_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lolly_cake",
+      "recipe": {
+        "ingredients": [
+          "250 g (1 packet) malt biscuits",
+          "1 pinch of cinnamon (optional)",
+          "120 g (1.5 sticks) of butter",
+          "200 g (½ can or 7 ounces) condensed milk",
+          "180 g (1 packet) Fruit Puffs",
+          "Shredded coconut"
+        ],
+        "steps": [
+          "Crush the biscuits. They don't need to be a fine dust—some pieces can be left partially-crushed to give the cake a nicer texture.",
+          "Mix in cinnamon, if you want it.",
+          "Warm the butter and condensed milk in the microwave for 30 seconds until the butter is very soft. It's okay if the butter melts a bit.",
+          "Cut the fruit puffs in half if you want or leave them whole.",
+          "Mix the fruit puffs with the crushed biscuits, then add the butter and condensed milk. Mix well.",
+          "Roll the mixture into a log shape, or roll small amounts into little balls.",
+          "Roll the log or balls in the shredded coconut until completely covered.",
+          "Place on a tray and cover with plastic wrap to keep moist. Chill for several hours in the fridge until hardened.",
+          "Cut cake while still cold before it warms up again"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALolly_Cake"
+      }
+    },
+    {
+      "id": "afghan-biscuit",
+      "name": "Afghan biscuit",
+      "videoSearch": "https://www.youtube.com/results?search_query=Afghan%20biscuit%20recipe",
+      "description": "An Afghan is a traditional New Zealand biscuit made from flour, butter, cornflakes, sugar and cocoa powder, topped with chocolate icing and a half walnut.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Afghan_II_MRD.jpg/500px-Afghan_II_MRD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Afghan_(biscuit)"
+    },
+    {
+      "id": "boil-up",
+      "name": "Boil-up",
+      "videoSearch": "https://www.youtube.com/results?search_query=Boil-up%20recipe",
+      "description": "Boil up is a traditional Māori food from New Zealand. Boil up traditionally is a broth-based soup made from a balanced combination of meat and bones (such as pork), with greens such as pūhā, watercress or cabbage, and kūmara or potatoes, boiled together, along with flour dumplings known as \"doughboys\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Maori_boil_up.jpg/500px-Maori_boil_up.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boil_up"
+    },
+    {
+      "id": "rewena",
+      "name": "Rēwena bread",
+      "videoSearch": "https://www.youtube.com/results?search_query=R%C4%93wena%20bread%20recipe",
+      "description": "Rēwena bread or Māori bread (Māori: parāoa rēwena; literally 'flour leaven') is a type of sourdough bread from New Zealand. The bread is leavened with a fermented potato starter. It originated amongst the Māori people and is closely associated with Māori cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Rewena.jpg/500px-Rewena.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/R%C4%93wena_bread"
+    },
+    {
+      "id": "colonial-goose",
+      "name": "Colonial goose",
+      "videoSearch": "https://www.youtube.com/results?search_query=Colonial%20goose%20recipe",
+      "description": "Colonial goose is a preparation of roast leg of lamb or mutton popular as a dish in New Zealand until the last quarter of the 20th century. Early colonial pioneers in New Zealand had sheep aplenty, but goose was relatively scarce.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Colonial_goose",
+      "recipe": {
+        "ingredients": [
+          "1 large leg of mutton",
+          "30 g (2 Tbsp) butter",
+          "1 large tablespoon clear honey",
+          "125 g (½ cup) dried apricots, finely diced",
+          "1 medium-sized onion, finely diced",
+          "1 cup fresh bread crumbs",
+          "¼ teaspoon of salt",
+          "¼ teaspoon of dried thyme",
+          "Freshly-ground black pepper",
+          "1 beaten egg",
+          "250 g (1 cup / 1–2 ea.) sliced carrots",
+          "2 large onions, sliced",
+          "1 bay leaf",
+          "3–4 crushed parsley stalks",
+          "1 not-quite-full cup of red wine such as claret"
+        ],
+        "steps": [
+          "To prepare the stuffing, melt the butter and honey over low heat, add the other ingredients, and combine well.",
+          "Force the stuffing into the cavity in the meat, and sew it up with fine string.",
+          "Combine all marinade ingredients.",
+          "Place the leg into a plastic bag in a large bowl, and add the marinade mixture to the bag. Let marinate for 8 hours.",
+          "Bake mutton in oven at 180 °C for 2 hours, checking on progress at 90 minutes. If the meat looks like it is over-browning, it can be covered by foil.",
+          "Remove the string before carving.",
+          "Strain the marinade and use 3–4 tablespoons of the liquor to make gravy."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AColonial_Goose"
+      }
+    },
+    {
+      "id": "louise-cake",
+      "name": "Louise cake",
+      "videoSearch": "https://www.youtube.com/results?search_query=Louise%20cake%20recipe",
+      "description": "A Louise cake or Louise slice is a baked New Zealand sweet dish that consists of raspberry jam and coconut-flavoured meringue on a shortbread base. The confection's name may refer to the 1871 wedding of Princess Louise.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/WikiCon_Wellington_2023_SAC_3543_%28cropped%29.jpg/500px-WikiCon_Wellington_2023_SAC_3543_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louise_cake"
+    },
+    {
+      "id": "kiwi-onion-dip",
+      "name": "Kiwi onion dip",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kiwi%20onion%20dip%20recipe",
+      "description": "Kiwi onion dip is a type of dipping sauce eaten in New Zealand. Often referred to as 'kiwi dip', 'onion dip' or 'original kiwi dip', it consists of a packet of powdered onion soup stirred into a can of reduced cream, sometimes with lemon juice or malt vinegar added, which is then left to refrigerate and thicken.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Kiwi_Dip.jpg/500px-Kiwi_Dip.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kiwi_onion_dip"
+    }
+  ]
+}

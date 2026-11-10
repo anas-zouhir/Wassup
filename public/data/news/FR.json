@@ -1,0 +1,248 @@
+{
+  "country": "FR",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "le-monde",
+        "name": "Le Monde",
+        "homepage": "https://www.lemonde.fr",
+        "lang": "fr"
+      },
+      "fetchedAt": "2026-10-22T15:10:59.371Z",
+      "items": [
+        {
+          "title": "« Manifester n’est plus un droit, mais un risque qu’on doit prendre » : pour les manifestants du 17 octobre, la question d’y retourner ou pas",
+          "link": "https://www.lemonde.fr/politique/article/2026/10/22/manifester-n-est-plus-un-droit-mais-un-risque-qu-on-doit-prendre-pour-les-manifestants-du-17-octobre-la-question-d-y-retourner-ou-pas_6798554_823448.html",
+          "summary": "Ils se sont mobilisés le 17 octobre et restent sidérés par cette journée marquée par les pillages de commerces, les dégradations de bâtiments publics, mais aussi par les quantités de gaz lacrymogènes tirés sur des…",
+          "image": "https://img.lemde.fr/2026/10/17/0/0/7008/3504/644/322/60/0/deed0c2_upload-1-g6yokedpk3ag-besancon-171026-manif-26.jpg",
+          "publishedAt": "2026-10-22T03:45:05.000Z"
+        },
+        {
+          "title": "Nicolas Dufrêne, l’homme qui a soufflé l’idée de l’annulation de la dette à Jean-Luc Mélenchon",
+          "link": "https://www.lemonde.fr/economie/article/2026/10/22/nicolas-dufrene-l-homme-qui-a-souffle-l-idee-de-l-annulation-de-la-dette-a-jean-luc-melenchon_6798567_3234.html",
+          "summary": "Haut fonctionnaire, le directeur de l’Institut Rousseau, un cercle de réflexion économique, bataille pour imposer l’idée d’un effacement de la dette possédée par la BCE. Décryptage des arguments économiques, politiques…",
+          "image": "https://img.lemde.fr/2026/10/21/65/0/6016/3008/644/322/60/0/d020c77_upload-1-fyuosqnl5y2s-2023-jardin-des-tuileries-photo-ophe-lie-coelho.JPG",
+          "publishedAt": "2026-10-22T04:00:50.000Z"
+        },
+        {
+          "title": "Face à la Russie, les pays du nord et de l’est de l’Europe préparent leurs sociétés à la guerre",
+          "link": "https://www.lemonde.fr/international/article/2026/10/22/face-a-la-russie-les-pays-du-nord-et-de-l-est-de-l-europe-preparent-leurs-societes-a-la-guerre_6798568_3210.html",
+          "summary": "Abris antibombes, réserves stratégiques, plans d’évacuation… Depuis 2022, les pays européens frontaliers de la Russie investissent dans la défense civile, mobilisant tous les pans de leurs sociétés.",
+          "image": "https://img.lemde.fr/2026/10/20/1002/0/4000/2000/644/322/60/0/4f51e4b_upload-1-zb7grsafw7td-raf-bunker-044.JPG",
+          "publishedAt": "2026-10-22T04:00:28.000Z"
+        },
+        {
+          "title": "En remettant le prix Sakharov à la Cour pénale internationale, le Parlement européen affiche sa fermeté face à Washington",
+          "link": "https://www.lemonde.fr/international/article/2026/10/22/en-remettant-le-prix-sakharov-a-la-cour-penale-internationale-le-parlement-europeen-affiche-sa-fermete-face-a-washington_6798633_3210.html",
+          "summary": "La CPI est menacée de démantèlement par le pouvoir américain, qui a déjà sanctionné certains de ses juges et exige de la Cour l’interdiction des poursuites judiciaires contre tout ressortissant Américain ou allié.",
+          "image": "https://img.lemde.fr/2026/10/22/1187/0/7935/3967/644/322/60/0/9e95efe_ftp-1-xs8oz5xc0siy-afp-d4398we.jpg",
+          "publishedAt": "2026-10-22T14:39:46.000Z"
+        },
+        {
+          "title": "« Commerçants, femmes, enfants… ils n’ont épargné personne » : plus de 150 civils tués dans une frappe de drone à la frontière entre le Soudan et le Soudan du Sud",
+          "link": "https://www.lemonde.fr/afrique/article/2026/10/22/commercants-femmes-enfants-ils-n-ont-epargne-personne-plus-de-150-civils-tues-dans-une-frappe-de-drone-a-la-frontiere-entre-le-soudan-et-le-soudan-du-sud_6798599_3212.html",
+          "summary": "Les forces armées soudanaises sont suspectées d’avoir visé un marché transfrontalier bondé de civils, lundi 19 octobre, dans une zone où leurs adversaires, les Forces de soutien rapide, se ravitaillent.",
+          "image": "https://img.lemde.fr/2026/10/20/510/0/4080/2040/644/322/60/0/8265f18_ftp-1-cqiyxj9dcczp-2026-10-20t122746z-556031550-rc2w6oac0lan-rtrmadp-3-southsudan-sudan-security.JPG",
+          "publishedAt": "2026-10-22T09:31:34.000Z"
+        },
+        {
+          "title": "Failles PHP : pourquoi ces vulnérabilités perturbent votre navigation sur Internet",
+          "link": "https://www.lemonde.fr/pixels/article/2026/10/22/failles-php-pourquoi-ces-vulnerabilites-perturbent-votre-navigation-sur-internet_6798629_4408996.html",
+          "summary": "De nombreux sites à travers le monde sont en maintenance et donc inaccessibles, après la découverte de deux failles majeures, baptisées « PHP2Shell », qui affectent le langage PHP, utilisé à grande échelle sur le Web.",
+          "image": "https://img.lemde.fr/2026/10/22/272/0/4000/2000/644/322/60/0/eeb6791_ftp-1-fzotyws6e8fz-2026-10-22t114858z-1429938995-rc2b8oacka8v-rtrmadp-3-cybersecurity-php.JPG",
+          "publishedAt": "2026-10-22T14:26:59.000Z"
+        },
+        {
+          "title": "Présidentielle 2027 : en pleine crise sociale, Edouard Philippe défend ses propositions pour les familles",
+          "link": "https://www.lemonde.fr/politique/article/2026/10/22/presidentielle-2027-en-pleine-crise-sociale-edouard-philippe-defend-ses-propositions-pour-les-familles_6798619_823448.html",
+          "summary": "Le candidat Horizons a assumé de faire un pas de côté de l’actualité, mercredi 21 octobre. Il a présenté une partie de ses propositions en matière de politique familiale lors d’un déplacement à Charleville-Mézières.",
+          "image": "https://img.lemde.fr/2026/10/22/0/0/4724/2362/644/322/60/0/b4b5134_upload-1-iubu9f6ab6q3-mmagnin-edouard-philippe-charleville-mezieres-7.jpg",
+          "publishedAt": "2026-10-22T12:07:00.000Z"
+        },
+        {
+          "title": "Pierre Moscovici démissionne de la Cour des comptes européenne, notamment afin de préserver sa liberté de parole",
+          "link": "https://www.lemonde.fr/politique/article/2026/10/22/pierre-moscovici-demissionne-de-la-cour-des-comptes-europeenne-notamment-afin-de-preserver-sa-liberte-de-parole_6798623_823448.html",
+          "summary": "« Je pense qu’avec l’expérience qui est la mienne, ma place est aussi de contribuer au débat public ici en France », a expliqué l’ancien ministre, faisant part de sa crainte d’une « période difficile, voire tragique qui…",
+          "image": "https://img.lemde.fr/2026/10/22/307/0/3689/1844/644/322/60/0/7f8490f_upload-1-qdig3cxrvrdh-000-a4rl4qm.jpg",
+          "publishedAt": "2026-10-22T13:11:12.000Z"
+        },
+        {
+          "title": "Au Royaume-Uni, comment les financiers ont fait main basse sur les cabinets vétérinaires",
+          "link": "https://www.lemonde.fr/economie/article/2026/10/22/au-royaume-uni-comment-les-financiers-ont-fait-main-basse-sur-les-cabinets-veterinaires_6798626_3234.html",
+          "summary": "Plus de 60 % de ces établissements appartiennent à des sociétés de capital-risque. Depuis les prix explosent, note l’autorité de surveillance de la concurrence.",
+          "image": "https://img.lemde.fr/2026/10/21/386/0/2427/1213/644/322/60/0/aae9e80_upload-1-bz5ternys4xc-gettyimages-1330928999.jpg",
+          "publishedAt": "2026-10-22T14:00:03.000Z"
+        },
+        {
+          "title": "Ebola : l’Afrique confrontée à une situation « plus complexe » après la propagation du virus au Nigeria, s’alarme le directeur régional de l’OMS",
+          "link": "https://www.lemonde.fr/afrique/article/2026/10/22/ebola-l-afrique-confrontee-a-une-situation-plus-complexe-apres-la-propagation-du-virus-au-nigeria-s-alarme-le-directeur-regional-de-l-oms_6798625_3212.html",
+          "summary": "Le Nigeria a été confronté à la maladie à virus d’Ebola il y a douze ans, en 2014, quand l’épidémie battait son plein en Afrique de l’Ouest",
+          "image": "https://img.lemde.fr/2026/10/21/500/0/6000/3000/644/322/60/0/599bf41_ftp-1-pr20fvzsfmlj-2026-10-21t091438z-621331589-rc2l7oa6rnrg-rtrmadp-3-health-ebola-nigeria.JPG",
+          "publishedAt": "2026-10-22T13:49:20.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "le-figaro",
+        "name": "Le Figaro",
+        "homepage": "https://www.lefigaro.fr",
+        "lang": "fr"
+      },
+      "fetchedAt": "2026-10-22T15:10:59.426Z",
+      "items": [
+        {
+          "title": "«Le seul langage à tenir face à l’émeute de rue, c’est celui de l’ordre» : en marge du congrès du RN, la ville d’Orléans sous haute surveillance policière",
+          "link": "https://www.lefigaro.fr/actualite-france/le-seul-langage-a-tenir-face-a-l-emeute-de-rue-c-est-celui-de-l-ordre-en-marge-du-congres-du-rn-la-ville-d-orleans-sous-haute-surveillance-policiere-20261022",
+          "summary": "DÉCRYPTAGE - La préfecture prévoit de déployer les grands moyens pour prévenir la violence, alors que des milliers de manifestants de l’ultra gauche sont attendus en ville ce week-end.",
+          "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/22/7fa4c5dcc4f3861f90c9bb10aa8090f12de0dd23687f49f76b49258dd6b655a8.jpg",
+          "publishedAt": "2026-10-22T14:42:29.000Z"
+        },
+        {
+          "title": "Guillaume Tabard : « Congrès RN, les “antifascistes” vrais ennemis de la démocratie »",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/guillaume-tabard-congres-rn-les-antifascistes-vrais-ennemis-de-la-democratie-20261022",
+          "summary": "CONTRE-POINT - Aujourd’hui, le programme de Marine Le Pen n’est plus vu comme un « péril » en soi. C’est LFI qui a repris le mistigri de la « diabolisation ».",
+          "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/21/d4866f23c1990c6b615597be3e85d54c0dbdbfa87f58f5cf748cb3e4bab2435b.jpg",
+          "publishedAt": "2026-10-22T05:30:00.000Z"
+        },
+        {
+          "title": "EN DIRECT - Violences urbaines du 17 octobre : 217 personnes incarcérées parmi les 2 700 placées en garde à vue",
+          "link": "https://www.lefigaro.fr/actualite-france/en-direct-violences-urbaines-emmanuel-macron-conseil-securite-renseignements-elysee-lecornu-partis-20261022",
+          "summary": "Après une série d’interdictions de manifestations, Emmanuel Macron a annoncé jeudi que seules celles organisées par des syndicats seraient autorisées samedi, avec des tracés visant à protéger les commerces et le «retour…",
+          "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/22/3aa7d4035e2af3933db3ae07b5e72bdf592d3b49d8429f6150feb0615d86233e.jpg",
+          "publishedAt": "2026-10-22T14:58:02.000Z"
+        },
+        {
+          "title": "Pillages, agressions physiques : dans quels cas les commerçants ont-ils le droit de «s’autodéfendre» ?",
+          "link": "https://www.lefigaro.fr/faits-divers/pillages-agressions-physiques-dans-quels-cas-les-commercants-ont-ils-le-droit-de-s-autodefendre-20261022",
+          "summary": "DÉCRYPTAGE - La notion de légitime défense est très encadrée par la loi. Pour qu’elle soit retenue par la justice, la riposte doit être immédiate, nécessaire et proportionnée.",
+          "image": "https://i.f1g.fr/media/cms/2544x1431_crop/2026/10/22/e21a1bf159044e064173dc2052c87d45dcf833c46ca56e282402cd83ccc422f6.jpg",
+          "publishedAt": "2026-10-22T14:39:39.000Z"
+        },
+        {
+          "title": "«Nous étions livrés à nous-mêmes» : ces Français qui veulent s’armer après les violences du 17 octobre",
+          "link": "https://www.lefigaro.fr/actualite-france/nous-etions-livres-a-nous-memes-ces-francais-qui-veulent-s-armer-apres-les-violences-du-17-octobre-20261021",
+          "summary": "TÉMOIGNAGES - Les pillages et émeutes qui ont traversé la France le week-end dernier incitent une partie de la population à s’armer, malgré une confiance toujours importante envers les forces de l’ordre pour la protéger.",
+          "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/21/83145580afc80ce3357921e5bac0d4928d7a33be82cf69b8e8b8207b36afacf9.jpg",
+          "publishedAt": "2026-10-22T05:50:51.000Z"
+        },
+        {
+          "title": "«Je suis pour qu’on mette le feu aux rues» : Sébastien Chenu saisit le procureur après des propos de l’écrivain proche de LFI Édouard Louis",
+          "link": "https://www.lefigaro.fr/politique/je-suis-pour-qu-on-mette-le-feu-aux-rues-sebastien-chenu-saisit-le-procureur-apres-des-propos-de-l-ecrivain-proche-de-lfi-edouard-louis-20261022",
+          "summary": "Dans un entretien sur Radio-Canada daté du 10 octobre, l’écrivain mélenchoniste défend les débordements des manifestations lycéennes et réclame l’interdiction des partis «d’extrême droite». Des propos signalés ce jeudi à…",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/4f53bf2897967728e3215304945b757b62aa2b52b5cce17bfb8f50305968960c.PNG",
+          "publishedAt": "2026-10-22T14:42:36.000Z"
+        },
+        {
+          "title": "«Si l’État n’intervient pas, il va y avoir un drame» : les commerçants de toute la France s’organisent avant l’acte II des «gilets jaunes»",
+          "link": "https://www.lefigaro.fr/conso/si-l-etat-n-intervient-pas-il-va-y-avoir-un-drame-les-commercants-de-toute-la-france-s-organisent-avant-l-acte-ii-des-gilets-jaunes-20261022",
+          "summary": "Entre attentisme face à une mobilisation prévue ce samedi 24 octobre dont on ignore encore tout, et volonté de ne pas revivre les mêmes scènes de chaos, ils sont mobilisés et ne comptent pas se laisser faire.",
+          "image": "https://i.f1g.fr/media/cms/3000x1939_crop/2026/10/21/782854774bc3c6568cd65d86f6f769b470410c730d27523cb24f1c53f5450a3f.jpg",
+          "publishedAt": "2026-10-22T08:41:47.000Z"
+        },
+        {
+          "title": "Pierre Moscovici démissionne de la Cour des comptes européenne",
+          "link": "https://www.lefigaro.fr/conjoncture/pierre-moscovici-demissionne-de-la-cour-des-comptes-europeenne-20261022",
+          "summary": "L’ex-ministre socialiste et ex-commissaire européen chargé des Affaires économiques et monétaires avait été nommé en avril 2026.",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/fe4c2267cb002afa9b8e097546f5b40f55063c2dd782cba777995f7840152c22.jpg",
+          "publishedAt": "2026-10-22T14:40:28.000Z"
+        },
+        {
+          "title": "EN DIRECT - Suivez la vente d’Iris, la toile de Claude Monet qui risque d’enflammer les enchères chez Sotheby’s",
+          "link": "https://www.lefigaro.fr/culture/encheres/en-direct-suivez-la-vente-d-iris-la-toile-de-claude-monet-qui-risque-d-enflammer-les-encheres-20261022",
+          "summary": "Le tableau monumental, peint par Monet à la fin de sa vie, est estimé entre 22 et 30 millions d’euros. La vente des 28 œuvres impressionnistes de la collection Schlumberger se tient jeudi à partir de 18 heures.",
+          "image": "https://i.f1g.fr/media/cms/928x635_crop/2026/10/22/194185f8ff0f48f4a48e23bc0a7d9affd962459680abb5121c363f226360f221.jpg",
+          "publishedAt": "2026-10-22T15:10:02.000Z"
+        },
+        {
+          "title": "La foire d’art contemporain Art Basel Paris restera fermée samedi et dimanche en raison des manifestations",
+          "link": "https://www.lefigaro.fr/arts-expositions/la-foire-d-art-contemporain-art-basel-paris-restera-fermee-samedi-et-dimanche-en-raison-des-manifestations-20261022",
+          "summary": "Les organisateurs de l’événement, qui réunit cette semaine plus de 200 galeries dans la capitale, n’ouvriront au public que jusqu’à vendredi, à 19 heures.",
+          "image": "https://i.f1g.fr/media/cms/2480x1395_crop/2026/10/22/07df5225bc8e12dc95fb80819da1c2570bee6c3c35cb49690048e696147cffc3.jpg",
+          "publishedAt": "2026-10-22T15:08:49.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "france-24",
+        "name": "France 24",
+        "homepage": "https://www.france24.com/fr/",
+        "lang": "fr"
+      },
+      "fetchedAt": "2026-10-22T15:10:59.409Z",
+      "items": [
+        {
+          "title": "Galaxie Bolloré ? Parlons-en avec G. Davet et F. Lhomme",
+          "link": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261022-galaxie-bollor%C3%A9-parlons-en-avec-g-davet-et-f-lhomme",
+          "summary": "Il possède aujourd’hui une galaxie de médias sans pareil en France : actionnaire principal du groupe Canal +, premier financier du cinéma français et maison mère de la chaîne d’opinion CNEWS. Il contrôle la radio Europe…",
+          "image": "https://s.france24.com/media/display/a80d81c2-ce1c-11f1-8b76-7967b15eed96/w:1024/p:16x9/capture-e83bb975.jpg",
+          "publishedAt": "2026-10-22T14:15:59.000Z"
+        },
+        {
+          "title": "Emmanuel Macron poursuit sa tournée dans le Golfe malgré la crise politique en France",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-emmanuel-macron-poursuit-sa-tourn%C3%A9e-dans-le-golfe-malgr%C3%A9-la-crise-politique-en-france",
+          "summary": "Le président français Emmanuel Macron est arrivé mercredi en Arabie saoudite pour une visite non annoncée, la première d'un chef d'Etat occidental dans le royaume depuis l'intensification des frappes houthies début…",
+          "image": "https://s.france24.com/media/display/7f82ed58-ce1e-11f1-8a9d-23d55109f116/w:1024/p:16x9/FR-20261022-143001-144103-CS.jpg",
+          "publishedAt": "2026-10-22T14:01:27.000Z"
+        },
+        {
+          "title": "Yémen : la fulgurante ascension des Houthis soutenus par l'Iran",
+          "link": "https://www.france24.com/fr/moyen-orient/20261022-y%C3%A9men-fulgurante-ascension-houthis-soutenus-iran",
+          "summary": "En deux décennies, le mouvement insurrectionnel des Houthis issus du nord du Yémen est devenu un acteur régional majeur, capable de tenir tête à l'Arabie saoudite et de menacer le trafic maritime mondial.",
+          "image": "https://s.france24.com/media/display/42024f72-b07e-11f1-8db3-005056bf30b7/w:1024/p:16x9/000-C84H89F.jpg",
+          "publishedAt": "2026-10-22T13:46:26.000Z"
+        },
+        {
+          "title": "Macron serre la vis sur les manifestations avant un nouveau samedi de mobilisation",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-macron-serre-la-vis-sur-les-manifestations-avant-un-nouveau-samedi-de-mobilisation",
+          "summary": "Après une série d'interdictions de manifestations, Emmanuel Macron a annoncé jeudi que seules celles organisées par des syndicats seraient autorisées samedi, avec des tracés visant à protéger les commerces, tout en…",
+          "image": "https://s.france24.com/media/display/2ee8a2f6-ce1a-11f1-9eb3-8d87bc3aeb3a/w:1024/p:16x9/FR-20261022-140253-140800-CS.jpg",
+          "publishedAt": "2026-10-22T13:27:06.000Z"
+        },
+        {
+          "title": "France : le dispositif de sécurité renforcé pour la manifestation du 24 octobre",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-france-le-dispositif-de-s%C3%A9curit%C3%A9-renforc%C3%A9-pour-la-manifestation-du-24-octobre",
+          "summary": "Le niveau de mobilisation des forces de l'ordre pour la journée de mobilisation sociale samedi sera \"20% supérieur\" à la semaine dernière, a annoncé jeudi le ministre délégué auprès du ministère de l'Intérieur…",
+          "image": "https://s.france24.com/media/display/ef88719e-ce1a-11f1-bb2d-7967b15eed96/w:1024/p:16x9/FR-20261022-141100-141342-CS.jpg",
+          "publishedAt": "2026-10-22T13:23:37.000Z"
+        },
+        {
+          "title": "Violences du 17 octobre : les partis politiques reçus à Matignon",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-violences-du-17-octobre-les-partis-politiques-re%C3%A7us-%C3%A0-matignon",
+          "summary": "L'exécutif tente toujours de faire retomber la pression et les critiques après les scènes de chaos du 17 octobre, en tenant plusieurs réunions avec les forces politiques et le renseignement jeudi, avec toujours la…",
+          "image": "https://s.france24.com/media/display/4e5881b0-ce1a-11f1-9382-3f59e19fd7f8/w:1024/p:16x9/FR-20261022-140802-141101-CS.jpg",
+          "publishedAt": "2026-10-22T13:22:46.000Z"
+        },
+        {
+          "title": "\"Je ne savais pas que c'était du vol\" : à Paris, les premiers procès des violences du 17 octobre",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-je-ne-savais-pas-que-c-%C3%A9tait-du-vol-%C3%A0-paris-les-premiers-proc%C3%A8s-des-violences-du-17-octobre",
+          "summary": "Les prévenus interpellés lors des manifestations du 17 octobre ont défilé mardi dans le box du tribunal judiciaire de Paris, jugés notamment pour violences contre agents, rébellion ou recel, dans un climat électrique,…",
+          "image": "https://s.france24.com/media/display/d3ccd6d4-ccdf-11f1-9378-2d1c143cdef3/w:1024/p:16x9/000-D3L26JY.jpg",
+          "publishedAt": "2026-10-22T13:06:00.000Z"
+        },
+        {
+          "title": "Les vastes favelas du Brésil ont besoin de solutions de planification urbaine à long terme",
+          "link": "https://www.france24.com/fr/%C3%A9missions/focus/20261022-les-vastes-favelas-du-br%C3%A9sil-ont-besoin-de-solutions-de-planification-urbaine-%C3%A0-long-terme",
+          "summary": "Alors que les Brésiliens s'apprêtent à retourner aux urnes pour le second tour de la présidentielle ce dimanche, nos journalistes nous emmènent au coeur des favelas, où les habitants vivent dans des conditions…",
+          "image": "https://s.france24.com/media/display/0dc5c6f8-ce10-11f1-979d-3f59e19fd7f8/w:1024/p:16x9/capture-e0525447.jpg",
+          "publishedAt": "2026-10-22T13:00:48.000Z"
+        },
+        {
+          "title": "Incendie de la mairie de Limoges : le maire Guillaume Guérin réagit sur France 24",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-incendie-de-la-mairie-de-limoges-le-maire-guillaume-gu%C3%A9rin-r%C3%A9agit-sur-france-24",
+          "summary": "Un second suspect, âgé de 66 ans, a été interpellé jeudi matin dans la Creuse, après celle d'un trentenaire mardi en Haute Vienne, dans l'enquête sur l'incendie \"criminel\" de la mairie de Limoges samedi, a annoncé le…",
+          "image": "https://s.france24.com/media/display/66476fb4-ce0d-11f1-b7e9-8d87bc3aeb3a/w:1024/p:16x9/FR-20261022-131248-132718-CS.jpg",
+          "publishedAt": "2026-10-22T12:33:09.000Z"
+        },
+        {
+          "title": "Législatives en Israël : qui sont les principaux candidats face à Benjamin Netanyahu ?",
+          "link": "https://www.france24.com/fr/moyen-orient/20261022-l%C3%A9gislatives-isra%C3%ABl-qui-sont-principaux-candidats-face-%C3%A0-benjamin-netanyahu-eisenkot-lapid-bennett-golan-liberman",
+          "summary": "Carrière, poids politique, position sur le conflit israélo-palestinien… France 24 dresse le portrait des principaux opposants au Premier ministre sortant Benjamin Netanyahu lors des législatives du 27 octobre.",
+          "image": "https://s.france24.com/media/display/858d62aa-c18a-11f1-8b18-0f96b136895a/w:1024/p:16x9/000-C4VA8T6.jpg",
+          "publishedAt": "2026-10-22T11:50:45.000Z"
+        }
+      ]
+    }
+  ]
+}

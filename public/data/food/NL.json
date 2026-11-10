@@ -1,0 +1,264 @@
+{
+  "country": "NL",
+  "dishes": [
+    {
+      "id": "stroopwafel",
+      "name": "Stroopwafel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Stroopwafel%20recipe",
+      "description": "A stroopwafel is a thin, round biscuit made from two layers of sweet baked dough held together by a treacle/syrup filling, often caramel. First made in the city of Gouda in South Holland, stroopwafels are a well-known Dutch treat popular throughout the Netherlands.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Stroopwafels_01.jpg/500px-Stroopwafels_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stroopwafel",
+      "recipe": {
+        "ingredients": [
+          "1 package (¼ ounce) active dry yeast",
+          "½ cup warm water",
+          "4 cups all-purpose flour",
+          "1 cup unsalted butter",
+          "½ tsp ground cinnamon",
+          "½ cup white sugar",
+          "2 large eggs",
+          "1½ cups packed brown sugar",
+          "1 cup unsalted butter",
+          "1 tsp ground cinnamon",
+          "6 tbsp dark corn syrup",
+          "½ cup finely-ground hazelnuts, optional"
+        ],
+        "steps": [
+          "Preheat a Pizzelle iron.",
+          "Dissolve the yeast in the warm water.",
+          "Add the butter to the flour, then mix in the sugar, cinnamon, eggs, and yeast mixture.",
+          "Mix well and set aside to rise for 30–60 minutes.",
+          "Roll dough into 12 small balls, squeeze each ball into the preheated pizzelle iron, and cook for about 30 seconds.",
+          "In a saucepan, cook the brown sugar, butter, cinnamon, and dark corn syrup until it reaches the soft ball stage (234–240°F or 112–115°C).",
+          "Stir in ground hazelnuts at this point, if using.",
+          "Cut each waffle into two thin layers and sandwich them with some filling.",
+          "Repeat this process until all the filling and waffles are used."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AStroopwafels"
+      }
+    },
+    {
+      "id": "bitterballen",
+      "name": "Bitterballen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bitterballen%20recipe",
+      "description": "Bitterballen (plural of bitterbal) are a Dutch meat-based snack, made by making a very thick stew thickened with roux and beef stock and loaded with meat, refrigerating the stew until it firms, and then rolling the thick mixture into balls which then get breaded and fried.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Bitterballen_mosterd_mayo.jpg/500px-Bitterballen_mosterd_mayo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bitterballen"
+    },
+    {
+      "id": "soused-herring",
+      "name": "Soused herring",
+      "localName": "Hollandse nieuwe",
+      "videoSearch": "https://www.youtube.com/results?search_query=Soused%20herring%20recipe",
+      "description": "Soused herring is raw herring (a variety of fish) soaked in a mild preserving liquid. It usually consists of raw herring in a mild vinegar pickle or Dutch brined herring. As well as vinegar, the marinade might contain cider, wine or tea, sugar, herbs (usually bay leaf), spices (usually mace), and chopped onion.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Haring_04.jpg/500px-Haring_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Soused_herring"
+    },
+    {
+      "id": "stamppot",
+      "name": "Stamppot",
+      "videoSearch": "https://www.youtube.com/results?search_query=Stamppot%20recipe",
+      "description": "Stamppot is a traditional Dutch dish made from a combination of potatoes mashed with one or several vegetables and typically garnished with sausages.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Boerenkool_stamppot.jpg/500px-Boerenkool_stamppot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stamppot"
+    },
+    {
+      "id": "erwtensoep",
+      "name": "Erwtensoep",
+      "localName": "Snert",
+      "videoSearch": "https://www.youtube.com/results?search_query=Erwtensoep%20recipe",
+      "recipe": {
+        "ingredients": [
+          "Green split peas",
+          "Streaky pork belly bacon, chopped small",
+          "Pork belly slices (non smoked), sliced into small strips",
+          "Dutch smoked sausage (if not available any smoked sausage will do), sliced small",
+          "1 large carrot, cubed",
+          "1 leek, sliced into rings",
+          "1 onion, chopped",
+          "½ celeriac, cubed",
+          "3 potatoes, cubed",
+          "2 bay leaves"
+        ],
+        "steps": [
+          "Soak the split peas in water overnight.",
+          "Fry the pork belly slices in a frying pan until golden brown (but not too crispy).",
+          "Cook the peas in enough water for about 30 minutes. Make sure to remove foam from the pan with a spoon.",
+          "In another pan, cook the bacon and the fried pork belly slices together with the vegetables, some salt and pepper, and the bay leaves for about 45 minutes.",
+          "When the erwtensoep is ready, add the Dutch smoked sausage, and boil it for another 15 minutes.",
+          "As a finishing touch, add some fried dried onions."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AErwtensoep_(Split_Pea_Soup)"
+      }
+    },
+    {
+      "id": "poffertjes",
+      "name": "Poffertjes",
+      "videoSearch": "https://www.youtube.com/results?search_query=Poffertjes%20recipe",
+      "description": "Poffertjes are traditional Dutch batter cakes. Resembling small, fluffy pancakes, they are made with yeast and flour. Typically, poffertjes are sweet treats served with powdered sugar and butter, and sometimes syrup or advocaat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Poffertjes-Melkhuis_%28cropped%29.jpg/500px-Poffertjes-Melkhuis_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Poffertjes"
+    },
+    {
+      "id": "oliebollen",
+      "name": "Oliebollen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Oliebollen%20recipe",
+      "description": "An oliebol is a Dutch beignet, a variety of doughnut that is traditionally eaten on New Year's Eve. People often eat it with raisins baked inside and with powdered sugar on top. Another variation is made with apple inside instead of raisins.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Oliebollen.jpg/500px-Oliebollen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Oliebol",
+      "recipe": {
+        "ingredients": [
+          "2 tbsp sugar",
+          "1 cup warm water",
+          "2 package active dry yeast",
+          "5 eggs",
+          "2 cups scalded milk",
+          "1 ½ cups warm water",
+          "½ cup margarine, softened",
+          "10 cups flour",
+          "1 cup white granulated sugar",
+          "1½ tsp salt",
+          "3 Granny Smith apples (optional), diced",
+          "3 cups sugar",
+          "Ground cinnamon to taste",
+          "1 cup raisins (optional)",
+          "Canola oil or shortening for frying"
+        ],
+        "steps": [
+          "Dissolve sugar in warm water. Sprinkle yeast on top. Let stand for about 10 minutes.",
+          "In a large mixing bowl, beat eggs until mixed. Add scalded milk, warm water, yeast mixture, and margarine. Beat well.",
+          "Add flour, sugar, and salt. Mix well. Add diced apple.",
+          "Let dough rise in a warm place until doubled in size. A lobster pot works well for this.",
+          "In a separate bowl, mix the sugar with cinnamon to taste. Set aside.",
+          "Fill a fryer pot with 4 inches of canola oil or melted shortening. Heat to 375°F (190°C).",
+          "Scoop large spoonfuls of dough into the hot oil. Dipping the spoons in the hot oil before scooping the dough keeps the spoons from getting too sticky.",
+          "Fry the oliebollen until golden brown, turning them to ensure even cooking.",
+          "Remove the oliebollen, and place on paper towels on paper bags.",
+          "Roll oliebollen in the cinnamon sugar mixture, and serve warm."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ADutch_Apple_Fritters_(Oliebollen)"
+      }
+    },
+    {
+      "id": "hutspot",
+      "name": "Hutspot",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hutspot%20recipe",
+      "description": "Hutspot, hochepot (French), or hotchpotch (English), is a dish of boiled and mashed potatoes, carrots, and onions with a long history in traditional Dutch cuisine. Hutspot is also found in Indonesian cuisine due to their colonial ties.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Hutspot_in_pan.JPG/500px-Hutspot_in_pan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hutspot",
+      "recipe": {
+        "ingredients": [
+          "5 lbs potatoes, quartered",
+          "3½ lbs carrots, cut into pieces",
+          "2 lbs onions, diced",
+          "2 cups ham, cubed",
+          "Add cheese, salt, and pepper to your liking"
+        ],
+        "steps": [
+          "Cook potatoes in pan of water, adding salt to taste, until done. Drain.",
+          "Cook carrots, onions and ham, adding a small amount of salt, until carrots are done. Drain, reserving water from carrot, onion, and ham pot.",
+          "Mash all ingredients, adding enough of reserved juices from carrots to reach a mashed potato consistency. Add 2 to 3 chunks of butter while mashing, to taste."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHutspot_(Dutch_Mashed_Vegetables)"
+      }
+    },
+    {
+      "id": "hachee",
+      "name": "Hachee",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hachee%20recipe",
+      "description": "Hachee is a traditional Dutch stew based on beef, onions, apple butter, breakfast bread, and vinegar, is a typical example of traditional Dutch cuisine. Clove and bay leaves are added to the thick gravy. It is usually served with mashed potatoes and red cabbage.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Hachee_met_rode_kool_en_aardappelpuree.jpg/500px-Hachee_met_rode_kool_en_aardappelpuree.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hachee",
+      "recipe": {
+        "ingredients": [
+          "about 1 pound (450 g) stewing beef, cut in bite-sized pieces",
+          "about ¼ cup (30 g) flour",
+          "Salt, to taste",
+          "Pepper, to taste",
+          "1 teaspoon butter or margarine",
+          "3–4 large onions, sliced in rings",
+          "5 whole cloves",
+          "2 bay leaves",
+          "1 cube of beef bouillon or 1 ½ tsp powdered stock, combined with 1 cup water",
+          "1 cup (250 ml) warm water",
+          "2 tbsp white vinegar",
+          "1 bottle of dark beer or 12 ounces of beef stock"
+        ],
+        "steps": [
+          "Combine flour, salt, and pepper. Dredge meat pieces in this mixture.",
+          "Melt butter in heavy pan, add meat, and sear until lightly browned.",
+          "Add onions and seasonings. Cook, stirring, until onions start to get translucent.",
+          "Stir together water and bouillon cube/powder until well-dissolved. Add to meat/onion mixture along with vinegar and beer.",
+          "Bring to a boil, then lower heat and let simmer about 3 hours until meat is tender. Stir occasionally to avoid scorching.",
+          "Check seasoning, and add salt and pepper if needed.",
+          "Serve over cooked rice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHachee_(Dutch_Beef_Stew)"
+      }
+    },
+    {
+      "id": "hagelslag",
+      "name": "Hagelslag",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hagelslag%20recipe",
+      "description": "Hagelslag are small, oblong, sweet-tasting chocolate sprinkles or granules, a few millimetres long, which are sprinkled on slices of buttered bread or rusks. Hagelslag is traditionally eaten by the Dutch for breakfast or lunch.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Hagelslag_chocolate_sprinkles.jpg/500px-Hagelslag_chocolate_sprinkles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hagelslag"
+    },
+    {
+      "id": "frikandel",
+      "name": "Frikandel",
+      "videoSearch": "https://www.youtube.com/results?search_query=Frikandel%20recipe",
+      "description": "A frikandel is a traditional snack originating from the Netherlands. It is a sort of minced-meat sausage, of which the modern version was developed after World War II. The history of this snack in the Spanish Netherlands goes back to the 17th century.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Frikandel.jpg/500px-Frikandel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frikandel"
+    },
+    {
+      "id": "kibbeling",
+      "name": "Kibbeling",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kibbeling%20recipe",
+      "description": "Kibbeling is a Dutch snack consisting of battered chunks of fish (traditionally cod), seasoned with a mix of spices and commonly served with remoulade or ravigote. Since the first half of the 17th century, it denoted the salted waste (the cheeks) of the cod fish, which was an important part of the common diet.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/2021-10-13-Kibbeling-4943.jpg/500px-2021-10-13-Kibbeling-4943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kibbeling"
+    },
+    {
+      "id": "speculaas",
+      "name": "Speculaas",
+      "videoSearch": "https://www.youtube.com/results?search_query=Speculaas%20recipe",
+      "description": "Speculaas or speculoos is a biscuit with origins in the historical region of the Low Countries (modern-day Belgium and the Netherlands).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Saint_Nicholas_Speculaas_%286465422349%29.jpg/500px-Saint_Nicholas_Speculaas_%286465422349%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Speculoos"
+    },
+    {
+      "id": "rookworst",
+      "name": "Rookworst",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rookworst%20recipe",
+      "description": "Rookworst or Gelderse rookworst is a type of Dutch sausage in which ground meat is mixed with spices and salt and stuffed into a casing. Having the shape of a ring bologna, it is common in the Netherlands and is also exported to Great Britain. The basis for Gelderse rookworst is metworst, or lean pork.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Boerenkool_met_worst.jpg/500px-Boerenkool_met_worst.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rookworst"
+    },
+    {
+      "id": "ontbijtkoek",
+      "name": "Ontbijtkoek",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ontbijtkoek%20recipe",
+      "description": "An ontbijtkoek, peperkoek or kruidkoek is a Dutch and Flemish spiced cake. Rye and dark brown basterdsuiker are its most important ingredient, coloring the cake light brown. It is often spiced with cloves, cinnamon, ginger, succade and nutmeg.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Kruidkoek.jpg/500px-Kruidkoek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ontbijtkoek"
+    },
+    {
+      "id": "vla",
+      "name": "Vla",
+      "videoSearch": "https://www.youtube.com/results?search_query=Vla%20recipe",
+      "description": "Vla () is a Dutch dairy product made from fresh milk. The word vla was first documented in the 13th century and originally referred to any custard-like substance covering cakes or other baked goods. The word vlaai is related and has since come to refer to a type of pie.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Chocoladevla.jpg/500px-Chocoladevla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vla"
+    },
+    {
+      "id": "pannenkoek",
+      "name": "Pannenkoek",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pannenkoek%20recipe",
+      "description": "A pannenkoek (Dutch pronunciation: [ˈpɑnə(ŋ)ˌkuk]; plural pannenkoeken [-ˌkukə(n)] ) or Dutch pancake is a style of pancake with origins in the Netherlands. Pannenkoeken are usually larger (up to a foot in diameter) and much thinner than their American or Scotch pancake counterparts, but not as thin as crêpes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/2015_01_Spekpannenkoek.jpg/500px-2015_01_Spekpannenkoek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pannenkoek"
+    }
+  ]
+}

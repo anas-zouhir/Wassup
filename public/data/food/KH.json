@@ -1,0 +1,75 @@
+{
+  "country": "KH",
+  "dishes": [
+    {
+      "id": "fish-amok",
+      "name": "Fish amok",
+      "localName": "អាម៉ុកត្រី",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fish%20amok%20recipe",
+      "description": "Fish amok or amok trey is a Khmer steamed fish curry (amok) with a mousse-like consistency, considered one of Cambodia's national dishes. Fish amok is believed to have been a royal Khmer dish dating back to the Khmer Empire, although some question it originating in Cambodia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Fish_Amok_with_Rice.jpg/500px-Fish_Amok_with_Rice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fish_amok"
+    },
+    {
+      "id": "kuy-teav",
+      "name": "Kuy teav",
+      "localName": "គុយទាវ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kuy%20teav%20recipe",
+      "description": "Kuyteav is a Cambodian noodle soup consisting of rice noodles with pork stock and toppings. It is a popular breakfast dish across all of Cambodia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Katieu.jpg/500px-Katieu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kuyteav"
+    },
+    {
+      "id": "num-banh-chok",
+      "name": "Num banh chok",
+      "localName": "នំបញ្ចុក",
+      "videoSearch": "https://www.youtube.com/results?search_query=Num%20banh%20chok%20recipe",
+      "description": "Num banhchok are lightly fermented Cambodian rice noodles and a breakfast noodle dish. banhchok \"បញ្ចុក\" translates to \"to feed\" in Khmer language.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Num_banhchok"
+    },
+    {
+      "id": "bai-sach-chrouk",
+      "name": "Bai sach chrouk",
+      "localName": "បាយសាច់ជ្រូក",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bai%20sach%20chrouk%20recipe",
+      "description": "Bay sach chruk is a Cambodian pork and rice dish. It is commonly served as a breakfast dish.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bay_sach_chruk"
+    },
+    {
+      "id": "lok-lak",
+      "name": "Lok lak",
+      "localName": "ឡុកឡាក់",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lok%20lak%20recipe",
+      "description": "Shaking beef, bo luc lac, or lok lak (Vietnamese: bò lúc lắc, French: bœuf lôc lac, Khmer: ឡុកឡាក់) is a Vietnamese and Cambodian dish that consists of beef that has been cut into small cubes, marinated with fish sauce, soy sauce and oyster sauce, then sauteed in a wok with red onion and bell pepper before being served…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Product_Shots_of_Food-Bo_Luc_Lac.jpg/500px-Product_Shots_of_Food-Bo_Luc_Lac.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shaking_beef"
+    },
+    {
+      "id": "samlor-korko",
+      "name": "Samlor korko",
+      "localName": "សម្លកកូរ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Samlor%20korko%20recipe",
+      "description": "Samlor kako or Cambodian ratatouille is a traditional Cambodian soup considered one of Cambodia's national dishes. Samlar kako consists of green kroeung, prahok, roasted ground rice, catfish, pork or chicken, vegetables, fruits and herbs. The dish has been compared to French ratatouille or pot-au-feu.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Samlor_Korko_Khmer_at_Peace_Cafe.jpg/500px-Samlor_Korko_Khmer_at_Peace_Cafe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Samlar_kako"
+    },
+    {
+      "id": "prahok",
+      "name": "Prahok",
+      "localName": "ប្រហុក",
+      "videoSearch": "https://www.youtube.com/results?search_query=Prahok%20recipe",
+      "description": "Prahok is a salted and fermented fish paste (usually of mudfish) used in Cambodian cuisine as a seasoning or a condiment. It originated as a way of preserving fish during the time of the year when fresh fish was not available in abundant supply.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fried_Prahok_meal.jpg/500px-Fried_Prahok_meal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Prahok"
+    },
+    {
+      "id": "num-ansom",
+      "name": "Num ansom",
+      "localName": "នំអន្សម",
+      "videoSearch": "https://www.youtube.com/results?search_query=Num%20ansom%20recipe",
+      "description": "Num ansom or simply ansom is a traditional Khmer sticky rice cake.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Num_ansom_chrouk.jpg/500px-Num_ansom_chrouk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Num_ansom"
+    }
+  ]
+}

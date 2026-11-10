@@ -1,0 +1,456 @@
+{
+  "country": "TR",
+  "dishes": [
+    {
+      "id": "doner-kebab",
+      "name": "Döner kebab",
+      "localName": "Döner kebap",
+      "videoSearch": "https://www.youtube.com/results?search_query=D%C3%B6ner%20kebab%20recipe",
+      "description": "Doner kebab or döner kebab is a Turkish dish made of meat cooked on a vertical rotisserie. Seasoned meat stacked in the shape of an inverted cone is turned slowly on the rotisserie, next to a vertical cooking element. The operator uses a knife to slice thin shavings from the outer layer of the meat as it cooks.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/D%C3%B6ner_kebab_slicing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Doner_kebab",
+      "recipe": {
+        "ingredients": [
+          "2 kg (4½ lb) ground beef or other minced meat",
+          "11–12 tsp chicken salt/season salt",
+          "6 tsp black pepper (amount depends on taste preference)",
+          "2–3 dl (⅘–1¼ cups) plain yogurt",
+          "1–3 cloves garlic, chopped",
+          "1 pinch salt",
+          "1 tsp basil",
+          "1–1½ tsp black and/or white pepper",
+          "Green-, lemon-, or red pepper (optional)",
+          "Chile pepper or powder (optional)",
+          "Cayenne pepper (optional)",
+          "Tabasco sauce (optional)",
+          "1 can (70 g / 2½ oz) tomato purée",
+          "½–1 tsp salt",
+          "½–1½ tsp white pepper",
+          "½–1½ tsp black pepper",
+          "1 tsp basil",
+          "1 pinch oregano",
+          "Ketchup (amount depends on preference)",
+          "Pita bread",
+          "Salad (see notes)",
+          "Rice",
+          "Chips/French fries"
+        ],
+        "steps": [
+          "Mix all the ingredients into a farce-like chunk.",
+          "Use a mixer or your hands to get air out of the chunk.",
+          "Optionally, make a hole in the chunk with a knife so that excess fat can drain out.",
+          "Wrap it tightly in aluminium foil, using more than 2 layers of foil to prevent rupture.",
+          "Put it into the oven and set the temperature to 100 °C (210 °F). Let it cook for 4 hours. Note that 4 hours applies even if you scale down the recipe. Let's say, if you want a 1 kg chunk (half of the original portion), you should not leave it for 2 hours; 4 hours apply for every size. The idea is that it gets cooked slowly.",
+          "When it is done, remove it from the oven, open the foil, and let it cool down. If you did everything correctly, you should be able to use a shredder or a knife to cut it in thin slices.",
+          "Combine all the ingredients for the sauce(s) you are making.",
+          "Mix well."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AD%C3%B6ner_Kebab"
+      }
+    },
+    {
+      "id": "iskender-kebap",
+      "name": "İskender kebap",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C4%B0skender%20kebap%20recipe",
+      "description": "İskender kebap is a Turkish dish that consists of sliced meat topped with hot tomato sauce over pieces of pita bread, and generously slathered with melted special sheep's milk butter and yogurt. It can be prepared from thinly cut grilled lamb or chicken.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/%C4%B0skender_Kebap.jpg/500px-%C4%B0skender_Kebap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/%C4%B0skender_kebap"
+    },
+    {
+      "id": "adana-kebabi",
+      "name": "Adana kebabı",
+      "videoSearch": "https://www.youtube.com/results?search_query=Adana%20kebab%C4%B1%20recipe",
+      "description": "Adana kebap (Turkish: Adana kebabı) or Adana kebab is a dish that consists of a long strip of hand-minced meat, mounted on a wide iron skewer and grilled on an open mangal filled with burning charcoal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Adana_kebab.jpg/500px-Adana_kebab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Adana_kebab%C4%B1"
+    },
+    {
+      "id": "lahmacun",
+      "name": "Lahmacun",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lahmacun%20recipe",
+      "description": "Lahmacun, lahmajun, or lahmajo is a Middle Eastern flatbread topped with minced meat (most commonly beef or lamb), minced vegetables, and herbs such as onions, garlic, tomatoes red peppers, and parsley, flavored with spices such as chili pepper and paprika, then baked.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Lahmacun.jpg/500px-Lahmacun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lahmacun"
+    },
+    {
+      "id": "borek",
+      "name": "Börek",
+      "videoSearch": "https://www.youtube.com/results?search_query=B%C3%B6rek%20recipe",
+      "description": "Börek, also referred to as burek or byrek or burekas, is a family of pastries or pies made in West Asia and Southeast Europe. The pastry is made of a thin flaky dough such as filo with a variety of fillings, such as meat, cheese, spinach, or potatoes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Burek_trokut_1.png/500px-Burek_trokut_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%B6rek",
+      "recipe": {
+        "ingredients": [
+          "Peynirli börek (white cheese filling)",
+          "Kıymalı börek (minced meat filling)",
+          "Tavuklu börek (chicken filling)",
+          "Ispanaklı börek (spinach filling)",
+          "2 cups prepared filling (see above)",
+          "1 box yufka/phyllo pastry sheets",
+          "Melted butter or high-quality vegetable oil"
+        ],
+        "steps": [
+          "Remove the phyllo sheets from the container. Unfold carefully so as not to break them. Lay them flat and cover with a clean, damp tea towel to prevent them from drying out—this is important.",
+          "Working quickly, cut the phyllo into lengthwise thirds (step 1 in the diagram). Lay one of these out and cover the other two with the damp tea towel.",
+          "Brush the strip of phyllo with the melted butter. Place a heaped teaspoonful of filling on one end of the strip (step 2 in the diagram).",
+          "Fold the right lower corner upward over the filling to form a triangle (step 3 in the diagram).",
+          "Now fold the right upper corner over to the left (step 4 in the diagram).",
+          "Continue folding in this manner until you reach the end of the strip.",
+          "Trim of any excess dough and seal the edges by rubbing a damp finger over the dough and pressing the edge of the triangle where the strip ends.",
+          "Fry in oil at 340°F until golden brown or bake at 350°F for 15 minutes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AB%C3%B6rek_(Turkish_Filled_Pastries)"
+      }
+    },
+    {
+      "id": "baklava",
+      "name": "Baklava",
+      "videoSearch": "https://www.youtube.com/results?search_query=Baklava%20recipe",
+      "description": "Baklava (, or ) is a layered pastry dessert made of filo pastry, filled with chopped nuts, and sweetened with either syrup or honey.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Baklava%281%29.png/500px-Baklava%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baklava",
+      "recipe": {
+        "ingredients": [
+          "4 cups white granulated sugar",
+          "2 cups water",
+          "2 cinnamon sticks, each 3 inches long",
+          "¾ cups honey",
+          "1 tbsp lemon juice",
+          "1½ lb pistachio nuts",
+          "2 tsp cinnamon powder",
+          "1 lb phyllo dough, at room temperature",
+          "1¼ lb unsalted butter, melted"
+        ],
+        "steps": [
+          "If using frozen store-bought phyllo, thaw it inside its plastic package. Don’t open it until you’re ready to use it. If you’re in a hurry you can thaw it in its sealed plastic package in warm water.",
+          "Chop the nuts with the powdered cinnamon in a food processor. You want a fine chop, not powder.",
+          "Combine the sugar, honey, water, cinnamon sticks, and lemon juice in a large pot. Stir well and boil until the mixture reaches 220°F (100°C) on a candy thermometer (soft ball stage). Remove it from heat, skim the top, and let cool. Remove the cinnamon sticks. The lemon is an important ingredient in the syrup as it keeps it from crystallizing while cooling.",
+          "Melt the butter in a saucepan while the syrup is boiling. You can clarify the butter but it’s not necessary.",
+          "Preheat your oven to 350°F (180°C).",
+          "Open the phyllo and unfold it. Brush the inside of the baking pan with melted butter. While assembling, cover the unused phyllo with a damp towel to prevent it from drying out. Make sure your butter is very liquid when you start. Put 6 sheets of phyllo in the pan, brushing each sheet with melted butter. Set aside another 6 sheets which will be used for the top layers.",
+          "After the first 6 sheets, sprinkle a handful of the nut mixture over the last sheet. Add another sheet and repeat the process until you get to the last 6 sheets. Place the last 6 sheets on top of the rest, brushing each with butter. With a very sharp knife, cut the pastry into diamond shapes, all the way through. Sprinkle the top with water.",
+          "Put the pastry into the preheated oven and bake for 1 hour or until the tops of the pastry are medium golden brown. When done, remove from the oven and ladle the cool syrup over the hot pastry.",
+          "Let it sit for about 5–15 minutes, then drain off the excess syrup by tilting the pan as much as 45 degrees. Let it cool to near room temperature before eating."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABaklava_with_Pistachio_Nuts"
+      }
+    },
+    {
+      "id": "turkish-delight",
+      "name": "Turkish delight",
+      "localName": "Lokum",
+      "videoSearch": "https://www.youtube.com/results?search_query=Turkish%20delight%20recipe",
+      "description": "Turkish delight, lokum () or loqum () is a family of confections based on a gel of starch and sugar. Premium varieties consist largely of chopped dates, pistachios, hazelnuts or walnuts bound by the gel; traditional varieties are often flavored with rosewater, mastic gum, bergamot orange, or lemon.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/TurkishDelightDisplay.jpg/500px-TurkishDelightDisplay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Turkish_delight",
+      "recipe": {
+        "ingredients": [
+          "2 cups white granulated sugar",
+          "½ cup cornstarch",
+          "1½ cup water",
+          "½ tsp cream of tartar",
+          "2 tbsp rosewater",
+          "Food coloring",
+          "½ cup chopped toasted pistachios or almonds (optional)",
+          "Icing sugar, granulated sugar, or desiccated coconut for dusting"
+        ],
+        "steps": [
+          "Combine sugar, 1 cup water, cream of tartar, and flavoring(s) in a small saucepan and bring to a boil.",
+          "Boil over medium-low heat for 20-30 minutes, until the mixture reaches \"firm-ball,\" or 250°F (120°C) on a candy thermometer.",
+          "In a separate bowl, combine cornstarch with ½ cup hot water, mix completely, and slowly stir into sugar mixture.",
+          "Stir constantly until mixture is evenly combined. Continue to stir on low heat until mixture thickens and becomes clearer.",
+          "Apply non-stick cooking spray to a form (heat-safe ice cube trays will do nicely, though not plastic ones), shallow pie pan, or jelly-roll pan.",
+          "Pour the thickened hot mixture into the pan or form and allow to set.",
+          "When cool, release from form or cut into cubes as applicable and roll each piece in powdered sugar, granulated sugar, or coconut.",
+          "Store at room temperature in airtight container."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATurkish_Delight"
+      }
+    },
+    {
+      "id": "kofte",
+      "name": "Köfte",
+      "videoSearch": "https://www.youtube.com/results?search_query=K%C3%B6fte%20recipe",
+      "description": "Kofta is a family of meatball and meatloaf dishes found in South Asian, Central Asian, Balkan, Middle Eastern, North African, and South Caucasian cuisines.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Koofteh_tabrizi.jpg/500px-Koofteh_tabrizi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kofta"
+    },
+    {
+      "id": "manti",
+      "name": "Mantı",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mant%C4%B1%20recipe",
+      "description": "Manti is a type of dumpling mainly found in Uyghur cuisine and Central Asian cuisine, but also in West Asia, South Caucasus, and the Balkans. Manti is also popular in Turkish cuisine, and it is consumed throughout post-Soviet countries, where the dish spread from the Central Asian republics.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Kayseride_bir_restoranda_Kayseri_mant%C4%B1s%C4%B1_%28cropped%29.jpg/500px-Kayseride_bir_restoranda_Kayseri_mant%C4%B1s%C4%B1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Manti_(food)"
+    },
+    {
+      "id": "menemen",
+      "name": "Menemen",
+      "videoSearch": "https://www.youtube.com/results?search_query=Menemen%20recipe",
+      "description": "Menemen is a popular traditional Turkish dish that includes eggs, tomato, green peppers, and spices such as ground black and red pepper cooked in olive oil. Menemen is commonly eaten for breakfast and served with bread. Its name originates from Menemen, a small town in İzmir Province.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Menemen_in_a_sahan.jpg/500px-Menemen_in_a_sahan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Menemen_(food)",
+      "recipe": {
+        "ingredients": [
+          "4 eggs",
+          "2 onions",
+          "2 green peppers",
+          "4 tomatoes",
+          "2 tablespoons chopped parsley",
+          "2 tablespoons olive oil",
+          "1–2 tsp dried oregano (optional)",
+          "1–2 tsp sweet paprika (optional)",
+          "Salt",
+          "Pepper"
+        ],
+        "steps": [
+          "Prepare a concassée of tomatoes by blanching, peeling, seeding and dicing the tomatoes. Alternately, you may simply grind the tomatoes in a food processor or grate them using a box grater.",
+          "Dice the onions and peppers in medium dice and sauté in the olive oil until tender.",
+          "Add the oregano and paprika, if using.",
+          "Add the tomatoes to the peppers and onion and cook for 5 minutes.",
+          "Add the parsley and season with salt and freshly ground black pepper.",
+          "Beat the eggs and pour over the mixture in the pan. Stir until cooked.",
+          "Serve with Turkish bread."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMenemen_(Eggs_with_Onion%2C_Green_Pepper%2C_and_Tomato)"
+      }
+    },
+    {
+      "id": "imam-bayildi",
+      "name": "İmam bayıldı",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C4%B0mam%20bay%C4%B1ld%C4%B1%20recipe",
+      "description": "İmam bayıldı (literally: \"the imam fainted\" in Turkish) is a Turkish dish consisting of whole aubergine stuffed with onion, garlic and tomatoes, and simmered in olive oil. It is a zeytinyağlı (olive oil-based) dish and is found in most of the former Ottoman regions. The dish is served at room temperature or warm.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/%C4%B0mam_bay%C4%B1ld%C4%B1_AvL.JPG/500px-%C4%B0mam_bay%C4%B1ld%C4%B1_AvL.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/%C4%B0mam_bay%C4%B1ld%C4%B1"
+    },
+    {
+      "id": "karniyarik",
+      "name": "Karnıyarık",
+      "videoSearch": "https://www.youtube.com/results?search_query=Karn%C4%B1yar%C4%B1k%20recipe",
+      "description": "Karnıyarık (lit. 'riven belly') is a Turkish dish of eggplant stuffed with a mix of sautéed chopped onions, garlic, black pepper, tomatoes, optional green pepper, parsley, and ground meat. It is similar to İmam bayıldı, which does not include meat and is served at room temperature or warm.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Meal_in_Turkey.jpg/500px-Meal_in_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Karn%C4%B1yar%C4%B1k"
+    },
+    {
+      "id": "simit",
+      "name": "Simit",
+      "videoSearch": "https://www.youtube.com/results?search_query=Simit%20recipe",
+      "description": "Simit or koulouri is a circular bread, typically encrusted with sesame seeds or, less commonly, poppy, flax or sunflower seeds, found across the cuisines of the former Ottoman Empire and the Middle East, especially in Armenia, Turkey and the Balkans.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Simit-2x.JPG/500px-Simit-2x.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simit"
+    },
+    {
+      "id": "kunefe",
+      "name": "Künefe",
+      "videoSearch": "https://www.youtube.com/results?search_query=K%C3%BCnefe%20recipe",
+      "description": "Knafeh (Arabic: كنافة) is a traditional Arab dessert made with kadayif (spun pastry dough) layered with cheese and soaked in a sweet, sugar-based syrup called attar. Knafeh is popular throughout the Arab world, especially Egypt and the Levant. Knafeh is often served on special occasions, holidays and Ramadan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/K%C3%BCnefe.jpg/500px-K%C3%BCnefe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Knafeh"
+    },
+    {
+      "id": "kumpir",
+      "name": "Kumpir",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kumpir%20recipe",
+      "description": "Kumpir (also compire) is a baked potato with various fillings. It is a popular fast food in the Balkans.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Kumpir_-_Turkish_Cuisine.jpg/500px-Kumpir_-_Turkish_Cuisine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kumpir"
+    },
+    {
+      "id": "cig-kofte",
+      "name": "Çiğ köfte",
+      "videoSearch": "https://www.youtube.com/results?search_query=%C3%87i%C4%9F%20k%C3%B6fte%20recipe",
+      "description": "Çiğ köfte or chee kofta is a kofta dish that is a regional specialty of southeastern Turkey in Urfa. The dish is served as an appetizer or meze. Çiğ köfte is common to both Turkish and Armenian cuisine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Turkish_%C3%A7i%C4%9F_k%C3%B6fte.jpg/500px-Turkish_%C3%A7i%C4%9F_k%C3%B6fte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/%C3%87i%C4%9F_k%C3%B6fte"
+    },
+    {
+      "id": "dolma",
+      "name": "Dolma",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dolma%20recipe",
+      "description": "Dolma is a family of stuffed dishes largely associated with Ottoman cuisine. It mainly includes vegetables and leaves, and occasionally seafood, offal, fruits, and meats, that are hollowed out or wrapped, then filled with a mixture of rice, minced meat, herbs, and spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Speca_te_mbushura_me_mish.JPG/500px-Speca_te_mbushura_me_mish.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dolma"
+    },
+    {
+      "id": "hunkar-begendi",
+      "name": "Hünkâr beğendi",
+      "videoSearch": "https://www.youtube.com/results?search_query=H%C3%BCnk%C3%A2r%20be%C4%9Fendi%20recipe",
+      "description": "Hünkârbeğendi, or simply beğendi (literally, 'the sovereign is pleased'), is an eggplant and meat (lamb or beef) dish in Ottoman cuisine. It is made from eggplant grilled until the skin is burned, giving it a smoky flavor. The eggplant is puréed, seasoned and thickened with béchamel sauce.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/H%C3%BCnkarbe%C4%9Fendi.jpg/500px-H%C3%BCnkarbe%C4%9Fendi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/H%C3%BCnk%C3%A2rbe%C4%9Fendi"
+    },
+    {
+      "id": "gozleme",
+      "name": "Gözleme",
+      "videoSearch": "https://www.youtube.com/results?search_query=G%C3%B6zleme%20recipe",
+      "description": "Gözleme is a savory Turkish stuffed turnover. The dough is usually unleavened, and made only with flour, salt and water, but gözleme can be made from yeast dough as well. It is similar to bazlama, but is lightly brushed with butter or oil, whereas bazlama is prepared without fat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/G%C3%B6zleme.JPG/500px-G%C3%B6zleme.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/G%C3%B6zleme",
+      "recipe": {
+        "ingredients": [
+          "5¼ cups (600 grams) all-purpose flour",
+          "2½ teaspoons (15 grams) salt",
+          "2 teaspoons (7 grams) dry yeast",
+          "1 teaspoon (4 grams) white granulated sugar",
+          "1¼ cups (300 grams) water",
+          "½ cup (100 grams) oil",
+          "⅓ cup (65 grams) butter"
+        ],
+        "steps": [
+          "Sift flour in a large bowl, reserving 1 cup of flour.",
+          "Sprinkle with salt and mix. Make a well in the centre.",
+          "Combine yeast and sugar in a small bowl. Stir in ¼ cup warm water.",
+          "Pour the liquid into the well in the centre of the flour.",
+          "Cover yeast with some flour. Let stand for 10 minutes to rise.",
+          "Stir in remaining liquid, blending thoroughly. Knead for 5 minutes to form a medium-soft dough.",
+          "Cover and let rise in a warm place for 1 hour or until doubled in bulk.",
+          "Place dough on lightly floured board. Divide into 10 portions with floured hands.",
+          "Shape portions into balls; roll each ball out with rolling pin into a 5 mm thick rectangle. Brush with oil.",
+          "Fold opposite edges over, bringing edges together in centre.",
+          "Spread filling over half of pastry. Then fold other half over filling, shaping into an oblong.",
+          "Seal edges well, pressing slightly.",
+          "Heat griddle or a cast iron skillet.",
+          "Grease with butter and place gözleme on griddle.",
+          "Brown on both sides.",
+          "Serve hot with ayran."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AG%C3%B6zleme_(Turkish_Flatbread)"
+      }
+    },
+    {
+      "id": "kokorec",
+      "name": "Kokoreç",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kokore%C3%A7%20recipe",
+      "description": "Kokoretsi (Greek: κοκορέτσι) or kokoreç is a dish of the Balkans and Anatolia (Asia Minor), consisting of lamb or goat intestines wrapped around seasoned offal, including sweetbreads, hearts, lungs, or kidneys, and typically grilled; a variant consists of chopped innards cooked on a griddle.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Kokore%C3%A7.JPG/500px-Kokore%C3%A7.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kokoretsi"
+    },
+    {
+      "id": "midye-dolma",
+      "name": "Midye dolma",
+      "videoSearch": "https://www.youtube.com/results?search_query=Midye%20dolma%20recipe",
+      "description": "Stuffed mussels (Turkish: Midye dolma; Armenian: Լցոնած միդիա, or Միդիա տոլմա), or midye, is a generic name for plump orange mussels that contain herbed and spiced rice. Midye dolma is a popular and common street food snack in the coastal cities of Turkey and in Armenia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Midye_dolma_%286%29.JPG/500px-Midye_dolma_%286%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stuffed_mussels"
+    },
+    {
+      "id": "tantuni",
+      "name": "Tantuni",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tantuni%20recipe",
+      "description": "Tantuni is a spicy Turkish dish consisting of julienne cut beef or lamb, stir-fried on a unique traditional metal plate called a sac. Originating from the Mersin province in southern Turkey, it has become one of the country's most popular street foods.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Tantuni_sokak_yeme%C4%9Fi.jpg/500px-Tantuni_sokak_yeme%C4%9Fi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tantuni"
+    },
+    {
+      "id": "ezogelin-soup",
+      "name": "Ezogelin soup",
+      "localName": "Ezogelin çorbası",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ezogelin%20soup%20recipe",
+      "description": "Ezogelin soup or Ezo gelin soup (Turkish: Ezogelin çorbası, \"the soup of Ezo the bride\") is a common soup in Turkish cuisine. The main ingredients are bulgur and red lentils. The origin of the soup is attributed to Ezo the bride from Gaziantep.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Ezogelin_soup%2C_bread%2C_and_water.jpg/500px-Ezogelin_soup%2C_bread%2C_and_water.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ezogelin_soup"
+    },
+    {
+      "id": "asure",
+      "name": "Aşure",
+      "videoSearch": "https://www.youtube.com/results?search_query=A%C5%9Fure%20recipe",
+      "description": "Ashure, aşure, anoushabour, anoushabur, Noah's pudding or trigo koço is a sweet pudding that is made of a mixture consisting of various types of grains, fresh and dried fruits, and nuts. In the Balkans and Turkey, Muslims make the dish during the month of Muharram in which the Day of Ashura takes place.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/A%C5%9Fure_%281%29.JPG/500px-A%C5%9Fure_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ashure"
+    },
+    {
+      "id": "ayran",
+      "name": "Ayran",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ayran%20recipe",
+      "description": "Ayran ( eye-RAHN, also ayryan) is a cold savory yogurt-based beverage found throughout Central Asia, the Balkans, and the Middle East. The drink is a heterogeneous mixture that has been consumed by Turkic peoples for approximately 1,000 years. The principal ingredients are yogurt, water and salt.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Fresh_ayran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ayran",
+      "recipe": {
+        "ingredients": [
+          "1⅓ cup plain yoghurt",
+          "1⅔ cup water",
+          "Salt, to taste",
+          "Crushed dried mint (optional)"
+        ],
+        "steps": [
+          "Pour yoghurt into a bowl and beat until smooth. Add water and continue beating until thoroughly blended. Alternatively, combine in an electric blender and blend until smooth.",
+          "Season to taste with salt and dried mint. Chill thoroughly and serve in tall glasses, with ice."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AAyran_(Turkish_Yogurt_Drink)"
+      }
+    },
+    {
+      "id": "tarhana",
+      "name": "Tarhana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tarhana%20recipe",
+      "description": "Tarhana is a dried food ingredient, based on a fermented mixture of grain and yogurt or fermented milk, found in Central Asian, Southeast European, and Middle Eastern cuisines. Dry tarhana has a texture of coarse, uneven crumbs, and it is usually made into a thick soup with water, stock, or milk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Two_kinds_of_tarhana.JPG/500px-Two_kinds_of_tarhana.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tarhana",
+      "recipe": {
+        "ingredients": [
+          "3 ripe tomatoes",
+          "3 green peppers",
+          "3 onions",
+          "2 cups (500 ml) live yogurt",
+          "1 tsp dried active yeast",
+          "½ cup tepid water (100°F / 40°C)",
+          "1 tsp sugar",
+          "⅛ tsp cayenne pepper",
+          "1 tsp paprika",
+          "Salt",
+          "Flour",
+          "1 cup dry tarhana mix",
+          "7–8 cups meat stock",
+          "2 tablespoons tomato paste"
+        ],
+        "steps": [
+          "Dissolve the sugar in the tepid water and sprinkle the dried yeast on top. Allow to soften 5 minutes or so and stir.",
+          "Blanche, peel, and seed the tomatoes. Peel and roughly chop the onions. Remove the stem, seeds and membrane from the green peppers and cut roughly.",
+          "In a blender or food processor, purée the tomatoes, onion, green pepper and yogurt in batches.",
+          "Combine all the ingredients except the flour and mix well. Gradually add enough flour to make a stiff dough. Knead for 5–10 minutes until smooth and elastic then place in a large non-reactive bowl and cover with waxed paper (don't use plastic wrap). Let stand at room temperature for 10–12 days. Punch down the dough once a day. If the dough becomes watery, knead in some more flour. Let stand until the dough no longer rises and has lost its stretch.",
+          "Rub the dough between your hands onto a tray covered with parchment paper so that it forms small pieces. Cover the tray with cheesecloth or other protective mesh and leave to dry in a cool, well ventilated place. As it dries, break the dough into smaller pieces eventually crumbling it as small as you can. When it is completely dry (a week or more) pulverize in a blender, a little at a time. Store in freezer bags or large jars. Store in a cool place or refrigerate. May be kept up to 12 months.",
+          "To make tarhana soup, mix 1 cup of the dried dough mix with 3 cups of water or meat stock. Mix with a wooden spoon until softened. Add more water or stock to make a thickish soup with a creamy consistency. Add 2 tablespoons of tomato paste and cook for 15–20 minutes. Pour into bowls and garnish with croûtons, parsley, or paprika-infused butter or olive oil, if desired.",
+          "Serve with Turkish bread or a crisp baguette."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATarhana_(Turkish_Yogurt_Soup)"
+      }
+    },
+    {
+      "id": "muhallebi",
+      "name": "Muhallebi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Muhallebi%20recipe",
+      "description": "Muhallebi (Persian: مهلبی), or muhalabiyya (Arabic: مهلّبية), is a milk pudding commonly made with rice, sugar, and milk, thickened with either rice flour, starch or semolina. It is popular as a dessert in the Middle East.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Mhallabiyyeh_%28Arabic_milk_pudding%29.jpg/500px-Mhallabiyyeh_%28Arabic_milk_pudding%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Muhallebi",
+      "recipe": {
+        "ingredients": [
+          "¾ cup rice flour",
+          "¼ cup cornstarch",
+          "1 cup water",
+          "7 cups milk",
+          "½–1 cup white granulated sugar (or to taste)",
+          "½ cup rose water or orange flower water (optional)",
+          "½ cup pistachios, chopped"
+        ],
+        "steps": [
+          "Mix the milk and sugar in a large saucepan and heating slowly, so as not to burn the milk, bring to a simmer.",
+          "Make a slurry by dissolving the rice flour and cornstarch in the water and, stirring constantly, slowly add this mixture to the simmering milk.",
+          "Simmer gently for 30–40 minutes, stirring frequently, until the mixture has thickened sufficiently to coat a spoon. Remove from the heat.",
+          "Stir in the rose water or orange flower water.",
+          "Pour into a 9x13-inch baking pan and refrigerate until chilled and set.",
+          "Cut into pieces about 4 inches square.",
+          "Place the squares on individual dessert plates and garnish with the chopped pistachios."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APudding_with_Pistachios_and_Rose_Water_(Muhallebi)"
+      }
+    },
+    {
+      "id": "mercimek-koftesi",
+      "name": "Mercimek köftesi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mercimek%20k%C3%B6ftesi%20recipe",
+      "description": "Mercimek köftesi, also known as lentil balls, is a lentil-based cold dish or meze found in Turkish cuisine. Considered one of the foods that symbolize the importance of Anatolian hospitality, it is often served in events such as 5 o'clock tea and special occasion meals.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Mercimekkoftesi.jpg/500px-Mercimekkoftesi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mercimek_k%C3%B6ftesi"
+    }
+  ]
+}

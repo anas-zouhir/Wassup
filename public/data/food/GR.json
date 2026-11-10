@@ -1,0 +1,471 @@
+{
+  "country": "GR",
+  "dishes": [
+    {
+      "id": "moussaka",
+      "name": "Moussaka",
+      "localName": "Μουσακάς",
+      "videoSearch": "https://www.youtube.com/results?search_query=Moussaka%20recipe",
+      "description": "Moussaka (, UK also, US also; see below) is an aubergine (eggplant)- or potato-based dish, often including ground meat, which is common in the Balkans and the Middle East, with many local and regional variations. The modern Greek variant was created in the 1920s by Nikolaos Tselementes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/MussakasMeMelitsanesKePatates01.JPG/500px-MussakasMeMelitsanesKePatates01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Moussaka",
+      "recipe": {
+        "ingredients": [
+          "1 large eggplant (aubergine)",
+          "Salt",
+          "Greek olive oil",
+          "1 large onion, chopped",
+          "6 cloves of garlic, chopped",
+          "3 tablespoons olive oil",
+          "1 kg (2.2 lbs) minced/ground beef or lamb",
+          "1 large tin (28 oz/800 g) diced tomatoes",
+          "1 cup (250 ml) red wine",
+          "2 tablespoons chopped fresh parsley",
+          "2 tablespoons chopped fresh Greek basil (optional)",
+          "2 bay leaves",
+          "1 teaspoon sugar",
+          "1 cinnamon stick",
+          "Freshly ground black pepper",
+          "2 tablespoons tomato paste",
+          "3 tablespoons butter",
+          "4 tablespoons plain flour",
+          "2 cups (½ L) milk",
+          "Sprinkle of nutmeg, cinnamon, and black pepper",
+          "½ cup (120 ml) freshly-grated Parmesan cheese",
+          "1 cup (250 ml) grated cheese (e.g. Edam, etc.)",
+          "1 egg"
+        ],
+        "steps": [
+          "Cut eggplant into 5 mm slices. Lay the slices out and sprinkle liberally with salt. This leaches out the bitterness. Leave these for at least an hour.",
+          "Heat olive oil in a saucepan and add onion and garlic. Sauté these until the onion starts to change colour. Add the meat and brown thoroughly.",
+          "Add bay leaves and cinnamon stick, and continue to stir the meat until all the moisture from the meat is gone.",
+          "Add tomatoes, herbs and sauces. Mix through and allow to cook for 15 minutes, stirring occasionally.",
+          "Add wine and continue to cook until the sauce is very thick. It should have very little moisture in it all. Remove the bay leaves and cinnamon stick, and allow to cool.",
+          "In another saucepan, melt butter over a low heat. Remove from heat and add the flour. Blend this through thoroughly, then return to the heat and cook gently for 3 minutes, stirring continuously so that it does not catch (burn). Remove from heat and add the milk. Mix this through then return to the heat and allow mixture to boil. Allow sauce to cook gently for one minute, stirring continuously. Remove from heat, add cheeses, nutmeg, cinnamon and pepper and mix through. Allow to cool.",
+          "Rinse the slices of eggplant under running water and dry on paper towels. Heat olive oil in a frying pan. Place slices of eggplant in the pan and quickly turn to coat both sides in the hot oil. Fry until the slices are cooked (when they change colour and become soft). Drain and repeat with remaining slices.",
+          "In a large casserole dish, lay slices of eggplant to cover the bottom. Cover with a layer of the meat sauce. Repeat layering eggplant and meat sauce until within 3 cm of the top of the dish.",
+          "Add the egg to the cool, cheese sauce and mix through thoroughly. Spoon this on the top layer in the casserole dish and sprinkle with extra grated cheese. Bake at 200 °C (400 °F) for 45 minutes. Remove from oven and allow to cool and set for 10 minutes.",
+          "Serve with a tossed Greek salad, red wine and crusty garlic bread."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGreek_Moussaka"
+      }
+    },
+    {
+      "id": "souvlaki",
+      "name": "Souvlaki",
+      "localName": "Σουβλάκι",
+      "videoSearch": "https://www.youtube.com/results?search_query=Souvlaki%20recipe",
+      "description": "Souvlaki is a Greek food consisting of small pieces of meat and sometimes vegetables grilled on a skewer. It is usually eaten straight off the skewer while still hot. It can be served with or inside a rolled pita, typically with lemon, sauces, vegetables such as sliced tomato and onion, and fried potatoes as a side.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C_%CE%A3%CE%BF%CF%85%CE%B2%CE%BB%CE%AC%CE%BA%CE%B9_-_panoramio.jpg/500px-%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C_%CE%A3%CE%BF%CF%85%CE%B2%CE%BB%CE%AC%CE%BA%CE%B9_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Souvlaki"
+    },
+    {
+      "id": "gyros",
+      "name": "Gyros",
+      "localName": "Γύρος",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gyros%20recipe",
+      "description": "Gyros, sometimes anglicized as a gyro, is a Greek dish consisting of meat cooked on a vertical rotisserie, then sliced and served wrapped or stuffed in pita bread, along with other ingredients such as tomato, onion, fried potatoes, and tzatziki.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Pita_giros.JPG/500px-Pita_giros.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gyros"
+    },
+    {
+      "id": "tzatziki",
+      "name": "Tzatziki",
+      "localName": "Τζατζίκι",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tzatziki%20recipe",
+      "description": "Tzatziki, also known as cacık or tarator, is a class of dip, soup, or sauce found in the cuisines of Southeastern Europe and West Asia.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Cacik-1.jpg/500px-Cacik-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tzatziki",
+      "recipe": {
+        "ingredients": [
+          "1½ cups yogurt",
+          "4 cloves garlic, minced",
+          "1 tablespoon dill (sub. ¼ tablespoon of tarragon if no dill is available)",
+          "2 tablespoons olive oil",
+          "4 tablespoons lemon juice (optional)",
+          "2 small cucumbers, diced",
+          "Salt",
+          "White pepper, to taste (optional)"
+        ],
+        "steps": [
+          "Drain yogurt in a sieve or a cheesecloth for about 3 hours prior to using it.",
+          "Drain the cucumber and salt it to further remove moisture.",
+          "Combine yogurt, garlic, olive oil, and lemon juice in a bowl and cover and refrigerate for 1 hour or more.",
+          "After refrigerating, add dill and cucumber into bowl and mix with a whisk until smooth.",
+          "Add pepper and salt to taste."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATzatziki"
+      }
+    },
+    {
+      "id": "spanakopita",
+      "name": "Spanakopita",
+      "localName": "Σπανακόπιτα",
+      "videoSearch": "https://www.youtube.com/results?search_query=Spanakopita%20recipe",
+      "description": "Savory spinach pie is a pastry eaten throughout Greece, Bosnia and Herzegovina, and Turkey. Of Greek origin, this pastry’s filling is made of chopped spinach (sometimes chard) and usually feta or white cheese, and egg.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Spanakopita.jpg/500px-Spanakopita.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Savory_spinach_pie",
+      "recipe": {
+        "ingredients": [
+          "900 g (2 lbs) fresh spinach or 580 g (20 oz) frozen, thawed, and drained spinach",
+          "1 large onion, finely chopped",
+          "¼ cup extra-virgin olive oil",
+          "1 cup chopped scallions",
+          "½ cup minced fresh parsley",
+          "1 tbsp minced fresh dill",
+          "¼ tsp freshly ground nutmeg",
+          "1 tbsp lemon juice",
+          "¾ cup crumbled feta cheese",
+          "¾ cup small curd cottage cheese",
+          "¼ cup freshly grated parmesan cheese",
+          "4 eggs, beaten",
+          "12–20 sheets phyllo pastry",
+          "⅔ cup clarified butter",
+          "¼ tsp freshly-ground black pepper",
+          "½ tsp salt (or to taste)"
+        ],
+        "steps": [
+          "Preheat oven to 180°C (350°F).",
+          "Wash the spinach, remove large stems, and chop. Place in a steamer over boiling water and steam for 2 minutes, or until wilted and reduced in volume. Drain, pressing out any liquid with the back of a spoon.",
+          "Heat the oil in a large skillet. Add onion and cook over medium heat until slightly tender. Add scallions and cook until limp. Remove from heat. Stir in parsley, dill, nutmeg, salt and pepper.",
+          "Add the cheeses, spinach, and lemon juice to the skillet. Mix. Add eggs and mix again gently.",
+          "Brush a 9x12-inch baking dish with some of the butter. Lay a sheet of phyllo dough across the bottom of the dish, covering the entire surface and letting the edges fold upward against the sides. Brush with butter, and place another sheet on top. Continue layering the phyllo (brushing each sheet) until the bottom of the dish is covered with about 8 sheets.",
+          "Place half of the spinach filling on top of the phyllo, smoothing out with a rubber spatula until evenly distributed.",
+          "Cover the filling with 5–8 phyllo sheets, brushing each layer with butter. Place remaining spinach filling on top and smooth as above.",
+          "Cover with 5–8 phyllo sheets, brushing with butter as above. Roll up all overhanging phyllo sheets and crumble any broken sheet bits on top. Drizzle any remaining clarified butter over top.",
+          "Place the spanakopita in the oven on a medium rack. Bake for 45 minutes, or until puffed and golden. Let sit for 10 minutes before cutting and serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASpanakopita"
+      }
+    },
+    {
+      "id": "greek-salad",
+      "name": "Greek salad",
+      "localName": "Χωριάτικη σαλάτα",
+      "videoSearch": "https://www.youtube.com/results?search_query=Greek%20salad%20recipe",
+      "description": "Greek salad, choriatiki or horiatiki (Greek: χωριάτικη σαλάτα or θερινή σαλάτα) is a salad in Greek cuisine generally made with pieces of tomatoes, cucumbers, onion, feta cheese, and olives (typically Kalamata olives) and dressed with salt, Greek oregano, lemon juice and olive oil.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Greece_Food_Horiatiki.JPG/500px-Greece_Food_Horiatiki.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Greek_salad"
+    },
+    {
+      "id": "dolmades",
+      "name": "Dolmades",
+      "localName": "Ντολμάδες",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dolmades%20recipe",
+      "description": "Dolma is a family of stuffed dishes largely associated with Ottoman cuisine. It mainly includes vegetables and leaves, and occasionally seafood, offal, fruits, and meats, that are hollowed out or wrapped, then filled with a mixture of rice, minced meat, herbs, and spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Speca_te_mbushura_me_mish.JPG/500px-Speca_te_mbushura_me_mish.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dolma"
+    },
+    {
+      "id": "pastitsio",
+      "name": "Pastitsio",
+      "localName": "Παστίτσιο",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pastitsio%20recipe",
+      "description": "Pastitsio (Greek: παστίτσιο, pastítsio) is a baked pasta dish with ground meat and béchamel sauce from the Ionian Islands in Greece. Variations of the dish are found in other countries near the Mediterranean.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Pastitsio_homemade.jpg/500px-Pastitsio_homemade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pastitsio",
+      "recipe": {
+        "ingredients": [
+          "2 tablespoons olive oil",
+          "2 medium onions, chopped",
+          "750 g minced meat",
+          "400–450 g canned chopped tomatoes",
+          "⅓ cup tomato paste",
+          "½ cup water",
+          "¼ cup dry white wine",
+          "1 tablespoon beef stock powder",
+          "½ teaspoon cinnamon powder",
+          "1 egg, beaten lightly",
+          "100 g butter",
+          "½ cup plain flour",
+          "3½ cups milk",
+          "1 cup grated fresh Parmesan cheese",
+          "2 egg yolks",
+          "250 g macaroni pasta (or Greek pastitsio noodles)",
+          "2 eggs, beaten lightly",
+          "¾ cup grated fresh Parmesan or Feta cheese",
+          "2 tablespoons stale breadcrumbs"
+        ],
+        "steps": [
+          "Heat olive oil in pan. Add the chopped onions and sauté until translucent.",
+          "Add the minced meat, and cook until well browned.",
+          "Add the chopped canned tomatoes, liquid and all.",
+          "Add the tomato paste, water, wine, beef stock powder, and cinnamon powder. Simmer uncovered until it becomes thick in consistency.",
+          "Once thick transfer into a mixing bowl to cool.",
+          "Once cool, stir in egg.",
+          "Melt the butter in pan.",
+          "Add the flour, and stir well over heat until bubbling.",
+          "Remove pan from heat, and gradually add the milk. The mixture will become thick and will then thin again.",
+          "Return pan to heat, and cook until sauce bubbles then thickens.",
+          "Stir in Parmesan cheese until melted and smooth.",
+          "Transfer to mixing bowl and cool slightly.",
+          "Mix in the egg yolks.",
+          "Boil the pasta as per directions on packet until tender.",
+          "Drain pasta, and transfer to mixing bowl.",
+          "Mix the hot pasta with the Parmesan cheese and eggs.",
+          "Grease baking dish.",
+          "Press pasta mix into base of pan.",
+          "Top pasta mix with the meat sauce.",
+          "Pour the Bechamel sauce over the meat sauce, then smooth the top.",
+          "Sprinkle the breadcrumbs over the top.",
+          "In a preheated oven, bake at 180°C (350°F) for 1 hour until golden brown.",
+          "Let rest for at least 10 minutes before serving."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APasta_Casserole_(Pastitsio)"
+      }
+    },
+    {
+      "id": "baklava",
+      "name": "Baklava",
+      "localName": "Μπακλαβάς",
+      "videoSearch": "https://www.youtube.com/results?search_query=Baklava%20recipe",
+      "description": "Baklava (, or ) is a layered pastry dessert made of filo pastry, filled with chopped nuts, and sweetened with either syrup or honey.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Baklava%281%29.png/500px-Baklava%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baklava",
+      "recipe": {
+        "ingredients": [
+          "1 pound (454 g) phyllo dough",
+          "4–5 cup walnuts, chopped coarsely",
+          "½ cup white granulated sugar",
+          "¼ tsp ground cloves",
+          "1 tsp cinnamon",
+          "¾ pound (340 g) sweet butter",
+          "2 ½ cups of water",
+          "3 cups white granulated sugar",
+          "3 tsp lemon juice",
+          "1 tsp vanilla extract"
+        ],
+        "steps": [
+          "Combine nuts, cinnamon, cloves, and sugar. Melt butter in a saucepan.",
+          "Use a pastry brush to brush inside of a 14 x 10.5-inch (36 x 27 cm) pan with melted butter.",
+          "Line bottom of pan with one piece of Phyllo dough. Fold under excess Phyllo.",
+          "Alternate sides with each piece of Phyllo, brushing the top of each layer with melted butter.",
+          "Repeat 5 times, making 5 layers.",
+          "On the 6th sheet, sprinkle evenly with nut mixture.",
+          "Continue until all nut mixture is used and last 6 buttered sheets of Phyllo form top crust.",
+          "Use a sharp knife to cut into diamond shapes.",
+          "Bake at 300 °F (150 °C) for about 1 ½ hours or until lightly brown.",
+          "Combine syrup ingredients. Boil syrup for about 10 minutes and then allow to cool.",
+          "Pour cooled syrup over hot pastry. Enjoy!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABaklava_I"
+      }
+    },
+    {
+      "id": "avgolemono",
+      "name": "Avgolemono",
+      "localName": "Αυγολέμονο",
+      "videoSearch": "https://www.youtube.com/results?search_query=Avgolemono%20recipe",
+      "description": "Avgolemono (Greek: αυγολέμονο or αβγολέμονο literally egg-lemon) is a family of sauces and soups made with egg yolk and lemon juice mixed with broth, then reduced. Avgolemono can be used to thicken soups and stews.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Avgolemono_soup.jpg/500px-Avgolemono_soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Avgolemono"
+    },
+    {
+      "id": "fasolada",
+      "name": "Fasolada",
+      "localName": "Φασολάδα",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fasolada%20recipe",
+      "description": "Fasolada (Greek: φασολάδα) or fasoulada (Greek: φασουλάδα) is a Greek and Cypriot soup of dry white beans, olive oil, and vegetables. It is sometimes referred to as the \"national food of the Greeks\".",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Fasolada.JPG/500px-Fasolada.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fasolada"
+    },
+    {
+      "id": "taramosalata",
+      "name": "Taramosalata",
+      "localName": "Ταραμοσαλάτα",
+      "videoSearch": "https://www.youtube.com/results?search_query=Taramosalata%20recipe",
+      "description": "Taramasalata or taramosalata (Greek: ταραμοσαλάτα; From taramás 'fish roe' < Greek: ταραμάς, romanized: taramas + Greek: saláta 'salad') is a meze made from tarama, the salted and cured roe (colloquially referred to as caviar) of the cod, carp, or grey mullet (bottarga), mixed with olive oil, lemon juice, and a starchy…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Taramosalata01.jpg/500px-Taramosalata01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Taramasalata"
+    },
+    {
+      "id": "kleftiko",
+      "name": "Kleftiko",
+      "localName": "Κλέφτικο",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kleftiko%20recipe",
+      "description": "Kleftiko is a traditional Greek dish of slow-roasted marinated meat dish (traditionally lamb or goat, but also pork) most often cooked en papillote and served with potatoes. Bell peppers, onions, and cheese (usually kefalotyri) can also be added.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Kleftiko.JPG/500px-Kleftiko.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kleftiko"
+    },
+    {
+      "id": "loukoumades",
+      "name": "Loukoumades",
+      "localName": "Λουκουμάδες",
+      "videoSearch": "https://www.youtube.com/results?search_query=Loukoumades%20recipe",
+      "description": "Lokma (derived from the 13th century Arab dessert luqmat al-qādi) is a dessert made of leavened and deep-fried dough balls, soaked in syrup or honey, and sometimes coated with cinnamon or other ingredients.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Sam%27dan_lokma_tatlisi.jpg/500px-Sam%27dan_lokma_tatlisi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lokma",
+      "recipe": {
+        "ingredients": [
+          "1.36 kg (48 oz / 6 cups) all-purpose flour",
+          "½ teaspoon salt",
+          "2 cups undiluted evaporated milk",
+          "4 eggs",
+          "2 tablespoons baking powder",
+          "1 cup white granulated sugar",
+          "Ground cinnamon",
+          "1 teaspoon vanilla extract",
+          "4 teaspoons dry yeast dissolved in ½ cup of warm water",
+          "Soy or corn oil for frying",
+          "Honey"
+        ],
+        "steps": [
+          "In a large mixing bowl, mix the flour, salt, milk, eggs, baking powder, sugar, cinnamon, and vanilla.",
+          "Mix the yeast and water together.",
+          "Add the yeast mixture to the other ingredients and stir. The mixture should look like smooth cake batter.",
+          "Cover the bowl and leave it for 4 hours.",
+          "Place 5 cm of oil in a pot and heat it up.",
+          "With a tablespoon, drop the batter in and roll. Loukoumades should be sphere-shaped once fried and should look golden or brown from all sides.",
+          "After they are fried, remove them from the oil and pour honey over them. Use the cinnamon for extra flavour. You can also use sesame seeds for flavour."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALoukoumas_(Greek_Donuts_with_Honey)_I"
+      }
+    },
+    {
+      "id": "galaktoboureko",
+      "name": "Galaktoboureko",
+      "localName": "Γαλακτομπούρεκο",
+      "videoSearch": "https://www.youtube.com/results?search_query=Galaktoboureko%20recipe",
+      "description": "Galaktoboureko (Greek: γαλακτομπούρεκο, Laz: paponi, Turkish: laz böreği) is a dessert popular in Greece and the eastern Black Sea Region of Turkey. It is made of custard, layers of filo dough and covered in syrup. Galaktoboureko is made with a type of pudding called muhallebi or semolina custard.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Galaktoboureko.jpg/500px-Galaktoboureko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Galaktoboureko",
+      "recipe": {
+        "ingredients": [
+          "150 g white granulated sugar",
+          "6 eggs",
+          "150 g semolina",
+          "1 liter milk",
+          "2 vanilla beans",
+          "½ ea. lemon, juiced",
+          "1 pinch of salt",
+          "450 g phyllo",
+          "Melted butter",
+          "125 ml water",
+          "150 g white granulated sugar",
+          "2 Tbsp lemon juice"
+        ],
+        "steps": [
+          "Combine sugar, eggs, and semolina in a saucepan. Mix in milk and vanilla beans. Stir in lemon juice.",
+          "Bring the mixture to a boil, stirring with a fork the whole time. When it starts boiling, reduce heat to low and keep stirring for another 10 minutes. Remove mixture from the heat, and let cool.",
+          "Brush some melted butter over each sheet of phyllo dough.",
+          "Butter a pan, and place half the phyllo in it sheet by sheet. Pour the cooled semolina custard over the pastry, and cover with the remaining buttered phyllo.",
+          "Sprinkle pastry with a bit of water.",
+          "Bake pastry at 356°F / 180°C / Gas mark 4 for 1 hour. Let cool.",
+          "Combine water and sugar in a saucepan.",
+          "Bring to boil, and simmer for about 10 minutes.",
+          "Let syrup cool.",
+          "Stir in the lemon juice once cooled in order to preserve the vitamin C.",
+          "Brush the finished pastry with syrup, and serve."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AGalaktoboureko_(Greek_Semolina_Custard_Pastry)"
+      }
+    },
+    {
+      "id": "saganaki",
+      "name": "Saganaki",
+      "localName": "Σαγανάκι",
+      "videoSearch": "https://www.youtube.com/results?search_query=Saganaki%20recipe",
+      "description": "In Greek cuisine, saganaki is any one of a variety of dishes prepared in a small frying pan, the best-known being an appetizer of fried cheese. It is commonly flambéed in North America.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Grekiska_koket_02.jpg/500px-Grekiska_koket_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saganaki",
+      "recipe": {
+        "ingredients": [
+          "1 large slice of salty, brined white cheese (e.g. feta, sirene)",
+          "1 tablespoon olive oil (not extra virgin)",
+          "1 large lemon wedge",
+          "A small amount of flour (optional)",
+          "Pita or other bread (optional)"
+        ],
+        "steps": [
+          "Heat a small frying pan over medium-high heat.",
+          "While the pan heats, cut the cheese into slices of the desired size and thickness. Thicker slices will take longer to melt through and may result in burning, while thinner ones will have less chance to brown.",
+          "Optionally, dredge the slices in flour—this will create a darker and slightly crispier crust, but is an optional step as the cheese will acquire a very slight crust on its own by virtue of the oil and high heat. It will also reduce the spitting somewhat.",
+          "Add the oil to the hot pan and swirl it around. When the oil shimmers and seems to become more fluid, it is ready. Add the cheese and step back—it will spit due to the brine-water on the cheese.",
+          "Flip the cheese after a minute or two. A slice of ¾ centimeter should get about 1–2 minutes per side.",
+          "Serve immediately, with lemon and (optionally) bread."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3APan-Fried_White_Brined_Cheese_(Saganaki)"
+      }
+    },
+    {
+      "id": "tiropita",
+      "name": "Tiropita",
+      "localName": "Τυρόπιτα",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tiropita%20recipe",
+      "description": "Tiropita or tyropita (Greek: τυρóπιτα, \"cheese-pie\") is a Greek pastry made with layers of buttered phyllo and filled with a cheese-egg mixture. It is served either in an individual-size free-form wrapped shape, or as a larger pie that is portioned.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Tiropita_Greek_dish.jpg/500px-Tiropita_Greek_dish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tiropita",
+      "recipe": {
+        "ingredients": [
+          "1½ pounds (675 g) feta cheese",
+          "5 tablespoons butter",
+          "8 tablespoons flour",
+          "2 cups (480 ml) scalded milk",
+          "7 eggs, lightly beaten",
+          "¾ pound (330 g) phyllo pastry",
+          "Butter, melted",
+          "Salt to taste",
+          "Pepper to taste"
+        ],
+        "steps": [
+          "Crumble cheese into very small pieces.",
+          "Melt butter in small pot. Add flour, blend well. Slowly add scalded milk, stirring constantly to make a smooth bechamel sauce. Add a little salt and pepper.",
+          "Remove from heat and stir until cool. Add crumbled cheese and mix well. Add eggs and mix again.",
+          "Butter a pan about 2 inches (5 cm) smaller than the phyllo sheets. Use a little more than half of the phyllo sheets to make the bottom layer of the pie. Brush each with melted butter and place it in the pan letting the edges hang over the pan.",
+          "Pour in the cheese-egg mixture, spreading evenly.",
+          "Cover mixture with the phyllo that extended beyond pan. This will prevent mixture from leaking out.",
+          "Carefully cut remaining phyllo to fit pan. Brush each sheet with butter before placing on pita.",
+          "Brush top with butter and sprinkle with a little water. Score into strips to make cutting the pie easier after it is baked.",
+          "Bake in a preheated 300°F (150°C) oven for 45 minutes.",
+          "Cut into pieces and serve hot."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ATyropita_(Greek_Cheese_Pie)"
+      }
+    },
+    {
+      "id": "bougatsa",
+      "name": "Bougatsa",
+      "localName": "Μπουγάτσα",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bougatsa%20recipe",
+      "description": "Bougatsa, bugatsa, bogatsa or boogatsa is a Greek breakfast food (sweet or savoury), or mid-morning snack, or midday snack. Bougatsa has several versions with their own filling, with the most popular the bougatsa krema (bougatsa cream) that has semolina custard filling used as a sweet food and dessert.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bougatsa.png/500px-Bougatsa.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bougatsa"
+    },
+    {
+      "id": "giouvetsi",
+      "name": "Giouvetsi",
+      "localName": "Γιουβέτσι",
+      "videoSearch": "https://www.youtube.com/results?search_query=Giouvetsi%20recipe",
+      "description": "Giouvetsi, yiouvetsi, or youvetsi is a Greek dish made with chicken, lamb or beef and pasta, either kritharaki (orzo) or hilopites (small square noodles), and tomato sauce (usually spiced with allspice and sometimes cinnamon, cloves or bay leaves).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Giouvetsi.JPG/500px-Giouvetsi.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Giouvetsi"
+    },
+    {
+      "id": "gigantes-plaki",
+      "name": "Gigantes plaki",
+      "localName": "Γίγαντες πλακί",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gigantes%20plaki%20recipe",
+      "description": "Gigantes plaki or Greek giant baked beans, is a Greek dish of large white beans baked in a tomato sauce. Gigantes plaki may be served as a main dish or as a meze. The beans are traditionally fasolia gigantes 'giant beans', a variety of Phaseolus coccineus.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Gigandes_plaki.jpg/500px-Gigandes_plaki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gigantes_plaki"
+    },
+    {
+      "id": "feta",
+      "name": "Feta",
+      "localName": "Φέτα",
+      "videoSearch": "https://www.youtube.com/results?search_query=Feta%20recipe",
+      "description": "Feta is a Greek white brined cheese made from sheep's milk or from a mixture of sheep and goat's milk. It is soft, with small or no holes, and no skin. Crumbly with a slightly grainy texture, it is formed into large blocks and aged in brine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Feta_Cheese.jpg/500px-Feta_Cheese.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Feta"
+    },
+    {
+      "id": "spanakorizo",
+      "name": "Spanakorizo",
+      "localName": "Σπανακόρυζο",
+      "videoSearch": "https://www.youtube.com/results?search_query=Spanakorizo%20recipe",
+      "description": "Spanakorizo (Greek: σπανακόρυζο, \"spinach rice\") is a Greek vegetarian dish of spinach and rice. A pilaf, it is described as a typical Greek country dish that may be eaten hot or cold.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Spanakorizo.jpg/500px-Spanakorizo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Spanakorizo"
+    }
+  ]
+}

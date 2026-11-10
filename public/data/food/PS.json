@@ -1,0 +1,197 @@
+{
+  "country": "PS",
+  "dishes": [
+    {
+      "id": "musakhan",
+      "name": "Musakhan",
+      "localName": "مسخن",
+      "videoSearch": "https://www.youtube.com/results?search_query=Musakhan%20recipe",
+      "description": "Musakhan, also known as muhammar (Arabic: محمّر, lit. 'reddened'), is a Palestinian dish composed of roasted chicken baked with onions, sumac, allspice, saffron, and fried pine nuts served over taboon bread. Originating in the Tulkarm and Jenin area, musakhan is often considered the national dish of Palestine.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mushakhan_Dish.jpg/500px-Mushakhan_Dish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Musakhan",
+      "recipe": {
+        "ingredients": [
+          "200 g chopped raw chicken",
+          "300 g chopped white onion",
+          "100 g sumac",
+          "100 g assorted raw nuts",
+          "Black pepper",
+          "White pepper",
+          "Salt",
+          "10 rolls of either Arabic village bread (markouk, or taboun or tannour) or spring roll pastry"
+        ],
+        "steps": [
+          "Fry the chicken with the onion.",
+          "Add the salt and the peppers before the chicken is done, and add the sumac 5 minutes from the end of cooking.",
+          "Fry the raw nuts until they are golden. Add them to the chicken and onions",
+          "Roll the mixture in the spring roll pastry, and deep fry them.",
+          "Take the spring rolls out of the oil and let them dry on cooking paper.",
+          "Serve them hot or cold."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMusakhan_(Palestinian_Spiced_Chicken)"
+      }
+    },
+    {
+      "id": "maqluba",
+      "name": "Maqluba",
+      "localName": "مقلوبة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Maqluba%20recipe",
+      "description": "Maqluba (also attested by a variety of other spellings in English; Arabic: مَقْلُوبَة, romanized: maqlūba, lit. 'upside-down') is a traditional Levantine dish, a variety of Pilaf that is popular across Palestine, Jordan, Syria, Lebanon, Israel, and Iraq.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Makluba.JPG/500px-Makluba.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maqluba",
+      "recipe": {
+        "ingredients": [
+          "½ pound ground beef",
+          "½ onion, chopped",
+          "Olive oil",
+          "1 cup rice",
+          "1 ½ cups water",
+          "Salt",
+          "Black pepper",
+          "Allspice",
+          "Plain yogurt"
+        ],
+        "steps": [
+          "In a saucepan, brown ground beef and onion with salt, pepper, and allspice in a little olive oil (use more allspice than pepper). Remove from heat.",
+          "Add the rice and water. Bring to a boil over medium heat.",
+          "Turn down to medium low, and cover with the lid tilted to let some steam escape.",
+          "When most of the water has evaporated and the surface of the rice becomes pitted, put the lid on tight. Cook on low heat for 15 minutes.",
+          "Remove from heat and leave covered for 2–3 minutes. Serve with yogurt."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMaklubi_(Rice_with_Meat_and_Vegetables)"
+      }
+    },
+    {
+      "id": "knafeh",
+      "name": "Knafeh",
+      "localName": "كنافة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Knafeh%20recipe",
+      "description": "Knafeh (Arabic: كنافة) is a traditional Arab dessert made with kadayif (spun pastry dough) layered with cheese and soaked in a sweet, sugar-based syrup called attar. Knafeh is popular throughout the Arab world, especially Egypt and the Levant. Knafeh is often served on special occasions, holidays and Ramadan.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/K%C3%BCnefe.jpg/500px-K%C3%BCnefe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Knafeh"
+    },
+    {
+      "id": "mujaddara",
+      "name": "Mujaddara",
+      "localName": "مجدرة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mujaddara%20recipe",
+      "description": "Mujaddara (Arabic: مجدّرة, romanized: mujaddarah, with alternative spellings in English majadra, mejadra, moujadara, mudardara, and megadarra) is a dish consisting of cooked lentils together with groats, generally rice, and garnished with sautéed onions. It is especially popular in the Levant.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Mujaddara.jpg/500px-Mujaddara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mujaddara",
+      "recipe": {
+        "ingredients": [
+          "1 cup (100 g / 3.5 oz) dry lentils",
+          "Olive oil",
+          "Salt",
+          "Baharat",
+          "Cumin",
+          "Ground cardamom",
+          "4 cups (1 L / 1.1 qt) water, divided",
+          "1 cup (80 g / 2.8 oz) uncooked rice or bulgur",
+          "Ground pepper",
+          "1 medium sized onion"
+        ],
+        "steps": [
+          "Fry the lentils in oil for 3–4 minutes, stirring continuously, until the first beans show signs of scorching.",
+          "Add salt, baharat, cumin, and ground cardamom to taste.",
+          "Add 2 cups water and cover. Bring to a boil, lower to a simmer. Cook for 20 minutes or until all the water is absorbed by the lentils.",
+          "Fry the rice in oil for 3–4 minutes, stirring continuously, until the grains change colour.",
+          "Add salt, black or white pepper, and ground cardamom.",
+          "Add 2 cups water and cover. Bring to a boil, lower to a simmer. After 5 minutes turn the heat off, and leave standing for another 10 minutes.",
+          "Cut the onion into thin strips (about 0.5x4 cm / 0.2x1.6 in).",
+          "Fry the onion in olive oil until crisp and deeply golden brown (this may take a while but will result in much fuller flavor).",
+          "Mix the lentils and rice, and top with the fried onion. Use 2 parts lentils to 1 part rice for a moist consistency."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ARice_and_Lentils_(Mejadra)"
+      }
+    },
+    {
+      "id": "qidra",
+      "name": "Qidra",
+      "localName": "قدرة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Qidra%20recipe",
+      "description": "Qidreh (Arabic: قدرة) is a rice and lamb dish in Palestinian cuisine, commonly served at social gatherings like weddings and feasts. The dish is most common in the cities of Hebron, Gaza, and Jerusalem, and is usually topped with toasted nuts. Chickpeas and whole garlic cloves may also be incorporated into the rice.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Qedra_%281%29.jpg/500px-Qedra_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Qidreh"
+    },
+    {
+      "id": "sumagiyya",
+      "name": "Sumagiyya",
+      "localName": "سماقية",
+      "videoSearch": "https://www.youtube.com/results?search_query=Sumagiyya%20recipe",
+      "description": "Sumaghiyyeh (Arabic: السماقية) is a Palestinian dish native to Gaza City, prepared traditionally on holidays. It receives its name from the spice sumac. It is a traditional Arab dish, already mentioned in the 11th century, among other dishes by Abū al-Muṭahhar al-Azdī in the story Ḥikāyat Abū al-Qāsim.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Sumaghiyyeh.jpg/500px-Sumaghiyyeh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sumaghiyyeh"
+    },
+    {
+      "id": "msabbaha",
+      "name": "Msabbaha",
+      "localName": "مسبحة",
+      "videoSearch": "https://www.youtube.com/results?search_query=Msabbaha%20recipe",
+      "description": "Musabbaḥa (Arabic: مسبحة), also known as msabbaḥa, mashausha (Arabic: مشوشة), is a runnier variation of hummus made up of whole chickpeas and tahini. It is popular in the Levant.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/%D7%9E%D7%A9%D7%95%D7%95%D7%90%D7%A9%D7%94.JPG/500px-%D7%9E%D7%A9%D7%95%D7%95%D7%90%D7%A9%D7%94.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Msabbaha"
+    },
+    {
+      "id": "kaak-al-quds",
+      "name": "Ka'ak al-Quds",
+      "localName": "كعك القدس",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ka'ak%20al-Quds%20recipe",
+      "description": "Jerusalem bagel or Jerusalem ka'ak (Arabic: كعك القدس, romanized: ka'ak al-quds; Hebrew: בייגל ירושלמי, romanized: beigel yerushalmi) is a type of bread baked in Jerusalem. It has a ring shape but is otherwise only baked and not boiled unlike a traditional boiled bagel. It is related to Middle Eastern ka'ak bread.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Jerusalem_07-2012_%287550207064%29.jpg/500px-Jerusalem_07-2012_%287550207064%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jerusalem_bagel"
+    },
+    {
+      "id": "falafel",
+      "name": "Falafel",
+      "localName": "فلافل",
+      "videoSearch": "https://www.youtube.com/results?search_query=Falafel%20recipe",
+      "description": "Falafel is a deep-fried ball or patty-shaped fritter of Egyptian origin that features in Middle Eastern cuisine, particularly Levantine cuisines. It is made from ground fava beans, chickpeas, or both, and mixed with herbs and spices before frying.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Falafels_2.jpg/500px-Falafels_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Falafel"
+    },
+    {
+      "id": "hummus",
+      "name": "Hummus",
+      "localName": "حمص",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hummus%20recipe",
+      "description": "Hummus (,; Arabic: حُمُّص, romanized: ḥummuṣ, lit. 'chickpeas', also spelled hommus or houmous) (full name: Hummus Bi Tahini) is a Levantine dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Lebanese_style_hummus.jpg/500px-Lebanese_style_hummus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hummus",
+      "recipe": {
+        "ingredients": [
+          "1 cup dry chickpeas",
+          "Water",
+          "1 teaspoon baking soda",
+          "2–3 cloves of garlic",
+          "1 teaspoon salt",
+          "Tahini and water, to make a paste",
+          "Ground cumin",
+          "Fresh, coarsely-cut coriander leaves",
+          "Salt to taste"
+        ],
+        "steps": [
+          "The night before you plan to cook, combine the chickpeas, 2.5 cups of water, and baking soda. Leave to soak for 6–12 hours.",
+          "Rinse.",
+          "Add the rinsed chickpeas to 3 cups of water, along with the garlic and 1 teaspoon of salt. Bring to a boil. After about 45 minutes, they should swell enough for their skins to come off. Give it a stir, and use a slotted spoon to remove as many of the skins as you can from the water.",
+          "Cover the pot and continue cooking for about 2 hours, or until they almost dissolve to a paste.",
+          "Pour out the water. If desired, some can be reserved to add later, for extra flavor.",
+          "Mash the chickpeas by pressing them through a pasta sieve or use a food processor.",
+          "Let it cool for 10 minutes.",
+          "Add tahini and water until you get the right consistency.",
+          "Season with salt, ground cumin, and coriander leaves."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AHummus_I"
+      }
+    },
+    {
+      "id": "manakish",
+      "name": "Manakish",
+      "localName": "مناقيش",
+      "videoSearch": "https://www.youtube.com/results?search_query=Manakish%20recipe",
+      "description": "Manakish (Levantine Arabic: مناقيش, romanized: manāʾīš), singular man'ousheh (منقوشة, manʾūše) is a popular Levantine pastry, consisting of dough topped with za'atar (مناقيش بالزعتر, manāʾīš biz-zaʿtar), cheese (مناقيش باجبنة, manāʾīš bil-jibne), or ground meat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Zaatar_Mankousheh.jpg/500px-Zaatar_Mankousheh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Manakish"
+    }
+  ]
+}

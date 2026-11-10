@@ -1,0 +1,45 @@
+{
+  "country": "GY",
+  "dishes": [
+    {
+      "id": "pepperpot",
+      "name": "Pepperpot",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pepperpot%20recipe",
+      "description": "Guyanese pepperpot is the Guyanese variation of pepperpot, a slow-cooked stew found in several parts of the Caribbean and mainland Americas.. It is traditionally served at Christmas and other special events. Along with chicken curry, and cook-up rice, pepperpot is one of Guyana's national dishes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Pepperpot_%2816135006279%29.jpg/500px-Pepperpot_%2816135006279%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Guyanese_pepperpot"
+    },
+    {
+      "id": "garlic-pork",
+      "name": "Garlic pork",
+      "videoSearch": "https://www.youtube.com/results?search_query=Garlic%20pork%20recipe",
+      "description": "Carne de vinha d'alhos (\"meat of wine with garlic\") is a Portuguese dish prepared using a marinade of salt, paprika, chili paste, wine or vinegar, and garlic. Originating in Minho, it is traditionally served at Christmas time in Madeira.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Vinadosh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Carne_de_vinha_d%27alhos"
+    },
+    {
+      "id": "black-cake",
+      "name": "Black cake",
+      "videoSearch": "https://www.youtube.com/results?search_query=Black%20cake%20recipe",
+      "description": "A rum cake or black cake is a type of dessert cake which contains rum. In most of the Caribbean, rum cakes are a traditional holiday season dessert, descended from the holiday puddings (such as figgy pudding).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Rum_cake.jpg/500px-Rum_cake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rum_cake"
+    },
+    {
+      "id": "dhal-puri",
+      "name": "Dhal puri",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dhal%20puri%20recipe",
+      "description": "Roti is a round flatbread originating from the Indian subcontinent. It is commonly consumed in many South Asian, Southeast Asian, Caribbean, East African, and Southeast African countries. It is made from stoneground whole-wheat flour, known as atta, combined into a dough with added water.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2020-05-08_19_34_28_Chapati_being_made_in_a_pan_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg/500px-2020-05-08_19_34_28_Chapati_being_made_in_a_pan_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Roti"
+    },
+    {
+      "id": "pholourie",
+      "name": "Pholourie",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pholourie%20recipe",
+      "description": "Pholourie (), also spelled phulourie or phoulourie, is an snack commonly eaten in Trinidad and Tobago, Guyana, Suriname and other parts of the Caribbean. It consists of fried, spiced split pea and flour dough balls that are served with a chutney.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/RK_1611_1012_Pholourie.jpg/500px-RK_1611_1012_Pholourie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pholourie"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "country": "SS",
+  "dishes": [
+    {
+      "id": "kisra",
+      "name": "Kisra",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kisra%20recipe",
+      "description": "Kisra, also spelled kissra, is a Sudanese popular thin fermented bread made in Sudan, Chad, South Sudan, Algeria and some parts of Uganda and Kenya. It is made from durra or wheat.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Kisra_maker.jpeg/500px-Kisra_maker.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kisra"
+    },
+    {
+      "id": "asida",
+      "name": "Asida",
+      "videoSearch": "https://www.youtube.com/results?search_query=Asida%20recipe",
+      "description": "Asida, a common dish in the Arab world, is a lump of dough made by stirring wheat flour into boiling water, sometimes with added butter or honey. Similar in texture to fufu, it is eaten mainly in Middle East and African countries.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%D8%B9%D8%B5%D9%8A%D8%AF%D8%A9-%D9%82%D8%B7%D9%8A%D9%81%D9%8A%D8%A9.jpg/500px-%D8%B9%D8%B5%D9%8A%D8%AF%D8%A9-%D9%82%D8%B7%D9%8A%D9%81%D9%8A%D8%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Asida"
+    },
+    {
+      "id": "ful-medames",
+      "name": "Ful medames",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ful%20medames%20recipe",
+      "description": "Ful medames, or simply ful, is a stew of cooked fava beans served with olive oil, cumin, and optionally with chopped parsley, garlic, onion, lemon juice, chili pepper and other vegetables, herbs, and spices. Ful medames is traditionally made in and served out of a large metal jug.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ful_medames_%28arabic_meal%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ful_medames"
+    },
+    {
+      "id": "merisa",
+      "name": "Merisa",
+      "videoSearch": "https://www.youtube.com/results?search_query=Merisa%20recipe",
+      "description": "Merisa, merissa or marissa (Arabic: مريسة) is a traditional fermented beverage popular in South Sudan. It is made by Sudanese women as a source of income. Merisa is made by brewing dates, millet and sorghum.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Merisa"
+    },
+    {
+      "id": "mandazi",
+      "name": "Mandazi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mandazi%20recipe",
+      "description": "Mandazi (Swahili: mandazi, maandazi) is a form of fried bread that originated on the Swahili coast of East Africa. It is also known as bofrot or puff-puff in Western African countries such as Ghana and Nigeria.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bowl_of_mandazi.jpg/500px-Bowl_of_mandazi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mandazi"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "country": "MV",
+  "dishes": [
+    {
+      "id": "garudhiya",
+      "name": "Garudhiya",
+      "localName": "ގަރުދިޔަ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Garudhiya%20recipe",
+      "description": "Garudhiya (Dhivehi: ގަރުދިޔަ) is a clear fish broth. It is one of the basic and traditional food items of Maldivian cuisine. The broth is based on tuna species found in the nation's ocean waters such as skipjack (kanḍumas or goḍa), yellowfin tuna (kanneli), little tunny (lațți), or frigate tuna (raagonḍi).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Garudiya.jpg/500px-Garudiya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Garudhiya"
+    },
+    {
+      "id": "mas-huni",
+      "name": "Mas huni",
+      "localName": "މަސްހުނި",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mas%20huni%20recipe",
+      "description": "Mas huni (Dhivehi: މަސްހުނި) is a typical Maldivian breakfast, consisting of tuna, onion, coconut, lime juice, salt to taste and chili. All ingredients are finely chopped and mixed with the grated meat of the coconut. This dish is usually eaten with freshly baked roshi (flatbread) and sweetened hot tea.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Mas_huni-roshi087.JPG/500px-Mas_huni-roshi087.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mas_huni"
+    },
+    {
+      "id": "rihaakuru",
+      "name": "Rihaakuru",
+      "localName": "ރިހާކުރު",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rihaakuru%20recipe",
+      "description": "Rihaakuru is a tuna-based thick sauce. The color varies from light brown to dark brown. It is a traditional dish of Maldivian cuisine, consumed almost daily in every household in Maldives and in Minicoy since ancient times.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Rihaakuru.JPEG/500px-Rihaakuru.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rihaakuru"
+    },
+    {
+      "id": "gulha",
+      "name": "Gulha",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gulha%20recipe",
+      "description": "Gulha is a typical and popular Maldivian snack food. Gulha are small ball-shaped dumplings that are stuffed with a mixture of tuna, finely chopped onion, grated coconut, and chili. Depending on the cook, turmeric, lime juice ginger and chopped curry leaves are added to the mixture.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Maldivian_gulha33.JPG/500px-Maldivian_gulha33.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gulha"
+    },
+    {
+      "id": "kandu-kukulhu",
+      "name": "Kandu kukulhu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kandu%20kukulhu%20recipe",
+      "description": "Kandu kukulhu is a traditional Maldivian dish, consisting of tuna fillets rolled with spices and cooked in coconut milk.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Maldivian_dish_-_Kandu_Kulkulhu_01.jpg/500px-Maldivian_dish_-_Kandu_Kulkulhu_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kandu_kukulhu"
+    },
+    {
+      "id": "mas-riha",
+      "name": "Mas riha",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mas%20riha%20recipe",
+      "description": "Mas riha (Dhivehi: މަސް ރިހަ) is a fish curry of the Maldivian cuisine. Mas riha is commonly eaten with steamed white rice, but when eaten for breakfast it is served with roshi flatbread and eaten along with hot tea.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mas_riha_Maldives.jpg/500px-Mas_riha_Maldives.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mas_riha"
+    },
+    {
+      "id": "maskurolhi",
+      "name": "Maskurolhi",
+      "videoSearch": "https://www.youtube.com/results?search_query=Maskurolhi%20recipe",
+      "description": "Maskurolhi is a coconut and tuna chutney eaten with baipen in the Maldives during Ramadan.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maskurolhi"
+    },
+    {
+      "id": "miruhulee-boava",
+      "name": "Miruhulee boava",
+      "videoSearch": "https://www.youtube.com/results?search_query=Miruhulee%20boava%20recipe",
+      "description": "Miruhulee boava is a Maldivian delicacy made of octopus tentacles braised in curry leaves, chili, garlic, cloves, onion, pepper, and coconut oil.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Miruhulee_boava"
+    }
+  ]
+}

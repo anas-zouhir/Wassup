@@ -1,0 +1,28 @@
+{
+  "country": "KN",
+  "dishes": [
+    {
+      "id": "goat-water",
+      "name": "Goat water",
+      "videoSearch": "https://www.youtube.com/results?search_query=Goat%20water%20recipe",
+      "description": "Goat water, also referred to as kiddy stew, is a stew that is a part of the national cuisine of the Caribbean island of Montserrat. It has been described as a national dish, or national stew, of Montserrat but is also prepared in other Caribbean countries.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Goat_Water.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Goat_water"
+    },
+    {
+      "id": "ducana",
+      "name": "Ducana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ducana%20recipe",
+      "description": "Ducana is a sweet potato dumpling or pudding from Antigua, Saint Kitts and Nevis, Saint Vincent and the Grenadines, Jamaica and many other Caribbean islands.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ducana"
+    },
+    {
+      "id": "pelau",
+      "name": "Pelau",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pelau%20recipe",
+      "description": "Pelau is a traditional rice dish from the West Indies. Its main ingredients typically include meat (usually chicken or beef), rice, pigeon peas or cowpeas, coconut milk and sugar. Various vegetables and spices may be added.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Trinidadian_Chicken_Pelau_%2815399269506%29.jpg/500px-Trinidadian_Chicken_Pelau_%2815399269506%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pelau"
+    }
+  ]
+}

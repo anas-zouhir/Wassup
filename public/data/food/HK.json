@@ -1,0 +1,150 @@
+{
+  "country": "HK",
+  "dishes": [
+    {
+      "id": "har-gow",
+      "name": "Har gow",
+      "localName": "蝦餃",
+      "videoSearch": "https://www.youtube.com/results?search_query=Har%20gow%20recipe",
+      "description": "Har gow (Chinese: 蝦餃; pinyin: xiājiǎo; Jyutping: haa1 gaau2; lit. 'shrimp jiao'), also anglicized as ha gow, hau kau, or ha kao, is a traditional Cantonese dumpling served as dim sum. It is made of shrimp meat, and steamed in a flour wrapper.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Steamed_prawn_dumplings.jpg/500px-Steamed_prawn_dumplings.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Har_gow"
+    },
+    {
+      "id": "siu-mai",
+      "name": "Siu mai",
+      "localName": "燒賣",
+      "videoSearch": "https://www.youtube.com/results?search_query=Siu%20mai%20recipe",
+      "description": "Shumai (simplified Chinese: 烧卖; traditional Chinese: 燒賣; pinyin: shāomài; Cantonese Yale: sīu-máai; Pe̍h-ōe-jī: sio-māi; Wugniu: sau1 ma6) is a type of traditional Chinese dumpling meat made of ground pork.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Yellow_dim_sum_in_steamer_basket.jpg/500px-Yellow_dim_sum_in_steamer_basket.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shumai"
+    },
+    {
+      "id": "char-siu-bao",
+      "name": "Char siu bao",
+      "localName": "叉燒包",
+      "videoSearch": "https://www.youtube.com/results?search_query=Char%20siu%20bao%20recipe",
+      "description": "Cha siu bao (simplified Chinese: 叉烧包; traditional Chinese: 叉燒包; pinyin: chāshāo bāo; Jyutping: caa1 siu1 baau1; Cantonese Yale: chā sīu bāau; lit. 'barbecued pork bun') is a Cantonese baozi (bun) filled with barbecue-flavored cha siu pork.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Char_siu_bao.jpg/500px-Char_siu_bao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cha_siu_bao",
+      "recipe": {
+        "ingredients": [
+          "8 ounces (225 g) shredded cooked pork or chicken",
+          "½ cup barbecue sauce",
+          "1 tbsp soy sauce",
+          "1 tbsp cooking oil",
+          "1 tbsp granulated white sugar",
+          "1 tbsp Teriyaki sauce",
+          "1 tsp garlic chili sauce",
+          "¼ tsp five spice powder",
+          "¼ tsp toasted sesame oil",
+          "1½ cups warm water (95°F / 35°C)",
+          "3 tsp (or 1 packet) active dry yeast",
+          "3 tbsp granulated white sugar",
+          "4 cups white bread flour",
+          "2 tbsp cooking oil",
+          "1 tsp baking powder",
+          "½ tsp salt"
+        ],
+        "steps": [
+          "Place all ingredients in food processor.",
+          "Process until ingredients are blended and chopped fine.",
+          "Stir yeast and 1 tablespoon of sugar into 1½ cups of warm water (95°F / 35°C.). Let stand for 15 minutes.",
+          "Mix yeast water, 2 more tablespoons of sugar, flour, cooking oil, baking powder, and salt in mixing bowl.",
+          "Stir until dough forms. Knead dough for 10 minutes.",
+          "Allow dough to rise in a warm place for 1½ hours.",
+          "Punch dough down and divide into 12 pieces.",
+          "Roll each piece of dough into a ball, then flatten with rolling pin into a 6-inch (15 cm) circle.",
+          "Place 1 tablespoon of meat filling in center of each flattened piece of dough.",
+          "Lift the edges of the flattened dough up around the filling and bring edges together. Pinch edges closed to form filled bun.",
+          "Place buns on parchment paper. Allow to rise in a warm place 1 hour, until doubled in size.",
+          "Steam buns in a steamer over boiling water for 20 minutes.",
+          "Remove from steamer. When cool enough to handle, remove parchment paper from bottom.",
+          "Serve warm."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ASteamed_Buns_with_BBQ_Pork"
+      }
+    },
+    {
+      "id": "cheung-fun",
+      "name": "Cheung fun",
+      "localName": "腸粉",
+      "videoSearch": "https://www.youtube.com/results?search_query=Cheung%20fun%20recipe",
+      "description": "Rice noodle rolls, also known as steamed rice rolls, cheung fun (Chinese: 腸粉), and as look funn or look fun in Hawaii, is a Cantonese dish originating from Guangdong Province in southern China. It is commonly served as either a snack, small meal or variety of dim sum.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/A_Steam_White_Rice_Noodle_Rolls_from_KC_Chinese_Restaurant.jpg/500px-A_Steam_White_Rice_Noodle_Rolls_from_KC_Chinese_Restaurant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rice_noodle_roll"
+    },
+    {
+      "id": "wonton-noodles",
+      "name": "Wonton noodles",
+      "localName": "雲吞麵",
+      "videoSearch": "https://www.youtube.com/results?search_query=Wonton%20noodles%20recipe",
+      "description": "Wonton noodles (Chinese: 雲吞麵; Jyutping: wan4 tan1 min6; Cantonese Yale: wàhn tān mihn, also called wantan mee or wantan mein) is a noodle dish of Cantonese origin. Wonton noodles were given their name, húntún (Chinese: 餛飩; Jyutping: wan4 tan1), in the Tang Dynasty (618-907 CE).",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E4%B8%AD_303_Queen%27s_Road_Central_%E6%AC%8A%E8%A8%98%E9%9B%B2%E5%90%9E%E9%BA%B5_Wonton_noodle_soup_shop_June_2020_SS2_10.jpg/500px-HK_SW_%E4%B8%8A%E7%92%B0_Sheung_Wan_%E7%9A%87%E5%90%8E%E5%A4%A7%E9%81%93%E4%B8%AD_303_Queen%27s_Road_Central_%E6%AC%8A%E8%A8%98%E9%9B%B2%E5%90%9E%E9%BA%B5_Wonton_noodle_soup_shop_June_2020_SS2_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wonton_noodles"
+    },
+    {
+      "id": "roast-goose",
+      "name": "Roast goose",
+      "localName": "燒鵝",
+      "videoSearch": "https://www.youtube.com/results?search_query=Roast%20goose%20recipe",
+      "description": "Roast goose is a dish of goose meat cooked using dry heat with hot air enveloping it evenly on all sides. Many varieties of roast goose appear in cuisines around the world, including Cantonese, European, and British cuisines. Roasting can enhance its flavor.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Roasted_goose.jpg/500px-Roasted_goose.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Roast_goose"
+    },
+    {
+      "id": "claypot-rice",
+      "name": "Claypot rice",
+      "localName": "煲仔飯",
+      "videoSearch": "https://www.youtube.com/results?search_query=Claypot%20rice%20recipe",
+      "description": "Claypot rice (Chinese: 煲仔飯; Jyutping: bou1 zai2 faan6 or Chinese: 沙煲飯; Jyutping: saa1 bou1 faan6), sometimes translated as \"rice casserole\", is a Chinese traditional dinner eaten in Guangdong in Southern China as well as the Chinese communities of Malaysia, Indonesia, Singapore and Thailand.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Claypot_Chicken_Rice%2C_Singapore.JPG/500px-Claypot_Chicken_Rice%2C_Singapore.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Claypot_rice"
+    },
+    {
+      "id": "curry-fish-balls",
+      "name": "Curry fish balls",
+      "localName": "咖喱魚蛋",
+      "videoSearch": "https://www.youtube.com/results?search_query=Curry%20fish%20balls%20recipe",
+      "description": "A curry fish ball is a dish consisting of fish balls immersed in curry sauce. The dish is commonly seen in Hong Kong and an important part of Hong Kong street food culture. The dish originates from the 1950s.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Fishball.jpg/500px-Fishball.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Curry_fish_ball"
+    },
+    {
+      "id": "egg-tart",
+      "name": "Egg tart",
+      "localName": "蛋撻",
+      "videoSearch": "https://www.youtube.com/results?search_query=Egg%20tart%20recipe",
+      "description": "The egg tart (traditional Chinese: 蛋撻; simplified Chinese: 蛋挞; Cantonese Yale: daahn tāat; pinyin: dàntǎ) is a kind of tart found in Cantonese cuisine, derived from the English custard tart and Portuguese pastel de nata. The dish consists of an outer pastry crust filled with egg custard.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/HK_SSP_%E9%95%B7%E6%B2%99%E7%81%A3_Cheung_Sha_Wan_%E6%B7%B1%E7%9B%9B%E8%B7%AF_Sham_Shing_Road_%E6%B3%93%E6%99%AF%E6%BB%99%E5%95%86%E5%A0%B4_Banyan_Mall_shop_%E8%9B%8B%E6%92%BB%E7%8E%8B_King_Bakery_Studio_December_2019_SS2_egg_tarts.jpg/500px-HK_SSP_%E9%95%B7%E6%B2%99%E7%81%A3_Cheung_Sha_Wan_%E6%B7%B1%E7%9B%9B%E8%B7%AF_Sham_Shing_Road_%E6%B3%93%E6%99%AF%E6%BB%99%E5%95%86%E5%A0%B4_Banyan_Mall_shop_%E8%9B%8B%E6%92%BB%E7%8E%8B_King_Bakery_Studio_December_2019_SS2_egg_tarts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Egg_tart"
+    },
+    {
+      "id": "pineapple-bun",
+      "name": "Pineapple bun",
+      "localName": "菠蘿包",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pineapple%20bun%20recipe",
+      "description": "A pineapple bun also known as PoloBun (Chinese: 菠蘿包; Jyutping: bo1 lo4 baau1; Cantonese Yale: bōlòh bāau) is a kind of sweet bun predominantly popular in Hong Kong and also common in Chinatowns worldwide.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Pineapple_buns.jpg/500px-Pineapple_buns.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pineapple_bun"
+    },
+    {
+      "id": "egg-waffle",
+      "name": "Egg waffle",
+      "localName": "雞蛋仔",
+      "videoSearch": "https://www.youtube.com/results?search_query=Egg%20waffle%20recipe",
+      "description": "An egg waffle (雞蛋仔) is a spherical egg-based waffle popular in Hong Kong and Macau, consisting of an eggy leavened batter cooked between two plates of semi-spherical cells. They are usually served hot, and often eaten plain, although they may be served with fruit and flavors such as strawberry, coconut, or chocolate.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/HK_Lower_Wong_Tai_Sin_Eatate_Tung_Tau_Tsuen_Road_n_Ching_Tak_Street_%E9%9B%9E%E8%9B%8B%E4%BB%94.JPG/500px-HK_Lower_Wong_Tai_Sin_Eatate_Tung_Tau_Tsuen_Road_n_Ching_Tak_Street_%E9%9B%9E%E8%9B%8B%E4%BB%94.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Egg_waffle"
+    },
+    {
+      "id": "milk-tea",
+      "name": "Hong Kong-style milk tea",
+      "localName": "港式奶茶",
+      "videoSearch": "https://www.youtube.com/results?search_query=Hong%20Kong-style%20milk%20tea%20recipe",
+      "description": "Hong Kong–style milk tea (Chinese: 港式奶茶), also known as \"silk-stocking\" milk tea (絲襪奶茶), is a tea drink made from Ceylon black tea and evaporated milk (or condensed milk). The drink originated in the mid-20th century during the British rule of Hong Kong, and was inspired by British afternoon tea.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Hong_Kong_Milk_Tea%2C_Cha_Chaan_Teng-style_with_Black_and_White_cup.jpg/500px-Hong_Kong_Milk_Tea%2C_Cha_Chaan_Teng-style_with_Black_and_White_cup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong%E2%80%93style_milk_tea"
+    }
+  ]
+}

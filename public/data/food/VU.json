@@ -1,0 +1,21 @@
+{
+  "country": "VU",
+  "dishes": [
+    {
+      "id": "laplap",
+      "name": "Laplap",
+      "videoSearch": "https://www.youtube.com/results?search_query=Laplap%20recipe",
+      "description": "Laplap (sometimes incorrectly spelled lap lap) is the national dish of Vanuatu. Laplap is prepared by grating breadfruit, bananas, taro or yam roots into a vegetable paste. The paste is then wrapped in banana leaves and cooked in an underground stone oven, with fresh coconut cream.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Laplap_sosor.jpg/500px-Laplap_sosor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Laplap"
+    },
+    {
+      "id": "kava",
+      "name": "Kava",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kava%20recipe",
+      "description": "Kava or kava kava (Piper methysticum: Latin 'pepper' and Latinized Greek 'intoxicating') is a plant in the pepper family, native to the Pacific Islands. The name kava is from Tongan and Marquesan, meaning 'bitter'. Kava can refer to either the plant or a psychoactive beverage made from its root.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Starr_070515-7054_Piper_methysticum.jpg/500px-Starr_070515-7054_Piper_methysticum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kava"
+    }
+  ]
+}

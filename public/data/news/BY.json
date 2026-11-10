@@ -1,0 +1,238 @@
+{
+  "country": "BY",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "zerkalo",
+        "name": "Zerkalo",
+        "homepage": "https://news.zerkalo.io",
+        "lang": "ru"
+      },
+      "fetchedAt": "2026-10-22T15:10:03.744Z",
+      "items": [
+        {
+          "title": "Зеленский объяснил Трампу, почему россияне не взяли Киев и что для украинцев - компромисс",
+          "link": "https://news.zerkalo.io/world/138993.html?utm_campaign=news-feed&utm_medium=rss&utm_source=rss-news",
+          "summary": "«Вот это их ошибка. Они даже не поняли, что будет сопротивление».",
+          "image": "https://img.zerkalo.io/reuters/04/4/zelenskiy_18072024.jpg",
+          "publishedAt": "2026-10-22T15:05:00.000Z"
+        },
+        {
+          "title": "Северный ветер на подходе. Синоптики рассказали о погоде на предстоящей неделе",
+          "link": "https://news.zerkalo.io/life/138992.html?utm_campaign=news-feed&utm_medium=rss&utm_source=rss-news",
+          "summary": "С пятницы в страну придут дожди, а со вторника, 27 октября, начнется похолодание - по ночам местами ожидаются заморозки до минус 3 градусов.",
+          "image": "https://img.zerkalo.io/novosti/0e/6/osen_botsad_minsk_mackevich2025.jpg",
+          "publishedAt": "2026-10-22T15:04:00.000Z"
+        },
+        {
+          "title": "Беларусам начнут присылать уведомления о штрафах прямо в банковские приложения. И не только о них",
+          "link": "https://news.zerkalo.io/economics/138990.html?utm_campaign=news-feed&utm_medium=rss&utm_source=rss-news",
+          "summary": "Предполагается, что пользователям больше не придется самостоятельно заходить в разные личные кабинеты, чтобы проверить наличие государственных уведомлений.",
+          "image": "https://img.zerkalo.io/zaglushki/0f/b/06_miliciya_gai_dvizhenie_transport_04142011.jpg",
+          "publishedAt": "2026-10-22T14:47:00.000Z"
+        },
+        {
+          "title": "В IT-деревне недалеко от Минска продают несколько коттеджей. Один из них стоит больше миллиона рублей",
+          "link": "https://news.zerkalo.io/economics/138986.html?utm_campaign=news-feed&utm_medium=rss&utm_source=rss-news",
+          "summary": "Рассказываем, как выглядят дома и сколько за них просят.",
+          "image": "https://img.zerkalo.io/0a/6/403f1f9c-ef7e-44bd-8de0-3891b861b1de-20261022-163209-9ccd.jpg",
+          "publishedAt": "2026-10-22T14:41:00.000Z"
+        },
+        {
+          "title": "Симптомы женщин часто списывают на психосоматику и ставят пациенткам ошибочные психиатрические диагнозы. Что выяснили ученые",
+          "link": "https://news.zerkalo.io/cellar/138987.html?utm_campaign=news-feed&utm_medium=rss&utm_source=rss-news",
+          "summary": "Женщинам с аутоиммунными заболеваниями врачи значительно чаще говорят, что симптомы - от стресса. А правильного диагноза они ждут не месяцы, а годы.",
+          "image": "https://img.zerkalo.io/zaglushki/04/e/zhenshchina_golovnaya_bol_problema_emocii.jpg",
+          "publishedAt": "2026-10-22T14:32:00.000Z"
+        },
+        {
+          "title": "Показываем, что можно узнать о вас из свежих утечек персональных данных, о которых вас не предупредили",
+          "link": "https://news.zerkalo.io/life/138840.html?utm_campaign=news-feed&utm_medium=rss&utm_source=rss-news",
+          "summary": "Рассказываем, какая еще информация о беларусах за последнее время стала доступна в сервисах для «пробивов».",
+          "image": "https://img.zerkalo.io/novosti/10/7/utechki_2026_05.jpg",
+          "publishedAt": "2026-10-22T14:31:00.000Z"
+        },
+        {
+          "title": "«Теперь буду гуглить каждое изображение». Егор Крид извинился за лонгслив с постером фильма «Иди и смотри» - его заблюрили",
+          "link": "https://news.zerkalo.io/cellar/138988.html?utm_campaign=news-feed&utm_medium=rss&utm_source=rss-news",
+          "summary": "Музыкант заявил, что никогда не слышал об этой картине и не знал, какое изображение нанесено на одежду.",
+          "image": "https://img.zerkalo.io/novosti/10/a/photo_2026-10-22_15-20-03.jpg",
+          "publishedAt": "2026-10-22T14:18:00.000Z"
+        },
+        {
+          "title": "«Сопровождается ростом рисков». Беларусов предупредили из-за покупки авто за границей",
+          "link": "https://news.zerkalo.io/economics/138982.html?utm_campaign=news-feed&utm_medium=rss&utm_source=rss-news",
+          "summary": "Подробности рассказывает Беларусская автомобильная ассоциация.",
+          "image": "https://img.zerkalo.io/05/e/moloko_foto.jpg",
+          "publishedAt": "2026-10-22T14:06:00.000Z"
+        },
+        {
+          "title": "Россия ударила ракетами по рынку в Харьковской области - погибли и пострадали люди",
+          "link": "https://news.zerkalo.io/world/138989.html?utm_campaign=news-feed&utm_medium=rss&utm_source=rss-news",
+          "summary": "Спасательные работы продолжаются.",
+          "image": "https://img.zerkalo.io/novosti/00/9/lozovaya_rynok_1.jpg",
+          "publishedAt": "2026-10-22T14:04:00.000Z"
+        },
+        {
+          "title": "«Через 10 минут после оформления страховки». Беларусы заподозрили утечку данных из «Белгосстраха» - что говорят в компании",
+          "link": "https://news.zerkalo.io/economics/138985.html?utm_campaign=news-feed&utm_medium=rss&utm_source=rss-news",
+          "summary": "На сайте компании недоступны личные кабинеты, однако в самом «Белгосстрахе» информацию о взломе пока не подтверждают.",
+          "image": "https://img.zerkalo.io/0e/e/internet_blokirovka111.jpg",
+          "publishedAt": "2026-10-22T13:53:00.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "onliner",
+        "name": "Onliner",
+        "homepage": "https://www.onliner.by",
+        "lang": "ru"
+      },
+      "fetchedAt": "2026-10-22T15:10:03.990Z",
+      "items": [
+        {
+          "title": "Белорусы снова могут отправиться на «райский остров». Первый регулярный рейс уже выполнен",
+          "link": "https://people.onliner.by/2026/10/22/belorusy-snova-mogut-otpravitsya-na-rajskij-ostrov-pervyj-regulyarnyj-rejs-uzhe-vypolnen",
+          "summary": "Belavia выполнила первый регулярный рейс в сезоне на Пхукет. Сегодня утром самолет приземлился в Международном аэропорту, сообщили в соцсетях авиакомпании. А совсем скоро прямой рейс соединит Минск и Бангкок. Читать…",
+          "image": "https://content.onliner.by/news/thumbnail/3ce4bb2f3bb37a0785961621c07d3856.jpg",
+          "publishedAt": "2026-10-22T14:33:16.000Z"
+        },
+        {
+          "title": "«Такого нет в справочнике». Белоруска рассказала о необычном имени сына",
+          "link": "https://people.onliner.by/2026/10/22/takogo-net-v-spravochnike-beloruska-rasskazala-o-neobychnom-imeni-syna",
+          "summary": "Минчанка Татьяна опубликовала в соцсетях ролик и рассказала о выборе необычного имени для сына. Мальчика зовут Добр. Причем мама подчеркивает: это полная форма и самостоятельное имя. «А в сочетании с отчеством — Добр…",
+          "image": "https://content.onliner.by/news/thumbnail/0cced06a4a280fd5bc0bd8fd0f6ad2e8.jpg",
+          "publishedAt": "2026-10-22T13:01:41.000Z"
+        },
+        {
+          "title": "«Пациентка поступила с тяжелым диагнозом». В Минске провели уникальную операцию",
+          "link": "https://people.onliner.by/2026/10/22/pacientka-postupila-s-tyazhelym-diagnozom-v-minske-proveli-unikalnuyu-operaciyu",
+          "summary": "В 11-й больнице Минска впервые выполнили уникальную операцию. Пациентке одномоментно заменили два тазобедренных сустава, причем без разреза мышц. Известно, что все прошло успешно. Читать далее…",
+          "image": "https://content.onliner.by/news/thumbnail/930aa1be3c431386af5ee64c1400e377.jpg",
+          "publishedAt": "2026-10-22T11:33:58.000Z"
+        },
+        {
+          "title": "«Ложь чуть не стоила жизни более чем 10 врачам». Ветклиника рассказала о случае с бешенством",
+          "link": "https://people.onliner.by/2026/10/22/lozh-chut-ne-stoila-zhizni-bolee-chem-10-vracham-vetklinika-rasskazala-o-sluchae-s-beshenstvom",
+          "summary": "В аккаунте минской ветеринарной клиники рассказали о недавнем случае с пациентом. В ролике речь идет о коте, которому специалисты оказывали помощь. Только после внезапной смерти животного выяснилось: у кота обнаружено…",
+          "image": "https://content.onliner.by/news/thumbnail/224bc4aab5eb4b46beda04c4588546f1.jpg",
+          "publishedAt": "2026-10-22T09:34:11.000Z"
+        },
+        {
+          "title": "Мужчина заметил на озере перевернутую лодку. А затем обнаружил тело погибшего",
+          "link": "https://people.onliner.by/2026/10/22/muzhchina-zametil-na-ozere-perevernutuyu-lodku-a-zatem-obnaruzhil-telo-pogibshego",
+          "summary": "Происшествие случилось вчера днем в Витебской области. Заметив тело, мужчина тут же обратился к спасателям. Читать далее…",
+          "image": "https://content.onliner.by/news/thumbnail/cc6641697500877953043baf44bee847.jpg",
+          "publishedAt": "2026-10-22T07:10:42.000Z"
+        },
+        {
+          "title": "В Минске пройдет масштабная тусовка людей с именем Андрей",
+          "link": "https://people.onliner.by/2026/10/22/privet-andrei",
+          "summary": "В Минске пройдет мероприятие, участникам которого вообще не нужно представляться друг другу. А еще на нем как никогда будет уместно без перерыва крутить известную песню Ирины Аллегровой. Речь об ивенте сообщества «1000…",
+          "image": "https://content.onliner.by/news/thumbnail/a116575993557e7c6e1faf358e199e5a.jpg",
+          "publishedAt": "2026-10-22T06:00:58.000Z"
+        },
+        {
+          "title": "«Мамочка, голова болит!» Инсульт в 22 года — и отчаянная борьба сильной девушки и ее мамы (Спецпроект)",
+          "link": "https://people.onliner.by/2026/10/22/insult-v-22-goda",
+          "summary": "«Вы знаете, моя Вика ого-го какой была!» — глядя на дочь, улыбается Зоя из Борисова и рассказывает истории про парней, которые терпеливо дожидались свидания, и про любовь ее Вики к модным аутфитам. Но все изменилось в…",
+          "image": "https://content.onliner.by/news/thumbnail/e78c3b7ceb0d083e403e64f54a11f092.jpg",
+          "publishedAt": "2026-10-22T05:00:04.000Z"
+        },
+        {
+          "title": "Под Могилевом осталась зимовать стая аистов",
+          "link": "https://people.onliner.by/2026/10/21/pod-mogilevom-ostalas-zimovat-staya-aistov",
+          "summary": "В районе агрогородка Буйничи обосновалась целая стая аистов, которая так и не улетела в теплые края. Их подкармливают местные жители, пишет портал «МогилевОнлайн». Читать далее…",
+          "image": "https://content.onliner.by/news/thumbnail/85e2c3a6d2b8cca1c025ac243216231d.jpg",
+          "publishedAt": "2026-10-21T15:12:03.000Z"
+        },
+        {
+          "title": "В Минске пройдет фестиваль еды с необычными аниме-сетами. Цена — от 15 рублей",
+          "link": "https://people.onliner.by/2026/10/21/v-minske-projdet-festival-edy-s-neobychnymi-anime-setami-cena-ot-15-rublej",
+          "summary": "В пятницу стартует фестиваль «Конкорс ЕСТ. Аниме». В этот раз повара вдохновились персонажами культового аниме и предложат гостям тематические сеты. Стоимость, рассказали организаторы, от 15 до 30 рублей. Читать далее…",
+          "image": "https://content.onliner.by/news/thumbnail/992763f0a11464194d3a3ee0497605a1.jpg",
+          "publishedAt": "2026-10-21T13:32:39.000Z"
+        },
+        {
+          "title": "«В Минске, похоже, нет импортных вакцин от гриппа». Проверили, так ли это",
+          "link": "https://people.onliner.by/2026/10/21/v-minske-poxozhe-net-importnyx-vakcin-ot-grippa-proverili-tak-li-eto",
+          "summary": "«В Минске, похоже, нет импортных вакцин от гриппа. В государственных поликлиниках предлагают только российские аналоги, — написал в редакцию Евгений. — В частных медцентрах отвечают, что никаких препаратов сейчас нет —…",
+          "image": "https://content.onliner.by/news/thumbnail/e59a73d165f26f7b3747cac3db8d1f72.jpg",
+          "publishedAt": "2026-10-21T12:30:58.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "belta",
+        "name": "BelTA",
+        "homepage": "https://www.belta.by",
+        "lang": "ru"
+      },
+      "fetchedAt": "2026-10-22T15:10:04.400Z",
+      "items": [
+        {
+          "title": "\"Быть лучше, чем вчера!\" Чемпионка мира Анна Горчакова - о танцах на инвалидных колясках и создании инклюзивной школы",
+          "link": "https://belta.by/society/view/byt-luchshe-chem-vchera-chempionka-mira-anna-gorchakova-o-tantsah-na-invalidnyh-koljaskah-i-sozdanii-807260-2026/",
+          "summary": "Анне Горчаковой рукоплескали зрители на чемпионатах мира по спортивным танцам на инвалидных колясках. В четырех из них - Париже, Риме, Минске и бельгийском Малле - она завоевала золотые медали. Сегодня Анна руководит…",
+          "publishedAt": "2026-10-22T15:09:09.000Z"
+        },
+        {
+          "title": "Во Франции в замке Шантийи выставили редкий бриллиант спустя 100 лет после его кражи",
+          "link": "https://belta.by/kaleidoscope/view/vo-frantsii-v-zamke-shantiji-807278-2026/",
+          "summary": "Нашлась пропажа спустя несколько недель неожиданным образом: горничная гостиницы, где остановились воры, проголодалась и откусила яблоко, где был спрятан бриллиант. Бриллиант был возвращен в музей в замке Шантийи.",
+          "publishedAt": "2026-10-22T15:08:47.000Z"
+        },
+        {
+          "title": "Молодежь в Германии намерена выйти на протест 31 октября",
+          "link": "https://belta.by/world/view/molodezh-v-germanii-namerena-vyjti-na-protest-31-oktjabrja-807277-2026/",
+          "summary": "Организаторы протестов требуют от властей увеличения инвестиций в образование, здравоохранение и защиту климата. Они также выступают за более активное участие молодежи в принятии политических решений.",
+          "publishedAt": "2026-10-22T15:05:24.000Z"
+        },
+        {
+          "title": "В Брестской области в январе-сентябре нарастили объемы производства молока и мяса",
+          "link": "https://belta.by/regions/view/v-brestskoj-oblasti-v-janvare-sentjabre-narastili-objemy-proizvodstva-moloka-i-mjasa-807276-2026/",
+          "summary": "Рост обеспечили все 16 районов Брестской области. Стала выше товарность. Производство мяса крупного рогатого скота выросло на 3%, птицы - на 1%, свинины - на 5,4%.",
+          "publishedAt": "2026-10-22T15:04:09.000Z"
+        },
+        {
+          "title": "Беларусь и Куба обсудили взаимодействие на международных площадках",
+          "link": "https://belta.by/politics/view/belarus-i-kuba-obsudili-vzaimodejstvie-na-mezhdunarodnyh-ploschadkah-807275-2026/",
+          "summary": "Стороны обсудили актуальные вопросы белорусско-кубинского взаимодействия на международных площадках.",
+          "publishedAt": "2026-10-22T15:03:46.000Z"
+        },
+        {
+          "title": "Потенциал промкооперации в СГ и ЕАЭС нужно задействовать для создания новых производств - Минэкономики",
+          "link": "https://belta.by/economics/view/potentsial-promkooperatsii-v-sg-i-eaes-nuzhno-zadejstvovat-dlja-sozdanija-novyh-proizvodstv-807274-2026/",
+          "summary": "По итогам пятилетия (2021-2025 годов) объем промышленного производства стран ЕАЭС вырос на 18,9%, достигнув $1,7 трлн, и, по мнению замминистра экономики, есть резервы для его дальнейшего роста.",
+          "publishedAt": "2026-10-22T15:03:20.000Z"
+        },
+        {
+          "title": "Лукашенко в Вооруженных Силах назначил новое руководство ССО и оперативных командований",
+          "link": "https://belta.by/president/view/lukashenko-v-vooruzhennyh-silah-naznachil-novoe-rukovodstvo-sso-i-operativnyh-komandovanij-807273-2026/",
+          "summary": "Президент Беларуси Александр Лукашенко произвел кадровые назначения в Вооруженных Силах. Соответствующие указы глава государства подписал 22 октября.",
+          "publishedAt": "2026-10-22T15:03:04.000Z"
+        },
+        {
+          "title": "Арендное жилье в Беларуси: кому положено, сколько стоит и как получить ключи",
+          "link": "https://belta.by/society/view/arendnoe-zhilje-v-belarusi-komu-polozheno-skolko-stoit-i-kak-poluchit-kljuchi-807268-2026/",
+          "summary": "На совещании 22 сентября о перспективах жилищного строительства и повышении эффективности использования арендного жилья Президент привел цифру: на учете нуждающихся в улучшении жилищных условий - 542 тыс. семей.",
+          "publishedAt": "2026-10-22T14:58:12.000Z"
+        },
+        {
+          "title": "В Новогрудском районе с 26 октября на капремонт закроют мост через Неман",
+          "link": "https://belta.by/regions/view/v-novogrudskom-rajone-s-26-oktjabrja-na-kapremont-zakrojut-most-cherez-neman-807271-2026/",
+          "summary": "26 октября в связи с капитальным ремонтом на год закрывается движение автотранспорта по мосту через Неман на дороге Н6325 Любча - Щорсы - граница Минской области.",
+          "publishedAt": "2026-10-22T14:55:02.000Z"
+        },
+        {
+          "title": "КГК выявил нарушения в работе с обращениями граждан в нескольких районах Могилевской области",
+          "link": "https://belta.by/regions/view/kgk-vyjavil-narushenija-v-rabote-s-obraschenijami-grazhdan-v-neskolkih-rajonah-mogilevskoj-oblasti-807270-2026/",
+          "summary": "Проверки затронули ряд райисполкомов, районных администраций и организаций региона. Инспекторы выявили случаи ненадлежащего рассмотрения заявлений людей, а также нарушения порядка работы с книгами замечаний и…",
+          "publishedAt": "2026-10-22T14:49:46.000Z"
+        }
+      ]
+    }
+  ]
+}

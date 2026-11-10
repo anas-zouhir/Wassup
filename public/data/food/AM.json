@@ -1,0 +1,86 @@
+{
+  "country": "AM",
+  "dishes": [
+    {
+      "id": "khorovats",
+      "name": "Khorovats",
+      "localName": "Խորոված",
+      "videoSearch": "https://www.youtube.com/results?search_query=Khorovats%20recipe",
+      "description": "Khorovats is an Armenian grilled meat dish. The meat may be marinated before grilling, but it does not have to be. It can be made with lamb, pork, beef, chicken, fish, or even veal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Barbecue_Armenian.jpg/500px-Barbecue_Armenian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Khorovats"
+    },
+    {
+      "id": "tolma",
+      "name": "Tolma",
+      "localName": "Տոլմա",
+      "videoSearch": "https://www.youtube.com/results?search_query=Tolma%20recipe",
+      "description": "Dolma is a family of stuffed dishes largely associated with Ottoman cuisine. It mainly includes vegetables and leaves, and occasionally seafood, offal, fruits, and meats, that are hollowed out or wrapped, then filled with a mixture of rice, minced meat, herbs, and spices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Speca_te_mbushura_me_mish.JPG/500px-Speca_te_mbushura_me_mish.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dolma"
+    },
+    {
+      "id": "lavash",
+      "name": "Lavash",
+      "localName": "Լավաշ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lavash%20recipe",
+      "description": "Lavash is a thin flatbread made of leavened or unleavened wheat dough, baked in a tandoor (a type of clay oven) or on a saj griddle. Some forms are sourdough fermented with dough from previous batches. Lavash cooks very quickly in a tandoor, being placed on the sides using a cushion.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Pan_armenio_en_el_mercado_de_Yerevan.JPG/500px-Pan_armenio_en_el_mercado_de_Yerevan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lavash"
+    },
+    {
+      "id": "khash",
+      "name": "Khash",
+      "localName": "Խաշ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Khash%20recipe",
+      "description": "Khash (Armenian: խաշ) is a traditional dish made from a boiled cow or sheep parts, which might include the head, feet, and stomach (tripe). It originates from Armenia and is considered one of the oldest Armenian dishes.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Khash.jpg/500px-Khash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Khash_(dish)"
+    },
+    {
+      "id": "ghapama",
+      "name": "Ghapama",
+      "localName": "Ղափամա",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ghapama%20recipe",
+      "description": "Ghapama (Armenian: ղափամա) is an Armenian stuffed pumpkin dish, usually served as a dessert.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Ghapama_in_Sherep_Restaurant%2C_Yerevan.jpg/500px-Ghapama_in_Sherep_Restaurant%2C_Yerevan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ghapama"
+    },
+    {
+      "id": "gata",
+      "name": "Gata",
+      "localName": "Գաթա",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gata%20recipe",
+      "description": "Gata (Armenian: գաթա) is an Armenian sweet bread. There are many variations of gata in Armenia. Specific towns or regions have their own versions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Suikerbrood_van_Geghard._-_Armenia_%282910350766%29.jpg/500px-Suikerbrood_van_Geghard._-_Armenia_%282910350766%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gata_(food)"
+    },
+    {
+      "id": "zhingyalov-hats",
+      "name": "Zhingyalov hats",
+      "localName": "Ժենգյալով հաց",
+      "videoSearch": "https://www.youtube.com/results?search_query=Zhingyalov%20hats%20recipe",
+      "description": "Zhingyalov hats (Armenian: Ժենգյալով հաց, also zhengyalav hatz, zhangyalov hats, or jingalov hats) is a type of flatbread stuffed with finely diced herbs and green vegetables. It is a traditional dish of Armenians from Artsakh and Syunik and has traditionally been a staple in times of scarcity, such as famine and war.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Jengyal_roll_%E2%80%94_%D4%BA%D5%A5%D5%B6%D5%A3%D5%B5%D5%A1%D5%AC%D5%B8%D5%BE_%D5%B0%D5%A1%D6%81.jpg/500px-Jengyal_roll_%E2%80%94_%D4%BA%D5%A5%D5%B6%D5%A3%D5%B5%D5%A1%D5%AC%D5%B8%D5%BE_%D5%B0%D5%A1%D6%81.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zhingyalov_hats"
+    },
+    {
+      "id": "basturma",
+      "name": "Basturma",
+      "localName": "Բաստուրմա",
+      "videoSearch": "https://www.youtube.com/results?search_query=Basturma%20recipe",
+      "description": "Pastirma is a heavily seasoned, air-dried cured meat, typically water buffalo or beef, that is found in multiple Balkan and Mediterranean cuisines under a variety of names.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Basturma_or_Pastroma_from_Armenia_2.JPG/500px-Basturma_or_Pastroma_from_Armenia_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pastirma"
+    },
+    {
+      "id": "lahmajoun",
+      "name": "Lahmajoun",
+      "localName": "Լահմաջո",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lahmajoun%20recipe",
+      "description": "Lahmacun, lahmajun, or lahmajo is a Middle Eastern flatbread topped with minced meat (most commonly beef or lamb), minced vegetables, and herbs such as onions, garlic, tomatoes red peppers, and parsley, flavored with spices such as chili pepper and paprika, then baked.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Lahmacun.jpg/500px-Lahmacun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lahmacun"
+    }
+  ]
+}

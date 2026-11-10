@@ -1,0 +1,21 @@
+{
+  "country": "DM",
+  "dishes": [
+    {
+      "id": "callaloo-soup",
+      "name": "Callaloo soup",
+      "videoSearch": "https://www.youtube.com/results?search_query=Callaloo%20soup%20recipe",
+      "description": "Callaloo is a plant used in popular dishes in many Caribbean countries, while for other Caribbean countries, a stew made with the plant is called callaloo. Cuisines, including the plant callaloo or dishes called callaloo, vary throughout the Caribbean.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Callaloo.jpg/500px-Callaloo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Callaloo"
+    },
+    {
+      "id": "pelau",
+      "name": "Pelau",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pelau%20recipe",
+      "description": "Pelau is a traditional rice dish from the West Indies. Its main ingredients typically include meat (usually chicken or beef), rice, pigeon peas or cowpeas, coconut milk and sugar. Various vegetables and spices may be added.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Trinidadian_Chicken_Pelau_%2815399269506%29.jpg/500px-Trinidadian_Chicken_Pelau_%2815399269506%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pelau"
+    }
+  ]
+}

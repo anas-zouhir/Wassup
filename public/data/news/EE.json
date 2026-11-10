@@ -1,0 +1,248 @@
+{
+  "country": "EE",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "err",
+        "name": "ERR News",
+        "homepage": "https://www.err.ee",
+        "lang": "et"
+      },
+      "fetchedAt": "2026-10-22T15:10:55.778Z",
+      "items": [
+        {
+          "title": "Ukraina andmeil olid Vene armee viimase ööpäeva kaotused sõja suurimad",
+          "link": "https://www.err.ee/1610172676/ukraina-andmeil-olid-vene-armee-viimase-oopaeva-kaotused-soja-suurimad",
+          "summary": "Ukraina relvajõudude andmeil kaotas Venemaa armee viimase ööpäevaga 2250 sõjaväelast, mis on suurim näitaja sõja algusest saadik. Ukraina õhurünnakud tabasid ööl vastu neljapäeva piiri ja Moskva vahele jäävaid Venemaa…",
+          "image": "https://s.err.ee/photo/crop/2026/10/22/3853561h3e8et4.jpg",
+          "publishedAt": "2026-10-22T02:49:00.000Z"
+        },
+        {
+          "title": "Maris Lauri siirdub presidendi majandusnõunikuks",
+          "link": "https://www.err.ee/1610172805/maris-lauri-siirdub-presidendi-majandusnounikuks",
+          "summary": "President Ülle Madise majandusnõunikuks saab praegune reformierakondlasest riigikogu liige, majandusanalüütik ja rahandusekspert Maris Lauri, kes asub presidendi kantseleis tööle 2. novembril.",
+          "image": "https://s.err.ee/photo/crop/2026/10/22/3853468hab20t4.jpg",
+          "publishedAt": "2026-10-22T06:23:00.000Z"
+        },
+        {
+          "title": "Aleksandr Selevko võistleb nädalavahetusel GP-etapil",
+          "link": "https://sport.err.ee/1610173747/aleksandr-selevko-voistleb-nadalavahetusel-gp-etapil",
+          "summary": "Sel nädalal algab kuuest etapist koosnev iluuisutamise GP-sari, kuhu saavad ISU edetabelite alusel kutsed parimad uisutajad.",
+          "image": "https://s.err.ee/photo/crop/2026/02/10/3196553hb332t4.jpg",
+          "publishedAt": "2026-10-22T14:48:00.000Z"
+        },
+        {
+          "title": "Prantsusmaa rahandus liigub allamäge ja investorite usaldus mureneb",
+          "link": "https://www.err.ee/1610173750/prantsusmaa-rahandus-liigub-allamage-ja-investorite-usaldus-mureneb",
+          "summary": "Ajalehe The Times hinnangul kahtlevad investorid üha enam Prantsuse valitsuse võimes hoida riigi rahandust kontrolli all, mistõttu kasvavad ka riigi laenukulud. Eelarvepuudujääk, poliitiline ebakindlus ja sotsiaalsed…",
+          "image": "https://s.err.ee/photo/crop/2026/10/22/3855214h0300t4.jpg",
+          "publishedAt": "2026-10-22T14:37:00.000Z"
+        },
+        {
+          "title": "Iiri rallisõitja otsib kaardilugejat",
+          "link": "https://sport.err.ee/1610173723/iiri-rallisoitja-otsib-kaardilugejat",
+          "summary": "Iirimaa rallisõitja Jon Armstrongi ja tema kaardilugeja Shane Byrne koostöö sai läbi.",
+          "image": "https://s.err.ee/photo/crop/2026/10/22/3855211hc3e2t4.jpg",
+          "publishedAt": "2026-10-22T14:17:00.000Z"
+        },
+        {
+          "title": "Pentagon ja Lockheed tahavad toota 10 aasta jooksul 850 hävitajat F-35",
+          "link": "https://www.err.ee/1610173735/pentagon-ja-lockheed-tahavad-toota-10-aasta-jooksul-850-havitajat-f-35",
+          "summary": "USA kaitseministeerium ja relvafirma Lockheed Martin teatasid neljapäeval kümneaastasest leppest 850 tipptehnoloogilise hävitaja F-35 tootmiseks.",
+          "image": "https://s.err.ee/photo/crop/2026/10/22/3855202h504ft4.jpg",
+          "publishedAt": "2026-10-22T13:59:00.000Z"
+        },
+        {
+          "title": "Eesti toetab metaaninõuete edasilükkamist",
+          "link": "https://www.err.ee/1610173726/eesti-toetab-metaaninouete-edasilukkamist",
+          "summary": "Valitsus toetas istungil Euroopa Komisjoni ettepanekut lükata aasta võrra edasi metaanimääruse teatavad tõendamis- ja aruandluskohustused.",
+          "image": "https://s.err.ee/photo/crop/2026/10/14/3843526h65eat4.jpg",
+          "publishedAt": "2026-10-22T13:50:00.000Z"
+        },
+        {
+          "title": "Tkachuk sai külma vastuvõtu osaliseks",
+          "link": "https://sport.err.ee/1610173702/tkachuk-sai-kulma-vastuvotu-osaliseks",
+          "summary": "Jäähokiliigas NHL alistas Ottawa Senators kodujääl lähikonkurendi Florida Panthersi 5:1 (1:1, 2:0, 2:0).",
+          "image": "https://s.err.ee/photo/crop/2026/10/22/3855190h1009t4.jpg",
+          "publishedAt": "2026-10-22T13:48:00.000Z"
+        },
+        {
+          "title": "FT: Tiktoki Euroopa äri äratas Saksa meediamagnaadi huvi",
+          "link": "https://www.err.ee/1610173711/ft-tiktoki-euroopa-ari-aratas-saksa-meediamagnaadi-huvi",
+          "summary": "Ajaleht Financial Times kirjutab, et Saksa meediakontserni Axel Springer tegevjuht Mathias Döpfner tegi ettepaneku eraldada Tiktoki Euroopa tegevus Hiina emafirmast ByteDance. Allikate teatel tegi ta ka ettepaneku…",
+          "image": "https://s.err.ee/photo/crop/2026/10/22/3855196h866at4.jpg",
+          "publishedAt": "2026-10-22T13:32:00.000Z"
+        },
+        {
+          "title": "Ignitise tütarfirma kaalub gaasielektrijaama rajamist Tartu külje alla",
+          "link": "https://www.err.ee/1610173705/ignitise-tutarfirma-kaalub-gaasielektrijaama-rajamist-tartu-kulje-alla",
+          "summary": "Leedu energiakontserni Ignitis Eesti tütarfirma teeb ettevalmistusi, et võimalusel rajada Tartumaal asuvasse Kastre valda kuni 200-megavatine gaasielektrijaam.",
+          "image": "https://s.err.ee/photo/crop/2023/12/07/2175934hc885t4.jpg",
+          "publishedAt": "2026-10-22T13:28:00.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "postimees",
+        "name": "Postimees",
+        "homepage": "https://www.postimees.ee",
+        "lang": "et"
+      },
+      "fetchedAt": "2026-10-22T15:10:55.946Z",
+      "items": [
+        {
+          "title": "VIDEO ⟩ Kliendi käitumine toidupoes hämmastas poe töötajaid ja teisi kaupluse külastajaid",
+          "link": "https://pmo.ee/8569695",
+          "summary": "Näib, et üks Tallinna elanik võttis liiga sõna-sõnalt ütlust, et mees peab oma perele toitu hankima. «Relvastatuna» vibu ja nooltega, suundus ta «saagi» järele mitte metsa, vaid Sikupilli Coopi, kus hakkas riiulitel…",
+          "image": "https://f12.pmo.ee/8yWjj3v8-jCkI3-ohz3vyNYAflw=/480x270/filters:focal(2310x346:4404x2981)/nginx/o/2026/10/22/17989328t1hc437.jpg",
+          "publishedAt": "2026-10-22T14:50:00.000Z"
+        },
+        {
+          "title": "PEETER KOPPEL ⟩ Kes kasinuspoliitika kurjuse nutulaulu vahele rahabuldooseri kohta küsib, on vaenlane",
+          "link": "https://pmo.ee/8569281",
+          "summary": "Aeg-ajalt ilmub välja mõni mureliku ilmega asjapulk, kellel on oluline sõnum. Kõiges halvas, mis Euroopas toimub, olevat süüdi kaks asja. Kasinuspoliitika ja neoliberalism. Ta ütleb seda enesekindlalt, murelikult…",
+          "image": "https://f12.pmo.ee/uqSxrd2v4JkTaVA6mR_UHsOIoBs=/480x270/filters:focal(1083x860:1301x1040)/nginx/o/2025/09/02/17120805t1h79ab.jpg",
+          "publishedAt": "2026-10-22T14:31:32.000Z"
+        },
+        {
+          "title": "13-aastane kass elab tervisemure tõttu juba pool aastat puuris",
+          "link": "https://pmo.ee/8569559",
+          "summary": "2013. aasta oktoobris sündinud must kass Escobar tähistas tänavu oma 13. sünnipäeva Pesaleidja varjupaigas. Narvast Tallinna kolinud ja vahepeal ka kodus elanud kass otsib nüüd taas inimest, kelle juures veeta oma…",
+          "image": "https://f10.pmo.ee/tsNnAugqNoVZeDrEjVwyzh_XY6k=/480x270/filters:focal(114x151:550x502)/nginx/o/2026/10/22/17988992t1h3174.jpg",
+          "publishedAt": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "SKANDAAL LÄTIS ⟩ Parlament andis India teadlasele kodakondsuse vastuoluliste teenete ja küsitava teadustausta alusel",
+          "link": "https://pmo.ee/8568873",
+          "summary": "Läti parlament võttis täna vastu seadusemuudatuse, mis kuulutab kehtetuks alles nädal tagasi vastu võetud eelnõu, millega anti kodakondsus India kodanikule Divya Kanan Vishwanathile.",
+          "image": "https://f9.pmo.ee/8YFndD4QNo36kNB-6LdT_jHvaEk=/480x270/smart/nginx/o/2026/10/20/17983943t1h957f.png",
+          "publishedAt": "2026-10-22T14:24:00.000Z"
+        },
+        {
+          "title": "Kotsar ja tema koduklubi pidid vastu võtma teise kaotuse järjest",
+          "link": "https://pmo.ee/8569773",
+          "summary": "Maik-Kalev Kotsari koduklubi Yokohama B-Corsairs kaotas neljapäeval Jaapani kõrgliigas Sendaile 72:91.",
+          "image": "https://f10.pmo.ee/hXiJN3bDfT7slehiMGvB6iJdxMo=/480x270/filters:focal(1779x693:2346x1166)/nginx/o/2026/10/22/17989344t1hbfa3.jpg",
+          "publishedAt": "2026-10-22T14:21:00.000Z"
+        },
+        {
+          "title": "VIDEO ⟩ Rahvaesindaja osales volikogu hääletusel hotellivoodist, ülakeha paljas",
+          "link": "https://pmo.ee/8569683",
+          "summary": "Eilne Põhja-Pärnumaa volikogu istung kestis pea seitse ja pool tundi. Suurimat kahinat ja arusaamatust tekitas volikogu saalis aga hetk, mil veebi teel volikogu istungil osalenud Roman Kiveste (Isamaa) ilmus ekraanile…",
+          "image": "https://f12.pmo.ee/R49I5ymZjwM5Y4IU0aRV2E9CSmE=/480x270/smart/nginx/o/2026/10/22/17989120t1h90e9.png",
+          "publishedAt": "2026-10-22T14:13:05.000Z"
+        },
+        {
+          "title": "Alender tunnistas opositsiooni boikotti kliimaseaduse lugemisel: «Need, kes seda enim tahtsid, jätsid tulemata»",
+          "link": "https://pmo.ee/8569784",
+          "summary": "Algselt pidi täna toimuma keskkonnakomisjonis kliimaseaduse lugemine. Kogu opositsioon aga boikoteeris seda, mida tunnistas nüüd avalikult ka komisjoni esimees Yoko Alender.",
+          "image": "https://f7.pmo.ee/sBK6HvIUZt8raO62PY0gxGoShNE=/480x270/smart/nginx/o/2025/03/12/16710514t1h0f1d.jpg",
+          "publishedAt": "2026-10-22T14:10:25.000Z"
+        },
+        {
+          "title": "LÄBIMURRE ⟩ Tartu teadlaste loodud test näeb sündimata lapse tervist enneolematu täpsusega",
+          "link": "https://pmo.ee/8569763",
+          "summary": "Tartu teadlaste värske teadusartikkel tõestab esmakordselt maailmas, et unikaalsel rikastamismeetodil põhinev NIPTIFY test suudab tuvastada loote genoomi mistahes piirkonnas ülimalt väikesi muutusi. Enam kui 10 500…",
+          "image": "https://f12.pmo.ee/6H38P7sa3MUZq1YSvA8A-DrRmZ0=/480x270/filters:focal(668x275:885x782)/nginx/o/2025/10/08/17196747t1h8d92.jpg",
+          "publishedAt": "2026-10-22T14:07:55.000Z"
+        },
+        {
+          "title": "LUGEJAINTERVJUU VASTUSED ⟩ Leedu eurosaadik: Trumpi vastuvõetamatutele avaldustele tuleb selgelt reageerida",
+          "link": "https://pmo.ee/8569384",
+          "summary": "Leedu eurosaadik Petras Auštrevičius (Liberaalne Liikumine/Uuenev Euroopa) leiab, et Ukraina liitumisele Euroopa Liiduga pole alternatiivi, ning rõhutab Euroopa vajadust tugevdada oma kaitsevõimet vastuses Postimehe…",
+          "image": "https://f9.pmo.ee/UAS6Z-bcYTxZQGf9ubrC2BCQkeM=/480x270/filters:focal(266x66:711x439)/nginx/o/2026/10/13/17971250t1hac6f.jpg",
+          "publishedAt": "2026-10-22T14:05:00.000Z"
+        },
+        {
+          "title": "PEALE PROOVI ⟩ Tammo Sumera: selline näeb välja koorimuusika salvestamise kunst!",
+          "link": "https://pmo.ee/8569779",
+          "summary": "«Peale proovi» saatekülaliseks on helirežissöör Tammo Sumera, kellega tuleb juttu koorimuusika salvestamise kunstist ja selle telgitagustest. Saadet juhib Ode Pürg.",
+          "image": "https://f9.pmo.ee/4uVgA5GMeeldoLu037VWBJBiUfU=/480x270/filters:focal(950x267:4000x2133)/nginx/o/2026/10/22/17989399t1hf1c9.jpg",
+          "publishedAt": "2026-10-22T14:03:26.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
+        "id": "ohtuleht",
+        "name": "Õhtuleht",
+        "homepage": "https://www.ohtuleht.ee",
+        "lang": "et"
+      },
+      "fetchedAt": "2026-10-22T15:10:56.071Z",
+      "items": [
+        {
+          "title": "Politsei pidas kinni bussijuhti ähvardanud mehe",
+          "link": "https://www.ohtuleht.ee/1169551/politsei-pidas-kinni-bussijuhti-ahvardanud-mehe",
+          "summary": "Politsei sai 21. oktoobri õhtul teate, et Kohtla-Järvel Järve linnaosas ähvardas 57aastane linnaliini bussis sõitnud mees bussijuhti.",
+          "image": "https://p.ohtuleht.ee/webp/23/i/2026/10/22/0g1rn2et.fvm.jpg",
+          "publishedAt": "2026-10-22T15:03:42.000Z"
+        },
+        {
+          "title": "ERAKORDNE! Lauri Laubre tahtejõud tõi Shakira Kõrgõzstani: „Meid austati ja ehk isegi imetleti.“",
+          "link": "https://www.ohtuleht.ee/melu/1169538/erakordne-lauri-laubre-tahtejoud-toi-shakira-korgozstani-meid-austati-ja-ehk-isegi-imetleti-",
+          "summary": "Eesti muusikaärimees Lauri Laubre (65) võttis osa erakordsest projektist, mille tulemusena käis maailmakuulus popstaar Shakira esinemas Kõrgõzstanis. „Eestist me eriti ei rääkinud, aga kõik teadsid, et eestlased on kõige…",
+          "image": "https://p.ohtuleht.ee/webp/23/i/2026/10/22/3gxxldlj.5u1.jpg",
+          "publishedAt": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "„MIDA CIRCLE K SULLE TEGI?“ Mees viskas Balti jaamas tõuksiga kioskiakna puruks",
+          "link": "https://www.ohtuleht.ee/1169465/mida-circle-k-sulle-tegi-mees-viskas-balti-jaamas-touksiga-kioskiakna-puruks",
+          "summary": "„Ou, mees, mida v***u! Miks sa teed seda? Miks? Ei mees, ei pea tegema, pane tõuks maha!“ Just sellised hõiked kõlasid möödunud nädalavahetusel öises Balti jaamas, kui üks mees rohelist elektritõukeratast löögiriistana…",
+          "image": "https://p.ohtuleht.ee/webp/23/i/2026/10/21/qnteo1vr.mca.jpg",
+          "publishedAt": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "NBA debüüdi teinud ameeriklane: kaotasin Luka Doncici vastu kogu lugupidamise",
+          "link": "https://www.ohtuleht.ee/sport/1169548/nba-debuudi-teinud-ameeriklane-kaotasin-luka-doncici-vastu-kogu-lugupidamise",
+          "summary": "Golden State Warriorsi ääremängija Yaxel Lendeborgile ei jäänud NBA debüüdil liigast just fantastiliselt hea mulje.",
+          "image": "https://p.ohtuleht.ee/webp/23/i/2026/10/22/nu3zayk2.trt.jpg",
+          "publishedAt": "2026-10-22T14:57:00.000Z"
+        },
+        {
+          "title": "FOTOD | Pariisis rahutuste keskel viibinud Sirje Eesmaa: metrood seiskusid ja politseisireenid üürgasid",
+          "link": "https://www.ohtuleht.ee/melu/1169536/fotod-pariisis-rahutuste-keskel-viibinud-sirje-eesmaa-metrood-seiskusid-ja-politseisireenid-uurgasid",
+          "summary": "Telelegend Sirje Eesmaa (74) viibis Pariisis ajal, mil linnas puhkesid ulatuslikud vägivaldsed meeleavaldused ja rüüstamine. Kuigi reisi jooksul õnnestus suurematest rahvakogunemistest eemale hoida, sai ta toimuvast…",
+          "image": "https://p.ohtuleht.ee/webp/23/i/2026/10/22/hff1mrt2.igz.jpg",
+          "publishedAt": "2026-10-22T13:45:00.000Z"
+        },
+        {
+          "title": "OTSEBLOGI | Eesti panustab 10 miljonit eurot NATO algatusse Ukraina toetamiseks",
+          "link": "https://www.ohtuleht.ee/1169487/otseblogi-eesti-panustab-10-miljonit-eurot-nato-algatusse-ukraina-toetamiseks",
+          "summary": "Neljapäev, 22. oktoober. Ukrainas on käimas Venemaa algatatud täiemahulise sõja 1702. päev.",
+          "image": "https://p.ohtuleht.ee/webp/23/i/2026/10/22/serv5r2q.3nu.jpg",
+          "publishedAt": "2026-10-22T13:22:03.000Z"
+        },
+        {
+          "title": "Eestlane armastab Aasia maitseid",
+          "link": "https://www.ohtuleht.ee/toidutare/1169547/eestlane-armastab-aasia-maitseid",
+          "summary": "Aasia maitsed on kanda kinnitanud 43% eestimaalaste toidulaual ja 92% tunneb nende vastu huvi. Aasia köök on Eesti kodudes üha igapäevaseks muutumas, selgus hiljutisest Kantari uuringust. Lätis ja Leedus samaväärset…",
+          "image": "https://p.ohtuleht.ee/webp/23/i/2026/10/22/nbk4e15w.swe.jpg",
+          "publishedAt": "2026-10-22T13:15:35.000Z"
+        },
+        {
+          "title": "ESIMENE EESTLANE! Filipp Varik: Metropolitan Opera noorteprogrammi pääsemiseks oli õnne vaja",
+          "link": "https://www.ohtuleht.ee/melu/1169537/esimene-eestlane-filipp-varik-metropolitan-opera-noorteprogrammi-paasemiseks-oli-onne-vaja",
+          "summary": "Esimese eestlasena mainekasse New Yorgi Metropolitan Opera noorte artistide arenguprogrammi valitud Filipp Varik (27) rääkis „Ringvaates“, et lisaks oskustele ja suurele harjutamisele on vaja olla ka õigel ajal õiges…",
+          "image": "https://p.ohtuleht.ee/webp/23/i/2026/10/22/pc4rt1o1.t1v.jpg",
+          "publishedAt": "2026-10-22T13:15:00.000Z"
+        },
+        {
+          "title": "„HEA TÜDRUK“ PODCAST | Anu Saagim eksabikaasa kompleksidest: „Ta ei talunud, et olen temast pikem, ja murdis vihahoos mu kingadelt kontsad!“",
+          "link": "https://www.ohtuleht.ee/oltv-raadio/1169476/hea-tudruk-podcast-anu-saagim-eksabikaasa-kompleksidest-ta-ei-talunud-et-olen-temast-pikem-ja-murdis-vihahoos-mu-kingadelt-kontsad",
+          "summary": "Liiga pikk naine, liiga lühike mees, liiga suur suu ja liiga vähe häbitunnet! Tundub, et teiste inimeste elu korraldamine on mõnele lausa rahvussport. „Hea tüdruku“ värskes episoodis võtavad Anu Saagim ja Liisel Nelis…",
+          "image": "https://p.ohtuleht.ee/webp/23/i/2026/10/21/x4yovtaj.fj2.jpg",
+          "publishedAt": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Norra suusatipp: treener soovis enne MMi sprinti teha ettevalmistuse voodis",
+          "link": "https://www.ohtuleht.ee/sport/1169540/norra-suusatipp-treener-soovis-enne-mmi-sprinti-teha-ettevalmistuse-voodis",
+          "summary": "Norra suusatäht Kristine Stavaas Skistad avaldas, miks lõpetas suvel koostöö senise treeneri Lage Sofienlundiga.",
+          "image": "https://p.ohtuleht.ee/webp/23/i/2026/10/22/gtw5pqsk.rzw.jpg",
+          "publishedAt": "2026-10-22T12:52:00.000Z"
+        }
+      ]
+    }
+  ]
+}

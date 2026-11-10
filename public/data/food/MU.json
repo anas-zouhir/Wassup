@@ -1,0 +1,29 @@
+{
+  "country": "MU",
+  "dishes": [
+    {
+      "id": "dholl-puri",
+      "name": "Dholl puri",
+      "videoSearch": "https://www.youtube.com/results?search_query=Dholl%20puri%20recipe",
+      "description": "Dal puri is a type of flatbread filled with dal originating in South Asian cuisine, with variants eaten in regions with Indian diasporas. The South Asian version is a type of puri, a deep-fried flatbread made of whole wheat flour, and uses dal made of chickpeas or lentils.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/A_flicker_of_Bengali_tradition.jpg/500px-A_flicker_of_Bengali_tradition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dal_puri"
+    },
+    {
+      "id": "rougaille",
+      "name": "Rougaille",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rougaille%20recipe",
+      "description": "Rougaille, also written as rougail (and sometimes rougay), is a spiced tomato sauce common in the cuisines of Mauritius, Réunion, Seychelles, and other parts of the Francophone Indian Ocean and West Indies. It is a Creole dish, combining ingredients and characteristics from French, Asian and East African food cultures.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Rougail_saucisse.jpg/500px-Rougail_saucisse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rougaille"
+    },
+    {
+      "id": "farata",
+      "name": "Farata",
+      "videoSearch": "https://www.youtube.com/results?search_query=Farata%20recipe",
+      "description": "Paratha is a flatbread from the Indian subcontinent, consisting of a wheat dough, typically whole wheat, that is folded and rolled with ghee, forming multiple layers, and shallow fried. Paratha may be stuffed with various fillings, the most common being potato. Paratha is one of the most popular flatbreads in India.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Triangle_paratha_%28cropped%29.JPG/500px-Triangle_paratha_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paratha"
+    }
+  ]
+}

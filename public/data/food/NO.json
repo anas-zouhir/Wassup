@@ -1,0 +1,196 @@
+{
+  "country": "NO",
+  "dishes": [
+    {
+      "id": "farikal",
+      "name": "Fårikål",
+      "videoSearch": "https://www.youtube.com/results?search_query=F%C3%A5rik%C3%A5l%20recipe",
+      "description": "Fårikål is a traditional Norwegian dish and the country's national dish. It consists of pieces of mutton with bone, cabbage, whole black pepper, and occasionally a little wheat flour, cooked for several hours in a casserole, traditionally served with potatoes boiled in their skins.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/F%C3%A5r_i_k%C3%A5l.jpg/500px-F%C3%A5r_i_k%C3%A5l.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/F%C3%A5rik%C3%A5l",
+      "recipe": {
+        "ingredients": [
+          "2 kg mutton shoulder",
+          "2 kg white cabbage",
+          "5 teaspoons whole black peppercorns",
+          "3 teaspoons salt",
+          "6 dl water"
+        ],
+        "steps": [
+          "Cut the cabbage in half, then cut the halves into roughly even boat-shaped pieces.",
+          "Cover the bottom of the pot with a layer of meat, laying it with the fattier side down.",
+          "Add a layer of cabbage on top of the meat, then another layer of meat on top of the cabbage. Add salt and pepper between each layer. Continue until you have placed all the cabbage and meat into the pot.",
+          "Pour in the water, and slowly bring it to a boil. Reduce the heat until the stew is at a slight simmer.",
+          "Let the meat simmer until it is tender and easily falls off the bone. This should take around 3 hours. Let it simmer for a little shorter when using lamb meat.",
+          "Serve straight from the pot with boiled potatoes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AF%C3%A5rik%C3%A5l_(Norwegian_Lamb_and_Cabbage_Stew)"
+      }
+    },
+    {
+      "id": "lutefisk",
+      "name": "Lutefisk",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lutefisk%20recipe",
+      "description": "Lutefisk is dried whitefish, usually cod, but sometimes ling or burbot, cured in lye. It is made from aged stockfish (air-dried whitefish), or dried and salted cod. The fish takes a gelatinous texture after being rehydrated for days prior to eating.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/ForkLutefisk.jpg/500px-ForkLutefisk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lutefisk"
+    },
+    {
+      "id": "rakfisk",
+      "name": "Rakfisk",
+      "videoSearch": "https://www.youtube.com/results?search_query=Rakfisk%20recipe",
+      "description": "Rakfisk is a Norwegian fish dish made from trout or char, salted and autolyzed for two to three months, or even up to a year. Rakfisk is then eaten without cooking and has a strong smell and a pungent salty flavor.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Rakfisk.jpg/500px-Rakfisk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rakfisk"
+    },
+    {
+      "id": "smalahove",
+      "name": "Smalahove",
+      "videoSearch": "https://www.youtube.com/results?search_query=Smalahove%20recipe",
+      "description": "Smalahove (also called smalehovud, sau(d)ehau(d) or skjelte) is a Western Norwegian traditional dish made from a sheep's head, originally eaten before Christmas. The name of the dish comes from the combination of the Norwegian words hove and smale. Hove is a dialectal form of hovud, meaning \"head\" (cf.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Smalahove01.JPG/500px-Smalahove01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Smalahove"
+    },
+    {
+      "id": "pinnekjott",
+      "name": "Pinnekjøtt",
+      "videoSearch": "https://www.youtube.com/results?search_query=Pinnekj%C3%B8tt%20recipe",
+      "description": "Pinnekjøtt is a traditional Norwegian main course dinner dish based on lamb ribs. Pinnekjøtt is a festive dish typical to Western and Northern Norway, and is rapidly gaining popularity in other regions as well.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/K%C3%A5lrabistappe%2C_2012.jpg/500px-K%C3%A5lrabistappe%2C_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pinnekj%C3%B8tt"
+    },
+    {
+      "id": "lefse",
+      "name": "Lefse",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lefse%20recipe",
+      "description": "Lefse, dialectally also lefsa (among others), is a traditional soft Norwegian flatbread, also found regionally in Sweden (Swedish: läfsa, löfsa). It is made with riced potatoes, can include all purpose (wheat) flour, and includes butter, and milk, cream, or lard. It is cooked on a large, flat griddle.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Lefse_on_a_griddle.jpg/500px-Lefse_on_a_griddle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lefse",
+      "recipe": {
+        "ingredients": [
+          "8 cups boiled and mashed russet potatoes, still hot",
+          "½ cup melted butter",
+          "3 cups unbleached flour",
+          "2 tablespoons granulated sugar",
+          "2 teaspoons salt",
+          "1 cup cream"
+        ],
+        "steps": [
+          "Mix mashed potatoes with melted butter.",
+          "If preparing ahead, refrigerate mixture overnight, and take the potatoes out one hour before beginning the rest of the preparation.",
+          "Mix sugar, salt, cream, and potato mixture in a large bowl. Gradually stir in flour.",
+          "Using about 2 tablespoons (or a golf ball-sized chunk) of mix at a time, roll mix into flat, round shapes on a flat, smooth surface. Use flour to keep the mix from sticking to the surface and the rolling pin.",
+          "Place the round lefse on the griddle, cook until browned on bottom. Flip and repeat.",
+          "Add toppings, and serve hot!"
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ALefse_(Norwegian_Potato_Flatbread)"
+      }
+    },
+    {
+      "id": "brunost",
+      "name": "Brunost",
+      "videoSearch": "https://www.youtube.com/results?search_query=Brunost%20recipe",
+      "description": "Brunost (lit. 'brown cheese') is a common Norwegian name for mysost (lit. 'whey cheese'; Danish: myseost; Swedish: mesost; Finnish: mesjuusto; Icelandic: mysuostur/mysingur), a family of soft cheese-related foods made with whey, milk, and/or cream.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Brunost.jpg/500px-Brunost.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Brunost"
+    },
+    {
+      "id": "krumkake",
+      "name": "Krumkake",
+      "videoSearch": "https://www.youtube.com/results?search_query=Krumkake%20recipe",
+      "description": "Krumkake is a Norwegian cookie made of flour, butter, eggs, and sugar. A special decorative two-sided iron griddle similar to a waffle iron is traditionally used to bake the thin round cakes, similar to Italian pizzelle and cannoli.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/1krumkake.jpg/500px-1krumkake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Krumkake"
+    },
+    {
+      "id": "raspeball",
+      "name": "Raspeball",
+      "localName": "Komle",
+      "videoSearch": "https://www.youtube.com/results?search_query=Raspeball%20recipe",
+      "description": "Potetball (also known as ball, klubb, kumle, komle, komla, kompe, raspeball) is a traditional Norwegian potato dumpling. A similar German dish is called Kartoffelklöße. The main ingredient is peeled potatoes, which are grated or ground up and mixed with flour, usually barley or wheat, to make the balls stick together.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Komlemiddag.jpg/500px-Komlemiddag.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Raspeball",
+      "recipe": {
+        "ingredients": [
+          "2 kg potatoes, peeled",
+          "100 g flour",
+          "20 g (about 3–4 tsp) salt",
+          "150 g salted pork",
+          "Lightly-salted beef stock"
+        ],
+        "steps": [
+          "Chop the potatoes in a food processor.",
+          "Squeeze the potato mass to discard the water.",
+          "Mix the potatoes with the flour, and let the dough rest for 10 minutes.",
+          "Shape the dough into big round balls, and fill them with pieces of the salted pork.",
+          "Boil the balls in beef stock for about 15–20 minutes."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKomle_(Norwegian_Potato_Dumplings)"
+      }
+    },
+    {
+      "id": "rommegrot",
+      "name": "Rømmegrøt",
+      "videoSearch": "https://www.youtube.com/results?search_query=R%C3%B8mmegr%C3%B8t%20recipe",
+      "description": "Rømmegrøt (Norwegian Bokmål), also known as rømmegraut (Norwegian Nynorsk) and römmegröt (Swedish), is a Norwegian porridge made with sour cream, whole milk, wheat flour, butter, and salt. Rømme is a Norwegian word meaning sour cream; grøt translates as 'porridge'.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/R%C3%B6mmegr%C3%B6t.jpg/500px-R%C3%B6mmegr%C3%B6t.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/R%C3%B8mmegr%C3%B8t"
+    },
+    {
+      "id": "klippfisk",
+      "name": "Klippfisk",
+      "videoSearch": "https://www.youtube.com/results?search_query=Klippfisk%20recipe",
+      "description": "Dried and salted cod, sometimes referred to as salt cod or saltfish or salt dolly, is cod which has been preserved by drying after salting. Cod which has been dried without the addition of salt is stockfish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Bacalhau_%28Porto%29.jpg/500px-Bacalhau_%28Porto%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dried_and_salted_cod"
+    },
+    {
+      "id": "kransekake",
+      "name": "Kransekake",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kransekake%20recipe",
+      "description": "Kransekage, kransekake (Norwegian) or kransakaka (Icelandic) is a traditional Danish and Norwegian confection, often eaten on special occasions in Scandinavia. In English, the name means 'wreath cake'.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Kransekage_%28wreath_cake%29.jpg/500px-Kransekage_%28wreath_cake%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kransekage"
+    },
+    {
+      "id": "lapskaus",
+      "name": "Lapskaus",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lapskaus%20recipe",
+      "description": "Lobscouse, often shortened in some regions to scouse or lobby, is a stew made of meat, potatoes and vegetables common to multiple Northern European maritime countries under similar names.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Lobscouse%2C_Lobby%2C_Scouse.jpg/500px-Lobscouse%2C_Lobby%2C_Scouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lobscouse"
+    },
+    {
+      "id": "blotkake",
+      "name": "Bløtkake",
+      "videoSearch": "https://www.youtube.com/results?search_query=Bl%C3%B8tkake%20recipe",
+      "description": "Bløtkake is a type of layer cake from Norway. It consists of layers of sukkerbrød, which bears resemblance to pound cake but is usually lighter, whipped cream or custard, and fresh or preserved fruit or berries. It is typically served to mark occasions such as birthdays, jubilees, or Constitution Day in Norway.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Bringeb%C3%A6rbl%C3%B8tkake.JPG/500px-Bringeb%C3%A6rbl%C3%B8tkake.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bl%C3%B8tkake",
+      "recipe": {
+        "ingredients": [
+          "4 eggs",
+          "100 g white granulated sugar",
+          "100 g flour",
+          "1 tsp baking powder",
+          "Raspberry jam",
+          "1 tin sliced peaches",
+          "Vanilla custard",
+          "Whipped cream",
+          "1 tsp white granulated sugar",
+          "Berries or other fruit (usually blueberries, redcurrants or other soft berries)"
+        ],
+        "steps": [
+          "Whip the eggs and sugar until they form peaks. Sieve the flour and baking powder into the egg mixture and fold in gently.",
+          "Pour the batter into a greased round tin (about 22 cm in diameter) ,and bake the cake at 170°C for 30–40 minutes.",
+          "Cool completely on a rack, then unmold the cakes.",
+          "Slice the cake horizontally into 3 layers. Sprinkle each slice with some of the peach juice from the tin.",
+          "Cover 2 of the slices with jam, peach slices, and vanilla custard. Place the third layer on top of the other two.",
+          "Whip the cream with the sugar. Cover the whole cake, including the sides, with the whipped cream.",
+          "Garnish with berries and/or fruit."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3ABl%C3%B8tkake_(Norwegian_Berries_and_Cream_Cake)"
+      }
+    }
+  ]
+}

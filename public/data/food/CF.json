@@ -1,0 +1,73 @@
+{
+  "country": "CF",
+  "dishes": [
+    {
+      "id": "gozo",
+      "name": "Gozo",
+      "videoSearch": "https://www.youtube.com/results?search_query=Gozo%20recipe",
+      "description": "Chikwangue, also known in Cameroon as bobolo and in the Congo River basin language of Lingala as kwanga, is a starchy, fermented-cassava product that is a staple food across Central Africa: the Democratic Republic of Congo (DRC), the Republic of Congo (RotC), Gabon, Cameroon and Equatorial Guinea.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Cassava_Bread_-_cassava_cooked_in_leaf_wrap_%28Kwanga%2C_Chikwangue%29.jpg/500px-Cassava_Bread_-_cassava_cooked_in_leaf_wrap_%28Kwanga%2C_Chikwangue%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chikwangue"
+    },
+    {
+      "id": "ngunza",
+      "name": "Ngunza (cassava leaves)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ngunza%20(cassava%20leaves)%20recipe",
+      "description": "Saka-saka is a 2013 Filipino action film co-written and directed by Toto Natividad. The film stars Ejay Falcon and Joseph Marco. It was one of the entries in the 2013 Metro Manila Film Festival under the New Wave category.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saka-saka"
+    },
+    {
+      "id": "kanda",
+      "name": "Kanda",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kanda%20recipe",
+      "recipe": {
+        "ingredients": [
+          "2 pounds chicken or beef, cut into pieces (either bone-in or boneless)",
+          "1 cup shelled unsalted peanuts",
+          "2 medium onions, finely chopped",
+          "2 tomatoes, diced",
+          "2 bell peppers, diced",
+          "2 cloves garlic, minced",
+          "2 tablespoons tomato paste",
+          "2 tablespoons peanut butter",
+          "2 tablespoons oil",
+          "4 cups chicken or beef broth",
+          "1 teaspoon paprika",
+          "1 teaspoon thyme",
+          "Salt to taste",
+          "Pepper to taste",
+          "Fresh parsley or cilantro for garnish (optional)"
+        ],
+        "steps": [
+          "If using peanuts with skins, start by removing the skins. You can do this by roasting the peanuts in the oven for a few minutes until the skins loosen. Rub the peanuts between your hands or use a clean kitchen towel to remove the skins.",
+          "In a blender or food processor, grind the peanuts until they form a fine powder. Set aside.",
+          "Heat oil in a large cooking pot over medium heat. Add the chopped onions and sauté until they become translucent.",
+          "Add the chicken or beef pieces to the pot and cook until they are browned on all sides. If using chicken with bones, this step helps enhance the flavor of the stew.",
+          "Stir in the minced garlic, diced tomatoes, and bell peppers. Cook for a few minutes until the vegetables start to soften.",
+          "Add the tomato paste, peanut butter, ground peanuts, paprika, thyme, salt, and pepper to the pot. Mix well to combine all the ingredients.",
+          "Pour in the chicken or beef broth and stir to incorporate everything. Bring the mixture to a boil.",
+          "Once it boils, reduce the heat to low and cover the pot with a lid. Allow the stew to simmer for about 1–1.5 hours, or until the meat is tender and the flavors have melded together.",
+          "Taste the stew and adjust the seasoning if needed, adding more salt, pepper, or spices according to your preference.",
+          "Serve the kanda hot, garnished with fresh parsley or cilantro if desired. It is commonly served over cooked rice or with fufu."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AKanda_(Peanut_Stew)"
+      }
+    },
+    {
+      "id": "koko",
+      "name": "Koko (gnetum leaves)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Koko%20(gnetum%20leaves)%20recipe",
+      "description": "Gnetum africanum (eru or African jointfir) is a species of vine native to tropical Africa. Though bearing leaves, the genus Gnetum are gymnosperms, related to pine and other conifers.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Gnetum_africanum_MS_3428.jpg/500px-Gnetum_africanum_MS_3428.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gnetum_africanum"
+    },
+    {
+      "id": "fufu",
+      "name": "Fufu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Fufu%20recipe",
+      "description": "Fufu (or fufuo, foofoo, foufou foo-foo ) is a pounded meal found in West African cuisine originally made from boiled cassava, plantains, and cocoyam. Fufu's prevalence in West Africa has been noted in local literature, such as Chinua Achebe's Things Fall Apart. Fufu is a Twi word originating from the Akans in Ghana.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Wrapped_fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fufu"
+    }
+  ]
+}

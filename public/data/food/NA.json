@@ -1,0 +1,69 @@
+{
+  "country": "NA",
+  "dishes": [
+    {
+      "id": "kapana",
+      "name": "Kapana",
+      "videoSearch": "https://www.youtube.com/results?search_query=Kapana%20recipe",
+      "description": "Kapana is a way of preparing raw meat, typically beef, in Namibia by grilling it on an open fire. The grilled meat is often sold at stalls in open markets; it is cut into small pieces and grilled and sold while it is cooking. There are often many people selling it at one place, so the price is usually negotiable.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kapana_beef.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kapana_(grilled_meat)"
+    },
+    {
+      "id": "oshifima",
+      "name": "Oshifima",
+      "videoSearch": "https://www.youtube.com/results?search_query=Oshifima%20recipe",
+      "description": "Ugali, also known as posho, nsima, papa, pap, bogobe, sadza, isitshwala, akume, amawe, ewokple, akple, and other names, is a type of corn meal made from maize or corn or mahindi flour in several African countries: Kenya, Uganda, South Sudan, Tanzania, Zimbabwe, Zambia, Lesotho, Eswatini, Angola, Mozambique, Namibia, De…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ugali_%26_Sukuma_Wiki.jpg/500px-Ugali_%26_Sukuma_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ugali"
+    },
+    {
+      "id": "potjiekos",
+      "name": "Potjiekos",
+      "videoSearch": "https://www.youtube.com/results?search_query=Potjiekos%20recipe",
+      "description": "In South Africa, a potjiekos, literally translated \"small-pot food\", is a dish prepared outdoors. It is traditionally cooked in a round, cast iron, three-legged cauldron, the potjie. The pot is heated using small amounts of wood or charcoal or, if fuel is scarce, twisted grass or even dried animal dung.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Beef_Potjie_Kos.jpg/500px-Beef_Potjie_Kos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Potjiekos"
+    },
+    {
+      "id": "biltong",
+      "name": "Biltong",
+      "videoSearch": "https://www.youtube.com/results?search_query=Biltong%20recipe",
+      "description": "Biltong is a form of air-dried, cured meat which originated in Southern Africa. Various types of meat are used to produce it, ranging from beef to game meats such as ostrich or kudu.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Sliced_Biltong.jpg/500px-Sliced_Biltong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Biltong"
+    },
+    {
+      "id": "mopane-worms",
+      "name": "Mopane worms (omangungu)",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mopane%20worms%20(omangungu)%20recipe",
+      "description": "Gonimbrasia belina is a species of emperor moth which is native to the warmer parts of southern Africa. Its large edible caterpillar, known as the mopane worm, madora, amacimbi, pigeon moth or masonja, feeds primarily but not exclusively on mopane tree leaves.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Colophospermum_mopane_50D_0486.jpg/500px-Colophospermum_mopane_50D_0486.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gonimbrasia_belina"
+    },
+    {
+      "id": "potbrood",
+      "name": "Potbrood",
+      "videoSearch": "https://www.youtube.com/results?search_query=Potbrood%20recipe",
+      "description": "Potbrood (\"pot bread\") is bread first made by the Boer settlers of what is now South Africa. Potbrood was traditionally baked in a cast-iron pot (also known as a Dutch oven) in a pit made in the ground and lined with hot coals.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Potbrood-001.jpg/500px-Potbrood-001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Potbrood"
+    },
+    {
+      "id": "oshikundu",
+      "name": "Oshikundu",
+      "videoSearch": "https://www.youtube.com/results?search_query=Oshikundu%20recipe",
+      "description": "Oshikundu or ontaku is a traditional Namibian drink made from fermented millet (mahangu) flour, brans and malted sorghum flour mixed with tepid water. It is made from cereal. Ontaku has a short life span and must be consumed within six hours once it is ready.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Oshikundu.jpg/500px-Oshikundu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Oshikundu"
+    },
+    {
+      "id": "vetkoek",
+      "name": "Vetkoek",
+      "videoSearch": "https://www.youtube.com/results?search_query=Vetkoek%20recipe",
+      "description": "Vetkoek is a traditional South African fried dough bread. It is similar to the Caribbean Johnny cake, the Dutch oliebol, and the Mexican sopaipillas. It is also known by the Xhosa, Zulu, and Setswana name igwinya (plural amagwinya) and legwinya (plural magwinya) respectively.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Vetkoek_with_mince-001.jpg/500px-Vetkoek_with_mince-001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vetkoek"
+    }
+  ]
+}

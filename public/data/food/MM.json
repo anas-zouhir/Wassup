@@ -1,0 +1,105 @@
+{
+  "country": "MM",
+  "dishes": [
+    {
+      "id": "mohinga",
+      "name": "Mohinga",
+      "localName": "မုန့်ဟင်းခါး",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mohinga%20recipe",
+      "description": "Mohinga is the national dish of Myanmar. Mohinga is a fish soup made with rice noodles, typically served as a hearty breakfast. It features a rich broth flavored with lemongrass, turmeric, and fish sauce, often garnished with boiled eggs, cilantro, and crispy fritters.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mohnga.jpg/500px-Mohnga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mohinga",
+      "recipe": {
+        "ingredients": [
+          "5 tsp sunflower oil",
+          "10 garlic cloves",
+          "30 ml lemonade",
+          "70 g Mohingha soup powder",
+          "⅞ cups boiling water",
+          "100 g jalapeno peppers, diced",
+          "2 tbsp ketchup",
+          "60 g instant rice vermicelli"
+        ],
+        "steps": [
+          "In a large bowl, mix sunflower oil, garlic cloves, soup powder, and lemonade for 3 minutes.",
+          "In a small bowl, mix boiling water, diced jalapeño peppers, and ketchup for 5 minutes.",
+          "Combine both mixtures, and continue mixing for 2 ½ minutes.",
+          "Add rice vermicelli to the bowl; cover it and wait for 10 minutes.",
+          "Top it with toppings as desired."
+        ],
+        "source": "https://en.wikibooks.org/wiki/Cookbook%3AMohingha_(Burmese_Fish_Noodle_Soup)"
+      }
+    },
+    {
+      "id": "lahpet",
+      "name": "Lahpet (tea leaf salad)",
+      "localName": "လက်ဖက်",
+      "videoSearch": "https://www.youtube.com/results?search_query=Lahpet%20(tea%20leaf%20salad)%20recipe",
+      "description": "Lahpet, also spelled laphek, laphet, l'phak, leppek, le'pek, or lek-pek in English, is Burmese for fermented or pickled tea. In Myanmar, tea is consumed both as a drink and as an eaten delicacy, in the form of pickled tea, which is unique to this region.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Green_tea_and_peanut_nibbles_%2810808703485%29.jpg/500px-Green_tea_and_peanut_nibbles_%2810808703485%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lahpet"
+    },
+    {
+      "id": "ohn-no-khao-swe",
+      "name": "Ohn no khao swè",
+      "localName": "အုန်းနို့ခေါက်ဆွဲ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Ohn%20no%20khao%20sw%C3%A8%20recipe",
+      "description": "Ohn no khao swè is a Burmese dish consisting of wheat noodles in a curried chicken and coconut milk broth thickened with gram flour (chickpea flour). Burmese fritters, especially crispy fried bean fritters, alongside hard-boiled eggs, sliced raw onions, chili peppers, and crispy noodles are added to the dish.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Ohn_No_Khao_Swe_at_Sapphire_Asian_Cuisine_%2810988302274%29.jpg/500px-Ohn_No_Khao_Swe_at_Sapphire_Asian_Cuisine_%2810988302274%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ohn_no_khao_sw%C3%A8"
+    },
+    {
+      "id": "nan-gyi-thoke",
+      "name": "Nan gyi thoke",
+      "localName": "နန်းကြီးသုပ်",
+      "videoSearch": "https://www.youtube.com/results?search_query=Nan%20gyi%20thoke%20recipe",
+      "description": "Nan gyi thoke is an a thoke salad dish in Burmese cuisine, made with thick round rice noodles mixed with specially prepared chicken curry and chili oil. The dish is garnished with toasted chickpea flour, sliced onions, chilis, crispy noodles, slices of hard-boiled egg, fish cakes, and zested with lime or lemon.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Nan_gyi_thoke.png/500px-Nan_gyi_thoke.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nan_gyi_thoke"
+    },
+    {
+      "id": "burmese-curry",
+      "name": "Burmese curry",
+      "localName": "ဟင်း",
+      "videoSearch": "https://www.youtube.com/results?search_query=Burmese%20curry%20recipe",
+      "description": "Burmese curry refers to a diverse array of dishes in Burmese cuisine that consist of meat or vegetables simmered or stewed in an aromatic curry base.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Myanma_cuisine.jpg/500px-Myanma_cuisine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Burmese_curry"
+    },
+    {
+      "id": "mont-lone-yay-paw",
+      "name": "Mont lone yay baw",
+      "localName": "မုန့်လုံးရေပေါ်",
+      "videoSearch": "https://www.youtube.com/results?search_query=Mont%20lone%20yay%20baw%20recipe",
+      "description": "Mont lone yay baw are rice balls stuffed with sweet palm jaggery, eaten as a dessert in Myanmar. It is commonly associated with the Burmese New Year, Thingyan season, when it is usually made in a group and served to the public as a good deed.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/MontLone_yeibaw.JPG/500px-MontLone_yeibaw.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mont_lone_yay_baw"
+    },
+    {
+      "id": "shwe-yin-aye",
+      "name": "Shwe yin aye",
+      "localName": "ရွှေရင်အေး",
+      "videoSearch": "https://www.youtube.com/results?search_query=Shwe%20yin%20aye%20recipe",
+      "description": "Shwe yin aye is a traditional Burmese dessert commonly associated with the Thingyan season. The dessert consists of sweetened sticky rice, sago pearls, pandan jelly noodles (cendol), and cubes of gelatine, coconut jelly, and a slice of white bread steeped in a concoction of sweetened coconut milk, served cold.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Shweyin-aye.JPG/500px-Shweyin-aye.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shwe_yin_aye"
+    },
+    {
+      "id": "htamane",
+      "name": "Htamane",
+      "localName": "ထမနဲ",
+      "videoSearch": "https://www.youtube.com/results?search_query=Htamane%20recipe",
+      "description": "Htamanè is a glutinous rice-based savory snack, and a seasonal festive delicacy in Myanmar. The traditional delicacy is ceremonially prepared around and on the full moon day of Tabodwe (တပို့တွဲ), the 11th lunar month on the traditional Burmese calendar (roughly in February), just as the cool season ends.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Htaman%C3%A8.JPG/500px-Htaman%C3%A8.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Htaman%C3%A8"
+    },
+    {
+      "id": "meeshay",
+      "name": "Meeshay",
+      "videoSearch": "https://www.youtube.com/results?search_query=Meeshay%20recipe",
+      "description": "Meeshay is a Burmese cuisine dish of rice noodles with a meat sauce. The dish originated from the Chinese mixian (simplified Chinese: 米线) and became a specialty of the Shan people of Eastern Myanmar. Regional variants exist, but the two main types are the normal Mogok meeshay and the Mandalay version.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Meeshei.JPG/500px-Meeshei.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "wikipedia": "https://en.wikipedia.org/wiki/Meeshay"
+    }
+  ]
+}
