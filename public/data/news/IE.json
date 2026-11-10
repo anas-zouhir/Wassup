@@ -8,8 +8,15 @@
         "homepage": "https://www.rte.ie/news/",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-10T13:39:16.795Z",
+      "fetchedAt": "2026-11-10T14:15:46.935Z",
       "items": [
+        {
+          "title": "Man, 52, found guilty of murdering Tipperary 89-year-old",
+          "link": "https://www.rte.ie/news/courts/2026/1110/1598687-josie-ray-nenagh-trial/",
+          "summary": "A 52-year-old man has been found guilty the murder of 89-year-old mother-of-five Josephine 'Josie' Ray at her home in Nenagh, Co Tipperary, in August 2024.",
+          "image": "https://www.rte.ie/images/0020bfa3-800.jpg",
+          "publishedAt": "2026-11-10T13:22:37.000Z"
+        },
         {
           "title": "Bus driver guilty of dangerous driving over fatal crash",
           "link": "https://www.rte.ie/news/ireland/2026/1110/1598663-adrian-doyle-court/",
@@ -60,13 +67,6 @@
           "publishedAt": "2026-11-10T11:59:13.000Z"
         },
         {
-          "title": "Judge will accept majority verdict in Ray murder trial",
-          "link": "https://www.rte.ie/news/courts/2026/1110/1598687-josie-ray-nenagh-trial/",
-          "summary": "Jury members have been told by the trial judge that he will accept a majority 10/2 or 11/1 verdict in the trial of a 52-year-old man charged with the murder of 89-year-old mother-of-five Josephine 'Josie' Ray at her home…",
-          "image": "https://www.rte.ie/images/0020bfa3-800.jpg",
-          "publishedAt": "2026-11-10T13:22:37.000Z"
-        },
-        {
           "title": "Thousands of books once banned by State to go on view",
           "link": "https://www.rte.ie/culture/2026/1110/1598591-banned-books/",
           "summary": "Ledgers outlining the individual reasons why each book was banned will also be available for public viewing for the first time.",
@@ -89,12 +89,19 @@
         "homepage": "https://www.irishtimes.com",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-10T13:39:17.241Z",
+      "fetchedAt": "2026-11-10T14:15:47.224Z",
       "items": [
         {
-          "title": "‘Absolutely no toleration’: Gardaí warn against robust protests and roadblocks this week",
-          "link": "https://www.irishtimes.com/ireland/2026/11/10/absolutely-no-toleration-gardai-warn-against-robust-protests-and-roadblocks-this-week/",
-          "summary": "More than 500 public order unit gardaí, along with two water cannons and heavy-duty towing vehicles, are on standby",
+          "title": "‘Breakthrough’ at public sector pay talks but planning for Thursday’s strike continues",
+          "link": "https://www.irishtimes.com/ireland/2026/11/10/public-sector-pay-talks-see-breakthrough-but-thursday-strike-yet-to-be-called-off/",
+          "summary": "Government and unions will meet again today at WRC, with possible agreement in sight",
+          "image": "https://www.irishtimes.com/resizer/v2/W5OTA6RIDRDHXIGFPEI3R37ZUY.JPG?auth=1acfa247a1ea1165f45fd65cf2151c6eb34f7e4d7019f8be96a1a37bb3e2d8a5&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-10T13:38:28.000Z"
+        },
+        {
+          "title": "Gardaí say ‘significant risk’ to security this week as Ryanair flight from Dublin faces bomb threat",
+          "link": "https://www.irishtimes.com/ireland/2026/11/10/gardai-say-significant-risk-to-security-this-week-as-ryanair-flight-from-dublin-faces-bomb-threat/",
+          "summary": "Bomb threat against Cork school on Monday linked to a child",
           "image": "https://www.irishtimes.com/resizer/v2/REONUOX7R3SI75TV7BOF2VMJJM.jpg?auth=ff4c307e7c869acebfd955068e56d45e0cb4f1fd29578c1060b93d1e19b3621f&smart=true&width=630&height=350",
           "publishedAt": "2026-11-10T12:46:06.000Z"
         },
@@ -134,13 +141,6 @@
           "publishedAt": "2026-11-10T10:00:00.000Z"
         },
         {
-          "title": "‘Breakthrough’ at public sector pay talks but planning for Thursday’s strike continues",
-          "link": "https://www.irishtimes.com/ireland/2026/11/10/public-sector-pay-talks-see-breakthrough-but-thursday-strike-yet-to-be-called-off/",
-          "summary": "Government and unions will meet again today at WRC, with possible agreement in sight",
-          "image": "https://www.irishtimes.com/resizer/v2/W5OTA6RIDRDHXIGFPEI3R37ZUY.JPG?auth=1acfa247a1ea1165f45fd65cf2151c6eb34f7e4d7019f8be96a1a37bb3e2d8a5&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-10T09:53:19.000Z"
-        },
-        {
           "title": "Jews in Ireland face hostile atmosphere, commemoration for Holocaust survivor told",
           "link": "https://www.irishtimes.com/ireland/social-affairs/2026/11/10/jews-in-ireland-face-hostile-atmosphere-commemoration-for-holocaust-survivor-told/",
           "summary": "‘What other community has simply learned to live like this?’ asks Tomi Reichental’s son David in reference to need for Garda presence at synagogues on certain days",
@@ -170,13 +170,45 @@
         "homepage": "https://www.independent.ie",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-10T13:39:17.521Z",
+      "fetchedAt": "2026-11-10T14:15:47.856Z",
       "items": [
+        {
+          "title": "‘We were more in love in the end than we were in the beginning’ — Shane MacGowan’s wife on singer’s life ahead of tribute album",
+          "link": "https://www.independent.ie/entertainment/celebrity/we-were-more-in-love-in-the-end-than-we-were-in-the-beginning-shane-macgowans-wife-on-singers-life-ahead-of-tribute-album/a/164219257.html",
+          "summary": "The Pogues legend is gone three years next month and proceeds from a tribute album to be released next week will go to the Simon Community",
+          "image": "https://prod-img.crimeworld.com/public/incoming/gc627w-victoria-mary-clarke.jpg/alternates/BASE_SIXTEEN_NINE/Victoria%20Mary%20Clarke.jpg",
+          "publishedAt": "2026-11-10T14:08:19.000Z"
+        },
+        {
+          "title": "Fianna Fáil councillor joins walkout at DLR meeting in solidarity with council staff taking industrial action",
+          "link": "https://www.independent.ie/county/dublin/fianna-fail-councillor-joins-walkout-at-dlr-meeting-in-solidarity-with-council-staff-taking-industrial-action/a/164351146.html",
+          "image": "https://prod-img.independent.ie/public/incoming/5e9yyu-d5c0f69f-2892-4712-8a3c-472d2a96013b.jpg/alternates/BASE_SIXTEEN_NINE/d5c0f69f-2892-4712-8a3c-472d2a96013b.jpg",
+          "publishedAt": "2026-11-10T13:53:00.000Z"
+        },
+        {
+          "title": "‘Godfather of AI’ to join EU leaders in Dublin meeting on Friday",
+          "link": "https://www.independent.ie/irish-news/politics/godfather-of-ai-to-join-eu-leaders-in-dublin-meeting-on-friday/a/164354542.html",
+          "image": "https://prod-img.independent.ie/public/incoming/3e6zf3-gettyimages-1260011569.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-1260011569.jpg",
+          "publishedAt": "2026-11-10T13:50:00.000Z"
+        },
+        {
+          "title": "Ireland's November statement | Farrell's Fiji decisions | World class McCarthy",
+          "link": "https://www.independent.ie/podcasts/irelands-november-statement-farrells-fiji-decisions-world-class-mccarthy/a/164357049.html",
+          "summary": "Will, Luke and Cian break down Ireland’s big win over Argentina and debate what team Andy Farrell should pick to face Fiji.Joe McCarthy’s star quality, Ireland’s low error count and South Africa’s showdown with France is…",
+          "image": "https://prod-img.independent.ie/public/incoming/uskv57-790.jpeg/alternates/BASE_SIXTEEN_NINE/790.jpeg",
+          "publishedAt": "2026-11-10T13:42:05.000Z"
+        },
+        {
+          "title": "Major EU summit in Dublin like ‘speed dating for politicians’, says Leo Varadkar",
+          "link": "https://www.independent.ie/irish-news/major-eu-summit-in-dublin-like-speed-dating-for-politicians-says-leo-varadkar/a/164344357.html",
+          "image": "https://prod-img.independent.ie/public/incoming/d7cm2q-leo-varadkar-promised-to-abolish-usc-in-2016-but-did-not-deliver-on-this.-photo-reuters/alternates/BASE_SIXTEEN_NINE/Leo%20Varadkar%20promised%20to%20abolish%20USC%20in%202016%20but%20did%20not%20deliver%20on%20this.%20Photo%20Reuters",
+          "publishedAt": "2026-11-10T13:35:00.000Z"
+        },
         {
           "title": "Trump’s Pentagon chief Hegseth calls moves to impeach him ‘sabotage’",
           "link": "https://www.independent.ie/world-news/trumps-pentagon-chief-hegseth-calls-moves-to-impeach-him-sabotage/a/164355356.html",
           "summary": "US Defence Secretary holds a defiant press conference which is his first since May",
-          "image": "https://prod-img.independent.ie/public/incoming/ffvyiu-featureimage.jpg/alternates/BASE_SIXTEEN_NINE/featureimage.jpg",
+          "image": "https://prod-img.independent.ie/public/incoming/gvvw32-2026-11-10t133936z-1419086203-rc21loaygckl-rtrmadp-3-usa-hegseth.jpg/alternates/BASE_SIXTEEN_NINE/2026-11-10T133936Z_1419086203_RC21LOAYGCKL_RTRMADP_3_USA-HEGSETH.JPG",
           "publishedAt": "2026-11-10T13:30:00.000Z"
         },
         {
@@ -202,37 +234,6 @@
           "link": "https://www.independent.ie/irish-news/irish-writers-union-backs-sally-rooney-after-uk-withdrawal-of-her-books-over-palestine-action-support/a/164352073.html",
           "image": "https://prod-img.independent.ie/public/incoming/7u360g-sally-rooney-in-merrion-square-in-dublin-on-july-24-2021.-ellius-gracethe-new-york-times/alternates/BASE_SIXTEEN_NINE/Sally%20Rooney%20in%20Merrion%20Square%20in%20Dublin%20on%20July%2024%202021.%20Ellius%20GraceThe%20New%20York%20Times",
           "publishedAt": "2026-11-10T13:20:00.000Z"
-        },
-        {
-          "title": "Wicklow gardaí investigate suspected arson attack on cars outside family home",
-          "link": "https://www.independent.ie/county/wicklow/wicklow-gardai-investigate-suspected-arson-attack-on-cars-outside-family-home/a/164353939.html",
-          "summary": "A family of 11, including four sick children and a six-week-old newborn, were living at the property",
-          "image": "https://prod-img.independent.ie/public/incoming/n1iat5-cctv-stills-of-a-suspected-arson-attack-in-arklow-in-the-early-hours-of-tuesday-morning./alternates/BASE_SIXTEEN_NINE/CCTV%20stills%20of%20a%20suspected%20arson%20attack%20in%20Arklow%20in%20the%20early%20hours%20of%20Tuesday%20morning.",
-          "publishedAt": "2026-11-10T13:18:33.000Z"
-        },
-        {
-          "title": "Plenty of contenders but who is best suited to replace Michael Carrick at Manchester United?",
-          "link": "https://www.independent.ie/sport/soccer/premier-league/plenty-of-contenders-but-who-is-best-suited-to-replace-michael-carrick-at-manchester-united/a/164346856.html",
-          "image": "https://prod-img.independent.ie/public/incoming/63s27o-mixcollage-10-nov-2026-11-.jpg/alternates/BASE_SIXTEEN_NINE/MixCollage_10_Nov_2026_11_.jpg",
-          "publishedAt": "2026-11-10T13:00:00.000Z"
-        },
-        {
-          "title": "‘A moment of hope’ – Dublin band Aslan to headline at Our Lady’s Hospice remembrance ceremony",
-          "link": "https://www.independent.ie/irish-news/a-moment-of-hope-dublin-band-aslan-to-headline-at-our-ladys-hospice-remembrance-ceremony/a/164344536.html",
-          "image": "https://prod-img.independent.ie/public/incoming/kdpfwo-aslan-remember-as-they-light-up-a-life-for-our-ladys-hospice/alternates/BASE_SIXTEEN_NINE/Aslan%20remember%20as%20they%20Light%20up%20a%20Life%20for%20Our%20Ladys%20Hospice",
-          "publishedAt": "2026-11-10T13:00:00.000Z"
-        },
-        {
-          "title": "Gardaí deal with two more hybrid threats including hoax bomb alert on Ryanair flight this morning",
-          "link": "https://www.independent.ie/irish-news/crime/gardai-deal-with-two-more-hybrid-threats-including-hoax-bomb-alert-on-ryanair-flight-this-morning/a/164325824.html",
-          "image": "https://prod-img.independent.ie/public/business/world/8fces0-middle-east-conflict/alternates/BASE_SIXTEEN_NINE/Middle%20East%20conflict",
-          "publishedAt": "2026-11-10T13:00:00.000Z"
-        },
-        {
-          "title": "Former player Shane Sweeney named as new Roscommon hurling manager",
-          "link": "https://www.independent.ie/sport/gaa/hurling/former-player-shane-sweeney-named-as-new-roscommon-hurling-manager/a/164352556.html",
-          "image": "https://prod-img.independent.ie/public/incoming/sleoq2-086307.jpg/alternates/BASE_SIXTEEN_NINE/086307.jpg",
-          "publishedAt": "2026-11-10T12:43:00.000Z"
         }
       ]
     }

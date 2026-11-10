@@ -8,7 +8,7 @@
         "homepage": "https://www.nyasatimes.com",
         "lang": "en-MW"
       },
-      "fetchedAt": "2026-11-10T13:39:34.959Z",
+      "fetchedAt": "2026-11-10T14:16:06.679Z",
       "items": [
         {
           "title": "Duwana: Maranatha Academy boss says he is proud of “shaped” scholarship pupil",
@@ -79,8 +79,15 @@
         "homepage": "https://times.mw",
         "lang": "en-MW"
       },
-      "fetchedAt": "2026-11-10T12:27:15.632Z",
+      "fetchedAt": "2026-11-10T14:16:16.251Z",
       "items": [
+        {
+          "title": "‘Malawi’s health targets on right track’",
+          "link": "https://times.mw/malawis-health-targets-on-right-track/?utm_source=rss&utm_medium=rss&utm_campaign=malawis-health-targets-on-right-track",
+          "summary": "By Justin Mkweu: Research done by Kamuzu University of Health Sciences (Kuhes) has established that Malawi is on the right path to achieving health-related Sustainable Development Goals (SDGs) by 2030. The research…",
+          "image": "https://times.mw/wp-content/uploads/2025/11/zomba-general-hospital-1024x751.jpg",
+          "publishedAt": "2026-11-10T12:40:31.000Z"
+        },
         {
           "title": "Malawi moves on cross-border crime",
           "link": "https://times.mw/malawi-moves-on-cross-border-crime/?utm_source=rss&utm_medium=rss&utm_campaign=malawi-moves-on-cross-border-crime",
@@ -143,13 +150,6 @@
           "summary": "By Daniel Zimba: Indian High Commissioner to Malawi Amararam Gujar has reaffirmed his country’s commitment to continue supporting Malawi’s national development agenda. Gujar said he appreciated the support extended to…",
           "image": "https://times.mw/wp-content/uploads/2026/11/amararam-gujar-1024x651.jpg",
           "publishedAt": "2026-11-10T06:52:13.000Z"
-        },
-        {
-          "title": "Industrial production shrinks by 12 percent",
-          "link": "https://times.mw/industrial-production-shrinks-by-12-percent/?utm_source=rss&utm_medium=rss&utm_campaign=industrial-production-shrinks-by-12-percent",
-          "summary": "By Kingsley Jassi: Malawi’s industrial production declined by 12.1 percent in the first quarter of 2026 compared to the same period last year, largely due to a slump in manufacturing output, according to the National…",
-          "image": "https://times.mw/wp-content/uploads/2026/11/industrial-production-chat.jpg",
-          "publishedAt": "2026-11-10T06:47:58.000Z"
         }
       ]
     },
@@ -160,8 +160,14 @@
         "homepage": "https://malawi24.com",
         "lang": "en-MW"
       },
-      "fetchedAt": "2026-11-10T13:39:35.653Z",
+      "fetchedAt": "2026-11-10T14:16:07.215Z",
       "items": [
+        {
+          "title": "A Malawian identity for sale?",
+          "link": "https://malawi24.com/2026/11/10/a-malawian-identity-for-sale/",
+          "summary": "This article was originally published on Malawi24\">Malawi24, Malawi's #1 independent news platform. Malawi’s national identity verification systems are facing scrutiny following revelations that 45 foreign nationals are…",
+          "publishedAt": "2026-11-10T14:00:00.000Z"
+        },
         {
           "title": "Sri Lankan national fined K100,000",
           "link": "https://malawi24.com/2026/11/10/sri-lankan-national-fined-k100000/",
@@ -215,12 +221,6 @@
           "link": "https://malawi24.com/2026/11/10/local-leaders-warned-over-cdf-corruption-red-flags/",
           "summary": "This article was originally published on Malawi24\">Malawi24, Malawi's #1 independent news platform. Blantyre District Council staff, ward councillors and traditional leaders have been urged to watch for warning signs of…",
           "publishedAt": "2026-11-10T04:50:00.000Z"
-        },
-        {
-          "title": "MEDF fires 23 amid K21bn scandal",
-          "link": "https://malawi24.com/2026/11/10/medf-fires-23-amid-k21bn-scandal/",
-          "summary": "This article was originally published on Malawi24\">Malawi24, Malawi's #1 independent news platform. MEDF has dismissed 23 employees while K21.3 billion in CDF loans remains undisbursed, as industrial output falls and…",
-          "publishedAt": "2026-11-10T04:20:00.000Z"
         }
       ]
     }

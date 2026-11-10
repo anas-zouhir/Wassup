@@ -8,8 +8,20 @@
         "homepage": "https://www.repubblica.it",
         "lang": "it"
       },
-      "fetchedAt": "2026-11-10T13:39:20.175Z",
+      "fetchedAt": "2026-11-10T14:15:49.800Z",
       "items": [
+        {
+          "title": "Mistero Zaniolo. Lascia il ritiro della Nazionale: “Scusate, devo andare a casa”",
+          "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/11/10/news/zaniolo_lascia_ritiro_nazionale-425713194/",
+          "summary": "Chiamato da suo scopritore Roberto Mancini dopo due anni e mezzo di assenza dall’azzurro, il giocatore dell’Udinese dà forfait per motivi non precisati",
+          "publishedAt": "2026-11-10T13:52:27.000Z"
+        },
+        {
+          "title": "Attacchi hacker, il Viminale rafforza le difese: sorvegliati speciali data center, Asl e Comuni",
+          "link": "https://www.repubblica.it/cronaca/2026/11/10/news/viminale_attacchi_hacker_misure_sicurezza-425713150/",
+          "summary": "Dopo il vertice indicati i punti più vulnerabili. Monitoraggio rafforzato sulle infrastrutture strategiche e allerta alle aziende per contrastare le minacce favorite dall'IA",
+          "publishedAt": "2026-11-10T13:32:22.000Z"
+        },
         {
           "title": "La procura chiede l’archiviazione per il sindaco Sala, l’architetto Boeri e l’immobiliarista Catella",
           "link": "https://milano.repubblica.it/cronaca/2026/11/10/news/urbanistica_procura_richiesta_archiviazione_corruzione_sala_catella_boeri-425713033/",
@@ -25,14 +37,6 @@
           "publishedAt": "2026-11-10T12:37:31.000Z",
           "titleEn": "The Alcaraz collection. Only the Finals are left.",
           "summaryEn": "Carlos won the third tournament in Paris after returning: in Turin he will be the favorite"
-        },
-        {
-          "title": "Kfc sulle Dolomiti, frenata a Cortina: niente fast food ma il pollo fritto sarà venduto al bar",
-          "link": "https://www.repubblica.it/cronaca/2026/11/10/news/kfc_sulle_dolomiti_frenata_a_cortina_lollobrigida_snatura_la_montagna-425712847/",
-          "summary": "Dopo le polemiche, la società Faloria smentisce l’insegna sull’edificio ma ci saranno i prodotti nel bar. Il ministro del Turismo Mazzi: “Si rischia di snaturare i luoghi iconici”",
-          "publishedAt": "2026-11-10T11:28:16.000Z",
-          "titleEn": "Kfc on the Dolomites, brake in Cortina: no fast food but fried chicken will be sold at the bar",
-          "summaryEn": "After the controversy, Faloria denies the sign on the building but there will be products in the bar. Minister of Tourism Mazzi:  ⁇ Iconic places are at risk of being tampered with ⁇"
         },
         {
           "title": "Svimez, la rincorsa del Mezzogiorno a rischio stop. E in 5 anni il Sud ha perso 154 mila giovani",
@@ -81,14 +85,6 @@
           "publishedAt": "2026-11-10T08:42:13.000Z",
           "titleEn": "Manoeuvre, health in the square. Doctors and nurses march together on December 5",
           "summaryEn": "Marching in Rome against the Finance Ministry. Specializers, medical students and other healthcare professionals are also on the market:"
-        },
-        {
-          "title": "Aiuti a Kiev, oggi il Copasir. Borghi (Lega): \"Mi aspetto una forte discontinuità\"",
-          "link": "https://www.repubblica.it/politica/2026/11/10/news/copasir_aiuti_kiev_borghi_lega-425712391/",
-          "summary": "Cresce il malcontento nel Carroccio sull’invio di armi all’Ucraina",
-          "publishedAt": "2026-11-10T08:28:43.000Z",
-          "titleEn": "Help in Kiev, today is the Copasir. Borghi (Lega): \"I expect a strong discontinuity\"",
-          "summaryEn": "Increasing discontent in Croatia over arms shipments to Ukraine"
         }
       ]
     },
@@ -99,8 +95,50 @@
         "homepage": "https://www.ansa.it",
         "lang": "it"
       },
-      "fetchedAt": "2026-11-10T13:39:20.588Z",
+      "fetchedAt": "2026-11-10T14:15:50.260Z",
       "items": [
+        {
+          "title": "Borsa: Europa lima i guadagni coi futures Usa dopo l'inflazione sopra le attese",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/borsa-europa-lima-i-guadagni-coi-futures-usa-dopo-linflazione-sopra_d67d2ea4-eb25-4719-a39b-7a0c5603478e.html",
+          "summary": "Si rafforzano le attese di un taglio dei tassi della Fed. Milano +1,1%",
+          "publishedAt": "2026-11-10T13:55:45.000Z"
+        },
+        {
+          "title": "Rubio, non serve un'operazione militare di larga scala contro l'Iran",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/rubio-non-serve-unoperazione-militare-di-larga-scala-contro-liran_f2e3e0ec-9e40-4137-ac6d-aa84e8de2b9f.html",
+          "summary": "Parole del segretario di Stato Usa dopo il G7 Esteri a Parigi",
+          "publishedAt": "2026-11-10T13:50:10.000Z"
+        },
+        {
+          "title": "Israele, oltre 61 deputati chiedono rinnovo presidente Knesset",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/israele-oltre-61-deputati-chiedono-rinnovo-presidente-knesset_8515c8fd-a1ea-417f-8b0e-8af18620c4e0.html",
+          "summary": "Numero sufficiente per l'anticipo della votazione",
+          "publishedAt": "2026-11-10T13:45:48.000Z"
+        },
+        {
+          "title": "Trump promuove Hegseth, '10 e lode per come si è difeso'",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/trump-promuove-hegseth-10-e-lode-per-come-si-e-difeso_586a3453-ef46-4198-af2e-3075c468f77a.html",
+          "summary": "Parole del presidente dopo la conferenza stampa del capo del Pentagono",
+          "publishedAt": "2026-11-10T13:45:13.000Z"
+        },
+        {
+          "title": "Tajani con Rubio a Parigi, 'da Abu Dhabi condizioni per negoziato che rafforzi Kiev'",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/tajani-con-rubio-a-parigi-da-abu-dhabi-condizioni-per-negoziato-che_7619a90a-49dd-4f1a-964b-934ba15f8f46.html",
+          "summary": "Incontro a margine del G7, affrontati i dossier Medio Oriente e Venezuela",
+          "publishedAt": "2026-11-10T13:38:59.000Z"
+        },
+        {
+          "title": "Lavrov, 'non accetteremo le richieste europee di tregua immediata in Ucraina'",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/lavrov-non-accetteremo-le-richieste-europee-di-tregua-immediata-in-ucraina_6dc64464-1c49-4c68-bdfa-5aa5d1f463c3.html",
+          "summary": "'Bruxelles sta semplicemente cercando di guadagnare tempo'",
+          "publishedAt": "2026-11-10T13:32:20.000Z"
+        },
+        {
+          "title": "Tajani, accuse ambasciata russa? 'Propaganda e disinformatia'",
+          "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/tajani-accuse-ambasciata-russa-propaganda-e-disinformatia_fa948f97-91cd-4bf9-ab7b-06a22324a6fb.html",
+          "summary": "'Basta leggere i libri di storia per capire di cosa si tratta'",
+          "publishedAt": "2026-11-10T13:31:00.000Z"
+        },
         {
           "title": "Hegseth, 'sforzi per il mio impeachment sono una farsa'",
           "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/hegseth-sforzi-per-il-mio-impeachment-sono-una-farsa_ae008ad6-2cd4-486a-afdd-c7023ad3091c.html",
@@ -124,62 +162,6 @@
           "publishedAt": "2026-11-10T12:59:15.000Z",
           "titleEn": "Anthropic is aiming for a $1.4 trillion IPO valuation",
           "summaryEn": "The IA startup aims to raise $64 billion."
-        },
-        {
-          "title": "Urbanistica Milano, chiesta l'archiviazione per Sala, Boeri e Catella",
-          "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/urbanistica-milano-chiesta-larchiviazione-per-sala-boeri-e-catella_87912fc2-06b8-4d0e-a7c2-ea5ce3016d6e.html",
-          "summary": "Anche per l'ex assessore Tancredi e altri. Tra i casi il progetto del Pirellino",
-          "publishedAt": "2026-11-10T12:42:20.000Z",
-          "titleEn": "Urban Planning Milan, requests the storage for Sala, Boeri and Catella",
-          "summaryEn": "Also for former Advisor Tancredi and others. The Pirellino project is one of them."
-        },
-        {
-          "title": "Hegseth terrà oggi una conferenza stampa dopo la richiesta di impeachment",
-          "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/hegseth-terra-oggi-una-conferenza-stampa-dopo-la-richiesta-di-impeachment_fed6b084-2a77-42af-bd30-87c6b7e4689f.html",
-          "summary": "E' il suo primo faccia a faccia con i media dall'inizio di maggio",
-          "publishedAt": "2026-11-10T12:43:05.000Z",
-          "titleEn": "Hegseth will hold a press conference today following the impeachment request.",
-          "summaryEn": "It's his first face-to-face with the media since early May."
-        },
-        {
-          "title": "Borsa: Milano (+1,4%) forte con l'Europa in attesa dei prezzi Usa e di Wall street",
-          "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/borsa-milano-14-forte-con-leuropa-in-attesa-dei-prezzi-usa-e-di-wall_a9d6f343-541a-49ce-b81b-c4b6fbe87dca.html",
-          "summary": "Bene le banche guidate da Bper e Unicredit. Deboli Eni e Saipem con il petrolio",
-          "publishedAt": "2026-11-10T12:42:15.000Z",
-          "titleEn": "Exchanges: Milan (+1.4%) strong with Europe waiting for US and Wall Street prices",
-          "summaryEn": "Well, the banks run by Bper and Unicredit. Deboli Eni and Saipem with oil"
-        },
-        {
-          "title": "Il surplus cinese supera mille miliardi con un mese di anticipo rispetto al 2025",
-          "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/il-surplus-cinese-supera-mille-miliardi-con-un-mese-di-anticipo-rispetto-al-2025_b2dbf93a-1333-4dae-88dd-d0491e7e95ca.html",
-          "summary": "Export in forte crescita, +32,9% le vendite verso gli Usa a ottobre",
-          "publishedAt": "2026-11-10T12:20:04.000Z",
-          "titleEn": "China's surplus exceeds one trillion a month ahead of 2025",
-          "summaryEn": "Exports growing strongly, +32.9% sales to the US in October"
-        },
-        {
-          "title": "L'utile di Banca Generali nei 9 mesi record a 384,1 milioni",
-          "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/lutile-di-banca-generali-nei-9-mesi-record-a-3841-milioni_b8f5afb3-a046-4292-89f8-94165159c242.html",
-          "summary": "Le masse totali ai nuovi massimi a 121,8 miliardi di euro",
-          "publishedAt": "2026-11-10T12:02:34.000Z",
-          "titleEn": "The profit of Banca Generali in the record nine months at 384,1 million",
-          "summaryEn": "Total masses to new highs of EUR 121.8 billion"
-        },
-        {
-          "title": "Lane (Bce), prudente aumentare i tassi a dicembre se dati non cambiano",
-          "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/lane-bce-prudente-aumentare-i-tassi-a-dicembre-se-dati-non-cambiano_5af52c89-3b69-4fc5-aea9-1e408ab5c0a1.html",
-          "summary": "A fine anno l'inflazione si attesterà probabilmente 'poco sopra' il 4%",
-          "publishedAt": "2026-11-10T12:01:55.000Z",
-          "titleEn": "Lane (ECB), prudent to raise rates in December if data do not change",
-          "summaryEn": "By the end of the year inflation is likely to be just above 4%."
-        },
-        {
-          "title": "Procura Livorno, chiesta l'archiviazione dell'inchiesta su Moby Prince",
-          "link": "https://www.ansa.it/sito/notizie/topnews/2026/11/10/procura-livorno-chiesta-larchiviazione-dellinchiesta-su-moby-prince_333fa672-7f78-4c65-98e1-5fb3a40fcb47.html",
-          "summary": "Dda Firenze lo aveva già fatto e ottenuto a febbraio 2025",
-          "publishedAt": "2026-11-10T11:01:48.000Z",
-          "titleEn": "Prosecutor Livorno, requesting the filing of the Moby Prince investigation",
-          "summaryEn": "Since Florence had already done it and got it in February 2025"
         }
       ]
     }

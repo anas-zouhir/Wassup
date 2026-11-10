@@ -8,8 +8,14 @@
         "homepage": "https://www.tagesschau.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-10T13:39:03.833Z",
+      "fetchedAt": "2026-11-10T14:15:30.510Z",
       "items": [
+        {
+          "title": "Mehrere Tote bei Massenunfällen auf bulgarischer Autobahn",
+          "link": "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
+          "summary": "Dichter Nebel, nasse Straßen: Auf einer Autobahn in Bulgarien sind mindestens zwölf Menschen bei Auffahrunfällen gestorben. Zahlreiche Rettungskräfte sind im Einsatz. EU-Kommissionschefin von der Leyen musste ihren…",
+          "publishedAt": "2026-11-10T14:09:14.000Z"
+        },
         {
           "title": "KI-Boom: Deutscher Chipkonzern Infineon will weiter zweistellig wachsen",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
@@ -81,14 +87,6 @@
           "publishedAt": "2026-11-10T09:05:59.000Z",
           "titleEn": "Sports clubs in Germany have more members than ever before",
           "summaryEn": "The German sports clubs have more members than ever before. In all the federal states, the figures have risen. Football remains unchallenged at the top - other sports have lost members."
-        },
-        {
-          "title": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
-          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html",
-          "summary": "Peking setzt weiter voll auf Export - und knackt auch dank umstrittener Subventionen erneut eine Rekordmarke: Der Handelsüberschuss von mehr als einer Billion Dollar wurde vor allem durch Technologiegüter und…",
-          "publishedAt": "2026-11-10T08:53:53.000Z",
-          "titleEn": "China's trade surplus once again exceeds the trillion mark",
-          "summaryEn": "Beijing continues to focus heavily on exports and, thanks to controversial subsidies, is once again breaking a record: its trade surplus of more than a trillion dollars was mainly driven by technology goods and..."
         }
       ]
     },
@@ -99,8 +97,43 @@
         "homepage": "https://www.spiegel.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-10T13:39:03.736Z",
+      "fetchedAt": "2026-11-10T14:15:30.271Z",
       "items": [
+        {
+          "title": "Ahoi Steffen Henssler: Betreiber meldet für Ex-Henssler-Restaurants Insolvenz an",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an-a-19bb8933-4651-4423-9b83-e34b42cfdfde#ref=rss",
+          "summary": "Vier Restaurants der Kette Ahoi Steffen Henssler und 80 Mitarbeiter sind betroffen. Der Betreiber der Lokale hat Insolvenz angemeldet. Die Restaurants sollen trotzdem geöffnet bleiben.",
+          "image": "https://cdn.prod.www.spiegel.de/images/27085add-7c58-4b5f-9643-a8d6df44bbc7_w520_r2.08_fpx46_fpy44.99.jpg",
+          "publishedAt": "2026-11-10T14:10:00.000Z"
+        },
+        {
+          "title": "Nord Stream: Sachverständiger erklärt möglichen Ablauf des Anschlags",
+          "link": "https://www.spiegel.de/panorama/justiz/nord-stream-sachverstaendiger-erklaert-moeglichen-ablauf-des-anschlags-a-6211cb29-5322-47c6-9348-a34d414c9443#ref=rss",
+          "summary": "Wie konnten Taucher in großer Tiefe Sprengstoff an den Nord-Strem-Pipelines anbringen? Ein Experte schilderte vor Gericht, wie die Täter vorgegangen sein könnten.",
+          "image": "https://cdn.prod.www.spiegel.de/images/e4456eb8-b4f3-4f2f-8d51-28346deca7c0_w520_r2.08_fpx43.31_fpy50.99.jpg",
+          "publishedAt": "2026-11-10T14:07:00.000Z"
+        },
+        {
+          "title": "Anthropic: KI-Firma peilt Billionenbewertung beim Börsengang an",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an-a-01ee7304-2fb0-45da-a9c9-1afec33f201f#ref=rss",
+          "summary": "Das KI-Unternehmen Anthropic steuert auf einen der größten Börsengänge der Geschichte zu. Von der einst anvisierten Bewertung von zwei Billionen Dollar ist Konzernchef Dario Amodei aber abgerückt.",
+          "image": "https://cdn.prod.www.spiegel.de/images/87b659c9-5a5a-40cd-8328-281922d96017_w520_r2.08_fpx64.69_fpy55.jpg",
+          "publishedAt": "2026-11-10T14:01:00.000Z"
+        },
+        {
+          "title": "Robert Fico: Slowakischer Premier wirft Friedrich Merz im Streit über Ukrainehilfen »Erpressung« vor",
+          "link": "https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor-a-f5b85629-3165-46d8-b4bd-bbb568ea1679#ref=rss",
+          "summary": "Die EU sucht nach einem Weg, eine Milliardenlücke bei der Ukraine-Finanzierung zu schließen. Bundeskanzler Merz erhöhte zuletzt in einem Brief an Ratspräsident Costa den Druck. In Bratislava sorgt das für Unmut.",
+          "image": "https://cdn.prod.www.spiegel.de/images/e6d499bd-1aab-435f-b074-4c432bff85c2_w520_r2.08_fpx38.57_fpy49.85.jpg",
+          "publishedAt": "2026-11-10T13:50:00.000Z"
+        },
+        {
+          "title": "Fitness: Abnehmen im Sitzen? Was Soleus-Push-ups wirklich bringen",
+          "link": "https://www.spiegel.de/fitness/fitness-abnehmen-im-sitzen-was-soleus-push-ups-wirklich-bringen-a-ceb03522-7ded-4188-945e-0850cfc7eb6d#ref=rss",
+          "summary": "Diese simple Muskelübung wird im Netz gefeiert: ein bisschen ausdauerndes Wadenwippen, und schon schwinden auf wundersame Weise die Pfunde. Ist da was dran?",
+          "image": "https://cdn.prod.www.spiegel.de/images/f414a2f7-6642-4110-bd0f-592b033d0539_w520_r2.08_fpx46.96_fpy44.97.jpg",
+          "publishedAt": "2026-11-10T13:40:00.000Z"
+        },
         {
           "title": "Deutschland: Bürger wünschen mehr Staatsausgaben, lehnen höhere Steuern ab",
           "link": "https://www.spiegel.de/wirtschaft/deutschland-buerger-wuenschen-mehr-staatsausgaben-lehnen-hoehere-steuern-ab-a-4e6aace3-50af-4810-bdce-478edb8de19a#ref=rss",
@@ -145,51 +178,6 @@
           "publishedAt": "2026-11-10T12:37:00.000Z",
           "titleEn": "Borrowing: This agency head carries children for others herself",
           "summaryEn": "$175,000 to $300,000 for a borrowed pregnancy at the U.S. agency Alcea. Owner Angela Richardson-Mook herself has borne several children for other parents. What does she think about the risks?"
-        },
-        {
-          "title": "Quiz des Tages beim SPIEGEL: 7 Fragen zum Allgemeinwissen pro Tag",
-          "link": "https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss",
-          "summary": "Jeden Tag gibt es sieben Fragen zu den wichtigsten Themengebieten des politisch-gesellschaftlichen Geschehens. Testen Sie hier Ihr Wissen!",
-          "image": "https://cdn.prod.www.spiegel.de/images/4653602c-c8d9-4175-b819-f5739956805c_w520_r2.08_fpx50_fpy50.png",
-          "publishedAt": "2026-11-10T12:24:00.000Z",
-          "titleEn": "Question of the day at the SPIEGEL: 7 questions for general knowledge per day",
-          "summaryEn": "Every day there are seven questions on the most important thematic areas of political and social events. Test your knowledge here!"
-        },
-        {
-          "title": "Leichtathletik: Paralympics-Siegerin Franziska Liebhardt mit 44 Jahren gestorben",
-          "link": "https://www.spiegel.de/sport/leichtathletik-paralympics-siegerin-franziska-liebhardt-mit-44-jahren-gestorben-a-fb4f7b20-b0e2-4a9d-a57b-f7c3fee614a6#ref=rss",
-          "summary": "Sie gewann 2016 bei den Paralympischen Spielen Gold im Kugelstoßen und Silber im Weitsprung, nach ihrer Karriere setzte sie sich ehrenamtlich für Organspenden ein. Nun ist Franziska Liebhardt gestorben.",
-          "image": "https://cdn.prod.www.spiegel.de/images/083144a5-7abe-4d34-a177-846707dc0345_w520_r2.08_fpx50_fpy32.jpg",
-          "publishedAt": "2026-11-10T11:49:00.000Z",
-          "titleEn": "Paralympic athlete Franziska Liebhardt has died at the age of 44",
-          "summaryEn": "She won gold in the shot put and silver in the long jump at the 2016 Paralympic Games. After her career, she volunteered for organ donation. Now Franziska Liebhardt is dead."
-        },
-        {
-          "title": "»Ronzheimer – Der Bürger-Talk«: Paul Ronzheimer bekommt politische Talkshow bei Sat.1 zu",
-          "link": "https://www.spiegel.de/kultur/tv/ronzheimer-der-buerger-talk-ronzheimer-bekommt-politische-talkshow-bei-sat-1-zu-a-3338ae32-914e-4fc0-8b21-f9c9d010ed89#ref=rss",
-          "summary": "»Ich erlebe immer wieder, wie groß die Wut und Enttäuschung vieler Menschen über die Politik ist«: Über diese Gefühle will Journalist Paul Ronzheimer ab 2027 bei Sat.1 Bürger und Politiker miteinander reden lassen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/8cda38ac-aa10-4040-8ef0-056893a05787_w520_r2.08_fpx33.98_fpy44.98.jpg",
-          "publishedAt": "2026-11-10T11:45:00.000Z",
-          "titleEn": "⁇ Ronzheimer  ⁇  The Citizens' Talk ⁇ : Paul Ronzheimer is getting a political talk show on Sat.1",
-          "summaryEn": "⁇ I see again and again how much anger and disappointment many people have about politics ⁇ : from 2027 onwards, journalist Paul Ronzheimer wants citizens and politicians to talk about these feelings."
-        },
-        {
-          "title": "Fall Fabian: Gina H. zu lebenslanger Haft verurteilt",
-          "link": "https://www.spiegel.de/panorama/justiz/fall-fabian-gina-h-zu-lebenslanger-haft-verurteilt-a-04259c80-a4fe-4a3d-8a0d-5df5831fd894#ref=rss",
-          "summary": "Gina H. hat den achtjährigen Fabian getötet: Davon zeigte sich das Landgericht Rostock überzeugt. Es hat die Angeklagte wegen Mordes schuldig gesprochen. Die will sich gegen das Urteil wehren.",
-          "image": "https://cdn.prod.www.spiegel.de/images/53fb373c-b6e0-4862-9c3b-7848ee1c30d8_w520_r2.08_fpx52_fpy44.jpg",
-          "publishedAt": "2026-11-10T11:37:00.000Z",
-          "titleEn": "Fabian case: Gina H. sentenced to life in prison",
-          "summaryEn": "Gina H. killed eight-year-old Fabian, which the Rostock County Court was convinced of. It pleaded guilty to the charge of murder. She wants to defend herself against the verdict."
-        },
-        {
-          "title": "Bulgarien: Mindestens elf Menschen sterben bei Auffahrunfällen",
-          "link": "https://www.spiegel.de/panorama/bulgarien-mindestens-elf-menschen-sterben-bei-auffahrunfaellen-a-671e793f-b95c-46e7-bc23-2f7b0b77ab2e#ref=rss",
-          "summary": "In Bulgarien sind Dutzende Autos auf einer Autobahn kollidiert. Es gibt Tote und Verletzte. Das Unglück hat auch Auswirkungen auf einen Besuch von Ursula von der Leyen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/0d5d1080-773d-4391-90f8-fbde018c16fd_w520_r2.08_fpx33.35_fpy50.jpg",
-          "publishedAt": "2026-11-10T11:24:00.000Z",
-          "titleEn": "Bulgaria: At least 11 people die in road accidents",
-          "summaryEn": "In Bulgaria, dozens of cars collided on a highway. There are dead and wounded. The disaster also has implications for a visit by Ursula of the Leyen."
         }
       ]
     }

@@ -8,16 +8,15 @@
         "homepage": "https://www.nrk.no",
         "lang": "nb"
       },
-      "fetchedAt": "2026-11-10T13:39:40.957Z",
+      "fetchedAt": "2026-11-10T14:16:14.343Z",
       "items": [
         {
           "title": "Opphever vedtak om datasenter i Sirdal",
           "link": "https://www.nrk.no/sorlandet/opphever-vedtak-om-datasenter-i-sirdal-1.18078419",
-          "summary": "Hundrevis av trær er hugget og en milliard kroner er investert, men nå stopper statsforvalteren planene om datasenter i Sirdal. Greenscale vil vurdere konsekvensene av vedtaket.",
+          "summary": "Hundrevis av trær er hugget og en milliard kroner er investert, men nå stopper statsforvalteren planene om datasenter i Sirdal. – En fantastisk nyhet, sier hyttenabo.",
           "image": "https://gfx.nrk.no/RtqId6GNJtApm8NB_Kto0AcMTcqbzI5E5qvduzg5sJXw.jpg",
           "publishedAt": "2026-11-10T12:38:34.000Z",
-          "titleEn": "Rescinding decision on data centres in Sirdal",
-          "summaryEn": "Hundreds of trees have been cut down and a billion kroner invested, but now the state administrator stops the plans for data centers in Sirdal. Greenscale will consider the consequences of the decision."
+          "titleEn": "Rescinding decision on data centres in Sirdal"
         },
         {
           "title": "Haaland og Ødegaard stod over trening – Solbakken vil ikke avsløre detaljer",
@@ -105,16 +104,14 @@
         "homepage": "https://www.vg.no",
         "lang": "nb"
       },
-      "fetchedAt": "2026-11-10T13:39:40.937Z",
+      "fetchedAt": "2026-11-10T14:16:14.558Z",
       "items": [
         {
-          "title": "NRK og Aftenposten: Nationaltheatret flytter til Tøyen under rehabiliteringen",
+          "title": "Nationaltheatret flytter til Tøyen under rehabiliteringen",
           "link": "https://www.vg.no/nyheter/i/nLgzjL/nrk-og-aftenposten-nationaltheatret-flytter-til-toeyen-under-rehabiliteringen?utm_medium=rss",
-          "summary": "Regjeringen skal endelig ha bestemt seg.",
+          "summary": "Regjeringen har endelig bestemt seg.",
           "image": "https://akamai.vgc.no/v2/images/6452577b-9f9d-3cbc-afaa-eaacd6a53141?format=auto&w=1000&s=7084b4c2d5b69648e6d036080faf5ae49462d134",
-          "publishedAt": "2026-11-10T13:16:30.000Z",
-          "titleEn": "NRK and Aftenposten: National theatre moves to Tøyen during rehabilitation",
-          "summaryEn": "The government must finally have decided."
+          "publishedAt": "2026-11-10T13:16:30.000Z"
         },
         {
           "title": "Pete Hegseth om riksrettsforslaget mot ham: – En farse",
@@ -204,16 +201,29 @@
         "homepage": "https://www.aftenposten.no",
         "lang": "nb"
       },
-      "fetchedAt": "2026-11-10T13:39:40.899Z",
+      "fetchedAt": "2026-11-10T14:16:14.421Z",
       "items": [
+        {
+          "title": "Sikkerhetsekspert: Telefonnumrene til norske sikkerhetstopper lekket i russiske databaser",
+          "link": "https://www.aftenposten.no/norge/i/QrlkE4/norske-sikkerhetstoppers-telefonnumre-lekket-paa-dark-web?utm_medium=rss",
+          "summary": "Telefonnumrene til forsvarsministeren, E-sjefen, NSM-sjefen og PST-sjefen er en del av materialet.",
+          "image": "https://akamai.vgc.no/v2/images/021c8233-5014-33e0-b966-124d144e9c4b?format=auto&w=1000&s=fe5c0f85b9e77d592c0aa28f0581adea6b9cde03",
+          "publishedAt": "2026-11-10T14:11:23.000Z"
+        },
+        {
+          "title": "SV og Rødt vil ikke ta imot penger fra «sexy» kalender, men: – Penger skal de få, enten de vil det eller ikke",
+          "link": "https://www.aftenposten.no/norge/politikk/i/VxRVm3/sexy-sosialister-penger-skal-de-faa-enten-de-vil-det-eller-ikke?utm_medium=rss",
+          "summary": "Kunstnerne bak kalenderen «Sexy sosialister» bryr seg ikke om at Rødt og SV ikke vil ta imot pengene…",
+          "image": "https://akamai.vgc.no/v2/images/bc862f8c-69b0-3700-b8c7-50070727b17c?format=auto&w=1000&s=fc1febf68a19489884012a2d417ce582421876c6",
+          "publishedAt": "2026-11-10T13:54:43.000Z"
+        },
         {
           "title": "Pete Hegseth: – Riksrettsforslaget er en farse",
           "link": "https://www.aftenposten.no/verden/i/7Pl248/truet-med-riksrett-naa-moeter-pete-hegseth-pressen?utm_medium=rss",
-          "summary": "Dette er første gang på 180 dager den amerikanske forsvarsministeren møter pressen.",
+          "summary": "Dette er første gang på 180 dager at den amerikanske forsvarsministeren møter pressen.",
           "image": "https://akamai.vgc.no/v2/images/79c8787e-d8f0-3b81-883f-226f642f1b50?format=auto&w=1000&s=e299f83e1248bb980c2ae6e5e426134ce2c0b3bd",
           "publishedAt": "2026-11-10T12:58:19.000Z",
-          "titleEn": "Pete Hegseth: The Riksretts proposal is a farce",
-          "summaryEn": "This is the first time in 180 days that the U.S. defense minister has met with the press."
+          "titleEn": "Pete Hegseth: The Riksretts proposal is a farce"
         },
         {
           "title": "Politiet: Mannen som tok seg inn hos Høiby er siktet",
@@ -276,24 +286,6 @@
           "publishedAt": "2026-11-10T12:24:43.000Z",
           "titleEn": "She becomes a new city council after the Røabad case",
           "summaryEn": "Christina Solli Ektvedt (H) was presented today as a new city council for urban development."
-        },
-        {
-          "title": "Han har vunnet valg to ganger i en Trump-stat og har ett krav til partiets neste presidenthåp",
-          "link": "https://www.aftenposten.no/verden/i/kMazdj/guvernoer-andy-beshear-mener-partiet-boer-stille-med-en-guvernoer-i-2028?utm_medium=rss",
-          "summary": "WASHINGTON D.C.: – Det beste valgkartet på flere tiår, sier guvernør Andy Beshear om presidentvalget…",
-          "image": "https://akamai.vgc.no/v2/images/a21b3aef-e30c-319b-870b-d9ff9094fa77?format=auto&w=1000&s=8a6e56202cb2742d3a207720509c3c8efa4c192a",
-          "publishedAt": "2026-11-10T11:54:23.000Z",
-          "titleEn": "He's won election twice in a Trump state and has one claim to the party's next presidential hopes.",
-          "summaryEn": "WASHINGTON D.C.:  ⁇  The best election card in decades, says governor Andy Beshear about the presidential election..."
-        },
-        {
-          "title": "Høyesterett forkaster Marius Borg Høibys anke – forblir i varetekt på Skaugum",
-          "link": "https://www.aftenposten.no/norge/i/ez1jJg/hoeyesterett-forkaster-marius-borg-hoeibys-anke-forblir-i-varetekt-paa-skaugum?utm_medium=rss",
-          "summary": "Marius Borg Høiby (29) må fortsatt sitte i varetekt med fotlenke, har Høyesterett avgjort",
-          "image": "https://akamai.vgc.no/v2/images/df519fcd-18e3-3b8b-9b71-450600570048?format=auto&w=1000&s=b485cba1c67036e5796dac7f0d5129adde5e6b05",
-          "publishedAt": "2026-11-10T11:15:22.000Z",
-          "titleEn": "The High Court rejected Marius Borg Høibys's appeal, remaining in custody on Skaugum.",
-          "summaryEn": "Marius Borg Høiby (29) must still sit in custody with a footlink, the High Court has ruled"
         }
       ]
     }

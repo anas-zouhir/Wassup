@@ -8,8 +8,26 @@
         "homepage": "https://www.thenationalnews.com",
         "lang": "en"
       },
-      "fetchedAt": "2026-11-10T13:38:44.719Z",
+      "fetchedAt": "2026-11-10T14:15:10.201Z",
       "items": [
+        {
+          "title": "Dubai Peninsula and the next chapter of the city’s coastline",
+          "link": "https://www.thenationalnews.com/in-focus/2026/11/10/dubai-peninsula-and-the-next-chapter-of-the-citys-coastline/",
+          "image": "https://www.thenationalnews.com/resizer/v2/XX44SLSNLBGKRI5UBJBFWCQA2I.jpg?auth=96ed7ed36d1eb8034b6c4c05c1bb918046dd10547bdbf5c0d4d4b45361015dbe&smart=true&width=7000&height=3908",
+          "publishedAt": "2026-11-10T14:08:54.000Z"
+        },
+        {
+          "title": "For GCC countries, localised green supply chains offer growth opportunities",
+          "link": "https://www.thenationalnews.com/opinion/comment/2026/11/10/uae-gulf-gcc-supply-chains-globalisation-climate/",
+          "image": "https://www.thenationalnews.com/resizer/v2/4SASSQDWBJRAA2E6IMLBT53L7Q.jpg?auth=8ba078e06bac87e6f1ca9b7283025ddb0e69fc2494a53989cb0143c5ef74d18e&smart=true&width=7490&height=5617",
+          "publishedAt": "2026-11-10T14:00:00.000Z"
+        },
+        {
+          "title": "Crucial Syria-Lebanon border crossing reopens after two years",
+          "link": "https://www.thenationalnews.com/news/mena/2026/11/10/crucial-syria-lebanon-border-crossing-reopens-after-two-years/",
+          "image": "https://www.thenationalnews.com/resizer/v2/BYLBHTJUUFEVLN5WF3XNE5XLNM.jpg?auth=914ab15d46537f4ac08a8fcb28007a51b6e90f7f1c1cecc54d768f8d448c2cfa&smart=true&width=4724&height=3150",
+          "publishedAt": "2026-11-10T13:55:22.000Z"
+        },
         {
           "title": "UAE among dozens of countries to sign AI safety declaration to protect children",
           "link": "https://www.thenationalnews.com/news/europe/2026/11/10/uae-among-dozens-of-countries-to-sign-ai-safety-declaration-to-protect-children/",
@@ -17,7 +35,7 @@
           "publishedAt": "2026-11-10T13:25:35.000Z"
         },
         {
-          "title": "Pentagon chief Hegseth says impeachment effort is 'farce'",
+          "title": "Pentagon chief Hegseth dismisses impeachment effort as a 'farce'",
           "link": "https://www.thenationalnews.com/news/2026/11/10/hegseth-impeachment-iran/",
           "image": "https://www.thenationalnews.com/resizer/v2/PVTHWMQWJI4KQCILUIWDRQCQZA.jpg?auth=6e6c05365843f00a30488a8d3f959ac6e6f6df75872a38093a73461ea57dcef5&smart=true&width=5469&height=3647",
           "publishedAt": "2026-11-10T13:10:03.000Z"
@@ -47,28 +65,10 @@
           "publishedAt": "2026-11-10T12:47:32.000Z"
         },
         {
-          "title": "Europeans upbeat after Qatari PM update on US-Iran peace talks and Trump meeting",
+          "title": "Europeans ministers left cautious over Hormuz after G7 briefings",
           "link": "https://www.thenationalnews.com/news/europe/2026/11/10/europeans-upbeat-after-qatari-pms-update-on-us-iran-peace-talks-and-trump-meeting/",
           "image": "https://www.thenationalnews.com/resizer/v2/2GT4ZQY46UPKJZJJDEP4F4CKXU.jpg?auth=862fd9c31e9708d2bdec3c8c649648b719cd1002d5903a080a4b0155efcc0c3c&smart=true&width=7875&height=5250",
           "publishedAt": "2026-11-10T12:40:02.000Z"
-        },
-        {
-          "title": "Turkey shuns Israel at Cop31 climate summit",
-          "link": "https://www.thenationalnews.com/news/mena/2026/11/10/turkey-shuns-israel-at-cop31-climate-summit/",
-          "image": "https://www.thenationalnews.com/resizer/v2/UGSBRRKSD654YNAY33QEVAUAXU.jpg?auth=720eb7af76743eb89212bcf53fe5c5f361e4887754daf216b010b1ee6b496a81&smart=true&width=4000&height=2668",
-          "publishedAt": "2026-11-10T12:29:11.000Z"
-        },
-        {
-          "title": "Manchester United: Mauricio Pochettino and Eddie Howe in running to replace Michael Carrick",
-          "link": "https://www.thenationalnews.com/sport/football/2026/11/10/manchester-united-mauricio-pochettino-and-eddie-howe-in-running-to-replace-michael-carrick/",
-          "image": "https://www.thenationalnews.com/resizer/v2/NGZ5JHBUSVEIRAMLQFC4K3OBUU.jpg?auth=41a134820a61f798c364ff1c24ff1e97f2328ae9b5dfa62f8a08d35a2765be9f&smart=true&width=756&height=425",
-          "publishedAt": "2026-11-10T12:16:00.000Z"
-        },
-        {
-          "title": "Netanyahu rivals strike first deal as Israel prepares to swear in parliament",
-          "link": "https://www.thenationalnews.com/news/mena/2026/11/10/netanyahu-rivals-strike-first-deal-as-israel-prepares-to-swear-in-parliament/",
-          "image": "https://www.thenationalnews.com/resizer/v2/BJKAM5XF7Z7F3XRCHINJZNTFXQ.jpg?auth=2004053496b4619b7c752a849b74790fd79ac94e68e1b849b6e52406bc409f69&smart=true&width=5818&height=3881",
-          "publishedAt": "2026-11-10T11:30:39.000Z"
         }
       ]
     },
@@ -79,19 +79,31 @@
         "homepage": "https://www.khaleejtimes.com",
         "lang": "en"
       },
-      "fetchedAt": "2026-11-10T13:38:44.771Z",
+      "fetchedAt": "2026-11-10T14:15:10.450Z",
       "items": [
+        {
+          "title": "US-Iran war: Rubio says no need for major combat operations as economic campaign working",
+          "link": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-10-2026",
+          "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-11-10/nezt5f0t/AFP20261110D72K2FKv1MidResFrancePoliticsDiplomacyG7.jpg",
+          "publishedAt": "2026-11-10T03:23:53.000Z"
+        },
         {
           "title": "Dubai Metro extends to Al Maktoum International Airport; services to begin in 2031",
           "link": "https://www.khaleejtimes.com/uae/transport/dubai-metro-to-begin-operations-to-al-maktoum-international-airport-city-in-2031",
-          "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-01-04/p9ykjfrr/Dubai-Metro.jpg",
+          "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-11-10/tkaszadj/Dubai-Metro-Red-Line.avif",
           "publishedAt": "2026-11-10T09:33:39.000Z"
         },
         {
-          "title": "Hegseth calls move to impeach him 'a farce', says 'stands behind every operation' in Iran",
-          "link": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-10-2026",
-          "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-11-10/da8th30q/AFP20261110D72D8CCv1MidResPentagonChiefPeteHegsethHoldsARarePressConferene.jpg",
-          "publishedAt": "2026-11-10T03:23:53.000Z"
+          "title": "Sharjah Ruler raises marriage grant salary ceiling to Dh50,000 from Dh30,000",
+          "link": "https://www.khaleejtimes.com/uae/sharjah-ruler-raises-marriage-grant-salary-ceiling-dh50000",
+          "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-11-10/xtwr0yim/marriage.jpg",
+          "publishedAt": "2026-11-10T13:59:35.000Z"
+        },
+        {
+          "title": "East coast terminals to serve as alternative, not replace Jebel Ali port, says DP World CEO",
+          "link": "https://www.khaleejtimes.com/business/east-coast-terminals-to-serve-as-alternative-not-replace-jebel-ali-port-says-dp-world-ceo",
+          "image": "https://imgengine.khaleejtimes.com/khaleejtimes/import/images/d830ea3c-2b41-4d90-a019-0c952495f0e4-org.jpg",
+          "publishedAt": "2026-11-10T13:31:20.000Z"
         },
         {
           "title": "UAE Deputy PM attends launch of Abu Dhabi talks between Russia, Ukraine and US",
@@ -101,16 +113,16 @@
           "publishedAt": "2026-11-10T12:45:57.000Z"
         },
         {
+          "title": "Sonia Gandhi launches memoir, reveals why she turned down India PM post in 2004",
+          "link": "https://www.khaleejtimes.com/world/asia/sonia-gandhi-launches-memoir-reveals-why-she-turned-down-india-pm-post-in-2004",
+          "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-11-10/ihsxrz0i/sonia-ghandi.jpg",
+          "publishedAt": "2026-11-10T13:53:20.000Z"
+        },
+        {
           "title": "'Everyone has a role': UAE leaders say proud of how society handled regional challenges",
           "link": "https://www.khaleejtimes.com/uae/president-dubai-ruler-proud-society-handle-regional-challenges",
           "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-11-10/550ho5ym/sheikh-mohammed.jpeg",
           "publishedAt": "2026-11-10T12:01:23.000Z"
-        },
-        {
-          "title": "UAE plans more family-friendly public spaces, services and government policies",
-          "link": "https://www.khaleejtimes.com/uae/family-friendly-public-spaces-national-family-growth-agenda-2031",
-          "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-11-10/iuhx0cu8/Screenshot-2026-11-10-at-4.30.13-pm.png",
-          "publishedAt": "2026-11-10T12:32:48.000Z"
         },
         {
           "title": "UAE conditionally approves new Ultomiris use for immune-mediated kidney disease",
@@ -119,28 +131,16 @@
           "publishedAt": "2026-11-10T12:09:13.000Z"
         },
         {
-          "title": "Dubai court overturns order to hand girl over to mother under Malaysian custody ruling",
-          "link": "https://www.khaleejtimes.com/uae/dubai-court-overturns-order-daughter-mother-malaysian-custody-ruling",
-          "image": "https://imgengine.khaleejtimes.com/khaleejtimes/import/images/81bf0904-9d6f-41ba-b693-e64dd97d3c82-org.jpg",
-          "publishedAt": "2026-11-10T08:40:17.000Z"
-        },
-        {
-          "title": "UAE CBSE board exams 2027: Class 10, 12 exams begin Feb 16; schools share planning tips",
-          "link": "https://www.khaleejtimes.com/uae/education/uae-cbse-board-exams-2027-class-10-12-schools-preparation-tips",
-          "image": "https://imgengine.khaleejtimes.com/khaleejtimes/import/images/2463d5cb-c12c-4cf0-b2c4-6706b520850c-org.jpg",
-          "publishedAt": "2026-11-10T11:50:46.000Z"
-        },
-        {
-          "title": "Nakheel announces 3.8 million sqm Palm Springs to house 50,000 residents",
-          "link": "https://www.khaleejtimes.com/business/nakheel-announces-38-million-sqm-palm-springs-to-house-50000-residents",
-          "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-11-10/d6x0t2rr/Palm-Springs-community.jpg",
-          "publishedAt": "2026-11-10T08:47:37.000Z"
-        },
-        {
           "title": "UAE braces for heavy rain, strong winds and rough seas till November 12",
           "link": "https://www.khaleejtimes.com/uae/weather/heavy-rain-strong-winds-rough-seas-till-november-12",
           "image": "https://imgengine.khaleejtimes.com/khaleejtimes/import/images/8861e1a8-4593-4f0f-b404-f85cfb333ec7-org.jpg",
           "publishedAt": "2026-11-10T02:00:00.000Z"
+        },
+        {
+          "title": "UAE plans more family-friendly public spaces, services and government policies",
+          "link": "https://www.khaleejtimes.com/uae/family-friendly-public-spaces-national-family-growth-agenda-2031",
+          "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-11-10/iuhx0cu8/Screenshot-2026-11-10-at-4.30.13-pm.png",
+          "publishedAt": "2026-11-10T12:32:48.000Z"
         }
       ]
     }

@@ -8,8 +8,32 @@
         "homepage": "https://www.aljazeera.net",
         "lang": "ar"
       },
-      "fetchedAt": "2026-11-10T13:39:44.520Z",
+      "fetchedAt": "2026-11-10T14:16:18.674Z",
       "items": [
+        {
+          "title": "حظر أمريكي محتمل للمكونات الصينية.. ومايكروسوفت تحذر",
+          "link": "https://www.aljazeera.net/tech/2026/11/10/%d8%ad%d8%b8%d8%b1-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d9%8a-%d9%85%d8%ad%d8%aa%d9%85%d9%84-%d9%84%d9%84%d9%85%d9%83%d9%88%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a%d8%a9?traffic_source=rss",
+          "summary": "تدرس واشنطن حظر مكونات صينية تستخدم في مراكز بيانات الذكاء الاصطناعي بدوافع أمنية، وسط تحذيرات مايكروسوفت من أن القرار قد يعطل سلاسل الإمداد ويؤخر توسع البنية التحتية الرقمية الأمريكية.",
+          "publishedAt": "2026-11-10T10:39:27.000Z"
+        },
+        {
+          "title": "أول ظهور لكومباني في مقر بايرن ميونخ بعد وعكته الصحية",
+          "link": "https://www.aljazeera.net/sport/2026/11/10/%d8%a3%d9%88%d9%84-%d8%b8%d9%87%d9%88%d8%b1-%d9%84%d9%83%d9%88%d9%85%d8%a8%d8%a7%d9%86%d9%8a-%d9%81%d9%8a-%d9%85%d9%82%d8%b1-%d8%a8%d8%a7%d9%8a%d8%b1%d9%86-%d9%85%d9%8a%d9%88%d9%86%d8%ae?traffic_source=rss",
+          "summary": "حضر المدرب البلجيكي فينسنت كومباني إلى مقر بايرن ميونخ لاستعادة قيادة الفريق بعد تعافيه التدريجي من الأزمة الصحية.",
+          "publishedAt": "2026-11-10T10:35:53.000Z"
+        },
+        {
+          "title": "فجوة التمويل واضطراب الإمدادات.. تحديات شائكة على طاولة كوب 31",
+          "link": "https://www.aljazeera.net/ebusiness/2026/11/10/%d9%81%d8%ac%d9%88%d8%a9-%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d9%88%d8%a7%d8%b6%d8%b7%d8%b1%d8%a7%d8%a8-%d8%a7%d9%84%d8%a5%d9%85%d8%af%d8%a7%d8%af%d8%a7%d8%aa?traffic_source=rss",
+          "summary": "تختبر قمة \"كوب 31\" قدرة الدول على ردم فجوة التمويل المناخي وسط اضطراب إمدادات الطاقة، وعودة الفحم إلى الخيارات العاجلة، وتسارع الاستثمار في البدائل النظيفة.",
+          "publishedAt": "2026-11-10T10:30:24.000Z"
+        },
+        {
+          "title": "أتم حفظ القرآن في الخامسة.. قصة الطفل الفلبيني الذي كرمه شيخ الأزهر",
+          "link": "https://www.aljazeera.net/misc/2026/11/10/%d8%a3%d8%aa%d9%85-%d8%ad%d9%81%d8%b8-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d8%a9-%d9%82%d8%b5%d8%a9-%d8%a7%d9%84%d8%b7%d9%81%d9%84?traffic_source=rss",
+          "summary": "كرّم شيخ الأزهر الطفل الفلبيني محمد كامفونغ (10 أعوام) لنبوغه المبكر، إذ ختم القرآن في الخامسة وأتقن أمهات المتون الشرعية واللغوية، بعد رحلة حفظ بدأها والده بتلاوة القرآن له وهو جنين.",
+          "publishedAt": "2026-11-10T10:29:17.000Z"
+        },
         {
           "title": "أونكتاد: تغير المناخ يهدد بخسائر 10% من الاقتصاد العالمي",
           "link": "https://www.aljazeera.net/ebusiness/2026/11/10/%d8%a3%d9%88%d9%86%d9%83%d8%aa%d8%a7%d8%af-%d8%aa%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ae-%d8%ae%d8%b3%d8%a7%d8%a6%d8%b1-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af?traffic_source=rss",
@@ -27,11 +51,10 @@
           "summaryEn": "A British woman entered the Guinness World Records after recording the world's highest female voice with a power of 105.9 decibels, and a joke revealed that her husband had been carrying her high-pitched voice for 54 years, in a story she began secretly nominating her daughter for a job 39 years ago."
         },
         {
-          "title": "البنزين في أمريكا دون 4 دولارات للغالون لأول مرة منذ يوليو",
+          "title": "البنزين في أمريكا دون 4 دولارات للغالون للمرة الأولى منذ يوليو",
           "link": "https://www.aljazeera.net/ebusiness/2026/11/10/%d8%a7%d9%84%d8%a8%d9%86%d8%b2%d9%8a%d9%86-%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d8%af%d9%88%d9%86-4-%d8%af%d9%88%d9%84%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d9%84%d8%ba%d8%a7%d9%84%d9%88%d9%86?traffic_source=rss",
           "summary": "تراجع متوسط سعر غالون البنزين في الولايات المتحدة إلى 3.97 دولارات للمرة الأولى منذ يوليو/تموز، مع هبوط أسعار النفط وسط مؤشرات على تهدئة بين واشنطن وطهران، رغم بقائه أعلى بنسبة 33% من مستواه قبل الحرب",
           "publishedAt": "2026-11-10T10:09:23.000Z",
-          "titleEn": "Gasoline in America is under $4 a gallon for the first time since July.",
           "summaryEn": "The average price of a US gasoline gallon fell to $3.97 for the first time since July, with oil prices falling amid signs of calm between Washington and Tehran, despite remaining 33% higher than its pre-war level."
         },
         {
@@ -57,38 +80,6 @@
           "publishedAt": "2026-11-10T09:57:44.000Z",
           "titleEn": "After losing the majority... Who's leading the Republicans against the Democrats?",
           "summaryEn": "After losing a majority in the House of Representatives, the spotlight is on the race to reshape the Republican leadership, amid calls for change and competition for key positions, who will lead the minority party?"
-        },
-        {
-          "title": "تعود بعد غياب 40 عاما.. ماذا قال النقاد عن أوكارينا أوف تايم؟",
-          "link": "https://www.aljazeera.net/tech/2026/11/10/%d8%aa%d8%b9%d9%88%d8%af-%d8%a8%d8%b9%d8%af-%d8%ba%d9%8a%d8%a7%d8%a8-40-%d8%b9%d8%a7%d9%85%d8%a7-%d9%85%d8%a7%d8%b0%d8%a7-%d9%82%d8%a7%d9%84-%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%af-%d8%b9%d9%86?traffic_source=rss",
-          "summary": "تعود لعبة أوكارينا أوف تايم مجددا إلى منصات نينتندو عبر نسخة جديدة مطورة بالكامل تستغل قدرات أجهزة نينتندو سويتش 2، فهل تنجح في إعادة أمجادها كأعلى لعبة تقييما في التاريخ؟",
-          "publishedAt": "2026-11-10T09:56:44.000Z",
-          "titleEn": "She's back after 40 years of absence. What did the critics say about Ocarina of Time?",
-          "summaryEn": "Ocarina of Time returns to Nintendo platforms via a completely newly developed version that leverages the capabilities of Nintendo Switch 2. Will it succeed in restoring its glory as the highest-rated game in history?"
-        },
-        {
-          "title": "ثعبان عملاق يتحول إلى زحلوقة أطفال.. والأسرة تكشف مفاجأة (فيديو)",
-          "link": "https://www.aljazeera.net/misc/2026/11/10/%d8%ab%d8%b9%d8%a8%d8%a7%d9%86-%d8%b9%d9%85%d9%84%d8%a7%d9%82-%d9%8a%d8%aa%d8%ad%d9%88%d9%84-%d8%a5%d9%84%d9%89-%d8%b2%d8%ad%d9%84%d9%88%d9%82%d8%a9-%d8%a3%d8%b7%d9%81%d8%a7%d9%84?traffic_source=rss",
-          "summary": "ثلاثة أطفال وجدوا في فناء منزلهم زحلوقة غير مألوفة، لا تشبه ألعاب الملاهي ولا تحتاج إلى تركيب. لكن ما استخدموه للعب يمتد جسده ستة أمتار، ويخفي قوة لا تبدو في المشهد.",
-          "publishedAt": "2026-11-10T09:40:40.000Z",
-          "titleEn": "A giant snake turning into a baby snake. And the family reveals a surprise , Video .",
-          "summaryEn": "Three kids found in their backyard an unfamiliar sponge, unlike a toy and not needing to be installed. But what they used to play is that his body stretches six meters, hiding a force that's not seen in the scene."
-        },
-        {
-          "title": "رقائق إنفيديا في قلب العاصفة.. القصة الكاملة لأزمة ميغاسبيد",
-          "link": "https://www.aljazeera.net/tech/2026/11/10/%d8%b1%d9%82%d8%a7%d8%a6%d9%82-%d8%a5%d9%86%d9%81%d9%8a%d8%af%d9%8a%d8%a7-%d9%81%d9%8a-%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%81%d8%a9-%d8%a7%d9%84%d9%82%d8%b5%d8%a9?traffic_source=rss",
-          "summary": "تكشف أزمة ميغاسبيد كيف تحولت رقائق إنفيديا ومراكز الحوسبة السحابية إلى محور صراع تقني وأمني بين الولايات المتحدة والصين، وسط تحقيقات في شبهات تحويل الرقائق واتهامات بالتجسس.",
-          "publishedAt": "2026-11-10T09:34:40.000Z",
-          "titleEn": "Invidia chips in the heart of the storm. The full story of the mega speed crisis.",
-          "summaryEn": "The mega-speed crisis reveals how Invidia chips and cloud computing centers have become the focus of a technical and security conflict between the United States and China, amid investigations into suspected chip transfers and allegations of espionage."
-        },
-        {
-          "title": "من علاقة غرامية إلى قضية أمن قومي.. فضيحة إنفيديا تهز عالم الرقائق",
-          "link": "https://www.aljazeera.net/politics/2026/11/10/%d9%81%d8%b6%d9%8a%d8%ad%d8%a9-%d8%a5%d9%86%d9%81%d9%8a%d8%af%d9%8a%d8%a7-%d8%ba%d8%b1%d8%a7%d9%85-%d9%88%d8%aa%d8%ac%d8%b3%d8%b3-%d9%8a%d9%87%d8%b2%d8%a7%d9%86-%d8%b9%d8%a7%d9%84%d9%85?traffic_source=rss",
-          "summary": "اعترف الرئيس التنفيذي لشركة إنفيديا بتورطه في علاقة غرامية مع سيدة يُشتبه في كونها جاسوسة صينية استغلت علاقتها للالتفاف على قيود تصدير رقائق الذكاء الاصطناعي إلى بكين، مما أدى إلى زلزال في وادي السيليكون.",
-          "publishedAt": "2026-11-10T09:26:00.000Z",
-          "titleEn": "From an affair to a national security issue... The Invidia scandal shakes the chip world .",
-          "summaryEn": "The CEO of Invidia admitted to having an affair with a woman suspected of being a Chinese spy who used her relationship to circumvent restrictions on the export of AI chips to Beijing, leading to an earthquake in Silicon Valley."
         }
       ]
     },
@@ -99,8 +90,32 @@
         "homepage": "https://al-sharq.com",
         "lang": "ar"
       },
-      "fetchedAt": "2026-11-10T13:39:44.967Z",
+      "fetchedAt": "2026-11-10T14:16:19.069Z",
       "items": [
+        {
+          "title": "وزير الدولة لشؤون التجارة الخارجية يجتمع مع مساعد الرئيس الأمريكي",
+          "link": "https://al-sharq.com/article/10/11/2026/وزير-الدولة-لشؤون-التجارة-الخارجية-يجتمع-مع-مساعد-الرئيس-الأمريكي",
+          "image": "https://al-sharq.com/get/maximage/20261110_1794319779-267.jpg?t=1794319779",
+          "publishedAt": "2026-11-10T14:09:00.000Z"
+        },
+        {
+          "title": "غرفة قطر تؤكد على أهمية تعزيز الشراكات الاستثمارية بين قطر والدول الإفريقية",
+          "link": "https://al-sharq.com/article/10/11/2026/غرفة-قطر-تؤكد-على-أهمية-تعزيز-الشراكات-الاستثمارية-بين-قطر-والدول-الإفريقية",
+          "image": "https://al-sharq.com/get/maximage/20261110_1794319396-424.jpg?t=1794319396",
+          "publishedAt": "2026-11-10T14:02:41.000Z"
+        },
+        {
+          "title": "جناح قطر بمؤتمر MWC26 الدوحة يستعرض أحدث الحلول والمبادرات الرقمية وتطبيقات الذكاء الاصطناعي",
+          "link": "https://al-sharq.com/article/10/11/2026/جناح-قطر-بمؤتمر-mwc26-الدوحة-يستعرض-أحدث-الحلول-والمبادرات-الرقمية-وتطبيقات-الذكاء-الاصطناعي",
+          "image": "https://al-sharq.com/get/maximage/20261110_1794319316-881.jpg?t=1794319316",
+          "publishedAt": "2026-11-10T14:01:15.000Z"
+        },
+        {
+          "title": "التعليم تنظّم فعالية &laquo;وتستمر الحكاية&raquo; لتعزيز الوعي بأهمية الطفولة المبكّرة",
+          "link": "https://al-sharq.com/article/10/11/2026/التعليم-تنظم-فعالية-وتستمر-الحكاية-لتعزيز-الوعي-بأهمية-الطفولة-المبكرة",
+          "image": "https://al-sharq.com/get/maximage/20261110_1794318920-915.jpg?t=1794318920",
+          "publishedAt": "2026-11-10T13:51:22.000Z"
+        },
         {
           "title": "وزير الدولة لشؤون الطاقة يجتمع مع وزير الطاقة الاتحادي لشؤون قطاع البترول الباكستاني",
           "link": "https://al-sharq.com/article/10/11/2026/وزير-الدولة-لشؤون-الطاقة-يجتمع-مع-وزير-الطاقة-الاتحادي-لشؤون-قطاع-البترول-الباكستاني",
@@ -142,34 +157,6 @@
           "image": "https://al-sharq.com/get/maximage/20261110_1794313673-205.jpg?t=1794313673",
           "publishedAt": "2026-11-10T12:06:24.000Z",
           "titleEn": "The Crown Prince of Brunei Dar es Salaam is visiting the Qatar National Library."
-        },
-        {
-          "title": "عيادة متخصصة بمستشفى حمد لتقييم احتياجات المرضى للعلاج بالأكسجين",
-          "link": "https://al-sharq.com/article/10/11/2026/عيادة-متخصصة-بمستشفى-حمد-لتقييم-احتياجات-المرضى-للعلاج-بالأكسجين",
-          "image": "https://al-sharq.com/get/maximage/20260712_1783870256-71.png?t=1783870256",
-          "publishedAt": "2026-11-10T12:02:47.000Z",
-          "titleEn": "A specialist clinic at Hamad Hospital to assess patients ' oxygen needs ."
-        },
-        {
-          "title": "وفاة الشيخ طايس الجميلي القامة العلمية والدعوية والخيرية في قطر",
-          "link": "https://al-sharq.com/article/10/11/2026/وفاة-الشيخ-طايس-الجميلي-القامة-العلمية-والدعوية-والخيرية-في-قطر",
-          "image": "https://al-sharq.com/get/maximage/20261110_1794311697-272.jpeg?t=1794311697",
-          "publishedAt": "2026-11-10T11:53:08.000Z",
-          "titleEn": "The death of Sheikh Tayis al-Jamli high-profile scholarly, advocacy and charitable figure in Qatar"
-        },
-        {
-          "title": "الهاشمي: اجتماع رئيس الوزراء مع الرئيس الأمريكي بالبيت الأبيض اتسم بالإيجابية",
-          "link": "https://al-sharq.com/article/10/11/2026/الهاشمي-اجتماع-رئيس-الوزراء-مع-الرئيس-الأمريكي-بالبيت-الأبيض-اتسم-بالإيجابية",
-          "image": "https://al-sharq.com/get/maximage/20261110_1794309101-352.jpeg?t=1794309101",
-          "publishedAt": "2026-11-10T11:11:20.000Z",
-          "titleEn": "The prime minister's meeting with the US president at the White House has been positive."
-        },
-        {
-          "title": "وزير البيئة والتغير المناخي يجتمع مع سفير توفالو",
-          "link": "https://al-sharq.com/article/10/11/2026/وزير-البيئة-والتغير-المناخي-يجتمع-مع-سفير-توفالو",
-          "image": "https://al-sharq.com/get/maximage/20261110_1794308646-499.jpg?t=1794308647",
-          "publishedAt": "2026-11-10T11:02:47.000Z",
-          "titleEn": "The Minister of Environment and Climate Change is meeting with the Ambassador of Tuvalu ."
         }
       ]
     },
@@ -180,7 +167,7 @@
         "homepage": "https://www.gulf-times.com",
         "lang": "en"
       },
-      "fetchedAt": "2026-11-10T13:39:45.004Z",
+      "fetchedAt": "2026-11-10T14:16:18.974Z",
       "items": [
         {
           "title": "Minister of State for Energy Affairs meets Pakistan's Federal Minister of Energy, Petroleum Division",

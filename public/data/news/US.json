@@ -8,7 +8,7 @@
         "homepage": "https://www.nytimes.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-10T13:40:13.957Z",
+      "fetchedAt": "2026-11-10T14:16:43.467Z",
       "items": [
         {
           "title": "Nvidia’s Board Has a History of Letting Jensen Huang Get His Way",
@@ -39,11 +39,24 @@
           "publishedAt": "2026-11-10T11:00:10.000Z"
         },
         {
+          "title": "Oil Prices Have Tumbled in November. Here’s Why.",
+          "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+          "summary": "The global benchmark price is down more than $20 a barrel since late October, when it traded for around $113.",
+          "publishedAt": "2026-11-10T13:55:39.000Z"
+        },
+        {
           "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
           "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
           "summary": "The A.I. company’s pricing would make it one of the biggest ever public listings. It comes at a volatile moment amid fears that the A.I. boom may not be sustainable.",
           "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00biz-anthropic-price-range-hfo-zmfq/00biz-anthropic-price-range-hfo-zmfq-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-10T13:02:55.000Z"
+          "publishedAt": "2026-11-10T14:08:53.000Z"
+        },
+        {
+          "title": "You May All Go to Hell, and Tommy Lee Jones Will Go to Texas",
+          "link": "https://www.nytimes.com/2026/11/10/arts/television/tommy-lee-jones-the-lowdown-texas.html",
+          "summary": "The private actor enjoys life with his horses in the Texas Hill Country, removed from the show-business fray. But he’s back on TV for the first time in decades, in “The Lowdown.”",
+          "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cul-tommylee-jones-promo/22cul-tommylee-jones-promo-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-10T10:02:41.000Z"
         },
         {
           "title": "California Voters Reject Prop. 40 Billionaire Tax Measure",
@@ -65,20 +78,6 @@
           "summary": "The Massachusetts senator said it is imperative that Democrats address economic pain after running campaigns that centered cost-of-living issues.",
           "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-warren-pvtk/10pol-warren-pvtk-mediumSquareAt3X.jpg",
           "publishedAt": "2026-11-10T10:04:37.000Z"
-        },
-        {
-          "title": "You May All Go to Hell, and Tommy Lee Jones Will Go to Texas",
-          "link": "https://www.nytimes.com/2026/11/10/arts/television/tommy-lee-jones-the-lowdown-texas.html",
-          "summary": "The private actor enjoys life with his horses in the Texas Hill Country, removed from the show-business fray. But he’s back on TV for the first time in decades, in “The Lowdown.”",
-          "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cul-tommylee-jones-promo/22cul-tommylee-jones-promo-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-10T10:02:41.000Z"
-        },
-        {
-          "title": "In Trump’s Washington, Prosecutors Can’t Count on Grand Juries to Take Their Side",
-          "link": "https://www.nytimes.com/2026/11/09/us/politics/doj-trump-grand-jury-indictments.html",
-          "summary": "In the past two weeks, prosecutors in the capital have failed to secure indictments in at least three cases, an acceleration of the problems the Justice Department has had with grand juries.",
-          "image": "https://static01.nyt.com/images/2026/11/09/multimedia/dc-grandjuries-2-jhml/dc-grandjuries-2-jhml-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-10T03:00:13.000Z"
         }
       ]
     },
@@ -89,8 +88,14 @@
         "homepage": "https://www.npr.org",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-10T13:40:14.188Z",
+      "fetchedAt": "2026-11-10T14:16:43.856Z",
       "items": [
+        {
+          "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
+          "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+          "summary": "His resignation offer comes amid a widening political rift between Prabowo and Widodo and a separate investigation into allegations that senior police officials wiretapped the president.",
+          "publishedAt": "2026-11-10T14:01:14.000Z"
+        },
         {
           "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
           "link": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
@@ -144,12 +149,6 @@
           "link": "https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress",
           "summary": "Voters handed Democrats the keys to power across the country and expect them to drive in a different direction. Party leaders are now trying to figure out which way to go.",
           "publishedAt": "2026-11-10T10:00:00.000Z"
-        },
-        {
-          "title": "Is honesty always the best policy? When to speak up — or stay silent",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent",
-          "summary": "Should you tell your boss she's got food on her face? Your partner you hate their outfit? Social psychologist Vanessa Bohns shares advice on when to tell someone the truth — or keep your mouth shut.",
-          "publishedAt": "2026-11-10T10:00:00.000Z"
         }
       ]
     },
@@ -160,12 +159,12 @@
         "homepage": "https://www.washingtonpost.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-10T13:40:22.246Z",
+      "fetchedAt": "2026-11-10T14:16:51.969Z",
       "items": [
         {
           "title": "Inflation pace slowed in October, but prices remain high",
           "link": "https://www.washingtonpost.com/business/2026/11/10/inflation-pace-slowed-october-prices-remain-high/",
-          "summary": "Inflation eased slightly in October, as gas prices dipped.",
+          "summary": "Falling gas prices contributed to the slower increase, but food costs picked up.",
           "publishedAt": "2026-11-10T13:37:29.000Z"
         },
         {

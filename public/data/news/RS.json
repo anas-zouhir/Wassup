@@ -8,8 +8,14 @@
         "homepage": "https://www.rts.rs",
         "lang": "sr-Cyrl"
       },
-      "fetchedAt": "2026-11-10T13:40:01.659Z",
+      "fetchedAt": "2026-11-10T14:16:21.059Z",
       "items": [
+        {
+          "title": "Анкетна комисија тражи преиспитивање Вучићевих помиловања",
+          "link": "https://www.rts.rs/vesti/drustvo/6080544/anketna-komisija-trazi-preispitivanje-vucicevih-pomilovanja.html",
+          "summary": "Анкетна комисија за испитивање одговорности за пад надстрешнице затражила је од Врховног јавног тужилаштва да што пре поступи по њеној иницијативи и покрене поступак пред Управним судом ради преиспитивања помиловања које…",
+          "publishedAt": "2026-11-10T14:03:49.000Z"
+        },
         {
           "title": "Ухапшене две особе због злоупотребе положаја, сумња се да су оштетили предузећа за 3,5 милиона динара",
           "link": "https://www.rts.rs/vesti/hronika/6080507/uhapsene-dve-osobe-zbog-zloupotrebe-polozaja-sumnja-se-da-su-ostetili-preduzeca-za-35-miliona-dinara.html",
@@ -30,7 +36,7 @@
           "title": "Банка Поштанска штедионица привремено обуставила пријем нових захтева за стамбене кредите за младе",
           "link": "https://www.rts.rs/vesti/ekonomija/6080448/stambeni-krediti-a-mlade-postanska-stedionica.html",
           "summary": "Квота од 440 милиона евра у оквиру државне гарантне шеме је попуњена, а банка је већ затражила додатна средства од Министарства финансија како би наставила са радом, саопштила је Банка Поштанска штедионица.",
-          "publishedAt": "2026-11-10T12:36:08.000Z",
+          "publishedAt": "2026-11-10T14:06:04.000Z",
           "titleEn": "Postal Savings Bank temporarily suspended acceptance of new housing loan applications for youth",
           "summaryEn": "The €440 million allocation under the state guarantee scheme has been filled, and the bank has already requested additional funds from the Ministry of Finance to continue its work, the Postal Savings Bank said."
         },
@@ -38,7 +44,7 @@
           "title": "Тужилаштво наложило проверу трансфера фудбалера Партизана у Манчестер сити",
           "link": "https://www.rts.rs/vesti/hronika/6080437/tuzilastvo-nalozilo-proveru-transfera-fudbalera-partizana-u-mancester-siti.html",
           "summary": "Посебно одељење за сузбијање корупције Вишег јавног тужилаштва у Београду поднело је Служби за борбу против корупције захтев за прикупљање потребних обавештења поводом пријављених злоупотреба у вези са трансфером Филипа…",
-          "publishedAt": "2026-11-10T12:01:21.000Z",
+          "publishedAt": "2026-11-10T13:44:04.000Z",
           "titleEn": "Prosecutors ordered a check on the transfer of the Partisan footballer to Manchester City",
           "summaryEn": "The special anti-corruption department of the Belgrade Superior Public Prosecutor's Office has submitted a request to the Anti-Corruption Service to collect the necessary notifications regarding reported abuses in connection with the transfer of Philip..."
         },
@@ -81,14 +87,6 @@
           "publishedAt": "2026-11-10T10:05:50.000Z",
           "titleEn": "Support Meeting for the Informant in front of REM Headquarters",
           "summaryEn": "A group of people gathered at the Nikola Pashić Square in Belgrade to provide support to Informer television, before the start of the regular meeting of the Council of the Regulatory Body for Electronic Media, at which, according to the owner..."
-        },
-        {
-          "title": "Колико Србија може без нафте из Јанафа, скупа струја из увоза додатно оптерећује ЕПС",
-          "link": "https://www.rts.rs/vesti/ekonomija/6080197/janaf-nafta-zeljko-markovic.html",
-          "summary": "Стручњак за енергетику Жељко Марковић каже за РТС да би квар на Јадранском нафтоводу могао да буде отклоњен за пет до десет дана и да, уколико се то догоди, не би требало да буде поремећаја у снабдевању горивом.…",
-          "publishedAt": "2026-11-10T07:35:17.000Z",
-          "titleEn": "As much as Serbia can without oil from Yanf, the expensive electricity from imports adds to the EPS",
-          "summaryEn": "Energy expert Željko Markovic tells RTS that the core of the Adriatic oil pipeline could be removed in five to ten days and that, if that happens, there should be no disruption in the fuel supply...."
         }
       ]
     },
@@ -99,8 +97,36 @@
         "homepage": "https://n1info.rs",
         "lang": "sr-Latn"
       },
-      "fetchedAt": "2026-11-10T13:39:46.062Z",
+      "fetchedAt": "2026-11-10T14:16:19.896Z",
       "items": [
+        {
+          "title": "Šta se zna o Alis Huang, navodnoj kineskoj špijunki u centru Nvidia skandala?",
+          "link": "https://n1info.rs/svet/ko-je-alis-huang-kina-spijunaza-nvidia/",
+          "summary": "Ko je Alis Huang, žena za koju se tvrdi da je u središtu skandala koji potresa Envidiju, najmoćniju svetsku kompaniju za proizvodnju čipova?",
+          "image": "https://n1info.rs/media/images/2026/11/10/1794301197_dzensen_huang_nvidia_1.width-1200.JPG",
+          "publishedAt": "2026-11-10T14:15:44.000Z"
+        },
+        {
+          "title": "Eurotay ne zatvara fabriku u Kraljevu, ali neki radnici će ostati bez posla: Razlozi isključivo komercijalni",
+          "link": "https://n1info.rs/biznis/eurotay-ne-zatvara-fabriku-u-kraljevu-ali-neki-radnici-ce-ostati-bez-posla-razlozi-iskljucivo-komercijalni/",
+          "summary": "Turska kompanija Eurotay koja poseduje fabriku odeće u Kraljevu potvrdila je za N1 da će otpustiti jedan broj radnika, ali je demantovala navode da pl",
+          "image": "https://n1info.rs/media/images/2025/11/1763031970_shutterstock_2430970217.width-1200.jpg",
+          "publishedAt": "2026-11-10T14:07:14.000Z"
+        },
+        {
+          "title": "Commission of Inquiry seeks overturn of Vucic’s pardons",
+          "link": "https://n1info.rs/english/news/commission-of-inquiry-seeks-overturn-of-vucics-pardons/",
+          "summary": "The Commission of Inquiry, established in 2025, submitted an initiative to the Supreme Public Prosecutor to initiate administrative proceedings before",
+          "image": "https://n1info.rs/media/images/2026/11/10/1794311313_ANKETNA.width-1200.jpg",
+          "publishedAt": "2026-11-10T13:59:28.000Z"
+        },
+        {
+          "title": "DRI: Obuhvat siromašne dece dečjim dodatkom pao sa 89 na 68 odsto",
+          "link": "https://n1info.rs/biznis/dri-obuhvat-siromasne-dece-decjim-dodatkom-pao-sa-89-na-68-odsto/",
+          "summary": "Broj dece koja ostvaruju pravo na dečji dodatak smanjen je od 2021. do 2025. godine za oko 76.000, što je u značajnoj meri posledica neodgovarajućih s",
+          "image": "https://n1info.rs/media/images/1695379526-shutterstock_2225240441.width-1200.jpg",
+          "publishedAt": "2026-11-10T13:40:53.000Z"
+        },
         {
           "title": "Irski ministar: Članstvo u EU dobar način za rešavanje otvorenih bilateralnih pitanja",
           "link": "https://n1info.rs/svet/irski-ministar-clanstvo-u-eu-dobar-nacin-za-resavanje-otvorenih-bilateralnih-pitanja/",
@@ -154,42 +180,6 @@
           "publishedAt": "2026-11-10T13:14:18.000Z",
           "titleEn": "Minister of Macedonia: Many officials paid traffic fines for violations recorded by \"Safe City\"",
           "summaryEn": "Minister of Internal Affairs of North Macedonia Panče Toshkovski said today that a number of officials have paid a fine for a traffic offense that was"
-        },
-        {
-          "title": "Vrhovno javno tužilaštvo: Stefanović napravio paratužilački sistem, sumnja se da je kršio zakon, Izveštaj komisije poslat JTOK-u na postupanje",
-          "link": "https://n1info.rs/vesti/vrhovno-javno-tuzilastvo-tuzilac-stefanovic-uspostavio-paratuzilaski-sistem-i-krsio-zakon-izvestaj-komisije-poslat-jtok-u-na-postupanje/",
-          "summary": "Prvi izveštaj Komisije Vrhovnog javnog tužilaštva objavljen je danas. Kako je utvrđeno, postoje osnovi sumnje da je glavni tužilac Višeg javnog tužila",
-          "image": "https://n1info.rs/media/images/1755879907_1673798442-Nenad-Stefanovic_101019_Ras-foto-Goran-Srdano.width-1200.jpg",
-          "publishedAt": "2026-11-10T13:09:46.000Z",
-          "titleEn": "Supreme Public Prosecutor's Office: Stefanovic created a parachute system, suspected of breaking the law, Commission report sent to JTOK for prosecution",
-          "summaryEn": "The first report of the Commission of the Supreme Prosecutor's Office was published today. As established, there is reasonable suspicion that the Chief Prosecutor"
-        },
-        {
-          "title": "MUP: Uhapšene dve osobe, osumnjičene za zloupotrebu položaja i pranje novca",
-          "link": "https://n1info.rs/vesti/mup-uhapsene-dve-osobe-osumnjicene-za-zloupotrebu-polozaja-i-pranje-novca/",
-          "summary": "Pripadnici MUP, UKP, Službe za borbu protiv korupcije, po nalogu Posebnog odeljenja za suzbijanje korupcije VJT u Nišu, uhapsili su S. R. (66) zbog po",
-          "image": "https://n1info.rs/media/images/novi-sad-policija-rotacija-n1-341637_5qoZ9o5.width-1200.jpeg",
-          "publishedAt": "2026-11-10T13:02:29.000Z",
-          "titleEn": "Two people arrested, suspected of abuse of office and money laundering",
-          "summaryEn": "Members of the MUP, UKP, the Anti-Corruption Service, at the behest of the Special Corruption Division of the VJT in Niš, have arrested S. R. (66) for the purpose of"
-        },
-        {
-          "title": "N1 Studio Live (9.11.2026)",
-          "link": "https://n1info.rs/video/n1-studio-live/n1-studio-live-9112026/",
-          "summary": "Pogledajte emisiju N1 Studio live.",
-          "image": "https://n1info.rs/media/images/2026/11/9/1794241064_n1_studio_live_mpp-091126.width-1200.png",
-          "publishedAt": "2026-11-10T13:00:00.000Z",
-          "titleEn": "This is the first of a two-part series.",
-          "summaryEn": "Watch the N1 Studio show live."
-        },
-        {
-          "title": "BIRODI traži razrešenje predsednika Saveta REM-a Stevice Smederevca",
-          "link": "https://n1info.rs/vesti/birodi-trazi-razresenje-predsednika-saveta-rem-a-stevice-smederevca/",
-          "summary": "Biro za društvena istraživanja (BIRODI) pozvao je danas novi saziv Skupštine Srbije da razreši predsednika Saveta Regulatornog tela za elektronske med",
-          "image": "https://n1info.rs/media/images/2026/11/4/1793804803_stevica_smederevac_n1.width-1200.png",
-          "publishedAt": "2026-11-10T12:58:33.000Z",
-          "titleEn": "BIRODI is seeking the release of REM Council President Stevica Smederevc",
-          "summaryEn": "The Bureau for Social Research (BIRODI) today called for a new convocation of the Serbian Parliament to dismiss the President of the Council of the Regulatory Body for Electronic Honey"
         }
       ]
     },
@@ -200,97 +190,77 @@
         "homepage": "https://www.danas.rs",
         "lang": "sr-Latn"
       },
-      "fetchedAt": "2026-11-10T13:39:46.006Z",
+      "fetchedAt": "2026-11-10T14:16:19.642Z",
       "items": [
         {
-          "title": "„Šta god da Srbija radi, mi se na to ne trebamo obazirati“: Hrvatski ministar obrane o srpskom naoružavanju",
-          "link": "https://www.danas.rs/svet/ministar-obrane-hrvatske-anusic-naoruzavanje-srbija-hrvatska/",
-          "summary": "Zamenik premijera i ministar odbrane Ivan Anušić rekao je u utorak da ne treba obraćati pažnju na to šta Srbija radi u pogledu naoružavanja i retorike, već da Hrvatska treba da nastavi da radi na modernizaciji svoje…",
-          "image": "https://www.danas.rs/wp-content/uploads/2026/03/0601foto-EPA-ANTONIO-BAT-e1790937553659-300x169.jpg",
-          "publishedAt": "2026-11-10T13:37:26.000Z",
-          "titleEn": "'Whatever Serbia does, we shouldn't care about it': Croatian Defence Minister on Serbian armaments",
-          "summaryEn": "Deputy Prime Minister and Minister of Defence Ivan Anušić said on Tuesday that attention should not be paid to what Serbia is doing in terms of armaments and rhetoric, but that Croatia should continue to work on modernizing its..."
+          "title": "Penjaroja o novom pojačanju: „Glasine su samo glasine, a moj posao je da razmišljam o sastavu“",
+          "link": "https://www.danas.rs/sport/penjaroja-partizan-baskonija/",
+          "summary": "Košarkaši Partizana u sredu od 20.45 sati dočekuju Baskoniju u utakmici 11. kola Evrolige.",
+          "image": "https://www.danas.rs/wp-content/uploads/2026/04/ZVEZDA-PARTIZAN_049-e1775162076415-300x169.jpg",
+          "publishedAt": "2026-11-10T14:14:28.000Z"
         },
         {
-          "title": "Kraj Mandićevog projekta u Rukometnom klubu Partizan: Poraz SNS-a doveo do raspada sistema",
-          "link": "https://www.danas.rs/sport/kraj-projekta-rk-partizan-mandic-sns/",
-          "summary": "Porazom SNS-a na parlamentarnim izborima u Srbiji, kako stvari stoje, došao je i kraj projekta Rukometni klub Partizan. Prvo je crno-bele napustio predsednik Miljan Žugić, a sa njim je otišao i kompletni Upravni odbor,…",
-          "image": "https://www.danas.rs/wp-content/uploads/2026/11/PARTIZAN-FUCHSE-BERLIN_65-e1794306308649-300x169.jpg",
-          "publishedAt": "2026-11-10T13:30:29.000Z",
-          "titleEn": "The end of Mandić's project at the Partizan Handball Club: The defeat of the SNS led to the collapse of the system",
-          "summaryEn": "The defeat of the SNS in the parliamentary elections in Serbia, as it stands, has also brought an end to the Handball Club Partizan project. First black and white left President Miljan Žugić, and with him went the entire Board of Directors,"
+          "title": "Er Srbija će tokom praznične sezone udvostručiti letove između Niša i Beča",
+          "link": "https://www.danas.rs/vesti/ekonomija/er-srbija-ce-tokom-praznicne-sezone-udvostruciti-letove-izmedju-nisa-i-beca/",
+          "summary": "Er Srbija najavila je danas da će u periodu od 22. decembra ove godine do 9. januara 2027. povećati broj letova između Niša i Beča sa dva na četiri nedeljno.",
+          "image": "https://www.danas.rs/wp-content/uploads/2026/10/shutterstock_1061328824-e1791456521588-300x169.jpg",
+          "publishedAt": "2026-11-10T14:12:32.000Z"
         },
         {
-          "title": "Rok kamp za devojčice pokreće novu kampanju, pogledajte video koji budi nove rok zvezde",
-          "link": "https://www.danas.rs/kultura/rok-kamp-za-devojcice-pokrece-novu-kampanju/",
-          "summary": "Rok kamp za devojčice, program Kolektiva Femix, pokrenuo je kampanju „Ja sam rokstar“, čiji je cilj prikupljanje sredstava za organizaciju narednog izdanja ovog muzičkog programa.",
-          "image": "https://www.danas.rs/wp-content/uploads/2023/05/kul10foto-Filip-Olcun-300x200.jpg",
-          "publishedAt": "2026-11-10T13:25:19.000Z",
-          "titleEn": "Rock camp for girls is launching a new campaign, watch the video that wakes up new rock stars",
-          "summaryEn": "Rock Camp for Girls, a program of the Collective Femix, has launched a campaign \"I'm a Rockstar\" to raise funds for the organization of the next edition of this music program."
+          "title": "Irski ministar: Članstvo u EU dobar način za rešavanje otvorenih bilateralnih pitanja",
+          "link": "https://www.danas.rs/svet/irski-ministar-clanstvo-u-eu-dobar-nacin-za-resavanje-otvorenih-bilateralnih-pitanja/",
+          "summary": "EU je na putu da 2028. primi Crnu Goru kao 28. članicu, saopštilo je irsko predsedavanje EU u trenutku kada se bojazni u bloku oko nove članice pomeraju sa reformskih napora te zemlje na moguća veta aktuelnih članica u…",
+          "image": "https://www.danas.rs/wp-content/uploads/2021/12/Crna-Gora-EU-2-Gov-e1652625750404-300x169.jpg",
+          "publishedAt": "2026-11-10T14:12:05.000Z"
         },
         {
-          "title": "MUP: Uhapšeno dvoje zbog sumnje na pranje novca i zloupotrebu položaja",
-          "link": "https://www.danas.rs/vesti/drustvo/mup-hapsenje-pranje-novca/",
-          "summary": "Policija je uhapsila dve osobe zbog sumnje da su izvršile krivična dela zloupotreba položaja odgovornog lica i pranje novca, saopštilo je danas Ministarstvo unutrašnjih poslova (MUP).",
+          "title": "Uhapšen zbog pranja novca, plaćao fakture za poslove koji nisu obavljeni",
+          "link": "https://www.danas.rs/vesti/ekonomija/uhapsen-zbog-pranja-novca-placao-fakture-za-poslove-koji-nisu-obavljeni/",
+          "summary": "Policija je po nalogu Posebnog odeljenja za suzbijanje korupcije Višeg javnog tužilaštva u Nišu uhapsila S. R. (66) zbog sumnje da je izvršio krivično delo zloupotreba položaja odgovornog lica i N. R. (1991),…",
           "image": "https://www.danas.rs/wp-content/uploads/2021/10/handcuffs-lisice-e1636908855883-300x169.jpg",
-          "publishedAt": "2026-11-10T13:25:09.000Z",
-          "titleEn": "Two arrested on suspicion of money laundering and abuse of office",
-          "summaryEn": "Police have arrested two people on suspicion of committing misconduct and money laundering, the Ministry of Home Affairs (MUP) said today."
+          "publishedAt": "2026-11-10T14:07:11.000Z"
         },
         {
-          "title": "Radno vreme za Dan primirja: Kako će raditi prodavnice i pijace 11. novembra?",
-          "link": "https://www.danas.rs/vesti/beograd/radno-vreme-11-novembar-2026-prodavnice-pijace-parking/",
-          "summary": "Dežurni prodajni objekti nespecijalizovanih trgovinskih formata, pretežno prehrambenog asortimana poput hipermarketa, supermarketa i mini-marketa danas, 10. novembra moraju da rade najmanje od 9 do 18 časova, dok sutra,…",
-          "image": "https://www.danas.rs/wp-content/uploads/2026/07/1603foto-EPA-FRIEDEMANN-VOGEL-e1794316406243-300x169.jpg",
-          "publishedAt": "2026-11-10T13:20:06.000Z",
-          "titleEn": "Time for Armistice Day: How will the shops and markets work on November 11?",
-          "summaryEn": "Overnight retail outlets in non-specialized retail formats, mainly food-related such as hypermarkets, supermarkets and mini-markets today, November 10 must operate at least 9 a.m. to 6 p.m."
+          "title": "Da li je mačkama zimi hladno dok spavaju? Evo kako da im obezbedite topao kutak",
+          "link": "https://www.danas.rs/zivot/da-li-je-mackama-zimi-hladno-dok-spavaju/",
+          "summary": "Sa dolaskom hladnijih dana mnoge mačke počinju da traže toplija mesta za odmor. Sve češće se sklupčaju na ćebadima, pored radijatora ili uz svoje vlasnike. Iako ih krzno štiti od hladnoće, ni mačkama tokom zime nije…",
+          "image": "https://www.danas.rs/wp-content/uploads/2026/11/shutterstock_2750099353-e1794234391774-300x169.jpg",
+          "publishedAt": "2026-11-10T14:05:12.000Z"
         },
         {
-          "title": "Telekom ponovo zaključao 30 kanala za besplatno gledanje na Anteni Plus Max",
-          "link": "https://www.danas.rs/vesti/ekonomija/telekom-ponovo-zakljucao-30-kanala-za-besplatno-gledanje-na-anteni-plus-max/",
-          "summary": "Kao što je Telekom Srbija u tajnosti i bez prethodne najave krajem avgusta ove godine, u jeku Vučićeve neformalne predizborne i funkcionerske kampanje, kada vanredni parlamentarni izbori još nisu bili raspisani,…",
-          "image": "https://www.danas.rs/wp-content/uploads/2024/02/shutterstock_1839880300-e1707130048108-300x169.jpg",
-          "publishedAt": "2026-11-10T13:10:57.000Z",
-          "titleEn": "Telecom has re-locked 30 free-to-air channels on the Plus Max antenna.",
-          "summaryEn": "As Telekom Srbija secretly and without prior announcement at the end of August this year, at the height of Vucic's informal pre-election and functional campaign, when the extraordinary parliamentary elections were not yet called,..."
+          "title": "Željko Mitrović objavio s kim se pozdravio u Trampovom klubu na Floridi",
+          "link": "https://www.danas.rs/vesti/politika/zeljko-mitrovic-tramp-florida-skup-konzervativci/",
+          "summary": "Vlasnik TV Pink Željko Mitrović, koji je svojevremeno bio u prokomunističkoj Jugoslovenskoj levici Mirjane Marković, objavio je video snimke sa kim se sve pozdravio na skupu američkih konzervativaca u klubu predsednika…",
+          "image": "https://www.danas.rs/wp-content/uploads/2025/08/0603foto-Antonio-Ahel-ATAImages-e1763541514674-300x169.jpg",
+          "publishedAt": "2026-11-10T13:56:44.000Z"
         },
         {
-          "title": "Otkriveni detalji iz života ubice iz Krakova",
-          "link": "https://www.danas.rs/svet/otkriveni-detalji-iz-zivota-ubice-iz-krakova/",
-          "summary": "Poljski ministar pravde Valdemar Žurek saopštio je danas da posle pregleda kompjutera Mihala Okšinjskog, koji je ubio svoju porodicu a zatim još šestoro ljudi pucajući na glavnom trgu u Krakovu, ima sve više indicija…",
-          "image": "https://www.danas.rs/wp-content/uploads/2026/11/14424165-scaled-e1794141762348-300x169.jpg",
-          "publishedAt": "2026-11-10T13:01:11.000Z",
-          "titleEn": "Details revealed from the life of the Krakow murderer",
-          "summaryEn": "Polish Minister of Justice Valdemar Zurek said today that after examining the computer of Mikhail Okshinsky, who killed his family and then six other people shooting in the main square in Krakow, there is increasing evidence..."
+          "title": "Ljubomir Bandović potpisuje novu predstavu Fondacije Mozzart: „Izgubljeno jagnje“ 10. decembra na sceni Teatra humanosti",
+          "link": "https://www.danas.rs/kultura/ljubomir-bandovic-fondacija-mozzart-izgubljeno-jagnje/",
+          "summary": "Biblijski motiv koji otvara mnoga pitanja, autorski pečat Ljubomira Bandovića i glumačka ekipa koju predvode Bandović i Nebojša Ljubišić, uz posebno učešće Vesne Trivalić, obeležiće novu pozorišnu produkciju Fondacije…",
+          "image": "https://www.danas.rs/wp-content/uploads/2026/11/DSC07247-scaled-e1794318814170-300x169.jpg",
+          "publishedAt": "2026-11-10T13:56:25.000Z"
         },
         {
-          "title": "Кandidati Studentske liste zahtevaju da se stavi van snage odluka o planu za rudnik Jama Bor",
-          "link": "https://www.danas.rs/vesti/drustvo/studentska-lista-rudnik-jama-bor/",
-          "summary": "Кandidati Studentske liste za Narodnu skupštinu Srbije uputili su zahtev Agenciji za prostorno planiranje i urbanizam Srbije da obustavi rani javni uvid u Prostorni plan područja posebne namene za eksploataciju ležišta…",
-          "image": "https://www.danas.rs/wp-content/uploads/2026/08/3-13-e1793196142706-300x169.jpg",
-          "publishedAt": "2026-11-10T13:00:11.000Z",
-          "titleEn": "Candidates on the Student List demand that a decision on the plan for the Jama Bor mine be repealed",
-          "summaryEn": "Candidates of the Student List for the National Assembly of Serbia have sent a request to the Serbian Agency for Spatial Planning and Urbanism to suspend an early public inspection of the Spatial Plan of the Special Purpose Area for the exploitation of the dorms..."
+          "title": "Počinje isplata osiguranih depozita Alta banke, Rusi iz Subotice strahuju za ostatak ušteđevine",
+          "link": "https://www.danas.rs/vesti/ekonomija/pocinje-isplata-osiguranih-depozita-alta-banke-rusi-iz-subotice-strahuju-za-ostatak-ustedjevine/",
+          "summary": "Isplata osiguranih depozita klijenata Alta banke, koja je otišla u stečaj 31. oktobra, počeće u petak, 13. novembra, preko Poštanske štedionice, a među najpogođenijima su državljani Rusije koji su u toj banci držali…",
+          "image": "https://www.danas.rs/wp-content/uploads/2026/11/1-2-e1794318688467-300x169.jpg",
+          "publishedAt": "2026-11-10T13:54:13.000Z"
         },
         {
-          "title": "Studenti se ogradili od grupe ličnosti u Vranju, objavljen spisak",
-          "link": "https://www.danas.rs/vesti/politika/studenti-se-ogradili-od-grupe-licnosti-u-vranju-objavljen-spisak/",
-          "summary": "Studentski pokret u Nišu je zvanično saopštio da nema nikakve dogovore, saveze niti kadrovske aranžmane sa pojedinim lokalnim političarima i aktivistima u Vranju.",
-          "image": "https://www.danas.rs/wp-content/uploads/2026/09/studenti-biciklisti-vranje-e1790184254406-300x169.jpg",
-          "publishedAt": "2026-11-10T12:43:59.000Z",
-          "titleEn": "Students fence off a personality group in Crow, published list",
-          "summaryEn": "The student movement in Niš has officially announced that there are no deals, alliances or personnel arrangements with some local politicians and activists in Vranja."
+          "title": "Komisija Vrhovnog javnog tužilaštva: Nenad Stefanović stvorio paratužilački sistem, izveštaj se šalje TOK-u radi krivičnog gonjenja",
+          "link": "https://www.danas.rs/vesti/drustvo/vrhovno-javno-tuzilastvo-nenad-stefanovic-krivicno-gonjenje/",
+          "summary": "Komisija za kontrolu rada tužilaštava objavila je izveštaj o izvršenoj kontroli Višeg javnog tužilaštva u Beogradu. Utvrđeno je da postoje osnovi sumnje da je glavni tužilac Višeg javnog tužilaštva u Beogradu Nenad…",
+          "image": "https://www.danas.rs/wp-content/uploads/2026/07/5-11-e1784463333941-300x169.jpg",
+          "publishedAt": "2026-11-10T13:46:30.000Z"
         },
         {
-          "title": "Nemački list: „Studenti već sada okreću Srbiju naglavačke“",
-          "link": "https://www.danas.rs/svet/njemacki-list-studenti-vec-sada-okrecu-srbiju-naglavacke/",
-          "summary": "Frankfurter Allgemeine Zeitung (FAZ) je objavio tekst Michaela Martensa o postizbornim zbivanjima u Srbiji u kojem se kaže da \"studenti već sada okreću Srbiju naglavačke\" u medijskom, bankarskom i sigurnosnom sektoru.",
-          "image": "https://www.danas.rs/wp-content/uploads/2026/10/2-156-e1793095462561-300x168.jpg",
-          "publishedAt": "2026-11-10T12:43:21.000Z",
-          "titleEn": "German newspaper:  ⁇ Students are already turning Serbia headlines ⁇",
-          "summaryEn": "The Frankfurter Allgemeine Zeitung (FAZ) published a text by Michael Martens on post-election events in Serbia, saying that \"students are already turning Serbia headlines\" in the media, banking and security sectors."
+          "title": "‘Brojni propusti’ u istrazi slučaja ‘zvučni top’, traži se razrešenje beogradskog tužioca Stefanovića",
+          "link": "https://www.danas.rs/bbc-news-serbian/brojni-propusti-u-istrazi-slucaja-zvucni-top-trazi-se-razresenje-beogradskog-tuzioca-stefanovica/",
+          "summary": "Iz Vrhovnog javnog tužilaštva smatraju da je glavni javni tužilac Višeg javnog tužilaštva Nenad Stefanović razrešenjem tužiteljke u slučaju napada na studente u januaru 2025. 'učinio težak disciplinski prekršaj'.",
+          "image": "https://www.danas.rs/wp-content/uploads/2026/11/11c21e20-dc1e-11f1-93e1-3b657b665bcf-300x169.jpg",
+          "publishedAt": "2026-11-10T13:45:05.000Z"
         }
       ]
     }

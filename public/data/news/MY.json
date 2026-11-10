@@ -8,7 +8,7 @@
         "homepage": "https://www.malaysiakini.com",
         "lang": "en-MY"
       },
-      "fetchedAt": "2026-11-10T13:39:35.850Z",
+      "fetchedAt": "2026-11-10T14:16:07.440Z",
       "items": [
         {
           "title": "Taipei confirms suspending investment talks over Anwar’s ‘One China’ remark",
@@ -89,97 +89,79 @@
         "homepage": "https://www.bharian.com.my",
         "lang": "ms"
       },
-      "fetchedAt": "2026-11-10T13:39:36.139Z",
+      "fetchedAt": "2026-11-10T14:16:07.499Z",
       "items": [
         {
+          "title": "Jangan panik, MKN adakan latihan keselamatan di KLIA Khamis ini",
+          "link": "https://www.bharian.com.my/berita/nasional/2026/11/1708172/jangan-panik-mkn-adakan-latihan-keselamatan-di-klia-khamis-ini",
+          "summary": "KUALA LUMPUR: Orang ramai berada di Terminal 1 Lapangan Terbang Antarabangsa Kuala Lumpur (KLIA) diminta tidak panik sekiranya melihat pergerakan anggota keselamatan, selain aset operasi atau aktiviti mencurigakan,…",
+          "image": "https://assets.bharian.com.my/images/articles/BHPINIP_BHfield_image_listing_featured_v2.var_1794320020.jpg",
+          "publishedAt": "2026-11-10T22:13:41.000Z"
+        },
+        {
+          "title": "MGA pertahan kejuaraan, atasi SGA 14-10",
+          "link": "https://www.bharian.com.my/sukan/lain-lain/2026/11/1708171/mga-pertahan-kejuaraan-atasi-sga-14-10",
+          "summary": "KUALA LUMPUR: Keupayaan pemain muda negara menyerap tekanan dan menguasai saingan berpasukan membuahkan hasil apabila Malaysian Golf Association (MGA) menewaskan Singapore Golf Association (SGA) 14-10 untuk…",
+          "image": "https://assets.bharian.com.my/images/articles/mga1011_BHfield_image_listing_featured_v2.var_1794320009.jpg",
+          "publishedAt": "2026-11-10T22:13:30.000Z"
+        },
+        {
+          "title": "IPO Big Caring terlebih langgan 4.31 kali",
+          "link": "https://www.bharian.com.my/bisnes/korporat/2026/11/1708149/ipo-big-caring-terlebih-langgan-431-kali",
+          "summary": "KUALA LUMPUR: Tawaran awam permulaan (IPO) Big Caring Group Bhd bagi bahagian untuk orang awam telah terlebih langgan sebanyak 4.31 kali, menjelang penyenaraiannya di Pasaran Utama Bursa Malaysia pada 19 November ini.",
+          "image": "https://assets.bharian.com.my/images/articles/bizh-caringg_BHfield_image_listing_featured_v2.var_1794319050.jpg",
+          "publishedAt": "2026-11-10T21:57:31.000Z"
+        },
+        {
+          "title": "Bakar mercun di tengah jalan: 3 lagi suspek ditahan, 6 didakwa esok",
+          "link": "https://www.bharian.com.my/berita/kes/2026/11/1708147/bakar-mercun-di-tengah-jalan-3-lagi-suspek-ditahan-6-didakwa-esok",
+          "summary": "JOHOR BAHRU: Tiga lagi lelaki ditahan berhubung insiden pembakaran mercun di atas jalan raya berhampiran persimpangan lampu isyarat Taman Nesa, Skudai, yang tular dalam media sosial sejak kelmarin.",
+          "image": "https://assets.bharian.com.my/images/articles/BH10BAKAK-O_BHfield_image_listing_featured_v2.var_1794318915.jpg",
+          "publishedAt": "2026-11-10T21:55:16.000Z"
+        },
+        {
+          "title": "Advancecon menang kontrak RM41.52 juta projek Southern Ibrahim Technopolis di Kulai",
+          "link": "https://www.bharian.com.my/bisnes/korporat/2026/11/1708145/advancecon-menang-kontrak-rm4152-juta-projek-southern-ibrahim",
+          "summary": "KUALA LUMPUR: Advancecon Holdings Bhd menerima kontrak bernilai RM41.52 juta daripada JLG Technopark Sdn Bhd untuk kerja-kerja tanah dan infrastruktur utama di Southern Ibrahim Technopolis (IBTEC), Kulai, Johor.",
+          "image": "https://assets.bharian.com.my/images/articles/advancecon10nov_BHfield_image_listing_featured_v2.var_1794318893.jpg",
+          "publishedAt": "2026-11-10T21:54:54.000Z"
+        },
+        {
+          "title": "Hujan lebat lebih 2 jam, 18 rumah di Bandar Baharu dilanda banjir",
+          "link": "https://www.bharian.com.my/berita/nasional/2026/11/1708143/hujan-lebat-lebih-2-jam-18-rumah-di-bandar-baharu-dilanda-banjir",
+          "summary": "BANDAR BAHARU: Hujan lebat berterusan lebih dua jam menyebabkan 18 rumah di dua mukim di daerah ini terjejas banjir.",
+          "image": "https://assets.bharian.com.my/images/articles/BHLIBAK_BHfield_image_listing_featured_v2.var_1794318653.jpg",
+          "publishedAt": "2026-11-10T21:50:54.000Z"
+        },
+        {
+          "title": "Zetrix AI sahkan mungkir bayar sukuk RM25 juta",
+          "link": "https://www.bharian.com.my/bisnes/korporat/2026/11/1708140/zetrix-ai-sahkan-mungkir-bayar-sukuk-rm25-juta",
+          "summary": "KUALA LUMPUR: Zetrix AI Bhd mengesahkan pembayaran bagi Sukuk Wakalah Siri No. 6 bernilai RM25 juta yang matang pada 6 November masih belum dilunaskan setakat hari ini.",
+          "image": "https://assets.bharian.com.my/images/articles/bizh-zetic_BHfield_image_listing_featured_v2.var_1794318504.jpg",
+          "publishedAt": "2026-11-10T21:48:25.000Z"
+        },
+        {
+          "title": "Kamaruddin sah digugurkan daripada EXCO Kelantan",
+          "link": "https://www.bharian.com.my/berita/nasional/2026/11/1708138/kamaruddin-sah-digugurkan-daripada-exco-kelantan",
+          "summary": "KOTA BHARU: Pengerusi BERSATU Kelantan, Datuk Kamaruddin Md Nor mengesahkan menerima surat penamatan pelantikannya sebagai Ahli Majlis Mesyuarat Kerajaan Negeri (EXCO) hari ini.",
+          "image": "https://assets.bharian.com.my/images/articles/BHSAHDIN_BHfield_image_listing_featured_v2.var_1794318275.jpg",
+          "publishedAt": "2026-11-10T21:44:36.000Z"
+        },
+        {
+          "title": "Untung bersih suku ketiga Sunway REIT merosot kepada RM116.17 juta",
+          "link": "https://www.bharian.com.my/bisnes/korporat/2026/11/1708137/untung-bersih-suku-ketiga-sunway-reit-merosot-kepada-rm11617-juta",
+          "summary": "KUALA LUMPUR: Sunway Real Estate Investment Trust (REIT) hari ini melaporkan keuntungan bersih yang lebih rendah sebanyak RM116.17 juta pada suku ketiga berakhir 30 September 2026 berbanding RM121.85 setahun sebelumnya.",
+          "image": "https://assets.bharian.com.my/images/articles/sunwayreit10nov_BHfield_image_listing_featured_v2.var_1794318269.jpg",
+          "publishedAt": "2026-11-10T21:44:30.000Z"
+        },
+        {
           "title": "Tahanan di rumah: Najib tiba di kediaman Taman Duta",
-          "link": "https://www.bharian.com.my/berita/nasional/2026/11/1708132/tahanan-di-rumah-najib-tiba-di-kediaman-taman-duta",
+          "link": "https://www.bharian.com.my/berita/nasional/2026/11/1708134/tahanan-di-rumah-najib-tiba-di-kediaman-taman-duta",
           "summary": "KUALA LUMPUR: Datuk Seri Najib Razak tiba di kediamannya di Taman Duta di sini, untuk menjalani baki hukuman penjaranya secara tahanan di rumah, berkuat kuasa hari ini.",
-          "image": "https://assets.bharian.com.my/images/articles/BH10NAJIBTIBA-O_BHfield_image_listing_featured_v2.var_1794317906.jpg",
-          "publishedAt": "2026-11-10T21:38:27.000Z",
+          "image": "https://assets.bharian.com.my/images/articles/BH10NAJIBTIBA-O~583103_BHfield_image_listing_featured_v2.var_1794318074.jpg",
+          "publishedAt": "2026-11-10T21:41:15.000Z",
           "titleEn": "Prisoner at home: Najib arrives at Ambassador Park residence",
           "summaryEn": "KUALA LUMPUR: Grandfather Najib Razak arrived at his residence in Taman Ambassador here, to serve the remainder of his sentence under house arrest, effective today."
-        },
-        {
-          "title": "Produk Gardenia patuhi spesifikasi keselamatan makanan",
-          "link": "https://www.bharian.com.my/berita/nasional/2026/11/1708104/produk-gardenia-patuhi-spesifikasi-keselamatan-makanan",
-          "summary": "KUALA LUMPUR: Produk Gardenia Bakeries (KL) Sdn Bhd (Gardenia) yang menjadi perhatian susulan kebimbangan pengguna baru-baru ini disahkan mematuhi spesifikasi keselamatan makanan berdasarkan keputusan ujian makmal bebas…",
-          "image": "https://assets.bharian.com.my/images/articles/BHGARDINIA_BHfield_image_listing_featured_v2.var_1794317411.jpg",
-          "publishedAt": "2026-11-10T21:30:12.000Z",
-          "titleEn": "Gardenia products comply with food safety specifications",
-          "summaryEn": "KUALA LUMPUR: Gardenia Bakeries (KL) Sdn Bhd (Gardenia) products that have become the focus of consumer concern have recently been confirmed to comply with food safety specifications based on the results of independent laboratory testing..."
-        },
-        {
-          "title": "KBS nafi Indonesia tarik diri daripada Sukan SEA 2027",
-          "link": "https://www.bharian.com.my/sukan/lain-lain/2026/11/1708103/kbs-nafi-indonesia-tarik-diri-daripada-sukan-sea-2027",
-          "summary": "KUALA LUMPUR: Kementerian Belia dan Sukan (KBS) menafikan khabar angin mengenai kemungkinan Indonesia menarik diri daripada menyertai temasya Sukan SEA 2027 yang bakal berlangsung di Malaysia.",
-          "image": "https://assets.bharian.com.my/images/articles/naf1011_BHfield_image_listing_featured_v2.var_1794317399.jpg",
-          "publishedAt": "2026-11-10T21:30:00.000Z",
-          "titleEn": "KBS Nafi Indonesia withdraws from the 2027 SEA Games",
-          "summaryEn": "KUALA LUMPUR: The Ministry of Youth and Sports (KBS) has denied rumors about Indonesia's possible withdrawal from the 2027 SEA Games in Malaysia."
-        },
-        {
-          "title": "3 lagi ditahan susulan kes bakar mercun atas jalan, 6 didakwa esok",
-          "link": "https://www.bharian.com.my/berita/kes/2026/11/1708100/3-lagi-ditahan-susulan-kes-bakar-mercun-atas-jalan-6-didakwa-esok",
-          "summary": "JOHOR BAHRU: Tiga lagi lelaki ditahan susulan insiden pembakaran mercun di atas jalan raya berhampiran lampu isyarat Taman Nesa, Skudai yang tular di media sosial sejak kelmarin.",
-          "image": "https://assets.bharian.com.my/images/articles/BHTAHANIGA_BHfield_image_listing_featured_v2.var_1794316943.jpg",
-          "publishedAt": "2026-11-10T21:22:24.000Z",
-          "titleEn": "Three more were arrested in a case of arson on the street, six charged tomorrow.",
-          "summaryEn": "JOHOR BAHRU: Three other men were arrested following a toxic fire incident on the road near the park's Nesa signalling lights, which has been circulating on social media since yesterday."
-        },
-        {
-          "title": "Kepala air: SAR 3 mangsa tertumpu di Jambatan Pertak, Empangan Sungai Selangor",
-          "link": "https://www.bharian.com.my/berita/kes/2026/11/1708098/kepala-air-sar-3-mangsa-tertumpu-di-jambatan-pertak-empangan-sungai",
-          "summary": "HULU SELANGOR: Operasi mencari dan menyelamat (SAR) tiga mangsa kepala air di Sungai Luit, Kampung Orang Asli Pertak, Kuala Kubu Bharu, malam ini tertumpu di Jambatan Pertak dan Empangan Sungai Selangor.",
-          "image": "https://assets.bharian.com.my/images/articles/BHSARTUPU_BHfield_image_listing_featured_v2.var_1794316610.jpg",
-          "publishedAt": "2026-11-10T21:16:51.000Z",
-          "titleEn": "Head of water: SAR 3 victims concentrated at Pertak Bridge, Selangor River Dam",
-          "summaryEn": "HULU SELANGOR: Search and rescue operation (SAR) of three water head victims in Luit River, Orang Asli Pertak Village, Kuala Kubu Bharu, tonight concentrated on Pertak Bridge and Selangor River Dam."
-        },
-        {
-          "title": "Masalah sistem brek dipercayai punca tren berasap di KL Sentral",
-          "link": "https://www.bharian.com.my/berita/nasional/2026/11/1708096/masalah-sistem-brek-dipercayai-punca-tren-berasap-di-kl-sentral",
-          "summary": "KUALA LUMPUR: Masalah sistem brek dipercayai menjadi punca kepulan asap keluar daripada sebuah tren di Stesen KL Sentral, di sini, petang tadi.",
-          "image": "https://assets.bharian.com.my/images/articles/BH10BEREK-O_BHfield_image_listing_featured_v2.var_1794316536.jpg",
-          "publishedAt": "2026-11-10T21:15:36.000Z",
-          "titleEn": "The brake system problem is believed to be the cause of the smoking train in Central KL",
-          "summaryEn": "A brake system problem is believed to be the cause of the smoke from a train at KL Central Station, here, last night."
-        },
-        {
-          "title": "'Mudah-mudahan tutup buku polemik' - Zahid Hamidi syukur Najib jalani tahanan di rumah",
-          "link": "https://www.bharian.com.my/berita/nasional/2026/11/1708068/mudah-mudahan-tutup-buku-polemik-zahid-hamidi-syukur-najib-jalani",
-          "summary": "ALOR GAJAH: Presiden UMNO, Datuk Seri Dr Ahmad Zahid Hamidi, menzahirkan perasaan syukur susulan keputusan Mahkamah Tinggi Kuala Lumpur hari ini memerintahkan Datuk Seri Najib Razak menjalani baki hukuman penjaranya…",
-          "image": "https://assets.bharian.com.my/images/articles/BH10TUTUPBUKU-O_BHfield_image_listing_featured_v2.var_1794315521.jpg",
-          "publishedAt": "2026-11-10T20:58:42.000Z",
-          "titleEn": "'Maybe close the book of polemics' - Zahid Hamidi thanks Najib for taking prisoners home",
-          "summaryEn": "President of UMNO, Datuk Seri Dr Ahmad Zahid Hamidi, expressed gratitude for the decision of the Kuala Lumpur High Court today ordering Datuk Seri Najib Razak to serve the remainder of his prison sentence..."
-        },
-        {
-          "title": "Jati Tinggi raih kontrak kuasa pusat data RM33.1 juta",
-          "link": "https://www.bharian.com.my/bisnes/korporat/2026/11/1708066/jati-tinggi-raih-kontrak-kuasa-pusat-data-rm331-juta",
-          "summary": "KUALA LUMPUR: Buku pesanan belum dibil Jati Tinggi Group Bhd meningkat kepada RM1.43 bilion selepas kumpulan itu memperoleh kontrak infrastruktur bekalan kuasa pusat data bernilai RM33.1 juta di Negeri Sembilan.",
-          "image": "https://assets.bharian.com.my/images/articles/bizh-jatitinggi_BHfield_image_listing_featured_v2.var_1794315061.jpg",
-          "publishedAt": "2026-11-10T20:51:03.000Z",
-          "titleEn": "Jati High has reached a data center power contract of RM33.1 million",
-          "summaryEn": "KUALA LUMPUR: The unpaid order book of Jati Tinggi Group Bhd increased to RM1.43 billion after the group acquired a data center power supply infrastructure contract worth RM33.1 million in Negeri Sembilan."
-        },
-        {
-          "title": "Pendigitalan 100 juta halaman ubah PROOFFICE menjadi penyedia teknologi",
-          "link": "https://www.bharian.com.my/bisnes/usahawan/2026/11/1708064/pendigitalan-100-juta-halaman-ubah-prooffice-menjadi-penyedia",
-          "summary": "KUALA LUMPUR: Pengalaman mendigitalkan lebih 100 juta halaman dokumen menjadi asas pertumbuhan Pro Office Technology Sdn Bhd (PROOFFICE) daripada perniagaan percetakan kepada penyedia penyelesaian pengurusan maklumat…",
-          "image": "https://assets.bharian.com.my/images/articles/prooffice_BHfield_image_listing_featured_v2.var_1794314873.jpg",
-          "publishedAt": "2026-11-10T20:47:54.000Z",
-          "titleEn": "Digitizing 100 million pages turns PROOFFICE into a technology provider",
-          "summaryEn": "KUALA LUMPUR: The experience of digitizing over 100 million pages of documents has been the basis for the growth of Pro Office Technology Sdn Bhd (PROOFFICE) from the printing business to the information management solution provider..."
-        },
-        {
-          "title": "Permit import tamat tempoh, AKPS sita hampir 25 tan ayam sejuk dari Thailand",
-          "link": "https://www.bharian.com.my/berita/kes/2026/11/1708062/permit-import-tamat-tempoh-akps-sita-hampir-25-tan-ayam-sejuk-dari",
-          "summary": "BUKIT KAYU HITAM: Agensi Kawalan dan Perlindungan Sempadan (AKPS) menyita hampir 25 tan ayam sejuk beku bernilai RM562,290 selepas mendapati permit import dikemukakan pengimport tamat tempoh.",
-          "image": "https://assets.bharian.com.my/images/articles/BHAKPSSITA_BHfield_image_listing_featured_v2.var_1794314580.jpg",
-          "publishedAt": "2026-11-10T20:43:01.000Z",
-          "titleEn": "Import permits expire, AKPS sita almost 25 tons of cold chicken from Thailand",
-          "summaryEn": "BUKIT KAYU HITAM: Border Control and Protection Agency (AKPS) seized nearly 25 tonnes of frozen chicken worth RM562,290 after finding import permits filed by importers expired."
         }
       ]
     },
@@ -190,8 +172,50 @@
         "homepage": "https://www.astroawani.com",
         "lang": "ms"
       },
-      "fetchedAt": "2026-11-10T13:39:36.950Z",
+      "fetchedAt": "2026-11-10T14:16:07.579Z",
       "items": [
+        {
+          "title": "Bekas guru kekal dipenjara 12 tahun, sebatan kes amang seksual",
+          "link": "https://www.astroawani.com/berita-malaysia/bekas-guru-kekal-dipenjara-12-tahun-sebatan-kes-amang-seksual",
+          "summary": "Mahkamah Rayuan hari ini mengekalkan hukuman penjara 12 tahun dan sembilan sebatan terhadap seorang bekas guru pendidikan jasmani atas tiga pertuduhan melakukan amang seksual secara fizikal terhadap bekas pelajarnya,…",
+          "image": "https://media.astroawani.com/awani/media/article/2026/Feb/09/71743102937_courtgavel.jpg",
+          "publishedAt": "2026-11-10T14:20:00.000Z"
+        },
+        {
+          "title": "Pesakit mental ditemukan maut, suspek lelaki berusia 51 tahun ditahan",
+          "link": "https://www.astroawani.com/berita-malaysia/pesakit-mental-ditemukan-maut-suspek-lelaki-berusia-51-tahun-ditahan",
+          "summary": "Seorang lelaki berusia 42 tahun ditemukan tidak sedarkan diri sebelum disahkan meninggal dunia dalam kejadian di sebuah pusat penjagaan dan rawatan pesakit mental di Taman Kempas, malam tadi.",
+          "image": "https://media.astroawani.com/awani/media/article/2026/Feb/09/61760426669_TBgarisanpolis.jpg",
+          "publishedAt": "2026-11-10T14:10:00.000Z"
+        },
+        {
+          "title": "Stok minyak sawit Malaysia meningkat 3.15 peratus kepada 3.62 juta tan pada Oktober - MPOB",
+          "link": "https://www.astroawani.com/berita-bisnes/stok-minyak-sawit-malaysia-meningkat-315-peratus-kepada-362-juta-tan-pada-oktober-mpob",
+          "summary": "Jumlah stok minyak sawit Malaysia meningkat sebanyak 110,610 tan atau 3.15 peratus kepada 3.62 juta tan pada Oktober tahun ini daripada 3.51 juta tan pada bulan sebelumnya, menurut Lembaga Minyak Sawit Malaysia (MPOB).",
+          "image": "https://media.astroawani.com/awani/media/article/2025/May/13/51724400042_TBladangsawit.jpg",
+          "publishedAt": "2026-11-10T14:00:00.000Z"
+        },
+        {
+          "title": "Australia bakal perkenal piawaian keselamatan wajib bagi pembangun AI - PM",
+          "link": "https://www.astroawani.com/berita-dunia/australia-bakal-perkenal-piawaian-keselamatan-wajib-bagi-pembangun-ai-pm",
+          "summary": "Kerajaan Australia merancang memperkenalkan piawaian keselamatan dan perlindungan wajib bagi pembangun kecerdasan buatan (AI) termaju, selain menubuhkan sebuah badan kawal selia baharu bagi memastikan pematuhannya, umum…",
+          "image": "https://media.astroawani.com/awani/media/uploads/image/2026-11/TB_Anthony%20Albanese_Reuters.jpg?VersionId=mnOGFXoRZRJnKVr_VoJboBR_kRNl.yMt",
+          "publishedAt": "2026-11-10T13:45:00.000Z"
+        },
+        {
+          "title": "[TERKINI] Diiringi konvoi penjara dan polis, Najib tiba di kediaman Langgak Duta 9.30 malam",
+          "link": "https://www.astroawani.com/berita-malaysia/terkini-diiringi-konvoi-penjara-dan-polis-najib-tiba-di-kediaman-langgak-duta-930-malam",
+          "summary": "Bekas Perdana Menteri, Datuk Seri Najib Tun Razak, tiba di kediaman peribadinya di No. 11, Jalan Langgak Duta, Taman Duta tepat jam 9.30 malam Selasa bagi memulakan pelaksanaan hukuman tahanan di rumah.",
+          "image": "https://media.astroawani.com/awani/media/uploads/image/2026-11/TB_NAJIB%20SAMPAI%20RUMAH_FOTO%20SHAHIR_3.jpg?VersionId=IKdFMMOB.p103t8T.UN__NkUZiq7zgIC",
+          "publishedAt": "2026-11-10T13:43:18.000Z"
+        },
+        {
+          "title": "PRN Melaka: 94.96 peratus pengundi awal tunai tanggungjawab - SPR",
+          "link": "https://www.astroawani.com/berita-malaysia/prn-melaka-9496-peratus-pengundi-awal-tunai-tanggungjawab-spr",
+          "summary": "Sebanyak 94.96 peratus atau 9,417 daripada 9,917 pengundi terdiri daripada anggota tentera dan pasangan serta anggota polis melaksanakan tanggungjawab mereka sebagai pengundi awal bagi Pilihan Raya Negeri (PRN) Melaka…",
+          "image": "https://media.astroawani.com/awani/media/uploads/image/2026-11/TB_UNDI%20AWAL%20MELAKA_BERNAMA.jpg?VersionId=eeDXcjNw_hXHnJLaieZ83gJrl61OzbZc",
+          "publishedAt": "2026-11-10T13:32:30.000Z"
+        },
         {
           "title": "Singapura lancar kemudahan penyimpanan rizab emas berkapasiti 500 tan",
           "link": "https://www.astroawani.com/berita-dunia/singapura-lancar-kemudahan-penyimpanan-rizab-emas-berkapasiti-500-tan",
@@ -227,60 +251,6 @@
           "publishedAt": "2026-11-10T12:45:00.000Z",
           "titleEn": "The sale of Agro MADANI recorded household savings of RM25.36 million",
           "summaryEn": "The implementation of the Agro MADANI Sales Program across the country has benefited 18.7 million households with a record savings of RM25.36 million as of yesterday."
-        },
-        {
-          "title": "MTL: 35 daripada 45 bot JBPM Kelantan berada dalam keadaan baik - Pengarah",
-          "link": "https://www.astroawani.com/berita-malaysia/mtl-35-daripada-45-bot-jbpm-kelantan-berada-dalam-keadaan-baik-pengarah",
-          "summary": "Sebanyak 35 daripada keseluruhan 45 bot milik Jabatan Bomba dan Penyelamat Malaysia (JBPM) Kelantan berada dalam keadaan baik dan boleh digunakan bagi menghadapi Monsun Timur Laut (MTL) 2026/2027, kata Pengarahnya Farhan…",
-          "image": "https://media.astroawani.com/awani/media/article/2025/May/26/61748253973_FarhanSufyanBorhan.jpg",
-          "publishedAt": "2026-11-10T12:30:00.000Z",
-          "titleEn": "MTL: 35 of the 45 JBPM Kelantan boats are in good condition",
-          "summaryEn": "A total of 35 of the 45 boats belonging to the Malaysian Fire and Rescue Department (JBPM) Kelantan are in good condition and can be used to face North-East Monsoon (MTL) 2026/2027, said its Director Farhan..."
-        },
-        {
-          "title": "Nvidia, CEO disaman berhubung dakwaan hubungan dengan perisik China",
-          "link": "https://www.astroawani.com/berita-dunia/nvidia-ceo-disaman-berhubung-dakwaan-hubungan-dengan-perisik-china",
-          "summary": "Syarikat pengeluar cip Amerika Syarikat (AS), Nvidia dan Ketua Pegawai Eksekutifnya Jensen Huang berdepan saman daripada pemegang saham atas dakwaan mengelirukan pelabur kerana gagal mendedahkan hubungan peribadi Huang…",
-          "image": "https://media.astroawani.com/awani/media/uploads/image/2026-11/TB_Nvidia%20CEO%20Jensen%20Huang_REUTERS.jpg?VersionId=5Kv4E_.y.DvnofHdn3AkJ8xoV_sdMB9u",
-          "publishedAt": "2026-11-10T12:15:00.000Z",
-          "titleEn": "Nvidia, the CEO was arrested over alleged ties to Chinese spies.",
-          "summaryEn": "U.S. chipmaker Nvidia and its CEO Jensen Huang are facing a class action lawsuit from shareholders for misrepresenting investors for failing to disclose Huang's personal connections..."
-        },
-        {
-          "title": "Tahanan rumah Najib: AGC bertindak berasas ikut undang-undang dengan perintah baharu mahkamah",
-          "link": "https://www.astroawani.com/berita-malaysia/tahanan-rumah-najib-agc-bertindak-berasas-ikut-undang-undang-dengan-perintah-baharu-mahkamah",
-          "summary": "Tindakan AGC mohon klarifikasi bukan menentang titah YDPA, sebaliknya memastikan pelaksanaan teratur selepas Mahkamah Tinggi membatalkan perintah pelepasan awal dan mengesahkan tahanan rumah Najib Razak sehingga Ogos…",
-          "image": "https://media.astroawani.com/awani/media/uploads/image/2026-11/TB_NAJIB%20RAZAK%20hukuman_BERNAMA.jpg?VersionId=wisEw5PlmcjbTAP2DW4J1wNisU.3TvMx",
-          "publishedAt": "2026-11-10T12:07:45.000Z",
-          "titleEn": "Najib's house arrest: AGC acts on the basis of the law with new court order",
-          "summaryEn": "The AGC's action to request clarification is not against the YDPA's order, but to ensure orderly enforcement after the High Court annulled the preliminary release order and confirmed Najib Razak's house arrest until August..."
-        },
-        {
-          "title": "ITU PP-26: Keterangkuman digital perlu jadi keutamaan – Fahmi",
-          "link": "https://www.astroawani.com/berita-malaysia/itu-pp-26-keterangkuman-digital-perlu-jadi-keutamaan--fahmi",
-          "summary": "Malaysia menegaskan kepentingan merapatkan jurang digital menerusi kesalinghubungan bermakna, keterangkuman digital dan persekitaran digital yang selamat bagi memastikan semua lapisan masyarakat berpeluang menikmati…",
-          "image": "https://media.astroawani.com/awani/media/uploads/image/2026-11/TB_Fahmi%20ITU_BERNAMA.jpg?VersionId=ju.X8xiWdX55rRT7KpxbckwITH2h8PXO",
-          "publishedAt": "2026-11-10T12:00:00.000Z",
-          "titleEn": "ITU PP-26: Digital transport should be a priority  ⁇  Fahmi",
-          "summaryEn": "Malaysia emphasizes the importance of bridging the digital divide through meaningful connectivity, digital inclusion and a secure digital environment to ensure that all sections of society have the opportunity to enjoy..."
-        },
-        {
-          "title": "Sidang Kemuncak My4IRC tumpu daya tahan rantaian bekalan, transformasi digital",
-          "link": "https://www.astroawani.com/berita-malaysia/sidang-kemuncak-my4irc-tumpu-daya-tahan-rantaian-bekalan-transformasi-digital",
-          "summary": "Malaysia 4IR Consortium (My4IRC) akan menganjurkan Sidang Kemuncak Industri 4.0 yang ketiga di Universiti Malaya-Wales (UM-Wales), di sini mulai esok hingga Khamis ini untuk memperkukuh daya tahan rantaian bekalan dan…",
-          "image": "https://media.astroawani.com/awani/media/uploads/image/2026-11/TB_Industry%204.0%20Summit_My4IRC.jpg?VersionId=KLVFudzTB7pw3CiKiHnMnMrBlDR_U8Bk",
-          "publishedAt": "2026-11-10T12:00:00.000Z",
-          "titleEn": "My4IRC summit focused on supply chain resilience, digital transformation",
-          "summaryEn": "The Malaysia 4IR Consortium (My4IRC) will host the third Industry 4.0 Summit at the University of Malaya-Wales (UM-Wales), here from tomorrow to Thursday to strengthen supply chain resilience and..."
-        },
-        {
-          "title": "AKPS rampas 1,572 naskah surah Yasin, tahlil meragukan",
-          "link": "https://www.astroawani.com/berita-malaysia/akps-rampas-1572-naskah-surah-yasin-tahlil-meragukan",
-          "summary": "Agensi Kawalan dan Perlindungan Sempadan Malaysia (AKPS) merampas 1,572 naskhah buku surah Yasin dan tahlil yang didapati tidak mematuhi keperluan undang-undang termasuk mempunyai terjemahan meragukan pada 5 Nov.",
-          "image": "https://media.astroawani.com/awani/media/article/2026/Feb/03/61760320044_AKPS.jpg",
-          "publishedAt": "2026-11-10T11:45:00.000Z",
-          "titleEn": "AKPS has seized 1,572 manuscripts of Yasin, analyst doubts",
-          "summaryEn": "The Malaysian Border Control and Protection Agency (AKPS) seized 1,572 copies of the book surah Yasin and tahlil which were found not to comply with legal requirements including having a dubious translation on 5 Nov."
         }
       ]
     }

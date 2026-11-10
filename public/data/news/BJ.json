@@ -8,7 +8,7 @@
         "homepage": "https://lanouvelletribune.info",
         "lang": "fr-BJ"
       },
-      "fetchedAt": "2026-11-10T13:38:52.121Z",
+      "fetchedAt": "2026-11-10T14:15:17.338Z",
       "items": [
         {
           "title": "Bénin : le gouvernement engage une réflexion sur l’avenir des universités publiques",
@@ -99,8 +99,15 @@
         "homepage": "https://beninwebtv.com",
         "lang": "fr-BJ"
       },
-      "fetchedAt": "2026-11-10T13:38:51.779Z",
+      "fetchedAt": "2026-11-10T14:15:17.578Z",
       "items": [
+        {
+          "title": "Los Angeles : un avion d’Air France frôle un appareil d’American Airlines",
+          "link": "https://beninwebtv.com/los-angeles-un-avion-dair-france-frole-un-appareil-damerican-airlines/",
+          "summary": "Les contrôleurs aériens ont dû intervenir après le décollage de deux vols à Los Angeles, samedi 7 novembre. La FAA enquête sur une manœuvre non autorisée de l’équipage français.",
+          "image": "https://beninwebtv.com/wp-content/uploads/2026/11/radar-trends-20261110-air-france-af28-fhuvk-archive-300x169.webp",
+          "publishedAt": "2026-11-10T13:49:00.000Z"
+        },
         {
           "title": "Cinéma : « Godzilla Minus Zero » bat un record IMAX avec 21,3 millions de dollars",
           "link": "https://beninwebtv.com/cinema-godzilla-minus-zero-bat-un-record-imax-avec-213-millions-de-dollars/",
@@ -181,15 +188,6 @@
           "publishedAt": "2026-11-10T09:06:00.000Z",
           "titleEn": "Ozempic, Wegovy and Zepbound: FDA warns of a rare risk of vision loss",
           "summaryEn": "The U.S. regulatory body requires a warning in the GLP-1 treatment notes against diabetes and obesity. Its decision is based on 126 clinical trials."
-        },
-        {
-          "title": "Australie : Tony Abbott juge « injustifié » le célèbre discours de Julia Gillard contre le sexisme",
-          "link": "https://beninwebtv.com/australie-tony-abbott-discours-julia-gillard-sexisme-2012/",
-          "summary": "Quatorze ans après sa confrontation avec Julia Gillard au Parlement, l’ancien Premier ministre Tony Abbott conteste toujours les accusations de sexisme formulées à son encontre. Les deux protagonistes reviennent sur…",
-          "image": "https://beninwebtv.com/wp-content/uploads/2026/11/julia-gillard-archives-parlement-canberra-2011-300x169.webp",
-          "publishedAt": "2026-11-10T08:34:00.000Z",
-          "titleEn": "Australia: Tony Abbott judges  ⁇  unjustified  ⁇  Julia Gillard's famous speech against sexism",
-          "summaryEn": "Fourteen years after his confrontation with Julia Gillard in Parliament, former Prime Minister Tony Abbott still challenges the accusations of sexism made against him. The two main characters are back on..."
         }
       ]
     }

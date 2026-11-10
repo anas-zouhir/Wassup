@@ -8,7 +8,7 @@
         "homepage": "https://www.bbc.co.uk/news",
         "lang": "en-GB"
       },
-      "fetchedAt": "2026-11-10T13:39:09.557Z",
+      "fetchedAt": "2026-11-10T14:15:37.585Z",
       "items": [
         {
           "title": "US military aircraft leave second UK base",
@@ -18,11 +18,11 @@
           "publishedAt": "2026-11-10T12:43:59.000Z"
         },
         {
-          "title": "Met Police investigate several reports on Russell Brand following his conviction",
+          "title": "Met Police investigating more 'potential criminal allegations' about Brand",
           "link": "https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss",
-          "summary": "Det Supt Andy Furphy says the force had received \"several reports in during the trial and since the trial\".",
+          "summary": "Det Supt Andy Furphy says the force had received \"several reports during the trial and since the trial\".",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a7f/live/9f8b6970-dcf8-11f1-9ef0-4b5930e2f80e.jpg",
-          "publishedAt": "2026-11-10T11:44:31.000Z"
+          "publishedAt": "2026-11-10T14:09:11.000Z"
         },
         {
           "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
@@ -46,11 +46,25 @@
           "publishedAt": "2026-11-10T12:25:48.000Z"
         },
         {
+          "title": "Tories pledge to cut benefits for children with 'milder cases' of ADHD",
+          "link": "https://www.bbc.co.uk/news/articles/c3j474prl2r7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Conservative shadow minister Helen Whately says the system risks putting children on a \"conveyor belt\" towards a \"lifetime on benefits\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a8a/live/e0f65010-dd10-11f1-9019-999bcb7fa2d2.jpg",
+          "publishedAt": "2026-11-10T13:37:16.000Z"
+        },
+        {
           "title": "Iran rejects French claims it was behind supermarket fridge hacking",
           "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
           "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg",
-          "publishedAt": "2026-11-10T13:31:14.000Z"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ff4/live/cdef63c0-dd0c-11f1-97df-bd0937690c4d.jpg",
+          "publishedAt": "2026-11-10T13:45:13.000Z"
+        },
+        {
+          "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+          "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+          "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
+          "publishedAt": "2026-11-10T14:04:22.000Z"
         },
         {
           "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
@@ -58,20 +72,6 @@
           "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12e/live/a6d1b5b0-dcec-11f1-93e1-3b657b665bcf.png",
           "publishedAt": "2026-11-10T09:57:49.000Z"
-        },
-        {
-          "title": "Anthropic to raise $64bn in major stock market listing",
-          "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-          "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
-          "publishedAt": "2026-11-10T13:19:37.000Z"
-        },
-        {
-          "title": "Watch: Man smashes Chinese government building with excavator",
-          "link": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
-          "summary": "Police say they have detained a 47-year-old suspect and no one was injured in the incident.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ca0/live/95e26c80-dced-11f1-a701-fddedf244c16.jpg",
-          "publishedAt": "2026-11-10T09:37:15.000Z"
         },
         {
           "title": "The superpower battle over energy – and what it means for your bills",
@@ -89,8 +89,15 @@
         "homepage": "https://www.theguardian.com/uk",
         "lang": "en-GB"
       },
-      "fetchedAt": "2026-11-10T13:39:09.514Z",
+      "fetchedAt": "2026-11-10T14:15:37.614Z",
       "items": [
+        {
+          "title": "The allegations against David Walliams | Investigation by the Guardian and ITV News",
+          "link": "https://www.theguardian.com/news/video/2026/nov/10/the-allegations-against-david-walliams-investigation-by-the-guardian-and-itv-news",
+          "summary": "Multiple women allege David Walliams abused his power and position as a celebrity to prey on them for sexual purposes when they were young women, an investigation by the Guardian and ITV News has found. He denies the…",
+          "image": "https://i.guim.co.uk/img/media/15d15362a01f35ba4297da13205f864d7faf8f56/37_0_900_720/master/900.jpg?width=460&quality=85&auto=format&fit=max&s=6f1ade1802dd2b4c61d503cf90eabed8",
+          "publishedAt": "2026-11-10T12:18:56.000Z"
+        },
         {
           "title": "Jarvis Cocker on judging the Booker prize: ‘It’s just like being in a band’",
           "link": "https://www.theguardian.com/books/2026/nov/10/jarvis-cocker-on-judging-the-booker-prize-its-just-like-being-in-a-band",
@@ -125,13 +132,6 @@
           "summary": "Established in UK cities for decades and much loved for their green plumage, the Himalayan birds have been recast as an ecological threat. But is the idea of invasive species itself a problem? Before we saw a single…",
           "image": "https://i.guim.co.uk/img/media/55c9a3fdc870a8cf846bfc0c8662b40c47ee154c/0_1704_3478_2782/master/3478.jpg?width=460&quality=85&auto=format&fit=max&s=ee32a01154a2352cd10e11afec61ab46",
           "publishedAt": "2026-11-10T05:00:29.000Z"
-        },
-        {
-          "title": "Ultimate 1-50: the male footballers best associated with each squad number",
-          "link": "https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number",
-          "summary": "Who is football’s most legendary No 9? Has there ever been a legendary No 28? And why exactly does Mario Balotelli love wearing No 45 so much? Here’s our list and the stories behind it The relationship between players…",
-          "image": "https://i.guim.co.uk/img/media/8b8266c11f37f734cb122e22b6d3815075a4a4ee/2_0_4936_3951/master/4936.jpg?width=460&quality=85&auto=format&fit=max&s=62940cfb9b782450d272b8c143759d9e",
-          "publishedAt": "2026-11-10T06:00:30.000Z"
         },
         {
           "title": "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
@@ -170,7 +170,7 @@
         "homepage": "https://news.sky.com",
         "lang": "en-GB"
       },
-      "fetchedAt": "2026-11-10T13:39:09.905Z",
+      "fetchedAt": "2026-11-10T14:15:37.826Z",
       "items": [
         {
           "title": "Storms hitting UK at same time led to one of country's wettest days on record",
@@ -192,6 +192,13 @@
           "summary": "At least 12 people have been killed in two motorway pile-ups in eastern Bulgaria, the country's health minister said.",
           "image": "https://e3.365dm.com/26/11/1920x1080/skynews-bulgaria-yambol-car_7402847.jpg?20261110094206",
           "publishedAt": "2026-11-10T10:36:00.000Z"
+        },
+        {
+          "title": "Scots urged to use A&E 'only when necessary' amid 'significant pressures'",
+          "link": "https://news.sky.com/story/scots-urged-to-use-ae-only-when-necessary-amid-significant-pressures-13610586",
+          "summary": "Scotland's A&E departments are under \"significant pressures\" heading into winter, the nation's health secretary has conceded.",
+          "image": "https://e3.365dm.com/26/11/1920x1080/skynews-hospital-victoria-hospital_7403091.jpg?20261110125728",
+          "publishedAt": "2026-11-10T11:40:00.000Z"
         },
         {
           "title": "Hundreds more prisoners being released early",
