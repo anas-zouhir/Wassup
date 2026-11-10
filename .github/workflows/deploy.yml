@@ -1,7 +1,8 @@
 name: Deploy
 
-# Builds the site and publishes it to GitHub Pages. Twice a day it first
-# refreshes the news (scripts/fetch-news.ts) and commits the new data back.
+# Refreshes the news (scripts/fetch-news.ts), commits the new data back, then
+# builds the site and publishes it to GitHub Pages. Runs on every push, twice
+# a day on a schedule, and on demand from the Actions tab.
 on:
   push:
     branches: [main]
@@ -33,14 +34,13 @@ jobs:
       - run: npm ci
 
       - name: Fetch news
-        if: github.event_name != 'push'
         # A failed refresh (e.g. too many feeds down) shouldn't block the deploy:
         # the site is then published with the previous headlines.
         continue-on-error: true
         run: npm run fetch-news
 
       - name: Commit news data
-        if: github.event_name != 'push'
+        # Commits made with the workflow's token don't trigger another run.
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

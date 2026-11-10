@@ -78,9 +78,9 @@ for `fetch-news`.
 
 ## Deployment
 
-`.github/workflows/deploy.yml` builds the site and publishes it to GitHub Pages on every
-push to `main`. Twice a day (06:00 and 18:00 UTC) it first runs `npm run fetch-news` and
-commits the refreshed `public/data` back to the repo. It can also be run by hand from the
+`.github/workflows/deploy.yml` runs `npm run fetch-news`, commits the refreshed
+`public/data` back to the repo, then builds the site and publishes it to GitHub Pages. It
+runs on every push to `main`, twice a day (06:00 and 18:00 UTC), and by hand from the
 Actions tab ("Run workflow"). Pages must be set to **Settings → Pages → Source: GitHub
 Actions**.
 
