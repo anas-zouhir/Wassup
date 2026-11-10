@@ -3,18 +3,89 @@
   "outlets": [
     {
       "outlet": {
+        "id": "lesahel-ne",
+        "name": "Le Sahel",
+        "homepage": "https://www.lesahel.org",
+        "lang": "fr-NE"
+      },
+      "fetchedAt": "2026-11-10T12:27:05.486Z",
+      "items": [
+        {
+          "title": "Communiqué du Ministère des Affaires Etrangères de la Coopération et des Nigériens à l’Extérieur : convocation du chargé d’affaires par intérim de l’Union Européenne au Niger",
+          "link": "https://www.lesahel.org/communique-du-ministere-des-affaires-etrangeres-de-la-cooperation-et-des-nigeriens-a-lexterieur-convocation-du-charge-daffaires-par-interim-de-lunion-europeenne-au-niger/",
+          "summary": "Ce lundi 9 novembre 2026, le Chargé d’affaires par intérim de la Délégation de l’Union européenne au Niger, M. Olai Voiomma, a été convoqué au cabinet de Son Excellence le Premier Ministre. Cette convocation fait suite…",
+          "publishedAt": "2026-11-10T11:46:30.000Z"
+        },
+        {
+          "title": "Arrivée du président du CCR à Lomé : Docteur Mamoudou Harouna Djingarey prendra part aux grandes assises de l’Union Parlementaire Africaine",
+          "link": "https://www.lesahel.org/arrivee-du-president-du-ccr-a-lome-docteur-mamoudou-harouna-djingarey-prendra-part-aux-grandes-assises-de-lunion-parlementaire-africaine/",
+          "summary": "Le Président du Conseil consultatif de la Refondation (CCR), Son Excellence Monsieur le Docteur Mamoudou Harouna Djingarey, est arrivé le lundi 9 novembre 2026 à Lomé, en République Togolaise, pour prendre part aux…",
+          "publishedAt": "2026-11-10T08:58:29.000Z"
+        },
+        {
+          "title": "Séminaire bilatéral Chine-Niger : des fonctionnaires de l’information et journalistes nigériens en formation en Chine",
+          "link": "https://www.lesahel.org/seminaire-bilateral-chine-niger-des-fonctionnaires-de-linformation-et-journalistes-nigeriens-en-formation-en-chine/",
+          "summary": "Dans le cadre de la coopération sino-nigérienne, le Ministère du Commerce de la République Populaire de Chine organise du 10 au 30 novembre 2026, à Pékin, un séminaire dédié aux fonctionnaires de l’information et aux…",
+          "publishedAt": "2026-11-10T08:50:00.000Z"
+        },
+        {
+          "title": "À la Résidence du Président de la République : Une délégation du peuple frère du Mali présente ses condoléances au Chef de l’Etat",
+          "link": "https://www.lesahel.org/a-la-residence-du-president-de-la-republique-une-delegation-du-peuple-frere-du-mali-presente-ses-condoleances-au-chef-de-letat/",
+          "summary": "Le ministre d’État, ministre de la Réconciliation, de la Paix et de la Cohésion Nationale de la République du Mali, le Général de Corps d’Armée Ismaël Wague, accompagné d’une importante délégation ministérielle, s’est…",
+          "publishedAt": "2026-11-10T08:31:24.000Z"
+        },
+        {
+          "title": "Maradi/Santé publique : Le ministre Garba Hakimi réceptionne trois ambulances, un tricycle et un lot de médicaments offerts par l’OMS",
+          "link": "https://www.lesahel.org/maradi-sante-publique-le-ministre-garba-hakimi-receptionne-trois-ambulances-un-tricycle-et-un-lot-de-medicaments-offerts-par-loms/",
+          "summary": "En marge de sa visite de travail dans la région de Maradi, le ministre de la Santé et de l’Hygiène Publique, le médecin-Colonel-major Garba Hakimi, a réceptionné un appui de l’Organisation Mondiale de la Santé (OMS) pour…",
+          "publishedAt": "2026-11-10T08:31:07.000Z"
+        },
+        {
+          "title": "Maradi/Santé publique : Le ministre Garba Hakimi conduit une mission d’évaluation de la qualité des soins",
+          "link": "https://www.lesahel.org/maradi-sante-publique-le-ministre-garba-hakimi-conduit-une-mission-devaluation-de-la-qualite-des-soins/",
+          "summary": "Le ministre de la Santé et de l’Hygiène Publique a effectué, du 05 au 08 novembre 2026, une visite de travail dans la région de Maradi. Accompagné du secrétaire général du Gouvernorat de Maradi, M. Abdoulkarim Mahamadou,…",
+          "publishedAt": "2026-11-10T08:28:37.000Z"
+        },
+        {
+          "title": "Agadez : Lutte contre la contrebande des hydrocarbures",
+          "link": "https://www.lesahel.org/agadez-lutte-contre-la-contrebande-des-hydrocarbures/",
+          "summary": "La Direction départementale de la Police nationale d’Arlit a abrité, le lundi 9 novembre 2026, une cérémonie de présentation de carburant saisi et d’engins immobilisés dans le cadre de la lutte contre la contrebande des…",
+          "publishedAt": "2026-11-10T08:28:22.000Z"
+        },
+        {
+          "title": "Agadez : Formation sur le Dispositif d’Éducation Accélérée Harmonisée",
+          "link": "https://www.lesahel.org/agadez-formation-sur-le-dispositif-deducation-acceleree-harmonisee/",
+          "summary": "Dans le cadre de la promotion de l’éducation non formelle et de la seconde chance au profit des enfants non scolarisés et déscolarisés précoces, le Projet Niger-LIRE accompagne la mise en œuvre du Dispositif d’Éducation…",
+          "publishedAt": "2026-11-10T08:25:56.000Z"
+        },
+        {
+          "title": "Communiqué de presse du Conseil Consultatif de la Refondation (CCR)",
+          "link": "https://www.lesahel.org/communique-de-presse-du-conseil-consultatif-de-la-refondation-ccr/",
+          "summary": "Le Président du Conseil Consultatif de la Refondation (CCR), Son Excellence le Dr Mamoudou Harouna Djingarey, accompagné d’une délégation de membres du CCR, a quitté Niamey ce lundi 9 novembre 2026 pour Lomé, en…",
+          "publishedAt": "2026-11-10T08:25:29.000Z"
+        },
+        {
+          "title": "Islam et bonnes œuvres: La FOFIN mobilise les femmes musulmanes",
+          "link": "https://www.lesahel.org/islam-et-bonnes-oeuvres-la-fofin-mobilise-les-femmes-musulmanes/",
+          "summary": "La Fédération des Organisations Féminines Islamiques du Niger (FOFIN) a organisé, le dimanche 8 novembre 2026, un prêche bimestriel dans l’enceinte de l’école Anouaroul Islam, au quartier Cité Député, sur le thème : « La…",
+          "publishedAt": "2026-11-10T08:23:57.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
         "id": "airinfo-ne",
         "name": "Aïr Info",
         "homepage": "https://www.airinfoagadez.com",
         "lang": "fr-NE"
       },
-      "fetchedAt": "2026-10-22T15:12:37.713Z",
+      "fetchedAt": "2026-11-10T12:27:06.713Z",
       "items": [
         {
-          "title": "Niger–Libye : Eva Gretzmacher et Claudia Abbt libérées et arrivées à Benghazi",
-          "link": "https://airinfoagadez.com/2026/10/22/niger-libye-eva-gretzmacher-et-claudia-abbt-liberees-et-arrivees-a-benghazi/",
-          "summary": "L’Autrichienne Eva Gretzmacher et la Suissesse Claudia Abbt, enlevées séparément à Agadez en 2025, ont été libérées et sont arrivées mercredi 21 octobre à Benghazi, [...]",
-          "publishedAt": "2026-10-21T23:25:46.000Z"
+          "title": "Arlit : la société civile interpelle l’Union européenne et remet sur la table les conséquences de plus de 50 ans d’exploitation de l’uranium par Orano",
+          "link": "https://airinfoagadez.com/2026/11/08/arlit-la-societe-civile-interpelle-lunion-europeenne-et-remet-sur-la-table-les-consequences-de-plus-de-50-ans-dexploitation-de-luranium-par-orano/",
+          "summary": "La Coordination de la société civile d’Arlit a vivement réagi, ce dimanche 8 novembre 2026, aux déclarations attribuées à l’Union européenne concernant la coopération militaire [...]",
+          "publishedAt": "2026-11-08T17:39:33.000Z"
         }
       ]
     },
@@ -25,41 +96,28 @@
         "homepage": "https://www.tamtaminfo.com",
         "lang": "fr-NE"
       },
-      "fetchedAt": "2026-10-22T15:12:42.059Z",
+      "fetchedAt": "2026-11-10T12:27:06.536Z",
       "items": [
         {
-          "title": "Carburant à Niamey : le Gouvernement au dépôt de SOREY pour accélérer les livraisons…",
-          "link": "https://tamtaminfo.com/carburant-a-niamey-le-gouvernement-au-depot-de-sorey-pour-accelerer-les-livraisons/",
-          "summary": "Dans le cadre du suivi rapproché de la situation de l’approvisionnement en produits pétroliers, les ministres du Pétrole et du Commerce, accompagnés de la Directrice générale de la Société nigérienne des produits…",
-          "publishedAt": "2026-10-21T21:34:55.000Z"
+          "title": "Énergie au Niger : Dorsale Nord et RANA au cœur des échanges entre le Ministère, la Banque mondiale et la BAD…",
+          "link": "https://tamtaminfo.com/energie-au-niger-dorsale-nord-et-rana-au-coeur-des-echanges-entre-le-ministere-la-banque-mondiale-et-la-bad/",
+          "summary": "Le Ministre de l’Énergie, le Colonel Seyni ALZOUMA, a reçu une délégation de la Banque mondiale et de la Banque africaine de développement (BAD), dans le cadre d’une visite de courtoisie suivie d’une séance de travail…",
+          "image": "https://tamtaminfo.com/wp-content/uploads/2026/11/FB_IMG_1794217564171.jpg",
+          "publishedAt": "2026-11-09T09:47:43.000Z"
         },
         {
-          "title": "Vers une communication institutionnelle modernisée, harmonisée et plus proche des citoyens…",
-          "link": "https://tamtaminfo.com/vers-une-communication-institutionnelle-modernisee-harmonisee-et-plus-proche-des-citoyens/",
-          "summary": "Le ministère de la Communication et des Nouvelles Technologies de l’Information a réuni, ce mardi 20 octobre 2026 à Niamey, les responsables de la communication et des relations publiques des ministères et institutions…",
-          "image": "https://tamtaminfo.com/wp-content/uploads/2026/09/FB_IMG_1790197503508.jpg",
-          "publishedAt": "2026-10-21T20:47:01.000Z"
+          "title": "UE : l’Afrique n’est plus sous tutelle !",
+          "link": "https://tamtaminfo.com/ue-lafrique-nest-plus-sous-tutelle/",
+          "summary": "La déclaration du porte-parole de l’Union européenne, Anouar El Anouni, le 30 octobre 2026, concernant l’envoi de militaires algériens au Niger mérite une réponse claire. À Bruxelles, le porte-parole a déclaré que…",
+          "image": "https://tamtaminfo.com/wp-content/uploads/2026/11/images-92.jpeg",
+          "publishedAt": "2026-11-09T09:10:38.000Z"
         },
         {
-          "title": "Puits Goumeri W-8 : l’expertise algérienne de la Sonatrach achève sa mission d’appui au Niger…",
-          "link": "https://tamtaminfo.com/puits-goumeri-w-8-lexpertise-algerienne-de-la-sonatrach-acheve-sa-mission-dappui-au-niger/",
-          "summary": "Les experts algériens dépêchés par la Sonatrach ont achevé leur mission au Niger, après avoir apporté leur appui technique dans la gestion de l’incident survenu aux puits Goumeri W-8, dans le bloc pétrolier d’Agadem.…",
-          "image": "https://tamtaminfo.com/wp-content/uploads/2026/10/FB_IMG_1792478056418.jpg",
-          "publishedAt": "2026-10-20T18:16:07.000Z"
-        },
-        {
-          "title": "OCRTIS, un rempart contre la drogue et la criminalité au Niger…",
-          "link": "https://tamtaminfo.com/ocrtis-un-rempart-contre-la-drogue-et-la-criminalite-au-niger/",
-          "summary": "La lutte contre la drogue est un combat pour la santé publique, la sécurité des familles et l’avenir de notre jeunesse. Au Niger, l’Office central de répression du trafic illicite des stupéfiants (OCRTIS), avec l’appui…",
-          "image": "https://tamtaminfo.com/wp-content/uploads/2026/10/images-87.jpeg",
-          "publishedAt": "2026-10-19T18:31:24.000Z"
-        },
-        {
-          "title": "Diaspora AES au Sénégal : un soutien renouvelé à la marche souveraine de la Confédération…",
-          "link": "https://tamtaminfo.com/diaspora-aes-au-senegal-un-soutien-renouvele-a-la-marche-souveraine-de-la-confederation/",
-          "summary": "En marge de son séjour à Dakar dans le cadre de la Réunion ministérielle du dialogue sur la coopération entre la Communauté Économique des États de l’Afrique de l’Ouest et la Confédération des États du Sahel, la…",
-          "image": "https://tamtaminfo.com/wp-content/uploads/2026/10/FB_IMG_1792433558220.jpg",
-          "publishedAt": "2026-10-19T18:16:12.000Z"
+          "title": "« Niger : émotion et recueillement à Toukounous pour les funérailles d’Elhadji Tiani Hassane, père du président Abdourahamane Tiani »…",
+          "link": "https://tamtaminfo.com/niger-emotion-et-recueillement-a-toukounous-pour-les-funerailles-delhadji-tiani-hassane-pere-du-president-abdourahamane-tiani/",
+          "summary": "La Fatiha du 3 ème jour du décès de Elh TIANI Hassane a eu lieu ce dimanche à toukounouss en présence d’une foule nombreuse. Il faut rappeler, que c’est dans une émotion profonde et un recueillement solennel que s’est…",
+          "image": "https://tamtaminfo.com/wp-content/uploads/2026/11/IMG-20261107-WA0166.jpg",
+          "publishedAt": "2026-11-08T08:17:18.000Z"
         }
       ]
     }

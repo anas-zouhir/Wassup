@@ -3,24 +3,89 @@
   "outlets": [
     {
       "outlet": {
+        "id": "politico-cd",
+        "name": "Politico.cd",
+        "homepage": "https://www.politico.cd",
+        "lang": "fr-CD"
+      },
+      "fetchedAt": "2026-11-10T12:26:17.922Z",
+      "items": [
+        {
+          "title": "Ebola à Butembo : les prestataires des CTE et CT annoncent une grève sèche dès le 12 novembre",
+          "link": "https://beto.cd/ebola-a-butembo-les-prestataires-des-cte-et-ct-annoncent-une-greve-seche-des-le-12-novembre/",
+          "summary": "Les prestataires des Centres de traitement Ebola (CTE), des Centres de transit (CT) ainsi que les superviseurs de proximité en prévention et contrôle des infections,… The post Ebola à Butembo : les prestataires des CTE…",
+          "publishedAt": "2026-11-10T10:33:13.000Z"
+        },
+        {
+          "title": "RDC : Sombo saisit l’UPN pour vérifier l’intégrité scientifique de la thèse du député Mushongo",
+          "link": "https://beto.cd/rdc-sombo-saisit-lupn-pour-verifier-lintegrite-scientifique-de-la-these-du-depute-mushongo/",
+          "summary": "La ministre de l’Enseignement supérieur, universitaire, de la Recherche scientifique et des Innovations (ESURSI), Marie-Thérèse Sombo, a demandé à l’Université pédagogique nationale (UPN) de vérifier… The post RDC :…",
+          "publishedAt": "2026-11-10T10:29:10.000Z"
+        },
+        {
+          "title": "Ebola à Butembo : Kasoki veille sur son mari depuis 13 jours au CTE, un témoignage qui contredit les rumeurs",
+          "link": "https://beto.cd/ebola-a-butembo-kasoki-veille-sur-son-mari-depuis-13-jours-au-cte-un-temoignage-qui-contredit-les-rumeurs/",
+          "summary": "Alors que des rumeurs présentent les Centres de traitement Ebola (CTE) comme des mouroirs où les malades seraient abandonnés et privés de tout contact avec… The post Ebola à Butembo : Kasoki veille sur son mari depuis 13…",
+          "publishedAt": "2026-11-10T10:25:44.000Z"
+        },
+        {
+          "title": "RDC : une délégation de la SADC à Kinshasa pour évaluer la situation sécuritaire et les besoins d’appui à la paix",
+          "link": "https://beto.cd/rdc-une-delegation-de-la-sadc-a-kinshasa-pour-evaluer-la-situation-securitaire-et-les-besoins-dappui-a-la-paix/",
+          "summary": "Le ministre de l’Intégration régionale, Floribert Anzuluni Isiloketshi, a reçu, lundi 9 novembre 2026 à Kinshasa, une délégation de la Communauté de développement de l’Afrique… The post RDC : une délégation de la SADC à…",
+          "publishedAt": "2026-11-10T10:22:48.000Z"
+        },
+        {
+          "title": "RDC : Sombo rend hommage aux chercheurs et plaide pour la valorisation des innovations congolaises",
+          "link": "https://beto.cd/rdc-sombo-rend-hommage-aux-chercheurs-et-plaide-pour-la-valorisation-des-innovations-congolaises/",
+          "summary": "À l’occasion de la Journée mondiale de la science au service de la paix et du développement, célébrée ce mardi 10 novembre 2026, la ministre… The post RDC : Sombo rend hommage aux chercheurs et plaide pour la…",
+          "publishedAt": "2026-11-10T10:19:34.000Z"
+        },
+        {
+          "title": "Kinshasa : le projet « To petola » cible près de 80 000 bénéficiaires",
+          "link": "https://beto.cd/kinshasa-le-projet-to-petola-cible-pres-de-80-000-beneficiaires/",
+          "summary": "Près de 80 000 personnes devraient bénéficier du projet « To petola », destiné à améliorer le cadre de vie et à renforcer la résilience des quartiers urbains de Kinshasa. Ses retombées attendues concernent notamment la…",
+          "publishedAt": "2026-11-10T07:00:41.000Z"
+        },
+        {
+          "title": "RDC : l’ONU alerte sur les conséquences des violences à Djugu dans la lutte contre Ebola",
+          "link": "https://beto.cd/rdc-lonu-alerte-sur-les-consequences-des-violences-a-djugu-dans-la-lutte-contre-ebola/",
+          "summary": "Le Coordonnateur humanitaire par intérim en République démocratique du Congo (RDC), Alain Akpadji, exprime sa profonde préoccupation face aux violences signalées depuis le 8 novembre… The post RDC : l’ONU alerte sur les…",
+          "publishedAt": "2026-11-09T19:44:10.000Z"
+        },
+        {
+          "title": "CAN 2027 : le public congolais autorisé à assister au choc RDC-Sierra Leone",
+          "link": "https://beto.cd/can-2027-le-public-congolais-autorise-a-assister-au-choc-rdc-sierra-leone/",
+          "summary": "La Confédération africaine de football (CAF) a autorisé la présence de 18 000 supporters au Stade des Martyrs de Kinshasa pour la réception de la… The post CAN 2027 : le public congolais autorisé à assister au choc…",
+          "publishedAt": "2026-11-09T19:02:22.000Z"
+        },
+        {
+          "title": "Sortie de la liste grise du GAFI : la Primature convoque une réunion de cadrage",
+          "link": "https://beto.cd/sortie-de-la-liste-grise-du-gafi-la-primature-convoque-une-reunion-de-cadrage/",
+          "summary": "Au Conseil des ministres du 6 novembre, la Première ministre a demandé à chaque ministre de garantir l’application effective des mesures de son secteur, et annoncé une réunion de cadrage avec la CENAREF et la Banque…",
+          "publishedAt": "2026-11-09T15:27:19.000Z"
+        },
+        {
+          "title": "La RDC demande au Conseil des droits de l’homme d’acter le retrait rwandais",
+          "link": "https://beto.cd/la-rdc-demande-au-conseil-des-droits-de-lhomme-dacter-le-retrait-rwandais/",
+          "summary": "Au Conseil des ministres du 6 novembre, le ministère des Droits humains a rapporté une demande formelle adressée au Conseil des droits de l’homme : acter le retrait des troupes rwandaises. Il fait état d’une…",
+          "publishedAt": "2026-11-09T14:32:34.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
         "id": "congoindependant-cd",
         "name": "Congo Indépendant",
         "homepage": "https://www.congoindependant.com",
         "lang": "fr-CD"
       },
-      "fetchedAt": "2026-10-22T15:10:05.432Z",
+      "fetchedAt": "2026-11-10T12:26:18.385Z",
       "items": [
         {
-          "title": "Enfants soldats: le Conseil de sécurité s’attaque au recrutement en ligne",
-          "link": "https://www.congoindependant.com/enfants-soldats-le-conseil-de-securite-sattaque-au-recrutement-en-ligne/",
-          "summary": "Un Android ou un iPad peuvent désormais suffire à un groupe armé pour enrôler un enfant. Lundi, le Conseil de sécurité de l’ONU a adopté à l’unanimité une résolution visant à mieux protéger les mineurs contre savoir +",
-          "publishedAt": "2026-10-20T19:24:49.000Z"
-        },
-        {
-          "title": "Le cas de Kabila est-il inédit?",
-          "link": "https://www.congoindependant.com/le-cas-de-kabila-est-il-inedit/",
-          "summary": "Depuis la prise des commandes du mouvement politico-militaire AFC/M23, supplétif du Rwanda, par l’ancien président Joseph Kabila, les partisans du président en exercice Félix Tshisekedi jouent les vierges effarouchées,…",
-          "publishedAt": "2026-10-20T19:19:47.000Z"
+          "title": "Attention aux escrocs qui se réclament de l’ONU",
+          "link": "https://www.congoindependant.com/attention-aux-escrocs-qui-se-reclament-de-lonu/",
+          "summary": "Il a été porté à la connaissance de l’ONU que diverses communications qui prétendent faussement provenir de l’ONU ou de fonctionnaires de l’ONU, ou qui s’en réclament, sont diffusées par courrier électronique, sur des…",
+          "publishedAt": "2026-11-09T20:35:27.000Z"
         }
       ]
     }

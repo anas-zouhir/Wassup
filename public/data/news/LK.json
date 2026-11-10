@@ -3,133 +3,82 @@
   "outlets": [
     {
       "outlet": {
-        "id": "ada-derana",
-        "name": "Ada Derana",
-        "homepage": "https://www.adaderana.lk",
-        "lang": "en-LK"
-      },
-      "fetchedAt": "2026-10-22T15:12:23.968Z",
-      "items": [
-        {
-          "title": "France confirms first human infection of Shamonda livestock virus",
-          "link": "https://adaderana.lk/news/250401"
-        },
-        {
-          "title": "Gnanasara Thero will not be produced before court tomorrow – ministry informs",
-          "link": "https://adaderana.lk/news/250400"
-        },
-        {
-          "title": "Tense situation at Viharamahadevi Park as police arrive with court order",
-          "link": "https://adaderana.lk/news/250399"
-        },
-        {
-          "title": "Fishing communities warned as low-pressure area likely to form over Bay of Bengal",
-          "link": "https://adaderana.lk/news/250398"
-        },
-        {
-          "title": "Section of A9 Road to be temporarily closed at Kurugoda",
-          "link": "https://adaderana.lk/news/250397"
-        },
-        {
-          "title": "Harry Brook smashes fastest ODI double century as England post 429/4",
-          "link": "https://adaderana.lk/news/250396"
-        },
-        {
-          "title": "Sri Lanka elect to field first against England in Rawalpindi",
-          "link": "https://adaderana.lk/news/250383"
-        },
-        {
-          "title": "Wrong anthems played at Asian Para Games after mishap-marred Asian Games",
-          "link": "https://adaderana.lk/news/250369"
-        },
-        {
-          "title": "Sri Lanka to face England in third tri-series match today",
-          "link": "https://adaderana.lk/news/250357"
-        },
-        {
-          "title": "F1 races to return to standard distance in 2028",
-          "link": "https://adaderana.lk/news/250339"
-        }
-      ]
-    },
-    {
-      "outlet": {
         "id": "daily-mirror-lk",
         "name": "Daily Mirror",
         "homepage": "https://www.dailymirror.lk",
         "lang": "en-LK"
       },
-      "fetchedAt": "2026-10-22T15:12:08.016Z",
+      "fetchedAt": "2026-11-10T12:26:53.175Z",
       "items": [
         {
-          "title": "Roadworthiness tests proposed every 5,000km or three months",
-          "link": "https://www.dailymirror.lk/breaking-news/Roadworthiness-tests-proposed-every-5-000km-or-three-months/108-353191",
-          "summary": "Vehicle owners may be required to obtain a roadworthiness certificate either after every 5,000 kilometres or within a period of approximately three months under a proposed system to improve vehicle safety, Commissioner…",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_79f54165ef.jpg",
-          "publishedAt": "2026-10-22T18:32:00.000Z"
+          "title": "Refueling tankers moved from UK to Germany due to unspecified Iran threat, source says",
+          "link": "https://www.dailymirror.lk/international/Refueling-tankers-moved-from-UK-to-Germany-due-to-unspecified-Iran-threat--source-says/107-354613",
+          "summary": "The U.S. moved refueling tankers based at RAF Mildenhall in the United Kingdom to a base in Germany because of an unspecified Iran threat, according to a source familiar with the matter.",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_ca50006638.jpg",
+          "publishedAt": "2026-11-10T17:20:00.000Z"
         },
         {
-          "title": "Sri Lanka, Romania discuss protection of 26,000 workers",
-          "link": "https://www.dailymirror.lk/breaking-news/Sri-Lanka--Romania-discuss-protection-of-26-000-workers/108-353190",
-          "summary": "Sri Lanka and Romania have discussed strengthening cooperation on the welfare and protection of approximately 26,000 Sri Lankans living and working in Romania, including through Government-to-Government recruitment…",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_efcd37cc83.jpg",
-          "publishedAt": "2026-10-22T18:26:00.000Z"
+          "title": "CEJ demands AG implement Supreme Court directives on X-Press Pearl disaster",
+          "link": "https://www.dailymirror.lk/breaking-news/CEJ-demands-AG-implement-Supreme-Court-directives-on-X-Press-Pearl-disaster/108-354611",
+          "summary": "The Centre for Environmental Justice (CEJ) has formally demanded that the Attorney General take immediate steps to implement the directions issued by the Supreme Court in its landmark judgment on the MV X-Press Pearl…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_1872e191fd.jpg",
+          "publishedAt": "2026-11-10T17:11:00.000Z"
         },
         {
-          "title": "45 wild animals released into natural habitats after treatment",
-          "link": "https://www.dailymirror.lk/breaking-news/45-wild-animals-released-into-natural-habitats-after-treatment/108-353189",
-          "summary": "A total of 45 wild animals that recovered after receiving treatment at the Attidiya Wildlife Rescue and Rehabilitation Centre have been released into suitable natural habitats, the Department of Wildlife Conservation…",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_8b93058a88.jpg",
-          "publishedAt": "2026-10-22T18:10:00.000Z"
+          "title": "Government aims to make SriLankan Airlines profitable",
+          "link": "https://www.dailymirror.lk/breaking-news/Government-aims-to-make-SriLankan-Airlines-profitable/108-354610",
+          "summary": "The Government is determined to turn SriLankan Airlines into a profitable national carrier, despite the airline continuing to face mounting financial losses, Cabinet Spokesperson Minister Nalinda Jayatissa said.",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_5d5c522214.jpg",
+          "publishedAt": "2026-11-10T17:04:00.000Z"
         },
         {
-          "title": "Ukraine returns body of Sri Lankan national who fought for Russia",
-          "link": "https://www.dailymirror.lk/international/Ukraine-returns-body-of-Sri-Lankan-national-who-fought-for-Russia/107-353188",
-          "summary": "The Ukrainian government-backed project I Want to Live said on October 22 that the remains of Rohan Kumar Sudi were transferred to Russia during a repatriation operation involving fallen military personnel.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_611b755971.jpg",
-          "publishedAt": "2026-10-22T17:45:00.000Z"
+          "title": "Up to 1.49 million Sri Lankans may need food assistance until May 2027",
+          "link": "https://www.dailymirror.lk/breaking-news/Up-to-1-49-million-Sri-Lankans-may-need-food-assistance-until-May-2027/108-354609",
+          "summary": "Between 1 million and 1.49 million people in Sri Lanka may require humanitarian food assistance until May 2027, as rising food prices, increasing living costs and weather-related disruptions continue to put pressure on…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_8bb8fb8417.jpg",
+          "publishedAt": "2026-11-10T16:51:00.000Z"
         },
         {
-          "title": "Tense situation at Viharamahadevi Park over court order to evict protesting monks",
-          "link": "https://www.dailymirror.lk/breaking-news/Tense-situation-at-Viharamahadevi-Park-over-court-order-to-evict-protesting-monks/108-353187",
-          "summary": "A tense situation erupted today at the Viharamahadevi Park premises in Colombo, where a group of Buddhist monks has been staging a Satyagraha campaign demanding a presidential pardon for the General Secretary of the Bodu…",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_c737cd312d.jpg",
-          "publishedAt": "2026-10-22T17:41:00.000Z"
+          "title": "ADB approves $300 million for Sri Lanka’s water and sanitation sector",
+          "link": "https://www.dailymirror.lk/breaking-news/ADB-approves--300-million-for-Sri-Lanka’s-water-and-sanitation-sector/108-354608",
+          "summary": "The Asian Development Bank (ADB) has approved two projects worth a total of US$300 million to improve water supply and sanitation services across Sri Lanka, with more than 1.3 million people expected to benefit from…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_2b3f05ac6b.jpg",
+          "publishedAt": "2026-11-10T16:31:00.000Z"
         },
         {
-          "title": "Gnanasara Thera convicted, what about the IGP? Namal questions",
-          "link": "https://www.dailymirror.lk/breaking-news/Gnanasara-Thera-convicted--what-about-the-IGP--Namal-questions/108-353186",
-          "summary": "SLPP National Organiser and MP Namal Rajapaksa today questioned what action would be taken against Inspector General of Police (IGP) Priyantha Weerasooriya, arguing that the law should be applied equally in cases…",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_95089bf5cb.jpg",
-          "publishedAt": "2026-10-22T16:24:00.000Z"
+          "title": "Indian actress Pooja Hegde arrives in Sri Lanka for Colombo event",
+          "link": "https://www.dailymirror.lk/breaking-news/Indian-actress-Pooja-Hegde-arrives-in-Sri-Lanka-for-Colombo-event/108-354606",
+          "summary": "Popular Indian film actress Pooja Hegde arrived at the Bandaranaike International Airport (BIA), Katunayake, on October 11 for a short visit to Sri Lanka and to attend an opening ceremony in Colombo.",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_a2acd19c1d.jpg",
+          "publishedAt": "2026-11-10T16:00:00.000Z"
         },
         {
-          "title": "Why does it take days to restart Norochcholai power plant?",
-          "link": "https://www.dailymirror.lk/breaking-news/Why-does-it-take-days-to-restart-Norochcholai-power-plant-/108-353185",
-          "summary": "The Ministry of Energy has explained that restarting the Norochcholai coal power plant after a shutdown can take several days because its boilers, turbines and other critical equipment must be carefully inspected and…",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_1280ce978f.jpg",
-          "publishedAt": "2026-10-22T16:21:00.000Z"
+          "title": "Russia and Ukraine hold first peace talks for nine months, Trump envoy says gaps have narrowed",
+          "link": "https://www.dailymirror.lk/international/Russia-and-Ukraine-hold-first-peace-talks-for-nine-months--Trump-envoy-says-gaps-have-narrowed/107-354605",
+          "summary": "Russian and Ukrainian officials met in Abu Dhabi on Tuesday for their first US-brokered talks since February, after President ​Donald Trump suggested last week that a broad deal was possible on ending the war in Ukraine…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_efc2e36f8d.jpg",
+          "publishedAt": "2026-11-10T15:49:00.000Z"
         },
         {
-          "title": "CSE tests 19,700 as ASPI reaches new YTD low",
-          "link": "https://www.dailymirror.lk/breaking-news/CSE-tests-19-700-as-ASPI-reaches-new-YTD-low/108-353184",
-          "summary": "The Colombo Stock Exchange closed lower for a fourth consecutive session on 22 October 2026, with both benchmark indices weakening as selling pressure remained broad across the market.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_9b2a469dba.jpg",
-          "publishedAt": "2026-10-22T16:03:00.000Z"
+          "title": "Ravi K urges HSBC to reconsider closure of Sri Lanka operations",
+          "link": "https://www.dailymirror.lk/breaking-news/Ravi-K-urges-HSBC-to-reconsider-closure-of-Sri-Lanka-operations/108-354604",
+          "summary": "Former Finance Minister and MP Ravi Karunanayake has appealed to HSBC’s global leadership to reconsider its decision to close its Global Service Centre in Sri Lanka warning that the move could affect thousands of…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_6411ebab43.jpg",
+          "publishedAt": "2026-11-10T15:20:00.000Z"
         },
         {
-          "title": "Fishing, naval communities warned of developing low-pressure system in Bay of Bengal",
-          "link": "https://www.dailymirror.lk/breaking-news/Fishing--naval-communities-warned-of-developing-low-pressure-system-in-Bay-of-Bengal/108-353182",
-          "summary": "Naval and fishing communities have been warned against venturing into specified deep-sea areas in the Bay of Bengal as a low-pressure area is likely to form tomorrow (23), the Department of Meteorology said.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_85fde0fe85.jpg",
-          "publishedAt": "2026-10-22T15:58:00.000Z"
+          "title": "Japan grants Rs. 2.08 Bn to Sri Lanka Navy for 25 patrol boats",
+          "link": "https://www.dailymirror.lk/breaking-news/Japan-grants-Rs--2-08-Bn-to-Sri-Lanka-Navy-for-25-patrol-boats/108-354602",
+          "summary": "The Government of Japan has agreed to provide grant assistance of Japanese Yen 1 billion (approximately Rs. 2.08 billion) to strengthen the defence and maritime surveillance capabilities of the Sri Lanka Navy under its…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_57ad5b8890.jpg",
+          "publishedAt": "2026-11-10T14:14:00.000Z"
         },
         {
-          "title": "Soil slippage at Kadigamuwa delays Upcountry trains again",
-          "link": "https://www.dailymirror.lk/breaking-news/Soil-slippage-at-Kadigamuwa-delays-Upcountry-trains-again/108-353181",
-          "summary": "Trains operating on the Upcountry railway line were delayed again today due to soil slippage near Kadigamuwa railway station following continued rainfall, the Railways Department said.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_867328767d.jpg",
-          "publishedAt": "2026-10-22T15:56:00.000Z"
+          "title": "University of Jaffna to sign five-year MoU with US university",
+          "link": "https://www.dailymirror.lk/breaking-news/University-of-Jaffna-to-sign-five-year-MoU-with-US-university/108-354601",
+          "summary": "The Cabinet has approved a proposal to sign a five-year Memorandum of Understanding (MoU) between the University of Jaffna and the Board of Trustees of Southern Illinois University in the United States to strengthen…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_a2cab2f96a.jpg",
+          "publishedAt": "2026-11-10T14:13:00.000Z"
         }
       ]
     },
@@ -140,77 +89,77 @@
         "homepage": "https://www.newswire.lk",
         "lang": "en-LK"
       },
-      "fetchedAt": "2026-10-22T15:12:07.922Z",
+      "fetchedAt": "2026-11-10T12:26:53.859Z",
       "items": [
         {
-          "title": "Sri Lanka seeks to safeguard EU GSP+ access in talks with Romanian lawmakers",
-          "link": "https://www.newswire.lk/2026/10/22/sri-lanka-seeks-to-safeguard-eu-gsp-access-in-talks-with-romanian-lawmakers/",
-          "summary": "Deputy Minister of Foreign Affairs and Foreign Employment Arun Hemachandra focused on securing Sri Lanka’s continued access to the EuropeanContinue Reading The post Sri Lanka seeks to safeguard EU GSP+ access in talks…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/10/Romania-pic.jpg",
-          "publishedAt": "2026-10-22T14:57:59.000Z"
+          "title": "Ramayana: Part 1 grosses over ₹660 crore worldwide in five days",
+          "link": "https://www.newswire.lk/2026/11/10/ramayana-part-1-grosses-over-%e2%82%b9660-crore-worldwide-in-five-days/",
+          "summary": "Ramayana: Part 1, starring Ranbir Kapoor and Yash, has grossed an estimated ₹663.9 crore worldwide in its first five daysContinue Reading The post Ramayana: Part 1 grosses over ₹660 crore worldwide in five days appeared…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/895429285_2449021219238785_4758041172627150445_n.jpg",
+          "publishedAt": "2026-11-10T12:26:29.000Z"
         },
         {
-          "title": "ADB approves $100 million to strengthen social protection and livelihoods in Sri Lanka",
-          "link": "https://www.newswire.lk/2026/10/22/adb-approves-100-million-to-strengthen-social-protection-and-livelihoods-in-sri-lanka/",
-          "summary": "The Asian Development Bank (ADB) has approved $100 million in financing, consisting of a $50 million policy based loan andContinue Reading The post ADB approves $100 million to strengthen social protection and…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/10/ADB-logo-stacked.png",
-          "publishedAt": "2026-10-22T14:53:57.000Z"
+          "title": "Cabinet approves Finance Commission recommendations for provincial funding in 2027",
+          "link": "https://www.newswire.lk/2026/11/10/cabinet-approves-finance-commission-recommendations-for-provincial-funding-in-2027/",
+          "summary": "Cabinet approval has been granted to submit the Finance Commission’s recommendations for the 2027 provincial council budgetary allocations to Parliament,Continue Reading The post Cabinet approves Finance Commission…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/PC-budget-pix.jpg",
+          "publishedAt": "2026-11-10T12:16:57.000Z"
         },
         {
-          "title": "CAA launches islandwide raids following reports of wheat flour price hike",
-          "link": "https://www.newswire.lk/2026/10/22/caa-launches-islandwide-raids-following-reports-of-wheat-flour-price-hike/",
-          "summary": "The Consumer Affairs Authority (CAA) has launched islandwide market inspections and raids following reports of an increase in the priceContinue Reading The post CAA launches islandwide raids following reports of wheat…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/10/Wheat-Flour-pix.jpg",
-          "publishedAt": "2026-10-22T14:49:02.000Z"
+          "title": "Former Water Board Chairman Nishantha Ranatunga arrested by Bribery Commission",
+          "link": "https://www.newswire.lk/2026/11/10/former-water-board-chairman-nishantha-ranatunga-arrested-by-bribery-commission-2/",
+          "summary": "The post Former Water Board Chairman Nishantha Ranatunga arrested by Bribery Commission appeared first on Newswire.",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Visual-Stories-4.jpg",
+          "publishedAt": "2026-11-10T12:03:01.000Z"
         },
         {
-          "title": "Police release details of suspicious person arrested at monk protest",
-          "link": "https://www.newswire.lk/2026/10/22/police-release-details-of-suspicious-person-arrested-at-monk-protest/",
-          "summary": "Police have released details of a 58-year-old man arrested with two prohibited knives at the protest site near Viharamahadevi ParkContinue Reading The post Police release details of suspicious person arrested at monk…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/10/arrest-monk-protest.jpg",
-          "publishedAt": "2026-10-22T14:34:45.000Z"
+          "title": "CBSL says E&Y remains eligible to audit licensed banks despite restrictions",
+          "link": "https://www.newswire.lk/2026/11/10/cbsl-says-ey-remains-eligible-to-audit-licensed-banks-despite-restrictions/",
+          "summary": "The Central Bank of Sri Lanka (CBSL) has clarified that Ernst & Young (E&Y) Sri Lanka remains eligible to auditContinue Reading The post CBSL says E&Y remains eligible to audit licensed banks despite restrictions…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/CBSL-EY-NDB-1.jpg",
+          "publishedAt": "2026-11-10T11:34:33.000Z"
         },
         {
-          "title": "Bimal Rathnayake withdraws names of three officials from list of 50 cases",
-          "link": "https://www.newswire.lk/2026/10/22/bimal-rathnayake-withdraws-names-of-three-officials-from-list-of-50-cases/",
-          "summary": "Leader of the House Bimal Rathnayake has withdrawn the names of three public officials from a list of 50 casesContinue Reading The post Bimal Rathnayake withdraws names of three officials from list of 50 cases appeared…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-19.51.00.jpeg",
-          "publishedAt": "2026-10-22T14:26:15.000Z"
+          "title": "Govt committed to making SriLankan Airlines profitable – Minister",
+          "link": "https://www.newswire.lk/2026/11/10/govt-committed-to-making-srilankan-airlines-profitable-minister/",
+          "summary": "Cabinet Spokesperson Minister Nalinda Jayatissa says the government remains committed to transforming SriLankan Airlines into a profitable entity, adding thatContinue Reading The post Govt committed to making SriLankan…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Cabinet-SriLankan-Airlines.jpg",
+          "publishedAt": "2026-11-10T11:10:16.000Z"
         },
         {
-          "title": "Tense situation at Viharamahadevi Park protest site calling for pardon for Gnanasara Thera",
-          "link": "https://www.newswire.lk/2026/10/22/tense-situation-at-viharamahadevi-park-protest-site-calling-for-pardon-for-gnanasara-thera/",
-          "summary": "Tensions arose at Viharamahadevi Park, where Buddhist monks are staging a satyagraha demanding a presidential pardon for Galagoda Aththe GnanasaraContinue Reading The post Tense situation at Viharamahadevi Park protest…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG_4094.jpeg",
-          "publishedAt": "2026-10-22T13:53:13.000Z"
+          "title": "Low-pressure system developing in Bay of Bengal: New Update",
+          "link": "https://www.newswire.lk/2026/11/10/low-pressure-system-developing-in-bay-of-bengal-new-update/",
+          "summary": "Sri Lanka’s Department of Meteorology has issued an amber advisory for strong winds and rough seas as a new low-pressureContinue Reading The post Low-pressure system developing in Bay of Bengal: New Update appeared first…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Screenshot_20261110_162851_Gallery.jpg",
+          "publishedAt": "2026-11-10T11:00:47.000Z"
         },
         {
-          "title": "Today’s News Digest – October 22",
-          "link": "https://www.newswire.lk/2026/10/22/todays-news-digest-october-22/",
-          "summary": "Today’s News Digest: Your go-to summary of the key events and headlines that shaped the day. From major developments toContinue Reading The post Today’s News Digest – October 22 appeared first on Newswire.",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/10/Digest-Oct-22.jpg",
-          "publishedAt": "2026-10-22T13:48:21.000Z"
+          "title": "ADB approves $300 million for Sri Lanka’s water and sanitation projects",
+          "link": "https://www.newswire.lk/2026/11/10/adb-approves-300-million-for-sri-lankas-water-and-sanitation-projects/",
+          "summary": "By Newswire Editorial The Asian Development Bank (ADB) has approved $300 million in financing for two projects aimed at expandingContinue Reading The post ADB approves $300 million for Sri Lanka’s water and sanitation…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Water-project.jpg",
+          "publishedAt": "2026-11-10T10:44:16.000Z"
         },
         {
-          "title": "Police question man over viral curse verses allegedly targeting government: Lawyer",
-          "link": "https://www.newswire.lk/2026/10/22/police-question-man-over-viral-curse-verses-allegedly-targeting-government-lawyer/",
-          "summary": "A lawyer affiliated with the opposition Samagi Jana Balawegaya (SJB) has claimed that Dematagoda Police summoned and questioned one ofContinue Reading The post Police question man over viral curse verses allegedly…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-18.54.29.jpeg",
-          "publishedAt": "2026-10-22T13:26:59.000Z"
+          "title": "Rs. 14.8M corruption : Why Nishantha Ranatunga was arrested",
+          "link": "https://www.newswire.lk/2026/11/10/rs-14-8m-corruption-why-nishantha-ranatunga-was-arrested/",
+          "summary": "By Newswire Editorial Former National Water Supply and Drainage Board (NWSDB) Chairman Nishantha Ranatunga was arrested today (10) over allegationsContinue Reading The post Rs. 14.8M corruption : Why Nishantha Ranatunga…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Nishantha-Ranatunga-2.jpg",
+          "publishedAt": "2026-11-10T10:39:18.000Z"
         },
         {
-          "title": "Villagers near Minneriya seek solution to millipede infestation",
-          "link": "https://www.newswire.lk/2026/10/22/villagers-near-minneriya-seek-solution-to-millipede-infestation/",
-          "summary": "Residents of a village in the Minneriya electorate are facing severe distress after a swarm of millipedes invaded around 20Continue Reading The post Villagers near Minneriya seek solution to millipede infestation…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/10/millipedes-pix.jpg",
-          "publishedAt": "2026-10-22T13:08:55.000Z"
+          "title": "Families of Rambewa bus accident victims to receive lodging facilities while visiting injured relatives",
+          "link": "https://www.newswire.lk/2026/11/10/families-of-rambewa-bus-accident-victims-to-receive-lodging-facilities-while-visiting-injured-relatives/",
+          "summary": "Family members of those injured in the Rambewa-Medawachchiya bus accident will be provided with lodging facilities, facilitated by theContinue Reading The post Families of Rambewa bus accident victims to receive lodging…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Rambewa-accident-5.jpg",
+          "publishedAt": "2026-11-10T10:26:36.000Z"
         },
         {
-          "title": "Gateway College Crowned TISSL Basketball Champions",
-          "link": "https://www.newswire.lk/2026/10/22/gateway-college-crowned-tissl-basketball-champions/",
-          "summary": "Gateway College has firmly cemented its status as the undisputed powerhouse of schools’ basketball, capturing The International Schools of SriContinue Reading The post Gateway College Crowned TISSL Basketball Champions…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/10/Champion-Team-with-Officials.jpeg",
-          "publishedAt": "2026-10-22T12:57:12.000Z"
+          "title": "Cabinet approves move to introduce disciplinary regulations for veterinary professionals",
+          "link": "https://www.newswire.lk/2026/11/10/cabinet-approves-move-to-introduce-disciplinary-regulations-for-veterinary-professionals/",
+          "summary": "By Newswire Editorial The Cabinet of Ministers has approved a proposal to submit new regulations to Parliament aimed at strengtheningContinue Reading The post Cabinet approves move to introduce disciplinary regulations…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Vets.jpg",
+          "publishedAt": "2026-11-10T10:02:21.000Z"
         }
       ]
     }

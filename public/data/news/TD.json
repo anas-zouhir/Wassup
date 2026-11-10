@@ -3,72 +3,153 @@
   "outlets": [
     {
       "outlet": {
+        "id": "alwihda-td",
+        "name": "Alwihda Info",
+        "homepage": "https://www.alwihdainfo.com",
+        "lang": "fr-TD"
+      },
+      "fetchedAt": "2026-11-10T12:27:21.629Z",
+      "items": [
+        {
+          "title": "Tchad : un atelier scientifique international à Abéché pour décrypter les mutations du Sahel central",
+          "link": "https://www.alwihdainfo.com/tchad-un-atelier-scientifique-international-a-abeche-pour-decrypter-les-mutations-du-sahel-central/",
+          "summary": "L'Université Adam Barka d'Abéché abrite un atelier scientifique international sur les recompositions territoriales et les conflits dans l'Est du Tchad, en partenariat avec l'IRD et le projet DECRIPT.",
+          "image": "https://storage.ghost.io/c/c3/f0/c3f09db4-2ccd-4dca-90bb-45836ef771ee/content/images/2026/11/1001501447.jpg",
+          "publishedAt": "2026-11-10T12:23:06.000Z"
+        },
+        {
+          "title": "Tensions diplomatiques entre le Niger et l'Union européenne au sujet de l'Algérie",
+          "link": "https://www.alwihdainfo.com/tensions-diplomatiques-entre-le-niger-et-lunion-europeenne-au-sujet-de-lalgerie/",
+          "summary": "Le gouvernement nigérien a convoqué le chargé d'affaires de l'Union européenne après des déclarations jugées inacceptables concernant la coopération militaire entre le Niger et l'Algérie.",
+          "image": "https://storage.ghost.io/c/c3/f0/c3f09db4-2ccd-4dca-90bb-45836ef771ee/content/images/2026/11/Screenshot-2026-11-10-at-09.41.53.jpg",
+          "publishedAt": "2026-11-10T11:14:09.000Z"
+        },
+        {
+          "title": "Centrafrique : Police nationale et CIVI-POL renforcent leur coopération frontalière",
+          "link": "https://www.alwihdainfo.com/centrafrique-police-nationale-et-civi-pol-renforcent-leur-cooperation-frontaliere/",
+          "summary": "Le directeur général de la Police nationale, Armel Baraba, et l'opérateur CIVI-POL ont validé, le 10 novembre 2026, de nouveaux projets pour renforcer les postes frontaliers et former les agents.",
+          "image": "https://storage.ghost.io/c/c3/f0/c3f09db4-2ccd-4dca-90bb-45836ef771ee/content/images/2026/11/903020265_1707781857394256_5286996356086458693_n.jpeg",
+          "publishedAt": "2026-11-10T11:04:12.000Z"
+        },
+        {
+          "title": "Coopération bilatérale : un haut conseiller de Vladimir Poutine décoré à Bamako",
+          "link": "https://www.alwihdainfo.com/cooperation-bilaterale-un-haut-conseiller-de-vladimir-poutine-decore-a-bamako/",
+          "summary": "En marge du salon Bamex à Bamako, le général russe Andreï Averyanov a été élevé au grade de commandeur de l'Ordre national du Mali pour sa contribution à la coopération sécuritaire.",
+          "image": "https://storage.ghost.io/c/c3/f0/c3f09db4-2ccd-4dca-90bb-45836ef771ee/content/images/2026/11/899790429_1621660926108472_2140627231818162667_n.jpeg",
+          "publishedAt": "2026-11-10T09:18:08.000Z"
+        },
+        {
+          "title": "Football : la relève centrafricaine honorée",
+          "link": "https://www.alwihdainfo.com/football-la-releve-centrafricaine-honoree/",
+          "summary": "Le président Faustin Archange Touadéra a reçu ce lundi les sélections nationales U15 et U20 de football, saluant leurs récentes performances internationales et leur parcours prometteur.",
+          "image": "https://storage.ghost.io/c/c3/f0/c3f09db4-2ccd-4dca-90bb-45836ef771ee/content/images/2026/11/897875025_1859412828404171_1715055189920438954_n.jpg",
+          "publishedAt": "2026-11-10T08:37:02.000Z"
+        },
+        {
+          "title": "الرياضة في إفريقيا: تقرير دولي يكرس نموذج المناطق المتكاملة",
+          "link": "https://www.alwihdainfo.com/lryd-fy-fryqy-tqryr-dwly-ykrs-nmwdhj-lmntq-lmtkml/",
+          "summary": "يسلط تقرير مشترك للبنك الدولي واللجنة الأولمبية والوكالة الفرنسية للتنمية الضوء على اقتصاد الرياضة بإفريقيا، داعياً إلى اعتماد نموذج المناطق الرياضية المتكاملة لضمان تنمية مستدامة.",
+          "image": "https://storage.ghost.io/c/c3/f0/c3f09db4-2ccd-4dca-90bb-45836ef771ee/content/images/2026/11/aichbus-boy-4629217-1.jpg",
+          "publishedAt": "2026-11-10T06:10:31.000Z"
+        },
+        {
+          "title": "Foreign Enterprises Deepen Roots and Accelerate Innovation in Shenzhen",
+          "link": "https://www.alwihdainfo.com/foreign-enterprises-deepen-roots-and-accelerate-innovation-in-shenzhen/",
+          "summary": "Driven by robust supply chains, digital ecosystems, and proactive government support, global enterprises are expanding their footprint in Shenzhen, transforming the city into an international innovation hub.",
+          "image": "https://storage.ghost.io/c/c3/f0/c3f09db4-2ccd-4dca-90bb-45836ef771ee/content/images/2026/11/Houhai-area-in-Shenzhen.jpg",
+          "publishedAt": "2026-11-09T23:55:00.000Z"
+        },
+        {
+          "title": "The Canton Fair: A Window Into China's Evolving Economic and Cultural Identity",
+          "link": "https://www.alwihdainfo.com/the-canton-fair-a-window-into-chinas-evolving-economic-and-cultural-identity/",
+          "summary": "For 70 years, the Canton Fair has documented China's industrial modernization, economic integration, and cultural appeal, serving as a vital hub for global trade and innovation.",
+          "image": "https://storage.ghost.io/c/c3/f0/c3f09db4-2ccd-4dca-90bb-45836ef771ee/content/images/2026/11/pair-of-smart-glasses.jpg",
+          "publishedAt": "2026-11-09T23:00:00.000Z"
+        },
+        {
+          "title": "China Reports Major Progress in Green Transition and Climate Action",
+          "link": "https://www.alwihdainfo.com/china-reports-major-progress-in-green-transition-and-climate-action/",
+          "summary": "A recent official report highlights China's accelerated green transition, showcasing significant milestones in renewable energy deployment, carbon market expansion, and industrial decarbonization ahead of COP31.",
+          "image": "https://storage.ghost.io/c/c3/f0/c3f09db4-2ccd-4dca-90bb-45836ef771ee/content/images/2026/11/energy-heavy-trucks.jpg",
+          "publishedAt": "2026-11-09T21:59:00.000Z"
+        },
+        {
+          "title": "Qinzhou: Bridging Rivers and Seas to Become a Global Maritime Hub",
+          "link": "https://www.alwihdainfo.com/qinzhou-bridging-rivers-and-seas-to-become-a-global-maritime-hub/",
+          "summary": "Discover how Qinzhou has transformed into a dynamic global maritime hub, leveraging advanced port facilities, industrial corridors, and educational exchanges to strengthen international trade and cooperation.",
+          "image": "https://storage.ghost.io/c/c3/f0/c3f09db4-2ccd-4dca-90bb-45836ef771ee/content/images/2026/11/Longmen-Bridge-in-Qinzhou.jpg",
+          "publishedAt": "2026-11-09T20:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
         "id": "tchadinfos-td",
         "name": "Tchadinfos",
         "homepage": "https://tchadinfos.com",
         "lang": "fr-TD"
       },
-      "fetchedAt": "2026-10-22T15:14:36.648Z",
+      "fetchedAt": "2026-11-10T12:27:22.875Z",
       "items": [
         {
-          "title": "Guinée : Mohamed Lamine Bangoura, ancien président de la Cour constitutionnelle, condamné à sept ans de prison pour détournement de deniers publics",
-          "link": "https://tchadinfos.com/2026/10/22/guinee-mohamed-lamine-bangoura-ancien-president-de-la-cour-constitutionnelle-condamne-a-sept-ans-de-prison-pour-detournement-de-deniers-publics/",
-          "summary": "La chambre de jugement de la Cour de répression des infractions économiques et financières (CRIEF) a condamné, le mercredi 21 octobre, Mohamed Lamine Bangoura, ancien président de la Cour constitutionnelle, à sept ans…",
-          "publishedAt": "2026-10-22T15:10:05.000Z"
+          "title": "« Nous ne pouvons que dire merci à notre Dieu » : le SIET soulagé après la libération de Djimoudouel Faustin",
+          "link": "https://tchadinfos.com/2026/11/10/nous-ne-pouvons-que-dire-merci-a-notre-dieu-le-siet-soulage-apres-la-liberation-de-djimoudouel-faustin/",
+          "summary": "Le président du Syndicat indépendant des enseignants du Tchad (SIET), Djimoudouel Faustin, a été libéré ce lundi 9 novembre 2026, après plusieurs mois passés à la maison d’arrêt de Klessoum. Cette libération suscite un…",
+          "publishedAt": "2026-11-10T12:00:12.000Z"
         },
         {
-          "title": "Logone Oriental : les acteurs échangent autour de la planification et de la sécurisation de la campagne de transhumance 2026-2027",
-          "link": "https://tchadinfos.com/2026/10/22/logone-oriental-les-acteurs-echangent-autour-de-la-planification-et-de-la-securisation-de-la-campagne-de-transhumance-2026-2027/",
-          "summary": "L’ONG Concordis International organise, du 21 au 22 octobre 2026, un atelier provincial de planification et de sécurisation de la campagne de transhumance 2026-2027 dans le Logone Oriental. Les assises sont présidées par…",
-          "publishedAt": "2026-10-22T15:00:22.000Z"
+          "title": "Réécriture de l’histoire du Tchad : une mission scientifique en quête d’archives au Sénégal",
+          "link": "https://tchadinfos.com/2026/11/10/reecriture-de-lhistoire-du-tchad-une-mission-scientifique-en-quete-darchives-au-senegal/",
+          "summary": "Une délégation de la Commission scientifique de la Commission nationale chargée de la Réécriture de l’histoire générale du Tchad (AREHT) a été reçue en audience par le Consul général du Tchad au Sénégal, Salah Mahmoud…",
+          "publishedAt": "2026-11-10T10:13:56.000Z"
         },
         {
-          "title": "Numérique au Tchad : Ebenyx s’installe durablement et organise la première édition d’Ebenyx Innovation Days 2026",
-          "link": "https://tchadinfos.com/2026/10/22/numerique-au-tchad-ebenyx-sinstalle-durablement-et-organise-la-premiere-edition-debenyx-innovation-days-2026/",
-          "summary": "La première édition de l’Ebenyx Innovation Days Tchad 2026 s’est tenue ce jeudi 22 octobre dans un hôtel de N’Djamena. Organisée par Ebenyx Tchad, cette rencontre a réuni des acteurs publics et privés, notamment des…",
-          "publishedAt": "2026-10-22T13:30:37.000Z"
+          "title": "Législative partielle du 13 décembre 2026 à Assoungha : six candidats provisoirement retenus",
+          "link": "https://tchadinfos.com/2026/11/10/legislative-partielle-du-13-decembre-2026-a-assoungha-six-candidats-provisoirement-retenus/",
+          "summary": "‎Six partis politiques en lice pour le siège vacant de député du département d’Assoungha, dans le Ouaddaï. Le président de l’Agence nationale de gestion des élections (ANGE), Ahmed Bartchiret, a rendu publique ce lundi 9…",
+          "publishedAt": "2026-11-10T09:41:03.000Z"
         },
         {
-          "title": "Salamat : Aboudeïa s’engage sur la voie de l’urbanisation planifiée",
-          "link": "https://tchadinfos.com/2026/10/22/salamat-aboudeia-sengage-sur-la-voie-de-lurbanisation-planifiee/",
-          "summary": "Le délégué provincial chargé de l’Aménagement du territoire, de l’Urbanisme et de l’Habitat du Salamat, Abdelkerim Ahmat Abdelkerim, est en mission à Aboudeïa en vue d’organiser l’espace urbain et d’intégrer la ville…",
-          "publishedAt": "2026-10-22T12:00:12.000Z"
+          "title": "‎آلاف المواطنين يشيّعون جثمان الشيخ القوني عربي يونس في أنجمينا",
+          "link": "https://tchadinfos.com/2026/11/10/%d8%a2%d9%84%d8%a7%d9%81-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86%d9%8a%d9%86-%d9%8a%d8%b4%d9%8a%d9%91%d8%b9%d9%88%d9%86-%d8%ac%d8%ab%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%b4%d9%8a%d8%ae-%d8%a7/",
+          "summary": "شارك آلاف المواطنين، صباح اليوم الثلاثاء 10 نوفمبر 2026م، في مراسم تشييع جثمان الشيخ القوني عربي يونس، الذي وافته المنية في الأول من نوفمبر الجاري بالعاصمة الروسية موسكو، بعد معاناة مع المرض. وأُقيمت صلاة الجنازة بمنزل…",
+          "publishedAt": "2026-11-10T09:32:49.000Z"
         },
         {
-          "title": "Guerre au Soudan : le Tchad tire la sonnette d’alarme et appelle à une action diplomatique unifiée",
-          "link": "https://tchadinfos.com/2026/10/22/guerre-au-soudan-le-tchad-tire-la-sonnette-dalarme-et-appelle-a-une-action-diplomatique-unifiee/",
-          "summary": "Au Palais des Nations, la sixième réunion consultative sur les initiatives de paix au Soudan s’est tenue ce mardi 21 octobre 2026. Organisée conjointement par la Confédération suisse et le Bureau de l’Envoyé personnel du…",
-          "publishedAt": "2026-10-22T11:45:50.000Z"
+          "title": "Tchad : Web4Jobs, Toumaï et l’ADES célèbrent les lauréats de la promotion pilote",
+          "link": "https://tchadinfos.com/2026/11/10/tchad-web4jobs-toumai-et-lades-celebrent-les-laureats-de-la-promotion-pilote/",
+          "summary": "Web4Jobs, Toumaï et l’Agence de Développement Économique et Social (ADES) ont organisé ce 9 novembre 2026 la cérémonie de remise des attestations aux lauréats de la promotion pilote du programme Web4Jobs. Une étape…",
+          "publishedAt": "2026-11-10T07:30:05.000Z"
         },
         {
-          "title": "Tchad : quatre morts dans une attaque de drone au Wadi Fira, le gouvernement dément toute implication de l’armée",
-          "link": "https://tchadinfos.com/2026/10/22/tchad-quatre-morts-dans-une-attaque-de-drone-au-wadi-fira-le-gouvernement-dement-toute-implication-de-larmee/",
-          "summary": "Une attaque de drone survenue lundi 19 octobre à Bamina, une localité tchadienne située à la frontière avec le Soudan, a fait quatre morts et 14 blessés, selon les autorités provinciales. Interrogé par Tchadinfos, le…",
-          "publishedAt": "2026-10-22T10:52:30.000Z"
+          "title": "La province du Tibesti enfin dotée d’institutions judiciaires",
+          "link": "https://tchadinfos.com/2026/11/10/la-province-du-tibesti-enfin-dotee-dinstitutions-judiciaires/",
+          "summary": "L’officialisation d’un décret daté 6 novembre 2026 marque un tournant décisif pour l’appareil judiciaire du Tchad, concrétisant l’installation effective d’institutions judiciaires dans la province du Tibesti. Au niveau…",
+          "publishedAt": "2026-11-10T06:40:31.000Z"
         },
         {
-          "title": "La BAD dote la TchadElec de deux engins, dont une foreuse horizontale jusqu’alors louée",
-          "link": "https://tchadinfos.com/2026/10/22/la-bad-dote-la-tchadelec-de-deux-engins-dont-une-foreuse-horizontale-jusqualors-louee/",
-          "summary": "Dans le cadre du Projet d’appui au secteur de l’énergie au Tchad (PASET-1), la Banque africaine de développement (BAD) a remis ce 22 octobre à la Tchadienne de l’électricité (TchadElec) deux engins de chantier. Il s’agit…",
-          "publishedAt": "2026-10-22T10:35:04.000Z"
+          "title": "Moyen-Chari : deux ministères évaluent les investissements publics",
+          "link": "https://tchadinfos.com/2026/11/10/moyen-chari-deux-ministeres-evaluent-les-investissements-publics/",
+          "summary": "Le ministère des Finances en collaboration avec le ministère de l’Administration du territoire et de la Décentralisation, organise, du 9 au 12 novembre 2026, au Centre des jeunes Don Bosco de Sarh, un atelier consacré à…",
+          "publishedAt": "2026-11-10T06:00:34.000Z"
         },
         {
-          "title": "Industrialisation en Afrique entre 2010 et 2024 : le Tchad classé 44e sur 54 pays",
-          "link": "https://tchadinfos.com/2026/10/22/industrialisation-en-afrique-entre-2010-et-2024-le-tchad-classe-44e-sur-54-pays/",
-          "summary": "Selon le classement des pays africains les plus industrialisés sur la période 2010-2024, publié par l’Agence Ecofin sur la base des données de la Banque africaine de développement (BAD), le Tchad occupe la 44e place sur…",
-          "publishedAt": "2026-10-22T09:00:44.000Z"
+          "title": "Paul Biya convoque les Camerounais aux urnes le 7 février 2027 pour les élections législatives et municipales",
+          "link": "https://tchadinfos.com/2026/11/09/paul-biya-convoque-les-camerounais-aux-urnes-le-7-fevrier-2027-pour-les-elections-legislatives-et-municipales/",
+          "summary": "Par un décret signé ce 9 novembre 2026, le président du Cameroun, Paul Biya convoque le corps électoral le dimanche 7 février 2027 à l’effet d’élire les députés à l’Assemblée nationale et des conseillers municipaux.…",
+          "publishedAt": "2026-11-09T21:37:30.000Z"
         },
         {
-          "title": "Logone Occidental : une session lancée pour évaluer le Plan national d’adaptation aux changements climatiques",
-          "link": "https://tchadinfos.com/2026/10/22/logone-occidental-une-session-lancee-pour-evaluer-le-plan-national-dadaptation-aux-changements-climatiques/",
-          "summary": "La salle de réunion du Conseil provincial du Logone Occidental a accueilli le lancement des travaux d’une session consacrée au processus d’évaluation du premier Plan national d’adaptation aux changements climatiques pour…",
-          "publishedAt": "2026-10-22T07:30:49.000Z"
+          "title": "Togo : trois morts après le chavirement d’une embarcation",
+          "link": "https://tchadinfos.com/2026/11/09/togo-trois-morts-apres-le-chavirement-dune-embarcation/",
+          "summary": "Le bilan du chavirement d’une embarcation survenu le 8 novembre 2026 sur le lac Togo s’est alourdi à trois morts. Le ministère togolais de la Sécurité a annoncé, ce lundi 9 novembre, la découverte du corps de la…",
+          "publishedAt": "2026-11-09T21:00:44.000Z"
         },
         {
-          "title": "Les Pensées du Prof : Le capital humain, que vaut un chiffre ?",
-          "link": "https://tchadinfos.com/2026/10/22/les-pensees-du-prof-le-capital-humain-que-vaut-un-chiffre/",
-          "summary": "Le capital humain auquel on se réfère dans chaque plan de développement et dans chaque discours politique se résume-t-il seulement à la démographie ? Mais que vaut un chiffre ? Oui, en Afrique, nous avons une population…",
-          "publishedAt": "2026-10-22T06:00:13.000Z"
+          "title": "Moundou : la friperie au cœur d’une semaine dédiée à l’entrepreneuriat",
+          "link": "https://tchadinfos.com/2026/11/09/moundou-la-friperie-au-coeur-dune-semaine-dediee-a-lentrepreneuriat/",
+          "summary": "Le président du comité d’organisation de la Semaine artistique « Gondja Bass», Djénguinabé Casimir, a animé une conférence de presse le samedi 7 novembre 2026 à la Maison de la culture Maoundoé Naindouba de Moundou.…",
+          "publishedAt": "2026-11-09T19:30:18.000Z"
         }
       ]
     }
