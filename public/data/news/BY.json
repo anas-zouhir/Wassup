@@ -15,14 +15,18 @@
           "link": "https://news.zerkalo.io/world/140211.html?utm_campaign=news-feed&utm_medium=rss&utm_source=rss-news",
           "summary": "Министр обороны заявил, что войну в Иране начал Тегеран, а не Вашингтон, и поддержал ее президент США Дональд Трамп.",
           "image": "https://img.zerkalo.io/09/5/glava_pentagona_pit_khegset._foto_so_stranicy_pita_khegseta_v_socseti_x.jpeg",
-          "publishedAt": "2026-11-10T13:58:00.000Z"
+          "publishedAt": "2026-11-10T13:58:00.000Z",
+          "titleEn": "We've seen this show before. The head of the Pentagon responded to calls to impeach him",
+          "summaryEn": "The defense minister said the war in Iran was started by Tehran, not Washington, and was supported by US President Donald Trump."
         },
         {
           "title": "Минского бизнесмена обвинили в дроблении бизнеса",
           "link": "https://news.zerkalo.io/accidents/140206.html?utm_campaign=news-feed&utm_medium=rss&utm_source=rss-news",
           "summary": "По версии следствия, обвиняемый разделил свой бизнес между несколькими фирмами, чтобы снизить налоговую нагрузку.",
           "image": "https://img.zerkalo.io/zaglushki/0a/c/04_dengi_finansy_kurs_ekonomika_zarplata_ceny_inflyaciya_rubli_02132024.jpg",
-          "publishedAt": "2026-11-10T13:53:00.000Z"
+          "publishedAt": "2026-11-10T13:53:00.000Z",
+          "titleEn": "Minsk businessman accused of splitting business",
+          "summaryEn": "According to the investigation, the defendant divided his business between several firms to reduce the tax burden."
         },
         {
           "title": "Первый раунд переговоров Украины, России и США в Абу-Даби завершился",
@@ -38,7 +42,9 @@
           "link": "https://news.zerkalo.io/accidents/140209.html?utm_campaign=news-feed&utm_medium=rss&utm_source=rss-news",
           "summary": "Предварительно, в момент случившегося погибший находился без защитной каски.",
           "image": "https://img.zerkalo.io/0b/0/borisov_les_lesnik_derevo_neschastnyi_sluchai_2026_1.jpg",
-          "publishedAt": "2026-11-10T13:37:00.000Z"
+          "publishedAt": "2026-11-10T13:37:00.000Z",
+          "titleEn": "In the Borissov district, the trunk of a tree fell on the head of a logger. A man died on the spot.",
+          "summaryEn": "Initially, at the time of the incident, the victim was without a helmet."
         },
         {
           "title": "В Гомеле обвиняемый в суде сделал предложение потерпевшей",
@@ -73,7 +79,8 @@
           "summary": "На воле мужчина столкнулся с рядом сложностей.",
           "image": "https://img.zerkalo.io/novosti/0c/3/1-eduard_babariko_v_sude_22052023.jpg",
           "publishedAt": "2026-11-10T12:50:00.000Z",
-          "summaryEn": "The man faced a number of difficulties."
+          "summaryEn": "The man faced a number of difficulties.",
+          "titleEn": "An ex-police prisoner who was pardoned and left in the country has his passport revoked. New issue refused"
         },
         {
           "title": "500 долларов за надпись на памятнике. Журналист MOST откликнулся на подозрительную вакансию в Польше",
@@ -109,7 +116,9 @@
           "link": "https://people.onliner.by/2026/11/10/v-breste-odin-malchik-udaril-nogoj-drugogo-delo-doshlo-do-milicii",
           "summary": "В Threads появилось видео с камеры наблюдения, на котором видно, как один мальчик бьет ногой другого. Тот же в это время лежит на земле. Конфликт между детьми происходил в одном из дворов Бреста. На инцидент обратили…",
           "image": "https://content.onliner.by/news/thumbnail/42fc2cddb5e0a584b29ace9cc5b8816d.jpg",
-          "publishedAt": "2026-11-10T14:06:27.000Z"
+          "publishedAt": "2026-11-10T14:06:27.000Z",
+          "titleEn": "In Brest, one boy hit another with his leg. The case went to the police.",
+          "summaryEn": "Threads got a video from a surveillance camera showing one boy beating another's leg. He's lying on the ground at this time. The conflict between the children took place in one of the courts of Brest. The incident was reported..."
         },
         {
           "title": "«Он ручной, добрый, на 100% жил у людей». В лесу нашли волчонка, вид которого может напугать",
@@ -207,61 +216,81 @@
           "title": "В Минском районе задержали серийного вора автозапчастей",
           "link": "https://belta.by/regions/view/v-minskom-rajone-zaderzhali-serijnogo-vora-avtozapchastej-810285-2026/",
           "summary": "Сначала оперативники совместно с коллегами из центра мониторинга общественной безопасности УВД Миноблисполкома раскрыли кражу велосипеда из подъезда одного из жилых домов пристоличья. Следователями было возбуждено…",
-          "publishedAt": "2026-11-10T14:13:23.000Z"
+          "publishedAt": "2026-11-10T14:13:23.000Z",
+          "titleEn": "In Minsk district detained a serial car parts thief",
+          "summaryEn": "First, the operatives together with colleagues from the Ministry of Internal Security Monitoring Center of the Ministry of Municipal Affairs discovered the theft of a bicycle from the entrance of one of the residential houses. Investigators have been stirring up..."
         },
         {
           "title": "Надевал поверх облачения орден Отечественной войны: история фронтовика, ставшего священником",
           "link": "https://belta.by/society/view/nadeval-poverh-oblachenija-orden-otechestvennoj-vojny-istorija-frontovika-stavshego-svjaschennikom-810271-2026/",
           "summary": "В мае исполнилось 103 года со дня рождения настоятеля Жлобинской Свято-Троицкой церкви протоиерея Константина Монько, который прослужил там без малого 20 лет! В городе до сих пор хранят о нем память - и как о священнике,…",
-          "publishedAt": "2026-11-10T14:10:06.000Z"
+          "publishedAt": "2026-11-10T14:10:06.000Z",
+          "titleEn": "He wore the Order of the Patriotic War: the history of the frontman who became a priest.",
+          "summaryEn": "In May, 103 years have passed since the birth of the preacher of the Holy Trinity Church in Žlobina, the archpriest Constantine Monko, who served there for almost 20 years! He is still remembered in the city as a priest."
         },
         {
           "title": "Квартирант похитил у хозяйки $20 тыс. Эксперты установили его причастность по отпечаткам",
           "link": "https://belta.by/regions/view/kvartirant-pohitil-u-hozjajki-20-tys-eksperty-ustanovili-ego-prichastnost-po-otpechatkam-810284-2026/",
           "summary": "Часть квартиры на период отсутствия арендовал 31-летний мужчина, во второй части, куда заходить посторонним не разрешалось, находились вещи собственницы, а в одной из коробок хранилось около $50 тыс. По возвращении…",
-          "publishedAt": "2026-11-10T14:08:10.000Z"
+          "publishedAt": "2026-11-10T14:08:10.000Z",
+          "titleEn": "The guy stole $20,000 from the landlady . Experts have traced his involvement to prints .",
+          "summaryEn": "A 31-year-old man rented part of the apartment during his absence, and the second part, where no one was allowed to enter, contained the property owner's belongings, and one of the boxes held about $50 thousand. When I get back..."
         },
         {
           "title": "Использование ИИ-сервисов создает дополнительные риски утечки данных и кибератак на пользователей",
           "link": "https://belta.by/society/view/ispolzovanie-ii-servisov-sozdaet-dopolnitelnye-riski-utechki-dannyh-i-kiberatak-na-polzovatelej-810283-2026/",
           "summary": "Одной из основных проблем становится использование публичных ИИ-платформ в рабочих целях без предварительной оценки возможных последствий. Пользователи загружают в языковые модели документы, исходный код, внутреннюю…",
-          "publishedAt": "2026-11-10T14:05:16.000Z"
+          "publishedAt": "2026-11-10T14:05:16.000Z",
+          "titleEn": "Using AI services creates additional risks of data leakage and cyberattacks on users",
+          "summaryEn": "One of the main problems is the use of public AI platforms for business purposes without prior assessment of possible consequences. Users can upload documents, source code, internal..."
         },
         {
           "title": "Беларусь планирует увеличивать объемы производства и экспорта микроэлектроники",
           "link": "https://belta.by/economics/view/belarus-planiruet-uvelichivat-objemy-proizvodstva-i-eksporta-mikroelektroniki-810282-2026/",
           "summary": "Развитие белорусской микроэлектроники базируется на программно-целевом подходе.",
-          "publishedAt": "2026-11-10T13:57:25.000Z"
+          "publishedAt": "2026-11-10T13:57:25.000Z",
+          "titleEn": "Belarus plans to increase production and export of microelectronics",
+          "summaryEn": "The development of Belarusian microelectronics is based on a programmatic approach."
         },
         {
           "title": "Поставка технологий, сборочные производства: какие проекты развивает Беларусь с другими странами",
           "link": "https://belta.by/economics/view/postavka-tehnologij-sborochnye-proizvodstva-kakie-proekty-razvivaet-belarus-s-drugimi-stranami-810280-2026/",
           "summary": "Леонид Заяц подчеркнул, что межпарламентская дипломатия - весомый инструмент для продвижения экономических интересов Беларуси в других государства. Среди успешных примеров - XIII Форум регионов Беларуси и России, на…",
-          "publishedAt": "2026-11-10T13:52:02.000Z"
+          "publishedAt": "2026-11-10T13:52:02.000Z",
+          "titleEn": "Supply of technologies, assembly production: what projects Belarus is developing with other countries",
+          "summaryEn": "Leonid Zajac stressed that interparliamentary diplomacy is a powerful tool for promoting Belarus' economic interests in other countries. Among the successful examples are the XIII Forum of Regions of Belarus and Russia, on..."
         },
         {
           "title": "Дочь своего отца. Историк рассказал, как формировалась решительность и мудрость великой княгини Московской Софии",
           "link": "https://belta.by/society/view/doch-svoego-ottsa-istorik-rasskazal-kak-formirovalas-reshitelnost-i-mudrost-velikoj-knjagini-810279-2026/",
           "summary": "\"Обычно, когда говорят об этом историческом периоде, чаще упоминают ее отца. А отцом ее был не кто-нибудь, а великий князь Витовт - герой Грюнвальда, человек, при котором Великое княжество Литовское, Русское и Жемойтское…",
-          "publishedAt": "2026-11-10T13:48:08.000Z"
+          "publishedAt": "2026-11-10T13:48:08.000Z",
+          "titleEn": "Her father's daughter. The historian described how the determination and wisdom of the great princess of Moscow Sofia was formed.",
+          "summaryEn": "\"Usually, when talking about this historical period, her father is mentioned more often. And her father was not someone else, but the Grand Prince of Vitovt, the hero of Grunwald, the man with whom the Grand Duchy of Lithuania, Russia and Gemoet..."
         },
         {
           "title": "Белорусы завоевали 17 наград молодежного чемпионата мира по шашкам в Турции",
           "link": "https://belta.by/sport/view/belorusy-zavoevali-17-nagrad-molodezhnogo-chempionata-mira-po-shashkam-v-turtsii-810278-2026/",
           "summary": "Участники планетарного форума определили призеров в шести возрастных группах. Последние комплекты наград были разыграны в классической программе. Чемпионкой мира среди молодежи до 27 лет стала наша Мария Таранина, в этой…",
-          "publishedAt": "2026-11-10T13:44:28.000Z"
+          "publishedAt": "2026-11-10T13:44:28.000Z",
+          "titleEn": "Belarusians won 17 world chess championship awards in Turkey",
+          "summaryEn": "The participants of the planetary forum identified the winners in six age groups. The last sets of awards were played in a classic program. Our Maria Tarannina is the Under 27 World Champion in this..."
         },
         {
           "title": "Беларусь и Китай расширяют авиасообщение",
           "link": "https://belta.by/society/view/belarus-i-kitaj-rasshirjajut-aviasoobschenie-810277-2026/",
           "summary": "Суть изменений - в предоставлении каждой из сторон права определять не менее трех авиаперевозчиков для перевозки пассажиров и одного авиаперевозчика для перевозки грузов, а также предоставлении авиаперевозчикам права…",
-          "publishedAt": "2026-11-10T13:42:22.000Z"
+          "publishedAt": "2026-11-10T13:42:22.000Z",
+          "titleEn": "Belarus and China expand air travel",
+          "summaryEn": "The amendment provides for the right of each party to designate at least three air carriers for the carriage of passengers and one air carrier for the transport of cargo, and the right of air carriers..."
         },
         {
           "title": "В ЕАЭС задумались о создании системы высокоскоростных железных дорог",
           "link": "https://belta.by/society/view/v-eaes-zadumalis-o-sozdanii-sistemy-vysokoskorostnyh-zheleznyh-dorog-810276-2026/",
           "summary": "Документ подготовлен в рамках дорожной карты по реализации основных направлений и этапов скоординированной транспортной политики государств - членов ЕАЭС. Его основная цель - придать дополнительный импульс развитию…",
-          "publishedAt": "2026-11-10T13:37:59.000Z"
+          "publishedAt": "2026-11-10T13:37:59.000Z",
+          "titleEn": "The EAEU has considered the creation of a high-speed railway system",
+          "summaryEn": "The document is prepared within the framework of the roadmap on the implementation of the main directions and stages of the coordinated transport policy of the EAEU member states . Its main purpose is to give an additional impetus to the development..."
         }
       ]
     }
