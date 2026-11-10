@@ -13,12 +13,14 @@
         {
           "title": "Kristersson får en uge mere til at forsøge at danne regering",
           "link": "https://www.dr.dk/nyheder/seneste/kristersson-faar-en-uge-mere-til-forsoege-danne-regering",
-          "publishedAt": "2026-11-10T15:39:23.000Z"
+          "publishedAt": "2026-11-10T15:39:23.000Z",
+          "titleEn": "Kristersson gets one more week to try to form a government."
         },
         {
           "title": "Iran afviser franske hacker-beskyldninger",
           "link": "https://www.dr.dk/nyheder/seneste/iran-afviser-franske-hacker-beskyldninger",
-          "publishedAt": "2026-11-10T14:59:21.000Z"
+          "publishedAt": "2026-11-10T14:59:21.000Z",
+          "titleEn": "Iran rejects French hacker charges"
         },
         {
           "title": "Lidl tilbagekalder kyllingegyros",
@@ -87,49 +89,63 @@
           "link": "https://politiken.dk/internationalt/art11054724/Nvidia-er-blevet-2600-milliarder-mindre-v%C3%A6rd-efter-topchefs-aff%C3%A6re",
           "summary": "De amerikanske virksomheder Apple og Microsoft er begge mere værd end Nvidia efter sag om mulig spion.",
           "image": "https://politiken.dk/incoming/img11054727.m87u0g/ORIGINALS/original_960/NVIDIA-PROBE-CEO",
-          "publishedAt": "2026-11-10T18:34:34.000Z"
+          "publishedAt": "2026-11-10T18:34:34.000Z",
+          "titleEn": "Nvidia's worth has dropped by 2,600 billion since the CEO's affair.",
+          "summaryEn": "The American companies Apple and Microsoft are both worth more than Nvidia in a case involving possible espionage."
         },
         {
           "title": "Medspillere i topklub kom til at røbe stjerneangribers skade",
           "link": "https://politiken.dk/sport/fodbold/art11054154/Medspillere-i-topklub-kom-til-at-r%C3%B8be-stjerneangribers-skade",
           "summary": "Chelsea-topscorerens fravær mod Tottenham blev afsløret på Fantasy Premier League af medspillere og klubbens eget personale.",
           "image": "https://politiken.dk/incoming/img11054719.ofk846/ORIGINALS/original_960/SOCCER-ENGLAND-EVE-CHE",
-          "publishedAt": "2026-11-10T17:55:19.000Z"
+          "publishedAt": "2026-11-10T17:55:19.000Z",
+          "titleEn": "Top club teammates came forward to cover up the damage of the star attackers.",
+          "summaryEn": "The absence of the Chelsea top scorer against Tottenham was revealed in the Fantasy Premier League by fellow players and the club's own staff."
         },
         {
           "title": "I København satte Zelenskyj fingeren på Europas problem",
           "link": "https://politiken.dk/internationalt/art11054706/I-K%C3%B8benhavn-satte-Zelenskyj-fingeren-p%C3%A5-Europas-problem",
           "summary": "Det går ikke, at 30 ledere fra Europa taler med Vladimir Putin, så Europa bør udpege én forhandler, lød opfordringen fra Volodymyr Zelenskyj under besøg i København.",
           "image": "https://politiken.dk/incoming/img11054708.uy4jyh/ORIGINALS/original_960/Volodymyr%20Zelenskyj%20og%20Mette%20Frederiksen%20p%C3%A5%20K%C3%B8benhavns%20Universitet",
-          "publishedAt": "2026-11-10T17:47:48.000Z"
+          "publishedAt": "2026-11-10T17:47:48.000Z",
+          "titleEn": "In Copenhagen, Zelensky put his finger on Europe's problem",
+          "summaryEn": "It is not possible for 30 European leaders to talk to Vladimir Putin so that Europe should appoint one negotiator, Volodymyr Zelenskyj called for during a visit to Copenhagen."
         },
         {
           "title": "Trumps seneste opslag følger et gammelt mønster",
           "link": "https://politiken.dk/internationalt/art11053742/Trumps-seneste-opslag-f%C3%B8lger-et-gammelt-m%C3%B8nster",
           "summary": "Donald Trump accepterede i første omgang resultatet af midtvejsvalget, men nu er han tilbage med sine uunderbyggede påstande om valgsvindel.",
           "image": "https://politiken.dk/incoming/img11054718.9c96ox/ORIGINALS/original_960/US-POLITICS-TRUMP",
-          "publishedAt": "2026-11-10T17:28:49.000Z"
+          "publishedAt": "2026-11-10T17:28:49.000Z",
+          "titleEn": "Trump's latest post follows an old pattern.",
+          "summaryEn": "Donald Trump initially accepted the results of the midterm elections, but now he's back with his unsubstantiated claims of election fraud."
         },
         {
           "title": "Han vandt DM, men fik frataget sin titel. Nu indstiller 27-årig karrieren",
           "link": "https://politiken.dk/sport/art11054669/Han-vandt-DM-men-fik-frataget-sin-titel.-Nu-indstiller-27-%C3%A5rig-karrieren",
           "summary": "Johan Price-Pejtersen har mistet lysten til professionel cykling og siger farvel til sporten.",
           "image": "https://politiken.dk/incoming/img11054681.2fszk7/ORIGINALS/original_960/CYCLING-SUI-MEN-TOUR-ROMANDIE",
-          "publishedAt": "2026-11-10T16:43:39.000Z"
+          "publishedAt": "2026-11-10T16:43:39.000Z",
+          "titleEn": "He won the DM but was stripped of his title. Now the 27-year-old's career is over.",
+          "summaryEn": "Johan Price-Pejtersen has lost his passion for professional cycling and is saying goodbye to the sport."
         },
         {
           "title": "Ny øl er inspireret af verdens længste slæderejse",
           "link": "https://politiken.dk/rejser/art11048670/Ny-%C3%B8l-er-inspireret-af-verdens-l%C3%A6ngste-sl%C3%A6derejse",
           "summary": "Et samarbejde mellem Eventyrernes Klub og et dansk bryggeri har ført til en øl, der hylder et noget ukendt og overset stykke Danmarkshistorie.",
           "image": "https://politiken.dk/incoming/img11048691.vevwd5/ORIGINALS/original_960/2b",
-          "publishedAt": "2026-11-10T15:06:27.000Z"
+          "publishedAt": "2026-11-10T15:06:27.000Z",
+          "titleEn": "New beer is inspired by the world's longest distillation journey",
+          "summaryEn": "A collaboration between the Club of Adventures and a Danish brewery has led to a beer that celebrates a somewhat unknown and overlooked piece of Danish history."
         },
         {
           "title": "Signe Wenneberg hængte privat familie ud. Nu viser dokumenter, at sagen er mere speget",
           "link": "https://politiken.dk/danmark/art11053698/Signe-Wenneberg-h%C3%A6ngte-privat-familie-ud.-Nu-viser-dokumenter-at-sagen-er-mere-speget",
           "summary": "Mandag blev Signe Wenneberg politianmeldt for tre forhold, og tirsdag er yderligere to tilføjet. Det sker efter en kovending, hvor hun på ny har delt en families adresse på sine sociale medier.",
           "image": "https://politiken.dk/incoming/img11054454.xu7mfk/ORIGINALS/original_960/F%C3%B8rste%20m%C3%B8de%20efter%20valget",
-          "publishedAt": "2026-11-10T15:00:08.000Z"
+          "publishedAt": "2026-11-10T15:00:08.000Z",
+          "titleEn": "Signe Wenneberg was hanging private family. Now documents show that the case is more blurred.",
+          "summaryEn": "On Monday, Signe Wenneberg was reported to the police for three counts, and on Tuesday, two more were added. It's after a co-op, where she shared a family's address on her social media accounts."
         },
         {
           "title": "Grishams retssalsdrama gør stærkt comeback",
@@ -174,70 +190,90 @@
           "link": "https://www.berlingske.dk/politik/mette-frederiksen-sagde-nej-til-at-vaere-europas-stemme-og-det-er-der-tre-grunde-til-siger-bent-winther?referrer=RSS",
           "summary": "Volodymyr Zelenskyj opfordrede tirsdag til, at Europa finder én person, der taler på vores vegne, når det kommer til forhandlinger med Rusland. Mette Frederiksen afviste, at det skulle være hende, og det er der gode…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166761252.webp?t[strip]=true&t[quality]=70&accessToken=52bb93b78ee7add102a48a61f19a2aa8db6f7b402257db0f7c1dfddf72b4f01c",
-          "publishedAt": "2026-11-10T18:33:30.000Z"
+          "publishedAt": "2026-11-10T18:33:30.000Z",
+          "titleEn": "Mette Frederiksen said \"no\" to be the voice of Europe. And there are three reasons for that, says Bent Winther",
+          "summaryEn": "Volodymyr Zelenskyj called on Tuesday for Europe to find one person to speak on our behalf when it comes to negotiations with Russia. Mette Frederiksen refused to let her do it, and that's good..."
         },
         {
           "title": "Minister trækker sig fra Grønlands regering efter krav fra eget parti",
           "link": "https://www.berlingske.dk/politik/minister-traekker-sig-fra-groenlands-regering-efter-krav-fra-eget-parti?referrer=RSS",
           "summary": "Nivi Olsen, som har været minister for uddannelse, kultur, idræt og kirke, trækker sig fra regeringen.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166707998.webp?t[strip]=true&t[quality]=70&accessToken=c52c7323661ee816ff37c9b310172fb0e0135decfa0cc573542706ae466ebdc6",
-          "publishedAt": "2026-11-10T18:31:48.000Z"
+          "publishedAt": "2026-11-10T18:31:48.000Z",
+          "titleEn": "Minister withdraws from Greenland's government at the request of his own party",
+          "summaryEn": "Nivi Olsen, who has served as Minister of Education, Culture, Sports and the Church, is resigning from the government."
         },
         {
           "title": "Berlingske mener: Sisse Marie Welling og Line Barfod er trumpisme på dansk",
           "link": "https://www.berlingske.dk/ledere/berlingske-mener-sisse-marie-welling-og-line-barfod-er-trumpisme-paa-dansk?referrer=RSS",
           "summary": "Tankegangen hos flertallet i Borgerrepræsentationen er totalitær, som da vi for årtier siden fik lov at lege turister i østblokken, mens diktaturerne forbød deres egne borgere at tage på ferie til Danmark.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166701418.webp?t[strip]=true&t[quality]=70&accessToken=59a885cfc294ed192f4ceb023a4994ff3dbd0317e3f5a93544f980e0ee797485",
-          "publishedAt": "2026-11-10T18:30:24.000Z"
+          "publishedAt": "2026-11-10T18:30:24.000Z",
+          "titleEn": "Berlingske thinks: Sisse Marie Welling and Line Barfoot are trumpism in Danish",
+          "summaryEn": "The majority's thinking in the Citizens' Representation is totalitarian, as when decades ago we were allowed to play tourists in the Eastern Bloc, while the dictatorships prohibited their own citizens from going on holiday to Denmark."
         },
         {
           "title": "Nvidia er blevet 2600 milliarder mindre værd efter topchefs affære",
           "link": "https://www.berlingske.dk/business/nvidia-er-blevet-2600-milliarder-mindre-vaerd-efter-topchefs-affaere?referrer=RSS",
           "summary": "De amerikanske virksomheder Apple og Microsoft er begge mere værd end Nvidia efter sag om mulig spion.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166763412.webp?t[strip]=true&t[quality]=70&accessToken=a2e99b235ccacf8cdbf92397fe9c7a67cc244e83ec05126f1197c1a4371a364d",
-          "publishedAt": "2026-11-10T18:28:47.000Z"
+          "publishedAt": "2026-11-10T18:28:47.000Z",
+          "titleEn": "Nvidia's worth has dropped by 2,600 billion since the CEO's affair.",
+          "summaryEn": "The American companies Apple and Microsoft are both worth more than Nvidia in a case involving possible espionage."
         },
         {
           "title": "Kan det betale sig at arbejde, når din bolig tjener mere end dig?",
           "link": "https://www.berlingske.dk/kronikker/kan-det-betale-sig-at-arbejde-naar-din-bolig-tjener-mere-end-dig?referrer=RSS",
           "summary": "Meritokratiet som begreb hører efterhånden mere til i en teoribog end i virkelighedens verden. I stedet bevæger vi os mod en rentierøkonomi, hvor man i praksis kan leve af at eje.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166582682.webp?t[strip]=true&t[quality]=70&accessToken=e418592b146bf60b54a0151a172f4d685ae9bb337d6c58638afabd6bb28d1889",
-          "publishedAt": "2026-11-10T18:28:04.000Z"
+          "publishedAt": "2026-11-10T18:28:04.000Z",
+          "titleEn": "Can it be worth working when your home earns more than you?",
+          "summaryEn": "Meritocracy as a concept is becoming more of a book of theories than of the real world. Instead, we're moving towards an interest rate economy where you can actually live off owning."
         },
         {
           "title": "Gerningsmanden bag skyderiet i Krakow søgte på Anders Breivik før angrebet",
           "link": "https://www.berlingske.dk/internationalt/gerningsmanden-bag-skyderiet-i-krakow-soegte-paa-anders-breivik-foer-angrebet?referrer=RSS",
           "summary": "Polens justitsminister bekræfter, at den nu afdøde gerningsmand havde søgt på den norske terrorist forud for skyderiet i Krakow.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166759666.webp?t[strip]=true&t[quality]=70&accessToken=0f9728615a76c9ce9e77049cc4f04df6210fa8b58c3e1582abd2f6b90a0225e5",
-          "publishedAt": "2026-11-10T18:11:10.000Z"
+          "publishedAt": "2026-11-10T18:11:10.000Z",
+          "titleEn": "The man behind the Krakow shooting searched for Anders Breivik before the attack.",
+          "summaryEn": "The Polish Minister of Justice confirms that the now deceased perpetrator had searched the Norwegian terrorist prior to the Krakow shooting."
         },
         {
           "title": "Politi stopper togdrift på Fyn for at efterforske påkørsel",
           "link": "https://www.berlingske.dk/indland/politi-stopper-togdrift-paa-fyn-for-at-efterforske-paakoersel?referrer=RSS",
           "summary": "Togdriften på Fyn stoppes tirsdag aften, da et tog har ramt noget ved Langeskov, oplyser politiet.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166760607.webp?t[strip]=true&t[quality]=70&accessToken=25f3988c8be18c0ae8ff46dc9ace7f91c7334cb2dc3209771ca1e81bf7127640",
-          "publishedAt": "2026-11-10T18:04:45.000Z"
+          "publishedAt": "2026-11-10T18:04:45.000Z",
+          "titleEn": "Police stop train operations in Fyn to investigate traffic",
+          "summaryEn": "Trains on Fyn will be stopped on Tuesday night after a train hit something near Langeskov, police said."
         },
         {
           "title": "Israels præsident beder nyvalgt parlament række hånden frem til rivaler",
           "link": "https://www.berlingske.dk/internationalt/israels-praesident-beder-nyvalgt-parlament-raekke-haanden-frem-til-rivaler?referrer=RSS",
           "summary": "Eisenkots parti har allerede fremsat flere forslag, som går imod den afgående premierminister Netanyahu.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166762999.webp?t[strip]=true&t[quality]=70&accessToken=b1b75ee2d77fc73a3a5ad3fc1ec2e34c3675673f247768761de3164e66c0a215",
-          "publishedAt": "2026-11-10T17:54:49.000Z"
+          "publishedAt": "2026-11-10T17:54:49.000Z",
+          "titleEn": "Israeli president asks newly elected parliament to reach out to rivals",
+          "summaryEn": "Eisenkot's party has already put forward several proposals against the outgoing Prime Minister Netanyahu."
         },
         {
           "title": "Flere er sigtet efter serie af hærværk i sydjyske Rødding",
           "link": "https://www.berlingske.dk/indland/flere-er-sigtet-efter-serie-af-haervaerk-i-sydjyske-roedding?referrer=RSS",
           "summary": "Natten til fredag blev der skrevet \"perkere ud af DK\" på et pizzeria. Nu er en mand anholdt for hærværket.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166762345.webp?t[strip]=true&t[quality]=70&accessToken=27046ca01a9ba84f6b53688f2cbb7928946cc7b00ec7b1dc87bcac94edb9c21f",
-          "publishedAt": "2026-11-10T17:28:47.000Z"
+          "publishedAt": "2026-11-10T17:28:47.000Z",
+          "titleEn": "Several have been targeted for a series of devastating attacks in southern Germany's Rødding",
+          "summaryEn": "The night before Friday, they wrote \"perker out of DK\" on a pizzeria. Now a man is under arrest for military service."
         },
         {
           "title": "Norges regentpar skal velsignes i kirken og på rundrejse over to år",
           "link": "https://www.berlingske.dk/internationalt/norges-regentpar-skal-velsignes-i-kirken-og-paa-rundrejse-over-to-aar?referrer=RSS",
           "summary": "Det ceremonielle efter det norske tronskifte fortsætter for kong Haakon og dronning Mette-Marit.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166760845.webp?t[strip]=true&t[quality]=70&accessToken=f59cdf50ba596d753eb77aa7a99c1aad5b54161bfd5fca89da548b48be68eecd",
-          "publishedAt": "2026-11-10T17:22:47.000Z"
+          "publishedAt": "2026-11-10T17:22:47.000Z",
+          "titleEn": "Norway's rain couple to be blessed in church and on tour over two years",
+          "summaryEn": "The ceremonial after the Norwegian Throne Swearing continues for King Haakon and Queen Mette-Marit."
         }
       ]
     }

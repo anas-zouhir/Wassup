@@ -14,14 +14,17 @@
           "title": "Lamine Yamal y el secreto de su nombre que su padre decidió destapar",
           "link": "https://www.laprensa.hn/portada/lamine-yamal-papa-padre-secreto-nombre-verdad-barcelona-mounir-nasraoui-MN32597139",
           "image": "https://www.laprensa.hn/binrepository/lamine-yamal-7_16088337_20261110093535.jpg",
-          "publishedAt": "2026-11-10T15:44:33.000Z"
+          "publishedAt": "2026-11-10T15:44:33.000Z",
+          "titleEn": "Lamine Yamal and the secret of his name that his father decided to uncover"
         },
         {
           "title": "Familia hispana muere tras caer camioneta desde un puente en Texas",
           "link": "https://www.laprensa.hn/portada/familia-hispana-muere-caer-camioneta-puente-texas-estados-unidos-BN32596645",
           "summary": "Texas, Estados Unidos. Una familia de cinco integrantes, entre ellos tres niños de 13, 6 y 3 años, perdió la vida en un trágico accidente de tránsito ocurrido el pasado domingo 8 de noviembre en Seguin, Texas, Estados…",
           "image": "https://www.laprensa.hn/binrepository/diseno-sin-titulo-5_16087714_20261110084417.jpg",
-          "publishedAt": "2026-11-10T15:01:50.000Z"
+          "publishedAt": "2026-11-10T15:01:50.000Z",
+          "titleEn": "Hispanic family dies after falling truck from a bridge in Texas",
+          "summaryEn": "Texas, the United States. A family of five, including three children aged 13, 6 and 3, lost their lives in a tragic traffic accident that occurred last Sunday, November 8 in Seguin, Texas, United States..."
         },
         {
           "title": "Sobre un charco de sangre y bajo la lluvia hallan el cadáver de un hombre en La Ceiba",
@@ -36,7 +39,8 @@
           "title": "\"Es un varón de Dios\": iglesia defiende a supuesto 18 capturado en un culto",
           "link": "https://www.laprensa.hn/portada/honduras-tegucigalpa-supuesto-miembro-18-iglesia-defiende-HN32596230",
           "image": "https://www.laprensa.hn/binrepository/898650669-122209888460468476-6640000_16087387_20261110074924.jpg",
-          "publishedAt": "2026-11-10T13:52:55.000Z"
+          "publishedAt": "2026-11-10T13:52:55.000Z",
+          "titleEn": "\"He's a man of God\": church defends alleged 18 captured at a cult"
         },
         {
           "title": "Caen cuatro colombianos acusados de operar red de préstamos ilegales en SPS",
@@ -77,7 +81,9 @@
           "link": "https://www.laprensa.hn/portada/alianzas-publico-privadas-infraestructura-experiencia-chilena-JN32591877",
           "summary": "San Pedro Sula, Honduras. El arquitecto chileno Juan Manuel Sánchez Medioli es especialista en infraestructura y desarrollo urbano. Cuenta con más de 25 años de experiencia profesional en las áreas de diseño, gestión,…",
           "image": "https://www.laprensa.hn/binrepository/la-prensa-2026-11-09t184021-452_16085629_20261109184055.jpg",
-          "publishedAt": "2026-11-10T13:10:17.000Z"
+          "publishedAt": "2026-11-10T13:10:17.000Z",
+          "titleEn": "Chilean expert explains how APPs can boost infrastructure in Honduras",
+          "summaryEn": "I'm from San Pedro Sula, Honduras. The Chilean architect Juan Manuel Sánchez Medioli is a specialist in infrastructure and urban development. He has over 25 years of professional experience in the areas of design, management,..."
         },
         {
           "title": "Kervin Arriaga sorprende y deja mensaje tras no ser convocado por Honduras",
@@ -198,61 +204,81 @@
           "title": "El geisha de Panamá: de un redescubrimiento local al café de «ultralujo» mundial",
           "link": "https://proceso.hn/el-geisha-de-panama-de-un-redescubrimiento-local-al-cafe-de-ultralujo-mundial/",
           "summary": "Hace poco más de 20 años en una zona rural del oeste de Panamá se redescubrió el geisha, el café de especialidad convertido ahora en producto de \"ultralujo\" y que este año ha vuelto a alcanzar los mayores precios del…",
-          "publishedAt": "2026-11-10T18:10:56.000Z"
+          "publishedAt": "2026-11-10T18:10:56.000Z",
+          "titleEn": "The Panama geisha: from local rediscovery to world-class coffee",
+          "summaryEn": "A little over 20 years ago, in a rural area of western Panama, geisha was rediscovered, the specialty coffee that has now become a \"ultra-black\" product and this year has again reached the highest prices of..."
         },
         {
           "title": "Jueces exponen vulnerabilidad en seguridad de operadores de justicia ante nuevo régimen de seguridad",
           "link": "https://proceso.hn/jueces-exponen-vulnerabilidad-en-seguridad-de-operadores-de-justicia-ante-nuevo-regimen-de-seguridad/",
           "summary": "La presidenta de la Asociación de Jueces y Magistrados del Poder Judicial, Ana Cardona, alertó sobre la vulnerabilidad en la seguridad del personal e instalaciones judiciales frente a la delincuencia organizada. La…",
-          "publishedAt": "2026-11-10T18:09:49.000Z"
+          "publishedAt": "2026-11-10T18:09:49.000Z",
+          "titleEn": "Judges expose security vulnerability of justice operators to new security regime",
+          "summaryEn": "The president of the Association of Judges and Magistrates of the Judicial Power, Ana Cardona, warned about the vulnerability in the security of personnel and judicial facilities in the face of organized crime. The..."
         },
         {
           "title": "En menos de 24 horas, hallan segundo cuerpo sin vida en río Guayape",
           "link": "https://proceso.hn/en-menos-de-24-horas-hallan-segundo-cuerpo-sin-vida-en-rio-guayape/",
           "summary": "Miembros del Cuerpo de Bomberos recuperaron este martes un segundo cuerpo sin vida en el río Guayape en el sector San Pedro de las Joyas en el municipio de Juticalpa, departamento de Olancho. La entrada En menos de 24…",
-          "publishedAt": "2026-11-10T18:09:40.000Z"
+          "publishedAt": "2026-11-10T18:09:40.000Z",
+          "titleEn": "In less than 24 hours, they find a second dead body in the Guayape River.",
+          "summaryEn": "Members of the Fire Corps recovered this Tuesday a second lifeless body in the Guayape River in the sector San Pedro de las Joyas in the municipality of Juticalpa, department of Olancho. The entrance in less than 24..."
         },
         {
           "title": "Gobierno asegura que solo 69 médicos tienen pagos pendientes y atribuye atrasos a deudas heredadas",
           "link": "https://proceso.hn/gobierno-asegura-que-solo-69-medicos-tienen-pagos-pendientes-y-atribuye-atrasos-a-deudas-heredadas/",
           "summary": "El secretario privado de la Presidencia, Luis Castro, aseguró este martes que únicamente 69 médicos mantienen pagos pendientes, según los datos proporcionados por la mesa técnica que da seguimiento a las obligaciones del…",
-          "publishedAt": "2026-11-10T18:04:48.000Z"
+          "publishedAt": "2026-11-10T18:04:48.000Z",
+          "titleEn": "The government says only 69 doctors have outstanding payments and attributes arrears to inherited debts",
+          "summaryEn": "The private secretary of the Presidency, Luis Castro, assured Tuesday that only 69 doctors keep outstanding payments, according to the data provided by the technical table that monitors the obligations of the..."
         },
         {
           "title": "Fenagh adjudica aumentos injustificados de productos a intermediarios y comerciantes",
           "link": "https://proceso.hn/fenagh-adjudica-aumentos-injustificados-de-productos-a-intermediarios-y-comerciantes/",
           "summary": "La Federación Nacional de Agricultores y Ganaderos de Honduras (Fenagh), pidió a la Dirección de Protección al Consumidor ampliar las inspecciones hacia los intermediarios y comerciantes, al señalar que es en esa etapa…",
-          "publishedAt": "2026-11-10T18:02:37.000Z"
+          "publishedAt": "2026-11-10T18:02:37.000Z",
+          "titleEn": "Fenagh awarded unjustified product increases to intermediaries and traders",
+          "summaryEn": "The National Federation of Farmers and Livestockers of Honduras (Fenagh), asked the Directorate of Consumer Protection to expand inspections towards intermediaries and traders, noting that it is at that stage..."
         },
         {
           "title": "Suspenden por cinco días la captura contra excoordinador de Tasa de Seguridad",
           "link": "https://proceso.hn/suspenden-por-cinco-dias-la-captura-contra-excoordinador-de-tasa-de-seguridad/",
           "summary": "El Juzgado de Letras Penal con Competencia Nacional en Materia de Criminalidad Organizada, Medioambiente y Corrupción suspendió temporalmente por cinco días la orden de captura y alerta roja internacional que pesaba…",
-          "publishedAt": "2026-11-10T17:54:53.000Z"
+          "publishedAt": "2026-11-10T17:54:53.000Z",
+          "titleEn": "Suspended for five days the capture against former Security Rate Coordinator",
+          "summaryEn": "The Court of Criminal Letters with National Competence in Matters of Organized Crime, Environment and Corruption temporarily suspended for five days the international arrest warrant and red alert weighing..."
         },
         {
           "title": "CMH denuncia que Salud incumplió pago a médicos: 400 siguen sin recibir su salario",
           "link": "https://proceso.hn/cmh-denuncia-que-salud-incumplio-pago-a-medicos-400-siguen-sin-recibir-su-salario/",
           "summary": "\"Sabemos que hay impasses que no se pueden solicitar de un día para otro, pero nosotros hicimos una base de datos. Había un compromiso para pagarles a 727 médicos, de ese número se les debe alrededor de 400 doctores que…",
-          "publishedAt": "2026-11-10T17:54:39.000Z"
+          "publishedAt": "2026-11-10T17:54:39.000Z",
+          "titleEn": "CMH denounces that Health failed to pay doctors: 400 still without receiving their salary",
+          "summaryEn": "\"We know there are dead ends that cannot be requested overnight, but we made a database. There was a commitment to pay 727 doctors, out of that number we owe about 400 doctors who..."
         },
         {
           "title": "Embajada de EEUU anuncia mes de actividades por 250 años de independencia estadounidense",
           "link": "https://proceso.hn/embajada-de-eeuu-anuncia-mes-de-actividades-por-250-anos-de-independencia-estadounidense/",
           "summary": "La Embajada de Estados Unidos en Honduras desarrollará hasta el 5 de diciembre una agenda de actividades culturales y deportivas para conmemorar el 250 aniversario de independencia estadounidense, bajo el programa…",
-          "publishedAt": "2026-11-10T17:49:07.000Z"
+          "publishedAt": "2026-11-10T17:49:07.000Z",
+          "titleEn": "US Embassy announces activity month for 250 years of American independence",
+          "summaryEn": "The U.S. Embassy in Honduras will develop until December 5 an agenda of cultural and sporting activities to commemorate the 250th anniversary of American independence, under the program..."
         },
         {
           "title": "Ganaderos prevén un aumento a precio de la leche antes de cerrar el año",
           "link": "https://proceso.hn/ganaderos-preven-un-aumento-a-precio-de-la-leche-antes-de-cerrar-el-ano/",
           "summary": "El presidente de la Asociación de Ganaderos del departamento de Olancho, Gerardo Hernández, señaló hoy que antes de cerrar el año se podría registrar un aumento en el precio de la leche en Honduras. La entrada Ganaderos…",
-          "publishedAt": "2026-11-10T17:47:31.000Z"
+          "publishedAt": "2026-11-10T17:47:31.000Z",
+          "titleEn": "Cattle ranchers forecast an increase in milk prices before the end of the year",
+          "summaryEn": "The president of the Association of Livestock Owners of the Olancho department, Gerardo Hernández, said today that before the year is over, there could be an increase in the price of milk in Honduras. The cattle entrance..."
         },
         {
           "title": "Presupuesto General 2027 es más de lo mismo: Cohep",
           "link": "https://proceso.hn/presupuesto-general-2027-es-mas-de-lo-mismo-cohep/",
           "summary": "El gerente de política económica del Consejo Hondureño de la Empresa Privada (Cohep), Santiago Herrera, señaló que el proyecto del Presupuesto General 2027 “sigue siendo más de lo mismo”. La entrada Presupuesto General…",
-          "publishedAt": "2026-11-10T17:46:52.000Z"
+          "publishedAt": "2026-11-10T17:46:52.000Z",
+          "titleEn": "General Budget 2027 is more than the same: Cohep",
+          "summaryEn": "Santiago Herrera, economic policy manager at the Honduran Council of Private Enterprise (Cohep), noted that the draft General Budget 2027  ⁇ continues to be more than the same ⁇ . The general budget entry..."
         }
       ]
     }
