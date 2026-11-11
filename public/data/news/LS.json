@@ -1,0 +1,22 @@
+{
+  "country": "LS",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "publiceye-ls",
+        "name": "Public Eye",
+        "homepage": "https://publiceyenews.com",
+        "lang": "en-LS"
+      },
+      "fetchedAt": "2026-11-11T18:43:57.406Z",
+      "items": [
+        {
+          "title": "ROLL’s outreach programme capacitates Qacha’s Nek association",
+          "link": "https://publiceyenews.com/2026/11/11/rolls-outreach-programme-capacitates-qachas-nek-association/",
+          "summary": "MOSA MAOENG QACHA’S NEK – Regeneration of Landscapes and Livelihoods (ROLL) officially handed over two...",
+          "publishedAt": "2026-11-11T09:06:44.000Z"
+        }
+      ]
+    }
+  ]
+}

@@ -8,8 +8,39 @@
         "homepage": "https://www.dr.dk/nyheder",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-11T06:51:09.606Z",
+      "fetchedAt": "2026-11-11T18:43:25.058Z",
       "items": [
+        {
+          "title": "To mænd idømt fængsel for at stjæle og videresælge cykler i København",
+          "link": "https://www.dr.dk/nyheder/seneste/maend-idoemt-faengsel-stjaele-og-videresaelge-cykler-i-koebenhavn",
+          "publishedAt": "2026-11-11T15:46:49.000Z"
+        },
+        {
+          "title": "Skuespiller Stacy Keach er død",
+          "link": "https://www.dr.dk/nyheder/seneste/skuespiller-stacy-keach-er-doed",
+          "image": "https://asset.dr.dk/drdk/umbraco-images/1trd2sp1/20180515-161310-3.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
+          "publishedAt": "2026-11-11T14:46:23.000Z"
+        },
+        {
+          "title": "Tre mænd snuppet med 71.000 cigaretter i lufthavnen",
+          "link": "https://www.dr.dk/nyheder/seneste/tre-maend-snuppet-med-71-000-cigaretter-i-lufthavnen",
+          "publishedAt": "2026-11-11T10:54:44.000Z"
+        },
+        {
+          "title": "25 biler udsat for hærværk i Nyborg",
+          "link": "https://www.dr.dk/nyheder/seneste/25-biler-udsat-haervaerk-i-nyborg",
+          "publishedAt": "2026-11-11T09:01:11.000Z"
+        },
+        {
+          "title": "Direktør idømt to års fængsel og millionbøde",
+          "link": "https://www.dr.dk/nyheder/seneste/direktoer-idoemt-aars-faengsel-og-millionboede",
+          "publishedAt": "2026-11-11T08:48:03.000Z"
+        },
+        {
+          "title": "Gidsel kan blive Årets Sportsnavn for andet år i træk",
+          "link": "https://www.dr.dk/nyheder/seneste/gidsel-kan-blive-aarets-sportsnavn-andet-aar-i-traek",
+          "publishedAt": "2026-11-11T08:39:00.000Z"
+        },
         {
           "title": "Vestas øger sit overskud",
           "link": "https://www.dr.dk/nyheder/seneste/vestas-oeger-sit-overskud",
@@ -34,42 +65,6 @@
           "image": "https://asset.dr.dk/drdk/umbraco-images/f3bjyyvt/20261111-040000-1.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
           "publishedAt": "2026-11-10T21:02:23.000Z",
           "titleEn": "Duchess Meghan's father arrested for removing ankles"
-        },
-        {
-          "title": "EU indgår hjemsendelsesaftale med Nigeria",
-          "link": "https://www.dr.dk/nyheder/seneste/eu-indgaar-hjemsendelsesaftale-med-nigeria",
-          "publishedAt": "2026-11-10T20:28:54.000Z",
-          "titleEn": "EU concludes repatriation agreement with Nigeria"
-        },
-        {
-          "title": "Amerikansk soldat anholdt i England mistænkt for spionage",
-          "link": "https://www.dr.dk/nyheder/seneste/amerikansk-soldat-anholdt-i-england-mistaenkt-spionage",
-          "publishedAt": "2026-11-10T19:24:30.000Z",
-          "titleEn": "American soldier arrested in England suspected of espionage"
-        },
-        {
-          "title": "Britisk domstol omstøder forbud mod homosex i Trinidad og Tobago",
-          "link": "https://www.dr.dk/nyheder/seneste/britisk-domstol-omstoeder-forbud-mod-homosex-i-trinidad-og-tobago",
-          "publishedAt": "2026-11-10T18:48:41.000Z",
-          "titleEn": "British court rejects homosexuality ban in Trinidad and Tobago"
-        },
-        {
-          "title": "Kristersson får en uge mere til at forsøge at danne regering",
-          "link": "https://www.dr.dk/nyheder/seneste/kristersson-faar-en-uge-mere-til-forsoege-danne-regering",
-          "publishedAt": "2026-11-10T15:39:23.000Z",
-          "titleEn": "Kristersson gets one more week to try to form a government."
-        },
-        {
-          "title": "Iran afviser franske hacker-beskyldninger",
-          "link": "https://www.dr.dk/nyheder/seneste/iran-afviser-franske-hacker-beskyldninger",
-          "publishedAt": "2026-11-10T14:59:21.000Z",
-          "titleEn": "Iran rejects French hacker charges"
-        },
-        {
-          "title": "Lidl tilbagekalder kyllingegyros",
-          "link": "https://www.dr.dk/nyheder/seneste/lidl-tilbagekalder-kyllingegyros",
-          "publishedAt": "2026-11-10T13:51:56.000Z",
-          "titleEn": "Little refuses chicken egos"
         }
       ]
     },
@@ -80,96 +75,74 @@
         "homepage": "https://politiken.dk",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-11T06:51:10.257Z",
+      "fetchedAt": "2026-11-11T18:43:25.711Z",
       "items": [
         {
-          "title": "»For mig at se er det et klogt træk«: Johnny Depp forsøger et af de største Hollywood-comebacks i nyere tid",
-          "link": "https://politiken.dk/kultur/film_og_tv/art11051637/%C2%BBFor-mig-at-se-er-det-et-klogt-tr%C3%A6k%C2%AB-Johnny-Depp-fors%C3%B8ger-et-af-de-st%C3%B8rste-Hollywood-comebacks-i-nyere-tid",
-          "summary": "Efter en opslidende injuriesag mod sin ekskone er Johnny Depp atter premiereaktuel i en storfilm, hvor han giver den som den gnavne Scrooge i en filmatisering af Charles Dickens’ klassiker.",
-          "image": "https://politiken.dk/incoming/img11051086.6mdspx/ORIGINALS/original_960/DEPP%20COMEBACK%201",
-          "publishedAt": "2026-11-11T06:02:52.000Z",
-          "titleEn": "⁇ For me, it's a smart move: Johnny Depp is trying one of the biggest Hollywood comebacks of recent times.",
-          "summaryEn": "After a raging injury case against his ex-wife, Johnny Depp is once again cast in a major motion picture starring as the rotting Scrooge in a film adaptation of the Charles Dickens classic."
+          "title": "Rusland viser, at de stadig vil være en supermagt",
+          "link": "https://politiken.dk/internationalt/art11054358/Rusland-viser-at-de-stadig-vil-v%C3%A6re-en-supermagt",
+          "summary": "Europas akavede fremmøde ved forhandlingerne i Abu Dhabi var måske alligevel velbegrundet, vurderer freds- og konfliktekspert, som smider et nyt kort på banen: Kina.",
+          "image": "https://politiken.dk/internationalt/img11055307.ujzvv9/ORIGINALS/original_960/Russisk%20delegation%20Abu%20Dhabi",
+          "publishedAt": "2026-11-11T18:32:17.000Z"
         },
         {
-          "title": "Bjørne er aflivet efter dødeligt angreb på mor og datter i Canada",
-          "link": "https://politiken.dk/internationalt/art11054827/Bj%C3%B8rne-er-aflivet-efter-d%C3%B8deligt-angreb-p%C3%A5-mor-og-datter-i-Canada",
-          "summary": "En kvinde og hendes datter blev i sidste uge dræbt af bjørne i Canada. Myndigheder har nu aflivet bjørnene.",
-          "image": "https://politiken.dk/incoming/img11054846.tnilfr/ORIGINALS/original_960/USA-DAILYLIFE",
-          "publishedAt": "2026-11-11T05:28:32.000Z",
-          "titleEn": "A bear was killed after a deadly attack on a mother and daughter in Canada",
-          "summaryEn": "A woman and her daughter were killed by a bear last week in Canada. Authorities have now slaughtered the bears."
+          "title": "Interview: Blatter foreslår at sende Infantino på psykiatrisk afdeling",
+          "link": "https://politiken.dk/sport/fodbold/art11056488/Interview-Blatter-foresl%C3%A5r-at-sende-Infantino-p%C3%A5-psykiatrisk-afdeling",
+          "summary": "Sepp Blatter mener, at Gianni Infantino samler stemmer ved at love medlemslande mange flere penge.",
+          "image": "https://politiken.dk/incoming/img11056491.3uge86/ORIGINALS/original_960/LEBANON-SPORT-FBL-FIFA",
+          "publishedAt": "2026-11-11T17:55:09.000Z"
         },
         {
-          "title": "Antallet af ebolatilfælde i DR Congo passerer 11.000",
-          "link": "https://politiken.dk/internationalt/art11054829/Antallet-af-ebolatilf%C3%A6lde-i-DR-Congo-passerer-11.000",
-          "summary": "5387 personer er døde efter at være blevet smittet med ebola i det dødeligste udbrud i DR Congos historie.",
-          "image": "https://politiken.dk/incoming/img11054845.q6yfg8/ORIGINALS/original_960/HEALTH-EBOLA-CONGO",
-          "publishedAt": "2026-11-11T05:26:03.000Z",
-          "titleEn": "The number of Ebola cases in DR Congo exceeds 11,000",
-          "summaryEn": "5,387 people have died after being infected with Ebola in the deadliest outbreak in DR Congo's history."
+          "title": "Sig mig, hvad skete der lige med fadervor?",
+          "link": "https://politiken.dk/kultur/art11054017/Sig-mig-hvad-skete-der-lige-med-fadervor",
+          "summary": "Er det hul i hovedet at bytte om på himmel og jord? Og hvorfor kalder man ikke Djævelen ved navn, men nøjes med det lidt slappe ’det onde’? Debatten om det nyoversatte fadervor er skudt i gang. Vi har talt med en skarp…",
+          "image": "https://politiken.dk/incoming/img11055712.m5sy6h/ORIGINALS/original_960/Fadervor%20rettet%20desk",
+          "publishedAt": "2026-11-11T17:51:29.000Z"
         },
         {
-          "title": "Trump tager første stik i stort søgsmål mod BBC",
-          "link": "https://politiken.dk/kultur/medier/art11054832/Trump-tager-f%C3%B8rste-stik-i-stort-s%C3%B8gsm%C3%A5l-mod-BBC",
-          "summary": "BBC havde håbet at få Trumps sag mod mediehuset afvist, men domstol lader søgsmålet køre videre.",
-          "image": "https://politiken.dk/incoming/img11054842.n7oqob/ORIGINALS/original_960/BRITAIN-BBC-TRUMP",
-          "publishedAt": "2026-11-11T05:15:43.000Z",
-          "titleEn": "Trump takes first step in a major lawsuit against the BBC",
-          "summaryEn": "The BBC had hoped to get Trump's case against the media house dismissed, but the court allows the lawsuit to proceed."
+          "title": "En uddannelse i Skive har fået et løfte fra statsministeren. Uretfærdigt, mener rektorer",
+          "link": "https://politiken.dk/danmark/art11054914/En-uddannelse-i-Skive-har-f%C3%A5et-et-l%C3%B8fte-fra-statsministeren.-Uretf%C3%A6rdigt-mener-rektorer",
+          "summary": "En ekstrabevilling fra den siddende regering har i to tilfælde reddet en lukningstruet læreruddannelse.",
+          "image": "https://politiken.dk/incoming/img11055731.5g2c68/ORIGINALS/original_960/Protester%20over%20lukning%20af%20l%C3%A6reruddannelse%20p%C3%A5%20Frederiksberg",
+          "publishedAt": "2026-11-11T17:17:43.000Z"
         },
         {
-          "title": "Tre personer døde efter mystisk trafikulykke i Los Angeles",
-          "link": "https://politiken.dk/internationalt/art11054836/Tre-personer-d%C3%B8de-efter-mystisk-trafikulykke-i-Los-Angeles",
-          "summary": "Omstændighederne er indtil videre uklare efter en formodet trafikulykke i Los Angeles, hvor tre er døde.",
-          "publishedAt": "2026-11-11T05:13:25.000Z",
-          "titleEn": "Three people died in a mysterious traffic accident in Los Angeles",
-          "summaryEn": "The circumstances are still unclear following an alleged traffic accident in Los Angeles that killed three people."
+          "title": "TV 2 skal rette i kommende Operation X-program",
+          "link": "https://politiken.dk/kultur/film_og_tv/art11056475/TV-2-skal-rette-i-kommende-Operation-X-program",
+          "summary": "TV 2 vil kære kendelse til Landsretten i forbudssag om ’Operation X’ om kornhåndtering.",
+          "publishedAt": "2026-11-11T16:59:32.000Z"
         },
         {
-          "title": "18.000 hoteller går sammen til kamp mod verdens største hotelportal",
-          "link": "https://politiken.dk/rejser/art11052911/18.000-hoteller-g%C3%A5r-sammen-til-kamp-mod-verdens-st%C3%B8rste-hotelportal",
-          "summary": "Tusindvis af hoteller over hele Europa har meldt sig ind i et søgsmål mod en gigantisk spiller, som de samtidig er afhængige af.",
-          "image": "https://politiken.dk/incoming/img11054618.ovcxpq/ORIGINALS/original_960/WEB%20Hoteller%20i%20kamp",
-          "publishedAt": "2026-11-11T05:08:19.000Z",
-          "titleEn": "18,000 hotels are joining forces to fight the world's largest hotel portal",
-          "summaryEn": "Thousands of hotels across Europe have filed a lawsuit against a giant player they depend on."
+          "title": "Signe Wenneberg kritiserer nedrivninger, men har selv bestyrelsespost i branchen",
+          "link": "https://politiken.dk/danmark/politik/art11056451/Signe-Wenneberg-kritiserer-nedrivninger-men-har-selv-bestyrelsespost-i-branchen",
+          "summary": "Signe Wenneberg kritiserer nedrivninger af huse, men sidder selv som bestyrelsesmedlem i et nedrivningsfirma.",
+          "image": "https://politiken.dk/incoming/img11056462.errq8s/ORIGINALS/original_960/Briefing%20i%20Forsvarsministeriet",
+          "publishedAt": "2026-11-11T16:33:51.000Z"
         },
         {
-          "title": "USA anklager tre mænd for terrorforsøg mod britisk militærbase",
-          "link": "https://politiken.dk/internationalt/art11054807/USA-anklager-tre-m%C3%A6nd-for-terrorfors%C3%B8g-mod-britisk-milit%C3%A6rbase",
-          "summary": "I september fortalte en landmand om mistænkelig aktivitet ved britisk base. USA mistænker forsøg på terror.",
-          "image": "https://politiken.dk/incoming/img11054810.ys6m4y/ORIGINALS/original_960/FILES-BRITAIN-US-POLICE-IRAN-AIRBASE-ESPIONAGE",
-          "publishedAt": "2026-11-10T22:24:47.000Z",
-          "titleEn": "The United States accuses three men of attempted terrorism against a British military base",
-          "summaryEn": "In September, a farmer reported suspicious activity at a British base. The United States suspects attempted terrorism."
+          "title": "Philippe Bolopion: »Vi befinder os lige nu i den værste situation, jeg har oplevet i min tid som menneskeretsforkæmper«",
+          "link": "https://politiken.dk/internationalt/art11054135/%C2%BBVi-befinder-os-lige-nu-i-den-v%C3%A6rste-situation-jeg-har-oplevet-i-min-tid-som-menneskeretsfork%C3%A6mper%C2%AB",
+          "summary": "Ifølge direktøren for Human Rights Watch har Trump-administrationen vendt sig mod den verdensorden, der skulle beskytte menneskerettighederne. Nu kæmper organisationen for at redde domstolen i Haag.",
+          "image": "https://politiken.dk/incoming/img11054163.5gdyrt/ORIGINALS/original_960/FRANCE-NGO-HRW-PORTRAIT",
+          "publishedAt": "2026-11-11T16:26:51.000Z"
         },
         {
-          "title": "Britisk politi anholder amerikansk soldat i spionagesag",
-          "link": "https://politiken.dk/internationalt/art11054755/Britisk-politi-anholder-amerikansk-soldat-i-spionagesag",
-          "summary": "41-årig mand mistænkes for at have videregivet oplysninger og hjulpet en af Ruslands efterretningstjenester.",
-          "image": "https://politiken.dk/incoming/img11029762.x4co90/ORIGINALS/original_960/Spionage",
-          "publishedAt": "2026-11-10T21:39:44.000Z",
-          "titleEn": "British police arresting American soldier for espionage",
-          "summaryEn": "A 41-year-old man is suspected of providing information and assisting one of Russia's intelligence services."
+          "title": "Gyldendal ændrer i bog om 112-årig efter nye oplysninger",
+          "link": "https://politiken.dk/kultur/art11056443/Gyldendal-%C3%A6ndrer-i-bog-om-112-%C3%A5rig-efter-nye-oplysninger",
+          "summary": "Bogen ’Vi skal have noget at grine af’ handler om 112-årige Kirsten Schwalbes liv. Den udkom 8. oktober.",
+          "publishedAt": "2026-11-11T16:25:45.000Z"
         },
         {
-          "title": "Republikanerne har valgt ny leder i Repræsentanternes Hus",
-          "link": "https://politiken.dk/internationalt/art11054759/Republikanerne-har-valgt-ny-leder-i-Repr%C3%A6sentanternes-Hus",
-          "summary": "Mike Johnson træder tilbage som leder af Republikanerne i Repræsentanternes Hus efter partiets valgnederlag.",
-          "image": "https://politiken.dk/incoming/img11054773.j9lu68/ORIGINALS/original_960/USA-CONGRESS-REPUBLICANS",
-          "publishedAt": "2026-11-10T20:53:09.000Z",
-          "titleEn": "Republicans have elected a new leader in the House of Representatives.",
-          "summaryEn": "Mike Johnson resigns as the leader of the Republican Party in the House of Representatives after the party's election defeat."
+          "title": "Daria og de andre ukrainere er blevet Danmarks største udenlandske arbejdskraft",
+          "link": "https://politiken.dk/danmark/art11055216/Daria-og-de-andre-ukrainere-er-blevet-Danmarks-st%C3%B8rste-udenlandske-arbejdskraft",
+          "summary": "For knap fem år siden besøgte Politiken 20-årige Daria Boiko, der lige havde taget flugten fra Ukraine. I dag har hun fået uddannelse, job, dansk kæreste og en central rolle i de to landes kulturudveksling.",
+          "image": "https://politiken.dk/incoming/img11055741.wlkwvz/ORIGINALS/original_960/Daria%20Boiko",
+          "publishedAt": "2026-11-11T15:20:08.000Z"
         },
         {
-          "title": "Amerikansk superstjerne tager opgøret med frygten og fravælger sin bedste disciplin",
-          "link": "https://politiken.dk/sport/art11048669/Amerikansk-superstjerne-tager-opg%C3%B8ret-med-frygten-og-frav%C3%A6lger-sin-bedste-disciplin",
-          "summary": "Det amerikanske skifænomen Mikaela Shiffrin skruer ned for paradedisciplinen slalom. I stedet omfavner hun sin frygt og retter blikket mod storslalom.",
-          "image": "https://politiken.dk/incoming/img11048693.gx0rsf/ORIGINALS/original_960/OLYMPICS-2026-ALPINE",
-          "publishedAt": "2026-11-10T20:40:08.000Z",
-          "titleEn": "The American superstar takes on the challenge of fear and chooses his best discipline.",
-          "summaryEn": "The American skier Mikaela Shiffrin is turning down the slalom discipline. Instead, she embraces her fear and turns her gaze to the great slalom."
+          "title": "To mænd får fængselsstraf for tyveri og videresalg af cykler",
+          "link": "https://politiken.dk/danmark/art11056205/To-m%C3%A6nd-f%C3%A5r-f%C3%A6ngselsstraf-for-tyveri-og-videresalg-af-cykler",
+          "summary": "To mænd er dømt for at stjæle primært cykler for over 1,2 millioner kroner. Mange blev solgt videre.",
+          "publishedAt": "2026-11-11T15:16:38.000Z"
         }
       ]
     },
@@ -180,95 +153,77 @@
         "homepage": "https://www.berlingske.dk",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-11T06:51:09.788Z",
+      "fetchedAt": "2026-11-11T18:43:25.937Z",
       "items": [
         {
-          "title": "Salget af havvindmøller driver væksten hos Vestas",
-          "link": "https://www.berlingske.dk/business/salget-af-havvindmoeller-driver-vaeksten-hos-vestas?referrer=RSS",
-          "summary": "Den danske vindmølleproducent Vestas har løftet omsætning og overskud i tredje kvartal, viser nyt regnskab.",
-          "publishedAt": "2026-11-11T06:49:47.000Z",
-          "titleEn": "Sales of offshore wind turbines drive growth at Vestas",
-          "summaryEn": "The Danish wind turbine manufacturer Vestas has increased its turnover and profits in the third quarter, new accounts show."
+          "title": "Efter års overvejelser blæser V-borgmester til »moderne frihedskamp« på landsmøde: Vil indføre vidtgående forbud mod religiøse tørklæder",
+          "link": "https://www.berlingske.dk/politik/efter-aars-overvejelser-blaeser-v-borgmester-til-moderne-frihedskamp-paa-landsmoede-vil-indfoere-vidtgaaende-forbud-mod-religioese-toerklaeder?referrer=RSS",
+          "summary": "Jens-Kristian Lütken (V) skal holde tale på Venstres nært forestående landsmøde. I sin tale vil han genantænde debatten om et forbud mod religiøse hovedtørklæder i danske klasselokaler. Også selvom han anerkender…",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166868966.webp?t[strip]=true&t[quality]=70&accessToken=84a39ce6493504585a0c69716a3393ae67c35d0b01a3cfa06aeded8f9024431d",
+          "publishedAt": "2026-11-11T18:38:19.000Z"
         },
         {
-          "title": "S-folketingspolitiker sammenligner julekalenderkoncept med gambling",
-          "link": "https://www.berlingske.dk/politik/s-folketingspolitiker-sammenligner-julekalenderkoncept-med-gambling?referrer=RSS",
-          "summary": "Fie Hækkerup, Socialdemokratiets miljøordfører, skal ikke købe forskellige kvaster til en nissehue.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166768388.webp?t[strip]=true&t[quality]=70&accessToken=cc6569af7e4ca4d360dcc38a4a7fbcda6a58c87c94f067ec9025dfb5f656fb39",
-          "publishedAt": "2026-11-11T06:45:49.000Z",
-          "titleEn": "S-population policymakers compare the Christmas calendar concept to gambling",
-          "summaryEn": "Fie Hækkerup, the Social Democrat Environment Commissioner, is not to buy various quastes for a niche."
+          "title": "Peru gør klar til pavebesøg med tusindvis af turister",
+          "link": "https://www.berlingske.dk/internationalt/peru-goer-klar-til-pavebesoeg-med-tusindvis-af-turister?referrer=RSS",
+          "summary": "Pave Leo lander onsdag i Peru. Landet venter stor omsætning, når hundredtusindvis af besøgende strømmer til.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166870273.webp?t[strip]=true&t[quality]=70&accessToken=cffff117ef020dba7f50115ea629ad01a1ee5ee3a145f73909443f907c476a2c",
+          "publishedAt": "2026-11-11T18:30:50.000Z"
         },
         {
-          "title": "DFDS øger salget i tredje kvartal",
-          "link": "https://www.berlingske.dk/business/dfds-oeger-salget-i-tredje-kvartal?referrer=RSS",
-          "summary": "Det danske rederi DFDS leverer fremgang i salget og justerer nu forventningerne til hele året.",
-          "publishedAt": "2026-11-11T06:45:45.000Z",
-          "titleEn": "DFDS increases sales in the third quarter",
-          "summaryEn": "The Danish shipping company DFDS is making progress in sales and is now adjusting its expectations for the whole year."
+          "title": "Iran vil kompenseres for miljøskader fra USA's og Israels angreb",
+          "link": "https://www.berlingske.dk/internationalt/iran-vil-kompenseres-for-miljoeskader-fra-usas-og-israels-angreb?referrer=RSS",
+          "summary": "Amerikanske og israelske angreb i Iran har ført til miljøskader, og det vil landet have kompensation for.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166869982.webp?t[strip]=true&t[quality]=70&accessToken=b053eeeb88d8db85f405cdc0a0cce16e2013c9e2966aa6c0be46cb53a553de9d",
+          "publishedAt": "2026-11-11T18:30:45.000Z"
         },
         {
-          "title": "Lørdag i Herning kan blive et vendepunkt for Troels Lund – kritikere vil møde modstand",
-          "link": "https://www.berlingske.dk/politik/loerdag-i-herning-kan-blive-et-vendepunkt-for-troels-lund--kritikere-vil-moede-modstand?referrer=RSS",
-          "summary": "Analyse: Den endelige armlægning mellem Venstres ledelse og den kritiske del af baglandet kan meget vel ende som en fuser. Lund og Lose er stålfaste i deres tro på, at den »grønne troværdighed« kan etableres.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166745853.webp?t[strip]=true&t[quality]=70&accessToken=7355d69086b55d9dde86d45c965e63d0acf16d729523f590a8dc4ce193c31a5b",
-          "publishedAt": "2026-11-11T06:39:07.000Z",
-          "titleEn": "Saturday in Herning could be a turning point for Troels Lund  ⁇  critics will face resistance",
-          "summaryEn": "Analysis: The final arms race between the Left leadership and the critical part of the hinterland could very well end in a mess. Lund and Lose are firm in their belief that the 'green credibility' can be established."
+          "title": "Krig og uro i Mellemøsten – følg med her",
+          "link": "https://www.berlingske.dk/internationalt/krig-og-uro-i-mellemoesten--foelg-med-her-24?referrer=RSS",
+          "summary": "Uroen fortsætter i Mellemøsten, og Netanyahus rival får til opgave at danne ny regering i Israel. Få seneste nyt her.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166870326.webp?t[strip]=true&t[quality]=70&accessToken=eb8471552e6aba141b8cf4715c9a47c9213c7ab82d5ab4ac91f463adce46f6d2",
+          "publishedAt": "2026-11-11T18:19:37.000Z"
         },
         {
-          "title": "Seneste nyt om dansk politik – følg udviklingen her",
-          "link": "https://www.berlingske.dk/indland/seneste-nyt-om-dansk-politik--foelg-udviklingen-her-1?referrer=RSS",
-          "summary": "Følg med og få de seneste nyheder om dansk politik her.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166767803.webp?t[strip]=true&t[quality]=70&accessToken=f418c278b9ec2b5d3698c69f7e335c0c6ca9eb817d955a0d60f195a2d84105cd",
-          "publishedAt": "2026-11-11T06:33:33.000Z",
-          "titleEn": "Latest news on Danish politics  ⁇  follow developments here",
-          "summaryEn": "Follow me and get the latest news on Danish politics here."
+          "title": "Efter »fredsforhandlinger«: De russiske fornærmelser til Europa står i kø",
+          "link": "https://www.berlingske.dk/internationalt/efter-fredsforhandlinger-de-russiske-fornaermelser-til-europa-staar-i-koe?referrer=RSS",
+          "summary": "Analyse: Ukraine er en »byld«, og Europa er »medskyldig« i, at civile i Ukraine dør. Russiske topfolk virker bevidst provokerende i deres udtalelser efter onsdagens forhandlinger i Abu Dhabi.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166837433.webp?t[strip]=true&t[quality]=70&accessToken=ec0612b01fbeb25f6ee64c96e5f35338f9c8da53b068d87e537b92bc2028f777",
+          "publishedAt": "2026-11-11T18:11:26.000Z"
         },
         {
-          "title": "Antallet af førtidspensionister i Danmark fortsætter ned",
-          "link": "https://www.berlingske.dk/business/antallet-af-foertidspensionister-i-danmark-fortsaetter-ned?referrer=RSS",
-          "summary": "Antallet af førtidspensionister er faldet med 412 personer på tre måneder, viser tal fra Jobindsats.dk.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166767885.webp?t[strip]=true&t[quality]=70&accessToken=4b843c9a70506f0f3d9267f309ca3d1c495e942959f23f860973e657f34dcd79",
-          "publishedAt": "2026-11-11T06:30:49.000Z",
-          "titleEn": "The number of early-retirement workers in Denmark continues to decline",
-          "summaryEn": "The number of early-retirement workers has fallen by 412 people in three months, according to figures from Jobindsats.dk."
+          "title": "Horesta fusionerer med Dansk Erhverv 15 år efter separation",
+          "link": "https://www.berlingske.dk/business/horesta-fusionerer-med-dansk-erhverv-15-aar-efter-separation?referrer=RSS",
+          "summary": "Repræsentantskab i brancheorganisation for hoteller og restauranter har stemt for fusion med Dansk Erhverv.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166870213.webp?t[strip]=true&t[quality]=70&accessToken=ead3b77d4ab931695a3dc26ad8a4117d931d36e33baf629d039c768ef851239d",
+          "publishedAt": "2026-11-11T18:10:50.000Z"
         },
         {
-          "title": "J.D. Vance har »smovset Trumps ring« – kan koste ham præsidentdrømme",
-          "link": "https://www.berlingske.dk/indland/jd-vance-har-smovset-trumps-ring--kan-koste-ham-praesidentdroemme?referrer=RSS",
-          "summary": "Hvis USAs vicepræsident, J.D. Vance, skal gøre sig forhåbninger om at indtage Det Ovale Kontor efter præsidentvalget i 2028, så er han nødt til at løsrive sig fra Trump, mener Berlingskes internationale kommentator. Det…",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166760989.webp?t[strip]=true&t[quality]=70&accessToken=36b71a5ee096314aba76f48a09ded51ef8d839979d1c145a76a161ffc52d7b01",
-          "publishedAt": "2026-11-11T06:28:06.000Z",
-          "titleEn": "J.D. Vance has smashed Trump's ring. It could cost him presidential dreams.",
-          "summaryEn": "If the Vice President of the United States, J.D. If Vance is to make hopes of taking the Oval Office after the 2028 presidential election, he'll have to break away from Trump, says Berlingsky's international commentator. That..."
+          "title": "Royal Unibrew øger indtjeningen i tredje kvartal",
+          "link": "https://www.berlingske.dk/business/royal-unibrew-oeger-indtjeningen-i-tredje-kvartal?referrer=RSS",
+          "summary": "Bryggeriet Royal Unibrew har onsdag offentliggjort kvartalsregnskab og indsnævrer forventningerne til året.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166870209.webp?t[strip]=true&t[quality]=70&accessToken=280ac1ed60ad713fc2f7e5bac3d243b5fb056a8c00f162298136415994a4d53d",
+          "publishedAt": "2026-11-11T18:10:45.000Z"
         },
         {
-          "title": "Krig i Europa – følg med her",
-          "link": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-med-her-25?referrer=RSS",
-          "summary": "Krigen i Ukraine fortsætter, og der er hybridangreb i Europa. Onsdag fortsætter forhandlingerne i Abu Dhabi.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166767805.webp?t[strip]=true&t[quality]=70&accessToken=1b664efb0f9310e3f35ca712ddc5bc0cd09e797b16acb4d7b77a30958b06acd9",
-          "publishedAt": "2026-11-11T06:27:54.000Z",
-          "titleEn": "War in Europe  ⁇  follow here",
-          "summaryEn": "The war in Ukraine continues, and there are hybrid attacks in Europe. On Wednesday, negotiations will continue in Abu Dhabi."
+          "title": "Det bliver kaldt »slow burn« og kan føre til et længerevarende parforhold. Nu deler professor »tre grundpiller« i kærlighed",
+          "link": "https://www.berlingske.dk/vores-liv/det-bliver-kaldt-slow-burn-og-kan-foere-til-et-laengerevarende-parforhold-nu-deler-professor-tre-grundpiller-i-kaerlighed?referrer=RSS",
+          "summary": "Det er langt fra usædvanligt at blive forelsket i en, man ikke var tiltrukket af i starten, viser forskning. Det har sågar et navn: »Slow burn«. Professor i psykologi peger på tre komponenter, der afgør, hvordan…",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166710806.webp?t[strip]=true&t[quality]=70&accessToken=a0b2c6568f4ed644ed33a714c71f0722041f62ea1aa2bd39e33009c1f6749fee",
+          "publishedAt": "2026-11-11T17:43:36.000Z"
         },
         {
-          "title": "Gidsel kan blive Årets Sportsnavn for andet år i træk",
-          "link": "https://www.berlingske.dk/sport/gidsel-kan-blive-aarets-sportsnavn-for-andet-aar-i-traek?referrer=RSS",
-          "summary": "Ud over Mathias Gidsel er baneryttere, kajakroer, speedskater og sejler blandt de nominerede til stor pris.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166767503.webp?t[strip]=true&t[quality]=70&accessToken=9bddf5bbe2878d5bfc6092a6ad426ef3642c906b832014ecec3f7bca4f3a3c05",
-          "publishedAt": "2026-11-11T06:21:45.000Z",
-          "titleEn": "Hostage could be Sportsman of the Year for the second year in a row",
-          "summaryEn": "In addition to Mathias Gidsel, skiers, kayakers, speed skaters and sailors are among the nominees for the grand prize."
+          "title": "Signe Wenneberg skifter taktik i huskamp efter politianmeldelse",
+          "link": "https://www.berlingske.dk/politik/signe-wenneberg-skifter-taktik-i-huskamp-efter-politianmeldelse?referrer=RSS",
+          "summary": "Alternativets Signe Wenneberg kritiserer nedrivninger af huse. Men fremad vil hun gøre det på en anden måde.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166869428.webp?t[strip]=true&t[quality]=70&accessToken=2e3b209ada796412e1253f77bf9e5cc497522480f2e9d3490cf34ed27b3b336d",
+          "publishedAt": "2026-11-11T17:36:48.000Z"
         },
         {
-          "title": "Business-overblik: Danske milliardkoncerner jager »ustoppeligt« grønt eksporteventyr",
-          "link": "https://www.berlingske.dk/business/business-overblik-danske-milliardkoncerner-jager-ustoppeligt-groent-eksporteventyr?referrer=RSS",
-          "summary": "Vi læser erhvervsnyhederne og tjekker aktiekurserne fra morgenstunden. Her er hele dit Business-overblik.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166767274.webp?t[strip]=true&t[quality]=70&accessToken=15c17660f10e14d1558428d4fb38206eee447d2a17fcdf353b776f6097ff4ba4",
-          "publishedAt": "2026-11-11T06:15:52.000Z",
-          "titleEn": "Business overview: Danish billionaire companies are pursuing green export ventures",
-          "summaryEn": "We're reading the business news and checking stock prices from dawn. Here's your entire business overview."
+          "title": "Blatter kalder Infantino diktator og foreslår psykiatrisk afdeling",
+          "link": "https://www.berlingske.dk/sport/blatter-kalder-infantino-diktator-og-foreslaar-psykiatrisk-afdeling?referrer=RSS",
+          "summary": "Sepp Blatter mener, at Gianni Infantino samler stemmer ved at love medlemslande mange flere penge.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166869367.webp?t[strip]=true&t[quality]=70&accessToken=62722b2127c7c406323213e07a5488f7b81fd4e9d943af22f9131327cd8e8007",
+          "publishedAt": "2026-11-11T17:33:46.000Z"
         }
       ]
     }

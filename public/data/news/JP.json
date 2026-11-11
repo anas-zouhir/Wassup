@@ -8,63 +8,49 @@
         "homepage": "https://news.web.nhk/newsweb",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-11T06:51:28.896Z",
+      "fetchedAt": "2026-11-11T18:43:46.406Z",
       "items": [
         {
-          "title": "アマゾンジャパン 独禁法調査で改善計画を提出 公取委が承認",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261111de73933",
-          "summary": "ネット通販大手「アマゾンジャパン」が、他の通販サイトより価格が高いと目立つ位置に表示されない仕組みをとることで出品者に値下げを余儀なくさせているとして、公正取引委員会が独占禁止法違反の疑いで調査を進め…",
-          "publishedAt": "2026-11-11T06:30:18.000Z",
-          "titleEn": "Amazon Japan has submitted an improvement plan for the marriage ban investigation.",
-          "summaryEn": "In an attempt to force online retailer Amazon Japan to lower prices by using a mechanism that doesn't show up at prices higher than other retailers, the Fair Trading Commission is investigating allegations of antitrust violations."
+          "title": "情報漏えいリスク回避へ対策は？通販サイト閉鎖の企業も",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261111de73911",
+          "summary": "企業の間で不正アクセスによる情報漏えいが相次ぐ中、自社の通販サイトを閉鎖したり、あらかじめ個人情報を持たないようにしたりする動きが広がっています。",
+          "publishedAt": "2026-11-11T09:51:00.000Z"
         },
         {
-          "title": "去年7月の参院選は違憲状態 1票の格差めぐる判決 最高裁",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261111de74142",
-          "summary": "去年7月の参議院選挙でいわゆる1票の格差が最大で3.13倍だったことについて、最高裁判所大法廷は「投票価値の不均衡は見過ごせない程度に達している」として、憲法が求める投票価値の平等に反した「違憲状態」…",
-          "publishedAt": "2026-11-11T06:48:38.000Z",
-          "titleEn": "The Senate election in July last year was unconstitutional.",
-          "summaryEn": "In the Senate election of July last year, the so-called one-vote gap was 3.13 times the maximum, and the Supreme Court declared that \"the imbalance in voting value is at an unregulated level\", a \"unconstitutional state\" that violates the constitutional equality of voting value."
+          "title": "日本近海で水温上昇 雑種フグ・アニサキス…食の安全に影響も",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261111de73954",
+          "summary": "日本近海の海面の水温が上昇するペースは、世界全体の海と比較すると2倍以上になっていることが気象庁の調査でわかっています。 生き物の分布の変化が起き、毒の位置や強さにばらつきがある雑種のフグの増加や、…",
+          "publishedAt": "2026-11-11T11:25:41.000Z"
         },
         {
-          "title": "内閣府 メールアドレス6万件余漏えい アララ不正アクセス影響",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261111de74151",
-          "summary": "内閣府は所管する政策のメールマガジンなどの配信サービスを提供している会社が不正アクセスを受けた影響で、登録されているメールアドレス、延べおよそ6万3000件が漏えいしたと発表しました。",
-          "publishedAt": "2026-11-11T06:31:16.000Z",
-          "titleEn": "The Cabinet Office has leaked more than 60,000 email addresses.",
-          "summaryEn": "The Cabinet has announced that some 63,000 registered email addresses and extensions have been leaked by companies that provide delivery services, such as policy e-mails, as a result of hacking."
-        },
-        {
-          "title": "SMBC日興証券 最大約5万6000人顧客情報 漏えいの可能性",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261111de74119",
-          "summary": "SMBC日興証券はシステムに不正アクセスを受け、最大でおよそ5万6000人の顧客の情報が漏えいした可能性があると発表しました。",
-          "publishedAt": "2026-11-11T06:34:14.000Z",
-          "titleEn": "SMBC's stock market is up to 56,000 customers, with potential leaks.",
-          "summaryEn": "SMBC has announced that it may have hacked into the system and leaked the information of up to 56,000 customers."
-        },
-        {
-          "title": "東京 青梅 圏央道で5台関係する玉突き事故 1人重体",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261111de74133",
-          "summary": "11日正午すぎ、東京 青梅市の圏央道でトラックなど5台が関係する玉突き事故があり、1人が意識不明の重体になっています。 この影響で、圏央道外回りは一部の区間で通行止めが続いています。",
-          "publishedAt": "2026-11-11T06:18:43.000Z",
-          "titleEn": "Five vehicles involved in the crash on the Tokyo, Tomei, and Zhongshan Highway.",
-          "summaryEn": "On the afternoon of the 11th, five trucks and trucks were involved in a head-on collision on Tokyo's central highway, and one person was left unconscious. This effect keeps the outer half of the intersection blocked in some areas."
-        },
-        {
-          "title": "NTTドコモ通信障害続く 不正アクセス確認されず",
+          "title": "ドコモ通信障害復旧 原因は機器の不具合",
           "link": "https://news.web.nhk/newsweb/na/nd-20261111de73934",
-          "summary": "NTTドコモでは、11日午前10時半すぎから通信障害が発生し、一部の利用者の間で携帯電話のサービスが利用しづらくなっています。 会社は原因を調査していますが、今のところ不正アクセスによるものではない…",
-          "publishedAt": "2026-11-11T05:56:00.000Z",
-          "titleEn": "The NTT Doko comm is still inaccessible.",
-          "summaryEn": "In NTT Dome, communication has been disrupted since just after 10:30 a.m. on the 11th, making it difficult for some users to use their cell phones. The company is investigating the cause, but it's not due to hacking."
+          "summary": "NTTドコモでは、11日午前10時半すぎから「5G SA」と呼ばれる通信の方式を契約している利用者の間で、通話やデータ通信などが利用しにくい状況が続いていましたが、午後7時すぎに復旧したということです…",
+          "publishedAt": "2026-11-11T12:47:21.000Z"
         },
         {
-          "title": "“トランプ大統領とネタニヤフ首相が電話会談どなり合い”報道",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261111de74128",
-          "summary": "イラン情勢をめぐってアメリカのトランプ大統領とイスラエルのネタニヤフ首相が先週末、電話会談を行った際、両者がどなり合いになったと、イスラエルメディアが報じました。イランへの再攻撃をめぐり、両者の意見が…",
-          "publishedAt": "2026-11-11T06:20:00.000Z",
-          "titleEn": "President Trump and Prime Minister Netanyahu have been in a phone call.",
-          "summaryEn": "Israeli media reported that US President Trump and Israeli Prime Minister Netanyahu had a phone call last weekend about the Iranian situation, and they agreed. Both sides agreed on a second attack on Iran."
+          "title": "アメリカ・ロシア・ウクライナ高官協議 大規模捕虜交換で合意",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73734",
+          "summary": "ロシアとウクライナの和平をめぐるアメリカも交えた3か国の高官協議の2日目の協議が11日、UAE＝アラブ首長国連邦の首都アブダビで行われました。",
+          "publishedAt": "2026-11-11T12:58:23.000Z"
+        },
+        {
+          "title": "自民 森山前幹事長 石破氏ら4人“国民の気持ち反映した行動”",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261111de74306",
+          "summary": "食料品の消費税減税関連法案をめぐり、自民党の森山前幹事長は財源などについての党内議論が不十分だったと指摘した上で、衆議院本会議で採決を前に退席した石破前総理大臣ら4人の行動は国民の気持ちを反映したもの…",
+          "publishedAt": "2026-11-11T08:47:39.000Z"
+        },
+        {
+          "title": "福島 いわき 男児死亡 母親が夏ごろ“県外に避難する”と説明",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261111de74482",
+          "summary": "福島県いわき市で3歳の男の子が母親の交際相手から暴行を受け、その後、死亡した事件で、母親が交際相手からの暴力について相談したことし夏頃に一時、県外に避難すると警察に説明していたことが分かりました。事件…",
+          "publishedAt": "2026-11-11T14:26:07.000Z"
+        },
+        {
+          "title": "海水温上昇 イギリスでタコ大量発生 ロブスター ホタテ大幅減",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261111de74426",
+          "summary": "ことしの夏、記録的な猛暑が続いたヨーロッパでは、海水温も上昇していて生態系や漁業に大きな変化が出ている地域もあります。周辺の海水温が近年、平年より高くなっているイギリス南西部では、比較的温暖な海域に多…",
+          "publishedAt": "2026-11-11T12:38:00.000Z"
         }
       ]
     },
@@ -75,67 +61,58 @@
         "homepage": "https://www.asahi.com",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-11T06:51:28.845Z",
+      "fetchedAt": "2026-11-11T18:43:46.542Z",
       "items": [
         {
-          "title": "【そもそも解説】選挙の「一票の格差」とは？ 「違憲状態」って？",
-          "link": "http://www.asahi.com/articles/ASVC935W3VC9UTIL005M.html?ref=rss",
-          "publishedAt": "2026-11-11T06:27:52.000Z",
-          "titleEn": "What is the \"one vote gap\" in the primary election? What do you mean, \"unconstitutional\"?"
+          "title": "金塊1.6億円分詐欺被害 LINEで起床時間など報告要求",
+          "link": "http://www.asahi.com/articles/ASVCC3PTBVCCIIPE00SM.html?ref=rss",
+          "publishedAt": "2026-11-11T12:00:00.000Z"
+        },
+        {
+          "title": "被爆者「核の恐ろしさ分かってない」 政権が非核三原則に例外検討",
+          "link": "http://www.asahi.com/articles/ASVCC3VCMVCCPTIL00CM.html?ref=rss",
+          "publishedAt": "2026-11-11T12:00:00.000Z"
+        },
+        {
+          "title": "【判決要旨】昨年参院選の一票の格差は「違憲状態」 その理由は",
+          "link": "http://www.asahi.com/articles/ASVCC342WVCCUTIL00CM.html?ref=rss",
+          "publishedAt": "2026-11-11T10:12:04.000Z"
+        },
+        {
+          "title": "圏央道で5台絡む事故、男性1人死亡 渋滞で停止中の乗用車に追突か",
+          "link": "http://www.asahi.com/articles/ASVCC2HBLVCCOXIE02CM.html?ref=rss",
+          "publishedAt": "2026-11-11T09:53:45.000Z"
+        },
+        {
+          "title": "天皇ご一家、信子さまが皇宮警察武道大会を観戦 熱戦に拍手送る",
+          "link": "http://www.asahi.com/articles/ASVCC2QDSVCCUTIL013M.html?ref=rss",
+          "publishedAt": "2026-11-11T09:52:56.000Z"
         },
         {
           "title": "昨年の参院選は「違憲状態」最高裁大法廷 一票の格差、是正を迫る",
           "link": "http://www.asahi.com/articles/ASVC931MHVC9UTIL00FM.html?ref=rss",
-          "publishedAt": "2026-11-11T06:10:54.000Z",
+          "publishedAt": "2026-11-11T09:52:36.000Z",
           "titleEn": "Last year's Senate elections were unconstitutional, and the Supreme Court needed a one-vote margin of victory."
         },
         {
-          "title": "上野・強盗予備事件、少年を逮捕 実行役らに「標的」場所を伝えたか",
-          "link": "http://www.asahi.com/articles/ASVCC1GQZVCCUTIL00CM.html?ref=rss",
-          "publishedAt": "2026-11-11T05:50:00.000Z",
-          "titleEn": "You know, the Nagano robbery pre-emption, the kid's arrest, you tell the executives where the target is."
+          "title": "司法試験でパソコン不具合が多発 「人生かかってる」受験生は怒り",
+          "link": "http://www.asahi.com/articles/ASVCB11GYVCBPTIL00JM.html?ref=rss",
+          "publishedAt": "2026-11-11T09:51:39.000Z"
         },
         {
-          "title": "「ルフィ」連続強盗 組織の「ボス」と呼ばれた被告が一部無罪を主張",
-          "link": "http://www.asahi.com/articles/ASVCC1PPVVCCUTIL00XM.html?ref=rss",
-          "publishedAt": "2026-11-11T05:34:27.000Z",
-          "titleEn": "The defendant, known as \"Luffy\", the organization's boss, has pleaded not guilty to the charges."
+          "title": "池袋で止まらぬスーツケースの「ポイ捨て」、豊島区が過料の対象へ",
+          "link": "http://www.asahi.com/articles/ASVCC31MBVCCOXIE03CM.html?ref=rss",
+          "publishedAt": "2026-11-11T09:50:00.000Z"
         },
         {
-          "title": "東大阪、大東の組合もごみ受け入れへ 大阪市など4市の処理逼迫問題",
-          "link": "http://www.asahi.com/articles/ASVCC1GT8VCCOXIE02PM.html?ref=rss",
-          "publishedAt": "2026-11-11T05:02:50.000Z",
-          "titleEn": "So, we're going to take out the garbage, and we're gonna take the garbage."
-        },
-        {
-          "title": "各地で放火し1億円詐取、元保険調査員に判決 「ビジネス」の手口は",
-          "link": "http://www.asahi.com/articles/ASVCC0DXKVCCIIPE00KM.html?ref=rss",
-          "publishedAt": "2026-11-11T04:55:04.000Z",
-          "titleEn": "He set fire to a hundred million yen of fraud, and he sentenced a former insurance investigator."
-        },
-        {
-          "title": "定員の約1.7倍の乗客で運航、修学旅行生乗る遊覧船 長崎・壱岐",
-          "link": "http://www.asahi.com/articles/ASVCC1100VCCTOLB003M.html?ref=rss",
-          "publishedAt": "2026-11-11T04:30:00.000Z",
-          "titleEn": "It's about 1.7 times the number of permanent passengers on board the cruise ship, Nagasaki-Chigi."
-        },
-        {
-          "title": "中野ブロードウェイ腕時計窃盗事件、30代男を逮捕 名古屋で確保",
+          "title": "高級腕時計窃盗事件で逮捕の男「試着して気に入った」 逃走後に返却",
           "link": "http://www.asahi.com/articles/ASVCC14QYVCCUTIL00MM.html?ref=rss",
-          "publishedAt": "2026-11-11T04:00:00.000Z",
-          "titleEn": "He was arrested for the theft of a Broadway watch, arrested a 30-year-old man and held in a Nagoya."
+          "publishedAt": "2026-11-11T09:21:48.000Z"
         },
         {
-          "title": "福岡市長選の陣営関係者？に暴行容疑、男逮捕 「歩こうとした」否認",
-          "link": "http://www.asahi.com/articles/ASVCC124NVCCTIPE005M.html?ref=rss",
-          "publishedAt": "2026-11-11T03:40:00.000Z",
-          "titleEn": "Who's on the campaign trail for the mayor of Fukuoka? He's been charged with aggravated assault, arrested, denied attempted rape."
-        },
-        {
-          "title": "「ひみ寒ぶり宣言、やめます」 期間決め、8キロ超はブランド認定に",
-          "link": "http://www.asahi.com/articles/ASVCC04SNVCCPGJB00FM.html?ref=rss",
-          "publishedAt": "2026-11-11T03:10:00.000Z",
-          "titleEn": "\"I'm going to declare that I'm not going to do this anymore\"."
+          "title": "少女に不同意わいせつの疑いで小学校教諭を逮捕 映像送信など要求か",
+          "link": "http://www.asahi.com/articles/ASVCC2VGPVCCUNHB00PM.html?ref=rss",
+          "publishedAt": "2026-11-11T09:21:10.000Z"
         }
       ]
     },
@@ -146,77 +123,77 @@
         "homepage": "https://www.japantimes.co.jp",
         "lang": "en"
       },
-      "fetchedAt": "2026-11-11T06:51:29.457Z",
+      "fetchedAt": "2026-11-11T18:43:46.694Z",
       "items": [
         {
-          "title": "Opposition presses for consumption tax cut details as Upper House debate begins",
-          "link": "https://www.japantimes.co.jp/news/2026/11/11/japan/politics/tax-debate-kickoff-senate/",
-          "summary": "While questioning actual savings and who would qualify for cash payments, lawmakers asked how households would fare after the tax cut expires.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573433.jpg",
-          "publishedAt": "2026-11-11T06:48:00.000Z"
+          "title": "Nintendo sells 5.2 million copies of ‘Zelda’ remake in four days",
+          "link": "https://www.japantimes.co.jp/business/2026/11/11/zelda-remake-sales/",
+          "summary": "\"The Legend of Zelda: Ocarina of Time\" is a complete recreation of the 1998 classic action-adventure game for the Nintendo 64.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573506.jpg",
+          "publishedAt": "2026-11-11T12:53:00.000Z"
         },
         {
-          "title": "Kodansha launches journalistic manga imprint Kaqreal",
-          "link": "https://www.japantimes.co.jp/culture/2026/11/11/books/kodansha-manga-kaqreal/",
-          "summary": "Amid a slump in physical book sales, the publisher is pursuing various new projects through its innovation lab.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573389.jpg",
-          "publishedAt": "2026-11-11T06:45:00.000Z"
+          "title": "Nissan pares car sales forecast on tougher China competition",
+          "link": "https://www.japantimes.co.jp/business/2026/11/11/companies/nissan-sales-forecast/",
+          "summary": "The Japanese manufacturer now projects at most 3 million vehicle deliveries this year, from 3.15 million previously.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573504.jpg",
+          "publishedAt": "2026-11-11T11:43:00.000Z"
         },
         {
-          "title": "EU to make addictive app features easier to switch off",
-          "link": "https://www.japantimes.co.jp/business/2026/11/11/tech/eu-addictive-app-features/",
-          "summary": "Official data showed \"problematic\" digital practices led to losses for individuals reaching €10.3 billion ($11.5 billion) a year.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573406.jpg",
-          "publishedAt": "2026-11-11T06:40:00.000Z"
+          "title": "Exiled Cambodian opposition leader urges Japan to aid democracy",
+          "link": "https://www.japantimes.co.jp/news/2026/11/11/japan/cambodia-exiled-opposition-leader-democracy/",
+          "summary": "In a recent interview in Tokyo, Rainsy criticized former Cambodian Prime Minister Hun Sen, 74, and his family for establishing a \"dictatorship.\"",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573503.jpg",
+          "publishedAt": "2026-11-11T11:16:00.000Z"
         },
         {
-          "title": "Japan research team identifies rubella virus receptor",
-          "link": "https://www.japantimes.co.jp/news/2026/11/11/japan/science-health/rubella-virus-receptor/",
-          "summary": "Although vaccines for rubella are widely available, identifying the main receptor for the virus may aid the development of antiviral drugs.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573359.jpg",
-          "publishedAt": "2026-11-11T06:36:00.000Z"
+          "title": "Japan, eight others get fossil award over leaders skipping climate talks",
+          "link": "https://www.japantimes.co.jp/news/2026/11/11/japan/climate-talks-fossil-award/",
+          "summary": "From the Group of Seven countries, British Prime Minister Andy Burnham is the only leader expected to attend the summit.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573502.jpg",
+          "publishedAt": "2026-11-11T11:10:00.000Z"
         },
         {
-          "title": "Japan not immune to public backlash against data centers, experts say",
-          "link": "https://www.japantimes.co.jp/news/2026/11/11/japan/society/data-center-backlash-japan-us-election/",
-          "summary": "Last week's U.S. midterm congressional elections have highlighted just how strong opposition to data center construction has become.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573361.jpg",
-          "publishedAt": "2026-11-11T05:55:00.000Z"
+          "title": "‘Three Millimeters to You’: A hokey but heartfelt tale of cross-cultural first love",
+          "link": "https://www.japantimes.co.jp/culture/2026/11/11/film/three-millimeters-to-you/",
+          "summary": "Chun Jin-rung's debut feature falls squarely in the \"seishun eiga\" genre, with both over-the-top sentimentality and real sweetness.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573111.jpg",
+          "publishedAt": "2026-11-11T09:18:00.000Z"
         },
         {
-          "title": "16 Japanese detained in Laos for suspected scam involvement",
-          "link": "https://www.japantimes.co.jp/news/2026/11/11/japan/crime-legal/japanese-detained-laos-scam/",
-          "summary": "The incident is part of a series of crackdowns on Japanese nationals suspected involvement in such schemes in the Southeast Asian country.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573356.jpg",
-          "publishedAt": "2026-11-11T05:24:00.000Z"
+          "title": "Japan Supreme Court rules 2025 election was held in unconstitutional state",
+          "link": "https://www.japantimes.co.jp/news/2026/11/11/japan/politics/upper-house-election-unconstitutional-state/",
+          "summary": "Chief Justice Yukihiko Imasaki said the maximum vote-value disparity raised constitutional concerns but dismissed requests to invalidate the election.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573472.jpg",
+          "publishedAt": "2026-11-11T09:02:00.000Z"
         },
         {
-          "title": "JR East to introduce touchless ticket gates in spring 2028",
-          "link": "https://www.japantimes.co.jp/business/2026/11/11/companies/jr-east-ticket-gate/",
-          "summary": "Passengers using the Suica Mobile app will be able to walk through special ticket gates at 40 select stations without having to tap on receivers.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573375.jpg",
-          "publishedAt": "2026-11-11T05:15:00.000Z"
+          "title": "Action thrills best treacly drama in ‘Godzilla Minus Zero’",
+          "link": "https://www.japantimes.co.jp/culture/2026/11/11/film/godzilla-minus-zero/",
+          "summary": "Takashi Yamazaki's \"Godzilla Minus Zero\" soars to ever greater heights in visual effects, even if its human performances are overblown.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573108.jpg",
+          "publishedAt": "2026-11-11T09:00:00.000Z"
         },
         {
-          "title": "Honda raises outlook even as failed EV bet weighs on profit",
-          "link": "https://www.japantimes.co.jp/business/2026/11/11/companies/honda-profit-outlook/",
-          "summary": "The carmaker now expects an operating profit of ¥780 billion in the fiscal year ending March 2027, up from its previous guidance of ¥650 billion.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573338.jpg",
-          "publishedAt": "2026-11-11T05:00:00.000Z"
+          "title": "As JET Programme turns 40, alumni and ministers stress its importance in age of AI",
+          "link": "https://www.japantimes.co.jp/community/2026/11/11/jet-programme-40-years/",
+          "summary": "JET has brought thousands of teachers and translators to rural Japanese communities and has been an \"irreplaceable national asset\" for Japan.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573331.jpg",
+          "publishedAt": "2026-11-11T09:00:00.000Z"
         },
         {
-          "title": "Celtics beat Sixers 123-101 as Tatum outshines Brown",
-          "link": "https://www.japantimes.co.jp/sports/2026/11/11/basketball/nba/celtics-sixers-tatum-brown/",
-          "summary": "Brown's first regular-season clash against the Celtics team he called home for a decade came amid reports of a beef with his former partner Tatum.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573366.jpg",
-          "publishedAt": "2026-11-11T04:52:00.000Z"
+          "title": "U.S. loses grip on $121 billion mobile gaming sector to China",
+          "link": "https://www.japantimes.co.jp/business/2026/11/11/tech/us-mobile-gaming-china/",
+          "summary": "In a cruel twist, China's biggest overseas market last year was the United States.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573440.jpg",
+          "publishedAt": "2026-11-11T08:55:00.000Z"
         },
         {
-          "title": "Tokyo court dismisses suit against Meta over fake ads involving entrepreneur",
-          "link": "https://www.japantimes.co.jp/news/2026/11/11/japan/crime-legal/yusaku-maezawa-lawsuit-meta/",
-          "summary": "The ruling is believed to be the first judicial decision on whether fake ads impersonating celebrities infringe on their rights.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573289.jpg",
-          "publishedAt": "2026-11-11T04:10:00.000Z"
+          "title": "Amid concerns over internal opposition within LDP, Koizumi pledges support for Takaichi",
+          "link": "https://www.japantimes.co.jp/news/2026/11/11/japan/politics/koizumi-obuchi-ldp/",
+          "summary": "Citing continuity, the defense minister, who is a potential rival, said he would support the prime minister's reelection as LDP president next year.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/thumbs/400x400/573470.jpg",
+          "publishedAt": "2026-11-11T08:44:00.000Z"
         }
       ]
     }
