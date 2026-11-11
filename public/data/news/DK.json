@@ -13,38 +13,45 @@
         {
           "title": "Vestas øger sit overskud",
           "link": "https://www.dr.dk/nyheder/seneste/vestas-oeger-sit-overskud",
-          "publishedAt": "2026-11-11T06:38:33.000Z"
+          "publishedAt": "2026-11-11T06:38:33.000Z",
+          "titleEn": "Vestas increases its profit"
         },
         {
           "title": "Bjørne aflivet efter angreb på mor og datter i Canada",
           "link": "https://www.dr.dk/nyheder/seneste/bjoerne-aflivet-efter-angreb-paa-mor-og-datter-i-canada",
-          "publishedAt": "2026-11-11T04:57:18.000Z"
+          "publishedAt": "2026-11-11T04:57:18.000Z",
+          "titleEn": "Bears slaughtered after attack on mother and daughter in Canada"
         },
         {
           "title": "Ebolasmitten stiger i DR Congo - 11.000 ramt",
           "link": "https://www.dr.dk/nyheder/seneste/ebolasmitten-stiger-i-dr-congo-11-000-ramt",
-          "publishedAt": "2026-11-11T04:32:09.000Z"
+          "publishedAt": "2026-11-11T04:32:09.000Z",
+          "titleEn": "Ebola infection increases in DR Congo - 11,000 affected"
         },
         {
           "title": "Hertuginde Meghans far anholdt for at fjerne fodlænke",
           "link": "https://www.dr.dk/nyheder/seneste/hertuginde-meghans-far-anholdt-fjerne-fodlaenke",
           "image": "https://asset.dr.dk/drdk/umbraco-images/f3bjyyvt/20261111-040000-1.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-10T21:02:23.000Z"
+          "publishedAt": "2026-11-10T21:02:23.000Z",
+          "titleEn": "Duchess Meghan's father arrested for removing ankles"
         },
         {
           "title": "EU indgår hjemsendelsesaftale med Nigeria",
           "link": "https://www.dr.dk/nyheder/seneste/eu-indgaar-hjemsendelsesaftale-med-nigeria",
-          "publishedAt": "2026-11-10T20:28:54.000Z"
+          "publishedAt": "2026-11-10T20:28:54.000Z",
+          "titleEn": "EU concludes repatriation agreement with Nigeria"
         },
         {
           "title": "Amerikansk soldat anholdt i England mistænkt for spionage",
           "link": "https://www.dr.dk/nyheder/seneste/amerikansk-soldat-anholdt-i-england-mistaenkt-spionage",
-          "publishedAt": "2026-11-10T19:24:30.000Z"
+          "publishedAt": "2026-11-10T19:24:30.000Z",
+          "titleEn": "American soldier arrested in England suspected of espionage"
         },
         {
           "title": "Britisk domstol omstøder forbud mod homosex i Trinidad og Tobago",
           "link": "https://www.dr.dk/nyheder/seneste/britisk-domstol-omstoeder-forbud-mod-homosex-i-trinidad-og-tobago",
-          "publishedAt": "2026-11-10T18:48:41.000Z"
+          "publishedAt": "2026-11-10T18:48:41.000Z",
+          "titleEn": "British court rejects homosexuality ban in Trinidad and Tobago"
         },
         {
           "title": "Kristersson får en uge mere til at forsøge at danne regering",
@@ -80,69 +87,89 @@
           "link": "https://politiken.dk/kultur/film_og_tv/art11051637/%C2%BBFor-mig-at-se-er-det-et-klogt-tr%C3%A6k%C2%AB-Johnny-Depp-fors%C3%B8ger-et-af-de-st%C3%B8rste-Hollywood-comebacks-i-nyere-tid",
           "summary": "Efter en opslidende injuriesag mod sin ekskone er Johnny Depp atter premiereaktuel i en storfilm, hvor han giver den som den gnavne Scrooge i en filmatisering af Charles Dickens’ klassiker.",
           "image": "https://politiken.dk/incoming/img11051086.6mdspx/ORIGINALS/original_960/DEPP%20COMEBACK%201",
-          "publishedAt": "2026-11-11T06:02:52.000Z"
+          "publishedAt": "2026-11-11T06:02:52.000Z",
+          "titleEn": "⁇ For me, it's a smart move: Johnny Depp is trying one of the biggest Hollywood comebacks of recent times.",
+          "summaryEn": "After a raging injury case against his ex-wife, Johnny Depp is once again cast in a major motion picture starring as the rotting Scrooge in a film adaptation of the Charles Dickens classic."
         },
         {
           "title": "Bjørne er aflivet efter dødeligt angreb på mor og datter i Canada",
           "link": "https://politiken.dk/internationalt/art11054827/Bj%C3%B8rne-er-aflivet-efter-d%C3%B8deligt-angreb-p%C3%A5-mor-og-datter-i-Canada",
           "summary": "En kvinde og hendes datter blev i sidste uge dræbt af bjørne i Canada. Myndigheder har nu aflivet bjørnene.",
           "image": "https://politiken.dk/incoming/img11054846.tnilfr/ORIGINALS/original_960/USA-DAILYLIFE",
-          "publishedAt": "2026-11-11T05:28:32.000Z"
+          "publishedAt": "2026-11-11T05:28:32.000Z",
+          "titleEn": "A bear was killed after a deadly attack on a mother and daughter in Canada",
+          "summaryEn": "A woman and her daughter were killed by a bear last week in Canada. Authorities have now slaughtered the bears."
         },
         {
           "title": "Antallet af ebolatilfælde i DR Congo passerer 11.000",
           "link": "https://politiken.dk/internationalt/art11054829/Antallet-af-ebolatilf%C3%A6lde-i-DR-Congo-passerer-11.000",
           "summary": "5387 personer er døde efter at være blevet smittet med ebola i det dødeligste udbrud i DR Congos historie.",
           "image": "https://politiken.dk/incoming/img11054845.q6yfg8/ORIGINALS/original_960/HEALTH-EBOLA-CONGO",
-          "publishedAt": "2026-11-11T05:26:03.000Z"
+          "publishedAt": "2026-11-11T05:26:03.000Z",
+          "titleEn": "The number of Ebola cases in DR Congo exceeds 11,000",
+          "summaryEn": "5,387 people have died after being infected with Ebola in the deadliest outbreak in DR Congo's history."
         },
         {
           "title": "Trump tager første stik i stort søgsmål mod BBC",
           "link": "https://politiken.dk/kultur/medier/art11054832/Trump-tager-f%C3%B8rste-stik-i-stort-s%C3%B8gsm%C3%A5l-mod-BBC",
           "summary": "BBC havde håbet at få Trumps sag mod mediehuset afvist, men domstol lader søgsmålet køre videre.",
           "image": "https://politiken.dk/incoming/img11054842.n7oqob/ORIGINALS/original_960/BRITAIN-BBC-TRUMP",
-          "publishedAt": "2026-11-11T05:15:43.000Z"
+          "publishedAt": "2026-11-11T05:15:43.000Z",
+          "titleEn": "Trump takes first step in a major lawsuit against the BBC",
+          "summaryEn": "The BBC had hoped to get Trump's case against the media house dismissed, but the court allows the lawsuit to proceed."
         },
         {
           "title": "Tre personer døde efter mystisk trafikulykke i Los Angeles",
           "link": "https://politiken.dk/internationalt/art11054836/Tre-personer-d%C3%B8de-efter-mystisk-trafikulykke-i-Los-Angeles",
           "summary": "Omstændighederne er indtil videre uklare efter en formodet trafikulykke i Los Angeles, hvor tre er døde.",
-          "publishedAt": "2026-11-11T05:13:25.000Z"
+          "publishedAt": "2026-11-11T05:13:25.000Z",
+          "titleEn": "Three people died in a mysterious traffic accident in Los Angeles",
+          "summaryEn": "The circumstances are still unclear following an alleged traffic accident in Los Angeles that killed three people."
         },
         {
           "title": "18.000 hoteller går sammen til kamp mod verdens største hotelportal",
           "link": "https://politiken.dk/rejser/art11052911/18.000-hoteller-g%C3%A5r-sammen-til-kamp-mod-verdens-st%C3%B8rste-hotelportal",
           "summary": "Tusindvis af hoteller over hele Europa har meldt sig ind i et søgsmål mod en gigantisk spiller, som de samtidig er afhængige af.",
           "image": "https://politiken.dk/incoming/img11054618.ovcxpq/ORIGINALS/original_960/WEB%20Hoteller%20i%20kamp",
-          "publishedAt": "2026-11-11T05:08:19.000Z"
+          "publishedAt": "2026-11-11T05:08:19.000Z",
+          "titleEn": "18,000 hotels are joining forces to fight the world's largest hotel portal",
+          "summaryEn": "Thousands of hotels across Europe have filed a lawsuit against a giant player they depend on."
         },
         {
           "title": "USA anklager tre mænd for terrorforsøg mod britisk militærbase",
           "link": "https://politiken.dk/internationalt/art11054807/USA-anklager-tre-m%C3%A6nd-for-terrorfors%C3%B8g-mod-britisk-milit%C3%A6rbase",
           "summary": "I september fortalte en landmand om mistænkelig aktivitet ved britisk base. USA mistænker forsøg på terror.",
           "image": "https://politiken.dk/incoming/img11054810.ys6m4y/ORIGINALS/original_960/FILES-BRITAIN-US-POLICE-IRAN-AIRBASE-ESPIONAGE",
-          "publishedAt": "2026-11-10T22:24:47.000Z"
+          "publishedAt": "2026-11-10T22:24:47.000Z",
+          "titleEn": "The United States accuses three men of attempted terrorism against a British military base",
+          "summaryEn": "In September, a farmer reported suspicious activity at a British base. The United States suspects attempted terrorism."
         },
         {
           "title": "Britisk politi anholder amerikansk soldat i spionagesag",
           "link": "https://politiken.dk/internationalt/art11054755/Britisk-politi-anholder-amerikansk-soldat-i-spionagesag",
           "summary": "41-årig mand mistænkes for at have videregivet oplysninger og hjulpet en af Ruslands efterretningstjenester.",
           "image": "https://politiken.dk/incoming/img11029762.x4co90/ORIGINALS/original_960/Spionage",
-          "publishedAt": "2026-11-10T21:39:44.000Z"
+          "publishedAt": "2026-11-10T21:39:44.000Z",
+          "titleEn": "British police arresting American soldier for espionage",
+          "summaryEn": "A 41-year-old man is suspected of providing information and assisting one of Russia's intelligence services."
         },
         {
           "title": "Republikanerne har valgt ny leder i Repræsentanternes Hus",
           "link": "https://politiken.dk/internationalt/art11054759/Republikanerne-har-valgt-ny-leder-i-Repr%C3%A6sentanternes-Hus",
           "summary": "Mike Johnson træder tilbage som leder af Republikanerne i Repræsentanternes Hus efter partiets valgnederlag.",
           "image": "https://politiken.dk/incoming/img11054773.j9lu68/ORIGINALS/original_960/USA-CONGRESS-REPUBLICANS",
-          "publishedAt": "2026-11-10T20:53:09.000Z"
+          "publishedAt": "2026-11-10T20:53:09.000Z",
+          "titleEn": "Republicans have elected a new leader in the House of Representatives.",
+          "summaryEn": "Mike Johnson resigns as the leader of the Republican Party in the House of Representatives after the party's election defeat."
         },
         {
           "title": "Amerikansk superstjerne tager opgøret med frygten og fravælger sin bedste disciplin",
           "link": "https://politiken.dk/sport/art11048669/Amerikansk-superstjerne-tager-opg%C3%B8ret-med-frygten-og-frav%C3%A6lger-sin-bedste-disciplin",
           "summary": "Det amerikanske skifænomen Mikaela Shiffrin skruer ned for paradedisciplinen slalom. I stedet omfavner hun sin frygt og retter blikket mod storslalom.",
           "image": "https://politiken.dk/incoming/img11048693.gx0rsf/ORIGINALS/original_960/OLYMPICS-2026-ALPINE",
-          "publishedAt": "2026-11-10T20:40:08.000Z"
+          "publishedAt": "2026-11-10T20:40:08.000Z",
+          "titleEn": "The American superstar takes on the challenge of fear and chooses his best discipline.",
+          "summaryEn": "The American skier Mikaela Shiffrin is turning down the slalom discipline. Instead, she embraces her fear and turns her gaze to the great slalom."
         }
       ]
     },
@@ -159,69 +186,89 @@
           "title": "Salget af havvindmøller driver væksten hos Vestas",
           "link": "https://www.berlingske.dk/business/salget-af-havvindmoeller-driver-vaeksten-hos-vestas?referrer=RSS",
           "summary": "Den danske vindmølleproducent Vestas har løftet omsætning og overskud i tredje kvartal, viser nyt regnskab.",
-          "publishedAt": "2026-11-11T06:49:47.000Z"
+          "publishedAt": "2026-11-11T06:49:47.000Z",
+          "titleEn": "Sales of offshore wind turbines drive growth at Vestas",
+          "summaryEn": "The Danish wind turbine manufacturer Vestas has increased its turnover and profits in the third quarter, new accounts show."
         },
         {
           "title": "S-folketingspolitiker sammenligner julekalenderkoncept med gambling",
           "link": "https://www.berlingske.dk/politik/s-folketingspolitiker-sammenligner-julekalenderkoncept-med-gambling?referrer=RSS",
           "summary": "Fie Hækkerup, Socialdemokratiets miljøordfører, skal ikke købe forskellige kvaster til en nissehue.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166768388.webp?t[strip]=true&t[quality]=70&accessToken=cc6569af7e4ca4d360dcc38a4a7fbcda6a58c87c94f067ec9025dfb5f656fb39",
-          "publishedAt": "2026-11-11T06:45:49.000Z"
+          "publishedAt": "2026-11-11T06:45:49.000Z",
+          "titleEn": "S-population policymakers compare the Christmas calendar concept to gambling",
+          "summaryEn": "Fie Hækkerup, the Social Democrat Environment Commissioner, is not to buy various quastes for a niche."
         },
         {
           "title": "DFDS øger salget i tredje kvartal",
           "link": "https://www.berlingske.dk/business/dfds-oeger-salget-i-tredje-kvartal?referrer=RSS",
           "summary": "Det danske rederi DFDS leverer fremgang i salget og justerer nu forventningerne til hele året.",
-          "publishedAt": "2026-11-11T06:45:45.000Z"
+          "publishedAt": "2026-11-11T06:45:45.000Z",
+          "titleEn": "DFDS increases sales in the third quarter",
+          "summaryEn": "The Danish shipping company DFDS is making progress in sales and is now adjusting its expectations for the whole year."
         },
         {
           "title": "Lørdag i Herning kan blive et vendepunkt for Troels Lund – kritikere vil møde modstand",
           "link": "https://www.berlingske.dk/politik/loerdag-i-herning-kan-blive-et-vendepunkt-for-troels-lund--kritikere-vil-moede-modstand?referrer=RSS",
           "summary": "Analyse: Den endelige armlægning mellem Venstres ledelse og den kritiske del af baglandet kan meget vel ende som en fuser. Lund og Lose er stålfaste i deres tro på, at den »grønne troværdighed« kan etableres.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166745853.webp?t[strip]=true&t[quality]=70&accessToken=7355d69086b55d9dde86d45c965e63d0acf16d729523f590a8dc4ce193c31a5b",
-          "publishedAt": "2026-11-11T06:39:07.000Z"
+          "publishedAt": "2026-11-11T06:39:07.000Z",
+          "titleEn": "Saturday in Herning could be a turning point for Troels Lund  ⁇  critics will face resistance",
+          "summaryEn": "Analysis: The final arms race between the Left leadership and the critical part of the hinterland could very well end in a mess. Lund and Lose are firm in their belief that the 'green credibility' can be established."
         },
         {
           "title": "Seneste nyt om dansk politik – følg udviklingen her",
           "link": "https://www.berlingske.dk/indland/seneste-nyt-om-dansk-politik--foelg-udviklingen-her-1?referrer=RSS",
           "summary": "Følg med og få de seneste nyheder om dansk politik her.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166767803.webp?t[strip]=true&t[quality]=70&accessToken=f418c278b9ec2b5d3698c69f7e335c0c6ca9eb817d955a0d60f195a2d84105cd",
-          "publishedAt": "2026-11-11T06:33:33.000Z"
+          "publishedAt": "2026-11-11T06:33:33.000Z",
+          "titleEn": "Latest news on Danish politics  ⁇  follow developments here",
+          "summaryEn": "Follow me and get the latest news on Danish politics here."
         },
         {
           "title": "Antallet af førtidspensionister i Danmark fortsætter ned",
           "link": "https://www.berlingske.dk/business/antallet-af-foertidspensionister-i-danmark-fortsaetter-ned?referrer=RSS",
           "summary": "Antallet af førtidspensionister er faldet med 412 personer på tre måneder, viser tal fra Jobindsats.dk.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166767885.webp?t[strip]=true&t[quality]=70&accessToken=4b843c9a70506f0f3d9267f309ca3d1c495e942959f23f860973e657f34dcd79",
-          "publishedAt": "2026-11-11T06:30:49.000Z"
+          "publishedAt": "2026-11-11T06:30:49.000Z",
+          "titleEn": "The number of early-retirement workers in Denmark continues to decline",
+          "summaryEn": "The number of early-retirement workers has fallen by 412 people in three months, according to figures from Jobindsats.dk."
         },
         {
           "title": "J.D. Vance har »smovset Trumps ring« – kan koste ham præsidentdrømme",
           "link": "https://www.berlingske.dk/indland/jd-vance-har-smovset-trumps-ring--kan-koste-ham-praesidentdroemme?referrer=RSS",
           "summary": "Hvis USAs vicepræsident, J.D. Vance, skal gøre sig forhåbninger om at indtage Det Ovale Kontor efter præsidentvalget i 2028, så er han nødt til at løsrive sig fra Trump, mener Berlingskes internationale kommentator. Det…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166760989.webp?t[strip]=true&t[quality]=70&accessToken=36b71a5ee096314aba76f48a09ded51ef8d839979d1c145a76a161ffc52d7b01",
-          "publishedAt": "2026-11-11T06:28:06.000Z"
+          "publishedAt": "2026-11-11T06:28:06.000Z",
+          "titleEn": "J.D. Vance has smashed Trump's ring. It could cost him presidential dreams.",
+          "summaryEn": "If the Vice President of the United States, J.D. If Vance is to make hopes of taking the Oval Office after the 2028 presidential election, he'll have to break away from Trump, says Berlingsky's international commentator. That..."
         },
         {
           "title": "Krig i Europa – følg med her",
           "link": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-med-her-25?referrer=RSS",
           "summary": "Krigen i Ukraine fortsætter, og der er hybridangreb i Europa. Onsdag fortsætter forhandlingerne i Abu Dhabi.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166767805.webp?t[strip]=true&t[quality]=70&accessToken=1b664efb0f9310e3f35ca712ddc5bc0cd09e797b16acb4d7b77a30958b06acd9",
-          "publishedAt": "2026-11-11T06:27:54.000Z"
+          "publishedAt": "2026-11-11T06:27:54.000Z",
+          "titleEn": "War in Europe  ⁇  follow here",
+          "summaryEn": "The war in Ukraine continues, and there are hybrid attacks in Europe. On Wednesday, negotiations will continue in Abu Dhabi."
         },
         {
           "title": "Gidsel kan blive Årets Sportsnavn for andet år i træk",
           "link": "https://www.berlingske.dk/sport/gidsel-kan-blive-aarets-sportsnavn-for-andet-aar-i-traek?referrer=RSS",
           "summary": "Ud over Mathias Gidsel er baneryttere, kajakroer, speedskater og sejler blandt de nominerede til stor pris.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166767503.webp?t[strip]=true&t[quality]=70&accessToken=9bddf5bbe2878d5bfc6092a6ad426ef3642c906b832014ecec3f7bca4f3a3c05",
-          "publishedAt": "2026-11-11T06:21:45.000Z"
+          "publishedAt": "2026-11-11T06:21:45.000Z",
+          "titleEn": "Hostage could be Sportsman of the Year for the second year in a row",
+          "summaryEn": "In addition to Mathias Gidsel, skiers, kayakers, speed skaters and sailors are among the nominees for the grand prize."
         },
         {
           "title": "Business-overblik: Danske milliardkoncerner jager »ustoppeligt« grønt eksporteventyr",
           "link": "https://www.berlingske.dk/business/business-overblik-danske-milliardkoncerner-jager-ustoppeligt-groent-eksporteventyr?referrer=RSS",
           "summary": "Vi læser erhvervsnyhederne og tjekker aktiekurserne fra morgenstunden. Her er hele dit Business-overblik.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166767274.webp?t[strip]=true&t[quality]=70&accessToken=15c17660f10e14d1558428d4fb38206eee447d2a17fcdf353b776f6097ff4ba4",
-          "publishedAt": "2026-11-11T06:15:52.000Z"
+          "publishedAt": "2026-11-11T06:15:52.000Z",
+          "titleEn": "Business overview: Danish billionaire companies are pursuing green export ventures",
+          "summaryEn": "We're reading the business news and checking stock prices from dawn. Here's your entire business overview."
         }
       ]
     }
