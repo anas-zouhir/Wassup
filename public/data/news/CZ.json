@@ -8,15 +8,63 @@
         "homepage": "https://ct24.ceskatelevize.cz",
         "lang": "cs"
       },
-      "fetchedAt": "2026-11-10T18:37:31.488Z",
+      "fetchedAt": "2026-11-11T06:51:09.375Z",
       "items": [
         {
-          "title": "Masový exodus a vojáci v ulicích. V JAR graduje násilí vůči migrantům",
+          "title": "Evropa čelí kyberútokům na chladicí zařízení. NÚKIB doporučuje preventivní opatření",
+          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/evropa-celi-kyberutokum-na-chladici-zarizeni-nukib-doporucuje-preventivni-opatreni-379438",
+          "summary": "Chladicí zařízení napříč Evropou se už měsíc potýkají s kybernetickými útoky. Jejich terčem se staly supermarkety ve Francii, Belgii, Lucembursku, Švédsku, Irsku či Estonsku. Další útok navíc ve Francii na začátku…",
+          "image": "https://fs2-ct24.ceskatelevize.cz/image/NDdhNmJhYWE0NWYyOWQ3YripMRKv7NWMsN3LIVMb5w1fzNKqWcH9Jnp5Ly16CaPG48es5dGcR68NE_-7QbsEMqpyRa8mE0kQ598yhdQOATBXeQVZS8O0eyVIZpaTVHjLlp2OLK05gYC21gntspbfHikj-_GjIivdXQj1nIhU3UeVn_KW6Sq0py0VjmiSKj-J.jpg?width=360",
+          "publishedAt": "2026-11-11T06:00:00.000Z"
+        },
+        {
+          "title": "Odvolaní náměstci, protesty i spor o DPH. Co se děje okolo Správy KRNAPu?",
+          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/odvolani-namestci-protesty-i-spor-o-dph-co-se-deje-okolo-spravy-krnapu-379418",
+          "summary": "Odvolání dvou náměstků Správy Krkonošského národního parku (KRNAPu) jejím ředitelem Petrem Moravcem vyvolávají pochybnosti u části veřejnosti i zaměstnanců parku. Reakcí byly protesty před ministerstvem životního…",
+          "image": "https://fs2-ct24.ceskatelevize.cz/image/ZmNkZThlYzg2MjlhNzM3M4J5yy_AKZqRyoNrxNlF_WNxCf6XhL1z-wr3BjP4LlgcXSllZ_fU9-RR5uUq3qPmIDyBf8lLqcem1PA07HuW7woTo_YDtu6RD3nWoA6JqFnra_Qy3GO6vf15EyAWfpX3gDh0tD8j-Fn77mMC9w9oKaNr9oLlkVE-OEgL06zRSpkR.jpg?width=360",
+          "publishedAt": "2026-11-11T05:00:00.000Z"
+        },
+        {
+          "title": "Po nárazu auta do chodců v Los Angeles zemřeli nejméně tři lidé, další jsou zranění",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/po-narazu-auta-do-chodcu-v-los-angeles-zemreli-nejmene-tri-lide-379499",
+          "summary": "V losangeleské čtvrti North Hollywood narazilo v úterý večer místního času auto do skupiny chodců poblíž vstupu do metra, píše web americké stanice CNN. Nejméně tři lidé zemřeli, další tři jsou v kritickém stavu.…",
+          "image": "https://fs2-ct24.ceskatelevize.cz/image/MWJlOGEwMmZhNzExZWEyZWeRtq4Q6PznhpWuGgMdh27MC2bBBQdoi1EMO_sj4TyqwFWEtp-a7XuNDnIPkcfapeew_oI5soUm1e3RGNbmY-LgNcp5X8kUbte2sMbkpCOudFOQuaOjIXtSE-M4IfnVlH7Y2Ay-_bRD-Uw_3j-lwueOpN-yrxseKznH_ACcpeEP.JPG?width=360",
+          "publishedAt": "2026-11-11T04:04:55.000Z"
+        },
+        {
+          "title": "Republikáni ve Sněmovně reprezentantů zablokovali snahu o odvolání Hegsetha",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/republikani-ve-snemovne-reprezentantu-zablokovali-snahu-o-odvolani-hegsetha-379497",
+          "summary": "Republikánská většina v americké Sněmovně reprezentantů v úterý fakticky zablokovala snahu o odvolání ministra obrany Petea Hegsetha kvůli válce proti Íránu. Návrh na ústavní žalobu poslanci postoupili soudnímu výboru,…",
+          "image": "https://fs2-ct24.ceskatelevize.cz/image/YjI3M2U4ODE1YTZmYTc3NstrljPeS_gqZ03SOslovx0j4K9orUjxcYobGegThKYruND1-rjdvxbtBNdoqh53eRWBX89MQtQOnLXXbeAdpaZLCwLVuq7z4OaIOFg9QIMvmhs_QR2UnuHfBGzb2PqGvKCOW_dIvJvr2ZCRWzEnLOrsMoFv4EWJWmOkr_LwBZJ2.JPG?width=360",
+          "publishedAt": "2026-11-11T01:42:58.000Z"
+        },
+        {
+          "title": "Britská policie zatkla příslušníka americké armády. Záležitost souvisí s Ruskem",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/britska-policie-zatkla-prislusnika-americke-armady-zalezitost-souvisi-s-ruskem-379494",
+          "summary": "Britská policie zatkla příslušníka amerických ozbrojených sil, který je podezřelý z trestných činů podle zákona o národní bezpečnosti. Věc souvisí s Ruskem, uvedla v úterý večer britská policie s tím, že spolupracuje s…",
+          "image": "https://fs2-ct24.ceskatelevize.cz/image/NzM3NGMxYzNmMWJkM2YzNjPaDMtr6kiUY5Echv67VMYyJ0CBq8aHgRFffccBDegHsXo6R6Rs8MEBlIFSdMduK4gZg4nTNI73ADzcIRp3W04BpMPRsmL0pHrbOJ4Y6oaOB0X14l5d4vENSUyO-VmU7cshqxQCgx-tQlBm4AMPwaXsV5qkKxf9c1tvX0VI3lZU.jpg?width=360",
+          "publishedAt": "2026-11-10T19:53:37.000Z"
+        },
+        {
+          "title": "Polsko řeší, jak reformovat ústavní soud. Variantou je kompletní obměna",
+          "link": "https://ct24.ceskatelevize.cz/clanek/svet/polsko-resi-jak-reformovat-ustavni-soud-variantou-je-kompletni-obmena-379493",
+          "summary": "Polská vláda poprvé po víc než dvou a půl letech zveřejnila rozhodnutí ústavního soudu. Premiér Donald Tusk to považuje za počátek nové éry. Ústavní krize v zemi ale nekončí. Opozice nové vedení instituce neuznává a dál…",
+          "image": "https://fs2-ct24.ceskatelevize.cz/image/YjNlYmRlMTE2M2Q4Y2Q3ZpV7hE9N30-z6AmMcrrIV6yxlmpTwsEpMcMjb1FVW8Qmar9IJrUEOt-y6iFkNfRDvzdTDzIGbrxTIGkk5vGcaWt4diS5sMp_I68kP11-22GPr_aSL-cE6twkg6WG0nHYiuTZV1VWKpekGRvnHtfqsfmleBJCEGtL78_ggQICF3kD.JPG?width=360",
+          "publishedAt": "2026-11-10T19:38:36.000Z"
+        },
+        {
+          "title": "Hypotéky dál zdražují, lidé jsou opatrnější při nákupu realit",
+          "link": "https://ct24.ceskatelevize.cz/clanek/ekonomika/hypoteky-dal-zdrazuji-lide-jsou-opatrnejsi-pri-nakupu-realit-379485",
+          "summary": "Hypotéky zdražují osmý měsíc v řadě. Průměrná nabídková sazba úvěrů na bydlení atakovala v listopadu hranici šest procent. Navíc rostou také ceny nemovitostí. Kombinace dražších nemovitostí a hypoték snižuje chuť…",
+          "image": "https://fs2-ct24.ceskatelevize.cz/image/OTdhNWM2MDRlZWU2YTA2MVbk-GzjRasw7AbDwrdJQZY_hxPx99To5jGaKAtU4-CtWRZT9tO4pnV2vT6NLcflTeBUqm7Sr3eAEIjnoQCFq_ir51yWDIDABz1ptZvk9s64VGKog5Qqimuq27VxPPC-aA2U47zFLJX8mSCESjGwGChRyhxk8YmZ9srD2tsEVlzJ.jpg?width=360",
+          "publishedAt": "2026-11-10T19:15:01.000Z"
+        },
+        {
+          "title": "Vlna násilí proti migrantům v JAR spustila nebývalý exodus",
           "link": "https://ct24.ceskatelevize.cz/clanek/svet/masovy-exodus-a-vojaci-v-ulicich-v-jar-graduje-nasili-vuci-migrantum-379475",
           "summary": "V Jihoafrické republice v posledních měsících sílí protiimigrační protesty a xenofobní útoky. Vláda po brutálním ubití cizince nasadila stovky vojáků do města Durban a pozastavila přijímání žádostí o azyl. Nespokojení…",
           "image": "https://fs2-ct24.ceskatelevize.cz/image/YjU1ZGNhZjQ5NGM5NTFiOKv45NJSxhTcS87vL577qqbFY1atDsmGrHfHHZFh70M3F-gI-Ze9RSNRnZKPyzFpilH31uah6RPuv4xEkwCNC8OLZUT1vW0IwtdRNBf7hIqGKi057a6qaWk_AxcgTDoF19pAW7XjuxXy6fpVBlD8824MqYKIibVfEMYl2ZABu9_t.JPG?width=360",
           "publishedAt": "2026-11-10T16:30:00.000Z",
-          "titleEn": "Mass exodus and soldiers in the streets. Violence against migrants in the spring graduates",
           "summaryEn": "In recent months, anti-immigrant protests and xenophobic attacks have intensified in South Africa. After the brutal slaughter of a foreigner, the government has deployed hundreds of troops to Durban and suspended the acceptance of asylum applications. Unsatisfied..."
         },
         {
@@ -36,69 +84,6 @@
           "publishedAt": "2026-11-10T13:51:29.000Z",
           "titleEn": "NUKIB is warning of Russian cyberattacks. They say they're also destructive.",
           "summaryEn": "The National Office for Cyber and Information Security (NÚKIB) is warning of the long-term and sophisticated cyber attacks by Russian state-sponsored actors targeting Czech and allied institutions. According to the document..."
-        },
-        {
-          "title": "Sněmovní výbor zahájil řízení vůči Ševčíkovi kvůli výroku o menopauze",
-          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/snemovni-vybor-zahajil-rizeni-vuci-sevcikovi-kvuli-vyroku-o-menopauze-379474",
-          "summary": "Sněmovní mandátový a imunitní výbor v úterý zahájil disciplinární řízení vůči poslanci za SPD Miroslavu Ševčíkovi. Ševčík čelí podnětu předsedkyně poslaneckého klubu STAN Michaely Šebelové kvůli výroku na plénu,…",
-          "image": "https://fs2-ct24.ceskatelevize.cz/image/NjMxNjY4MjQyZTczMWU1NS7ODC2ehdB9vhOIU1uRcJuk_58iBD0LadvOwpwHAXsYSL8c1UnG-mPfcfX_qrhC0RgRhB_ikXyr7ujw9KlULx4UbKctxkhMDDaRJZrh9vILnVfqPDcm0-HGorlJDvk8pHl9mEmDQNbKyiKtnRlxFxG3GuG3K0hgVqV8zy-z5mBQ.jpg?width=360",
-          "publishedAt": "2026-11-10T12:33:55.000Z",
-          "titleEn": "The House Committee has opened proceedings against Mr. Ševčík over a menopause ruling",
-          "summaryEn": "The House Committee on Mandates and Immunities on Tuesday opened disciplinary proceedings against SPD MP Miroslav Shevchik. Shevchik is facing a request from the chairman of the STAN MPs' club, Michaela Šebel, for a ruling on the plenary..."
-        },
-        {
-          "title": "Ukrajině platíme účty, ale u jednacího stolu nejsme, řekli Babiš a Fico",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/ceska-a-slovenska-vlada-spolecne-jednaji-v-bratislave-379473",
-          "summary": "Evropa by se měla aktivně podílet na vyjednávání o ukončení války na Ukrajině, shodli se premiéři Česka a Slovenska Andrej Babiš (ANO) a Robert Fico (Smer) po společném rokování kabinetů v Bratislavě. Oběma vadí, že EU…",
-          "image": "https://fs2-ct24.ceskatelevize.cz/image/ZTk2ODM1ZWQ1NWYyOWQ3MtUQXLky4yFFRB0qx3aF-o7YI6CmX4ohAydrXSyH6dItZjJTM3aXo7zrbYQ8nMFBdDwA5SWU03gbck_MlajK0l7abYKHxQaIkk-7LpjoUO-blYvrQXf9UApSZ-RQvEpCzlX8gFPdK2hDrNFdBYM-rQeVxU66zBEY3mrPrgcRVzsG.jpg?width=360",
-          "publishedAt": "2026-11-10T11:56:15.000Z",
-          "titleEn": "In Ukraine, we pay the bills, but we're not at the negotiating table.",
-          "summaryEn": "Europe should take an active part in the negotiations to end the war in Ukraine, Prime Ministers of the Czech Republic and Slovakia Andrej Babiš (ANO) and Robert Fico (Smer) agreed after joint cabinet talks in Bratislava. They both have a problem with the EU..."
-        },
-        {
-          "title": "Česko a Maďarsko mají podobný pohled na bezpečnost i podporu Ukrajiny, řekl Pavel",
-          "link": "https://ct24.ceskatelevize.cz/clanek/domaci/prohlaseni-prezidentu-pavla-a-madarskeho-prezidenta-baky-379468",
-          "summary": "Česko a Maďarsko mají podle prezidenta Petra Pavla velice podobný pohled na bezpečnost Evropy a nutnost pokračování podpory Ukrajiny vnímají ne jako filantropii, ale jako strategickou investici do vlastní bezpečnosti.…",
-          "image": "https://fs2-ct24.ceskatelevize.cz/image/MDRkMTdhMjU4YTA0MzM5N6Wx6M5pgUZx6TB0f9n7-EK0T-tC3i8Jxu6jaeYUYvD-n-ozJnbLPSoidR3k2J4fGozLLc0-KrEZMgVbHfjEaodhZsJxUx1WjzPFqI6ssXVEq73KIQD9PmmAo7DC4ze6VVsoVe5LVf-nkjfNSzFqSNTVYvjH3r56BfWrB3LdLr5R.jpg?width=360",
-          "publishedAt": "2026-11-10T11:45:02.000Z",
-          "titleEn": "The Czech Republic and Hungary share a similar view of security and support for Ukraine, said Pavel",
-          "summaryEn": "According to President Petr Pavel, the Czech Republic and Hungary have a very similar view of Europe's security and see the need to continue supporting Ukraine not as philanthropy but as a strategic investment in their own security...."
-        },
-        {
-          "title": "Zdrojem epidemie salmonelózy v Újezdu byla prošlá vejce, potvrdili hygienici",
-          "link": "https://ct24.ceskatelevize.cz/clanek/regiony/zdrojem-epidemie-salmonelozy-v-ujezdu-byly-spagety-ze-skolni-jidelny-potvrdili-hygienici-379471",
-          "summary": "Zdrojem epidemie salmonelózy v pražském Újezdu nad Lesy byl pokrm z prošlých vajec, který tam v září podávala školní kuchyně Masarykovy základní školy. Výsledek vyšetřování ve školní jídelně oznámila mluvčí pražské…",
-          "image": "https://fs2-ct24.ceskatelevize.cz/image/NmFhZjRmMjMxNWUwZjFjMn8INTiusYrEP9Sr0TyYbdz55hqZwHVgyvg38IJsZ9qM9pyh_Wsi-AMnmkdqFvF8hgaWKmmy5kMXkpfs2BcBv0VdTPZeO6xN6Gx_ibQWkkbOQb9qOOP9RLSbY8ZCAD1u62orUXdc2-ftV6J8A6EzAdFq11-ohWDJPWYObfSgjCCh.jpg?width=360",
-          "publishedAt": "2026-11-10T10:55:07.000Z",
-          "summaryEn": "The source of the salmonellosis epidemic in Prague's Forest Entrance was a meal made from pasted eggs, which was served there in September by the school kitchen of Masaryk Primary School. The results of the investigation in the school's dining room have been announced by a spokesman for the Prague...",
-          "titleEn": "The source of the salmonellosis epidemic at the entrance was eggs."
-        },
-        {
-          "title": "Srážka skoro devadesáti aut si v Bulharsku vyžádala dvanáct mrtvých",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/srazka-desitek-aut-v-bulharsku-si-vyzadala-jedenact-mrtvych-a-desitky-zranenych-379470",
-          "summary": "Několik hromadných srážek desítek vozidel si v úterý ráno na dálnici nedaleko města Jambol na jihovýchodě Bulharska vyžádalo nejméně dvanáct mrtvých a 48 zraněných, informovala agentura AFP nebo web 24chasa. Úřady nehodu…",
-          "image": "https://fs2-ct24.ceskatelevize.cz/image/MjhkYTNhYzQ3MzBkMTRlMe6IFGJXla0cu4Ke-nox6rOnvU8cZWseiU9kgzxBZ1vcMmnL_1crbhCVQU0s1TWmgxV5Usbh-k2Wa9J2S63D-PcUUwcxjzll9rhbPeqx_hJzSVAiK43fnAI1GpJReJJe7eEztHgq0_Z_xrR9jFG1ydUiBUpnD-yEXi13hzHYLujd.JPG?width=360",
-          "publishedAt": "2026-11-10T10:44:49.000Z",
-          "titleEn": "A car crash in Bulgaria killed 12 people",
-          "summaryEn": "A series of mass crashes of dozens of vehicles on a highway near the south-eastern Bulgarian city of Jambol on Tuesday morning left at least 12 dead and 48 injured, AFP or the website 24hasa reported. The accident authorities..."
-        },
-        {
-          "title": "Léky na hubnutí mohou výjimečně způsobit slepotu, varují americké úřady",
-          "link": "https://ct24.ceskatelevize.cz/clanek/veda/leky-na-hubnuti-mohou-vyjimecne-zpusobit-slepotu-varuji-americke-urady-379462",
-          "summary": "Americké úřady potvrdily podezření, že užívání moderních léků na hubnutí může vést ke vzácné poruše oka, která může skončit až úplným oslepnutím. Vědci zatím nedokázali popsat mechanismus, který toto způsobuje.",
-          "image": "https://fs2-ct24.ceskatelevize.cz/image/YzhhNjFkYWZkZDhhM2FkNTvohqn7aJXhF4cGBdft71ls3NHEsopo18rcBUY-XC4SOFAeUeWL_wQkxTfm8_qPmUGZFeAwUZtFjblg_LcxOaEGU6N0QYvyT_OenkE2Vt-ZlSdb0HSyHzTxwOQ6FaPzZPDajLdLlAMvir6F-UepikmA_LKRJX-_ZaBvndMc4t0q.jpg?width=360",
-          "publishedAt": "2026-11-10T10:10:32.000Z",
-          "titleEn": "Weight loss medications can exceptionally cause blindness, warn U.S. authorities",
-          "summaryEn": "U.S. authorities have confirmed suspicions that the use of modern weight-loss drugs can lead to a rare eye disorder that can lead to complete blindness. Scientists have not yet been able to describe the mechanism that causes this."
-        },
-        {
-          "title": "Dva ze tří soudců, kteří vrátili Rusko na hokejová MS, pobývali v Moskvě, píše web",
-          "link": "https://ct24.ceskatelevize.cz/clanek/svet/dva-ze-tri-soudcu-kteri-vratili-rusko-na-hokejova-ms-pobyvali-v-moskve-pise-web-379466",
-          "summary": "Dva ze tří soudců mezinárodní sportovní arbitráže CAS, kteří v říjnu rozhodli o návratu Ruska na hokejová mistrovství světa, pobývali v nedávné době v Moskvě, zjistil švýcarský web Inside Paradeplatz, podle kterého jde o…",
-          "image": "https://fs2-ct24.ceskatelevize.cz/image/OGRkNWIxNGY0ZTMyOGRiZspbTvdCW-mdoOINgScD92O2tsvuq6R_S2K2i90pP133b6uzkKrl_ctWZ5hjKFG_9RARppu5WB49IbuLjLqX-HOd5xIYOCYsz77LQNw9rQjH4bzeQ_GgSIGMrcute9KaCELP6uYFOXGcc1jpYH6yXCyR7Lglfwt22tc7POYLnTZm.JPG?width=360",
-          "publishedAt": "2026-11-10T09:37:49.000Z",
-          "titleEn": "Two of the three judges who sent Russia back to the MS hockey team were in Moscow, the website says.",
-          "summaryEn": "Two of the three judges of the CAS International Arbitration for Sport, who ruled in October that Russia should return to the World Cup of Hockey, had recently been in Moscow, the Swiss website Inside Paradeplatz found, according to which..."
         }
       ]
     },
@@ -109,87 +94,67 @@
         "homepage": "https://www.novinky.cz",
         "lang": "cs"
       },
-      "fetchedAt": "2026-11-10T18:37:30.848Z",
+      "fetchedAt": "2026-11-11T06:51:08.898Z",
       "items": [
         {
-          "title": "Britský komik a autor knih pro děti Walliams čelí obvinění ze zneužití",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-britsky-komik-a-autor-knih-pro-deti-walliams-celi-obvineni-ze-zneuziti-40607943",
-          "summary": "Britský komik a autor knih pro děti David Walliams využíval svou slávu k tomu, aby manipuloval s dívkami a mladými ženami, uvedly v úterý deník The Guardian a televizní stanice ITV News. Jedna žena ho obvinila ze…",
-          "publishedAt": "2026-11-10T18:34:15.000Z",
-          "titleEn": "British comedian and children's book author Walliams faces abuse charges",
-          "summaryEn": "British comedian and children's book author David Walliams used his fame to manipulate girls and young women, The Guardian and ITV News reported on Tuesday. A woman accused him of..."
+          "title": "V Rusku zadrželi dva polské agenty",
+          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-v-rusku-zadrzeli-dva-polske-agenty-40607965",
+          "summary": "Ruská tajná služba FSB zadržela dvě osoby, o nichž tvrdí, že jde o agenty polských zpravodajských složek. Viní je ze špionáže v Kaliningradské oblasti, konkrétně ze shromažďování informací o vojenských objektech a…",
+          "publishedAt": "2026-11-11T06:22:50.000Z"
         },
         {
-          "title": "U pobřeží Ománu se šíří obří ropná skvrna. Je vidět z vesmíru",
-          "link": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-u-pobrezi-omanu-se-siri-obri-ropna-skvrna-je-videt-z-vesmiru-40607941",
-          "summary": "U pobřeží Ománu se šíří obří ropná skvrna, její rozloha o víkendu dosahovala už zhruba 288 kilometrů čtverečních. S odvoláním na satelitní snímky a analýzu expertů o tom informovala agentura Reuters s tím, že zatím…",
-          "publishedAt": "2026-11-10T18:26:54.000Z",
-          "titleEn": "There's a huge oil spill off the coast of Oman. It 's visible from space .",
-          "summaryEn": "A giant oil spill is spreading off the coast of Oman, with an area of about 288 square kilometers reached over the weekend. With reference to satellite imagery and expert analysis, Reuters reported that so far..."
+          "title": "Nepsaná pravidla mezi kamarádkami. Jsou to intriky, nebo skutečné přátelství?",
+          "link": "https://www.novinky.cz/clanek/lifestyle-sex-vztahy-nepsana-pravidla-mezi-kamaradkami-jsou-to-intriky-nebo-skutecne-pratelstvi-40607693",
+          "summary": "Snad všechny ženy touží po opravdových kamarádkách. Každá však nemá to štěstí hned, třeba od dětství. Než najdou ty skutečné, musí si projít zkušeností v ženských skupinách, kde platí pravidla, jimž nelze říct jinak než…",
+          "publishedAt": "2026-11-11T06:21:00.000Z"
         },
         {
-          "title": "Srážka aut u Mohelnice. Jeden z řidičů po nehodě ujel",
-          "link": "https://www.novinky.cz/clanek/krimi-srazka-aut-u-mohelnice-jeden-z-ridicu-po-nehode-ujel-40607759",
-          "summary": "Řízení nezvládl v neděli mladý šofér, který jel po silnici I/35 u Mohelnice na Šumpersku a naboural jiné auto. Druhý řidič od nehody ujel. Jeden člověk byl při havárii zraněn a skončil v nemocnici. Policisté její…",
-          "publishedAt": "2026-11-10T18:13:47.000Z",
-          "titleEn": "A car crash near Mohelnice. One of the drivers ran away after the accident.",
-          "summaryEn": "On Sunday, a young driver who was driving on I/35 near Mohelnice in Shumperska failed to drive and crashed into another car. The other driver escaped from the accident. One person was injured in the accident and ended up in the hospital. The cops are her..."
+          "title": "Hoří největší ruský přístav v Baltském moři",
+          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-po-dronovem-utoku-hori-rusky-pristav-v-baltskem-mori-40607964",
+          "summary": "Drony ukrajinských operátorů zasáhly v noci na středu infrastrukturu ruského přístavu Usť-Luga v Baltském moři. O úderu informují ukrajinská i ruská média.",
+          "publishedAt": "2026-11-11T06:16:29.000Z"
         },
         {
-          "title": "Porsche tlačí na rychlejší reorganizaci Volkswagenu",
-          "link": "https://www.novinky.cz/clanek/ekonomika-porsche-tlaci-na-rychlejsi-reorganizaci-volkswagenu-40607885",
-          "summary": "Německá investiční společnost Porsche Automobil Holding SE, prostřednictvím níž rodiny Porscheových a Piëchových ovládají koncern Volkswagen, zaznamenala za prvních devět měsíců letošního roku výrazný propad zisku.…",
-          "publishedAt": "2026-11-10T18:09:28.000Z",
-          "titleEn": "Porsche is pushing for a faster reorganization of Volkswagen",
-          "summaryEn": "The German investment company Porsche Automobil Holding SE, through which the Porsche and Piëch families control Volkswagen, recorded a sharp decline in profits in the first nine months of this year...."
+          "title": "Brit si na zahradě zakopal Boeing. Chce z něj mít místo na večírky i bunkr",
+          "link": "https://www.novinky.cz/clanek/bydleni-brit-si-na-zahrade-zakopal-boeing-chce-z-nej-mit-misto-na-vecirky-i-bunkr-40607777",
+          "summary": "Konstruktér Dave Billings z anglického Hiltonu si pořídil na zahradu hodně neobvyklý doplněk. Za 4000 liber (cca 116 000 Kč) koupil trup vyřazeného Boeingu 737 a nechal ho spustit do čtyřmetrové jámy. Pod zemí z něj chce…",
+          "publishedAt": "2026-11-11T06:01:00.000Z"
         },
         {
-          "title": "Fico podpořil Babišovu výzvu k přehodnocení emisních povolenek",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-fico-podporil-babisovu-vyzvu-k-prehodnoceni-emisnich-povolenek-40607873",
-          "summary": "Slovensko se připojilo k české iniciativě, která žádá Evropskou unii o nové posouzení dopadů emisních povolenek. Premiér Andrej Babiš chce pro společnou výzvu získat všechny země visegrádské čtyřky. Podporu slovenského…",
-          "publishedAt": "2026-11-10T18:02:04.000Z",
-          "titleEn": "Fico supported Babiš' call for a reassessment of emission allowances",
-          "summaryEn": "Slovakia has joined the Czech initiative calling on the European Union to review the impact of emission allowances. Prime Minister Andrej Babiš wants to jointly acquire all the Visegrad Four countries. Supporting the Slovak..."
+          "title": "Nová alba: James Blunt, Kings of Leon, Bryan Adams, La Roux, Michal Horáček, LocaNica a další",
+          "link": "https://www.novinky.cz/clanek/kultura-hudba-nova-alba-james-blunt-kings-of-leon-bryan-adams-la-roux-michal-horacek-locanica-a-dalsi-40607744",
+          "summary": "Hudební nabídka posledních dní je široká, pestrá a téměř dokonale předvánoční. Sváteční desku vydala zpěvačka Alanis Morissette. Řadovými alby pak přispěli například James Blunt, kapela Kings Of Leon, La Roux nebo Bryan…",
+          "publishedAt": "2026-11-11T06:01:00.000Z"
         },
         {
-          "title": "FOTO: Studenti v Praze vyšli do ulic za televizi a rozhlas",
-          "link": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-foto-studenti-v-praze-vysli-do-ulic-za-televizi-a-rozhlas-40607934",
-          "summary": "Ve 4:36 odpoledne se na náměstí Republiky sešlo několik stovek studentů z pražských vysokých škol. Na místo dorazili vyjádřit nesouhlas s projednávaným zákonem o financování veřejnoprávních médií. Studenti vyrazili v…",
-          "publishedAt": "2026-11-10T17:54:57.000Z",
-          "titleEn": "PHOTO: Students in Prague take to the streets for TV and radio",
-          "summaryEn": "At 4:36 p.m. several hundred students from Prague's universities gathered in the Republic Square. They came to the scene to express their disagreement with the proposed law on public-law media financing. The students left in..."
+          "title": "Děti sníží daň i v roce 2027. Vrací se školkovné a sleva na studenta",
+          "link": "https://www.novinky.cz/clanek/ekonomika-deti-snizi-dan-i-v-roce-2027-vraci-se-skolkovne-a-sleva-na-studenta-40604658",
+          "summary": "Rodiče si i v příštím roce sníží daň díky dětem. Mohou uplatnit daňové zvýhodnění a pokud bude vyšší než vypočtená daň, dostanou od státu peníze navíc. Po třech letech se také vrátí školkovné a sleva na studenta,…",
+          "publishedAt": "2026-11-11T06:00:00.000Z"
         },
         {
-          "title": "Ve věku 104 let zemřela jedna z hrdinek francouzského odboje ze druhé sv. války",
-          "link": "https://www.novinky.cz/clanek/zahranicni-evropa-ve-veku-104-let-zemrela-jedna-z-hrdinek-francouzskeho-odboje-ze-druhe-sv-valky-40607940",
-          "summary": "Ve věku 104 let zemřela jedna z hrdinek francouzského odboje z druhé světové války Solange Alexandreová. Poté, co působila jako spojka odboje, založila společně se svým tehdy budoucím manželem vlastní jednotku bojovníků…",
-          "publishedAt": "2026-11-10T17:53:17.000Z",
-          "titleEn": "At the age of 104, one of the heroes of the French Resistance of World War II died.",
-          "summaryEn": "At the age of 104, one of the heroes of the French Resistance of World War II, Solange Alexandre, died. After serving as a resistance liaison, she and her then-future husband formed their own unit of fighters..."
+          "title": "V Los Angeles najelo auto do chodců, nejméně tři lidé zahynuli",
+          "link": "https://www.novinky.cz/clanek/zahranicni-amerika-v-los-angeles-najelo-auto-do-chodcu-nejmene-tri-lide-zahynuli-40607962",
+          "summary": "Tři lidé zahynuli a nejméně další tři utrpěli zranění poté, co auto najelo do skupiny chodců ve čtvrti North Hollywood v americkém Los Angeles. Podle policie zatím není jasné, zda se jednalo o úmyslný čin nebo nehodu,…",
+          "publishedAt": "2026-11-11T05:34:53.000Z"
         },
         {
-          "title": "Studenti pochodovali na náměstí Republiky, vyjádřili podporu ČT a ČRo",
-          "link": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-studenti-v-praze-protestuji-na-podporu-verejnopravnich-medii-40607636",
-          "summary": "Studenti pražských vysokých škol se v úterý odpoledne sešli na náměstí Republiky na demonstraci na podporu médií veřejné služby. Na místě bylo několik stovek účastníků. Na akci, která odstartovala symbolicky v 16:36,…",
-          "publishedAt": "2026-11-10T13:17:08.000Z",
-          "titleEn": "Students marched on the Republic Square, expressed support for the Czech Republic and the Czech Republic",
-          "summaryEn": "Students from Prague universities gathered on the Republic Square on Tuesday afternoon for a demonstration in support of the public service media. There were several hundred participants on site. At the event, which began symbolically at 4:36 p.m.,"
+          "title": "Ukrajinské železnice pod tlakem využívají veškerou dostupnou techniku",
+          "link": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinske-zeleznice-pod-tlakem-vyuzivaji-veskerou-dostupnou-techniku-40604950",
+          "summary": "Rusko se v posledním roce soustředilo i na útoky na ukrajinskou železniční síť, zejména na útoky na lokomotivy. Ukrajinské dráhy sice dokáží dál zajišťovat všechny spoje, ovšem s vypětím sil. Je to vidět na tom, jaké…",
+          "publishedAt": "2026-11-11T05:30:00.000Z"
         },
         {
-          "title": "Zhloupla, koktá a je mrzutá. Rusové si po náletech stěžují na hlasovou asistentku",
-          "link": "https://www.novinky.cz/clanek/internet-a-pc-zhloupla-kokta-a-je-mrzuta-rusove-si-po-naletech-stezuji-na-hlasovou-asistentku-40607939",
-          "summary": "Zhloupla, koktá, má špatný přízvuk, dělá chyby, je mrzutější, zamrzá nebo vůbec nereaguje, stěžují si Rusové na hlasovou asistentku od technologické společnosti Jandeks (Yandex) po ukrajinských útocích na datová centra…",
-          "publishedAt": "2026-11-10T17:49:28.000Z",
-          "titleEn": "She's a fool, a cocksucker, and she's upset. The Russians are complaining about a voice assistant after the bombing.",
-          "summaryEn": "Foolish, cocktails, has a bad accent, makes mistakes, gets angry, freezes or doesn't react at all, the Russians complain about a voice assistant from tech company Yandex after the Ukrainian attacks on data centers..."
+          "title": "Írán se připravuje na zkázu. Teherán rozdává jódové tablety",
+          "link": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-iran-se-pripravuje-na-zkazu-teheran-rozdava-jodove-tablety-40607961",
+          "summary": "Íránské úřady připravují obyvatelstvo na případné údery amerických sil na jaderné zařízení pod horou Pickaxe Mountain. Lidem v nejbližším okolí hory rozdávají jódové tablety, jak informoval deník The Times.",
+          "publishedAt": "2026-11-11T05:23:04.000Z"
         },
         {
-          "title": "Komerční televize sledujeme pro zábavu, veřejnoprávní média pro informace, říkají ostravští studenti",
-          "link": "https://www.novinky.cz/clanek/domaci-studenti-jsou-opet-v-ulicich-pochody-a-demonstracemi-chteji-podporit-verejnopravni-media-40607854",
-          "summary": "Stovky studentů univerzit se v úterý scházely nejen v Praze, ale i na dalších místech Česka, aby vyjádřily podporu veřejnoprávním médiím. Za minutu dvanáct se například jmenoval protest v Ostravě, který minutu před…",
-          "publishedAt": "2026-11-10T13:18:34.000Z",
-          "titleEn": "We watch commercial TV for fun, the public media for information, say Ostrava students.",
-          "summaryEn": "Hundreds of university students gathered on Tuesday not only in Prague but also in other parts of the Czech Republic to express support through the public media. For example, at 12 minutes, there was a protest in Ostrava, which a minute before..."
+          "title": "Z nejvyššího komína Evropy je vystřelil obří katapult. Zažili přetížení 4,2 G",
+          "link": "https://www.novinky.cz/clanek/lifestyle-z-nejvyssiho-komina-evropy-je-vystrelil-obri-katapult-zazili-pretizeni-42-g-40607893",
+          "summary": "Neobvyklý způsob, jak překonat hranice lidských možností, zvolili dva zkušení parašutisté. Španěl Dani Roman a Francouz Fred Fugen se nechali vystřelit z obřího katapultu umístěného v horní části 360 metrů vysokého…",
+          "publishedAt": "2026-11-11T05:20:00.000Z"
         }
       ]
     }

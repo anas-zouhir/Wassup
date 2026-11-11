@@ -8,8 +8,64 @@
         "homepage": "https://www.srf.ch/news",
         "lang": "de-CH"
       },
-      "fetchedAt": "2026-11-10T18:37:24.565Z",
+      "fetchedAt": "2026-11-11T06:50:57.115Z",
       "items": [
+        {
+          "title": "Amtsenthebung gescheitert – Trump triumphiert und Hegseth atmet auf",
+          "link": "https://www.srf.ch/news/international/amtsenthebung-gescheitert-trump-triumphiert-und-hegseth-atmet-auf",
+          "summary": "Das US-Repräsentantenhaus hat ein Amtsenthebungsverfahren gegen Verteidigungsminister Pete Hegseth verhindert.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/e7ff97.webp",
+          "publishedAt": "2026-11-11T04:57:37.000Z"
+        },
+        {
+          "title": "Start-up Vvardis – Swiss-Smile-Schwestern wagen Milliarden-Börsengang an Wall Street",
+          "link": "https://www.srf.ch/news/wirtschaft/start-up-vvardis-swiss-smile-schwestern-wagen-milliarden-boersengang-an-wall-street",
+          "summary": "Schulden, Verluste und hohes Risiko: Die Abivardi-Schwestern planen mit Börsengang den Befreiungsschlag.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/9d2994.webp",
+          "publishedAt": "2026-11-11T05:02:29.000Z"
+        },
+        {
+          "title": "Ausbleibendes Krankentaggeld – Temporärbüro lässt Bauarbeiter im Stich",
+          "link": "https://www.srf.ch/sendungen/kassensturz-espresso/kassensturz/ausbleibendes-krankentaggeld-temporaerbuero-laesst-bauarbeiter-im-stich",
+          "summary": "Seit Monaten wartet ein Bauarbeiter auf 45'000 Franken. Sein Temporärbüro liefert widersprüchliche Erklärungen.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/365137.webp",
+          "publishedAt": "2026-11-11T06:10:22.000Z"
+        },
+        {
+          "title": "Tipps für den Alltag – Wie Sie Stürze in Tram und Bus vermeiden können",
+          "link": "https://www.srf.ch/news/schweiz/tipps-fuer-den-alltag-wie-sie-stuerze-in-tram-und-bus-vermeiden-koennen",
+          "summary": "Wer steht, stürzt im öffentlichen Verkehr häufiger. Mit diesen acht Verhaltensregeln kommen Sie sicherer ans Ziel.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/c882ea8.webp",
+          "publishedAt": "2026-11-11T06:01:14.000Z"
+        },
+        {
+          "title": "Jugendproteste Albanien – Die Hoffnungslosigkeit der albanischen Jugend",
+          "link": "https://www.srf.ch/news/international/jugendproteste-albanien-die-hoffnungslosigkeit-der-albanischen-jugend",
+          "summary": "In Albanien dauern die Proteste an. Zwei junge Menschen erzählen, woher die Wut ihrer Generation kommt.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/6ec963.webp",
+          "publishedAt": "2026-11-11T05:05:32.000Z"
+        },
+        {
+          "title": "Sieben Fakten – Warum Nebel hohe Töne schluckt und Gespenster erscheinen lässt",
+          "link": "https://www.srf.ch/radio-srf-1/sieben-fakten-warum-nebel-hohe-toene-schluckt-und-gespenster-erscheinen-laesst",
+          "summary": "Nebel ist mehr als eine graue Suppe: Sieben erstaunliche Fakten zum herbstlichen Wetterphänomen.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/27d5ee.webp",
+          "publishedAt": "2026-11-11T05:24:47.000Z"
+        },
+        {
+          "title": "Abstimmungen 29. November – Die Mitte-Initiative hat kein Preisschild",
+          "link": "https://www.srf.ch/news/abstimmungen-29-november-die-mitte-initiative-hat-kein-preisschild",
+          "summary": "Initiative «Ja zu fairen Bundessteuern auch für Ehepaare»: einfacher oder nur teurer als die Individualbesteuerung?",
+          "image": "https://www.srf.ch/static/cms/images//320ws/21f901.webp",
+          "publishedAt": "2026-11-10T19:39:35.000Z"
+        },
+        {
+          "title": "Kulturnews in Kurzform – «Mike Hammer»-Darsteller Stacy Keach stirbt mit 85",
+          "link": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-mike-hammer-darsteller-stacy-keach-stirbt-mit-85",
+          "summary": "Der US-Schauspieler spielte auch in Hit-Serien wie «Emergency Room – Die Notaufnahme» und «Two and a Half Men» mit.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/dce71f.webp",
+          "publishedAt": "2026-11-11T06:38:29.000Z"
+        },
         {
           "title": "Hackerangriff in Russland – Sind im Ukraine-Krieg eine halbe Million Russen gefallen?",
           "link": "https://www.srf.ch/news/international/ukraine/hackerangriff-in-russland-sind-im-ukraine-krieg-eine-halbe-million-russen-gefallen",
@@ -20,85 +76,11 @@
           "summaryEn": "Hacking groups are said to have gained access to the Russian statistical office. It's the data that stops us."
         },
         {
-          "title": "Kinder und Handy-Nutzung – Zähmen statt verbieten? Ein neuer Blick auf das Smartphone",
-          "link": "https://www.srf.ch/kultur/gesellschaft-religion/kinder-und-handy-nutzung-zaehmen-statt-verbieten-ein-neuer-blick-auf-das-smartphone",
-          "summary": "Handys gehören zum Alltag: Ein Neurologe und ein Philosoph fordern einfühlsame Begleitung statt pauschaler Verbote.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/7860cf.webp",
-          "publishedAt": "2026-11-10T18:02:32.000Z",
-          "titleEn": "Children and cell phone use  ⁇  forbid fingers instead of toes? A fresh look at the smartphone",
-          "summaryEn": "Cell phones are a part of everyday life: a neurologist and a philosopher demand compassionate companionship instead of sweeping bans."
-        },
-        {
-          "title": "Urteil des Bundesgerichts – Sozialhilfe verweigert: Weil Ehemann bockt",
-          "link": "https://www.srf.ch/news/schweiz/urteil-des-bundesgerichts-sozialhilfe-verweigert-weil-ehemann-bockt",
-          "summary": "Nicht nur bei den Steuern werden Ehepaare als Einheit betrachtet. Einer Sozialhilfebezügerin wird das zum Verhängnis.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/041f01.webp",
-          "publishedAt": "2026-11-10T15:55:42.000Z",
-          "titleEn": "Federal court ruling denied welfare benefits: because husband is a cocksucker",
-          "summaryEn": "It is not only in tax matters that couples are considered to be united. It's going to be a disaster for a welfare worker."
-        },
-        {
-          "title": "Schweizerin belastet Trump – Nach Vorwurf der Vergewaltigung: Béatrice Keuls Kampf gegen Trump",
-          "link": "https://www.srf.ch/news/international/usa/schweizerin-belastet-trump-nach-vorwurf-der-vergewaltigung-beatrice-keuls-kampf-gegen-trump",
-          "summary": "Die Aussagen der früheren Vize-Miss-Schweiz sorgen international für Wirbel. Nun spricht sie darüber – und über Kritik.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/663e537.webp",
-          "publishedAt": "2026-11-10T14:58:57.000Z",
-          "titleEn": "Swiss woman accuses Trump of rape: Béatrice Keul's fight against Trump",
-          "summaryEn": "The statements of the former vice-Miss of Switzerland are a global shock. Now she talks about it and about criticism."
-        },
-        {
-          "title": "Hackergruppe «Akira» – Geklaute Geheimdienst-Daten: Welche Optionen hat der Bund?",
-          "link": "https://www.srf.ch/news/schweiz/hackergruppe-akira-geklaute-geheimdienst-daten-welche-optionen-hat-der-bund",
-          "summary": "Nach dem Datenklau stehen die Behörden vor einer schwierigen Entscheidung: Schaden hinnehmen, verhandeln oder bezahlen.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/0ec0ba.webp",
-          "publishedAt": "2026-11-10T15:33:13.000Z",
-          "titleEn": "Hacking group  ⁇ Akira ⁇   ⁇  Classified intelligence data: What options does the federal government have?",
-          "summaryEn": "Following the data breach, the authorities are faced with a difficult decision: accept damages, negotiate or pay."
-        },
-        {
-          "title": "Causa Blausee – «Keine Bagatelle»: Gericht verurteilt Transportunternehmer",
-          "link": "https://www.srf.ch/news/schweiz/causa-blausee-keine-bagatelle-gericht-verurteilt-transportunternehmer",
-          "summary": "Im Umweltskandal Mitholz gibt es ein Urteil. Der Berner Transportunternehmer wurde teilweise schuldig gesprochen.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/b3abed.webp",
-          "publishedAt": "2026-11-10T15:26:46.000Z",
-          "titleEn": "Causa Blausee  ⁇   ⁇ No small matter ⁇ : Court convicts transport operators",
-          "summaryEn": "There's a verdict in the Mitholz environmental scandal. The Bernese transport operator was found guilty in part."
-        },
-        {
-          "title": "Bilanz seit Montag – Viel Regen in kurzer Zeit",
-          "link": "https://www.srf.ch/meteo/meteo-stories/bilanz-seit-montag-viel-regen-in-kurzer-zeit",
-          "summary": "Seit Montag fiel in der Schweiz verbreitet Regen, vor allem in der Ostschweiz.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/6d5475.webp",
-          "publishedAt": "2026-11-10T16:23:32.000Z",
-          "titleEn": "Balance sheet as of Monday  ⁇  Heavy rain in a short time",
-          "summaryEn": "Since Monday, heavy rain has fallen in Switzerland, especially in eastern Switzerland."
-        },
-        {
-          "title": "Kulturnews in Kurzform – Widerstand gegen geplanten Netrebko-Aufritt in Basel",
-          "link": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-widerstand-gegen-geplanten-netrebko-aufritt-in-basel",
-          "summary": "Die russische Sopranistin soll Ende November im Casino auf der Bühne stehen. Aber die kritischen Stimmen werden lauter.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/bee1699.webp",
-          "publishedAt": "2026-11-10T15:26:38.000Z",
-          "titleEn": "Culture news in short  ⁇  Resistance to the planned Netrebko deployment in Basel",
-          "summaryEn": "The Russian soprano will be on stage at the casino at the end of November. But the critical voices are getting louder."
-        },
-        {
-          "title": "Salzsäure ausgelaufen – Aktuell keine Gefahr mehr nach Chemieunfall in Liestal",
-          "link": "https://www.srf.ch/news/schweiz/salzsaeure-ausgelaufen-aktuell-keine-gefahr-mehr-nach-chemieunfall-in-liestal",
-          "summary": "Es ist nur noch Geruchsbelästigung möglich, wie der Warndienst Alertswiss am Dienstagnachmittag meldete.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/de4c14.webp",
-          "publishedAt": "2026-11-10T17:34:56.000Z",
-          "titleEn": "Saltic acid has been exhausted  ⁇  Currently there is no risk of a chemical attack in Liestal",
-          "summaryEn": "It's only possible to smell, as the alert service Alertswiss reported Tuesday afternoon."
-        },
-        {
-          "title": "Philosoph Rainer Mühlhoff – Die KI bedroht uns existenziell, aber anders, als wir denken",
-          "link": "https://www.srf.ch/kultur/gesellschaft-religion/philosoph-rainer-muehlhoff-die-ki-bedroht-uns-existenziell-aber-anders-als-wir-denken",
-          "summary": "Rainer Mühlhoff sieht KI als grosse Gefahr für die Menschheit – aber als Mittel und konkreter, als wir derzeit annehmen.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/0bbe046.webp",
-          "publishedAt": "2026-11-10T11:26:30.000Z",
-          "summaryEn": "Rainer Mühlhoff sees AI as a major threat to humanity  ⁇  but as a means and more concrete than we currently believe.",
-          "titleEn": "Philosopher Rainer Mühlhoff  ⁇  AI threatens us existentially, but differently than we think"
+          "title": "Trauerzug für toten Verbrecher – Palermo verneigt sich vor dem Mafioso",
+          "link": "https://www.srf.ch/news/international/trauerzug-fuer-toten-verbrecher-palermo-verneigt-sich-vor-dem-mafioso",
+          "summary": "Wie ein angesehener Stadtbürger: Auf Sizilien wurde ein stadtbekannter Mafioso mit allen Ehren zu Grabe getragen.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/08c565.webp",
+          "publishedAt": "2026-11-10T18:39:58.000Z"
         }
       ]
     },
@@ -109,97 +91,77 @@
         "homepage": "https://www.nzz.ch",
         "lang": "de-CH"
       },
-      "fetchedAt": "2026-11-10T18:37:24.294Z",
+      "fetchedAt": "2026-11-11T06:50:57.184Z",
       "items": [
         {
-          "title": "Nvidia ist überall: Wirtschaftsspionage greift um sich – aber Schweizer Firmen schlafen",
-          "link": "https://www.nzz.ch/wirtschaft/nvidia-affaere-spionage-trifft-auch-unternehmen-aus-der-schweiz-und-deutschland-ld.10058600",
-          "summary": "Industriespionage nimmt zu, immer öfter mischen Geheimdienste mit. Manche Unternehmen in der Schweiz gelten als «gefundenes Fressen», warnt eine Expertin.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/04/e2d574c1-8d1e-4d2e-afb7-7f711e305d02.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5325,5325,x332,y0",
-          "publishedAt": "2026-11-10T17:21:45.000Z",
-          "titleEn": "Nvidia is everywhere: business espionage is rampant  ⁇  but Swiss companies are sleeping",
-          "summaryEn": "Industrial espionage is on the rise, and intelligence services are increasingly involved. Some companies in Switzerland are considered to be 'found food', warns one expert."
+          "title": "LIVE-TICKER - Die USA nach den Midterms: Bessent muss wegen Drohungen aus Iran auf einen Stützpunkt ziehen",
+          "link": "https://www.nzz.ch/international/us-innenpolitik-die-neuesten-meldungen-im-ticker-ld.10056111",
+          "summary": "Die neuesten Meldungen aus der amerikanischen Innenpolitik im Ticker.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/10/94a186d3-79f0-4b95-a2df-fafe85919202.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5464,5464,x2260,y0",
+          "publishedAt": "2026-11-11T06:29:01.000Z"
         },
         {
-          "title": "VIDEO - Benzinpreise, Abschiebungen und Israel: Trump äussert sich beim CBS-Interview zur Wahlniederlage der Republikaner – die wichtigsten Punkte",
-          "link": "https://www.nzz.ch/shorts/benzinpreise-abschiebungen-und-israel-trump-aeussert-sich-beim-cbs-interview-zur-wahlniederlage-der-republikaner-die-wichtigsten-punkte-ld.10060068",
-          "summary": "US-Präsident Donald Trump weist im «60 Minutes»-Interview von CBS die herben Wahlniederlagen der Republikaner von sich, räumt Fehler in der Migrationspolitik ein und kündigt gleichzeitig personelle Konsequenzen an.…",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/10/4bbe2971-a98b-4f62-9ddd-88bf23c54054.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1080,1080,x162,y0",
-          "publishedAt": "2026-11-10T17:21:01.000Z",
-          "titleEn": "VIDEO - Gasoline prices, deportations and Israel: Trump makes the most important points in the CBS interview about the Republican election defeat",
-          "summaryEn": "U.S. President Donald Trump in the  ⁇ 60 Minutes ⁇  interview with CBS points to the Republican electoral defeats, admits mistakes in immigration policy and announces personal consequences...."
+          "title": "MELDUNGEN KULTUR - «Mike Hammer»-Darsteller Stacy Keach ist tot",
+          "link": "https://www.nzz.ch/feuilleton/kultur-die-neuesten-meldungen-ld.10041945",
+          "summary": "Die neuesten Meldungen aus dem Feuilleton.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/11/6f523011-bba9-4adc-95d7-c508c53fbe2c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2098,2098,x938,y0",
+          "publishedAt": "2026-11-11T06:15:54.000Z"
         },
         {
-          "title": "Erste direkte Verhandlungen seit neun Monaten: Russen und Ukrainer sprechen wieder miteinander",
-          "link": "https://www.nzz.ch/international/erste-direkte-verhandlungen-seit-neun-monaten-russen-und-ukrainer-sprechen-wieder-miteinander-ld.10059489",
-          "summary": "In Abu Dhabi haben unter amerikanischer Vermittlung neue Verhandlungen zwischen den beiden Kriegsparteien begonnen. Mit einem Durchbruch rechnet kaum jemand.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/10/49b9eccd-b581-416d-8a9f-631b55e95b6a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5195,5195,x1544,y0",
-          "publishedAt": "2026-11-10T17:03:22.000Z",
-          "titleEn": "First direct negotiations in nine months: Russians and Ukrainians talking to each other again",
-          "summaryEn": "In Abu Dhabi, new negotiations between the two warring parties have begun under American mediation. Hardly anyone expects a breakthrough."
+          "title": "KOMMENTAR - Die Waffenexportregeln müssen gelockert werden. Denn keinen Spielraum zu haben, ist keine Strategie",
+          "link": "https://www.nzz.ch/meinung/die-waffenexportregeln-muessen-gelockert-werden-denn-keinen-spielraum-zu-haben-ist-keine-strategie-ld.10051978",
+          "summary": "Die Änderung des Kriegsmaterialgesetzes wäre ein erster wichtiger Schritt. Aber er wird nicht reichen, um das Vertrauen Europas zurückzugewinnen. Der Bundesrat muss beweisen, dass er den Ernst der Lage erkannt hat und…",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/05/1983f90c-6cb7-4501-9baf-bff2e0b8334a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4158,4158,x1040,y0",
+          "publishedAt": "2026-11-11T04:35:00.000Z"
         },
         {
-          "title": "DER ANDERE BLICK - Ilse Aigner wandelt auf Steinmeiers Spuren: Deutschlands künftige Präsidentin mauert sich in der «Mitte» ein",
-          "link": "https://www.nzz.ch/der-andere-blick/ilse-aigner-wandelt-auf-steinmeiers-spuren-deutschlands-kuenftige-praesidentin-mauert-sich-in-der-mitte-ein-ld.10059513",
-          "summary": "Die CSU-Politikerin Aigner hat ein Gesprächsangebot der AfD ausgeschlagen. Das lässt wenig Gutes erahnen.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/09/1e3e3751-4a12-412c-a0e5-0d4d4115477b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4852,4852,x1223,y0",
-          "publishedAt": "2026-11-10T16:48:02.000Z",
-          "titleEn": "The second blink - Ilse Aigner follows in Steinmeier's footsteps: Germany's future president is entering the middle",
-          "summaryEn": "CSU politician Aigner has rejected an AfD interview offer. That's not a good thing to say."
+          "title": "PODCAST «NZZ AKZENT» - «Honigfalle» im Silicon Valley: Wie eine mutmassliche Agentin den Nvidia-Chef umgarnte",
+          "link": "https://www.nzz.ch/podcast/honigfalle-im-silicon-valley-wie-eine-mutmassliche-agentin-den-nvidia-chef-umgarnte-ld.10060025",
+          "summary": "Um an geheime Informationen über den amerikanischen Chiphersteller zu gelangen, soll Peking eine Agentin auf den CEO Jensen Huang angesetzt haben. Der China-Korrespondent Matthias Kamp erklärt im Podcast, wie es dazu kam…",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/10/dcbe8347-a2cf-4b48-b4bd-e4fc1fe319cb.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x0,y0",
+          "publishedAt": "2026-11-11T04:30:00.000Z"
         },
         {
-          "title": "Die bekannteste Islamkritikerin der Schweiz wurde erneut vor Gericht gezerrt. Sie sagt: «Es ist wichtig, dass man die Wahrheit sagen kann»",
-          "link": "https://www.nzz.ch/zuerich/die-bekannteste-islamkritikerin-der-schweiz-wurde-erneut-vor-gericht-gezerrt-sie-sagt-es-ist-wichtig-dass-man-die-wahrheit-sagen-kann-ld.10059603",
-          "summary": "Das Bezirksgericht Zürich spricht Saïda Keller-Messahli frei. Den entscheidenden Hinweis lieferte ausgerechnet der klagende muslimische Verband selbst.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/08/c6dad0dd-616d-4966-beb8-8ef72cb65ed0.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3707,3707,x0,y0",
-          "publishedAt": "2026-11-10T16:25:14.000Z",
-          "titleEn": "Switzerland's most well-known critic of Islam has been dragged back to court. She says, \"It's important to be able to tell the truth\".",
-          "summaryEn": "The district court of Zurich has released Saïda Keller-Messahli. The complainant Muslim Association itself provided the decisive indication."
+          "title": "KOMMENTAR - ETF ist nicht gleich ETF – Anleger sollten dem guten Ruf des Anlageprodukts nicht blind vertrauen",
+          "link": "https://www.nzz.ch/meinung/etf-ist-nicht-gleich-etf-anleger-sollten-dem-guten-ruf-des-anlageprodukts-nicht-blind-vertrauen-ld.10059953",
+          "summary": "Viele Exchange-Traded Funds (ETF) sind hervorragend geeignet, um Vermögen aufzubauen. Anleger kommen aber nicht umhin, Produkte genau zu prüfen. Dies zeigt der Boom bei aktiven ETF.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/10/9cb9b9dc-5920-498d-91d4-e458827f68aa.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1422,1422,x309,y0",
+          "publishedAt": "2026-11-11T04:30:00.000Z"
         },
         {
-          "title": "Nach Feuer im Bundesasylzentrum in Zürich: Polizei nimmt einen Algerier und einen Tunesier fest",
-          "link": "https://www.nzz.ch/zuerich/zuerich-brand-im-bundesasylzentrum-ld.10058950",
-          "summary": "Die Feuerwehr hatte das Gebäude evakuiert, vier Personen mussten ins Spital. Die Polizei kann Brandstiftung nicht ausschliessen.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/10/815efc04-aadf-4eba-8989-3dc6c1b1fb27.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4839,4839,x1210,y0",
-          "publishedAt": "2026-11-10T16:13:41.000Z",
-          "titleEn": "After a fire at the Federal Asylum Centre in Zurich: Police arrest an Algerian and a Tunisian",
-          "summaryEn": "Firefighters evacuated the building, and four people were taken to the hospital. The police can't rule out arson."
+          "title": "INTERVIEW - Ist Huang Le gar keine Spionin? Das vermutet der Mann, der jahrzehntelang Geheimagenten ausgebildet hat",
+          "link": "https://www.nzz.ch/technologie/geheimdienstexperte-zur-affaere-des-nvidia-ceo-huang-le-ist-keine-typische-spionin-ld.10059899",
+          "summary": "Der frühere Spionageabwehrchef Helmut Müller-Enbergs sagt: Die USA konstruieren ein Narrativ um Huang Le, die Geliebte des Nvidia-CEO Jensen Huang. Ihr Verhalten und ihr Lebenslauf sprechen gegen die Theorie, sie sei…",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/09/32e2d19d-46bf-4667-baab-4dfaa21537d8.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=396,396,x110,y0",
+          "publishedAt": "2026-11-11T04:30:00.000Z"
         },
         {
-          "title": "Alles oder nichts: Anthropic plant trotz KI-Skepsis den Börsengang – mit einer niedrigeren Bewertung",
-          "link": "https://www.nzz.ch/wirtschaft/anthropic-will-an-die-boerse-mit-einer-bewertung-von-bis-zu-14-billionen-dollar-ld.10059797",
-          "summary": "Schon im November will der führende Anbieter von KI-Sprachmodellen an die Börse. Das Debüt von Anthropic wird so zum Test, wie sehr die Märkte an die Zukunft der Technologie glauben.",
-          "image": "https://img-msp-prod.nzz.ch/2026/10/09/92e53fe7-d86e-44bb-8aa8-ba0a09aa53dc.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=951,951,x510,y66",
-          "publishedAt": "2026-11-10T16:10:24.000Z",
-          "titleEn": "All or nothing: Anthropic plans to go public with a lower rating despite AI skepticism",
-          "summaryEn": "Already in November, the leading provider of AI language models wants to go public. The debut of Anthropic will be a test of how much the markets believe in the future of technology."
+          "title": "Wer übernimmt die Macht in Venezuela? Zwei Frauen kämpfen um das Land",
+          "link": "https://www.nzz.ch/international/machtkampf-in-venezuela-maria-corina-machado-draengt-auf-baldige-wahlen-die-amtsinhaberin-hat-es-nicht-eilig-ld.10059783",
+          "summary": "Oppositionsführerin María Corina Machado ist unter grossem Jubel nach Venezuela zurückgekehrt. Sie will Präsidentin werden. Doch die derzeitige Machthaberin Delcy Rodríguez hat es mit Neuwahlen nicht eilig.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/01/1f3de6ba-9637-42ae-a323-c28e5d63261c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=719,719,x2958,y1642",
+          "publishedAt": "2026-11-11T04:30:00.000Z"
         },
         {
-          "title": "LIVE-TICKER - Krieg in der Ukraine: Europäische Länder sprechen Gelder für Reparatur von Tschernobyl-Hülle",
-          "link": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
-          "summary": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/10/aca84b32-7cbc-4969-a2aa-c53dd7cca6bb.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5121,5121,x1177,y0",
-          "publishedAt": "2026-11-10T16:08:18.000Z",
-          "summaryEn": "For more than four years, Russia has been waging war against Ukraine. The most important developments in the overview.",
-          "titleEn": "LIVE-TICKER - War in Ukraine: European countries speak of funds for repairing the Chernobyl shell"
+          "title": "PODCAST «NZZ GEOPOLITIK» - Machtvakuum im Kreml: Wie könnte ein Russland nach Putin aussehen?",
+          "link": "https://www.nzz.ch/podcast/machtvakuum-im-kreml-wie-koennte-ein-russland-nach-putin-aussehen-ld.10059657",
+          "summary": "Wladimir Putin hält Russland fest im Griff und weigert sich, über seine Nachfolge nachzudenken. Viele im Westen hoffen nach dem Ende seiner Herrschaft auf einen demokratischen Aufbruch. Doch wahrscheinlicher sei, dass…",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/10/aa61d583-f0ce-4963-8828-1e1d7f78ee6c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x0,y0",
+          "publishedAt": "2026-11-11T04:30:00.000Z"
         },
         {
-          "title": "Frankreich macht Iran für Cyberangriff auf Supermärkte verantwortlich und droht mit scharfen Massnahmen",
-          "link": "https://www.nzz.ch/international/cyberattacke-auf-supermaerkte-paris-droht-iran-mit-harter-antwort-ld.10059822",
-          "summary": "Hinter dem Angriff auf die Kühlsysteme von rund 700 Standorten soll eine Cyberwarfare-Einheit der Islamischen Revolutionswächter stehen. Aussenminister Barrot kündigt europäische Sanktionen gegen Iran an.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/03/6aef3a14-3d12-45b5-b649-162a84bf67f5.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3992,3992,x1004,y0",
-          "publishedAt": "2026-11-10T16:00:00.000Z",
-          "titleEn": "France blames Iran for cyberattacks on supermarkets and threatens to crack down",
-          "summaryEn": "The attack on the cooling systems of around 700 sites is said to have been carried out by a cyberwarfare unit of the Islamic Revolutionary Guards. Foreign Minister Barrot announces European sanctions against Iran."
+          "title": "Orbans Bruder wird des Menschenschmuggels bezichtigt – die Abrechnung mit dem alten System in Ungarn kommt dem früheren Regierungschef immer näher",
+          "link": "https://www.nzz.ch/international/ungarn-viktor-orbans-bruder-im-visier-von-ermittlungen-wegen-schlepperei-ld.10059651",
+          "summary": "Die Festnahme von Aron Orban verweist auf die Günstlingswirtschaft und hat vor allem symbolischen Charakter. Ministerpräsident Magyar will die Verantwortlichen von früher für ihre Verfehlungen zur Rechenschaft ziehen.",
+          "image": "https://img-msp-prod.nzz.ch/2026/10/23/c04ac7c4-1bd0-40a5-84ac-0f080984b194.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2157,2157,x539,y0",
+          "publishedAt": "2026-11-11T04:30:00.000Z"
         },
         {
-          "title": "Die Berufslehre verliert weiter an Boden. Nicht nur klassische Handwerksberufe sind betroffen, sondern auch Bau, Detailhandel, Gesundheit oder Gastronomie",
-          "link": "https://www.nzz.ch/schweiz/die-berufslehre-verliert-weiter-an-boden-ld.10059842",
-          "summary": "Der Anteil der Jugendlichen, die eine Berufslehre absolvieren, ist deutlich gesunken. Trotzdem gibt es in einzelnen Branchen immer noch zu wenig Lehrstellen.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/01/4721c64d-fb95-4304-940f-75f7ab27532b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5464,5464,x1582,y0",
-          "publishedAt": "2026-11-10T15:59:00.000Z",
-          "titleEn": "Professional education continues to lose ground. Not only the classical craft professions are affected, but also construction, retail, healthcare or gastronomy",
-          "summaryEn": "The proportion of young people studying vocational training has fallen significantly. Nevertheless, there are still too few teaching positions in individual sectors."
+          "title": "KOMMENTAR - Die einstige Partei von Nelson Mandela verliert ihre Übermacht. Das ist gut für Südafrika",
+          "link": "https://www.nzz.ch/meinung/die-einstige-partei-von-nelson-mandela-verliert-ihre-uebermacht-das-ist-gut-fuer-suedafrika-ld.10059617",
+          "summary": "Der ANC bestimmt in Südafrika seit dem Ende der Apartheid 1994 die Politik. Das ändert sich jetzt. Denn die Partei ist nur mit sich selbst beschäftigt, statt sich um die Bevölkerung zu kümmern.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/03/e5cfb0e8-c1bf-4bbe-a57a-b6303eae9da8.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4005,4005,x998,y0",
+          "publishedAt": "2026-11-11T04:30:00.000Z"
         }
       ]
     },
@@ -210,97 +172,77 @@
         "homepage": "https://www.rts.ch/info/",
         "lang": "fr-CH"
       },
-      "fetchedAt": "2026-11-10T18:37:24.827Z",
+      "fetchedAt": "2026-11-11T06:50:57.791Z",
       "items": [
         {
-          "title": "Sabotage et drones: les producteurs d'énergie devront mieux défendre leurs installations",
-          "link": "https://www.rts.ch/info/suisse/2026/article/energie-vers-une-obligation-d-auto-defense-des-exploitants-29411976.html?rts_source=rss_t",
-          "summary": "La Confédération prépare une nouvelle base légale pour outiller les exploitants d'installations énergétiques face aux risques de sabotage et d'attaques de drones. L'armée ne pouvant sanctuariser l'ensemble du réseau, les…",
-          "image": "https://img.rts.ch/articles/2026/image/7fedcb9b-29412106.image?w=320&h=180",
-          "publishedAt": "2026-11-10T17:10:32.000Z",
-          "titleEn": "Sabotage and drones: energy producers will have to better defend their facilities",
-          "summaryEn": "The Confederation is preparing a new legal basis to equip energy facility operators with the risks of sabotage and drone attacks. Since the military can't sanction the entire network, the..."
+          "title": "Et si demain les robots fonctionnaient avec de vrais muscles?",
+          "link": "https://www.rts.ch/info/sciences-tech/2026/article/epfz-des-muscles-cultives-en-labo-pour-animer-des-robots-29404629.html?rts_source=rss_t",
+          "summary": "Une équipe de recherche de l'EPFZ développe de petits robots capables de bouger, avec des muscles cultivés en laboratoire. Les cellules proviennent de souris. Cette technologie encore expérimentale pourrait intéresser la…",
+          "image": "https://img.rts.ch/medias/2026/image/5c03ca28-29411826.image?w=320&h=180",
+          "publishedAt": "2026-11-11T05:33:49.000Z"
         },
         {
-          "title": "Podcast - Comment cohabiter avec Donald Trump?",
-          "link": "https://www.rts.ch/info/monde/2026/article/donald-trump-comment-cohabiter-avec-un-congres-hostile-29411690.html?rts_source=rss_t",
-          "summary": "Le Parti républicain a perdu la majorité à la Chambre des représentants et au Sénat lors des élections de mi-mandat le 3 novembre. Donald Trump devra donc diriger avec un Congrès en partie hostile dès janvier prochain.…",
-          "image": "https://img.rts.ch/info/monde/2026/image/09d9641b-29411683.image?w=320&h=180",
-          "publishedAt": "2026-11-10T16:59:02.000Z",
-          "titleEn": "Podcast - How to live with Donald Trump?",
-          "summaryEn": "The Republican Party lost the majority in the House of Representatives and Senate in the midterm elections on November 3. So Donald Trump will have to lead with a partially hostile Congress from next January...."
+          "title": "Lunettes de vue: que vaut vraiment le 'made in China'?",
+          "link": "https://www.rts.ch/info/sante/2026/article/lunettes-de-vue-que-vaut-le-made-in-china-29412082.html?rts_source=rss_t",
+          "summary": "Des verres progressifs dès 63 francs: la promesse des plateformes low-cost expédiant directement depuis la Chine séduit de plus en plus. L'émission A bon entendeur a fait tester six paires de lunettes. La précision de la…",
+          "image": "https://img.rts.ch/medias/2026/image/ee7960de-29412054.image?w=320&h=180",
+          "publishedAt": "2026-11-11T05:31:41.000Z"
         },
         {
-          "title": "La pétition contre CNews est enterrée par l'Assemblée nationale",
-          "link": "https://www.rts.ch/info/monde/2026/article/cnews-la-petition-contre-la-chaine-enterree-a-l-assemblee-29411984.html?rts_source=rss_t",
-          "summary": "Les députés ont décidé mardi de classer la pétition réclamant de \"supprimer CNews de l'audiovisuel français\", malgré plus d'un million de signatures, dans un contexte de vives tensions autour de la chaîne et de sa place…",
-          "image": "https://img.rts.ch/articles/2026/image/cab1feca-29412048.image?w=320&h=180",
-          "publishedAt": "2026-11-10T16:39:35.000Z",
-          "titleEn": "The petition against CNews is buried by the National Assembly",
-          "summaryEn": "MEPs decided on Tuesday to classify the petition calling for \"the removal of CNews from the French audiovisual network\", despite more than a million signatures, amid heightened tensions around the channel and its place..."
+          "title": "Un incendie dans un port stratégique de Russie après une attaque de drones",
+          "link": "https://www.rts.ch/info/dossiers/2022/guerre-en-ukraine/2026/article/drones-ukrainiens-un-port-strategique-en-feu-en-russie-29412460.html?rts_source=rss_t",
+          "summary": "Une attaque de drones ukrainiens a provoqué mercredi un incendie dans le port d'Oust-Louga sur la mer Baltique, a indiqué le gouverneur de la région de Leningrad, dans le nord-ouest de la Russie. Le site a déjà été visé…",
+          "image": "https://img.rts.ch/articles/2026/image/86c65791-29412461.image?w=320&h=180",
+          "publishedAt": "2026-11-11T04:38:49.000Z"
         },
         {
-          "title": "Un entrepreneur condamné dans le cas de la pollution de la carrière de Mitholz",
-          "link": "https://www.rts.ch/info/regions/berne/2026/article/carriere-de-mitholz-un-patron-condamne-a-10-mois-avec-sursis-29412030.html?rts_source=rss_t",
-          "summary": "Le patron d'une entreprise bernoise de transport a été condamné mardi à une peine de prison de 10 mois avec sursis pour avoir déposé illégalement durant des années de matériaux pollués dans la carrière de Mitholz, non…",
-          "image": "https://img.rts.ch/articles/2026/image/df34b09b-29412043.image?w=320&h=180",
-          "publishedAt": "2026-11-10T16:37:19.000Z",
-          "titleEn": "A contractor convicted of contaminating Mitholz's quarry",
-          "summaryEn": "The head of a Bernese transport company was sentenced on Tuesday to a 10-month suspended prison term for illegally depositing contaminated materials in Mitholz's quarry for years, not..."
+          "title": "Le Brésil amende Meta pour inégalité de traitement lors de la présidentielle",
+          "link": "https://www.rts.ch/info/monde/2026/article/bresil-meta-ecope-de-1-1-million-de-francs-d-amende-29412452.html?rts_source=rss_t",
+          "summary": "La justice brésilienne a infligé mardi une amende au géant des technologies Meta, pour non-respect de l'égalité de traitement sur ses plateformes entre le président Lula et son rival Flávio Bolsonaro durant l'élection…",
+          "image": "https://img.rts.ch/articles/2026/image/18180477-29412453.image?w=320&h=180",
+          "publishedAt": "2026-11-11T03:51:43.000Z"
         },
         {
-          "title": "L'écrivain Michel Houellebecq inculpé pour des propos hostiles aux musulmans",
-          "link": "https://www.rts.ch/info/monde/2026/article/michel-houellebecq-inculpe-pour-provocation-a-la-discrimination-29411998.html?rts_source=rss_t",
-          "summary": "L'écrivain Michel Houellebecq a été inculpé mardi par un juge d'instruction français pour complicité de provocation à la discrimination, à la haine ou à la violence, a appris l'AFP de source proche du dossier.",
-          "image": "https://img.rts.ch/articles/2026/image/e2cf9201-29412003.image?w=320&h=180",
-          "publishedAt": "2026-11-10T16:34:46.000Z",
-          "titleEn": "Writer Michel Houellebecq accused of speaking out against Muslims",
-          "summaryEn": "Writer Michel Houellebecq was indicted Tuesday by a French investigating judge for complicity in inciting discrimination, hatred or violence, sources close to the case told AFP."
+          "title": "La procédure de destitution de Pete Hegesth, renvoyée par les républicains au Congrès",
+          "link": "https://www.rts.ch/info/monde/2026/article/pete-hegseth-la-procedure-de-destitution-ecartee-au-congres-29412442.html?rts_source=rss_t",
+          "summary": "La procédure de destitution contre le ministre américain de la Défense, Pete Hegseth, a été tuée dans l'œuf mardi, par les députés républicains qui offrent un répit au chef du Pentagone. La majorité démocrate au Congrès…",
+          "image": "https://img.rts.ch/articles/2026/image/24ba12b7-29412444.image?w=320&h=180",
+          "publishedAt": "2026-11-11T02:24:59.000Z"
         },
         {
-          "title": "Volodymyr Zelensky salue une première journée de pourparlers \"constructive et assez substantielle\" à Abou Dhabi",
-          "link": "https://www.rts.ch/info/monde/2026/article/guerre-en-ukraine-usa-russie-et-kiev-negocient-a-abou-dhabi-29411432.html?rts_source=rss_t",
-          "summary": "Le président ukrainien Volodymyr Zelensky a qualifié la première journée de pourparlers sous médiation américaine entre Kiev et Moscou, mardi à Abou Dhabi, de \"constructive et assez substantielle\". Le secrétaire d'État…",
-          "image": "https://img.rts.ch/articles/2026/image/cbcd6ff3-29412132.image?w=320&h=180",
-          "publishedAt": "2026-11-10T16:30:00.000Z",
-          "titleEn": "Volodymyr Zelensky welcomes a first day of \"constructive and substantive\" talks in Abu Dhabi",
-          "summaryEn": "Ukrainian President Volodymyr Zelensky called the first day of US-mediated talks between Kiev and Moscow on Tuesday in Abu Dhabi \"constructive and quite substantive\". The secretary of state..."
+          "title": "La gauche fribourgeoise vise un troisième siège au Conseil d'Etat",
+          "link": "https://www.rts.ch/info/regions/fribourg/2026/article/fribourg-la-gauche-vise-un-3e-siege-au-conseil-d-etat-29412353.html?rts_source=rss_t",
+          "summary": "L’Alliance de gauche partira à trois candidates pour le deuxième tour de l'élection au Conseil d’Etat fribourgeois le 29 novembre. La liste comprend, sans surprise, la verte sortante Sylvie Bonvin-Sansonnens ainsi que…",
+          "image": "https://img.rts.ch/articles/2026/image/1ffd084e-29412356.image?w=320&h=180",
+          "publishedAt": "2026-11-10T21:53:24.000Z"
         },
         {
-          "title": "Le PS et les Vert-e-s lancent leur campagne pour le Conseil d'Etat vaudois",
-          "link": "https://www.rts.ch/info/regions/vaud/2026/article/conseil-d-etat-vaudois-ps-et-vert-e-s-lancent-leur-campagne-29412059.html?rts_source=rss_t",
-          "summary": "Socialistes et Vert-e-s vaudois lancent leur campagne pour l'élection au Conseil d'Etat en février et mars prochains. Avec une volonté: fixer \"d'autres priorités\" que l'actuelle majorité de droite pour \"répondre…",
-          "image": "https://img.rts.ch/articles/2026/image/063fcb60-29412074.image?w=320&h=180",
-          "publishedAt": "2026-11-10T16:21:17.000Z",
-          "titleEn": "The PS and the Greens launch their campaign for the Waldo State Council",
-          "summaryEn": "Socialists and the Waldo Green Party are launching their campaign for the election to the Council of State in February and March. With one intention: to set \"priorities other than those of the current right-wing majority\" to \"response..."
+          "title": "A Genève, les employés de l'OIT se mobilisent contre les suppressions d'emplois",
+          "link": "https://www.rts.ch/info/regions/geneve/2026/article/oit-mobilisation-a-geneve-contre-les-suppressions-d-emplois-29412153.html?rts_source=rss_t",
+          "summary": "Près de 300 employés et retraités de l'OIT ont protesté de manière inédite dans leur enceinte à Genève face aux coupes. Accompagnés par les syndicats genevois, ils souhaitent que leurs propositions soient prises au…",
+          "image": "https://img.rts.ch/articles/2026/image/0cb8f60e-29411768.image?w=320&h=180",
+          "publishedAt": "2026-11-10T20:50:30.000Z"
         },
         {
-          "title": "L'auteur britannique de science-fiction M. John Harrison gagne le Booker Prize 2026",
-          "link": "https://www.rts.ch/info/culture/livres/2026/article/booker-prize-2026-m-john-harrison-l-emporte-a-81-ans-29411848.html?rts_source=rss_t",
-          "summary": "Le Booker Prize a été attribué au Britannique Michael John Harrison, dit M. John Harrison, pour son roman post-apocalyptique 'The End of Everything'. Le prestigieux prix littéraire récompensant des oeuvres de fiction en…",
-          "image": "https://img.rts.ch/info/culture/livres/2026/image/464433c5-29411868.image?w=320&h=180",
-          "publishedAt": "2026-11-10T16:13:34.000Z",
-          "titleEn": "The British science fiction author Mr. John Harrison wins the 2026 Booker Prize",
-          "summaryEn": "The Booker Prize has been awarded to the British man Michael John Harrison, said Mr. John Harrison, for his post-apocalyptic novel The End of Everything. The prestigious literary award for fiction in..."
+          "title": "Les députés fribourgeois acceptent le budget 2027 de l'Etat",
+          "link": "https://www.rts.ch/info/regions/fribourg/2026/article/fribourg-le-grand-conseil-adopte-le-budget-2027-29412146.html?rts_source=rss_t",
+          "summary": "Les députés fribourgeois ont voté mardi le budget 2027 de l'Etat, malgré des critiques de la droite et de la gauche. La copie prévoit un bénéfice de 222'493 francs, respectant le principe constitutionnel de l'équilibre,…",
+          "image": "https://img.rts.ch/articles/2026/image/f369b699-29412148.image?w=320&h=180",
+          "publishedAt": "2026-11-10T20:11:54.000Z"
         },
         {
-          "title": "L'actrice française Angèle Metzger, vedette de 'Chair tendre', est morte à 28 ans",
-          "link": "https://www.rts.ch/info/culture/series/2026/article/angele-metzger-l-actrice-de-chair-tendre-decede-a-28-ans-29411870.html?rts_source=rss_t",
-          "summary": "C'était l'une des étoiles montantes de la télévision française. La jeune actrice Angèle Metzger, qui jouait le rôle principal de Sasha dans la série 'Chair tendre', a été retrouvée morte samedi en Seine-Saint-Denis (F),…",
-          "image": "https://img.rts.ch/medias/2025/image/0412be4b-28909637.image?w=320&h=180",
-          "publishedAt": "2026-11-10T15:39:35.000Z",
-          "titleEn": "French actress Angèle Metzger, star of 'Tender Chair', has died aged 28",
-          "summaryEn": "She was one of the rising stars on French television. Young actress Angèle Metzger, who played the lead role of Sasha in the series 'Tender Chair', was found dead on Saturday in Seine-Saint-Denis, France."
+          "title": "Eric Zemmour annonce sa candidature à l'élection présidentielle française",
+          "link": "https://www.rts.ch/info/monde/2026/article/presidentielle-francaise-eric-zemmour-annonce-sa-candidature-29412325.html?rts_source=rss_t",
+          "summary": "Le président du parti d'extrême droite Reconquête!, Eric Zemmour, a annoncé officiellement mardi soir sur TF1 sa candidature à la présidentielle du printemps. Il veut \"enrayer\" le \"déclin\" et \"conserver une France…",
+          "image": "https://img.rts.ch/articles/2026/image/15c5ead3-29412323.image?w=320&h=180",
+          "publishedAt": "2026-11-10T20:03:18.000Z"
         },
         {
-          "title": "Genève doit faire mieux en matière de gestion des crues et des sécheresses, selon la Cour des comptes",
-          "link": "https://www.rts.ch/info/regions/geneve/2026/article/geneve-la-cour-des-comptes-critique-la-gestion-de-l-eau-29411928.html?rts_source=rss_t",
-          "summary": "La coopération transfrontalière en matière de prévention et de gestion des inondations et des sécheresses dans le bassin genevois n'est de loin pas optimale. Ce constat émane d'un rapport commun de la Cour des comptes de…",
-          "image": "https://img.rts.ch/medias/2026/image/c523b2ef-29411831.image?w=320&h=180",
-          "publishedAt": "2026-11-10T15:14:46.000Z",
-          "titleEn": "Geneva must do better in flood and drought management, according to the Court of Auditors",
-          "summaryEn": "Crossborder cooperation in the prevention and management of floods and droughts in the Geneva basin is far from optimal. This finding comes from a joint report by the Court of Auditors of..."
+          "title": "Gadi Eisenkot passe à l'offensive contre Benjamin Netanyahu au nouveau Parlement israélien",
+          "link": "https://www.rts.ch/info/monde/2026/article/israel-gadi-eisenkot-passe-a-l-offensive-contre-netanyahu-29412186.html?rts_source=rss_t",
+          "summary": "Gadi Eisenkot a lancé mardi une offensive législative contre le Premier ministre sortant Benjamin Netanyahu. Il a déposé un projet de loi pour enquêter sur le 7-Octobre, dès la prise de fonction du nouveau Parlement qui…",
+          "image": "https://img.rts.ch/articles/2026/image/07fa502d-29412189.image?w=320&h=180",
+          "publishedAt": "2026-11-10T19:27:09.000Z"
         }
       ]
     }
