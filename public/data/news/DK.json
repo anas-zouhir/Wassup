@@ -14,57 +14,68 @@
           "title": "Armbånd med safir fra Romanov-dynastiet solgt for svimlende millionbeløb",
           "link": "https://www.dr.dk/nyheder/seneste/armbaand-med-safir-fra-romanov-dynastiet-solgt-svimlende-millionbeloeb",
           "image": "https://asset.dr.dk/drdk/umbraco-images/nrxj4doj/sothesby_crop001.png?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-12T18:34:47.000Z"
+          "publishedAt": "2026-11-12T18:34:47.000Z",
+          "titleEn": "Romanov dynasty sapphire bracelets sold for a staggering million"
         },
         {
           "title": "Næste års Nato-topmøde kommer ikke til at foregå i Tirana alligevel",
           "link": "https://www.dr.dk/nyheder/seneste/naeste-aars-nato-topmoede-kommer-ikke-til-foregaa-i-tirana-alligevel",
-          "publishedAt": "2026-11-12T18:12:49.000Z"
+          "publishedAt": "2026-11-12T18:12:49.000Z",
+          "titleEn": "Next year's NATO summit won't be held in Tirana anyway"
         },
         {
           "title": "Militærhelikopter styrtet ned i Tyrkiet",
           "link": "https://www.dr.dk/nyheder/seneste/militaerhelikopter-styrtet-ned-i-tyrkiet",
-          "publishedAt": "2026-11-12T18:11:54.000Z"
+          "publishedAt": "2026-11-12T18:11:54.000Z",
+          "titleEn": "Military helicopter shot down in Turkey"
         },
         {
           "title": "Uheld på Øresundsmotorvejen - bil er rullet om på taget",
           "link": "https://www.dr.dk/nyheder/seneste/uheld-paa-oeresundsmotorvejen-bil-er-rullet-om-paa-taget",
           "image": "https://asset.dr.dk/drdk/umbraco-images/mtjpuhxm/20261112-173710-l_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-12T16:52:19.000Z"
+          "publishedAt": "2026-11-12T16:52:19.000Z",
+          "titleEn": "Oresund motorway accident - car rolled over on the roof"
         },
         {
           "title": "Dom i Christiansø-drama lader vente på sig",
           "link": "https://www.dr.dk/nyheder/seneste/dom-i-christiansoe-drama-lader-vente-paa-sig",
           "image": "https://asset.dr.dk/drdk/umbraco-images/jfseumga/20261112-163759-4_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-12T16:12:28.000Z"
+          "publishedAt": "2026-11-12T16:12:28.000Z",
+          "titleEn": "Judgment in the Christian drama awaits"
         },
         {
           "title": "Grønland skifter tidszone",
           "link": "https://www.dr.dk/nyheder/seneste/groenland-skifter-tidszone",
           "summary": "For tre år siden gik Grønland fra en tidszone til en anden. Nu går man tilbage til den gamle.",
           "image": "https://asset.dr.dk/drdk/umbraco-images/ljppo2uw/20260923-205707-l_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-12T15:37:22.000Z"
+          "publishedAt": "2026-11-12T15:37:22.000Z",
+          "titleEn": "Greenland changing time zones",
+          "summaryEn": "Three years ago, Greenland went from one time zone to another. Now we're going back to the old one."
         },
         {
           "title": "Aalborg eller Helsingør skal være europæisk kulturhovedstad",
           "link": "https://www.dr.dk/nyheder/seneste/aalborg-eller-helsingoer-skal-vaere-europaeisk-kulturhovedstad",
-          "publishedAt": "2026-11-12T15:11:06.000Z"
+          "publishedAt": "2026-11-12T15:11:06.000Z",
+          "titleEn": "Aalborg or Helsinki must be the European Capital of Culture"
         },
         {
           "title": "Britisk domstol finder to iranere skyldige i spionage",
           "link": "https://www.dr.dk/nyheder/seneste/britisk-domstol-finder-iranere-skyldige-i-spionage",
-          "publishedAt": "2026-11-12T14:45:34.000Z"
+          "publishedAt": "2026-11-12T14:45:34.000Z",
+          "titleEn": "British court finds two Iranians guilty of espionage"
         },
         {
           "title": "Rolling Stones-guitarist bliver hovednavn på dansk festival",
           "link": "https://www.dr.dk/nyheder/seneste/rolling-stones-guitarist-bliver-hovednavn-paa-dansk-festival",
           "image": "https://asset.dr.dk/drdk/umbraco-images/svtpsdoo/20260911-000153-6_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-12T14:15:17.000Z"
+          "publishedAt": "2026-11-12T14:15:17.000Z",
+          "titleEn": "Rolling Stones guitarist becomes the main name at Danish festival"
         },
         {
           "title": "Skadelig kode fjernet fra over 600 hjemmesider",
           "link": "https://www.dr.dk/nyheder/seneste/skadelige-koder-fjernet-fra-over-600-hjemmesider",
-          "publishedAt": "2026-11-12T13:53:47.000Z"
+          "publishedAt": "2026-11-12T13:53:47.000Z",
+          "titleEn": "Harmful code removed from over 600 websites"
         }
       ]
     },
@@ -82,69 +93,88 @@
           "link": "https://politiken.dk/danmark/politik/art11056780/DF-har-spist-en-skovsnegl-lyder-kritikken-i-bl%C3%A5-blok.-Men-Vanopslagh-har-ogs%C3%A5-en-mere-optimistisk-analyse",
           "summary": "Med sin opbakning til skatteaftalen har Dansk Folkeparti givet regeringen en strategisk sejr og skabt splittelse i blå blok, lyder kritikken. Men Vanopslagh ser nye muligheder i DF’s kovending",
           "image": "https://politiken.dk/incoming/img11058113.qmhh4x/ORIGINALS/original_960/Regeringen%20og%20DF%20pr%C3%A6senterer%20en%20aftale%20om%20en%20ny%20skattereform",
-          "publishedAt": "2026-11-12T18:32:03.000Z"
+          "publishedAt": "2026-11-12T18:32:03.000Z",
+          "titleEn": "The DF has eaten a forest needle, the critics say in blue. But Vanopslagh also has a more optimistic analysis.",
+          "summaryEn": "With its support for the tax treaty, the Danish People's Party has given the government a strategic victory and created a split in the blue bloc, the criticism says. But Vanopslagh sees new opportunities in the DF ⁇ 's coven"
         },
         {
           "title": "En gigantisk blok sne og is faldt 1.200 meter ned fra bjerget: »Selvfølgelig har det forandret os. Det har forandret os meget«",
           "link": "https://politiken.dk/internationalt/art11055191/En-gigantisk-blok-sne-og-is-faldt-1.200-meter-ned-fra-bjerget-%C2%BBSelvf%C3%B8lgelig-har-det-forandret-os.-Det-har-forandret-os-meget%C2%AB",
           "summary": "26-årige Maadhabi Pokhrel sad i Kathmandu og delte sine billeder fra en tur til Thailand på Instagram. Imens, et andet sted i Nepal, løsrev en 600 meter bred blok af sten og is sig fra en bjergside.",
           "image": "https://politiken.dk/incoming/img11056241.36s8hz/ORIGINALS/original_960/NEPAL-FLOODS-PICTURES",
-          "publishedAt": "2026-11-12T18:02:02.000Z"
+          "publishedAt": "2026-11-12T18:02:02.000Z",
+          "titleEn": "A giant block of snow and ice fell 1,200 meters from the mountain: \"Of course it has changed us. It's changed us a lot.",
+          "summaryEn": "26-year-old Maadhabi Pokhrel was in Kathmandu and shared her photos from a trip to Thailand on Instagram. Meanwhile, somewhere else in Nepal, a 600-meter-wide block of rock broke free from a mountain."
         },
         {
           "title": "Holger Rune trækker sig med skade kort før kvartfinale",
           "link": "https://politiken.dk/sport/tennis/art11058377/Holger-Rune-tr%C3%A6kker-sig-med-skade-kort-f%C3%B8r-kvartfinale",
           "summary": "Holger Rune har problemer med baglåret og har derfor trukket sig fra torsdagens kvartfinale i Stockholm.",
           "image": "https://politiken.dk/incoming/img11056543.etz5hu/ORIGINALS/original_960/TENNIS-STOCKHOLM",
-          "publishedAt": "2026-11-12T17:53:40.000Z"
+          "publishedAt": "2026-11-12T17:53:40.000Z",
+          "titleEn": "Holger Rune retires with injury shortly before the quarterfinals.",
+          "summaryEn": "Holger Rune has problems with his back and has therefore withdrawn from Thursday's quarter-final in Stockholm."
         },
         {
           "title": "Det er som at høre en dødsmetaludgave af ’Et barn er født i Betlehem’",
           "link": "https://politiken.dk/kultur/film_og_tv/filmanmeldelser/art11036189/Det-er-som-at-h%C3%B8re-en-d%C3%B8dsmetaludgave-af-%E2%80%99Et-barn-er-f%C3%B8dt-i-Betlehem%E2%80%99",
           "summary": "Det er i bund og grund bare Johnny Depp med alt for meget sminke, endnu flere manierismer og en høj hat, der blev tilovers fra en Tim Burton-film.",
           "image": "https://politiken.dk/incoming/img11052332.1s3hyz/ORIGINALS/original_960/EBZR-02234R",
-          "publishedAt": "2026-11-12T17:26:47.000Z"
+          "publishedAt": "2026-11-12T17:26:47.000Z",
+          "titleEn": "It's like hearing a death metal version of \"A baby was born in Bethlehem\".",
+          "summaryEn": "It's basically just Johnny Depp wearing too much makeup, even more manners and a high hat left over from a Tim Burton movie."
         },
         {
           "title": "Økonomer og klimafolk om lavere afgift på benzin og diesel: »Jeg synes virkelig, at det er et trafikuheld«",
           "link": "https://politiken.dk/klima/art11056990/%C2%BBJeg-synes-virkelig-at-det-er-et-trafikuheld%C2%AB",
           "summary": "Danmark risikerer en ekstraregning på 750 millioner kroner på en aftale, som undergraver klimaet og belønner de mest velhavende. I stedet kunne man have målrettet hjælpen til trængende bilister.",
           "image": "https://politiken.dk/incoming/img11058139.xae9m0/ORIGINALS/original_960/NET%20NY%20png%20kopier",
-          "publishedAt": "2026-11-12T17:07:51.000Z"
+          "publishedAt": "2026-11-12T17:07:51.000Z",
+          "titleEn": "Economists and climate experts on lower taxes on petrol and diesel:  ⁇ I really think it's a traffic accident ⁇",
+          "summaryEn": "Denmark risks an extra payment of NOK 750 million on an agreement that undermines the climate and rewards the richest. Instead, they could have targeted assistance to needy drivers."
         },
         {
           "title": "Rasmus Wallbridge udskyder sin udsolgte show-turné",
           "link": "https://politiken.dk/kultur/medier/art11058216/Rasmus-Wallbridge-udskyder-sin-udsolgte-show-turn%C3%A9",
           "image": "https://politiken.dk/incoming/img11044444.rpwq7w/ORIGINALS/original_960/SmukFest%202024",
-          "publishedAt": "2026-11-12T16:04:10.000Z"
+          "publishedAt": "2026-11-12T16:04:10.000Z",
+          "titleEn": "Rasmus Wallbridge postpones his sold-out show tour"
         },
         {
           "title": "Aalborg og Helsingør kæmper mod hinanden om at blive kulturhovedstad",
           "link": "https://politiken.dk/kultur/art11058196/Aalborg-og-Helsing%C3%B8r-k%C3%A6mper-mod-hinanden-om-at-blive-kulturhovedstad",
           "summary": "Juryen har valgt de to kommuner som finalister i kampen om at blive europæisk kulturhovedstad i 2032.",
           "image": "https://politiken.dk/incoming/img11058206.wft98e/ORIGINALS/original_960/INTERVIEW",
-          "publishedAt": "2026-11-12T16:00:32.000Z"
+          "publishedAt": "2026-11-12T16:00:32.000Z",
+          "titleEn": "Aalborg and Helsinki are fighting each other to become the cultural capital",
+          "summaryEn": "The jury has chosen the two municipalities as finalists in the fight to become European Capital of Culture in 2032."
         },
         {
           "title": "Da Catrina Vogensen startede på en uddannelse for unge med særlige behov, fandt hun sin plads i fællesskabet",
           "link": "https://politiken.dk/danmark/art11012747/Da-Catrina-Vogensen-startede-p%C3%A5-en-uddannelse-for-unge-med-s%C3%A6rlige-behov-fandt-hun-sin-plads-i-f%C3%A6llesskabet",
           "summary": "Antallet af unge, som går på en særligt tilrettelagt ungdomsuddannelse, vokser. En af eleverne er 20-årige Catrina Vogensen, som har en autismediagnose og drømmer om at blive kirketjener.",
           "image": "https://politiken.dk/incoming/img11035570.j80m39/ORIGINALS/original_960/Ung%20p%C3%A5%20en%20STU%20uddannelse",
-          "publishedAt": "2026-11-12T14:56:56.000Z"
+          "publishedAt": "2026-11-12T14:56:56.000Z",
+          "titleEn": "When Catrina Vogensen started an education for young people with special needs, she found her place in the community",
+          "summaryEn": "The number of young people attending specialised education is increasing. One of the students is 20-year-old Catrina Vogensen, who has an autism diagnosis and dreams of becoming a churchwarden."
         },
         {
           "title": "Jensen Huang stopper som topchef i Nvidia øjeblikkeligt",
           "link": "https://politiken.dk/internationalt/art11057852/Jensen-Huang-stopper-som-topchef-i-Nvidia-%C3%B8jeblikkeligt",
           "summary": "Skal vidne i Kongressen om relationen til kvinde, der mistænkes for at være kinesisk spion.",
           "image": "https://politiken.dk/incoming/img11057854.huwz0m/ORIGINALS/original_960/FILES-SINGAPORE-US-CHINA-NVIDIA-COMPUTERS-AI-MEGASPEED",
-          "publishedAt": "2026-11-12T13:56:43.000Z"
+          "publishedAt": "2026-11-12T13:56:43.000Z",
+          "titleEn": "Jensen Huang will step down as Nvidia's CEO immediately.",
+          "summaryEn": "To testify before Congress about his relationship with a woman suspected of being a Chinese spy."
         },
         {
           "title": "TV 2 afviser at undersøge ’Den sorte svane’",
           "link": "https://politiken.dk/kultur/medier/art11056930/TV-2-afviser-at-unders%C3%B8ge-%E2%80%99Den-sorte-svane%E2%80%99",
           "summary": "Politikere og mediechefer har efterlyst undersøgelse af ’Den sorte svane’. Nu svarer TV 2’s bestyrelsesleder.",
           "image": "https://politiken.dk/incoming/img11056221.d0kjen/ORIGINALS/original_960/Stills%20fra%20Den%20sorte%20svane",
-          "publishedAt": "2026-11-12T13:38:17.000Z"
+          "publishedAt": "2026-11-12T13:38:17.000Z",
+          "titleEn": "TV 2 refuses to investigate the black swan.",
+          "summaryEn": "Politicians and media executives have called for an investigation into the black swan. Now the head of TV2's board of directors answers."
         }
       ]
     },
@@ -162,69 +192,89 @@
           "link": "https://www.berlingske.dk/sport/argentinsk-landstraener-faar-fire-aar-mere-ved-roret?referrer=RSS",
           "summary": "Lionel Scaloni har underskrevet en ny kontrakt og kan nu fortsætte som argentinsk landstræner indtil 2030.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166975189.webp?t[strip]=true&t[quality]=70&accessToken=b1bdee6d6d088393f7c6f82f0c27f4a5e54451c81fb87be3d2f54def2dd7b228",
-          "publishedAt": "2026-11-12T18:37:44.000Z"
+          "publishedAt": "2026-11-12T18:37:44.000Z",
+          "titleEn": "Argentine national coach gets four more years on the pitch",
+          "summaryEn": "Lionel Scaloni has signed a new contract and can now continue as Argentina's national coach until 2030."
         },
         {
           "title": "Hvem skal være europæisk spydspids i forhandlingerne? I Dublin pegede premierminister pludselig på Mette Frederiksen",
           "link": "https://www.berlingske.dk/internationalt/hvem-skal-vaere-europaeisk-spydspids-i-forhandlingerne-i-dublin-pegede-premierminister-pludselig-paa-mette-frederiksen?referrer=RSS",
           "summary": "Presset stiger for at finde den ene person, der kan tale på Europas vegne, men spørgsmålet splitter Europas ledere. Mette Frederiksen peger på en »model, der i mine øjne kan fungere«, EU-toppen har ifølge dem selv…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166973532.webp?t[strip]=true&t[quality]=70&accessToken=589b7e28a461b6a1156505a55714200c98a0660816f20e8a34c3ea080e3c9dff",
-          "publishedAt": "2026-11-12T18:21:28.000Z"
+          "publishedAt": "2026-11-12T18:21:28.000Z",
+          "titleEn": "Who will be the European spearhead in the negotiations? In Dublin, the Prime Minister suddenly pointed to Mette Frederiksen",
+          "summaryEn": "The pressure is rising to find one person to speak for Europe, but the question is dividing Europe's leaders. Mette Frederiksen points to a model that, in my view, can work."
         },
         {
           "title": "K-pop og hybridangreb kommer nu også med i ordbog",
           "link": "https://www.berlingske.dk/danmark/k-pop-og-hybridangreb-kommer-nu-ogsaa-med-i-ordbog?referrer=RSS",
           "summary": "Den Danske Ordbog opdateres fredag med blandt andet 291 nye opslagsord. Mange forklaringer er reviderede.",
-          "publishedAt": "2026-11-12T18:01:47.000Z"
+          "publishedAt": "2026-11-12T18:01:47.000Z",
+          "titleEn": "K-pop and hybrids are now included in the dictionary.",
+          "summaryEn": "The Danish dictionary will be updated on Friday with 291 new dictionaries. Many explanations have been revised."
         },
         {
           "title": "Messerschmidt har måske begået samme brøler som Thulesen-Dahl",
           "link": "https://www.berlingske.dk/kommentatorer/messerschmidt-har-maaske-begaaet-samme-broeler-som-thulesen-dahl?referrer=RSS",
           "summary": "Skatteaftalen mellem Morten Messerschmidts DF og rødkløverregeringen udlægges mange steder som en stor sejr for Dansk Folkepartis formand. Men han skal passe på ikke at glæde sig for tidligt. I den forbindelse kunne han…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166890211.webp?t[strip]=true&t[quality]=70&accessToken=edfe3bab9f5ae7eda68eca5cb2c5a64de7b18a44aa860e6b0cd310830f61631f",
-          "publishedAt": "2026-11-12T17:57:10.000Z"
+          "publishedAt": "2026-11-12T17:57:10.000Z",
+          "titleEn": "Messerschmidt may have made the same noise as Thulesen-Dahl.",
+          "summaryEn": "The tax treaty between Morten Messerschmidt's DF and the Red Cloves government is widely seen as a major victory for the Danish People's Party chairman. But he must be careful not to rejoice too early. In that regard, he could..."
         },
         {
           "title": "Holger Rune trækker sig med skade kort før kvartfinale",
           "link": "https://www.berlingske.dk/sport/holger-rune-traekker-sig-med-skade-kort-foer-kvartfinale?referrer=RSS",
           "summary": "Holger Rune har problemer med baglåret og har derfor trukket sig fra torsdagens kvartfinale i Stockholm.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166973457.webp?t[strip]=true&t[quality]=70&accessToken=2df0ea2e299330fe17f1a2403f08c900aa794b9d42628944f1b9dc0d7f6d9db5",
-          "publishedAt": "2026-11-12T17:53:43.000Z"
+          "publishedAt": "2026-11-12T17:53:43.000Z",
+          "titleEn": "Holger Rune retires with injury shortly before the quarterfinals.",
+          "summaryEn": "Holger Rune has problems with his back and has therefore withdrawn from Thursday's quarter-final in Stockholm."
         },
         {
           "title": "Verdensberømt forfatter varslede »attentater og skyderier i moskeer« – nu risikerer han fængsel",
           "link": "https://www.berlingske.dk/samfund/verdensberoemt-forfatter-varslede-attentater-og-skyderier-i-moskeer--nu-risikerer-han-faengsel?referrer=RSS",
           "summary": "Den islamkritiske forfatter Michel Houellebecq er blevet sigtet for sine angivelig racistiske udtalelser om udskiftningen af den franske befolkning med muslimske indvandrere. Sagen vidner om et strategisk skifte i…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166953990.webp?t[strip]=true&t[quality]=70&accessToken=b84c5b7a135783e3a99c86159ca4dc44d33be3a837421c13604ebb2bf45c8d11",
-          "publishedAt": "2026-11-12T17:47:05.000Z"
+          "publishedAt": "2026-11-12T17:47:05.000Z",
+          "titleEn": "World-famous author warned of \"attacks and shootings in mosques\"",
+          "summaryEn": "Islam critic Michel Houellebecq has been accused of his allegedly racist remarks about the replacement of the French population with Muslim immigrants. The case is evidence of a strategic shift in..."
         },
         {
           "title": "Thomas Bernt: Messerschmidt fik småpenge. Regeringen fik 36,7 milliarder",
           "link": "https://www.berlingske.dk/kommentar/thomas-bernt-messerschmidt-fik-smaapenge-regeringen-fik-367-milliarder?referrer=RSS",
           "summary": "Nul indflydelse på den politiske substans i skatteaftalen er slutresultat for Morten Messerschmidt og blå blok.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166939532.webp?t[strip]=true&t[quality]=70&accessToken=5314e9234bbc1feadf2ee8180fdca9dc092e5a0c682771b4d2b3fb08b78879a2",
-          "publishedAt": "2026-11-12T17:41:13.000Z"
+          "publishedAt": "2026-11-12T17:41:13.000Z",
+          "titleEn": "Thomas Bernt: Messerschmidt was given a small amount of money. The government received 36.7 billion",
+          "summaryEn": "Zero influence on the political substance of the tax agreement is the final result of Morten Messerschmidt and the Blue Bloc."
         },
         {
           "title": "Jensen Huang skal vidne i Kongressen inden for to uger",
           "link": "https://www.berlingske.dk/internationalt/jensen-huang-skal-vidne-i-kongressen-inden-for-to-uger?referrer=RSS",
           "summary": "Jensen Huang skal inden thanksgiving vidne i Kongressen om mistænkt spion, der har kostet ham Nvidia-toppost.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166973095.webp?t[strip]=true&t[quality]=70&accessToken=ee3abf0651c67c8f4c3601dced9128caf85a1044b9672c4f545e26fb3df185db",
-          "publishedAt": "2026-11-12T17:25:46.000Z"
+          "publishedAt": "2026-11-12T17:25:46.000Z",
+          "titleEn": "Jensen Huang is due to testify before Congress in two weeks.",
+          "summaryEn": "Before Thanksgiving, Jensen Huang will testify before Congress about a suspected spy who cost him Nvidia's top job."
         },
         {
           "title": "Business-update: Rigmands indtog i sjællandsk by vækker forargelse: »Her tænker man på pengene«",
           "link": "https://www.berlingske.dk/virksomheder/business-update-rigmands-indtog-i-sjaellandsk-by-vaekker-forargelse-her-taenker-man-paa-pengene?referrer=RSS",
           "summary": "Huslejen stiger på Vestsjælland, og Danish Crown tages til nåde af grisebaron. Sådan kan man sammenfatte overskrifterne i denne torsdags nyhedsoverflyvning fra Berlingske Business.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166949979.webp?t[strip]=true&t[quality]=70&accessToken=db79113af7c09c4d186180c224ca6aeb849a52c68c3d8ddddb935c586692b3bd",
-          "publishedAt": "2026-11-12T17:10:21.000Z"
+          "publishedAt": "2026-11-12T17:10:21.000Z",
+          "titleEn": "Business-update: Rich man's move to a ghost town sparks outrage:",
+          "summaryEn": "The lease is rising in West Zealand, and the Danish Crown is being taken at the mercy of the pig baron. This is how the headlines of this Thursday's newscast from Berlingske Business can be summarized."
         },
         {
           "title": "Pludselig tog forhandlingerne en uventet drejning. Så opstod et unikt samarbejde mellem DF og Dansk Industri",
           "link": "https://www.berlingske.dk/politik/pludselig-tog-forhandlingerne-en-uventet-drejning-saa-opstod-et-unikt-samarbejde-mellem-df-og-dansk-industri?referrer=RSS",
           "summary": "DF og Dansk Industri har ikke altid været perlevenner, men under intense skatteforhandlinger blev et tæt og tillidsfuldt samarbejde cementeret. Det får nu landets største erhvervsorganisation til at rose Morten…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166910637.webp?t[strip]=true&t[quality]=70&accessToken=47d3158764fc62492a90221823b34252f11041efcaca5e0b5db17b3c56c49afb",
-          "publishedAt": "2026-11-12T17:05:18.000Z"
+          "publishedAt": "2026-11-12T17:05:18.000Z",
+          "titleEn": "Suddenly, the negotiations took an unexpected turn. This led to a unique collaboration between DF and Danish Industry.",
+          "summaryEn": "DF and Danish Industry have not always been pearl friends, but during intense tax negotiations a close and trusting cooperation was cemented. It's now the biggest business organization in the country to praise Morten..."
         }
       ]
     }
