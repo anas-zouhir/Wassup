@@ -8,8 +8,20 @@
         "homepage": "https://www.jornalnoticias.co.mz",
         "lang": "pt-MZ"
       },
-      "fetchedAt": "2026-11-11T18:44:09.245Z",
+      "fetchedAt": "2026-11-12T06:52:50.530Z",
       "items": [
+        {
+          "title": "Talapa concede audiência à princesa da Jordania",
+          "link": "https://www.jornalnoticias.co.mz/destaque/talapa-concede-audiencia-a-princesa-da-jordania/",
+          "summary": "A Presidente da Assembleia da República, Margarida Talapa, recebe em audiência, esta quinta-feira (12 de Novembro), a Princesa Sarah Zeid da Jordânia.Sarah… O conteúdo Talapa concede audiência à princesa da Jordania…",
+          "publishedAt": "2026-11-12T04:28:20.000Z"
+        },
+        {
+          "title": "Banca aumenta depósitos, mas reduz crédito à economia",
+          "link": "https://www.jornalnoticias.co.mz/destaque/banca-aumenta-depositos-mas-reduz-credito-a-economia/",
+          "summary": "O SECTOR bancário moçambicano registou um crescimento de 10,1 por cento nos depósitos de clientes, que atingiram 787,5 mil milhões de meticais… O conteúdo Banca aumenta depósitos, mas reduz crédito à economia aparece…",
+          "publishedAt": "2026-11-12T04:19:29.000Z"
+        },
         {
           "title": "Banca lança prémio de jornalismo sobre segurança digital",
           "link": "https://www.jornalnoticias.co.mz/destaque/banca-lanca-premio-de-jornalismo-sobre-seguranca-digital/",
@@ -73,22 +85,6 @@
           "publishedAt": "2026-11-11T12:15:00.000Z",
           "titleEn": "Assa Matusse in concert this Saturday at the EMU",
           "summaryEn": "The singer Assa Matusse performs on Saturday, November 14, at the Campus of Eduardo Mondlane University (UEM)."
-        },
-        {
-          "title": "Kanyaka suspende navegação e vai à manutenção",
-          "link": "https://www.jornalnoticias.co.mz/destaque/kanyaka-suspende-navegacao-e-vai-a-manutencao/",
-          "summary": "A ligação entre o distrito municipal de KaNyaka e a cidade de Maputo está condicionada, devido à paralisação temporária da embarcação Kanyaka,… O conteúdo Kanyaka suspende navegação e vai à manutenção aparece primeiro em…",
-          "publishedAt": "2026-11-11T12:05:55.000Z",
-          "titleEn": "Kanyaka suspends navigation and goes to maintenance",
-          "summaryEn": "The connection between KaNyaka Municipal District and Maputo City is conditioned due to the temporary shutdown of the vessel Kanyaka... the Kanyaka content suspends navigation and goes to maintenance appears first in..."
-        },
-        {
-          "title": "PM: Moçambique possui condições privilegiadas no sector energético",
-          "link": "https://www.jornalnoticias.co.mz/destaque/pm-mocambique-possui-condicoes-privilegiadas-no-sector-energetico/",
-          "summary": "Moçambique reúne condições privilegiadas e competitivas para se afirmar como um importante centro de desenvolvimento energético, em África e como parceiro estratégico… O conteúdo PM: Moçambique possui condições…",
-          "publishedAt": "2026-11-11T11:41:38.000Z",
-          "titleEn": "PM: Mozambique has privileged conditions in the energy sector",
-          "summaryEn": "Mozambique is meeting privileged and competitive conditions to assert itself as an important centre for energy development in Africa and as a strategic partner..."
         }
       ]
     },
@@ -99,8 +95,31 @@
         "homepage": "https://opais.co.mz",
         "lang": "pt-MZ"
       },
-      "fetchedAt": "2026-11-11T18:44:06.105Z",
+      "fetchedAt": "2026-11-12T06:52:47.008Z",
       "items": [
+        {
+          "title": "MEC promove diálogo sobre monetização dos direitos do autor",
+          "link": "https://opais.co.mz/mec-promove-dialogo-sobre-monetizacao-dos-direitos-do-autor/",
+          "summary": "O Ministério da Educação e Cultura promove, esta quinta-feira, em Maputo, um diálogo sobre o uso e a monetização dos direitos de autor e direitos conexos, com o objectivo de reforçar a cooperação entre criadores,…",
+          "publishedAt": "2026-11-12T06:41:29.000Z"
+        },
+        {
+          "title": "CAPA DO JORNAL 12.11.2026",
+          "link": "https://opais.co.mz/capa-do-jornal-12-11-2026/",
+          "publishedAt": "2026-11-12T05:45:29.000Z"
+        },
+        {
+          "title": "Banco Mundial defende flexibilização de financiamentos de projectos no País",
+          "link": "https://opais.co.mz/banco-mundial-defende-flexibilizacao-de-financiamentos-de-projectos-no-pais/",
+          "summary": "O Banco Mundial reconhece a necessidade de flexibilizar os mecanismos de financiamento de projectos em Moçambique para garantir a transformação de recursos naturais em desenvolvimento para Moçambique. A relação entre…",
+          "publishedAt": "2026-11-11T20:00:26.000Z"
+        },
+        {
+          "title": "Parlamento aprova lei de financiamento colaborativo",
+          "link": "https://opais.co.mz/parlamento-aprova-lei-de-financiamento-colaborativo/",
+          "summary": "A Assembleia da República aprovou, nesta quarta-feira, na generalidade, a proposta de lei que estabelece o Regime Jurídico do Financiamento Colaborativo, também conhecido por crowdfunding, uma iniciativa do Governo que…",
+          "publishedAt": "2026-11-11T19:28:10.000Z"
+        },
         {
           "title": "Mais de 230 mil famílias vulneráveis vão receber 7.500 meticais no País",
           "link": "https://opais.co.mz/mais-de-230-mil-familias-vulneraveis-vao-receber-7-500-meticais-no-pais/",
@@ -108,38 +127,6 @@
           "publishedAt": "2026-11-11T18:29:13.000Z",
           "titleEn": "More than 230,000 vulnerable families will receive 7,500 meticals in the country",
           "summaryEn": "More than 230,000 vulnerable households will receive assistance of 7,500 metric tons each to cope with the effects of the El Niño drought. Support was announced by the government in the district of..."
-        },
-        {
-          "title": "SERNIC apresenta mais um suspeito de assassinato de Dom Osório Citorra",
-          "link": "https://opais.co.mz/sernic-apresenta-mais-um-suspeito-de-assassinato-de-dom-osorio-citorra/",
-          "summary": "O Serviço Nacional de Investigação Criminal (SERNIC), na Zambézia, apresentou, nesta quarta-feira, um cidadão de 46 anos de idade, alegadamente envolvido no assassinato do antigo bispo da Diocese de Quelimane, Dom Osório…",
-          "publishedAt": "2026-11-11T18:00:15.000Z",
-          "titleEn": "SERNIC presents another suspect in the murder of Don Osorio Citorra",
-          "summaryEn": "The National Criminal Investigative Service (SERNIC) in Zambia on Wednesday unveiled a 46-year-old citizen allegedly involved in the murder of the former bishop of the Diocese of Quelimane, Don Osorio..."
-        },
-        {
-          "title": "UP Maputo instala centro de radiotelescópio para pesquisa em astronomia",
-          "link": "https://opais.co.mz/up-maputo-instala-centro-de-radiotelescopio-para-pesquisa-em-astronomia/",
-          "summary": "A Universidade Pedagógica de Maputo está a instalar um radiotelescópio que vai permitir observar o céu através de ondas de rádio. Ao nível do continente, é o quarto centro a ser instalado e vai abrir novas oportunidades…",
-          "publishedAt": "2026-11-11T17:51:58.000Z",
-          "titleEn": "UP Maputo establishes a radio telescope centre for research in astronomy",
-          "summaryEn": "Maputo Pedagogical University is installing a radio telescope that will allow you to observe the sky through radio waves. At the continental level, it's the fourth center to be installed and it will open up new opportunities..."
-        },
-        {
-          "title": "Maria Manuela Lucas confere posse aos novos directores",
-          "link": "https://opais.co.mz/maria-manuela-lucas-confere-posse-aos-novos-directores/",
-          "summary": "A Ministra dos Negócios Estrangeiros e Cooperação, Maria Manuela dos Santos Lucas, conferiu posse na quarta-feira, à nova Directora para Integração Regional e Continental, Lúcia Cherinda e ao novo Director Adjunto para…",
-          "publishedAt": "2026-11-11T17:00:40.000Z",
-          "titleEn": "Maria Manuela Lucas gives possession to the new directors",
-          "summaryEn": "The Minister of Foreign Affairs and Cooperation, Maria Manuela dos Santos Lucas, took office on Wednesday, the new Director for Regional and Continental Integration, Lúcia Cherinda and the new Deputy Director for..."
-        },
-        {
-          "title": "Tshisekedi avança para nova Constituição e para terceiro mandato",
-          "link": "https://opais.co.mz/tshisekedi-avanca-para-nova-constituicao-e-para-terceiro-mandato/",
-          "summary": "O Presidente da República Democrática do Congo promulgou uma lei que abre caminho à alteração da Constituição, num contexto de tensões com a oposição, que o acusa de tentar manter-se no poder para um terceiro mandato. O…",
-          "publishedAt": "2026-11-11T16:34:29.000Z",
-          "titleEn": "Tshisekedi advances to a new constitution and a third term",
-          "summaryEn": "The President of the Democratic Republic of Congo has enacted a law that paves the way for constitutional change, amid tensions with the opposition, accusing him of trying to stay in power for a third term. I mean, the..."
         }
       ]
     },
@@ -150,8 +137,50 @@
         "homepage": "https://clubofmozambique.com",
         "lang": "en-MZ"
       },
-      "fetchedAt": "2026-11-11T18:44:06.568Z",
+      "fetchedAt": "2026-11-12T06:52:48.058Z",
       "items": [
+        {
+          "title": "COP31: Mozambique needs €33.5 billion for climate resilience over next 10 years, president says",
+          "link": "https://clubofmozambique.com/news/cop31-mozambique-needs-e33-5-billion-for-climate-resilience-over-next-10-years-president-says/",
+          "summary": "Mozambican President Daniel Chapo on Wednesday appealed for €33.5 billion to strengthen climate resilience in Mozambique over the next 10 years, following more than 76 natural disasters recorded over the past 25 years.…",
+          "publishedAt": "2026-11-12T06:32:53.000Z"
+        },
+        {
+          "title": "Mozambique: SERNIC presents another suspect arrested over murder of Bishop Osório Citora Afonso — Watch",
+          "link": "https://clubofmozambique.com/news/mozambique-sernic-presents-another-suspect-arrested-over-murder-of-bishop-osorio-citora-afonso-watch/",
+          "summary": "The National Criminal Investigation Service (SERNIC) in Zambézia presented a 46-year-old man to the press on Wednesday, who is alleged to have been involved in the murder of the former Bishop of the Diocese of Quelimane,…",
+          "publishedAt": "2026-11-12T06:18:26.000Z"
+        },
+        {
+          "title": "Pope Leo returns to a national celebration in his second homeland of Peru",
+          "link": "https://clubofmozambique.com/news/pope-leo-returns-to-a-national-celebration-in-his-second-homeland-of-peru/",
+          "summary": "Pope Leo XIV declared Peru his “homeland” on Wednesday as he arrived in Lima at the start of his historic visit, returning to the place that taught him how to be a pastor and where a nationwide party erupted to welcome…",
+          "publishedAt": "2026-11-12T05:20:32.000Z"
+        },
+        {
+          "title": "Exxon files legal challenge to EU carbon capture law, FT reports",
+          "link": "https://clubofmozambique.com/news/exxon-files-legal-challenge-to-eu-carbon-capture-law-ft-reports/",
+          "summary": "ExxonMobil has filed a confidential legal challenge to the European Union’s carbon capture rules, the Financial Times ​reported on Wednesday, citing a memo from the European ‌Commission. Here are a few details. The oil…",
+          "publishedAt": "2026-11-12T05:13:58.000Z"
+        },
+        {
+          "title": "Mozambique: ENH chief puts local content at centre of gas development strategy",
+          "link": "https://clubofmozambique.com/news/mozambique-enh-chief-puts-local-content-at-centre-of-gas-development-strategy/",
+          "summary": "Local content must be at the centre of Mozambique’s hydrocarbon development strategy to ensure that the country’s resources generate prosperity in Mozambique. This position was defended on Wednesday (11 November) in…",
+          "publishedAt": "2026-11-12T04:55:03.000Z"
+        },
+        {
+          "title": "Mozambique: Defence Minister reviews mining-related security challenges in Manica and Tete provinces",
+          "link": "https://clubofmozambique.com/news/mozambique-defence-minister-reviews-mining-related-security-challenges-in-manica-and-tete-provinces/",
+          "summary": "Defence Minister Cristóvão Chume visited the provinces of Manica and Tete on Tuesday, 10 November 2026, where he reviewed the situation regarding mining activities and held working meetings with local authorities, with…",
+          "publishedAt": "2026-11-12T04:36:44.000Z"
+        },
+        {
+          "title": "Chery recalls thousands of vehicles in South Africa over safety",
+          "link": "https://clubofmozambique.com/news/chery-recalls-thousands-of-vehicles-in-south-africa-over-safety/",
+          "summary": "Chinese auto manufacturer Chery South Africa recalled thousands of vehicles to check for potential faults, and the nation’s consumer watchdog said it had launched an investigation into the company. The recall affects…",
+          "publishedAt": "2026-11-12T04:10:23.000Z"
+        },
         {
           "title": "Mozambique: Sasol and ENH sign MoU to assess Inhassoro-Beira LNG terminal feasibility",
           "link": "https://clubofmozambique.com/news/mozambique-sasol-and-enh-sign-mou-to-assess-inhassoro-beira-lng-terminal-feasibility/",
@@ -169,48 +198,6 @@
           "link": "https://clubofmozambique.com/news/mozambique-transformer-theft-forces-suspension-of-night-flights-at-lichinga-airport-aeroportos-de-mocambique/",
           "summary": "The theft of transformers supplying around 40 runway lights at Lichinga Airport has forced the suspension of night flights, causing losses of 20.5 million meticais, the management of Aeroportos de Moçambique (AdM) said…",
           "publishedAt": "2026-11-11T16:33:18.000Z"
-        },
-        {
-          "title": "Mozambique: Attorney-General demands anti-corruption drive and internal clean-up at SERNIC",
-          "link": "https://clubofmozambique.com/news/mozambique-attorney-general-demands-anti-corruption-drive-and-internal-clean-up-at-sernic/",
-          "summary": "Attorney-General, Américo Julião Letela, said on Wednesday, 11 November, that integrity, discipline and internal control mechanisms within the National Criminal Investigation Service (SERNIC) needed to be strengthened,…",
-          "publishedAt": "2026-11-11T15:14:41.000Z"
-        },
-        {
-          "title": "Mozambique’s natural resources must translate into wealth for the people, Prime Minister tells Africa Gas & LNG Summit",
-          "link": "https://clubofmozambique.com/news/mozambiques-natural-resources-must-translate-into-wealth-for-the-people-prime-minister-tells-africa-gas-lng-summit/",
-          "summary": "The Mozambican Prime Minister has argued that natural gas exploitation must translate into wealth for the population, pointing to new legislation as a means of strengthening local content, attracting investment and…",
-          "publishedAt": "2026-11-11T14:48:39.000Z"
-        },
-        {
-          "title": "Mozambique: Nampula police deny Venâncio Mondlane trial prompted full mobilisation of the force — Carta",
-          "link": "https://clubofmozambique.com/news/mozambique-nampula-police-deny-venancio-mondlane-trial-prompted-full-mobilisation-of-force-carta/",
-          "summary": "The Police of the Republic of Mozambique (PRM) in Nampula has denied any link between the cancellation of leave and the suspension of new leave approvals and the trial of politician Venâncio Mondlane, scheduled for 17…",
-          "publishedAt": "2026-11-11T14:15:51.000Z"
-        },
-        {
-          "title": "Just In: Globeleq in talks with investors to restructure Mozambique gas project",
-          "link": "https://clubofmozambique.com/news/just-in-globeleq-in-talks-with-investors-to-restructure-mozambique-gas-project/",
-          "summary": "Independent power producer Globeleq expects to finalise a restructured financing package with investors for its $660 million gas project in Mozambique by year-end, a senior official said on Wednesday, after destructive…",
-          "publishedAt": "2026-11-11T14:01:45.000Z"
-        },
-        {
-          "title": "Mozambique: Niassa State Secretary and Lichinga mayor close ranks over airport vandalism, bringing in the Secretários de Bairro and Chefes das 10 Casas — Photos",
-          "link": "https://clubofmozambique.com/news/mozambique-niassa-state-secretary-and-lichinga-mayor-close-ranks-over-airport-vandalism-bringing-in-the-secretarios-de-bairro-and-chefes-das-10-casas-photos/",
-          "summary": "The Secretary of State in Niassa Province, Silva Livone, visited the runway area of Lichinga Airport on Tuesday, following acts of vandalism and theft of runway lighting equipment reported on 5 and 6 November. During the…",
-          "publishedAt": "2026-11-11T13:46:43.000Z"
-        },
-        {
-          "title": "Inhaca Island: Kanyaka ferry suspended for maintenance, Ribwene vessel takes over with revised timetable",
-          "link": "https://clubofmozambique.com/news/inhaca-island-kanyaka-ferry-suspended-for-maintenance-ribwene-vessel-takes-over-with-revised-timetable/",
-          "summary": "The connection between KaNyaka municipal district (Inhaca Island) and the city of Maputo has been disrupted following the temporary withdrawal of the Kanyaka vessel from service for maintenance and docking work,…",
-          "publishedAt": "2026-11-11T12:27:11.000Z"
-        },
-        {
-          "title": "Mozambique: Government to conduct inspections in over 5,000 schools",
-          "link": "https://clubofmozambique.com/news/mozambique-government-to-conduct-inspections-in-over-5000-schools/",
-          "summary": "The Mozambican education ministry plans to carry out inspections in 5,250 schools in 2027 “as part of efforts to strengthen oversight and improve the quality of education”. According to Edson Macuácua, education…",
-          "publishedAt": "2026-11-11T12:00:51.000Z"
         }
       ]
     }

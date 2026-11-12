@@ -8,7 +8,7 @@
         "homepage": "https://saharamedias.net",
         "lang": "ar-MR"
       },
-      "fetchedAt": "2026-11-11T18:44:03.340Z",
+      "fetchedAt": "2026-11-12T06:52:44.048Z",
       "items": [
         {
           "title": "الرئيس الموريتاني يدعو إلى زيادة الدعم الدولي لمواجهة التغير المناخي",
@@ -99,12 +99,17 @@
         "homepage": "https://lecalame.info",
         "lang": "fr-MR"
       },
-      "fetchedAt": "2026-11-11T18:44:03.321Z",
+      "fetchedAt": "2026-11-12T06:52:43.640Z",
       "items": [
+        {
+          "title": "Yacoub Sidiya : le parcours d’un entrepreneur mauritanien qui s’ouvre aux grandes sphères internationales",
+          "link": "https://lecalame.info/?q=node/19146",
+          "publishedAt": "2026-11-11T20:26:19.000Z"
+        },
         {
           "title": "Le PM devant l’Assemblée nationale pour la DPG: Le grand oral",
           "link": "https://lecalame.info/?q=node/19131",
-          "publishedAt": "2026-11-11T22:31:48.000Z",
+          "publishedAt": "2026-11-11T19:31:48.000Z",
           "titleEn": "The Prime Minister before the National Assembly for PDO: The big word"
         },
         {
@@ -154,12 +159,6 @@
           "link": "https://lecalame.info/?q=node/19133",
           "publishedAt": "2026-11-10T22:35:00.000Z",
           "titleEn": "Blue Tsunami, Republican debacle: Words are missing to describe the US election setback:  ⁇ The regime change ⁇  or the change of two regimes.By Ahmed Salem Elmoctar (Cheddad)"
-        },
-        {
-          "title": "Faits divers…Faits divers…",
-          "link": "https://lecalame.info/?q=node/19130",
-          "publishedAt": "2026-11-10T22:31:29.000Z",
-          "titleEn": "Different facts... Different things..."
         }
       ]
     }
