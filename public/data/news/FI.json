@@ -8,23 +8,55 @@
         "homepage": "https://yle.fi/uutiset",
         "lang": "fi"
       },
-      "fetchedAt": "2026-11-12T18:41:47.362Z",
+      "fetchedAt": "2026-11-13T06:51:10.381Z",
       "items": [
         {
-          "title": "Hunaja-ansaan astunut Jensen Huang jättää Nvidian – tämä juttu kertoo, miksi koko tapaus on merkittävä",
-          "link": "https://yle.fi/a/74-20256504?origin=rss",
-          "summary": "Jensen Huangin luotsaama Nvidia on tekoälykehityksen kannalta erittäin keskeinen yhtiö. Nyt yhtiö etsii uutta toimitusjohtajaa.",
-          "publishedAt": "2026-11-12T14:33:26.000Z",
-          "titleEn": "Jensen Huang has stepped into the honeymoon zone and is leaving Nvidia.",
-          "summaryEn": "Nvidia, chaired by Jensen Huang, is a key player in AI development. Now the company is looking for a new CEO."
+          "title": "Miljoonilla ihmisillä ympäri maailman ongelmia Microsoftin palveluiden kanssa",
+          "link": "https://yle.fi/a/74-20256719?origin=rss",
+          "summary": "Ihmisillä on vaikeuksia päästä ainakin Outlook-sähköpostiinsa ja Teams-kokouksiin.",
+          "publishedAt": "2026-11-13T05:03:56.000Z"
         },
         {
-          "title": "Asiantuntija: Valtava riski realisoitui Nvidiassa – osakekurssi syöksynyt",
-          "link": "https://yle.fi/a/74-20256669?origin=rss",
-          "summary": "OP:n Lippo Suomisen mukaan yhden miehen vallankäyttö osoittautui yhtiölle valtavaksi riskiksi, mutta nopea ero voi auttaa tilanteen yli pääsyssä.",
-          "publishedAt": "2026-11-12T15:50:22.000Z",
-          "titleEn": "Expert: A huge risk realised in Nvidia  ⁇  stock price crashed",
-          "summaryEn": "According to Lippo Suomisen of OP, a single man's power has proved to be a huge risk to the company, but a quick break-up can help to get over the situation."
+          "title": "Autokaupoilla tapahtui iso mullistus: virheen korjaus kuuluu nyt myyjälle",
+          "link": "https://yle.fi/a/74-20251616?origin=rss",
+          "summary": "Kuluttajariitalautakunta linjasi keväällä, että autossa ilmenneiden virheiden korjaaminen on kokonaan kauppiaan vastuulla.",
+          "publishedAt": "2026-11-13T03:30:35.000Z"
+        },
+        {
+          "title": "Lunta tulee tänään pyryttäen ja ajokeli on surkea",
+          "link": "https://yle.fi/a/74-20256713?origin=rss",
+          "summary": "Lunta voi kertyä perjantaina paikoin jopa 15 senttimetriä. Savukoskella tehtiin syksyn pakkasennätys: -23 astetta.",
+          "publishedAt": "2026-11-13T04:03:21.000Z"
+        },
+        {
+          "title": "Jotkut väärentävät kasvonsa saadakseen töitä – näin outo huijaus toimii",
+          "link": "https://yle.fi/a/74-20254592?origin=rss",
+          "summary": "Suomalaisrekrytoijat kohtaavat etähaastatteluissa hakijoita, jotka yrittävät huijata tekoälyn avulla. Yle testasi kasvojen ja äänen väärentämistä videopuhelussa.",
+          "publishedAt": "2026-11-13T04:30:35.000Z"
+        },
+        {
+          "title": "Aki Simunaniemi haistoi tuulivoimassa bisneksen jo 16 vuotta sitten – nyt koko perhe on miljonäärejä",
+          "link": "https://yle.fi/a/74-20256525?origin=rss",
+          "summary": "Perheen varallisuus on karttunut tuulivoimahankkeiden kehittämisessä.",
+          "publishedAt": "2026-11-13T06:30:25.000Z"
+        },
+        {
+          "title": "EU-johtajilla tänään huippukokous – aiheina Ukraina, budjetti ja tekoäly",
+          "link": "https://yle.fi/a/74-20256711?origin=rss",
+          "summary": "Epävirallinen huippukokous pidetään Irlannin Dublinissa. Suomea kokouksessa edustaa pääministeri Petteri Orpo.",
+          "publishedAt": "2026-11-13T01:38:21.000Z"
+        },
+        {
+          "title": "Tätä perjantai-iltaa 18-vuotiaat kiovalaiset nuoret eivät halua jättää väliin",
+          "link": "https://yle.fi/a/74-20254844?origin=rss",
+          "summary": "Yle seurasi, kun sotaa paenneet nuoret auttavat iäkkäitä ihmisiä Kiovassa. Avustustyö on tukenut nuorten paluuta normaaliin elämään.",
+          "publishedAt": "2026-11-13T04:53:25.000Z"
+        },
+        {
+          "title": "Koulujen opetusta sorvataan uusiksi liian kovaa vauhtia, pelkää tutkija: ”Voi johtaa siihen, ettei lähdetä ulos luokasta”",
+          "link": "https://yle.fi/a/74-20256292?origin=rss",
+          "summary": "Peruskoulun osaamisen tavoitteet muotoillaan uusiksi niin, että kaikkea voitaisiin jatkossa mitata arvosanoilla.",
+          "publishedAt": "2026-11-13T05:30:38.000Z"
         },
         {
           "title": "Enzo Pulkkinen joi paljon ja poltti vuosia – nyt hän on lähellä loppuaan ja kertoo, mitä elämä opetti",
@@ -35,60 +67,10 @@
           "summaryEn": "Lung cancer has led Hausmylly to become acquainted with Hannu  ⁇ Enzo ⁇  Pulkki to reflect on her life choices and realize how limited time is."
         },
         {
-          "title": "Analyysi: Verolistoille ovat nousseet maahanmuuttajat, ja siihen on selvät syyt",
-          "link": "https://yle.fi/a/74-20256556?origin=rss",
-          "summary": "Suomessa maahanmuuttajat ovat näkyneet tulokärjessä vasta joitakin vuosia, mutta he ovat tulleet verolistoille jäädäkseen, kirjoittaa taloustoimittaja Petteri Lindholm.",
-          "publishedAt": "2026-11-12T16:35:27.000Z",
-          "titleEn": "Analysis: Immigrants have been on the tax lists, and there are obvious reasons for that.",
-          "summaryEn": "In Finland, immigrants have only been on the income register for a few years, but they have come to stay on the tax registers, writes economic journalist Petteri Lindholm."
-        },
-        {
-          "title": "Prikaatikenraali Ukrainan iskusta venäläisten ohjuslaivaan: monimutkainen ja vaikea operaatio",
-          "link": "https://yle.fi/a/74-20256691?origin=rss",
-          "summary": "Suursaaren lähellä venäläisalukseen osunut lennokki oli Ukrainan mukaan matkannut toista tuhatta kilometriä. Se löysi maalinsa kymmenien alusten joukosta.",
-          "publishedAt": "2026-11-12T18:27:15.000Z",
-          "titleEn": "Prikatik General of the Ukrainian attack on a Russian missile ship: a complex and difficult operation",
-          "summaryEn": "According to the Ukrainian authorities, the plane that hit a Russian ship near the main island had traveled another 1,000 kilometers. It found its target among dozens of ships."
-        },
-        {
-          "title": "Analyysi: Putin haluaa puhua Euroopan turvallisuudesta mutta tarkoittaa neuvostoaikaista sanelemista",
-          "link": "https://yle.fi/a/74-20256316?origin=rss",
-          "summary": "Eurooppa alkoi kuumeisesti etsiä itselleen neuvottelijaa Abu Dhabin kokouksen päätyttyä. Stubb voi olla yksi vaihtoehto.",
-          "publishedAt": "2026-11-12T09:15:37.000Z",
-          "titleEn": "Analysis: Putin wants to talk about European security but he means Soviet-era nonsense",
-          "summaryEn": "After the Abu Dhabi summit, Europe began a heated search for a negotiator. Stubb could be one of the options."
-        },
-        {
-          "title": "Kauan odotettu Fuuga on vihitty viimein käyttöön – seuraa suorana Turun musiikkitalon avajaiskonserttia",
-          "link": "https://yle.fi/a/74-20255101?origin=rss",
-          "summary": "Kolme vuotta rakennettu musiikkitalo on herättänyt kansainvälistä kiinnostusta. Konserttisalin sointi on haluttu pitää salassa loppuun asti.",
-          "publishedAt": "2026-11-12T16:04:53.000Z",
-          "titleEn": "The long-awaited Fuga has finally been inaugurated",
-          "summaryEn": "The three-year-old music hall has attracted international attention. The concert hall is meant to be kept a secret until the end."
-        },
-        {
-          "title": "Helsingin Sanomien kirjallisuuspalkinnon voitti Liisa Kaski",
-          "link": "https://yle.fi/a/74-20255452?origin=rss",
-          "summary": "Kaski sai palkinnon esikoisromaanistaan Marras.",
-          "publishedAt": "2026-11-12T16:44:36.000Z",
-          "titleEn": "Liisa Kaski won the Helsinki Message Prize for Literature",
-          "summaryEn": "He won the prize for his first novel, Marras."
-        },
-        {
-          "title": "Katso uusien ylioppilaiden nimet Ylen koneesta",
-          "link": "https://yle.fi/a/74-20256278?origin=rss",
-          "summary": "Syksyllä valkolakin saavien nimet löytyvät Ylen valmistuneiden koneesta. Nimiä päivitetään koneeseen sitä mukaa kun saamme tiedot oppilaitoksista.",
-          "publishedAt": "2026-11-12T07:05:28.000Z",
-          "titleEn": "Look at the names of the new students on the plane.",
-          "summaryEn": "In the autumn, the names of those who receive white will be found on the plane of Yle's graduates. The names will be updated on the machine as we get information from the schools."
-        },
-        {
-          "title": "Titaniciakin pidempi SS United States upotettiin Floridaan, jotta siitä syntyisi sukeltajien hylkypuisto",
-          "link": "https://yle.fi/a/74-20256563?origin=rss",
-          "summary": "Kuuluisa loistoalus oli toisen maailmansodan jälkeisen ylellisyyden ja laivanrakennustaidon ihme.",
-          "publishedAt": "2026-11-12T18:26:48.000Z",
-          "titleEn": "The SS United States, longer than the Titanic, was sunk in Florida to form a diver's shelter.",
-          "summaryEn": "The famous ship was a marvel of post-World War II luxury and shipbuilding."
+          "title": "”500 euroa on iso raha keskituloisessakin perheessä” – asiantuntijat vaativat lasten hoitomaksujen poistamista kokonaan",
+          "link": "https://yle.fi/a/74-20256336?origin=rss",
+          "summary": "Eduskunnan käsittelyssä olevan lakiesityksen mukaan alaikäisiltä ei jatkossa perittäisi esimerkiksi erikoissairaanhoidon päiväkirurgian maksuja.",
+          "publishedAt": "2026-11-13T06:04:34.000Z"
         }
       ]
     },
@@ -99,97 +81,77 @@
         "homepage": "https://www.hs.fi",
         "lang": "fi"
       },
-      "fetchedAt": "2026-11-12T18:41:47.708Z",
+      "fetchedAt": "2026-11-13T06:51:10.893Z",
       "items": [
         {
-          "title": "Yhdysvallat | Rakennus romahti New Yorkissa, ainakin kahdeksan kuollut",
-          "link": "https://www.hs.fi/maailma/art-2000012408931.html",
-          "summary": "Pelastustyöntekijät eivät vielä torstai-iltana Suomen aikaa tienneet, oliko raunioissa loukussa yhä ihmisiä. Romahdus tapahtui Brooklynissa.",
-          "image": "https://images.sanoma-sndp.fi/593b5e2cd9d8d6aeb97441dd9287d755/normal/1440.jpg",
-          "publishedAt": "2026-11-12T18:35:00.000Z",
-          "titleEn": "A building collapsed in New York City, killing at least eight people.",
-          "summaryEn": "Rescue workers did not yet know Thursday night, Finnish time, whether people were still trapped in the ruins. The accident happened in Brooklyn."
+          "title": "Teknologia | Microsoftin palveluissa laajoja häiriöitä, korjaustöissä vaikeuksia",
+          "link": "https://www.hs.fi/visio/art-2000012409183.html",
+          "summary": "Häiriöt ovat vaikuttaneet Suomessakin esimerkiksi sähköposteihin.",
+          "image": "https://images.sanoma-sndp.fi/c88c0207f2b22053e7b81e932dc994bc/normal/1440.jpg",
+          "publishedAt": "2026-11-13T06:30:00.000Z"
         },
         {
-          "title": "Suomenlahden drooni-isku | Ukraina etsii uusia kohteita Suomen­­lahdelta, ja se voi koitua Suomen ongelmaksi",
-          "link": "https://www.hs.fi/maailma/art-2000012406908.html",
-          "summary": "Sotatieteilijä Ilmari Käihkön mukaan yksittäinen isku Suomenlahdella ei vielä merkitse suurta turvallisuusmuutosta. Ukrainan laajenevat iskut luovat useita riskejä Suomelle.",
-          "image": "https://images.sanoma-sndp.fi/e669c67991a67d4704342e70bbf4b047/normal/1440.jpg",
-          "publishedAt": "2026-11-12T18:14:00.000Z",
-          "titleEn": "Ukraine is looking for new targets in the Gulf of Finland, and that could be a problem for Finland.",
-          "summaryEn": "According to war scientist Ilmari Käihkö, a single attack on the Gulf of Finland does not yet mean a major security change. The enlargement of the Ukrainian offensive poses several risks to Finland."
+          "title": "Meemivyöry | Jensen Huangin skandaali sai meemi­maakarit laukalle",
+          "link": "https://www.hs.fi/popkulttuuri/art-2000012409177.html",
+          "summary": "Internetin käyttäjät ovat ottaneet ilon irti Jensen Huangin pettämiskohusta.",
+          "image": "https://images.sanoma-sndp.fi/a49f29d558f6d5ff6bbb7dca5216845e/normal/1440.jpg",
+          "publishedAt": "2026-11-13T06:22:00.000Z"
         },
         {
-          "title": "Eduskuntavaalit | Ilari Asmala aikoo perustaa uuden puolueen, koska nykyiset eivät aja nuorten asiaa",
-          "link": "https://www.hs.fi/politiikka/art-2000012407324.html",
-          "summary": "Tulevaisuuspuolue haluaa muun muassa uudistaa eläkejärjestelmän, nostaa opintotukea ja luopua pakkoruotsista.",
-          "image": "https://images.sanoma-sndp.fi/91f17f439524bbdaab353206b677f9eb/normal/1440.jpg",
-          "publishedAt": "2026-11-12T18:02:00.000Z",
-          "titleEn": "Ilari Asmala is going to start a new party because the current party is not for young people.",
-          "summaryEn": "Among other things, the future party wants to reform the pension system, raise tuition and abolish compulsory pensions."
+          "title": "Treeni | Mahduta koko viikon treenit viikonloppuun tällä ohjelmalla",
+          "link": "https://www.hs.fi/lifestyle/art-2000012367988.html",
+          "summary": "Arjen ahertaja voi muuttua viikonloppuna soturiksi. Kun palautumisaikaa on viisi päivää, yhteen treeniin voi panna tavallista enemmän paukkuja.",
+          "image": "https://images.sanoma-sndp.fi/1b4982666c65585c8d6024398375195d/normal/1440.jpg",
+          "publishedAt": "2026-11-13T06:00:00.000Z"
         },
         {
-          "title": "NHL | NHL-pomo vetäytyi puolustus­kannalle, kun suomalaismedia tenttasi Venäjästä ja Ovetškinista",
-          "link": "https://www.hs.fi/urheilu/art-2000012408907.html",
-          "summary": "NHL:n komissaari Gary Bettman joutui Helsingissä kovaan tenttiin Venäjästä ja Aleksandr Ovetškinista.",
-          "image": "https://images.sanoma-sndp.fi/72df49dbb07dbc916a93ddeb7e4c12c7/normal/1440.jpg",
-          "publishedAt": "2026-11-12T17:55:00.000Z",
-          "titleEn": "NHL NHL boss withdrew to the defensive position after the Finnish media tested Russia and Ovetsky",
-          "summaryEn": "NHL commissioner Gary Bettman was put to a tough test in Helsinki by Russia and Alexander Ovetsky."
+          "title": "Tiedustelulait | Tiedustelun vapauttamista ajetaan nyt kiireellä läpi, Sdp kertoo ehtonsa perustuslain muutokseen",
+          "link": "https://www.hs.fi/politiikka/art-2000012404338.html",
+          "summary": "Supon ja sotilastiedustelun asuntovaltuuksille löytyisi eduskunnassa tuki, mutta poliisin rikostiedustelu jakaa puolueita.",
+          "image": "https://images.sanoma-sndp.fi/9a5482c7b901201708575b1856599009/normal/1440.jpg",
+          "publishedAt": "2026-11-13T05:35:00.000Z"
         },
         {
-          "title": "Kohtalokas syrjähyppy | Jensen Huangin lähtö voi sekoittaa koko teko­äly­alan",
-          "link": "https://www.hs.fi/visio/art-2000012406360.html",
-          "summary": "Nvidia-pomon suhteet voivat muuttaa suurvaltojen teknologiakilpailua ja koko maailman taloutta.",
-          "image": "https://images.sanoma-sndp.fi/99f7455fc1c510340066748e639fdffe/normal/1440.jpg",
-          "publishedAt": "2026-11-12T17:54:00.000Z",
-          "titleEn": "A fateful leap away from Jensen Huang's departure could confuse the entire AI industry.",
-          "summaryEn": "The relationship between Nvidia and the boss can change the technological competition between the great powers and the entire world economy."
+          "title": "Jalkapallo | Yle: Jacob Friis käski Huuhkajien faneja rauhoittumaan",
+          "link": "https://www.hs.fi/urheilu/art-2000012409269.html",
+          "summary": "Suomen tappio Albanialle vaikeuttaa päävalmentaja Jacob Friisin asemaa entisestään.",
+          "image": "https://images.sanoma-sndp.fi/426920c25af740d46763043eacdcd1a6/normal/1440.jpg",
+          "publishedAt": "2026-11-13T05:31:00.000Z"
         },
         {
-          "title": "Uskonnot | Moni nuori kiinalainen kääntyy Suomessa kristinuskoon",
-          "link": "https://www.hs.fi/pkseutu/art-2000012361545.html",
-          "summary": "Moni kiinalainen kääntyy kristityksi muutettuaan Suomeen. Erityisesti nuoret ovat innostuneet uskonnosta, ja Alppilan kirkossa uusia jäseniä kastetaan jatkuvasti.",
-          "image": "https://images.sanoma-sndp.fi/feb7f13693aed5686c2dd6c8f19b3dc0/normal/1440.jpg",
-          "publishedAt": "2026-11-12T17:45:00.000Z",
-          "titleEn": "Religions. Many young Chinese people are converting to Christianity in Finland.",
-          "summaryEn": "Many Chinese convert to Christianity after converting to Finland. Young people in particular have become enthusiastic about religion, and new members are constantly being baptized in the church in the Alps."
+          "title": "Puheenaihe | Miksi Ylellä luetaan nyt ääneen monelle tuntemattoman kirjailijan romanttista fantasiaa?",
+          "link": "https://www.hs.fi/kulttuuri/art-2000012398774.html",
+          "summary": "Tänään alkavassa Ylen romantasia-lukumaratonissa yli 80 julkisuuden henkilöä kokoontuu lukemaan suomalaisen S. K. Rostedtin romaanin.",
+          "image": "https://images.sanoma-sndp.fi/edf3ba1d6451da3e2bdf1cbb8fe5a83e/normal/1440.jpg",
+          "publishedAt": "2026-11-13T04:30:00.000Z"
         },
         {
-          "title": "Konsertit | Helsinkiin ilmestyi mainoksia, jotka vihjaavat Foo Fightersin Suomen-keikasta",
-          "link": "https://www.hs.fi/popkulttuuri/art-2000012408890.html",
-          "summary": "Amerikkalaisyhtye esiintyi Suomessa viimeksi vuonna 2017.",
-          "image": "https://images.sanoma-sndp.fi/df0a7819f801e36e0d33a07d7c9c3222/normal/1440.jpg",
-          "publishedAt": "2026-11-12T17:38:00.000Z",
-          "titleEn": "Concerts in Helsinki, there's been an advertisement that suggests Foo Fighters are a Finnish movement.",
-          "summaryEn": "The American band last performed in Finland in 2017."
+          "title": "Ukrainan sota | Kushner: Venäjä ja Ukraina hyväksyivät Euroopan mukaan rauhan­neuvotteluihin",
+          "link": "https://www.hs.fi/maailma/art-2000012409210.html",
+          "summary": "Yhdysvaltain erityislähettiläät tapasivat Putinin Moskovassa ja Zelenskyin Irlannissa.",
+          "image": "https://images.sanoma-sndp.fi/922b1e31be8f7b19bac77e478987b86b/normal/1440.jpg",
+          "publishedAt": "2026-11-13T01:45:00.000Z"
         },
         {
-          "title": "Televisioarvio | Vetävässä teinisarjassa synnin palkka on ekstaasi",
-          "link": "https://www.hs.fi/popkulttuuri/art-2000012407770.html",
-          "summary": "The Body -sarjan nuoret palvovat toisiaan ja tarpeen tullen myös Jumalaa.",
-          "image": "https://images.sanoma-sndp.fi/e9cb0ca3e4fa0983600beedb40868b1f/normal/1440.jpg",
-          "publishedAt": "2026-11-12T17:30:00.000Z",
-          "titleEn": "In the popular teen drama series, the wages of sin is ecstasy.",
-          "summaryEn": "Youths in The Body series worship one another and, if necessary, God."
+          "title": "Vakoiluskandaali | Nvidian osake syöksyi, mutta Huangin ero käänsi kurssin",
+          "link": "https://www.hs.fi/visio/art-2000012407832.html",
+          "summary": "Yhtiö nimitti Colette Kressin väliaikaiseksi toimitusjohtajaksi.",
+          "image": "https://images.sanoma-sndp.fi/e961a35b5c5ebe77dba050eda7789a99/normal/1440.jpg",
+          "publishedAt": "2026-11-13T01:39:00.000Z"
         },
         {
-          "title": "Sdp | Nasima Razmyar HS:lle: Aion äänestää käännytys­lain puolesta",
-          "link": "https://www.hs.fi/politiikka/art-2000012408393.html",
-          "summary": "Sdp:n varapuheenjohtaja sanoo, ettei ole muuttanut kielteistä kantaansa mutta aikoo noudattaa eduskuntaryhmän päätöstä.",
-          "image": "https://images.sanoma-sndp.fi/334fe172d8640a296989a867c4e3bf9f/normal/1440.jpg",
-          "publishedAt": "2026-11-12T17:18:00.000Z",
-          "titleEn": "Nasima Razmyar HS: I'm going to vote for the conversion bill.",
-          "summaryEn": "The deputy chairman of the Sdp says he has not changed his negative position but intends to comply with the parliamentary group's decision."
+          "title": "Uutisvisa | Mihin puolueeseen presidentti Donald Trump kuuluu?",
+          "link": "https://www.hs.fi/lastenuutiset/art-2000012406537.html",
+          "summary": "Kuinka tarkkaan katsoit viikon uutislähetyksen? Testaa tietosi visassa.",
+          "image": "https://images.sanoma-sndp.fi/616ad495f9b64e9a982101ccb7f2545c/normal/1440.jpg",
+          "publishedAt": "2026-11-13T00:00:00.000Z"
         },
         {
-          "title": "Suomenlahden drooni-isku | Antti Häkkänen, uskaltaako Tallinnan-risteilylle edelleen lähteä?",
-          "link": "https://www.hs.fi/politiikka/art-2000012408854.html",
-          "summary": "Puolustusministeri vakuuttaa, että drooni-iskuista huolimatta Suomenlahti on edelleen turvallinen siviililiikenteelle ja kauppamerenkululle.",
-          "image": "https://images.sanoma-sndp.fi/54afe7a834165f5c0886b1564ab5f590/normal/1440.jpg",
-          "publishedAt": "2026-11-12T17:09:00.000Z",
-          "titleEn": "The drone strike in the Gulf of Finland. Does Antti Häkkänen still dare to go on the Tallinn cruise?",
-          "summaryEn": "The Minister of Defence assures that despite the drone strikes, the Gulf of Finland remains safe for civil and commercial maritime traffic."
+          "title": "Lasten uutiset | Linnut ovat kehittyneet dinosauruksista",
+          "link": "https://www.hs.fi/lastenuutiset/art-2000012406535.html",
+          "summary": "Heurekan uusi dinosaurusnäyttely opettaa mielenkiintoista tietoa jännittävistä hirmuliskoista.",
+          "image": "https://images.sanoma-sndp.fi/37f1570805bb846b6fd8aa40afca6190/normal/1440.jpg",
+          "publishedAt": "2026-11-13T00:00:00.000Z"
         }
       ]
     },
@@ -200,97 +162,77 @@
         "homepage": "https://www.iltalehti.fi",
         "lang": "fi"
       },
-      "fetchedAt": "2026-11-12T18:41:47.678Z",
+      "fetchedAt": "2026-11-13T06:51:10.697Z",
       "items": [
         {
-          "title": "Witkoff ja Kushner ovat Suomessa – Tapasivat Putinin",
-          "link": "https://www.iltalehti.fi/ulkomaat/a/144040c2-45c7-42b5-9f17-1040ff5ca748?utm_source=rss",
-          "summary": "Syy on ainakin toistaiseksi mysteeri. Yhdysvaltain presidentin Donald Trumpin erityislähettiläät Jared Kushner ja Steve Witkoff ovat laskeutuneet Suomeen. Asia käy ilmi lentotietoja keräävältä Flightradar24-sivustolta.…",
-          "image": "https://img.ilcdn.fi/s3EofjxoceUG8nF-hkqyHhVktVo=/1024x640/top/img-s3.ilcdn.fi/f59f7116887eb70175110ec472921ae4ab55218f88a5a7c04ea658382c7b6433.jpg",
-          "publishedAt": "2026-11-12T18:30:49.000Z",
-          "titleEn": "Witkoff and Kushner are in Finland.",
-          "summaryEn": "Well, at least for now, it's a mystery. US President Donald Trump's special envoy Jared Kushner and Steve Witkoff have landed in Finland. This is according to the Flightradar24 website, which collects flight data..."
-        },
-        {
-          "title": "Pietarissa räjähti jälleen – Venäjän eversti kuoli",
-          "link": "https://www.iltalehti.fi/ulkomaat/a/8c10e3d6-38bd-468f-af21-d0606ef9a290?utm_source=rss",
-          "summary": "Kyseessä on toinen autopommi-isku kolmen kuukauden sisään samalla alueella. Venäjän asevoimien eversti kuoli autopommi-iskussa Pietarin eteläpuolella torstaina, riippumaton venäläismedia Meduza kertoo. Räjähdys tapahtui…",
-          "image": "https://img.ilcdn.fi/SAcojRg3VNMgC1ZxB0oiMHLVlhs=/1024x640/top/img-s3.ilcdn.fi/06638f78234cfcf958becea000baec334bf07b35a6e7feed4981bfbf942334ee.jpg",
-          "publishedAt": "2026-11-12T18:27:35.000Z",
-          "titleEn": "In St. Petersburg there was another explosion. The Russian colonel died.",
-          "summaryEn": "This is the second car bombing in three months in the same area. A Russian army colonel was killed in a car bomb attack south of St. Petersburg on Thursday, independent Russian media Meduza reported. The explosion occurred..."
-        },
-        {
-          "title": "Näin mepit tienasivat – Kolmen tulotiedoissa hämmentävä luku",
-          "link": "https://www.iltalehti.fi/politiikka/a/40f60e2e-f6a7-484d-aa2c-d28b42c85e90?utm_source=rss",
-          "summary": "Eero Heinäluoma (sd) ja Sirpa Pietikäinen (kok) tienasivat viime vuonna yli 250 000 euroa. Kolmen mepin tulot ”romahtivat”. Europarlamentaarikkojen tulokärki oli viime vuonna SDP:n Eero Heinäluoma, jonka verotettavat…",
-          "image": "https://img.ilcdn.fi/evo6zWUZdZYPy_DgZcQkPFf4qio=/1024x640/top/img-s3.ilcdn.fi/d9eaec84f86ba01c7e6249c8e811efad318b84825d97bf5da1f1767f92af9de5.png",
-          "publishedAt": "2026-11-12T18:24:58.000Z",
-          "titleEn": "That 's how the meps earned a confusing figure in the three income statements .",
-          "summaryEn": "Eero Heinäluoma (sd) and Sirpa Pietikäinen (kok) made more than EUR 250 000 last year. The income of the three meps plummeted. Last year, the result of the European Parliamentary elections was the SDP's Eero Heinä creem, which is taxed..."
-        },
-        {
-          "title": "Jättikriisi iski – Kuinka nyt käy Nokian? Asian­tuntijalta suorat sanat",
-          "link": "https://www.iltalehti.fi/talous/a/ec12ffff-3d3a-4cfb-9316-1e3916cc9e07?utm_source=rss",
-          "summary": "Inderesin pääanalyytikko kertoo näkemyksensä Nvidia-kohun vaikutuksista Nokiaan. Valtavan kohun syövereissä uivalla teknojätti Nvidialla on merkittävä kytkös Suomeen. Yhtiö on yksi suurimmista Nokian omistajista. Nvidia…",
-          "image": "https://img.ilcdn.fi/3yMnHAy70GCSe71v7D24uZNwf6g=/1024x640/top/img-s3.ilcdn.fi/7c834a568c408a48232e7f1618fc1faa97341422511989c821d215ca6f2580f3.png",
-          "publishedAt": "2026-11-12T18:21:04.000Z",
-          "titleEn": "What's going on with Nokia? Speaking directly from the expert",
-          "summaryEn": "Inderes' chief analyst shares his views on Nvidia's impact on Nokia. Nvidia has a significant connection to Finland. The company is one of the biggest owners of Nokia. Nvidia, please."
-        },
-        {
-          "title": "Karmiva puhelu Helsinkiin ennakoi hirveää lento-onnettomuutta",
-          "link": "https://www.iltalehti.fi/ulkomaat/a/e93de619-2abb-4a92-8509-f1328c03b587?utm_source=rss",
-          "summary": "Taivaalla oli pimeää, kello lähestyi iltaseitsemää. Pan Amin lento 103 sai lennonjohdolta luvan jatkaa matkaansa Atlantin yli kohti New Yorkia, kun ohjaamosta ei yhtäkkiä enää vastattu. Valtava määrä ihmisiä kuoli…",
-          "image": "https://img.ilcdn.fi/mRbgJlWHI1VFLs3Z6CgV3fidGo4=/1024x640/top/img-s3.ilcdn.fi/7dad0310de84f456d9b2b7e1926b90fda741afc6a0136eae9f3408a282ee1947.jpg",
-          "publishedAt": "2026-11-12T18:10:34.000Z",
-          "titleEn": "A scary phone call to Helsinki predicted a terrible plane crash .",
-          "summaryEn": "It was dark in the sky. It was almost seven o'clock. Pan Am Flight 103 received permission from the airline to continue its journey across the Atlantic to New York when the cockpit suddenly stopped responding. A huge number of people died..."
-        },
-        {
-          "title": "Trump nimesi kaksi ihmistä, joille ei antaisi anteeksi edes taivaan porteilla",
-          "link": "https://www.iltalehti.fi/ulkomaat/a/ec05d30c-edd9-4ee9-b3e0-0dd9d145ede7?utm_source=rss",
-          "summary": "Trump ei sanojensa mukaan pystyisi antamaan anteeksi. Yhdysvaltain presidentti Donald Trump sanoo, ettei hän antaisi anteeksi entiselle FBI-johtajalle James Comeylle eikä edustajainhuoneen puheenjohtajalle Nancy…",
-          "image": "https://img.ilcdn.fi/Nidz1qWdEE4oDnMh2EEsdZDqkZo=/1024x640/top/img-s3.ilcdn.fi/40b019369dc8d7def04afcf562f5b6d104847262944ea507599efd91e6c470a1.jpg",
-          "publishedAt": "2026-11-12T18:03:36.000Z",
-          "titleEn": "Trump named two people who wouldn't be forgiven even by the gates of heaven.",
-          "summaryEn": "Trump said he couldn't forgive. US President Donald Trump says he will not forgive former FBI Director James Comey or Speaker of the House Nancy..."
-        },
-        {
-          "title": "Tämä oli Wille Rydmanille liikaa – Katso, mitä järjestöpomot tienasivat",
-          "link": "https://www.iltalehti.fi/politiikka/a/bae1b3d8-3daa-40a4-b707-3fc46757fecc?utm_source=rss",
-          "summary": "Sote-järjestöjen STEA-avustukset ovat kuohuttaneet julkisuudessa hallituksen linjaamien merkittävien leikkausten vuoksi. Iltalehti listasi avustetuimpien järjestöjen pomojen tulokärjen. Iltalehden järjestöpomolistauksen…",
-          "image": "https://img.ilcdn.fi/3yZCg-9tK5MSvnTFnzszXXXHE7o=/1024x640/top/img-s3.ilcdn.fi/6b214b61b42e639c10107be8518fbbe6b81445bd01b3e038fbfe5c5b65688a66.jpg",
-          "publishedAt": "2026-11-12T15:12:52.000Z",
-          "titleEn": "This was too much for Wille Rydman. Look what the bosses of the organization made.",
-          "summaryEn": "STEA grants from war organizations have been publicly discredited by the significant government cutbacks. The evening newspaper listed the headlines of the most assisted organizations. The evening of the organizational protest..."
-        },
-        {
-          "title": "Poppamies myytiin – Nyt selvisivät perustajan tulot: “Olen varakas, mutta en rikas”",
-          "link": "https://www.iltalehti.fi/talous/a/f41b490b-e412-4c14-bc03-a803a441b2f3?utm_source=rss",
-          "summary": "Poppamiehen perustaja Marko Suksi kumppaneineen myi yhtiönsä Saarioisille mutta tekee edelleen samoja asioita kuin yrittäjänä. On marraskuinen perjantai ja alkuiltapäivä, viikko ennen veropäivää. Puhelimeen vastaa…",
-          "image": "https://img.ilcdn.fi/RMSvpfQlgHNAgUvw5Ggt-_AwjYQ=/1024x640/top/img-s3.ilcdn.fi/72a3097b15af61fb3a817aa44533866baaf8e03e3e6a08c0b43f268491b7f260.jpg",
-          "publishedAt": "2026-11-12T17:30:55.000Z",
-          "titleEn": "The Pope was sold, and now the founder's income is clear. I'm rich, but not rich.",
-          "summaryEn": "Marco Suksi, the founder of Popman, and his partners sold their company to the Saarians, but he continues to do the same things as an entrepreneur. It's a Friday in November, and it's early afternoon, the week before tax day. The phone is answering..."
-        },
-        {
-          "title": "Valtava operaatio Valkoisen talon lähellä: Yksi kuoli, ampuja teki itsemurhan",
+          "title": "Valkoisen talon lähellä valtava operaatio – Nyt selvisi ampujan motiivi",
           "link": "https://www.iltalehti.fi/ulkomaat/a/a07ba98c-0555-45ea-9ae3-4727ec0743fe?utm_source=rss",
-          "summary": "Ammuskelu tapahtui reilun kilometrin päässä Valkoisesta talosta. Yksi ihminen kuoli ja neljä loukkaanti ammuskelussa Washingtonissa, uutistoimisto AP kertoo. Ammuskelu tapahtui torstaiaamuna noin kahdeksalta paikallista…",
-          "image": "https://img.ilcdn.fi/zvP0lVM0ejuFHHeTBHZQeRoS_iY=/1024x640/top/img-s3.ilcdn.fi/01f36774b410d23f2b2f7ead66090a1b933de43799bc754afe91d09513f3fc32.jpg",
-          "publishedAt": "2026-11-12T15:05:02.000Z",
-          "titleEn": "A major operation near the White House, one dead, one shooter committed suicide.",
-          "summaryEn": "The shooting occurred a mile from the White House. One person was killed and four injured in a shooting in Washington, D.C., the AP news agency reports. The shooting took place Thursday morning at about 8:00 local time..."
+          "summary": "Ammuskelu tapahtui reilun kilometrin päässä Valkoisesta talosta. Poliisin mukaan ampuja oli riitautunut taloyhtiönsä kanssa. Torstaina Washington DC:ssä tapahtuneesta ammuskelusta on selvinnyt uusia tietoja. Poliisin…",
+          "image": "https://img.ilcdn.fi/97mEIC16d088in_nH91LyfaUWsA=/1024x640/top/img-s3.ilcdn.fi/63af24f780cb8bbc315bad15db7ce196da12467e9019ce2c50ca169272bf04d9.jpg",
+          "publishedAt": "2026-11-12T15:05:02.000Z"
         },
         {
-          "title": "Pysäyttävä kuva Sanna Marinin miljoona­tuloista",
-          "link": "https://www.iltalehti.fi/politiikka/a/131e281a-0f86-4287-8c92-e22c82154fc3?utm_source=rss",
-          "summary": "Sanna Marin tienasi yksin enemmän kuin kuusi hänen edeltäjäänsä yhteensä. Sanna Marin: 1 196 068 euroa. Antti Rinne, Juha Sipilä, Alexander Stubb, Jyrki Katainen, Mari Kiviniemi ja Anneli Jäätteenmäki: 1 190 254 euroa.",
-          "image": "https://img.ilcdn.fi/8d_geofu4V2zjqyXNG334KwuusU=/1024x640/top/img-s3.ilcdn.fi/3238bbd6e4b13fb2fa119d59d830a956d2ffa20d0e6450eda5d6a5499d2a1806.png",
-          "publishedAt": "2026-11-12T16:51:30.000Z",
-          "titleEn": "A lasting picture of the millions of dollars that Sanna Marin has earned",
-          "summaryEn": "Sanna Marin alone earned more than the six who preceded her combined. This is the first time that the Commission has taken a decision. In the case of the case of Antti Rinne, Juha Sipilä, Alexander Stubb, Jyrki Katainen, Mari Kiviniemi and Anneli, the amount of the compensation is EUR 1 190 254."
+          "title": "Rajut huhut leviävät Kiinasta",
+          "link": "https://www.iltalehti.fi/ulkomaat/a/7a040cbe-1065-4dff-849e-be829e4765d7?utm_source=rss",
+          "summary": "Kiina ottaa suuren riskin kasatessaan valtaa Xi Jinpingille, sanovat asiantuntijat. Kiinan presidentti ja kommunistisen puolueen pääsihteeri Xi Jinping on paitsi voittanut valtakamppailun myös kahminut historiallisen…",
+          "image": "https://img.ilcdn.fi/bQ-62oEkCgRqpIuB-9FIPLiFWkA=/1024x640/top/img-s3.ilcdn.fi/989686ece24b50c45055c6a8546b7b9feb47d08f7b675618c520ba1694ceb9bd.png",
+          "publishedAt": "2026-11-13T06:00:13.000Z"
+        },
+        {
+          "title": "Räjähdysisku Suomen edustalla – Tätä se tarkoittaa Suomenlahden turvalli­suudelle",
+          "link": "https://www.iltalehti.fi/ulkomaat/a/2807a467-3b72-4779-94c9-22fb16f26f83?utm_source=rss",
+          "summary": "Ukraina teki keskiviikkona drooni-iskun venäläiseen sota-alukseen Suomenlahdella. Ukraina iski venäläiseen ohjuslaivaan Suomenlahdella keskiviikkona. Avointen tiedustelutietojen mukaan isku tapahtui lähellä Suursaarta,…",
+          "image": "https://img.ilcdn.fi/GepN8UJB5N_vsxbH3vAltRVkgbw=/1024x640/top/img-s3.ilcdn.fi/0741d69ab2a28457d7445c9b181195c81d4a2c69301969326ffbe7efa13e740a.jpg",
+          "publishedAt": "2026-11-13T04:00:07.000Z"
+        },
+        {
+          "title": "Sääennuste itsenäisyys­päivään asti: Tällainen käänne on luvassa",
+          "link": "https://www.iltalehti.fi/saauutiset/a/4747000b-f3cb-45ba-85e0-7a3399ae91fe?utm_source=rss",
+          "summary": "Ensi viikolla odotettavissa on vaihtelevaa säätä, joka voi tuoda erilaisia sateita pitkin maata. Tuoreen kuukausiennusteen perusteella ensi viikolla Suomessa taivaalta tipahtelee vettä monenlaisissa muodoissa. Euroopan…",
+          "image": "https://img.ilcdn.fi/6Kb7QjxcpDlSnnp0zIHN5I9pz1E=/1024x640/top/img-s3.ilcdn.fi/73ab351bb196117fe3ae7c61f6e99880f97cd65fe9e87bd7629448b9d59e9d80.jpg",
+          "publishedAt": "2026-11-13T03:30:06.000Z"
+        },
+        {
+          "title": "Heidät kaksi Viro haluaa puhumaan Euroopan puolesta – \"Jos venäläiset eivät pidä siitä, voi harmi\"",
+          "link": "https://www.iltalehti.fi/ulkomaat/a/69404ce6-0668-45ba-bdcb-d7d6928167d3?utm_source=rss",
+          "summary": "Eurooppalaisten on määrä keskustella edustajastaan tänään perjantaina. Viro haluaa kaksi diplomaattia neuvottelemaan Venäjän kanssa Euroopan puolesta. He ovat Eurooppa-neuvoston puheenjohtaja, portugalilainen António…",
+          "image": "https://img.ilcdn.fi/3GM4asrWrmKLbx5tykePn8voEGI=/1024x640/top/img-s3.ilcdn.fi/bceb4d4d9a294b41f9dd5e34c119d13f185967345a53597ec451ed32461833e2.jpg",
+          "publishedAt": "2026-11-13T00:41:53.000Z"
+        },
+        {
+          "title": "Lapsi pakeni poliisia Oulussa",
+          "link": "https://www.iltalehti.fi/kotimaa/a/b40e77ea-3354-4d83-8a28-dcd792b2f011?utm_source=rss",
+          "summary": "Poliisi keskeytti takaa-ajon kelin ja pakenijan nopeuden vuoksi. Poliisi yritti pysäyttää henkilöautoilijan Oulussa myöhään torstai-iltana. Kuljettaja ei suostunut pysähtymään, vaan lähti poliisin mukaan pakenemaan…",
+          "image": "https://img.ilcdn.fi/ufBrc3eXPPASZea9kOt6QkiLgDI=/1024x640/top/img-s3.ilcdn.fi/006659efccb9a9f79daca5e676e1cb367387e3dbe7308fa8c682f30b359617f0.jpg",
+          "publishedAt": "2026-11-12T23:49:33.000Z"
+        },
+        {
+          "title": "Miksi Trumpin miehet tekivät pikavisiitin Helsinki-Vantaalle? Kone toi Moskovasta kovan viestin",
+          "link": "https://www.iltalehti.fi/ulkomaat/a/8a154d1d-ffdb-4459-85e4-bf5edcd1a5ed?utm_source=rss",
+          "summary": "Eurooppa on mukana seuraavissa neuvotteluissa, sanovat Yhdysvaltain presidentti Donald Trumpin erityislähettiläät. Yhdysvaltain presidentti Donald Trumpin erityislähettiläät saapuivat Irlantiin myöhään torstaina. Steve…",
+          "image": "https://img.ilcdn.fi/Pt_nvUS3TL1Ym6lxZrLXlhcx8k8=/1024x640/top/img-s3.ilcdn.fi/aefb59bcc4d55463d085e6e25f7903d2c20ebf5fd8ab7a4ebe4ae928779ddff7.jpg",
+          "publishedAt": "2026-11-12T22:32:31.000Z"
+        },
+        {
+          "title": "Uusi skandaali­paljastus Nvidia-pomosta julki",
+          "link": "https://www.iltalehti.fi/talous/a/d12e611d-e298-463b-a6d8-5b7ee2e1ace2?utm_source=rss",
+          "summary": "Reutersin mukaan Jensen Huangilla on ollut salasuhde toisenkin Nvidian työntekijän kanssa. Nvidian väistyneen toimitusjohtajan salasuhteista on esitetty jälleen uusi syytös. Uutistoimisto Reutersin lähteiden mukaan…",
+          "image": "https://img.ilcdn.fi/0orUQahJtZMGPNOTOBnL-A20yH4=/1024x640/top/img-s3.ilcdn.fi/e4d1325a3ff06f7d01447fde12c324bf1c44453dab829f97cf11eedabe793d4e.jpg",
+          "publishedAt": "2026-11-12T21:09:34.000Z"
+        },
+        {
+          "title": "Putin tyrmäsi tulitauon ja uhkasi Eurooppaa: ”Laillinen kohde”",
+          "link": "https://www.iltalehti.fi/ulkomaat/a/cc3dc1c6-956b-475f-8f28-3f992954c67f?utm_source=rss",
+          "summary": "Tähän artikkeliin on koottu Ukrainan sodan keskeisimmät tapahtumat torstailta 12. marraskuuta 2026. Kyseessä on sodan 1 723. päivä. Venäjä ei hyväksy Ukrainaan mahdollisesti lähetettäviä eurooppalaisia…",
+          "image": "https://img.ilcdn.fi/uPz4_ifiaC46G_wmuMMonJ1O-A4=/1024x640/top/img-s3.ilcdn.fi/ad6cd43669f09c44e9a06f13272f66e74fa621a70a00e341af09413b268ff871.jpg",
+          "publishedAt": "2026-11-12T21:36:32.000Z"
+        },
+        {
+          "title": "Kiinan Xin puhe herättää huomiota – Suora varoitus",
+          "link": "https://www.iltalehti.fi/ulkomaat/a/022a6e91-0149-4215-a7c7-af6cd5ff0ef2?utm_source=rss",
+          "summary": "Xi piti puheen Pekingissä, jossa juhlistettiin vuonna 1925 kuolleen Sun Yat-senin 160-vuotissyntymäpäivää. Kiinan presidentti Xi Jinping sanoi torstaina, ettei historian kulkua voida pysäyttää ja että isänmaan…",
+          "image": "https://img.ilcdn.fi/fAqeOyB_jXbFqPtYm06DgPESESg=/1024x640/top/img-s3.ilcdn.fi/4166f21608693e8649fbda746b93ad3d7c092e6ceab446d0fb981e9e7092a24c.jpg",
+          "publishedAt": "2026-11-12T21:19:30.000Z"
         }
       ]
     }
