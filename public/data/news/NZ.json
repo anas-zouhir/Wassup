@@ -8,8 +8,26 @@
         "homepage": "https://www.rnz.co.nz/news",
         "lang": "en-NZ"
       },
-      "fetchedAt": "2026-11-13T06:51:46.229Z",
+      "fetchedAt": "2026-11-13T18:41:32.535Z",
       "items": [
+        {
+          "title": "Country Life: Woodchester Station 10 years after the Kaikōura quake",
+          "link": "https://www.rnz.co.nz/news/country/2585888/country-life-woodchester-station-10-years-after-the-kaikoura-quake",
+          "summary": "Ten years after the Kaikōura earthquake turned their lives upside down, the Kellys of Woodchester Station reflect on the day and where they have come since.",
+          "publishedAt": "2026-11-13T17:41:58.000Z"
+        },
+        {
+          "title": "'Always helpful': Close friend pays tribute to BurgerFuel crash victim",
+          "link": "https://www.rnz.co.nz/news/indonz-featured/2579379/always-helpful-close-friend-pays-tribute-to-burgerfuel-crash-victim",
+          "summary": "A Givealittle fundraising page has raised more than $20,000 to help cover the cost of repatriating the victims' bodies to India.",
+          "publishedAt": "2026-11-13T08:57:26.000Z"
+        },
+        {
+          "title": "Students face 'derived grades' process after online glitch disrupts NCEA English exam",
+          "link": "https://www.rnz.co.nz/news/education/2582708/students-face-derived-grades-process-after-online-glitch-disrupts-ncea-english-exam",
+          "summary": "Technical difficulties disrupted an end-of-year exam for thousands of students earlier this week.",
+          "publishedAt": "2026-11-13T07:31:20.000Z"
+        },
         {
           "title": "Tokomaru Bay landowner fumes at $14.5m council bridge pitch",
           "link": "https://www.rnz.co.nz/news/regional/2581618/tokomaru-bay-landowner-fumes-at-14-point-5m-council-bridge-pitch",
@@ -41,12 +59,6 @@
           "publishedAt": "2026-11-13T03:49:41.000Z"
         },
         {
-          "title": "'Always helpful': Close friend pays tribute to BurgerFuel crash victim",
-          "link": "https://www.rnz.co.nz/news/indonz-featured/2579379/always-helpful-close-friend-pays-tribute-to-burgerfuel-crash-victim",
-          "summary": "A Givealittle fundraising page has raised more than $20,000 to help cover the cost of repatriating the victims' bodies to India.",
-          "publishedAt": "2026-11-13T03:49:06.000Z"
-        },
-        {
           "title": "Country's largest vape retailer under investigation over advertising concerns",
           "link": "https://www.rnz.co.nz/news/health/2579219/country-s-largest-vape-retailer-under-investigation-over-advertising-concerns",
           "summary": "Shosha is under investigation by the Ministry of Health over concerns it's operating in advertising grey area.",
@@ -57,18 +69,6 @@
           "link": "https://www.rnz.co.nz/news/regional/2579218/great-news-auckland-airport-strike-notice-withdrawn",
           "summary": "Auckland Airport says travellers can now fly as planned after E tū withdrew its strike notice.",
           "publishedAt": "2026-11-13T03:11:28.000Z"
-        },
-        {
-          "title": "Voters in areas with large Pacific populations clear on who should lead country",
-          "link": "https://www.rnz.co.nz/news/pacific/2573521/voters-in-areas-with-large-pacific-populations-clear-on-who-should-lead-country",
-          "summary": "Voters in areas with large Pacific populations have once again shown a clear preference on who should lead the country.",
-          "publishedAt": "2026-11-13T03:02:16.000Z"
-        },
-        {
-          "title": "Why MAPAS still matters after 50 years: 'Bringing everyone to the same starting point'",
-          "link": "https://www.rnz.co.nz/news/pacific/2558347/why-mapas-still-matters-after-50-years-bringing-everyone-to-the-same-starting-point",
-          "summary": "Why a Māori and Pacific medical pathway scheme, commonly known as MAPAS, still matters after 50 years.",
-          "publishedAt": "2026-11-13T03:02:16.000Z"
         }
       ]
     },
@@ -79,77 +79,77 @@
         "homepage": "https://www.nzherald.co.nz",
         "lang": "en-NZ"
       },
-      "fetchedAt": "2026-11-13T06:51:46.526Z",
+      "fetchedAt": "2026-11-13T18:41:32.733Z",
       "items": [
         {
-          "title": "Microsoft investigates reports of Outlook mailbox access problems",
-          "link": "https://www.nzherald.co.nz/nz/microsoft-investigates-reports-of-outlook-mailbox-access-problems/7Y33NCWNCBEEJHKKN5NYF3SWBY/",
-          "summary": "Microsoft 365 outage drags on - developers say fix option 'not taking'",
+          "title": "Microsoft outage: ‘Improvements’ for Outlook and other services around globe",
+          "link": "https://www.nzherald.co.nz/world/microsoft-outage-improvements-for-outlook-and-other-services-around-globe/PZYAOUDJKVAIRBOIGXZLIOYQMA/",
+          "summary": "Immigration New Zealand had paused all visa applications until further notice.",
           "image": "https://www.nzherald.co.nz/resizer/v2/OQGGFNPPYJNLPI3DGIG2UDVHQY.jpg?auth=08a2714b2246b2c633eb112a1bbadcecd50b1eecb663ee2c24d6c868f38e22d7&smart=true&width=300&height=300",
-          "publishedAt": "2026-11-13T05:51:02.000Z"
+          "publishedAt": "2026-11-13T17:30:26.000Z"
         },
         {
-          "title": "West Auckland gang associate Craig Crawford swears at judge during sentencing for firearms charges",
-          "link": "https://www.nzherald.co.nz/nz/crime/west-auckland-gang-associate-craig-crawford-swears-at-judge-during-sentencing-for-firearms-charges/BJ7IPDYWA5GV7OBUR6FWTAJVMM/",
-          "summary": "Police found six firearms and 194 cartridges at Crawford’s West Auckland home.",
-          "image": "https://www.nzherald.co.nz/resizer/v2/PF7C44ZDH5BO5HJYSXJ2AUVVQU.jpg?auth=928ad0750b5b4536bdc5ae3e2f9d1ea1b966fa144d5f2066589eabc5db1b9c9c&smart=true&width=300&height=300",
-          "publishedAt": "2026-11-13T06:11:26.000Z"
+          "title": "Real estate boss’ company owes couple $9129 after Disputes Tribunal ruling nearly 18 months ago",
+          "link": "https://www.nzherald.co.nz/nz/auckland/real-estate-boss-company-owes-couple-9129-after-disputes-tribunal-ruling-nearly-18-months-ago/BTH7KVPO3RGFZDF6B6W7ULJNBE/",
+          "summary": "The pair won a Disputes Tribunal from a company directed by real estate boss Luke Nutting.",
+          "image": "https://www.nzherald.co.nz/resizer/v2/IYDXABT465DHLKDUCCNWTUWSMA.JPG?auth=41565d46c52ab26751c7c561d2e3537e1ed3b024b14bef13f971ee717fc421b6&smart=true&width=300&height=300",
+          "publishedAt": "2026-11-13T16:00:00.000Z"
         },
         {
-          "title": "Formula 1: Inside Racing Bulls’ decision to keep Liam Lawson for 2027 season - Opinion",
-          "link": "https://www.nzherald.co.nz/sport/motorsport/formula-1/formula-1-inside-racing-bulls-decision-to-keep-liam-lawson-for-2027-season-opinion/premium/LO6J32FR45EL5OPZ2TTW24FFYY/",
-          "summary": "OPINION: After a standout season, why was the Kiwi’s job ever at risk?",
-          "image": "https://www.nzherald.co.nz/resizer/v2/VN6RV32JJZDONC3ZLTZRWYFRSY.jpg?auth=6ec95387e0436798f79b2768aaee6d9ad4566a375670a71cc2c9d2f1671ebacb&smart=true&width=300&height=300",
-          "publishedAt": "2026-11-12T20:55:56.000Z"
+          "title": "Cop’s Killer Beez boyfriend Jordan William Bridger jailed for laundering $1 million in drug money",
+          "link": "https://www.nzherald.co.nz/nz/killer-beez-member-jordan-william-bridger-jailed-for-laundering-1-million-in-drug-money/premium/LDWURQNHOJDBHK22GJ5ENHNXU4/",
+          "summary": "Constable leaked sensitive police information to Killer Beez member she met on Tinder.",
+          "image": "https://www.nzherald.co.nz/resizer/v2/KAB6NHMPW5EZLL453LFAKTYJIA.jpg?auth=3a203927108297c23ffbcfefdd112dc0bc0f0f21b84c83337bf44fae733acf41&smart=true&width=300&height=300",
+          "publishedAt": "2026-11-13T16:00:00.000Z"
         },
         {
-          "title": "Housing market: October sales down 23.5% in a year as prices decline for fifth month",
-          "link": "https://www.nzherald.co.nz/property/housing-market-october-sales-down-235-in-a-year-as-prices-decline-for-fifth-month/premium/LHY6HUWHENDHNKSXVWQYMSSBAQ/",
-          "summary": "Nationwide property stock is at its highest since 2014, up 12% since February.",
-          "image": "https://www.nzherald.co.nz/resizer/v2/RQMLOFSCKVAMHGRW4AZCCTUIBE.jpg?auth=5262e41b437f6a45490d592f21c29bb2729665ffbe2e917ae77d99c8951fa522&smart=true&width=300&height=300",
-          "publishedAt": "2026-11-13T01:00:00.000Z"
+          "title": "Air New Zealand direct Hamilton-Queenstown flights to start in June",
+          "link": "https://www.nzherald.co.nz/business/companies/airlines/air-new-zealand-direct-hamilton-queenstown-flights-to-start-in-june/premium/VYXUW4QWIFHUZHRMJDN4BYZF5U/",
+          "summary": "It could mean fewer international visitors having to backtrack through Auckland.",
+          "image": "https://www.nzherald.co.nz/resizer/v2/YTAKQTXCZBDRDBBWTRF67ASUYU.jpg?auth=28c2efb3b3aeca077c776d59fee31a7b7e1cbd1302aac47cd6d13b71927263bf&smart=true&width=300&height=300",
+          "publishedAt": "2026-11-13T16:00:00.000Z"
         },
         {
-          "title": "Typo’s sexualised Christmas ornaments prompt parent to question children’s exposure",
-          "link": "https://www.nzherald.co.nz/lifestyle/typos-sexualised-christmas-ornaments-prompt-parent-to-question-childrens-exposure/QXRNH2VL65FY5IW2ARW72VE4II/",
-          "summary": "OPINION: A new range of sexualised Xmas ornaments at NZ store Typo has me asking ... why?",
-          "image": "https://www.nzherald.co.nz/resizer/v2/FOAVNY6O7ZHQ5KKIR5FCN22XHU.jpg?auth=8ae335da75dd14efff2aa59e566d3bf0798a4fa08b1f98ac4e2e7847048dc527&smart=true&width=300&height=300",
-          "publishedAt": "2026-11-12T23:03:00.000Z"
+          "title": "The slingshot that flung Rocket Lab spacecraft toward Mars",
+          "link": "https://www.nzherald.co.nz/business/the-slingshot-that-flung-rocket-lab-spacecraft-toward-mars/premium/6GTZCY4PFREFPNZFPIDMU3ZID4/",
+          "summary": "Two spacecraft, and a career, gaining velocity.",
+          "image": "https://www.nzherald.co.nz/resizer/v2/T44X75YVMRAHXMQCKFGY6T7QWM.JPG?auth=d4eeb327b907f88c6bd392bce2cc2c574a668ab559fb2e05c77f9c5b68b3a830&smart=true&width=300&height=300",
+          "publishedAt": "2026-11-13T16:00:00.000Z"
         },
         {
-          "title": "NZX gains 1.3% for the week despite late NZX 50 fall – Market close",
-          "link": "https://www.nzherald.co.nz/business/markets/shares/nzx-gains-13-for-the-week-despite-late-nzx-50-fall-market-close/premium/2ZYZBOC6L5F7BPXVHAVM2ZKKNU/",
-          "summary": "The S&P/NZX 50 fell 0.6% on Friday but gained nearly 1.3% for the week.",
-          "image": "https://www.nzherald.co.nz/resizer/v2/Z6QWWMNKJVKB5MCDOSHLPS4V4E.jpg?auth=c5352d36e140c577fb4edbc5e10f6c12c830a7adeedcd1f3ba10b1b61c570a45&smart=true&width=300&height=300",
-          "publishedAt": "2026-11-13T05:31:19.000Z"
+          "title": "New Zealand’s global relevance depends on becoming essential to offshore partners - Joanna Silver",
+          "link": "https://www.nzherald.co.nz/business/business-reports/sustainable-business-finance/new-zealands-global-relevance-depends-on-becoming-essential-to-offshore-partners-joanna-silver/premium/OGVSWXUSI5EN5DGJQR7C5KCVYQ/",
+          "summary": "Opinion: Boards need capability in geopolitical, AI, climate and cyber risks.",
+          "image": "https://www.nzherald.co.nz/resizer/v2/J7DR2HF6XJCLHCGM7HW4IDJRCE.jpg?auth=5185fab5a7f582f76ddbc777f8f6d08dd17050e78b43daf2a5a3f6ec25295740&smart=true&width=300&height=300",
+          "publishedAt": "2026-11-13T08:00:00.000Z"
         },
         {
-          "title": "COP31 faces test as Iran war accelerates clean energy and fossil fuel use",
-          "link": "https://www.nzherald.co.nz/business/business-reports/sustainable-business-finance/cop31-faces-test-as-iran-war-accelerates-clean-energy-and-fossil-fuel-use/premium/6GN2XP562VHGPEH3F2E3J4D3DQ/",
-          "summary": "New York Times: The IEA expects coal use to rise 1.2% from 2025 to a record high.",
-          "image": "https://www.nzherald.co.nz/resizer/v2/XOJKM3DU2FB57KZF4CZPPYBUJY.jpg?auth=8695d7f3b35c9f4b22da01422ff6a56dd3c5bc273fd29e1f1e857d8d35aad711&smart=true&width=300&height=300",
-          "publishedAt": "2026-11-13T04:00:00.000Z"
+          "title": "Investment advice for community trusts",
+          "link": "https://www.nzherald.co.nz/opinion/investment-advice-for-community-trusts/MRVWUP2BKVFYJMWEKDKEUQ6P5Y/",
+          "summary": "The charts tell the story for this one.",
+          "image": "https://www.nzherald.co.nz/resizer/v2/MHFB2HOF3JBVRIKEGEALPLGUVE.png?auth=4bdbe61a4c96ea8c10b80f77eb858b00cf063f001845edee8848b30d10b75b4e&smart=true&width=300&height=300",
+          "publishedAt": "2026-11-13T16:00:00.000Z"
         },
         {
-          "title": "NZ sharemarket ends week with gain of 1.3% despite global market chaos",
-          "link": "https://www.nzherald.co.nz/markets/market-close/nz-sharemarket-ends-week-with-gain-of-13-despite-global-market-chaos/DFET3L2ZCRH6RO5JQWNCTMRCVA/",
-          "summary": "The S&P/NZX 50 Index closed at 14,173.68, down 85.55 points, or 0.6%.",
-          "image": "https://www.nzherald.co.nz/resizer/v2/YAZR3HAFUVKEBIB6OSURX5O6ZM.jpg?auth=eb2efdf58ec9761d9b6c4ec1eaff3386837768536158dd73fd585396085cd88b&smart=true&width=300&height=300",
-          "publishedAt": "2026-11-13T05:14:49.000Z"
+          "title": "Christmas Appeal: Rotorua Salvation Army Foodbank finds new people in need after adding late-night service",
+          "link": "https://www.nzherald.co.nz/rotorua-daily-post/news/christmas-appeal-rotorua-salvation-army-foodbank-finds-new-people-in-need-after-adding-late-night-service/YILKNJQP3ZC6ZHW64Z67RV4RX4/",
+          "summary": "The Salvation Army's new service helps 18% more whānau.",
+          "image": "https://www.nzherald.co.nz/resizer/v2/I5BFOC6JKVHPRDFZOHPNY2OJWU.jpg?auth=c8b855477b05ca1627ee7837df7bdb31690f13d7451525df311e5c6c3a946182&smart=true&width=300&height=300",
+          "publishedAt": "2026-11-13T17:00:00.000Z"
         },
         {
-          "title": "Election 2026: At least 35 Māori MPs elected, setting a new Parliament record",
-          "link": "https://www.nzherald.co.nz/nz/election-2026-at-least-35-maori-mps-elected-setting-a-new-parliament-record/3TSNSZ5Y7FE4LPLDCWGPB6LJSU/",
-          "summary": "The proportion of Māori MPs has risen over the years – but has it topped out?",
-          "image": "https://www.nzherald.co.nz/resizer/v2/7QBW3WCS55FPDJIX7LZKE3HFPM.jpg?auth=1b5bd6323a75580ec447a341cedb7474fbfdc036154f3a5ff1234aad08212fce&smart=true&width=300&height=300",
-          "publishedAt": "2026-11-13T06:04:03.000Z"
+          "title": "Christmas Appeal: Tauranga foodbank sees families returning for weeks of ongoing support",
+          "link": "https://www.nzherald.co.nz/bay-of-plenty-times/news/christmas-appeal-tauranga-foodbank-sees-families-returning-for-weeks-of-ongoing-support/TFEPEP36I5FLJIWAGUX2X522M4/",
+          "summary": "The Tauranga Community Foodbank supported more than 22,000 people over the past year.",
+          "image": "https://www.nzherald.co.nz/resizer/v2/F4VMXCREZVB2NIXO47KRG3C2FA.jpg?auth=e6ca4b4f57ec552458747750025c24665bf47af03cdc66408972610e23546ec2&smart=true&width=300&height=300",
+          "publishedAt": "2026-11-13T17:00:00.000Z"
         },
         {
-          "title": "NZQA exam outage: Erica Stanford wants backup plan for next week’s exams",
-          "link": "https://www.nzherald.co.nz/nz/nzqa-chief-fronts-up-over-ncea-english-level-2-exam-outage/7V6D6KZK7NG2NCJYONREB6QJ4M/",
-          "summary": "Thousands of pupils were hit by a digital outage during the Level 2 English NCEA exam.",
-          "image": "https://www.nzherald.co.nz/resizer/v2/BRAHI5ZU4JAYJJT2NBLI4DFIAQ.jpg?auth=d32e92b277c56e677ba37088664716dd500820f9556b2967611ffab714ff1a4e&smart=true&width=300&height=300",
-          "publishedAt": "2026-11-13T05:43:00.000Z"
+          "title": "Christmas Appeal: Letter from the Rotorua Salvation Army Foodbank",
+          "link": "https://www.nzherald.co.nz/rotorua-daily-post/news/christmas-appeal-letter-from-the-rotorua-salvation-army-foodbank/SPBPZ65ZMJHY3JHIF6EL34LAEI/",
+          "summary": "OPINION: The Rotorua Daily Post Christmas Appeal supports the Salvation Army Foodbank.",
+          "image": "https://www.nzherald.co.nz/resizer/v2/3GBC5S3MVBFATIOHWIJU3JZ74I.jpg?auth=ef42c4f81db3de4a1895770d67cb7ffd25946439da791a3c5c2761c63bce10ad&smart=true&width=300&height=300",
+          "publishedAt": "2026-11-13T16:55:00.000Z"
         }
       ]
     },
@@ -160,77 +160,76 @@
         "homepage": "https://www.stuff.co.nz",
         "lang": "en-NZ"
       },
-      "fetchedAt": "2026-11-13T06:51:46.291Z",
+      "fetchedAt": "2026-11-13T18:41:32.578Z",
       "items": [
         {
-          "title": "Microsoft under fire for ‘word salad’ updates as outage passes 13-hour mark",
-          "link": "https://www.stuff.co.nz/business/361058936/global-microsoft-outage-hits-nz-outlook-teams-and-other-services-affected",
-          "summary": "It’s been moe than 13 hours since Microsoft users across the world lost access to apps such as Outlook, Microsoft 365, Copilot, Teams and OneDrive.",
-          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYbtWoJwz2MmcwdoQMsGuwthsOiuTTnoD+njpdhqwBhxMAG7BCKJlZkWpIJ6ZBlfNtK%2Fw0rg9ytqLlHOdxBh7oGhWzPFSZK5xi5Xe7HFVhiyuuwFn4bDGP9Vf7Up9l3vNqlHsRI6R+ESPi0k14l3djSxZHMY+kWZvF0rgjaYNb7VEVnSO+u9O7G2izHaLcy6Yr3jOZsNTRueTFvld%2F5Cc5VwyjLfszIpdotfFQilJOoqZGzsrxiDJYYYUSlj3UTXLS+HpralSIaqPSCfHvzv8pQRecvtVh2EZFC7f90kN5LuGsRR2ExxAQv7LIcar+WhOncJyiwsuFsL6KAo%2FNgzv4RY9TRo3+ouKF5m4DVZkX8DLCYMlem%2FrOxFh8K3jm9DtIDJ5kipQ8qwCCQ5XEKbWTWrYybcvDFblNLmg4YSKhryiS6syECoY3U57XxiM7465E7rM6LzUAsytYWVbUNgpVQE=?resolution=1240x700",
-          "publishedAt": "2026-11-13T06:38:41.000Z"
+          "title": "Hire Tim Cook to lead Nvidia, Trump says",
+          "link": "https://www.stuff.co.nz/business/361059296/hire-tim-cook-lead-nvidia-trump-says",
+          "summary": "President urges Nvidia to replace Jensen Huang, who quit after affair with suspected spy, with Apple veteran",
+          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYV2QZjjV6rDGxstjMRVF4PlLfHhCEwczkMPokat7CJAFAU68wXaH8Axf7S94A2%2Firnxj0NlUWD+wqP7mBXvpkBqaOgoe0uN3OsYUuadWX3DQca4adXE3pyEtFGZDMp2MxpnKAAoahm5j7SAdpdZGXhs=?resolution=1240x700",
+          "publishedAt": "2026-11-13T18:18:14.000Z"
         },
         {
-          "title": "Matt Henry rocks India with three wickets in opening over",
-          "link": "https://www.stuff.co.nz/sport/361057413/live-black-caps-v-india-fourth-odi",
-          "summary": "Follow live coverage of the Black Caps’ fourth ODI against India in Mt Maunganui.",
-          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYfXTSSFYjhPtFO0ie9crqDGizHTYpNLAZno9jBZMZ8dcoV6gmZ9%2FD8pmCBXmvOVxdJQ39d+Bz+CyV3DbpqNHgjL8XNR9AjPuGhtr2PUtRfWXEds9%2FtKAbmo5EZ8zBIMP2r8ZfxQ%2FQX9zkr4izGaNyqKz4MEr4U20eL4hPh56WpgJReJVrCrXNPEp8VfVhwK3ADhBWh+cTdWnV2QkzYcl77Qx2TZolZrl+k7%2FOXYsU3VwfSTxq6Z7gMeNH9qw%2F9sR9%2FZW2WDC19KOLCeTeQaPoQU9KgQ2Mgee+XaQZxIiFTIQxiNKsZvidTn46a52n7o030wO7pn%2FdVnK0sWPhPvhn6EcpbkQ6PiHikm2+sZ%2FYazqJls1G9IDgymCnNCt1Mc2eT8YZApXDtv30ok39GtqdfmYpGU2dCw3qYxs9nYU5FCAyQAIvzDHOxEDT5aiw5jzKw==?resolution=1240x700",
-          "publishedAt": "2026-11-13T06:25:36.000Z"
+          "title": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
+          "link": "https://www.stuff.co.nz/world-news/361059295/us-military-downs-2-iranian-attack-drones-iran-claims-s",
+          "summary": "The U.S. military said it intercepted two Iranian attack drones headed toward Bahrain, as Iran claimed it struck a U.S. early warning radar system.",
+          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYUhY5ozGONqdbKxqJ1PLTDp81h4tXl%2FBlDrpayPdrRAXgNIJB6fc375MQtuXlTXWORFx6oQYW%2FRb%2FAdjiC5BSG80KNuh8pOAY01k3qGnkQ0aMhGNOy85fgq7qrAl+7vMVHKrpH3VAsTRk4F3CiA9Cbo=?resolution=1240x700",
+          "publishedAt": "2026-11-13T17:55:32.000Z"
         },
         {
-          "title": "Will Young cashes in two chances to amass highest ODI score",
-          "link": "https://www.stuff.co.nz/sport/361059196/black-caps-opener-will-young-cashes-two-chances-against-india-notch-highest-odi-score",
-          "summary": "The Black Caps’ opener was dropped twice in as many balls before scoring his fifth ODI ton.",
-          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYet7lgA5l4KN99qjDuDYjuhPxc%2F3Vs25hdtbfCedK4%2FaROuJAinqaJJbKOtZPZImfOHy8Y4yn86kVL3NpuaRUPWBzrUOnB3yHgD5gbTQXtMXMLjnhykczMrfCwyPa2uGgqvdxTVMKF2xgk3iTfCkuBDiy19PhgF6UpMdq8kBTPGH7RBFvk3qf8YbSMXHxgxbx4szyzTgvKKcI2lm+9YfJXMFJegt06bFIJZCJz+545yigeL64ScF1P%2FoLLA3Dp4agwnxIqmx1T+DS9MucCr4ZUGDag4%2FcJtOJQitmyqj8u689NinsmPW7jMq7wCHaYJKs+Dq2bQkFd%2F67ZrnkrdLPZZ4GXCCm+qjLRbDgEMOsFhlqHxbKM9tjKOyGeyxvVV1QyGgtmzEAdrY30oGUCeEYBwsV0HGgDac2mY1N5msfT1B4FhzYDs8%2FjwX+Pqa8GNXiQ==?resolution=1240x700",
-          "publishedAt": "2026-11-13T06:03:14.000Z"
+          "title": "Microsoft ‘deeply sorry’ as stability returns following outage",
+          "link": "https://www.stuff.co.nz/nz-news/361059263/global-microsoft-outage-downs-systems-around-new-zealand",
+          "summary": "The issue left institutions and businesses across the world without access to email and other platforms.",
+          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYbiUszeaAkiSGw2CArQY%2FK9VQMCAeMBCtjUvOK%2F4lOzOn3l7J4GVv19ONo+sWVnrz9gBfcK7KuFApZxAn5YGouEmhtGXwkDTgT1T1V0Vvc8VJ8SgCaJu6krd0180JYmMvjn3c4bvIlBJhFnOLBy+iormlNloRHJRUMzTAWGRF891eeQdNF5Of4Vfc6TWKd%2FtngLVj98LXf0x6db4G6h%2FMrXH6Jphqah3HaX6%2FwY5LNRsRVaQFFGRh8SwOceTVijvtGq+CFbwRkEO8tlJ6T5zyL8wazKM9+dZA15qawtYs3O7tWHBsRImbs+aBYl5OvwSt+VCeBjaTJMCkCZI6YUmpOsXJplfKS70tnAgNNWi4XZqsFJzlwbccBIV32D90cTrvo8IV0q%2FXxqyk%2Fv4DOZTMDB28dtoqzrpFyuzQOuI7v7mxs0340OZLw0KzVWypI9ZgA==?resolution=1240x700",
+          "publishedAt": "2026-11-13T17:23:56.000Z"
         },
         {
-          "title": "Why Wētā Workshop is betting on hands-on craft in an AI world",
-          "link": "https://www.stuff.co.nz/culture/361059239/inside-unleashed-weta-workshop-sir-richard-taylor-says-ai-existential-crisis-hollywood",
-          "summary": "Amid the AI-generated content flooding the internet, Wētā Workshop is making a case for the real thing.",
-          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYeOzQhEm%2FTZh3rlysEW9RuQEz9UPxD0KuFEHPHKIoB7cJb+6qnf+uGRmHwkRu7qrN5GedD6auWhmjP7LrFB6ohyleayiBHtawNS57cJIapd5CufQWiLXlei4J1Fbo%2Frui9T%2F4As+m9uQvvpxEQNhybUuKQecqlx34gvvZS4E8Apg5g3yb19NEgLmTBMUHDIgBZ6TYaYi5VSRfpoOE+GqTS0%2FbhXg%2FyOihfaSmFyeJC5J8bNTV4YhMvX+atPJRPpurNoXrd6owobyQS369uMtah28TFfhoXjGTNDKrVSc2aFtm2108gJ800Q6SK14yX6Tyiqh2HSybp4g3fuIFc4EG+zLkpdQigEOwrO8rFMxFyGVZw61B0OuK5DXpuVoBRXvMhDHSs86OBmqEZYABppJ+eK2gXHR0KzOZTuy+INy3+6p+jNgffRWPTzzGu43Zy4CUg9ZZS4V%2FHM0k4rrrlpBGZo=?resolution=1240x700",
-          "publishedAt": "2026-11-13T05:52:07.000Z"
+          "title": "UK police launch sex offense investigation into comedian David Walliams",
+          "link": "https://www.stuff.co.nz/world-news/361059292/uk-police-launch-sex-offense-investigation-childrens-au",
+          "summary": "London police said Friday that they are investigating children’s author and comedian David Walliams for serious sexual offenses after news outlets reported that he used his fame to groom girls and young women for sex.",
+          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYZA85nvbUDJtGZfSO9Rryf78XDmhp%2FcvidXMYUhTHCOP8olNrkCXFwYoYkm7rTCmQuqdX0HhJt1o3HHKM1F10FQ8f39+VtvINDDg3ZD2VbHX5KBPbkTHcexUf2VRF8YdZ9T4Lo24eZrpZro05V3Wv7M=?resolution=1240x700",
+          "publishedAt": "2026-11-13T17:16:47.000Z"
         },
         {
-          "title": "The lure of a world-class fishery, and the cheats who try their luck",
-          "link": "https://www.stuff.co.nz/nz-news/361059175/lure-world-class-fishery-and-cheats-who-try-their-luck",
-          "summary": "Catching salmon and trout from hydro canals attracted anglers from here, there and everywhere, but not all were playing by the rules.",
-          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYQ7ZxUPazKwKrnPbWk4HeknL+9SP90EVKr3gt4lczQ3mjV4jA1VH9zj4I%2FHvXJ0MWGqzbHRq9CafMXX9lFu7QYgXhF0Ne2Ji3NQfevy4LW6j3GS7Dr79ncjwT9CJiDWhuZWzY6jD47zQ7IbkbgCIyafTElzvlV3B5JDbZCCzfj%2F9r3q0IHR7PjFmcCva9NYcw4c0PX%2Ffbs%2FdSdPAAW8OGri4OQw19iDinUHYe8bPVN09THkyK2t7lZF3H5bF5Tr2sgXENwzjfo6htr%2FM0v8zZ5yvGbya6ZvxohM1F0u68rrnqWIAJ28U%2FjjIZ%2FHDQRUWbOgFlyuaVeozfZfXh3MUJgBzqP0YHei9C1uyPQP0bq8bNJanJz0MhSIZespLKz6UojGTdRCTKaWrxxbbj1EzxpMsAhSBLm7BmDKsICCCWW9WV4fd2qrEgiwDBn1EWXBMPg==?resolution=1240x700",
-          "publishedAt": "2026-11-13T04:59:01.000Z"
+          "title": "Democrats are weighing impeachment of RFK Jr. while courting his supporters",
+          "link": "https://www.stuff.co.nz/world-news/361059288/democrats-are-weighing-impeachment-rfk-jr-while-courting",
+          "summary": "Some members of the MAHA movement said they’re eager to work with Democrats to pass legislation on shared interests, like regulating pesticides and making school lunches healthier.",
+          "publishedAt": "2026-11-13T15:36:24.000Z"
         },
         {
-          "title": "Forget sharks, here’s how to avoid summer’s sneakiest threat, food poisoning",
-          "link": "https://www.stuff.co.nz/health/361059005/forget-sharks-heres-how-avoid-summers-sneakiest-threat-food-poisoning",
-          "summary": "Defrost a leg of lamb in the fridge or the microwave rather than leaving it out on the bench.",
-          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYXYJDwT+l1x9El6PLqD%2F83tjoZFZH3ZsLKjWOXuMgo5DMTHcLfCsYbesx%2FulM1PfE3QLJpQimvZiLHHvcYR1vMyzpViN+WZyFc5va+zA9cAcn08IphwAANg5Um0KfJ02jNOKA7N1nooCij8iW5r2NJnBNuyp%2FzM%2FaVunoNQ1gQTQhEcghId6SkIpnFKQIZCeai8aSTQAW1F0M4LQt4wVkZinN4uHqWkfOJGWbfdbdFGfVhf93qZ4NXuY3ZHkJ9KyelcWg%2FjOz%2F5E2WjVT%2FJCq5KZ8+%2FAFfekZy5W0Fx70hYSxOt2%2F28NDxa9bYQP5LpQBFDkvX5dxIO+K3aNAWWd4mEqkB%2FRwryoo7I3nM50N%2FkeyBOn+gMS2I3w9ASe9EfgyS5o0dp7RqKEuo%2FxVMJuPP1Gkym6bKSreRGPkvOtnC8oJHL0D35STU+wAXuRXpU49pl7Jwz8lEtaXoNF7hG7Zus=?resolution=1240x700",
-          "publishedAt": "2026-11-13T04:31:57.000Z"
+          "title": "Voters sour on MMP - and Luxon’s U-turn - in wake of election controversy",
+          "link": "https://www.stuff.co.nz/nz-news/361059099/voters-sour-mmp-and-luxons-u-turn-wake-election-controversy",
+          "summary": "Stuff survey shows appetite for electoral reform and questions about trust over Opportunity backtrack.",
+          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYVamet2c7%2Fp3KWIWlR7cVEGIRTEeLN%2FYCmjDwyZBl5JegAIOZrVqAXdCdJsiu7lPVapkGXI+6Qb4BWflTgNPVvlM5k4CZlDqWSOAdLj5IxUj+BJIeqZx%2FOjC1KGkPS7rwipwBj%2FW2%2FlFznCQ0bsNm9I=?resolution=1240x700",
+          "publishedAt": "2026-11-13T15:00:00.000Z"
         },
         {
-          "title": "Where Air NZ says it will have direct flights to within five years",
-          "link": "https://www.stuff.co.nz/travel/361059231/where-air-nz-says-it-will-have-direct-flights-within-five-years",
-          "summary": "Air NZ chief Nikhil Ravishankar would not commit to a launch date, though he said direct services were \"almost inevitable\" within five years.",
-          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYQyBwrrEtCKweml8V0KTUa5FzVE+T5xmAhRzpYiprF5D8EO7lM9oOjr1zO7FF9oAmcEl%2F%2F2d82yHLpB7%2FVPniAjnXHkIcTIcJ%2F8epCRiGUc+qEABZmyPweetlVd3wITcbKDE4m1ZW3bI391iu4a3jptw2uPh8DHjwAdyRVcbSxw2bGDIYi9QqefckQVU4mZokLaad5Gyo6iyy+vb6OWphE0Sxgd7rNmNYIL0xZqwSKZwhL+YyEqkHXDfI+QBPEAP3KoiZ8lvdguTXMickqyS1VnklwggMfZVE+3SCEL8Jh2CdjecYE43G8UdS%2F0JEXMbT+GUks5gb5x9MPJ7FGTp%2FgabC1xNRaWbspkESKFbZrwC1Ox3ULr8w%2F9bwCuUul4hhs9CWp+Uz9cxuMBhIV16xay5KemmFQ+Bm+DHJnm1bKyo1tGE%2FKpJo57LnEtY%2F+Mzxw==?resolution=1240x700",
-          "publishedAt": "2026-11-13T03:41:56.000Z"
+          "title": "A rainy night, a risky 7km walk, and a mother’s fight for her son’s care",
+          "link": "https://www.stuff.co.nz/nz-news/361059088/rainy-night-risky-7km-walk-and-mothers-fight-her-sons-care",
+          "summary": "Ashley Peacock’s supporters say understaffing at his new home means he isn’t getting out and about.",
+          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYenGEBXiabMolW9oGydsekN9osHpYTYE5tEzSng5VKMJ46LyJEZTyUP18%2FGme16xfpnyQ8M7iMNZQZu%2F2lIzDu8bj9xajHBk%2FCU053kFGNIxGxfTtWzjY31LTOliC61B0F%2FAimLsz21Cvl8Hae139NGdo57itkkf1pc1wynISxL0iLXoeVHZp%2FtWuLqzwkn3gt9GRjxtKfqp+zA%2FWwYsFZIYQpvC5chUxl7IEgGr0GnFNp9UnIWHm2HvjrjpXwGn3%2F9cIRTKnGRES2fStoZpZJHn4FfedxjEboQcvCgYPlLsJ%2FJcq7duLJll47WV6U1Pix%2FLb73lhBTcBdmFwCKsZGH%2FkoJiLt4dVkutG2ahOJh+88qiu02NPcP6P4V4bWmvsDz5u%2FOEG%2FE0kgN+Rky37UoITLKpsApbqsI28e8U4NtU3uIZfB66osCNBYx07rK0Iw==?resolution=1240x700",
+          "publishedAt": "2026-11-13T15:00:00.000Z"
         },
         {
-          "title": "Cummins slams ‘irresponsible’ Khawaja in stunning Sandpapergate press conference",
-          "link": "https://www.stuff.co.nz/sport/361059079/khawaja-100-cent-wrong-pat-cummins-responds-sandpaper-revelations",
-          "summary": "Pat Cummins spoke ahead of a training session in Sydney on Friday.",
-          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYawsbq8+NTmYKVBAJ%2FBiVZwUw%2FLpSITIBVGpbncX6T3G7hFkeZB46wEi%2F27eKHDQwLt3wOcz1ahWP00GkxejHMJcW0i1yJXxcdsHvrBoNQ+Z07ufHW6rhPe6xE3C4+bRRMZ7XYjSxDmYVXZPhk5OJ0E=?resolution=1240x700",
-          "publishedAt": "2026-11-13T03:27:18.000Z"
+          "title": "Burnt out by the rat race? Here’s how to swap executive stress for meaningful work",
+          "link": "https://www.stuff.co.nz/money/361059074/burnt-out-rat-race-heres-how-swap-executive-stress-meaningful-work",
+          "summary": "After a year smelling the roses, a reader wants to use her senior management skills to give back, writes Gill South.",
+          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYSRceqlvgAGxADrXHMfOZUFEnSpugcKadKHeFgoqgnxarkb7V3LShxyQsmCN1E96nuDWr+nE3NwNo7B3GGGO1i+R5O4OMnR7GcZyOe%2Fq+fHDcfesAnIHjIXFg1QeFZWSkUYS5dyMJzD6%2F3uZJcpHE64=?resolution=1240x700",
+          "publishedAt": "2026-11-13T15:00:00.000Z"
         },
         {
-          "title": "Popular beach that ‘disappeared’ last year set to get new sand for summer",
-          "link": "https://www.stuff.co.nz/nz-news/361059200/popular-beach-disappeared-last-year-set-get-new-sand-summer",
-          "summary": "​Wellington City Council has confirmed that plans are underway to add new sand to Hataitai Beach.",
-          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYb3IZvPhTWgcxxPxMFZc4ft%2Fd87n5UIPfi3Q%2Fby+mOWDJRUpm2Fi7wKXjLirHnbzqW7MVB%2FmSdR9s99IMDYkcnUvfW+mXWeIk7hwXqneoAP8m8X6UfeQo3rtkuPdnoxQ%2FOufgWSWATNtpjPPgYgE5trclmtFxkhbG4fsm88i7bJKgDK+cJTVQNgvfvXT6uKnMZ2WQZg%2FsJql8Z6ADfR0%2F5fF1XcsMfzLozQdL0l54cFunvy9Ay1euycQQRsqwF09MWRgjNki%2FTAdhXD89ctnN3bJ6IlVLKKo+WqggQS2TEsreIzmxFt9PBoVuzQmivGKYABb6sfrgbe8nRZfRtCAlv0jSgjO8Sa2Ng6xYOFb5HIoA0x483aAUBnmFNX5awciaOlJY%2FLa+G7EfL7HHtsZPOPjlGSFuT%2FEtWjnSky8ltgIfj5g1hrYyqM9h0jl735k%2FiK4cxurACblMQwbfws4tes=?resolution=1240x700",
-          "publishedAt": "2026-11-13T03:12:38.000Z"
+          "title": "If you’re a woman in your 40s, your gut health matters more than ever. What to eat — and what to avoid",
+          "link": "https://www.stuff.co.nz/health/361058603/if-youre-woman-your-40s-your-gut-health-matters-more-ever",
+          "summary": "As women age, a whole host of symptoms can surface as oestrogen levels rise and fall.",
+          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYQA8LvY17l8aQmpb+vJHj4%2FNcOakt7LtxMwbr0mqcyK5Jkiood1eCaUuE6W6JynCs6NtiacGoQiWM5LyXRKFTGj+F5fFEqTFnVcwlWjqA6OI27+cwHarLIe1b8VxBWkOUcRUWH9LlEPPDJ7mU1qdt0bavNY3W+xImwgbfdQOo5kvyson1aJBwkxRFSKtNoh2sq%2FUXBtLse20LzRoLK5Fz6umZSLxbkZxd9iDrb4o7mEIFCxgNPPopD98n7JW45qak9Mgost73H9FUs%2FK010B3p4Rc+k7CH7xSEHjIdRiJxhRfqU5SP+V5lw5AhcgqoxAJU6Er1B%2Ff3NPLFCpwgDacLKMUdAIk5L25zLCr%2FhQevO2dyjgWELIoNB27rxv67N3M67ZLGi+4c8lQJ4xmm8NJz+VgBEJt+ZYRiXFLWJe9aZK6TdtbOgYUYDs3qik%2FOj7OEYFuqlwJ4pJfssF98CO83o=?resolution=1240x700",
+          "publishedAt": "2026-11-13T15:00:00.000Z"
         },
         {
-          "title": "Thousands of Auckland Airport travellers spared as fire and rescue workers call off strike",
-          "link": "https://www.stuff.co.nz/travel/361059217/thousands-auckland-airport-travellers-spared-fire-and-rescue-workers-call-strike",
-          "summary": "Thousands of travellers booked to fly on November 24 and November 27 can travel as planned after union E tū withdrew its strike notice for Auckland Airport fire and rescue workers.",
-          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYUsGQqf0ghQJJWJNbizLdwkQqtDoLWUcIgbwgSVRSxJ3G45mr7yJSC0wYHPWQdY26mMxmuWFJGjKetVeROrPXsjZCvGCjDJfomgcmVBiyJPNoaDrWcJF2eVqbAE6jbGQzUAc9IpHkE2q0PKt40gXfpA=?resolution=1240x700",
-          "publishedAt": "2026-11-13T02:40:16.000Z"
+          "title": "Summer means more sex, right? Not necessarily",
+          "link": "https://www.stuff.co.nz/wellbeing/361059238/summer-means-more-sex-right-not-necessarily",
+          "summary": "You’re basically playing a numbers game here.",
+          "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYagW4AqygsC3z7uZGZ7N3mXJGYGqRXxQHhmy8tuNckG1%2Fl31DyM%2F4oaZ3SVO97H2PZXFRyZajIOqQXJDE1tX3vOFLtr7HHQpMPsAIPLqO2MhsHo+xb1vA%2FY8rOXF%2FpgXVk1+PgiXULdmv9Z67KlHxtQ=?resolution=1240x700",
+          "publishedAt": "2026-11-13T15:00:00.000Z"
         }
       ]
     }

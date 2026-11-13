@@ -8,87 +8,67 @@
         "homepage": "https://www.tagesschau.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-13T06:51:06.572Z",
+      "fetchedAt": "2026-11-13T18:40:42.376Z",
       "items": [
         {
-          "title": "Marktbericht: Atempause nach dem DAX-Rekord",
+          "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-          "summary": "Nach dem erneuten Rekordhoch über 27.000 Punkten geht dem DAX zum Wochenschluss etwas die Puste aus. Die Bilanz der DAX-Berichtssaison fällt positiv aus, jetzt wären frische Impulse gefragt.",
-          "publishedAt": "2026-11-13T06:35:10.000Z",
-          "titleEn": "Market report: Breathing time according to the DAX record",
-          "summaryEn": "After another record high of over 27,000 points, the DAX is a bit exhausted at the end of the week. The DAX reporting season's outlook is positive, and fresh momentum is in demand."
+          "summary": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent.",
+          "publishedAt": "2026-11-13T17:57:57.000Z"
         },
         {
-          "title": "Werden die Milliarden für die Stromsteuer noch gefunden?",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-haushalt-milliarden-100.html",
-          "summary": "Bei der längsten Sitzung im Bundestag wird in der Nacht jeder Cent umgedreht, damit der Bundesetat für 2027 steht. Gleichzeitig sucht die Regierungsspitze Milliarden für eine Stromsteuersenkung. Kann sie sie noch finden?…",
-          "publishedAt": "2026-11-13T06:26:18.000Z",
-          "titleEn": "Will the billions for the electricity tax still be found?",
-          "summaryEn": "At the longest sitting in the Bundestag, every cent is reversed at night so that the federal government stands for 2027. At the same time, the top government is seeking billions for a reduction in electricity taxes. Can she still find her?"
+          "title": "Ukraine und Russland greifen sich trotz Verhandlungen weiter an",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html",
+          "summary": "Trotz intensiver Verhandlungen über ein Ende des Ukraine-Krieges dauern die gegenseitigen Angriffe zwischen Kiew und Moskau an. Russland meldet sieben Tote, in der Ukraine wurden mindestens zwei Menschen getötet.",
+          "publishedAt": "2026-11-13T17:15:20.000Z"
         },
         {
-          "title": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
-          "link": "https://www.tagesschau.de/inland/bundeshauhalt-2027-100.html",
-          "summary": "Nach über 15 Stunden beendete der Haushaltsausschuss seine Beratungen - jetzt steht der Etat für das kommende Jahr. Insgesamt sind Ausgaben in Höhe von 560,9 Milliarden Euro geplant - mehr als ursprünglich vorgesehen…",
-          "publishedAt": "2026-11-13T06:26:14.000Z",
-          "titleEn": "Nightly meeting of the Committee on Budgets: Budget for 2027",
-          "summaryEn": "After more than 15 hours, the Committee on Budgets has finished its deliberations - now the budget for the coming year. In total, expenditure of EUR 560.9 billion is planned - more than originally planned."
+          "title": "Musikstars pilgern nach 95 Jahren in die Abbey Road in London",
+          "link": "https://www.tagesschau.de/kultur/legendaere-abbey-road-tonstudios-100.html",
+          "summary": "Seit 95 Jahren sind die Abbey Road Studios legendär: Die Beatles, Pink Floyd, Edward Elgar und Adele haben hier Musikgeschichte geschrieben. Ein Ort voller Mythen - und ein bis heute gefragtes Studio. Von Hannah Rau.",
+          "publishedAt": "2026-11-13T16:41:43.000Z"
         },
         {
-          "title": "Reform der Nachrichtendienste: \"Jahrhundertwerk\" oder \"Monster\"?",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
-          "summary": "Der Bundestag stimmt heute über eine Reform der Nachrichtendienste ab. Sie sollen mehr Befugnisse erhalten. Innenminister Dobrindt spricht von einem \"Jahrhundertwerk\" - andere von einem \"Monster\". Von Markus Sambale.",
-          "publishedAt": "2026-11-13T04:23:02.000Z",
-          "titleEn": "Reform of the intelligence services: \"Century\" or \"Monster\"?",
-          "summaryEn": "The Bundestag voted today on a reform of the intelligence services. I want you to have more authority. Interior Minister Dobrindt speaks of a \"centenary\" - others of a \"monster\". It's from Markus Sambale."
+          "title": "AfD will Ex-Fußballprofi Berthold als Bundespräsidenten nominieren",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/berthold-afd-wahl-bundespraesident-100.html",
+          "summary": "Der ehemalige Fußballprofi Thomas Berthold soll nach ARD-Informationen für die AfD ins Rennen um das Amt des Bundespräsidenten gehen. Der Weltmeister von 1990 tat sich während der Corona-Pandemie als \"Querdenker\" hervor.",
+          "publishedAt": "2026-11-13T16:37:14.000Z"
         },
         {
-          "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
-          "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
-          "summary": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
-          "publishedAt": "2026-11-13T02:36:47.000Z",
-          "titleEn": "The Huang affair could turn into a Trump scandal",
-          "summaryEn": "According to media reports, Trump has been briefed twice about Nvidia CEO Huang's affair with an alleged Chinese spy. But the president says he didn't know anything about it. From C. - What's that?"
+          "title": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
+          "summary": "Nach dem Cyberangriff auf den bayerischen Drohnenhersteller Quantum Systems läuft die Suche nach den Tätern. Vieles deutet auf einen russischen Hintergrund hin. Das Unternehmen ist wichtiger Ausrüster des ukrainischen…",
+          "publishedAt": "2026-11-13T16:02:19.000Z"
         },
         {
-          "title": "EPG-Treffen in Dublin: Momentum für Friedensverhandlungen?",
-          "link": "https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html",
-          "summary": "Das Treffen in Dublin bringt neue Dynamik in die Friedensverhandlungen - am Abend kommen noch die US-Unterhändler Witkoff und Kushner aus Moskau angereist. NATO-Chef Rutte sieht Fortschritte. Von K. Schmid.",
-          "publishedAt": "2026-11-13T01:22:12.000Z",
-          "titleEn": "The European Parliament's meeting in Dublin: momentum for peace negotiations?",
-          "summaryEn": "The meeting in Dublin brings new momentum to the peace negotiations - in the evening the US negotiators Witkoff and Kushner will arrive from Moscow. NATO chief Rutte is seeing progress. By K. Schmidt, please."
+          "title": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
+          "summary": "Nach den weltweiten IT-Störungen scheint sich die Lage vor allem in Nordamerika und Europa zu entspannen. Das US-Technologieunternehmen Microsoft spricht von zum Teil \"umfassenden Verbesserungen\".",
+          "publishedAt": "2026-11-13T15:40:27.000Z"
         },
         {
-          "title": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
-          "link": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
-          "summary": "Von Putin zu Selenskyj - die US-Unterhändler Kushner und Witkoff kommen mit Ankündigungen aus Moskau nach Dublin. Bei den Verhandlungen sollen künftig auch die Europäer teilnehmen.",
-          "publishedAt": "2026-11-13T02:19:34.000Z",
-          "titleEn": "U.S. negotiators announce Europe's participation in the Ukraine negotiations",
-          "summaryEn": "From Putin to Selensky, US businessmen Kushner and Witkoff are arriving in Dublin with announcements from Moscow. In the future, Europeans are also expected to participate in the negotiations."
+          "title": "Kommentar zum Haushalt: Die Koalition geht auf dem Zahnfleisch",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-koalition-geht-auf-zahnfleisch-100.html",
+          "summary": "Der Bundeshaushalt für das kommende Jahr steht. Doch die Einigung ist ohne Richtung, ohne Ambition und ohne Vision, findet Sabine Henkel. Union und SPD fehlt nicht nur Geld, sondern vor allem Mut und eine Strategie.",
+          "publishedAt": "2026-11-13T15:40:10.000Z"
         },
         {
-          "title": "Auch Outlook betroffen: Weltweite Störungen bei Microsoft-Diensten",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html",
-          "summary": "Ein massiver weltweiter Ausfall von Microsoft-Diensten wie Outlook und Teams stört seit Donnerstag den Betrieb von Unternehmen und Behörden rund um den Globus. Maßnahmen zur Behebung des Problems verlaufen laut Microsoft…",
-          "publishedAt": "2026-11-13T06:30:08.000Z",
-          "titleEn": "Outlook is also affected: Microsoft services worldwide disrupted",
-          "summaryEn": "A massive worldwide outage of Microsoft services like Outlook and Teams has disrupted the operations of businesses and government agencies around the globe since Thursday. Measures to address the problem are underway, according to Microsoft..."
+          "title": "Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-gipfel-eu-dublin-merz-100.html",
+          "summary": "Der Krieg gegen die Ukraine steht im Fokus des EU-Treffens in Dublin. Kanzler Merz erhält für seinen Vorstoß zur Finanzierung neuer Ukraine-Hilfen Rückendeckung - bei Gesprächen über ein Kriegsende sieht er Deutschland…",
+          "publishedAt": "2026-11-13T16:36:49.000Z"
         },
         {
-          "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
-          "link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
-          "summary": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
-          "publishedAt": "2026-11-12T21:09:07.000Z",
-          "titleEn": "Bavarian drone manufacturer Quantum Systems reports a cyberattack",
-          "summaryEn": "The Bavarian arms group Quantum Systems has reportedly been the victim of a cyberattack. The incident took place in October. According to a media report, the Bundeswehr has already reacted."
+          "title": "Brandstiftung: Auto von Nius-Chefredakteur Reichelt angezündet",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/reichelt-auto-angezuendet-100.html",
+          "summary": "In Berlin-Charlottenburg ist das Auto von Nius-Chefredakteur Reichelt ausgebrannt. Auf seinem rechtspopulistischen Online-Portal spricht Reichelt von einem \"Einschüchterungsversuch\". Der Staatschutz ermittelt.",
+          "publishedAt": "2026-11-13T15:28:26.000Z"
         },
         {
-          "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
-          "summary": "In den Verhandlungen um Kostensenkungen bei Mercedes ist keine Lösung in Sicht. Jetzt erhöht der Konzern den Druck: Der Vorstand legt alle Investitionen in deutsche Standorte auf Eis - und will Werksschließungen prüfen.",
-          "publishedAt": "2026-11-12T18:44:38.000Z",
-          "titleEn": "Mercedes stops investing in Germany and reviews closures",
-          "summaryEn": "There is no solution to the cost reduction negotiations at Mercedes. Now the group is increasing the pressure: the board of directors is putting all investments in German sites on hold - and wants to review plant closures."
+          "title": "EU-Emissionshandel: Mehr kostenlose Verschmutzungsrechte für die Industrie",
+          "link": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html",
+          "summary": "Europas Industrie soll nicht mehr so stark durch das System des Emissionshandels belastet werden. EU-Parlament und Mitgliedstaaten haben sich darauf verständigt, zusätzliche kostenlose Emissionszertifikate auszugeben.…",
+          "publishedAt": "2026-11-13T14:35:01.000Z"
         }
       ]
     },
@@ -99,97 +79,77 @@
         "homepage": "https://www.spiegel.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-13T06:51:05.194Z",
+      "fetchedAt": "2026-11-13T18:40:42.295Z",
       "items": [
         {
-          "title": "Haushalt 2027: Entwurf beschlossen – Thema Stromsteuer bleibt umstritten",
-          "link": "https://www.spiegel.de/wirtschaft/haushalt-2027-entwurf-beschlossen-thema-stromsteuer-bleibt-umstritten-a-96a85a7e-defa-41cc-b8d2-fa71c501fc9d#ref=rss",
-          "summary": "Nach 16 Stunden dauernden Beratungen hat der Haushaltsausschuss den Entwurf für den Bundesetat 2027 vorgelegt. Die Diskussionen darüber sind jedoch noch keineswegs beendet.",
-          "image": "https://cdn.prod.www.spiegel.de/images/6e899fe0-9137-4937-8934-fc203be98d9c_w520_r2.08_fpx57.32_fpy49.99.jpg",
-          "publishedAt": "2026-11-13T06:45:00.000Z",
-          "titleEn": "Budget 2027: Draft decision  ⁇  The issue of electricity tax remains controversial",
-          "summaryEn": "After 16 hours of deliberations, the Budget Committee presented the draft budget for 2027. The discussions on this matter, however, are by no means over."
+          "title": "Krieg in der Ukraine: Europäer einigen sich auf Verhandlungsteam für Gespräche mit Russland",
+          "link": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland-a-33f42a19-3d6f-4708-8372-a55f8583040a#ref=rss",
+          "summary": "Deutschland, Frankreich, Großbritannien, Italien und Polen sollen gemeinsam mit den EU-Institutionen die Europäer bei Ukraine-Gesprächen mit Russland vertreten. Darauf haben sich die Staats- und Regierungschefs der…",
+          "image": "https://cdn.prod.www.spiegel.de/images/85d3d92f-7d30-4f08-8fbf-500efd6a5599_w520_r2.08_fpx39.98_fpy49.99.jpg",
+          "publishedAt": "2026-11-13T18:02:00.000Z"
         },
         {
-          "title": "Barbara Schöneberger muss Führerschein abgeben",
-          "link": "https://www.spiegel.de/panorama/leute/barbara-schoeneberger-muss-fuehrerschein-abgeben-a-aad190ae-2320-41f7-baed-c141219d6c95#ref=rss",
-          "summary": "Ausgerechnet bei der Verleihung des Automobilpreises »Goldenes Lenkrad« hat TV-Moderatorin Barbara Schöneberger erzählt, dass sie ein Fahrverbot bekommen hat. Sie sei ein »Straßenverkehrs-Ermöglicher«.",
-          "image": "https://cdn.prod.www.spiegel.de/images/51bc8097-548c-42bc-aa14-77e3d8126457_w520_r2.08_fpx46.55_fpy52.98.jpg",
-          "publishedAt": "2026-11-13T06:41:00.000Z",
-          "titleEn": "Barbara Schöneberger has to give up her driver's license.",
-          "summaryEn": "Just at the award ceremony, TV presenter Barbara Schöneberger said she was banned from driving. She is a road traffic facilitator."
+          "title": "Aachen: Mann auf offener Straße erschossen – Polizei fahndet nach Tatverdächtigen",
+          "link": "https://www.spiegel.de/panorama/aachen-mann-auf-offener-strasse-erschossen-polizei-fahndet-nach-tatverdaechtigen-a-c1053e61-94a3-4ae2-b754-ce053334a6cb#ref=rss",
+          "summary": "Im Aachener Ostviertel ist am Nachmittag ein 41-jähriger Mann getötet worden. Schon in der Nacht zuvor waren in der Umgebung Schüsse gefallen.",
+          "image": "https://cdn.prod.www.spiegel.de/images/a30c8e4f-8f22-4ca3-bb6b-a0a1075b58d2_w520_r2.08_fpx30.17_fpy54.99.jpg",
+          "publishedAt": "2026-11-13T17:53:00.000Z"
         },
         {
-          "title": "Microsoft bekommt weltweite Störung von Onlinediensten nicht in den Griff",
-          "link": "https://www.spiegel.de/netzwelt/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff-a-589712d4-e5b1-4fe0-a291-df65e1e54ffa#ref=rss",
-          "summary": "Outlook, Teams, Copilot – die zentralen Onlinedienste von Microsoft sind seit Donnerstag weltweit massiv gestört. Techniker kämpfen bislang erfolglos.",
-          "image": "https://cdn.prod.www.spiegel.de/images/2fdcd8b2-d15f-4ae6-b38d-ac54bfd04346_w520_r2.08_fpx29.99_fpy44.99.jpg",
-          "publishedAt": "2026-11-13T06:38:00.000Z",
-          "titleEn": "Microsoft can't handle the worldwide disruption of online services",
-          "summaryEn": "Outlook, Teams, Copilot  ⁇  Microsoft's central online services have been massively disrupted worldwide since Thursday. Technicians have fought unsuccessfully."
+          "title": "Ukraine-Krieg: Experte schätzt 500.000 bis 600.000 Kriegstote auf russischer Seite",
+          "link": "https://www.spiegel.de/ausland/ukraine-krieg-experte-schaetzt-500-000-bis-600-000-kriegstote-auf-russischer-seite-a-39dc975f-4db8-420b-9fdf-046130291bb9#ref=rss",
+          "summary": "Hacker haben viele Millionen Datensätze der russischen Behörde Rosstat erbeutet, darunter die geheime Todesstatistik. Der Russlandexperte Janis Kluge erklärt, warum das Leck so bedeutungsvoll ist – und was noch darin…",
+          "image": "https://cdn.prod.www.spiegel.de/images/74242e1a-8ed7-490f-9d48-f604d6753c3d_w520_r2.08_fpx53_fpy62.jpg",
+          "publishedAt": "2026-11-13T17:51:00.000Z"
         },
         {
-          "title": "Wismar: Zwei Tote bei Feuer in Mehrfamilienhaus",
-          "link": "https://www.spiegel.de/panorama/wismar-zwei-tote-bei-feuer-in-mehrfamilienhaus-a-71df46ee-9b8c-43c3-b3db-54c697a5ec84#ref=rss",
-          "summary": "Einsatzkräfte haben nach einem Hausbrand in Wismar zwei 26-Jährige tot aus dem Gebäude geborgen. Weitere Bewohner wurden verletzt, einige mussten die Nacht in einer Notunterkunft verbringen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/c8646d4f-0189-4ae6-bf98-662ee2d0a1ab_w520_r2.08_fpx48_fpy73.jpg",
-          "publishedAt": "2026-11-13T06:25:00.000Z",
-          "titleEn": "Wismar: Two dead in a house fire",
-          "summaryEn": "Security forces have recovered two 26-year-olds from the building after a house fire in Wismar. Other residents were injured, and some had to spend the night in an emergency room."
+          "title": "Russland: Menschenrechtsanwältin Marija Bonzler zu langer Haft verurteilt",
+          "link": "https://www.spiegel.de/ausland/russland-menschenrechtsanwaeltin-marija-bonzler-zu-langer-haft-verurteilt-a-017f2720-c5f2-440d-b700-8dffbc71a0d3#ref=rss",
+          "summary": "Sie verteidigte politische Gefangene, dann wurde sie selbst verhaftet: Die russische Anwältin Marija Bonzler ist wegen angeblichen Hochverrats zu zwölf Jahren Haft verurteilt worden. Ihr Gesundheitszustand ist offenbar…",
+          "image": "https://cdn.prod.www.spiegel.de/images/d7cc2200-f597-4fba-a121-8213d1d0301a_w520_r2.08_fpx42_fpy44.98.jpg",
+          "publishedAt": "2026-11-13T17:27:00.000Z"
         },
         {
-          "title": "Israel-Gaza-Krieg: Ärzte ohne Grenzen kritisieren Zerstörung eines Krankenhauses",
-          "link": "https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses-a-e68b1b81-b171-469a-93a1-fe4edea66ce8#ref=rss",
-          "summary": "Bei einem Angriff auf eine Klinik im Gazastreifen sterben mindestens sechs Menschen. Die Helfer von Ärzte ohne Grenzen sind empört. Auch der von US-Präsident Trump geschaffene Friedensrat reagiert.",
-          "image": "https://cdn.prod.www.spiegel.de/images/bd10ab2d-12e3-4981-be86-b3df75a03911_w520_r2.08_fpx54_fpy50.jpg",
-          "publishedAt": "2026-11-13T06:21:00.000Z",
-          "titleEn": "Israel-Gaza war: Doctors Without Borders criticize the destruction of a hospital",
-          "summaryEn": "At least six people are killed in an attack on a hospital in Gaza. Doctors Without Borders' aides are outraged. The Peace Council, created by US President Trump, is also responding."
+          "title": "Greta Thunberg und das virale Video: »Sie lacht nicht über die Klimabewegung, sondern über die Protestform«",
+          "link": "https://www.spiegel.de/kultur/greta-thunberg-und-das-virale-video-sie-lacht-nicht-ueber-die-klimabewegung-sondern-ueber-die-protestform-a-32f2efaf-b281-46fa-9472-2e0e42408700#ref=rss",
+          "summary": "Ein Clip, in dem Klima-Ikone Greta Thunberg über die Fridays-for-Future-Bewegung lacht, geht viral. Hier erklärt Filmemacher Hubertus Koch, in welchem Kontext das Video entstand – und worauf sich ihre Reaktion bezog.",
+          "image": "https://cdn.prod.www.spiegel.de/images/2efa6296-dd82-4f12-a219-7dc8b3585a0a_w520_r2.08_fpx12_fpy53.jpg",
+          "publishedAt": "2026-11-13T17:23:00.000Z"
         },
         {
-          "title": "Elektroauto kaufen: Budget für Kaufprämie begrenzt - was jetzt passiert",
-          "link": "https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-budget-fuer-kaufpraemie-begrenzt-was-jetzt-passiert-a-76c4ccde-2757-414f-89d6-bc9ed69840bf#ref=rss",
-          "summary": "Der Ansturm auf Elektroautos überfordert manche Hersteller – und die Bundesregierung. Deren Budget für die staatliche Kaufprämie dürfte schneller verbraucht sein als geplant. Was Autokäufer jetzt wissen sollten.",
-          "image": "https://cdn.prod.www.spiegel.de/images/e23573b0-62c3-4fff-b649-1bb12d1031ce_w520_r2.08_fpx70_fpy55.01.jpg",
-          "publishedAt": "2026-11-13T06:09:00.000Z",
-          "titleEn": "Buying an electric car: Budget limited for purchase premiums - what happens now",
-          "summaryEn": "The rush to electric cars is overwhelming some manufacturers  ⁇  and the federal government. Their budget for the state purchase premium is likely to be spent faster than planned. What car buyers should know now."
+          "title": "Flug zum Mars: Wie neue Fitnessgeräte für Astronauten aussehen",
+          "link": "https://www.spiegel.de/wissenschaft/technik/flug-zum-mars-wie-neue-fitnessgeraete-fuer-astronauten-aussehen-a-32dfc2f3-d557-40dd-a60d-e466d40fb14f#ref=rss",
+          "summary": "Ein Schlüssel zur Erkundung des Weltalls ist: Sport. Auch weil Muskelmasse und Kraft schwinden, wenn sie nicht gegen die Erdanziehungskraft arbeiten müssen. So könnten Work-outs für Astronauten auf dem Weg zum Mars…",
+          "image": "https://cdn.prod.www.spiegel.de/images/5397eaaf-efb5-4651-8ef8-b3f85d1c1ef3_w520_r2.08_fpx35.93_fpy44.9.png",
+          "publishedAt": "2026-11-13T17:19:00.000Z"
         },
         {
-          "title": "Verteidigung in Europa: 39 Staaten einigen sich auf Sicherheitscharta in Dublin",
-          "link": "https://www.spiegel.de/politik/verteidigung-in-europa-39-staaten-einigen-sich-auf-sicherheitscharta-in-dublin-a-558a1d73-49fa-4811-b702-bb39aeb4a95e#ref=rss",
-          "summary": "Die Unterzeichner einer neuen Charta wollen mehr Verantwortung für Europas Sicherheit übernehmen. Auch auf Angriffe wollen sie reagieren.",
-          "image": "https://cdn.prod.www.spiegel.de/images/0c6a27dd-a81e-4d28-9ea6-3d69b651e9cb_w520_r2.08_fpx65.96_fpy44.97.jpg",
-          "publishedAt": "2026-11-13T05:58:00.000Z",
-          "titleEn": "Defence in Europe: 39 countries agree to a Security Charter in Dublin",
-          "summaryEn": "The signatories of a new charter want to take greater responsibility for Europe's security. They also want to respond to attacks."
+          "title": "Bono und The Edge über 50 Jahre U2, Erfolg und Lieblingssongs",
+          "link": "https://www.spiegel.de/kultur/musik/bono-und-the-edge-ueber-50-jahre-u2-erfolg-und-lieblingssongs-a-06a41748-f66d-48d3-87ed-e5b581c25246#ref=rss",
+          "summary": "Seit 50 Jahren gibt es U2, eine der letzten großen Rockbands der Welt. Hier sprechen Frontmann Bono und Gitarrist The Edge über ihren Erfolg, ihre liebsten Lovesongs und ihre Hymne auf die spanische Sängerin Rosalía.",
+          "image": "https://cdn.prod.www.spiegel.de/images/dfa12a23-8857-4f09-b077-5f3223d85f69_w520_r2.08_fpx50_fpy51.jpg",
+          "publishedAt": "2026-11-13T17:02:00.000Z"
         },
         {
-          "title": "Guterres nennt Milliardengewinne von Energiekonzernen »moralisch inakzeptabel«",
-          "link": "https://www.spiegel.de/wirtschaft/guterres-nennt-milliarden-gewinne-von-energiekonzernen-moralisch-inakzeptabel-a-33bc86fb-dc9b-4147-9353-704a5d0ce93a#ref=rss",
-          "summary": "Der rasante Anstieg der Energiepreise hat die Gewinne der Energiekonzerne nach oben getrieben. Nach Überzeugung von Uno-Generalsekretär Guterres widerspricht das jeder Moral.",
-          "image": "https://cdn.prod.www.spiegel.de/images/7c5e11c1-d6c6-40c6-91cc-b8678da1e8ec_w520_r2.08_fpx66.65_fpy50.jpg",
-          "publishedAt": "2026-11-13T05:54:00.000Z",
-          "titleEn": "Guterres says billions of dollars in energy companies are morally unacceptable.",
-          "summaryEn": "The rapid increase in energy prices has driven energy companies' profits upwards. In the opinion of UN Secretary General Guterres, this is against all morals."
+          "title": "U2: Das vielleicht beste Rockalbum des Jahres kommt aus Irland. Aber von welcher Band?",
+          "link": "https://www.spiegel.de/kultur/musik/u2-das-vielleicht-beste-rockalbum-des-jahres-kommt-aus-irland-aber-von-welcher-band-a-ec624010-6796-44bd-a762-a33216788775#ref=rss",
+          "summary": "Ausgerechnet die zuvor in Pathos erstarrten U2 klingen auf ihrem neuen Album so energisch wie seit Jahrzehnten nicht mehr. In den Demutshymnen der Iren verbirgt sich auch eine Mahnung an ihre populären Nachfolger von…",
+          "image": "https://cdn.prod.www.spiegel.de/images/02cc07bc-82d7-4e53-b3ef-962dc933aba7_w520_r2.08_fpx58.3_fpy50.jpg",
+          "publishedAt": "2026-11-13T17:02:00.000Z"
         },
         {
-          "title": "Türkei: Gericht ordnet Freilassung von Ekrem İmamoğlus Anwalt an",
-          "link": "https://www.spiegel.de/politik/tuerkei-gericht-ordnet-freilassung-von-ekrem-imamoglus-anwalt-an-a-85e66b03-efd1-4a7f-b48e-9928591c70d2#ref=rss",
-          "summary": "Im Mammutprozess gegen Ekrem İmamoğlu hat das Gericht in Silivri die Freilassung seines Anwalts angeordnet. Auch für weitere Angeklagte gibt es eine neue Entscheidung zur Untersuchungshaft.",
-          "image": "https://cdn.prod.www.spiegel.de/images/6ed31c32-1570-43b6-b454-e2271ebd34e7_w520_r2.08_fpx53.98_fpy46.99.jpg",
-          "publishedAt": "2026-11-13T05:42:00.000Z",
-          "titleEn": "Turkey: Court orders the release of lawyer Ekrem İmamoğlus",
-          "summaryEn": "In the mammoth trial against Ekrem İmamoğlu, the Silivri court ordered the release of his lawyer. There's also a new arrest warrant for other defendants."
+          "title": "Ethan Hawke: Kinder sind seine »größte Energiequelle«",
+          "link": "https://www.spiegel.de/panorama/leute/ethan-hawke-kinder-sind-seine-groesste-energiequelle-a-851af6c5-75e3-4818-90aa-aa32bfec61f0#ref=rss",
+          "summary": "Maya Hawke tritt als Schauspielerin in die Fußstapfen ihres Vaters Ethan. Der glaubt aber offenbar nicht, dass er ihr dafür den Weg geebnet hat: Vielmehr habe er von seinen Kindern Geduld und Ehrlichkeit gelernt.",
+          "image": "https://cdn.prod.www.spiegel.de/images/5deea87a-115c-4186-ae7e-ba9193eecb24_w520_r2.08_fpx58.18_fpy50.jpg",
+          "publishedAt": "2026-11-13T16:59:00.000Z"
         },
         {
-          "title": "SpaceX: Was den neuen Test der Riesenrakete Starship besonders macht",
-          "link": "https://www.spiegel.de/wissenschaft/spacex-was-den-neuen-test-der-riesenrakete-starship-besonders-macht-a-0a62e4fb-ee88-40c1-a784-4b7c2bb61e4d#ref=rss",
-          "summary": "Das größte je gebaute Raketensystem soll bald große Lasten zum Mond und die ersten Raumfahrer zum Mars bringen. Jetzt soll das Starship einen wichtigen Test absolvieren – mit einem technischen Novum.",
-          "image": "https://cdn.prod.www.spiegel.de/images/bdc7c6ef-5a8a-4e39-8a25-d838a8999ad2_w520_r2.08_fpx33.33_fpy49.99.jpg",
-          "publishedAt": "2026-11-13T05:38:00.000Z",
-          "titleEn": "SpaceX: What makes the new test of the giant Starship rocket special",
-          "summaryEn": "The largest rocket system ever built is soon to bring heavy loads to the moon and the first astronauts to Mars. Now the Starship is to undergo an important test... with a technical novelty."
+          "title": "Jensen Huang ist narzisstisch wie Trump, schreibt der Biograf des Ex-Nvidia-Bosses",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses-a-971f4125-2af3-4f22-8ad8-f59d6847c71e#ref=rss",
+          "summary": "Vor einem Jahr habe er erstmals Gerüchte über die Seitensprünge von Jensen Huang gehört, schreibt sein Biograf Stephen Witt. Über den Charakter des Mannes, der als Visionär galt, fällt er ein hartes Urteil.",
+          "image": "https://cdn.prod.www.spiegel.de/images/829ac1d1-efb6-4862-aef1-0f065abe1357_w520_r2.08_fpx38.62_fpy49.97.jpg",
+          "publishedAt": "2026-11-13T16:39:00.000Z"
         }
       ]
     }

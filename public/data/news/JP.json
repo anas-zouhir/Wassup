@@ -8,63 +8,49 @@
         "homepage": "https://news.web.nhk/newsweb",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-13T06:51:24.909Z",
+      "fetchedAt": "2026-11-13T18:41:06.675Z",
       "items": [
         {
-          "title": "【速報中】マイクロソフトで接続障害 世界各地で影響も",
+          "title": "マイクロソフトの接続障害「日本は比較的安定した状態続く」",
           "link": "https://news.web.nhk/newsweb/na/nd-20261113de75121",
-          "summary": "アメリカのIT大手「マイクロソフト」の「マイクロソフト365」と呼ばれるサービスで接続障害が発生し、アメリカや日本などの広い範囲で影響が確認されています。復旧の見通しは不透明な状況です。",
-          "publishedAt": "2026-11-13T06:27:56.000Z",
-          "titleEn": "We've seen a lot of uncertainty in the world, and it's affecting the world.",
-          "summaryEn": "And we've seen a disruption in a service called Microsoft 365, by the American IT giant Microsoft, and it's affected a wide range of places, like the United States and Japan. The prospects for recovery are unclear."
+          "summary": "アメリカのIT大手「マイクロソフト」の「マイクロソフト365」と呼ばれるサービスで発生した接続障害の復旧状況についてマイクロソフトは、日本では比較的安定した状態が続いているとしています。ヨーロッパや北…",
+          "publishedAt": "2026-11-13T13:46:55.000Z"
         },
         {
-          "title": "北朝鮮ハッカーが“顔泥棒” 暗号資産盗む 米FBI",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75357",
-          "summary": "アメリカのFBI＝連邦捜査局は、北朝鮮のハッカーたちが、オンライン会議を装って参加した人の顔の動画を録画し、この動画を悪用する「フェーススティーラー」＝顔泥棒と呼ばれる手口で、1年半の間に4億ドル相当…",
-          "publishedAt": "2026-11-13T06:24:00.000Z",
-          "titleEn": "The North Korean hackers, the US FBI, are stealing crypto assets.",
-          "summaryEn": "The FBI -- the U.S. Federal Bureau of Investigation -- has seen North Korean hackers go to an online meeting and record the faces of the participants, and they use this video to exploit what's known as facial theft, a device that's worth $400 million over the course of a year and a half."
+          "title": "2人死亡ひき逃げ 逃走したとみられるトラック 相模原で発見",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75522",
+          "summary": "13日午後、神奈川県海老名市の交差点で女性2人がトラックにひき逃げされて死亡しました。警察は現場から逃走したとみられるトラックを相模原市内の運送会社で見つけ運転手から事情を聴いています。",
+          "publishedAt": "2026-11-13T14:37:02.000Z"
         },
         {
-          "title": "タマホーム 別の支店でも不審な請求見つかる 損保が確認求める",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75355",
-          "summary": "住宅メーカー「タマホーム」で火災保険の保険金を不正に請求していた疑いが出ている問題で、損害保険各社が改めて確認したところ高松支店以外の複数の支店からの請求にも不審な点が見つかったことが分かりました。各…",
-          "publishedAt": "2026-11-13T06:05:39.000Z",
-          "titleEn": "Tamma Home, another branch is finding suspicious claims, asking for damages.",
-          "summaryEn": "When the homebuilder Tamathome allegedly misappropriated the fire insurance money, it was re-examined by the insurance companies and found that there were also suspicious claims from several branches other than the Kawasaki branch. Each one of them..."
+          "title": "消費税減税法案 支援金“勤労者5割以上対象で検討”高市首相",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75159",
+          "summary": "今の国会で最大の焦点となっている食料品の消費税減税関連法案は、参議院の特別委員会で審議が始まりました。 高市総理大臣は、減税にあわせて導入するとしている所得に応じた支援金について、これまで勤労者の3割…",
+          "publishedAt": "2026-11-13T10:36:00.000Z"
         },
         {
-          "title": "井林氏「党費含め費用まかなっている」会費超の景品提供疑いに",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75215",
-          "summary": "井林国土交通大臣は、自身が代表を務める自民党の支部が開いた催しで、会費を超える景品などが提供された疑いがあると一部で報じられたことについて、開催費用は、参加者である党員が支払った党費も含めてまかなって…",
-          "publishedAt": "2026-11-13T03:12:53.000Z",
-          "titleEn": "I'm not sure what I'm saying.",
-          "summaryEn": "The Minister of Transportation of the State of Iyin, who is also the head of the HPD, was informed that there were suspicions that the event was held at a branch of his own party, and that there was a supply of more than a membership fee, and that the cost of the event, including the party fees paid by the party members, was included."
+          "title": "大手損保2社 タマホーム通じた火災保険販売停止へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75561",
+          "summary": "住宅メーカー「タマホーム」で火災保険の保険金を不正に請求していた疑いが出ている問題で、大手損害保険2社がタマホームを通じた火災保険の新規の販売を取りやめる方針を決めました。もう1社も取りやめる方向で検…",
+          "publishedAt": "2026-11-13T11:11:00.000Z"
         },
         {
-          "title": "千葉豪雨から3か月 “都市型水害”対策が課題に",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75332",
-          "summary": "ことし8月の千葉県の記録的な豪雨の発生から13日で3か月です。多くの車両やマンションが浸水被害を受けるなど「都市型水害」とも呼ばれ、対策が課題となっています。",
-          "publishedAt": "2026-11-13T06:26:48.000Z",
-          "titleEn": "Three months after the heavy rains, we're facing a challenge to tackle urban-type flooding.",
-          "summaryEn": "It's been 13 days and three months since the record rainfall in Chiba Prefecture in August. Many vehicles and apartments are affected by flooding, which is also known as urban water pollution."
+          "title": "巨人 ファンクラブ会員のメールアドレス80万件あまり流出",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75711",
+          "summary": "プロ野球、巨人は公式ファンクラブの会員情報を管理するシステムがサイバー攻撃を受け、会員のメールアドレス80万件あまりが流出したと発表しました。",
+          "publishedAt": "2026-11-13T13:14:49.000Z"
         },
         {
-          "title": "独メルセデス ドイツ国内の工場閉鎖を検討 コスト削減が急務",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75168",
-          "summary": "ドイツの大手自動車メーカー、メルセデス・ベンツグループは、中国メーカーとの競争の激化などを背景にコストの削減が急務だとして、ドイツ国内の工場の閉鎖を検討せざるを得ないとの認識を明らかにしました。",
-          "publishedAt": "2026-11-13T02:16:00.000Z",
-          "titleEn": "Mercedes-Benz is considering closing its factory in Germany.",
-          "summaryEn": "The German automaker, Mercedes-Benz Group, and the Chinese automaker, have expressed their realization that they must consider closing their factories in Germany as a matter of urgency to reduce costs in the face of increased competition."
+          "title": "イラン バーレーンの米軍通信設備を攻撃と発表",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75728",
+          "summary": "イランの革命防衛隊は13日、バーレーンにあるアメリカ軍の設備を攻撃したと発表しました。イラン南部にある通信設備をアメリカ軍が攻撃したことへの報復だとしていて、ホルムズ海峡周辺でのせめぎ合いが続いていま…",
+          "publishedAt": "2026-11-13T15:35:00.000Z"
         },
         {
-          "title": "紅白歌合戦ことしの出場歌手発表 初出場は7組",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75147",
-          "summary": "大みそか恒例のNHK紅白歌合戦のことしの出場歌手が13日発表され、紅組と白組、合わせて41組の出場が決まりました。ことしの初出場は、＝LOVEやモナキなど合わせて7組です。",
-          "publishedAt": "2026-11-13T06:08:01.000Z",
-          "titleEn": "The Red and White announced their first performance.",
-          "summaryEn": "The singers for the annual NHK Red and White Song Contest were announced on the 13th, and the red and white groups, along with 41 other groups, were selected. My first appearance was in Love and Monaco."
+          "title": "大阪 枚方 3歳女児死亡で両親逮捕 虐待か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75693",
+          "summary": "ことし8月、当時、住んでいた大阪・枚方市のマンションで、3歳の娘を繰り返し殴るなどして殺害したとして、33歳の父親が殺人の疑いで逮捕されました。 母親も暴行を知りながら通報するなどせず、娘を死亡させ…",
+          "publishedAt": "2026-11-13T12:23:26.000Z"
         }
       ]
     },
@@ -75,67 +61,58 @@
         "homepage": "https://www.asahi.com",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-13T06:51:24.777Z",
+      "fetchedAt": "2026-11-13T18:41:06.612Z",
       "items": [
+        {
+          "title": "3歳女児虐待死、対応会議の予定調整のさなかに 市に疑い通告複数回",
+          "link": "http://www.asahi.com/articles/ASVCF3SXFVCFOXIE020M.html?ref=rss",
+          "publishedAt": "2026-11-13T12:07:17.000Z"
+        },
+        {
+          "title": "2容疑者を起訴 美祢の強盗殺人・住居侵入 6500万円奪った罪",
+          "link": "http://www.asahi.com/articles/ASVCF3FZMVCFTZNB013M.html?ref=rss",
+          "publishedAt": "2026-11-13T11:27:53.000Z"
+        },
+        {
+          "title": "歩行者2人ひかれて死亡、トラック逃走 ひき逃げ事件で捜査 神奈川",
+          "link": "http://www.asahi.com/articles/ASVCF2HBNVCFULOB00DM.html?ref=rss",
+          "publishedAt": "2026-11-13T11:02:59.000Z"
+        },
+        {
+          "title": "3歳娘虐待か、殺人容疑で父親逮捕 あざ数十カ所、放置疑いで母親も",
+          "link": "http://www.asahi.com/articles/ASVCF062XVCFPTIL00JM.html?ref=rss",
+          "publishedAt": "2026-11-13T10:42:32.000Z"
+        },
+        {
+          "title": "大阪市の行政オンラインシステム利用者、メルアド107万件が流出",
+          "link": "http://www.asahi.com/articles/ASVCF34VMVCFOXIE01NM.html?ref=rss",
+          "publishedAt": "2026-11-13T10:11:28.000Z"
+        },
+        {
+          "title": "教職員給与など90万円も校長が自腹、数カ月遅配で 木津川市立小",
+          "link": "http://www.asahi.com/articles/ASVCF2W9FVCFPLZB00KM.html?ref=rss",
+          "publishedAt": "2026-11-13T09:45:00.000Z"
+        },
+        {
+          "title": "秋田・由利本荘市「災害死」と判断 河川敷で発見の男性、先月の大雨",
+          "link": "http://www.asahi.com/articles/ASVCF2GJDVCFUNHB010M.html?ref=rss",
+          "publishedAt": "2026-11-13T08:00:00.000Z"
+        },
+        {
+          "title": "大阪公立大で17万人分の個人情報漏れる NEC管理のクラウドから",
+          "link": "http://www.asahi.com/articles/ASVCF2F7KVCFPTIL004M.html?ref=rss",
+          "publishedAt": "2026-11-13T07:31:27.000Z"
+        },
+        {
+          "title": "相模原の高2男子生徒死亡事件 17歳少年を傷害致死などの罪で起訴",
+          "link": "http://www.asahi.com/articles/ASVCF26LGVCFULOB004M.html?ref=rss",
+          "publishedAt": "2026-11-13T07:30:00.000Z"
+        },
         {
           "title": "ボビー・オロゴン被告、不同意性交罪を認める 千葉地裁で初公判",
           "link": "http://www.asahi.com/articles/ASVCF1TBSVCFUDCB00RM.html?ref=rss",
           "publishedAt": "2026-11-13T05:55:04.000Z",
           "titleEn": "The defendant, Bobby O'Rogon, pleaded guilty to disorderly conduct in the first trial in the Kifa District Court."
-        },
-        {
-          "title": "秋田・湯沢の住宅火災、焼け跡から2人の遺体 近くの住宅にも延焼",
-          "link": "http://www.asahi.com/articles/ASVCF15W5VCFUBUB001M.html?ref=rss",
-          "publishedAt": "2026-11-13T04:30:00.000Z",
-          "titleEn": "Two bodies were burned from Akida Tosawa's house fire, nearby houses."
-        },
-        {
-          "title": "「そのゴールドはどこから？」先住民が問う、あなたとアマゾンの未来",
-          "link": "http://www.asahi.com/articles/ASVC66RDTVC6TPJB002M.html?ref=rss",
-          "publishedAt": "2026-11-13T00:00:00.000Z",
-          "titleEn": "\"Where did that gold come from? \"The indigenous people are asking, the future of you and the Amazon."
-        },
-        {
-          "title": "山形・寒河江で住宅が全焼、焼け跡から3人の遺体 住人と連絡取れず",
-          "link": "http://www.asahi.com/articles/ASVCD7V0KVCDUZHB001M.html?ref=rss",
-          "publishedAt": "2026-11-12T23:46:54.000Z",
-          "titleEn": "Three bodies have been burned and no contact has been made with residents."
-        },
-        {
-          "title": "小規模な公営火葬場、世田谷区が新設の検討案 ビル屋上や公園隣地も",
-          "link": "http://www.asahi.com/articles/ASVCD2FKWVCDOXIE007M.html?ref=rss",
-          "publishedAt": "2026-11-12T21:00:00.000Z",
-          "titleEn": "We're looking at a small public crematorium, a new development in the Sendai Valley, on the rooftops and in the park."
-        },
-        {
-          "title": "妻奪われた27年 遺族の明日、前向くために 課題どう乗り越える",
-          "link": "http://www.asahi.com/articles/ASVC64GNHVC6OIPE007M.html?ref=rss",
-          "publishedAt": "2026-11-12T20:00:00.000Z",
-          "titleEn": "Twenty-seven years after my wife was robbed, how can I overcome the challenges of my family's future?"
-        },
-        {
-          "title": "「遺族のためいつでも」全国奔走する夫 名古屋女性殺害27年",
-          "link": "http://www.asahi.com/articles/ASVCC75Y7VCCOIPE003M.html?ref=rss",
-          "publishedAt": "2026-11-12T20:00:00.000Z",
-          "titleEn": "\"Anytime for the sake of my family\". Husband running across the country, killing a Nagoya woman for 27 years."
-        },
-        {
-          "title": "広島・福山の住宅全焼、放火容疑で長男逮捕 3人の遺体を発見",
-          "link": "http://www.asahi.com/articles/ASVCC7DSVVCCPITB002M.html?ref=rss",
-          "publishedAt": "2026-11-12T14:24:00.000Z",
-          "titleEn": "Three bodies have been found in Hiroshima and Fukushima, where the eldest son was arrested on suspicion of arson and arson."
-        },
-        {
-          "title": "「市長と職員の特殊事情から起きた不祥事」 市長逮捕の阿波市が会見",
-          "link": "http://www.asahi.com/articles/ASVCD332VVCDOXIE02JM.html?ref=rss",
-          "publishedAt": "2026-11-12T11:00:00.000Z",
-          "titleEn": "\"The unfortunate events that have occurred in the special circumstances of the mayor and his staff\"."
-        },
-        {
-          "title": "暴力団情勢、現在地は？ 匿流との協力関係に警戒も 大阪で追放大会",
-          "link": "http://www.asahi.com/articles/ASVCD35GGVCDPTIL012M.html?ref=rss",
-          "publishedAt": "2026-11-12T10:19:17.000Z",
-          "titleEn": "What's the status of the gang, where are they now? Alert about the cooperation with the Anonymous and the Expulsion Conference in Osaka"
         }
       ]
     },
@@ -146,77 +123,77 @@
         "homepage": "https://www.japantimes.co.jp",
         "lang": "en"
       },
-      "fetchedAt": "2026-11-13T06:51:25.087Z",
+      "fetchedAt": "2026-11-13T18:41:06.799Z",
       "items": [
         {
-          "title": "China’s access to Nvidia chips in doubt as curbs gain traction in U.S. Congress",
-          "link": "https://www.japantimes.co.jp/news/2026/11/13/world/china-access-nvidia-chips-doubt/",
-          "summary": "Nvidia's advanced chips are widely used to develop AI models, making the company key in the U.S. race against China to build superior AI systems.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573859.jpg",
-          "publishedAt": "2026-11-13T06:46:00.000Z"
+          "title": "Malaysia weighing how to aid AirAsia without risking public funds, ex-minister says",
+          "link": "https://www.japantimes.co.jp/business/2026/11/13/companies/malaysia-airasia-aid/",
+          "summary": "The finance ministry is reviewing options to aid Southeast Asia's largest low-cost airline as it deals with high jet fuel prices and currency swings.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573930.jpg",
+          "publishedAt": "2026-11-13T09:16:00.000Z"
         },
         {
-          "title": "NHK reveals performers for annual New Year’s Eve spectacle ‘Kohaku’",
-          "link": "https://www.japantimes.co.jp/culture/2026/11/13/entertainment-news/kohaku-uta-gassen-lineup/",
-          "summary": "Cutie Street, Macaroni Empitsu and L'Arc-en-Ciel are among the acts set to take the stage for the NHK extravaganza.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573898.jpg",
-          "publishedAt": "2026-11-13T06:40:00.000Z"
+          "title": "Japan team creates ‘planimal’ hybrid plant-animal cells in world first",
+          "link": "https://www.japantimes.co.jp/news/2026/11/13/japan/science-health/plant-animal-cells/",
+          "summary": "Cells that produce useful animal and plant proteins and can be cultured using photosynthesis could offer new methods of producing drugs and meat.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573952.jpg",
+          "publishedAt": "2026-11-13T09:08:00.000Z"
         },
         {
-          "title": "Iguchi era gets off to winning start as Japan beats Taiwan",
-          "link": "https://www.japantimes.co.jp/sports/2026/11/13/baseball/japanese-baseball/iguchi-samurai-japan-taiwan/",
-          "summary": "Tomoya Masaki homered twice and Yumeto Kanemaru threw seven scoreless innings in the 5-0 win.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573933.jpg",
-          "publishedAt": "2026-11-13T06:38:00.000Z"
+          "title": "Japan yet to make full use of nuclear power equipment export treaty with India",
+          "link": "https://www.japantimes.co.jp/business/2026/11/13/companies/nuclear-plant-exports-india/",
+          "summary": "New Delhi has a goal of boosting India's nuclear power capacity to 100 gigawatts by 2047, and reducing greenhouse gas emissions to net zero by 2070.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573916.jpg",
+          "publishedAt": "2026-11-13T09:03:00.000Z"
         },
         {
-          "title": "Commanders beat Giants 24-21 with late Diggs touchdown",
-          "link": "https://www.japantimes.co.jp/sports/2026/11/13/more-sports/commanders-giants-tnf-diggs/",
-          "summary": "The late loss prevented New York pulling clear in the NFC East, with the Giants remaining top on 5-3-1 but closely trailed by the Cowboys (4-5).",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573929.jpg",
-          "publishedAt": "2026-11-13T06:32:00.000Z"
+          "title": "Sumitomo Mitsui, Mizuho raises annual profit forecast and announces share buyback",
+          "link": "https://www.japantimes.co.jp/business/2026/11/13/companies/sumitomo-mitsui-mizuho-profit-forecast/",
+          "summary": "Japanese lenders are on a record earnings streak thanks to the BOJ's interest-rate hikes, with corporate borrowing showing few signs of slowing down.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573945.jpg",
+          "publishedAt": "2026-11-13T08:45:00.000Z"
         },
         {
-          "title": "AI industry weighs future without Nvidia’s Huang",
-          "link": "https://www.japantimes.co.jp/business/2026/11/13/tech/ai-sector-after-huang/",
-          "summary": "Huang's abrupt fall comes amid mounting concerns about the financial soundness of the industry's colossal investment spree.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573850.jpg",
-          "publishedAt": "2026-11-13T06:28:00.000Z"
+          "title": "China stages unannounced Pacific drills in ‘silent intimidation’ push: Taiwan officials",
+          "link": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/china-silent-intimidation/",
+          "summary": "Beijing has stepped up its military pressure over the past five years, drawing condemnation from Taiwan and heightening concern in the West.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573924.jpg",
+          "publishedAt": "2026-11-13T08:35:00.000Z"
         },
         {
-          "title": "As a crippling outage causes chaos in Japan, the fax gains favor",
-          "link": "https://www.japantimes.co.jp/business/2026/11/13/microsoft-outage-fax-machine/",
-          "summary": "While Microsoft 365 struggles to fix a global outage, some have praised the fax machine as a reliable tool in the face of online disruptions.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573868.jpg",
-          "publishedAt": "2026-11-13T05:54:00.000Z"
+          "title": "Ruling on 2025 election’s ‘unconstitutional state’ raises questions on electoral reform",
+          "link": "https://www.japantimes.co.jp/news/2026/11/13/japan/explainer/explainer-ruling-disparity-upper-house-seat/",
+          "summary": "While the results from last year's Upper House election are not invalidated, the ruling puts the debate on reform back into focus.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573951.jpg",
+          "publishedAt": "2026-11-13T08:16:00.000Z"
         },
         {
-          "title": "Business booming for cybersecurity companies in Japan",
-          "link": "https://www.japantimes.co.jp/business/2026/11/13/companies/cybersecurity-companies-boom/",
-          "summary": "With the increase in the number of cyberattacks, phones are ringing off the hook as customers seek everything from recovery to testing.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573864.jpg",
-          "publishedAt": "2026-11-13T05:35:00.000Z"
+          "title": "Oh and Kuriyama call for change as Japan’s baseball landscape shifts",
+          "link": "https://www.japantimes.co.jp/sports/2026/11/13/baseball/japanese-baseball/oh-kuriyama-npb-mlb/",
+          "summary": "The two baseball legends are seeking to inspire Japan's next generation of players as many seek their fortunes in MLB.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573953.jpg",
+          "publishedAt": "2026-11-13T07:43:00.000Z"
         },
         {
-          "title": "‘I’m a piece of s---’: Jensen Huang’s last hours as Nvidia CEO",
-          "link": "https://www.japantimes.co.jp/news/2026/11/13/world/jensen-huang-nvidia-last-hours/",
-          "summary": "After weeks spent denying allegations of infidelity and fighting to remain in his job, Huang's surrender late Wednesday night was unconditional.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573860.jpg",
-          "publishedAt": "2026-11-13T05:19:00.000Z"
+          "title": "Indonesia’s Prabowo rushes end of Jokowi era with son’s ouster",
+          "link": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/prabowo-consolidates-power/",
+          "summary": "Since taking office, Indonesian President Prabowo Subianto has increasingly put his own stamp on the government.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573862.jpg",
+          "publishedAt": "2026-11-13T07:38:00.000Z"
         },
         {
-          "title": "U.S. Congress steps up scrutiny of Trump and Nvidia after Huang exit",
-          "link": "https://www.japantimes.co.jp/news/2026/11/13/world/politics/congress-trump-nvidia-scrutiny/",
-          "summary": "U.S. President Donald Trump was informed of the suspicions surrounding Nvidia CEO Jensen Huang last year, according to The New York Times.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573845.jpg",
-          "publishedAt": "2026-11-13T04:06:00.000Z"
+          "title": "Opposition in Upper House seeks to expand relief during and after food tax cut",
+          "link": "https://www.japantimes.co.jp/news/2026/11/13/japan/politics/tax-cut-debate-komeito-dpp/",
+          "summary": "Income-linked cash payments for low- and middle-income workers would start alongside the tax cut and expand in support when the rate returns.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573950.jpg",
+          "publishedAt": "2026-11-13T07:38:00.000Z"
         },
         {
-          "title": "Yordan Alvarez, Pete Crow-Armstrong named MVPs by unanimous vote",
-          "link": "https://www.japantimes.co.jp/sports/2026/11/13/baseball/mlb/alvarez-crow-armstrong-mlb-mvp/",
-          "summary": "Alvarez joined Aaron Judge and Miguel Cabrera as the only players since 1970 to win an AL batting title with at least 40 home runs.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573861.jpg",
-          "publishedAt": "2026-11-13T03:50:00.000Z"
+          "title": "Chinese filmmakers at TIFF take risks and reap rewards",
+          "link": "https://www.japantimes.co.jp/culture/2026/11/13/film/tiff-chinese-films-competition/",
+          "summary": "Films by Chinese directors scooped up the best actress and Special Jury prizes at the 39th Tokyo International Film Festival.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573557.jpg",
+          "publishedAt": "2026-11-13T07:30:00.000Z"
         }
       ]
     }
