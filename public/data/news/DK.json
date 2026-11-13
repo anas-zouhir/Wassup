@@ -13,36 +13,43 @@
         {
           "title": "Vejene er glatte i Østjylland",
           "link": "https://www.dr.dk/nyheder/seneste/vejene-er-glatte-i-oestjylland",
-          "publishedAt": "2026-11-13T06:07:56.000Z"
+          "publishedAt": "2026-11-13T06:07:56.000Z",
+          "titleEn": "The roads are smooth in East Jutland"
         },
         {
           "title": "Microsoft Outlook er nede i store dele af verden",
           "link": "https://www.dr.dk/nyheder/seneste/microsoft-outlook-er-nede-i-store-dele-af-verden",
           "summary": "Australiens indenrigsminister har fået at vide, at et nedbrud hos Microsoft ikke skyldes et cyberangreb.",
           "image": "https://asset.dr.dk/drdk/umbraco-images/l2flseke/microsoft.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-12T23:41:27.000Z"
+          "publishedAt": "2026-11-12T23:41:27.000Z",
+          "titleEn": "Microsoft Outlook is down in many parts of the world",
+          "summaryEn": "Australia's Home Secretary has been informed that a breach at Microsoft was not the result of a cyber attack."
         },
         {
           "title": "Sydmotorvejen spærret i sydgående retning - politiet advarer om glatte veje",
           "link": "https://www.dr.dk/nyheder/seneste/sydmotorvejen-spaerret-i-sydgaaende-retning-politiet-advarer-om-glatte-veje",
-          "publishedAt": "2026-11-12T21:25:42.000Z"
+          "publishedAt": "2026-11-12T21:25:42.000Z",
+          "titleEn": "South motorway blocked to the south - police warn of smooth roads"
         },
         {
           "title": "Anders Matthesen modtager hæderspris",
           "link": "https://www.dr.dk/nyheder/seneste/anders-matthesen-modtager-haederspris",
           "image": "https://asset.dr.dk/drdk/umbraco-images/itvaekgo/20250817-153753-4_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-12T20:22:45.000Z"
+          "publishedAt": "2026-11-12T20:22:45.000Z",
+          "titleEn": "Anders Matthesen receives an honorary award"
         },
         {
           "title": "Over 140.000 Norwegian-passagerer berørt af datalæk",
           "link": "https://www.dr.dk/nyheder/seneste/over-140-000-norwegian-passagerer-beroert-af-datalaek",
           "image": "https://asset.dr.dk/drdk/umbraco-images/jvvhcqkz/20201118-160258-7_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-12T20:05:16.000Z"
+          "publishedAt": "2026-11-12T20:05:16.000Z",
+          "titleEn": "More than 140,000 Norwegian passengers affected by data leakage"
         },
         {
           "title": "Politiet efterlyser vidner til væbnet røveri i Brørup",
           "link": "https://www.dr.dk/nyheder/seneste/politiet-efterlyser-vidner-til-vaebnet-roeveri-i-broerup",
-          "publishedAt": "2026-11-12T19:51:03.000Z"
+          "publishedAt": "2026-11-12T19:51:03.000Z",
+          "titleEn": "Police call for witnesses to armed robbery in Brørup"
         },
         {
           "title": "Armbånd med safir fra Romanov-dynastiet solgt for svimlende millionbeløb",
@@ -85,69 +92,89 @@
           "title": "Italien får has på Frankrigs stjerner og stryger til tops",
           "link": "https://politiken.dk/sport/fodbold/art11058490/Italien-f%C3%A5r-has-p%C3%A5-Frankrigs-stjerner-og-stryger-til-tops",
           "summary": "Italien var nede med 0-1, men vandt 3-1 over Frankrig og fører nu sin Nations League-gruppe.",
-          "publishedAt": "2026-11-13T06:49:58.000Z"
+          "publishedAt": "2026-11-13T06:49:58.000Z",
+          "titleEn": "Italy gets the hatred of France's stars and strives to the top",
+          "summaryEn": "Italy were down 0-1, but won 3-1 over France and now lead their Nations League group."
         },
         {
           "title": "Børns Vilkår har en opfordring til forældre: Skru ned for »de unødvendige samlekort«",
           "link": "https://politiken.dk/danmark/art11056017/B%C3%B8rns-Vilk%C3%A5r-har-en-opfordring-til-for%C3%A6ldre-Skru-ned-for-%C2%BBde-un%C3%B8dvendige-samlekort%C2%AB",
           "summary": "I år kan børn samle kort og kvaster til nissehuer i forbindelse med tv-julekalenderne på DR og TV 2. Det vækker bekymring hos Børns Vilkår.",
           "image": "https://politiken.dk/incoming/img11057084.x6ufqr/ORIGINALS/original_960/Nissehue%20fra%20TV%202s%20nye%20julekalender%20I%20Nissernes%20Tjeneste",
-          "publishedAt": "2026-11-13T06:47:17.000Z"
+          "publishedAt": "2026-11-13T06:47:17.000Z",
+          "titleEn": "The Children's Association urges parents to cut down on unnecessary collection cards.",
+          "summaryEn": "This year, children can collect maps and quizzes for nightshots for the TV Christmas calendars on DR and TV 2. It's a concern at Children's Services."
         },
         {
           "title": "»Pas på hinanden derude«: Politiet i Østjylland advarer om isglatte veje",
           "link": "https://politiken.dk/danmark/art11058548/%C2%BBPas-p%C3%A5-hinanden-derude%C2%AB-Politiet-i-%C3%98stjylland-advarer-om-isglatte-veje",
           "summary": "I Østjylland opfordres trafikanter fredag morgen til at være forsigtige. Vejene er flere steder glatte.",
           "image": "https://politiken.dk/incoming/img11058553.7z404t/ORIGINALS/original_960/Interview-rep%20Bagsv%C3%A6rd%20Lakrids",
-          "publishedAt": "2026-11-13T06:26:49.000Z"
+          "publishedAt": "2026-11-13T06:26:49.000Z",
+          "titleEn": "⁇ Watch each other out there ⁇ : East Jutland police warn of icy roads",
+          "summaryEn": "In eastern Jutland, road users are urged to be cautious on Friday morning. The roads are smooth in several places."
         },
         {
           "title": "Norge siger nej til ai-bøger",
           "link": "https://politiken.dk/kultur/boger/art11046097/Norge-siger-nej-til-ai-b%C3%B8ger",
           "summary": "Norges kulturråd laver nye, stramme regler. Det er slut med at støtte bøger, hvis de er udarbejdet med kunstig intelligens. Herhjemme er Statens Kunstfonds formuleringer blødere.",
           "image": "https://politiken.dk/incoming/img11055651.a93hdw/ORIGINALS/original_960/Merete%20Pryds%20Helle",
-          "publishedAt": "2026-11-13T05:58:58.000Z"
+          "publishedAt": "2026-11-13T05:58:58.000Z",
+          "titleEn": "Norway says no to Ai books",
+          "summaryEn": "The Norwegian Council for Culture is making new, strict rules. It's over to support books if they're written with artificial intelligence. At home, the wording of the State Art Fund is softer."
         },
         {
           "title": "Microsofts vicedirektør beklager verdensomspændende Outlook-nedbrud",
           "link": "https://politiken.dk/internationalt/art11058528/Microsofts-vicedirekt%C3%B8r-beklager-verdensomsp%C3%A6ndende-Outlook-nedbrud",
           "summary": "Microsoft er ramt af et verdensomspændende nedbrud, der påvirker muligheden for at sende og modtage mails via Outlook samt andre af selskabets tjenester. Følg med her på livebloggen.",
           "image": "https://politiken.dk/incoming/img11058545.9qkcgk/ORIGINALS/original_960/PAPIR%20microsoft",
-          "publishedAt": "2026-11-13T05:33:29.000Z"
+          "publishedAt": "2026-11-13T05:33:29.000Z",
+          "titleEn": "Microsoft's deputy director apologizes for the worldwide Outlook crash",
+          "summaryEn": "Microsoft has been hit by a worldwide downturn affecting the ability to send and receive mail via Outlook and other of its services. Follow me here on the live blog."
         },
         {
           "title": "Microsoft Outlook er nede i store dele af verden",
           "link": "https://politiken.dk/viden/tech/art11058513/Microsoft-Outlook-er-nede-i-store-dele-af-verden",
           "summary": "Australiens indenrigsminister har fået at vide, at et nedbrud hos Microsoft ikke skyldes et cyberangreb.",
           "image": "https://politiken.dk/incoming/img11058529.45s10b/ORIGINALS/original_960/FILES-US-TECHNOLOGY-MICROSOFT",
-          "publishedAt": "2026-11-13T05:18:52.000Z"
+          "publishedAt": "2026-11-13T05:18:52.000Z",
+          "titleEn": "Microsoft Outlook is down in many parts of the world",
+          "summaryEn": "Australia's Home Secretary has been informed that a breach at Microsoft was not the result of a cyber attack."
         },
         {
           "title": "»Vælg en anden proteinkilde«: Sådan blev en republikansk senator gjort til grin",
           "link": "https://politiken.dk/internationalt/art11056786/%C2%BBV%C3%A6lg-en-anden-proteinkilde%C2%AB-S%C3%A5dan-blev-en-republikansk-senator-gjort-til-grin",
           "summary": "Demokraten Scott Colom skriver historie som Mississippis første sorte senator i 150 år. Hvem er han, og hvordan lykkedes det ham at gøre det, som så mange andre har måttet opgive.",
           "image": "https://politiken.dk/incoming/img11057912.ctz5xb/ORIGINALS/original_960/USA-ELECTION-MISSISSIPPI",
-          "publishedAt": "2026-11-13T05:15:18.000Z"
+          "publishedAt": "2026-11-13T05:15:18.000Z",
+          "titleEn": "⁇ Choose another protein source ⁇ : That's how a Republican senator was ridiculed",
+          "summaryEn": "Democrat Scott Colom is making history as Mississippi's first black senator in 150 years. Who is he and how did he succeed in doing what so many others have had to give up?"
         },
         {
           "title": "Fire personer er anholdt efter indbrud på lægeklinikker",
           "link": "https://politiken.dk/danmark/art11058516/Fire-personer-er-anholdt-efter-indbrud-p%C3%A5-l%C3%A6geklinikker",
           "summary": "Inden for en time blev der natten til fredag begået indbrud på tre lægeklinikker i Syd- og Sønderjylland.",
-          "publishedAt": "2026-11-13T05:10:14.000Z"
+          "publishedAt": "2026-11-13T05:10:14.000Z",
+          "titleEn": "Four people arrested for breaking and entering medical clinics",
+          "summaryEn": "Within an hour, three medical clinics in South and Southern Jutland were robbed on Friday night."
         },
         {
           "title": "»Det har ramt som et lyn fra en klar himmel«: Jensen Huangs exit sender hele ai-industrien ud i usikkerhed",
           "link": "https://politiken.dk/internationalt/art11057930/%C2%BBDet-har-ramt-som-et-lyn-fra-en-klar-himmel%C2%AB-Jensen-Huangs-exit-sender-hele-ai-industrien-ud-i-usikkerhed",
           "summary": "Jensen Huang er fortid i Nvidia efter flere historier om utroskab. Konsekvenserne kan ramme langt udover selskabets aktiekurs, mener finanskommentator.",
           "image": "https://politiken.dk/incoming/img11058431.nrla9c/ORIGINALS/original_960/FILES-US-TECHNOLOGY-AI-NVIDIA-HUANG",
-          "publishedAt": "2026-11-12T21:47:53.000Z"
+          "publishedAt": "2026-11-12T21:47:53.000Z",
+          "titleEn": "⁇ It has struck like lightning from a clear sky ⁇ : Jensen Huang's exit sends the entire AI industry out into uncertainty",
+          "summaryEn": "Jensen Huang is a past Nvidia after several stories of infidelity. The consequences could extend far beyond the company's share price, according to a financial commentator."
         },
         {
           "title": "Hun kender af gode grunde russerne. Og i Dublin advarede hun mod at falde i Putins fælde",
           "link": "https://politiken.dk/internationalt/art11054512/Hun-kender-af-gode-grunde-russerne.-Og-i-Dublin-advarede-hun-mod-at-falde-i-Putins-f%C3%A6lde",
           "summary": "Klar advarsel fra Kaja Kallas og andre europæiske ledere: Rusland er ved at lægge et farligt røgslør ud.",
           "image": "https://politiken.dk/incoming/img11058496.z4sf83/ORIGINALS/original_960/IRELAND-EUROPE-EPC-POLITICS-DIPLOMACY-SUMMIT",
-          "publishedAt": "2026-11-12T20:31:24.000Z"
+          "publishedAt": "2026-11-12T20:31:24.000Z",
+          "titleEn": "She knows the Russians for good reasons. And in Dublin, she warned against falling into Putin's trap.",
+          "summaryEn": "A clear warning from Kaja Kallas and other European leaders: Russia is putting out a dangerous pipe."
         }
       ]
     },
@@ -165,69 +192,89 @@
           "link": "https://www.berlingske.dk/indland/forud-for-venstres-landsmoede-baglandsstemmer-foeler-sigpisset-op-og-ned-ad-ryggen?referrer=RSS",
           "summary": "Der er fortsat kritiske røster i Venstres bagland, der har svært ved at forstå partiets kurs over for landbruget. Men ledelsen i partiet er stålsat, lyder analysen fra politisk kommentator Bent Winther.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166963488.webp?t[strip]=true&t[quality]=70&accessToken=a9098dcba558c3d4d698daa2c8bd83ae74ebac47af79adffd7cc8115552cba48",
-          "publishedAt": "2026-11-13T06:33:57.000Z"
+          "publishedAt": "2026-11-13T06:33:57.000Z",
+          "titleEn": "In the run-up to the Left: Backland voters feel pissed up and down their backs",
+          "summaryEn": "There are still critical voices in the Left's backlands who find it difficult to understand the Party's course towards agriculture. But the leadership of the party is stainless steel, according to political commentator Bent Winther's analysis."
         },
         {
           "title": "Amira Smajic: TV 2 undskyldte til Rasmus Wallbridge – de efterlod mig i fare og dyb krise. Her står jeg stadig",
           "link": "https://www.berlingske.dk/kronikker/amira-smajic-tv-2-undskyldte-til-rasmus-wallbridge--de-efterlod-mig-i-fare-og-dyb-krise-her-staar-jeg-stadig?referrer=RSS",
           "summary": "TV 2 har erkendt, at Rasmus Wallbridges ja ikke blev givet under fair omstændigheder. Jeg hilser erkendelsen velkommen. Men den rejser et nyt, væsentligt spørgsmål: Hvornår opstår et medies ansvar og etiske overvejelser?",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166933686.webp?t[strip]=true&t[quality]=70&accessToken=79c3b3720b4da2424ee84d7309acd01b6a54859b4011f6b017444160e6e25d25",
-          "publishedAt": "2026-11-13T06:27:36.000Z"
+          "publishedAt": "2026-11-13T06:27:36.000Z",
+          "titleEn": "Amira Smajic: TV 2 apologized to Rasmus Wallbridge  ⁇  they left me in danger and deep crisis. I'm still standing here",
+          "summaryEn": "TV 2 has acknowledged that Rasmus Wallbridge's yes was not granted under fair circumstances. I welcome the recognition. But it raises a new, essential question: When does a media's responsibility and ethical considerations arise?"
         },
         {
           "title": "Isglatte veje får politikreds til at opfordre til forsigtig kørsel",
           "link": "https://www.berlingske.dk/indland/isglatte-veje-faar-politikreds-til-at-opfordre-til-forsigtig-koersel?referrer=RSS",
           "summary": "I Østjylland opfordres trafikanter fredag morgen til at være forsigtige. Vejene er flere steder glatte.",
-          "publishedAt": "2026-11-13T06:07:45.000Z"
+          "publishedAt": "2026-11-13T06:07:45.000Z",
+          "titleEn": "Smooth roads give political incentives to drive cautiously",
+          "summaryEn": "In eastern Jutland, road users are urged to be cautious on Friday morning. The roads are smooth in several places."
         },
         {
           "title": "Business-overblik: Stort Microsoft-nedbrud rammer verden",
           "link": "https://www.berlingske.dk/business/business-overblik-stort-microsoft-nedbrud-rammer-verden?referrer=RSS",
           "summary": "Vi læser erhvervsnyhederne og tjekker aktiekurserne fra morgenstunden. Her er hele dit Business-overblik.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166978215.webp?t[strip]=true&t[quality]=70&accessToken=486e106f82239d34675d1b085e08dbcb3218af8f115ba1894ff67b229ef7564b",
-          "publishedAt": "2026-11-13T06:05:33.000Z"
+          "publishedAt": "2026-11-13T06:05:33.000Z",
+          "titleEn": "Business overview: The Great Microsoft crash is hitting the world",
+          "summaryEn": "We're reading the business news and checking stock prices from dawn. Here's your entire business overview."
         },
         {
           "title": "Lars Eller laver spektakulært mål i Florida-comeback",
           "link": "https://www.berlingske.dk/sport/lars-eller-laver-spektakulaert-maal-i-florida-comeback?referrer=RSS",
           "summary": "Lars Eller scorede til 4-4, inden Florida Panthers til sidst sikrede sejren over Detroit Red Wings på isen.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166977747.webp?t[strip]=true&t[quality]=70&accessToken=507409d24422ff6f42911e8cbbe46fe485fcceca2873bf9d920cdd11d836c75e",
-          "publishedAt": "2026-11-13T06:00:54.000Z"
+          "publishedAt": "2026-11-13T06:00:54.000Z",
+          "titleEn": "Lars Or is making spectacular field goals in Florida comeback.",
+          "summaryEn": "Lars Eller scored 4-4 before the Florida Panthers finally secured victory over the Detroit Red Wings on the ice."
         },
         {
           "title": "Familieaftener binder Toulouses danskerkoloni sammen",
           "link": "https://www.berlingske.dk/sport/familieaftener-binder-toulouses-danskerkoloni-sammen?referrer=RSS",
           "summary": "På det danske landshold kan Rasmus Nicolaisen få debut, hvis han kommer på banen mod Portugal eller Norge.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166978231.webp?t[strip]=true&t[quality]=70&accessToken=0dbab09bfe50295a286deea842dcff34aa13240c2f47aba14940b0388f9c07b4",
-          "publishedAt": "2026-11-13T06:00:48.000Z"
+          "publishedAt": "2026-11-13T06:00:48.000Z",
+          "titleEn": "Family dinners bind the Danish colony of Toulouse together",
+          "summaryEn": "On the Danish national team, Rasmus Nicolaisen can make his debut if he comes on the pitch against Portugal or Norway."
         },
         {
           "title": "Er du rigtig klog: Hvad ved du om Alice Weidel?",
           "link": "https://www.berlingske.dk/business/er-du-rigtig-klog-hvad-ved-du-om-alice-weidel?referrer=RSS",
           "summary": "Berlingskes journalister udfordrer dagligt med 10 nye spørgsmål inden for spændende emner.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166138123.webp?t[strip]=true&t[quality]=70&accessToken=7ceaf239efbb775740c003b67720e0d2de04ffda964d5a96605e6f21bc8c38a4",
-          "publishedAt": "2026-11-13T06:00:46.000Z"
+          "publishedAt": "2026-11-13T06:00:46.000Z",
+          "titleEn": "Are you really smart, what do you know about Alice Weidel?",
+          "summaryEn": "Journalists from Berlin ask 10 new questions every day on exciting topics."
         },
         {
           "title": "Problemer med Microsoft Outlook i hele verden",
           "link": "https://www.berlingske.dk/virksomheder/problemer-med-microsoft-outlook-i-hele-verden?referrer=RSS",
           "summary": "Flere af Microsofts programmer virker ikke – i hele verden er der problemer med at få adgang. Få seneste nyt her.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166978194.webp?t[strip]=true&t[quality]=70&accessToken=135328dd2d838859c6260401f193ac85661d11efc41be171b5f7a7448d3854c1",
-          "publishedAt": "2026-11-13T05:55:46.000Z"
+          "publishedAt": "2026-11-13T05:55:46.000Z",
+          "titleEn": "Problems with Microsoft Outlook worldwide",
+          "summaryEn": "Several of Microsoft's programs don't work  ⁇  all over the world there are problems with access. Get the latest news here."
         },
         {
           "title": "Affære nummer tre afsløret. Jensen Huang er stemplet som »forræder«",
           "link": "https://www.berlingske.dk/internationalt/affaere-nummer-tre-afsloeret-jensen-huang-er-stemplet-somforraeder?referrer=RSS",
           "summary": "Skandalen om Jensen Huang har nået et ufatteligt niveau. Eksperter tegner nu et billede af en direktør, der er gået fra folkehelt til »forræder«. Mens manden i læderjakken bliver flået i stykker, står det nu klart, at…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166977801.webp?t[strip]=true&t[quality]=70&accessToken=efc0630f859adec52fe6b8e7449918be453442a380a0dacddc64aa51adc1cbf5",
-          "publishedAt": "2026-11-13T05:39:16.000Z"
+          "publishedAt": "2026-11-13T05:39:16.000Z",
+          "titleEn": "Affair number three exposed. Jensen Huang has been branded a traitor.",
+          "summaryEn": "The Jensen Huang scandal has reached an incredible level. Experts are now drawing a picture of a director who has gone from popular hatred to traitor. While the man in the leather jacket is being torn apart, it's now clear that..."
         },
         {
           "title": "Weekenden byder på ustadigt vejr med både sol og regn",
           "link": "https://www.berlingske.dk/danmark/weekenden-byder-paa-ustadigt-vejr-med-baade-sol-og-regn?referrer=RSS",
           "summary": "Der bliver både plads til sol, regn og blæst på en novemberweekend med blandet og ustadigt vejr.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166978116.webp?t[strip]=true&t[quality]=70&accessToken=cc2c9991466604c67cb98ad509b4f8b993cd6d045f1c422119f39455e922cb58",
-          "publishedAt": "2026-11-13T05:36:45.000Z"
+          "publishedAt": "2026-11-13T05:36:45.000Z",
+          "titleEn": "The weekend offers unstable weather with both sunshine and rain",
+          "summaryEn": "There will be room for sunshine, rain, and wind on a November weekend with mixed and unstable weather."
         }
       ]
     }
