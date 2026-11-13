@@ -13,54 +13,64 @@
         {
           "title": "Disse lande skal repræsentere Europa i Ukraine-forhandlinger",
           "link": "https://www.dr.dk/nyheder/seneste/disse-lande-skal-repraesentere-europa-i-ukraine-forhandlinger",
-          "publishedAt": "2026-11-13T17:53:47.000Z"
+          "publishedAt": "2026-11-13T17:53:47.000Z",
+          "titleEn": "These countries are to represent Europe in the Ukraine negotiations"
         },
         {
           "title": "Novo får grønt lys til salg af blødermiddel i Europa",
           "link": "https://www.dr.dk/nyheder/seneste/novo-faar-groent-lys-til-salg-af-bloedermiddel-i-europa",
-          "publishedAt": "2026-11-13T17:46:29.000Z"
+          "publishedAt": "2026-11-13T17:46:29.000Z",
+          "titleEn": "Novo receives a green light for the sale of bleeding agents in Europe"
         },
         {
           "title": "Efterforskning af britisk tv-kendis indledes",
           "link": "https://www.dr.dk/nyheder/seneste/efterforskning-af-britisk-tv-kendis-indledes",
           "image": "https://asset.dr.dk/drdk/umbraco-images/xqkfe50v/20261113-161905-2.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-13T16:46:39.000Z"
+          "publishedAt": "2026-11-13T16:46:39.000Z",
+          "titleEn": "Investigation of British television celebrity is launched"
         },
         {
           "title": "Granat skyllet op på strand i Nordjylland",
           "link": "https://www.dr.dk/nyheder/seneste/granat-skyllet-op-paa-strand-i-nordjylland",
-          "publishedAt": "2026-11-13T15:55:54.000Z"
+          "publishedAt": "2026-11-13T15:55:54.000Z",
+          "titleEn": "Grenade washed up on a beach in North Jutland"
         },
         {
           "title": "Tegnetavle til børn tilbagekaldes",
           "link": "https://www.dr.dk/nyheder/seneste/tegnetavle-til-boern-tilbagekaldes",
           "image": "https://asset.dr.dk/drdk/umbraco-images/2ubh1kat/screenshot-2026-11-13-163021_crop001.png?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-13T15:42:57.000Z"
+          "publishedAt": "2026-11-13T15:42:57.000Z",
+          "titleEn": "Children's signboards are recalled"
         },
         {
           "title": "Realdania-medlemmer omfattet af datalæk",
           "link": "https://www.dr.dk/nyheder/seneste/realdania-medlemmer-omfattet-af-datalaek",
-          "publishedAt": "2026-11-13T15:16:02.000Z"
+          "publishedAt": "2026-11-13T15:16:02.000Z",
+          "titleEn": "Realdania members covered by the data leak"
         },
         {
           "title": "Jordnøddesmør tilbagekaldes",
           "link": "https://www.dr.dk/nyheder/seneste/jordnoeddesmoer-tilbagekaldes",
-          "publishedAt": "2026-11-13T14:34:22.000Z"
+          "publishedAt": "2026-11-13T14:34:22.000Z",
+          "titleEn": "Peanut butter is withdrawn"
         },
         {
           "title": "35-årig dømt for drabsforsøg i Vejen - udvises af Danmark",
           "link": "https://www.dr.dk/nyheder/seneste/35-aarig-doemt-drabsforsoeg-i-vejen-udvises-af-danmark",
-          "publishedAt": "2026-11-13T14:07:50.000Z"
+          "publishedAt": "2026-11-13T14:07:50.000Z",
+          "titleEn": "35-year-old convicted of attempted murder in Vejen - expelled from Denmark"
         },
         {
           "title": "Genberegnede kvælstofgrænser er klar efter fejl",
           "link": "https://www.dr.dk/nyheder/seneste/genberegnede-kvaelstofgraenser-er-klar-efter-fejl",
-          "publishedAt": "2026-11-13T13:53:39.000Z"
+          "publishedAt": "2026-11-13T13:53:39.000Z",
+          "titleEn": "Recalculated nitrogen limits are ready for error"
         },
         {
           "title": "Bestseller leverer nyt milliardoverskud",
           "link": "https://www.dr.dk/nyheder/seneste/bestseller-leverer-nyt-milliardoverskud",
-          "publishedAt": "2026-11-13T13:44:02.000Z"
+          "publishedAt": "2026-11-13T13:44:02.000Z",
+          "titleEn": "Bestsellers delivering new billions of dollars in sales"
         }
       ]
     },
@@ -78,70 +88,90 @@
           "link": "https://politiken.dk/kultur/musik/art11053849/Hun-har-flere-lyttere-end-The-Minds-of-99.-Hvorn%C3%A5r-opdager-Danmark-hende-for-alvor",
           "summary": "Fine Glindvad Jensen er allerede en sensation ude i verden. Med hendes fremragende nye album burde danskerne opdage hende for alvor. Og finde ud af, hvor meget vi har brug for det, hun kan.",
           "image": "https://politiken.dk/incoming/img11053863.r06gq0/ORIGINALS/original_960/Fine_kro_by%20Betty%20Krag",
-          "publishedAt": "2026-11-13T18:09:04.000Z"
+          "publishedAt": "2026-11-13T18:09:04.000Z",
+          "titleEn": "She has more listeners than The Minds of 99. When will Denmark really discover her?",
+          "summaryEn": "Fine Glindvad Jensen is already a sensation around the world. With her excellent new album, the Danes should really discover her. And find out how much we need what she can."
         },
         {
           "title": "Ekstraordinært antal skinnefejl fører til omfattende forsinkelser",
           "link": "https://politiken.dk/danmark/art11060121/Ekstraordin%C3%A6rt-antal-skinnefejl-f%C3%B8rer-til-omfattende-forsinkelser",
           "summary": "Regionaltog aflyses, og tog skal køre langsommere, efter at Banedanmark har registreret højt antal skinnefejl.",
           "image": "https://politiken.dk/incoming/img11060124.yqnogv/ORIGINALS/original_960/Tog",
-          "publishedAt": "2026-11-13T17:57:32.000Z"
+          "publishedAt": "2026-11-13T17:57:32.000Z",
+          "titleEn": "Extraordinary number of skid errors leads to extensive delays",
+          "summaryEn": "Regional trains will be cancelled and trains will have to run more slowly after Banedanmark has registered a high number of skid errors."
         },
         {
           "title": "Mange danskere har slet ikke forberedt sig på de digitale kriser. Nu kommer eksperter med flere gode råd",
           "link": "https://politiken.dk/danmark/art11058755/Mange-danskere-har-slet-ikke-forberedt-sig-p%C3%A5-de-digitale-kriser.-Nu-kommer-eksperter-med-flere-gode-r%C3%A5d",
           "summary": "Vi er måske blevet bedre til hjemmeberedskab. Men hvad med det digitale beredskab? Et nedbrud hos Microsoft blev en påmindelse om behovet for backup og alternativer.",
           "image": "https://politiken.dk/incoming/img11059853.3ag8c8/ORIGINALS/original_960/JAPAN-US-TECHNOLOGY-MICROSOFT",
-          "publishedAt": "2026-11-13T17:01:42.000Z"
+          "publishedAt": "2026-11-13T17:01:42.000Z",
+          "titleEn": "Many Danes have not prepared themselves for the digital crisis. Now experts come with some good advice",
+          "summaryEn": "Maybe we've gotten better at home preparation. But what about the digital emergency? A breakdown at Microsoft became a reminder of the need for backup and alternatives."
         },
         {
           "title": "Andersson: Mindretalsregering er inden for rækkevidde",
           "link": "https://politiken.dk/internationalt/art11060018/Mindretalsregering-er-inden-for-r%C3%A6kkevidde",
           "summary": "Socialdemokraterna vil danne en ny regering med Miljöpartiet og Centerpartiet og samarbejde med venstreparti.",
           "image": "https://politiken.dk/incoming/img11060022.lfpgf1/ORIGINALS/original_960/MAGDALENA%20ANDERSSON%20S%20PRESSTR%C3%84FF",
-          "publishedAt": "2026-11-13T16:48:03.000Z"
+          "publishedAt": "2026-11-13T16:48:03.000Z",
+          "titleEn": "Andersson: Minority government is within reach",
+          "summaryEn": "The Social Democrats will form a new government with the Miljö Party and the Centre Party and cooperate with the Left Party."
         },
         {
           "title": "Efter anklager om grooming og overgreb: Nu går politiet ind i sagen om britisk tv-stjerne",
           "link": "https://politiken.dk/kultur/art11060013/Efter-anklager-om-grooming-og-overgreb-Nu-g%C3%A5r-politiet-ind-i-sagen-om-britisk-tv-stjerne",
           "summary": "David Walliams erkender at have opført sig tankeløst over for personer, han havde uforpligtende forhold til.",
           "image": "https://politiken.dk/incoming/img11060016.e0o73/ORIGINALS/original_960/FRANCE-ENTERTAINEMENT-TELEVISION-MIPTV",
-          "publishedAt": "2026-11-13T16:46:17.000Z"
+          "publishedAt": "2026-11-13T16:46:17.000Z",
+          "titleEn": "Following allegations of grooming and assault, police are now entering the case of the British TV star",
+          "summaryEn": "David Walliams admits that he acted thoughtlessly toward people with whom he had an uncompromising relationship."
         },
         {
           "title": "Nvidia-skandalen har sat gang i et ophedet opgør i Trumps regering",
           "link": "https://politiken.dk/internationalt/art11058636/Nvidia-skandalen-har-sat-gang-i-et-ophedet-opg%C3%B8r-i-Trumps-regering",
           "summary": "Handelsminister Howard Lutnick beskyldes for at have forhalet eksportkontrol med mikrochips til Kina, mens også Trumps eget tætte forhold til Jensen Huang rejser spørgsmål.",
           "image": "https://politiken.dk/incoming/img11059977.xecqz1/ORIGINALS/original_960/US-POLITICS-TRUMP",
-          "publishedAt": "2026-11-13T16:08:46.000Z"
+          "publishedAt": "2026-11-13T16:08:46.000Z",
+          "titleEn": "The Nvidia scandal has sparked a heated uproar in the Trump administration.",
+          "summaryEn": "Commerce Secretary Howard Lutnick is accused of having facilitated export controls with microchips to China, while Trump's own close relationship with Jensen Huang raises questions."
         },
         {
           "title": "Det er en værdig og bevægende afslutning",
           "link": "https://politiken.dk/kultur/boger/boganmeldelser/art11046240/Det-er-en-v%C3%A6rdig-og-bev%C3%A6gende-afslutning",
           "summary": "Roy Jacobsens posthumt udgivne roman er en levende beskrivelse af alderdom, sygdom og kampen for at huske og tænke klart.",
           "image": "https://politiken.dk/incoming/img11046270.7vw2vq/ORIGINALS/original_960/Roy%20Jacobsen%20fotokreditering%20PR-foto",
-          "publishedAt": "2026-11-13T16:08:30.000Z"
+          "publishedAt": "2026-11-13T16:08:30.000Z",
+          "titleEn": "It's a worthy and moving ending.",
+          "summaryEn": "Roy Jacobsen's posthumously published novel is a vivid account of old age, illness, and the struggle to remember and think clearly."
         },
         {
           "title": "Moderaterne afviste at sænke benzinpriserne. Nu kan det ikke gå hurtigt nok",
           "link": "https://politiken.dk/danmark/politik/art11058731/Moderaterne-afviste-at-s%C3%A6nke-benzinpriserne.-Nu-kan-det-ikke-g%C3%A5-hurtigt-nok",
           "summary": "Efter at have afvist at sænke benzinpriserne, mener skatteminister Jakob Engel-Schmidt (M) nu, at det ikke kan vente til efter jul. Politiken har spurgt ham, hvorfor det pludselig er blevet en hastesag.",
           "image": "https://politiken.dk/incoming/img11059276.jgwqs5/ORIGINALS/original_960/Regeringen%20og%20DF%20pr%C3%A6senterer%20en%20aftale%20om%20en%20ny%20skattereform",
-          "publishedAt": "2026-11-13T15:01:03.000Z"
+          "publishedAt": "2026-11-13T15:01:03.000Z",
+          "titleEn": "The moderates refused to lower gas prices. Now it can't go fast enough",
+          "summaryEn": "After refusing to lower petrol prices, the tax minister, Jakob Engel-Schmidt (M), now believes that it cannot wait until after Christmas. Politics has asked him why this has suddenly become an emergency."
         },
         {
           "title": "Jeg blev desværre aldrig fuld nok til helt at tro på ham",
           "link": "https://politiken.dk/kultur/scene/art11035876/Jeg-blev-desv%C3%A6rre-aldrig-fuld-nok-til-helt-at-tro-p%C3%A5-ham",
           "summary": "Den fascinerende fortælling om Vladimir Putins politiske rådgiver Vladislav Surkov ender på Sorte Hest som en demonstration af luftkasteller.",
           "image": "https://politiken.dk/incoming/img11058804.kl6csm/ORIGINALS/original_960/Surkov%203-Kred%20Lars%20Hauschildt",
-          "publishedAt": "2026-11-13T14:40:30.000Z"
+          "publishedAt": "2026-11-13T14:40:30.000Z",
+          "titleEn": "Unfortunately, I never got drunk enough to completely believe in him.",
+          "summaryEn": "The fascinating story of Vladimir Putin's political adviser Vladislav Surkov ends on the Black Horse as a demonstration of air castles."
         },
         {
           "title": "Russisk blogger: »Vi står over for en katastrofal situation«",
           "link": "https://politiken.dk/internationalt/art11058583/%C2%BBVi-st%C3%A5r-over-for-en-katastrofal-situation%C2%AB",
           "summary": "Tilhængerne af krigen mod naboerne har ikke haft ondt af de civiles problemer i Ukraine, når strømforsyningen afbrydes af angreb. Til gengæld taler de nødig om det, der rammer deres egen side.",
           "image": "https://politiken.dk/incoming/img11058967.iuyv93/ORIGINALS/original_960/UKRAINE-RUSSIA-CONFLICT",
-          "publishedAt": "2026-11-13T14:25:27.000Z"
+          "publishedAt": "2026-11-13T14:25:27.000Z",
+          "titleEn": "Russian blogger:  ⁇ We are facing a catastrophic situation ⁇",
+          "summaryEn": "Supporters of the war against the neighbors have not felt sorry for the problems of civilians in Ukraine when the power supply is cut off by attacks. In return, they do not talk about what strikes their own side."
         }
       ]
     },
@@ -159,68 +189,87 @@
           "link": "https://www.berlingske.dk/internationalt/fem-lande-skal-staa-i-spidsen-for-europa-paa-topmoede-besluttede-eu-hvem-der-skal-sidde-med-ved-forhandlingsbordet?referrer=RSS",
           "summary": "EUs medlemslande er enige: EU-institutionerne og E5-magterne skal repræsentere Europa ved fredsforhandlingerne, fortæller Antonio Costa efter topmøde i Dublin.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167087512.webp?t[strip]=true&t[quality]=70&accessToken=9345c9e5b38ee40822d292da4b7d4bb4b8367786965ee2e10abfd27ea2c99a88",
-          "publishedAt": "2026-11-13T18:33:13.000Z"
+          "publishedAt": "2026-11-13T18:33:13.000Z",
+          "titleEn": "Five countries must lead Europe. At the summit, the EU decided who should sit at the negotiating table",
+          "summaryEn": "EU Member States agree: the EU institutions and the E5 must represent Europe in peace negotiations, Antonio Costa told the Dublin summit."
         },
         {
           "title": "Nedbrud på Microsoft-tjenester skyldes opdatering",
           "link": "https://www.berlingske.dk/internationalt/nedbrud-paa-microsoft-tjenester-skyldes-opdatering?referrer=RSS",
           "summary": "Microsofts globale nedbrud skyldes et problem, som opstod under en netværksopdatering. Problemet er løst.",
-          "publishedAt": "2026-11-13T18:30:42.000Z"
+          "publishedAt": "2026-11-13T18:30:42.000Z",
+          "titleEn": "Microsoft services are down due to an update",
+          "summaryEn": "Microsoft's global downturn is caused by a problem that arose during a network update. The problem is solved."
         },
         {
           "title": "Ekstraordinært antal skinnefejl fører til omfattende forsinkelser",
           "link": "https://www.berlingske.dk/danmark/ekstraordinaert-antal-skinnefejl-foerer-til-omfattende-forsinkelser?referrer=RSS",
           "summary": "Regionaltog aflyses, og tog skal køre langsommere, efter at Banedanmark har registreret et højt antal skinnefejl.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167085843.webp?t[strip]=true&t[quality]=70&accessToken=5098eb78e8b195cfccd15357d1da9fa483fbaffa319eeaf4a69c1dd33ce25289",
-          "publishedAt": "2026-11-13T18:24:44.000Z"
+          "publishedAt": "2026-11-13T18:24:44.000Z",
+          "titleEn": "Extraordinary number of skid errors leads to extensive delays",
+          "summaryEn": "Regional trains will be cancelled and trains will have to run more slowly after Banedanmark has registered a high number of skid failures."
         },
         {
           "title": "En smilende skurk, et ondt mord og en personlig favorit. Her er filmredaktørens bedste streamingtip lige nu",
           "link": "https://www.berlingske.dk/skaerm/en-smilende-skurk-et-ondt-mord-og-en-personlig-favorit-her-er-filmredaktoerens-bedste-streamingtip-lige-nu?referrer=RSS",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166954855.webp?t[strip]=true&t[quality]=70&accessToken=3663ddbc84c14398a44b92967be6a1d59e942f2e057451a512c356b04c007882",
-          "publishedAt": "2026-11-13T18:19:31.000Z"
+          "publishedAt": "2026-11-13T18:19:31.000Z",
+          "titleEn": "A smiling villain, a mean murder and a personal favorite. Here's the film editor's best streaming tip right now."
         },
         {
           "title": "Europa har sat sit hold til Ukraine-fredsforhandlinger",
           "link": "https://www.berlingske.dk/internationalt/europa-har-sat-sit-hold-til-ukraine-fredsforhandlinger?referrer=RSS",
           "summary": "Polen og Italien bliver lukket ind i selskabet af lande, der skal repræsentere Europa i forhandlinger.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167087092.webp?t[strip]=true&t[quality]=70&accessToken=d190977cd282364b20004101238665f312be5c86d7e3eb1b99c4eff7e0a4c741",
-          "publishedAt": "2026-11-13T18:09:45.000Z"
+          "publishedAt": "2026-11-13T18:09:45.000Z",
+          "titleEn": "Europe has joined the Ukrainian peace negotiations",
+          "summaryEn": "Poland and Italy are being shut out of the partnership of countries to represent Europe in negotiations."
         },
         {
           "title": "Nu skal »skønhedskonkurrencen« afgøres: Begge svenske statsministerkandidater har afleveret sin totalplan til partiet i midten",
           "link": "https://www.berlingske.dk/internationalt/nu-skal-skoenhedskonkurrencen-afgoeres-begge-svenske-statsministerkandidater-har-afleveret-sin-totalplan-til-partiet-i-midten?referrer=RSS",
           "summary": "Både Socialdemokraterna og Moderaterna har fredag afleveret en såkaldt totalplan til Centerpartiet, der har de afgørende stemmer i forhold til at danne regering. Og begge statsministerkandidater tror nu på, at de kan…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167086421.webp?t[strip]=true&t[quality]=70&accessToken=06c1847bde08bbc2e4f44dc42d99dcf6080f52d86c99b85a089cac5772cb4dd9",
-          "publishedAt": "2026-11-13T18:03:24.000Z"
+          "publishedAt": "2026-11-13T18:03:24.000Z",
+          "titleEn": "Now to decide the beauty contest: Both Swedish prime minister candidates have submitted their overall plan to the party in the middle.",
+          "summaryEn": "Both the Social Democrats and the Moderates on Friday submitted a so-called 'total plan' to the Centre Party, which has the decisive votes to form a government. And both candidates for prime minister now believe they can..."
         },
         {
           "title": "I dag skulle have været dommedag. Forskere frygtede, at vi ville blive »klemt ihjel«",
           "link": "https://www.berlingske.dk/videnskab/i-dag-skulle-have-vaeret-dommedag-forskere-frygtede-at-vi-ville-blive-klemt-ihjel?referrer=RSS",
           "summary": "I 1960 frygtede en gruppe forskere, at verdens befolkning ville vokse sig så stor, at det ville blive vores undergang. Forudsigelsen rummer en vigtig lektie for os i dag.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167066694.webp?t[strip]=true&t[quality]=70&accessToken=ee6c7a7e7821c5672c8ea5e16e20df5513f687f18ee09143581a05f35ba0059f",
-          "publishedAt": "2026-11-13T17:39:36.000Z"
+          "publishedAt": "2026-11-13T17:39:36.000Z",
+          "titleEn": "Today was supposed to be the day of judgment. Scientists feared we'd be killed by the clutches.",
+          "summaryEn": "In 1960, a group of scientists feared that the world's population would grow so large that we would perish. The prophecy contains an important lesson for us today."
         },
         {
           "title": "Novo får europæisk tilladelse til salg af blødermiddel",
           "link": "https://www.berlingske.dk/business/novo-faar-europaeisk-tilladelse-til-salg-af-bloedermiddel?referrer=RSS",
           "summary": "Novo har fået godkendelse fra EU-Kommissionen til at sælge blødermidlet Frehemgo til patienter med hæmofili A.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167085489.webp?t[strip]=true&t[quality]=70&accessToken=72eb81bbad9045a31b60aaec337e3ca2dfa72680dc4aaefacba78cfafe6fecc4",
-          "publishedAt": "2026-11-13T17:26:46.000Z"
+          "publishedAt": "2026-11-13T17:26:46.000Z",
+          "titleEn": "Novo receives a European authorisation for the sale of bleeding agents",
+          "summaryEn": "Novo has been authorised by the European Commission to sell Frehemgo to patients with haemophilia A."
         },
         {
           "title": "Dansk ulykkesfugl skifter til ColoQuick og siger farvel til storhold",
           "link": "https://www.berlingske.dk/sport/dansk-ulykkesfugl-skifter-til-coloquick-og-siger-farvel-til-storhold?referrer=RSS",
           "summary": "21-årige Theodor Storm skifter til ColoQuick, når hans kontrakt med Netcompany Ineos udløber ved årsskiftet.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167084966.webp?t[strip]=true&t[quality]=70&accessToken=109c12ebc76f6e3f6830d018d68d3b146d670d82682f4c5282c2c2401c7e4e22",
-          "publishedAt": "2026-11-13T17:16:45.000Z"
+          "publishedAt": "2026-11-13T17:16:45.000Z",
+          "titleEn": "Danish bird of disaster switches to ColoQuick and says goodbye to the big team",
+          "summaryEn": "21-year-old Theodor Storm will join ColoQuick when his contract with Netcompany Ineos expires at the end of the year."
         },
         {
           "title": "Andersson: Mindretalsregering er inden for rækkevidde",
           "link": "https://www.berlingske.dk/internationalt/andersson-mindretalsregering-er-inden-for-raekkevidde?referrer=RSS",
           "summary": "Socialdemokraterna vil danne en ny regering med Miljöpartiet og Centerpartiet og samarbejde med venstreparti.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167084638.webp?t[strip]=true&t[quality]=70&accessToken=27875875e986519b707e4c2e96d24a2d503b064c6677393726949ecc7eb19c01",
-          "publishedAt": "2026-11-13T17:09:50.000Z"
+          "publishedAt": "2026-11-13T17:09:50.000Z",
+          "titleEn": "Andersson: Minority government is within reach",
+          "summaryEn": "The Social Democrats will form a new government with the Miljö Party and the Centre Party and will work with the Left Party."
         }
       ]
     }
