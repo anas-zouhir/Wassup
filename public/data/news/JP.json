@@ -14,43 +14,57 @@
           "title": "マイクロソフトの接続障害 全面復旧と発表",
           "link": "https://news.web.nhk/newsweb/na/nd-20261114de75755",
           "summary": "アメリカのIT大手「マイクロソフト」は日本時間の14日午後、「マイクロソフト365」と呼ばれるサービスで続いていた接続障害について、全面復旧したと発表しました。 メールソフト「アウトルック」を処理す…",
-          "publishedAt": "2026-11-14T06:22:00.000Z"
+          "publishedAt": "2026-11-14T06:22:00.000Z",
+          "titleEn": "We've announced that Microsoft's connection has been compromised and that it's fully restored.",
+          "summaryEn": "Microsoft, the US IT giant, has announced that it has fully recovered from a connection disruption in a service called Microsoft 365 on the afternoon of the 14th of July, Japanese time. I'm going to run the email software, Outlock."
         },
         {
           "title": "アメリカ航空当局 全米の運航停止措置解除 8000便超欠航",
           "link": "https://news.web.nhk/newsweb/na/nd-20261114de75764",
           "summary": "アメリカのFAA＝連邦航空局は通信障害が起きたとして、日本時間の14日から、アメリカ全土の空港ですべての航空機の運航停止措置をとりました。 停止措置はおよそ4時間半後に解除され、国土安全保障省は、サイ…",
-          "publishedAt": "2026-11-14T05:40:05.000Z"
+          "publishedAt": "2026-11-14T05:40:05.000Z",
+          "titleEn": "U.S. air traffic control has lifted all suspensions across the country.",
+          "summaryEn": "The U.S. Federal Aviation Administration (FAA) has suspended all flights at airports throughout the United States for the first 14 days after Japanese time due to a communication failure. The suspension was lifted about four and a half hours later."
         },
         {
           "title": "米中ロ3か国首脳会談 19日に初めての開催へ",
           "link": "https://news.web.nhk/newsweb/na/nd-20261114de75768",
           "summary": "アメリカのホワイトハウスは、今月19日、アメリカのトランプ大統領と中国の習近平国家主席、それにロシアのプーチン大統領の3者での首脳会談を行うと明らかにしました。 アメリカ・中国・ロシアの3か国の首脳に…",
-          "publishedAt": "2026-11-14T05:17:20.000Z"
+          "publishedAt": "2026-11-14T05:17:20.000Z",
+          "titleEn": "The first meeting of the three leaders of the United States and China will be held on 19th.",
+          "summaryEn": "The US White House has announced that it will hold a summit meeting with US President Trump, Chinese President Xi Jinping, and Russian President Putin on 19th of this month. The leaders of the United States, China, and Russia..."
         },
         {
           "title": "「いつまでも仲よく」横田めぐみさんとの“約束”胸に再会待つ",
           "link": "https://news.web.nhk/newsweb/na/nd-20261114de75794",
           "summary": "横田めぐみさんが新潟市で北朝鮮に拉致されてから15日で49年です。 めぐみさんと仲がよかった2人の同級生は、「いつまでも仲よくしましょう」と、めぐみさんがノートに書き残した“約束”を胸に、「絶対帰って…",
-          "publishedAt": "2026-11-14T05:40:56.000Z"
+          "publishedAt": "2026-11-14T05:40:56.000Z",
+          "titleEn": "I'm looking forward to meeting you again with the promise I made to Yokoda.",
+          "summaryEn": "It's been 49 years since Yokoda was kidnapped by North Korea in the city of Shinjuku. Two of her classmates, who were good friends with her, said, \"Let's be good friends forever\"."
         },
         {
           "title": "大阪 枚方 女児死亡 父親「しつけで殴ることも」逮捕前説明",
           "link": "https://news.web.nhk/newsweb/na/nd-20261114de75748",
           "summary": "大阪・枚方市で3歳の娘に暴行を加えて殺害したとして父親が逮捕された事件で、父親が逮捕前の任意の調べに「しつけの一環としてこれまでにも殴ることがあった」などと説明していたことが捜査関係者への取材で分かり…",
-          "publishedAt": "2026-11-14T02:51:00.000Z"
+          "publishedAt": "2026-11-14T02:51:00.000Z",
+          "titleEn": "Osaka, the girl's death, the father's \"beating and punching\"",
+          "summaryEn": "In an interview with investigators, it was revealed that the father was arrested for assaulting and murdering his three-year-old daughter in the city of Osaka, Japan, and that he had explained to any investigation before his arrest that he had \"been beaten before as part of a plot\"."
         },
         {
           "title": "京成電鉄 予約システムに不正アクセス 最大337万件漏えいか",
           "link": "https://news.web.nhk/newsweb/na/nd-20261114de75830",
           "summary": "京成電鉄は成田空港と都内を結ぶ特急「スカイライナー」の座席予約システムが不正アクセスを受けて、利用者の氏名や電話番号メールアドレスなど、最大でおよそ337万件の情報が第三者によって取得された可能性があ…",
-          "publishedAt": "2026-11-14T03:54:02.000Z"
+          "publishedAt": "2026-11-14T03:54:02.000Z",
+          "titleEn": "We've been able to hack into the reservation system of the Qingdao Railway. We've leaked up to 3,370,000.",
+          "summaryEn": "The Tokyo Metro system for reserving seats in the emergency \"Skyliner\" connecting Chengdu airport and the city has been compromised, with the possibility that up to 3,370,000 information such as user names, phone numbers and email addresses could have been obtained by third parties."
         },
         {
           "title": "タマホーム 不正請求疑いで保険代理業廃業へ 外部調査も検討",
           "link": "https://news.web.nhk/newsweb/na/nd-20261114de75846",
           "summary": "住宅メーカーのタマホームは、火災保険の保険金を不正に請求していた疑いが出ている問題で、保険代理業を廃業する方針を損害保険各社に申し入れたことを明らかにしました。 また、全店舗を対象に進めている社内調…",
-          "publishedAt": "2026-11-14T04:09:00.000Z"
+          "publishedAt": "2026-11-14T04:09:00.000Z",
+          "titleEn": "Tamha Home is also considering an external investigation into the alleged wrongful death of the insurance agency.",
+          "summaryEn": "The homebuilder, Tamha Home, revealed that it had offered to take out its insurance companies for damages due to suspicions that it was fraudulently claiming fire insurance money. And we're moving to all of our stores."
         }
       ]
     },
@@ -66,47 +80,56 @@
         {
           "title": "徳島県阿波市長らの詐欺事件、市職員と会社員を釈放 勾留請求を却下",
           "link": "http://www.asahi.com/articles/ASVCG15K3VCGPLXB001M.html?ref=rss",
-          "publishedAt": "2026-11-14T04:46:36.000Z"
+          "publishedAt": "2026-11-14T04:46:36.000Z",
+          "titleEn": "The mayor of Apu, Tokuyama, has been released on charges of fraud, city officials and company employees, and has denied custody charges."
         },
         {
           "title": "クマの目撃や出没、10月は神奈川で前年比5.4倍 埼玉は1.4倍",
           "link": "http://www.asahi.com/articles/ASVCF1515VCFUTIL022M.html?ref=rss",
-          "publishedAt": "2026-11-14T04:00:00.000Z"
+          "publishedAt": "2026-11-14T04:00:00.000Z",
+          "titleEn": "Bear sightings and drownings in October in Kanagawa are 5.4 times higher than the previous year, and chickpeas are 1.4 times higher."
         },
         {
           "title": "営業最長10年、管理政策で守った福岡の屋台文化 観光地化で岐路に",
           "link": "http://www.asahi.com/articles/ASVCD22BTVCDTIPE02RM.html?ref=rss",
-          "publishedAt": "2026-11-14T02:00:00.000Z"
+          "publishedAt": "2026-11-14T02:00:00.000Z",
+          "titleEn": "It's been 10 years in business, and it's been governed by a policy that protects Fukuoka's boutique culture, tourism landscaping, and the intersection."
         },
         {
           "title": "3歳女児虐待死「歩行訓練の中断に腹が立ち暴行」 殺人容疑の父親",
           "link": "http://www.asahi.com/articles/ASVCG0FN8VCGUEFT00SM.html?ref=rss",
-          "publishedAt": "2026-11-14T01:53:44.000Z"
+          "publishedAt": "2026-11-14T01:53:44.000Z",
+          "titleEn": "Three-year-old girl abused and murdered \"outraged by the suspension of walking training\""
         },
         {
           "title": "大川原冤罪で長期拘束認めた裁判所、避ける検証 訴訟で責任問う遺族",
           "link": "http://www.asahi.com/articles/ASVC662TDVC6UPQJ00WM.html?ref=rss",
-          "publishedAt": "2026-11-14T00:00:00.000Z"
+          "publishedAt": "2026-11-14T00:00:00.000Z",
+          "titleEn": "The court, the court, the courts, the family, who have been detained for a long time for their crimes, avoided the investigation, claimed responsibility in the case."
         },
         {
           "title": "路上で倒れていた男性が死亡 「頭部から出血」近隣住民が通報 埼玉",
           "link": "http://www.asahi.com/articles/ASVCF7SGHVCFUDCB004M.html?ref=rss",
-          "publishedAt": "2026-11-13T23:40:00.000Z"
+          "publishedAt": "2026-11-13T23:40:00.000Z",
+          "titleEn": "A man fell down the street and died, \"Blood coming from his head\", the neighbor reported."
         },
         {
           "title": "福島・いわき市3歳児死亡 児相と市で説明食い違い 家庭訪問めぐり",
           "link": "http://www.asahi.com/articles/ASVCF3HF9VCFUGTB00BM.html?ref=rss",
-          "publishedAt": "2026-11-13T22:00:00.000Z"
+          "publishedAt": "2026-11-13T22:00:00.000Z",
+          "titleEn": "Three-year-old child deaths in Fukushima-Ikyū, misunderstandings between the ministry and the city, family visits."
         },
         {
           "title": "朽ちる被災車両、住民らが保存へ 雲仙・普賢岳の大火砕流から35年",
           "link": "http://www.asahi.com/articles/ASVCF3TV0VCFTIPE00JM.html?ref=rss",
-          "publishedAt": "2026-11-13T22:00:00.000Z"
+          "publishedAt": "2026-11-13T22:00:00.000Z",
+          "titleEn": "It's been 35 years since the Great Fire of Yunsen-pyeong."
         },
         {
           "title": "神奈川の2人死亡ひき逃げ事故、49歳の会社員の男を逮捕 容疑否認",
           "link": "http://www.asahi.com/articles/ASVCF6RX8VCFULOB00PM.html?ref=rss",
-          "publishedAt": "2026-11-13T20:21:18.000Z"
+          "publishedAt": "2026-11-13T20:21:18.000Z",
+          "titleEn": "Two people were killed in a hit-and-run accident in Kanagawa, a 49-year-old employee was arrested."
         },
         {
           "title": "3歳女児虐待死、対応会議の予定調整のさなかに 市に疑い通告複数回",
