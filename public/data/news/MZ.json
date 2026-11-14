@@ -8,7 +8,7 @@
         "homepage": "https://www.jornalnoticias.co.mz",
         "lang": "pt-MZ"
       },
-      "fetchedAt": "2026-11-13T18:41:32.388Z",
+      "fetchedAt": "2026-11-14T06:40:13.741Z",
       "items": [
         {
           "title": "El Niño: Governo apoia famílias de KaNyaka com insumos e aves",
@@ -99,8 +99,14 @@
         "homepage": "https://opais.co.mz",
         "lang": "pt-MZ"
       },
-      "fetchedAt": "2026-11-13T18:41:27.610Z",
+      "fetchedAt": "2026-11-14T06:40:08.893Z",
       "items": [
+        {
+          "title": "ONU estende missão de manutenção da paz na República Centro-Africana",
+          "link": "https://opais.co.mz/onu-estende-missao-de-manutencao-da-paz-na-republica-centro-africana/",
+          "summary": "O Conselho de Segurança das Nações Unidas votou por unanimidade para estender o mandato de sua missão de manutenção da paz na República Centro-Africana (MINUSCA) até 15 de novembro de 2027, enquanto o país continua com…",
+          "publishedAt": "2026-11-13T19:24:16.000Z"
+        },
         {
           "title": "EUMAM MOZ participa na primeira jornada de cooperação de defesa em Moçambique",
           "link": "https://opais.co.mz/eumam-moz-participa-na-primeira-jornada-de-cooperacao-de-defesa-em-mocambique/",
@@ -132,14 +138,6 @@
           "publishedAt": "2026-11-13T15:00:23.000Z",
           "titleEn": "Company producing acetylene gas without authorization fined approximately 700 000 metricals",
           "summaryEn": "Twenty-four hours after authorities conducted a search of a company engaged in the clandestine production of acetylene gas and oxygen in the Dondo district of Sofala province, authorities..."
-        },
-        {
-          "title": "AFINAL, PORQUE NÓS DEVEMOS FAZER EXERCÍCIO FÍSICO?",
-          "link": "https://opais.co.mz/afinal-porque-nos-devemos-fazer-exercicio-fisico/",
-          "summary": "A consciência de que nós devemos exercitar mudou. Depois de um período relativamente longo em que o sedentarismo tomou conta do comportamento humano, há cada vez mais pessoas a dedicarem uma parte do seu dia ao exercício…",
-          "publishedAt": "2026-11-13T14:11:58.000Z",
-          "titleEn": "AFINAL, why should we exercise?",
-          "summaryEn": "The awareness that we must exercise has changed. After a relatively long period of sedentary behavior taking over human behavior, more and more people are devoting part of their day to exercise..."
         }
       ]
     },
@@ -150,7 +148,7 @@
         "homepage": "https://clubofmozambique.com",
         "lang": "en-MZ"
       },
-      "fetchedAt": "2026-11-13T18:41:28.295Z",
+      "fetchedAt": "2026-11-14T06:40:09.569Z",
       "items": [
         {
           "title": "Mozambique: Mondlane trial in 45-seat courtroom, country’s first with audio and video recording of hearings",
