@@ -3,183 +3,72 @@
   "outlets": [
     {
       "outlet": {
-        "id": "zdg",
-        "name": "Ziarul de Gardă",
-        "homepage": "https://www.zdg.md",
-        "lang": "ro"
-      },
-      "fetchedAt": "2026-11-12T06:52:40.105Z",
-      "items": [
-        {
-          "title": "SUA ar fi cerut Rusiei să elaboreze un nou acord de securitate cu Europa. Subiectul, discutat la negocierile de la Abu Dhabi",
-          "link": "https://www.zdg.md/stiri/sua-ar-fi-cerut-rusiei-sa-elaboreze-un-nou-acord-de-securitate-cu-europa-subiectul-discutat-la-negocierile-de-la-abu-dhabi/",
-          "summary": "Statele Unite au cerut Rusiei să elaboreze un proiect al unui nou acord de securitate cu Europa, care să țină cont de preocupările și revendicările Moscovei, dar să prevadă și măsurile pe care Rusia este dispusă să le…",
-          "publishedAt": "2026-11-12T06:51:42.000Z",
-          "titleEn": "The United States would have asked Russia to draft a new security agreement with Europe. Subject discussed at the Abu Dhabi negotiations",
-          "summaryEn": "The United States has asked Russia to draft a new security agreement with Europe that takes into account Moscow's concerns and demands, but also provides for measures that Russia is willing to..."
-        },
-        {
-          "title": "VIDEO/ Doi polițiști, transportați la spital după ce mașina în care se aflau a fost implicată într-un accident. A fost pornită o anchetă",
-          "link": "https://www.zdg.md/stiri/video-doi-politisti-transportati-la-spital-dupa-ce-masina-in-care-se-aflau-a-fost-implicata-intr-un-accident-a-fost-pornita-o-ancheta/",
-          "summary": "Doi angajați ai Poliției au fost transportați la spital, după ce mașina în care se aflau a fost implicată într-un accident rutier produs pe strada Sarmizegetusa din Chișinău. Potrivit informațiilor preliminare, mașina de…",
-          "publishedAt": "2026-11-12T06:34:21.000Z",
-          "titleEn": "VIDEO/ Two police officers, transported to hospital after their car was involved in an accident. An investigation has been launched.",
-          "summaryEn": "Two police officers were transported to the hospital after their car was involved in a road accident on Sarmizegetusa Street in Chisinau. According to preliminary information, the car of..."
-        },
-        {
-          "title": "Carburanții se ieftinesc cu 36 de bani. Cât vor costa benzina și motorina pe 12 noiembrie?",
-          "link": "https://www.zdg.md/stiri/carburantii-se-ieftinesc-cu-36-de-bani-cat-vor-costa-benzina-si-motorina-pe-12-noiembrie/",
-          "summary": "Prețurile la carburanți scad pentru 12 noiembrie, potrivit prețurilor maxime de referință stabilite de Agenția Națională pentru Reglementare în Energetică (ANRE). Astfel, un litru de benzină 95 va putea fi comercializat…",
-          "publishedAt": "2026-11-12T06:30:00.000Z",
-          "titleEn": "Fuels are cheap for 36 bucks. How much will gas and motor cost on November 12th?",
-          "summaryEn": "Fuel prices decrease for 12 November, according to the maximum reference prices set by the National Energy Regulatory Agency (ANRE). That way, one litre of 95 gasoline can be traded..."
-        },
-        {
-          "title": "Un militar rus de rang înalt, ucis într-o explozie produsă în mașina sa, la Sankt Petersburg. Este al doilea incident de acest fel în ultimele trei luni",
-          "link": "https://www.zdg.md/stiri/un-militar-rus-de-rang-inalt-ucis-intr-o-explozie-produsa-in-masina-sa-la-sankt-petersburg-este-al-doilea-incident-de-acest-fel-in-ultimele-trei-luni/",
-          "summary": "Un militar rus de rang înalt a murit în dimineața zilei de 12 noiembrie, după ce mașina în care se afla a explodat în cartierul Slavianka din Sankt Petersburg. Potrivit publicației ruse „Fontanka”, în automobil se afla…",
-          "publishedAt": "2026-11-12T06:19:29.000Z",
-          "titleEn": "A high-ranking Russian soldier, killed in an explosion produced in his car in St. Petersburg. It's the second incident of this kind in the last three months.",
-          "summaryEn": "A high-ranking Russian soldier died on the morning of November 12 after the car he was in exploded in the Slavianka neighborhood of St. Petersburg. According to the Russian publication  ⁇ Fontanka ⁇ , in the car was..."
-        },
-        {
-          "title": "LIVE TEXT/ Rusia a lansat rachete balistice asupra Kievului, la câteva ore după încheierea negocierilor de pace de la Abu Dhabi. Război în Ucraina, ziua 1723",
-          "link": "https://www.zdg.md/stiri/live-text-rusia-a-lansat-rachete-balistice-asupra-kievului-la-cateva-ore-dupa-incheierea-negocierilor-de-pace-de-la-abu-dhabi-razboi-in-ucraina-ziua-1723/",
-          "summary": "8:02 Rusia a lansat rachete balistice asupra capitalei Ucrainei în noaptea de 12 noiembrie, la câteva ore după încheierea celei de-a doua zile de negocieri de pace mediate de Statele Unite, desfășurate la Abu Dhabi.…",
-          "publishedAt": "2026-11-12T06:02:48.000Z",
-          "titleEn": "Live TEXT/ Russia has launched ballistic missiles over Kiev, hours after the conclusion of the Abu Dhabi peace negotiations. War in Ukraine, 1723",
-          "summaryEn": "8:02 A.M. Russia launched ballistic missiles on the Ukrainian capital on the night of November 12, hours after the conclusion of the second day of U.S.-mediated peace negotiations in Abu Dhabi...."
-        },
-        {
-          "title": "Ploi slabe pentru 12 noiembrie în R. Moldova. Ce temperaturi au prognozat meteorologii",
-          "link": "https://www.zdg.md/stiri/ploi-slabe-pentru-12-noiembrie-in-r-moldova-ce-temperaturi-au-prognozat-meteorologii/",
-          "summary": "Joi, 12 noiembrie, în R. Moldova sunt prognozate ploi de scurtă durată, potrivit Autorității de Meteorologie și Monitoring de Mediu (AMM). În nordul republicii, cerul va fi înnourat, pe alocuri vor cădea ploi, iar…",
-          "publishedAt": "2026-11-12T06:00:00.000Z",
-          "titleEn": "Low rainfall for November 12th in R. Moldova. What is this? Weather forecasts",
-          "summaryEn": "Thursday, November 12th, in the R. Moldova is forecast to experience short-term rainfall, according to the Meteorological and Environmental Monitoring Authority (AMM). In the north of the republic, the sky will be renewed, the terrain will be rained, and..."
-        },
-        {
-          "title": "LIVE TEXT/ Ucraina a arestat primul prizonier de război indonezian, în timp ce Rusia intensifică recrutarea străină. Război în Ucraina, ziua 1722",
-          "link": "https://www.zdg.md/stiri/live-text-ucraina-a-arestat-primul-prizonier-de-razboi-indonezian-in-timp-ce-rusia-intensifica-recrutarea-straina-razboi-in-ucraina-ziua-1722/",
-          "summary": "UPDATE 22:20 Ucraina a arestat primul său prizonier de război indonezian, un bărbat în vârstă de 49 de ani, care ar fi fost păcălit să se alăture armatei ruse și trimis să lupte în regiunea Zaporijjea, a relatat pe 10…",
-          "publishedAt": "2026-11-11T20:25:00.000Z",
-          "titleEn": "Ukraine has arrested the first Indonesian prisoner of war, while Russia intensifies foreign recruitment. War in Ukraine, 1722",
-          "summaryEn": "UPDATE 22:20 Ukraine has arrested its first Indonesian prisoner of war, a 49-year-old man who was allegedly tricked into joining the Russian army and sent to fight in the Zaporijjea region, reported 10..."
-        },
-        {
-          "title": "Rusia a anunțat că va prelua întregul teritoriu din Ucraina pe care îl consideră rusesc și nu va ceda nici măcar un centimetru",
-          "link": "https://www.zdg.md/stiri/rusia-a-anuntat-ca-va-prelua-intregul-teritoriu-din-ucraina-pe-care-il-considera-rusesc-si-nu-va-ceda-nici-macar-un-centimetru/",
-          "summary": "Negociatorul rus Vladimir Medinski a transmis joi, 11 noiembrie, un mesaj ferm în urma discuțiilor de la Abu Dhabi, declarând că „fiecare centimetru de pământ rusesc va fi recuperat, într-un fel sau altul”, transmite…",
-          "publishedAt": "2026-11-11T19:50:00.000Z",
-          "titleEn": "Russia has announced that it will take over all territory in Ukraine that it considers Russian and will not give up even an inch",
-          "summaryEn": "Russian negotiator Vladimir Medinski on Thursday, November 11, sent a firm message after the Abu Dhabi talks, stating that \"every inch of Russian land will be recovered, one way or another\", transmits..."
-        },
-        {
-          "title": "Acordul privind securitatea socială dintre R. Moldova și Irlanda a fost semnat la Dublin",
-          "link": "https://www.zdg.md/stiri/acordul-privind-securitatea-sociala-dintre-r-moldova-si-irlanda-a-fost-semnat-la-dublin/",
-          "summary": "R. Moldova și Irlanda au semnat miercuri, 11 noiembrie, la Dublin, Acordul privind securitatea socială, în prezența Maiei Sandu și a prim-ministrului Irlandei, Micheál Martin. Documentul garantează drepturile de pensie…",
-          "publishedAt": "2026-11-11T19:33:42.000Z",
-          "titleEn": "The agreement on social security between R. Moldova and Ireland were signed in Dublin",
-          "summaryEn": "The Republic of Moldova and Ireland signed the Agreement on Social Security in the presence of Maia Sandu and the Prime Minister of Ireland, Micheál Martin, in Dublin on Wednesday 11 November. The document guarantees the pension rights..."
-        },
-        {
-          "title": "Tânărul care a produs accidentul rutier soldat cu două victime, pe o trecere de pietoni, vizat în mai multe dosare penale și condamnat de mai multe ori. Detalii din sentințe",
-          "link": "https://www.zdg.md/stiri/tanarul-care-a-produs-accidentul-rutier-soldat-cu-doua-victime-pe-o-trecere-de-pietoni-vizat-in-mai-multe-dosare-penale-si-condamnat-de-mai-multe-ori-detalii-din-sentinte/",
-          "summary": "Tânărul care a produs accidentul rutier pe o trecere de pietoni pe bulevardul Grigore Vieru din capitală, soldat cu două victime, dintre care una a decedat este Alem Sabov, originar și domiciliat în orașul Orhei, conform…",
-          "publishedAt": "2026-11-11T18:40:12.000Z",
-          "titleEn": "The young man who caused the road accident with two casualties, soldier, on a pedestrian crossing, targeted in several criminal cases and convicted several times. Details of sentences",
-          "summaryEn": "The young man who caused the traffic accident at a pedestrian crossing on Grigore Vieru Boulevard in the capital, soldier with two victims, one of whom died is Alem Sabov, originally from and domiciled in the city of Orhei, according to..."
-        }
-      ]
-    },
-    {
-      "outlet": {
         "id": "newsmaker",
         "name": "NewsMaker",
         "homepage": "https://newsmaker.md",
         "lang": "ro"
       },
-      "fetchedAt": "2026-11-14T06:40:02.173Z",
+      "fetchedAt": "2026-11-14T18:29:23.334Z",
       "items": [
         {
-          "title": "(VIDEO) Ultima zi de agitație / 8 candidați la bașcan, 134 — în APG / Două partide",
-          "link": "https://newsmaker.md/ro/video-ultima-zi-de-agita%c8%9bie-8-candida%c8%9bi-la-ba%c8%99can-134-%c3%aen-apg-dou%c4%83-partide",
-          "summary": "Ultima zi de campanie în Găgăuzia. Ce amenzi riscă cei care încalcă legea?Campania electorală în Găgăuzia se apropie de sfârșit: 13 noiembrie este ultima zi de agitație. Comisia Electorală Centrală (CEC) avertizează că…",
-          "publishedAt": "2026-11-13T17:56:33.000Z",
-          "titleEn": "(VIDEO) Last day of unrest / 8 candidates for the Basque, 134  ⁇  in APG / Two parties",
-          "summaryEn": "Last day of the campaign in the Gorge. What are the fines for those who break the law?The election campaign in Gaza is coming to an end: November 13 is the last day of unrest. The Central Election Commission (CEC) is warning that..."
+          "title": "Podul de pe strada Ismail din Chișinău va fi reconstruit cu sprijinul BERD. Investiții de 10 milioane de euro",
+          "link": "https://newsmaker.md/ro/podul-de-pe-strada-ismail-din-chi%c8%99in%c4%83u-va-fi-reconstruit-cu-sprijinul-berd-investi%c8%9bii-de-10-milioane-de-euro",
+          "summary": "Primăria municipiului Chișinău și Banca Europeană pentru Reconstrucție și Dezvoltare (BERD) au semnat un acord de prefinanțare pentru reabilitarea podului de pe strada Ismail. Potrivit municipalității, lucrările sunt…",
+          "publishedAt": "2026-11-14T15:53:25.000Z"
         },
         {
-          "title": "(VIDEO) Plahotniuc, fără sancțiuni/Strada Ismail din Chișinău, închisă/Federalizarea Moldovei, o provocare?",
-          "link": "https://newsmaker.md/ro/video-plahotniuc-f%c4%83r%c4%83-sanc%c8%9biunistrada-ismail-din-chi%c8%99in%c4%83u-%c3%aenchis%c4%83federalizarea-moldovei-o-provocare",
-          "summary": "Cele mai importante știri din Moldova și din lume în noua ediție NewsMaker!— De la mituri balcanice la legende slave: un dezvoltator din Rîbnița și-a creat propriul joc— „Moldovagaz” ar putea ajunge temporar sub…",
-          "publishedAt": "2026-11-13T17:27:58.000Z",
-          "titleEn": "(VIDEO) Plahotniuc, without sanctions/ Ismail Street in Chisinau, closed/Federalisation of Moldova, a challenge?",
-          "summaryEn": "The most important news from Moldova and the world in the new edition of NewsMaker! ⁇  From Balkan myths to Slavic legends: a developer from Rîbnița has created his own game ⁇  ⁇  ⁇ Moldovagaz ⁇  could temporarily get under..."
+          "title": "Cuiburi artificiale și marcaje speciale, instalate pe linia electrică Vulcănești–Chișinău pentru protejarea păsărilor (VIDEO)",
+          "link": "https://newsmaker.md/ro/cuiburi-artificiale-%c8%99i-marcaje-speciale-instalate-pe-linia-electric%c4%83-vulc%c4%83ne%c8%99ti-chi%c8%99in%c4%83u-pentru-protejarea-p%c4%83s%c4%83rilor-video",
+          "summary": "Zece cuiburi artificiale pentru șoimul dunărean și 1 000 de marcaje speciale care fac cablurile electrice mai vizibile au fost instalate în cadrul proiectului liniei electrice aeriene de 400 kV Vulcănești–Chișinău.…",
+          "publishedAt": "2026-11-14T13:40:50.000Z"
         },
         {
-          "title": "„Sunt false”. SFS dezminte informațiile despre pierderea datelor privind impozitele achitate pentru 2026",
-          "link": "https://newsmaker.md/ro/sunt-false-sfs-dezminte-informa%c8%9biile-despre-pierderea-datelor-privind-impozitele-achitate-pentru-2026",
-          "summary": "Serviciul Fiscal de Stat (SFS) dezminte informațiile apărute într-un videoclip distribuit pe TikTok, potrivit cărora instituția ar fi pierdut datele privind impozitele achitate de cetățeni în urma atacului cibernetic…",
-          "publishedAt": "2026-11-13T17:27:26.000Z",
-          "titleEn": "They're fake. SFS rejects the information on the loss of data on taxes paid for 2026",
-          "summaryEn": "The State Tax Service (SFS) has denied the information in a video posted on TikTok that the institution lost data on taxes paid by citizens following the cyberattack..."
+          "title": "Toate zborurile din SUA, suspendate timp de peste 4 ore din cauza unei defecțiuni a sistemelor de comunicații",
+          "link": "https://newsmaker.md/ro/toate-zborurile-din-sua-suspendate-timp-de-peste-4-ore-din-cauza-unei-defectiuni-a-sistemelor-de-comunicatii",
+          "summary": "Peste 7 700 de zboruri au fost anulate, iar alte peste 8 000 au înregistrat întârzieri în Statele Unite ale Americii, vineri, 13 noiembrie, după ce Administrația Federală a Aviației (FAA) a suspendat temporar decolările…",
+          "publishedAt": "2026-11-14T11:58:54.000Z"
         },
         {
-          "title": "Campania electorală din Găgăuzia: două partide, avertizate repetat pentru cheltuieli nedeclarate",
-          "link": "https://newsmaker.md/ro/campania-electoral%c4%83-din-g%c4%83g%c4%83uzia-dou%c4%83-partide-avertizate-repetat-pentru-cheltuieli-nedeclarate",
-          "summary": "Doi concurenți electorali de la alegerile pentru Adunarea Populară a Găgăuziei au fost avertizați repetat pentru nedeclararea prealabilă a unor cheltuieli de campanie. Este vorba despre partidele „Pentru Țară” și…",
-          "publishedAt": "2026-11-13T17:09:01.000Z",
-          "titleEn": "Election campaign in Gaza: two parties repeatedly warned of undeclared expenditure",
-          "summaryEn": "Two contestants from the elections for the People's Assembly of Gangauzia have been repeatedly warned not to pre-declare campaign spending. It's about the parties for the country and..."
+          "title": "Inspectoratul General pentru Situații de Urgență, dotat cu 43 de automobile noi. Proiectul are un buget de €40 mln",
+          "link": "https://newsmaker.md/ro/inspectoratul-general-pentru-situatii-de-urgenta-dotat-cu-43-de-automobile-noi-proiectul-are-un-buget-de-e40-mln",
+          "summary": "Inspectoratul General pentru Situații de Urgență (IGSU) a primit 43 de automobile de serviciu, care vor fi repartizate subdiviziunilor teritoriale pentru eficientizarea activităților de prevenire a situațiilor de…",
+          "publishedAt": "2026-11-14T11:35:42.000Z"
         },
         {
-          "title": "Negocieri cu UE privind vânzarea terenurilor agricole către străini. Moldova solicită o perioadă de tranziție de 30 de ani",
-          "link": "https://newsmaker.md/ro/negocieri-cu-ue-privind-v%c3%a2nzarea-terenurilor-agricole-c%c4%83tre-str%c4%83ini-moldova-solicit%c4%83-o-perioad%c4%83-de-tranzi%c8%9bie-de-30-de-ani",
-          "summary": "Ministrul Agriculturii și Industriei Alimentare, Eugeniu Osmochescu, a declarat că Republica Moldova a solicitat Uniunii Europene o perioadă de tranziție de 30 de ani în domeniul agriculturii, în care să fie interzisă…",
-          "publishedAt": "2026-11-13T16:45:27.000Z",
-          "titleEn": "Negotiations with the EU on the sale of agricultural land to foreigners. Moldova requests a transitional period of 30 years",
-          "summaryEn": "The Minister of Agriculture and Food Industry, Eugenio Osmochescu, stated that the Republic of Moldova had requested the European Union to grant a 30-year transitional period in the field of agriculture, during which it would prohibit..."
+          "title": "(VIDEO) 70 de mii față de 30: Cum izolarea casei reduce de trei ori facturile la căldură",
+          "link": "https://newsmaker.md/ro/video-70-de-mii-fa%c8%9b%c4%83-de-30-cum-izolarea-casei-reduce-de-trei-ori-facturile-la-c%c4%83ldur%c4%83",
+          "summary": "O casă izolată termic poate consuma de aproape trei ori mai puțină energie — lucru care se reflectă direct în facturile pentru încălzire. Expertul Mihai Tîrșu de la Institutul de Energetică a comparat cheltuielile pentru…",
+          "publishedAt": "2026-11-14T10:44:22.000Z"
         },
         {
-          "title": "Tot mai mulți moldoveni merg în vacanță peste hotare. Destinațiile preferate în 2026",
-          "link": "https://newsmaker.md/ro/tot-mai-mul%c8%9bi-moldoveni-merg-%c3%aen-vacan%c8%9b%c4%83-peste-hotare-destina%c8%9biile-preferate-%c3%aen-2026",
-          "summary": "Peste 353.000 de moldoveni și-au petrecut vacanța peste hotare prin agenții de turism și tur-operatori în primele nouă luni din 2026, cu 5,5% mai mulți decât în aceeași perioadă a anului trecut. Turcia a fost destinația…",
-          "publishedAt": "2026-11-13T16:00:34.000Z",
-          "titleEn": "More and more Moldovans go on holiday abroad. Preferred destinations in 2026",
-          "summaryEn": "More than 353,000 Moldovans spent their holidays abroad through tourism agencies and tour operators in the first nine months of 2026, a 5.5% increase over the same period last year. Turkey was the destination..."
+          "title": "Presa: Rusia insistă ca NATO să-și retragă trupele din Polonia și statele baltice, în schimbul unui acord pentru Ucraina",
+          "link": "https://newsmaker.md/ro/presa-rusia-insista-ca-nato-sa-si-retraga-trupele-din-polonia-si-statele-baltice-in-schimbul-unui-acord-pentru-ucraina",
+          "summary": "Rusia insistă asupra retragerii forțelor NATO de pe flancul estic al alianței, inclusiv din Polonia și statele baltice, ca parte a unui posibil acord pentru încheierea războiului din Ucraina. Cerințele Moscovei sunt…",
+          "publishedAt": "2026-11-14T10:35:07.000Z"
         },
         {
-          "title": "CFM vrea să renunțe la cursa Chișinău–Ungheni din cauza numărului redus de pasageri. Ce rută a testat în locul ei",
-          "link": "https://newsmaker.md/ro/de-la-str%c4%83%c8%99eni-la-s%c3%aengera-cu-trenul-prin-chi%c8%99in%c4%83u-cfm-a-testat-noua-rut%c4%83",
-          "summary": "Calea Ferată din Moldova (CFM) a testat pe 13 noiembrie o rută de pasageri între Strășeni și Sîngera, prin Chișinău și Revaca. De la stația Revaca este prevăzută o legătură rutieră spre Aeroportul Internațional „Eugen…",
-          "publishedAt": "2026-11-13T15:11:28.000Z",
-          "titleEn": "CFM wants to abandon the Chișinău ⁇ Ungheni race because of the small number of passengers. What route did she test instead?",
-          "summaryEn": "On 13 November, the Moldovan Railway (CFM) tested a passenger route between Strășeni and Sângera, through Chisinau and Revaca. Revaca station provides a road link to  ⁇ Eugen International Airport..."
+          "title": "(VIDEO) Va fi interzisă intrarea lui Krasnoselski?/MGRES a trecut pe cărbune /Gaz pentru caz de întreruperi",
+          "link": "https://newsmaker.md/ro/video-va-fi-interzis%c4%83-intrarea-lui-krasnoselskimgres-a-trecut-pe-c%c4%83rbune-gaz-pentru-caz-de-%c3%aentreruperi",
+          "summary": "Cu ce probleme se confruntă locuitorii regiunii transnistrene, care nu este controlată de autoritățile oficiale? Ce inițiative sunt promovate la Tiraspol și cum poate Chișinăul influența evenimentele care au loc acolo?…",
+          "publishedAt": "2026-11-14T10:12:09.000Z"
         },
         {
-          "title": "Alegeri în Găgăuzia: cărți de identitate provizorii, eliberate gratuit pe 15 noiembrie. Se va putea vota cu EVO?",
-          "link": "https://newsmaker.md/ro/alegeri-%c3%aen-g%c4%83g%c4%83uzia-c%c4%83r%c8%9bi-de-identitate-provizorii-eliberate-gratuit-pe-15-noiembrie-se-poate-vota-cu-evo",
-          "summary": "Pe 15 noiembrie, în ziua alegerilor pentru Adunarea Populară și pentru funcția de bașcan, centrele multifuncționale ale Agenției Servicii Publice (ASP) din Comrat, Ceadîr-Lunga și Vulcănești vor activa după un program…",
-          "publishedAt": "2026-11-13T15:01:50.000Z",
-          "titleEn": "Elections in the Gorge: Provisional ID cards, released free of charge on November 15. Will it be possible to vote with EVO?",
-          "summaryEn": "On 15 November, the day of the elections for the People's Assembly and for the office of Bashan, the multi-functional centers of the Public Service Agency (ASP) in Comrat, Ceadîr-Lunga and Volcanesti will be activated after a program..."
+          "title": "Trump, Putin și Xi Jinping, la aceeași masă în Shenzhen. Ce mize are întâlnirea trilaterală",
+          "link": "https://newsmaker.md/ro/trump-putin-si-xi-jinping-la-aceeasi-masa-in-shenzhen-ce-mize-are-intalnirea-trilaterala",
+          "summary": "Președintele SUA, Donald Trump, președintele Rusiei, Vladimir Putin, și președintele Chinei, Xi Jinping, urmează să se întâlnească joi, 19 noiembrie, în marja summitului anual al Cooperării Economice Asia-Pacific (APEC),…",
+          "publishedAt": "2026-11-14T09:48:43.000Z"
         },
         {
-          "title": "Moldova va susține candidatura lui Cioloș la conducerea Francofoniei: „Este firesc să fim alături de România”",
-          "link": "https://newsmaker.md/ro/moldova-va-sustine-candidatura-lui-ciolos-la-conducerea-francofoniei-este-firesc-sa-fim-alaturi-de-romania",
-          "summary": "Republica Moldova va susține candidatura ex-premierului României Dacian Cioloș pentru funcția de secretar general al Organizației Internaționale a Francofoniei (OIF). Informația a fost confirmată de purtătorul de cuvânt…",
-          "publishedAt": "2026-11-13T14:47:08.000Z",
-          "titleEn": "Moldova will support Ciolos's candidacy for the presidency of France:  ⁇ It is natural to stand with Romania ⁇",
-          "summaryEn": "The Republic of Moldova will support the candidacy of former Romanian Prime Minister Dacian Ciolos for the post of Secretary-General of the International Organization of the Francophone Industry (OIF). The information was confirmed by the spokesman..."
+          "title": "SUA: un vas de croazieră s-a răsturnat pe fluviul Mississippi după ce a fost lovit de un petrolier. 32 de persoane au ajuns la spital (VIDEO)",
+          "link": "https://newsmaker.md/ro/sua-un-vas-de-croazier%c4%83-s-a-r%c4%83sturnat-pe-fluviul-mississippi-dup%c4%83-ce-a-fost-lovit-de-un-petrolier-32-de-persoane-au-ajuns-la-spital-video",
+          "summary": "În orașul New Orleans, din statul american Louisiana, un vas de croazieră ancorat pe malul fluviului Mississippi s-a răsturnat, vineri, 13 noiembrie, după ce a fost lovit de un petrolier. La bordul navei se aflau 180 de…",
+          "publishedAt": "2026-11-14T08:44:54.000Z"
         },
         {
-          "title": "Moldcell aduce în Republica Moldova trei premii GOLD și un BRONZE de la International Customer Experience Awards 2026",
-          "link": "https://newsmaker.md/ro/moldcell-aduce-%c3%aen-republica-moldova-trei-premii-gold-%c8%99i-un-bronze-de-la-international-customer-experience-awards-2026",
-          "summary": "Moldcell a obținut patru distincții la International Customer Experience Awards (ICXA) 2026, competiție internațională care recunoaște performanța în domeniul experienței clienților. Compania a fost distinsă cu trei…",
-          "publishedAt": "2026-11-13T14:41:10.000Z",
-          "titleEn": "Moldcell brings to the Republic of Moldova three GOLD awards and a BRONZE from the International Customer Experience Awards 2026",
-          "summaryEn": "Moldcell has received four distinctions at the International Customer Experience Awards (ICXA) 2026, an international competition that recognises customer experience performance. The company has been distinguished by three..."
+          "title": "Ziua tăcerii în Găgăuzia, înainte de alegeri: ce riscă cei care continuă agitația electorală",
+          "link": "https://newsmaker.md/ro/ziua-tacerii-in-gagauzia-inainte-de-alegeri-ce-risca-cei-care-continua-agitatia-electorala",
+          "summary": "Comisia Electorală Centrală (CEC) anunță că astăzi, 14 noiembrie, este ziua tăcerii înaintea alegerilor din Găgăuzia. În această perioadă, orice formă de agitație electorală este interzisă, iar persoanele care nu…",
+          "publishedAt": "2026-11-14T07:43:23.000Z"
         }
       ]
     }

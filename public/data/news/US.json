@@ -8,21 +8,21 @@
         "homepage": "https://www.nytimes.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-14T06:40:46.024Z",
+      "fetchedAt": "2026-11-14T18:29:59.263Z",
       "items": [
         {
-          "title": "What to Know About Friday’s Nationwide Ground Stop",
-          "link": "https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html",
-          "summary": "The air traffic control system’s overloaded, antiquated telecommunications equipment sustained its latest widespread failure, prompting a call for more money to fuel faster upgrades.",
-          "image": "https://static01.nyt.com/images/2026/12/13/multimedia/13faa-groundstop-what-to-know-kgwh/13faa-groundstop-what-to-know-kgwh-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-14T04:47:30.000Z"
+          "title": "Here’s Why It Could Take Days for Flights to Return to Normal",
+          "link": "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html",
+          "summary": "With hundreds of planes out of position and crews out of hours, restarting the nation’s flight system is no easy task.",
+          "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14faa-groundstop-bouncing-back-topart-ztjq/14faa-groundstop-bouncing-back-topart-ztjq-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-14T17:46:56.000Z"
         },
         {
-          "title": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
-          "link": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html",
-          "summary": "Travelers are entitled to refunds if their flights are canceled, regardless of the reason, but airlines won’t guarantee other amenities, such as a hotel room or meal vouchers.",
-          "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-travelers-rights2-qwgh/13faa-groundstop-travelers-rights2-qwgh-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-14T03:07:27.000Z"
+          "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+          "link": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
+          "summary": "The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades.",
+          "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-14T16:36:36.000Z"
         },
         {
           "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
@@ -32,45 +32,25 @@
           "publishedAt": "2026-11-14T01:22:56.000Z"
         },
         {
-          "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
-          "link": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
-          "summary": "Jensen Huang was the driving force at Nvidia, with 60 direct reports and no clear succession plan. Tripp Mickle, one of our technology reporters, examines Mr. Huang’s central role in the company and the artificial…",
-          "publishedAt": "2026-11-13T20:14:05.000Z"
+          "title": "What’s Behind the Trump-Huang Relationship?",
+          "link": "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html",
+          "summary": "President Trump’s show of support for Jensen Huang as he was under fire was a remarkable moment in a relationship that barely existed two years ago. Our White House correspondent Maggie Haberman explains how Mr. Trump…",
+          "image": "https://static01.nyt.com/images/2026/11/09/us/politics/maggie-huang-trump/maggie-huang-trump-mediumSquareAt3X.png",
+          "publishedAt": "2026-11-14T13:27:10.000Z"
         },
         {
-          "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
-          "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
-          "summary": "The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out.",
-          "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Nvidia-Wall-Street-01-hmfk/12biz-Nvidia-Wall-Street-01-hmfk-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-13T19:52:01.000Z"
-        },
-        {
-          "title": "Jensen Huang’s Leather Jacket Isn’t Helping Him Right Now",
-          "link": "https://www.nytimes.com/2026/11/13/style/jensen-huang-nvidia-leather-jacket-ai.html",
-          "summary": "The Nvidia founder’s signature look branded him as a maverick. Does that image read differently now?",
-          "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12HUANG-JACKET-01-zqbm/12HUANG-JACKET-01-zqbm-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-13T16:41:07.000Z"
+          "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
+          "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
+          "summary": "As Jensen Huang abruptly departs, the tech community grapples with an eternal question: Why do the smartest and most successful men so often act so stupidly?",
+          "image": "https://static01.nyt.com/images/2026/11/15/multimedia/14bizsun-huang-valley-03-lpmz/14bizsun-huang-valley-03-lpmz-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-14T11:55:40.000Z"
         },
         {
           "title": "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes",
           "link": "https://www.nytimes.com/2026/11/14/us/alaska-senate-race-ranked-choice-tabulation.html",
-          "summary": "The race between Senator Dan S. Sullivan and Ms. Peltola, a former congresswoman, is the only Senate contest that hasn’t been called.",
+          "summary": "The race between Senator Dan S. Sullivan and Ms. Peltola, a former representative, is the only Senate contest that hasn’t been called.",
           "image": "https://static01.nyt.com/images/2026/11/13/us/00pol-alaska-no-call-HFO/00pol-alaska-no-call-HFO-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-14T05:31:11.000Z"
-        },
-        {
-          "title": "A Democrat Wins the Alaska Governor’s Race for the First Time Since 1998",
-          "link": "https://www.nytimes.com/2026/11/14/us/elections/alaska-governor-winner-kreiss-tomkins-jkt.html",
-          "summary": "Jonathan Kreiss-Tomkins made a name for himself as a coalition builder willing to raise alarms about his state’s dire fiscal straits.",
-          "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03midterms-hfo-alaska-governor-jkt-jqcg/03midterms-hfo-alaska-governor-jkt-jqcg-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-14T05:08:59.000Z"
-        },
-        {
-          "title": "Lauren Boebert Loses Re-election Bid in Colorado House Race to Eileen Laubacher",
-          "link": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html",
-          "summary": "Ms. Boebert’s loss to Eileen Laubacher in a conservative House district represents a significant victory for Democrats.",
-          "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-boebert-loses-tjkf/03hfo-pol-boebert-loses-tjkf-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-13T22:32:22.000Z"
+          "publishedAt": "2026-11-14T13:30:56.000Z"
         },
         {
           "title": "Did the Redistricting Wars Backfire on Republicans? In a Word, No.",
@@ -78,6 +58,27 @@
           "summary": "The G.O.P. was able to avoid more House midterm losses — on top of the advantage it already had from gerrymandering.",
           "image": "https://static01.nyt.com/images/2026/11/13/multimedia/2026-11-05-midterm-simulations-index/2026-11-05-midterm-simulations-index-mediumSquareAt3X-v4.jpg",
           "publishedAt": "2026-11-14T05:14:26.000Z"
+        },
+        {
+          "title": "Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda",
+          "link": "https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html",
+          "summary": "The lawmaker set to lead the House Budget Committee outlined Democrats’ options for forcing a negotiation with President Trump on an economic package to bring down living costs.",
+          "image": "https://static01.nyt.com/images/2026/12/11/multimedia/00DC-AFFORDABILITY-plhz/00DC-AFFORDABILITY-plhz-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-14T10:01:49.000Z"
+        },
+        {
+          "title": "How the University of North Carolina Tried to Avoid Trump’s Wrath",
+          "link": "https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html",
+          "summary": "The University of North Carolina’s chancellor tried to protect the school from the Trump administration. Work on cancer, suicide, AIDS and coronaviruses was hit anyway.",
+          "image": "https://static01.nyt.com/images/2026/10/26/us/26nat-unc-science-promo/26nat-unc-science-promo-mediumSquareAt3X-v2.jpg",
+          "publishedAt": "2026-11-14T14:12:35.000Z"
+        },
+        {
+          "title": "Olivia Wilde Hit Bottom. Here’s How She Bounced Back.",
+          "link": "https://www.nytimes.com/2026/11/14/magazine/olivia-wilde-interview.html",
+          "summary": "The actor-director learned a lot about shame, regret and failure — and then made a hit movie.",
+          "image": "https://static01.nyt.com/images/2026/11/22/magazine/22mag-interview-wilde-04/22mag-interview-wilde-04-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-14T10:15:07.000Z"
         }
       ]
     },
@@ -88,8 +89,50 @@
         "homepage": "https://www.npr.org",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-14T06:40:46.051Z",
+      "fetchedAt": "2026-11-14T18:29:59.316Z",
       "items": [
+        {
+          "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+          "summary": "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location.",
+          "publishedAt": "2026-11-14T16:53:04.000Z"
+        },
+        {
+          "title": "Fuel crisis and protests pressure Chile's far-right president",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+          "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+          "publishedAt": "2026-11-14T16:05:12.000Z"
+        },
+        {
+          "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+          "summary": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly.",
+          "publishedAt": "2026-11-14T13:08:05.000Z"
+        },
+        {
+          "title": "Perspective: A new kind of White House press secretary",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
+          "summary": "With the White House press secretary job still left unfilled, maybe an AI assistant might be the answer?",
+          "publishedAt": "2026-11-14T13:00:00.000Z"
+        },
+        {
+          "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
+          "summary": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump.",
+          "publishedAt": "2026-11-14T10:00:00.000Z"
+        },
+        {
+          "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+          "summary": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests.",
+          "publishedAt": "2026-11-14T10:00:00.000Z"
+        },
+        {
+          "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
+          "summary": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions.",
+          "publishedAt": "2026-11-14T10:00:00.000Z"
+        },
         {
           "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
           "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
@@ -107,48 +150,6 @@
           "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
           "summary": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
           "publishedAt": "2026-11-13T22:36:45.000Z"
-        },
-        {
-          "title": "What we know about the FAA nationwide ground stop",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
-          "summary": "The Federal Aviation Administration took an extraordinary step Friday afternoon by issuing a nationwide ground stop. No planes are taking off at any airport and millions of passengers are stranded.",
-          "publishedAt": "2026-11-13T22:27:38.000Z"
-        },
-        {
-          "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
-          "summary": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule.",
-          "publishedAt": "2026-11-13T22:18:55.000Z"
-        },
-        {
-          "title": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
-          "summary": "The nationwide ground stop that paralyzed the U.S. aviation system on Friday has ended, according to Federal Aviation Administration.",
-          "publishedAt": "2026-11-13T21:55:13.000Z"
-        },
-        {
-          "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
-          "summary": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.",
-          "publishedAt": "2026-11-13T21:06:09.000Z"
-        },
-        {
-          "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
-          "summary": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes.",
-          "publishedAt": "2026-11-13T21:06:05.000Z"
-        },
-        {
-          "title": "What's Trump's strategy now with Iran? To keep things as they are",
-          "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-          "summary": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
-          "publishedAt": "2026-11-13T19:02:04.000Z"
-        },
-        {
-          "title": "The Trump administration's voter roll crusade could continue",
-          "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
-          "summary": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
-          "publishedAt": "2026-11-13T17:00:00.000Z"
         }
       ]
     },
@@ -159,67 +160,67 @@
         "homepage": "https://www.washingtonpost.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-14T06:40:55.219Z",
+      "fetchedAt": "2026-11-14T18:30:09.454Z",
       "items": [
         {
-          "title": "U.S. loses measles-elimination status, erasing a landmark public health achievement",
-          "link": "https://www.washingtonpost.com/health/2026/11/13/us-loses-measles-elimination-status-erasing-landmark-achievement/",
-          "summary": "The finding follows a resurgence that began with a major outbreak in West Texas in January 2025 and was followed by sustained outbreaks in Utah, Arizona and other states.",
-          "publishedAt": "2026-11-14T04:20:15.000Z"
+          "title": "FBI investigates powerful bomb found at Illinois ethanol plant",
+          "link": "https://www.washingtonpost.com/nation/2026/11/14/bomb-found-illinois-ethanol-plant-thousands-evacuated-fbi-investigates/",
+          "summary": "Dozens of people within a mile of the facility in Peoria were evacuated, and hours later law enforcement officers were still extensively searching the building.",
+          "publishedAt": "2026-11-14T18:00:00.000Z"
         },
         {
-          "title": "FAA lifts ground stop at U.S. airports, leaving travel chaos",
-          "link": "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/",
-          "summary": "Thousands of aircraft were halted for more than four hours because of a “temporary telecommunications outage.” Officials were searching for the cause.",
-          "publishedAt": "2026-11-14T02:59:12.000Z"
+          "title": "What are your rights when your flight is canceled?",
+          "link": "https://www.washingtonpost.com/nation/2026/11/14/ground-stop-cancels-flights-nationwide-what-rights-do-fliers-have/",
+          "summary": "Federal rules don’t provide many avenues to alleviate your misery, unfortunately, but individual airlines have made some voluntary commitments.",
+          "publishedAt": "2026-11-14T17:00:00.000Z"
         },
         {
-          "title": "For weeks, Brooklyn residents felt the shaking. Then came a deadly collapse.",
-          "link": "https://www.washingtonpost.com/nation/2026/11/13/weeks-brooklyn-residents-felt-shaking-then-came-deadly-collapse/",
-          "summary": "Eight people were killed, prompting investigations and renewed scrutiny of building-code enforcement.",
-          "publishedAt": "2026-11-14T01:38:42.000Z"
+          "title": "Work to replace old wiring led to ground stop, transportation secretary says",
+          "link": "https://www.washingtonpost.com/transportation/2026/11/14/ground-stop-aftermath-sees-thousands-flights-canceled-delayed-saturday/",
+          "summary": "Thousands of flights were canceled Saturday, a day after the nationwide outage. The FAA said flights should be back on schedule by the end of the weekend.",
+          "publishedAt": "2026-11-14T16:56:09.000Z"
         },
         {
-          "title": "Tanker strike sinks cruise ship in New Orleans, plunging passengers into river",
-          "link": "https://www.washingtonpost.com/nation/2026/11/13/tanker-collides-with-cruise-ship-new-orleans-sending-passengers-into-river/",
-          "summary": "The incident sent 32 people to hospitals, but officials said there appear to be no fatalities.",
-          "publishedAt": "2026-11-13T23:59:42.000Z"
+          "title": "Duffy’s briefing on ground stop disrupted by tech difficulties: ‘This is not operational?’",
+          "link": "https://www.washingtonpost.com/nation/2026/11/15/sean-duffys-news-briefing-ground-stop-disrupted-by-tech-difficulties/",
+          "summary": "A Transportation Department news briefing Saturday morning about the nationwide ground stop a day earlier was derailed by tech issues. “This is our kind of, um, day,” Sean Duffy said.",
+          "publishedAt": "2026-11-14T16:33:27.000Z"
         },
         {
-          "title": "Former death row inmate Richard Glossip pleads guilty to lesser charge",
-          "link": "https://www.washingtonpost.com/nation/2026/11/13/former-death-row-inmate-richard-glossip-pleads-guilty-lesser-charge/",
-          "summary": "The plea agreement is the latest twist in a decades-long saga that at one point led Oklahoma to review its lethal injection protocols.",
-          "publishedAt": "2026-11-13T21:39:29.000Z"
+          "title": "White evangelicals voted less, and less for the GOP, new analysis says",
+          "link": "https://www.washingtonpost.com/nation/2026/11/14/white-evangelicals-voted-less-less-gop-new-analysis-says/",
+          "summary": "In 343 counties dubbed evangelical hubs, turnout was 66 percent of what it was in 2024, according to a new analysis.",
+          "publishedAt": "2026-11-14T12:00:00.000Z"
         },
         {
-          "title": "Supreme Court to review Trump policy blocking asylum seekers at border",
-          "link": "https://www.washingtonpost.com/politics/2026/11/13/supreme-court-review-trump-policy-blocking-asylum-seekers-border/",
-          "summary": "The case is the latest immigration issue the justices will weigh in the coming months.",
-          "publishedAt": "2026-11-13T21:00:23.000Z"
+          "title": "Juan Atkins pioneered techno music as a teen in his bedroom outside Detroit",
+          "link": "https://www.washingtonpost.com/obituaries/2026/11/14/godfather-electronic-music-juan-atkins-has-died-he-was-64/",
+          "summary": "The godfather of electronic music has died. He was 64.",
+          "publishedAt": "2026-11-14T11:00:01.000Z"
         },
         {
-          "title": "Trump’s top economic advisers clash over Lutnick’s handling of Nvidia",
-          "link": "https://www.washingtonpost.com/business/2026/11/13/treasury-secretary-points-commerce-secretary-failure-restrict-nvidia-customer/",
-          "summary": "The Commerce Department had been investigating if Megaspeed, the company at the heart of former Nvidia CEO Jensen Huang’s spy-sex scandal, breached U.S. export restrictions.",
-          "publishedAt": "2026-11-13T17:40:29.000Z"
+          "title": "A 14-year-old quit Instagram for a month and discovered something surprising",
+          "link": "https://www.washingtonpost.com/nation/2026/11/14/she-was-14-addicted-instagram-could-she-handle-month-without-it/",
+          "summary": "Over the course of a voluntary fast, Addisyn Mace rediscovered the parts of herself that social media had eclipsed.",
+          "publishedAt": "2026-11-14T11:00:01.000Z"
         },
         {
-          "title": "Woman in truck that crashed into soccer field, killing 2, won’t face charges",
-          "link": "https://www.washingtonpost.com/nation/2026/11/13/woman-who-crashed-into-soccer-field-killing-2-wont-face-charges/",
-          "summary": "The woman was napping in her truck before the vehicle jumped a curb and sped onto the field, officials said.",
-          "publishedAt": "2026-11-13T16:42:06.000Z"
+          "title": "A spy plane tied to covert attacks leads back to Florida’s largest senior community",
+          "link": "https://www.washingtonpost.com/investigations/2026/11/14/spy-plane-tied-covert-attacks-leads-back-floridas-largest-senior-community/",
+          "summary": "A Post investigation shows CIA-linked contractors managed a specialized surveillance aircraft originally purchased by a company based at The Villages.",
+          "publishedAt": "2026-11-14T10:00:00.000Z"
         },
         {
-          "title": "The story behind the viral ad that helped Scott Colom win in Mississippi",
-          "link": "https://www.washingtonpost.com/nation/2026/11/13/story-behind-pick-another-protein-ad-that-helped-scott-colom-win/",
-          "summary": "Ryan Sayles never had worked on a political campaign before producing the “Pick Another Protein” ad, which ricocheted across the country and internet.",
-          "publishedAt": "2026-11-13T15:40:34.000Z"
+          "title": "Texas’s Democratic gov.-elect vows to trade GOP culture wars for moderation",
+          "link": "https://www.washingtonpost.com/nation/2026/11/14/texass-democratic-gov-elect-vows-trade-gop-culture-wars-moderation/",
+          "summary": "Gina Hinojosa said she agrees with President Donald Trump on the need for border security but vows to fight “chaotic and dangerous” immigration enforcement in major cities.",
+          "publishedAt": "2026-11-14T10:00:00.000Z"
         },
         {
-          "title": "Oregon school carefully welcomes students back after classroom shooting",
-          "link": "https://www.washingtonpost.com/nation/2026/11/13/officials-repaired-school-after-fatal-shooting-healing-students-will-take-longer/",
-          "summary": "A nonprofit from South Carolina guided the school district in Bend in best practices to deal with trauma after the deaths of three children and a teacher.",
-          "publishedAt": "2026-11-13T11:00:00.000Z"
+          "title": "Surging measles cases are forcing doctors to treat conditions they’ve never seen",
+          "link": "https://www.washingtonpost.com/health/2026/11/14/doctors-are-learning-fly-measles-surge-presents-rare-cases/",
+          "summary": "Some of the greatest unknowns involve the youngest patients.",
+          "publishedAt": "2026-11-14T10:00:00.000Z"
         }
       ]
     }

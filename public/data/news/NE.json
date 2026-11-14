@@ -8,7 +8,7 @@
         "homepage": "https://www.lesahel.org",
         "lang": "fr-NE"
       },
-      "fetchedAt": "2026-11-14T06:40:11.095Z",
+      "fetchedAt": "2026-11-14T18:29:30.441Z",
       "items": [
         {
           "title": "Point de presse du ministre du Commerce et de l’Industrie : l’exportation de l’arachide désormais interdite au Niger",
@@ -94,12 +94,29 @@
     },
     {
       "outlet": {
+        "id": "airinfo-ne",
+        "name": "Aïr Info",
+        "homepage": "https://www.airinfoagadez.com",
+        "lang": "fr-NE"
+      },
+      "fetchedAt": "2026-11-14T18:29:32.093Z",
+      "items": [
+        {
+          "title": "Agadez : le ministre des Mines suit les projets miniers et la valorisation du sel à Ingall",
+          "link": "https://airinfoagadez.com/2026/11/14/agadez-le-ministre-des-mines-suit-les-projets-miniers-et-la-valorisation-du-sel-a-ingall/",
+          "summary": "En mission de travail dans la région d’Agadez du 10 au 12 novembre 2026, le ministre des Mines, le Commissaire colonel-major Abarchi Ousmane, a visité [...]",
+          "publishedAt": "2026-11-14T09:17:40.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
         "id": "tamtaminfo-ne",
         "name": "Tam Tam Info",
         "homepage": "https://www.tamtaminfo.com",
         "lang": "fr-NE"
       },
-      "fetchedAt": "2026-11-14T06:40:12.791Z",
+      "fetchedAt": "2026-11-14T18:29:31.896Z",
       "items": [
         {
           "title": "Goumeri W-8 : le Niger accélère la riposte face à une éruption pétrolière majeure à Agadem…",
@@ -118,15 +135,6 @@
           "publishedAt": "2026-11-11T23:10:00.000Z",
           "titleEn": "Niamey: The Trans-Saharan Route is a future African economic corridor...",
           "summaryEn": "The Nigerian Minister of Equipment and Infrastructure, Colonel-Major Salissou Mahaman Salissou, received the Secretary-General of the Trans-Saharan Road Liaison Committee, accompanied by the Ambassador of the..."
-        },
-        {
-          "title": "L’UE opère un revirement à 180 degrés et réaffirme son respect de la souveraineté de l’Algérie et du Niger sur leur coopération militaire…",
-          "link": "https://tamtaminfo.com/lue-opere-un-revirement-a-180-degres-et-reaffirme-son-respect-de-la-souverainete-de-lalgerie-et-du-niger-sur-leur-cooperation-militaire/",
-          "summary": "Bruxelles assure désormais respecter « pleinement » la souveraineté de l’Algérie et du Niger, après les vives réactions provoquées par ses déclarations sur le déploiement de militaires algériens au Niger. Après la…",
-          "image": "https://tamtaminfo.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-13.30.43.jpeg",
-          "publishedAt": "2026-11-11T08:34:11.000Z",
-          "titleEn": "The EU reverses its position by 180 degrees and reaffirms its respect for the sovereignty of Algeria and Niger over their military cooperation.",
-          "summaryEn": "Brussels now assures full respect for the sovereignty of Algeria and Niger, following the sharp reactions provoked by its statements on the deployment of Algerian troops in Niger. After the..."
         }
       ]
     }
