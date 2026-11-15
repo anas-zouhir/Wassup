@@ -8,7 +8,7 @@
         "homepage": "https://www.gabonreview.com",
         "lang": "fr-GA"
       },
-      "fetchedAt": "2026-11-14T18:29:01.473Z",
+      "fetchedAt": "2026-11-15T06:43:14.662Z",
       "items": [
         {
           "title": "FlyGabon : un décollage interrompu, une sécurité qui fait ses preuves",
@@ -109,7 +109,7 @@
         "homepage": "https://gabonactu.com",
         "lang": "fr-GA"
       },
-      "fetchedAt": "2026-11-14T18:29:06.284Z",
+      "fetchedAt": "2026-11-15T06:43:14.956Z",
       "items": [
         {
           "title": "CECABOOST: CECA-GADIS renforce votre pouvoir d’achat",
@@ -200,8 +200,20 @@
         "homepage": "https://www.union.sonapresse.com",
         "lang": "fr-GA"
       },
-      "fetchedAt": "2026-11-14T18:29:00.939Z",
+      "fetchedAt": "2026-11-15T06:43:14.431Z",
       "items": [
+        {
+          "title": "Santé : place à la 28e mission médicale chinoise !",
+          "link": "https://www.union.sonapresse.com/fr/sante-place-la-28e-mission-medicale-chinoise",
+          "summary": "Santé : place à la 28e mission médicale chinoise ! dim, 11/15/2026 - 00:02",
+          "publishedAt": "2026-11-14T23:02:32.000Z"
+        },
+        {
+          "title": "Africa CDC : Guy Patrick Obiang Ndong nommé représentant en Centrafrique",
+          "link": "https://www.union.sonapresse.com/fr/africa-cdc-guy-patrick-obiang-ndong-nomme-representant-en-centrafrique",
+          "summary": "Africa CDC : Guy Patrick Obiang Ndong nommé représentant en Centrafrique sam, 11/14/2026 - 22:32",
+          "publishedAt": "2026-11-14T21:32:19.000Z"
+        },
         {
           "title": "Éducation : des livres pour plusieurs lycéens du Haut-Ogooué",
           "link": "https://www.union.sonapresse.com/fr/education-des-livres-pour-plusieurs-lyceens-du-haut-ogooue",
@@ -265,22 +277,6 @@
           "publishedAt": "2026-11-14T09:13:50.000Z",
           "titleEn": "Infrastructure: the new Abel-Abanga Bridge completed at 73%",
           "summaryEn": "Infrastructure: the new Abel-Abanga bridge completed at 73% sam, 11/14/2026 - 10:13"
-        },
-        {
-          "title": "COP31 : l'appel du Gabon",
-          "link": "https://www.union.sonapresse.com/fr/cop31-lappel-du-gabon",
-          "summary": "COP31 : l'appel du Gabon sam, 11/14/2026 - 09:04",
-          "publishedAt": "2026-11-14T08:04:26.000Z",
-          "titleEn": "COP31: the call for Gabon",
-          "summaryEn": "COP31: the call from Gabon on Saturday, 11/14/2026 - 09:04"
-        },
-        {
-          "title": "Éliminatoires CAN 2027/Gabon-Lesotho (2-0) : les Panthères ont fait le travail",
-          "link": "https://www.union.sonapresse.com/fr/eliminatoires-can-2027gabon-lesotho-2-0-les-pantheres-ont-fait-le-travail",
-          "summary": "Éliminatoires CAN 2027/Gabon-Lesotho (2-0) : les Panthères ont fait le travail sam, 11/14/2026 - 08:46",
-          "publishedAt": "2026-11-14T07:46:31.000Z",
-          "titleEn": "CAN 2027/Gabon-Lesotho play-offs (2-0): the Panthers have done their job",
-          "summaryEn": "CAN 2027/Gabon-Lesotho draw (2-0): the Panthers have done their job on Saturday, 11/14/2026 - 08:46"
         }
       ]
     }

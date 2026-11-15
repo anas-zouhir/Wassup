@@ -3,112 +3,40 @@
   "outlets": [
     {
       "outlet": {
-        "id": "la-prensa-pa",
-        "name": "La Prensa",
-        "homepage": "https://www.prensa.com",
-        "lang": "es-PA"
-      },
-      "fetchedAt": "2026-11-12T18:42:24.433Z",
-      "items": [
-        {
-          "title": "‘Descubrió que el agua moja’, dijo el ministro Ábrego sobre los graves señalamientos del exjefe del Sistema Penitenciario",
-          "link": "https://www.prensa.com/judiciales/descubrio-que-el-agua-moja-dijo-el-ministro-abrego-sobre-los-graves-senalamientos-del-exjefe-del-sistema-penitenciario/",
-          "image": "https://www.prensa.com/resizer/v2/UOUSB34LLVDLFCZ2RGBYPK2YAQ.JPG?auth=b407d0bebb9037b1507d3a489779b393407f16849e8ea54e3e99e8e69eda9f1d&smart=true&width=5848&height=3899",
-          "publishedAt": "2026-11-12T18:33:22.000Z",
-          "titleEn": "⁇ Discovered that the water is wet ⁇ , said minister Abrego about the serious remarks of the former head of the Penitentiary System"
-        },
-        {
-          "title": "Sabrina Sin Censura: ‘Preocúpese por Panamá’",
-          "link": "https://www.prensa.com/opinion/sabrina-sin-censura-preocupese-por-panama/",
-          "summary": "“Preocúpese por Panamá”. Con esta frase y por segunda vez, el exarquero paraguayo José Luis Chilavert salió a responderle al presidente Mulino. Fueron muchos los que reaccionaron a la injustificada defensa de Mulino a…",
-          "image": "https://www.prensa.com/resizer/v2/MGLC4RAJRZAF5IL7RKCBFVALVQ.jpg?auth=4f871466cf592b0b2366a6eca316909a9edd51b7daf54a4cf3bbd33f1c9564b7&smart=true&width=1920&height=1080",
-          "publishedAt": "2026-11-11T05:00:00.000Z",
-          "titleEn": "Sabrina Uncensored:  ⁇ Fear about Panama ⁇",
-          "summaryEn": "⁇  Worry about Panama ⁇ . With this phrase and for the second time, the ex-Paraguayan José Luis Chilavert went out to answer to President Mulino. There were many who reacted to Mulino's unwarranted defense of..."
-        },
-        {
-          "title": "‘No tiene ni carne en el cuerpo’: el drama de un preso con desnutrición en la cárcel de Colón",
-          "link": "https://www.prensa.com/politica/no-tiene-ni-carne-en-el-cuerpo-el-drama-de-un-preso-con-desnutricion-en-la-carcel-de-colon/",
-          "summary": "Familiares denuncian desnutrición y falta de alimentos en las cárceles de Panamá. Los contratos millonarios de comida y la crisis penitenciaria bajo escrutinio.",
-          "image": "https://www.prensa.com/resizer/v2/QTWPFV42MRBFBGU62ET4KXCPG4.jpeg?auth=eed7ab20487e8cc6c42b63b5b1b57d19887980e25a2ddf015be72b10097176bc&smart=true&width=1032&height=774",
-          "publishedAt": "2026-11-12T05:02:00.000Z",
-          "titleEn": "⁇ He has no flesh in his body ⁇ : the drama of a malnourished prisoner in Columbus' prison",
-          "summaryEn": "Families report malnutrition and lack of food in Panamanian prisons. Millionaire food contracts and the prison crisis under scrutiny."
-        },
-        {
-          "title": "Contraloría realizará dos auditorías por uso de bienes y manejo de fondos en la Alcaldía de Arraiján",
-          "link": "https://www.prensa.com/politica/contraloria-realizara-dos-auditorias-por-uso-de-bienes-y-manejo-de-fondos-en-la-alcaldia-de-arraijan/",
-          "summary": "La propia Alcaldía de Arraiján, a cargo de Stefany Peñalba, la que confirmó este jueves 12 de noviembre que recibió dos notificaciones oficiales de la Contraloría.",
-          "image": "https://www.prensa.com/resizer/v2/N5OCJ7TWYVAVVC5UJFQFWSFGNI.jpeg?auth=9c990925099302bedf33ae0309e0c8046df04d7202b05b6b898044800a55afb7&smart=true&width=1170&height=915",
-          "publishedAt": "2026-11-12T18:16:07.000Z",
-          "titleEn": "Contraloría will carry out two audits for use of assets and management of funds in the Arraijan Mayor's Office",
-          "summaryEn": "The Mayor of Arraiján, in charge of Stefany Peñalba, confirmed Thursday 12 November that received two official notifications from the Contraloría."
-        },
-        {
-          "title": "Próximo destino: Reino Unido, el viaje número 32 del presidente Mulino para reunirse con el rey Carlos III",
-          "link": "https://www.prensa.com/politica/proximo-destino-reino-unido-el-viaje-numero-32-de-presidente-mulino-para-reunirse-con-el-rey-carlos-iii/",
-          "summary": "El presidente panameño tiene prevista una audiencia con el monarca británico el 3 de diciembre. La visita contempla reuniones con empresarios y conversaciones sobre inversión, comercio y cooperación educativa.",
-          "image": "https://www.prensa.com/resizer/v2/PBFGR2GBBFCPXBAQPPVHNLGNE4.jpeg?auth=0cafdd551c6b9827cf4771f9718827b535609a29db7349d15240c6e7a1724c65&smart=true&width=1280&height=853",
-          "publishedAt": "2026-11-12T17:58:04.000Z",
-          "titleEn": "Next destination: United Kingdom, President Mulino's 32nd trip to meet with King Charles III",
-          "summaryEn": "The Panamanian president is scheduled to have a hearing with the British monarch on December 3. The visit includes meetings with entrepreneurs and discussions on investment, trade and educational cooperation."
-        },
-        {
-          "title": "Tom Brady deja el Birmingham City",
-          "link": "https://www.prensa.com/deportes/tom-brady-deja-el-birmingham-city/",
-          "summary": "El exmariscal de campo de la NFL concluyó su etapa como consejero del Birmingham City, club del que es accionista minoritario desde agosto de 2023 y que actualmente ocupa los primeros puestos del Championship.",
-          "image": "https://www.prensa.com/resizer/v2/TZKPGXJJCVBQVPBW5JQX7GO7VE.jpg?auth=70ff64c7a7f9059e5afb9347987e006df114e3467851c6107543a4dfc3e65c9c&smart=true&width=4845&height=3700",
-          "publishedAt": "2026-11-12T17:11:21.000Z",
-          "titleEn": "Tom Brady is leaving Birmingham City",
-          "summaryEn": "The former NFL field marshal concluded his stint as a coach for Birmingham City, a club he has been a minority shareholder of since August 2023 and currently holds the top spot in the Championship."
-        },
-        {
-          "title": "La Roja busca acercarse al Final Four en territorio curazoleño",
-          "link": "https://www.prensa.com/deportes/la-roja-busca-acercarse-al-final-four-en-territorio-curazoleno/",
-          "summary": "La selección panameña enfrenta este jueves a Curazao en Willemstad, en el partido de ida de los cuartos de final de la Liga de Naciones de Concacaf 2026-2027.",
-          "image": "https://www.prensa.com/resizer/v2/CSOSTOCMKVGAXKJ3GM54Z5R7XM.JPG?auth=e1564c31c69e6313b757635ac70cd17acee429eafcf11c205b4acdfab682001c&smart=true&width=6048&height=4032",
-          "publishedAt": "2026-11-12T16:47:15.000Z",
-          "titleEn": "La Roja wants to get closer to the Final Four in Curazoleño territory",
-          "summaryEn": "The Panamanian national team is facing Curacao on Thursday in Willemstad, in the quarter-finals of the Concacaf League of Nations 2026-2027."
-        },
-        {
-          "title": "Jensen Huang renuncia a Nvidia en medio de escándalo por presunto espionaje chino",
-          "link": "https://www.prensa.com/economia/jensen-huang-renuncia-a-nvidia-en-medio-de-escandalo-por-presunto-espionaje-chino/",
-          "summary": "La dimisión de Huang se produce en medio de una crisis reputacional y de seguridad nacional, tras revelaciones sobre presuntas relaciones extramatrimoniales con una empresaria de origen chino que se le vincula al…",
-          "image": "https://www.prensa.com/resizer/v2/YSEPNMUKCRDUHD7LXO5A5YSB4Q.jpg?auth=f20ef98e961babc32647551526a41c86bad489a873a0c2bf0a8526280fecc536&smart=true&width=1920&height=1280",
-          "publishedAt": "2026-11-12T14:24:56.000Z",
-          "titleEn": "Jensen Huang resigns from Nvidia amid scandal over alleged Chinese espionage",
-          "summaryEn": "Huang's resignation comes amid a reputational and national security crisis, following revelations about alleged extramarital affairs with a Chinese-born businesswoman linked to..."
-        },
-        {
-          "title": "Un muerto y al menos cuatro heridos tras tiroteo en Washington donde fallece el sospechoso",
-          "link": "https://www.prensa.com/mundo/un-muerto-y-al-menos-cuatro-heridos-tras-tiroteo-en-washington-donde-fallece-el-sospechoso/",
-          "summary": "La Policía informó que una de las víctimas falleció en la escena del hecho, iniciado en el gimnasio Vida Fitness.",
-          "image": "https://www.prensa.com/resizer/v2/7HTEV5GGPJEYDDPJQP67XO4M3Q.jpg?auth=da506426d75dd5d2af4ad1d89bad753cc3cea6e91db6f1a9166f5afe12b8698a&smart=true&width=1920&height=1280",
-          "publishedAt": "2026-11-12T16:48:10.000Z",
-          "titleEn": "One dead and at least four wounded after a shooting in Washington where the suspect dies.",
-          "summaryEn": "Police reported that one of the victims died at the scene of the incident, initiated at the Vida Fitness gym."
-        },
-        {
-          "title": "Red de tráfico ilegal de migrantes cobraba $1,500 a cubanos y ecuatorianos",
-          "link": "https://www.prensa.com/judiciales/red-de-trafico-ilegal-de-migrantes-cobraba-1500-a-cubanos-y-ecuatorianos/",
-          "summary": "La investigación se inició desde julio pasado, cuando las autoridades tuvieron conocimiento de un grupo de personas que trasladaban migrantes ecuatorianos y cubanos que llegaban por la selva del Darién.",
-          "image": "https://www.prensa.com/resizer/v2/5F5Y4RWLUZH4FEXNLCVQ55TXWE.jpeg?auth=91e47b626f5c2f3c9a445e46e6355a1952d5704d370bcc37bb8b15a580b2e386&smart=true&width=1280&height=960",
-          "publishedAt": "2026-11-12T17:00:45.000Z",
-          "titleEn": "Illegal migrant trafficking network charged $1,500 to Cubans and Ecuadorans",
-          "summaryEn": "The investigation began last July, when authorities learned of a group of people who were moving Ecuadorian and Cuban migrants arriving through the Darién jungle."
-        }
-      ]
-    },
-    {
-      "outlet": {
         "id": "tvn-pa",
         "name": "TVN Noticias",
         "homepage": "https://www.tvn-2.com",
         "lang": "es-PA"
       },
-      "fetchedAt": "2026-11-14T18:29:35.312Z",
+      "fetchedAt": "2026-11-15T06:43:41.564Z",
       "items": [
+        {
+          "title": "Rolando Rodríguez regresa a su casa tras atentado: 'Esto pudo haber causado un daño mayor'",
+          "link": "https://www.tvn-2.com/nacionales/rolando-rodriguez-regresa-casa-atentado-investigacion_1_2271118.html",
+          "summary": "En declaraciones a los medios de comunicación, antes de ingresar a su vivienda, donde las autoridades mantienen las investigaciones, Rodríguez reconoció que siente impotencia por lo ocurrido, debido a que el incidente…",
+          "image": "https://static.tvn-2.com/clip/4c6e622d-1a3f-4204-8d63-6a1a6bdbfeab_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-11-14T23:12:00.000Z"
+        },
+        {
+          "title": "TVN Media condena atentado contra periodista Rolando Rodríguez",
+          "link": "https://www.tvn-2.com/nacionales/tvn-media-condena-atentado-periodista-rolando-rodriguez_1_2271098.html",
+          "summary": "TVN Media se mantendrá vigilante del curso de las investigaciones; reitera su apoyo y su compromiso con la libertad de expresión y con el libre ejercicio del periodismo en nuestro país.",
+          "image": "https://static.tvn-2.com/clip/3d875edb-4c0f-4f99-9d1f-735f0e0dfa1a_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-11-14T20:09:37.000Z"
+        },
+        {
+          "title": "Rolando Rodríguez sobre atentado: 'Esto cambia las reglas del juego en Panamá'",
+          "link": "https://www.tvn-2.com/nacionales/rolando-rodriguez-directivos-pronuncian-diario-la-prensa-atentado_1_2271074.html",
+          "image": "https://static.tvn-2.com/clip/05f6a70e-af04-472a-8bd3-f2a11ac866c3_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-11-14T17:48:21.000Z"
+        },
+        {
+          "title": "Rubén Blades condena atentado contra Rolando Rodríguez y pide respaldo al periodista",
+          "link": "https://www.tvn-2.com/nacionales/ruben-blades-condena-atentado-rolando-rodriguez-periodista-diario-la-prensa_1_2271143.html",
+          "summary": "En su mensaje, el cantautor cuestionó la situación de seguridad en el país y advirtió que lo ocurrido no debe preocupar únicamente al gremio periodístico, sino a toda la sociedad panameña.",
+          "image": "https://static.tvn-2.com/clip/b8b21494-6327-4c80-b145-362311a94113_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-11-15T01:37:37.000Z"
+        },
         {
           "title": "Ministerio Público investiga por incendiarismo el atentado en vivienda de Rolando Rodríguez",
           "link": "https://www.tvn-2.com/nacionales/ministerio-publico-investiga-incendiarismo-atentado-residencia-rolando-rodriguez-diario-la-prensa_1_2271067.html",
@@ -128,6 +56,20 @@
           "summaryEn": "The president's statement comes after the newspaper reported an incident recorded at about 2:30 a.m. at Rodriguez's home in Brisas del Golf."
         },
         {
+          "title": "Asamblea Nacional repudia atentado contra el periodista Rolando Rodríguez",
+          "link": "https://www.tvn-2.com/nacionales/asamblea-nacional-repudia-atentado-periodista-shirley-castanedas_1_2271089.html",
+          "summary": "La presidenta del Legislativo señaló que este ataque constituye un acto criminal que atenta contra la libertad de prensa y el derecho de la ciudadanía a mantenerse informada.",
+          "image": "https://static.tvn-2.com/clip/140ce090-88c2-444a-8564-4ca071cb6352_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-11-14T18:59:09.000Z"
+        },
+        {
+          "title": "Arzobispo de Panamá expresa su rechazo a la violencia contra periodistas",
+          "link": "https://www.tvn-2.com/nacionales/arzobispo-panama-expresa-rechazo-violencia-rolando-rodriguez_1_2271087.html",
+          "summary": "José Domingo Ulloa pidió que se esclarezcan los hechos denunciados contra el periodista de La Prensa y se garantice su seguridad y la de los demás comunicadores del país.",
+          "image": "https://static.tvn-2.com/clip/30f45a8f-fcb7-4d01-bfa1-0d47a79eeca0_16-9-aspect-ratio_default_0.webp",
+          "publishedAt": "2026-11-14T19:02:57.000Z"
+        },
+        {
           "title": "Gremios periodísticos y organismos condenan atentado en residencia de Rolando Rodríguez y piden investigar",
           "link": "https://www.tvn-2.com/nacionales/organismos-internacionales-condenan-atentado-casa-rolando-rodriguez-diario-la-prensa_1_2271064.html",
           "summary": "La SIP condenó enérgicamente lo ocurrido y calificó el hecho como un \"brutal atentado\" contra la vivienda de Rodríguez.",
@@ -144,60 +86,6 @@
           "publishedAt": "2026-11-14T14:24:34.000Z",
           "titleEn": "La Prensa denounces 'attack' against the home of Rolando Rodríguez, his associate deputy director",
           "summaryEn": "According to the newspaper La Prensa, the fire struck two vehicles parked in the property's garage."
-        },
-        {
-          "title": "Vuelos se reanudan en EEUU tras falla de comunicaciones pero persisten las demoras",
-          "link": "https://www.tvn-2.com/mundo/norteamerica/secretario-estados-unidos-transporte-advierte-cancelaciones-vuelos_1_2271063.html",
-          "summary": "La paralización del viernes provocó un caos generalizado y fue la segunda de este tipo en el espacio aéreo estadounidense, uno de los más transitados del mundo, desde los ataques del 11 de septiembre de 2001.",
-          "image": "https://static.tvn-2.com/clip/f94ea1f4-e9b9-4f32-af29-c9ace888ea6a_16-9-aspect-ratio_default_0.webp",
-          "publishedAt": "2026-11-14T14:47:16.000Z",
-          "titleEn": "Flights resume in the US after communications failures but delays persist",
-          "summaryEn": "Friday's shutdown caused widespread chaos and was the second of its kind in U.S. airspace, one of the busiest in the world, since the attacks of September 11, 2001."
-        },
-        {
-          "title": "MiBus movilizó más de 12.7 millones de pasajeros en octubre y propone carriles exclusivos a raíz del sismo",
-          "link": "https://www.tvn-2.com/nacionales/mibus-movilizo-12-7-millones-pasajeros-transporte-pide-carriles-exclusivos-tras-el-sismo_1_2271046.html",
-          "summary": "MiBus reconoció las dificultades que enfrentaron miles de usuarios para regresar a sus hogares durante la emergencia, debido al colapso de las vías, que también impidió que los autobuses pudieran llegar a algunos…",
-          "image": "https://static.tvn-2.com/clip/70ef6692-4019-4e47-8096-df449b30fe2d_16-9-aspect-ratio_default_0.webp",
-          "publishedAt": "2026-11-14T12:45:13.000Z",
-          "titleEn": "MiBus mobilised more than 12.7 million passengers in October and proposes exclusive lanes in the wake of the earthquake",
-          "summaryEn": "MiBus acknowledged the difficulties faced by thousands of users to return to their homes during the emergency, due to the collapse of the roads, which also prevented the buses from reaching some..."
-        },
-        {
-          "title": "Clima en Panamá: Advierten sobre aguaceros, tormentas y posibles ráfagas de viento este sábado",
-          "link": "https://www.tvn-2.com/nacionales/clima-panama-advierten-aguaceros-tormentas-viento-pronostico-tiempo_1_2271041.html",
-          "summary": "En las áreas de tormentas eléctricas puede haber, además de actividad eléctrica, vientos locales fuertes en ráfagas.",
-          "image": "https://static.tvn-2.com/clip/c95d4471-bec0-4678-81ec-4bc0f40f6f62_16-9-aspect-ratio_default_0.webp",
-          "publishedAt": "2026-11-14T11:33:10.000Z",
-          "titleEn": "Climate in Panama: Warning of showers, storms and possible wind gusts this Saturday",
-          "summaryEn": "In areas with thunderstorms, there may be, in addition to electrical activity, strong local winds in bursts."
-        },
-        {
-          "title": "EN VIVO Sudáfrica vs Panamá Mundial U23 de Béisbol",
-          "link": "https://www.tvn-2.com/tvmax/beisbol/sudafrica-vs-panama-mundial-u23-de-beisbol-wbsc-managua-nicaragua-resultado-en-vivo_7_2271073.html",
-          "summary": "Panamá busca recuperarse ante Sudáfrica en el Mundial U23 de Béisbol.",
-          "image": "https://static.tvn-2.com/clip/53ef5128-bfbc-426a-9635-a5980a63bb28_16-9-aspect-ratio_default_0.webp",
-          "publishedAt": "2026-11-14T17:23:18.000Z",
-          "titleEn": "South Africa vs Panama World U23 Baseball",
-          "summaryEn": "Panama is looking to recover against South Africa in the U23 Baseball World Cup."
-        },
-        {
-          "title": "Más de 53 mil personas con diabetes atendió la CSS en 2025",
-          "link": "https://www.tvn-2.com/nacionales/53-mil-personas-diabetes-atendio_1_2271051.html",
-          "summary": "La enfermedad mantiene una mayor prevalencia entre las mujeres. La institución advierte sobre la influencia de los hábitos alimenticios, el sedentarismo y los antecedentes familiares.",
-          "image": "https://static.tvn-2.com/clip/79fdeae6-d6d1-4630-8544-a451c42c083f_16-9-aspect-ratio_default_0.webp",
-          "publishedAt": "2026-11-14T14:05:43.000Z",
-          "titleEn": "More than 53,000 people with diabetes attended CSS in 2025",
-          "summaryEn": "The disease maintains a higher prevalence among women. The institution warns against the influence of eating habits, sedentary behavior and family background."
-        },
-        {
-          "title": "Ariana Grande vuelve a dejarse ver con Ricky Álvarez, el latino que conquistó su corazón",
-          "link": "https://www.tvn-2.com/entretenimiento/musica/ariana-grande-reaparece-ricky-alvarez-fotografo-mexicano-retomo-romance_1_2270907.html",
-          "summary": "La presencia de ambos ante los fotógrafos confirmó públicamente la continuidad del romance retomado este año.",
-          "image": "https://static.tvn-2.com/clip/7aad114c-4574-4bbb-bdfa-b56c7daf916f_16-9-aspect-ratio_default_0.webp",
-          "publishedAt": "2026-11-14T13:40:34.000Z",
-          "titleEn": "Ariana Grande is getting back together with Ricky Alvarez, the Latino who won her heart.",
-          "summaryEn": "The presence of both before the photographers publicly confirmed the continuity of the romance resumed this year."
         }
       ]
     },
@@ -208,97 +96,77 @@
         "homepage": "https://www.telemetro.com",
         "lang": "es-PA"
       },
-      "fetchedAt": "2026-11-14T18:29:34.448Z",
+      "fetchedAt": "2026-11-15T06:43:41.831Z",
       "items": [
         {
-          "title": "Servidores públicos recibirán el último pago del décimo tercer mes el 4 de diciembre",
-          "link": "https://www.telemetro.com/nacionales/servidores-publicos-recibiran-el-ultimo-pago-del-decimo-tercer-mes-el-4-diciembre-n6098525",
-          "summary": "Más de 200,000 servidores públicos recibirán la última partida del décimo tercer mes el 4 de diciembre. Conozca también las fechas de pago de quincenas.",
-          "image": "https://media.telemetro.com/p/e782c3a693594577596a589b15a37f88/adjuntos/311/imagenes/019/130/0019130456/1200x675/smart/mujer-cajero-automatico-ia.jpg",
-          "publishedAt": "2026-11-14T19:40:45.000Z",
-          "titleEn": "Public servants will receive their last payment for the thirteenth month on December 4",
-          "summaryEn": "More than 200,000 public servers will receive the last installment of the thirteenth month on December 4. Also know the dates of payment of fifteen."
+          "title": "Chitré busca reactivar su economía tras el terremoto",
+          "link": "https://www.telemetro.com/nacionales/chitre-busca-reactivar-su-economia-el-terremoto-n6098555",
+          "summary": "En Chitré, provincia de Herrera, se desarrolló este sábado 14 de noviembre un desfile cívico, una iniciativa de las autoridades locales para reactivar la economía tras el terremoto.",
+          "image": "https://media.telemetro.com/adjuntos/311/videos/019/159/0019159455.jpg",
+          "publishedAt": "2026-11-15T02:15:08.000Z"
         },
         {
-          "title": "Jubilados y pensionados cobran este martes 17 de noviembre: conozca a quiénes les corresponde",
-          "link": "https://www.telemetro.com/nacionales/jubilados-y-pensionados-cobran-este-martes-17-noviembre-conozca-quienes-les-corresponde-n6098524",
-          "summary": "La Caja de Seguro Social confirmó las fechas del segundo pago de noviembre de 2026 para jubilados y pensionados que cobran por ACH y cheque.",
-          "image": "https://media.telemetro.com/p/5332f15054f4bb81bd4955be5d53d489/adjuntos/311/imagenes/018/806/0018806860/1200x675/smart/jubilados-y-pensionados-achjpg.jpg",
-          "publishedAt": "2026-11-14T18:58:00.000Z",
-          "titleEn": "Retired and pensioners charge this Tuesday 17 November: know who they correspond to",
-          "summaryEn": "The Social Security Fund confirmed the dates of the second payment of November 2026 for pensioners and pensioners who charge for ACH and cheque."
+          "title": "Ministros se reúnen con alcaldes de provincias centrales para agilizar ayuda tras el terremoto",
+          "link": "https://www.telemetro.com/nacionales/ministros-se-reunen-alcaldes-provincias-centrales-agilizar-ayuda-el-terremoto-n6098557",
+          "summary": "Ministros se reunieron con alcaldes de provincias centrales para buscar mecanismos que permitan agilizar la ayuda tras el terremoto del 9 de octubre. La recuperación de los edificios de gobiernos locales y negocios…",
+          "image": "https://media.telemetro.com/adjuntos/311/videos/019/159/0019159474.jpg",
+          "publishedAt": "2026-11-15T02:05:36.000Z"
         },
         {
-          "title": "Ministerio Público investiga por incendiarismo ataque contra periodista Rolando Rodríguez",
-          "link": "https://www.telemetro.com/nacionales/ministerio-publico-investiga-incendiarismo-ataque-contra-periodista-rolando-rodriguez-n6098526",
-          "summary": "El Ministerio Público San Miguelito inició una investigación por incendiarismo tras el ataque contra la residencia del periodista Rolando Rodríguez.",
-          "image": "https://media.telemetro.com/p/f5c72d6442f567728bb7d6c8b92bf62e/adjuntos/311/imagenes/019/159/0019159368/1200x675/smart/la-prensa-atentado-periodista.jpg",
-          "publishedAt": "2026-11-14T18:30:00.000Z",
-          "titleEn": "Public prosecutor's office is investigating an incendiary attack on journalist Rolando Rodríguez",
-          "summaryEn": "The San Miguelito Public Ministry has launched an investigation into incidents of arson following the attack on the residence of journalist Rolando Rodríguez."
+          "title": "Atletas buscan representar a Panamá en los Juegos Mundiales de Verano 2027",
+          "link": "https://www.telemetro.com/nacionales/atletas-buscan-representar-panama-los-juegos-mundiales-verano-2027-n6098554",
+          "summary": "El sueño de representar a Panamá en los Juegos Mundiales de Verano que se celebrarán en Chile 2027 comienza a tomar forma. Unos 120 atletas participan en los juegos clasificatorios de Olimpiadas Especiales con el…",
+          "image": "https://media.telemetro.com/adjuntos/311/videos/019/159/0019159438.jpg",
+          "publishedAt": "2026-11-15T02:05:19.000Z"
         },
         {
-          "title": "Panamá vs. Curazao: hora, dónde ver en vivo este domingo y qué necesita la Selección para clasificar",
-          "link": "https://www.telemetro.com/deportes/panama-vs-curazao-hora-donde-ver-vivo-este-domingo-y-que-necesita-la-seleccion-clasificar-n6098522",
-          "summary": "Panamá recibe a Curazao este domingo 15 de noviembre en el Rommel Fernández. Conoce el horario y dónde ver el partido.",
-          "image": "https://media.telemetro.com/p/40d7f0cca7b663e55027f39a79bfbe8d/adjuntos/311/imagenes/019/159/0019159367/1200x675/smart/seleccion-panama-vs-curazao.jpeg",
-          "publishedAt": "2026-11-14T17:43:38.000Z",
-          "titleEn": "Panama vs. Curaçao: time, where to watch live this Sunday and what the Selection needs to rank",
-          "summaryEn": "Panama is hosting Curacao this Sunday, November 15th at the Rommel Fernandez. He knows the time and where to watch the game."
+          "title": "\"Ha querido ser juez y verdugo\", periodista Rolando Rodríguez tras atentado contra su residencia",
+          "link": "https://www.telemetro.com/nacionales/ha-querido-ser-juez-y-verdugo-periodista-rolando-rodriguez-atentado-contra-su-residencia-n6098558",
+          "summary": "El periodista Rolando Rodríguez, subdirector asociado del diario La Prensa, advirtió que se ha cruzado \"una línea bastante gruesa\", tras el atentado a su residencia la madrugada de este sábado 14 de noviembre, y afirmó…",
+          "image": "https://media.telemetro.com/adjuntos/311/videos/019/159/0019159491.jpg",
+          "publishedAt": "2026-11-15T01:33:57.000Z"
         },
         {
-          "title": "CEPANIM 2026: ¿Dónde deberán asistir los cónyuges de beneficiarios fallecidos este lunes?",
-          "link": "https://www.telemetro.com/nacionales/cepanim-2026-donde-deberan-asistir-los-conyuges-beneficiarios-fallecidos-este-lunes-n6098521",
-          "summary": "El MEF informó que aproximadamente 38,500 cónyuges ya se encuentran registrados en la plataforma del Cepanim.",
-          "image": "https://media.telemetro.com/p/a61a6d169f065b4494957320de0db323/adjuntos/311/imagenes/019/073/0019073392/1200x675/smart/cepanim.jpg",
-          "publishedAt": "2026-11-14T17:25:00.000Z",
-          "titleEn": "CEPANIM 2026: Where should spouses of deceased beneficiaries attend on Monday?",
-          "summaryEn": "The MEF reported that approximately 38,500 spouses are already registered on the Cepanim platform."
+          "title": "Sorteo de la Lotería Fiscal será este martes 17 de noviembre: ¿dónde será y cómo verlo en vivo?",
+          "link": "https://www.telemetro.com/nacionales/sorteo-la-loteria-fiscal-sera-este-martes-17-noviembre-donde-sera-y-como-verlo-vivo-n6098560",
+          "summary": "La Lotería Fiscal Regional realizará cuatro sorteos en noviembre de 2026, con 25 premios por región y una bolsa de B/.110,000 en cada jornada.",
+          "image": "https://media.telemetro.com/p/916813e8699eb208603490fb1d99a480/adjuntos/311/imagenes/019/064/0019064064/1200x675/smart/loteria-fiscal-1.jpg",
+          "publishedAt": "2026-11-15T01:24:00.000Z"
         },
         {
-          "title": "Presidente Mulino rechaza ataque contra residencia del periodista Rolando Rodríguez y confirma investigación",
-          "link": "https://www.telemetro.com/nacionales/presidente-mulino-rechaza-ataque-contra-residencia-del-periodista-rolando-rodriguez-y-confirma-investigacion-n6098518",
-          "summary": "El presidente Mulino condenó el ataque contra Rolando Rodríguez, de La Prensa, y confirmó que la Policía Nacional y el Ministerio Público investigan el hecho.",
-          "image": "https://media.telemetro.com/p/69e2be67140cace6d5a0bbbdd2d56ae8/adjuntos/311/imagenes/019/140/0019140394/1200x675/smart/mulino.jpg",
-          "publishedAt": "2026-11-14T17:02:00.000Z",
-          "titleEn": "President Mulino rejects attack on residence of journalist Rolando Rodríguez and confirms investigation",
-          "summaryEn": "President Mulino condemned the attack on Rolando Rodríguez, of La Prensa, and confirmed that the National Police and the Public Ministry are investigating the fact."
+          "title": "Minsa suspende atención en el Centro de Salud de Veracruz por mantenimiento eléctrico",
+          "link": "https://www.telemetro.com/nacionales/minsa-suspende-atencion-el-centro-salud-veracruz-mantenimiento-electrico-n6098559",
+          "summary": "El Minsa anunció la suspensión temporal de la atención en el Centro de Salud de Veracruz este sábado 14 de noviembre. Los servicios volverán el domingo 15.",
+          "image": "https://media.telemetro.com/p/a5baed7eab304bc0a05c5591aec9975e/adjuntos/311/imagenes/019/068/0019068903/1200x675/smart/implantes-subdermicos-minsa.jpeg",
+          "publishedAt": "2026-11-15T01:11:20.000Z"
         },
         {
-          "title": "Copa Airlines anuncia cambios de vuelos y reembolsos por fallas aéreas en Estados Unidos",
-          "link": "https://www.telemetro.com/nacionales/copa-airlines-anuncia-cambios-vuelos-y-reembolsos-fallas-aereas-estados-unidos-n6098516",
-          "summary": "Copa Airlines anunció flexibilidad para cambiar vuelos hacia y desde Estados Unidos, sin cargos adicionales, debido a fallas en las comunicaciones aéreas.",
-          "image": "https://media.telemetro.com/p/b2df6794282a643b44c93f83f27d0815/adjuntos/311/imagenes/018/975/0018975967/1200x675/smart/copa-avion.jpg",
-          "publishedAt": "2026-11-14T16:55:00.000Z",
-          "titleEn": "Copa Airlines announces flight changes and refunds for airline failures in the United States",
-          "summaryEn": "Copa Airlines announced flexibility to switch flights to and from the United States, without additional charges, due to flaws in air communications."
+          "title": "MIDES inicia el cuarto y último pago de 2026 este lunes 16 de noviembre a beneficiarios por ACH",
+          "link": "https://www.telemetro.com/nacionales/mides-inicia-el-cuarto-y-ultimo-pago-2026-este-lunes-16-noviembre-beneficiarios-ach-n6098547",
+          "summary": "El MIDES realizará el último pago de 2026 a los beneficiarios de 120 a los 65, Red de Oportunidades, Ángel Guardián y SENAPAN.",
+          "image": "https://media.telemetro.com/p/07e6b02409fe85b5c24febd78f9d8604/adjuntos/311/imagenes/018/874/0018874641/1200x675/smart/mides-pagos-achjpg.jpg",
+          "publishedAt": "2026-11-15T00:46:00.000Z"
         },
         {
-          "title": "Ataque contra vivienda del subdirector de La Prensa provoca incendio y explosiones de vehículos",
-          "link": "https://www.telemetro.com/nacionales/ataque-contra-vivienda-del-subdirector-la-prensa-provoca-incendio-y-explosiones-vehiculos-n6098514",
-          "summary": "La Prensa reportó un ataque contra la residencia de su subdirector, Rolando Rodríguez, en Brisas del Golf. Una explosión incendió dos vehículos.",
-          "image": "https://media.telemetro.com/p/6121e5a5d0ba7503cd1ae4f543fb63ac/adjuntos/311/imagenes/019/159/0019159362/1200x675/smart/atentado-laprensa.jpg",
-          "publishedAt": "2026-11-14T16:42:00.000Z",
-          "titleEn": "Attack on the home of the deputy director of La Prensa causes fire and vehicle explosions",
-          "summaryEn": "The press reported an attack on the residence of its deputy director, Rolando Rodríguez, in Brisas del Golf. An explosion set fire to two vehicles."
+          "title": "Pirámide de Chakatín para el sorteo Dominical del 15 de noviembre de 2026",
+          "link": "https://www.telemetro.com/entretenimiento/piramide-chakatin-el-sorteo-dominical-del-15-noviembre-2026-n6098552",
+          "summary": "Conoce los números de la Pirámide de Chakatín correspondiente al sorteo Dominical del 15 de noviembre de 2026.",
+          "image": "https://media.telemetro.com/p/95476232abe5867a745ef95945410dc6/adjuntos/311/imagenes/017/667/0017667174/1200x675/smart/dominical2-1png.png",
+          "publishedAt": "2026-11-15T00:27:00.000Z"
         },
         {
-          "title": "Emprendimiento panameño confecciona lámparas con plástico recliclado",
-          "link": "https://www.telemetro.com/nacionales/emprendimiento-panameno-confecciona-lamparas-plastico-recliclado-n6098495",
-          "summary": "De desecho plástico a lámparas de diseño. Un emprendimiento panameño combina creatividad, sostenibilidad y apuesta por la economía circular.",
-          "image": "https://media.telemetro.com/adjuntos/311/videos/019/159/0019159308.jpg",
-          "publishedAt": "2026-11-14T03:42:00.000Z",
-          "titleEn": "Panamanian enterprise makes lamps with reclaimed plastic",
-          "summaryEn": "From plastic waste to design lamps. Panamanian entrepreneurship combines creativity, sustainability and commitment to the circular economy."
+          "title": "Agroferias del IMA: lugares y horarios para el lunes 16 y martes 17 de noviembre",
+          "link": "https://www.telemetro.com/nacionales/agroferias-del-ima-lugares-y-horarios-el-lunes-16-y-martes-17-noviembre-n6098556",
+          "summary": "El IMA anunció 12 agroferias para el 16 y 17 de noviembre de 2026 en distintas provincias y comarcas del país. Conozca los lugares y horarios.",
+          "image": "https://media.telemetro.com/p/3f9d49446edb5ad5b578ff5a89cf4a15/adjuntos/311/imagenes/018/807/0018807494/1200x675/smart/agroferias-ima-1jpg.jpg",
+          "publishedAt": "2026-11-15T00:14:00.000Z"
         },
         {
-          "title": "Rinden homenaje a la generación de 1964 del Instituto Nacional",
-          "link": "https://www.telemetro.com/nacionales/rinden-homenaje-la-generacion-1964-del-instituto-nacional-n6098493",
-          "summary": "En Ciudad del Saber se rindió homenaje a la generación del Instituto Nacional de 1964, protagonista de la lucha por la soberanía nacional.",
-          "image": "https://media.telemetro.com/adjuntos/311/videos/019/159/0019159290.jpg",
-          "publishedAt": "2026-11-14T03:32:12.000Z",
-          "titleEn": "Pay tribute to the 1964 generation of the National Institute",
-          "summaryEn": "In Ciudad del Saber, a tribute was paid to the generation of the National Institute of 1964, protagonist of the struggle for national sovereignty."
+          "title": "IFARHU: centros de entrega de la tarjeta PUNCH este lunes 16 de noviembre",
+          "link": "https://www.telemetro.com/nacionales/ifarhu-centros-entrega-la-tarjeta-punch-este-lunes-16-noviembre-n6098553",
+          "summary": "El IFARHU entregará 7,186 tarjetas PUNCH del PASE-U del 16 al 20 de noviembre en Darién y la comarca Emberá-Wounaan.",
+          "image": "https://media.telemetro.com/p/b9c73ac9226d0b9905ec03cd5a030ac4/adjuntos/311/imagenes/019/089/0019089315/1200x675/smart/nueva-tarjeta-del-pase-u-conozca-que-podra-comprar-y-que-no-podra-hacer-el-dinero.png",
+          "publishedAt": "2026-11-15T00:07:50.000Z"
         }
       ]
     }

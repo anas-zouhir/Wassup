@@ -8,8 +8,15 @@
         "homepage": "https://www.srf.ch/news",
         "lang": "de-CH"
       },
-      "fetchedAt": "2026-11-14T18:28:45.509Z",
+      "fetchedAt": "2026-11-15T06:42:58.623Z",
       "items": [
+        {
+          "title": "Über ein Drittel hört auf – Viele Lehrabbrüche: Gastro nimmt sich selbst in die Pflicht",
+          "link": "https://www.srf.ch/news/schweiz/ueber-ein-drittel-hoert-auf-viele-lehrabbrueche-gastro-nimmt-sich-selbst-in-die-pflicht",
+          "summary": "Knapp 40 Prozent der Gastro-Lernenden schmeissen ihre Lehre. Nun sollen auch die Betriebe Unterstützung erhalten.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/8e0517.webp",
+          "publishedAt": "2026-11-15T06:28:19.000Z"
+        },
         {
           "title": "Dreiergipfel in China – Schliessen Trump, Putin und Xi einen neuen Abrüstungsvertrag?",
           "link": "https://www.srf.ch/news/international/dreiergipfel-in-china-schliessen-trump-putin-und-xi-einen-neuen-abruestungsvertrag",
@@ -18,6 +25,34 @@
           "publishedAt": "2026-11-14T16:04:02.000Z",
           "titleEn": "Three summits in China  ⁇  Will Trump, Putin and Xi conclude a new disarmament treaty?",
           "summaryEn": "Diplomatic correspondent Fredy Gsteiger points out the chances of success of such an exchange."
+        },
+        {
+          "title": "Pionierprojekt – Alte Matratzen, neue Chancen – Aargauer Projekt macht Schule",
+          "link": "https://www.srf.ch/news/schweiz/pionierprojekt-alte-matratzen-neue-chancen-aargauer-projekt-macht-schule",
+          "summary": "Pro Jahr werden in der Schweiz rund eine Million Matratzen entsorgt. Wie viel Potenzial steckt im Matratzen-Recycling?",
+          "image": "https://www.srf.ch/static/cms/images//320ws/2161cf.webp",
+          "publishedAt": "2026-11-14T20:15:00.000Z"
+        },
+        {
+          "title": "Bilder der Woche – Weihnachtsmänner in Ausbildung und weitere Bildhighlights",
+          "link": "https://www.srf.ch/news/gesellschaft/bilder-der-woche-weihnachtsmaenner-in-ausbildung-und-weitere-bildhighlights",
+          "summary": "Zwischen Gänsemarsch, hohen Menschentürmen und kleinen Patienten: Das sind die Bilder der Woche.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/e804e6.webp",
+          "publishedAt": "2026-11-15T06:00:09.000Z"
+        },
+        {
+          "title": "US-Raumfahrtunternehmen SpaceX – SpaceX fängt Starship-Rakete erstmals mit Greifarmen auf",
+          "link": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-spacex-faengt-starship-rakete-erstmals-mit-greifarmen-auf",
+          "summary": "Erstmals fing SpaceX die obere Raketenstufe des Raketensystems Starship nach einem Flug ins All am Startturm auf.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/d63e83.webp",
+          "publishedAt": "2026-11-15T02:44:33.000Z"
+        },
+        {
+          "title": "Staatsgewalt in Pakistan – Zehn Jahre Gefängnis für Menschenrechtsanwältin",
+          "link": "https://www.srf.ch/news/international/staatsgewalt-in-pakistan-zehn-jahre-gefaengnis-fuer-menschenrechtsanwaeltin",
+          "summary": "Die Anwältin Imaan Mazari-Hazir ist in ihrer Heimat Pakistan bekannt für ihren Mut. Nun sitzt sie aber hinter Gittern.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/ee540e7.webp",
+          "publishedAt": "2026-11-14T19:17:28.000Z"
         },
         {
           "title": "Europapolitik – Abstimmung zum EU-Vertragspaket kommt wohl frühestens 2028",
@@ -47,58 +82,11 @@
           "summaryEn": "In Switzerland, about half a million people live with diabetes. The research is hopeful of improvement."
         },
         {
-          "title": "Modeschau im Bergdorf – Guarda und Moncler: Ein Luxus-Event stört die Idylle",
-          "link": "https://www.srf.ch/news/dialog/modeschau-im-bergdorf-guarda-und-moncler-ein-luxus-event-stoert-die-idylle",
-          "summary": "Moncler plant eine Modeschau in Guarda. Für die einen überwiegt der Nutzen, andere fürchten um den Erhalt der Tradition.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/1a55841.webp",
-          "publishedAt": "2026-11-14T16:09:25.000Z",
-          "titleEn": "Fashion show in the mountain village  ⁇  Guarda and Moncler: a luxury event disturbs the idyll",
-          "summaryEn": "Moncler is planning a fashion show in Guarda. For some, the benefits outweigh others, and others fear for the preservation of tradition."
-        },
-        {
-          "title": "Krieg in der Ukraine – Die Frau, die sich in der Ukraine um die Toten kümmert",
-          "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-die-frau-die-sich-in-der-ukraine-um-die-toten-kuemmert",
-          "summary": "Eine ukrainische Bestatterin erzählt, wie sie in Kriegszeiten arbeitet und welchen letzten Dienst sie den Toten erweist.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/fe8da46.webp",
-          "publishedAt": "2026-11-14T17:41:30.000Z",
-          "titleEn": "War in Ukraine  ⁇  The woman who takes care of the dead in Ukraine",
-          "summaryEn": "A Ukrainian undertaker tells us how she works in wartime and what last service she renders to the dead."
-        },
-        {
-          "title": "Kantonsbudget 2027 – Tausende Menschen demonstrieren in Genf gegen Sparmassnahmen",
-          "link": "https://www.srf.ch/news/schweiz/kantonsbudget-2027-tausende-menschen-demonstrieren-in-genf-gegen-sparmassnahmen",
-          "summary": "Hintergrund ist der Entwurf für das Kantonsbudget. Dieser sieht Sparmassnahmen von über 240 Millionen Franken vor.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/52560c.webp",
-          "publishedAt": "2026-11-14T16:57:57.000Z",
-          "titleEn": "Canton Budget 2027  ⁇  Thousands of people demonstrate in Geneva against austerity measures",
-          "summaryEn": "The background is the draft budget of the canton. This includes savings of over 240 million francs."
-        },
-        {
-          "title": "Landesweites Startverbot – Flugchaos in den USA: Was hinter dem seltenen Groundstop steckt",
-          "link": "https://www.srf.ch/news/international/landesweites-startverbot-flugchaos-in-den-usa-was-hinter-dem-seltenen-groundstop-steckt",
-          "summary": "Warum eine Technikpanne den US-Flugverkehr lahmlegte: Die Einordnung von SRF-Korrespondentin Barbara Colpi.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/ed807f.webp",
-          "publishedAt": "2026-11-14T08:35:59.000Z",
-          "titleEn": "Countrywide flight ban  ⁇  US airline chaos: What's behind the rare ground stop",
-          "summaryEn": "Why a technical failure crippled U.S. air traffic: The placement of SRF correspondent Barbara Colpi."
-        },
-        {
-          "title": "Katar geht fremd – In Nahost entstehen gerade neue Verteidigungsbündnisse",
-          "link": "https://www.srf.ch/news/international/katar-geht-fremd-in-nahost-entstehen-gerade-neue-verteidigungsbuendnisse",
-          "summary": "Die Golfstaaten haben verstanden: Im Ernstfall entscheiden die USA für die USA. Sie suchen darum weitere Schutzpartner.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/dcfbf9.webp",
-          "publishedAt": "2026-11-14T12:00:43.000Z",
-          "titleEn": "Qatar is moving away  ⁇  New defence alliances are emerging in the Middle East",
-          "summaryEn": "The Gulf states have understood that in a serious case, the United States will choose the United States. So they're looking for more protective partners."
-        },
-        {
-          "title": "Produziert im Herkunftsland – Kriegt die Schweizer Schokolade Konkurrenz aus Afrika?",
-          "link": "https://www.srf.ch/news/international/produziert-im-herkunftsland-kriegt-die-schweizer-schokolade-konkurrenz-aus-afrika",
-          "summary": "Kakao stammt mehrheitlich aus Westafrika, Schokolade aber wird meist anderswo gemacht. Ghana und Togo wollen das ändern.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/35bcf0c.webp",
-          "publishedAt": "2026-11-14T08:33:29.000Z",
-          "titleEn": "Is the Swiss chocolate produced in its country of origin? Does it have competition from Africa?",
-          "summaryEn": "Cocoa is mostly from West Africa, but chocolate is mostly made elsewhere. Ghana and Togo want to change that."
+          "title": "«Erziehung zur Grausamkeit» – Wie wir alle zu kleinen Donald Trumps werden",
+          "link": "https://www.srf.ch/kultur/gesellschaft-religion/erziehung-zur-grausamkeit-wie-wir-alle-zu-kleinen-donald-trumps-werden",
+          "summary": "Punkten, indem man andere erniedrigt? Das neue Buch von Robert Misik erklärt, wie man die Lust an der Verrohung lernt.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/d28eef.webp",
+          "publishedAt": "2026-11-14T14:05:27.000Z"
         }
       ]
     },
@@ -109,97 +97,77 @@
         "homepage": "https://www.nzz.ch",
         "lang": "de-CH"
       },
-      "fetchedAt": "2026-11-14T18:28:45.163Z",
+      "fetchedAt": "2026-11-15T06:42:58.658Z",
       "items": [
         {
-          "title": "Wie es zum Flug-Shutdown in den USA kam: wenn KI-Software auf zwanzig Jahre alte Server und auf Disketten trifft",
-          "link": "https://www.nzz.ch/mobilitaet/wie-es-zum-flug-shutdown-in-den-usa-kam-wenn-ki-software-auf-zwanzig-jahre-alte-server-und-auf-disketten-trifft-ld.10064135",
-          "summary": "Es war einer der schwersten Ausfälle der amerikanischen Luftfahrtgeschichte: Weil veraltete Router unter einem neuen Sicherheitsupdate zusammenbrachen, standen am Freitag die Radarschirme still. Der Flugverkehr musste im…",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/14/d6b70ce8-a044-4239-908d-89e0fb9c1eec.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3667,3667,x917,y0",
-          "publishedAt": "2026-11-14T17:56:25.000Z",
-          "titleEn": "How the flight shutdown in the U.S. came about: when AI software hits 20 years old servers and floppy disks",
-          "summaryEn": "It was one of the worst failures in American aviation history: Because outdated routers collapsed under a new security update, radar umbrellas were shut down on Friday. The air traffic had to be..."
+          "title": "Was Gabriele Stötzer in der DDR im Stasi-Gefängnis erlebt, lässt sie zur gefeierten Künstlerin werden",
+          "link": "https://www.nzz.ch/feuilleton/was-gabriele-stoetzer-im-stasi-gefaengnis-erlebt-laesst-sie-zur-gefeierten-kuenstlerin-werden-ld.10060484",
+          "summary": "Gabriele Stötzer protestierte vor fünfzig Jahren gegen die Ausbürgerung Wolf Biermanns und kam ins schlimmste Frauengefängnis der DDR. Jetzt stellt sie als erste ostdeutsche Frau im Martin-Gropius-Bau in Berlin aus.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/11/d754e6a7-5126-4a61-9f6a-8b94046d0e18.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2817,2817,x1099,y613",
+          "publishedAt": "2026-11-15T04:31:00.000Z"
         },
         {
-          "title": "LIVE-TICKER - Die USA nach den Midterms: Demokrat gewinnt Gouverneurswahl in Alaska – erstmals wieder seit 1998",
-          "link": "https://www.nzz.ch/international/us-innenpolitik-die-neuesten-meldungen-im-ticker-ld.10056111",
-          "summary": "Die neuesten Meldungen aus der amerikanischen Innenpolitik im Ticker.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/04/239c2ba7-8971-4010-85f0-328c182fc61c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3444,3444,x975,y0",
-          "publishedAt": "2026-11-14T16:24:11.000Z",
-          "titleEn": "Live-TICKER - USA after midterm elections: Democrat wins governorship election in Alaska for the first time since 1998",
-          "summaryEn": "The latest news from American domestic policy in Ticker."
+          "title": "Kreuzfahrtschiff kentert nach Kollision mit Tanker auf dem Mississippi",
+          "link": "https://www.nzz.ch/panorama/tankschiff-rammt-kreuzfahrtschiff-auf-dem-mississippi-in-new-orleans-ld.10063636",
+          "summary": "Ein Tanker ist am Freitag auf dem Mississippi mit einem vertäuten Flusskreuzfahrtschiff kollidiert. Das Passagierschiff kenterte und versank zur Hälfte im Wasser. Rund 100 Menschen gingen über Bord. 32 Personen wurden…",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/13/95dcad35-3a44-4ec8-af43-b3eed1559e78.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=857,857,x214,y0",
+          "publishedAt": "2026-11-15T04:30:56.000Z"
         },
         {
-          "title": "Er nannte Jensen Huang ein «nationales Heiligtum»: Der US-Handelsminister Howard Lutnick gerät in den Sog des Nvidia-Skandals",
-          "link": "https://www.nzz.ch/wirtschaft/er-nannte-jensen-huang-ein-nationales-heiligtum-der-us-handelsminister-howard-lutnick-geraet-in-den-sog-des-nvidia-skandals-ld.10063981",
-          "summary": "Finanzminister Scott Bessent wirft Handelsminister Howard Lutnick vor, Exporte der Hochleistungschips von Nvidia nach China nicht verhindert zu haben. Nun untersucht auch der Senat die Affäre.",
-          "image": "https://img-msp-prod.nzz.ch/2025/03/14/11fb141a-7ac7-4e55-ab59-10ede9201683.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3667,3667,x1833,y0",
-          "publishedAt": "2026-11-14T15:05:48.000Z",
-          "titleEn": "He called Jensen Huang a \"national sanctuary\": U.S. Secretary of Commerce Howard Lutnick is caught up in the Nvidia scandal",
-          "summaryEn": "Finance Minister Scott Bessent accuses Commerce Minister Howard Lutnick of failing to prevent exports of Nvidia's high-performance chips to China. Now the Senate is also investigating the affair."
+          "title": "Zugs reicher Finanzdirektor: «Tiefe Steuern haben auch ihre Grenzen»",
+          "link": "https://www.nzz.ch/schweiz/zuger-finanzdirektor-tiefe-steuern-haben-auch-ihre-grenzen-ld.10063187",
+          "summary": "Der Kanton Zug schwimmt im Geld. Heinz Tännler fürchtet den Vergleich mit Monaco, gibt sich plötzlich kulant gegenüber Kantonen wie Zürich und experimentiert mit einer Standortförderung der anderen Art.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/13/625bb692-4873-41b6-aef5-928f971dbac2.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=871,871,x2608,y576",
+          "publishedAt": "2026-11-15T04:30:00.000Z"
         },
         {
-          "title": "Dreiergipfel in Shenzhen: Peking organisiert ein Treffen zwischen Donald Trump, Xi Jinping und Wladimir Putin",
-          "link": "https://www.nzz.ch/international/dreiergipfel-in-shenzhen-peking-organisiert-ein-treffen-zwischen-donald-trump-xi-jinping-und-wladimir-putin-ld.10063910",
-          "summary": "Das Weisse Haus bestätigte am Samstag die hochrangige Zusammenkunft. Das Problem ist, dass die drei Staatsoberhäupter mit unterschiedlichen Absichten in die Gespräche gehen werden – das Thema ist weiterhin offen.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/13/b1326ff4-6651-4e79-adbd-677c2fa0045a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2000,2000,x500,y0",
-          "publishedAt": "2026-11-14T12:33:24.000Z",
-          "titleEn": "Three-party summit in Shenzhen: Beijing organises a meeting between Donald Trump, Xi Jinping and Vladimir Putin",
-          "summaryEn": "The White House confirmed the high-level meeting on Saturday. The problem is that the three Heads of State will enter the talks with different intentions  ⁇  the subject remains open."
+          "title": "Autoversicherungen werden immer teurer: So kann man sparen",
+          "link": "https://www.nzz.ch/finanzen/teure-autoversicherungen-2027-tipps-zum-sparen-von-hunderten-franken-ld.10063012",
+          "summary": "Autofahrer sollten Prämienerhöhungen bei den Versicherungen ihrer Fahrzeuge nicht einfach still erdulden. Bei einem Wechsel lassen sich oft mehrere hundert Franken pro Jahr sparen.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/03/19dd6b99-e30e-4253-b4ad-babd29b23ce4.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4640,4640,x1160,y0",
+          "publishedAt": "2026-11-15T04:30:00.000Z"
         },
         {
-          "title": "MELDUNGEN KULTUR - Sandra Hüller doppelt für Europäischen Filmpreis nominiert",
-          "link": "https://www.nzz.ch/feuilleton/sandra-hueller-doppelt-fuer-europaeischen-filmpreis-nominiert-ld.10064027",
-          "summary": "Die neuesten Meldungen aus dem Feuilleton.",
-          "image": "https://img-msp-prod.nzz.ch/2026/10/24/08a97931-1936-4244-902f-b9f39df4c256.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2000,2000,x500,y0",
-          "publishedAt": "2026-11-14T11:22:34.000Z",
-          "titleEn": "CULTURE - Sandra Hüller has twice been nominated for the European Film Award",
-          "summaryEn": "The latest news from the Feuilleton."
+          "title": "Darüber spricht Villaverde de Pontones: Der Wahnsinn kommt in Form einer künstlichen Welle",
+          "link": "https://www.nzz.ch/international/darueber-spricht-villaverde-de-pontones-der-wahnsinn-kommt-in-form-einer-kuenstlichen-welle-ld.10062907",
+          "summary": "Auf einer grünen Wiese, nur sieben Kilometer vom Atlantikstrand entfernt, soll bei einem kleinen Dorf in Nordspanien eine riesige künstliche Surfanlage entstehen. Anwohner befürchten dort noch grösseren Wassermangel als…",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/13/7b0cc9cb-3f4f-4c6b-b8ae-cd3767b3d5a1.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1009,1009,x296,y0",
+          "publishedAt": "2026-11-15T04:30:00.000Z"
         },
         {
-          "title": "LIVE-TICKER - Krieg in der Ukraine: USA sollen Selenski Nato-Beitritt im Tausch gegen Rückzug aus Donbass vorgeschlagen haben +++ Ukrainischer Drohnenangriff tötet Familie in Westrussland",
-          "link": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
-          "summary": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/02/bafe975f-fb77-45b1-98e2-529fcbd1439b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1812,1812,x1806,y0",
-          "publishedAt": "2026-11-14T10:25:15.000Z",
-          "titleEn": "LIVE-TICKER - War in Ukraine: US allegedly proposed Selensky's NATO membership in exchange for withdrawal from Donbass +++ Ukrainian drone attack kills family in western Russia",
-          "summaryEn": "For over four years, Russia has been waging war against Ukraine. The most important developments in the overview."
+          "title": "Zidane und Materazzi sorgen für einen Skandal im WM-Final 2006 – zwanzig Jahre später bereuen sie nichts",
+          "link": "https://www.nzz.ch/sport/fussball/zidane-und-materazzi-sorgen-fuer-einen-skandal-im-wm-final-2006-20-jahre-spaeter-bereuen-sie-nichts-ld.10061987",
+          "summary": "Gab es eine Versöhnung oder nicht? Der Italiener und der Franzose sehen es unterschiedlich.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/12/a6659c4b-18f7-437f-a213-30145855df99.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=917,917,x144,y0",
+          "publishedAt": "2026-11-15T04:30:00.000Z"
         },
         {
-          "title": "BILDSTRECKE - Chaos an den Flughäfen – die Bilder zum Flugstopp in den USA",
-          "link": "https://www.nzz.ch/fotografie/chaos-an-den-flughaefen-die-bilder-zum-flugstopp-in-den-usa-ld.10063939",
-          "summary": "Ein technischer Ausfall hat am Freitagabend den gesamten amerikanischen Flugverkehr lahmgelegt. Über 13 000 Flüge waren vom landesweiten Startverbot der Luftfahrtbehörde FAA betroffen.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/14/843c861a-b9c5-4baf-b255-3ef1866a03c3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3748,3748,x641,y0",
-          "publishedAt": "2026-11-14T09:25:03.000Z",
-          "titleEn": "BILDSTRECKE - Chaos at the airports  ⁇  the pictures of the US stopover",
-          "summaryEn": "A technical failure on Friday night crippled all American air traffic. More than 13 000 flights were affected by the FAA's nationwide take-off ban."
+          "title": "Tschador tragende Frauen üben auf öffentlichen Plätzen, mit automatischen Gewehren zu schiessen – Teheran gaukelt mit der Militärshow Wehrhaftigkeit vor",
+          "link": "https://www.nzz.ch/international/tschador-tragende-frauen-ueben-auf-oeffentlichen-plaetzen-mit-automatischen-gewehren-zu-schiessen-teheran-gaukelt-mit-der-militaershow-wehrhaftigkeit-vor-ld.10061966",
+          "summary": "Aus dem zentralen Platz der iranischen Hauptstadt ist ein militärischer Übungsplatz für Frauen geworden. Er soll Durchhaltewillen signalisieren und zeigt der Gesellschaft das ideale Frauenbild der Revolutionswächter.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/10/fce36d91-3ef5-4289-8e0f-462a5af3f71e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3696,3696,x1227,y0",
+          "publishedAt": "2026-11-15T04:30:00.000Z"
         },
         {
-          "title": "INTERVIEW - Nvidia und Anthropic machen die Börse nervös – ein 3600-Milliarden-Fonds-Chef gibt Entwarnung: «Die Umsätze sind sehr real»",
-          "link": "https://www.nzz.ch/wirtschaft/nvidia-und-anthropic-machen-die-boerse-nervoes-ein-3600-milliarden-fonds-chef-gibt-entwarnung-die-umsaetze-sind-sehr-real-ld.10063100",
-          "summary": "Die Krise bei Nvidia und die Furcht vor einer KI-Blase verunsichern die Anleger. Mike Gitlin, CEO des Fondsriesen Capital Group, hält Vergleiche mit der Finanzkrise 2008 jedoch für unbegründet.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/13/bab3d073-6a9b-4c98-8471-6449475436cc.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1316,1316,x2286,y124",
-          "publishedAt": "2026-11-14T06:02:35.000Z",
-          "titleEn": "INTERVIEW - Nvidia and Anthropic are making the stock market nervous  ⁇  A $3.6 trillion fund manager warns:  ⁇ The sales are very real ⁇",
-          "summaryEn": "The Nvidia crisis and fear of an AI bubble are making investors insecure. However, Mike Gitlin, CEO of the fund giant Capital Group, considers comparisons to the 2008 financial crisis to be unfounded."
+          "title": "Sex, Lies and Nvidia: Der amerikanische Autor Henry R. Schlesinger erklärt, weshalb die Liebe die grausamste Kunst der Spionage sein kann",
+          "link": "https://www.nzz.ch/international/sex-lies-and-nvidia-der-amerikanische-autor-henry-r-schlesinger-erklaert-weshalb-die-grausamste-art-der-spionagetechnik-ausgerechnet-die-liebe-ist-ld.10061964",
+          "summary": "Im Zeitalter von Spyware geht etwas fast vergessen: sogenannte Honey-Traps. Was nach Hollywoodfilmen klingt, ist ein bewährtes Spionageelement, in das nicht nur Tech-CEO tappen, wie der Journalist und Autor Henry R.…",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/10/bce240a0-68f1-4856-b453-3ab0ab1d49ca.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1553,1553,x782,y203",
+          "publishedAt": "2026-11-15T04:30:00.000Z"
         },
         {
-          "title": "Vier Stunden Stillstand: Ein landesweiter Flugstopp stürzt die USA in chaotische Zustände",
-          "link": "https://www.nzz.ch/international/vier-stunden-stillstand-flugstopp-stuerzt-die-usa-in-chaotische-zustaende-ld.10063833",
-          "summary": "Die amerikanische Luftfahrtbehörde (FAA) stoppte am Freitagabend sämtliche Abflüge im ganzen Land. Mehr als 13 000 Flüge waren betroffen. Die Regierung macht technische Probleme im veralteten Flugkontrollsystem…",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/14/e934875d-945b-42cc-9dac-46825e867039.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x0,y0",
-          "publishedAt": "2026-11-14T04:58:01.000Z",
-          "titleEn": "Four-hour standstill: A nationwide flight stop plunges the United States into chaos",
-          "summaryEn": "The U.S. Air Force (FAA) stopped all flights nationwide on Friday night. More than 13,000 flights were affected. The government is making technical problems with the outdated flight control system..."
+          "title": "Die Demokraten bereiten sich auf ihre Rache vor – im Fokus «The Trump Crime Family»",
+          "link": "https://www.nzz.ch/international/die-demokraten-bereiten-sich-auf-ihre-rache-vor-im-fokus-the-trump-crime-family-ld.10061959",
+          "summary": "Nach zwei gescheiterten Amtsenthebungsverfahren wollen es die Demokraten diesmal richtig machen. Doch die Hürden sind hoch, und die Trump-Regierung wappnet sich schon.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/12/956fe1d4-1abc-4382-820e-8df5fde24a2e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3487,3487,x906,y0",
+          "publishedAt": "2026-11-15T04:30:00.000Z"
         },
         {
-          "title": "KOMMENTAR - Die neue Weltunordnung: Die explosive Protestwelle der fragmentierten Generation Z",
-          "link": "https://www.nzz.ch/meinung/europas-generation-z-proteste-explosive-widersprueche-einer-generation-ld.10051760",
-          "summary": "Die Demonstrationen in Europa bilden eine rohe Kraft, angetrieben durch Zukunftsangst und Enttäuschung, befeuert durch soziale Netzwerke. Solange sie Geiseln der Gewalttäter bleiben, können die Jungen aber wenig bewegen.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/12/99c624da-e00a-417d-b049-89799f8d1d41.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3967,3967,x1634,y659",
-          "publishedAt": "2026-11-14T04:35:00.000Z",
-          "titleEn": "COMMENTARY - The new world order: the explosive wave of protest of the fragmented Generation Z",
-          "summaryEn": "The demonstrations in Europe are a raw force, driven by fear of the future and disappointment, fueled by social networks. As long as they remain hostages to the killers, the boys can't move much."
+          "title": "Die Schweizer Fussballer erfüllen die Pflicht souverän. Aber Murat Yakin hat eine grosse Chance verpasst",
+          "link": "https://www.nzz.ch/sport/fussball/die-schweizer-fussballer-erfuellen-die-pflicht-souveraen-aber-murat-yakin-hat-eine-grosse-chance-verpasst-ld.10061877",
+          "summary": "Der Schweiz gelingt der schnellstmögliche Wiederaufstieg in die Liga A der Nations League. Doch hinter der Weiterentwicklung der Mannschaft stehen grosse Fragezeichen.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/13/8891d434-4382-4844-a5c5-ca99255e6b66.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4045,4045,x1011,y0",
+          "publishedAt": "2026-11-15T04:30:00.000Z"
         }
       ]
     },
@@ -210,25 +178,64 @@
         "homepage": "https://www.rts.ch/info/",
         "lang": "fr-CH"
       },
-      "fetchedAt": "2026-11-14T18:28:45.268Z",
+      "fetchedAt": "2026-11-15T06:42:58.707Z",
       "items": [
         {
-          "title": "Des milliers de vols encore annulés samedi aux Etats-Unis après une panne géante",
+          "title": "Meta écope d'une amende de 805 millions d'euros en Italie pour avoir accédé à des photos sans consentement",
+          "link": "https://www.rts.ch/info/sciences-tech/2026/article/meta-ecope-d-une-amende-de-805-millions-d-euros-en-italie-29416323.html?rts_source=rss_t",
+          "summary": "La maison mère de Facebook, Meta, a écopé d'une lourde amende de 805 millions d'euros en Italie pour avoir accédé à des photos sans recueillir le consentement \"spécifique\" des utilisateurs, a annoncé samedi l'Autorité…",
+          "image": "https://img.rts.ch/articles/2026/image/5bd6c47e-29416326.image?w=320&h=180",
+          "publishedAt": "2026-11-15T03:06:24.000Z"
+        },
+        {
+          "title": "En France, une filiale de La Poste se fait voler les données de 22 millions de personnes",
+          "link": "https://www.rts.ch/info/monde/2026/article/cyberattaque-22-millions-de-donnees-volees-chez-une-filiale-de-la-poste-29416312.html?rts_source=rss_t",
+          "summary": "Une filiale du groupe La Poste, Maileva, spécialisée dans l'envoi de courriers professionnels, a été victime d'une importante cyberattaque, mi-septembre, ayant conduit au vol des coordonnées de 22 millions de personnes.",
+          "image": "https://img.rts.ch/articles/2026/image/b031ec36-29416317.image?w=320&h=180",
+          "publishedAt": "2026-11-15T01:30:07.000Z"
+        },
+        {
+          "title": "SpaceX rattrape pour la première fois l'étage supérieur de sa fusée Starship",
+          "link": "https://www.rts.ch/info/monde/2026/article/spacex-rattrape-l-etage-superieur-de-starship-une-premiere-29416255.html?rts_source=rss_t",
+          "summary": "L'entreprise américaine SpaceX, appartenant à Elon Musk, a réussi samedi à rattraper l'imposant étage supérieur de sa mégafusée Starship après plus de 22 heures de vol. Il s'agit d'une première historique.",
+          "image": "https://img.rts.ch/articles/2026/image/fd93cbd0-29416299.image?w=320&h=180",
+          "publishedAt": "2026-11-14T23:46:37.000Z"
+        },
+        {
+          "title": "La Nuit des Griffes réveille l'appétit des Romands pour les films d'horreur",
+          "link": "https://www.rts.ch/info/culture/cinema/2026/article/cinema-d-horreur-la-nuit-des-griffes-fait-le-plein-a-lausanne-29416206.html?rts_source=rss_t",
+          "summary": "Le festival lausannois La Nuit des Griffes, qui propose deux jours de cinéma horrifique, rencontre un succès croissant. Mais qu’est-ce qui nous attire tant dans les films d’horreur ?",
+          "image": "https://img.rts.ch/medias/2026/image/510dfb73-29416174.image?w=320&h=180",
+          "publishedAt": "2026-11-14T21:42:08.000Z"
+        },
+        {
+          "title": "La panne de Microsoft révèle la dépendance numérique des entreprises suisses",
+          "link": "https://www.rts.ch/info/economie/2026/article/panne-de-microsoft-la-dependance-des-entreprises-suisses-29416156.html?rts_source=rss_t",
+          "summary": "La panne mondiale de Microsoft a perturbé les activités de nombreuses entreprises suisses, dont le fabricant de sécateurs FELCO. Son directeur général, Nabil Francis, alerte sur les risques d'une dépendance numérique qui…",
+          "image": "https://img.rts.ch/articles/2026/image/f0f61cc8-29416221.image?w=320&h=180",
+          "publishedAt": "2026-11-14T21:09:15.000Z"
+        },
+        {
+          "title": "L'huile végétale, une alternative au diesel qui peine encore à le remplacer",
+          "link": "https://www.rts.ch/info/economie/2026/article/hvo-100-l-huile-vegetale-peut-elle-remplacer-le-diesel-29416097.html?rts_source=rss_t",
+          "summary": "Avec la flambée du prix du carburant, de plus en plus d'automobilistes utilisent de l'huile végétale directement à la place du diesel, une pratique non sans risque. Un nouveau carburant à base d'huile a toutefois fait…",
+          "image": "https://img.rts.ch/articles/2026/image/459cbdde-29416128.image?w=320&h=180",
+          "publishedAt": "2026-11-14T20:24:33.000Z"
+        },
+        {
+          "title": "Plus de 6400 vols encore annulés samedi aux Etats-Unis après une panne géante",
           "link": "https://www.rts.ch/info/monde/2026/article/panne-geante-aux-etats-unis-des-milliers-de-vols-annules-29416122.html?rts_source=rss_t",
-          "summary": "Des centaines de milliers d'Américains subissaient encore samedi la pagaille dans le ciel du pays au lendemain de la suspension rarissime des décollages provoquée par une panne que le gouvernement Trump explique par un…",
+          "summary": "Le trafic aérien a repris progressivement samedi dans les aéroports américains au lendemain d'une interruption provoquée selon les autorités par le remplacement de câbles en cuivre vétustes, tandis que des milliers de…",
           "image": "https://img.rts.ch/articles/2026/image/deb09a12-29416131.image?w=320&h=180",
-          "publishedAt": "2026-11-14T18:00:31.000Z",
-          "titleEn": "Thousands of flights still canceled Saturday in the United States after a massive outage",
-          "summaryEn": "Hundreds of thousands of Americans were still experiencing the country's skies on Saturday following the rare suspension of takeoffs caused by a failure that the Trump administration explains by a..."
+          "publishedAt": "2026-11-14T18:00:31.000Z"
         },
         {
           "title": "Nouvelle journée de mobilisation en France contre la vie chère ou le soutien à l'enseignement",
           "link": "https://www.rts.ch/info/monde/2026/article/france-plus-de-100-000-manifestants-contre-la-vie-chere-29416088.html?rts_source=rss_t",
-          "summary": "Plus de 100'000 personnes ont manifesté ce samedi dans plusieurs villes de France, répondant à l'appel de la coordination des \"Gilets jaunes\" et des organisations de jeunesse, pour protester notamment contre la politique…",
+          "summary": "Protection des enfants et adolescents, opposition au \"permis de tuer\", salaires, moyens pour l'enseignement : différentes manifestations ont rythmé, avec un peu moins d'affluence que les précédentes, et quelques…",
           "image": "https://img.rts.ch/articles/2026/image/c9aafcf7-29416100.image?w=320&h=180",
           "publishedAt": "2026-11-14T16:41:57.000Z",
-          "titleEn": "New day of mobilization in France against expensive living or support for education",
-          "summaryEn": "More than 100,000 people demonstrated this Saturday in several cities in France, responding to the call for the coordination of the \"Yellow Cheese\" and youth organizations, in particular to protest the policy..."
+          "titleEn": "New day of mobilization in France against expensive living or support for education"
         },
         {
           "title": "Quand l'amour et le sexe coûtent son emploi à un grand patron",
@@ -247,60 +254,6 @@
           "publishedAt": "2026-11-14T14:32:36.000Z",
           "titleEn": "In the canton of Vaud, a residence accompanies young adults towards autonomy",
           "summaryEn": "The canton of Vaud is launching a pilot project to accompany young adults who leave their homes for the most part without a housing solution. 'With Roof' offers temporary accommodation and escort to..."
-        },
-        {
-          "title": "En Turquie, une explosion dans une aciérie près d'Izmir fait au moins 17 morts",
-          "link": "https://www.rts.ch/info/monde/2026/article/turquie-17-morts-dans-l-explosion-d-une-acierie-a-izmir-29416049.html?rts_source=rss_t",
-          "summary": "Une explosion survenue le 9 novembre dans une aciérie près d'Izmir, dans l'ouest de la Turquie, a fait au moins 17 morts. Le drame, qui a provoqué une vive émotion et ravivé les critiques sur la sécurité au travail, fait…",
-          "image": "https://img.rts.ch/articles/2026/image/fc502816-29416061.image?w=320&h=180",
-          "publishedAt": "2026-11-14T14:06:25.000Z",
-          "titleEn": "At least 17 dead in Turkey in an explosion at a steel mill near Izmir",
-          "summaryEn": "An explosion at a steel mill near Izmir, western Turkey, on November 9 killed at least 17 people. The tragedy, which has sparked intense emotion and revived criticism of safety at work, has..."
-        },
-        {
-          "title": "La chaleur de l’été a rendu muettes des cloches d'églises",
-          "link": "https://www.rts.ch/info/societe/2026/article/canicule-en-suisse-la-chaleur-bloque-des-cloches-d-eglises-29413085.html?rts_source=rss_t",
-          "summary": "Conséquence inattendue de la canicule de cet été, des cloches d’églises ne sonnent plus correctement en Suisse orientale. La chaleur a asséché le bois qui les soutient, au point de les empêcher de fonctionner.",
-          "image": "https://img.rts.ch/articles/2026/image/5aba5dc4-29413122.image?w=320&h=180",
-          "publishedAt": "2026-11-14T13:35:03.000Z",
-          "titleEn": "The heat of summer has silenced church bells",
-          "summaryEn": "As an unexpected consequence of this summer's heat, church bells are no longer ringing properly in eastern Switzerland. The heat dried up the wood that supported them, so that they could not function."
-        },
-        {
-          "title": "Avec 'L'Insensé', Manu Larcenet esquisse en couleurs la mélancolie du crépuscule d'une vie",
-          "link": "https://www.rts.ch/info/culture/livres/2026/article/manu-larcenet-signe-avec-l-insense-une-bd-sensible-et-coloree-29414956.html?rts_source=rss_t",
-          "summary": "Après les gouffres d'encre de 'Blast' et la désolation minérale de 'La Route', le bédéaste français Manu Larcenet dépose la plume trempée de noir pour saisir la lumière et les couleurs du crépuscule d'une existence dans…",
-          "image": "https://img.rts.ch/articles/2026/image/2637eab1-29414992.image?w=320&h=180",
-          "publishedAt": "2026-11-14T13:30:51.000Z",
-          "titleEn": "With \"The Fool\", Manu Larcenet sketches the melancholy of the twilight of a lifetime in color",
-          "summaryEn": "After the ink holes of 'Blast' and the mineral desolation of 'La Route', the French beadmaker Manu Larcenet deposits the black-soaked pen to capture the light and colors of the twilight of an existence in..."
-        },
-        {
-          "title": "Des milliers de personnes dans les rues genevoises contre l'austérité",
-          "link": "https://www.rts.ch/info/regions/geneve/2026/article/geneve-des-milliers-de-manifestants-contre-l-austerite-29415964.html?rts_source=rss_t",
-          "summary": "A Genève, des milliers de personnes ont manifesté samedi contre l'austérité à l'appel d'une large coalition qui regroupe des syndicats, des associations et les partis de gauche. En ligne de mire: les mesures d'économies…",
-          "image": "https://img.rts.ch/articles/2026/image/a7acf205-29416046.image?w=320&h=180",
-          "publishedAt": "2026-11-14T12:34:03.000Z",
-          "titleEn": "Thousands take to the streets of Geneva against austerity",
-          "summaryEn": "In Geneva, thousands of people demonstrated against austerity on Saturday, calling for a broad coalition of unions, associations and left-wing parties. In view of the economic measures..."
-        },
-        {
-          "title": "La Francophonie se réunit au Cambodge pour son 20e sommet",
-          "link": "https://www.rts.ch/info/monde/2026/article/sommet-de-la-francophonie-le-20e-sommet-s-ouvre-au-cambodge-29415927.html?rts_source=rss_t",
-          "summary": "Phnom Penh devient ce week-end le cœur battant de la Francophonie. La capitale cambodgienne accueille dimanche et lundi le Sommet de la Francophonie, placé sous le signe de la paix, de la coopération et de la prospérité…",
-          "image": "https://img.rts.ch/articles/2026/image/aa316f8f-29415930.image?w=320&h=180",
-          "publishedAt": "2026-11-14T11:18:57.000Z",
-          "titleEn": "The Francophonie gathers in Cambodia for its 20th summit",
-          "summaryEn": "Phnom Penh becomes the beating heart of the Francophonie this weekend. The Cambodian capital hosts the Francophonie Summit on Sunday and Monday, under the sign of peace, cooperation and prosperity."
-        },
-        {
-          "title": "Le numéro 142 reçoit chaque jour quelque 80 appels liés à des situations de violence",
-          "link": "https://www.rts.ch/info/suisse/2026/article/aide-aux-victimes-le-numero-142-recoit-80-appels-par-jour-29415925.html?rts_source=rss_t",
-          "summary": "Le nouveau numéro national d'aide aux victimes 142 a été composé à plus de 11'000 reprises entre son lancement en mai dernier et fin septembre. Cela représente environ 80 demandes de conseils par jour, selon la…",
-          "image": "https://img.rts.ch/articles/2026/image/bcae6f47-29415932.image?w=320&h=180",
-          "publishedAt": "2026-11-14T10:46:25.000Z",
-          "titleEn": "Number 142 receives about 80 calls per day related to violent situations",
-          "summaryEn": "The new national victim assistance number 142 has been called more than 11,000 times between its launch last May and the end of September. That's about 80 requests a day, according to the..."
         }
       ]
     }
