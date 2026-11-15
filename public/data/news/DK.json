@@ -8,8 +8,30 @@
         "homepage": "https://www.dr.dk/nyheder",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-15T06:43:10.050Z",
+      "fetchedAt": "2026-11-15T18:30:23.774Z",
       "items": [
+        {
+          "title": "Mand stukket ned i Skovlunde",
+          "link": "https://www.dr.dk/nyheder/seneste/mand-stukket-ned-i-skovlunde",
+          "publishedAt": "2026-11-15T18:24:52.000Z"
+        },
+        {
+          "title": "Africa CDC: Ebolaudbrud fortsat ude af kontrol",
+          "link": "https://www.dr.dk/nyheder/seneste/africa-cdc-ebolaudbrud-fortsat-ude-af-kontrol",
+          "publishedAt": "2026-11-15T16:29:07.000Z"
+        },
+        {
+          "title": "Tre dødsdømt i Jordan for angreb mod kirke",
+          "link": "https://www.dr.dk/nyheder/seneste/tre-doedsdoemt-i-jordan-angreb-mod-kirke",
+          "publishedAt": "2026-11-15T13:59:16.000Z"
+        },
+        {
+          "title": "Kina gør det forbudt at eje og besidde droner i Beijing",
+          "link": "https://www.dr.dk/nyheder/seneste/kina-goer-det-forbudt-eje-og-besidde-droner-i-beijing",
+          "summary": "Droneentusiaster i den kinesiske hovedstad har haft travlt med at skille sig af med udstyr.",
+          "image": "https://asset.dr.dk/drdk/umbraco-images/wpvinxqr/20260919-060500-5.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
+          "publishedAt": "2026-11-15T08:49:21.000Z"
+        },
         {
           "title": "Formodet flugtbilist løsladt efter afhøring",
           "link": "https://www.dr.dk/nyheder/seneste/formodet-flugtbilist-loesladt-efter-afhoering",
@@ -47,30 +69,6 @@
           "image": "https://asset.dr.dk/drdk/umbraco-images/wkul5vyj/20261114-174341-7.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
           "publishedAt": "2026-11-14T17:02:34.000Z",
           "titleEn": "The Philippines won the first Eurovision in Asia"
-        },
-        {
-          "title": "Italien sagsøger Meta for seks milliarder",
-          "link": "https://www.dr.dk/nyheder/seneste/italien-sagsoeger-meta-otte-milliarder",
-          "publishedAt": "2026-11-14T14:04:15.000Z",
-          "titleEn": "Italy sues Meta for $6 billion"
-        },
-        {
-          "title": "Mulig flugtbilist i Aarhus anholdt",
-          "link": "https://www.dr.dk/nyheder/seneste/mulig-flugtbilist-i-aarhus-anholdt",
-          "publishedAt": "2026-11-14T12:39:07.000Z",
-          "titleEn": "Possible hit-and-run driver in Aarhus arrested"
-        },
-        {
-          "title": "Billetter til Emma Sehested Høeg-koncert er udsolgt",
-          "link": "https://www.dr.dk/nyheder/seneste/billetter-til-emma-sehested-hoeeg-koncert-er-udsolgt",
-          "publishedAt": "2026-11-14T09:55:11.000Z",
-          "titleEn": "Tickets to the Emma Sehested High concert are sold out."
-        },
-        {
-          "title": "20 millioner dollar beslaglagt i ungarsk korruptionssag mod minister",
-          "link": "https://www.dr.dk/nyheder/seneste/20-millioner-dollar-beslaglagt-i-ungarsk-korruptionssag-mod-minister",
-          "publishedAt": "2026-11-14T08:41:09.000Z",
-          "titleEn": "20 million dollars seized in Hungarian corruption case against minister"
         }
       ]
     },
@@ -81,96 +79,77 @@
         "homepage": "https://politiken.dk",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-15T06:43:10.502Z",
+      "fetchedAt": "2026-11-15T18:30:24.405Z",
       "items": [
         {
-          "title": "Lars Findsen er direktør i ny tænketank: Mere sikkerhed må ikke ske på bekostning af demokrati og retssikkerhed",
-          "link": "https://politiken.dk/danmark/art11058740/Mere-sikkerhed-m%C3%A5-ikke-ske-p%C3%A5-bekostning-af-demokrati-og-retssikkerhed",
-          "summary": "USA’s blik er varigt vendt mod Kina, og den gamle verden vender ikke tilbage. Med en ny tænketank vil den tidligere spionchef Lars Findsen ikke blot beskrive en forandret verdensorden, men også skubbe til en dansk debat…",
-          "image": "https://politiken.dk/incoming/img11060399.msm5yh/ORIGINALS/original_960/Lars%20Findsen%20i%20Lyngby%20Ret",
-          "publishedAt": "2026-11-15T06:23:17.000Z",
-          "titleEn": "Lars Findsen, Director of the New Think Tank: More security must not come at the expense of democracy and legal certainty",
-          "summaryEn": "The United States has a lasting eye on China, and the old world is not coming back. With a new mindset, former spy chief Lars Findsen will not only describe a changed world order, but also push for a Danish debate..."
+          "title": "»Der skal ikke være nogen Daimi-statue. Er du da rigtig klog?«",
+          "link": "https://politiken.dk/kultur/art11035836/%C2%BBDer-skal-ikke-v%C3%A6re-nogen-Daimi-statue.-Er-du-da-rigtig-klog%C2%AB",
+          "summary": "Du er en følelse, siger Politikens journalist til Daimi i dette portrætinterview. Men den æder Daimi ikke. Den 82-årige sangerinde har altid gjort tingene på sin egen måde. Og falder ikke for smiger. »Jeg. Bestemmer.…",
+          "image": "https://politiken.dk/incoming/img11055124.x7po4d/ORIGINALS/original_960/Daimi",
+          "publishedAt": "2026-11-15T18:28:51.000Z"
         },
         {
-          "title": "Arvinger sår tvivl om salg af milliarddyrt van Gogh-maleri",
-          "link": "https://politiken.dk/kultur/art11060715/Arvinger-s%C3%A5r-tvivl-om-salg-af-milliarddyrt-van-Gogh-maleri",
-          "summary": "Van Gogh-værk skal på auktion i næste uge. Arvinger siger dog, at der tidligere kan være sket et tvangssalg.",
-          "image": "https://politiken.dk/incoming/img11060734.fbfalu/ORIGINALS/original_960/US-AUCTION-SOTHEBYS",
-          "publishedAt": "2026-11-15T05:40:52.000Z",
-          "titleEn": "Heirs raise doubts about the sale of the billion-dollar Van Gogh painting",
-          "summaryEn": "Van Gogh's artwork is up for auction next week. However, according to Ervinger, there may have been a previous forced sale."
+          "title": "Norge kan være på vej mod et politisk nybrud, resten af Norden knap kan forestille sig",
+          "link": "https://politiken.dk/internationalt/art11053062/Norge-kan-v%C3%A6re-p%C3%A5-vej-mod-et-politisk-nybrud-resten-af-Norden-knap-kan-forestille-sig",
+          "summary": "Med mere end 30 procent tilslutning er Fremskrittspartiets Sylvi Listhaug det bedste bud på en borgerlig statsminister i Norge. Høyres tidligere statsminister Erna Solberg fælder dog en nådesløs dom.",
+          "image": "https://politiken.dk/incoming/img11055818.unnf1f/ORIGINALS/original_960/P6GNv1pA7sU",
+          "publishedAt": "2026-11-15T17:00:55.000Z"
         },
         {
-          "title": "Endelig kom øjeblikket, hvor publikum kom op og stå. Men vi kom hurtigt ned igen – ned i stolen med en klump i maven",
-          "link": "https://politiken.dk/kultur/musik/koncertanmeldelser/art10958923/Endelig-kom-%C3%B8jeblikket-hvor-publikum-kom-op-og-st%C3%A5.-Men-vi-kom-hurtigt-ned-igen-%E2%80%93-ned-i-stolen-med-en-klump-i-maven",
-          "summary": "Guldimund har stadig ikke knækket koden til, hvordan han forløser talentet live. Men løsningen er næppe flere instrumenter eller mere fællessang.",
-          "image": "https://politiken.dk/incoming/img11060655.odvf6o/ORIGINALS/original_960/Guldimund",
-          "publishedAt": "2026-11-15T05:35:37.000Z",
-          "titleEn": "Finally, the moment came when the audience stood up. But we quickly got back down in the chair with a lump in our stomach.",
-          "summaryEn": "Goldimund still hasn't cracked the code for how to redeem talent alive. But the solution is hardly more instruments or more singing together."
+          "title": "Keira Knightley er fabelagtig som undercoveragent",
+          "link": "https://politiken.dk/kultur/film_og_tv/tvanmeldelser/art11053753/Keira-Knightley-er-fabelagtig-som-undercoveragent",
+          "summary": "Anden sæson af den engelske spionthriller ’Black Doves’ er noget af det mest spændende og velspillede, der er til rådighed i disse uger.",
+          "image": "https://politiken.dk/incoming/img11055296.aract0/ORIGINALS/original_960/BD_201_Unit_01775_RT2",
+          "publishedAt": "2026-11-15T17:00:52.000Z"
         },
         {
-          "title": "Ordene i den portugisiske avis er ikke til at tage fejl af",
-          "link": "https://politiken.dk/sport/art11056714/Ordene-i-den-portugisiske-avis-er-ikke-til-at-tage-fejl-af",
-          "summary": "4-1-sejren mod Portugal skabte en sur aften for Brian Riemers kritikere. Det nye kuld har nu bevist, at vi ikke har et så dårligt landshold, som det er blevet gjort til i dele af befolkningen.",
-          "image": "https://politiken.dk/incoming/img11060717.nq7x6z/ORIGINALS/original_960/Nations%20League%20Portugal-Danmark",
-          "publishedAt": "2026-11-15T05:22:42.000Z",
-          "titleEn": "The words in the Portuguese newspaper cannot be mistaken",
-          "summaryEn": "The 4-1 victory over Portugal created an angry night for Brian Riemer's critics. The new code has now proved that we do not have a country team as bad as it has been made in parts of the population."
+          "title": "Læk sætter russiske tabstal i voldsom historisk kontekst",
+          "link": "https://politiken.dk/internationalt/art11060740/L%C3%A6k-s%C3%A6tter-russiske-tabstal-i-voldsom-historisk-kontekst",
+          "summary": "Et læk af officielle russiske tabstal fra krigen i Ukraine er både »markant og meget bemærkelsesværdigt« ifølge ekspert. Vi prøver at sætte tallet i en historisk kontekst.",
+          "image": "https://politiken.dk/incoming/img11061031.hvch3i/ORIGINALS/original_960/WW2-ANNIVERSARY-RUSSIA-PARADE",
+          "publishedAt": "2026-11-15T17:00:50.000Z"
         },
         {
-          "title": "To spillere stak næsen helt op i skyerne på en magisk aften i Braga",
-          "link": "https://politiken.dk/sport/fodbold/art11059435/To-spillere-stak-n%C3%A6sen-helt-op-i-skyerne-p%C3%A5-en-magisk-aften-i-Braga",
-          "summary": "De danske spillere tværede en flok portugisiske landsholdsstjerner ud på eget græs på en aften, hvor de fik flotte karakterer over hele linjen.",
-          "image": "https://politiken.dk/incoming/img11060612.4crtk8/ORIGINALS/original_960/Nations%20League%20Portugal-Danmark",
-          "publishedAt": "2026-11-14T22:29:27.000Z",
-          "titleEn": "Two players stuck their noses in the clouds on a magical night in Braga.",
-          "summaryEn": "The Danish players crossed a bunch of Portuguese national team stars out on their own grass one evening, where they got great grades across the line."
+          "title": "Flugtbil fra røveri i Lyngby Storcenter er fundet",
+          "link": "https://politiken.dk/danmark/art11060987/Flugtbil-fra-r%C3%B8veri-i-Lyngby-Storcenter-er-fundet",
+          "summary": "Søndag rykkede politiet ud til Lyngby Storcenter i forbindelse med et røveri. Nu er flugtbilen fundet.",
+          "image": "https://politiken.dk/incoming/img11060994.kdrw9b/ORIGINALS/original_960/R%C3%B8veri%20i%20Lyngby%20Storcenter",
+          "publishedAt": "2026-11-15T16:20:04.000Z"
         },
         {
-          "title": "Politiken-journalister vinder stor pris for undersøgende journalistik",
-          "link": "https://politiken.dk/kultur/medier/art11060613/Politiken-journalister-vinder-stor-pris-for-unders%C3%B8gende-journalistik",
-          "summary": "Tre journalister fra Politiken blev lørdag aften tildelt FUJ-Prisen 2026 i metode-kategorien for serien ’Uden samtykke?’",
-          "image": "https://politiken.dk/incoming/img10835028.salauf/ORIGINALS/original_960/nethvid-file85q4qudja0g57572hrn",
-          "publishedAt": "2026-11-14T22:03:39.000Z",
-          "titleEn": "Political journalists win a prize for investigative journalism",
-          "summaryEn": "Three journalists from Politics were awarded the FUJ Prize 2026 on Saturday night in the method category for the series  ⁇ Without consent? ⁇"
+          "title": "Hun har skrevet en bjergtagende roman, der bringer rige løfter om næste bind",
+          "link": "https://politiken.dk/kultur/boger/boganmeldelser/skonlitteratur_boger/art11054206/Hun-har-skrevet-en-bjergtagende-roman-der-bringer-rige-l%C3%B8fter-om-n%C3%A6ste-bind",
+          "summary": "Ida Jessen vender tilbage til heden i en historisk roman om håb, handlekraft og håndens arbejde. ’Ann Barbaras hvedebrødsdage’ er en fortælling om kroppen i landskabet og landskabet i kroppen.",
+          "image": "https://politiken.dk/incoming/img11054233.uyyjf6/ORIGINALS/original_960/4318_10902_b19415cb91ca455992bbf01acbd6ea98_original",
+          "publishedAt": "2026-11-15T15:28:09.000Z"
         },
         {
-          "title": "Danmark udspiller Portugal med champagnebold i Braga",
-          "link": "https://politiken.dk/sport/fodbold/art11060610/Danmark-udspiller-Portugal-med-champagnebold-i-Braga",
-          "summary": "Det danske fodboldlandshold spillede en af de bedste kampe i flere år, da holdet besejrede Portugal i Braga.",
-          "image": "https://politiken.dk/incoming/img11060611.ct3vqp/ORIGINALS/original_960/Nations%20League%20Portugal-Danmark",
-          "publishedAt": "2026-11-14T21:47:53.000Z",
-          "titleEn": "Denmark play Portugal with champagne ball in Braga",
-          "summaryEn": "The Danish national football team played one of the best matches in several years when the team defeated Portugal in Braga."
+          "title": "Man kan roligt smide Oliver Provstgaard ud på dybt vand",
+          "link": "https://politiken.dk/sport/art11056712/Man-kan-roligt-smide-Oliver-Provstgaard-ud-p%C3%A5-dybt-vand",
+          "summary": "Oliver Provstgaard er den landsholdsspiller, som har gennemgået den mest hastige udvikling i 2026. Selv om landstræneren i første omgang tvivlede på, om skiftet fra Vejle til Lazio var en god idé.",
+          "image": "https://politiken.dk/incoming/img11060941.yejv6i/ORIGINALS/original_960/Fodboldlandsholdet%20holder%20pressem%C3%B8de",
+          "publishedAt": "2026-11-15T15:05:03.000Z"
         },
         {
-          "title": "Sverige sikrer oprykning til Nations Leagues øverste lag",
-          "link": "https://politiken.dk/sport/fodbold/art11060609/Sverige-sikrer-oprykning-til-Nations-Leagues-%C3%B8verste-lag",
-          "summary": "Sverige slog Bosnien-Hercegovina 3-2 og kan ikke længere hentes på førstepladsen i Nations League-gruppen.",
-          "publishedAt": "2026-11-14T21:47:25.000Z",
-          "titleEn": "Sweden secures promotion to the top tier of the Nations League",
-          "summaryEn": "Sweden beat Bosnia and Herzegovina 3-2 and can no longer claim the first place in the Nations League group stage."
+          "title": "København vil bygge en ny cykelbro. Det kan koste livet for et af byens mest populære madsteder",
+          "link": "https://politiken.dk/danmark/hovedstaden/art11060786/K%C3%B8benhavn-vil-bygge-en-ny-cykelbro.-Det-kan-koste-livet-for-et-af-byens-mest-popul%C3%A6re-madsteder",
+          "summary": "Københavns Kommune vil fra 2030 inddrage området, hvor Reffen Street Food ligger, til byggeplads. Virksomheden bag madmarkedet foreslår nu fire alternative placeringer til byggepladsen.",
+          "image": "https://politiken.dk/incoming/img11060827.wcd91i/ORIGINALS/original_960/Reffen",
+          "publishedAt": "2026-11-15T14:27:31.000Z"
         },
         {
-          "title": "Boligejere kan spare tusindvis – men mange har ikke råd til at komme i gang",
-          "link": "https://politiken.dk/danmark/oekonomi/art11060460/Boligejere-kan-spare-tusindvis-%E2%80%93-men-mange-har-ikke-r%C3%A5d-til-at-komme-i-gang",
-          "summary": "Højere priser på gas og olie får hver anden dansker til at frygte for varmeregningen, viser ny undersøgelse.",
-          "image": "https://politiken.dk/incoming/img11060542.b67u3f/ORIGINALS/original_960/Snevejr%20over%20K%C3%B8benhavn",
-          "publishedAt": "2026-11-14T20:58:58.000Z",
-          "titleEn": "Homeowners can save thousands but many cannot afford to start",
-          "summaryEn": "Higher gas and oil prices are making every second Danish fear of warming, new research shows."
+          "title": "750 sider lang klassiker bliver pludselig læst af en ny generation",
+          "link": "https://politiken.dk/kultur/art10985081/750-sider-lang-klassiker-bliver-pludselig-l%C3%A6st-af-en-ny-generation",
+          "summary": "Takket være Zoe Kazans filmatisering får jeg nu øje på, hvor interessant Cathy er i John Steinbecks omstændelige slægtsroman, skriver Dorte Hygum i denne klumme.",
+          "image": "https://politiken.dk/incoming/img11012366.mslg6t/ORIGINALS/original_960/EDEN_106_Unit_00283RC",
+          "publishedAt": "2026-11-15T14:09:24.000Z"
         },
         {
-          "title": "Når de er dårlige, er de pivringe",
-          "link": "https://politiken.dk/kultur/musik/art11056194/N%C3%A5r-de-er-d%C3%A5rlige-er-de-pivringe",
-          "summary": "De har fumlet og famlet rundt i 20 år. Mindst. Men på deres første album i dette årti kan man faktisk mærke U2. På godt og ikke mindst på ondt.",
-          "image": "https://politiken.dk/incoming/img11058228.2ze86r/ORIGINALS/original_960/U2%20square-Colour%20CREDIT_Viviane%20Sassen",
-          "publishedAt": "2026-11-14T20:00:19.000Z",
-          "titleEn": "♪ When they're bad, they're the pivots ♪",
-          "summaryEn": "They've been fumbling and fucking around for 20 years. At least, I'm not. But on their first album this decade, you can actually feel U2. For good and not least for bad."
+          "title": "Maskerede gerningsmænd bag kup i storcenter – politiet rykker massivt ud",
+          "link": "https://politiken.dk/danmark/art11060804/Maskerede-gerningsm%C3%A6nd-bag-kup-i-storcenter-%E2%80%93-politiet-rykker-massivt-ud",
+          "summary": "Nordsjællands Politi får hjælp fra andre politikredse og har afsat store ressourcer til røveri i storcenter.",
+          "image": "https://politiken.dk/incoming/img11060907.wpjcog/ORIGINALS/original_960/R%C3%B8veri%20i%20Lyngby%20Storcenter",
+          "publishedAt": "2026-11-15T11:36:45.000Z"
         }
       ]
     },
@@ -181,94 +160,76 @@
         "homepage": "https://www.berlingske.dk",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-15T06:43:10.434Z",
+      "fetchedAt": "2026-11-15T18:30:23.903Z",
       "items": [
         {
-          "title": "Berlingske mener: Fadervor er ikke en samlevejledning til et IKEA-møbel",
-          "link": "https://www.berlingske.dk/ledere/berlingske-mener-fadervor-er-ikke-en-samlevejledning-til-et-ikea-moebel?referrer=RSS",
-          "summary": "Bibelselskabets prøveoversættelse af Fadervor er mere nudansk, men lyder som en samlevejledning til en IKEA-reol.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166846105.webp?t[strip]=true&t[quality]=70&accessToken=4dc17cf1f570c2b95b59d7ef05c3112447dba0676715b952fb0751d43537cb89",
-          "publishedAt": "2026-11-15T06:33:24.000Z",
-          "titleEn": "Berlingske says: Fathers is not a collectible guide for IKEA furniture",
-          "summaryEn": "The Bible Society's sample translation of Fadervor is more Nudanese, but sounds like a collector's guide to an IKEA reel."
+          "title": "Årsag til kemisk lugt i lejlighedsopgang i Esbjerg ikke fundet",
+          "link": "https://www.berlingske.dk/indland/aarsag-til-kemisk-lugt-i-lejlighedsopgang-i-esbjerg-ikke-fundet?referrer=RSS",
+          "summary": "Lejlighedsopgang i Esbjerg blev søndag eftermiddag undersøgt af politiet efter meldinger om en kemisk lugt.",
+          "publishedAt": "2026-11-15T18:19:45.000Z"
         },
         {
-          "title": "Seneste nyt om dansk politik – følg udviklingen her",
-          "link": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-udviklingen-her-60?referrer=RSS",
-          "summary": "Venstres landsmøde fortsætter søndag. Følg med og få de seneste nyheder om dansk politik her.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167104126.webp?t[strip]=true&t[quality]=70&accessToken=115eca5c3fce7a981c97e5ec8352573abdd8a5b5f564642c3ac00ad478db7232",
-          "publishedAt": "2026-11-15T06:27:12.000Z",
-          "titleEn": "Latest news on Danish politics  ⁇  Follow the developments here",
-          "summaryEn": "The Left's National Convention continues on Sunday. Follow me and get the latest news on Danish politics here."
+          "title": "U20-VM bliver uden Rusland trods CAS-dom",
+          "link": "https://www.berlingske.dk/sport/u20-vm-bliver-uden-rusland-trods-cas-dom?referrer=RSS",
+          "summary": "U20-VM i ishockey skulle blive første VM med Rusland tilbage efter CAS-dom, men det sker ikke alligevel.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167148695.webp?t[strip]=true&t[quality]=70&accessToken=75e2fda76ec22ebef33fe097af49c9a3c9b4a5f5fa0b9d04b91e66482adf1943",
+          "publishedAt": "2026-11-15T18:15:45.000Z"
         },
         {
-          "title": "Krig i Europa – følg med her",
-          "link": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-med-her-29?referrer=RSS",
-          "summary": "Krigen i Ukraine fortsætter. USAs særlige udsending Jared Kushner siger, at USA forsøger at starte en direkte dialog om krigen i Ukraine mellem Rusland, USA og Europa.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167104112.webp?t[strip]=true&t[quality]=70&accessToken=adb10934f6de48954e0a8d13389bcf0b7c20227bd93977bb7b48118097b0c06c",
-          "publishedAt": "2026-11-15T06:23:21.000Z",
-          "titleEn": "War in Europe  ⁇  follow here",
-          "summaryEn": "The war in Ukraine continues. U.S. special envoy Jared Kushner says the United States is trying to start a direct dialogue on the war in Ukraine between Russia, the United States and Europe."
+          "title": "Undgå at dit sommerhus ender med nedrivning: Hammerslag-ekspert viser, hvilke årgange du skal passe på",
+          "link": "https://www.berlingske.dk/arkitektur/undgaa-at-dit-sommerhus-ender-med-nedrivning-hammerslag-ekspert-viser-hvilke-aargange-du-skal-passe-paa?referrer=RSS",
+          "summary": "Signe Wenneberg kom i modvind, da hun forsvarede nedrivningen af sit eget sommerhus med, at det var bygget af dårlige materialer. Men er visse årgange af sommerhuse faktisk dårligere end andre? Hammerslag-ekspert…",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166936504.webp?t[strip]=true&t[quality]=70&accessToken=30373eed1cbeaa1680c26d37715c585d83f0d6d1e55f4f7c8fb55c247b58a16a",
+          "publishedAt": "2026-11-15T18:12:19.000Z"
         },
         {
-          "title": "Seneste nyt om USA og amerikansk politik – følg med her",
-          "link": "https://www.berlingske.dk/internationalt/seneste-nyt-om-usa-og-amerikansk-politik--foelg-med-her-5?referrer=RSS",
-          "summary": "Her får du seneste nyt om amerikansk politik og præsident Donald Trump.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167104101.webp?t[strip]=true&t[quality]=70&accessToken=5066e7a939231d0da4e649a5953b39fe7895e4c008464c93d9d77b55291c6455",
-          "publishedAt": "2026-11-15T06:19:04.000Z",
-          "titleEn": "Latest news about the United States and American politics  ⁇  follow here",
-          "summaryEn": "Here's the latest news on American politics and President Donald Trump."
+          "title": "På et topsikret hotel fik Simon Kruse et ufiltreret indblik i en presset præsident",
+          "link": "https://www.berlingske.dk/indland/paa-et-topsikret-hotel-fik-simon-kruse-et-ufiltreret-indblik-i-en-presset-praesident?referrer=RSS",
+          "summary": "En skarp analyse af en presset krigspræsident, sådan kan brugte Hermès-tasker slå aktiemarkedet, Martin Krasniks braste amerikanske drømme, og så dissekerer Birgitte Borup J. D. Vances farlige Trump-alliance. Her er…",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166920088.webp?t[strip]=true&t[quality]=70&accessToken=4418ecc89bd51fe06a8bd6a1d642cd2742e00550721b736377b15b4e07fffebb",
+          "publishedAt": "2026-11-15T17:57:51.000Z"
         },
         {
-          "title": "Enorm lækage afslører det russiske dødstal i Ukraine, siger hackere. »Tallene er vanvittige, og det er udviklingen også«",
-          "link": "https://www.berlingske.dk/internationalt/enorm-laekage-afsloerer-det-russiske-doedstal-i-ukraine-siger-hackere-tallene-er-vanvittige-og-det-er-udviklingen-ogsaa?referrer=RSS",
-          "summary": "Rusland betragter sine dødstal i Ukraine som en dyb statshemmelighed, men en lækage har angiveligt afsløret dem. Og tallene er enestående i moderne militærhistorie og viser »Putins gigantiske dødsmaskine«. Her er…",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166992443.webp?t[strip]=true&t[quality]=70&accessToken=c012a1576487897f1cbc434f4a350bbdfa284a6e7fb1a40049882595a4c1ba30",
-          "publishedAt": "2026-11-15T06:06:36.000Z",
-          "titleEn": "A massive leak reveals the Russian death toll in Ukraine, hackers say. ⁇ The numbers are crazy, and so is development ⁇",
-          "summaryEn": "Russia considers its death toll in Ukraine a deep state secret, but a leak has allegedly revealed them. And the numbers are unique in modern military history, showing Putin's gigantic death machine. This is..."
+          "title": "Uheld regner ned over Super Bowl-finalist i Tyskland",
+          "link": "https://www.berlingske.dk/sport/uheld-regner-ned-over-super-bowl-finalist-i-tyskland?referrer=RSS",
+          "summary": "New England Patriots måtte se stjernerne Drake Maye og A.J. Brown forlade banen på Allianz Arena med skader.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167148259.webp?t[strip]=true&t[quality]=70&accessToken=ef801fafceb796292df47dd9aba21e798a20e0776701570df29fa8d930825853",
+          "publishedAt": "2026-11-15T17:57:46.000Z"
         },
         {
-          "title": "Joachim Andersens skrub giver landstræneren panderynker",
-          "link": "https://www.berlingske.dk/sport/joachim-andersens-skrub-giver-landstraeneren-panderynker?referrer=RSS",
-          "summary": "Efter fuld spilletid i Danmarks fire første kampe i Nations League udgik Joachim Andersen lørdag med en skade.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167104058.webp?t[strip]=true&t[quality]=70&accessToken=41220d9598058987456537adf6c873b5b8eb7481d88f09e5aaff10bcd9b3e7ac",
-          "publishedAt": "2026-11-15T06:02:46.000Z",
-          "titleEn": "Joachim Andersen's scrotum is giving the country coach a lot of nerve.",
-          "summaryEn": "After playing full-time in Denmark's first four Nations League games, Joachim Andersen retired on Saturday with an injury."
+          "title": "Fadervor er ikke bare en tekst, der kan moderniseres – det er en bøn, der har bundet generationer sammen",
+          "link": "https://www.berlingske.dk/kommentatorer/fadervor-er-ikke-bare-en-tekst-der-kan-moderniseres--det-er-en-boen-der-har-bundet-generationer-sammen?referrer=RSS",
+          "summary": "Fadervor er det kristne svar på bedetæppet. Det er den bøn, Kristus siger, vi skal bede. Ikke langstrakte kæder af ord, vi selv finder på. Fadervor er nok.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166896240.webp?t[strip]=true&t[quality]=70&accessToken=c5e38c203bc9bea2e6f74015c5da178edb1f27737bc6c5430e4437b074410735",
+          "publishedAt": "2026-11-15T17:53:31.000Z"
         },
         {
-          "title": "Rockens Hall of Fame optager Phil Collins og andre stjerner",
-          "link": "https://www.berlingske.dk/internationalt/rockens-hall-of-fame-optager-phil-collins-og-andre-stjerner?referrer=RSS",
-          "summary": "Phil Collins, Luther Vandross og andre navne blev lørdag optaget i Rock and Roll Hall of Fame ved show i USA.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167104030.webp?t[strip]=true&t[quality]=70&accessToken=73070ba11976f12cc160392fa7dba0596b1f36c02c092b301ab7a20bb45b9967",
-          "publishedAt": "2026-11-15T05:45:48.000Z",
-          "titleEn": "The Rock and Roll Hall of Fame inducts Phil Collins and other stars",
-          "summaryEn": "Phil Collins, Luther Vandross and other names were inducted into the Rock and Roll Hall of Fame at a show in the United States on Saturday."
+          "title": "Ronaldinho har en fod med i mål i gensyn med fodboldbanen",
+          "link": "https://www.berlingske.dk/sport/ronaldinho-har-en-fod-med-i-maal-i-gensyn-med-fodboldbanen?referrer=RSS",
+          "summary": "45 minutter blev det til for Ronaldinho, da han søndag gjorde comeback til fodbold i Italien.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167147748.webp?t[strip]=true&t[quality]=70&accessToken=ad27cc6b99a2ccab1469903f88e726d640d4671014d569985d0d84e41d2e079c",
+          "publishedAt": "2026-11-15T17:42:49.000Z"
         },
         {
-          "title": "Irans Revolutionsgarde melder om droneangreb mod base i Bahrain",
-          "link": "https://www.berlingske.dk/internationalt/irans-revolutionsgarde-melder-om-droneangreb-mod-base-i-bahrain?referrer=RSS",
-          "summary": "Irans Revolutionsgarde siger, at den har angrebet amerikansk radarsystem i Bahrain, hvor der lyder sirener.",
-          "publishedAt": "2026-11-15T05:41:46.000Z",
-          "titleEn": "Iran's Revolutionary Guards report drone strikes on base in Bahrain",
-          "summaryEn": "Iran's Revolutionary Guards say they've attacked American radar systems in Bahrain, where sirens are ringing."
+          "title": "Grøn organisation vil have forbudt granulat på legepladser",
+          "link": "https://www.berlingske.dk/danmark/groen-organisation-vil-have-forbudt-granulat-paa-legepladser?referrer=RSS",
+          "summary": "Danmarks Naturfredningsforening mener ikke, at gummi fra gamle bildæk bør bruges i faldunderlag til børn.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167104858.webp?t[strip]=true&t[quality]=70&accessToken=2e2e5dfe1cd1e1c0681bbc3e7449ccaef5e77ea23d72c2fb87831ec402c5f446",
+          "publishedAt": "2026-11-15T17:35:48.000Z"
         },
         {
-          "title": "SELVMÅL",
-          "link": "https://www.berlingske.dk/til-stregen/selvmaal-2?referrer=RSS",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167025736.webp?t[strip]=true&t[quality]=70&accessToken=778bbd3a8a0723deea62e70a2f1db17cca866837d01039ae140bcd8f5e964fbe",
-          "publishedAt": "2026-11-15T05:32:56.000Z",
-          "titleEn": "This is a very important issue."
+          "title": "Årelang chikane mod slagterpar har ikke ført til én eneste sigtelse. Nu svarer politiet",
+          "link": "https://www.berlingske.dk/gastronomi/aarelang-chikane-mod-slagterpar-har-ikke-foert-til-en-eneste-sigtelse-nu-svarer-politiet?referrer=RSS",
+          "summary": "Selvom et slagterpar på Islands Brygge mener at kende gerningsmændene bag omfattende hærværk og trusler, har Københavns Politi stadig ingen sigtede. Men politiet understreger, at de har fokus på sagen.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167023102.webp?t[strip]=true&t[quality]=70&accessToken=34ab7a48cf493f0eb90fb32de9a5bf34348c0068f3946aee2f295ca1a5ba0640",
+          "publishedAt": "2026-11-15T17:30:38.000Z"
         },
         {
-          "title": "Er du rigtig klog: Hvad ved du om den amerikanske centralbank?",
-          "link": "https://www.berlingske.dk/business/er-du-rigtig-klog-hvad-ved-du-om-den-amerikanske-centralbank?referrer=RSS",
-          "summary": "Berlingskes journalister udfordrer dagligt med 10 nye spørgsmål inden for spændende emner.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166139892.webp?t[strip]=true&t[quality]=70&accessToken=42707379ccdc7574310aea1caa397b9cc1d57eb187466b50b12c39a7150e4d90",
-          "publishedAt": "2026-11-15T05:29:45.000Z",
-          "titleEn": "Are you really smart? What do you know about the U.S. Central Bank?",
-          "summaryEn": "Berlin's journalists challenge each day with 10 new questions on exciting topics."
+          "title": "Ansatte i København Zoo fik ondt i maven af brutalt arbejdsmiljø. Nu starter uvildig undersøgelse",
+          "link": "https://www.berlingske.dk/virksomheder/ansatte-i-koebenhavn-zoo-fik-ondt-i-maven-af-brutalt-arbejdsmiljoe-nu-starter-uvildig-undersoegelse?referrer=RSS",
+          "summary": "I kølvandet på hård kritik af arbejdsmiljøet i København Zoo tilbød formand Lise Ryevad, at de ansatte i hele oktober kunne ringe direkte til hende, hvis de havde noget på hjerte. Det har flere gjort, oplyser hun til…",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167050457.webp?t[strip]=true&t[quality]=70&accessToken=5cb917f2c026499c97d2827812c99c426a334bf5c0246a0b658a301ae54fac84",
+          "publishedAt": "2026-11-15T17:30:01.000Z"
         }
       ]
     }

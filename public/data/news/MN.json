@@ -8,7 +8,7 @@
         "homepage": "https://ikon.mn",
         "lang": "mn"
       },
-      "fetchedAt": "2026-11-15T06:43:35.666Z",
+      "fetchedAt": "2026-11-15T18:30:47.118Z",
       "items": [
         {
           "title": "Хууль бусаар мод бэлтгэсэн гэмт хэрэг, зөрчлийн шинжтэй 13 үйлдлийг илрүүлэн шалгаж байна",
@@ -103,8 +103,14 @@
         "homepage": "https://www.mnb.mn",
         "lang": "mn"
       },
-      "fetchedAt": "2026-11-15T06:43:36.732Z",
+      "fetchedAt": "2026-11-15T18:30:47.838Z",
       "items": [
+        {
+          "title": "Цаг агаарын аюултай үзэгдлээс сэрэмжлүүлж байна!",
+          "link": "https://www.mnb.mn/article/tsag-agaaryn-ayuultai-uzegdlees-seremjluulj-baina-2439",
+          "image": "https://assets.mnb.mn/media/2026/11/e02f43018cf9-abacea149b4d-000f2f2gfggdddddddd.hero.full.webp",
+          "publishedAt": "2026-11-15T07:03:11.000Z"
+        },
         {
           "title": "Нийслэлийн 8 дүүрэгт томуу, томуу төст өвчний үзлэг, оношилгоо, эмчилгээний 21 цэг ажиллаж байна",
           "link": "https://www.mnb.mn/article/niisleliin-8-duuregt-tomuu-tomuu-tust-uvchnii-uzleg-onoshilgoo-emchilgeenii-21-tseg-ajillaj-baina-1033",
@@ -167,13 +173,6 @@
           "image": "https://assets.mnb.mn/media/2026/11/4814b99b655f-905571519-1074743698922150-2135251539328297541-n.full.webp",
           "publishedAt": "2026-11-15T00:55:16.000Z",
           "titleEn": "A small gas explosion killed one citizen"
-        },
-        {
-          "title": "ЦАГ АГААР: Улаанбаатарт өдөртөө 7 хэм хүйтэн",
-          "link": "https://www.mnb.mn/article/tsag-agaar-ulaanbaatart-udurtuu-7-khem-khuiten-5406",
-          "image": "https://assets.mnb.mn/media/2026/11/8658e8bb3b9a-5dc510a0c89cb0012560efdfd3203657.full.webp",
-          "publishedAt": "2026-11-15T00:48:36.000Z",
-          "titleEn": "WATCH: It's seven degrees Celsius a day in the country."
         }
       ]
     },
@@ -184,11 +183,11 @@
         "homepage": "https://sonin.mn",
         "lang": "mn"
       },
-      "fetchedAt": "2026-11-15T06:43:36.043Z",
+      "fetchedAt": "2026-11-15T18:30:46.389Z",
       "items": [
         {
           "title": "Ардчилсан Намын \"Их эвсэл\" үндэсний хөдөлгөөний Ерөнхий зохицуулагчаар генерал Б.Хурц сонгогдлоо",
-          "link": "https://www.sonin.mn/newsDetail/19998",
+          "link": "https://sonin.mn/newsDetail/19998",
           "summary": "Ардчилсан Намын Онц Их хурал боллоо. Уг хурлаар Ардчилсан Намын \"Их Эвсэл\" үндэсний хөдөлгөөн гэгчийг байгуулж, генерал Батын Хурцыг 85 хувийн саналаар томилов.",
           "publishedAt": "2026-11-14T05:38:00.000Z",
           "titleEn": "General B. Hurtz has been elected as the national coordinator of the Democratic Party's \"Great Alliance\".",
@@ -196,13 +195,13 @@
         },
         {
           "title": "Дэлхийн хамгийн том пуужин “Starship”-ийн 15 дахь туршилтын нислэгийг эхлүүллээ",
-          "link": "https://www.sonin.mn/newsDetail/19997",
+          "link": "https://sonin.mn/newsDetail/19997",
           "publishedAt": "2026-11-14T05:25:00.000Z",
           "titleEn": "The world's largest missile, the Starship, has launched its 15th test flight."
         },
         {
           "title": "Эгийн голын усан цахилгаан станц төслийг байгаль орчинд сөрөг нөлөөгүй хэрэгжүүлэх боломжтой гэсэн урьдчилсан дүгнэлт гарчээ",
-          "link": "https://www.sonin.mn/newsDetail/19996",
+          "link": "https://sonin.mn/newsDetail/19996",
           "summary": "Монгол, Оросын эрдэмтдийн хамтарсан судалгаагаар Эгийн голын усан цахилгаан станц төслийг хэрэгжүүлэх нь Сэлэнгэ мөрөн болон Байгаль нуурын экосистемд сөрөг нөлөө үзүүлэхгүй гэсэн урьдчилсан дүгнэлт гарчээ.",
           "publishedAt": "2026-11-13T12:38:00.000Z",
           "titleEn": "The project has been predicted to be able to be implemented without any negative environmental impact.",
@@ -210,7 +209,7 @@
         },
         {
           "title": "Байгууллагад 145,2 сая төгрөгийн хохирол учруулсан гэх хэргийг шүүхэд шилжүүлэх саналтайгаар прокурорт хүргүүлэв",
-          "link": "https://www.sonin.mn/newsDetail/19995",
+          "link": "https://sonin.mn/newsDetail/19995",
           "summary": "Авлигатай тэмцэх газрын Мөрдөн шалгах хэлтэс 2026 оны 11 дүгээр сарын 5-11-ний өдрүүдэд гэмт хэргийн шинжтэй 109 гомдол, мэдээллийг шалгав.",
           "publishedAt": "2026-11-13T07:50:00.000Z",
           "titleEn": "The prosecutor's office filed a petition for a writ of certiorari for damages of 145.2 million rupees.",
@@ -218,7 +217,7 @@
         },
         {
           "title": "Н.Номтойбаяр: Б.Энхбаяр, Л.Оюун-Эрдэнэ нар сонсголд гэрчээр оролцох ёстой",
-          "link": "https://www.sonin.mn/newsDetail/19993",
+          "link": "https://sonin.mn/newsDetail/19993",
           "summary": "УИХ-ын гишүүн Л.Оюун-Эрдэнэ цахим хуудсаараа дамжуулан “Бодь” компанийн төмөр замын гэрээтэй холбоотой сонсголыг хийх эсэхээ шийдэхийг Н.Номтойбаяраас шаардсан. Үүнтэй холбогдуулан УИХ-ын гишүүн Н.Номтойбаяр тайлбар…",
           "publishedAt": "2026-11-13T06:25:00.000Z",
           "titleEn": "N. N. B.: Mr. Enright and Mr. L. Yuen-Erdene should be present as witnesses at the hearing.",
@@ -226,7 +225,7 @@
         },
         {
           "title": "Нийслэлд цас орохтой холбогдуулан холбогдох байгууллагууд бэлтгэлээ хангаад байна",
-          "link": "https://www.sonin.mn/newsDetail/19992",
+          "link": "https://sonin.mn/newsDetail/19992",
           "summary": "2026 оны арваннэгдүгээр сарын 13-ны өдрийн 15:00 цагаас Улаанбаатар хотод цас орж эхлэх төлөвтэй байна. Үүнтэй холбогдуулан нийслэл, дүүргийн зам талбайн цэвэрлэгээ, үйлчилгээ хариуцсан байгууллагууд бэлтгэлээ хангаж,…",
           "publishedAt": "2026-11-13T06:13:00.000Z",
           "titleEn": "The authorities are preparing for snowfall in the capital.",
@@ -234,7 +233,7 @@
         },
         {
           "title": "Д.Батлут: Улс төрийн тогтвортой байдлыг эрхэмлэн сайдын үүрэгт ажлаасаа чөлөөлөгдөх шийдвэр гаргалаа",
-          "link": "https://www.sonin.mn/newsDetail/19991",
+          "link": "https://sonin.mn/newsDetail/19991",
           "summary": "Батлан хамгаалахын сайд Д.Батлут улс төрийн тогтвортой байдлыг эрхэмлэн, үүрэгт ажлаасаа өөрийн хүсэлтээр чөлөөлөгдөх шийдвэр гаргаснаа мэдэгдлээ.",
           "publishedAt": "2026-11-13T05:50:00.000Z",
           "titleEn": "D.B: I have decided to resign as a minister in the interests of political stability.",
@@ -242,7 +241,7 @@
         },
         {
           "title": "Хятад хэлний төрөлжсөн сургалттай сургуулиудын шилдэг сурагчдад тэтгэлэг гардууллаа",
-          "link": "https://www.sonin.mn/newsDetail/19990",
+          "link": "https://sonin.mn/newsDetail/19990",
           "summary": "Нийслэлийн төрийн болон төрийн бус өмчийн ерөнхий боловсролын хятад хэлний төрөлжсөн сургалттай сургуулиудын шилдэг сурагчдад БНХАУ-аас Монгол Улсад суугаа Элчин сайдын нэрэмжит тэтгэлэг гардууллаа. Нийт 71 сургуулийн…",
           "publishedAt": "2026-11-13T05:37:00.000Z",
           "titleEn": "We've been paying tribute to the best students in Chinese-language schools.",
@@ -250,7 +249,7 @@
         },
         {
           "title": "Сэрэмжлүүлэг",
-          "link": "https://www.sonin.mn/newsDetail/19989",
+          "link": "https://sonin.mn/newsDetail/19989",
           "summary": "БНХАУ-ын Засаг захиргааны онцгой бүс Хонконгийн Засгийн газар “Тамхины хяналтыг чангатгах тухай” хуульд нэмэлт өөрчлөлт оруулж, 2025 оны 9 дүгээр сарын 19-ний өдрөөс мөрдөж эхэлсэн.",
           "publishedAt": "2026-11-13T05:34:00.000Z",
           "titleEn": "A Warning",
@@ -258,7 +257,7 @@
         },
         {
           "title": "Л.Оюун-Эрдэнэ: Н.Номтойбаяр миний хөгшин одоо наад сонсголоо хий, эсвэл боль!",
-          "link": "https://www.sonin.mn/newsDetail/19986",
+          "link": "https://sonin.mn/newsDetail/19986",
           "summary": "Н.Номтойбаяр миний хөгшин ч одоо наад сонсголоо хий, эсвэл боль! УИХ-ын гишүүд бланк олж зурахгүй байна гэдэг нэг л ядмаг, чамд зохихгүй тайлбар болсон. Сайд болчихсон чинь хүнд байна гээд үнэнээ хэлчих ээ.",
           "publishedAt": "2026-11-13T03:16:00.000Z",
           "titleEn": "LY: N.B.: Now, my old man, either you listen to me now or you stop!",

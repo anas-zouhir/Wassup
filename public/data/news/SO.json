@@ -8,8 +8,20 @@
         "homepage": "https://somaliguardian.com",
         "lang": "en-SO"
       },
-      "fetchedAt": "2026-11-15T06:43:51.062Z",
+      "fetchedAt": "2026-11-15T18:31:03.596Z",
       "items": [
+        {
+          "title": "Al-Shabaab fighters capture village near Mataban in central Somalia",
+          "link": "https://www.somaliguardian.com/news/somalia-news/somalia-al-shabaab-coomaad-mataban-hiiraan/",
+          "summary": "MOGADISHU (Somaliguardian) – Al-Shabaab fighters have captured the village of Coomaad, roughly 30km from the strategic town of Mataban in central Somalia’s Hiiraan region, local media reported on Sunday. Somali National…",
+          "publishedAt": "2026-11-15T18:14:29.000Z"
+        },
+        {
+          "title": "Somalia’s president seeks second Uganda visit in two weeks",
+          "link": "https://www.somaliguardian.com/news/somalia-news/somalia-president-seeks-second-uganda-visit-two-weeks/",
+          "summary": "MOGADISHU (Somaliguardian) – Somalia’s President Hassan Sheikh Mohamud has requested a one-day visit to Kampala to meet President Yoweri Museveni, in a move that would take him to Uganda for the second time in a…",
+          "publishedAt": "2026-11-15T14:23:30.000Z"
+        },
         {
           "title": "Somalia election talks called by president Hassan Sheikh fail to start as opposition boycotts",
           "link": "https://www.somaliguardian.com/news/somalia-news/somalia-election-talks-president-hassan-sheikh-fail-start-opposition-boycott/",
@@ -21,12 +33,6 @@
           "link": "https://www.somaliguardian.com/news/somalia-news/un-experts-somalia-president-chief-justice-judicial-independence/",
           "summary": "MOGADISHU (Somaliguardian) – In language of unusual severity, United Nations independent experts have condemned President Hassan Sheikh Mohamud’s abrupt dismissal of Somalia’s Chief Justice, Bashe Yusuf Ahmed, as a…",
           "publishedAt": "2026-11-14T06:51:08.000Z"
-        },
-        {
-          "title": "Turkey denies plans to send 15,000 troops to Somalia amid security concerns",
-          "link": "https://www.somaliguardian.com/news/somalia-news/turkey-denies-15000-troops-somalia/",
-          "summary": "MOGADISHU (Somaliguardian) – Turkey has firmly denied reports that it plans to send 15,000 troops to Somalia, saying the claims do not reflect the truth. The Ministry of National Defense said its existing forces in…",
-          "publishedAt": "2026-11-12T16:28:29.000Z"
         }
       ]
     },
@@ -37,97 +43,81 @@
         "homepage": "https://www.caasimada.net",
         "lang": "so"
       },
-      "fetchedAt": "2026-11-15T06:43:50.658Z",
+      "fetchedAt": "2026-11-15T18:31:03.200Z",
       "items": [
+        {
+          "title": "Xasan Sheekh oo jawaab siiyay mucaaradka kadib fashilkii ku yimid wada-hadallada",
+          "link": "https://www.caasimada.net/xasan-sheekh-oo-jawaab-siiyay-mucaaradka-kadib-fashilkii-ku-yimid-wada-hadallada/",
+          "summary": "Muqdisho (Caasimada Online) – Madaxweynaha Soomaaliya, Mudane Xasan Sheekh Maxamuud oo maanta ka qayb-galay munaasabad ka dhacday magaalada Muqdisho ayaa si kulul ugu jawaabay xubnaha mucaaradka ee weli diidan gogosha uu…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/04/xasanow.webp?fit=2048%2C1366&ssl=1",
+          "publishedAt": "2026-11-15T18:00:56.000Z"
+        },
+        {
+          "title": "Guudlaawe oo tallaabo cusub u qaaday gobolka Hiiraan",
+          "link": "https://www.caasimada.net/madaxweyne-cali-guudlaawe-oo-tallaabo-cusub-u-qaaday-gobolka-hiiraan/",
+          "summary": "Jowhar (Caasimada Online) – Madaxweynaha Dowlad-goboleedka HirShabelle, Mudane Cali Cabdulllahi Xuseen (Guudlaawe) ayaa caawa tallaabo cusub u qaaday gobolka Hiiraan, isaga oo u magacaabay maamul cusub, kadib wareegto uu…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/Guudlaawe.webp?fit=2048%2C1366&ssl=1",
+          "publishedAt": "2026-11-15T16:42:21.000Z"
+        },
+        {
+          "title": "Lafta-gareen oo la wareegay magaalo muhiim ah iyo taliye sare oo qarax lagu dilay",
+          "link": "https://www.caasimada.net/ciidanka-lafta-gareen-oo-la-wareegay-golweyn-iyo-taliye-sare-oo-qarax-lagu-dilay/",
+          "summary": "Buulo-mareer (Caasimada Online) – Faah-faahinno dheeraad ah ayaa kasoo baxaya khasaaraha ka dhashay dagaal culus oo maanta ka dhacay deegaanka Golweyn ee gobolka Shabeellaha Hoose, kaas oo la sheegay inuu u dhexeeyay…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/907872782_1124756197201699_4520608098717312772_n.webp?fit=463%2C540&ssl=1",
+          "publishedAt": "2026-11-15T15:00:43.000Z"
+        },
+        {
+          "title": "Sawirro: Xasan oo dhagax-dhigay Jaamacad nooc cusub ah oo dalka uu yeelanayo",
+          "link": "https://www.caasimada.net/sawirro-xasan-sheekh-oo-dhagax-dhagax-dhigay-jaamacadda-difaaca-qaranka/",
+          "summary": "Muqdisho (Caasimada Online) – Madaxweynaha Soomaaliya, Mudane Xasan Sheekh Maxamuud ayaa maanta dhagax-dhigay dhismaha Jaamacadda Difaaca Qaranka, taas oo qeyb ka ah dadaallada Dowladda Federaalka ee lagu horumarinayo…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/907373661_1127945073428666_972774850637269149_n.webp?fit=1080%2C720&ssl=1",
+          "publishedAt": "2026-11-15T14:00:25.000Z"
+        },
+        {
+          "title": "Dagaal culus oo maanta ka dhacay gobolka Hiiraan",
+          "link": "https://www.caasimada.net/dagaal-culus-oo-maanta-ka-dhacay-gobolka-hiiraan/",
+          "summary": "Matabaan (Caasimada Online) – Wararka laga helayo galbeedka gobolka Hiiraan ayaa sheegaya in xubno ka tirsan Al-Shabaab ay saaka weerar ku qaadeen saldhig ay ciidanka federaalka ku leeyihiin deegaanka Coomaad ee degmada…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2022/10/dagaal.jpg?fit=1920%2C1080&ssl=1",
+          "publishedAt": "2026-11-15T13:00:18.000Z"
+        },
+        {
+          "title": "Beel cudud ciidan ku soo bandhigtay Beledweyne xilli ay kasii dareyso xiisadda",
+          "link": "https://www.caasimada.net/beel-cudud-ciidan-kusoo-bandhigtay-beledweyne-oo-ka-hortimid-hirshabelle/",
+          "summary": "Beledweyne (Caasimada Online) – Mowjad cusub oo looga soo horjeedo maamulka HirShabeelle ayaa ka soo cusboonaatay gobolka Hiiraan kadib markii beesha Afar Makane ay magaalada Beledweyne kusoo bandhigtay ciidamo hubeysan…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2025/08/Ciidan-Macawiisley.jpg?fit=2048%2C1366&ssl=1",
+          "publishedAt": "2026-11-15T12:00:53.000Z"
+        },
         {
           "title": "Dahab laga qaaday Afrika oo dhan 591 tan oo Imaaraadka…",
           "link": "https://www.caasimada.net/dahab-laga-qaaday-afrika-oo-dhan-591-tan-oo-imaaraadka/",
           "summary": "Dubai (Caasimada Online) – Imaaraadka Carabta ayaa weli ah xudunta ugu weyn ee uu ku qulqulo dahabka laga tahriibiyo Afrika iyo kan ka yimaada dalalka ay dagaalladu ka socdaan, inkastoo dowladda dalkaas ay sheegto in ay…",
           "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/2014-03-03T120000Z_381762977_BM2EA33169G01_RTRMADP_3_MARKETS-GLOBAL.webp?fit=2164%2C1248&ssl=1",
-          "publishedAt": "2026-11-15T06:20:57.000Z",
+          "publishedAt": "2026-11-15T11:00:57.000Z",
           "titleEn": "591 tonnes of gold were extracted from all over Africa in the UAE.",
           "summaryEn": "Dubai (Online Capital)  ⁇  The United Arab Emirates remains the largest source of gold smuggling from Africa and war-torn countries, despite the country's government claiming to..."
+        },
+        {
+          "title": "DF Soomaaliya oo heshiis is-afgarad la saxiixatay dalka…",
+          "link": "https://www.caasimada.net/df-soomaaliya-oo-heshiis-is-afgarad-la-saxiixatay-dalka/",
+          "summary": "Muqdisho (Caasimada Online) – Wasiir Ku-xigeenka Wasaaradda Arrimaha Dibadda Soomaaliya, Xasan Maxamed Cali (Nadaara) ayaa heshiis is-afgarad (MoU) oo ku saabsan wadatashiyada siyaasadeed la saxiixday Marwo Sripriya…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/907278953_2999067583793814_6035294787974530442_n.webp?fit=2048%2C1365&ssl=1",
+          "publishedAt": "2026-11-15T10:00:35.000Z"
         },
         {
           "title": "Tallaabo uu qaaday wiilka Erdogan oo dhalisay hadal hayn ku saabsan madaxweynenimo",
           "link": "https://www.caasimada.net/tallaabo-uu-qaaday-wiilka-erdogan-oo-dhalisay-hadal-hayn-ku-saabsan-madaxweynenimo/",
           "summary": "Beirut (Caasimada Online) – Najmudiin Bilal Erdogan, oo ah wiilka madaxweynaha Turkiga Recep Tayyip Erdogan, ayaa booqasho saddex maalmood ah ku jooga Lubnaan, halkaas oo uu kulamo heer sare ah kula yeeshay madaxda…",
           "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/Bilal-Erdogan-scaled.webp?fit=2560%2C1655&ssl=1",
-          "publishedAt": "2026-11-15T05:30:31.000Z",
+          "publishedAt": "2026-11-15T09:00:31.000Z",
           "titleEn": "A step taken by Erdogan's son that sparked controversy over the presidency",
           "summaryEn": "Beirut (Capital Online)  ⁇  Najmudin Bilal Erdogan, son of Turkish President Recep Tayyip Erdogan, is on a three-day visit to Lebanon, where he held high-level meetings with the leaders of..."
         },
         {
-          "title": "DF oo jawaab ka soo saartay dalabkii QM ee guddoomiyihii hore ee Maxkamadda Sare",
-          "link": "https://www.caasimada.net/df-oo-jawaab-ka-soo-saartay-dalabkii-qm-ee-guddoomiyihii-hore-ee-maxkamadda-sare/",
-          "summary": "Muqdisho (Caasimada Online) – Dowladda Federaalka Soomaaliya ayaa si adag uga hortimid dhaleeceyn ka timid khubaro ka tirsan Qaramada Midoobay oo ku saabsaneyd xil ka qaadistii lagu sameeyay Guddoomiyihii hore ee…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/Xasan-Macallin-2-scaled.webp?fit=2560%2C1856&ssl=1",
-          "publishedAt": "2026-11-14T18:44:37.000Z",
-          "titleEn": "DF responding to the request of the former chairman of the Supreme Court",
-          "summaryEn": "Mogadishu (Capital Online)  ⁇  The Federal Government of Somalia strongly opposed criticism from UN experts about the removal of former Commissioners of..."
-        },
-        {
-          "title": "Xogta howlgal culus oo Danab iyo Mareykanka ka fuliyeen Shabeellaha Hoose",
-          "link": "https://www.caasimada.net/xogta-howlgal-culus-oo-danab-iyo-mareykanka-ka-fuliyeen-shabeellaha-hoose/",
-          "summary": "Leego (Caasimada Online) – Faah-faahinno kala duwan ayaa kasoo baxaya howlgal qorsheysan oo maanta ciidamada kumaandooska Danab, gaar ahaan ururka 161-aad, ay ka sameeeyeen deegaanka Leego ee gobolka Shabeellaha Hoose,…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2023/02/Danab-ciidan-ciidamo-dagaal.jpeg?fit=2048%2C1365&ssl=1",
-          "publishedAt": "2026-11-14T17:00:54.000Z",
-          "titleEn": "Data from a heavy operation carried out by the U.S. and the U.K. at the Underground Railroad",
-          "summaryEn": "Leego (Capital Online)  ⁇  Various details emerge from a planned operation today by the thousands of Danab troops, especially the 161st Division, in the Leego area of Lower Shabeellaha province,..."
-        },
-        {
-          "title": "Maxkamadda ciidamada oo go’aan ka gaartay kiiska yaabka leh ee Tahliil Guure",
-          "link": "https://www.caasimada.net/maxkamadda-ciidamada-oo-goaan-ka-gaartay-kiiska-yaabka-leh-ee-tahliil-guure/",
-          "summary": "Muqdisho (Caasimada Online) – Maxkamadda Darajada Koowaad ee Ciidamada Qalabka Sida ayaa maanta go’aan kama dmabeys ah ka gaartay kiiska Dable NISA Tahliil Guure Culusow Caraale (Lagatay), kana tirsanaa Ciidanka Duufaan,…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/906782599_28978814935104768_6312579384325350499_n.webp?fit=1080%2C1080&ssl=1",
-          "publishedAt": "2026-11-14T16:00:28.000Z",
-          "titleEn": "Military court ruled in the astonishing case of Tahliil Guure",
-          "summaryEn": "Mogadishu (Capital Online)  ⁇  The Armed Forces First Degree Court today rendered an unqualified decision in the case of Dable NISA Tahliil Guure Culusow Caraale (Lagatay), former Air Force,..."
-        },
-        {
-          "title": "Yaa sabab u ah fashilka wada-hadallada DF iyo mucaaradka?",
-          "link": "https://www.caasimada.net/yaa-sabab-u-ah-fashilka-wada-hadallada-df-iyo-mucaaradka-video/",
-          "summary": "Muqdisho (Caasimada Online) – Senator Cabdixakiin Macalin Axmed oo ka tirsan Golaha Aqalka Sare ee Soomaaliya oo wax laga waydiiyay xaaladda siyaasadeed ee dalka ayaa ka hadlay arrimo ku aaddan fashilka mar kasta ku…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/02/GOLAHA-MUSTAQBALKA-1.webp?fit=2048%2C1365&ssl=1",
-          "publishedAt": "2026-11-14T15:00:40.000Z",
-          "titleEn": "What is the reason for the failure of the negotiations between the DF and the opposition?",
-          "summaryEn": "Mogadishu (Capital Online)  ⁇  Senator Abdiqakin Professor Ahmed of the Upper House of Parliament of Somalia who was interviewed about the political situation in the country spoke about the failure of every..."
-        },
-        {
-          "title": "Axmed Madoobe oo maanta sameeyay magacaabis iyo fal-celin weyn oo ka dhalatay",
-          "link": "https://www.caasimada.net/axmed-madoobe-oo-magacaabis-sameeyay-iyo-fal-celin-ka-dhalatay/",
-          "summary": "Kismaayo (Caasimada Online) – Madaxweynaha Dowlad-goboleedka Jubbaland, Mudane Axmed Maxamed Islaam (Axme Madoobe) ayaa maanta magacaabay madaxweyne ku xigeenka labaad ee maamulkaasi, kadib wareegto uu soo saaray. Axmed…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/01/axmed-madoobe.webp?fit=2048%2C1366&ssl=1",
-          "publishedAt": "2026-11-14T14:00:36.000Z",
-          "titleEn": "Ahmed Madoobe who made a big name and reaction today.",
-          "summaryEn": "Kismaayo (Capital Online)  ⁇  The President of the Jubbaland Provincial Government, Mr. Ahmed Muhammad Islam (Axme Madoobe) today appointed the second Vice President of the administration, following a circular. Ahmed..."
-        },
-        {
-          "title": "Dowladda Imaaraadka oo Turkiga ka dalbatay teegaaro lama filaan ah oo ku saabsan…",
-          "link": "https://www.caasimada.net/dowladda-imaaraadka-oo-turkiga-ka-dalbatay-teegaaro-lama-filaan-ah-oo-ku-saabsan/",
-          "summary": "Abu Dhabi (Caasimada Online) – Dowladda Imaaraadka Carabta ayaa la sheegay inay Turkiga ka codsatay inuu gacan ka geysto dib u furidda wada-hadallada kala dhexeeya hoggaamiyaha militariga Sudan, Jeneraal Cabdifataax…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/01/Erdogan-Bin-Zayed.webp?fit=2048%2C1517&ssl=1",
-          "publishedAt": "2026-11-14T13:00:38.000Z",
-          "titleEn": "The UAE government has requested a surprise telegram from Turkey on...",
-          "summaryEn": "Abu Dhabi (Capital Online)  ⁇  The UAE government has reportedly asked Turkey to help reopen the talks between Sudanese military leader General Cabdifataax..."
-        },
-        {
-          "title": "Villa Somalia oo ka hadashay dib u dhaca ku yimid gogosha uu fidiyey Xasan Sheekh",
-          "link": "https://www.caasimada.net/madaxtooyada-oo-ka-hadashay-dib-u-dhaca-ku-yimid-shirkii-uu-iclaamiyay-xasan/",
-          "summary": "Muqdisho (Caasimada Online) – Madaxtooyada Soomaaliya ayaa war kasoo saartay dib u dhaca k yimid shirkii uu iclaamiyay Madaxweyne Xasan Sheekh Maxamuud ee la filayay in Sabtida maanta uu ka furmo gudaha magaalada…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/06/HASAAN.webp?fit=1440%2C960&ssl=1",
-          "publishedAt": "2026-11-14T12:00:24.000Z",
-          "titleEn": "Villa Somalia talking about the backlash in the gangs spread by Hasan Sheikh",
-          "summaryEn": "Mogadishu (Capital Online)  ⁇  Somalia's presidency has announced the delay of a meeting attended by President Hassan Sheikh Mahmoud that was expected to open on Saturday in the city..."
-        },
-        {
-          "title": "Trump oo sheegay hadal ka careysiin doona Sacuudiga kadib markii uu ku tilmaamay…",
-          "link": "https://www.caasimada.net/trump-oo-sheegay-hadal-ka-careysiin-doona-sacuudiga-kadib-markii-uu-ku-tilmaamay/",
-          "summary": "Washington (Caasimada Online) – Madaxweynaha Mareykanka Donald Trump ayaa Sacuudi Carabiya ku tilmaamay dal “kala daadanaya”, hadal xasaasi ah oo la filayo inuu ka caraysiiyo boqortooyada, xilli ay la tacaaleyso weerarro…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2025/05/Trump-Bin-Salman-10-scaled.jpg?fit=2560%2C1707&ssl=1",
-          "publishedAt": "2026-11-14T11:00:40.000Z",
-          "titleEn": "Trump said a speech that would offend Saudi Arabia after describing...",
-          "summaryEn": "Washington (Capital Online)  ⁇  US President Donald Trump has described Saudi Arabia as a \"divorce\" country, a sensitive statement expected to evade the kingdom, during a crackdown on..."
+          "title": "Soomaaliya iyo 17 dal oo kale oo si adag u cambaareeyay…",
+          "link": "https://www.caasimada.net/soomaaliya-iyo-17-dal-oo-si-adag-u-cambaareeyay-israel-oo-duqeysay/",
+          "summary": "Muqdisho (Caasimada Online) – Dowladda Soomaaliya iyo 17 dal oo kale ayaa si wadajir ah u cambaareeyay duqeyn ay Israa’iil ka fulisay Isbitaalka Nasser Medical Complex ee magaalada Khaan Yuunis ee koonfurta Marinka Qasa,…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/903697269_1670184191351181_7551614645256839163_n.webp?fit=1440%2C960&ssl=1",
+          "publishedAt": "2026-11-15T08:00:17.000Z"
         }
       ]
     }

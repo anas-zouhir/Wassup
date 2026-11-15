@@ -8,7 +8,7 @@
         "homepage": "https://lenouvelliste.com",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-15T06:43:19.637Z",
+      "fetchedAt": "2026-11-15T18:30:32.661Z",
       "items": [
         {
           "title": "The online registration of candidates for the presidency and legislative elections ends on November 15",
@@ -79,8 +79,57 @@
         "homepage": "https://www.haitilibre.com",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-15T06:43:19.721Z",
+      "fetchedAt": "2026-11-15T18:30:32.971Z",
       "items": [
+        {
+          "title": "Haïti - Actualité : Zapping",
+          "link": "https://www.haitilibre.com/article-48903-haiti-actualite-zapping.html",
+          "summary": "Le Salvador prépare une offensive - La FRG saisie 18 armes à feu et des munitions - Moïse Jean Charles à Moscou - Élections : Fanmi Lavalas, retrait temporaire - Défaite des Grenadiers, mots du P.M. - Élections :…",
+          "image": "https://www.haitilibre.com/images-a/p-48903.jpg",
+          "publishedAt": "2026-11-15T14:59:10.000Z"
+        },
+        {
+          "title": "iciHaïti - Électeurs : Centre d'inscription mobile",
+          "link": "https://www.icihaiti.com/article-48902-icihaiti-electeurs-centre-d-inscription-mobile.html",
+          "summary": "Le CEP informe que, dans le cadre de ses efforts visant à faciliter l'accès aux services électoraux, il procède au déploiement de Centres d'inscription mobile (CIM) dans différents espaces publics et au sein…",
+          "image": "https://www.haitilibre.com/images-a/p-48902.jpg",
+          "publishedAt": "2026-11-15T14:16:02.000Z"
+        },
+        {
+          "title": "Haïti - Économie : La DGI dialogue avec le secteur privé des affaires autour du nouveau Code fiscal",
+          "link": "https://www.haitilibre.com/article-48901-haiti-economie-la-dgi-dialogue-avec-le-secteur-prive-des-affaires-autour-du-nouveau-code-fiscal.html",
+          "summary": "Chesnel Francois le Directeur Général de la DGI et Alfred Pierre Directeur Général adjoint, ont pris part le cette semaine à côté de Serge Gabriel Collin le Ministre de l'Économie et des Finances, à une conférence-débat…",
+          "image": "https://www.haitilibre.com/images-a/p-48901.jpg",
+          "publishedAt": "2026-11-15T13:39:03.000Z"
+        },
+        {
+          "title": "iciHaïti - Élections : La plateforme numérique du CEP affecté par la panne chez Microsoft",
+          "link": "https://www.icihaiti.com/article-48900-icihaiti-elections-la-plateforme-numerique-du-cep-affecte-par-la-panne-chez-microsoft.html",
+          "summary": "Le CEP informe qu'une interruption des services de Microsoft a provoqué une perturbation à l'échelle mondiale de la messagerie électronique Outlook. Cet incident a entraîné des dysfonctionnements intermittents de la…",
+          "image": "https://www.haitilibre.com/images-a/p-48900.jpg",
+          "publishedAt": "2026-11-15T13:19:50.000Z"
+        },
+        {
+          "title": "Haïti - Rep. Dominicaine : 10,411 haïtiens expulsés vers Haïti en 7 jours",
+          "link": "https://www.haitilibre.com/article-48899-haiti-rep-dominicaine-10-411-haitiens-expulses-vers-haiti-en-7-jours.html",
+          "summary": "La Direction Générale de la Migration (DGM) durci le ton et poursuit son offensive de contrôle migratoire des étrangers à l'échelle nationale, avec le soutien des organismes de sécurité et des institutions de défense de…",
+          "image": "https://www.haitilibre.com/images-a/p-48899.jpg",
+          "publishedAt": "2026-11-15T13:08:46.000Z"
+        },
+        {
+          "title": "iciHaïti - PNH : Réunion du Haut Commandement et des Directeurs Départementaux",
+          "link": "https://www.icihaiti.com/article-48898-icihaiti-pnh-reunion-du-haut-commandement-et-des-directeurs-departementaux.html",
+          "summary": "Vendredi 13 novembre 2026, Vladimir Paraison, le Directeur Général a.i. de la PNH ainsi que les membres du Haut Commandement, ont rencontré les 11 directeurs départementaux dans le cadre de l'évaluation mensuelle de la…",
+          "image": "https://www.haitilibre.com/images-a/p-48898.jpg",
+          "publishedAt": "2026-11-15T12:53:43.000Z"
+        },
+        {
+          "title": "Haïti - Ligue des Nations 1/4 de finale : Les USA infligent une lourde défaite à Haïti [6-0] (vidéo)",
+          "link": "https://www.haitilibre.com/article-48897-haiti-ligue-des-nations-1-4-de-finale-les-usa-infligent-une-lourde-defaite-a-haiti-[6-0]-video.html",
+          "summary": "Samedi 14 novembre pour les 1/4 de finale de la Ligue des Nations de la CONCACAF, nos Grenadiers à Miami affrontaient les «Yankees» la sélection des États-Unis qui à largement dominée le match, infligeant une lourde…",
+          "image": "https://www.haitilibre.com/images-a/p-48897.jpg",
+          "publishedAt": "2026-11-15T10:21:15.000Z"
+        },
         {
           "title": "Haïti - Actualité : Zapping...",
           "link": "https://www.haitilibre.com/article-48896-haiti-actualite-zapping.html",
@@ -107,69 +156,6 @@
           "publishedAt": "2026-11-14T14:11:17.000Z",
           "titleEn": "Haiti - Environment: Inclusive Blue Economy Project, supported by FIDA",
           "summaryEn": "The Ministry of the Environment took part in an official mission carried out in the northern and north-eastern departments on the occasion of Mrs Rocio Medina Bolivar's visit. Regional Director of the International Fund..."
-        },
-        {
-          "title": "iciHaïti - Environnement : Lancement des réserves boisées communales",
-          "link": "https://www.icihaiti.com/article-48893-icihaiti-environnement-lancement-des-reserves-boisees-communales.html",
-          "summary": "Jeudi 12 novembre, le Ministère de l'Intérieur, le Ministère de l'Environnement et la Fédération Nationale des Maires Haïtiens ont procédé, à l'Hôtel Montana, au lancement officiel du projet de création et de protection…",
-          "image": "https://www.haitilibre.com/images-a/p-48893.jpg",
-          "publishedAt": "2026-11-14T13:53:27.000Z",
-          "titleEn": "HereHaiti - Environment: Launch of communal forest reserves",
-          "summaryEn": "On Thursday, November 12, the Ministry of the Interior, the Ministry of Environment and the National Federation of Mayors of Haiti officially launched the project of creating and protecting..."
-        },
-        {
-          "title": "Haïti - Sports : Le MJSAC rencontre le Comité Olympique Haïtien et des fédérations et associations sportives",
-          "link": "https://www.haitilibre.com/article-48892-haiti-sports-le-mjsac-rencontre-le-comite-olympique-haitien-et-des-federations-et-associations-sportives.html",
-          "summary": "Vendredi 13 novembre 2026, Pythagore Dumas, le Ministre de la Jeunesse, et des des Sports (MJSAC) a rencontré les représentants du Comité Olympique Haïtien, des fédérations et associations sportives du pays",
-          "image": "https://www.haitilibre.com/images-a/p-48892.jpg",
-          "publishedAt": "2026-11-14T13:41:26.000Z",
-          "titleEn": "Haiti - Sports: MJSAC meets with the Haitian Olympic Committee and sports federations and associations",
-          "summaryEn": "On Friday 13 November 2026, Pythagore Dumas, the Minister of Youth, Sports and Sports (MJSAC) met with representatives of the Haitian Olympic Committee, the country's sports federations and associations"
-        },
-        {
-          "title": "iciHaïti - Podium Gouvernemental : Sandra Paulemon présente les priorités du MPCE (vidéo)",
-          "link": "https://www.icihaiti.com/article-48891-icihaiti-podium-gouvernemental-sandra-paulemon-presente-les-priorites-du-mpce-video.html",
-          "summary": "Mercredi 10 novembre 2026, pour le deuxième numéro de Podium Gouvernemental, Sandra Paulemon la Ministre de la Planification et de la Coopération Externe, Sandra Paulemon, était à l'honneur",
-          "image": "https://www.haitilibre.com/images-a/p-48891.jpg",
-          "publishedAt": "2026-11-14T13:26:23.000Z",
-          "titleEn": "This is Haiti - Governmental Podium: Sandra Paulemon presents the priorities of the ECMP (video)",
-          "summaryEn": "On Wednesday 10 November 2026, for the second edition of the Government Podium, Sandra Paulemon the Minister of Planning and External Cooperation, Sandra Paulamon, was at the honour"
-        },
-        {
-          "title": "Haïti - Ligue des Nations 1/4 de final : Jour «J» nos Grenadiers prêts pour affronter les «Yankees»",
-          "link": "https://www.haitilibre.com/article-48890-haiti-ligue-des-nations-1-4-de-final-jour-j-nos-grenadiers-prets-pour-affronter-les-yankees.html",
-          "summary": "À quelques heures du match aller du 1/4 de finale de la Ligue des Nations de la CONCACAF contre les «Yankees», nos Grenadiers ont tenu leur dernier entraînement officiel sur la pelouse du stade Nu, sous la direction du…",
-          "image": "https://www.haitilibre.com/images-a/p-48890.jpg",
-          "publishedAt": "2026-11-14T13:13:04.000Z",
-          "titleEn": "Haiti - League of Nations 1/4 final: Day  ⁇ J ⁇  our Grenadiers ready to face the  ⁇ Yankees ⁇",
-          "summaryEn": "A few hours before the CONCACAF Nations League quarter-finals against the Yankees, our Grenadiers held their last official training on the lawn of Nu Stadium, under the direction of..."
-        },
-        {
-          "title": "Haïti - Actualité : Zapping...",
-          "link": "https://www.haitilibre.com/article-48889-haiti-actualite-zapping.html",
-          "summary": "La FRG n'a aucun droit de regard sur les forces du Salvador - FRG - Armes, munitions et drogue saisies - Création des réserves boisées communales - MENFP Pluie de nominations et de chèques - Aggravation de l'insécurité…",
-          "image": "https://www.haitilibre.com/images-a/p-48889.jpg",
-          "publishedAt": "2026-11-13T14:54:09.000Z",
-          "titleEn": "Haiti - News: Zapping...",
-          "summaryEn": "The FRG has no right of access to El Salvador's forces - FRG - Weapons, ammunition and drugs seized - Creation of communal forest reserves - MENFP Rain of appointments and checks - Increased insecurity..."
-        },
-        {
-          "title": "Haïti - Élections : La CSC/CA ne peut accorder décharge aux anciens Premiers Ministres et Ministres",
-          "link": "https://www.haitilibre.com/article-48888-haiti-elections-la-csc-ca-ne-peut-accorder-decharge-aux-anciens-premiers-ministres-et-ministres.html",
-          "summary": "Jeudi 12 novembre 2026, Me Rogavil Boisguéné Président de la Cour Supérieure des Comptes et du Contentieux Administratif (CSC/CA) porte à la connaissance des anciens Premiers Ministres et Ministres [candidats aux…",
-          "image": "https://www.haitilibre.com/images-a/p-48888.jpg",
-          "publishedAt": "2026-11-13T13:53:08.000Z",
-          "titleEn": "Haiti - Elections: CSC/CA cannot discharge former Prime Ministers and Ministers",
-          "summaryEn": "On Thursday 12 November 2026, Mr Rogavil Boisguéné, President of the Superior Court of Accounts and Administrative Litigation (CSC/CA) brings to the attention of former Prime Ministers and Ministers [candidates for..."
-        },
-        {
-          "title": "iciHaïti - Chili : Vers la relocalisation des ressortissants haïtiens résidant dans plusieurs camps de Maipú",
-          "link": "https://www.icihaiti.com/article-48887-icihaiti-chili-vers-la-relocalisation-des-ressortissants-haitiens-residant-dans-plusieurs-camps-de-maipu.html",
-          "summary": "L'Ambassade d'Haïti au Chili a accueilli cette semaine une délégation de la Municipalité de Maipú dans le cadre d'une réunion de travail consacrée à la situation des ressortissants haïtiens résidant dans plusieurs camps…",
-          "image": "https://www.haitilibre.com/images-a/p-48887.jpg",
-          "publishedAt": "2026-11-13T13:44:18.000Z",
-          "titleEn": "Haiti - Chile: Towards relocation of Haitian nationals residing in several camps in Maipú",
-          "summaryEn": "The Embassy of Haiti in Chile this week welcomed a delegation from the Maipú Municipality as part of a working meeting on the situation of Haitian nationals living in several camps..."
         }
       ]
     },
@@ -180,8 +166,20 @@
         "homepage": "https://www.juno7.ht",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-15T06:43:19.853Z",
+      "fetchedAt": "2026-11-15T18:30:32.947Z",
       "items": [
+        {
+          "title": "Eloquentia Port-au-Prince ouvre les inscriptions pour sa 3e édition",
+          "link": "https://www.juno7.ht/eloquentia-port-au-prince-inscriptions-3e-edition/",
+          "summary": "Les jeunes de 18 à 30 ans ont jusqu’au 24 décembre 2026 pour s’inscrire. Le concours propose une formation à la prise de parole en public et la possibilité de représenter Haïti à la finale internationale d’Eloquentia.…",
+          "publishedAt": "2026-11-15T16:44:53.000Z"
+        },
+        {
+          "title": "Miami : deux blessés légers après une collision entre deux avions au sol",
+          "link": "https://www.juno7.ht/miami-collision-avions-copa-airlines-ups/",
+          "summary": "Un Boeing 737 de Copa Airlines et un Boeing 767 cargo d’UPS se sont heurtés samedi soir sur une voie de circulation de l’aéroport international de Miami. La FAA enquête sur l’incident. Deux avions sont entrés en…",
+          "publishedAt": "2026-11-15T15:19:13.000Z"
+        },
         {
           "title": "Le secteur religieux se mobilise en appui aux troupes salvadoriennes de Nayib Bukele",
           "link": "https://www.juno7.ht/haiti-mobilisation-religieuse-troupes-salvadoriennes/",
@@ -245,22 +243,6 @@
           "publishedAt": "2026-11-13T13:57:16.000Z",
           "titleEn": "National slam poetry competition: ten finalists competing for the title of the 6th edition",
           "summaryEn": "The final will be held on Sunday 15 November 2026, from 2pm to 6pm, at the Brazil-Haiti Cultural Centre. The person who wins the title will receive a $100,000 prize. The Haitian Slam Poetry Federation (FHSP) is the world's largest poetry..."
-        },
-        {
-          "title": "Wesli gagne un deuxième Félix grâce à l’album « Makaya » à l’ADISQ 2026.",
-          "link": "https://www.juno7.ht/wesli-deuxieme-felix-album-makaya-adisq-2026/",
-          "summary": "Le 4 novembre, Wesli, auteur-compositeur-interprète montréalais d’origine haïtienne, a remporté le Félix de l’Album de l’année dans la catégorie « Musique globale » pour son album Makaya. Ce prix souligne sa popularité…",
-          "publishedAt": "2026-11-13T13:52:12.000Z",
-          "titleEn": "Wesli earned a second Felix with the album  ⁇  Makaya  ⁇  at ADISQ 2026.",
-          "summaryEn": "On November 4, Wesli, a Haitian-born Montreal-based songwriter-performer, won the Félix Album of the Year in the Global Music category for his album Makaya. This award highlights its popularity..."
-        },
-        {
-          "title": "Haïti – Taux de référence BRH : vendredi 13 novembre 2026",
-          "link": "https://www.juno7.ht/haiti-taux-de-reference-brh-vendredi-13-novembre-2026/",
-          "summary": "La Banque de la République d’Haïti (BRH) calcule le taux de référence du jour à 130,79 gourdes pour un dollar américain (USD). La BRH établit ce taux à partir des transactions et opérations d’achat de devises…",
-          "publishedAt": "2026-11-13T12:22:14.000Z",
-          "titleEn": "Haiti  ⁇  BRH reference rate: Friday 13 November 2026",
-          "summaryEn": "The Bank of the Republic of Haiti (BRH) calculates the reference rate for the day at 130.79 guards per US dollar (USD). The HRC establishes this rate on the basis of transactions and currency purchases."
         }
       ]
     }
