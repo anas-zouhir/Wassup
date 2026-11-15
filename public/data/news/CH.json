@@ -15,7 +15,9 @@
           "link": "https://www.srf.ch/news/schweiz/ueber-ein-drittel-hoert-auf-viele-lehrabbrueche-gastro-nimmt-sich-selbst-in-die-pflicht",
           "summary": "Knapp 40 Prozent der Gastro-Lernenden schmeissen ihre Lehre. Nun sollen auch die Betriebe Unterstützung erhalten.",
           "image": "https://www.srf.ch/static/cms/images//320ws/8e0517.webp",
-          "publishedAt": "2026-11-15T06:28:19.000Z"
+          "publishedAt": "2026-11-15T06:28:19.000Z",
+          "titleEn": "More than a third listen to many textbooks: Gastro takes responsibility for himself",
+          "summaryEn": "Nearly 40 percent of Gastro-trained students are spoiling their education. Now the farms should also receive support."
         },
         {
           "title": "Dreiergipfel in China – Schliessen Trump, Putin und Xi einen neuen Abrüstungsvertrag?",
@@ -31,28 +33,36 @@
           "link": "https://www.srf.ch/news/schweiz/pionierprojekt-alte-matratzen-neue-chancen-aargauer-projekt-macht-schule",
           "summary": "Pro Jahr werden in der Schweiz rund eine Million Matratzen entsorgt. Wie viel Potenzial steckt im Matratzen-Recycling?",
           "image": "https://www.srf.ch/static/cms/images//320ws/2161cf.webp",
-          "publishedAt": "2026-11-14T20:15:00.000Z"
+          "publishedAt": "2026-11-14T20:15:00.000Z",
+          "titleEn": "Pioneer project  ⁇  Old mattresses, new opportunities  ⁇  Aargauer project makes school",
+          "summaryEn": "Around one million mattresses are disposed of in Switzerland every year. How much potential is there in mattress recycling?"
         },
         {
           "title": "Bilder der Woche – Weihnachtsmänner in Ausbildung und weitere Bildhighlights",
           "link": "https://www.srf.ch/news/gesellschaft/bilder-der-woche-weihnachtsmaenner-in-ausbildung-und-weitere-bildhighlights",
           "summary": "Zwischen Gänsemarsch, hohen Menschentürmen und kleinen Patienten: Das sind die Bilder der Woche.",
           "image": "https://www.srf.ch/static/cms/images//320ws/e804e6.webp",
-          "publishedAt": "2026-11-15T06:00:09.000Z"
+          "publishedAt": "2026-11-15T06:00:09.000Z",
+          "titleEn": "Images of the week  ⁇  Santa Claus in training and other image highlights",
+          "summaryEn": "Between a goose march, high crowds and small patients, these are the pictures of the week."
         },
         {
           "title": "US-Raumfahrtunternehmen SpaceX – SpaceX fängt Starship-Rakete erstmals mit Greifarmen auf",
           "link": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-spacex-faengt-starship-rakete-erstmals-mit-greifarmen-auf",
           "summary": "Erstmals fing SpaceX die obere Raketenstufe des Raketensystems Starship nach einem Flug ins All am Startturm auf.",
           "image": "https://www.srf.ch/static/cms/images//320ws/d63e83.webp",
-          "publishedAt": "2026-11-15T02:44:33.000Z"
+          "publishedAt": "2026-11-15T02:44:33.000Z",
+          "titleEn": "US space company SpaceX  ⁇  SpaceX catches starship rockets for the first time with grip arms",
+          "summaryEn": "For the first time, SpaceX picked up the upper rocket stage of the Starship rocket system after a flight into space at the launch tower."
         },
         {
           "title": "Staatsgewalt in Pakistan – Zehn Jahre Gefängnis für Menschenrechtsanwältin",
           "link": "https://www.srf.ch/news/international/staatsgewalt-in-pakistan-zehn-jahre-gefaengnis-fuer-menschenrechtsanwaeltin",
           "summary": "Die Anwältin Imaan Mazari-Hazir ist in ihrer Heimat Pakistan bekannt für ihren Mut. Nun sitzt sie aber hinter Gittern.",
           "image": "https://www.srf.ch/static/cms/images//320ws/ee540e7.webp",
-          "publishedAt": "2026-11-14T19:17:28.000Z"
+          "publishedAt": "2026-11-14T19:17:28.000Z",
+          "titleEn": "State violence in Pakistan  ⁇  Ten years in prison for human rights lawyer",
+          "summaryEn": "Lawyer Imaan Mazari-Hazir is known in her home country of Pakistan for her courage. But now she's behind bars."
         },
         {
           "title": "Europapolitik – Abstimmung zum EU-Vertragspaket kommt wohl frühestens 2028",
@@ -86,7 +96,9 @@
           "link": "https://www.srf.ch/kultur/gesellschaft-religion/erziehung-zur-grausamkeit-wie-wir-alle-zu-kleinen-donald-trumps-werden",
           "summary": "Punkten, indem man andere erniedrigt? Das neue Buch von Robert Misik erklärt, wie man die Lust an der Verrohung lernt.",
           "image": "https://www.srf.ch/static/cms/images//320ws/d28eef.webp",
-          "publishedAt": "2026-11-14T14:05:27.000Z"
+          "publishedAt": "2026-11-14T14:05:27.000Z",
+          "titleEn": "⁇ Education to cruelty ⁇   ⁇  How we all become little Donald Trumps",
+          "summaryEn": "Points by humiliating others? Robert Misik's new book explains how to learn the pleasure of betrayal."
         }
       ]
     },
@@ -104,70 +116,90 @@
           "link": "https://www.nzz.ch/feuilleton/was-gabriele-stoetzer-im-stasi-gefaengnis-erlebt-laesst-sie-zur-gefeierten-kuenstlerin-werden-ld.10060484",
           "summary": "Gabriele Stötzer protestierte vor fünfzig Jahren gegen die Ausbürgerung Wolf Biermanns und kam ins schlimmste Frauengefängnis der DDR. Jetzt stellt sie als erste ostdeutsche Frau im Martin-Gropius-Bau in Berlin aus.",
           "image": "https://img-msp-prod.nzz.ch/2026/11/11/d754e6a7-5126-4a61-9f6a-8b94046d0e18.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2817,2817,x1099,y613",
-          "publishedAt": "2026-11-15T04:31:00.000Z"
+          "publishedAt": "2026-11-15T04:31:00.000Z",
+          "titleEn": "What Gabriele Stötzer experienced in the GDR in Stasi prison makes her a celebrated artist",
+          "summaryEn": "Gabriele Stötzer protested against the naturalization of Wolf Biermann fifty years ago and went to the worst women's prison in the GDR. Now she is the first East German woman to exhibit at the Martin-Gropius building in Berlin."
         },
         {
           "title": "Kreuzfahrtschiff kentert nach Kollision mit Tanker auf dem Mississippi",
           "link": "https://www.nzz.ch/panorama/tankschiff-rammt-kreuzfahrtschiff-auf-dem-mississippi-in-new-orleans-ld.10063636",
           "summary": "Ein Tanker ist am Freitag auf dem Mississippi mit einem vertäuten Flusskreuzfahrtschiff kollidiert. Das Passagierschiff kenterte und versank zur Hälfte im Wasser. Rund 100 Menschen gingen über Bord. 32 Personen wurden…",
           "image": "https://img-msp-prod.nzz.ch/2026/11/13/95dcad35-3a44-4ec8-af43-b3eed1559e78.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=857,857,x214,y0",
-          "publishedAt": "2026-11-15T04:30:56.000Z"
+          "publishedAt": "2026-11-15T04:30:56.000Z",
+          "titleEn": "A cruise ship colliding with a tanker on the Mississippi River",
+          "summaryEn": "A tanker collided with a wrecked river cruise ship on the Mississippi River on Friday. The passenger ship sank and sank in half. About 100 people went overboard. Thirty-two people were..."
         },
         {
           "title": "Zugs reicher Finanzdirektor: «Tiefe Steuern haben auch ihre Grenzen»",
           "link": "https://www.nzz.ch/schweiz/zuger-finanzdirektor-tiefe-steuern-haben-auch-ihre-grenzen-ld.10063187",
           "summary": "Der Kanton Zug schwimmt im Geld. Heinz Tännler fürchtet den Vergleich mit Monaco, gibt sich plötzlich kulant gegenüber Kantonen wie Zürich und experimentiert mit einer Standortförderung der anderen Art.",
           "image": "https://img-msp-prod.nzz.ch/2026/11/13/625bb692-4873-41b6-aef5-928f971dbac2.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=871,871,x2608,y576",
-          "publishedAt": "2026-11-15T04:30:00.000Z"
+          "publishedAt": "2026-11-15T04:30:00.000Z",
+          "titleEn": "Treats of wealthy financial director:  ⁇ Deep taxes have their limits ⁇",
+          "summaryEn": "The Canton train floats in the money. Heinz Tännler fears comparison with Monaco, suddenly gives up to cantons like Zurich and experiments with a location promotion of the other kind."
         },
         {
           "title": "Autoversicherungen werden immer teurer: So kann man sparen",
           "link": "https://www.nzz.ch/finanzen/teure-autoversicherungen-2027-tipps-zum-sparen-von-hunderten-franken-ld.10063012",
           "summary": "Autofahrer sollten Prämienerhöhungen bei den Versicherungen ihrer Fahrzeuge nicht einfach still erdulden. Bei einem Wechsel lassen sich oft mehrere hundert Franken pro Jahr sparen.",
           "image": "https://img-msp-prod.nzz.ch/2026/11/03/19dd6b99-e30e-4253-b4ad-babd29b23ce4.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4640,4640,x1160,y0",
-          "publishedAt": "2026-11-15T04:30:00.000Z"
+          "publishedAt": "2026-11-15T04:30:00.000Z",
+          "titleEn": "Car insurance is getting more expensive: how to save money",
+          "summaryEn": "Drivers should not simply tolerate premium increases in their vehicle insurance. A change can often save several hundred francs a year."
         },
         {
           "title": "Darüber spricht Villaverde de Pontones: Der Wahnsinn kommt in Form einer künstlichen Welle",
           "link": "https://www.nzz.ch/international/darueber-spricht-villaverde-de-pontones-der-wahnsinn-kommt-in-form-einer-kuenstlichen-welle-ld.10062907",
           "summary": "Auf einer grünen Wiese, nur sieben Kilometer vom Atlantikstrand entfernt, soll bei einem kleinen Dorf in Nordspanien eine riesige künstliche Surfanlage entstehen. Anwohner befürchten dort noch grösseren Wassermangel als…",
           "image": "https://img-msp-prod.nzz.ch/2026/11/13/7b0cc9cb-3f4f-4c6b-b8ae-cd3767b3d5a1.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1009,1009,x296,y0",
-          "publishedAt": "2026-11-15T04:30:00.000Z"
+          "publishedAt": "2026-11-15T04:30:00.000Z",
+          "titleEn": "This is what Villaverde de Pontones says: Madness comes in the form of an artificial wave",
+          "summaryEn": "On a green meadow just seven kilometers from the Atlantic coast, a huge artificial surfing facility is to be built in a small village in northern Spain. Residents there fear even greater water scarcity than..."
         },
         {
           "title": "Zidane und Materazzi sorgen für einen Skandal im WM-Final 2006 – zwanzig Jahre später bereuen sie nichts",
           "link": "https://www.nzz.ch/sport/fussball/zidane-und-materazzi-sorgen-fuer-einen-skandal-im-wm-final-2006-20-jahre-spaeter-bereuen-sie-nichts-ld.10061987",
           "summary": "Gab es eine Versöhnung oder nicht? Der Italiener und der Franzose sehen es unterschiedlich.",
           "image": "https://img-msp-prod.nzz.ch/2026/11/12/a6659c4b-18f7-437f-a213-30145855df99.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=917,917,x144,y0",
-          "publishedAt": "2026-11-15T04:30:00.000Z"
+          "publishedAt": "2026-11-15T04:30:00.000Z",
+          "titleEn": "Zidane and Materazzi cause a scandal in the 2006 World Cup final. Twenty years later, they regret nothing.",
+          "summaryEn": "Was there a reconciliation or not? The Italian and the French have different views."
         },
         {
           "title": "Tschador tragende Frauen üben auf öffentlichen Plätzen, mit automatischen Gewehren zu schiessen – Teheran gaukelt mit der Militärshow Wehrhaftigkeit vor",
           "link": "https://www.nzz.ch/international/tschador-tragende-frauen-ueben-auf-oeffentlichen-plaetzen-mit-automatischen-gewehren-zu-schiessen-teheran-gaukelt-mit-der-militaershow-wehrhaftigkeit-vor-ld.10061966",
           "summary": "Aus dem zentralen Platz der iranischen Hauptstadt ist ein militärischer Übungsplatz für Frauen geworden. Er soll Durchhaltewillen signalisieren und zeigt der Gesellschaft das ideale Frauenbild der Revolutionswächter.",
           "image": "https://img-msp-prod.nzz.ch/2026/11/10/fce36d91-3ef5-4289-8e0f-462a5af3f71e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3696,3696,x1227,y0",
-          "publishedAt": "2026-11-15T04:30:00.000Z"
+          "publishedAt": "2026-11-15T04:30:00.000Z",
+          "titleEn": "Chador-bearing women practice shooting with automatic rifles in public places  ⁇  Tehran is holed up with the military show Wehrmacht",
+          "summaryEn": "The central square of the Iranian capital has become a military training ground for women. It's meant to signal the will to persevere and show society the ideal image of women in the Revolutionary Guard."
         },
         {
           "title": "Sex, Lies and Nvidia: Der amerikanische Autor Henry R. Schlesinger erklärt, weshalb die Liebe die grausamste Kunst der Spionage sein kann",
           "link": "https://www.nzz.ch/international/sex-lies-and-nvidia-der-amerikanische-autor-henry-r-schlesinger-erklaert-weshalb-die-grausamste-art-der-spionagetechnik-ausgerechnet-die-liebe-ist-ld.10061964",
           "summary": "Im Zeitalter von Spyware geht etwas fast vergessen: sogenannte Honey-Traps. Was nach Hollywoodfilmen klingt, ist ein bewährtes Spionageelement, in das nicht nur Tech-CEO tappen, wie der Journalist und Autor Henry R.…",
           "image": "https://img-msp-prod.nzz.ch/2026/11/10/bce240a0-68f1-4856-b453-3ab0ab1d49ca.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1553,1553,x782,y203",
-          "publishedAt": "2026-11-15T04:30:00.000Z"
+          "publishedAt": "2026-11-15T04:30:00.000Z",
+          "titleEn": "Sex, Lies and Nvidia: American writer Henry R. Schlesinger explains why love can be the cruelest art of espionage",
+          "summaryEn": "In the age of spyware, there's something almost forgotten called honey traps. What sounds like Hollywood movies is a proven espionage element that not only tech CEOs, like the journalist and author Henry R...."
         },
         {
           "title": "Die Demokraten bereiten sich auf ihre Rache vor – im Fokus «The Trump Crime Family»",
           "link": "https://www.nzz.ch/international/die-demokraten-bereiten-sich-auf-ihre-rache-vor-im-fokus-the-trump-crime-family-ld.10061959",
           "summary": "Nach zwei gescheiterten Amtsenthebungsverfahren wollen es die Demokraten diesmal richtig machen. Doch die Hürden sind hoch, und die Trump-Regierung wappnet sich schon.",
           "image": "https://img-msp-prod.nzz.ch/2026/11/12/956fe1d4-1abc-4382-820e-8df5fde24a2e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3487,3487,x906,y0",
-          "publishedAt": "2026-11-15T04:30:00.000Z"
+          "publishedAt": "2026-11-15T04:30:00.000Z",
+          "titleEn": "The Democrats are preparing for their revenge.",
+          "summaryEn": "After two unsuccessful impeachment proceedings, the Democrats want to get it right this time. But the hurdles are high, and the Trump administration is already arming itself."
         },
         {
           "title": "Die Schweizer Fussballer erfüllen die Pflicht souverän. Aber Murat Yakin hat eine grosse Chance verpasst",
           "link": "https://www.nzz.ch/sport/fussball/die-schweizer-fussballer-erfuellen-die-pflicht-souveraen-aber-murat-yakin-hat-eine-grosse-chance-verpasst-ld.10061877",
           "summary": "Der Schweiz gelingt der schnellstmögliche Wiederaufstieg in die Liga A der Nations League. Doch hinter der Weiterentwicklung der Mannschaft stehen grosse Fragezeichen.",
           "image": "https://img-msp-prod.nzz.ch/2026/11/13/8891d434-4382-4844-a5c5-ca99255e6b66.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4045,4045,x1011,y0",
-          "publishedAt": "2026-11-15T04:30:00.000Z"
+          "publishedAt": "2026-11-15T04:30:00.000Z",
+          "titleEn": "Swiss footballers have a sovereign duty to perform. But Murat Yakin has missed a great opportunity",
+          "summaryEn": "Switzerland is able to achieve the fastest possible relegation to League A of the Nations League. But there are big question marks behind the team's development."
         }
       ]
     },
@@ -185,49 +217,63 @@
           "link": "https://www.rts.ch/info/sciences-tech/2026/article/meta-ecope-d-une-amende-de-805-millions-d-euros-en-italie-29416323.html?rts_source=rss_t",
           "summary": "La maison mère de Facebook, Meta, a écopé d'une lourde amende de 805 millions d'euros en Italie pour avoir accédé à des photos sans recueillir le consentement \"spécifique\" des utilisateurs, a annoncé samedi l'Autorité…",
           "image": "https://img.rts.ch/articles/2026/image/5bd6c47e-29416326.image?w=320&h=180",
-          "publishedAt": "2026-11-15T03:06:24.000Z"
+          "publishedAt": "2026-11-15T03:06:24.000Z",
+          "titleEn": "Meta fined 805 million euros in Italy for accessing photos without consent",
+          "summaryEn": "Facebook's parent company, Meta, was fined 805 million euros in Italy for accessing photos without the \"specific\" consent of users, the Authority announced on Saturday..."
         },
         {
           "title": "En France, une filiale de La Poste se fait voler les données de 22 millions de personnes",
           "link": "https://www.rts.ch/info/monde/2026/article/cyberattaque-22-millions-de-donnees-volees-chez-une-filiale-de-la-poste-29416312.html?rts_source=rss_t",
           "summary": "Une filiale du groupe La Poste, Maileva, spécialisée dans l'envoi de courriers professionnels, a été victime d'une importante cyberattaque, mi-septembre, ayant conduit au vol des coordonnées de 22 millions de personnes.",
           "image": "https://img.rts.ch/articles/2026/image/b031ec36-29416317.image?w=320&h=180",
-          "publishedAt": "2026-11-15T01:30:07.000Z"
+          "publishedAt": "2026-11-15T01:30:07.000Z",
+          "titleEn": "In France, a branch of La Poste gets 22 million people's data stolen",
+          "summaryEn": "A branch of the La Poste group, Maileva, which specialises in sending business mail, was the victim of a major cyberattack in mid-September that resulted in the theft of the contact information of 22 million people."
         },
         {
           "title": "SpaceX rattrape pour la première fois l'étage supérieur de sa fusée Starship",
           "link": "https://www.rts.ch/info/monde/2026/article/spacex-rattrape-l-etage-superieur-de-starship-une-premiere-29416255.html?rts_source=rss_t",
           "summary": "L'entreprise américaine SpaceX, appartenant à Elon Musk, a réussi samedi à rattraper l'imposant étage supérieur de sa mégafusée Starship après plus de 22 heures de vol. Il s'agit d'une première historique.",
           "image": "https://img.rts.ch/articles/2026/image/fd93cbd0-29416299.image?w=320&h=180",
-          "publishedAt": "2026-11-14T23:46:37.000Z"
+          "publishedAt": "2026-11-14T23:46:37.000Z",
+          "titleEn": "SpaceX reaches the top floor of its Starship rocket for the first time.",
+          "summaryEn": "US company SpaceX, owned by Elon Musk, managed to catch up to the imposing upper floor of its megafuzzy Starship on Saturday after more than 22 hours of flight. This is a first in history."
         },
         {
           "title": "La Nuit des Griffes réveille l'appétit des Romands pour les films d'horreur",
           "link": "https://www.rts.ch/info/culture/cinema/2026/article/cinema-d-horreur-la-nuit-des-griffes-fait-le-plein-a-lausanne-29416206.html?rts_source=rss_t",
           "summary": "Le festival lausannois La Nuit des Griffes, qui propose deux jours de cinéma horrifique, rencontre un succès croissant. Mais qu’est-ce qui nous attire tant dans les films d’horreur ?",
           "image": "https://img.rts.ch/medias/2026/image/510dfb73-29416174.image?w=320&h=180",
-          "publishedAt": "2026-11-14T21:42:08.000Z"
+          "publishedAt": "2026-11-14T21:42:08.000Z",
+          "titleEn": "The Night of the Scarecrow awakens the appetite of Romance lovers for horror films",
+          "summaryEn": "Lausanne's Night of the Dolls, a two-day horror film festival, is growing in popularity. But what is it that attracts us so much to horror movies?"
         },
         {
           "title": "La panne de Microsoft révèle la dépendance numérique des entreprises suisses",
           "link": "https://www.rts.ch/info/economie/2026/article/panne-de-microsoft-la-dependance-des-entreprises-suisses-29416156.html?rts_source=rss_t",
           "summary": "La panne mondiale de Microsoft a perturbé les activités de nombreuses entreprises suisses, dont le fabricant de sécateurs FELCO. Son directeur général, Nabil Francis, alerte sur les risques d'une dépendance numérique qui…",
           "image": "https://img.rts.ch/articles/2026/image/f0f61cc8-29416221.image?w=320&h=180",
-          "publishedAt": "2026-11-14T21:09:15.000Z"
+          "publishedAt": "2026-11-14T21:09:15.000Z",
+          "titleEn": "Microsoft's failure reveals the digital addiction of Swiss companies",
+          "summaryEn": "The global failure of Microsoft has disrupted the activities of many Swiss companies, including the manufacturer of seamers FELCO. Its CEO, Nabil Francis, warns of the risks of a digital addiction that..."
         },
         {
           "title": "L'huile végétale, une alternative au diesel qui peine encore à le remplacer",
           "link": "https://www.rts.ch/info/economie/2026/article/hvo-100-l-huile-vegetale-peut-elle-remplacer-le-diesel-29416097.html?rts_source=rss_t",
           "summary": "Avec la flambée du prix du carburant, de plus en plus d'automobilistes utilisent de l'huile végétale directement à la place du diesel, une pratique non sans risque. Un nouveau carburant à base d'huile a toutefois fait…",
           "image": "https://img.rts.ch/articles/2026/image/459cbdde-29416128.image?w=320&h=180",
-          "publishedAt": "2026-11-14T20:24:33.000Z"
+          "publishedAt": "2026-11-14T20:24:33.000Z",
+          "titleEn": "Vegetable oil as an alternative to diesel is still difficult to replace",
+          "summaryEn": "With fuel prices rising, more and more drivers are using vegetable oil directly instead of diesel, a not risk-free practice. However, a new oil-based fuel has made..."
         },
         {
           "title": "Plus de 6400 vols encore annulés samedi aux Etats-Unis après une panne géante",
           "link": "https://www.rts.ch/info/monde/2026/article/panne-geante-aux-etats-unis-des-milliers-de-vols-annules-29416122.html?rts_source=rss_t",
           "summary": "Le trafic aérien a repris progressivement samedi dans les aéroports américains au lendemain d'une interruption provoquée selon les autorités par le remplacement de câbles en cuivre vétustes, tandis que des milliers de…",
           "image": "https://img.rts.ch/articles/2026/image/deb09a12-29416131.image?w=320&h=180",
-          "publishedAt": "2026-11-14T18:00:31.000Z"
+          "publishedAt": "2026-11-14T18:00:31.000Z",
+          "titleEn": "More than 6,400 flights still canceled Saturday in the United States after a massive outage",
+          "summaryEn": "Air traffic gradually picked up at U.S. airports on Saturday following a disruption caused by the authorities' claim to have replaced worn-out copper cables, while thousands of..."
         },
         {
           "title": "Nouvelle journée de mobilisation en France contre la vie chère ou le soutien à l'enseignement",
@@ -235,7 +281,8 @@
           "summary": "Protection des enfants et adolescents, opposition au \"permis de tuer\", salaires, moyens pour l'enseignement : différentes manifestations ont rythmé, avec un peu moins d'affluence que les précédentes, et quelques…",
           "image": "https://img.rts.ch/articles/2026/image/c9aafcf7-29416100.image?w=320&h=180",
           "publishedAt": "2026-11-14T16:41:57.000Z",
-          "titleEn": "New day of mobilization in France against expensive living or support for education"
+          "titleEn": "New day of mobilization in France against expensive living or support for education",
+          "summaryEn": "Protection of children and adolescents, opposition to \"kill permits\", wages, means of education: various protests have taken place, with a slightly lower turnout than previous ones, and some..."
         },
         {
           "title": "Quand l'amour et le sexe coûtent son emploi à un grand patron",
