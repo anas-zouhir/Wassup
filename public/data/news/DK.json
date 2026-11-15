@@ -13,24 +13,29 @@
         {
           "title": "Mand stukket ned i Skovlunde",
           "link": "https://www.dr.dk/nyheder/seneste/mand-stukket-ned-i-skovlunde",
-          "publishedAt": "2026-11-15T18:24:52.000Z"
+          "publishedAt": "2026-11-15T18:24:52.000Z",
+          "titleEn": "Man stumbled into the woods"
         },
         {
           "title": "Africa CDC: Ebolaudbrud fortsat ude af kontrol",
           "link": "https://www.dr.dk/nyheder/seneste/africa-cdc-ebolaudbrud-fortsat-ude-af-kontrol",
-          "publishedAt": "2026-11-15T16:29:07.000Z"
+          "publishedAt": "2026-11-15T16:29:07.000Z",
+          "titleEn": "Africa CDC: Ebola outbreak remains out of control"
         },
         {
           "title": "Tre dødsdømt i Jordan for angreb mod kirke",
           "link": "https://www.dr.dk/nyheder/seneste/tre-doedsdoemt-i-jordan-angreb-mod-kirke",
-          "publishedAt": "2026-11-15T13:59:16.000Z"
+          "publishedAt": "2026-11-15T13:59:16.000Z",
+          "titleEn": "Three sentenced to death in Jordan for assaulting a church"
         },
         {
           "title": "Kina gør det forbudt at eje og besidde droner i Beijing",
           "link": "https://www.dr.dk/nyheder/seneste/kina-goer-det-forbudt-eje-og-besidde-droner-i-beijing",
           "summary": "Droneentusiaster i den kinesiske hovedstad har haft travlt med at skille sig af med udstyr.",
           "image": "https://asset.dr.dk/drdk/umbraco-images/wpvinxqr/20260919-060500-5.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-15T08:49:21.000Z"
+          "publishedAt": "2026-11-15T08:49:21.000Z",
+          "titleEn": "China makes it illegal to own and possess drones in Beijing",
+          "summaryEn": "Drone enthusiasts in the Chinese capital have been busy getting rid of equipment."
         },
         {
           "title": "Formodet flugtbilist løsladt efter afhøring",
@@ -86,70 +91,90 @@
           "link": "https://politiken.dk/kultur/art11035836/%C2%BBDer-skal-ikke-v%C3%A6re-nogen-Daimi-statue.-Er-du-da-rigtig-klog%C2%AB",
           "summary": "Du er en følelse, siger Politikens journalist til Daimi i dette portrætinterview. Men den æder Daimi ikke. Den 82-årige sangerinde har altid gjort tingene på sin egen måde. Og falder ikke for smiger. »Jeg. Bestemmer.…",
           "image": "https://politiken.dk/incoming/img11055124.x7po4d/ORIGINALS/original_960/Daimi",
-          "publishedAt": "2026-11-15T18:28:51.000Z"
+          "publishedAt": "2026-11-15T18:28:51.000Z",
+          "titleEn": "There should be no Daimi statue. Are you really smart?",
+          "summaryEn": "You're a feeling, the Politics reporter tells Daimi in this portrait interview. But it won't eat Daimi. The 82-year-old singer has always done things her way. And don't give in to flattery. I'm the one. It determines..."
         },
         {
           "title": "Norge kan være på vej mod et politisk nybrud, resten af Norden knap kan forestille sig",
           "link": "https://politiken.dk/internationalt/art11053062/Norge-kan-v%C3%A6re-p%C3%A5-vej-mod-et-politisk-nybrud-resten-af-Norden-knap-kan-forestille-sig",
           "summary": "Med mere end 30 procent tilslutning er Fremskrittspartiets Sylvi Listhaug det bedste bud på en borgerlig statsminister i Norge. Høyres tidligere statsminister Erna Solberg fælder dog en nådesløs dom.",
           "image": "https://politiken.dk/incoming/img11055818.unnf1f/ORIGINALS/original_960/P6GNv1pA7sU",
-          "publishedAt": "2026-11-15T17:00:55.000Z"
+          "publishedAt": "2026-11-15T17:00:55.000Z",
+          "titleEn": "Norway may be heading for a political breakthrough, the rest of the Nordic countries can hardly imagine",
+          "summaryEn": "With more than 30 percent support, Progressive Party's Sylvi Listhaug is the best bid for a bourgeois prime minister in Norway. However, former Prime Minister Erna Solberg has delivered a ruthless verdict."
         },
         {
           "title": "Keira Knightley er fabelagtig som undercoveragent",
           "link": "https://politiken.dk/kultur/film_og_tv/tvanmeldelser/art11053753/Keira-Knightley-er-fabelagtig-som-undercoveragent",
           "summary": "Anden sæson af den engelske spionthriller ’Black Doves’ er noget af det mest spændende og velspillede, der er til rådighed i disse uger.",
           "image": "https://politiken.dk/incoming/img11055296.aract0/ORIGINALS/original_960/BD_201_Unit_01775_RT2",
-          "publishedAt": "2026-11-15T17:00:52.000Z"
+          "publishedAt": "2026-11-15T17:00:52.000Z",
+          "titleEn": "Keira Knightley is fabulous as an undercover agent.",
+          "summaryEn": "The second season of the British spy thriller Black Doves is one of the most exciting and well-played available these weeks."
         },
         {
           "title": "Læk sætter russiske tabstal i voldsom historisk kontekst",
           "link": "https://politiken.dk/internationalt/art11060740/L%C3%A6k-s%C3%A6tter-russiske-tabstal-i-voldsom-historisk-kontekst",
           "summary": "Et læk af officielle russiske tabstal fra krigen i Ukraine er både »markant og meget bemærkelsesværdigt« ifølge ekspert. Vi prøver at sætte tallet i en historisk kontekst.",
           "image": "https://politiken.dk/incoming/img11061031.hvch3i/ORIGINALS/original_960/WW2-ANNIVERSARY-RUSSIA-PARADE",
-          "publishedAt": "2026-11-15T17:00:50.000Z"
+          "publishedAt": "2026-11-15T17:00:50.000Z",
+          "titleEn": "Lekk puts Russian losses in a violent historical context",
+          "summaryEn": "A leak of official Russian casualties from the war in Ukraine is both \"markant\" and \"very remarkable\", according to the expert. We're trying to put the number in a historical context."
         },
         {
           "title": "Flugtbil fra røveri i Lyngby Storcenter er fundet",
           "link": "https://politiken.dk/danmark/art11060987/Flugtbil-fra-r%C3%B8veri-i-Lyngby-Storcenter-er-fundet",
           "summary": "Søndag rykkede politiet ud til Lyngby Storcenter i forbindelse med et røveri. Nu er flugtbilen fundet.",
           "image": "https://politiken.dk/incoming/img11060994.kdrw9b/ORIGINALS/original_960/R%C3%B8veri%20i%20Lyngby%20Storcenter",
-          "publishedAt": "2026-11-15T16:20:04.000Z"
+          "publishedAt": "2026-11-15T16:20:04.000Z",
+          "titleEn": "The getaway car from a robbery at Lyngby Storcenter has been found.",
+          "summaryEn": "On Sunday, police arrived at the Lyngby Storcenter in connection with a robbery. Now the getaway car has been found."
         },
         {
           "title": "Hun har skrevet en bjergtagende roman, der bringer rige løfter om næste bind",
           "link": "https://politiken.dk/kultur/boger/boganmeldelser/skonlitteratur_boger/art11054206/Hun-har-skrevet-en-bjergtagende-roman-der-bringer-rige-l%C3%B8fter-om-n%C3%A6ste-bind",
           "summary": "Ida Jessen vender tilbage til heden i en historisk roman om håb, handlekraft og håndens arbejde. ’Ann Barbaras hvedebrødsdage’ er en fortælling om kroppen i landskabet og landskabet i kroppen.",
           "image": "https://politiken.dk/incoming/img11054233.uyyjf6/ORIGINALS/original_960/4318_10902_b19415cb91ca455992bbf01acbd6ea98_original",
-          "publishedAt": "2026-11-15T15:28:09.000Z"
+          "publishedAt": "2026-11-15T15:28:09.000Z",
+          "titleEn": "She's written a mountainous novel that brings rich promises for the next volume.",
+          "summaryEn": "Ida Jessen returns to the present day in a historical novel about hope, art, and handwork. Ann Barbara's Bread Days is a story about the body in the landscape and the landscape in the body."
         },
         {
           "title": "Man kan roligt smide Oliver Provstgaard ud på dybt vand",
           "link": "https://politiken.dk/sport/art11056712/Man-kan-roligt-smide-Oliver-Provstgaard-ud-p%C3%A5-dybt-vand",
           "summary": "Oliver Provstgaard er den landsholdsspiller, som har gennemgået den mest hastige udvikling i 2026. Selv om landstræneren i første omgang tvivlede på, om skiftet fra Vejle til Lazio var en god idé.",
           "image": "https://politiken.dk/incoming/img11060941.yejv6i/ORIGINALS/original_960/Fodboldlandsholdet%20holder%20pressem%C3%B8de",
-          "publishedAt": "2026-11-15T15:05:03.000Z"
+          "publishedAt": "2026-11-15T15:05:03.000Z",
+          "titleEn": "You can easily throw Oliver Provstgaard into deep water.",
+          "summaryEn": "Oliver Provstgaard is the national team player who has undergone the fastest development in 2026. Although the country coach initially doubted whether the move from Vejle to Lazio was a good idea."
         },
         {
           "title": "København vil bygge en ny cykelbro. Det kan koste livet for et af byens mest populære madsteder",
           "link": "https://politiken.dk/danmark/hovedstaden/art11060786/K%C3%B8benhavn-vil-bygge-en-ny-cykelbro.-Det-kan-koste-livet-for-et-af-byens-mest-popul%C3%A6re-madsteder",
           "summary": "Københavns Kommune vil fra 2030 inddrage området, hvor Reffen Street Food ligger, til byggeplads. Virksomheden bag madmarkedet foreslår nu fire alternative placeringer til byggepladsen.",
           "image": "https://politiken.dk/incoming/img11060827.wcd91i/ORIGINALS/original_960/Reffen",
-          "publishedAt": "2026-11-15T14:27:31.000Z"
+          "publishedAt": "2026-11-15T14:27:31.000Z",
+          "titleEn": "Copenhagen will build a new bicycle bridge. It could cost the life of one of the city's most popular restaurants.",
+          "summaryEn": "From 2030, the Municipality of Copenhagen will incorporate the area where Reffen Street Food is located. The company behind the food market is now proposing four alternative locations for the construction site."
         },
         {
           "title": "750 sider lang klassiker bliver pludselig læst af en ny generation",
           "link": "https://politiken.dk/kultur/art10985081/750-sider-lang-klassiker-bliver-pludselig-l%C3%A6st-af-en-ny-generation",
           "summary": "Takket være Zoe Kazans filmatisering får jeg nu øje på, hvor interessant Cathy er i John Steinbecks omstændelige slægtsroman, skriver Dorte Hygum i denne klumme.",
           "image": "https://politiken.dk/incoming/img11012366.mslg6t/ORIGINALS/original_960/EDEN_106_Unit_00283RC",
-          "publishedAt": "2026-11-15T14:09:24.000Z"
+          "publishedAt": "2026-11-15T14:09:24.000Z",
+          "titleEn": "750 pages of classics are suddenly read by a new generation.",
+          "summaryEn": "Thanks to Zoe Kazan's filmmaking, I now realize how interesting Cathy is in John Steinbeck's circumstantial family novel, writes Dorte Hygum in this clip."
         },
         {
           "title": "Maskerede gerningsmænd bag kup i storcenter – politiet rykker massivt ud",
           "link": "https://politiken.dk/danmark/art11060804/Maskerede-gerningsm%C3%A6nd-bag-kup-i-storcenter-%E2%80%93-politiet-rykker-massivt-ud",
           "summary": "Nordsjællands Politi får hjælp fra andre politikredse og har afsat store ressourcer til røveri i storcenter.",
           "image": "https://politiken.dk/incoming/img11060907.wpjcog/ORIGINALS/original_960/R%C3%B8veri%20i%20Lyngby%20Storcenter",
-          "publishedAt": "2026-11-15T11:36:45.000Z"
+          "publishedAt": "2026-11-15T11:36:45.000Z",
+          "titleEn": "Masked perpetrators behind the coup in the city center",
+          "summaryEn": "The North Zealand Police are assisted by other political networks and have devoted considerable resources to theft in major centres."
         }
       ]
     },
@@ -166,70 +191,90 @@
           "title": "Årsag til kemisk lugt i lejlighedsopgang i Esbjerg ikke fundet",
           "link": "https://www.berlingske.dk/indland/aarsag-til-kemisk-lugt-i-lejlighedsopgang-i-esbjerg-ikke-fundet?referrer=RSS",
           "summary": "Lejlighedsopgang i Esbjerg blev søndag eftermiddag undersøgt af politiet efter meldinger om en kemisk lugt.",
-          "publishedAt": "2026-11-15T18:19:45.000Z"
+          "publishedAt": "2026-11-15T18:19:45.000Z",
+          "titleEn": "Cause of chemical odor in occasional ascent of Esbjerg not found",
+          "summaryEn": "An apartment boom in Esbjerg was investigated by police on Sunday afternoon after reports of a chemical odor."
         },
         {
           "title": "U20-VM bliver uden Rusland trods CAS-dom",
           "link": "https://www.berlingske.dk/sport/u20-vm-bliver-uden-rusland-trods-cas-dom?referrer=RSS",
           "summary": "U20-VM i ishockey skulle blive første VM med Rusland tilbage efter CAS-dom, men det sker ikke alligevel.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167148695.webp?t[strip]=true&t[quality]=70&accessToken=75e2fda76ec22ebef33fe097af49c9a3c9b4a5f5fa0b9d04b91e66482adf1943",
-          "publishedAt": "2026-11-15T18:15:45.000Z"
+          "publishedAt": "2026-11-15T18:15:45.000Z",
+          "titleEn": "The U20 World Cup will be without Russia despite CAS's ruling",
+          "summaryEn": "The U20 World Cup in ice hockey was supposed to be the first World Cup with Russia back after the CAS ruling, but it's not happening anyway."
         },
         {
           "title": "Undgå at dit sommerhus ender med nedrivning: Hammerslag-ekspert viser, hvilke årgange du skal passe på",
           "link": "https://www.berlingske.dk/arkitektur/undgaa-at-dit-sommerhus-ender-med-nedrivning-hammerslag-ekspert-viser-hvilke-aargange-du-skal-passe-paa?referrer=RSS",
           "summary": "Signe Wenneberg kom i modvind, da hun forsvarede nedrivningen af sit eget sommerhus med, at det var bygget af dårlige materialer. Men er visse årgange af sommerhuse faktisk dårligere end andre? Hammerslag-ekspert…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166936504.webp?t[strip]=true&t[quality]=70&accessToken=30373eed1cbeaa1680c26d37715c585d83f0d6d1e55f4f7c8fb55c247b58a16a",
-          "publishedAt": "2026-11-15T18:12:19.000Z"
+          "publishedAt": "2026-11-15T18:12:19.000Z",
+          "titleEn": "Avoid the demolition of your summer home: Hammersbeat expert shows you what to watch out for",
+          "summaryEn": "Signe Wenneberg came up against the wind when she defended the demolition of her own summer home by saying it was built of bad materials. But are some summer homes actually worse than others? The expert on hammers."
         },
         {
           "title": "På et topsikret hotel fik Simon Kruse et ufiltreret indblik i en presset præsident",
           "link": "https://www.berlingske.dk/indland/paa-et-topsikret-hotel-fik-simon-kruse-et-ufiltreret-indblik-i-en-presset-praesident?referrer=RSS",
           "summary": "En skarp analyse af en presset krigspræsident, sådan kan brugte Hermès-tasker slå aktiemarkedet, Martin Krasniks braste amerikanske drømme, og så dissekerer Birgitte Borup J. D. Vances farlige Trump-alliance. Her er…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166920088.webp?t[strip]=true&t[quality]=70&accessToken=4418ecc89bd51fe06a8bd6a1d642cd2742e00550721b736377b15b4e07fffebb",
-          "publishedAt": "2026-11-15T17:57:51.000Z"
+          "publishedAt": "2026-11-15T17:57:51.000Z",
+          "titleEn": "At a top-security hotel, Simon Kruse got an unfiltered glimpse of a pressured president.",
+          "summaryEn": "A sharp analysis of a pressured war president, how Hermès's bags could beat the stock market, Martin Krasnik's shattered American dreams, and then dissecure Birgitte Borup J. D. Vance's dangerous Trump alliance. This is..."
         },
         {
           "title": "Uheld regner ned over Super Bowl-finalist i Tyskland",
           "link": "https://www.berlingske.dk/sport/uheld-regner-ned-over-super-bowl-finalist-i-tyskland?referrer=RSS",
           "summary": "New England Patriots måtte se stjernerne Drake Maye og A.J. Brown forlade banen på Allianz Arena med skader.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167148259.webp?t[strip]=true&t[quality]=70&accessToken=ef801fafceb796292df47dd9aba21e798a20e0776701570df29fa8d930825853",
-          "publishedAt": "2026-11-15T17:57:46.000Z"
+          "publishedAt": "2026-11-15T17:57:46.000Z",
+          "titleEn": "Bad luck is falling on the Super Bowl finalist in Germany",
+          "summaryEn": "The New England Patriots had to see stars Drake Maye and A.J. Brown is leaving the Allianz Arena with injuries."
         },
         {
           "title": "Fadervor er ikke bare en tekst, der kan moderniseres – det er en bøn, der har bundet generationer sammen",
           "link": "https://www.berlingske.dk/kommentatorer/fadervor-er-ikke-bare-en-tekst-der-kan-moderniseres--det-er-en-boen-der-har-bundet-generationer-sammen?referrer=RSS",
           "summary": "Fadervor er det kristne svar på bedetæppet. Det er den bøn, Kristus siger, vi skal bede. Ikke langstrakte kæder af ord, vi selv finder på. Fadervor er nok.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166896240.webp?t[strip]=true&t[quality]=70&accessToken=c5e38c203bc9bea2e6f74015c5da178edb1f27737bc6c5430e4437b074410735",
-          "publishedAt": "2026-11-15T17:53:31.000Z"
+          "publishedAt": "2026-11-15T17:53:31.000Z",
+          "titleEn": "Our Fathership is not just a text that can be modernized  ⁇  it's a prayer that has bound generations together",
+          "summaryEn": "Fathership is the Christian answer to prayer. That's the prayer Christ says we should pray. Not long chains of words we make up. Our fathers are enough."
         },
         {
           "title": "Ronaldinho har en fod med i mål i gensyn med fodboldbanen",
           "link": "https://www.berlingske.dk/sport/ronaldinho-har-en-fod-med-i-maal-i-gensyn-med-fodboldbanen?referrer=RSS",
           "summary": "45 minutter blev det til for Ronaldinho, da han søndag gjorde comeback til fodbold i Italien.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167147748.webp?t[strip]=true&t[quality]=70&accessToken=ad27cc6b99a2ccab1469903f88e726d640d4671014d569985d0d84e41d2e079c",
-          "publishedAt": "2026-11-15T17:42:49.000Z"
+          "publishedAt": "2026-11-15T17:42:49.000Z",
+          "titleEn": "Ronaldinho's got a foot in the door with a goal on the football pitch.",
+          "summaryEn": "It was 45 minutes for Ronaldinho when he made his comeback to Italian football on Sunday."
         },
         {
           "title": "Grøn organisation vil have forbudt granulat på legepladser",
           "link": "https://www.berlingske.dk/danmark/groen-organisation-vil-have-forbudt-granulat-paa-legepladser?referrer=RSS",
           "summary": "Danmarks Naturfredningsforening mener ikke, at gummi fra gamle bildæk bør bruges i faldunderlag til børn.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167104858.webp?t[strip]=true&t[quality]=70&accessToken=2e2e5dfe1cd1e1c0681bbc3e7449ccaef5e77ea23d72c2fb87831ec402c5f446",
-          "publishedAt": "2026-11-15T17:35:48.000Z"
+          "publishedAt": "2026-11-15T17:35:48.000Z",
+          "titleEn": "The Green Group wants to ban granulants in playgrounds",
+          "summaryEn": "The Danish Nature Conservancy Association does not believe that rubber from old car tires should be used in child falling situations."
         },
         {
           "title": "Årelang chikane mod slagterpar har ikke ført til én eneste sigtelse. Nu svarer politiet",
           "link": "https://www.berlingske.dk/gastronomi/aarelang-chikane-mod-slagterpar-har-ikke-foert-til-en-eneste-sigtelse-nu-svarer-politiet?referrer=RSS",
           "summary": "Selvom et slagterpar på Islands Brygge mener at kende gerningsmændene bag omfattende hærværk og trusler, har Københavns Politi stadig ingen sigtede. Men politiet understreger, at de har fokus på sagen.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167023102.webp?t[strip]=true&t[quality]=70&accessToken=34ab7a48cf493f0eb90fb32de9a5bf34348c0068f3946aee2f295ca1a5ba0640",
-          "publishedAt": "2026-11-15T17:30:38.000Z"
+          "publishedAt": "2026-11-15T17:30:38.000Z",
+          "titleEn": "Years of harassment against butchers have not led to a single indictment. Now the police are responding.",
+          "summaryEn": "Even though a butcher couple on the Island Bridge claims to know the perpetrators behind extensive vandalism and threats, Copenhagen Police still have no targets. But the police insist they're focused on the case."
         },
         {
           "title": "Ansatte i København Zoo fik ondt i maven af brutalt arbejdsmiljø. Nu starter uvildig undersøgelse",
           "link": "https://www.berlingske.dk/virksomheder/ansatte-i-koebenhavn-zoo-fik-ondt-i-maven-af-brutalt-arbejdsmiljoe-nu-starter-uvildig-undersoegelse?referrer=RSS",
           "summary": "I kølvandet på hård kritik af arbejdsmiljøet i København Zoo tilbød formand Lise Ryevad, at de ansatte i hele oktober kunne ringe direkte til hende, hvis de havde noget på hjerte. Det har flere gjort, oplyser hun til…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167050457.webp?t[strip]=true&t[quality]=70&accessToken=5cb917f2c026499c97d2827812c99c426a334bf5c0246a0b658a301ae54fac84",
-          "publishedAt": "2026-11-15T17:30:01.000Z"
+          "publishedAt": "2026-11-15T17:30:01.000Z",
+          "titleEn": "Employees at the Copenhagen Zoo suffered stomachache from a brutal work environment. Now the unwilling investigation begins.",
+          "summaryEn": "In the wake of harsh criticism of the working environment at the Copenhagen Zoo, President Lise Ryevad offered that employees could call her directly throughout October if they had anything at heart. Several people have done it, she informs..."
         }
       ]
     }
