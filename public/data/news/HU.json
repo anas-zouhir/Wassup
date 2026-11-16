@@ -3,203 +3,82 @@
   "outlets": [
     {
       "outlet": {
-        "id": "telex",
-        "name": "Telex",
-        "homepage": "https://telex.hu",
-        "lang": "hu"
-      },
-      "fetchedAt": "2026-11-13T18:41:02.191Z",
-      "items": [
-        {
-          "title": "Börtönökben, iskolákban és kórházakban is fennakadásokat okozott a Microsoft globális leállása",
-          "link": "https://telex.hu/techtud/2026/11/13/microsoft-globalis-leallas-borton-iskola-korhaz-fennakadas",
-          "summary": "Egy amerikai fogdában például az óvadékok befizetése akadozott, brit kórházakban pedig visszatértek a papíralapú dokumentációhoz.",
-          "image": "https://assets.telex.hu/images/20261113/1794592971-temp-har0dpgu6ak65fpnfcl_cimlap-normal.jpg",
-          "publishedAt": "2026-11-13T18:22:38.000Z",
-          "titleEn": "The global shutdown of Microsoft has caused riots in prisons, schools and hospitals.",
-          "summaryEn": "For example, bail payments in an American prisoner were on the wane, and in British hospitals, paper-based documentation was back."
-        },
-        {
-          "title": "Bild: Az oroszok a békéért cserébe Finnország kilépését követelik a NATO-ból",
-          "link": "https://telex.hu/kulfold/2026/11/13/oroszorszag-beke-feltetelek-ukrajna-finnorszag-nato-tagsag-kovetelesek-bild",
-          "summary": "A német lap értesülései szerint Moszkva Ukrajna területi engedményein túl Európa biztonsági rendjének átalakítását is feltételül szabta.",
-          "image": "https://assets.telex.hu/images/20261113/1794593681-temp-tht7dg593ruqffnlmpi_cimlap-normal.jpg",
-          "publishedAt": "2026-11-13T18:18:59.000Z",
-          "titleEn": "Bild: The Russians demand that Finland leave NATO in return for peace",
-          "summaryEn": "According to the German newspaper, in addition to Ukraine's territorial concessions, Moscow also imposed a requirement for the reform of the European security system."
-        },
-        {
-          "title": "Gyereket pénzért venni nem lehet, a magyarság fogyását ezzel nem lehet megállítani",
-          "link": "https://telex.hu/belfold/2026/11/13/nepessegfogyas-demografia-eloregedes-gazdasag-nyugdij-szules-termekenyseg-csaladpolitika",
-          "summary": "Hiába a sok adókedvezmény, nem fog több gyerek születni se nálunk, se a fejlett országokban. Mekkora tragédia ez, és mi vár a jövő fiataljaira, akik egyre kevesebben lesznek egyre több idős ember mellett? Fontos…",
-          "image": "https://assets.telex.hu/images/20261113/1794581980-temp-hojd1nufl4v3bnnidba_cimlap-normal.jpg",
-          "publishedAt": "2026-11-13T18:12:29.000Z",
-          "titleEn": "You can't buy children for money, you can't stop the decline of Hungarians",
-          "summaryEn": "Despite all the tax breaks, no more babies will be born here or in the developed world. How tragic is this, and what awaits the young people of the future who will become less and less accompanied by more and more older people? It's important to..."
-        },
-        {
-          "title": "Nemzethalál nem lesz, de meg kell barátkoznunk azzal, hogy milliókkal kevesebb magyar fog élni a Földön",
-          "link": "https://telex.hu/video/2026/11/13/magyarorszag-jovo-idoben-demografia-nepessegfogyas-nepesedes-nyugdij",
-          "summary": "Magyarország működését 10 millió emberre tervezték, amit ideje újratervezni, mivel a század végére 7 millióan maradhatunk. Hogyan nézzünk szembe ezzel? A megállíthatatlan népességcsökkenésről szól a Magyarország jövő…",
-          "image": "https://assets.telex.hu/images/20261113/1794575729-temp-9017mfguqo3j0lmfpbo_cimlap-normal.jpg",
-          "publishedAt": "2026-11-13T18:12:21.000Z",
-          "titleEn": "There won't be a nation-state, but we need to make friends with the fact that millions fewer Hungarians will live on Earth.",
-          "summaryEn": "Hungary's functioning was planned for 10 million people, which is time to redesign, as we could be seven million by the end of the century. How should we deal with this? It's about the unstoppable population decline of Hungary's future..."
-        },
-        {
-          "title": "MMA-harcosok verekedtek össze egy abu-dzabi hotelben, börtön lett a vége",
-          "link": "https://telex.hu/sport/2026/11/13/nurmagomedov-dvalisvili-verekedes-abu-dzabi-emirsegek-fel-ev-borton",
-          "summary": "Uszman Nurmagomedov és Merab Dvalisvili már jó ideje szájaltak egymásnak a médiában, aztán egy emírségekbeli hotelben szembetalálkoztak.",
-          "image": "https://assets.telex.hu/images/20261113/1794593052-temp-r5gbj1pnm7km5ojnhkc_cimlap-normal.jpg",
-          "publishedAt": "2026-11-13T18:06:49.000Z",
-          "titleEn": "MMA fighters fought at a hotel in Abu Dhabi, ended up in prison",
-          "summaryEn": "Usman Nurmagomedov and Merab Dvalisvili have been talking to each other in the media for a long time, and then they met at a hotel in the emirates."
-        },
-        {
-          "title": "Republikon Intézet: A gyermekszegénység jelentősen mélyült Magyarországon",
-          "link": "https://telex.hu/belfold/2026/11/13/republikon-intezet-csaladpolitika-melyszegenyseg-gyerekek",
-          "summary": "A mélyszegénység jobban sújtja a gyerekeket, mint a felnőtteket, miközben rászorultsági támogatásokra az előző kormány az EU-s arány tizenötödét költötte. Négyszer akkora a szegények aránya a roma kisebbségen belül, mint…",
-          "image": "https://assets.telex.hu/images/20261113/1794582028-temp-f63gla2ke327blhkjbh_cimlap-normal.jpg",
-          "publishedAt": "2026-11-13T17:44:51.000Z",
-          "titleEn": "Republikon Institute: Child poverty has significantly deepened in Hungary",
-          "summaryEn": "Deep poverty affects children more than adults, while the previous government spent 15 per cent of the EU's share on poverty support. Four times the proportion of the poor among the Roma minority as..."
-        },
-        {
-          "title": "Szexuális bűncselekmények gyanújával nyomoz a rendőrség David Walliams ügyében",
-          "link": "https://telex.hu/after/2026/11/13/david-walliams-visszaeles-nyomozas-londoni-rendorseg",
-          "summary": "A londoni rendőrséghez más esetekről érkeztek bejelentések, mint amelyeket a sajtó bemutatott. Az Angolkák sztárja tagadja a vádakat.",
-          "image": "https://assets.telex.hu/images/20261113/1794590856-temp-osd6o8j3pq0rfckjpid_cimlap-normal.jpg",
-          "publishedAt": "2026-11-13T17:31:47.000Z",
-          "titleEn": "Suspected of sexual assault, police are investigating the David Walliams case.",
-          "summaryEn": "London police have received reports of cases other than those reported in the press. The English star has denied the charges."
-        },
-        {
-          "title": "Tarr Zoltán sem az ügynökaktákat tartalmazó honlap elindítása előtt, sem azóta nem egyeztetett az ÁBTL főigazgatójával",
-          "link": "https://telex.hu/ugynokaktak/2026/11/13/tarr-zoltan-ugynokaktak-honlap-nem-egyeztetett-abtl-cseh-gergo-bendeguz",
-          "summary": "A minisztérium lapunkkal azt közölte, Tarr Zoltán az intézmény függetlenségét tiszteletben tartva nem egyeztetett Cseh Gergő Bendegúzzal.",
-          "image": "https://assets.telex.hu/images/20261113/1794589706-temp-r3t6uot9eceh8cfchme_cimlap-normal.jpg",
-          "publishedAt": "2026-11-13T17:11:58.000Z",
-          "titleEn": "Tarr Zoltán has not consulted with the Director-General of ABTL before and since the launch of the website containing the agents' files",
-          "summaryEn": "The Ministry's press release said that while respecting the independence of the institution, Tarr Zoltán has not agreed with the Czech Governor."
-        },
-        {
-          "title": "Létszámleépítés a közmédiánál: 160 helyett 108 dolgozót küldenek el",
-          "link": "https://telex.hu/after/2026/11/13/mtva-csoportos-letszamleepites-megallapodas-segelyalap",
-          "summary": "Létrehoznak egy 50 milliós kerettel induló segélyezési alapot a szociálisan rászoruló dolgozók támogatására.",
-          "image": "https://assets.telex.hu/images/20261113/1794584913-temp-9ectebd45siu5lkmjne_cimlap-normal.jpg",
-          "publishedAt": "2026-11-13T17:11:00.000Z",
-          "titleEn": "Public media deployment: 108 workers will be deployed instead of 160",
-          "summaryEn": "They are setting up a 50-million-dollar relief fund to support social workers in need."
-        },
-        {
-          "title": "Charles rendesen eláztatta az országot, de meg tudtuk fogni ezt a vizet?",
-          "link": "https://telex.hu/techtud/2026/11/13/charles-ciklon-csapadek-hungaromet-ovf-ekfm-vizmegtartas-klimavaltozas",
-          "summary": "Erre az esőre vártunk a nyári nagy aszály óta, alig van olyan hely az országban, ahová 30 mm alatti csapadék jutott volna a héten, a déli országrészben a 70 mm feletti értékek sem ritkák. Most kellene megtartani a plusz…",
-          "image": "https://assets.telex.hu/images/20261113/1794577874-temp-ba9jcj5evr3m7admoie_cimlap-normal.jpg",
-          "publishedAt": "2026-11-13T16:58:16.000Z",
-          "titleEn": "Charles flooded the country well, but did we capture this water?",
-          "summaryEn": "We've been waiting for this rain since the great summer drought, there's hardly a place in the country where rainfall below 30 millimeters has fallen this week, and in the southern part of the country, it's not uncommon to see above 70 millimeters. Now we should keep the plus..."
-        }
-      ]
-    },
-    {
-      "outlet": {
         "id": "hvg",
         "name": "HVG",
         "homepage": "https://hvg.hu",
         "lang": "hu"
       },
-      "fetchedAt": "2026-11-15T18:30:33.004Z",
+      "fetchedAt": "2026-11-16T08:04:30.242Z",
       "items": [
         {
-          "title": "„Az iharkúti lelőhely Európában is egyedülálló” - Ősi Attila magyar dinoszauruszokról és a mi kihalásunk esélyeiről",
-          "link": "https://hvg.hu/360/20261115_hvg-osi-attila-interju-paleontologus-oslenyek-magyarorszagon-iharkuti-asatas",
-          "summary": "A kutatás felfedező ereje hajtja Ősi Attilát, aki kitalálta és vezeti a magyarországi dinoszaurusz-kutató expedíciót. Nekik köszönhetően olyan őshüllőket ismerhettünk meg, mint a Hungarosaurus, az Ajkaceratops és a…",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a596b58b-d0aa-4449-95df-90d2435e4234.jpg",
-          "publishedAt": "2026-11-15T18:30:00.000Z",
-          "titleEn": "⁇ The battlefield is also unique in Europe  ⁇  Ancient Attila on Hungarian dinosaurs and our chances of extinction",
-          "summaryEn": "The exploratory power of research is driven by Ancient Attila, who invented and led the dinosaur exploration expedition in Hungary. Thanks to them, we've been able to identify primates like the Hungarosaurus, the Lipceratops and the..."
+          "title": "Összeütközött két repülőgép a miami repülőtéren",
+          "link": "https://hvg.hu/tudomany/20261116_repulogep-utkozes-baleset-miami",
+          "summary": "Nem adott elsőbbséget a UPS egyik teherszállító repülőgépe a Copa Airlines előtte áthaladó járatának.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fd4c4dcc-cb0e-48fd-a8a8-c0419beebf21.jpg",
+          "publishedAt": "2026-11-16T08:03:00.000Z"
         },
         {
-          "title": "Több százezren tiltakoztak Prágában a közmédia védelmében",
-          "link": "https://hvg.hu/vilag/20261115_csehorszag-kozmedia-finanszirozas-fuggetlenseg-praga-tuntetes",
-          "summary": "Csehországban eddig kötelező havi előfizetési díjból finanszírozták a közmédiát, a kormány tervei szerint a jövőben ezt az állami költségvetésből tennék.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/95746825-e47c-4028-8031-165f74181cde.jpg",
-          "publishedAt": "2026-11-15T17:43:27.000Z",
-          "titleEn": "Hundreds of thousands protested in Prague to protect the media",
-          "summaryEn": "In the Czech Republic, the public media has been financed from a mandatory monthly subscription fee, which, according to the government's plans, will be financed from the state budget in the future."
-        },
-        {
-          "title": "Kihelyezett ülést tart a Tisza-frakció a jövő héten",
-          "link": "https://hvg.hu/itthon/20261115_kihelyezett-ulest-tart-a-tisza-frakcio-a-jovo-heten",
-          "summary": "A kormány pedig „fontos döntéseket” is hoz majd szerdán, jelentette be Magyar Péter.",
+          "title": "Sesztákot, a kiásott milliárdokat és a Fidesz helyzetét is szóba hozza Magyar Péter - élőben a Parlamentből",
+          "link": "https://hvg.hu/itthon/20261116_sesztakot-milliardok-fidesz-magyar-peter-koltsegvetes-elo-kozvetites-parlament",
+          "summary": "A miniszterelnök napirend előtti felszólalásával kezdődik az országgyűlés rendkívüli ülése, amely három napon át tart majd és a fő téma a 2027-es költségvetés lesz. Kövesse az eseményeket a HVG élő közvetítésében!",
           "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ea34c8dd-b83d-4b8d-a3c7-21543c0792f4.jpg",
-          "publishedAt": "2026-11-15T17:12:02.000Z",
-          "titleEn": "The Tisza faction is holding a meeting next week.",
-          "summaryEn": "The government will also make important decisions on Wednesday, Hungarian Minister Péter announced."
+          "publishedAt": "2026-11-16T08:02:18.000Z"
         },
         {
-          "title": "Seszták újratöltve: Nem tudnak leállni a mémgyárosok, az új adag még jobb",
-          "link": "https://hvg.hu/tudomany/20261115_sesztak-miklos-memek-uj-adag",
-          "summary": "Mintha magát az elásott 6,5 milliárd forintnyi készpénzt osztanák szét köztük, úgy dolgoztak egész hétvégén az internet népművészei.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/3da4dcf5-dd7a-4e2e-86a3-f1aae5623953.jpg",
-          "publishedAt": "2026-11-15T17:03:00.000Z",
-          "titleEn": "Recharging: The mother plants can't stop, the new dose is even better",
-          "summaryEn": "It's as if the 6.5 billion forints of cash they've dug up are being distributed among them, and the internet folk artists have been working all weekend."
+          "title": "Henry Cavill Budapesten forgat, a Szent István-bazilikában járt",
+          "link": "https://hvg.hu/elet/20261116_henry-cavill-budapest-forgatas-netflix-sorozat-szent-istvan-bazilika",
+          "summary": "A sztár, aki már több alkalommal is forgatott Magyarországon, most egy új sorozaton dolgozhat.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d7fce082-5fc3-4b69-ad82-7ec39c18b688.jpg",
+          "publishedAt": "2026-11-16T08:01:22.000Z"
         },
         {
-          "title": "Mit jelent ma a vasárnapi ebéd Magyarországon?",
-          "link": "https://hvg.hu/elet/20261115_vasarnapi-ebed-bevezeto",
-          "summary": "Miért éppen vasárnap ülünk asztalhoz, honnan ered a közös ebéd hagyománya, és mi maradt belőle mára? A húsleves és a rántott hús sokaknak ismerős kiindulópont, de az ország étkezési kultúrája jóval sokszínűbb annál, mint…",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/aea9472e-6a6f-44d4-9577-7a722148d22c.jpg",
-          "publishedAt": "2026-11-15T17:00:00.000Z",
-          "titleEn": "What does Sunday lunch mean in Hungary today?",
-          "summaryEn": "Why do we sit at a table on Sunday, where did the tradition of sharing lunch come from, and what remains of it today? Meatmeal and roast meats are a familiar starting point for many, but the country's food culture is much more diverse than..."
+          "title": "Támadás érte a Krími hidat, leállították a forgalmat",
+          "link": "https://hvg.hu/vilag/20261116_tamadas-krimi-hid-forgalom",
+          "summary": "A hidat korán reggel érte támadás, a szakértők vizsgálják, mennyire sérült meg a szerkezet.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a4b33141-8e7c-44d3-ae2e-efd44bd8d4b3.jpg",
+          "publishedAt": "2026-11-16T08:00:10.000Z"
         },
         {
-          "title": "Nemzetközi lapszemle: Akárcsak Orbánnak, Magyar Péternek is megvan az adottsága, hogy nagy politikus legyen",
-          "link": "https://hvg.hu/360/20261115_nemzetkozi-lapszemle",
-          "summary": "Van mit tanulnia a tech-szektornak az Nvidia körüli kém- és szexbotrányból. Kihívás előtt áll Amerika a félidős választások eredményeként, de lengyel és magyar példákból is meríthetnek ihletet a jogállamiság…",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fbd076f2-16b8-4a97-a418-76c228ed30f2.jpg",
-          "publishedAt": "2026-11-15T16:37:59.000Z",
-          "titleEn": "I'm international: Like Orbán, Peter Hungarian has the ability to be a great politician",
-          "summaryEn": "There's a lot the tech industry can learn from the spy and sex scandal around Nvidia. America is facing a challenge as a result of the midterm elections, but the Polish and Hungarian examples can also inspire the rule of law..."
+          "title": "Eltűnik a dízel verzió a Skoda Octaviából",
+          "link": "https://hvg.hu/cegauto/20261116_eltunik-a-dizel-verzio-a-skoda-octaviabol",
+          "summary": "A céges vásárlóknál is egyre nehezebben jön ki a dízel előnye.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9016732b-0a53-47d8-8aae-288d25110c9d.jpg",
+          "publishedAt": "2026-11-16T07:48:00.000Z"
         },
         {
-          "title": "Ki akarsz mozdulni a komfortzónádból? Ne mosómedvét vegyél, hanem csinálj egy gyereket! – Az én hetem Krusovszky Dénessel",
-          "link": "https://hvg.hu/360/20261115_az-en-hetem-krusovszky-denes",
-          "summary": "Az én hetem című sorozatunkban négy író öt megadott kulcsszót felhasználva ír arról, miként élte meg az elmúlt hetet. Krusovszky Dénesnek most ezekből kellett dolgoznia: szívhang, haragtartás, öcsi, szexmisszió,…",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/cb806506-635b-4c33-bf87-9e3052979e2f.jpg",
-          "publishedAt": "2026-11-15T16:30:45.000Z",
-          "titleEn": "You want to get out of your comfort zone? Don't buy a teddy bear, make a baby. ⁇  My week with Denis Krusovsky",
-          "summaryEn": "In our series My Week, four writers use five keywords to describe how they have lived the past week. Krusovsky Denes had to work on these things: heartbeat, anger, brotherhood, sex..."
+          "title": "Nem elírás, 293 kilométerrel vár új gazdára egy 31 éves Mazda",
+          "link": "https://hvg.hu/cegauto/20261116_nem-eliras-293-kilometerrel-var-uj-gazdara-egy-31-eves-mazda-323-td-szedan",
+          "summary": "Ez a metálszürke fényezésű Mazda 323 egészen a 90-es évek közepéig pörgeti vissza az idő kerekét.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b0d977fb-fa45-4471-83e2-b8e410583d60.jpg",
+          "publishedAt": "2026-11-16T07:41:00.000Z"
         },
         {
-          "title": "Észtország lezárja határát Oroszországgal",
-          "link": "https://hvg.hu/vilag/20261115_esztorszag-lezarja-hatarat-oroszorszaggal",
-          "summary": "A balti állam külügyminisztere szerint egyértelmű bizonyítékok támasztják alá, hogy a GRU szabotázsakciót rendelt el egy észt védelmi ipari vállalat ellen.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/1c591db8-03a0-4570-908b-535358303d4e.jpg",
-          "publishedAt": "2026-11-15T16:20:27.000Z",
-          "titleEn": "Estonia closes its border with Russia",
-          "summaryEn": "According to the Minister for Foreign Affairs of the Baltic State, there is clear evidence that the GRU ordered a sabotage operation against an Estonian defence industrial company."
+          "title": "Magyar Péter: A Kisvakond-frakció felkészül a végső merülésre",
+          "link": "https://hvg.hu/itthon/20261116_magyar-peter-kisvakond-frakcio-kdnp",
+          "summary": "A hétfői parlamenti ülést vezette fel kisvakondozással a miniszterelnök.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ae52be24-0214-4012-9dd5-ca342dcf7d74.jpg",
+          "publishedAt": "2026-11-16T07:34:06.000Z"
         },
         {
-          "title": "Lamperth Mónika hétfőtől Kovács Gergelyt segíti a XII. kerületi önkormányzatnál",
-          "link": "https://hvg.hu/itthon/20261115_lamperth-monika-kovacs-gergely-xii-kerulet-onkormanyzat",
-          "summary": "A volt szocialista politikus elsősorban irányítási és vezetési területen segíti majd a hegyvidéki polgármester munkáját.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9aa34095-d0b9-4fb9-8138-e966ed5b8f7a.jpg",
-          "publishedAt": "2026-11-15T16:05:48.000Z",
-          "titleEn": "Lamperth Monica will be assisting Kovács Gergely in the 12th District Municipality from Monday",
-          "summaryEn": "The former socialist politician will be assisting the mayor of the hill mainly in the area of management and leadership."
+          "title": "Unger Anna: „Találtunk pénzt, nem is keveset, de nem én ástam el, és nem is játék pénz”",
+          "link": "https://hvg.hu/itthon/20261116_unger-anna-talaltunk-penzt-nem-is-keveset-de-nem-en-astam-el-es-nem-is-jatekpenz",
+          "summary": "Hiába állítja ezt Orbán Viktor, a folyamatban lévő eljárásoknak nem az a céljuk, hogy eljussanak a volt kormányfőhöz, hanem az, hogy a bűncselekményekkel érintett vagyonokat felderítsék és visszaszerezzék – jelentette ki…",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/268a16dc-91b0-449e-8048-8c0c114cf5d6.jpg",
+          "publishedAt": "2026-11-16T07:31:32.000Z"
         },
         {
-          "title": "„Amikor Nemes László hívott, úgy voltam vele, hogy nem, többé nem”",
-          "link": "https://hvg.hu/360/20261115_202646-lars-eidinger-nemet-szinesz-belso-demonokrol-antidiszkorol-extra-teher",
-          "summary": "Klaus Barbie-t, a lyoni Gestapo vezetőjét alakítja Nemes (Jeles) László filmjében, a Moulinban. Lars Eidinger német színésszel a náci szerepekről, a Babilon Berlinről és a dj-létről is beszélgettünk.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/4c8fa793-4a7b-409e-a23e-0dc27e0e78cc.jpg",
-          "publishedAt": "2026-11-15T15:30:00.000Z",
-          "titleEn": "When Noble László called, I was like, \"No, no, no more\".",
-          "summaryEn": "He plays Klaus Barbie, the head of the Gestapo in the film \"The Moulin\" by noble László. Lars Eidinger and I talked about Nazi roles, Babylon Berlin, and DJing."
+          "title": "The Guardian-elemzés: A populista jobboldalt le lehet gyűrni, miért pesszimisták mégis a haladók?",
+          "link": "https://hvg.hu/vilag/20261116_guardian-elemzes-populizmus-jobboldal-gyenge-baloldal-haladok-pesszimizmus",
+          "summary": "A globális jobboldal, amely állítólag felívelőben van, hátrányban van szervezettségben, intellektuálisan, taktikában és a támogatók számában. Mégis, amikor veszít, azt csodának éli meg szabadelvű és baloldali. A The…",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d66dd3d0-32cb-4ce8-99c5-29364092f4db.jpg",
+          "publishedAt": "2026-11-16T07:19:55.000Z"
+        },
+        {
+          "title": "Vitézyék nekiveselkednek a Budapest–Pécs vasúti közlekedés fejlesztésének, Lázár miatt szinte a nulláról",
+          "link": "https://hvg.hu/gazdasag/20261116_vitezy-david-budapest-pecs-vasut-pecsi-fovonal-felujitas-elokeszites-mav-lazar-janos",
+          "summary": "A miniszter szerint a pécsi fővonal színvonala messze elmarad az elvárhatótól, az elődje pedig még az előkészítést és a tervezést sem indította el.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0a22f65b-6327-4660-8191-7ce955c38d26.jpg",
+          "publishedAt": "2026-11-16T07:16:25.000Z"
         }
       ]
     },
@@ -210,95 +89,70 @@
         "homepage": "https://index.hu",
         "lang": "hu"
       },
-      "fetchedAt": "2026-11-15T18:30:34.647Z",
+      "fetchedAt": "2026-11-16T08:04:31.286Z",
       "items": [
         {
-          "title": "A választások óta először tart kihelyezett frakcióülést a TISZA",
-          "link": "https://index.hu/belfold/2026/11/15/magyar-peter-dublin-orszaggyules-kihelyezett-ules-tisza-frakcio/",
-          "summary": "Magyar Péter ismertette a következő heti „menetrendet”.",
-          "image": "https://kep.index.hu/1/0/7248/72482/724829/72482917_5341251_d63e198361b1cc0b9def1d08764a2766_wm.jpg",
-          "publishedAt": "2026-11-15T18:25:00.000Z",
-          "titleEn": "For the first time since the elections, TISZA is holding a split",
-          "summaryEn": "Hungarian Peter explained the agenda for the following week."
+          "title": "Ruff Bálint a jövő évi költségvetés miatt kezdeményezett rendkívüli ülést",
+          "link": "https://index.hu/belfold/2026/11/16/orszaggyules-parlament-koltsegvetes-kormany-magyar-peter-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/ruff-balint-a-jovo-evi-koltsegvetes-miatt-kezdemenyezett-rendkivuli-ulest/",
+          "publishedAt": "2026-11-16T07:52:34.000Z"
         },
         {
-          "title": "Tényleg megtörtént: Ronaldinho 11 év után, 46 esztendősen visszatért a pályára",
-          "link": "https://index.hu/sport/futball/2026/11/15/ronaldinho-visszateres-olaszorszag-harmadosztaly-ravenna-forli-merkozes/",
-          "summary": "Az internet valósággal felrobbant a brazil zseni miatt.",
-          "image": "https://kep.index.hu/1/0/7256/72564/725642/72564241_5346879_94769a46c9a38d737d2190836265d2cd_wm.jpg",
-          "publishedAt": "2026-11-15T18:10:00.000Z",
-          "titleEn": "It really happened: Ronaldinho returned to the field after 11 years, 46 years",
-          "summaryEn": "The internet really exploded because of the Brazilian genius."
+          "title": "Magyar Péter beszédet mond",
+          "link": "https://index.hu/belfold/2026/11/16/orszaggyules-parlament-koltsegvetes-kormany-magyar-peter-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peter-beszedet-mond/",
+          "publishedAt": "2026-11-16T07:52:28.000Z"
         },
         {
-          "title": "Szabotázsakció miatt lezárná az orosz határt Észtország",
-          "link": "https://index.hu/kulfold/2026/11/15/esztorszag-oroszorszag-hatar-lezaras-margus-tsahkna/",
-          "summary": "Tallinn szerint Oroszország állhat az Ukrajnának gyártó dróncég elleni gyújtogatás mögött.",
-          "image": "https://kep.index.hu/1/0/7256/72563/725638/72563813_5346847_681f4812403b030340cd695b4aee910c_wm.jpg",
-          "publishedAt": "2026-11-15T17:39:00.000Z",
-          "titleEn": "Estonia closes the Russian border due to sabotage",
-          "summaryEn": "According to Tallinn, Russia could be behind the bombing of a Ukrainian drone manufacturer."
+          "title": "Rendkívüli ülést tart az Országgyűlés",
+          "link": "https://index.hu/belfold/2026/11/16/orszaggyules-parlament-koltsegvetes-kormany-magyar-peter-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/rendkivuli-ulest-tart-az-orszaggyules/",
+          "publishedAt": "2026-11-16T07:52:17.000Z"
         },
         {
-          "title": "Egymásba szerethetett a Megasztár két versenyzője, izzott köztük a levegő a párbajon",
-          "link": "https://index.hu/mindekozben/poszt/2026/11/15/megasztar-ekaterina-gulyas-roland-romanc/",
-          "image": "https://kep.index.hu/1/0/7255/72559/725591/72559171_42016ed53869c9575a5d8d23044fc855_wm.png",
-          "publishedAt": "2026-11-15T17:38:12.000Z",
-          "titleEn": "The two contestants of the Table could have been in love with each other."
+          "title": "A Tisza eddigi legfontosabb javaslatáról vitáznak a parlamentben, Magyar Péter beszédet mond - Az Országgyűlés ülése",
+          "link": "https://index.hu/belfold/2026/11/16/orszaggyules-parlament-koltsegvetes-kormany-magyar-peter-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/",
+          "summary": "Az Országgyűlés ülése.",
+          "image": "https://kep.index.hu/1/0/7165/71652/716528/71652877_5282721_9a956d1b5dcc9accc05dce19e74fbd93_wm.jpg",
+          "publishedAt": "2026-11-16T07:49:00.000Z"
         },
         {
-          "title": "„Meg is haltam, újjá is születtem” – Lengyel Johanna a magyar könnyűzene reménysugara",
-          "link": "https://index.hu/fomo/2026/11/15/lengyel-johanna-koncert-mom-kult-interju/",
-          "summary": "Az énekesnő exkluzív interjút adott lapunknak lemezbemutató koncertje után.",
-          "image": "https://kep.index.hu/1/0/7254/72546/725468/72546829_5345599_92c50ef4d67bc672e8af9e36d68d5028_wm.jpg",
-          "publishedAt": "2026-11-15T17:30:00.000Z",
-          "titleEn": "I'm dead and I'm born again Polish Johanna is the Hungarian song of hope",
-          "summaryEn": "The singer gave an exclusive interview to our paper after her album release."
+          "title": "Huszonkét évig élt az erdőben, végre saját házat kapott egy hajléktalan férfi Debrecenben",
+          "link": "https://index.hu/belfold/2026/11/16/hajlektalan-segitseg-haz-tunderkor-alapitvany/",
+          "summary": "Egy alapítvány segített neki, végre nem fázik, és hálás, ha meglátogatják.",
+          "image": "https://kep.index.hu/1/0/7256/72567/725678/72567815_5347125_b6c24b240ff2c27fc633c117df20ff37_wm.jpg",
+          "publishedAt": "2026-11-16T07:44:00.000Z"
         },
         {
-          "title": "A rozsda eszi az egyik budapesti hidat, több mint negyvenöt év után jöhet teljes felújítás",
-          "link": "https://index.hu/belfold/2026/11/15/petofi-hid-budapest-fovaros-duna-hidfelujitas-budapesti-kozlekedesi-kozpont-bkk-kozlekedes/",
-          "summary": "Friss fotókkal mutatjuk be a híd állapotát.",
-          "image": "https://kep.index.hu/1/0/7254/72545/725457/72545757_5345535_0ebe051b3f673f24e639592154cfea94_wm.jpg",
-          "publishedAt": "2026-11-15T17:30:00.000Z",
-          "titleEn": "The rust eats one of Budapest's bridges, after more than forty-five years can come full renovation",
-          "summaryEn": "We'll be showing you the bridge's condition with fresh photos."
+          "title": "A csőd felé robog a Győri Audi ETO, fájdalmas döntések jöhetnek a klubnál",
+          "link": "https://index.hu/sport/kezilabda/2026/11/16/gyori-audi-eto-kc-penzugyi-valsag-gorbicz-anita-fata-edina/",
+          "summary": "Görbicz Anita is megszólalt a nehéz helyzetről.",
+          "image": "https://kep.index.hu/1/0/7256/72567/725677/72567717_5347117_3fd76d64a20dc803c79cadf6b7791c8e_wm.jpg",
+          "publishedAt": "2026-11-16T07:42:00.000Z"
         },
         {
-          "title": "Nem kímélte Szergej Lavrov Ukrajna európai szövetségeseit, Moszkva nem kíván lemondani céljairól",
-          "link": "https://index.hu/kulfold/2026/11/15/oroszorszag-szergej-lavrov-europai-unio-ukrajna-feltetel-beketargyalas/",
-          "summary": "Ismét zsákutcába futhatnak a tárgyaló felek.",
-          "image": "https://kep.index.hu/1/0/7256/72561/725618/72561891_5346699_1ff4fc132a3e30475f58cdcb013011ad_wm.jpg",
-          "publishedAt": "2026-11-15T17:15:00.000Z",
-          "titleEn": "Sergey Lavrov has not spared Ukraine's European allies, and Moscow is not willing to give up its ambitions.",
-          "summaryEn": "The negotiating parties may again take to the streets."
+          "title": "Ásó, kapa, Kisvakond – Magyar Péter üzent a KDNP-nek a parlamenti ülés kezdete előtt",
+          "link": "https://index.hu/belfold/2026/11/16/magyar-peter-sesztak-miklos-kdnp-parlament-ules-orszaggyules/",
+          "summary": "A miniszterelnök szerint a kereszténydemokrata frakció felkészült a végső merülésre.",
+          "image": "https://kep.index.hu/1/0/7045/70450/704506/70450673_5197373_fe6939aaf3c4273d8bfed5ce6703882c_wm.jpg",
+          "publishedAt": "2026-11-16T07:39:00.000Z"
         },
         {
-          "title": "Hiába a jó kezdés, a Ferencváros simán kikapott",
-          "link": "https://index.hu/sport/jegkorong/2026/11/15/ferencvaros-ftc-telekom-graz-osztrak-liga/",
-          "summary": "Sorra jöttek a hazai gólok.",
-          "image": "https://kep.index.hu/1/0/7256/72563/725636/72563677_5346837_7f65ca0972baed6406e8a48b2aa3a7a7_wm.jpg",
-          "publishedAt": "2026-11-15T17:10:00.000Z",
-          "titleEn": "Despite a good start, the city of Florence was a good start.",
-          "summaryEn": "Home goals are coming up."
+          "title": "A politológus szerint kommunikációs káoszba keveredett a Fidesz Seszták Miklós ügyében",
+          "link": "https://index.hu/belfold/2026/11/16/fidesz-kdnp-sesztak-miklos-lemondas-boka-janos-retvari-bence-fidesz-kdnp/",
+          "summary": "Egymásnak ellentmondó módon reagáltak a földből előásott 6,5 milliárdra.",
+          "image": "https://kep.index.hu/1/0/7058/70586/705864/70586425_5206999_7b9c87b7ef5ad167a0dc398fcdd75e91_wm.jpg",
+          "publishedAt": "2026-11-16T07:31:00.000Z"
         },
         {
-          "title": "Drámai képsorok: először játszott a spanyol csapat Jesús de Miguel halála óta",
-          "link": "https://index.hu/sport/futball/2026/11/15/tenerife-jesus-de-miguel-tragedia-elso-merkozes-ceuta-spanyolorszag/",
-          "summary": "Megható megemlékezést tartottak a mérkőzés előtt.",
-          "image": "https://kep.index.hu/1/0/7256/72563/725631/72563157_5346799_8be82950e51a36345579c04d4cf6867e_wm.jpg",
-          "publishedAt": "2026-11-15T17:04:00.000Z",
-          "titleEn": "Dramatic footage: First time the Spanish team has played since the death of Jesús de Miguel",
-          "summaryEn": "They had a touching memorial before the game."
+          "title": "Ukrán csapás érte a Krími hidat, leállították a forgalmat, több mint ezer drón támadott",
+          "link": "https://index.hu/kulfold/2026/11/16/oroszorszag-ukrajna-krim-felsziget-tamadas-orosz-ukran-kornfliktus/",
+          "summary": "A moszkvai védelmi minisztérium szerint az ukránok támadása vasárnap este nyolctól hétfő reggel nyolcig tartott.",
+          "image": "https://kep.index.hu/1/0/7256/72567/725673/72567397_5347091_838372da3a361a5e6284a3fc663a6b02_wm.jpg",
+          "publishedAt": "2026-11-16T07:27:00.000Z"
         },
         {
-          "title": "Az amerikai elnök megalázta, a brit miniszterelnök kihasználta, mégis hős lett",
-          "link": "https://index.hu/kultur/cinematrix/2026/11/15/de-gaulle-az-ellenallas-hajnala-film-mozi-kritika/",
-          "summary": "De Gaulle: Az ellenállás hajnala.",
-          "image": "https://kep.index.hu/1/0/7254/72549/725494/72549481_5345801_415d137a7ae43db80326ec68e7a67bfb_wm.png",
-          "publishedAt": "2026-11-15T17:02:00.000Z",
-          "titleEn": "He was humiliated by the American president, exploited by the British prime minister, and yet he became a hero.",
-          "summaryEn": "De Gaulle: At the dawn of the resistance."
+          "title": "Catherine Zeta-Jones lánya felvette azt a csipkés ruhát, amit anyja 1996-ban viselt utoljára a vörös szőnyegen",
+          "link": "https://index.hu/mindekozben/poszt/2026/11/16/catherine-zeta-jones-lanya-carys-douglas-ruha-akkor-es-most/",
+          "image": "https://kep.index.hu/1/0/7256/72561/725619/72561983_9455c48a623fe02728423c2f7ea51595_wm.jpg",
+          "publishedAt": "2026-11-16T07:13:12.000Z"
         }
       ]
     }

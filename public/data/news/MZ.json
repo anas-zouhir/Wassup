@@ -8,8 +8,20 @@
         "homepage": "https://www.jornalnoticias.co.mz",
         "lang": "pt-MZ"
       },
-      "fetchedAt": "2026-11-15T18:30:52.082Z",
+      "fetchedAt": "2026-11-16T08:04:55.101Z",
       "items": [
+        {
+          "title": "MEC inaugura Feira Internacional do Livro",
+          "link": "https://www.jornalnoticias.co.mz/destaque/mec-inaugura-feira-internacional-do-livro/",
+          "summary": "O ministro da Educação e Cultura, Édson Macuácua, preside, esta segunda-feira (16 de Novembro), a abertura da primeira edição da Feira Internacional… O conteúdo MEC inaugura Feira Internacional do Livro aparece primeiro…",
+          "publishedAt": "2026-11-16T07:27:22.000Z"
+        },
+        {
+          "title": "PR encerra cursos de formação militar no ISEDEF",
+          "link": "https://www.jornalnoticias.co.mz/destaque/pr-encerra-cursos-de-formacao-militar-no-isedef/",
+          "summary": "O Presidente da República e Comandante-Chefe das Forças de Defesa e Segurança, Daniel Chapo, orienta, esta manhã (16 de Novembro), o encerramento… O conteúdo PR encerra cursos de formação militar no ISEDEF aparece…",
+          "publishedAt": "2026-11-16T07:07:40.000Z"
+        },
         {
           "title": "Moçambique e EAU acordam expandir comércio e investimento",
           "link": "https://www.jornalnoticias.co.mz/destaque/mocambique-e-eau-acordam-expandir-comercio-e-investimento/",
@@ -73,22 +85,6 @@
           "publishedAt": "2026-11-13T17:53:44.000Z",
           "titleEn": "El Niño: Government supports KaNyaka families with inputs and birds",
           "summaryEn": "The Maputo City Government has delivered agricultural, livestock and 1,400 poultry supplies to 250 families in the KaNyaka Municipal District, covering..."
-        },
-        {
-          "title": "“Mambas” perdem por uma bola diante da Etiópia no Zimpeto",
-          "link": "https://www.jornalnoticias.co.mz/breves/mambas-perdem-por-uma-bola-diante-da-etiopia-no-zimpeto/",
-          "summary": "A selecção nacional “Mambas” perdeu, na tarde desta sexta-feira (13 de Novembro), diante da Etiópia, por uma bola sem resposta em jogo… O conteúdo “Mambas” perdem por uma bola diante da Etiópia no Zimpeto aparece…",
-          "publishedAt": "2026-11-13T15:39:20.000Z",
-          "titleEn": "Both lose by one ball to Ethiopia in Zimpeto",
-          "summaryEn": "The national team  ⁇ Mambas ⁇  lost, this Friday afternoon (November 13), to Ethiopia, by an unanswered ball in play... The content  ⁇ Mambaas ⁇  lose by a ball to Ethiopia in Zimpeto appears..."
-        },
-        {
-          "title": "Ministro da Educação quer graduados humildes e comprometidos com a sociedade",
-          "link": "https://www.jornalnoticias.co.mz/destaque/ministro-da-educacao-quer-graduados-humildes-e-comprometidos-com-a-sociedade/",
-          "summary": "O ministro da Educação e Cultura, Edson Macuácua, defende que os graduados do ensino superior devem aliar o mérito académico à humildade,… O conteúdo Ministro da Educação quer graduados humildes e comprometidos com a…",
-          "publishedAt": "2026-11-13T15:30:33.000Z",
-          "titleEn": "Minister of Education wants humble graduates committed to society",
-          "summaryEn": "Minister of Education and Culture, Edson Macuácua, argues that graduates of higher education should combine academic merit with humility, content Minister of Education wants graduates who are humble and committed to..."
         }
       ]
     },
@@ -99,7 +95,7 @@
         "homepage": "https://opais.co.mz",
         "lang": "pt-MZ"
       },
-      "fetchedAt": "2026-11-15T18:30:48.225Z",
+      "fetchedAt": "2026-11-16T08:04:51.578Z",
       "items": [
         {
           "title": "LAM alerta para possíveis alterações e cancelamentos de voos devido à falta de combustível",
@@ -150,8 +146,56 @@
         "homepage": "https://clubofmozambique.com",
         "lang": "en-MZ"
       },
-      "fetchedAt": "2026-11-15T18:30:48.852Z",
+      "fetchedAt": "2026-11-16T08:04:52.404Z",
       "items": [
+        {
+          "title": "Mozambique: ENAPP says Jet A-1 supply disruptions have been fully resolved",
+          "link": "https://clubofmozambique.com/news/mozambique-enapp-says-jet-a-1-supply-disruptions-have-been-fully-resolved/",
+          "summary": "Mozambique’s National Petroleum Products Acquisition Company (ENAPP, EP) says disruptions to aviation fuel (Jet A-1) supplies, which affected domestic flight schedules, have been fully resolved, with supplies to aircraft…",
+          "publishedAt": "2026-11-16T08:03:00.000Z"
+        },
+        {
+          "title": "Mozambique: Momade removes Clementina Bomba as Renamo secretary-general",
+          "link": "https://clubofmozambique.com/news/mozambique-momade-removes-clementina-bomba-as-renamo-secretary-general/",
+          "summary": "Clementina Bomba is no longer secretary-general of Renamo. The member of parliament was dismissed from the post by a decision issued by party president Ossufo Momade, dated 12 November. The decision gives no reasons for…",
+          "publishedAt": "2026-11-16T07:52:41.000Z"
+        },
+        {
+          "title": "New phase of cooperation between Mozambique and UAE",
+          "link": "https://clubofmozambique.com/news/new-phase-of-cooperation-between-mozambique-and-uae/",
+          "summary": "Mozambican President Daniel Chapo has announced a new phase in economic and commercial cooperation between Mozambique and the United Arab Emirates (UAE), bolstered by US$500 million in financing, sectoral agreements, and…",
+          "publishedAt": "2026-11-16T07:23:36.000Z"
+        },
+        {
+          "title": "Cape Verde President Neves wins second term, challenger Rosa concedes defeat",
+          "link": "https://clubofmozambique.com/news/cape-verde-president-neves-wins-second-term-challenger-rosa-concedes-defeat/",
+          "summary": "Provisional results give Neves more than 60% of vote Election focused on jobs, need to stem outward migration Less than one-third of eligible ​voters cast ballots, results show Cape Verde President José Maria Neves has…",
+          "publishedAt": "2026-11-16T06:59:30.000Z"
+        },
+        {
+          "title": "Five EU countries to announce Rwanda deportation hub scheme",
+          "link": "https://clubofmozambique.com/news/five-eu-countries-to-announce-rwanda-deportation-hub-scheme/",
+          "summary": "Five EU countries including Germany and Denmark are set to announce Monday a deal to establish a migrant deportation center in Rwanda — the first such facility outside the bloc. The group, also comprising Austria, Greece…",
+          "publishedAt": "2026-11-16T06:53:12.000Z"
+        },
+        {
+          "title": "Mozambique: Millennium bim strengthens long-standing support for Casa do Gaiato with donation of essential food supplies",
+          "link": "https://clubofmozambique.com/news/mozambique-millennium-bim-strengthens-long-standing-support-for-casa-do-gaiato-with-donation-of-essential-food-supplies/",
+          "summary": "Millennium bim has donated essential food supplies to Casa do Gaiato to help ensure meals for the children and young people cared for by the institution. The donation includes rice, maize flour, spaghetti, cooking oil,…",
+          "publishedAt": "2026-11-16T05:00:02.000Z"
+        },
+        {
+          "title": "Mozambique: Civil society at Mondlane trial; analysis of Chapo strategy — By Joseph Hanlon",
+          "link": "https://clubofmozambique.com/news/mozambique-civil-society-at-mondlane-trial-analysis-of-chapo-strategy-by-joseph-hanlon/",
+          "summary": "In this issue Civil society at Mondlane trial Tuesday Extended analysis of Chapo strategy: Frelimo backs juggler Chapo – names him next candidate Civil society to be present at Mondlane trial The Supreme Court treason…",
+          "publishedAt": "2026-11-16T04:10:14.000Z"
+        },
+        {
+          "title": "Abu Dhabi Fund for Development signs US$500 million agreement with Mozambique",
+          "link": "https://clubofmozambique.com/news/abu-dhabi-fund-for-development-signs-us500-million-agreement-with-mozambique/",
+          "summary": "Abu Dhabi Fund for Development (ADFD) has signed its first cooperation agreement with the Government of the Republic of Mozambique, valued at approximately AED1.84 billion (US$500 million), to support the country’s…",
+          "publishedAt": "2026-11-16T04:10:10.000Z"
+        },
         {
           "title": "Mozambique: Mondlane trial in 45-seat courtroom, country’s first with audio and video recording of hearings",
           "link": "https://clubofmozambique.com/news/mozambique-mondlane-trial-in-45-seat-courtroom-countrys-first-with-audio-and-video-recording-of-hearings/",
@@ -163,54 +207,6 @@
           "link": "https://clubofmozambique.com/news/mozambique-steps-up-efforts-to-secure-international-funding-for-maternal-newborn-and-child-healthcare/",
           "summary": "The Government is stepping up efforts to mobilise international funding to strengthen maternal, neonatal and child health services, with the aim of ensuring that more women, newborns and children have access to quality…",
           "publishedAt": "2026-11-13T15:15:50.000Z"
-        },
-        {
-          "title": "Mozambique: Pemba and Reggio Emilia unite for UTEKA relaunch — Photos",
-          "link": "https://clubofmozambique.com/news/mozambique-pemba-and-reggio-emilia-unite-for-uteka-relaunch-photos/",
-          "summary": "Cabo Delgado Governor Valige Tauabo attended the ceremony marking the relaunch of the UTEKA Project in the city of Pemba on Friday, 13 November 2026. The initiative is a cooperation partnership between Pemba Municipal…",
-          "publishedAt": "2026-11-13T15:14:54.000Z"
-        },
-        {
-          "title": "Mozambique needs US$35 million to rebuild oncology services after fire",
-          "link": "https://clubofmozambique.com/news/mozambique-needs-us35-million-to-rebuild-oncology-services-after-fire/",
-          "summary": "Mozambique needs US$35 million to rebuild, modernise and expand the oncology service facilities destroyed by a fire, authorities said today, with almost ten countries, including Portugal, having already pledged their…",
-          "publishedAt": "2026-11-13T14:37:31.000Z"
-        },
-        {
-          "title": "President Chapo presents investment opportunities in Mozambique to Turkish businesspeople",
-          "link": "https://clubofmozambique.com/news/president-chapo-presents-investment-opportunities-in-mozambique-to-turkish-businesspeople/",
-          "summary": "President Daniel Francisco Chapo has invited Turkish businesspeople to invest in Mozambique, highlighting opportunities in infrastructure, energy, transport, logistics, agriculture, tourism and industrialisation.…",
-          "publishedAt": "2026-11-13T14:31:49.000Z"
-        },
-        {
-          "title": "Mozambique: Sant’Egidio reports brutal murder of 15-year-old Juvêncio, his 12-year-old friend Ilton still missing",
-          "link": "https://clubofmozambique.com/news/mozambique-santegidio-reports-brutal-murder-of-15-year-old-juvencio-his-12-year-old-friend-ilton-still-missing/",
-          "summary": "A 15-year-old boy has been killed and another, aged 12, has been missing since Saturday in the Mozambican city of Matola, in the south of the country, the Sant’Egidio Community reported this Friday (13 November), linking…",
-          "publishedAt": "2026-11-13T14:01:53.000Z"
-        },
-        {
-          "title": "Just In: Administrative Tribunal rejects CIM’s bid to suspend Mozambique Grain Institute’s import mandate",
-          "link": "https://clubofmozambique.com/news/just-in-administrative-tribunal-rejects-cims-bid-to-suspend-mozambique-grain-institutes-import-mandate/",
-          "summary": "The Administrative Tribunal has rejected the application for an interim injunction submitted by Companhia Industrial da Matola (CIM), which sought to suspend the implementation of Ministerial Diploma No. 132/2025, which…",
-          "publishedAt": "2026-11-13T13:53:54.000Z"
-        },
-        {
-          "title": "Rise in fuel prices increases vulnerability of Mozambique’s economy – IMF",
-          "link": "https://clubofmozambique.com/news/rise-in-fuel-prices-increases-vulnerability-of-mozambiques-economy-imf/",
-          "summary": "The International Monetary Fund (IMF) has warned that the rising international fuel prices, foreign currency shortages and difficulties in managing public finances are increasing the vulnerabilities of Mozambique’s…",
-          "publishedAt": "2026-11-13T13:24:54.000Z"
-        },
-        {
-          "title": "BCL showcases vision for 2035: 10 thousand SMEs in the value chains and 2 million Mozambicans with income opportunities",
-          "link": "https://clubofmozambique.com/news/bcl-showcases-vision-for-2035-10-thousand-smes-in-the-value-chains-and-2-million-mozambicans-with-income-opportunities/",
-          "summary": "At the Africa Gas & LNG Summit, the Bureau of Local Content (BCL) highlighted three priorities for turning major investments into business opportunities: accessible financing, capacity building and business partnerships.…",
-          "publishedAt": "2026-11-13T13:14:22.000Z"
-        },
-        {
-          "title": "Mozambique hit by Microsoft global outage",
-          "link": "https://clubofmozambique.com/news/mozambique-hit-by-microsoft-global-outage/",
-          "summary": "A technical failure affecting Microsoft’s platforms on a global scale is causing serious disruption to the operations of private companies and public institutions in Mozambique. Since yesterday afternoon, Thursday (12),…",
-          "publishedAt": "2026-11-13T12:13:38.000Z"
         }
       ]
     }

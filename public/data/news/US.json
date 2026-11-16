@@ -8,14 +8,14 @@
         "homepage": "https://www.nytimes.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-15T18:31:16.738Z",
+      "fetchedAt": "2026-11-16T08:05:19.526Z",
       "items": [
         {
-          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
-          "link": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html",
-          "summary": "The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.",
-          "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14dc-lutnick-commerce-01-bqtl/14dc-lutnick-commerce-01-bqtl-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-15T10:02:05.000Z"
+          "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
+          "link": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
+          "summary": "So far, President Trump has indicated that he does not plan to press the Chinese leader about U.S. intelligence findings that a Chinese spy targeted Jensen Huang.",
+          "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-trump-xi-01-bjgh/15dc-trump-xi-01-bjgh-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-15T22:54:41.000Z"
         },
         {
           "title": "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
@@ -27,57 +27,58 @@
         {
           "title": "Megaspeed Says Alice Huang Left Company in August 2025",
           "link": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
-          "summary": "The Singaporean company’s disclosure added to the timeline involving Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China.",
+          "summary": "The Singaporean company’s statement was its first to address the status of Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China.",
           "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-15T17:58:26.000Z"
-        },
-        {
-          "title": "Jensen Huang’s Downfall Brings Disbelief in Taiwan",
-          "link": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
-          "summary": "The Nvidia chief executive’s resignation shocked people in his birthplace, where he is called “the people’s dad.”",
-          "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15biz-newworld-taiwan-01-wgpc/15biz-newworld-taiwan-01-wgpc-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-15T10:01:57.000Z"
+          "publishedAt": "2026-11-16T06:02:06.000Z"
         },
         {
           "title": "Sean Duffy Offers New Details on How One Fix Spiraled Into Nationwide Ground Stop",
           "link": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html",
           "summary": "When asked, the transportation secretary could not guarantee on Sunday that a similar air traffic meltdown would not occur again.",
           "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-duffy2-vqkm/15dc-duffy2-vqkm-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-15T18:06:20.000Z"
+          "publishedAt": "2026-11-15T18:06:21.000Z"
         },
         {
-          "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
-          "link": "https://www.nytimes.com/2026/11/15/us/faa-groundstop-flights-status-delays-canceled.html",
-          "summary": "Operations are returning to normal after air traffic was shut down for more than 4 hours on Friday following a maintenance upgrade that crippled communications.",
-          "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15nat-airport-delays1-ptqj/15nat-airport-delays1-ptqj-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-15T18:17:24.000Z"
+          "title": "How Could a Router Lead to a Nationwide Ground Stop?",
+          "link": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html",
+          "summary": "Aviation experts and federal officials said the network outage began after a new piece of networking equipment began flooding the rest of the system with data. The underlying cause is unclear.",
+          "image": "https://static01.nyt.com/images/2026/12/15/multimedia/15nat-WWK-router-gtqw/15nat-WWK-router-gtqw-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-16T05:25:25.000Z"
         },
         {
-          "title": "Microsoft Outlook Outage and FAA Groundstop Show Dependence on Fragile Technology",
-          "link": "https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
-          "summary": "Incidents involving Microsoft’s Outlook and the Federal Aviation Administration this past week demonstrated our dependence on fragile technology.",
-          "image": "https://static01.nyt.com/images/2026/11/14/multimedia/00biz-tech-fragile-gclj/00biz-tech-fragile-gclj-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-15T10:02:06.000Z"
+          "title": "A Year On, Canada’s Mark Carney Returns to China a Political Star",
+          "link": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+          "summary": "Canada’s leader is courting Europe, but the bigger payoff might be in Asia, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.",
+          "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-canada-carney-china-hpfq/16int-canada-carney-china-hpfq-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-16T05:01:22.000Z"
         },
         {
-          "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
-          "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-          "summary": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.",
-          "image": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-15T16:52:29.000Z"
+          "title": "Miguel Ángel Félix Gallardo, Mexican Drug Lord, Dies in Prison",
+          "link": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
+          "summary": "Miguel Ángel Félix Gallardo, who helped build the foundations of modern-day drug empires, was the subject of a major U.S. manhunt for his role in the murder of a D.E.A. agent.",
+          "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-mexico-1-mqvc/15int-mexico-1-mqvc-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-16T02:11:17.000Z"
         },
         {
-          "title": "Iran Attacks Bahrain for the Second Time in Days",
-          "link": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
-          "summary": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.",
-          "publishedAt": "2026-11-15T15:55:09.000Z"
+          "title": "How Adam Driver, Scarlett Johansson and Miles Teller Built a Family in ‘Paper Tiger’",
+          "link": "https://www.nytimes.com/2026/11/15/movies/adam-driver-scarlett-johansson-miles-teller-interview-paper-tiger.html",
+          "summary": "James Gray’s latest autobiographical film, set in a crime-ridden ’80s New York, centers on what one of its stars jokingly calls “a throuple.”",
+          "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15cul-paper-tiger-roundtable1-lbmt/15cul-paper-tiger-roundtable1-lbmt-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-15T10:00:44.000Z"
         },
         {
-          "title": "Saudi-Backed Forces in Yemen Retreat From Red Sea as Houthis Advance",
-          "link": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
-          "summary": "The move is a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the balance of power in the country’s civil war was tilting toward the Iran-backed Houthi militia.",
-          "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-15T15:42:25.000Z"
+          "title": "International Students Are Turning Away From U.S. Universities",
+          "link": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
+          "summary": "For a second year, Trump administration policies appear to be scaring away international students, disrupting the finances of the American colleges that depend on them.",
+          "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-international-students-hp-promo/16nat-international-students-hp-promo-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-16T05:01:06.000Z"
+        },
+        {
+          "title": "Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support",
+          "link": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+          "summary": "Senator Chris Van Hollen of Maryland said on Sunday that he has a “wide-open” path to unseat Chuck Schumer, the long-serving Senate Democratic leader.",
+          "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-vanhollen-vlhj/15dc-vanhollen-vlhj-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-15T23:02:15.000Z"
         }
       ]
     },
@@ -88,8 +89,26 @@
         "homepage": "https://www.npr.org",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-15T18:31:16.796Z",
+      "fetchedAt": "2026-11-16T08:05:19.589Z",
       "items": [
+        {
+          "title": "Flight disruptions expected to last into Monday",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
+          "summary": "Congress recently gave the Department of Transportation $12.5 billion to upgrade the aging air traffic control system. President Trump wants more.",
+          "publishedAt": "2026-11-16T01:19:28.000Z"
+        },
+        {
+          "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+          "summary": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth.",
+          "publishedAt": "2026-11-15T22:41:22.000Z"
+        },
+        {
+          "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+          "summary": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?",
+          "publishedAt": "2026-11-15T22:07:55.000Z"
+        },
         {
           "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
           "link": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
@@ -97,21 +116,21 @@
           "publishedAt": "2026-11-15T17:45:27.000Z"
         },
         {
-          "title": "PREVENTING BLACK LUNG DISEASE",
+          "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
           "link": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
           "summary": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat.",
           "publishedAt": "2026-11-15T13:11:30.000Z"
         },
         {
-          "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
-          "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-          "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
-          "publishedAt": "2026-11-15T10:00:00.000Z"
-        },
-        {
           "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
           "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
           "summary": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.",
+          "publishedAt": "2026-11-15T10:00:00.000Z"
+        },
+        {
+          "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+          "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
           "publishedAt": "2026-11-15T10:00:00.000Z"
         },
         {
@@ -121,7 +140,7 @@
           "publishedAt": "2026-11-15T10:00:00.000Z"
         },
         {
-          "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+          "title": "Trump blasts judge for halting his Washington golf project and says he will appeal",
           "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
           "summary": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.",
           "publishedAt": "2026-11-15T04:28:45.000Z"
@@ -131,24 +150,6 @@
           "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
           "summary": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers.",
           "publishedAt": "2026-11-15T01:13:59.000Z"
-        },
-        {
-          "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
-          "summary": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run.",
-          "publishedAt": "2026-11-15T00:03:52.000Z"
-        },
-        {
-          "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
-          "summary": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop.",
-          "publishedAt": "2026-11-14T22:48:38.000Z"
-        },
-        {
-          "title": "US has lost measles elimination status, global health authorities say",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
-          "summary": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
-          "publishedAt": "2026-11-14T22:15:02.000Z"
         }
       ]
     },
@@ -159,8 +160,26 @@
         "homepage": "https://www.washingtonpost.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-15T18:31:25.827Z",
+      "fetchedAt": "2026-11-16T08:05:27.659Z",
       "items": [
+        {
+          "title": "Memorial opens to victims of 2015 mass shooting at Charleston church",
+          "link": "https://www.washingtonpost.com/nation/2026/11/15/memorial-opens-victims-2015-mass-shooting-charleston-church/",
+          "summary": "The memorial invites visitors to reflect on the massacre within the congregation’s long history of hardship, resilience and forgiveness.",
+          "publishedAt": "2026-11-15T21:00:00.000Z"
+        },
+        {
+          "title": "Duffy blames Congress, prior administrations for air travel halt, chaos",
+          "link": "https://www.washingtonpost.com/transportation/2026/11/15/sean-duffy-blames-congress-prior-administrations-ground-stop-chaos/",
+          "summary": "Transportation Secretary Sean Duffy refused to apologize for failures that led to the nationwide ground stop, pointing to a lack of investment in air traffic modernization.",
+          "publishedAt": "2026-11-15T18:36:12.000Z"
+        },
+        {
+          "title": "Costco recalls whipped cream over potential cleaning chemical contamination",
+          "link": "https://www.washingtonpost.com/nation/2026/11/15/costco-recalls-whipped-cream-over-potential-contamination/",
+          "summary": "A batch of a Kirkland whipped cream product sold in 12 states has been withdrawn after customers reported “a chemical smell and taste.\"",
+          "publishedAt": "2026-11-15T18:30:00.000Z"
+        },
         {
           "title": "Airlines scramble to resume flights after ground stop as cancellations continue",
           "link": "https://www.washingtonpost.com/transportation/2026/11/15/airlines-scramble-resume-flights-after-ground-stop-cancellations-continue/",
@@ -202,24 +221,6 @@
           "link": "https://www.washingtonpost.com/nation/2026/11/14/florida-city-cancels-st-patricks-day-event-citing-desantiss-anti-dei-law/",
           "summary": "Gov. Ron DeSantis called it a ‘stunt,’ insisting Delray Beach is misinterpreting the Florida law.",
           "publishedAt": "2026-11-14T21:19:47.000Z"
-        },
-        {
-          "title": "Detroit to retrain bus drivers after two horses board city bus",
-          "link": "https://www.washingtonpost.com/nation/2026/11/14/detroit-retrain-bus-drivers-after-two-horses-board-city-bus/",
-          "summary": "Jordan Williams, an urban cowboy, said he had decided to board the bus and take a video to highlight “there are cowboys that look like us.”",
-          "publishedAt": "2026-11-14T21:00:00.000Z"
-        },
-        {
-          "title": "Work to replace old wiring led to ground stop, transportation secretary says",
-          "link": "https://www.washingtonpost.com/transportation/2026/11/14/ground-stop-aftermath-sees-thousands-flights-canceled-delayed-saturday/",
-          "summary": "Thousands of flights were canceled Saturday, a day after the nationwide outage. The FAA said flights should be back on schedule by the end of the weekend.",
-          "publishedAt": "2026-11-14T20:39:46.000Z"
-        },
-        {
-          "title": "FBI investigates powerful bomb found at Illinois ethanol plant",
-          "link": "https://www.washingtonpost.com/nation/2026/11/14/bomb-found-illinois-ethanol-plant-thousands-evacuated-fbi-investigates/",
-          "summary": "Dozens of people within a mile of the facility in Peoria were evacuated, and hours later law enforcement officers were still extensively searching the building.",
-          "publishedAt": "2026-11-14T20:39:02.000Z"
         }
       ]
     }
