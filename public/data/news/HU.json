@@ -3,102 +3,163 @@
   "outlets": [
     {
       "outlet": {
+        "id": "telex",
+        "name": "Telex",
+        "homepage": "https://telex.hu",
+        "lang": "hu"
+      },
+      "fetchedAt": "2026-11-16T18:45:26.072Z",
+      "items": [
+        {
+          "title": "Windisch László szerint Magyar Péter nem mond igazat arról, hogy az ÁSZ vizsgálta-e az NKA-ügyet",
+          "link": "https://telex.hu/belfold/2026/11/16/windisch-laszlo-allami-szamvevoszek-magyar-peter-parlament",
+          "summary": "Viszont megnehezíti a vizsgálatot, hogy az ügyészség a zajló nyomozásra hivatkozva nem ad ki információkat az Államiszámvevőszéknek.",
+          "image": "https://assets.telex.hu/images/20261116/1794853912-temp-3mup40ob8msh8ccjkga_cimlap-normal.jpg",
+          "publishedAt": "2026-11-16T18:38:51.000Z"
+        },
+        {
+          "title": "A gyerekirodalom világsztárja szerint a reménynek minden könyvben ott kell lennie",
+          "link": "https://telex.hu/karakter/konyvespolc/2026/11/16/julia-donaldson-gyerekkonyvek-gyerekirodalom-a-graffalo-interju",
+          "summary": "Julia Donaldson több könyvet adott el, mint amennyi Harry Potter-kötet világszerte elfogyott. A graffaló szerzője a Friss tintának adott interjúban édesszájú gonosztevőkről, a könyvtárak életmentő szerepéről és az…",
+          "image": "https://assets.telex.hu/images/20261116/1794841884-temp-rk75s1l2vaj0aaiecde_cimlap-normal.jpg",
+          "publishedAt": "2026-11-16T18:27:36.000Z"
+        },
+        {
+          "title": "Január elsejétől előre be kell jelenteni, ha valaki nagy összegű készpénzt vinne át Magyarország határain",
+          "link": "https://telex.hu/gazdasag/2026/11/16/keszpenz-kivitel-hatar-elozetes-bejelentes",
+          "summary": "Ha valaki nem jelenti be időben a 10 ezer eurót meghaladó szállítmányát, elkobozhatják a pénzét a határon.",
+          "image": "https://assets.telex.hu/images/20261116/1794853033-temp-e8l1tl99sk6o7fgmcaj_cimlap-normal.jpg",
+          "publishedAt": "2026-11-16T18:18:26.000Z"
+        },
+        {
+          "title": "Emlékpadot avattak Scherer Péter kedvenc margitszigeti fáinál, a színész posztumusz állami elismerést kapott",
+          "link": "https://telex.hu/karakter/kultura/2026/11/16/scherer-peter-emlekpad-margitsziget-platanfa-posztumusz-allami-elismeres",
+          "summary": "A májusban meghalt színész születésnapján Karácsony Gergely és Nagy Ervin is beszédet mondott, Scherer a kormánytól megkapta a Művészeti életpálya elismerést.",
+          "image": "https://assets.telex.hu/images/20261116/1794849842-temp-ncen8jefod9dfibhbjb_cimlap-normal.jpg",
+          "publishedAt": "2026-11-16T17:53:32.000Z"
+        },
+        {
+          "title": "Baka András elküldte a Sándor-palota főigazgatóját, akit még Sulyok Tamás nevezett ki",
+          "link": "https://telex.hu/belfold/2026/11/16/baka-andras-sandor-palota-timar-istvan-szilveszter",
+          "summary": "Timár István Szilveszter a Sándor-palota külügyi igazgatója is volt, korábban pedig a Honvédelmi Minisztériumban dolgozott.",
+          "image": "https://assets.telex.hu/images/20261116/1794850591-temp-rsf8mjm8v6450lpfdhj_cimlap-normal.jpg",
+          "publishedAt": "2026-11-16T17:40:16.000Z"
+        },
+        {
+          "title": "Március végén tárgyalják újra Lindsay Clancy ügyét",
+          "link": "https://telex.hu/kulfold/2026/11/16/lindsay-clancy-ujratargyalas-marcius",
+          "summary": "Még nem tudni, hogy milyen típusú gyilkosság lesz a vád.",
+          "image": "https://assets.telex.hu/images/20261116/1794850640-temp-7crhg8h1ram4bbbdehm_cimlap-normal.jpg",
+          "publishedAt": "2026-11-16T17:38:02.000Z"
+        },
+        {
+          "title": "Kecskék ugrándoznak a hódmezővásárhelyi sírokon",
+          "link": "https://telex.hu/belfold/2026/11/16/kecskek-legelesznek-a-hodmezovasarhelyi-temetoben",
+          "summary": "Levideózták, ahogy egy kecske a sírokon elhelyezett virágokból legel.",
+          "image": "https://assets.telex.hu/images/20261116/1794849924-temp-hept9cf287e91bdplmb_cimlap-normal.jpg",
+          "publishedAt": "2026-11-16T17:28:26.000Z"
+        },
+        {
+          "title": "Seszták ügyvédje: Ha nem tudjuk, hogy kié a pénz, akkor honnan tudjuk, hogy a Seszták-ügyhöz kapcsolódik?",
+          "link": "https://telex.hu/belfold/2026/11/16/sesztak-miklos-ugyved-penz-unger-anna-nvvh",
+          "summary": "Papp Gábor szerint Unger Anna vasárnapi interjújával is beigazolódott, hogy még mindig nem bizonyított, kinek a pénzét találták meg a rejtekhelyeken.",
+          "image": "https://assets.telex.hu/images/20261116/1794848703-temp-v39bevodt8tmdlenkfh_cimlap-normal.jpg",
+          "publishedAt": "2026-11-16T17:11:22.000Z"
+        },
+        {
+          "title": "Drágák, ultrafeldolgozottak, és gyakran át is vernek az extra proteinnel hirdetett termékek",
+          "link": "https://telex.hu/gasztro/2026/11/16/proteines-feherjes-elelmiszerek",
+          "summary": "Egyre több élelmiszernek jelenik meg proteinesnek nevezett kiadása – megnéztük, mi van bennük, valóban több fehérjét tartalmaznak-e, vagy csak a csomagolásuk különbözik.",
+          "image": "https://assets.telex.hu/images/20261102/1793626685-temp-vg1c6b09bn9kefeegag_cimlap-normal.jpg",
+          "publishedAt": "2026-11-16T17:02:29.000Z"
+        },
+        {
+          "title": "Donald Trump „nem bánná”, ha Jensen Huang visszakerülne az Nvidia élére",
+          "link": "https://telex.hu/gazdasag/2026/11/16/donald-trump-jensen-huang-nvidia-nem-bannam",
+          "summary": "Az amerikai elnök azt mondta: nem tudja, Alice Huang valóban kínai kém-e.",
+          "image": "https://assets.telex.hu/images/20261116/1794847550-temp-umgdrlplia1v5lbbgoi_cimlap-normal.jpg",
+          "publishedAt": "2026-11-16T16:48:06.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
         "id": "hvg",
         "name": "HVG",
         "homepage": "https://hvg.hu",
         "lang": "hu"
       },
-      "fetchedAt": "2026-11-16T08:04:30.242Z",
+      "fetchedAt": "2026-11-16T18:45:26.124Z",
       "items": [
         {
-          "title": "Összeütközött két repülőgép a miami repülőtéren",
-          "link": "https://hvg.hu/tudomany/20261116_repulogep-utkozes-baleset-miami",
-          "summary": "Nem adott elsőbbséget a UPS egyik teherszállító repülőgépe a Copa Airlines előtte áthaladó járatának.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/fd4c4dcc-cb0e-48fd-a8a8-c0419beebf21.jpg",
-          "publishedAt": "2026-11-16T08:03:00.000Z",
-          "titleEn": "Two planes collided at Miami airport",
-          "summaryEn": "It did not give priority to a cargo aircraft of UPS's predecessor Copa Airlines."
+          "title": "Őrizetbe vettek egy gyanúsítottat az Azarov ukrán exkormányfő volt tanácsadója elleni moszkvai merénylet ügyében",
+          "link": "https://hvg.hu/vilag/20261116_orizetbe-vetel-fszb-oroszorszag-robbantas",
+          "summary": "Az FSZB szerint az orosz állampolgárságú gyanúsított „az ukrán titkosszolgálatok megbízásából részt vett egy közéleti személyiség és független újságíró (...) autójának felrobbantásában”.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ab2e18ed-eebe-42cd-b435-3a2054281318.jpg",
+          "publishedAt": "2026-11-16T18:36:34.000Z"
         },
         {
-          "title": "Sesztákot, a kiásott milliárdokat és a Fidesz helyzetét is szóba hozza Magyar Péter - élőben a Parlamentből",
-          "link": "https://hvg.hu/itthon/20261116_sesztakot-milliardok-fidesz-magyar-peter-koltsegvetes-elo-kozvetites-parlament",
-          "summary": "A miniszterelnök napirend előtti felszólalásával kezdődik az országgyűlés rendkívüli ülése, amely három napon át tart majd és a fő téma a 2027-es költségvetés lesz. Kövesse az eseményeket a HVG élő közvetítésében!",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ea34c8dd-b83d-4b8d-a3c7-21543c0792f4.jpg",
-          "publishedAt": "2026-11-16T08:02:18.000Z",
-          "titleEn": "Hungarian Peter speaks live from Parliament about the seashells, the mined billions and the situation of Fidesz",
-          "summaryEn": "The Prime Minister's pre-appointment speech opens the Parliament's extraordinary session, which will last for three days and will focus on the 2027 budget. Follow the events on HVG's live feed."
+          "title": "Semmi nem elég? Három gyakorlat, amellyel kiszabadulhatunk az állandó elégedetlenségből",
+          "link": "https://hvg.hu/hvgkonyvek/20261116_harom-gyakorlat-amellyel-kiszabadulhatunk-az-allando-elegedetlensegbol",
+          "summary": "Íme három, a hétköznapokba is könnyen beépíthető gyakorlat, amely segít leépíteni a fogyasztói társadalom káros hatásaként kialakított belső „növekedési kényszert”. Szerkesztett részlet L. Stipkovits Erika klinikai…",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/65cbbb77-b36f-47c3-ba37-dfc09a5582e6.jpg",
+          "publishedAt": "2026-11-16T18:15:00.000Z"
         },
         {
-          "title": "Henry Cavill Budapesten forgat, a Szent István-bazilikában járt",
-          "link": "https://hvg.hu/elet/20261116_henry-cavill-budapest-forgatas-netflix-sorozat-szent-istvan-bazilika",
-          "summary": "A sztár, aki már több alkalommal is forgatott Magyarországon, most egy új sorozaton dolgozhat.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d7fce082-5fc3-4b69-ad82-7ec39c18b688.jpg",
-          "publishedAt": "2026-11-16T08:01:22.000Z",
-          "titleEn": "Henry Cavill is filming in Budapest, attending St. Stephen's Basilica",
-          "summaryEn": "The star, who has shot several times in Hungary, is now working on a new series."
+          "title": "Távozik a Sándor-palota hivatalvezetője",
+          "link": "https://hvg.hu/itthon/20261116_baka-andras-sandor-palota-hivatalvezeto-felmentes",
+          "summary": "Timár István Szilvesztert még Baka András elődje, Sulyok Tamás nevezte ki 2024-ben főigazgatónak.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/25560aee-71c4-4c93-b1d2-2421eab75750.jpg",
+          "publishedAt": "2026-11-16T18:13:29.000Z"
         },
         {
-          "title": "Támadás érte a Krími hidat, leállították a forgalmat",
-          "link": "https://hvg.hu/vilag/20261116_tamadas-krimi-hid-forgalom",
-          "summary": "A hidat korán reggel érte támadás, a szakértők vizsgálják, mennyire sérült meg a szerkezet.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/a4b33141-8e7c-44d3-ae2e-efd44bd8d4b3.jpg",
-          "publishedAt": "2026-11-16T08:00:10.000Z",
-          "titleEn": "Crimean Bridge attacked, traffic stopped",
-          "summaryEn": "The bridge was attacked in the early morning hours, and experts are investigating the extent of the damage to the structure."
+          "title": "Két hónappal a botrány előtt adott el részvényeket az Nvidia igazgatótanácsának egyik tagja",
+          "link": "https://hvg.hu/tudomany/20261116_nvidia-reszveny-eladas-arfolyam-jensen-huang",
+          "summary": "Mark Stevens mintegy 947 millió dollár értékben szabadult meg 4,2 millió Nvidia-részvénytől. Még ezzel együtt is maradt neki 27,5 millió részvénye.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/23c412b3-dc1e-4106-8b3a-f678b5f85838.jpg",
+          "publishedAt": "2026-11-16T18:03:00.000Z"
         },
         {
-          "title": "Eltűnik a dízel verzió a Skoda Octaviából",
-          "link": "https://hvg.hu/cegauto/20261116_eltunik-a-dizel-verzio-a-skoda-octaviabol",
-          "summary": "A céges vásárlóknál is egyre nehezebben jön ki a dízel előnye.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/9016732b-0a53-47d8-8aae-288d25110c9d.jpg",
-          "publishedAt": "2026-11-16T07:48:00.000Z",
-          "titleEn": "The diesel version is missing from the Skoda Octavia.",
-          "summaryEn": "Even corporate customers find it increasingly difficult to get the benefits of diesel."
+          "title": "Bochkor Gábort nem hívták meg a Demjén-film második részének bemutatójára, pedig a lánya is szerepel benne",
+          "link": "https://hvg.hu/elet/20261116_bochkor-gabor-hogyan-tudnek-elni-nelkuled-meszaros-lorinc-varkonyi-andrea-bochkor-nora-premier-elotzti-vetites-film",
+          "summary": "A rádiós szerint majd a lányával kettesben elmennek egy vetítésre együtt.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/449fede8-39ef-46e4-a709-7719d4c8e2f6.jpg",
+          "publishedAt": "2026-11-16T18:00:05.000Z"
         },
         {
-          "title": "Nem elírás, 293 kilométerrel vár új gazdára egy 31 éves Mazda",
-          "link": "https://hvg.hu/cegauto/20261116_nem-eliras-293-kilometerrel-var-uj-gazdara-egy-31-eves-mazda-323-td-szedan",
-          "summary": "Ez a metálszürke fényezésű Mazda 323 egészen a 90-es évek közepéig pörgeti vissza az idő kerekét.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b0d977fb-fa45-4471-83e2-b8e410583d60.jpg",
-          "publishedAt": "2026-11-16T07:41:00.000Z",
-          "titleEn": "Not to mention, a 31-year-old Mazda is waiting for a new owner for 293 kilometers.",
-          "summaryEn": "This metallic-gray glowing Mazda 323 spins the wheel of time back to the mid-1990s."
+          "title": "Vakcinához jóféle mRNS, nem kell? – Udvaros Dorottya Karikója szenvedélyes, vicces és nagyon szerethető",
+          "link": "https://hvg.hu/360/20261116_karika-katalin-szindarab-udvaros-dorottya-egyeletem-produkcio-atrium-szinhaz",
+          "summary": "Bemutatták Olasz Renátó rendezésében a Karikó című monodrámát Udvaros Dorottya leleményes és sokoldalú játékával. A Nobel-díjas kutató hihetetlen elszántságát, azt a képességét, ahogyan mindig talpra tudott állni,…",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/af541904-3f30-4eb1-9f57-a86090e67cb2.jpg",
+          "publishedAt": "2026-11-16T18:00:00.000Z"
         },
         {
-          "title": "Magyar Péter: A Kisvakond-frakció felkészül a végső merülésre",
-          "link": "https://hvg.hu/itthon/20261116_magyar-peter-kisvakond-frakcio-kdnp",
-          "summary": "A hétfői parlamenti ülést vezette fel kisvakondozással a miniszterelnök.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/ae52be24-0214-4012-9dd5-ca342dcf7d74.jpg",
-          "publishedAt": "2026-11-16T07:34:06.000Z",
-          "titleEn": "Hungarian Péter: The Kisvakond faction prepares for the final dive",
-          "summaryEn": "The Prime Minister led the parliamentary session on Monday with a blind eye."
+          "title": "KDNP-s képviselő: Az orbáni jólétet az is bizonyítja, hogy tavasszal 5000 magyart kellett kimenekíteni Dubajból",
+          "link": "https://hvg.hu/gazdasag/20261116_hargitai-janos-kdnp-dubaj-jolet-koltsegvetes-vita-orszaggyules",
+          "summary": "„Ezek a magyarok jó dolgukban mentek Dubajba, és nem mind NER-es vállalkozók voltak, a jó módukat az Orbán-kormány 16 éve teremtette meg” – érvelt Hargitai János.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0ffa969b-b0cb-4b9a-967b-2fa1f61d271c.jpg",
+          "publishedAt": "2026-11-16T17:34:03.000Z"
         },
         {
-          "title": "Unger Anna: „Találtunk pénzt, nem is keveset, de nem én ástam el, és nem is játék pénz”",
-          "link": "https://hvg.hu/itthon/20261116_unger-anna-talaltunk-penzt-nem-is-keveset-de-nem-en-astam-el-es-nem-is-jatekpenz",
-          "summary": "Hiába állítja ezt Orbán Viktor, a folyamatban lévő eljárásoknak nem az a céljuk, hogy eljussanak a volt kormányfőhöz, hanem az, hogy a bűncselekményekkel érintett vagyonokat felderítsék és visszaszerezzék – jelentette ki…",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/268a16dc-91b0-449e-8048-8c0c114cf5d6.jpg",
-          "publishedAt": "2026-11-16T07:31:32.000Z",
-          "titleEn": "Unger Anna: \"We found money, not very little, but I didn't bury it, and it wasn't gambling money\".",
-          "summaryEn": "Despite Mr Orbán's claims, the ongoing proceedings are not aimed at reaching the former head of government, but at finding and recovering the assets involved in the crimes."
+          "title": "A francia labdarúgó-szövetség elnökét jelöli az UEFA Infantino kihívójának",
+          "link": "https://hvg.hu/sport/20261116_philippe-diallo-francia-labdarugo-szovetseg-fifa-elnokjelolt-uefa",
+          "summary": "Philippe Diallo 2023 óta vezeti a francia fociszövetséget.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b09b90ca-9228-444b-9552-77b39ff74179.jpg",
+          "publishedAt": "2026-11-16T17:09:29.000Z"
         },
         {
-          "title": "The Guardian-elemzés: A populista jobboldalt le lehet gyűrni, miért pesszimisták mégis a haladók?",
-          "link": "https://hvg.hu/vilag/20261116_guardian-elemzes-populizmus-jobboldal-gyenge-baloldal-haladok-pesszimizmus",
-          "summary": "A globális jobboldal, amely állítólag felívelőben van, hátrányban van szervezettségben, intellektuálisan, taktikában és a támogatók számában. Mégis, amikor veszít, azt csodának éli meg szabadelvű és baloldali. A The…",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/d66dd3d0-32cb-4ce8-99c5-29364092f4db.jpg",
-          "publishedAt": "2026-11-16T07:19:55.000Z",
-          "titleEn": "The Guardian analysis: The populist right can be picked up, why are progressives pessimistic?",
-          "summaryEn": "The global right, which is allegedly on the rise, is at a disadvantage in organization, intellectual, tactical and supportive terms. Yet when he loses, he marvels at being free-speaking and left-wing. The..."
+          "title": "Elúszott vagy még mindig érdemes várni az olcsó gáz korszakára?",
+          "link": "https://hvg.hu/gazdasag/20261116_gaztarolo-lng-energiaellatas-gazimport-iea-hormuz-gazimport",
+          "summary": "Nem volt olyan régen, amikor a Nemzetközi Energiaügynökség, de az elemző-tanácsadó, thinktank Oxford Institute is azt ígérte, hogy 2026-2027 lesz az a korszakhatár, amikor a globális LNG-bőség tartósan 20 euró alá nyomja…",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/c315085e-a8b1-4c26-982f-ff7e61afa185.jpg",
+          "publishedAt": "2026-11-16T17:04:24.000Z"
         },
         {
-          "title": "Vitézyék nekiveselkednek a Budapest–Pécs vasúti közlekedés fejlesztésének, Lázár miatt szinte a nulláról",
-          "link": "https://hvg.hu/gazdasag/20261116_vitezy-david-budapest-pecs-vasut-pecsi-fovonal-felujitas-elokeszites-mav-lazar-janos",
-          "summary": "A miniszter szerint a pécsi fővonal színvonala messze elmarad az elvárhatótól, az elődje pedig még az előkészítést és a tervezést sem indította el.",
-          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/0a22f65b-6327-4660-8191-7ce955c38d26.jpg",
-          "publishedAt": "2026-11-16T07:16:25.000Z",
-          "titleEn": "Vitezes are slowing down on the development of Budapest's railway infrastructure, almost from zero due to Lazarus.",
-          "summaryEn": "According to the minister, the standard of the Beijing main line is far from what was expected, and its predecessor has not even begun preparation and planning."
+          "title": "Új rekord: 217 napig volt víz alatt a brit atom-tengeralattjáró, és ez igazából rossz hír",
+          "link": "https://hvg.hu/tudomany/20261116_hms-vengeance-tengeralattjaro-viz-alatt-tartozkodas-rekord",
+          "summary": "217 napot volt víz alatt a Brit Királyi Haditengerészet tengeralattjárója, de nincs ok az ünneplésre.",
+          "image": "https://img.hvg.hu/Img/64092e40-39ef-4e7c-88f1-4e482711b139/b6aa140e-014d-4fd1-b1ff-3cfd4fb881d7.jpg",
+          "publishedAt": "2026-11-16T17:03:00.000Z"
         }
       ]
     },
@@ -109,86 +170,75 @@
         "homepage": "https://index.hu",
         "lang": "hu"
       },
-      "fetchedAt": "2026-11-16T08:04:31.286Z",
+      "fetchedAt": "2026-11-16T18:45:27.320Z",
       "items": [
         {
-          "title": "Ruff Bálint a jövő évi költségvetés miatt kezdeményezett rendkívüli ülést",
-          "link": "https://index.hu/belfold/2026/11/16/orszaggyules-parlament-koltsegvetes-kormany-magyar-peter-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/ruff-balint-a-jovo-evi-koltsegvetes-miatt-kezdemenyezett-rendkivuli-ulest/",
-          "publishedAt": "2026-11-16T07:52:34.000Z",
-          "titleEn": "Ruff Ballin has called for an extraordinary meeting on the budget for next year"
+          "title": "Százmilliók sorsáról dönthet Sebestyén Balázs és felesége",
+          "link": "https://index.hu/fomo/2026/11/16/sebestyen-balazs-horvath-viktoria-valas-szakitas-vagyon-megosztas/",
+          "summary": "Az ügyvéd szerint a házassági szerződésen múlik a menet.",
+          "image": "https://kep.index.hu/1/0/7254/72549/725490/72549023_5345759_46e73da9b7d90a6fc41b3265f99d6000_wm.jpg",
+          "publishedAt": "2026-11-16T18:43:00.000Z"
         },
         {
-          "title": "Magyar Péter beszédet mond",
-          "link": "https://index.hu/belfold/2026/11/16/orszaggyules-parlament-koltsegvetes-kormany-magyar-peter-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peter-beszedet-mond/",
-          "publishedAt": "2026-11-16T07:52:28.000Z",
-          "titleEn": "Hungarian Peter gives a speech"
+          "title": "„A vád a bíróságon akár össze is omolhat” – megszólaltak a szakértők a lefoglalt milliárdokról",
+          "link": "https://index.hu/belfold/2026/11/16/sesztak-miklos-nvvh-magyar-allamkincstar-zamecsnik-peter-molnar-csaba/",
+          "summary": "Molnár Csaba úgy véli, ha megvan a pénz, akkor a gazdája is meglesz.",
+          "image": "https://kep.index.hu/1/0/7254/72549/725492/72549239_5345783_9742296aae608c126e32ce12a89baa3f_wm.jpg",
+          "publishedAt": "2026-11-16T18:29:00.000Z"
         },
         {
-          "title": "Rendkívüli ülést tart az Országgyűlés",
-          "link": "https://index.hu/belfold/2026/11/16/orszaggyules-parlament-koltsegvetes-kormany-magyar-peter-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/rendkivuli-ulest-tart-az-orszaggyules/",
-          "publishedAt": "2026-11-16T07:52:17.000Z",
-          "titleEn": "Parliament holds an extraordinary session"
+          "title": "Dróntámadás ért egy gabonaszállító hajót a bolgár partoknál, 12 tengerészt mentettek ki",
+          "link": "https://index.hu/kulfold/2026/11/16/bulgaria-gabonaszallitas-hajo-drontamadas-sullyedes/",
+          "summary": "A tizenhetedik hajót érte dróntámadás július óta.",
+          "image": "https://kep.index.hu/1/0/6926/69263/692637/69263793_5111641_cb0079e84ae384a5ccf1c0b3a1ce99c0_wm.jpg",
+          "publishedAt": "2026-11-16T18:17:00.000Z"
         },
         {
-          "title": "A Tisza eddigi legfontosabb javaslatáról vitáznak a parlamentben, Magyar Péter beszédet mond - Az Országgyűlés ülése",
-          "link": "https://index.hu/belfold/2026/11/16/orszaggyules-parlament-koltsegvetes-kormany-magyar-peter-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/",
-          "summary": "Az Országgyűlés ülése.",
-          "image": "https://kep.index.hu/1/0/7165/71652/716528/71652877_5282721_9a956d1b5dcc9accc05dce19e74fbd93_wm.jpg",
-          "publishedAt": "2026-11-16T07:49:00.000Z",
-          "titleEn": "The most important proposal of Tisza is being debated in parliament.",
-          "summaryEn": "It's a session of the National Assembly."
+          "title": "Új stratégiára tért át Vlagyimir Putyin, érdekes módszerrel törekszik jobb tárgyalási pozícióra",
+          "link": "https://index.hu/kulfold/2026/11/16/orosz-ukran-konfliktus-oroszorszag-ukrajna-infrastruktura-energetika/",
+          "summary": "Közben az oroszok már az európai országokat vádolják.",
+          "image": "https://kep.index.hu/1/0/7251/72517/725171/72517189_5343601_060e71a3be331ccfec5fd7f6208c704e_wm.jpg",
+          "publishedAt": "2026-11-16T18:08:00.000Z"
         },
         {
-          "title": "Huszonkét évig élt az erdőben, végre saját házat kapott egy hajléktalan férfi Debrecenben",
-          "link": "https://index.hu/belfold/2026/11/16/hajlektalan-segitseg-haz-tunderkor-alapitvany/",
-          "summary": "Egy alapítvány segített neki, végre nem fázik, és hálás, ha meglátogatják.",
-          "image": "https://kep.index.hu/1/0/7256/72567/725678/72567815_5347125_b6c24b240ff2c27fc633c117df20ff37_wm.jpg",
-          "publishedAt": "2026-11-16T07:44:00.000Z",
-          "titleEn": "He lived in the woods for twenty-two years, finally got his own house from a homeless man in Debrecen",
-          "summaryEn": "A foundation helped her, she's finally not cold, and she's grateful to be visited."
+          "title": "A Démonok között horrorbabája bukkant fel A legjobb ajánlatban, Pápai Péter halálra rémült",
+          "link": "https://index.hu/mindekozben/poszt/2026/11/16/a-demonok-kozott-horrorbabaja-a-legjobb-ajanlat-musoraban-relikvia/",
+          "image": "https://kep.index.hu/1/0/7257/72575/725754/72575445_aa7a52a2c6ed52d20612eef9e9685b71_wm.jpg",
+          "publishedAt": "2026-11-16T18:07:35.000Z"
         },
         {
-          "title": "A csőd felé robog a Győri Audi ETO, fájdalmas döntések jöhetnek a klubnál",
-          "link": "https://index.hu/sport/kezilabda/2026/11/16/gyori-audi-eto-kc-penzugyi-valsag-gorbicz-anita-fata-edina/",
-          "summary": "Görbicz Anita is megszólalt a nehéz helyzetről.",
-          "image": "https://kep.index.hu/1/0/7256/72567/725677/72567717_5347117_3fd76d64a20dc803c79cadf6b7791c8e_wm.jpg",
-          "publishedAt": "2026-11-16T07:42:00.000Z",
-          "titleEn": "The Audi ETO is on the verge of bankruptcy, and the club may face painful decisions.",
-          "summaryEn": "Görbicz Anita has also spoken about the difficult situation."
+          "title": "A festő megkívánt egy nőt, és ezt a moszkvai vezetés is jóváhagyta",
+          "link": "https://index.hu/kultur/zene/2026/11/16/csongradi-kata-millio-rozsaszal-dal-klip-az-en-utam/",
+          "summary": "Csongrádi Kata most Frank Sinatra híres dalát énekli.",
+          "image": "https://kep.index.hu/1/0/7257/72575/725758/72575885_5347649_bca45d11e4fa73dbf2982ecaf4c1000d_wm.jpg",
+          "publishedAt": "2026-11-16T18:02:00.000Z"
         },
         {
-          "title": "Ásó, kapa, Kisvakond – Magyar Péter üzent a KDNP-nek a parlamenti ülés kezdete előtt",
-          "link": "https://index.hu/belfold/2026/11/16/magyar-peter-sesztak-miklos-kdnp-parlament-ules-orszaggyules/",
-          "summary": "A miniszterelnök szerint a kereszténydemokrata frakció felkészült a végső merülésre.",
-          "image": "https://kep.index.hu/1/0/7045/70450/704506/70450673_5197373_fe6939aaf3c4273d8bfed5ce6703882c_wm.jpg",
-          "publishedAt": "2026-11-16T07:39:00.000Z",
-          "titleEn": "Asso, kapa, Kisvakond  ⁇  Hungarian Peter's message to the KDNP before the start of the parliamentary session",
-          "summaryEn": "According to the Prime Minister, the Christian Democratic faction is ready for the final plunge."
+          "title": "Menesztette a Sándor-palota főigazgatóját Baka András",
+          "link": "https://index.hu/belfold/2026/11/16/baka-andras-sandor-palota-foigazgato-timar-istvan-szilveszter-megbizatas-visszavonas/",
+          "summary": "Még Sulyok Tamás nevezte ki két évvel ezelőtt.",
+          "publishedAt": "2026-11-16T17:58:00.000Z"
         },
         {
-          "title": "A politológus szerint kommunikációs káoszba keveredett a Fidesz Seszták Miklós ügyében",
-          "link": "https://index.hu/belfold/2026/11/16/fidesz-kdnp-sesztak-miklos-lemondas-boka-janos-retvari-bence-fidesz-kdnp/",
-          "summary": "Egymásnak ellentmondó módon reagáltak a földből előásott 6,5 milliárdra.",
-          "image": "https://kep.index.hu/1/0/7058/70586/705864/70586425_5206999_7b9c87b7ef5ad167a0dc398fcdd75e91_wm.jpg",
-          "publishedAt": "2026-11-16T07:31:00.000Z",
-          "titleEn": "According to the political scientist, there was a communication chaos in the Fidesz case",
-          "summaryEn": "They reacted in contradictory ways to the 6.5 billion mined from the ground."
+          "title": "„Ez politikai öngyilkosság” – itt a figyelmeztetés Magyar Péternek, de van rá kormányzati válasz",
+          "link": "https://index.hu/gazdasag/2026/11/16/koltsegvetes-kormany-karman-andras-pogatsa-zoltan-makrogazdasag/",
+          "summary": "Összevetettük a két megszólalást a költségvetésről.",
+          "image": "https://kep.index.hu/1/0/7248/72485/724854/72485435_5341443_ec46bd2159d3f2ceb2ee3507261a3f91_wm.jpg",
+          "publishedAt": "2026-11-16T17:47:00.000Z"
         },
         {
-          "title": "Ukrán csapás érte a Krími hidat, leállították a forgalmat, több mint ezer drón támadott",
-          "link": "https://index.hu/kulfold/2026/11/16/oroszorszag-ukrajna-krim-felsziget-tamadas-orosz-ukran-kornfliktus/",
-          "summary": "A moszkvai védelmi minisztérium szerint az ukránok támadása vasárnap este nyolctól hétfő reggel nyolcig tartott.",
-          "image": "https://kep.index.hu/1/0/7256/72567/725673/72567397_5347091_838372da3a361a5e6284a3fc663a6b02_wm.jpg",
-          "publishedAt": "2026-11-16T07:27:00.000Z",
-          "titleEn": "Ukraine hit the Crimean bridge, traffic was stopped, more than a thousand drones attacked",
-          "summaryEn": "According to the Moscow Defense Ministry, the Ukrainian attack lasted from Sunday night to Monday morning."
+          "title": "Fordulat a lakáspiacon, csökkentek az árak és visszaesett a forgalom",
+          "link": "https://index.hu/gazdasag/2026/11/16/ksh-lakaspiac-forgalom-merseklodes-haztartas-europai-unio/",
+          "summary": "Közzétette friss adatait a KSH.",
+          "image": "https://kep.index.hu/1/0/4602/46021/460215/46021532_3509820_5387cbcb676d167c4e344a85ffed8755_wm.jpg",
+          "publishedAt": "2026-11-16T17:35:00.000Z"
         },
         {
-          "title": "Catherine Zeta-Jones lánya felvette azt a csipkés ruhát, amit anyja 1996-ban viselt utoljára a vörös szőnyegen",
-          "link": "https://index.hu/mindekozben/poszt/2026/11/16/catherine-zeta-jones-lanya-carys-douglas-ruha-akkor-es-most/",
-          "image": "https://kep.index.hu/1/0/7256/72561/725619/72561983_9455c48a623fe02728423c2f7ea51595_wm.jpg",
-          "publishedAt": "2026-11-16T07:13:12.000Z",
-          "titleEn": "Catherine Zeta-Jones' daughter put on the slippery dress her mother wore in 1996 on the red carpet."
+          "title": "Oroszország kiborult, és kemény szankciókat követel Kanada ellen",
+          "link": "https://index.hu/sport/jegkorong/2026/11/16/oroszorszag-kanada-vizum-haboru-junior-vilagbajnoksag-sportdontobirosag/",
+          "summary": "Nagyon felment a pumpa az illetékesekben.",
+          "image": "https://kep.index.hu/1/0/7257/72575/725753/72575345_5347613_e4bc01ec42794266ee7452d7396b347c_wm.jpg",
+          "publishedAt": "2026-11-16T17:34:00.000Z"
         }
       ]
     }

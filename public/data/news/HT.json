@@ -8,8 +8,13 @@
         "homepage": "https://lenouvelliste.com",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-16T08:04:29.954Z",
+      "fetchedAt": "2026-11-16T18:45:24.966Z",
       "items": [
+        {
+          "title": "The European Union sanctions 4 criminal groups in Haiti",
+          "link": "https://lenouvelliste.com/article/273920/the-european-union-sanctions-4-criminal-groups-in-haiti",
+          "publishedAt": "2026-11-16T08:52:31.000Z"
+        },
         {
           "title": "Salvadorans seize the EDH offices on the bicentennial and the Portail Léogane sub-police station",
           "link": "https://lenouvelliste.com/article/273915/salvadorans-seize-the-edh-offices-on-the-bicentennial-and-the-portail-leogane-sub-police-station",
@@ -63,12 +68,6 @@
           "link": "https://lenouvelliste.com/article/273908/election-savannah-savary-refuses-to-let-power-become-a-cake",
           "publishedAt": "2026-11-13T22:39:53.000Z",
           "titleEn": "Election: Savannah Savary Refuses to Let Power Become \"a Cake\""
-        },
-        {
-          "title": "Delphine Pronk reaffirms the European Union's commitment to security and elections",
-          "link": "https://lenouvelliste.com/article/273906/delphine-pronk-reaffirms-the-european-unions-commitment-to-security-and-elections",
-          "publishedAt": "2026-11-13T21:55:29.000Z",
-          "titleEn": "Delphine Pronk reaffirms the European Union's commitment to security and elections"
         }
       ]
     },
@@ -79,8 +78,58 @@
         "homepage": "https://www.haitilibre.com",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-16T08:04:30.168Z",
+      "fetchedAt": "2026-11-16T18:45:27.360Z",
       "items": [
+        {
+          "title": "Haïti - Actualité : Zapping...",
+          "link": "https://www.haitilibre.com/article-48910-haiti-actualite-zapping.html",
+          "summary": "812 soldats ivoiriens attendus en Haïti - Martine Moïse candidate à la Présidence - Le Salvador contrôle le siège social de l'Ed'H - L'UE sanctionne 4 groupes terroristes et leurs Chefs - Entrée en formation de 1,200…",
+          "image": "https://www.haitilibre.com/images-a/p-48910.jpg",
+          "publishedAt": "2026-11-16T14:47:19.000Z",
+          "titleEn": "Haiti - News: Zapping..."
+        },
+        {
+          "title": "iciHaïti - Économie : La DGI lance l'Observatoire des recettes",
+          "link": "https://www.icihaiti.com/article-48909-icihaiti-economie-la-dgi-lance-l-observatoire-des-recettes.html",
+          "summary": "La Direction Générale des impôts (DGI) a procédé récemment au lancement officiel de l'Observatoire des recettes. Cette nouvelle structure ad hoc, pilotée par la Direction d'Analyse et des Statistiques",
+          "image": "https://www.haitilibre.com/images-a/p-48909.jpg",
+          "publishedAt": "2026-11-16T14:02:47.000Z"
+        },
+        {
+          "title": "Haïti - Économie : Le Corps des Comptables Publics du Trésor célèbre ses 20 ans",
+          "link": "https://www.haitilibre.com/article-48908-haiti-economie-le-corps-des-comptables-publics-du-tresor-celebre-ses-20-ans.html",
+          "summary": "Le Corps des Comptables Publics du Trésor à célébré son 20e anniversaire, autour du thème « Le Corps des Comptables Publics : 20 ans d'Engagement, de Transparence, d'Intégrité et de Responsabilité au service de…",
+          "image": "https://www.haitilibre.com/images-a/p-48908.jpg",
+          "publishedAt": "2026-11-16T13:46:12.000Z"
+        },
+        {
+          "title": "iciHaïti - Taïwan : Les clés d'une bonne récolte de poivrons",
+          "link": "https://www.icihaiti.com/article-48907-icihaiti-taiwan-les-cles-d-une-bonne-recolte-de-poivrons.html",
+          "summary": "La Mission technique de Taïwan en Haïti a récemment organisé une formation sur les techniques de culture du poivron dans le département du Sud. Cette activité avait pour objectif d'aider les producteurs maraîchers locaux…",
+          "image": "https://www.haitilibre.com/images-a/p-48907.jpg",
+          "publishedAt": "2026-11-16T13:24:17.000Z"
+        },
+        {
+          "title": "Haïti - FLASH : Nouveau massacre dans l'Artibonite au moins 10 morts",
+          "link": "https://www.haitilibre.com/article-48906-haiti-flash-nouveau-massacre-dans-l-artibonite-au-moins-10-morts.html",
+          "summary": "Samedi 14 novembre 2026, une attaque attribuée au groupe terroriste «Gran Grif», dans le village de Morne-Robert, situé dans la commune de Saint-Marc (dépt. de l'Artibonite), a fait au moins 10 morts...",
+          "image": "https://www.haitilibre.com/images-a/p-48906.jpg",
+          "publishedAt": "2026-11-16T13:11:42.000Z"
+        },
+        {
+          "title": "iciHaïti - Culture : Après 4 ans d'absence, «Baky» en spectacle en Haïti (vidéo)",
+          "link": "https://www.icihaiti.com/article-48905-icihaiti-culture-apres-4-ans-d-absence-baky-en-spectacle-en-haiti-video.html",
+          "summary": "Après quatre ans d'absence, Baptista Lugendy St-Hubert, le célèbre rappeur, chanteur et auteur-compositeur haïtien alias «Baky» est de retour sur le sol haïtien",
+          "image": "https://www.haitilibre.com/images-a/p-48905.jpg",
+          "publishedAt": "2026-11-16T12:54:59.000Z"
+        },
+        {
+          "title": "Haïti - Série d'ouverture D1 (2026-2027) : Résultats de la 3ème journée du Championnat",
+          "link": "https://www.haitilibre.com/article-48904-haiti-serie-d-ouverture-d1-2026-2027-resultats-de-la-3eme-journee-du-championnat.html",
+          "summary": "Résultats de la troisième journée de la série d'ouverture D1 de la saison 2026-2027 de la Ligue Haïtienne de Football (LHF), disputée dimanche 15 novembre 2026, dans les Groupes A (Grand Nord) et B (Grand Sud)",
+          "image": "https://www.haitilibre.com/images-a/p-48904.jpg",
+          "publishedAt": "2026-11-16T08:55:14.000Z"
+        },
         {
           "title": "Haïti - Actualité : Zapping",
           "link": "https://www.haitilibre.com/article-48903-haiti-actualite-zapping.html",
@@ -107,69 +156,6 @@
           "publishedAt": "2026-11-15T13:39:03.000Z",
           "titleEn": "Haiti - Economy: DGI dialogue with the private business sector around the new Tax Code",
           "summaryEn": "Chesnel Francois, Director-General of the DGI and Alfred Pierre, Deputy Director-General, took part this week, together with Serge Gabriel Collin, Minister of Economy and Finance, in a conference-debate..."
-        },
-        {
-          "title": "iciHaïti - Élections : La plateforme numérique du CEP affecté par la panne chez Microsoft",
-          "link": "https://www.icihaiti.com/article-48900-icihaiti-elections-la-plateforme-numerique-du-cep-affecte-par-la-panne-chez-microsoft.html",
-          "summary": "Le CEP informe qu'une interruption des services de Microsoft a provoqué une perturbation à l'échelle mondiale de la messagerie électronique Outlook. Cet incident a entraîné des dysfonctionnements intermittents de la…",
-          "image": "https://www.haitilibre.com/images-a/p-48900.jpg",
-          "publishedAt": "2026-11-15T13:19:50.000Z",
-          "titleEn": "HereHaiti - Elections: The digital platform of the CEP affected by the failure at Microsoft",
-          "summaryEn": "The CEP reports that a disruption of Microsoft services has caused a worldwide disruption to Outlook email. This incident resulted in intermittent malfunctions of the..."
-        },
-        {
-          "title": "Haïti - Rep. Dominicaine : 10,411 haïtiens expulsés vers Haïti en 7 jours",
-          "link": "https://www.haitilibre.com/article-48899-haiti-rep-dominicaine-10-411-haitiens-expulses-vers-haiti-en-7-jours.html",
-          "summary": "La Direction Générale de la Migration (DGM) durci le ton et poursuit son offensive de contrôle migratoire des étrangers à l'échelle nationale, avec le soutien des organismes de sécurité et des institutions de défense de…",
-          "image": "https://www.haitilibre.com/images-a/p-48899.jpg",
-          "publishedAt": "2026-11-15T13:08:46.000Z",
-          "titleEn": "Haiti - Rep. Dominican: 10,411 Haitians deported to Haiti in 7 days",
-          "summaryEn": "The Directorate-General for Migration (DGM) has tightened its tone and is continuing its nationwide migration control offensive, with the support of security agencies and defence institutions of..."
-        },
-        {
-          "title": "iciHaïti - PNH : Réunion du Haut Commandement et des Directeurs Départementaux",
-          "link": "https://www.icihaiti.com/article-48898-icihaiti-pnh-reunion-du-haut-commandement-et-des-directeurs-departementaux.html",
-          "summary": "Vendredi 13 novembre 2026, Vladimir Paraison, le Directeur Général a.i. de la PNH ainsi que les membres du Haut Commandement, ont rencontré les 11 directeurs départementaux dans le cadre de l'évaluation mensuelle de la…",
-          "image": "https://www.haitilibre.com/images-a/p-48898.jpg",
-          "publishedAt": "2026-11-15T12:53:43.000Z",
-          "titleEn": "HereHaiti - PNH: Meeting of the High Command and Departmental Directors",
-          "summaryEn": "On Friday 13 November 2026, Vladimir Paraison, the Director-General of the PNH and the members of the High Command, met with the 11 departmental directors as part of the monthly assessment of the..."
-        },
-        {
-          "title": "Haïti - Ligue des Nations 1/4 de finale : Les USA infligent une lourde défaite à Haïti [6-0] (vidéo)",
-          "link": "https://www.haitilibre.com/article-48897-haiti-ligue-des-nations-1-4-de-finale-les-usa-infligent-une-lourde-defaite-a-haiti-[6-0]-video.html",
-          "summary": "Samedi 14 novembre pour les 1/4 de finale de la Ligue des Nations de la CONCACAF, nos Grenadiers à Miami affrontaient les «Yankees» la sélection des États-Unis qui à largement dominée le match, infligeant une lourde…",
-          "image": "https://www.haitilibre.com/images-a/p-48897.jpg",
-          "publishedAt": "2026-11-15T10:21:15.000Z",
-          "titleEn": "Haiti - League of Nations quarter-finals: USA inflict a heavy defeat on Haiti [6-0] (video)",
-          "summaryEn": "On Saturday, November 14th for the quarter-finals of the CONCACAF Nations League, our Grenadiers in Miami faced the  ⁇ Yankees ⁇  the U.S. national team who largely dominated the game, inflicting a heavy..."
-        },
-        {
-          "title": "Haïti - Actualité : Zapping...",
-          "link": "https://www.haitilibre.com/article-48896-haiti-actualite-zapping.html",
-          "summary": "Kinapping en échec - 4 nouveaux candidats à la Présidence - Le Parti Fanmi Lavalas suspend sa participation aux élections - Démenti de la CNDDR - Passeports au Consulat Général d'Haïti à Paris - France Raina Forbin : Les…",
-          "image": "https://www.haitilibre.com/images-a/p-48896.jpg",
-          "publishedAt": "2026-11-14T15:19:39.000Z",
-          "titleEn": "Haiti - News: Zapping...",
-          "summaryEn": "Kinapping fails - 4 new candidates for the presidency - The Fanmi Lavalas Party suspends its participation in the elections - Dementies of the CNDDR - Passports to the Consulate General of Haiti in Paris - France Raina Forbin: The..."
-        },
-        {
-          "title": "iciHaïti - Environnement : Principales interventions et initiatives de l'ANAP",
-          "link": "https://www.haitilibre.com/article-48895-icihaiti-environnement-principales-interventions-et-initiatives-de-l-anap.html",
-          "summary": "Pierre André Gédéon, le Directeur Général de l'Agence Nationale des Aires Protégées, invité à « l'État des Lieux », a présenté les interventions et initiatives de l'institution, en vue de renforcer la protection et la…",
-          "image": "https://www.haitilibre.com/images-a/p-48895.jpg",
-          "publishedAt": "2026-11-14T14:19:37.000Z",
-          "titleEn": "HereHaiti - Environment: The main activities and initiatives of the ANAP",
-          "summaryEn": "Pierre André Gédéon, Director-General of the National Agency for Protected Areas, invited to the State of the Places, presented the institutions' interventions and initiatives to enhance protection and..."
-        },
-        {
-          "title": "Haïti - Environnement : Projet d'Économie Bleue Inclusive, soutenu par le FIDA",
-          "link": "https://www.haitilibre.com/article-48894-haiti-environnement-projet-d-economie-bleue-inclusive-soutenu-par-le-fida.html",
-          "summary": "Le Ministère de l'Environnement a participé , à une mission officielle menée dans les départements du Nord et du Nord-Est à l'occasion de la visite de Mme Rocio Medina Bolivar. Directrice régionale du Fonds International…",
-          "image": "https://www.haitilibre.com/images-a/p-48894.jpg",
-          "publishedAt": "2026-11-14T14:11:17.000Z",
-          "titleEn": "Haiti - Environment: Inclusive Blue Economy Project, supported by FIDA",
-          "summaryEn": "The Ministry of the Environment took part in an official mission carried out in the northern and north-eastern departments on the occasion of Mrs Rocio Medina Bolivar's visit. Regional Director of the International Fund..."
         }
       ]
     },
@@ -180,8 +166,26 @@
         "homepage": "https://www.juno7.ht",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-16T08:04:30.210Z",
+      "fetchedAt": "2026-11-16T18:45:25.698Z",
       "items": [
+        {
+          "title": "Wilner Joseph plaide pour une refonte des relations diplomatiques entre Haïti et la République dominicaine",
+          "link": "https://www.juno7.ht/wilner-joseph-relations-haiti-republique-dominicaine/",
+          "summary": "Dans son ouvrage « Le pari du dialogue », le candidat à la présidence sous la bannière de VIKTWA propose un mécanisme permanent de concertation entre les deux pays. Il défend aussi une politique fondée sur la…",
+          "publishedAt": "2026-11-16T14:53:26.000Z"
+        },
+        {
+          "title": "Haïti – Taux de référence BRH : lundi 16 novembre 2026",
+          "link": "https://www.juno7.ht/haiti-taux-de-reference-brh-lundi-16-novembre-2026/",
+          "summary": "La Banque de la République d’Haïti (BRH) calcule le taux de référence du jour à 130,74 gourdes pour un dollar américain (USD). La BRH établit ce taux à partir des transactions et opérations d’achat de devises…",
+          "publishedAt": "2026-11-16T14:15:09.000Z"
+        },
+        {
+          "title": "Gros-Morne : des membres de gangs tués et des armes saisies, selon le Premier ministre",
+          "link": "https://www.juno7.ht/gros-morne-operation-pnh-frg-saisie-armes/",
+          "summary": "Alix Didier Fils-Aimé a salué l’intervention menée dimanche 15 novembre 2026 dans cette commune de l’Artibonite. Il affirme que les opérations contre les groupes armés se poursuivront à l’échelle nationale. Plusieurs…",
+          "publishedAt": "2026-11-16T13:33:22.000Z"
+        },
         {
           "title": "Présidentielle 2027 : Martine Moïse s’inscrit dans la course",
           "link": "https://www.juno7.ht/presidentielle-2027-martine-moise-sinscrit-dans-la-course/",
@@ -237,30 +241,6 @@
           "publishedAt": "2026-11-14T16:47:38.000Z",
           "titleEn": "North-West: Kenley Jean-Baptiste announces his candidacy for the Senate under the banner of the GAD",
           "summaryEn": "The 30-year-old political scientist, the founder of the Youth Forums in Haiti, said he wanted to defend access to education, infrastructure improvement and the department's economic development. Kenley John the Baptist..."
-        },
-        {
-          "title": "Konbit Soup Joumou prépare sa 8e édition et lance un appel à contribution",
-          "link": "https://www.juno7.ht/konbit-soup-joumou-2027-appel-contribution/",
-          "summary": "Prévue pour le 1er janvier 2027, cette initiative communautaire vise à réunir 40 sites en Haïti et à l’étranger, dont deux au Canada, avec un budget prévisionnel de 10 millions de gourdes. À l’approche du 223e…",
-          "publishedAt": "2026-11-14T15:25:03.000Z",
-          "titleEn": "Konbit Soup Joumou prepares its eighth edition and launches a call for contributions",
-          "summaryEn": "This Community initiative is scheduled for 1 January 2027 and aims to bring together 40 sites in Haiti and abroad, including two in Canada, with a projected budget of GURD 10 million. As we approach the 223rd..."
-        },
-        {
-          "title": "De l’ULCC à la présidentielle : Hans Jacques Ludwig Joseph annonce sa candidature",
-          "link": "https://www.juno7.ht/hans-jacques-ludwig-joseph-presidentielle-2027/",
-          "summary": "Sous la bannière de la plateforme politique ESCANP, l’ancien directeur de l’ULCC entend briguer la présidence en 2027. Il place la lutte contre l’impunité et la responsabilité dans la gestion des affaires publiques au…",
-          "publishedAt": "2026-11-14T15:04:12.000Z",
-          "titleEn": "From LULCC to the presidential election: Hans Jacques Ludwig Joseph announces his candidacy",
-          "summaryEn": "Under the banner of the ESCANP political platform, the former director of the ULCC intends to run for the presidency in 2027. It places the fight against impunity and accountability in the management of public affairs at the heart of the..."
-        },
-        {
-          "title": "Le pasteur haïtien Amel Lafleur est décédé au Canada, selon Koze Kretyen",
-          "link": "https://www.juno7.ht/amel-lafleur-deces-canada/",
-          "summary": "Le religieux, qui avait dirigé la Mission de l’Église de Dieu indépendante de la Porte étroite, avait fait l’objet d’une interdiction d’exercer le ministère pastoral pendant cinq ans en Haïti, prononcée en 2023. Le…",
-          "publishedAt": "2026-11-13T21:00:07.000Z",
-          "titleEn": "Haitian pastor Amel Lafleur died in Canada, according to Koze Kretyen",
-          "summaryEn": "The clergyman, who led the Mission of the Independent Church of God at the Narrow Gate, was banned from pastoral ministry for five years in Haiti in 2023. The..."
         }
       ]
     }
