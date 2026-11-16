@@ -177,21 +177,27 @@
           "link": "https://ici.radio-canada.ca/info/en-direct/1014676/coupe-grey-alouettes-elks",
           "summary": "La formation d’Edmonton s’est imposée 37-30 en finale contre les Montréalais.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/fajardo-elks.jpg",
-          "publishedAt": "2026-11-16T04:05:57.000Z"
+          "publishedAt": "2026-11-16T04:05:57.000Z",
+          "titleEn": "The Elks win the Grey Cup against the Alouettes: highlights",
+          "summaryEn": "Edmonton's lineup improved 37-30 in the final against the Montreal Canadiens."
         },
         {
           "title": "Incursion à Gaza : on a suivi une médecin pendant plusieurs jours",
           "link": "https://ici.radio-canada.ca/videos/1-10809455/incursion-a-gaza-on-a-suivi-une-medecin-pendant-plusieurs-jours",
           "summary": "Pendant plusieurs jours, nous avons suivi le quotidien d’une jeune médecin dans la bande de Gaza. L’accès libre à l’enclave palestinienne reste interdit à la presse internationale depuis le 7 octobre 2023. Impossible…",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/medecin-haneen-al-dayeh.jpg",
-          "publishedAt": "2026-11-15T21:29:27.000Z"
+          "publishedAt": "2026-11-15T21:29:27.000Z",
+          "titleEn": "Invasion in Gaza: we followed a doctor for several days",
+          "summaryEn": "For several days, we followed the diary of a young doctor in the Gaza Strip. Free access to the Palestinian enclave remains prohibited to the international press from 7 October 2023. It's not possible."
         },
         {
           "title": "Gaza : Ottawa et trois pays exigent un accès humanitaire « sans entrave » et « immédiat »",
           "link": "https://ici.radio-canada.ca/article/info/2300870/gaza-aide-humanitaire-canada-declaration-israel",
           "summary": "La déclaration indique que 150 000 tentes et autres fournitures vitales sont bloquées à la frontière de Gaza.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/camion-aide-humanitaire-guerre-israel-hamas-gaza-rafah-passage-attaque-anniversaire.jpg",
-          "publishedAt": "2026-11-15T23:20:48.000Z"
+          "publishedAt": "2026-11-15T23:20:48.000Z",
+          "titleEn": "Gaza: Ottawa and three countries demand unhindered humanitarian access and immediate access",
+          "summaryEn": "The declaration states that 150,000 tents and other vital supplies are blocked at the Gaza border."
         },
         {
           "title": "Le Canada consacre plus d’argent que jamais aux soins de santé",
@@ -199,49 +205,62 @@
           "summary": "Le Canada a consacré 11,5 % de son produit intérieur brut aux soins de santé en 2024.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/sante-depenses.png",
           "publishedAt": "2026-11-15T16:19:50.000Z",
-          "titleEn": "Canada spends more money than ever on healthcare"
+          "titleEn": "Canada spends more money than ever on healthcare",
+          "summaryEn": "Canada spent 11.5% of its gross domestic product on healthcare in 2024."
         },
         {
           "title": "Pas de retour à la normale avant lundi dans le ciel américain",
           "link": "https://ici.radio-canada.ca/article/info/2300931/interruption-vols-etats-unis-panne-aviation",
           "summary": "La suspension du trafic aérien est dû à une panne lors des travaux de modernisation sur des infrastructures.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/aeroport-etats-unis-transport-panne-vols.jpg",
-          "publishedAt": "2026-11-16T03:38:34.000Z"
+          "publishedAt": "2026-11-16T03:38:34.000Z",
+          "titleEn": "No return to normal until Monday in the American sky.",
+          "summaryEn": "The suspension of air traffic is due to a breakdown in infrastructure upgrades."
         },
         {
           "title": "Près de 46 M$ dépensés par le gouvernement Ford pour 2 campagnes publicitaires",
           "link": "https://ici.radio-canada.ca/article/info/2300827/gouvernement-ford-46-millions-campagnes-publicitaires",
           "summary": "La publicité gouvernementale est un « outil important », affirme un porte-parole du ministère.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/doug-ford-premier-ministre-ontario-87322.jpg",
-          "publishedAt": "2026-11-15T21:40:00.000Z"
+          "publishedAt": "2026-11-15T21:40:00.000Z",
+          "titleEn": "Nearly $46 million spent by the Ford government on two advertising campaigns",
+          "summaryEn": "Government advertising is an important tool, says a ministry spokesman."
         },
         {
           "title": "L’Estonie fermera sa frontière avec la Russie après une nouvelle tentative de sabotage",
           "link": "https://ici.radio-canada.ca/article/info/2300939/estonie-fermeture-frontiere-russie-sabotage-guerre",
           "summary": "Ce pays balte accuse la Russie de provocations hybrides depuis son invasion de l'Ukraine en 2022.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/estonie-frontiere-russie-surveillance-patrouille-securite.jpg",
-          "publishedAt": "2026-11-16T03:16:45.000Z"
+          "publishedAt": "2026-11-16T03:16:45.000Z",
+          "titleEn": "Estonia will close its border with Russia after another sabotage attempt",
+          "summaryEn": "The Baltic country has accused Russia of hybrid provocations since its invasion of Ukraine in 2022."
         },
         {
           "title": "L’IIHF confirme que la Russie ne sera pas au mondial junior",
           "link": "https://ici.radio-canada.ca/article/sports/2300815/iihf-confirme-que-la-russie-ne-sera-pas-au-mondial-junior",
           "summary": "Le Canada demeurera le pays hôte du Championnat mondial de hockey junior 2026.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/sports/16x9/russie-mondial-junior-2021.jpg",
-          "publishedAt": "2026-11-15T20:33:12.000Z"
+          "publishedAt": "2026-11-15T20:33:12.000Z",
+          "titleEn": "LIIHF confirms that Russia will not be in the junior world",
+          "summaryEn": "Canada will remain the host country for the 2026 World Junior Hockey Championship."
         },
         {
           "title": "Guerre en Ukraine : début des préparations pour définir la position des alliés de Kiev",
           "link": "https://ici.radio-canada.ca/article/info/2300923/ukraine-guerre-negociation-paix-coalition-allies",
           "summary": "Volodymyr Zelensky a souligné le potentiel historique d'une réunion de la Coalition des volontaires.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/volodymyr-zelensky-35768.jpg",
-          "publishedAt": "2026-11-16T02:15:43.000Z"
+          "publishedAt": "2026-11-16T02:15:43.000Z",
+          "titleEn": "War in Ukraine: preparations to define the position of Kiev's allies",
+          "summaryEn": "Volodymyr Zelensky stressed the historic potential of a Coalition of Volunteers meeting."
         },
         {
           "title": "Israël : pour Eisenkot, Nétanyahou ne peut pas rester « une minute de plus » en poste",
           "link": "https://ici.radio-canada.ca/article/info/2300836/eisenkot-israel-netanyahou-elections-depart",
           "summary": "Gadi Einsenkot a qualifié le comportement de M. Nétanyahou de « menace concrète » pour la démocratie d'Israël.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/israel-elections-gadi-eisenkot-drapeau.jpg",
-          "publishedAt": "2026-11-15T21:49:59.000Z"
+          "publishedAt": "2026-11-15T21:49:59.000Z",
+          "titleEn": "Israel: for Eisenkot, Netanyahu can't stay in office another minute",
+          "summaryEn": "Gadi Einsenkot described the behaviour of Mr. Netanyahu's  ⁇  concrete threat  ⁇  to Israel's democracy."
         }
       ]
     }
