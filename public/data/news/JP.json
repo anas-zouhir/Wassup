@@ -8,63 +8,49 @@
         "homepage": "https://news.web.nhk/newsweb",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-16T18:45:30.811Z",
+      "fetchedAt": "2026-11-17T06:55:11.276Z",
       "items": [
         {
-          "title": "トランプ大統領「キム・ジョンウン総書記とも会う可能性」",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76866",
-          "summary": "トランプ大統領は16日、アジア訪問に向けホワイトハウスを出発する際、記者団の取材に応じ、北朝鮮のキム・ジョンウン総書記と会う可能性があると述べました。",
-          "publishedAt": "2026-11-16T14:52:00.000Z",
-          "titleEn": "President Trump said he might meet with Secretary-General Kim Jong-un.",
-          "summaryEn": "President Trump said that he might meet with North Korean Secretary-General Kim Jong-un when he leaves the White House for a visit to Asia on the 16th, in response to a press conference."
+          "title": "江夏豊さんが死去 78歳 プロ野球 阪神や広島などで活躍",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de77026",
+          "summary": "プロ野球、阪神や広島などでピッチャーとして活躍した江夏豊さんがきょうまでに亡くなりました。78歳でした。",
+          "publishedAt": "2026-11-17T06:48:00.000Z"
         },
         {
-          "title": "東京 中野 路上で女性刺され死亡 強盗殺人未遂容疑で男を逮捕",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76817",
-          "summary": "16日夜、東京・中野区の路上で20代くらいの女性が刃物で刺され、搬送先の病院で死亡が確認されました。警視庁は30代から40代くらいの男の容疑者を強盗殺人未遂の疑いで逮捕し、詳しいいきさつを調べています…",
-          "publishedAt": "2026-11-16T15:30:00.000Z",
-          "titleEn": "A woman was stabbed to death in Tokyo, and a man was arrested for attempted robbery.",
-          "summaryEn": "On the night of the 16th, a woman in her 20s was stabbed in the streets of Tokyo and confirmed dead at the hospital before being transferred. The police are arresting a suspected man in his 30s or 40s on suspicion of attempted robbery and murder and are investigating the details..."
+          "title": "ロシア機と推定の航空機が領空侵犯 福岡 沖ノ島周辺",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de76912",
+          "summary": "防衛省は、17日、福岡県沖でロシア機とみられる航空機2機が日本の領空を侵犯したと発表しました。領空に入ったのはいずれも3分ほどで、防衛省が飛行の目的を分析するとともに警戒と監視を続けています。",
+          "publishedAt": "2026-11-17T01:37:00.000Z"
         },
         {
-          "title": "理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76603",
-          "summary": "理化学研究所のスーパーコンピューター「富岳」が外部から不正アクセスを受けたことがわかり、理化学研究所は富岳の稼働を停止し、情報流出などの被害がないか詳しい状況を確認しています。",
-          "publishedAt": "2026-11-16T08:17:00.000Z",
-          "titleEn": "I'm trying to get a copy of the Fukuyu SpongeBob, shut down and check the situation.",
-          "summaryEn": "Now, when we found out that the Fuyu Supercomputer at the Institute of Physics and Chemistry had been compromised from outside, the Fuyu Research Institute was trying to determine if it had stopped working, if it had not been compromised, if it was not compromised, or if it hadn't been compromised."
+          "title": "群馬 前橋 住宅街にクマが出没 男性1人がけが 子グマ1頭を捕獲",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de76952",
+          "summary": "17日、前橋市の住宅街で、親子とみられるクマ2頭が相次いで目撃され、近くに住む男性1人が襲われて頭などにけがをしました。 このうち1頭は市内の川沿いを逃げ、午後2時ごろ麻酔銃により捕獲されましたが、も…",
+          "publishedAt": "2026-11-17T06:18:58.000Z"
         },
         {
-          "title": "関文科相 パーティーに医薬品企業関係者出席 “寄付あたらず”",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76709",
-          "summary": "関文部科学大臣は、自身が代表を務める自民党支部がおととし6月に開催した政治資金パーティーについて、会費は9万円で、バイオ医薬品の企業関係者が出席し、厚生労働省の担当者から治験制度の説明を受けたと明らか…",
-          "publishedAt": "2026-11-16T10:03:00.000Z",
-          "titleEn": "The Minister of Foreign Affairs, pharmaceutical company representatives attending the party, donating money.",
-          "summaryEn": "It was revealed that the Minister of Science and Culture, represented by the SDP branch, had held a political fund-raising party in June with a membership fee of 90,000 yen, was attended by business associates in biopharmaceuticals, and was briefed on the experimental system by officials from the Ministry of Health and Labour."
+          "title": "“M9.9”誤った緊急地震速報 背景に二重のエラー 気象庁が修正",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de76926",
+          "summary": "先月16日、マグニチュードを9.9と過大に推定し誤った内容の緊急地震速報を発表したことについて、気象庁が調べた結果、日本から遠い場所で地震が起きた際に用いるプログラムに2つのエラーが重なって起きたこと…",
+          "publishedAt": "2026-11-17T03:16:00.000Z"
         },
         {
-          "title": "広島カープ“契約更新せず”通告された3選手 説明求め申し入れ",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76820",
-          "summary": "プロ野球、広島から指定薬物をめぐる内部調査の結果を理由に来シーズンの契約を結ばないと通告された3人の選手が、球団の対応は不当だとして詳しい説明を求める申し入れを行いました。 球団は「今後、対応してい…",
-          "publishedAt": "2026-11-16T12:00:19.000Z",
-          "titleEn": "Three players have been suspended for refusing to renew their contract with Hiroshima.",
-          "summaryEn": "Three players who were notified that they would not sign a contract for the upcoming season due to the results of an internal investigation into prescribed drugs by professional baseball and Hiroshima have asked for further explanations as to the team's inappropriate response. The team said, \"From now on, we're going to..."
+          "title": "FIFA会長選 UEFAが候補者擁立 田嶋氏の立候補に影響か",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de77117",
+          "summary": "UEFA＝ヨーロッパサッカー連盟は、FIFA＝国際サッカー連盟の会長選挙の候補者としてフランスサッカー連盟のフィリップ・ディアロ会長を擁立することを決めました。 会長選挙を巡っては日本サッカー協会の…",
+          "publishedAt": "2026-11-17T06:20:00.000Z"
         },
         {
-          "title": "高市首相 フィリピン到着 石油備蓄などで新たな枠組み提唱へ",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76382",
-          "summary": "高市総理大臣は16日午後、ASEANの首脳会議の開催地、フィリピンに到着しました。17日に関連の会議に出席し、アジア地域で石油備蓄の協調放出のルールづくりなどを検討する新たな枠組みの創設を提唱する見通…",
-          "publishedAt": "2026-11-16T13:10:04.000Z",
-          "titleEn": "The prime minister of the Philippines has arrived to advocate for a new framework for oil reserves.",
-          "summaryEn": "The Prime Minister of Hokkaido arrived in the Philippines on the afternoon of the 16th, at the venue of the ASEAN Summit. I will attend a relevant meeting on the 17th and advocate for the creation of a new framework for the development of rules for coordinated release of oil reserves in the Asian region."
+          "title": "来年秋の朝ドラ ヒロインに飯沼愛さん【会見動画】",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de76932",
+          "summary": "大阪と鹿児島・与論島が舞台の来年秋から始まるNHKの連続テレビ小説「なぎさの進化論」のヒロインが17日発表されました。 ヒロインを務めるのは、飯沼愛さんです。会見の様子です。",
+          "publishedAt": "2026-11-17T05:02:00.000Z"
         },
         {
-          "title": "ASEAN 国境を越える煙害で対策強化へ",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76848",
-          "summary": "インドネシアで発生した大規模な森林火災により、大量の煙が周辺国でも深刻な大気汚染を引き起こす中、ASEAN＝東南アジア諸国連合は、国境を越えて広がる大気汚染を「深刻な地域課題」と位置づけ、加盟各国が連…",
-          "publishedAt": "2026-11-16T14:20:18.000Z",
-          "titleEn": "We're trying to strengthen the fight against smoking across borders in ASEAN.",
-          "summaryEn": "As large-scale forest fires in Indonesia cause massive amounts of smoke to cause serious air pollution in surrounding countries, the ASEAN/Southeast Asian Nations have identified air pollution that spreads across borders as a \"serious regional challenge\", and its member states have joined forces with the United Nations (UN) to address the issue."
+          "title": "愛子さま シンガポールに向けて出発",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de77001",
+          "summary": "天皇皇后両陛下の長女の愛子さまは17日午前、シンガポールに向けて羽田空港を出発されました。",
+          "publishedAt": "2026-11-17T03:32:00.000Z"
         }
       ]
     },
@@ -75,67 +61,57 @@
         "homepage": "https://www.asahi.com",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-16T18:45:30.578Z",
+      "fetchedAt": "2026-11-17T06:55:10.996Z",
       "items": [
         {
-          "title": "東京・中野で女性が刺され死亡 逃走した男を強盗殺人未遂容疑で逮捕",
+          "title": "中野刺殺事件 逮捕の男、店で女性と知り合い「冷たくされた」と供述",
           "link": "http://www.asahi.com/articles/ASVCJ3VT4VCJUTIL01GM.html?ref=rss",
-          "publishedAt": "2026-11-16T18:20:36.000Z",
-          "titleEn": "A woman was stabbed to death in Tokyo, and an escaped man was arrested for attempted robbery."
+          "publishedAt": "2026-11-17T05:23:52.000Z"
         },
         {
-          "title": "AED持って走る警察官 東京・中野で女性刺され死亡、住民らに不安",
-          "link": "http://www.asahi.com/articles/ASVCJ4RNXVCJUTIL01LM.html?ref=rss",
-          "publishedAt": "2026-11-16T14:40:00.000Z",
-          "titleEn": "A police officer carrying an AED stabbed a woman in Tokyo, killing her, leaving residents concerned."
+          "title": "3歳虐待死「運動面の発達に遅れ、と医師に指摘された」 容疑の父親",
+          "link": "http://www.asahi.com/articles/ASVCK1G5NVCKPTIL002M.html?ref=rss",
+          "publishedAt": "2026-11-17T05:00:00.000Z"
         },
         {
-          "title": "クレーン車に追突され原付きの男性が死亡 英国大使館近くの内堀通り",
-          "link": "http://www.asahi.com/articles/ASVCJ4D78VCJUEFT00LM.html?ref=rss",
-          "publishedAt": "2026-11-16T14:02:11.000Z",
-          "titleEn": "A man with a crane was chased and killed in a cabin near the British Embassy."
+          "title": "雲海に浮かぶ幻想的な天空の山城 日本三大山城の備中松山城 岡山",
+          "link": "http://www.asahi.com/articles/ASVCK14TWVCKPQIP006M.html?ref=rss",
+          "publishedAt": "2026-11-17T04:30:00.000Z"
         },
         {
-          "title": "中学生がトクリュウに関与か 愛知で強殺未遂事件 盗難車に乗車",
-          "link": "http://www.asahi.com/articles/ASVCJ3WHRVCJOIPE00DM.html?ref=rss",
-          "publishedAt": "2026-11-16T12:45:00.000Z",
-          "titleEn": "You know, a middle school student involved in a Tokugawa incident, an attempted rape, a carjacking."
+          "title": "東大総長選考、文科相「検証の中で説明責任を果たして」改めて見解",
+          "link": "http://www.asahi.com/articles/ASVCK0GWPVCKUTIL003M.html?ref=rss",
+          "publishedAt": "2026-11-17T03:50:00.000Z"
         },
         {
-          "title": "部活強豪校へ県外から入学、保護者が実態ない住民票 兵庫県立高2校",
-          "link": "http://www.asahi.com/articles/ASVCJ41F9VCJOXIE01ZM.html?ref=rss",
-          "publishedAt": "2026-11-16T12:22:50.000Z",
-          "titleEn": "There's a high school outside the prefecture."
+          "title": "ドリフト走行でひき逃げ容疑で19歳を逮捕 「殊更滑走」全国初適用",
+          "link": "http://www.asahi.com/articles/ASVCK11KRVCKUTNB001M.html?ref=rss",
+          "publishedAt": "2026-11-17T03:30:00.000Z"
         },
         {
-          "title": "6歳児暴行死・遺棄事件 叔父の被告、初公判で「全て間違い」と主張",
-          "link": "http://www.asahi.com/articles/ASVCJ1GQ8VCJPIHB011M.html?ref=rss",
-          "publishedAt": "2026-11-16T11:13:12.000Z",
-          "titleEn": "He said he was wrong in the case of the rape, death, abandonment of a six-year-old, his uncle's defendant, the first trial."
+          "title": "親子とみられるクマ2頭、前橋市内に出没 50代男性が襲われてけが",
+          "link": "http://www.asahi.com/articles/ASVCK0PWPVCKUHNB003M.html?ref=rss",
+          "publishedAt": "2026-11-17T03:00:00.000Z"
         },
         {
-          "title": "静岡・菊川の3人殺害事件、被告に死刑求刑 弁護側「心神耗弱」主張",
-          "link": "http://www.asahi.com/articles/ASVCJ36Q8VCJOXIE02KM.html?ref=rss",
-          "publishedAt": "2026-11-16T11:00:00.000Z",
-          "titleEn": "The murder of three people in Shibuya, the death penalty for the accused."
+          "title": "【写真まとめ】愛子さまシンガポールへ出発 写真に写る小さな気遣い",
+          "link": "http://www.asahi.com/articles/ASVCH32ZDVCHUQIP04NM.html?ref=rss",
+          "publishedAt": "2026-11-17T02:30:00.000Z"
         },
         {
-          "title": "3歳児虐待疑い、死亡7カ月前に児相把握「緊急性高い情報なかった」",
-          "link": "http://www.asahi.com/articles/ASVCJ25ZLVCJOXIE020M.html?ref=rss",
-          "publishedAt": "2026-11-16T10:43:15.000Z",
-          "titleEn": "The three-year-old suspected of child abuse, death, child abuse seven months ago, no urgent information."
+          "title": "愛子さま、シンガポールに向けて羽田を出発 外交樹立60周年で招待",
+          "link": "http://www.asahi.com/articles/ASVCK0FSPVCKUQIP008M.html?ref=rss",
+          "publishedAt": "2026-11-17T02:26:42.000Z"
         },
         {
-          "title": "弁護側、懲役30年を主張 富山の交番襲撃事件、差し戻し審が結審",
-          "link": "http://www.asahi.com/articles/ASVCJ32C8VCJOXIE034M.html?ref=rss",
-          "publishedAt": "2026-11-16T10:30:17.000Z",
-          "titleEn": "The defense is seeking 30 years in prison for the attempted robbery in Fukuoka, a retrial."
+          "title": "無防備な小便器に仕切りを 男性トイレのプライバシーも守りませんか",
+          "link": "http://www.asahi.com/articles/ASVC43HCGVC4UTIL01WM.html?ref=rss",
+          "publishedAt": "2026-11-17T02:00:00.000Z"
         },
         {
-          "title": "スキー場で事故、生徒が大けが 「海城学園」に治療費など賠償命令",
-          "link": "http://www.asahi.com/articles/ASVCJ313XVCJUTIL00MM.html?ref=rss",
-          "publishedAt": "2026-11-16T09:34:18.000Z",
-          "titleEn": "He's been ordered to pay for an accident at a ski resort, a student's death, and the cost of medical treatment at the Haight Castle School."
+          "title": "「egg」元モデル殺害容疑、逮捕の男は「足で蹴った」 殺意は否認",
+          "link": "http://www.asahi.com/articles/ASVCK0D6KVCKUTIL002M.html?ref=rss",
+          "publishedAt": "2026-11-17T01:50:00.000Z"
         }
       ]
     },
@@ -146,77 +122,77 @@
         "homepage": "https://www.japantimes.co.jp",
         "lang": "en"
       },
-      "fetchedAt": "2026-11-16T18:45:31.103Z",
+      "fetchedAt": "2026-11-17T06:55:11.481Z",
       "items": [
         {
-          "title": "Japan’s Babymetal, Lisa nominated for new Asian pop Grammy",
-          "link": "https://www.japantimes.co.jp/culture/2026/11/17/entertainment-news/japan-grammy-nominations-2026/",
-          "summary": "The inaugural category also features acts from South Korea and the Philippines.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574399.jpg",
-          "publishedAt": "2026-11-16T15:45:00.000Z"
+          "title": "U.K. entertainment industry under pressure to tighten safeguards after new case emerges",
+          "link": "https://www.japantimes.co.jp/news/2026/11/17/world/crime-legal/brand-walliams-uk-entertainment/",
+          "summary": "Britain's culture minister Lisa Nandy will meet industry executives to hear how they plan to strengthen safeguards.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574528.jpg",
+          "publishedAt": "2026-11-17T06:43:00.000Z"
         },
         {
-          "title": "NTT Docomo hit by another network glitch",
-          "link": "https://www.japantimes.co.jp/business/2026/11/16/ntt-docomo-nov16-network-glitch/",
-          "summary": "The disruption began around 10:00 a.m., affecting the mobile carrier's 5G Standalone high-speed, high-capacity telecommunications network service.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/thumbs/400x400/574398.jpg",
-          "publishedAt": "2026-11-16T12:06:00.000Z"
+          "title": "Japan’s most powerful supercomputer hit by unauthorized access",
+          "link": "https://www.japantimes.co.jp/news/2026/11/17/japan/fugaku-unauthorized-access/",
+          "summary": "Potentially leaked data includes names, emails and authentication information used to connect to Fugaku and other services.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574533.jpg",
+          "publishedAt": "2026-11-17T06:24:00.000Z"
         },
         {
-          "title": "Princess Aiko to leave for Singapore",
-          "link": "https://www.japantimes.co.jp/news/2026/11/16/japan/princess-aiko-singapore/",
-          "summary": "It will be her second official overseas visit, after her trip to Laos last year.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/thumbs/400x400/574397.jpg",
-          "publishedAt": "2026-11-16T11:29:00.000Z"
+          "title": "Why the electrification push at global climate talks is stalling",
+          "link": "https://www.japantimes.co.jp/environment/2026/11/17/electrification-global-climate-talks/",
+          "summary": "The initiative is intended to curb emissions by shifting transport, buildings and industry toward more energy-efficient electric devices.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574507.jpg",
+          "publishedAt": "2026-11-17T06:20:00.000Z"
         },
         {
-          "title": "U.S. airports slowly return to normal after three days of disruption",
-          "link": "https://www.japantimes.co.jp/news/2026/11/16/world/us-airports-returning-normal-disruption/",
-          "summary": "The ground stop issued Friday was only the second time such a directive had been issued since planes were grounded following the 9/11 attacks.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/thumbs/400x400/574396.jpg",
-          "publishedAt": "2026-11-16T11:03:00.000Z"
+          "title": "Asia data center hotbed hit by U.S. chip curbs as Trump visits",
+          "link": "https://www.japantimes.co.jp/business/2026/11/17/tech/asia-data-center-chip-trump/",
+          "summary": "Operators in Southeast Asia will need a U.S. government license to purchase advanced AI chips from Nvidia and other American manufacturers.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574513.jpg",
+          "publishedAt": "2026-11-17T06:13:00.000Z"
         },
         {
-          "title": "A Russian bribe the size of Europe",
-          "link": "https://www.japantimes.co.jp/commentary/2026/11/16/world/russian-trump-bribe/",
-          "summary": "Vladimir Putin has a long record of betraying his business partners, and once he gets what he wants from Trump, Europe will be his next target.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/thumbs/400x400/573501.jpg",
-          "publishedAt": "2026-11-16T10:44:00.000Z"
+          "title": "U.S., China and EU fail to endorse pledge to curb AI climate harms at COP31",
+          "link": "https://www.japantimes.co.jp/environment/2026/11/17/sustainability/un-climate-chief-ai-cop31/",
+          "summary": "The pledge has received 80 endorsements so far, but barely 10 nations are among them while the rest are companies or civil society groups.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574508.jpg",
+          "publishedAt": "2026-11-17T06:08:00.000Z"
         },
         {
-          "title": "Global outcry over Joshua Wong’s 10-year sentence",
-          "link": "https://www.japantimes.co.jp/commentary/2026/11/16/world/global-outcry-pro-democracy-sentences/",
-          "summary": "Lengthy prison terms for pro-democracy activists show how Hong Kong and Macao are rapidly aligning with mainland China's repression of dissent.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/thumbs/400x400/573977.jpg",
-          "publishedAt": "2026-11-16T10:00:00.000Z"
+          "title": "Legendary Japanese strikeout pitcher Yutaka Enatsu dies at 78",
+          "link": "https://www.japantimes.co.jp/sports/2026/11/17/baseball/japanese-baseball/yutaka-enatsu-death/",
+          "summary": "Enatsu had legendary numbers during his 18-year career with the Hanshin Tigers, Nankai Hawks, Hiroshima Carp, Nippon Ham Fighters and Seibu Lions.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574505.jpg",
+          "publishedAt": "2026-11-17T05:34:00.000Z"
         },
         {
-          "title": "U.S. allies are afraid, very afraid, of those American F-35s",
-          "link": "https://www.japantimes.co.jp/commentary/2026/11/16/world/us-allies-american-f-35s/",
-          "summary": "Allies are worried about their military entanglements with the US, including their dependence on American weapons and technology.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/thumbs/400x400/572884.jpg",
-          "publishedAt": "2026-11-16T09:23:00.000Z"
+          "title": "Chargers hold Ravens to 16 rushing yards, earn first win of season",
+          "link": "https://www.japantimes.co.jp/sports/2026/11/17/more-sports/chargers-first-win-season-ravens/",
+          "summary": "Justin Herbert connected on 12 of 18 passes for 129 yards and rushed for 51 yards and a touchdown for the Chargers.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574512.jpg",
+          "publishedAt": "2026-11-17T05:27:00.000Z"
         },
         {
-          "title": "Gulliver visited our AI world 300 years ago. He left in disgust.",
-          "link": "https://www.japantimes.co.jp/commentary/2026/11/16/world/gulliver-visited-ai-world-300-years-ago/",
-          "summary": "The third part of Swift's masterpiece focused on \"remote regions of the world\" under the sway of scientists, technologists and \"projectors.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/thumbs/400x400/571674.jpg",
-          "publishedAt": "2026-11-16T09:19:00.000Z"
+          "title": "Takaichi and ASEAN leaders agree to boost energy and supply chain cooperation",
+          "link": "https://www.japantimes.co.jp/news/2026/11/17/japan/politics/takaichi-asean-summits-economy/",
+          "summary": "The Japanese prime minister proposed a framework to coordinate emergency releases of oil reserves and plans for an advanced tech common market.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574501.jpg",
+          "publishedAt": "2026-11-17T05:17:00.000Z"
         },
         {
-          "title": "WHO sounds the alarm on antimicrobial resistance threat",
-          "link": "https://www.japantimes.co.jp/news/2026/11/16/world/who-alarm-antimicrobial-resistance/",
-          "summary": "Officials warned that progress in prevention, diagnosis and the appropriate use of antibiotics remained too slow to meet global targets.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/thumbs/400x400/574382.jpg",
-          "publishedAt": "2026-11-16T08:53:00.000Z"
+          "title": "Japan may revise loan guarantee rules to secure funds for U.S. investments",
+          "link": "https://www.japantimes.co.jp/business/2026/11/17/economy/japan-nexi-loan-easing/",
+          "summary": "Loans covered by Nippon Export and Investment Insurance guarantees are currently considered to carry a lower default risk.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574486.jpg",
+          "publishedAt": "2026-11-17T05:11:00.000Z"
         },
         {
-          "title": "Ex-Jungle Pocket member Shinji Saito sentenced to four years for sexual assault",
-          "link": "https://www.japantimes.co.jp/news/2026/11/16/japan/crime-legal/jungle-pocket-saito-sentence/",
-          "summary": "The comedian was convicted of assaulting a female co-star on a television production bus in 2024.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/thumbs/400x400/574379.jpg",
-          "publishedAt": "2026-11-16T08:06:00.000Z"
+          "title": "Japan considering higher taxes on condo flipping as Tokyo prices soar",
+          "link": "https://www.japantimes.co.jp/business/2026/11/17/economy/japan-short-term-condo-resale-taxes/",
+          "summary": "The tougher tax measures are expected to curb speculative transactions and will be included in a fiscal 2027 tax system reform package.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574484.jpg",
+          "publishedAt": "2026-11-17T04:22:00.000Z"
         }
       ]
     }

@@ -3,84 +3,34 @@
   "outlets": [
     {
       "outlet": {
-        "id": "monitor-ug",
-        "name": "Daily Monitor",
-        "homepage": "https://www.monitor.co.ug",
-        "lang": "en-UG"
-      },
-      "fetchedAt": "2026-11-15T06:44:03.474Z",
-      "items": [
-        {
-          "title": "Is it time to revisit MPs’ academic qualifications?",
-          "link": "https://www.monitor.co.ug/uganda/magazines/people-power/is-it-time-to-revisit-mps-academic-qualifications--5671260",
-          "summary": "One school of thought argues that the independence and eloquence of the 6th Parliament had a...",
-          "publishedAt": "2026-11-15T04:35:03.000Z"
-        },
-        {
-          "title": "Woman jailed 49 years for forcing nine-year-old stepson to swallow 49 needles",
-          "link": "https://www.monitor.co.ug/uganda/news/national/woman-jailed-49-years-for-forcing-nine-year-old-stepson-to-swallow-49-needles-5671256",
-          "summary": "During the trial, prosecution presented seven witnesses",
-          "publishedAt": "2026-11-15T04:48:47.000Z"
-        },
-        {
-          "title": "Public alarmed as Akabway bans fundraisers ahead of CA elections",
-          "link": "https://www.monitor.co.ug/uganda/magazines/people-power/public-alarmed-as-akabway-bans-fundraisers-ahead-of-ca-elections-5671254",
-          "summary": "Many people who called in to The Monitor in Kampala sought to know whether the ban meant that...",
-          "publishedAt": "2026-11-15T04:24:35.000Z"
-        },
-        {
-          "title": "Uganda feels the heat as it records hottest year yet",
-          "link": "https://www.monitor.co.ug/uganda/magazines/people-power/uganda-feels-the-heat-as-it-records-hottest-year-yet-5671230",
-          "summary": "Experts call for stronger climate change adaptation measures, including promoting forestry and...",
-          "publishedAt": "2026-11-15T04:15:00.000Z"
-        },
-        {
-          "title": "Gashumba doubles down on his criticism of pastors",
-          "link": "https://www.monitor.co.ug/uganda/magazines/people-power/gashumba-doubles-down-on-his-criticism-of-pastors-5671232",
-          "summary": "In a frantically organised meeting between Pentecostal pastors and the PLU secretary general...",
-          "publishedAt": "2026-11-15T04:12:39.000Z"
-        },
-        {
-          "title": "Hamas says senior armed commander killed in Israeli strike",
-          "link": "https://www.monitor.co.ug/uganda/news/world/hamas-says-senior-armed-commander-killed-in-israeli-strike-5671240",
-          "summary": "Hamas said his funeral would be held on Sunday afternoon in Khan Younis",
-          "publishedAt": "2026-11-15T04:05:49.000Z"
-        },
-        {
-          "title": "Implications of discolouration of a dead body",
-          "link": "https://www.monitor.co.ug/uganda/magazines/people-power/implications-of-discolouration-of-a-dead-body-5671228",
-          "summary": "The particular nature and the distribution of the discolouration are of great importance in...",
-          "publishedAt": "2026-11-15T04:00:00.000Z"
-        },
-        {
-          "title": "Man electrocuted while rescuing daughter in Iganga",
-          "link": "https://www.monitor.co.ug/uganda/news/national/man-electrocuted-while-rescuing-daughter-in-iganga-5671264",
-          "summary": "Preliminary investigations indicate that faulty electrical connections and wiring in the...",
-          "publishedAt": "2026-11-15T04:00:00.000Z"
-        },
-        {
-          "title": "When the system fails the honest business in Uganda",
-          "link": "https://www.monitor.co.ug/uganda/magazines/life/when-the-system-fails-the-honest-business-in-uganda-5671146",
-          "summary": "The Commonwealth Heads of Government Meeting, popularly known as CHOGM 2007, two pro forma...",
-          "publishedAt": "2026-11-15T03:30:00.000Z"
-        },
-        {
-          "title": "African filmmakers compete for $120,000 at Alternativa 2027",
-          "link": "https://www.monitor.co.ug/uganda/lifestyle/theatre-cinema/african-filmmakers-compete-for-120-000-at-alternativa-2027-5671112",
-          "summary": "Alternativa Film Festival opens submissions for its first African edition in 2027, offering...",
-          "publishedAt": "2026-11-15T03:15:00.000Z"
-        }
-      ]
-    },
-    {
-      "outlet": {
         "id": "observer-ug",
         "name": "The Observer",
         "homepage": "https://observer.ug",
         "lang": "en-UG"
       },
-      "fetchedAt": "2026-11-16T18:46:17.759Z",
+      "fetchedAt": "2026-11-17T06:56:07.738Z",
       "items": [
+        {
+          "title": "Lugoloobi calls for reinstatement of statisticians in government agencies",
+          "link": "https://observer.ug/news/lugoloobi-calls-for-reinstatement-of-statisticians-in-government-agencies/",
+          "summary": "Finance minister Amos Lugoloobi has called on government to reinstate professional statisticians in ministries, departments, agencies and local governments to strengthen data collection and ensure public policies are…",
+          "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2026/11/Amos-Lugolobi.png?fit=800%2C547&ssl=1",
+          "publishedAt": "2026-11-17T05:35:58.000Z"
+        },
+        {
+          "title": "Makerere University students are starving",
+          "link": "https://observer.ug/news/makerere-university-students-are-starving/",
+          "summary": "An entire day can pass without Denise Kainomugisha eating a meal. She attends lectures at Makerere University on an empty stomach, then returns to her hostel in the evening hoping to find something to cook. But even that…",
+          "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2021/10/Makerere-University-students-at-Freedom-Square.png?fit=760%2C419&ssl=1",
+          "publishedAt": "2026-11-17T05:20:47.000Z"
+        },
+        {
+          "title": "Govt ordered to pay Shs 100m to family of man beaten to death in police custody",
+          "link": "https://observer.ug/news/govt-ordered-to-pay-shs-100m-to-family-of-man-beaten-to-death-in-police-custody/",
+          "summary": "The government has been ordered to pay Shs 100 million in compensation to the family of Mustafa Sajjabbi, a former resident of Mayuge district who was beaten to death by police officers while in custody 24 years ago. In…",
+          "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2026/08/Mariam-Wangadya-appearing-before-Cosase.jpg?fit=800%2C533&ssl=1",
+          "publishedAt": "2026-11-17T03:09:06.000Z"
+        },
         {
           "title": "We’ve no details about Egesa, Musiri’s whereabouts – police",
           "link": "https://observer.ug/news/weve-no-details-about-egesa-musiris-whereabouts-police/",
@@ -129,27 +79,6 @@
           "summary": "The government plans to introduce computer-based testing for driving permit applicants, replacing direct assessments by officers of the Inspectorate of Vehicles (IOV) in determining whether applicants are competent to…",
           "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2017/08/Driving-student.jpg?fit=760%2C570&ssl=1",
           "publishedAt": "2026-11-16T08:53:33.000Z"
-        },
-        {
-          "title": "Same national examinations, unequal learning opportunities",
-          "link": "https://observer.ug/viewpoint/same-national-examinations-unequal-learning-opportunities/",
-          "summary": "One of my in-laws often tells me, “These days, we send our children to school just to grow.” As an educationist, I find this statement disturbing. What happens when parents begin to lose confidence in the very…",
-          "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2026/11/Dr.-Peninah-Beinomugisha.png?fit=294%2C320&ssl=1",
-          "publishedAt": "2026-11-16T06:14:00.000Z"
-        },
-        {
-          "title": "Armed gang robs Stabex petrol station of Shs 14m in Lamwo",
-          "link": "https://observer.ug/news/armed-gang-robs-stabex-petrol-station-of-shs-14m-in-lamwo/",
-          "summary": "Police in Lamwo district, northern Uganda, are investigating an aggravated robbery in which six armed men attacked and tied up four petrol station workers before fleeing with Shs 13.9 million and other valuables. The…",
-          "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2025/09/Police-crime-scene-tape.jpg?fit=800%2C493&ssl=1",
-          "publishedAt": "2026-11-16T05:58:05.000Z"
-        },
-        {
-          "title": "Muhoozi’s political regency: can CEC anoint an heir who has not come of age?",
-          "link": "https://observer.ug/viewpoint/muhoozis-political-regency-can-cec-anoint-an-heir-who-has-not-come-of-age/",
-          "summary": "In January 2023, Dr Chris Baryomunsi, then minister of ICT and National Guidance, offered an unequivocal interpretation of the law governing General Muhoozi Kainerugaba’s political activities. Appearing on NBS…",
-          "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2026/10/Asuman-Kiyingi.jpg?fit=576%2C660&ssl=1",
-          "publishedAt": "2026-11-15T21:14:00.000Z"
         }
       ]
     }

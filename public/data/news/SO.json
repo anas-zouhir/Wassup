@@ -8,8 +8,14 @@
         "homepage": "https://somaliguardian.com",
         "lang": "en-SO"
       },
-      "fetchedAt": "2026-11-16T18:46:04.420Z",
+      "fetchedAt": "2026-11-17T06:55:51.460Z",
       "items": [
+        {
+          "title": "Somaliland briefly detains Americans over national security threat",
+          "link": "https://www.somaliguardian.com/news/somalia-news/somaliland-detains-americans-national-security-threat/",
+          "summary": "HARGEISA (Somaliguardian) – The national intelligence agency in the self-declared Republic of Somaliland said it had briefly detained five US nationals ​who were threatening national security. The National Intelligence…",
+          "publishedAt": "2026-11-16T19:07:05.000Z"
+        },
         {
           "title": "World Bank weighs suspension of budget support to Somalia",
           "link": "https://www.somaliguardian.com/news/somalia-news/world-bank-weighs-suspension-budget-support-somalia/",
@@ -33,12 +39,6 @@
           "link": "https://www.somaliguardian.com/news/somalia-news/somalia-election-talks-president-hassan-sheikh-fail-start-opposition-boycott/",
           "summary": "MOGADISHU (Somaliguardian) – The long-anticipated election talks called by President Hassan Sheikh Mohamud failed to open on Saturday as scheduled, after Somalia’s principal opposition alliance boycotted the gathering at…",
           "publishedAt": "2026-11-14T16:19:49.000Z"
-        },
-        {
-          "title": "UN experts brand Somalia president’s removal of chief justice a direct assault on judicial independence",
-          "link": "https://www.somaliguardian.com/news/somalia-news/un-experts-somalia-president-chief-justice-judicial-independence/",
-          "summary": "MOGADISHU (Somaliguardian) – In language of unusual severity, United Nations independent experts have condemned President Hassan Sheikh Mohamud’s abrupt dismissal of Somalia’s Chief Justice, Bashe Yusuf Ahmed, as a…",
-          "publishedAt": "2026-11-14T06:51:08.000Z"
         }
       ]
     },
@@ -49,8 +49,43 @@
         "homepage": "https://www.caasimada.net",
         "lang": "so"
       },
-      "fetchedAt": "2026-11-16T18:46:04.593Z",
+      "fetchedAt": "2026-11-17T06:55:50.887Z",
       "items": [
+        {
+          "title": "Xog: Yaa Hargeysa keenay raggii Mareykanka ahaa ee ay xireen sirdoonka Somaliland?",
+          "link": "https://www.caasimada.net/xog-yaa-hargeysa-keenay-raggii-mareykanka-ahaa-ee-ay-xireen-sirdoonka-somaliland/",
+          "summary": "Hargeysa (Caasimada Online) – Shan nin oo u dhashay dalka Mareykanka oo ay dhawaan xirtay hay’adda sirdoonka Somaliland, laguna eedeeyay in ay khatar ku ahaayeen amniga qaranka, ayaa la ogaaday in uu markii hore…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2023/03/Ciidamada-Somaliland-scaled.jpeg?fit=2560%2C1880&ssl=1",
+          "publishedAt": "2026-11-17T06:00:34.000Z"
+        },
+        {
+          "title": "DF oo ka jawaabtay go’aankii Mareykanka uu ku soo celiyay…",
+          "link": "https://www.caasimada.net/df-oo-ka-jawaabtay-goaankii-mareykanka-uu-ku-soo-celiyay/",
+          "summary": "Muqdisho (Caasimada Online) – Dowladda Federaalka Soomaaliya ayaa Isniintii soo dhoweysay go’aanka ay Washington ku oggolaatay in muddo hal sano ah oo dheeraad ah la maalgeliyo xafiiska taageerada saadka ee Qaramada…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2024/10/fiqi-1.jpg?fit=2048%2C1366&ssl=1",
+          "publishedAt": "2026-11-17T05:00:32.000Z"
+        },
+        {
+          "title": "Dagaalkii Bab al-Mandab oo u muuqda in lagu kala adkaaday",
+          "link": "https://www.caasimada.net/dagaalkii-bab-al-mandab-oo-u-muuqda-in-lagu-kala-adkaaday/",
+          "summary": "Cadan (Caasimada Online) – Xoogagga uu Sacuudigu taageero ee ka dagaallama dalka Yemen ayaa isaga baxay fariisimo muhiim ah oo dul-saaran marinka istiraatiijiga ah ee Bab al-Mandab, taas oo kooxda Xuutiyiinta siisay…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2025/03/Xuutiyiinta-Houthis-Ansar-Allah-.png?fit=4377%2C3194&ssl=1",
+          "publishedAt": "2026-11-17T04:00:24.000Z"
+        },
+        {
+          "title": "Cali Jeyte oo la dalacsiiyay xilli ay xiisadda Hiiraan kasii dareyso",
+          "link": "https://www.caasimada.net/cali-jeyte-oo-la-dalacsiiyay-xilli-ay-xiisadda-hiiraan-kasii-dareyso/",
+          "summary": "Beledweyne (Caasimada Online) – Dowladda Federaalka Soomaaliya ayaa Cali Jeyte Cismaan oo hore u ahaa hoggaamiyihii Macawiisleyda gobolka Hiiraan u dalacsiisay darajada Sarreeye Guuto. Dalacsiinta Jeyta ayaa imaneysa…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2022/12/Cali-Jeyte-jeyte.jpeg?fit=1536%2C1531&ssl=1",
+          "publishedAt": "2026-11-16T20:30:45.000Z"
+        },
+        {
+          "title": "DF oo shaacisay magaca horjooge Shabaab ah oo la dilay",
+          "link": "https://www.caasimada.net/df-oo-shaacisay-magaca-horjooge-sare-oo-laga-dilay-al-shabaab/",
+          "summary": "Xudur (Caasimada Online) – Ciidanka Xoogga Dalka Soomaaliyeed ayaa howlgal ka dhan ah kooxda Al-Shabaab ka fuliyey duleedka deegaanka Moora Hagar Guudale oo qiyaastii 20 KM dhanka koonfureed kaga beegan magaalada Xudur…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2020/03/Shabaab.jpg?fit=1894%2C961&ssl=1",
+          "publishedAt": "2026-11-16T19:00:38.000Z"
+        },
         {
           "title": "Who stands in the way of a strong Somali State?",
           "link": "https://www.caasimada.net/who-stands-in-the-way-of-a-strong-somali-state/",
@@ -64,82 +99,35 @@
           "title": "Shiinaha iyo Jabuuti oo ku heshiiyay in Somaliland…",
           "link": "https://www.caasimada.net/shiinaha-iyo-jabuuti-oo-ku-heshiiyay-in-somaliland/",
           "summary": "Muqdisho (Caasimada Online) – Dowladaha Shiinaha iyo Jabuuti ayaa si wadajir ah uga shaqeynaya sidii ay uga hortagi lahaayeen aqoonsi ay hesho Somaliland iyo wiiqista xiriirka Taiwan, sida uu sheegay safiirka Shiinaha ee…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/Geelle-XI.webp?fit=527%2C379&ssl=1",
-          "publishedAt": "2026-11-16T17:30:30.000Z",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/Xi-Jinping-Geelle-scaled.webp?fit=2560%2C1706&ssl=1",
+          "publishedAt": "2026-11-16T18:00:30.000Z",
           "titleEn": "China and Jabuti agree that Somaliland...",
           "summaryEn": "Mogadishu (Capital Online)  ⁇  The Chinese government and Jabuti are working together to prevent Somaliland from gaining recognition and weaken relations with Taiwan, according to the Chinese ambassador to..."
         },
         {
-          "title": "Yaa hor-taagan dowlad Soomaaliyeed oo xoog leh?",
-          "link": "https://www.caasimada.net/yaa-hor-taagan-dowlad-soomaaliyeed-oo-xoog-leh/",
-          "summary": "Ma garanaynaa halka nalaga haysto iyo cidda Soomaaliya u diiddan inay noqoto dowlad xoog leh oo soo saarata khayraadkeeda, dhisata ciidankeeda, kana mid noqota dalalka Afrika ee horumarka tiigsanaya? Waxaan hubaa in…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/07/ciidan-iyo-calan.webp?fit=2048%2C1366&ssl=1",
-          "publishedAt": "2026-11-16T17:00:44.000Z",
-          "titleEn": "Who is in front of a strong Somali government?",
-          "summaryEn": "Do we know where we stand and who does not want Somalia to become a powerful state that produces its resources, builds its military, and becomes one of the most developed countries in Africa? I'm sure that..."
+          "title": "Mareykanka oo ka laabtay go’aan uu horey u qaatay oo ku saabsan Soomaaliya",
+          "link": "https://www.caasimada.net/mareykanka-oo-aqbalay-dib-u-cusbooneysiinta-taageerada-dhaqaale-aussom/",
+          "summary": "Washington (Caasimada Online) – Dowladda Mareykanka ayaa dib u soo celin doonta taageeradii ay siin jirtay howlgallada milatari ee caalamiga ah ee ka socda Soomaaliya, sida ay Wasaaradda Arrimaha Dibadda u sheegtay…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2025/11/US-State-Department-scaled.webp?fit=2560%2C1707&ssl=1",
+          "publishedAt": "2026-11-16T17:00:28.000Z"
         },
         {
           "title": "Xogta muwaadiniin Mareykan ah oo Hargeysa lagu xiray",
           "link": "https://www.caasimada.net/muwaadiniin-mareykan-ah-oo-lagu-xiray-garoonka-hargeysa/",
           "summary": "Hargeysa (Caasimada Online) – Muwaadiniin Mareykan ah ayaa lagu xiray magaalada Hargeysa ee caasimadda Somaliland kadib markii lagu eedeeyay inay khatar ku yihiin amniga maamulka Somaliland. Shantan muwaadin ee u dhashay…",
           "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2019/12/garoonka-cigaal.jpg?fit=1024%2C768&ssl=1",
-          "publishedAt": "2026-11-16T15:50:23.000Z",
+          "publishedAt": "2026-11-16T16:00:23.000Z",
           "titleEn": "Data of U.S. citizens arrested in Hargeysa",
           "summaryEn": "Hargeysa (Capital Online)  ⁇  U.S. citizens have been arrested in Somaliland's capital city of Hargeysa after being accused of being a threat to the security of Somaliland authorities. These five citizens were born in..."
         },
         {
-          "title": "Mareykanka oo aqbalay dib u cusbooneysiinta taageerada dhaqaale AUSSOM",
-          "link": "https://www.caasimada.net/mareykanka-oo-aqbalay-dib-u-cusbooneysiinta-taageerada-dhaqaale-aussom/",
-          "summary": "Washington (Caasimada Online) – Dowladda Mareykanka ayaa oggolaatay dib u cusbooneysiinta taageeradii dhaqaale ee howlgalka Midowga Afrika ee Soomaaliya (AUSSOM) iyo Xafiiska Taageerada Qaramada Midoobay ee Soomaaliya…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2019/04/Amisom-Uganda.jpg?fit=2047%2C1365&ssl=1",
-          "publishedAt": "2026-11-16T14:30:28.000Z",
-          "titleEn": "U.S. approves renewal of AUSSOM financial support",
-          "summaryEn": "Washington (Capital Online)  ⁇  The U.S. government has approved the resumption of financial support for the African Union's Somalia Mission (AUSSOM) and the United Nations Assistance Agency in Somalia..."
-        },
-        {
-          "title": "War cusub oo kasoo kordhay dagaalka Golweyn kadib markii ciidanka Lafta-gareen…",
-          "link": "https://www.caasimada.net/war-cusub-oo-kasoo-kordhay-dagaalka-golweyn-kadib-markii-ciidanka-lafta-gareen/",
-          "summary": "Afgooye (Caasimada Online) – Wararka naga soo gaaraya gobolka Shabeellaha Hoose ayaa sheegaya in saaka xaalad kacsanaan ah laga dareemayo aagga deegaanka Golweyn oo ay shalay la wareegeen ciidamada taabacsan…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2023/04/ciidanka-xoogga-dalka-ciidamada-militeriga-Soomaaliya.jpg5_.jpg?fit=1024%2C768&ssl=1",
-          "publishedAt": "2026-11-16T13:00:24.000Z",
-          "titleEn": "News from the Gulf War after the army...",
-          "summaryEn": "Afgooye (Capital Online)  ⁇  News from Shabeellaha Lower Province reports that a state of unrest is being felt in the Golweyn area after the occupation of the surrounding forces yesterday..."
-        },
-        {
-          "title": "Xogta qorshihii Mareykanku ku doonayay gobolka NFD dib loogu celiyo Soomaaliya",
-          "link": "https://www.caasimada.net/xogta-qorshihii-mareykanku-ku-doonayay-gobolka-nfd-dib-loogu-celiyo-soomaaliya/",
-          "summary": "Washington (Caasimada Online) – Xilli saraakiil sare oo ka tirsan dowladda Kenya ay u diyaar-garoobayeen safar ay ku tagaan magaalada Washington sanadkii 1978-kii si ay u soo weydiistaan hub ay isaga difaacaan…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/CIA-scaled.webp?fit=2560%2C1707&ssl=1",
-          "publishedAt": "2026-11-16T12:00:48.000Z",
-          "titleEn": "Data on the US plan to return the NFD region to Somalia",
-          "summaryEn": "Washington (Capital Online)  ⁇  When senior officials of the Kenyan government were preparing to travel to Washington in 1978 to ask for weapons to defend him..."
-        },
-        {
-          "title": "Ramla Cali oo war cusub kasoo saartay xukunka lagu riday ninkii qorsheeyay dilkeeda",
-          "link": "https://www.caasimada.net/ramla-cali-oo-war-cusub-kasoo-saartay-xukunka-lagu-riday-ninkii-qorsheeyay-dilkeeda/",
-          "summary": "London (Caasimada Online) – Feeryahanadda caanka ah ee Soomaaliyeed, Ramla Cali ayaa markii ugu horreysay si faah-faahsan uga hadashay kiiska ninkii maleegay qorshaha dilkeeda, xilli ay dabayaaqadii sannadkii hore 2025…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/Ramlo-Cali.webp?fit=1600%2C1067&ssl=1",
-          "publishedAt": "2026-11-16T11:00:14.000Z",
-          "titleEn": "Ramla Ali has released a new report on the conviction of the man who planned her murder.",
-          "summaryEn": "London (Capital Online)  ⁇  The famous Somali actress, Ramla Ali, has for the first time spoken in detail about the case of the man who suspected her of planning her assassination, when late last year 2025..."
-        },
-        {
-          "title": "Madaxweyne Xasan Sheekh oo shaaciyey laba dal oo halis ku ah jiritaanka Soomaaliya",
-          "link": "https://www.caasimada.net/madaxweyne-xasan-sheekh-oo-shaaciyey-laba-dal-oo-halis-ku-ah-jiritaanka-soomaaliya/",
-          "summary": "Muqdisho (Caasimada Online) – Madaxweynaha Jamhuuriyadda Federaalka Soomaaliya, Xasan Sheekh Maxamuud, ayaa Axaddii ku dhawaaqay in Israa’iil iyo Taiwan ay khatar ku yihiin jiritaanka iyo dowladnimada Soomaaliya.…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/09/Xasan-Sheekh-1-scaled.webp?fit=2560%2C1794&ssl=1",
-          "publishedAt": "2026-11-16T10:00:48.000Z",
-          "titleEn": "President Hassan Sheikh declares two countries at risk of Somalia's survival",
-          "summaryEn": "Mogadishu (Capital Online)  ⁇  President of the Federal Republic of Somalia, Hassan Sheikh Mahmoud, announced on Sunday that Israel and Taiwan pose a threat to the existence and sovereignty of Somalia...."
-        },
-        {
-          "title": "Dumar maandooriye gelin rabay xabsiga dhexe ee Xamar oo la qabtay + Sawirro",
-          "link": "https://www.caasimada.net/dumar-maandooriye-gelin-rabay-xabsiga-dhexe-ee-xamar-oo-la-qabtay-sawirro/",
-          "summary": "Muqdisho (Caasimada Online) – Ciidamada Asluubta Soomaaliyeed ayaa maanta gacanta ku dhigay lix dumar ah oo maandooriye halis ah gudaha u gelin rabay Xabsiga Dhexe ee Xamar, iyaga oo ku dhex-qariyay raashinka loo geeyo…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/907321653_990740527431936_1187986922521632022_n.webp?fit=2048%2C1365&ssl=1",
-          "publishedAt": "2026-11-16T09:00:30.000Z",
-          "titleEn": "A female drug addict wanted in the central prison of Xamar arrested + Photos",
-          "summaryEn": "Mogadishu (Capital Online)  ⁇  The Somali Armed Forces today seized six women who were dangerously addicted to drugs and tried to bring them inside the Central Penitentiary of Hamar, hiding them in the food..."
+          "title": "Yaa hor-taagan dowlad Soomaaliyeed oo xoog leh?",
+          "link": "https://www.caasimada.net/yaa-hor-taagan-dowlad-soomaaliyeed-oo-xoog-leh/",
+          "summary": "Ma garanaynaa halka nalaga haysto iyo cidda Soomaaliya u diiddan inay noqoto dowlad xoog leh oo soo saarata khayraadkeeda, dhisata ciidankeeda, kana mid noqota dalalka Afrika ee horumarka tiigsanaya? Waxaan hubaa in…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/07/ciidan-iyo-calan.webp?fit=2048%2C1366&ssl=1",
+          "publishedAt": "2026-11-16T15:00:44.000Z",
+          "titleEn": "Who is in front of a strong Somali government?",
+          "summaryEn": "Do we know where we stand and who does not want Somalia to become a powerful state that produces its resources, builds its military, and becomes one of the most developed countries in Africa? I'm sure that..."
         }
       ]
     }

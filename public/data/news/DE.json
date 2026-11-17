@@ -8,87 +8,67 @@
         "homepage": "https://www.tagesschau.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-16T18:45:13.153Z",
+      "fetchedAt": "2026-11-17T06:54:44.572Z",
       "items": [
         {
-          "title": "Marktbericht: DAX bleibt nahe Rekordhoch",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
-          "summary": "Zum Wochenauftakt fällt der DAX moderat. Er bleibt aber nah an seinem Rekordhoch. Investoren warten vor allem die Nvidia-Bilanz ab. Außerdem sorgen sie sich um eine Zinserhöhung in den USA.",
-          "publishedAt": "2026-11-16T17:21:14.000Z",
-          "titleEn": "Market report: DAX remains close to record high",
-          "summaryEn": "The DAX is down moderately at the beginning of the week. But he's still close to his record high. Investors are primarily waiting for Nvidia's balance sheet. They are also concerned about a rate hike in the United States."
+          "title": "Ausnahmezustand in Guatemala - Regierung setzt Militär gegen Drogenbanden ein",
+          "link": "https://www.tagesschau.de/ausland/amerika/guatemala-drogen-militaer-100.html",
+          "summary": "Teile Guatemalas sind zunehmend im Griff von Drogenbanden. Die Regierung verhängte den Ausnahmezustand und schickte das Militär in die betroffene Region. Die USA setzten ein Millionen-Kopfgeld aus.",
+          "publishedAt": "2026-11-17T06:45:47.000Z"
         },
         {
-          "title": "Deutschland will die eigene Stahlindustrie erhalten - zu welchem Preis?",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/wohin-steuert-die-stahlindustrie-gipfeltreffen-100.html",
-          "summary": "Deutschland ohne eigene Stahlindustrie - das würde nicht nur weniger Jobs, sondern auch die komplette Abhängigkeit von Importen bedeuten. Doch die Branche setzt auf Grünen Stahl, und genau das könnte zum Problem werden.…",
-          "publishedAt": "2026-11-16T16:36:35.000Z",
-          "titleEn": "Germany wants to keep its own steel industry - at what price?",
-          "summaryEn": "Germany without its own steel industry - that would mean not only fewer jobs but also complete dependence on imports. But the industry is relying on green steel, and that's exactly what could become the problem."
+          "title": "Angriffe auf die Ukraine: Zwei wichtige Brücken in Kiew getroffen",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-212.html",
+          "summary": "Trotz US-Vermittlungen gehen die Angriffe weiter: Russland meldet einen Angriff auf die Krim-Brücke, auch in Kiew wurden zwei Brücken getroffen. In der Region Saporischschja sind die Rettungsarbeiten nach einem der…",
+          "publishedAt": "2026-11-17T06:36:47.000Z"
         },
         {
-          "title": "Robert Pattinson wird neuer James Bond - Nachfolge von Daniel Craig",
-          "link": "https://www.tagesschau.de/kultur/james-bond-robert-pattinson-100.html",
-          "summary": "Unter Experten war er als heißer Favorit gehandelt worden. Nun steht es auch offiziell fest: Robert Pattinson wird neuer 007. Der nächste James-Bond-Film wird der erste unter der Federführung von Amazon.",
-          "publishedAt": "2026-11-16T16:33:42.000Z",
-          "titleEn": "Robert Pattinson becomes the new James Bond - successor to Daniel Craig",
-          "summaryEn": "He was considered a hot favorite among experts. Now it's officially confirmed that Robert Pattinson will be the new 007. The next James Bond movie is going to be the first under the banner of Amazon."
+          "title": "Marktbericht: KI-Kursrutsch dürfte auch den DAX belasten",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
+          "summary": "Neue US-Exportbeschränkungen für KI-Chips und die Krise rund um Nvidia drücken auf die Stimmung am Aktienmarkt. Der DAX dürfte mit Verlusten in den neuen Handelstag starten.",
+          "publishedAt": "2026-11-17T06:35:55.000Z"
         },
         {
-          "title": "EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen",
-          "link": "https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html",
-          "summary": "Fünf EU-Staaten, darunter Deutschland, planen für das kommende Jahr die Eröffnung des ersten Abschiebezentrums in Ruanda. Dorthin sollen Asylbewerber gebracht werden, die nicht in ihre Herkunftsländer abgeschoben werden…",
-          "publishedAt": "2026-11-16T17:07:43.000Z",
-          "titleEn": "EU countries plan to open a displacement centre in Rwanda by 2027",
-          "summaryEn": "Five EU countries, including Germany, plan to open the first displacement centre in Rwanda next year. They want to take asylum seekers who are not deported back to their countries of origin..."
+          "title": "Serbisches Parlament konstituiert sich nach Sieg der Studentenliste",
+          "link": "https://www.tagesschau.de/ausland/europa/serbien-parlament-konstituierung-100.html",
+          "summary": "Nach dem Sieg der Studentenliste bei der Wahl in Serbien tritt heute erstmals das Parlament zusammen. Die neuen Abgeordneten wollen fast alles umkrempeln. Doch noch immer ist unklar, wer Schlüsselpositionen in der…",
+          "publishedAt": "2026-11-17T06:13:09.000Z"
         },
         {
-          "title": "EU sanktioniert russische Propagandisten, Hacker, Unternehmer",
-          "link": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-propaganda-banken-100.html",
-          "summary": "Russlands reichste Unternehmerin, eine Propaganda-Fabrik, Hackergruppen, Medien-Promis und Banken: Die EU hat eine große Bandbreite von Akteuren mit weiteren Sanktionen belegt. Auch Unternehmen aus China und den Emiraten…",
-          "publishedAt": "2026-11-16T16:06:44.000Z",
-          "titleEn": "The EU sanctions Russian propagandists, hackers, entrepreneurs",
-          "summaryEn": "Russia's richest entrepreneur, a propaganda factory, hacker groups, prominent media and banks: the EU has taken a wide range of actors with further sanctions. Companies from China and the Emirates..."
+          "title": "Koalitionsausschuss: Schwarz-Rot sucht nach Milliarden für Entlastungen",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/rente-stromsteuer-wahlrecht-knackpunkte-koalition-100.html",
+          "summary": "Stromsteuersenkung, Rentenreform, Ausgleich der Kalten Progression: Die Spitzen der schwarz-roten Koalition wollen heute über viele Knackpunkte entscheiden. Es geht um viel Geld, aber auch um die Glaubwürdigkeit des…",
+          "publishedAt": "2026-11-17T05:44:10.000Z"
         },
         {
-          "title": "Weltklimakonferenz: Australien legt Entwurf für Abschlusserklärung vor",
-          "link": "https://www.tagesschau.de/ausland/asien/klimakonferenz-abschlusserklaerung-100.html",
-          "summary": "Auf der Weltklimakonferenz in Antalya hat die entscheidende Phase begonnen. Die australische Delegation hat einen ersten Entwurf für die Abschlusserklärung veröffentlicht - um manche Formulierung dürfte noch gerungen…",
-          "publishedAt": "2026-11-16T16:05:30.000Z",
-          "titleEn": "World climate conference: Australia submits a draft final declaration",
-          "summaryEn": "At the World Climate Conference in Antalya, the decisive phase has begun. The Australian delegation has published a first draft of the final declaration - which is probably not well worded..."
+          "title": "Neuer Climate Risk Index: Wo schlägt die Klimakrise besonders zu?",
+          "link": "https://www.tagesschau.de/wissen/klima/klimakrisen-laender-risiken-100.html",
+          "summary": "Dürren, Fluten, Stürme: Ein neuer Bericht zeigt, welche Länder am stärksten unter Extremwetter leiden - und mit welchen Folgen. Auch in Europa steigen die Risiken. Aber die verletzlichsten Regionen liegen woanders. Von…",
+          "publishedAt": "2026-11-17T05:01:07.000Z"
         },
         {
-          "title": "Die EU will europäischen Stahl konkurrenzfähig machen",
-          "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/stahl-eu-china-massnahmen-100.html",
-          "summary": "Die EU möchte dafür sorgen, dass hiesige Stahlkonzerne es leichter haben gegen die Übermacht aus China. Dafür werden inzwischen einige Maßnahmen ergriffen. Doch reichen sie aus? Von Jean-Marie Magro.",
-          "publishedAt": "2026-11-16T14:53:07.000Z",
-          "titleEn": "The EU wants to make European steel competitive",
-          "summaryEn": "The EU wants to make it easier for local steel companies to cope with the Chinese superpower. In the meantime, a number of measures are being taken. But are they enough? It was Jean-Marie Magro."
+          "title": "Krieg gegen die Ukraine: Erste Vorgespräche mit Europas Unterhändlern",
+          "link": "https://www.tagesschau.de/ausland/europa/europa-ukraine-usa-100.html",
+          "summary": "Europäische Unterhändler haben erste Vorgespräche mit den USA und der Ukraine über eine Beendigung des Kriegs geführt - und dabei die Vertreter instruiert, die später mit Russland verhandeln.",
+          "publishedAt": "2026-11-17T03:28:15.000Z"
         },
         {
-          "title": "Stahlgipfel in Salzgitter: Unternehmen fordern Entlastung beim Strompreis",
-          "link": "https://www.tagesschau.de/wirtschaft/stahlgipfel-klimawandel-produktion-100.html",
-          "summary": "Strom ist für die Stahlindustrie ein entscheidender Faktor: Beim Stahlgipfel in Salzgitter forderte die Branche deshalb einen verlässlichen Strompreis. Bundeswirtschaftsministerin Reiche verwies auf bereits Erreichtes.",
-          "publishedAt": "2026-11-16T14:52:36.000Z",
-          "titleEn": "Steel Summit in Salt Grid: Companies demand discharge from electricity prices",
-          "summaryEn": "Electricity is a decisive factor for the steel industry: at the steel summit in Salt Grid, the industry demanded a reliable electricity price. Federal Minister for Economic Affairs Riche pointed to what has already been achieved."
+          "title": "Nach Huang-Affäre: Bald alles neu in der KI-Chipindustrie?",
+          "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-chipindustrie-nvidia-100.html",
+          "summary": "Konkurrenten wie AMD oder Qualcomm reiben sich nach dem Abgang von Huang als CEO bei Nvidia schon die Hände. Was ist dran am möglichen Umbruch der Chip-Branche - und wie viel hat er tatsächlich mit dem Abtritt Huangs zu…",
+          "publishedAt": "2026-11-17T03:16:17.000Z"
         },
         {
-          "title": "Depardieu akzeptiert Belästigungsurteil und bittet um Entschuldigung",
-          "link": "https://www.tagesschau.de/ausland/europa/depardieu-belaestigung-urteil-entschuldigung-100.html",
-          "summary": "Seit Jahren werfen Frauen dem Schauspieler Depardieu sexuelle Übergriffe und Gewalt vor. Der 77-Jährige hat sich nie einsichtig gezeigt - bis jetzt. Schon nächste Woche steht für Depardieu der nächste Gerichtstermin an.",
-          "publishedAt": "2026-11-16T14:46:58.000Z",
-          "titleEn": "Depardieu accepts harassment and apologizes",
-          "summaryEn": "For years, women have accused the actor Depardieu of sexual assault and violence. The 77-year-old has never shown any objectivity - until now. The next court date is due for Depardieu next week."
+          "title": "Proteste in Frankreich: Die Wut der Schüler, die Ohnmacht der Schulen",
+          "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-188.html",
+          "summary": "Gewerkschaften und Gelbwesten haben in Frankreich für heute erneut zu Protesten aufgerufen. Ein Teil der Schülerinnen und Schüler will sich daran beteiligen. Schulleiter fühlen sich alleingelassen. Von Julia Borutta.",
+          "publishedAt": "2026-11-17T02:20:12.000Z"
         },
         {
-          "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
-          "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
-          "summary": "Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose…",
-          "publishedAt": "2026-11-16T17:59:15.000Z",
-          "titleEn": "Tesla announces billions in investment in a plant in Brandenburg",
-          "summaryEn": "Tesla wants to spend three billion euros to expand the plant in Grünheide, east of Berlin. The US electric car manufacturer wants to finance a new production building with this. In the future, they're supposed to be cybercabs, driverless..."
+          "title": "Künstliche Intelligenz: Kalifornien verklagt OpenAI wegen Cyberangriffen",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html",
+          "summary": "Der Generalstaatsanwalt von Kalifornien klagt OpenAI an. Der Vorwurf: Das Tech-Unternehmen habe ein gefährliches Produkt entwickelt und nicht ausreichend getestet - und nicht mit Behörden kooperiert. Von R. Spiegelhauer.",
+          "publishedAt": "2026-11-17T01:16:16.000Z"
         }
       ]
     },
@@ -99,97 +79,77 @@
         "homepage": "https://www.spiegel.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-16T18:45:11.920Z",
+      "fetchedAt": "2026-11-17T06:54:44.279Z",
       "items": [
         {
-          "title": "Lisa T. aus Berlin: Staatsanwalt erklärt Probleme bei Verfahren zu Missbrauchsbildern",
-          "link": "https://www.spiegel.de/panorama/justiz/lisa-t-aus-berlin-staatsanwalt-erklaert-probleme-bei-verfahren-zu-missbrauchsbildern-a-38a61996-bf3f-4477-b8f2-78c18908a6e0#ref=rss",
-          "summary": "Der mutmaßliche Mörder der 13-jährigen Lisa T. stand seit längerem unter Verdacht, weil er Missbrauchsbilder von Kindern gehortet haben soll. Ein Staatsanwalt sagt, warum solche Verfahren für Ermittler schwierig sind.",
-          "image": "https://cdn.prod.www.spiegel.de/images/d5b38071-7794-404a-a6fc-55ca4ebfccd6_w520_r2.08_fpx49.34_fpy50.jpg",
-          "publishedAt": "2026-11-16T18:39:00.000Z",
-          "titleEn": "Lisa T. from Berlin: Prosecutor explains problems with abuse images proceedings",
-          "summaryEn": "The alleged killer of 13-year-old Lisa T. has long been under suspicion for allegedly listening to images of child abuse. A prosecutor explains why such proceedings are difficult for investigators."
+          "title": "Kanada und China unterlaufen Trumps Zollpolitik mit Zollerleichterungen",
+          "link": "https://www.spiegel.de/wirtschaft/kanada-und-china-unterlaufen-trumps-zollpolitik-mit-zollerleichterungen-a-3eeca7f4-6869-4bce-a9e0-58a8a9f5c309#ref=rss",
+          "summary": "Mit Zollerleichterungen auf Produkte wie Lebensmittel und Stahl wollen China und Kanada ihre Zusammenarbeit vertiefen. Den beiden Ländern geht es auch darum, die US-Zollpolitik zu unterlaufen.",
+          "image": "https://cdn.prod.www.spiegel.de/images/efdb8682-bfa9-4141-8116-fb8ff8263115_w520_r2.08_fpx32.9_fpy49.98.jpg",
+          "publishedAt": "2026-11-17T06:44:00.000Z"
         },
         {
-          "title": "SPIEGEL Buchpreis 2026: Laudatio von Eva Horn auf Tony Tulathimutte",
-          "link": "https://www.spiegel.de/kultur/spiegel-buchpreis-2026-laudatio-von-eva-horn-auf-tony-tulathimutte-a-ed3a89cb-83bd-48c8-9941-fb2c87837c31#ref=rss",
-          "summary": "Jury-Mitglied Eva Horn über Tony Tulathimutte. Die Laudatio.",
-          "image": "https://cdn.prod.www.spiegel.de/images/d9d392c8-dfd2-4e22-bdf4-865ce196d5ba_w520_r2.08_fpx48.03_fpy54.97.jpg",
-          "publishedAt": "2026-11-16T18:21:00.000Z",
-          "titleEn": "I'm not sure I'm going to be able to do that.",
-          "summaryEn": "Jury member Eva Horn about Tony Tulathimutte. The laudatio."
+          "title": "USA: Gericht kippt Visa-Regeln für Studierende und Journalisten",
+          "link": "https://www.spiegel.de/ausland/usa-gericht-kippt-visa-regeln-fuer-studierende-und-journalisten-a-33ebde67-b6cc-497f-bb40-02399719c1a7#ref=rss",
+          "summary": "Die Trump-Regierung will Einwanderung deutlich begrenzen. Ein Gericht durchkreuzt nun geplante Einschränkungen für Studierende und Journalisten. Aus Washington kommen derweil Vorschläge für schärfere Regeln für…",
+          "image": "https://cdn.prod.www.spiegel.de/images/f88d43da-d924-4d5a-bc58-7a1f5acac72a_w520_r2.08_fpx52.67_fpy45.jpg",
+          "publishedAt": "2026-11-17T06:22:00.000Z"
         },
         {
-          "title": "»Fiasko« von Tony Tulathimutte: Warum dieses Buch das beste des Jahres ist",
-          "link": "https://www.spiegel.de/kultur/literatur/fiasko-von-tony-tulathimutte-warum-dieses-buch-das-beste-des-jahres-ist-a-278f971f-2737-4c6c-b48f-e886c91caf5a#ref=rss",
-          "summary": "Es ist lustig, böse, verstörend: Die SPIEGEL-Jury war sich erstaunlich einig, dass dieses Werk den SPIEGEL-Buchpreis 2026 verdient hat. Warum, erklären Andrea Petković und Xaver von Cranach im Video.",
-          "image": "https://cdn.prod.www.spiegel.de/images/b4dda362-615b-4a83-83c0-47911d50f192_w520_r2.08_fpx51_fpy57.jpg",
-          "publishedAt": "2026-11-16T18:21:00.000Z",
-          "titleEn": "⁇ Fiasko ⁇  by Tony Tulathimutte: Why this book is the best book of the year",
-          "summaryEn": "It's funny, it's bad, it' s disturbing: the SPIEGEL jury was amazingly unanimous that this work deserved the 2026 SPIEGel Book Award. Why, Andrea Petković and Xaver von Cranach explain in the video."
+          "title": "Hells-Angels-Ableger in Mönchengladbach verboten",
+          "link": "https://www.spiegel.de/panorama/justiz/hells-angels-ableger-in-moenchengladbach-verboten-a-afd764d3-7569-42a7-8100-391f8b1132e4#ref=rss",
+          "summary": "Erpressung, Drogenhandel, versuchte Tötungsdelikte: Die Liste der Vorwürfe gegen Mitglieder des Hells-Angels-Ablegers »West Central« ist lang. Nun wurde das sogenannte Charter verboten. Ein Mitglied kam in Haft.",
+          "image": "https://cdn.prod.www.spiegel.de/images/006ac0d0-c9b7-48c8-8b2e-c7c635fc6172_w520_r2.08_fpx50.34_fpy55.01.jpg",
+          "publishedAt": "2026-11-17T06:07:00.000Z"
         },
         {
-          "title": "SPIEGEL Buchpreis 2026: Tony Tulathimutte gewinnt mit »Fiasko«",
-          "link": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-2026-tony-tulathimutte-gewinnt-mit-fiasko-a-b382b96a-2de3-4f73-b844-1a2fc003570d#ref=rss",
-          "summary": "Zum zweiten Mal wird in Hamburg der SPIEGEL Buchpreis vergeben. Die Auszeichnung geht an den thai-amerikanischen Schriftsteller Tony Tulathimutte. Die Jury sieht in seinem Buch »Fiasko« eine scharfsinnige Zeitdiagnose.",
-          "image": "https://cdn.prod.www.spiegel.de/images/6649bd86-98ca-4dee-aa0a-cd3cd97d3b61_w520_r2.08_fpx50_fpy45.jpg",
-          "publishedAt": "2026-11-16T18:20:00.000Z",
-          "titleEn": "Spiegel Book Prize 2026: Tony Tulathimutte wins with  ⁇ Fiasko ⁇",
-          "summaryEn": "For the second time, the SPIEGEL Book Prize will be awarded in Hamburg. The award goes to the Thai-American writer Tony Tulathimutte. The jury sees in his book  ⁇ Fiasko ⁇  an acute time diagnosis."
+          "title": "Das Russland-Geschäft der Deutschen Bank - Podcast Karrierekiller",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/das-russland-geschaeft-der-deutschen-bank-podcast-karrierekiller-a-d9dfc61e-e641-454a-adf1-988f1de804d1#ref=rss",
+          "summary": "Bankgeschäfte in Russland sind ein Spiel mit dem Feuer. Trotzdem interessiert sich die Deutsche Bank für Oligarchen und Moskaus Superreiche.",
+          "image": "https://cdn.prod.www.spiegel.de/images/c1c3ecc8-e58d-48a3-bc14-2162e4c9bef3_w520_r2.08_fpx28.1_fpy49.98.jpg",
+          "publishedAt": "2026-11-17T06:03:00.000Z"
         },
         {
-          "title": "Robert Pattinson ist neuer James Bond: Was kann er der Rolle geben?",
-          "link": "https://www.spiegel.de/kultur/kino/robert-pattinson-ist-neuer-james-bond-was-kann-er-der-rolle-geben-a-9b51ac33-efc6-4a26-b48d-5fb3c3f0bb02#ref=rss",
-          "summary": "Er war Vampir, Hogwarts-Schüler und Batman. Jetzt ist er im Dienste seiner Majestät. Die Frage bleibt: Was kann Robert Pattinson der Rolle hinzufügen?",
-          "image": "https://cdn.prod.www.spiegel.de/images/41bd7441-282e-4652-930a-36f9eb6a7cba_w520_r2.08_fpx53.28_fpy49.98.jpg",
-          "publishedAt": "2026-11-16T17:59:00.000Z",
-          "titleEn": "Robert Pattinson is the new James Bond.",
-          "summaryEn": "He was a vampire, Hogwarts student, Batman. Now he's at the service of His Majesty. The question remains, what can Robert Pattinson add to the role?"
+          "title": "Donald Trumps Geschäfte mit der Deutschen Bank - Podcast Karrierekiller",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-geschaefte-mit-der-deutschen-bank-podcast-karrierekiller-a-18d7118d-1ffe-4816-bfd1-22a46efb6f84#ref=rss",
+          "summary": "Lange war die Deutsche Bank die Hausbank von Donald Trump. Dann zieht er ins Weiße Haus ein und die Beziehung wird toxisch.",
+          "image": "https://cdn.prod.www.spiegel.de/images/c1c3ecc8-e58d-48a3-bc14-2162e4c9bef3_w520_r2.08_fpx28.1_fpy49.98.jpg",
+          "publishedAt": "2026-11-17T06:01:00.000Z"
         },
         {
-          "title": "»GTA 6«: Wilson Gonzalez Ochsenknecht hat mehr als tausend Stunden »GTA 5« gespielt",
-          "link": "https://www.spiegel.de/panorama/leute/gta-6-wilson-gonzalez-ochsenknecht-hat-mehr-als-tausend-stunden-gta-5-gespielt-a-da4a4729-5d2d-4a21-812f-59b4460a59b9#ref=rss",
-          "summary": "Am Donnerstag erscheint der sechste Teil von »Grand Theft Auto«. Zu den Fans der Reihe zählt auch Wilson Gonzalez Ochsenknecht.",
-          "image": "https://cdn.prod.www.spiegel.de/images/79ab070a-bef8-4a53-81e4-34274dfe47ce_w520_r2.08_fpx49.3_fpy50.jpg",
-          "publishedAt": "2026-11-16T17:51:00.000Z",
-          "titleEn": "⁇ GTA 6 ⁇ : Wilson Gonzalez Oxenknecht has played over a thousand hours  ⁇ Gta 5 ⁇",
-          "summaryEn": "Thursday is the sixth installment of Grand Theft Auto. Fans of the series include Wilson Gonzalez Oxenknecht."
+          "title": "Christian Sewing: Wie sich der Deutsche-Bank-Chef an die Spitze kämpfte",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-wie-sich-der-deutsche-bank-chef-an-die-spitze-kaempfte-a-89df9ba3-c6d1-4ebf-b75d-b353e5066448#ref=rss",
+          "summary": "Das Datenleck bei der Deutschen Bank enthüllt, wie sich Konzernchef Christian Sewing an die Spitze kämpfte. Aus einem Mann, der einst streng auf das Einhalten von Regeln achtete, ist ein Manager geworden, den…",
+          "image": "https://cdn.prod.www.spiegel.de/images/8587b94b-96e3-4386-bac0-4f9a43e8e574_w520_r2.08_fpx45_fpy55.png",
+          "publishedAt": "2026-11-17T06:00:00.000Z"
         },
         {
-          "title": "Ozan Ata Canani ist tot",
-          "link": "https://www.spiegel.de/kultur/musik/ozan-ata-canani-ist-tot-a-1618c5d6-5fdf-4a47-9b7c-8a600f739b62#ref=rss",
-          "summary": "Mit bewegenden, sozialkritischen Liedern verlieh Ozan Ata Canani der Gastarbeiter-Generation eine Stimme. Sein Ruhm kam spät, umso tragischer, dass der Kölner Musiker nun viel zu früh gestorben ist.",
-          "image": "https://cdn.prod.www.spiegel.de/images/803a5898-e70a-4e8e-a1b5-83ad406cff87_w520_r2.08_fpx46_fpy41.jpg",
-          "publishedAt": "2026-11-16T17:21:00.000Z",
-          "titleEn": "Ozan Ata Canani is dead",
-          "summaryEn": "With moving, socially critical songs, Ozan Ata Canani gave a voice to the guest worker generation. His fame came late, all the more tragic that the Cologne musician died far too early."
+          "title": "Wie die Deutsche Bank vor der Ukraine-Invasion ihr Russlandgeschäft ankurbelte",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/wie-die-deutsche-bank-vor-ukraine-invasion-ihr-russlandgeschaeft-ankurbelte-a-d24d8143-c9b3-4d8f-9993-cf45f98fdbcc#ref=rss",
+          "summary": "Von der Krim-Annexion bis zum Angriff auf die Ukraine: Interne Unterlagen zeigen, dass die Deutsche Bank trotz massiver Warnsignale nicht von ihrem Russlandgeschäft lassen wollte. Die Aussicht auf Millionengewinne war zu…",
+          "image": "https://cdn.prod.www.spiegel.de/images/5dc23635-3096-4db8-b8f0-79381a575400_w520_r2.08_fpx56_fpy37.png",
+          "publishedAt": "2026-11-17T06:00:00.000Z"
         },
         {
-          "title": "Manuela Schwesig: Was der SPD droht, wenn sie nicht für den Parteivorsitz antritt",
-          "link": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-was-der-spd-droht-wenn-sie-nicht-fuer-den-parteivorsitz-antritt-a-74da2199-752f-4b1e-9c87-327b0e773fe8#ref=rss",
-          "summary": "Die SPD sucht eine neue Führung – und die Blicke richten sich auf Manuela Schwesig. Doch was passiert, wenn die Ministerpräsidentin von Mecklenburg-Vorpommern doch nicht antritt?",
-          "image": "https://cdn.prod.www.spiegel.de/images/3edb16e7-316c-4866-96bf-8dfd9fa6cdef_w520_r2.08_fpx33.33_fpy49.99.jpg",
-          "publishedAt": "2026-11-16T17:03:00.000Z",
-          "titleEn": "Manuela Schwesig: What the SPD threatens if she does not run for party chair",
-          "summaryEn": "The SPD is looking for a new leadership and the eyes are on Manuela Sisig. But what happens if the Prime Minister of Mecklenburg-Vorpommern does not run?"
+          "title": "Jeffrey Epsteins Geschäfte mit der Deutschen Bank - Podcast Karrierekiller",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epsteins-geschaefte-mit-der-deutschen-bank-podcast-karrierekiller-a-a4282424-e6d9-49fc-92f9-58b6f6009b43#ref=rss",
+          "summary": "Die Deutsche Bank weiß, dass Jeffrey Epstein ein verurteilter Sexualstraftäter ist. Trotzdem nimmt sie ihn als Kunden an.",
+          "image": "https://cdn.prod.www.spiegel.de/images/c1c3ecc8-e58d-48a3-bc14-2162e4c9bef3_w520_r2.08_fpx28.1_fpy49.98.jpg",
+          "publishedAt": "2026-11-17T06:00:00.000Z"
         },
         {
-          "title": "News des Tages: Schwesig zögert, Dobrindt plant Ruanda-Abkommen, DFB-Team im Umbruch",
-          "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-schwesig-zoegert-dobrindt-plant-ruanda-abkommen-dfb-team-im-umbruch-a-5dd9ac8a-06e6-4cb0-8777-2172ec7f3c0f#ref=rss",
-          "summary": "Die SPD zittert vor einer Schwesig-Absage. Alexander Dobrindt treibt seinen Ruanda-Plan voran. Und: Deutschland spielt zum letzten Mal in drei Streifen. Das ist die Lage am Montagabend.",
-          "image": "https://cdn.prod.www.spiegel.de/images/cd5b3994-3d49-40f2-a476-23e858800cb8_w520_r2.08_fpx66.52_fpy49.98.jpg",
-          "publishedAt": "2026-11-16T17:02:00.000Z",
-          "titleEn": "News of the day: Sisterish hesitates, Dobrindt plans Rwanda agreement, DFB team in reverse",
-          "summaryEn": "The SPD trembles at a sister resignation. Alexander Dobrindt is pushing forward his Rwanda plan. And Germany is playing in three rounds for the last time. That's the situation on Monday night."
+          "title": "»Inside Deutsche Bank« – so recherchierte der SPIEGEL",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/inside-deutsche-bank-so-recherchierte-der-spiegel-a-ed6f91e7-2d72-4f49-9214-fe214cfc740f#ref=rss",
+          "summary": "Wie hat der SPIEGEL die Dokumente aus dem Leak der Deutschen Bank verifiziert? Und wie arbeitet man in einem internationalen Team? Der Überblick über die Recherche.",
+          "image": "https://cdn.prod.www.spiegel.de/images/658e6e78-4159-43f9-a710-bb7a2350f0f5_w520_r2.08_fpx49_fpy40.png",
+          "publishedAt": "2026-11-17T06:00:00.000Z"
         },
         {
-          "title": "Greenpeace: Aktivisten könnten versehentlich Bau eines Offshore-Windparks behindert haben",
-          "link": "https://www.spiegel.de/wissenschaft/greenpeace-aktivisten-koennten-versehentlich-bau-eines-offshore-windparks-behindert-haben-a-bf64c246-5b5c-4acf-abed-7584fe1d8150#ref=rss",
-          "summary": "Es war eine spektakuläre Aktion: Um Schleppnetzfischerei zu verhindern, versenkte Greenpeace riesige Felsbrocken in der Nordsee. Und legte womöglich einem grünen Projekt Steine in den Weg.",
-          "image": "https://cdn.prod.www.spiegel.de/images/b69d1546-99ab-404a-b402-031d5a097cce_w520_r2.08_fpx54_fpy54.95.jpg",
-          "publishedAt": "2026-11-16T17:00:00.000Z",
-          "titleEn": "Greenpeace: Activists may have accidentally blocked offshore wind farm construction",
-          "summaryEn": "It was a spectacular action: to prevent trawling, Greenpeace sank huge rocks in the North Sea. And maybe put stones in the way of a green project."
+          "title": "Deutsche Bank: Das müssen Sie über das Datenleak »Inside Deutsche Bank« wissen",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-das-muessen-sie-ueber-das-datenleak-inside-deutsche-bank-wissen-a-8ad9866a-bc73-43a4-9123-81f7aa96fcb5#ref=rss",
+          "summary": "Woher hat der SPIEGEL die Daten der Deutschen Bank? Was enthüllen sie? Und ist es ein Problem für das Kreditinstitut, dass die Unterlagen jetzt öffentlich sind? Antworten auf die wichtigsten Fragen.",
+          "image": "https://cdn.prod.www.spiegel.de/images/8d34b259-5c15-4f23-8b35-83e2125e907c_w520_r2.08_fpx48_fpy17.png",
+          "publishedAt": "2026-11-17T06:00:00.000Z"
         }
       ]
     }
