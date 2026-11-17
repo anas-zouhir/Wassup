@@ -13,29 +13,35 @@
         {
           "title": "Californien sagsøger OpenAI",
           "link": "https://www.dr.dk/nyheder/seneste/californien-sagsoeger-openai",
-          "publishedAt": "2026-11-17T06:43:05.000Z"
+          "publishedAt": "2026-11-17T06:43:05.000Z",
+          "titleEn": "California is suing OpenAI"
         },
         {
           "title": "Japan hævder, at Rusland har krænket landets luftrum",
           "link": "https://www.dr.dk/nyheder/seneste/japan-haevder-rusland-har-kraenket-landets-luftrum",
-          "publishedAt": "2026-11-17T06:02:36.000Z"
+          "publishedAt": "2026-11-17T06:02:36.000Z",
+          "titleEn": "Japan claims that Russia violated its airspace"
         },
         {
           "title": "85-årig sigtet for vanvidskørsel - kørte i den gale retning på motorvejen",
           "link": "https://www.dr.dk/nyheder/seneste/85-aarig-sigtet-vanvidskoersel-koerte-i-den-gale-retning-paa-motorvejen",
-          "publishedAt": "2026-11-17T04:44:30.000Z"
+          "publishedAt": "2026-11-17T04:44:30.000Z",
+          "titleEn": "85-year-old man accused of driving under the influence of alcohol - driving in the wrong direction on the highway"
         },
         {
           "title": "Tyskland ydmyger Holland - lægger stort pres på Danmark",
           "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12850872#liveblog-embed",
           "image": "https://asset.dr.dk/drdk/umbraco-images/nbtease5/20261116-223452-6_crop001_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-16T21:40:28.000Z"
+          "publishedAt": "2026-11-16T21:40:28.000Z",
+          "titleEn": "Germany humiliates the Netherlands - putting great pressure on Denmark"
         },
         {
           "title": "USA genvinder VM-trofæet i Herning",
           "link": "https://www.dr.dk/sporten/ishockey/usa-genvinder-vm-trofaeet-i-herning",
           "summary": "USA's ishockeykvinder er verdensmestre for andet år i træk.",
-          "publishedAt": "2026-11-16T20:40:43.000Z"
+          "publishedAt": "2026-11-16T20:40:43.000Z",
+          "titleEn": "The United States regains the World Cup trophy in Herning",
+          "summaryEn": "The US women's hockey team is world champion for the second year in a row."
         },
         {
           "title": "Forsvarsgeneral er fortsat tvivlsom til Norge-kampen",
@@ -86,70 +92,90 @@
           "link": "https://politiken.dk/internationalt/art11057591/Menneskeretsekspert-om-udrejsecenter-i-Rwanda-%C2%BBEn-grusom-symbolsk-gestus%C2%AB",
           "summary": "Mette Frederiksen kalder aftalen med Rwanda for en »gamechanger«, men menneskeretseksperter advarer mod at sende folk til et land med dokumenterede menneskeretskrænkelser.",
           "image": "https://politiken.dk/incoming/img11062742.ketdj2/ORIGINALS/original_960/EUROPE-MIGRATION-RWANDA",
-          "publishedAt": "2026-11-17T06:06:03.000Z"
+          "publishedAt": "2026-11-17T06:06:03.000Z",
+          "titleEn": "Human rights expert on migrant centres in Rwanda:  ⁇ A cruel, symbolic gesture ⁇",
+          "summaryEn": "Mette Frederiksen calls the agreement with Rwanda a \"game changer\", but human rights experts warn against sending people to a country with documented human rights violations."
         },
         {
           "title": "Ai-investering giver danske sygeplejerskers pension en milliard-indsprøjtning",
           "link": "https://politiken.dk/danmark/oekonomi/privatoekonomi/art11062881/Ai-investering-giver-danske-sygeplejerskers-pension-en-milliard-indspr%C3%B8jtning",
           "summary": "PKA Pension investerede tidligt et større millionbeløb i AI-virksomheden Anthropic, som nu giver pote.",
           "image": "https://politiken.dk/incoming/img11058458.h8bmno/ORIGINALS/original_960/FILES-US-TECHNOLOGY-AI-ANTHROPIC-IPO",
-          "publishedAt": "2026-11-17T05:33:43.000Z"
+          "publishedAt": "2026-11-17T05:33:43.000Z",
+          "titleEn": "AII investment gives Danish nurses' pensions a billion injections",
+          "summaryEn": "Early on, PKA Pension invested a larger million in the AI company Anthropic, which is now profitable."
         },
         {
           "title": "Atleter råbte forgæves op i årevis. Nu kræver flere, at idrætten holder op med at undersøge sig selv",
           "link": "https://politiken.dk/sport/art11054139/Atleter-r%C3%A5bte-forg%C3%A6ves-op-i-%C3%A5revis.-Nu-kr%C3%A6ver-flere-at-idr%C3%A6tten-holder-op-med-at-unders%C3%B8ge-sig-selv",
           "summary": "Det duer ikke, at dansk idræt undersøger sig selv, når atleter oplever sager om uacceptabel adfærd og krænkelser. DGI, Anti Doping Danmark og Play the Game anbefaler nu et uafhængigt organ, hvor udøvere kan få den rette…",
           "image": "https://politiken.dk/incoming/img11062765.x5l6k9/ORIGINALS/original_960/Maze77",
-          "publishedAt": "2026-11-17T05:08:04.000Z"
+          "publishedAt": "2026-11-17T05:08:04.000Z",
+          "titleEn": "Athletes cried out in vain for years. Now more and more people are demanding that sport stop examining itself.",
+          "summaryEn": "It is not enough for Danish sport to examine itself when athletes face cases of unacceptable behaviour and violations. DGI, Anti-Doping Denmark and Play the Game now recommend an independent body where practitioners can get the right..."
         },
         {
           "title": "Tyskland ydmyger Holland – græsk sejr øger presset på Danmark",
           "link": "https://politiken.dk/sport/fodbold/art11062899/Tyskland-ydmyger-Holland-%E2%80%93-gr%C3%A6sk-sejr-%C3%B8ger-presset-p%C3%A5-Danmark",
           "summary": "Holland havde kurs mod førstepladsen inden mødet med Tyskland, men blev ydmyget af tyskerne, der sejrede 5-0.",
           "image": "https://politiken.dk/incoming/img11062901.scanrm/ORIGINALS/original_960/SOCCER-UEFANATIONS-GER-NLD",
-          "publishedAt": "2026-11-16T21:57:11.000Z"
+          "publishedAt": "2026-11-16T21:57:11.000Z",
+          "titleEn": "Germany humiliates the Netherlands  ⁇  Greek victory increases pressure on Denmark",
+          "summaryEn": "The Netherlands were on course for first place before meeting Germany, but were humiliated by the Germans, who won 5-0."
         },
         {
           "title": "»Jeg kan ikke glemme, hvad IS gjorde ved mig«: Yazidier kræver retfærdighed 14 år efter Islamisk Stats angreb",
           "link": "https://politiken.dk/internationalt/art11062887/%C2%BBJeg-kan-ikke-glemme-hvad-IS-gjorde-ved-mig%C2%AB-Yazidier-kr%C3%A6ver-retf%C3%A6rdighed-14-%C3%A5r-efter-Islamisk-Stats-angreb",
           "summary": "En sandhedskommission lytter til vidneudsagn fra mindretallet yazidierne, der blev forfulgt af Islamisk Stat.",
           "image": "https://politiken.dk/incoming/img11062891.9t4vwc/ORIGINALS/original_960/GERMANY-IRAQ-SYRIA-GENOCIDE-CONFLICT-JUSTICE",
-          "publishedAt": "2026-11-16T21:20:53.000Z"
+          "publishedAt": "2026-11-16T21:20:53.000Z",
+          "titleEn": "⁇ I can't forget what IS did to me ⁇ : Yazidi people demand justice 14 years after the Islamic State attack",
+          "summaryEn": "A truth commission is hearing testimony from the Yazidi minority who were persecuted by Islamic State."
         },
         {
           "title": "USA's ishockeykvinder genvinder VM-trofæet i Herning",
           "link": "https://politiken.dk/sport/ishockey/art11062889/USAs-ishockeykvinder-genvinder-VM-trof%C3%A6et-i-Herning",
           "summary": "Amerikanerne var suveræne i Herning, hvor de for sjette år i træk spillede VM-finale mod Canada.",
           "image": "https://politiken.dk/incoming/img11062890.tj31np/ORIGINALS/original_960/IIHF%20Womens%20Ice%20Hockey%20World%20Championship",
-          "publishedAt": "2026-11-16T21:15:09.000Z"
+          "publishedAt": "2026-11-16T21:15:09.000Z",
+          "titleEn": "U.S. women's hockey team win back the World Cup trophy in Herning",
+          "summaryEn": "The Americans dominated Herning, where for the sixth year in a row, they played Canada in the World Cup final."
         },
         {
           "title": "Hans betydning er stor, hans historie er gribende. Hvorfor ødelægge den?",
           "link": "https://politiken.dk/kultur/kultur_podcast/art10974970/Hans-betydning-er-stor-hans-historie-er-gribende.-Hvorfor-%C3%B8del%C3%A6gge-den",
           "summary": "Som om det ikke var nok, at ikonet MF Doom blev smidt ud af USA og døde ubemærket i Leeds, er hans historie nu blevet endnu et offer for en særlig fortællesyge i ny podcast.",
           "image": "https://politiken.dk/incoming/img11049752.7qr783/ORIGINALS/original_960/MF%20Doom",
-          "publishedAt": "2026-11-16T20:43:36.000Z"
+          "publishedAt": "2026-11-16T20:43:36.000Z",
+          "titleEn": "His importance is great, his history is gripping. Why destroy it?",
+          "summaryEn": "As if it wasn't enough that the iconic MF Doom was thrown out of the United States and died unnoticed in Leeds, his story has now become yet another victim of a special storyline in a new podcast."
         },
         {
           "title": "Ambassade om superkonsulat i Nuuk: Skal give USA nye muligheder i Grønland",
           "link": "https://politiken.dk/danmark/politik/folketinget/parti_groen/art11061334/Ambassade-om-superkonsulat-i-Nuuk-Skal-give-USA-nye-muligheder-i-Gr%C3%B8nland",
           "summary": "USA’s indrykning i nyt superkonsulat i Grønland er sket »i overensstemmelse med alle gængse diplomatiske procedurer«, skriver ambassaden. Men er planen om hele 17 medarbejdere i Nuuk også godkendt af Danmark?",
           "image": "https://politiken.dk/incoming/img11040625.qe0dc2/ORIGINALS/original_960/20260522-012023-3",
-          "publishedAt": "2026-11-16T19:57:03.000Z"
+          "publishedAt": "2026-11-16T19:57:03.000Z",
+          "titleEn": "Embassy of the Super Consulate in Nuuk: New opportunities for the United States in Greenland",
+          "summaryEn": "The United States' entry into the new superconsulate in Greenland has been done in accordance with all current diplomatic procedures, the embassy writes. But is the plan for all 17 employees in Nuuk also approved by Denmark?"
         },
         {
           "title": "Er jeg den eneste kvinde, der har det sådan i en sportshal?",
           "link": "https://politiken.dk/danmark/forbrug/art11053037/Er-jeg-den-eneste-kvinde-der-har-det-s%C3%A5dan-i-en-sportshal",
           "summary": "En søndag eftermiddag gik det op for mig, at jeg er gået glip af noget ret værdifuldt i min ungdom.",
           "image": "https://politiken.dk/incoming/img11054043.a0xzwh/ORIGINALS/original_960/Kvindebasketball%20i%20Stevnsgade%20Basketballklub",
-          "publishedAt": "2026-11-16T19:40:20.000Z"
+          "publishedAt": "2026-11-16T19:40:20.000Z",
+          "titleEn": "Am I the only woman in a gym who feels this way?",
+          "summaryEn": "One Sunday afternoon, I realized that I had missed something quite valuable in my youth."
         },
         {
           "title": "Juraprofessor om Trumps handelsminister: »Mange røde flag«",
           "link": "https://politiken.dk/internationalt/art11061568/Juraprofessor-om-Trumps-handelsminister-%C2%BBMange-r%C3%B8de-flag%C2%AB",
           "summary": "Ledende demokrat kritiserer, at handelsminister Howard Lutnick har holdt døren åben for kinesisk adgang til mikrochips, mens hans sønner har tjent penge på dem. Nu vil regeringen lukke døren.",
           "image": "https://politiken.dk/incoming/img11062165.e9ea3f/ORIGINALS/original_960/US-POLITICS-TRUMP",
-          "publishedAt": "2026-11-16T19:25:31.000Z"
+          "publishedAt": "2026-11-16T19:25:31.000Z",
+          "titleEn": "Professor of Law on Trump's Secretary of Commerce:",
+          "summaryEn": "Lead Democrat criticises Commerce Secretary Howard Lutnick for keeping the door open for Chinese access to microchips while his sons have made money off them. Now the government will close the door."
         }
       ]
     },
@@ -167,70 +193,90 @@
           "link": "https://www.berlingske.dk/business/major-bank-leak-reveals-trump-received-suspicious-payments-from-clientsin-scandal-ridden-branch-of-danske-bank?referrer=RSS",
           "summary": "A dubious client at Danske Bank's Estonian branch linked to crime and money laundering in Eastern Europe transferred money to US President Donald J. Trump in 2015, the largest leak of bank documents ever show.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167254607.webp?t[strip]=true&t[quality]=70&accessToken=53a68a3cef18f7b3584f752f6f7723719599d5d83b6d011bcb4b3eb7ac6c7c35",
-          "publishedAt": "2026-11-17T06:52:59.000Z"
+          "publishedAt": "2026-11-17T06:52:59.000Z",
+          "titleEn": "Major bank leak reveals: Trump received suspicious payments from clients in scandal-ridden branch of Danske Bank",
+          "summaryEn": "A dubious client at Danske Bank's Estonian branch linked to crime and money laundering in Eastern Europe transferred money to US President Donald J. Trump. Trump in 2015, the largest leak of bank documents ever show."
         },
         {
           "title": "Rusland nedskyder hundredvis af droner på vej mod Moskva",
           "link": "https://www.berlingske.dk/internationalt/rusland-nedskyder-hundredvis-af-droner-paa-vej-mod-moskva?referrer=RSS",
           "summary": "Hundredvis af droner fra Ukraine er blevet skudt ned, mens Rusland har bombet broer i Kyiv og andre områder.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167275598.webp?t[strip]=true&t[quality]=70&accessToken=bc89e5b0e2b054111fdcbc771d332f9256f12a21627e8ac8f14ddbffe9213690",
-          "publishedAt": "2026-11-17T06:48:43.000Z"
+          "publishedAt": "2026-11-17T06:48:43.000Z",
+          "titleEn": "Russia is shooting down hundreds of drones on its way to Moscow",
+          "summaryEn": "Hundreds of drones from Ukraine have been shot down while Russia bombed bridges in Kyiv and other areas."
         },
         {
           "title": "Jeg dykkede ned i serie om enebørn. Professorens ord satte sig fast",
           "link": "https://www.berlingske.dk/vores-liv/jeg-dykkede-ned-i-serie-om-eneboern-professorens-ord-satte-sig-fast?referrer=RSS",
           "summary": "Enebørn har tre fordele og en ulempe i livet, viser forskning. Det satte tanker i gang hos mig, for hvad betyder søskende - eller fraværet af samme - egentlig for vores børn? Velkommen til denne uges »Familieliv«.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166935359.webp?t[strip]=true&t[quality]=70&accessToken=53617c6b780da61ec668b7f9df38393893181c9b7652ac1590abcc7bf69cfd4c",
-          "publishedAt": "2026-11-17T06:34:44.000Z"
+          "publishedAt": "2026-11-17T06:34:44.000Z",
+          "titleEn": "I was diving into a series about an only child. The Professor's Word Stood Firm",
+          "summaryEn": "Research shows that single-child life has three advantages and one disadvantage. It got me thinking, 'What does sibling - or the absence of sibling - really mean to our children?' Welcome to this week's \"Family Life\"."
         },
         {
           "title": "Offentlig transport bliver dyrere for pendlere og pensionister",
           "link": "https://www.berlingske.dk/danmark/offentlig-transport-bliver-dyrere-for-pendlere-og-pensionister?referrer=RSS",
           "summary": "Den gennemsnitlige billetpris på offentlig transport i Østdanmark stiger med 0,7 procent fra 17. januar.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167275129.webp?t[strip]=true&t[quality]=70&accessToken=4c531ab847d06194edeb63d90c40a0261dcdeca446527681b6ec618708cbd872",
-          "publishedAt": "2026-11-17T06:23:45.000Z"
+          "publishedAt": "2026-11-17T06:23:45.000Z",
+          "titleEn": "Public transport is becoming more expensive for commuters and pensioners",
+          "summaryEn": "The average price of public transport tickets in eastern Denmark will increase by 0.7% from 17 January."
         },
         {
           "title": "Klaveness roser kandidat: Han kan få Fifa på ret spor",
           "link": "https://www.berlingske.dk/sport/klaveness-roser-kandidat-han-kan-faa-fifa-paa-ret-spor?referrer=RSS",
           "summary": "Lise Klaveness er sikker på, at Philippe Diallo kan rydde op og få Fifa på ret køl, hvis han bliver præsident.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167275073.webp?t[strip]=true&t[quality]=70&accessToken=90866a40044d4ac3d021b2dd50e77751bb04ed7b550b30aecb6c216116a271e9",
-          "publishedAt": "2026-11-17T06:20:45.000Z"
+          "publishedAt": "2026-11-17T06:20:45.000Z",
+          "titleEn": "Klaveness praises candidate: he can get FIFA on track",
+          "summaryEn": "Lise Klaveness is confident that Philippe Diallo can clean up the mess and get Fifa on the right track if he becomes president."
         },
         {
           "title": "Business-overblik: Nvidia afviser at genindsætte Jensen Huang – aktiekurser falder",
           "link": "https://www.berlingske.dk/business/business-overblik-nvidia-afviser-at-genindsaette-jensen-huang--aktiekurser-falder?referrer=RSS",
           "summary": "Vi læser erhvervsnyhederne og tjekker aktiekurserne fra morgenstunden. Her er hele dit Business-overblik.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167274931.webp?t[strip]=true&t[quality]=70&accessToken=24ebd528ac1c4cdfc53e8be2e9eeb016503ea1328c70c57bf454a52dcf17eeb9",
-          "publishedAt": "2026-11-17T06:20:17.000Z"
+          "publishedAt": "2026-11-17T06:20:17.000Z",
+          "titleEn": "Business overview: Nvidia refuses to reinstate Jensen Huang  ⁇  stock prices fall",
+          "summaryEn": "We're reading the business news and checking stock prices from dawn. Here's your entire business overview."
         },
         {
           "title": "Finsk præsident opfordrer til direkte europæisk dialog med Putin",
           "link": "https://www.berlingske.dk/internationalt/finsk-praesident-opfordrer-til-direkte-europaeisk-dialog-med-putin?referrer=RSS",
           "summary": "Alexander Stubb kalder det uansvarligt, at Europa for længe har overladt dialogen med Rusland til andre.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167274948.webp?t[strip]=true&t[quality]=70&accessToken=250047c067d7a93e61fa17bfa26a74a5035e7ea1583d5ed478ce6b55d6f7dad6",
-          "publishedAt": "2026-11-17T06:13:45.000Z"
+          "publishedAt": "2026-11-17T06:13:45.000Z",
+          "titleEn": "Finnish President calls for direct European dialogue with Putin",
+          "summaryEn": "Alexander Stubb calls it irresponsible that Europe has too long left the dialogue with Russia to others."
         },
         {
           "title": "Storbank advarede om betalinger til Donald Trump via skandaleramt dansk bank",
           "link": "https://www.berlingske.dk/dagens-overblik/storbank-advarede-om-betalinger-til-donald-trump-via-skandaleramt-dansk-bank?referrer=RSS",
           "summary": "Her er alt, du skal vide for at komme i gang med dagen.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167273966.webp?t[strip]=true&t[quality]=70&accessToken=e9957dbdd2c318a2e9b6651f49025fc45bcd55f422dc67500b8bd6647ff321a7",
-          "publishedAt": "2026-11-17T06:03:30.000Z"
+          "publishedAt": "2026-11-17T06:03:30.000Z",
+          "titleEn": "Storbank warned of payments to Donald Trump via scandal office Danish bank",
+          "summaryEn": "Here's everything you need to know to start your day."
         },
         {
           "title": "Er du rigtig klog: Hvad ved du om zoologiske haver?",
           "link": "https://www.berlingske.dk/politik/er-du-rigtig-klog-hvad-ved-du-om-zoologiske-haver?referrer=RSS",
           "summary": "Berlingskes journalister udfordrer dagligt med 10 nye spørgsmål inden for spændende emner.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166952290.webp?t[strip]=true&t[quality]=70&accessToken=dfa5d4f96ebc4aa610a56c8998cb221f7002174d316faa1f17e365962e8edfe4",
-          "publishedAt": "2026-11-17T06:00:43.000Z"
+          "publishedAt": "2026-11-17T06:00:43.000Z",
+          "titleEn": "What do you know about zoos?",
+          "summaryEn": "Berlin's journalists challenge each day with 10 new questions on exciting topics."
         },
         {
           "title": "Trump fik mistænkelige betalinger fra konti i Danske Banks hvidvaskplagede filial",
           "link": "https://www.berlingske.dk/virksomheder/trump-fik-mistaenkelige-betalinger-fra-konti-i-danske-banks-hvidvaskplagede-filial?referrer=RSS",
           "summary": "En lyssky kunde i Danske Banks skandaleramte estiske filial, forbundet til kriminalitet og hvidvask i en tidligere sovjetrepublik, overførte i 2015 penge til Donald J. Trump. Det viser det største læk af bankdokumenter…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167216187.webp?t[strip]=true&t[quality]=70&accessToken=f5ad2ebd5220b3c7f56801c8a3cfea0cc49c0ee83f35c337ea22bbf4ad36bc9a",
-          "publishedAt": "2026-11-17T06:00:07.000Z"
+          "publishedAt": "2026-11-17T06:00:07.000Z",
+          "titleEn": "Trump received suspicious payments from accounts in the whitewashed branch of Danske Bank",
+          "summaryEn": "A client of the scandalous Estonian branch of Danske Bank, linked to crime and money laundering in a former Soviet republic, transferred money to Donald J. Trump, please. It shows the biggest leak of bank documents..."
         }
       ]
     }
