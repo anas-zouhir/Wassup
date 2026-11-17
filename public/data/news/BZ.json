@@ -3,88 +3,72 @@
   "outlets": [
     {
       "outlet": {
-        "id": "amandala",
-        "name": "Amandala",
-        "homepage": "https://amandala.com.bz",
-        "lang": "en-BZ"
-      },
-      "fetchedAt": "2026-11-15T18:30:13.253Z",
-      "items": [
-        {
-          "title": "Amandala #3976 Friday , November 13, 2026",
-          "link": "https://amandala.com.bz/news/amandala-3976-friday-november-13-2026/",
-          "publishedAt": "2026-11-13T07:39:02.000Z"
-        }
-      ]
-    },
-    {
-      "outlet": {
         "id": "breaking-belize-news",
         "name": "Breaking Belize News",
         "homepage": "https://www.breakingbelizenews.com",
         "lang": "en-BZ"
       },
-      "fetchedAt": "2026-11-17T06:54:29.637Z",
+      "fetchedAt": "2026-11-17T18:48:15.193Z",
       "items": [
         {
-          "title": "Busted at the bus stop in nothing but his birthday suit",
-          "link": "https://www.breakingbelizenews.com/2026/11/16/busted-at-the-bus-stop-in-his-birthday-suit/",
-          "summary": "By Breaking Belize News Staff: Akeem Loredo walked out of the Belize City Magistrate’s Court on Monday after receiving a three-month suspended sentence for exposing himself in public at a bus stop in Hattieville. Police…",
-          "publishedAt": "2026-11-17T01:12:21.000Z"
+          "title": "‘Grampa’ says he checked cameras for a missing phone and saw his grandson take $175 from his room",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/grampa-says-he-checked-cameras-for-a-missing-phone-and-saw-his-grandson-take-175-from-his-room/",
+          "summary": "By Breaking Belize News Staff: A 75-year-old man near Crooked Tree Junction says he did not know $175 had been taken from his bedroom until he watched security footage months later while looking into a separate matter…",
+          "publishedAt": "2026-11-17T17:51:55.000Z"
         },
         {
-          "title": "Arthur ‘Uncle’ Williams charged after common-law wife says he hit her in the face with a cellphone; He says she’s not even his woman just ‘roommate’",
-          "link": "https://www.breakingbelizenews.com/2026/11/16/arthur-uncle-williams-charged-after-common-law-wife-says-he-hit-her-in-the-face-with-a-cellphone-he-says-shes-not-even-his-woman-just-roommate/",
-          "summary": "By Breaking Belize News Staff: Arthur Roy Williams, better known as “Uncle,” is out on $1,000 bail after a woman accused him of striking her below the right eye with a cellphone and scratching her neck during an argument…",
-          "publishedAt": "2026-11-17T00:48:13.000Z"
+          "title": "Burrell Boom man says he was hit with metal bat after stepping in to help nephew",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/burrell-boom-man-says-he-was-hit-with-metal-bat-after-stepping-in-to-help-nephew/",
+          "summary": "By Breaking Belize News Staff: A Burrell Boom man told police he saw his nephew get hit twice with what appeared to be a metal bat and stepped in to tell him to leave. He said the man holding the bat then turned on him,…",
+          "publishedAt": "2026-11-17T17:35:47.000Z"
         },
         {
-          "title": "Police constable Mervin Mendez remanded after allegedly pulling gun on supervisor at Belize Family Court",
-          "link": "https://www.breakingbelizenews.com/2026/11/16/police-constable-mervin-mendez-remanded-after-allegedly-pulling-gun-on-supervisor-at-belize-family-court/",
-          "summary": "By Breaking Belize News Staff: Police Constable Mervin Mendez, 34, was remanded to the Belize Central Prison on Monday after pleading not guilty to an aggravated assault charge. He is accused of pointing his service…",
-          "publishedAt": "2026-11-16T23:17:54.000Z"
+          "title": "Belize’s businessmen told to slow down before their hearts do it for them",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/belizes-businessmen-told-to-slow-down-before-their-hearts-do-it-for-them/",
+          "summary": "By Breaking Belize News Staff (HP): They run companies. They carry families. And too often, they ignore their own health. That was the message at the second edition of The Gentleman’s Exchange, hosted by the Belize…",
+          "publishedAt": "2026-11-17T17:20:54.000Z"
         },
         {
-          "title": "Why isn’t Southside calling for Bukele?",
-          "link": "https://www.breakingbelizenews.com/2026/11/16/why-isnt-southside-calling-for-bukele/",
-          "summary": "The views expressed in this article are those of the writer and not necessarily those of Breaking Belize News. By Nuri Muhammad: Why is it that some of the loudest voices calling for Bukele-style policing in Belize are…",
-          "publishedAt": "2026-11-16T22:14:24.000Z"
+          "title": "A phone call, an argument, a shove: Orange Walk man charged with assault",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/a-phone-call-an-argument-a-shove-orange-walk-man-charged-with-assault/",
+          "summary": "By Breaking Belize News Staff (HP): It started with a phone call. It ended with a criminal charge. Giovanni Reyes, 34, a self employed resident of San Lorenzo Housing Site in Orange Walk Town, has been charged with…",
+          "publishedAt": "2026-11-17T17:18:04.000Z"
         },
         {
-          "title": "Rumors of 72-hour global blackout debunked as U.S. FEMA clarifies November 17 emergency alert test",
-          "link": "https://www.breakingbelizenews.com/2026/11/16/rumors-of-72-hour-global-blackout-debunked-as-u-s-fema-clarifies-november-17-emergency-alert-test/",
-          "summary": "By Zoila Palma: Rumors circulating on social media about a supposed 72-hour global blackout that would disrupt electricity, internet access, banking services and artificial intelligence systems between November 16 and 17…",
-          "publishedAt": "2026-11-16T21:59:54.000Z"
+          "title": "International News: Former Nvidia CEO Jensen Huang says he would return if board asks",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/international-news-former-nvidia-ceo-jensen-huang-says-he-would-return-if-board-asks/",
+          "summary": "By Zoila Palma: Former Nvidia CEO Jensen Huang says he would be willing to return to lead the company he co-founded, following his resignation last week amid revelations of multiple alleged affairs, including one…",
+          "publishedAt": "2026-11-17T17:01:06.000Z"
         },
         {
-          "title": "39 public officers complete Advanced Certificate in Secretarial Studies",
-          "link": "https://www.breakingbelizenews.com/2026/11/16/39-public-officers-complete-advanced-certificate-in-secretarial-studies/",
-          "summary": "By Zoila Palma: Thirty-nine public officers representing 16 government ministries have successfully completed the Advanced Certificate in Secretarial Studies Programme, following a three-month training initiative…",
-          "publishedAt": "2026-11-16T21:09:20.000Z"
+          "title": "The man who gave Belize the 19th: Dangriga honours T. V. Ramos",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/the-man-who-gave-belize-the-19th-dangriga-honours-t-v-ramos/",
+          "summary": "By Breaking Belize News Staff (HP): Before the drums, the dancing and the re enactments on Thursday, Dangriga paused to remember the man who made it all possible. On Friday, November 13, the community gathered for the…",
+          "publishedAt": "2026-11-17T16:57:36.000Z"
         },
         {
-          "title": "Belize strengthens Climate finance and resilience partnerships at COP31",
-          "link": "https://www.breakingbelizenews.com/2026/11/16/belize-strengthens-climate-finance-and-resilience-partnerships-at-cop31/",
-          "summary": "By Zoila Palma: The Government of Belize, in partnership with the Green Climate Fund (GCF), continues to advance key initiatives aimed at strengthening climate resilience and sustainable development. The Belize…",
-          "publishedAt": "2026-11-16T20:55:38.000Z"
+          "title": "International News: COP31 draft declaration calls for greater electrification as 1.5°C climate goal slips out of reach",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/international-news-cop31-draft-declaration-calls-for-greater-electrification-as-1-5c-climate-goal-slips-out-of-reach/",
+          "summary": "By Zoila Palma: A draft declaration emerging from the United Nations Climate Change Conference (COP31) on Monday is calling for increased global electrification to help combat climate change while acknowledging that the…",
+          "publishedAt": "2026-11-17T16:49:02.000Z"
         },
         {
-          "title": "Belize highlights wildlife conservation at COP31 in Türkiye",
-          "link": "https://www.breakingbelizenews.com/2026/11/16/belize-highlights-wildlife-conservation-at-cop31-in-turkiye/",
-          "summary": "By Zoila Palma: Belize’s delegation is highlighting the importance of wildlife conservation in strengthening climate resilience at the 31st United Nations Climate Change Conference (COP31), being held from November 9-20,…",
-          "publishedAt": "2026-11-16T20:50:39.000Z"
+          "title": "10 charged after specialized police units carry out weeklong drug crackdown",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/10-charged-after-specialized-police-units-carry-out-drug-crackdown/",
+          "summary": "By Breaking Belize News Staff: Ten people were arrested and charged in seven drug cases following police operations in San Ignacio, Orange Walk, Belmopan and San Pedro Town between November 9 and 15. Police reported…",
+          "publishedAt": "2026-11-17T16:45:03.000Z"
         },
         {
-          "title": "Team Belize prepares to showcase culinary talent at Taste of the Caribbean 2026",
-          "link": "https://www.breakingbelizenews.com/2026/11/16/team-belize-prepares-to-showcase-culinary-talent-at-taste-of-the-caribbean-2026/",
-          "summary": "By Zoila Palma: Team Belize is preparing to represent the country at Taste of the Caribbean 2026, scheduled for November 16-20 in Barbados. The team will showcase Belize’s culinary talent, creativity and unique flavours…",
-          "publishedAt": "2026-11-16T20:47:37.000Z"
+          "title": "International News: Mexico seeks to strengthen cooperation with China in technology, agriculture and tourism",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/international-news-mexico-seeks-to-strengthen-cooperation-with-china-in-technology-agriculture-and-tourism/",
+          "summary": "By Zoila Palma: Mexican President Claudia Sheinbaum has expressed her country’s interest in strengthening cooperation with China in several key sectors, including technology, agriculture, water resources, healthcare and…",
+          "publishedAt": "2026-11-17T16:38:31.000Z"
         },
         {
-          "title": "McNab Visual Strategies is hiring a General Manager",
-          "link": "https://www.breakingbelizenews.com/2026/11/16/mcnab-visual-strategies-is-hiring-a-general-manager/",
-          "summary": "By Breaking Belize News Staff (HP): One of Belize’s most recognized creative companies is looking for someone to help lead it into the future. McNab Visual Strategies, home to Dots Per Inch and McNab Creative, is hiring…",
-          "publishedAt": "2026-11-16T20:46:59.000Z"
+          "title": "Belmopan now has an El Salvador Day",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/belmopan-now-celebrates-el-salvador-day/",
+          "summary": "By Breaking Belize News Staff (HP): Mark it on the calendar. November 26 is now officially El Salvador Day in the City of Belmopan. The Belmopan City Council announced the move on Monday after signing a sister city…",
+          "publishedAt": "2026-11-17T16:32:44.000Z"
         }
       ]
     },
@@ -95,7 +79,7 @@
         "homepage": "https://www.7newsbelize.com",
         "lang": "en-BZ"
       },
-      "fetchedAt": "2026-11-17T06:54:27.437Z",
+      "fetchedAt": "2026-11-17T18:48:13.583Z",
       "items": [
         {
           "title": "Former UDP Standard Bearer Charged For Stripping Slain Jaguar Of Its Teeth And Fur",

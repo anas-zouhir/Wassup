@@ -3,13 +3,105 @@
   "outlets": [
     {
       "outlet": {
+        "id": "monitor-ug",
+        "name": "Daily Monitor",
+        "homepage": "https://www.monitor.co.ug",
+        "lang": "en-UG"
+      },
+      "fetchedAt": "2026-11-17T18:49:37.542Z",
+      "items": [
+        {
+          "title": "New green fund targets 50,000 farmers in agro-industrial push",
+          "link": "https://www.monitor.co.ug/uganda/magazines/farming/new-green-fund-targets-50-000-farmers-in-agro-industrial-push-5674018",
+          "summary": "Smallholder farmers could benefit from a new investment drive targeting agribusinesses, with a...",
+          "publishedAt": "2026-11-20T21:00:00.000Z"
+        },
+        {
+          "title": "Minister Alum orders overhaul of Karenga engineering department over Shs1b road mess",
+          "link": "https://www.monitor.co.ug/uganda/news/national/minister-alum-orders-overhaul-of-karenga-engineering-department-over-shs1b-road-mess-5674132",
+          "summary": "“When you see the quality of the work done, there is no value for money. Out of the Shs1...",
+          "publishedAt": "2026-11-17T14:42:39.000Z"
+        },
+        {
+          "title": "I no longer control eBus Express Kiira, says Musenero ahead of Cosase grilling",
+          "link": "https://www.monitor.co.ug/uganda/news/national/i-no-longer-control-ebus-express-kiira-says-musenero-ahead-of-cosase-grilling-5674100",
+          "summary": "To date, the government has injected roughly Shs626 billion into Kiira Motors...",
+          "publishedAt": "2026-11-17T14:27:35.000Z"
+        },
+        {
+          "title": "Why Balaam must shield vulnerable citizens from public health exposure",
+          "link": "https://www.monitor.co.ug/uganda/oped/commentary/why-balaam-must-shield-vulnerable-citizens-from-public-health-exposure-5674006",
+          "summary": "Justice and healing thrive in confidential, accountable institutions—never under the glare of a...",
+          "publishedAt": "2026-11-17T13:23:31.000Z"
+        },
+        {
+          "title": "Corruption now an epidemic worse than HIV/AIDS, warns Bishop Lwere",
+          "link": "https://www.monitor.co.ug/uganda/news/national/corruption-now-an-epidemic-worse-than-hiv-aids-warns-bishop-lwere-5673936",
+          "summary": "“A pastor, an Imam, or an ordinary citizen who exposes the theft of public money at the village...",
+          "publishedAt": "2026-11-17T12:27:26.000Z"
+        },
+        {
+          "title": "Katongole turned childhood tragedy into global leadership",
+          "link": "https://www.monitor.co.ug/uganda/lifestyle/reviews-profiles/katongole-turned-childhood-tragedy-into-global-leadership-5673916",
+          "summary": "Rotary holds a large convention every year at international level, but it is also organised...",
+          "publishedAt": "2026-11-17T12:11:45.000Z"
+        },
+        {
+          "title": "Stalled Shs24b Njeru mall sparks security, development concerns",
+          "link": "https://www.monitor.co.ug/uganda/news/national/stalled-shs24b-njeru-mall-sparks-security-development-concerns-5673906",
+          "summary": "Mr Twaha Matovu, a local resident, pointed out that several other properties linked to Mr Hared...",
+          "publishedAt": "2026-11-17T12:09:48.000Z"
+        },
+        {
+          "title": "Lira residents accuse city council of cosmetic road repairs ahead of Balaam’s visit",
+          "link": "https://www.monitor.co.ug/uganda/news/national/lira-residents-accuse-city-council-of-cosmetic-road-repairs-ahead-of-balaam-s-visit-5673884",
+          "summary": "While residents have endured years of pothole-riddled streets and repeatedly demanded action...",
+          "publishedAt": "2026-11-17T11:40:21.000Z"
+        },
+        {
+          "title": "26 journalism fellows graduate amid calls to revive interest in media careers",
+          "link": "https://www.monitor.co.ug/uganda/news/education/26-journalism-fellows-graduate-amid-calls-to-revive-interest-in-media-careers-5673848",
+          "summary": "Speaking on Friday, November 13, during the graduation of 26 fellows from the ninth annual...",
+          "publishedAt": "2026-11-17T11:36:58.000Z"
+        },
+        {
+          "title": "Court sets November 20 for Susan Kushaba bail ruling as State challenges sureties",
+          "link": "https://www.monitor.co.ug/uganda/news/national/court-sets-november-20-for-susan-kushaba-bail-ruling-as-state-challenges-sureties-5673858",
+          "summary": "Led by Senior State Attorney Allan Mucunguzi, who appeared alongside Ms Grace Amy, the...",
+          "publishedAt": "2026-11-17T11:26:53.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
         "id": "observer-ug",
         "name": "The Observer",
         "homepage": "https://observer.ug",
         "lang": "en-UG"
       },
-      "fetchedAt": "2026-11-17T06:56:07.738Z",
+      "fetchedAt": "2026-11-17T18:49:37.637Z",
       "items": [
+        {
+          "title": "Y-Connect ends, can youth businesses survive?",
+          "link": "https://observer.ug/business/y-connect-ends-can-youth-businesses-survive/",
+          "summary": "A farmer who invests Shs 150,000 in growing cabbages and earns Shs 1.9 million has reason to celebrate. So does one who puts Shs 1.1 million into tomatoes and generates Shs 4.4 million. But what happens after the…",
+          "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2026/11/Y-Connect-pic.png?fit=800%2C530&ssl=1",
+          "publishedAt": "2026-11-17T17:28:43.000Z"
+        },
+        {
+          "title": "Supreme court recognises inherited land occupancy rights",
+          "link": "https://observer.ug/news/supreme-court-recognises-inherited-land-occupancy-rights/",
+          "summary": "A person who inherits an interest in registered land can rely on a deceased parent’s period of occupation to establish a claim to bona fide occupancy, provided the predecessor met the legal requirements, the Supreme…",
+          "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2024/04/Supreme_court_new_building.jpg?fit=760%2C429&ssl=1",
+          "publishedAt": "2026-11-17T12:50:07.000Z"
+        },
+        {
+          "title": "Muhoozi rules out dialogue with Besigye as PFF rejects Saleh’s power-sharing plan",
+          "link": "https://observer.ug/news/muhoozi-rules-out-dialogue-with-besigye-as-pff-rejects-salehs-power-sharing-plan/",
+          "summary": "The Chief of Defence Forces (CDF), Gen Muhoozi Kainerugaba, has dismissed any suggestion of political dialogue with jailed opposition leader Dr Kizza Besigye, as Besigye’s People’s Front for Freedom (PFF) also rejected…",
+          "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2026/06/Muhoozi-Kainerugaba-at-State-House.jpg?fit=800%2C486&ssl=1",
+          "publishedAt": "2026-11-17T09:35:36.000Z"
+        },
         {
           "title": "Lugoloobi calls for reinstatement of statisticians in government agencies",
           "link": "https://observer.ug/news/lugoloobi-calls-for-reinstatement-of-statisticians-in-government-agencies/",
@@ -20,7 +112,7 @@
         {
           "title": "Makerere University students are starving",
           "link": "https://observer.ug/news/makerere-university-students-are-starving/",
-          "summary": "An entire day can pass without Denise Kainomugisha eating a meal. She attends lectures at Makerere University on an empty stomach, then returns to her hostel in the evening hoping to find something to cook. But even that…",
+          "summary": "An entire day can pass without Denise eating a meal. She attends lectures at Makerere University on an empty stomach, then returns to her hostel in the evening hoping to find something to cook. But even that depends on…",
           "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2021/10/Makerere-University-students-at-Freedom-Square.png?fit=760%2C419&ssl=1",
           "publishedAt": "2026-11-17T05:20:47.000Z"
         },
@@ -58,27 +150,6 @@
           "summary": "At least 25 community-based organisations across Uganda will receive Shs 500 million in support to expand projects addressing challenges in health, education, water and sanitation, environmental conservation and economic…",
           "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2026/11/Sylvia-Mulinge-MTN-CEO.jpg?fit=800%2C522&ssl=1",
           "publishedAt": "2026-11-16T10:09:27.000Z"
-        },
-        {
-          "title": "Equity Bank insists on auction of Dei properties",
-          "link": "https://observer.ug/business/equity-bank-insists-on-auction-of-dei-properties/",
-          "summary": "Equity Bank Uganda and Equity Bank Kenya have insisted that the planned auction of properties belonging to businessman Dr Mathias Magoola’s companies to recover over Shs 148 billion loans will proceed, dismissing a legal…",
-          "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2026/11/Dei-Bio-Pharma-factory.png?fit=800%2C442&ssl=1",
-          "publishedAt": "2026-11-16T09:37:04.000Z"
-        },
-        {
-          "title": "Inside govt’s plan to expand electricity access and clean cooking",
-          "link": "https://observer.ug/business/inside-govts-plan-to-expand-electricity-access-and-clean-cooking/",
-          "summary": "The government is targeting 85 per cent electricity access and 50 per cent access to modern cooking solutions by 2030 under a newly launched National Energy Compact that requires an estimated $17.7 billion in investment…",
-          "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2026/08/Kabale-electricity-substation.jpg?fit=800%2C471&ssl=1",
-          "publishedAt": "2026-11-16T09:22:06.000Z"
-        },
-        {
-          "title": "Computers to replace police officers in driving permit testing",
-          "link": "https://observer.ug/news/computers-to-replace-police-officers-in-driving-permit-testing/",
-          "summary": "The government plans to introduce computer-based testing for driving permit applicants, replacing direct assessments by officers of the Inspectorate of Vehicles (IOV) in determining whether applicants are competent to…",
-          "image": "https://i0.wp.com/observer.ug/wp-content/uploads/2017/08/Driving-student.jpg?fit=760%2C570&ssl=1",
-          "publishedAt": "2026-11-16T08:53:33.000Z"
         }
       ]
     }

@@ -8,87 +8,67 @@
         "homepage": "https://www.tagesschau.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-17T06:54:44.572Z",
+      "fetchedAt": "2026-11-17T18:48:26.615Z",
       "items": [
         {
-          "title": "Ausnahmezustand in Guatemala - Regierung setzt Militär gegen Drogenbanden ein",
-          "link": "https://www.tagesschau.de/ausland/amerika/guatemala-drogen-militaer-100.html",
-          "summary": "Teile Guatemalas sind zunehmend im Griff von Drogenbanden. Die Regierung verhängte den Ausnahmezustand und schickte das Militär in die betroffene Region. Die USA setzten ein Millionen-Kopfgeld aus.",
-          "publishedAt": "2026-11-17T06:45:47.000Z",
-          "titleEn": "State of emergency in Guatemala - Government deploying military forces against drug gangs",
-          "summaryEn": "Parts of Guatemala are increasingly in the grip of drug gangs. The government declared a state of emergency and sent the military to the affected region. The U.S. put out a million-dollar cap."
+          "title": "USA gelten nicht mehr als masernfrei",
+          "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-104.html",
+          "summary": "Mehr als ein Vierteljahrhundert lang galten die USA als masernfreies Land. Diesen Status haben die Vereinigten Staaten jetzt verloren. Immer wieder kommt es zu großen Ausbrüchen der hochansteckenden Krankheit.",
+          "publishedAt": "2026-11-17T18:37:07.000Z"
         },
         {
-          "title": "Angriffe auf die Ukraine: Zwei wichtige Brücken in Kiew getroffen",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-212.html",
-          "summary": "Trotz US-Vermittlungen gehen die Angriffe weiter: Russland meldet einen Angriff auf die Krim-Brücke, auch in Kiew wurden zwei Brücken getroffen. In der Region Saporischschja sind die Rettungsarbeiten nach einem der…",
-          "publishedAt": "2026-11-17T06:36:47.000Z",
-          "titleEn": "Attacks on Ukraine: Two major bridges hit in Kiev",
-          "summaryEn": "Despite U.S. mediation, the attacks continue: Russia reports an attack on the Crimean bridge, and two bridges were hit in Kiev. In the region of Saporishchya, rescue efforts are under way after one of the..."
+          "title": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html",
+          "summary": "Der wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurückgetretene Chef des US-Chipkonzerns Nvidia hat gravierende Fehler eingeräumt. Doch sollte der Vorstand das wünschen, würde er gerne an die…",
+          "publishedAt": "2026-11-17T18:03:42.000Z"
         },
         {
-          "title": "Marktbericht: KI-Kursrutsch dürfte auch den DAX belasten",
+          "title": "\"Zum ersten Mal nach 14 Jahren echte Vertreter des Volkes\"",
+          "link": "https://www.tagesschau.de/ausland/europa/serbien-parlament-studentische-liste-100.html",
+          "summary": "Nach dem historischen Wahlsieg der Studentenbewegung ist das serbische Parlament erstmals zusammengetreten. Doch nach einer reibungslosen Machtübergabe durch die Partei von Ex-Präsident Vucic sieht es nicht aus. Von…",
+          "publishedAt": "2026-11-17T17:35:34.000Z"
+        },
+        {
+          "title": "Marktbericht: Kräftige Verluste vor Nvidia-Zahlen",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
-          "summary": "Neue US-Exportbeschränkungen für KI-Chips und die Krise rund um Nvidia drücken auf die Stimmung am Aktienmarkt. Der DAX dürfte mit Verlusten in den neuen Handelstag starten.",
-          "publishedAt": "2026-11-17T06:35:55.000Z",
-          "titleEn": "Market report: AI slippage is also expected to impact the DAX",
-          "summaryEn": "New U.S. export restrictions on AI chips and the Nvidia crisis are putting pressure on the stock market. The DAX is expected to start with losses on the new trading day."
+          "summary": "Das Warten auf Zahlen des US-Chipkonzerns Nvidia hat den Handel an der Börse gelähmt. Überschattet wurde das Marktgeschehen von einem riesigen Datenleck bei der Deutschen Bank - was die Aktie tief ins Minus drückte.",
+          "publishedAt": "2026-11-17T17:26:00.000Z"
         },
         {
-          "title": "Serbisches Parlament konstituiert sich nach Sieg der Studentenliste",
-          "link": "https://www.tagesschau.de/ausland/europa/serbien-parlament-konstituierung-100.html",
-          "summary": "Nach dem Sieg der Studentenliste bei der Wahl in Serbien tritt heute erstmals das Parlament zusammen. Die neuen Abgeordneten wollen fast alles umkrempeln. Doch noch immer ist unklar, wer Schlüsselpositionen in der…",
-          "publishedAt": "2026-11-17T06:13:09.000Z",
-          "titleEn": "The Serbian Parliament is constituted following the victory of the student list",
-          "summaryEn": "After the victory of the student list in the elections in Serbia, Parliament meets today for the first time. The new Members want to overturn almost everything. But it's still unclear who's holding key positions in the..."
+          "title": "Showdown im Koalitionsausschuss: Bekommt der Kanzler seinen Willen?",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html",
+          "summary": "Bei einem Koalitionsausschuss wird zurzeit nach Milliarden gesucht, um die Stromsteuer senken zu können. Zuvor hatte sich Kanzler Merz weit aus dem Fenster gelehnt. Setzt er sein Versprechen durch? Von N. Kohnert.",
+          "publishedAt": "2026-11-17T16:52:59.000Z"
         },
         {
-          "title": "Koalitionsausschuss: Schwarz-Rot sucht nach Milliarden für Entlastungen",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/rente-stromsteuer-wahlrecht-knackpunkte-koalition-100.html",
-          "summary": "Stromsteuersenkung, Rentenreform, Ausgleich der Kalten Progression: Die Spitzen der schwarz-roten Koalition wollen heute über viele Knackpunkte entscheiden. Es geht um viel Geld, aber auch um die Glaubwürdigkeit des…",
-          "publishedAt": "2026-11-17T05:44:10.000Z",
-          "titleEn": "Coalition Committee: Black Red is seeking billions in relief",
-          "summaryEn": "Electricity tax cuts, pension reforms, balancing the cold progression: the leaders of the Black and Red Coalition want to decide many of the issues today. It's a lot of money, but it's also about the credibility of the..."
+          "title": "Linken-Vorstand beantragt Ausschluss der Abgeordneten Emde",
+          "link": "https://www.tagesschau.de/inland/regional/berlin/emde-ausschluss-linke-antrag-100.html",
+          "summary": "Der Vorstand der Linken-Fraktion im Berliner Abgeordnetenhaus hat offiziell den Ausschluss von Vanessa Emde beantragt. In einer Mitteilung wurde das mit dem Verhalten der umstrittenen Abgeordneten begründet.",
+          "publishedAt": "2026-11-17T16:52:47.000Z"
         },
         {
-          "title": "Neuer Climate Risk Index: Wo schlägt die Klimakrise besonders zu?",
-          "link": "https://www.tagesschau.de/wissen/klima/klimakrisen-laender-risiken-100.html",
-          "summary": "Dürren, Fluten, Stürme: Ein neuer Bericht zeigt, welche Länder am stärksten unter Extremwetter leiden - und mit welchen Folgen. Auch in Europa steigen die Risiken. Aber die verletzlichsten Regionen liegen woanders. Von…",
-          "publishedAt": "2026-11-17T05:01:07.000Z",
-          "titleEn": "New Climate Risk Index: Where is the climate crisis particularly striking?",
-          "summaryEn": "Droughts, floods, storms: A new report shows which countries are most affected by extreme weather - and with what consequences. The risks are also increasing in Europe. But the most vulnerable regions are elsewhere. From..."
+          "title": "Rede auf Klimagipfel: Schneider für mehr Tempo bei Erneuerbaren Energien",
+          "link": "https://www.tagesschau.de/ausland/europa/klimakonferent-schneider-rede-100.html",
+          "summary": "Umweltminister Schneider hat auf der Klimakonferenz in Antalya für einen schnellen Ausstieg aus der Nutzung von Öl, Kohle und Gas geworben. Er machte sich für die Initiative der Gastgeber stark, stärker auf grünen Strom…",
+          "publishedAt": "2026-11-17T16:24:25.000Z"
         },
         {
-          "title": "Krieg gegen die Ukraine: Erste Vorgespräche mit Europas Unterhändlern",
-          "link": "https://www.tagesschau.de/ausland/europa/europa-ukraine-usa-100.html",
-          "summary": "Europäische Unterhändler haben erste Vorgespräche mit den USA und der Ukraine über eine Beendigung des Kriegs geführt - und dabei die Vertreter instruiert, die später mit Russland verhandeln.",
-          "publishedAt": "2026-11-17T03:28:15.000Z",
-          "titleEn": "War against Ukraine: first preliminary talks with European negotiators",
-          "summaryEn": "European negotiators held preliminary talks with the United States and Ukraine on ending the war - instructing the representatives who would later negotiate with Russia."
+          "title": "USA prüfen mögliche Anschlagspläne Irans auf Washington",
+          "link": "https://www.tagesschau.de/ausland/amerika/trump-schmutzige-bombe-iran-100.html",
+          "summary": "Der US-Sender CNN berichtet über iranische Anschlagspläne, die die Zündung einer sogenannten schmutzigen Bombe in Washington beinhalten sollen. US-Präsident Trump versichert, die USA nähmen das \"sehr ernst\" - und droht…",
+          "publishedAt": "2026-11-17T16:36:43.000Z"
         },
         {
-          "title": "Nach Huang-Affäre: Bald alles neu in der KI-Chipindustrie?",
-          "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-chipindustrie-nvidia-100.html",
-          "summary": "Konkurrenten wie AMD oder Qualcomm reiben sich nach dem Abgang von Huang als CEO bei Nvidia schon die Hände. Was ist dran am möglichen Umbruch der Chip-Branche - und wie viel hat er tatsächlich mit dem Abtritt Huangs zu…",
-          "publishedAt": "2026-11-17T03:16:17.000Z",
-          "titleEn": "After the Huang affair, soon everything new in the AI chip industry?",
-          "summaryEn": "Competitors like AMD or Qualcomm are already rubbing their hands after Huang stepped down as CEO of Nvidia. What about the potential upheaval in the chip industry, and how much does it actually have to do with Huang's resignation..."
+          "title": "Überteuerte Linsen - Haben Augenärzte Hunderte Millionen zu viel kassiert?",
+          "link": "https://www.tagesschau.de/investigativ/ndr/augenaerzte-grauer-star-100.html",
+          "summary": "Laut Recherchen des NDR drängen insbesondere große Augenarztketten zum Kauf von überteuerten Sonderlinsen bei Grauer-Star-Operationen. Augenärzte haben demnach geschätzt Hunderte Millionen Euro zu viel von ihren…",
+          "publishedAt": "2026-11-17T16:01:15.000Z"
         },
         {
-          "title": "Proteste in Frankreich: Die Wut der Schüler, die Ohnmacht der Schulen",
-          "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-188.html",
-          "summary": "Gewerkschaften und Gelbwesten haben in Frankreich für heute erneut zu Protesten aufgerufen. Ein Teil der Schülerinnen und Schüler will sich daran beteiligen. Schulleiter fühlen sich alleingelassen. Von Julia Borutta.",
-          "publishedAt": "2026-11-17T02:20:12.000Z",
-          "titleEn": "Protests in France: Anger of the students, the powerlessness of schools",
-          "summaryEn": "Trade unions and yellow vests have again called for protests in France today. Some of the pupils want to take part. Headteachers feel left alone. It's from Julia Borutta."
-        },
-        {
-          "title": "Künstliche Intelligenz: Kalifornien verklagt OpenAI wegen Cyberangriffen",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html",
-          "summary": "Der Generalstaatsanwalt von Kalifornien klagt OpenAI an. Der Vorwurf: Das Tech-Unternehmen habe ein gefährliches Produkt entwickelt und nicht ausreichend getestet - und nicht mit Behörden kooperiert. Von R. Spiegelhauer.",
-          "publishedAt": "2026-11-17T01:16:16.000Z",
-          "titleEn": "Artificial intelligence: California sues OpenAI for cyberattacks",
-          "summaryEn": "The attorney general of California is suing OpenAI. The allegation is that the tech company developed a dangerous product and did not conduct sufficient testing and did not cooperate with authorities. By R. You are a mirror hooker."
+          "title": "Zarte Hoffnung nach der Brandkatastrophe im Hürtgenwald",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/klimawandel-huertgenwald-zukunft-100.html",
+          "summary": "Hunderte Einsatzkräfte kämpften im August gegen die Flammen im Hürtgenwald. Zurück blieb eine verwüstete Landschaft. Doch es gibt Hoffnung: Erste Pflanzen keimen und deuten auf eine Erholung der Natur hin. Von Jan Koch.",
+          "publishedAt": "2026-11-17T15:53:57.000Z"
         }
       ]
     },
@@ -99,97 +79,77 @@
         "homepage": "https://www.spiegel.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-17T06:54:44.279Z",
+      "fetchedAt": "2026-11-17T18:48:24.221Z",
       "items": [
         {
-          "title": "Kanada und China unterlaufen Trumps Zollpolitik mit Zollerleichterungen",
-          "link": "https://www.spiegel.de/wirtschaft/kanada-und-china-unterlaufen-trumps-zollpolitik-mit-zollerleichterungen-a-3eeca7f4-6869-4bce-a9e0-58a8a9f5c309#ref=rss",
-          "summary": "Mit Zollerleichterungen auf Produkte wie Lebensmittel und Stahl wollen China und Kanada ihre Zusammenarbeit vertiefen. Den beiden Ländern geht es auch darum, die US-Zollpolitik zu unterlaufen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/efdb8682-bfa9-4141-8116-fb8ff8263115_w520_r2.08_fpx32.9_fpy49.98.jpg",
-          "publishedAt": "2026-11-17T06:44:00.000Z",
-          "titleEn": "Canada and China undermine Trump's tariff policy with tariff relief",
-          "summaryEn": "China and Canada want to deepen their cooperation by easing customs duties on products such as food and steel. The two countries are also concerned with failing to comply with US customs policy."
+          "title": "Rätsel des Alltags: Warum haben Landtiere stets eine gerade Anzahl an Beinen?",
+          "link": "https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-haben-landtiere-stets-eine-gerade-anzahl-an-beinen-a-e3bef263-d598-4b6d-a095-7f85ed856146#ref=rss",
+          "summary": "Von der Ameise bis zum Elefanten – sie alle haben eine gerade Anzahl an Beinen. Wozu? Ein Foto-Stativ kann ja schließlich auch auf drei Beinen stehen. Was sich die Natur dabei gedacht hat.",
+          "image": "https://cdn.prod.www.spiegel.de/images/c299f7e4-daf0-478d-bc81-d8cc06adbd31_w520_r2.08_fpx46.41_fpy50.jpg",
+          "publishedAt": "2026-11-17T18:41:00.000Z"
         },
         {
-          "title": "USA: Gericht kippt Visa-Regeln für Studierende und Journalisten",
-          "link": "https://www.spiegel.de/ausland/usa-gericht-kippt-visa-regeln-fuer-studierende-und-journalisten-a-33ebde67-b6cc-497f-bb40-02399719c1a7#ref=rss",
-          "summary": "Die Trump-Regierung will Einwanderung deutlich begrenzen. Ein Gericht durchkreuzt nun geplante Einschränkungen für Studierende und Journalisten. Aus Washington kommen derweil Vorschläge für schärfere Regeln für…",
-          "image": "https://cdn.prod.www.spiegel.de/images/f88d43da-d924-4d5a-bc58-7a1f5acac72a_w520_r2.08_fpx52.67_fpy45.jpg",
-          "publishedAt": "2026-11-17T06:22:00.000Z",
-          "titleEn": "US: Court reverses visa rules for students and journalists",
-          "summaryEn": "The Trump administration wants to significantly limit immigration. A court is now overturning planned restrictions on students and journalists. Meanwhile, Washington is proposing tougher rules for..."
+          "title": "Ruanda-Deal: Dieser Mann kann kein Partner sein – Meinung",
+          "link": "https://www.spiegel.de/ausland/ruanda-deal-dieser-mann-kann-kein-partner-sein-meinung-a-d9d38003-6d8b-4488-ac12-5d5ea4dbee87#ref=rss",
+          "summary": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber nach Ruanda schicken. Möglich, dass die Gerichte diese Idee durchwinken. Beschämend ist die Aufwertung des Autokraten dennoch.",
+          "image": "https://cdn.prod.www.spiegel.de/images/0012ce32-f2de-4079-bd86-653aaf923595_w520_r2.08_fpx69.98_fpy50.98.jpg",
+          "publishedAt": "2026-11-17T18:40:00.000Z"
         },
         {
-          "title": "Hells-Angels-Ableger in Mönchengladbach verboten",
-          "link": "https://www.spiegel.de/panorama/justiz/hells-angels-ableger-in-moenchengladbach-verboten-a-afd764d3-7569-42a7-8100-391f8b1132e4#ref=rss",
-          "summary": "Erpressung, Drogenhandel, versuchte Tötungsdelikte: Die Liste der Vorwürfe gegen Mitglieder des Hells-Angels-Ablegers »West Central« ist lang. Nun wurde das sogenannte Charter verboten. Ein Mitglied kam in Haft.",
-          "image": "https://cdn.prod.www.spiegel.de/images/006ac0d0-c9b7-48c8-8b2e-c7c635fc6172_w520_r2.08_fpx50.34_fpy55.01.jpg",
-          "publishedAt": "2026-11-17T06:07:00.000Z",
-          "titleEn": "Hells-Angels camp in Monchengladbach is banned",
-          "summaryEn": "Blackmail, drug trafficking, attempted murder: The list of allegations against members of the Hell-Angel gang  ⁇ West Central ⁇  is long. Now the so-called charter has been banned. A member was taken into custody."
+          "title": "Unicef: Bundesregierung will Svenja Schulze als Chefin vorschlagen",
+          "link": "https://www.spiegel.de/politik/deutschland/bundesregierung-will-svenja-schulze-als-unicef-chefin-a-e3c254e2-b095-4a71-94bd-df8aad89d560#ref=rss",
+          "summary": "Deutschland plant, sich um den Chefposten des Uno-Kinderhilfswerks zu bewerben. Über die Kandidatur der ehemaligen Ministerin soll SPIEGEL-Informationen zufolge das Kabinett entscheiden.",
+          "image": "https://cdn.prod.www.spiegel.de/images/a90b28d5-6ba8-45ae-825d-976b6acf0c54_w520_r2.08_fpx41.59_fpy49.98.jpg",
+          "publishedAt": "2026-11-17T18:06:00.000Z"
         },
         {
-          "title": "Das Russland-Geschäft der Deutschen Bank - Podcast Karrierekiller",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/das-russland-geschaeft-der-deutschen-bank-podcast-karrierekiller-a-d9dfc61e-e641-454a-adf1-988f1de804d1#ref=rss",
-          "summary": "Bankgeschäfte in Russland sind ein Spiel mit dem Feuer. Trotzdem interessiert sich die Deutsche Bank für Oligarchen und Moskaus Superreiche.",
-          "image": "https://cdn.prod.www.spiegel.de/images/c1c3ecc8-e58d-48a3-bc14-2162e4c9bef3_w520_r2.08_fpx28.1_fpy49.98.jpg",
-          "publishedAt": "2026-11-17T06:03:00.000Z",
-          "titleEn": "The Russian business of Deutsche Bank - Podcast Career Killer",
-          "summaryEn": "Banking in Russia is a game of fire. Nevertheless, the Deutsche Bank is interested in oligarchs and Moscow's super-rich."
+          "title": "Augsburg: 15-Jährige verletzt Mädchen mit Messer",
+          "link": "https://www.spiegel.de/panorama/justiz/augsburg-15-jaehrige-verletzt-maedchen-mit-messer-a-dc6a3696-122f-409b-a497-821477763134#ref=rss",
+          "summary": "Erst streiten sie, dann sticht eines der beiden Mädchen zu: In Augsburg hat eine Jugendliche zwei Menschen verletzt, ein Opfer ist erst 14 Jahre alt. Die mutmaßliche Täterin sitzt in Untersuchungshaft.",
+          "image": "https://cdn.prod.www.spiegel.de/images/e087e963-e216-4dc5-a710-d25c61bb130d_w520_r2.08_fpx29.28_fpy54.97.jpg",
+          "publishedAt": "2026-11-17T17:37:00.000Z"
         },
         {
-          "title": "Donald Trumps Geschäfte mit der Deutschen Bank - Podcast Karrierekiller",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-geschaefte-mit-der-deutschen-bank-podcast-karrierekiller-a-18d7118d-1ffe-4816-bfd1-22a46efb6f84#ref=rss",
-          "summary": "Lange war die Deutsche Bank die Hausbank von Donald Trump. Dann zieht er ins Weiße Haus ein und die Beziehung wird toxisch.",
-          "image": "https://cdn.prod.www.spiegel.de/images/c1c3ecc8-e58d-48a3-bc14-2162e4c9bef3_w520_r2.08_fpx28.1_fpy49.98.jpg",
-          "publishedAt": "2026-11-17T06:01:00.000Z",
-          "titleEn": "Donald Trump's dealings with Deutsche Bank - Podcast career killers",
-          "summaryEn": "For a long time, the Deutsche Bank was Donald Trump's home bank. Then he moves into the White House and the relationship becomes toxic."
+          "title": "Infantino-Herausforderer Philippe Diallo: Ein Held ist, wer antritt, obwohl er chancenlos ist",
+          "link": "https://www.spiegel.de/sport/infantino-herausforderer-philippe-diallo-ein-held-ist-wer-antritt-obwohl-er-chancenlos-ist-a-fc5dbc7c-c064-4dbd-b550-bde189acf0e7#ref=rss",
+          "summary": "Die Uefa hat doch noch einen Gegenkandidaten für Fifa-Boss Gianni Infantino gefunden. Der Verbandsfunktionär Philippe Diallo geht in ein aussichtsloses Duell. Das ehrt ihn.",
+          "image": "https://cdn.prod.www.spiegel.de/images/5e4ab6a7-91f2-4f17-b069-159956a76677_w520_r2.08_fpx28.03_fpy44.96.jpg",
+          "publishedAt": "2026-11-17T17:30:00.000Z"
         },
         {
-          "title": "Christian Sewing: Wie sich der Deutsche-Bank-Chef an die Spitze kämpfte",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-wie-sich-der-deutsche-bank-chef-an-die-spitze-kaempfte-a-89df9ba3-c6d1-4ebf-b75d-b353e5066448#ref=rss",
-          "summary": "Das Datenleck bei der Deutschen Bank enthüllt, wie sich Konzernchef Christian Sewing an die Spitze kämpfte. Aus einem Mann, der einst streng auf das Einhalten von Regeln achtete, ist ein Manager geworden, den…",
-          "image": "https://cdn.prod.www.spiegel.de/images/8587b94b-96e3-4386-bac0-4f9a43e8e574_w520_r2.08_fpx45_fpy55.png",
-          "publishedAt": "2026-11-17T06:00:00.000Z",
-          "titleEn": "Christian Sewing: How the head of the German bank struggled for leadership",
-          "summaryEn": "The data breach at Deutsche Bank reveals how CEO Christian Sewing fought his way to the top. From a man who used to be strict about rules, he's become a manager who..."
+          "title": "Alexander Zverev: Ex-Freundin Brenda Patea hat Klage gegen Tennisstar eingereicht",
+          "link": "https://www.spiegel.de/sport/alexander-zverev-ex-freundin-brenda-patea-hat-klage-gegen-tennisstar-eingereicht-a-7d6f41e1-0c5e-47cd-b20c-199c7672fbe3#ref=rss",
+          "summary": "Brenda Patea hat Alexander Zverev vor Jahren körperliche Übergriffe vorgeworfen. Verurteilt wurde der Tennisprofi nicht. In einem Interview sagte er, seine Unschuld sei bewiesen. Nun geht sie dagegen vor.",
+          "image": "https://cdn.prod.www.spiegel.de/images/77569156-0291-43e0-b9e6-03f996474542_w520_r2.08_fpx32.67_fpy55.jpg",
+          "publishedAt": "2026-11-17T17:28:00.000Z"
         },
         {
-          "title": "Wie die Deutsche Bank vor der Ukraine-Invasion ihr Russlandgeschäft ankurbelte",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/wie-die-deutsche-bank-vor-ukraine-invasion-ihr-russlandgeschaeft-ankurbelte-a-d24d8143-c9b3-4d8f-9993-cf45f98fdbcc#ref=rss",
-          "summary": "Von der Krim-Annexion bis zum Angriff auf die Ukraine: Interne Unterlagen zeigen, dass die Deutsche Bank trotz massiver Warnsignale nicht von ihrem Russlandgeschäft lassen wollte. Die Aussicht auf Millionengewinne war zu…",
-          "image": "https://cdn.prod.www.spiegel.de/images/5dc23635-3096-4db8-b8f0-79381a575400_w520_r2.08_fpx56_fpy37.png",
-          "publishedAt": "2026-11-17T06:00:00.000Z",
-          "titleEn": "How Deutsche Bank boosted its Russian business before the invasion of Ukraine",
-          "summaryEn": "From the annexation of Crimea to the attack on Ukraine: Internal evidence shows that Deutsche Bank, despite massive warning signs, refused to abandon its Russian business. The prospect of making millions was too..."
+          "title": "News des Tages: Deutsche Bank, Angriff auf die Krimbrücke, Glücksatlas",
+          "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bank-angriff-auf-die-krimbruecke-gluecksatlas-a-54b6649a-6b11-44b8-bf5d-637e3ff64120#ref=rss",
+          "summary": "Ein riesiges Datenleck gibt Einblicke in das Geschäftsgebaren der Deutschen Bank. Die Ukraine zerstört Putins Krimbrücke. Und: Was der deutsche Glücksatlas über Sachsen-Anhalt verrät. Das ist die Lage am Dienstagabend.",
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w520_r2.08_fpx28.09_fpy49.93.png",
+          "publishedAt": "2026-11-17T17:10:00.000Z"
         },
         {
-          "title": "Jeffrey Epsteins Geschäfte mit der Deutschen Bank - Podcast Karrierekiller",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epsteins-geschaefte-mit-der-deutschen-bank-podcast-karrierekiller-a-a4282424-e6d9-49fc-92f9-58b6f6009b43#ref=rss",
-          "summary": "Die Deutsche Bank weiß, dass Jeffrey Epstein ein verurteilter Sexualstraftäter ist. Trotzdem nimmt sie ihn als Kunden an.",
-          "image": "https://cdn.prod.www.spiegel.de/images/c1c3ecc8-e58d-48a3-bc14-2162e4c9bef3_w520_r2.08_fpx28.1_fpy49.98.jpg",
-          "publishedAt": "2026-11-17T06:00:00.000Z",
-          "titleEn": "Jeffrey Epstein's business with Deutsche Bank - Podcast career killers",
-          "summaryEn": "The Deutsche Bank knows Jeffrey Epstein is a convicted sex offender. Still, she accepts him as a client."
+          "title": "BSW und Bundestagswahl: Karlsruhe entscheidet über Neuauszählung",
+          "link": "https://www.spiegel.de/politik/deutschland/bsw-und-bundestagswahl-karlsruhe-entscheidet-ueber-neuauszaehlung-a-852c3f4f-1f36-40ff-bd91-b88e3486b93a#ref=rss",
+          "summary": "Das BSW verpasste den Einzug in den Bundestag, am Ende fehlten nur knapp 10.000 Stimmen. Die Wagenknecht-Partei sah sich hintergangen. Jetzt entscheidet das Bundesverfassungsgericht, ob die Wahl gültig ist.",
+          "image": "https://cdn.prod.www.spiegel.de/images/bd2cc088-048f-4704-b2ae-928f4e9b0b37_w520_r2.08_fpx38.9_fpy55.jpg",
+          "publishedAt": "2026-11-17T17:07:00.000Z"
         },
         {
-          "title": "»Inside Deutsche Bank« – so recherchierte der SPIEGEL",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/inside-deutsche-bank-so-recherchierte-der-spiegel-a-ed6f91e7-2d72-4f49-9214-fe214cfc740f#ref=rss",
-          "summary": "Wie hat der SPIEGEL die Dokumente aus dem Leak der Deutschen Bank verifiziert? Und wie arbeitet man in einem internationalen Team? Der Überblick über die Recherche.",
-          "image": "https://cdn.prod.www.spiegel.de/images/658e6e78-4159-43f9-a710-bb7a2350f0f5_w520_r2.08_fpx49_fpy40.png",
-          "publishedAt": "2026-11-17T06:00:00.000Z",
-          "titleEn": "⁇ Inside Deutsche Bank ⁇   ⁇  this is how the SPIEGEL researched",
-          "summaryEn": "How did SPIEGEL verify the documents from the Deutsche Bank leak? And how do you work in an international team? The overview of the research."
+          "title": "Jeffrey Epstein: Interne Unterlagen belasten Deutsche Bank mit weiteren Zahlungen",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-interne-unterlagen-belasten-deutsche-bank-mit-weiteren-zahlungen-a-7055c4a4-a3ac-41f8-a1f7-e6312c13abb3#ref=rss",
+          "summary": "Interne Unterlagen zeigen: Die Deutsche Bank hat deutlich mehr Zahlungen für Jeffrey Epstein abgewickelt als bekannt – weil sie auf hohe Millionengewinne spekulierte. Ein Dokument warnt vor weiteren Fällen von dem…",
+          "image": "https://cdn.prod.www.spiegel.de/images/a48a532a-249e-4fcd-a79a-364fb0d2a841_w520_r2.08_fpx53_fpy43.png",
+          "publishedAt": "2026-11-17T16:54:00.000Z"
         },
         {
-          "title": "Deutsche Bank: Das müssen Sie über das Datenleak »Inside Deutsche Bank« wissen",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-das-muessen-sie-ueber-das-datenleak-inside-deutsche-bank-wissen-a-8ad9866a-bc73-43a4-9123-81f7aa96fcb5#ref=rss",
-          "summary": "Woher hat der SPIEGEL die Daten der Deutschen Bank? Was enthüllen sie? Und ist es ein Problem für das Kreditinstitut, dass die Unterlagen jetzt öffentlich sind? Antworten auf die wichtigsten Fragen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/8d34b259-5c15-4f23-8b35-83e2125e907c_w520_r2.08_fpx48_fpy17.png",
-          "publishedAt": "2026-11-17T06:00:00.000Z",
-          "titleEn": "Deutsche Bank: What you need to know about the data leak  ⁇ Inside Deutsche Bank ⁇",
-          "summaryEn": "Where did the SPIEGEL get the Deutsche Bank's data? What are they revealing? And is it a problem for the credit institution that the documents are now public? Answer the most important questions."
+          "title": "Nvidia: Ex-CEO Jensen Huang ist bereit, zu Chiphersteller zurückzukehren",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-ex-ceo-jensen-huang-ist-bereit-zu-chiphersteller-zurueckzukehren-a-bc20dd25-f830-42e0-a404-de9743ecaf95#ref=rss",
+          "summary": "Es wäre ihm »eine Ehre« zurückzukommen: Nvidia-CEO Jensen Huang sieht sich offenbar bald wieder an der Spitze des Chipherstellers. Der Konzern zeigt bisher aber kein Interesse.",
+          "image": "https://cdn.prod.www.spiegel.de/images/1283fca7-e48b-4439-a128-ad1eeaac921b_w520_r2.08_fpx30_fpy52.98.jpg",
+          "publishedAt": "2026-11-17T16:52:00.000Z"
         }
       ]
     }
