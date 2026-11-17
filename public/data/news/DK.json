@@ -13,57 +13,67 @@
         {
           "title": "Moldova lukker luftrum efter russiske droner",
           "link": "https://www.dr.dk/nyheder/seneste/moldova-lukker-luftrum-efter-russiske-droner",
-          "publishedAt": "2026-11-17T17:35:58.000Z"
+          "publishedAt": "2026-11-17T17:35:58.000Z",
+          "titleEn": "Moldova closes airspace after Russian drones"
         },
         {
           "title": "Tiger Woods gør comeback efter trafikulykke",
           "link": "https://www.dr.dk/nyheder/seneste/tiger-woods-goer-comeback-efter-trafikulykke",
           "image": "https://asset.dr.dk/drdk/umbraco-images/2lvgzvhd/20261117-155541-5_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-17T16:07:18.000Z"
+          "publishedAt": "2026-11-17T16:07:18.000Z",
+          "titleEn": "Tiger Woods making a comeback after a car accident"
         },
         {
           "title": "Svensk riksdagsformand vil have ny regering inden jul",
           "link": "https://www.dr.dk/nyheder/seneste/svensk-riksdagsformand-vil-have-ny-regering-inden-jul",
-          "publishedAt": "2026-11-17T15:42:28.000Z"
+          "publishedAt": "2026-11-17T15:42:28.000Z",
+          "titleEn": "The Swedish parliament wants a new government before Christmas"
         },
         {
           "title": "Ærter fra Rema 1000 tilbagekaldes",
           "link": "https://www.dr.dk/nyheder/seneste/aerter-fra-rema-1000-tilbagekaldes",
-          "publishedAt": "2026-11-17T13:47:22.000Z"
+          "publishedAt": "2026-11-17T13:47:22.000Z",
+          "titleEn": "Rema 1000 type is withdrawn"
         },
         {
           "title": "FN's menneskerettighedschef betænkelig ved Rwanda-plan",
           "link": "https://www.dr.dk/nyheder/seneste/fn-s-menneskerettighedschef-betaenkelig-ved-rwanda-plan",
           "image": "https://asset.dr.dk/drdk/umbraco-images/djrlu21k/20261009-125446-5_crop002.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-17T13:09:17.000Z"
+          "publishedAt": "2026-11-17T13:09:17.000Z",
+          "titleEn": "The UN Human Rights Commissioner is concerned about the Rwanda plan"
         },
         {
           "title": "Gade i København delvist spærret, mens politiet fjerner våben fra butik",
           "link": "https://www.dr.dk/nyheder/seneste/gade-i-koebenhavn-delvist-spaerret-mens-politiet-fjerner-vaaben-fra-butik",
-          "publishedAt": "2026-11-17T11:38:47.000Z"
+          "publishedAt": "2026-11-17T11:38:47.000Z",
+          "titleEn": "Copenhagen street partially blocked as police remove weapons from the store"
         },
         {
           "title": "Danmark vil donere 800 millioner til international klima- og miljøfond",
           "link": "https://www.dr.dk/nyheder/seneste/danmark-vil-donere-800-millioner-til-international-klima-og-miljoefond",
           "image": "https://asset.dr.dk/drdk/umbraco-images/xygn0u5m/20261117-102323-l_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-17T11:07:03.000Z"
+          "publishedAt": "2026-11-17T11:07:03.000Z",
+          "titleEn": "Denmark will donate 800 million to the International Climate and Environmental Fund"
         },
         {
           "title": "Ishockeyforbunds hjemmeside hacket: 'Er I bange for at møde Rusland?'",
           "link": "https://www.dr.dk/sporten/seneste-sport/ishockeyforbunds-hjemmeside-hacket-er-i-bange-moede-rusland",
           "image": "https://asset.dr.dk/drdk/umbraco-images/dd1mukdt/3a1153c9e6156fb70e1cd2c669f968049117dbc5caabbb83255eb78088a07189.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-17T10:54:01.000Z"
+          "publishedAt": "2026-11-17T10:54:01.000Z",
+          "titleEn": "Ice Hockey Federation website hacked: 'Are you afraid of meeting Russia?'"
         },
         {
           "title": "Det danske forsvar skal træne AI på ukrainsk data",
           "link": "https://www.dr.dk/nyheder/seneste/det-danske-forsvar-skal-traene-ai-paa-ukrainsk-data",
-          "publishedAt": "2026-11-17T10:35:50.000Z"
+          "publishedAt": "2026-11-17T10:35:50.000Z",
+          "titleEn": "Danish Defence to train AI on Ukrainian data"
         },
         {
           "title": "Razzia mod Erdogan-kritisk tv-station: Flere er blevet anholdt",
           "link": "https://www.dr.dk/nyheder/seneste/razzia-mod-erdogan-kritisk-tv-station-flere-er-blevet-anholdt",
           "image": "https://asset.dr.dk/drdk/umbraco-images/pphnf2ze/20261117-085508-5_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-17T08:20:05.000Z"
+          "publishedAt": "2026-11-17T08:20:05.000Z",
+          "titleEn": "Raid on Erdogan-critical TV station: More arrested"
         }
       ]
     },
@@ -81,70 +91,90 @@
           "link": "https://politiken.dk/sport/fodbold/art11061248/Nu-skal-den-norske-rob%C3%A5d-s%C3%A6nkes-Her-er-Riemers-udvalgte",
           "summary": "Danmark og Norge dyster om Nordens fodboldtrone og en plads i Nations Leagues kvartfinale. Følg landskampen i Parken i denne liveblog.",
           "image": "https://politiken.dk/incoming/img11064469.v0iy6i/ORIGINALS/original_960/SOCCER-UEFANATIONS-POR-DNK",
-          "publishedAt": "2026-11-17T18:39:06.000Z"
+          "publishedAt": "2026-11-17T18:39:06.000Z",
+          "titleEn": "Now the Norwegian rowing boat is to be sunk: Here are Riemer's chosen",
+          "summaryEn": "Denmark and Norway are mourning the Nordic football throne and a place in the quarter-finals of the Nations League. Follow the battle in the Park on this live blog."
         },
         {
           "title": "Midtvejs i filmen sidder jeg og klør mig i nakken. Hvad er det, jeg ser?",
           "link": "https://politiken.dk/kultur/film_og_tv/filmanmeldelser/art11039095/Midtvejs-i-filmen-sidder-jeg-og-kl%C3%B8r-mig-i-nakken.-Hvad-er-det-jeg-ser",
           "summary": "Den suverænt hypede dokumentar ’You Can See Everything’ er et forsøg på at trænge om bag de mange spørgsmål om kultfiguren Elizabeth Holmes. Men hvad er det, jeg ser?",
           "image": "https://politiken.dk/incoming/img11062282.rdpx1y/ORIGINALS/original_960/You%20Can%20See%20Everything-TRAILER",
-          "publishedAt": "2026-11-17T18:15:13.000Z"
+          "publishedAt": "2026-11-17T18:15:13.000Z",
+          "titleEn": "In the middle of the movie, I'm sitting there scratching my neck. What am I seeing?",
+          "summaryEn": "The hugely successful documentary \"You Can See Everything\" is an attempt to penetrate the many questions surrounding the cult figure Elizabeth Holmes. But what am I seeing?"
         },
         {
           "title": "Antallet af udvisningsdømte i Danmark overstiger mange gange det antal, der nu skal sendes til Rwanda",
           "link": "https://politiken.dk/danmark/politik/art11063673/Antallet-af-udvisningsd%C3%B8mte-i-Danmark-overstiger-mange-gange-det-antal-der-nu-skal-sendes-til-Rwanda",
           "summary": "I valgkampen lød det fra statsministeren, at et udrejsecenter også skulle rumme udvisningsdømte. En opgørelse viser, at de udgør fem gange så mange, som der nu skal sendes til Rwanda.",
           "image": "https://politiken.dk/incoming/img11063874.tkaaaa/ORIGINALS/original_960/FV26%20Pressem%C3%B8de%20med%20Socialdemokratiet%20om%20nyt%20udspil%20p%C3%A5%20udl%C3%A6ndingeomr%C3%A5det",
-          "publishedAt": "2026-11-17T18:03:55.000Z"
+          "publishedAt": "2026-11-17T18:03:55.000Z",
+          "titleEn": "The number of deported persons in Denmark is many times greater than the number to be sent to Rwanda",
+          "summaryEn": "During the election campaign, the Prime Minister said that an expatriation centre should also accommodate deported persons. One estimate shows that they are five times as many as are now to be sent to Rwanda."
         },
         {
           "title": "Storbritannien vil tættere på EU, og befolkningen presser på",
           "link": "https://politiken.dk/internationalt/art11063137/Storbritannien-vil-t%C3%A6ttere-p%C3%A5-EU-og-befolkningen-presser-p%C3%A5",
           "summary": "Den britiske højrefløj med Nigel Farage i spidsen er ude af trit med befolkningen omkring EU, viser en meningsmåling.",
           "image": "https://politiken.dk/incoming/img11064143.jpn2vs/ORIGINALS/original_960/BRITAIN-EU-BURNHAM",
-          "publishedAt": "2026-11-17T17:24:43.000Z"
+          "publishedAt": "2026-11-17T17:24:43.000Z",
+          "titleEn": "The United Kingdom is moving closer to the EU and the population is pressing",
+          "summaryEn": "The British right-wing, led by Nigel Farage, is out of step with the population around the EU, according to a poll."
         },
         {
           "title": "Danmarks første computer blev bygget i spisestuen i en villa i Valby",
           "link": "https://politiken.dk/danmark/art11046193/Danmarks-f%C3%B8rste-computer-blev-bygget-i-spisestuen-i-en-villa-i-Valby",
           "summary": "I dag er Europa og resten af verden domineret af amerikanske tech-giganter. Men faktisk var Danmark engang med i det højteknologiske kapløb. Det skete gennem Regnecentralen, som virksomhedshistoriker Kurt Jacobsen nu har…",
           "image": "https://politiken.dk/incoming/img11056320.c5za8g/ORIGINALS/original_960/Regnecentralen",
-          "publishedAt": "2026-11-17T17:12:31.000Z"
+          "publishedAt": "2026-11-17T17:12:31.000Z",
+          "titleEn": "Denmark's first computer was built in the dining room of a villa in Valby",
+          "summaryEn": "Today, Europe and the rest of the world are dominated by American tech giants. In fact, Denmark was once part of the high-tech race. It happened through Kingdom Central, which corporate historian Kurt Jacobsen now owns..."
         },
         {
           "title": "De råbte op om krænkelser, chikane og magtmisbrug. Men de mødte en mur i idrætten",
           "link": "https://politiken.dk/sport/art11054148/De-r%C3%A5bte-op-om-kr%C3%A6nkelser-chikane-og-magtmisbrug.-Men-de-m%C3%B8dte-en-mur-i-idr%C3%A6tten",
           "summary": "Vi giver ordet til dem.",
           "image": "https://politiken.dk/incoming/img11062032.2bm4qr/ORIGINALS/original_960/xxx",
-          "publishedAt": "2026-11-17T16:18:41.000Z"
+          "publishedAt": "2026-11-17T16:18:41.000Z",
+          "titleEn": "They called for violations, harassment and abuse of power. But they ran into a wall in sports.",
+          "summaryEn": "We'll give them the floor."
         },
         {
           "title": "Gyldendal med ny melding: Vil kun ændre i bog om 112-årig med nazi-fortid, hvis hun selv deltager i det",
           "link": "https://politiken.dk/kultur/boger/art11064374/Gyldendal-med-ny-melding-Vil-kun-%C3%A6ndre-i-bog-om-112-%C3%A5rig-med-nazi-fortid-hvis-hun-selv-deltager-i-det",
           "summary": "Bogen ’Vi skal have noget at grine af’ handler om 112-årige Kirsten Schwalbes liv. Den udkom 8. oktober.",
           "image": "https://politiken.dk/incoming/img11064389.o37cs5/ORIGINALS/original_960/20250310-071337-L",
-          "publishedAt": "2026-11-17T16:12:56.000Z"
+          "publishedAt": "2026-11-17T16:12:56.000Z",
+          "titleEn": "Guldendal with new message: Will only change book about 112-year-old with Nazi past if she herself participates in it",
+          "summaryEn": "The book \"We Need Something to Laugh About\" is about the life of 112-year-old Kirsten Schwalbe. It came out October 8th."
         },
         {
           "title": "»Vi står ved en skillevej«: Dansk minister glæder sig over milliard­donation fra Bill Gates",
           "link": "https://politiken.dk/danmark/sundhed/art11061252/%C2%BBVi-st%C3%A5r-ved-en-skillevej%C2%AB-Dansk-minister-gl%C3%A6der-sig-over-milliard%C2%ADdonation-fra-Bill-Gates",
           "summary": "Repræsentanter fra over 40 lande deltog mandag ved et topmøde i København for at fremme ligestilling og sundhed for kvinder i hele verden. Fonde donerede i alt 10 milliarder kroner til formålet.",
           "image": "https://politiken.dk/incoming/img11064286.n7t00p/ORIGINALS/original_960/ETHIOPIA-CLIMATE-DROUGHT-HEALTH",
-          "publishedAt": "2026-11-17T15:52:59.000Z"
+          "publishedAt": "2026-11-17T15:52:59.000Z",
+          "titleEn": "⁇ We are at a crossroads ⁇ : Danish Minister welcomes Bill Gates' billion-dollar donation",
+          "summaryEn": "Representatives from over 40 countries attended a summit in Copenhagen on Monday to promote gender equality and health for women worldwide. Funds donated a total of NOK 10 billion to the cause."
         },
         {
           "title": "23-årig mand er tiltalt for terrorisme efter ildspåsættelse",
           "link": "https://politiken.dk/danmark/art11064342/23-%C3%A5rig-mand-er-tiltalt-for-terrorisme-efter-ildsp%C3%A5s%C3%A6ttelse",
           "summary": "I 2024 blev der sat ild til ejendom, og en jødisk kvinde måtte evakueres. En mand er nu tiltalt for terror.",
           "image": "https://politiken.dk/incoming/img11064361.xqlymq/ORIGINALS/original_960/Fakkeloptog%20til%20minde%20om%20Krystalnatten",
-          "publishedAt": "2026-11-17T15:49:27.000Z"
+          "publishedAt": "2026-11-17T15:49:27.000Z",
+          "titleEn": "23-year-old man charged with terrorism after arson",
+          "summaryEn": "In 2024, property was set on fire, and a Jewish woman had to be evacuated. A man is now being charged with terrorism."
         },
         {
           "title": "De to kvinder er i sig selv alle tre sæsoner værd",
           "link": "https://politiken.dk/kultur/film_og_tv/tvanmeldelser/art11053755/De-to-kvinder-er-i-sig-selv-alle-tre-s%C3%A6soner-v%C3%A6rd",
           "summary": "Engelsk spændingsserie, hvis tredje sæson netop er landet, kan meget mere end blot underholde. Og Suranne Jones og Rose Leslie er gode som kolleger og kærester.",
           "image": "https://politiken.dk/incoming/img11062745.lnl3tl/ORIGINALS/original_960/DR-0771848",
-          "publishedAt": "2026-11-17T15:22:16.000Z"
+          "publishedAt": "2026-11-17T15:22:16.000Z",
+          "titleEn": "Those two women are worth all three seasons in themselves.",
+          "summaryEn": "The English thriller series, whose third season has just arrived, can do much more than just entertain. And Suranne Jones and Rose Leslie are good colleagues and lovers."
         }
       ]
     },
@@ -161,69 +191,89 @@
           "title": "USA mister status som mæslingefrit land",
           "link": "https://www.berlingske.dk/internationalt/usa-mister-status-som-maeslingefrit-land?referrer=RSS",
           "summary": "De seneste år er antallet af tilfælde af mæslinger i USA steget kraftigt efter lav tilslutning til vacciner.",
-          "publishedAt": "2026-11-17T18:42:50.000Z"
+          "publishedAt": "2026-11-17T18:42:50.000Z",
+          "titleEn": "The United States is losing its status as a measles-free country",
+          "summaryEn": "In recent years, measles cases in the United States have risen sharply following low adherence to vaccines."
         },
         {
           "title": "Danmark ændrer på en enkelt plads: Nissen erstatter Bah",
           "link": "https://www.berlingske.dk/sport/danmark-aendrer-paa-en-enkelt-plads-nissen-erstatter-bah?referrer=RSS",
           "summary": "Joachim Andersen er blevet klar til at starte inde for Danmark i tirsdagens Nations League-kamp mod Norge.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167384791.webp?t[strip]=true&t[quality]=70&accessToken=a18c840ad0b87dd4eea63a7fe523f681c8bbd5e2856abb34b3d909f55030db9c",
-          "publishedAt": "2026-11-17T18:42:43.000Z"
+          "publishedAt": "2026-11-17T18:42:43.000Z",
+          "titleEn": "Denmark changes one seat: Nissen replaces Bah",
+          "summaryEn": "Joachim Andersen is ready to start for Denmark in Tuesday's Nations League match against Norway."
         },
         {
           "title": "En af verdens største børsnoteringer nærmer sig. Ét rødt flag springer i øjnene",
           "link": "https://www.berlingske.dk/aktier/en-af-verdens-stoerste-boersnoteringer-naermer-sig-et-roedt-flag-springer-i-oejnene?referrer=RSS",
           "summary": "Torsdag den 19. november sker det endelig. Den længe ventede børsnotering af AI-virksomheden Anthropic. Børsnoteringen forventes at blive en af de største nogensinde. Berlingske har derfor spurgt tre eksperter, hvordan…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167335251.webp?t[strip]=true&t[quality]=70&accessToken=94f24dc7fee81f7b29c0cf838975fa5390a7b45c05e1b7214ab4dc889d49c1d8",
-          "publishedAt": "2026-11-17T18:37:24.000Z"
+          "publishedAt": "2026-11-17T18:37:24.000Z",
+          "titleEn": "One of the world's largest stock market listings is approaching. ♪ A red flag pops in my eyes ♪",
+          "summaryEn": "On Thursday 19 November, it will finally happen. The long-awaited IPO of the AI company Anthropic. The stock market is expected to become one of the largest ever. So Berlingske has asked three experts how to..."
         },
         {
           "title": "Nye finske visumregler fælder de første syv russere",
           "link": "https://www.berlingske.dk/sport/nye-finske-visumregler-faelder-de-foerste-syv-russere?referrer=RSS",
           "summary": "Blandt andet to OL-medaljevindere i kunstskøjteløb er blevet trukket fra et stævne i Helsinki.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167384343.webp?t[strip]=true&t[quality]=70&accessToken=0bad205175c595fdf62012dd2a87bb685c8236285225cdee389e86b9fb47040a",
-          "publishedAt": "2026-11-17T18:14:46.000Z"
+          "publishedAt": "2026-11-17T18:14:46.000Z",
+          "titleEn": "New Finnish visa rules fall to the first seven Russians",
+          "summaryEn": "Among other things, two Olympic medalists in artistic rowing have been withdrawn from a convention in Helsinki."
         },
         {
           "title": "Ukraines allierede lover at sende luftforsvar og droner til Ukraine",
           "link": "https://www.berlingske.dk/internationalt/ukraines-allierede-lover-at-sende-luftforsvar-og-droner-til-ukraine?referrer=RSS",
           "summary": "Ukraines allierede leverer fortsat militær støtte til Ukraine, men det er for få lande, der bærer byrden.",
-          "publishedAt": "2026-11-17T18:14:43.000Z"
+          "publishedAt": "2026-11-17T18:14:43.000Z",
+          "titleEn": "Ukraine's allies promise to send air defense and drones to Ukraine",
+          "summaryEn": "Ukraine's allies continue to provide military support to Ukraine, but too few countries bear the burden."
         },
         {
           "title": "Topchef efter exit fra Nvidia: Vil være mig en ære at vende tilbage",
           "link": "https://www.berlingske.dk/internationalt/topchef-efter-exit-fra-nvidia-vil-vaere-mig-en-aere-at-vende-tilbage?referrer=RSS",
           "summary": "Efter Jensen Huangs afgang fra Nvidia og indrømmelser om affære er chipgigantens aktiekurs raslet ned.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167380502.webp?t[strip]=true&t[quality]=70&accessToken=a0cfbb16dd760806d54e7d8cf006e5f49e2f28e5ff7011a6c5c0187df0a2d30d",
-          "publishedAt": "2026-11-17T18:10:49.000Z"
+          "publishedAt": "2026-11-17T18:10:49.000Z",
+          "titleEn": "CEO after leaving Nvidia: It will be my honor to return",
+          "summaryEn": "Following Jensen Huang's departure from Nvidia and business concessions, the chip giant's stock price has plummeted."
         },
         {
           "title": "Snart kan din sag blive afgjort af AI. Forsker er tilhænger af ny lov – men peger på tre forudsætninger for succes",
           "link": "https://www.berlingske.dk/kronikker/snart-kan-din-sag-blive-afgjort-af-ai-forsker-er-tilhaenger-af-ny-lov--men-peger-paa-tre-forudsaetninger-for-succes?referrer=RSS",
           "summary": "Regeringen forventes snart at fremsætte en lov, som vil give offentlige myndigheder grundlag for at udvikle og anvende kunstig intelligens (AI) i sagsbehandling mv. Det er godt. Men uden ledelsesopmærksomhed,…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167185878.webp?t[strip]=true&t[quality]=70&accessToken=74d6c3c3630457d72fead7b59ec43a881f8e07b383b702cef27fd9039b6a8926",
-          "publishedAt": "2026-11-17T18:10:38.000Z"
+          "publishedAt": "2026-11-17T18:10:38.000Z",
+          "titleEn": "Soon your case will be decided by AI. Researchers are in favor of a new law  ⁇  but point to three prerequisites for success",
+          "summaryEn": "The government is expected to soon introduce a law that will provide a basis for public authorities to develop and use artificial intelligence (AI) in litigation, etc. That's good, man. But without the attention of management..."
         },
         {
           "title": "Mckinsey-konsulenten og Sveriges rødeste i samme regering? De passer sammen som olie og vand",
           "link": "https://www.berlingske.dk/internationalt/mckinsey-konsulenten-og-sveriges-roedeste-i-samme-regering-de-passer-sammen-som-olie-og-vand?referrer=RSS",
           "summary": "Analyse. Den ene var Mckinsey-konsulent og har gjort karriere som investor, den anden er erklæret feminist og rød partileder. Nu skal de finde sammen, hvis Sverige skal have en ny regering. Det burde være umuligt.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167334042.webp?t[strip]=true&t[quality]=70&accessToken=77d59aaa50e5035c51bf4983d618f50ba5370086812dc0f6cf0365e443dc50d1",
-          "publishedAt": "2026-11-17T17:43:53.000Z"
+          "publishedAt": "2026-11-17T17:43:53.000Z",
+          "titleEn": "The McKinsey consultant and the Swedish Red Cross in the same government? They fit together like oil and water",
+          "summaryEn": "I'll give you an analysis. One was Mckinsey's consultant and has made a career as an investor, the other is a declared feminist and leader of the Red Party. Now they have to come together if Sweden is to have a new government. It should be impossible."
         },
         {
           "title": "Politi fjernede våben fra virksomhed centralt i København",
           "link": "https://www.berlingske.dk/indland/politi-fjernede-vaaben-fra-virksomhed-centralt-i-koebenhavn?referrer=RSS",
           "summary": "Københavns Politi satte tirsdag i gang i en større politiindsats efter et våbenfund tæt på Nørreport.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167323529.webp?t[strip]=true&t[quality]=70&accessToken=9ecc638df835282911a07a1d4d8433c8d910fa62230fe89b10816380c0b8812e",
-          "publishedAt": "2026-11-17T17:24:48.000Z"
+          "publishedAt": "2026-11-17T17:24:48.000Z",
+          "titleEn": "Copenhagen police removed weapons from operations",
+          "summaryEn": "Copenhagen Police launched a major police operation on Tuesday after a gun battle near Nørreport."
         },
         {
           "title": "Månedgammel fejl udløste kæmpe nedbrud",
           "link": "https://www.berlingske.dk/virksomheder/maanedgammel-fejl-udloeste-kaempe-nedbrud?referrer=RSS",
           "summary": "Microsofts værste nedbrud nogensinde kan komme til at koste selskabet næsten 3,4 milliarder kroner. I næsten et døgn var forbindelserne kappet.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167288037.webp?t[strip]=true&t[quality]=70&accessToken=ba5f8703dedcfd12f49bcbc9f93190131c06d3d96a7f478c59440ae161796f20",
-          "publishedAt": "2026-11-17T17:21:26.000Z"
+          "publishedAt": "2026-11-17T17:21:26.000Z",
+          "titleEn": "Month-old error triggered a massive collapse",
+          "summaryEn": "Microsoft's worst bankruptcy could cost the company nearly $3.4 billion. For almost 24 hours, the connection was severed."
         }
       ]
     }
