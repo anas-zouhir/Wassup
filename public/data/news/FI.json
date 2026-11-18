@@ -8,87 +8,68 @@
         "homepage": "https://yle.fi/uutiset",
         "lang": "fi"
       },
-      "fetchedAt": "2026-11-17T18:48:29.434Z",
+      "fetchedAt": "2026-11-18T06:53:19.416Z",
       "items": [
         {
-          "title": "Espoo teki ratkaisun, joka karkotti autoilijat",
+          "title": "Sähköverkkoon voi hyökätä sisältä käsin, ja siksi Suomi kiristää lakia – iso uhka jää silti jäljelle",
+          "link": "https://yle.fi/a/74-20255951?origin=rss",
+          "summary": "Ulkomaisten yritysten on jatkossa aiempaa vaikeampi päästä Suomen sähköverkkoon. Tuleva lakiuudistus ei kuitenkaan ratkaise kaikkia turvallisuusuhkia.",
+          "publishedAt": "2026-11-18T06:51:09.000Z"
+        },
+        {
+          "title": "Espanjalaisen matkatoimiston sanotaan suojelleen suota Hartolassa – tältä siellä näyttää",
+          "link": "https://yle.fi/a/74-20256043?origin=rss",
+          "summary": "Luonnonsuojeluun keskittyvät säätiöt ovat havainneet kasvavan ilmiön: ulkomaiset yritykset haluavat lahjoittaa rahaa suomalaisen luonnon suojelemiseen.",
+          "publishedAt": "2026-11-18T03:30:35.000Z"
+        },
+        {
+          "title": "Koomikolle ja vihreiden politiikolle luetaan syyte Jussi Halla-ahon kunnianloukkauksesta – Yle seuraa oikeudenkäyntiä",
+          "link": "https://yle.fi/a/74-20257194?origin=rss",
+          "summary": "Koomikko Iikka Kivelle ja varavaltuutettu Aino Tuomiselle luetaan keskiviikkona syytteet Halla-ahon kunnianloukkauksesta.",
+          "publishedAt": "2026-11-18T04:30:35.000Z"
+        },
+        {
+          "title": "HS-gallup: Kokoomuksen kannatus historiallisen alhaalla",
+          "link": "https://yle.fi/a/74-20257572?origin=rss",
+          "summary": "Perussuomalaiset on kirinyt aivan kokoomuksen kannoille.",
+          "publishedAt": "2026-11-18T00:37:40.000Z"
+        },
+        {
+          "title": "Tällainen oli Nvidian Jensen Huangin johtamistyyli, joka toimi 33 vuotta – epäonnistumisen pelko kaiken takana",
+          "link": "https://yle.fi/a/74-20256783?origin=rss",
+          "summary": "Johtamisen professori arvioi, miksi Jensen Huangin poikkeuksellinen tyyli nosti Nvidian maailman arvokkaimmaksi ja mitä tapahtuu nyt, kun perustaja on poissa.",
+          "publishedAt": "2026-11-18T04:00:35.000Z"
+        },
+        {
+          "title": "Katso, onko oma kuntasi 30 elinvoimaisimman listalla: uutena nousijana Rovaniemi",
+          "link": "https://yle.fi/a/74-20257531?origin=rss",
+          "summary": "Lapin matkailukunnat ovat nostaneet asemiaan kuntien elinvoimaisuutta mittaavassa tutkimuksessa. Suomen ykköskunta oli Pirkkala jo kuudetta kertaa.",
+          "publishedAt": "2026-11-18T05:00:39.000Z"
+        },
+        {
+          "title": "Harvinainen video eristyksissä elävästä alkuperäiskansasta herättää huolta",
+          "link": "https://yle.fi/a/74-20257573?origin=rss",
+          "summary": "Awa-kansan jäsenet pyysivät ilmeisesti jamsseja ja veivät ne mukanaan takaisin metsään, sanoo alkuperäiskansojen oikeuksia ajava järjestö.",
+          "publishedAt": "2026-11-18T02:31:05.000Z"
+        },
+        {
+          "title": "Satoja oikeudenkäyntejä joudutaan peruttamaan ja vangittuja vapauttamaan, varoittavat syyttäjät",
+          "link": "https://yle.fi/a/74-20254508?origin=rss",
+          "summary": "Syyttäjät pitävät syyttäjien määrän vähentämistä kansalaisten oikeusturvan kannalta katastrofina.",
+          "publishedAt": "2026-11-18T06:00:35.000Z"
+        },
+        {
+          "title": "Espoo teki pysäköintiratkaisun, joka on varoittava esimerkki muille",
           "link": "https://yle.fi/a/74-20256672?origin=rss",
           "summary": "Espoo on laajentanut maksullista pysäköintiä kesästä lähtien. Tämä on johtanut siihen, että kaupungin kadut ovat monin paikoin autioina.",
           "publishedAt": "2026-11-17T18:25:24.000Z",
-          "titleEn": "Espoo made a decision that expelled the drivers",
           "summaryEn": "Espoo has been expanding its paid parking space since the summer. As a result, the streets of the city have become deserted in many places."
         },
         {
-          "title": "Puhelin saattoi estää osan vaaratiedotteista – ministeriö: Tositilanteessa näin ei pitäisi käydä",
-          "link": "https://yle.fi/a/74-20257539?origin=rss",
-          "summary": "Sisäministeriön pelastusylijohtaja Kimmo Kohvakan mukaan testi sujui hyvin ja sen perusteella saatiin tietoa puutteista.",
-          "publishedAt": "2026-11-17T16:04:27.000Z",
-          "titleEn": "The phone may have blocked some of the emergency reports.",
-          "summaryEn": "According to Kimmo Kohvakan, rescue director at the Ministry of Interior, the test went well, and the information on the shortcomings was obtained."
-        },
-        {
-          "title": "Tämä tiedetään Bond-elokuvien tulevaisuudesta – edellä raju riita kulisseissa",
-          "link": "https://yle.fi/a/74-20257381?origin=rss",
-          "summary": "Uusi Bond-näyttelijä paljastettiin maanantaina. Bond-elokuvien nykyinen tuottaja Amazon on luvannut, että se kunnioittaa hahmon perinnettä.",
-          "publishedAt": "2026-11-17T17:22:17.000Z",
-          "titleEn": "This is what we know about the future of Bond films.",
-          "summaryEn": "The new Bond actor was revealed on Monday. Amazon, the current producer of the Bond films, has promised to honor the character's legacy."
-        },
-        {
-          "title": "Osa suomalaisista joutuu ajamaan satoja kilometrejä kampaajalle, sillä afrohiusten käsittely ei kuulu hiusalan opintoihin",
-          "link": "https://yle.fi/a/74-20254999?origin=rss",
-          "summary": "Hiusalan perustutkinnon voi suorittaa koskemattakaan afrohiukseen. Etenkin pieniltä paikkakunnilta afron osaamista löytyy edelleen vain vähän.",
-          "publishedAt": "2026-11-17T17:40:37.000Z",
-          "titleEn": "Some Finns have to drive hundreds of kilometers for a hairdresser because treatment of African hair is not part of the study of hairdressing",
-          "summaryEn": "You can get a bachelor's degree in hairdressing without touching an African scalp. Especially in small towns, there is still very little knowledge of afro."
-        },
-        {
-          "title": "Rahapelifirmat kosiskelevat vaikuttajia suurilla summilla: ”Ne olisivat urani hautajaisrahat”",
-          "link": "https://yle.fi/a/74-20257294?origin=rss",
-          "summary": "Suomalaisvaikuttajia houkutellaan nyt suurilla rahasummilla mainostamaan rahapelejä. Suurin osa ehdotuksista on kuitenkin laittomia.",
-          "publishedAt": "2026-11-17T16:00:17.000Z",
-          "titleEn": "Gambling firms are bidding influencers for large sums of money:",
-          "summaryEn": "Finnish influencers are now attracted to advertise gambling with large sums of money. However, most of the proposals are illegal."
-        },
-        {
-          "title": "Stubb kommentoi Venäjän vaatimuksia rauhalle: ”Suomi pysyy Naton jäsenenä”",
-          "link": "https://yle.fi/a/74-20256136?origin=rss",
-          "summary": "Tasavallan presidentin Alexander Stubbin puhui vierailunsa päätteeksi suomalaismedialle Berliinissä.",
-          "publishedAt": "2026-11-17T16:21:03.000Z",
-          "titleEn": "Stubb comments on Russia's demands for peace: Finland remains a member of NATO",
-          "summaryEn": "The President of the Republic, Alexander Stubbin, spoke at the end of his visit to the Finnish media in Berlin."
-        },
-        {
-          "title": "3-vuotias lapsi paiskautui bussin seinään äkkijarrutuksessa Helsingissä: ”Kuului kova kopsahdus”",
-          "link": "https://yle.fi/a/74-20256881?origin=rss",
-          "summary": "HSL:n saamista palautteista 21 prosenttia koskee kuljettajan ajotapaa, joka on esimerkiksi liian vauhdikasta tai äkkinäistä.",
-          "publishedAt": "2026-11-17T17:55:26.000Z",
-          "titleEn": "A 3-year-old boy crashed into a bus wall in Helsinki:",
-          "summaryEn": "In addition, HSL is not able to provide any additional information on the driver's driving behaviour."
-        },
-        {
-          "title": "Mika Aaltola ei usko Britannian palaavan EU:hun – tilalle voi tulla uusi diili",
-          "link": "https://yle.fi/a/74-20257554?origin=rss",
-          "summary": "Europarlamentaarikko Mika Aaltola ei usko, että Britannia palaa unionin täysjäseneksi. EU:n olisi hänen mukaansa aika räätälöidä uudenlaisia kumppanuussopimuksia.",
-          "publishedAt": "2026-11-17T18:37:05.000Z",
-          "titleEn": "Mika Aaltola does not believe a new deal can replace Britain's return to the EU",
-          "summaryEn": "MEP Mika Aaltola does not believe that Britain will return to the Union as a full member. He said it would be time for the EU to adapt new types of partnership agreements."
-        },
-        {
-          "title": "Ukraina iski Putinin ylpeydenaiheeseen – Krimin silta sitoi miehitettyä niemimaata Venäjään",
-          "link": "https://yle.fi/a/74-20257400?origin=rss",
-          "summary": "Tuhoisa isku tärkeälle sillalle vaikeuttaa entisestään Venäjän miehittämän Krimin niemimaan huoltoa.",
-          "publishedAt": "2026-11-17T15:47:50.000Z",
-          "titleEn": "Ukraine has attacked Putin 's pride . The Crimean bridge has tied the occupied peninsula to Russia .",
-          "summaryEn": "A devastating attack on an important bridge further complicates the maintenance of the Russian-occupied Crimean peninsula."
-        },
-        {
-          "title": "Kokkola tiedottaa Turkissa lomailleen rehtorin tapauksesta: kaupunki on pidättänyt hänet virasta toistaiseksi",
-          "link": "https://yle.fi/a/74-20257489?origin=rss",
-          "summary": "Kokkolan kaupunki on aiemmin kertonut, että Turkissa lomaillut mies on Isokylän koulun rehtori.",
-          "publishedAt": "2026-11-17T14:32:44.000Z",
-          "titleEn": "Kokkola announces on his holiday in Turkey that the city has suspended him from office so far",
-          "summaryEn": "The city of Kokkola has previously reported that a man on vacation in Turkey is the principal of the Big Village school."
+          "title": "Analyysi: Opetusministeri väittää, että peruskouluun on lisätty vahvasti rahaa – tarkistimme faktat",
+          "link": "https://yle.fi/a/74-20257296?origin=rss",
+          "summary": "Valtio on yhdellä kädellä antanut kunnille rahaa ja toisella ottanut sitä pois. Lopputulos on lähellä nollaa, kirjoittaa politiikan toimittaja Petri Raivio.",
+          "publishedAt": "2026-11-18T05:15:51.000Z"
         }
       ]
     },
@@ -99,96 +80,76 @@
         "homepage": "https://www.hs.fi",
         "lang": "fi"
       },
-      "fetchedAt": "2026-11-17T18:48:30.006Z",
+      "fetchedAt": "2026-11-18T06:53:19.529Z",
       "items": [
         {
-          "title": "Jalkapallo | Pikkuhuuhkajat tuhlailee maalipaikkoja ratkaisevassa EM-karsintapelissä",
-          "link": "https://www.hs.fi/urheilu/art-2000012419616.html",
-          "summary": "Pikkuhuuhkajat kohtaa ratkaisevassa EM-jatkokarsintaottelussa Irlannin. HS seuraa peliä hetki hetkeltä.",
-          "image": "https://images.sanoma-sndp.fi/597b961a5e1d6d47d4c5a6e175b56c08/normal/1440.jpg",
-          "publishedAt": "2026-11-17T18:36:00.000Z",
-          "titleEn": "Soccer is wasting away on a crucial EM scoring game.",
-          "summaryEn": "Small-scale excavators will face Ireland in a decisive battle for EM longevity. HS is watching the game from minute to minute."
+          "title": "Jääkiekko | Mikko Rantaselta käsittämätön 10 minuutin show NHL:ssä",
+          "link": "https://www.hs.fi/urheilu/art-2000012420278.html",
+          "summary": "Suomalaistähdellä oli superilta.",
+          "image": "https://images.sanoma-sndp.fi/4558299f4c1750b87aedf114af05979a/normal/1440.jpg",
+          "publishedAt": "2026-11-18T06:36:00.000Z"
         },
         {
-          "title": "Bond | Miksi James Bondiksi valittiin supertähti eikä tuntemattomampi nimi?",
-          "link": "https://www.hs.fi/popkulttuuri/art-2000012418565.html",
-          "summary": "Robert Pattinsonin valinta uudeksi James Bondiksi kertoo tuotantoyhtiö Amazonin suurista kaupallisista odotuksista. Näyttelijä voi tuoda agenttihahmoon myös jotain aivan uutta.",
-          "image": "https://images.sanoma-sndp.fi/a41638a3515b4b9cdcc75b8370e8e659/normal/1440.jpg",
-          "publishedAt": "2026-11-17T18:33:00.000Z",
-          "titleEn": "Bond Why was James Bond chosen as a superstar and not an unknown name?",
-          "summaryEn": "Robert Pattinson's selection as the new James Bond tells the production company about Amazon's high commercial expectations. The actor can also bring something completely new to the agent's character."
+          "title": "Brasilia | Muusta maailmasta eristyksissä elävän kansan jäseniä ilmestyi viidakosta",
+          "link": "https://www.hs.fi/maailma/art-2000012420157.html",
+          "summary": "Nälkäisiltä vaikuttaneet awá-kansan jäsenet pyysivät jamssia.",
+          "image": "https://images.sanoma-sndp.fi/6bb5c752f6d0f61b7976a7ed6b041dee/normal/1440.jpg",
+          "publishedAt": "2026-11-18T06:30:00.000Z"
         },
         {
-          "title": "Golf | Tiger Woods palaa kilpakentille",
-          "link": "https://www.hs.fi/urheilu/art-2000012419891.html",
-          "summary": "Tiger Woodsin edellisestä turnauksesta on yli kaksi vuotta aikaa.",
-          "image": "https://images.sanoma-sndp.fi/1b614ae26ac5d0679273170da998f869/normal/1440.jpg",
-          "publishedAt": "2026-11-17T18:02:00.000Z",
-          "titleEn": "Tiger Woods is back on the golf course.",
-          "summaryEn": "It's been over two years since Tiger Woods' last tournament."
+          "title": "Onnettomuudet | Lahden­väylällä kilo­metrien jono Helsinkiin päin perään­ajon vuoksi",
+          "link": "https://www.hs.fi/pkseutu/art-2000012420219.html",
+          "summary": "Peräänajo on ruuhkauttanut Helsinkiin suuntautuvaa liikennettä merkittävästi.",
+          "publishedAt": "2026-11-18T06:28:00.000Z"
         },
         {
-          "title": "HS Unkarissa | Orbán on lyöty, ja yllätys on tässä: konservatiivinen ajattelu on yhä muodissa",
-          "link": "https://www.hs.fi/kirjeenvaihtajat/art-2000012337208.html",
-          "summary": "Valta vaihtui, mutta uudistukset ovat Unkarissa hitaita. Tiktokkaajat, homoaktivistit ja nyrkkeilevä seepra kertovat, miksi uusi pääministeri etenee varoen.",
-          "image": "https://images.sanoma-sndp.fi/8928d33490d393f9105b73e4f3b256f5/normal/1440.jpg",
-          "publishedAt": "2026-11-17T18:00:00.000Z",
-          "titleEn": "In Hungary, Orbán is beaten, and the surprise is this: conservative thinking is still in fashion.",
-          "summaryEn": "Power has changed, but reforms are slow in Hungary. Ticket-takers, gay activists, and a boxing zeppelin tell us why the new prime minister is moving forward with caution."
+          "title": "Yhdysvallat | Pipo lennähti virtahevon aitaukseen, epäonninen eläin nyt hengen­vaarassa",
+          "link": "https://www.hs.fi/maailma/art-2000012420133.html",
+          "summary": "Pipo päätyi Fiona-virtahevon aitaukseen vahingossa. Vierasesine voi aiheuttaa tukoksen elimistössä.",
+          "image": "https://images.sanoma-sndp.fi/d7484148f46cf548d7d22cb44c00fc9b/normal/1440.jpg",
+          "publishedAt": "2026-11-18T05:54:00.000Z"
         },
         {
-          "title": "Iceye | Toimitus­johtaja miljardien kaupasta: Emme olisi edenneet ilman keskustelua Italian hallituksen kanssa",
-          "link": "https://www.hs.fi/visio/art-2000012418684.html",
-          "summary": "Suomalainen Iceye tavoittelee jopa sadan oman satelliitin tuotantovauhtia, ja siksi se tarvitsee omaa kapasiteettia laukaisuihin. Kahden miljardin ostotarjous on pitkälti kiinni Italian hallituksesta.",
-          "image": "https://images.sanoma-sndp.fi/594fba61a15fc82e0777be16a59bb32a/normal/1440.jpg",
-          "publishedAt": "2026-11-17T17:59:00.000Z",
-          "titleEn": "Iceye, CEO of Billion Dollar Trade: We wouldn't have made progress without a discussion with the Italian government.",
-          "summaryEn": "Finland's Iceye aims to produce up to 100 own satellites and therefore needs its own launch capacity. The two-billion-dollar offer is largely dependent on the Italian government."
+          "title": "Vakoiluskandaali | Nvidian tulos oli hyvä, mutta yhtiön kriisille ei näy loppua",
+          "link": "https://www.hs.fi/visio/art-2000012418592.html",
+          "summary": "Tiistain tulosjulkistus rauhoitti sijoittajien välittömiä huolia, mutta Jensen Huangin ja Nvidian ympärillä vellovaa kohua se ei päätä.",
+          "image": "https://images.sanoma-sndp.fi/a5e53e0aadfbc7e4ea63a087db8e7be6/normal/1440.jpg",
+          "publishedAt": "2026-11-18T05:25:00.000Z"
         },
         {
-          "title": "Tennis | Otto Virtanen joutui huhkimaan tosissaan ja voitti Talissa",
-          "link": "https://www.hs.fi/urheilu/art-2000012411302.html",
-          "summary": "Otto Virtanen hävisi avauserän, mutta onnistui kääntämään ottelun.",
-          "image": "https://images.sanoma-sndp.fi/f869474330a18d44edb96fef9f7354e4/normal/1440.jpg",
-          "publishedAt": "2026-11-17T17:57:00.000Z",
-          "titleEn": "Tennis Otto Virtanen got a real kick out of it and won the Hall of Fame.",
-          "summaryEn": "Otto Virtanen lost the opening round, but he managed to turn the game around."
+          "title": "Oikeudenkäynti | Loukkasiko koomikko Jussi Halla-ahon kunniaa kutsumalla tätä fasistiksi? Käräjäkäsittely alkaa",
+          "link": "https://www.hs.fi/suomi/art-2000012418624.html",
+          "summary": "Jussi Halla-aho teki rikosilmoituksen fasistikirjoituksista. Oikeudessa haetaan rajaa siihen, mitä poliitikosta saa Suomessa kirjoittaa.",
+          "image": "https://images.sanoma-sndp.fi/15a1ad7c7052d7e3a81c37ca89874060/normal/1440.jpg",
+          "publishedAt": "2026-11-18T04:48:00.000Z"
         },
         {
-          "title": "Iranin sota | USA:n tiedustelu epäilee Iranin suunnittelevan iskua maan pää­kaupunkiin, kertoo CNN",
-          "link": "https://www.hs.fi/maailma/art-2000012417685.html",
-          "summary": "Yhdysvallat on ryhtynyt varotoimiin uusien tiedustelutietojen vuoksi, kertoo uutiskanava CNN. Samaan aikaan Yhdysvallat toi kolmannen lentotukialuksen Lähi-itään.",
-          "image": "https://images.sanoma-sndp.fi/cdd4fe47af5f9f9e6add078a70c25493/normal/1440.jpg",
-          "publishedAt": "2026-11-17T17:21:00.000Z",
-          "titleEn": "Iran's war. U.S. intelligence suspects Iran is planning an attack on the nation's capital, CNN reports.",
-          "summaryEn": "The United States has taken precautions in response to new intelligence, reports CNN. At the same time, the United States brought a third aircraft carrier to the Middle East."
+          "title": "Hollywood | Renny ja Johanna Harlin myyvät nyt Hollywood-unelmaa elokuvan­teosta haaveileville",
+          "link": "https://www.hs.fi/popkulttuuri/art-2000012402409.html",
+          "summary": "Renny ja Johanna Harlinin uusi yritys lupaa auttaa aloittelevia elokuvaohjaajia Hollywoodiin. Mukaan pääsee rahalla.",
+          "image": "https://images.sanoma-sndp.fi/3b69417a7375274988606022ed51d66f/normal/1440.jpg",
+          "publishedAt": "2026-11-18T04:30:00.000Z"
         },
         {
-          "title": "Plagiointi | Tulevaisuus­puolue kopioi puolue­ohjelmansa toiselta puolueelta, syyttää teko­älyä",
-          "link": "https://www.hs.fi/politiikka/art-2000012418511.html",
-          "summary": "Tulevaisuuspuolueen perustaja Ilari Asmala sanoo, että toisen puolueen tekstejä ei ollut tarkoitus varastaa. Liberaalipuolue pitää tapausta ”imartelevana”.",
-          "publishedAt": "2026-11-17T17:14:00.000Z",
-          "titleEn": "Plugging. The Future Party is copying their party program from the other party, accusing it of AI.",
-          "summaryEn": "Ilari Asmala, the founder of the Future Party, says the other party's texts were not intended to be stolen. The Liberal Party considers the case a 'split'."
+          "title": "Demokraattien murskavoitto | Senaatin viimeinen paikka meni Mary Peltolalle",
+          "link": "https://www.hs.fi/maailma/art-2000012420138.html",
+          "summary": "Alaskan senaattorinpaikka herätti jo etukäteen kuohuntaa: ehdolla oli kaksi lähes samannimistä miestä, ja Trumpin hallinto uhkasi kumota tuloksen.",
+          "image": "https://images.sanoma-sndp.fi/208c67bbb0082b8432bdee533d1f294e/normal/1440.jpg",
+          "publishedAt": "2026-11-18T04:23:00.000Z"
         },
         {
-          "title": "Taitoluistelu | Venäläiset eivät pääse Finlandia Trophyyn",
-          "link": "https://www.hs.fi/urheilu/art-2000012419759.html",
-          "summary": "Finlandia Trophyssä ei nähdä venäläisluistelijoita.",
-          "image": "https://images.sanoma-sndp.fi/370883f8ec182f4e5048d91adb3403ea/normal/1440.jpg",
-          "publishedAt": "2026-11-17T17:12:00.000Z",
-          "titleEn": "The Russians won't be able to win the Finlandia Trophy.",
-          "summaryEn": "You won't see any Russian skiers in the Finlandia Trophy."
+          "title": "Katso podcast | Pelkkää väkivaltaa vai terävää satiiria?",
+          "link": "https://www.hs.fi/kuuntele/art-2000012419330.html",
+          "summary": "Katso, miten videopeli GTA:sta kasvoi poikkeuksellinen kulttuuri-ilmiö.",
+          "image": "https://images.sanoma-sndp.fi/96a7c364106ed67cb30e683ab8ae02d8/normal/1440.jpg",
+          "publishedAt": "2026-11-18T04:00:00.000Z"
         },
         {
-          "title": "Työelämä | Tällainen oli verottajan yli miljoonan euron hotelli­reissu, kertoo työntekijä",
-          "link": "https://www.hs.fi/helsinki/art-2000012416979.html",
-          "summary": "Verohallinnon työntekijä yllättyi, että kaksipäiväistä tilaisuutta kutsuttiin koulutukseksi. Verohallinnon tapahtumat maksoivat yhteensä yli miljoona euroa.",
-          "image": "https://images.sanoma-sndp.fi/0db8ad65300da7ba38a2e15a2edafde8/normal/1440.jpg",
-          "publishedAt": "2026-11-17T17:03:00.000Z",
-          "titleEn": "This was a taxpayer's million-plus-euro hotel trip, says the employee.",
-          "summaryEn": "A tax official was surprised to learn that the two-day event was called training. The tax administration's transactions totalled more than EUR 1 million."
+          "title": "Kysely lapsille | Onko sinulla joulukalenteri?",
+          "link": "https://www.hs.fi/lastenuutiset/art-2000012417896.html",
+          "summary": "Aika pian saa avata ensimmäisen luukun joulukalenterista. Onko sinulla jo kalenteri tai aiotko hankkia sellaisen?",
+          "image": "https://images.sanoma-sndp.fi/e0d223835fb2e39364bd31b1c29a40c9/normal/1440.jpg",
+          "publishedAt": "2026-11-18T03:00:00.000Z"
         }
       ]
     },
@@ -199,97 +160,77 @@
         "homepage": "https://www.iltalehti.fi",
         "lang": "fi"
       },
-      "fetchedAt": "2026-11-17T18:48:29.490Z",
+      "fetchedAt": "2026-11-18T06:53:19.785Z",
       "items": [
         {
-          "title": "Poliisi lopetti ilveksenpennun Savonlinnassa – Jarmo raivostui: ”Olin alle kilometrin päässä”",
-          "link": "https://www.iltalehti.fi/kotimaa/a/f1c15983-87f6-426f-bdd6-a5bd7cde0da4?utm_source=rss",
-          "summary": "”Olen tuohtunut vieläkin”, ilvestä Savonlinnassa etsinyt villieläinhoitaja Jarmo Lautamäki sanoo. Mikkeliläisellä villieläinhoitajalla Jarmo Lautamäellä on paljon sanottavaa. Itä-Uudenmaan poliisi tiedotti tiistaina,…",
-          "image": "https://img.ilcdn.fi/t0Ib_CEQjp1eBRSSUYXCeaUHR2k=/1024x640/top/img-s3.ilcdn.fi/c7f7d0ce254c64a7e70696e95ef881263f88ec06ad26bdc2be8823425218b852.jpg",
-          "publishedAt": "2026-11-17T18:37:51.000Z",
-          "titleEn": "The police stopped the puppy in Savon Castle  ⁇  Jarmo was furious:  ⁇  Less than a mile away  ⁇",
-          "summaryEn": "\"I'm still devastated\", says Jarmo Lautamäki, a wildlife keeper who has been looking for a new life in Savon Castle. There's a lot to be said about the Mikkelian wildlife man Jarmo Lautamäe. Eastern Newfoundland Police said on Tuesday..."
+          "title": "Yhdysvaltain huippusalainen turvallisuus­verkko nurin",
+          "link": "https://www.iltalehti.fi/ulkomaat/a/f8d542a0-f57b-4c66-a8fa-9c5b3163d639?utm_source=rss",
+          "summary": "CNN:n lähteiden mukaan Yhdysvaltain erittäin salainen viestintäverkko on poissa käytöstä. Yhdysvaltain kansallisen turvallisuusviraston NSA:n sisäinen, salaisia tietoja välittävä NSANet-verkko on poissa käytöstä, kertoo…",
+          "image": "https://img.ilcdn.fi/b0gmiQ7iwBrJrCghYVUvWFx-FJ0=/1024x640/top/img-s3.ilcdn.fi/b6097f13d634ea82a956eb72000da41e6c269144aaaa76a40e2e1d7cc4c25431.jpg",
+          "publishedAt": "2026-11-18T06:26:23.000Z"
         },
         {
-          "title": "Teemu Keskisarja raivostui FI-Alert-nimestä – Vaatii vankeutta virkamiehille",
-          "link": "https://www.iltalehti.fi/politiikka/a/6ed0c84f-c96f-4811-af32-1b179c802c49?utm_source=rss",
-          "summary": "Kansanedustaja Teemu Keskisarja kuvailee englannin kielen yleistymistä laittomaksi kielenvaihdoksi. Perussuomalaisten ensimmäinen varapuheenjohtaja, kansanedustaja Teemu Keskisarja lyttää kokonaan Suomessa käyttöön…",
-          "image": "https://img.ilcdn.fi/RTygEP6CXunTCkGpHIa2Z0Gcprg=/1024x640/top/img-s3.ilcdn.fi/1100f2d8695ec29653abe39718192b0faefc38871908b35b6c8ab76307be5be9.jpg",
-          "publishedAt": "2026-11-17T18:18:55.000Z",
-          "titleEn": "The theme of the mid-season has been infuriated by the FI-Alert name.",
-          "summaryEn": "Representative Teemu Keskisari describes the spread of the English language as an illegal language exchange. The first deputy chairman of the Finnish parliament, Teemu Keskisarja, is fully available in Finland..."
+          "title": "Kohuyhtiöltä pöytään käsittä­mättömän kovat luvut",
+          "link": "https://www.iltalehti.fi/talous/a/833e083f-cb3b-4be6-8703-6849f3633dc7?utm_source=rss",
+          "summary": "Nvidia tekee vajaassa puolessa vuodessa yhtä paljon liikevoittoa kuin Suomen valtio käyttää rahaa menoihinsa 2027. Maailman arvokkain yhtiö, yhdysvaltalainen siruvalmistaja Nvidia löi pöytään käsittämättömät luvut…",
+          "image": "https://img.ilcdn.fi/CD9u9d6OjvWdxkP3x9UkWpAi-1Q=/1024x640/top/img-s3.ilcdn.fi/f4850dda4a29f7cd6498c5347496459e9177bddccba17c59ebc57c9c437fe532.jpg",
+          "publishedAt": "2026-11-18T06:12:02.000Z"
         },
         {
-          "title": "”Teoille pitäisi laittaa hinta” – Suomalais­kenraalilta suora Venäjä-vaatimus",
-          "link": "https://www.iltalehti.fi/politiikka/a/6a5716ef-375f-4c05-a468-1194e7cc75b4?utm_source=rss",
-          "summary": "Etulinja-podcastissa on vieraana puolustusvoimain entinen komentaja Jarmo Lindberg. Jaksossa kerrotaan, mitä polttavan kiinnostavaa löytyi aikanaan komentajan kassakaapista. Iltalehden Etulinja-podcastissa vieraana on…",
-          "image": "https://img.ilcdn.fi/TVvpyePTSh1vKyCIGN5V7QWqJDE=/1024x640/top/img-s3.ilcdn.fi/9899bf3d8e4fe4f59e4ed15ec013894d4896b2f796e9174b9c164c0089f54cd7.jpg",
-          "publishedAt": "2026-11-17T18:07:28.000Z",
-          "titleEn": "⁇ Price on works  ⁇   ⁇  Direct Russian demand from Finland",
-          "summaryEn": "The front-line podcast features a guest appearance by former Defence Forces Commander Jarmo Lindberg. The paper tells us what a fascinating find was made in the commander's safe. And the guest on the evening's \"Etheline\" podcast is..."
+          "title": "Tv:stä tuttu koomikko kirjoitti Jussi Halla-ahosta niin, että päätyi oikeuteen",
+          "link": "https://www.iltalehti.fi/politiikka/a/6b5b6249-ed5b-42f3-af34-792d9e7b47ea?utm_source=rss",
+          "summary": "Jussi Halla-aho teki rikosilmoituksen häntä fasistiksi kutsuneista. Asiaa käsitellään nyt oikeudessa. Koomikkoa ja vihreiden paikallisaktiivia syytetään Jussi Halla-ahon (ps) kunnianloukkauksesta. Asiaa käsitellään…",
+          "image": "https://img.ilcdn.fi/kiFmqYoIK5Iqx3aXie8rW770bTg=/1024x640/top/img-s3.ilcdn.fi/c22e890299a5e45299c64c2a2cb1475f78def5f81886bc63c5c8c5193b67673f.png",
+          "publishedAt": "2026-11-18T06:01:51.000Z"
         },
         {
-          "title": "Lahtelaisäiti pöyristyi diskon ikähaarukasta – “Minun lapseni ei sinne mene”",
-          "link": "https://www.iltalehti.fi/kotimaa/a/36528422-880c-49f4-9fb9-09281974010b?utm_source=rss",
-          "summary": "Diskoon on kutsuttu 13–29-vuotiaat nuoret. Lahden Setan mukaan tapahtuma ei mitenkään poikkea yleisestä käytännöstä. Lahden nuorisopalvelut ja Lahden Seta järjestävät marraskuun lopulla homodiskon, jonka ikähaarukka on…",
-          "image": "https://img.ilcdn.fi/HUYJ4tyeBS7ALcDGZSQOQ_ZNreE=/1024x640/top/img-s3.ilcdn.fi/0a35384a4ad84e71bb80b79856fd01e0913e8da486c51e90870cbf7fa0ed1a9f.jpg",
-          "publishedAt": "2026-11-17T18:06:19.000Z",
-          "titleEn": "My grandmother's got a little old-fashioned popcorn. My kids won't go.",
-          "summaryEn": "The disco is open to 13-29 year olds. According to Shetty, the incident is no exception to the general practice. The Gulf Youth Services and the Gulf Set will be hosting a gay disc at the end of November, with the age of..."
+          "title": "Putin pääsee \"isojen poikien pöytään\" – Yksi tylysti ulos",
+          "link": "https://www.iltalehti.fi/ulkomaat/a/f0207010-205a-4a7b-a0c6-bb1634534820?utm_source=rss",
+          "summary": "Shenzhenissä Vladimir Putin pääsee maailman johtajien kärkikolmikkoon. Kiinan Shenzhenissä järjestetään tällä viikolla Apec-kokous eli Aasian ja Tyynenmeren taloudellinen yhteistyöfoorumi. Huomenna torstaina kokouksessa…",
+          "image": "https://img.ilcdn.fi/tu4htLODvXEkjkMxzjsZncdtkbc=/1024x640/top/img-s3.ilcdn.fi/bad87602384971cd41cd94999c90814b669e6d01ee5d7326bc1085305748ad97.jpg",
+          "publishedAt": "2026-11-18T05:33:25.000Z"
         },
         {
-          "title": "USA:lta Suomea koskeva varoitus",
-          "link": "https://www.iltalehti.fi/ulkomaat/a/29278d32-7a1e-49f7-84c3-2208b93c4faf?utm_source=rss",
-          "summary": "Varoituksessa muistutetaan muun muassa suuriin kokoontumisiin ja julkisiin tapahtumiin liittyvästä vaarasta. Yhdysvallat on välittänyt eri maidensa suurlähetystöjen kautta koko Eurooppaa koskevan turvallisuusvaroituksen.…",
-          "image": "https://img.ilcdn.fi/K0hwItNDq9vdyIcfRPftNEfgWOg=/1024x640/top/img-s3.ilcdn.fi/2cd20016ed7ec24d56ede92d68593fc8d58b6a3759edfb136e3f946234724418.jpg",
-          "publishedAt": "2026-11-17T17:53:21.000Z",
-          "titleEn": "Warning from the USA on Finland",
-          "summaryEn": "Among other things, the warning reminds of the dangers associated with large gatherings and public events. The United States has issued a security alert to the whole of Europe through its various embassies...."
+          "title": "Monella työnantajalla ei riitä rahat suosittuun etuun – Kartta näyttää lohduttoman tilanteen",
+          "link": "https://www.iltalehti.fi/kotimaa/a/96f90ce1-374f-49db-9791-8dbb160bbd2d?utm_source=rss",
+          "summary": "Valtaosa hyvinvointialueista ei taloustilanteen vuoksi pysty tarjoamaan työntekijöilleen joulupuuroa tai -ruokailua. Joulu on taas, joulu on taas, kattilat täynnä puuroo. Paitsi että suurimmassa osassa Suomea…",
+          "image": "https://img.ilcdn.fi/YtFwD6WmR5keG1jYAxhiiyrE_aI=/1024x640/top/img-s3.ilcdn.fi/97f8deecc42c906168ca68090ed48a9e12194287d4a856b9c4b81a4d08a1c12e.jpg",
+          "publishedAt": "2026-11-18T05:02:12.000Z"
         },
         {
-          "title": "Kaksi miestä puukotti toisiaan, toinen kuoli – Nyt mies, 21, vangittiin",
-          "link": "https://www.iltalehti.fi/kotimaa/a/175c3e2f-af65-4636-977a-7d53c54fdc22?utm_source=rss",
-          "summary": "Kahden miehen tappelu johti toisen kuolemaan. Helsingin käräjäoikeus on vanginnut 21-vuotiaan miehen epäiltynä Helsingin Puotinharjussa viikonloppuna tapahtuneesta puukotuksesta. Mies riitautui toisen miehen kanssa…",
-          "image": "https://img.ilcdn.fi/u9IbBPWiNsWnyzO4Ecb4K4d6KGA=/1024x640/top/img-s3.ilcdn.fi/21c21adb2a78a43c34b973457f8f2e9ee6f02f13f6c7da38b1efcef3c00d03a9.jpg",
-          "publishedAt": "2026-11-17T17:39:30.000Z",
-          "titleEn": "Two men stabbed each other, one died  ⁇  Now the man, 21, was arrested",
-          "summaryEn": "The two men's fight led to the death of one. A 21-year-old man has been arrested by the Helsinki District Court on suspicion of stabbing a man at the Helsinki Pootharj over the weekend. A man got into a fight with another man..."
+          "title": "Nyt se on varmaa: Peltola voitti",
+          "link": "https://www.iltalehti.fi/ulkomaat/a/b80239a9-7d45-48db-9cfb-d0af2d0340ae?utm_source=rss",
+          "summary": "Demokraattien Mary Peltolasta on tulossa Alaskan seuraava senaattori. Yhdysvaltain välivaalien viimeinen senaattorikisa on nyt ratkennut, ja demokraattihaastaja Mary Peltola on nousemassa Alaskan seuraavaksi…",
+          "image": "https://img.ilcdn.fi/mav_as0rGGMOlPDyWQQdp-nHPb8=/1024x640/top/img-s3.ilcdn.fi/073ffcd44a1881e807b92f3f47718048c5cd2b794b0a77a3d5e4846d15a1489d.jpg",
+          "publishedAt": "2026-11-18T04:38:14.000Z"
         },
         {
-          "title": "Talvi saapuu etelään",
-          "link": "https://www.iltalehti.fi/saauutiset/a/eab40337-ba18-45eb-b1db-3043a425e83b?utm_source=rss",
-          "summary": "Viikonloppuna on luvassa talvinen käänne. Säähän on tulossa viikonloppuna radikaali muutos, povaa Foreca tuoreessa sääblogissaan. Viimeisten päivien harmaus ja vesisateet Etelä- ja Keski-Suomessa ovat muuttumassa…",
-          "image": "https://img.ilcdn.fi/ZRY0P9j75aEvQXn3ShvVf2CuweU=/1024x640/top/img-s3.ilcdn.fi/ce61e49456d0fc5da4791014935ce84e85f35154069408f42943f4d817a14251.jpg",
-          "publishedAt": "2026-11-17T17:28:41.000Z",
-          "titleEn": "Winter is coming to the south.",
-          "summaryEn": "It's a winter break for the weekend. The weather is about to change dramatically this weekend, Forec urged in his recent weather blog. The grayness of the last few days and the rainfall in southern and central Finland are changing..."
+          "title": "SDP kommentoi veroveiviä, jollaista Sanna Marin käytti: Epäreilua",
+          "link": "https://www.iltalehti.fi/politiikka/a/9a60c6ee-e9ee-49a5-9040-ea079de32ceb?utm_source=rss",
+          "summary": "Sosialidemokraatit vastasivat Finnwatchille, että listaamattomien osakeyhtiöiden osinkoverotusta tulisi nostaa lähemmäs pörssiosinkoja. SDP:n mukaan listaamattomien osakeyhtiöiden osinkoihin kohdistuva verohuojennus…",
+          "image": "https://img.ilcdn.fi/hIbKqECOVSwCHOqNUS_xId2nsUY=/1024x640/top/img-s3.ilcdn.fi/a5b9f7c8838b3813cd69b54cbf5cc6338a626c5ffe460c6f1a1645d7129a7b50.jpg",
+          "publishedAt": "2026-11-18T04:00:14.000Z"
         },
         {
-          "title": "Lentokone putosi Venäjällä – Karu tieto matkustajista",
-          "link": "https://www.iltalehti.fi/ulkomaat/a/4447f19e-a4b6-4941-b23f-86ade1231d46?utm_source=rss",
-          "summary": "Iltalehti seuraa Ukrainan sotaa ja sen seurauksia hetki hetkeltä. Aiemmat liveseurannat löydät täältä, täältä, täältä, täältä, täältä, täältä, täältä ja täältä.",
-          "image": "https://img.ilcdn.fi/OG3OIM7u2tBAU-57FRMfJPDsBzE=/1024x640/top/img-s3.ilcdn.fi/a8768d459923c93ac7c12dc8f01d4b1a5aa523cad628c1a7af86490dd3f97da7.jpg",
-          "publishedAt": "2026-11-17T09:53:12.000Z",
-          "titleEn": "A plane crashed in Russia  ⁇  Close information on passengers",
-          "summaryEn": "The evening paper tracks the war in Ukraine and its aftermath from moment to moment. You'll find the previous livestreams here, here, here and here."
+          "title": "Sää on nyt tavanomaista lämpimämpi – Sakeaa lunta tiedossa",
+          "link": "https://www.iltalehti.fi/saauutiset/a/d9488448-3cfb-446d-9636-ad9ebcf677d9?utm_source=rss",
+          "summary": "Talvi on tulossa etelään. Marraskuun sää on harmaudestaan huolimatta monin paikoin tavanomaista lämpimämpi, käy ilmi Ilmatieteen laitoksen julkaisemasta kuvasta. – Seuraava viiden vuorokauden jakso on tämänhetkisen…",
+          "image": "https://img.ilcdn.fi/ikOqqVaWuC1vkQ2IbUI0Xemmzow=/1024x640/top/img-s3.ilcdn.fi/82fde840dedc88bec194a5fa4840c3d86e144ee1d1ee41f5158a24c222fb7fca.jpg",
+          "publishedAt": "2026-11-18T03:31:48.000Z"
         },
         {
-          "title": "PS:n Ari Koponen on jatkanut asfaltti­ralliaan – Laskuttanut eduskunnalta jo 63 000 euroa",
-          "link": "https://www.iltalehti.fi/politiikka/a/b3917046-4f17-40ec-b0eb-a8bf368e7caa?utm_source=rss",
-          "summary": "Perussuomalaisten kansanedustaja Ari Koponen on eduskunnan ylivoimainen kilometrikuningas. Koponen on ajanut kolme kertaa maapallon ympäri tämän vaalikauden aikana. Eduskunta on maksanut kansanedustajille verovapaita…",
-          "image": "https://img.ilcdn.fi/oehUia4qUzm5OT-9-I96kTUuKJg=/1024x640/top/img-s3.ilcdn.fi/e5469df952b870ab8b4825505c4fc8ea54212943e801990cba47e264165a9c3f.jpg",
-          "publishedAt": "2026-11-17T17:00:37.000Z",
-          "titleEn": "Mr Ari Koponen of the Socialist Party has continued his asphalt rails  ⁇  He has already charged the House EUR 63 000",
-          "summaryEn": "Ari Koponen, a member of the Finnish parliament, is the most powerful kilometre king in parliament. Koponen has made three trips around the world during this election. The parliament has paid the MPs tax-exempt..."
+          "title": "Putinin salatuksi tyttäreksi väitetty Elisaveta vaihtoi nimensä – Uusi sukunimi herättää huomiota",
+          "link": "https://www.iltalehti.fi/ulkomaat/a/3e080d01-40dc-43e5-aeb3-07af5f564452?utm_source=rss",
+          "summary": "Venäjän presidentin tyttäreksi epäilty nainen valitsi nimen, jolla on yhteys Putiniin. Venäjän presidentin Vladimir Putinin ja kiinteistösijoittaja Svetlana Krivonogihin tyttäreksi väitetty nainen on vaihtanut nimeään,…",
+          "image": "https://img.ilcdn.fi/K2ISGqIMVrDgGXh_mziaIbLYnj4=/1024x640/top/img-s3.ilcdn.fi/56962c594ef33983a086f753d832c44b538843f15fb5c9b21f53adebe5c70d1e.jpg",
+          "publishedAt": "2026-11-18T01:54:39.000Z"
         },
         {
-          "title": "Tällainen oli Joe Bidenin Venäjä-kortti – Sauli Niinistö paljasti, mitä oikein tapahtui",
-          "link": "https://www.iltalehti.fi/politiikka/a/6db0f0f5-55e7-454e-9e88-fbc7f1da5f94?utm_source=rss",
-          "summary": "Presidentti Sauli Niinistö kertoi jo vuonna 2023, miten hän ja Joe Biden yrittivät vaikuttaa Vladimir Putiniin. ”Länsihän toivoi ja minusta hyvin panosti siihen korttiin, että Suomen tai Ruotsin ja erityisesti Suomen…",
-          "image": "https://img.ilcdn.fi/6t3kA1xR0MZVQCcbKuHbrEO2P2A=/1024x640/top/img-s3.ilcdn.fi/64840f5c61cc4f4e87429661ddcaa29e2ffdc2d6b4b5b9c6518069096196b054.jpg",
-          "publishedAt": "2026-11-17T16:40:34.000Z",
-          "titleEn": "This is what Joe Biden's Russia card was like.",
-          "summaryEn": "As early as 2023, President Sauli Niinistö told us how he and Joe Biden tried to influence Vladimir Putin. The West hoped and I thought it was a good bet that Finland or Sweden, and particularly Finland..."
+          "title": "Trump: “En ota mitään vastuuta”",
+          "link": "https://www.iltalehti.fi/ulkomaat/a/2f29d3f3-2da3-45fd-95fd-32ae470ba10d?utm_source=rss",
+          "summary": "Yhdysvaltain hallinnolta vaaditaan selitystä maata koetelleesta häiriöiden aallosta. Yhdysvaltoja viime päivinä koetellut teknisten häiriöiden aalto on saanut maan kongressin ja median jaloilleen. Yhdysvaltain…",
+          "image": "https://img.ilcdn.fi/oq-tM20hY395_wZkK5d3i8YjY5s=/1024x640/top/img-s3.ilcdn.fi/e208162150e263fe3d11f5d65149576d2803e67b23aae226a71ce91f74ec84c9.jpg",
+          "publishedAt": "2026-11-18T00:56:08.000Z"
         }
       ]
     }

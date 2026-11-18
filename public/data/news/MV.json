@@ -3,13 +3,95 @@
   "outlets": [
     {
       "outlet": {
+        "id": "psm-news",
+        "name": "PSM News",
+        "homepage": "https://psmnews.mv",
+        "lang": "dv"
+      },
+      "fetchedAt": "2026-11-18T06:53:44.478Z",
+      "items": [
+        {
+          "title": "ބަންކަރިންނުން ލިބޭ އާމްދަނީ އިތުރުވޭ، މިކަން ފުޅާކުރަންޖެހޭ: އެސްޓީއޯ އެމްޑީ",
+          "link": "https://psmnews.mv/192638",
+          "publishedAt": "2026-11-18T06:40:48.000Z"
+        },
+        {
+          "title": "މެމްބަރުން ފާހަގަކުރެއްވީ އިސްރާއީލް ޕާސްޕޯޓުގައި ރާއްޖެ ނާދެވޭ ގޮތް ހެދުމުގެ މުހިންމުކަން",
+          "link": "https://psmnews.mv/192635",
+          "publishedAt": "2026-11-18T06:00:54.000Z"
+        },
+        {
+          "title": "މެދުއިރުމަތީ ހަނގުރާމަ ހުއްޓުވުމުގެ މަޝްވަރާތަކުގައި މަރުތަޅުއެޅިފައި",
+          "link": "https://psmnews.mv/192634",
+          "publishedAt": "2026-11-18T05:57:33.000Z"
+        },
+        {
+          "title": "ދައުލަތަށް ހިދުމަތް ކުރުމުގެ އިނާމު 56 ބޭފުޅަކަށް ދެއްވަނީ",
+          "link": "https://psmnews.mv/192632",
+          "publishedAt": "2026-11-18T05:29:19.000Z"
+        },
+        {
+          "title": "ހުރްމުޒްގައި ގޭސް އުފުލާ ބޯޓަކަށް ހަމަލާއެއް، 24 ފަޅުވެރިން ސަލާމަތްކުރަން ޖެހުނު",
+          "link": "https://psmnews.mv/192630",
+          "publishedAt": "2026-11-18T05:00:47.000Z"
+        },
+        {
+          "title": "42 ރަށެއްގައި ކުނި މެނޭޖްކުރާ މަރުކަޒުތައް ގާއިމުކުރުމަށް ހަވާލުކޮށްފި",
+          "link": "https://psmnews.mv/192628",
+          "publishedAt": "2026-11-18T04:26:25.000Z"
+        },
+        {
+          "title": "ސާފް ޗެމްޕިއަންޝިޕް: ފެއާ ޕްލޭ ޓީމަކަށް ދިވެހިރާއްޖެ",
+          "link": "https://psmnews.mv/192627",
+          "publishedAt": "2026-11-18T03:48:45.000Z"
+        },
+        {
+          "title": "ހާރިޖިއްޔާ ދިވެހިންނާ ގާތަށް: އާންމުންނަށް ހުޅުވާލައިގެން އޯޕަން ޑޭއެއް",
+          "link": "https://psmnews.mv/192626",
+          "publishedAt": "2026-11-18T04:58:35.000Z"
+        },
+        {
+          "title": "ޒުވާން ކުރިކެޓް ޓީމަށް މަނާޑާގެ ސެޝަނެއް",
+          "link": "https://psmnews.mv/192625",
+          "publishedAt": "2026-11-18T04:18:34.000Z"
+        },
+        {
+          "title": "ގާނޫނީ ޑިގްރީގެ އިމްތިހާނަށް ވަކި ރަށަކަށް ހާޒިރުވުން ލާޒިމެއް ނޫން",
+          "link": "https://psmnews.mv/192624",
+          "publishedAt": "2026-11-18T03:50:11.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
         "id": "atoll-times",
         "name": "Atoll Times",
         "homepage": "https://atolltimes.mv",
         "lang": "en-MV"
       },
-      "fetchedAt": "2026-11-17T18:48:59.158Z",
+      "fetchedAt": "2026-11-18T06:53:44.529Z",
       "items": [
+        {
+          "title": "President targets completion of 70% of projects in 2027",
+          "link": "https://atolltimes.mv/post/news/17732",
+          "summary": "According to the President, the government had adjusted its fiscal management to minimise the impact of these developments on the public.",
+          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/18/68c1fb50-5d21-43a1-b04f-33ff98d938cd.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
+          "publishedAt": "2026-11-18T02:17:13.000Z"
+        },
+        {
+          "title": "Pres says will continue unpopular decisions in national interest",
+          "link": "https://atolltimes.mv/post/news/17731",
+          "summary": "The President identified the ban on the import and use of vaping products as one such decision.",
+          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/18/2d3a9bb9-aa17-4f7c-932d-dfec4491f169.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
+          "publishedAt": "2026-11-18T02:15:59.000Z"
+        },
+        {
+          "title": "Pres says no investment will be allowed to undermine sovereignty",
+          "link": "https://atolltimes.mv/post/news/17730",
+          "summary": "According to Muizzu, investors unwilling to accept those conditions would not be required to invest in the Maldives.",
+          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/18/82507f93-3e59-4a18-aad0-0213e6b6f11d.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
+          "publishedAt": "2026-11-18T02:14:42.000Z"
+        },
         {
           "title": "President launches book documenting govt's first 3 years",
           "link": "https://atolltimes.mv/post/news/17729",
@@ -58,27 +140,6 @@
           "summary": "He said the project remained in the documentation and planning stage and did not provide further details about the proposed facility.",
           "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/17/f14faddd-a917-4e1d-a15a-d4647ce37b2d.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
           "publishedAt": "2026-11-17T08:58:17.000Z"
-        },
-        {
-          "title": "Prison population rises 54% in 3 years, straining prison staff",
-          "link": "https://atolltimes.mv/post/news/17722",
-          "summary": "The current staffing ratio is approximately 4.6 inmates per officer, compared with the prescribed ratio of 1.75 inmates per officer.",
-          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/17/3ef749de-a5ed-489f-b401-d1f413d4d4b3.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
-          "publishedAt": "2026-11-17T08:43:59.000Z"
-        },
-        {
-          "title": "Construction of Malé surfing stadium advancing, says president",
-          "link": "https://atolltimes.mv/post/news/17721",
-          "summary": "President Muizzu described the stadium as an important addition to the country's sports infrastructure.",
-          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/17/be3b7dd9-9569-400b-9812-2d16b7273a94.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
-          "publishedAt": "2026-11-17T08:41:39.000Z"
-        },
-        {
-          "title": "Pension Office sacks COO Shiuna over code of conduct violation",
-          "link": "https://atolltimes.mv/post/news/17720",
-          "summary": "An official from the Pension Office confirmed that the decision followed an investigation into allegations of misconduct.",
-          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/17/8a2c7572-eca9-4ed4-82b4-d74bc47d8e02.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
-          "publishedAt": "2026-11-17T08:03:27.000Z"
         }
       ]
     }

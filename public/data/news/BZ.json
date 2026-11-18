@@ -3,72 +3,143 @@
   "outlets": [
     {
       "outlet": {
+        "id": "amandala",
+        "name": "Amandala",
+        "homepage": "https://amandala.com.bz",
+        "lang": "en-BZ"
+      },
+      "fetchedAt": "2026-11-18T06:53:04.209Z",
+      "items": [
+        {
+          "title": "Belize & Mexico strengthen cooperation in electricity sector",
+          "link": "https://amandala.com.bz/news/belize-mexico-strengthen-cooperation-in-electricity-sector/",
+          "summary": "BELMOPAN, Thurs. Nov. 12, 2026 Belize and Mexico are strengthening cooperation in the electricity sector, as Belize continues to grapple with power supply shortages and rising electricity costs. A high-level meeting held…",
+          "publishedAt": "2026-11-15T12:18:00.000Z"
+        },
+        {
+          "title": "Thomas Vincent Ramos website launched",
+          "link": "https://amandala.com.bz/news/thomas-vincent-ramos-website-launched/",
+          "summary": "Authoritative information on the founder of Garifuna, Settlement Day finally has an online home. DANGRIGA, Stann Creek District, Fri. Nov. 13, 2026 A new website dedicated to the life and legacy of Thomas Vincent Ramos,…",
+          "publishedAt": "2026-11-15T12:17:00.000Z"
+        },
+        {
+          "title": "UB launches scholarship in honor of Belizean patriot, Gwendolyn Lizarraga",
+          "link": "https://amandala.com.bz/news/ub-launches-scholarship-in-honor-of-belizean-patriot-gwendolyn-lizarraga/",
+          "summary": "BELMOPAN, Thurs. Nov. 12, 2026 The University of Belize has launched a new scholarship programme in honour of Belizean patriot Gwendolyn Lizarraga, providing full tuition coverage for five students pursuing a Bachelor’s…",
+          "publishedAt": "2026-11-15T12:16:00.000Z"
+        },
+        {
+          "title": "CWU & Ports of Belize finalize stevedores’ CBA",
+          "link": "https://amandala.com.bz/news/cwu-ports-of-belize-finalize-stevedores-cba/",
+          "summary": "By William Ysaguirre (Freelance Writer) BELIZE CITY, Thurs. Nov. 12, 2026 Belizean stevedores handling the loading and unloading of cargo at the Port of Belize now have secure payment of wages and other benefits under a…",
+          "publishedAt": "2026-11-15T12:15:00.000Z"
+        },
+        {
+          "title": "GoB plans for $30 million relief programme",
+          "link": "https://amandala.com.bz/news/gob-plans-for-30-million-relief-programme/",
+          "summary": "BELMOPAN, Thurs. Nov. 12, 2026 The Government of Belize (GoB) is seeking to make an additional $30 million available for cost-of-living relief, with a range of measures being considered to help households cope with…",
+          "publishedAt": "2026-11-15T12:14:00.000Z"
+        },
+        {
+          "title": "NGC hosts Solidarity Mass and Miss Garifuna Belize 2026 pageant",
+          "link": "https://amandala.com.bz/news/ngc-hosts-solidarity-mass-and-miss-garifuna-belize-2026-pageant/",
+          "summary": "BELMOPAN, Thurs. Nov. 12, 2026 The National Garifuna Council (NGC) of Belize successfully hosted two of its major national activities on Saturday, November 7, with its Annual Solidarity Mass and the Miss Garifuna Belize…",
+          "publishedAt": "2026-11-15T12:13:00.000Z"
+        },
+        {
+          "title": "Belize City worker electrocuted",
+          "link": "https://amandala.com.bz/news/belize-city-worker-electrocuted/",
+          "summary": "By William Ysaguirre (Freelance Writer) BELIZE CITY, Thurs. Nov. 12, 2026 A Belize City construction worker lost his life while demolishing a house on a side street adjacent to Amandala Drive and Vernon Street on…",
+          "publishedAt": "2026-11-15T12:12:00.000Z"
+        },
+        {
+          "title": "HOUSE MEETING",
+          "link": "https://amandala.com.bz/news/house-meeting/",
+          "summary": "Government passes Cost of Living measures By William Ysaguirre (Freelance Writer) BELIZE CITY, Thurs. Nov. 12, 2026 The Government of Belize will forgo the General Sales Tax on consumers’ electricity bills less than…",
+          "publishedAt": "2026-11-15T12:11:00.000Z"
+        },
+        {
+          "title": "Treasury decorations memo raises NGC’s ire",
+          "link": "https://amandala.com.bz/news/treasury-decorations-memo-raises-ngcs-ire/",
+          "summary": "By William Ysaguirre (Freelance Writer) BELIZE CITY, Thurs. Nov. 12, 2026 An internal memorandum issued by the Treasury Department on October 26, which states that the Department would only officially approve decorations…",
+          "publishedAt": "2026-11-15T12:10:00.000Z"
+        },
+        {
+          "title": "PM Briceño persists with San Pedro International Airport proposal",
+          "link": "https://amandala.com.bz/news/pm-briceno-persists-with-san-pedro-international-airport-proposal/",
+          "summary": "By William Ysaguirre (Freelance Writer) BELIZE CITY, Thurs. Nov. 12, 2026 The Belize Tourism Industry Association (BTIA), the San Pedro Town Council and the local airlines have all come out against the Government of…",
+          "publishedAt": "2026-11-15T12:09:00.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
         "id": "breaking-belize-news",
         "name": "Breaking Belize News",
         "homepage": "https://www.breakingbelizenews.com",
         "lang": "en-BZ"
       },
-      "fetchedAt": "2026-11-17T18:48:15.193Z",
+      "fetchedAt": "2026-11-18T06:53:07.283Z",
       "items": [
         {
-          "title": "‘Grampa’ says he checked cameras for a missing phone and saw his grandson take $175 from his room",
-          "link": "https://www.breakingbelizenews.com/2026/11/17/grampa-says-he-checked-cameras-for-a-missing-phone-and-saw-his-grandson-take-175-from-his-room/",
-          "summary": "By Breaking Belize News Staff: A 75-year-old man near Crooked Tree Junction says he did not know $175 had been taken from his bedroom until he watched security footage months later while looking into a separate matter…",
-          "publishedAt": "2026-11-17T17:51:55.000Z"
+          "title": "Belize City bartender denied bail after waitress alleges he choked her and threatened to kill her at bar where they work",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/belize-city-bartender-denied-bail-after-waitress-alleges-he-choked-her-and-threatened-to-kill-her-at-bar-where-they-work/",
+          "summary": "By Breaking Belize News Staff: A 44-year-old Belize City bartender was denied bail Monday after a 22-year-old waitress told police he punched her in the face and choked her, then threatened to kill her the following day.…",
+          "publishedAt": "2026-11-17T23:40:21.000Z"
         },
         {
-          "title": "Burrell Boom man says he was hit with metal bat after stepping in to help nephew",
-          "link": "https://www.breakingbelizenews.com/2026/11/17/burrell-boom-man-says-he-was-hit-with-metal-bat-after-stepping-in-to-help-nephew/",
-          "summary": "By Breaking Belize News Staff: A Burrell Boom man told police he saw his nephew get hit twice with what appeared to be a metal bat and stepped in to tell him to leave. He said the man holding the bat then turned on him,…",
-          "publishedAt": "2026-11-17T17:35:47.000Z"
+          "title": "Murder charge against Robert Lamb dropped in 2023 killing of Gabriel Tillett; Kevin Lanza, Samuel Trapp still face trial",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/murder-charge-against-robert-lamb-dropped-in-2023-killing-of-gabriel-tillett-kevin-lanza-samuel-trapp-still-face-trial/",
+          "summary": "By Breaking Belize News Staff: Robert Emmanuel Lamb, 26, is no longer facing trial for the murder of 18-year-old Gabriel Tillett, but he was escorted back to the Belize Central Prison on Tuesday because he remains on…",
+          "publishedAt": "2026-11-17T23:12:49.000Z"
         },
         {
-          "title": "Belize’s businessmen told to slow down before their hearts do it for them",
-          "link": "https://www.breakingbelizenews.com/2026/11/17/belizes-businessmen-told-to-slow-down-before-their-hearts-do-it-for-them/",
-          "summary": "By Breaking Belize News Staff (HP): They run companies. They carry families. And too often, they ignore their own health. That was the message at the second edition of The Gentleman’s Exchange, hosted by the Belize…",
-          "publishedAt": "2026-11-17T17:20:54.000Z"
+          "title": "Caye Caulker Village and village councils across Belize to issue Trade Licenses under new act",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/caye-caulker-village-and-village-councils-across-belize-to-issue-trade-licenses-under-new-act/",
+          "summary": "By Zoila Palma: Today, the Ministry of Rural Transformation, Community Development and Local Government issued a statement to clarify misinformation being spread by the Guardian newspaper. The Ministry says that there…",
+          "publishedAt": "2026-11-17T22:50:06.000Z"
         },
         {
-          "title": "A phone call, an argument, a shove: Orange Walk man charged with assault",
-          "link": "https://www.breakingbelizenews.com/2026/11/17/a-phone-call-an-argument-a-shove-orange-walk-man-charged-with-assault/",
-          "summary": "By Breaking Belize News Staff (HP): It started with a phone call. It ended with a criminal charge. Giovanni Reyes, 34, a self employed resident of San Lorenzo Housing Site in Orange Walk Town, has been charged with…",
-          "publishedAt": "2026-11-17T17:18:04.000Z"
+          "title": "Ministry of Agriculture equips farmers in Corozal with Sustainable coconut tree management skills",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/ministry-of-agriculture-equips-farmers-in-corozal-with-sustainable-coconut-tree-management-skills/",
+          "summary": "By Zoila Palma: The Ministry of Agriculture is equipping farmers in Corozal with Sustainable coconut tree management skills. The Ministry noted that 16 coconut producers participated in an intensive one-day Coconut Tree…",
+          "publishedAt": "2026-11-17T22:20:55.000Z"
         },
         {
-          "title": "International News: Former Nvidia CEO Jensen Huang says he would return if board asks",
-          "link": "https://www.breakingbelizenews.com/2026/11/17/international-news-former-nvidia-ceo-jensen-huang-says-he-would-return-if-board-asks/",
-          "summary": "By Zoila Palma: Former Nvidia CEO Jensen Huang says he would be willing to return to lead the company he co-founded, following his resignation last week amid revelations of multiple alleged affairs, including one…",
-          "publishedAt": "2026-11-17T17:01:06.000Z"
+          "title": "Antonio Copo faces six charges after crash kills motorcyclist Dariel Perez in Guinea Grass",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/antonio-copo-faces-six-charges-after-crash-kills-motorcyclist-dariel-perez-in-guinea-grass/",
+          "summary": "By Breaking Belize News Staff: Dariel Perez, 24, was on his way home from work Friday evening when his motorcycle collided with a vehicle in Guinea Grass Village, Orange Walk District. Perez was killed and his passenger,…",
+          "publishedAt": "2026-11-17T22:19:18.000Z"
         },
         {
-          "title": "The man who gave Belize the 19th: Dangriga honours T. V. Ramos",
-          "link": "https://www.breakingbelizenews.com/2026/11/17/the-man-who-gave-belize-the-19th-dangriga-honours-t-v-ramos/",
-          "summary": "By Breaking Belize News Staff (HP): Before the drums, the dancing and the re enactments on Thursday, Dangriga paused to remember the man who made it all possible. On Friday, November 13, the community gathered for the…",
-          "publishedAt": "2026-11-17T16:57:36.000Z"
+          "title": "Colorful lights and Christmas ornaments to brighten Belize City for Holiday Season",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/colorful-lights-and-christmas-ornaments-to-brighten-belize-city-for-holiday-season/",
+          "summary": "By Zoila Palma: The Belize City Council, in partnership with Coca-Cola, will host its 9th Annual Christmas Tree Lighting Ceremony on Friday, November 27, 2026, at Battlefield Park and Mule Park in downtown Belize City.…",
+          "publishedAt": "2026-11-17T22:14:21.000Z"
         },
         {
-          "title": "International News: COP31 draft declaration calls for greater electrification as 1.5°C climate goal slips out of reach",
-          "link": "https://www.breakingbelizenews.com/2026/11/17/international-news-cop31-draft-declaration-calls-for-greater-electrification-as-1-5c-climate-goal-slips-out-of-reach/",
-          "summary": "By Zoila Palma: A draft declaration emerging from the United Nations Climate Change Conference (COP31) on Monday is calling for increased global electrification to help combat climate change while acknowledging that the…",
-          "publishedAt": "2026-11-17T16:49:02.000Z"
+          "title": "International News: More than 140,000 take part in nationwide cost-of-living protests across France",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/international-news-more-than-140000-take-part-in-nationwide-cost-of-living-protests-across-france/",
+          "summary": "By Zoila Palma: Today, more than 140,000 people took to the streets across France as public sector workers, students and private sector employees joined nationwide demonstrations demanding higher wages and improved…",
+          "publishedAt": "2026-11-17T22:05:56.000Z"
         },
         {
-          "title": "10 charged after specialized police units carry out weeklong drug crackdown",
-          "link": "https://www.breakingbelizenews.com/2026/11/17/10-charged-after-specialized-police-units-carry-out-drug-crackdown/",
-          "summary": "By Breaking Belize News Staff: Ten people were arrested and charged in seven drug cases following police operations in San Ignacio, Orange Walk, Belmopan and San Pedro Town between November 9 and 15. Police reported…",
-          "publishedAt": "2026-11-17T16:45:03.000Z"
+          "title": "International News: Series of US outages raises cybersecurity concerns as FBI warns of AI-powered hacking tool",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/international-news-series-of-us-outages-raises-cybersecurity-concerns-as-fbi-warns-of-ai-powered-hacking-tool/",
+          "summary": "By Zoila Palma: A series of major technical disruptions affecting U.S. transportation, banking and online services over the past several days has raised concerns about the vulnerability of critical infrastructure,…",
+          "publishedAt": "2026-11-17T21:16:29.000Z"
         },
         {
-          "title": "International News: Mexico seeks to strengthen cooperation with China in technology, agriculture and tourism",
-          "link": "https://www.breakingbelizenews.com/2026/11/17/international-news-mexico-seeks-to-strengthen-cooperation-with-china-in-technology-agriculture-and-tourism/",
-          "summary": "By Zoila Palma: Mexican President Claudia Sheinbaum has expressed her country’s interest in strengthening cooperation with China in several key sectors, including technology, agriculture, water resources, healthcare and…",
-          "publishedAt": "2026-11-17T16:38:31.000Z"
+          "title": "Celebrate culture at the Garifuna Experience Gala in Dangriga",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/celebrate-culture-at-the-garifuna-experience-gala-in-dangriga/",
+          "summary": "By Zoila Palma: The National Garifuna Council (NGC) is inviting the public to celebrate Garifuna culture and heritage at its Garifuna Experience Gala on Wednesday, November 18, at the Russell Chiste Auditorium in…",
+          "publishedAt": "2026-11-17T21:09:11.000Z"
         },
         {
-          "title": "Belmopan now has an El Salvador Day",
-          "link": "https://www.breakingbelizenews.com/2026/11/17/belmopan-now-celebrates-el-salvador-day/",
-          "summary": "By Breaking Belize News Staff (HP): Mark it on the calendar. November 26 is now officially El Salvador Day in the City of Belmopan. The Belmopan City Council announced the move on Monday after signing a sister city…",
-          "publishedAt": "2026-11-17T16:32:44.000Z"
+          "title": "Mind your swimsuit, Belize: The Old Laws that can still land you in court",
+          "link": "https://www.breakingbelizenews.com/2026/11/17/mind-your-swimsuit-belize-the-old-laws-that-can-still-land-you-in-court/",
+          "summary": "The views expressed in this article are those of the writer and not necessarily those of Breaking Belize News. By Lennox Lamb: Most mornings I get up about four, check the Belize news and plan my day. This morning I had…",
+          "publishedAt": "2026-11-17T20:51:14.000Z"
         }
       ]
     },
@@ -79,67 +150,67 @@
         "homepage": "https://www.7newsbelize.com",
         "lang": "en-BZ"
       },
-      "fetchedAt": "2026-11-17T18:48:13.583Z",
+      "fetchedAt": "2026-11-18T06:53:04.290Z",
       "items": [
         {
-          "title": "Former UDP Standard Bearer Charged For Stripping Slain Jaguar Of Its Teeth And Fur",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80640",
-          "summary": "Tonight, former UDP standard bearer for Cayo South, Antonio Samayoa has been charged and detained for unlawful possession of wildlife. That's after a female juvenile jaguar was knocked down yesterday on the Hummingbird…",
-          "publishedAt": "2026-11-16T00:00:00.000Z"
+          "title": "Brutal Orange Walk Murder Leads Police To Detain Common Law And Friend of Deceased",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80655",
+          "summary": "Tonight, police have detained several people in connection with a brutal murder in the Orange Walk District. Investigators discovered the victim's body early this morning in a secluded area-Henry Nunez met a brutal…",
+          "publishedAt": "2026-11-17T00:00:00.000Z"
         },
         {
-          "title": "Constable Caught On Camera Pulling Gun At Corporal",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80641",
-          "summary": "A police officer is behind bars after allegedly pointing his service firearm at his supervisor during an altercation at the Belize Family Court, which was caught on surveillance camera. Police Constable, 34 year old…",
-          "publishedAt": "2026-11-16T00:00:00.000Z"
+          "title": "Business and Conservation Coalition Presses Prime Minister Over Proposed San Pedro Airport",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80656",
+          "summary": "Over the past few weeks, we've been reporting on the new domestic airport proposed for Northern Ambergris Caye. It has been met with pushback from tourism stakeholders and island residents who say the current John Greif…",
+          "publishedAt": "2026-11-17T00:00:00.000Z"
         },
         {
-          "title": "Weekend Traffic Accident Leaves One Man Dead",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80642",
-          "summary": "24-year-old Dariel Perez is dead and Antonio Copo has been charged following a fatal traffic accident in Guinea Grass Village that also left another person injured. Perez was reportedly heading home from work on Friday…",
-          "publishedAt": "2026-11-16T00:00:00.000Z"
+          "title": "Gunshots Fired During Repeat Burglary at Independence Village Pawn Shop",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80657",
+          "summary": "Daring aggravated burglaries continue to bedevil the south-and around 3:20 Sunday morning, police arrived at the scene of a burglary in Independence Village. A taxi driver who lives above Money Solutions Pawn Shop at the…",
+          "publishedAt": "2026-11-17T00:00:00.000Z"
         },
         {
-          "title": "Man Charged After On-Duty Cop Caught Playing Video Games At His House",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80643",
-          "summary": "Has an on-duty police officer ever stopped by your house to visit you? If so, you might want to shoo them away after one man was charged for harboring a cop. Police explained the fine line between visitation and…",
-          "publishedAt": "2026-11-16T00:00:00.000Z"
+          "title": "Robert Lamb Free of Murder Charge But Not a Free Man",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80658",
+          "summary": "Tonight, 26-year-old Robert Lamb is one step closer to freedom after his murder case was discontinued. He was charged jointly with 29-year-old Kevin Lanza and 31-year-old Samuel Trapp for the murder of 18-year-old…",
+          "publishedAt": "2026-11-17T00:00:00.000Z"
         },
         {
-          "title": "Text Messages Purport Six-Figure Bribery Plot Among Senior Public Officials, But Is It Legit?",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80644",
-          "summary": "As we reported at the start of the month, there is some anxiety in the Customs department to see who will be the new comptroller or if the current Customs boss, Estelle Leslie will have her contract renewed for another…",
-          "publishedAt": "2026-11-16T00:00:00.000Z"
+          "title": "Suriname Urges Belize Mennonites Not to Relocate for Rainforest Farming",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80659",
+          "summary": "You may not know much about the CARICOM nation of Suriname. It is a small, culturally diverse nation on South America's northeastern Atlantic coast, known for its vast rainforests. And tonight, they are urging Mennonites…",
+          "publishedAt": "2026-11-17T00:00:00.000Z"
         },
         {
-          "title": "UDP Caretaker Covers Bus Fares For Hattieville Commuters",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80645",
-          "summary": "This morning, UDP Caretaker for Belize Rural Central Edward Broaster surprised 65 Hattieville residents by paying their bus fee. Broaster says he did this to send a message to the government that they need to do more to…",
-          "publishedAt": "2026-11-16T00:00:00.000Z"
+          "title": "Caribbean International Brewery Unveils 14-Megawatt Solar Project in La Democracia - No Press Invited",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80660",
+          "summary": "Belize is in a scramble to find new, sustainable sources of power-and solar is at the top of the list. So much so that the government has now authorized an emergency procurement track, which sidesteps the PUC-and…",
+          "publishedAt": "2026-11-17T00:00:00.000Z"
         },
         {
-          "title": "Inmates Say They're In Limbo After The Court Lost Their Files",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80646",
-          "summary": "10 convicted inmates at the Belize Central Prison have been waiting years to have their case heard in the Court of Appeal. However, they're in limbo because they've been told the courts have lost their files. One inmate…",
-          "publishedAt": "2026-11-16T00:00:00.000Z"
+          "title": "Ministry Refutes Reports That Caye Caulker Village Council Lost Trade Licence Authority",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80661",
+          "summary": "Tonight, the Ministry of Rural Transformation, Community Development and Local Government is pushing back against reports published by the Guardian newspaper, insisting that there has been no revocation of the Caye…",
+          "publishedAt": "2026-11-17T00:00:00.000Z"
         },
         {
-          "title": "Tortilla Factory In Guinea Grass Destroyed By Fire",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80647",
-          "summary": "Quetzal Tortilla Factory in Guinea Grass Village will now need to build from the ground up after a fire destroyed the building, which was valued at 145 thousand dollars. ASP Stacy Smith explained more: ASP Stacy Smith,…",
-          "publishedAt": "2026-11-16T00:00:00.000Z"
+          "title": "Belmopan City Council Faces Social Media Pushback Over &ldquo;El Salvador Day&rdquo; Proclamation",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80662",
+          "summary": "Yesterday, the Belmopan City Council announced that it signed a proclamation designating November 26th as El Salvador Day in the capital city. According to a Facebook post, the initiative is supposed to recognize the…",
+          "publishedAt": "2026-11-17T00:00:00.000Z"
         },
         {
-          "title": "Fire At Apartment Building In San Pedro Caused By Faulty Wiring",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80648",
-          "summary": "And another fire occurred over the weekend but this time in San Pedro town. Police also gave us the details: ASP Stacy Smith, Staff Officer \"On Sunday, 15th November, at around 7.30pm, police responded to reports of a…",
-          "publishedAt": "2026-11-16T00:00:00.000Z"
+          "title": "His Uncle Was Murdered and Now Police Issue Wanted Advisory for 19-Year-Old Wissam Harmouch in San Pedro",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80663",
+          "summary": "His uncle David Harmouch was killed in June at Island Supermarket in the Tres Cocos area of San Pedro Town. Tonight, police are seeking the public's assistance in locating 19-year-old Wissam Harmouch, a Lebanese national…",
+          "publishedAt": "2026-11-17T00:00:00.000Z"
         },
         {
-          "title": "How Will The 19th Be Celebrated In The City During A State Of Emergency?",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80649",
-          "summary": "Belizeans are gearing up for a short week as this Thursday will be observed as Garifuna Settlement Day. But how will late night activities take place in the city when there is a current state of emergency in some areas?…",
-          "publishedAt": "2026-11-16T00:00:00.000Z"
+          "title": "Biodiversity Scientist Weighs In on Whether Floating Sargassum Barriers Could Work for Belize",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80664",
+          "summary": "Mexican media outlets are reporting that Quintana Roo is looking at a proposed 60-kilometer floating sargassum barrier off its coast to deal with its sargassum problem. The project is estimated to cost $96 million and…",
+          "publishedAt": "2026-11-17T00:00:00.000Z"
         }
       ]
     }
