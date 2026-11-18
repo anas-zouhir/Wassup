@@ -8,8 +8,13 @@
         "homepage": "https://lenouvelliste.com",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-18T06:53:27.174Z",
+      "fetchedAt": "2026-11-18T18:43:41.990Z",
       "items": [
+        {
+          "title": "Nayib Bukele announces the destruction of the house of gang leader Jeff gwo lwa",
+          "link": "https://lenouvelliste.com/article/274016/nayib-bukele-announces-the-destruction-of-the-house-of-gang-leader-jeff-gwo-lwa",
+          "publishedAt": "2026-11-18T10:08:56.000Z"
+        },
         {
           "title": "Haiti: Thousands of Protesters Take to the Streets to Cheer Bukele and Salvadoran Soldiers",
           "link": "https://lenouvelliste.com/article/274006/haiti-thousands-of-protesters-take-to-the-streets-to-cheer-bukele-and-salvadoran-soldiers",
@@ -37,7 +42,7 @@
         {
           "title": "The Council of Ministers Approves the Cooperation Agreement Between Haiti and El Salvador",
           "link": "https://lenouvelliste.com/article/274008/the-council-of-ministers-approves-the-cooperation-agreement-between-haiti-and-el-salvador",
-          "publishedAt": "2026-11-17T21:25:35.000Z",
+          "publishedAt": "2026-11-17T05:15:38.000Z",
           "titleEn": "The Council of Ministers approves the Cooperation Agreement between Haiti and El Salvador"
         },
         {
@@ -63,12 +68,6 @@
           "link": "https://lenouvelliste.com/article/273951/what-viv-ansanm-and-allies-is-the-name",
           "publishedAt": "2026-11-16T00:38:03.000Z",
           "titleEn": "What Viv Ansanm and allies is the name!!!"
-        },
-        {
-          "title": "33 presidential candidates registered pending final decision from the CEP",
-          "link": "https://lenouvelliste.com/article/273961/33-presidential-candidates-registered-pending-final-decision-from-the-cep",
-          "publishedAt": "2026-11-16T04:30:27.000Z",
-          "titleEn": "33 presidential candidates registered pending final decision from the CEP"
         }
       ]
     },
@@ -79,8 +78,64 @@
         "homepage": "https://www.haitilibre.com",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-18T06:53:27.742Z",
+      "fetchedAt": "2026-11-18T18:43:42.361Z",
       "items": [
+        {
+          "title": "Haïti - Loisirs : Le Saviez-vous ? #77",
+          "link": "https://www.haitilibre.com/article-48925-haiti-loisirs-le-saviez-vous-77.html",
+          "summary": "Quiz.HaitiLibre, vous propose 2 fois par semaine une chronique intitulée « Le Saviez-vous ? » Aujourd'hui nous vous demandons, quelle racine piquante et réchauffante, est bouillie pour concocter un sirop maison contre la…",
+          "image": "https://www.haitilibre.com/images-a/p-48925.jpg",
+          "publishedAt": "2026-11-18T15:15:09.000Z"
+        },
+        {
+          "title": "Haïti - Actualité : Zapping",
+          "link": "https://www.haitilibre.com/article-48924-haiti-actualite-zapping.html",
+          "summary": "Le Conseil des Ministres approuve un accord avec El Salvador - Les FAd'H vise un effectif de 5,000 hommes d'ici 10 mois - USA : 65 haïtiens expulsés - Basket : Haïti au «Special Olympics Caribbean Beach Games 2026» - Don…",
+          "image": "https://www.haitilibre.com/images-a/p-48924.jpg",
+          "publishedAt": "2026-11-18T14:55:53.000Z"
+        },
+        {
+          "title": "Haïti - MonCash/NatCash : 18,000 Transactions financières suspectes en 72 heures",
+          "link": "https://www.icihaiti.com/article-48923-haiti-moncash-natcash-18-000-transactions-financieres-suspectes-en-72-heures.html",
+          "summary": "Dans le cadre de ses activités de renseignement la Police Nationale d'Haïti via ses services de renseignement et la DCPJ a relevé, au cours des dernières 72 heures, plus de 18,000 transactions effectuées sur les…",
+          "image": "https://www.haitilibre.com/images-a/p-48923.jpg",
+          "publishedAt": "2026-11-18T14:17:08.000Z"
+        },
+        {
+          "title": "Haïti - Salvador : Le Ministre Pélissier visite le centre de détention du terrorisme (CECOT)",
+          "link": "https://www.haitilibre.com/article-48922-haiti-salvador-le-ministre-pelissier-visite-le-centre-de-detention-du-terrorisme-cecot.html",
+          "summary": "Patrick Pélissier le Ministre de la Justice et de la Sécurité Publique a participé à la 2ème Conférence internationale sur l'État et la Démocratie, qui se tenait les 16 et 17 novembre au Salvador qui a réuni plus de 50…",
+          "image": "https://www.haitilibre.com/images-a/p-48922.jpg",
+          "publishedAt": "2026-11-18T14:08:54.000Z"
+        },
+        {
+          "title": "iciHaïti - Série d'ouverture D1 (2026-2027) : Classement provisoire 3ème journée",
+          "link": "https://www.icihaiti.com/article-48921-icihaiti-serie-d-ouverture-d1-2026-2027-classement-provisoire-3eme-journee.html",
+          "summary": "Le classement provisoire de la D1 Paryaj Lakay après 3 journées. L'AS Capoise domine le Groupe A, tandis que l'America des Cayes mène la danse dans le Sud",
+          "image": "https://www.haitilibre.com/images-a/p-48921.jpg",
+          "publishedAt": "2026-11-18T13:45:17.000Z"
+        },
+        {
+          "title": "Haïti - 223e anniversaire : L'Ambassade d'Haïti en Rep. Dom. Commémore la bataille de Vertières",
+          "link": "https://www.haitilibre.com/article-48920-haiti-223e-anniversaire-l-ambassade-d-haiti-en-rep-dom-commemore-la-bataille-de-vertieres.html",
+          "summary": "L'Ambassade d'Haïti en République Dominicaine a commémoré le 17 novembre 2026, le 223e anniversaire de la bataille de Vertières (18 novembre 1803). Une bataille qui fut celle du sacrifice suprême",
+          "image": "https://www.haitilibre.com/images-a/p-48920.jpg",
+          "publishedAt": "2026-11-18T13:35:25.000Z"
+        },
+        {
+          "title": "iciHaïti - Salvador : Des dizaines de milliers d'Haïtiens en liesse dans les rues pour acclamer Bukele (vidéo)",
+          "link": "https://www.icihaiti.com/article-48919-icihaiti-salvador-des-dizaines-de-milliers-d-haitiens-en-liesse-dans-les-rues-pour-acclamer-bukele-video.html",
+          "summary": "Mardi 17 plusieurs dizaines de milliers d'Haïtiens en liesse, sont descendus pacifiquement dans les rues de Port-au-Prince, mais aussi à Jérémie, Grande Anse, Jacmel, Saint-Marc et au Cap Haïtien pour acclamer le…",
+          "image": "https://www.haitilibre.com/images-a/p-48919.jpg",
+          "publishedAt": "2026-11-18T13:29:32.000Z"
+        },
+        {
+          "title": "Haïti - Ligue des Nations 1/4 de finale : Haïti éliminé [2-0] par les USA, mais la Gold Cup 2027 reste encore possible (Vidéo)",
+          "link": "https://www.haitilibre.com/article-48918-haiti-ligue-des-nations-1-4-de-finale-haiti-elimine-[2-0]-par-les-usa-mais-la-gold-cup-2027-reste-encore-possiblevideo.html",
+          "summary": "Mardi 17 novembre pour les 1/4 de finale la Ligue des Nations nos vaillants Grenadiers affrontaient en match retour les «Yankees» la sélection des États-Unis. Malgré tous leurs efforts et leur détermination, nos…",
+          "image": "https://www.haitilibre.com/images-a/p-48918.jpg",
+          "publishedAt": "2026-11-18T09:50:08.000Z"
+        },
         {
           "title": "Haïti - Actualité : Zapping...",
           "link": "https://www.haitilibre.com/article-48917-haiti-actualite-zapping.html",
@@ -98,78 +153,6 @@
           "publishedAt": "2026-11-17T14:17:03.000Z",
           "titleEn": "HereHaiti - Delmas 19: Visit to supervise hydraulic works",
           "summaryEn": "On Monday 16 November 2026, as part of the rehabilitation of the hydraulic infrastructure, the DINEPA Director-General, engineer Theophil Ostinvil, made a supervisory visit to Delmas 19..."
-        },
-        {
-          "title": "Haïti - Entrepreneuriat : Concours de plan d'affaires, inscriptions ouvertes",
-          "link": "https://www.haitilibre.com/article-48915-haiti-entrepreneuriat-concours-de-plan-d-affaires-inscriptions-ouvertes.html",
-          "summary": "Le Ministère du Commerce et de l'Industrie, à travers le Programme d'Appui à l'Entrepreneuriat Jeunesse (PAPEJ), avec l'appui de ses partenaires financiers, lance officiellement un concours de plans d'affaires destiné…",
-          "image": "https://www.haitilibre.com/images-a/p-48915.jpg",
-          "publishedAt": "2026-11-17T14:07:07.000Z",
-          "titleEn": "Haiti - Entrepreneurship: Business plan competition, open entries",
-          "summaryEn": "The Ministry of Trade and Industry, through the Youth Entrepreneurship Support Programme (PAPEJ), with the support of its financial partners, is officially launching a business plan competition aimed at..."
-        },
-        {
-          "title": "iciHaïti - Sécurité : Le Gouvernement déterminé à intensifier la lutte contre les gangs (vidéo)",
-          "link": "https://www.icihaiti.com/article-48914-icihaiti-securite-le-gouvernement-determine-a-intensifier-la-lutte-contre-les-gangs-video.html",
-          "summary": "Sécurité: le Gouvernement réitère sa détermination à intensifier la lutte contre les gangs armés et à rétablir l'autorité de l'État",
-          "image": "https://www.haitilibre.com/images-a/p-48914.jpg",
-          "publishedAt": "2026-11-17T13:46:48.000Z",
-          "titleEn": "HereHaiti - Security: The Government is committed to intensifying the fight against gangs (video)",
-          "summaryEn": "Security: Government reiterates its commitment to intensify the fight against armed gangs and restore state authority"
-        },
-        {
-          "title": "Haïti - Sécurité : Les armes et munitions américaines alimentent la violence en Haïti",
-          "link": "https://www.haitilibre.com/article-48913-haiti-securite-les-armes-et-munitions-americaines-alimentent-la-violence-en-haiti.html",
-          "summary": "À Washington, des responsables reconnaissent, en privé, que les armes à feu en provenance des États-Unis contribuent à la violence et à l'instabilité en Haïti",
-          "image": "https://www.haitilibre.com/images-a/p-48913.jpg",
-          "publishedAt": "2026-11-17T13:30:44.000Z",
-          "titleEn": "Haiti - Security: U.S. weapons and ammunition fuel violence in Haiti",
-          "summaryEn": "In Washington, officials privately acknowledge that U.S. firearms contribute to violence and instability in Haiti"
-        },
-        {
-          "title": "iciHaïti - Mexique : Retour de formation des 114 militaires FAd'H",
-          "link": "https://www.icihaiti.com/article-48912-icihaiti-mexique-retour-de-formation-des-114-militaires-fad-h.html",
-          "summary": "Le Ministère de la Défense informe que les 114 militaires des Forces Armées d'Haïti (FAd'H), qui avaient quitté le pays le 18 septembre 2026 pour suivre un programme de formation militaire de huit semaines au Mexique…",
-          "image": "https://www.haitilibre.com/images-a/p-48912.jpg",
-          "publishedAt": "2026-11-17T13:14:05.000Z",
-          "titleEn": "HereHaiti - Mexico: Return to training of the 114 FAd'H military",
-          "summaryEn": "The Ministry of Defense reports that the 114 military members of the Haitian Armed Forces (FAd'H), who left the country on September 18, 2026 to attend an eight-week military training program in Mexico..."
-        },
-        {
-          "title": "Haïti - Coupe du Monde U-17 FIFA 2026 : «J-2» Liste des joueurs au Qatar et calendrier des matchs",
-          "link": "https://www.haitilibre.com/article-48911-haiti-coupe-du-monde-u-17-fifa-2026-j-2-liste-des-joueurs-au-qatar-et-calendrier-des-matchs.html",
-          "summary": "Après les étapes de préparation au Brésil, nos jeunes Grenadiers U-17 sont arrivés au Qatar pour écrire la prochaine page de l'histoire du football Haïten dans ce nouveau rendez-vous mondial",
-          "image": "https://www.haitilibre.com/images-a/p-48911.jpg",
-          "publishedAt": "2026-11-17T12:25:26.000Z",
-          "titleEn": "Haiti - FIFA U-17 World Cup 2026:  ⁇ J-2 ⁇  List of players in Qatar and match schedule",
-          "summaryEn": "After the preparation stages in Brazil, our young U-17 Grenadiers have arrived in Qatar to write the next page of Haitian football history in this new world event"
-        },
-        {
-          "title": "Haïti - Actualité : Zapping...",
-          "link": "https://www.haitilibre.com/article-48910-haiti-actualite-zapping.html",
-          "summary": "812 soldats ivoiriens attendus en Haïti - Martine Moïse candidate à la Présidence - Le Salvador contrôle le siège social de l'Ed'H - L'UE sanctionne 4 groupes terroristes et leurs Chefs - Entrée en formation de 1,200…",
-          "image": "https://www.haitilibre.com/images-a/p-48910.jpg",
-          "publishedAt": "2026-11-16T14:47:19.000Z",
-          "titleEn": "Haiti - News: Zapping...",
-          "summaryEn": "812 Ivorian soldiers expected in Haiti - Martine Moïse is running for President - El Salvador controls the headquarters of the Ed'H - The EU sanctions 4 terrorist groups and their leaders - Training of 1,200..."
-        },
-        {
-          "title": "iciHaïti - Économie : La DGI lance l'Observatoire des recettes",
-          "link": "https://www.icihaiti.com/article-48909-icihaiti-economie-la-dgi-lance-l-observatoire-des-recettes.html",
-          "summary": "La Direction Générale des impôts (DGI) a procédé récemment au lancement officiel de l'Observatoire des recettes. Cette nouvelle structure ad hoc, pilotée par la Direction d'Analyse et des Statistiques",
-          "image": "https://www.haitilibre.com/images-a/p-48909.jpg",
-          "publishedAt": "2026-11-16T14:02:47.000Z",
-          "titleEn": "HereHaiti - Economy: the DGI launches the Revenue Observatory",
-          "summaryEn": "The Directorate-General for Taxation (DGI) recently officially launched the Revenue Observatory. This new ad hoc structure, led by the Directorate for Analysis and Statistics"
-        },
-        {
-          "title": "Haïti - Économie : Le Corps des Comptables Publics du Trésor célèbre ses 20 ans",
-          "link": "https://www.haitilibre.com/article-48908-haiti-economie-le-corps-des-comptables-publics-du-tresor-celebre-ses-20-ans.html",
-          "summary": "Le Corps des Comptables Publics du Trésor à célébré son 20e anniversaire, autour du thème « Le Corps des Comptables Publics : 20 ans d'Engagement, de Transparence, d'Intégrité et de Responsabilité au service de…",
-          "image": "https://www.haitilibre.com/images-a/p-48908.jpg",
-          "publishedAt": "2026-11-16T13:46:12.000Z",
-          "titleEn": "Haiti - Economy: The Public Accountants' Corps of the Treasury celebrates its 20th anniversary",
-          "summaryEn": "The Public Accountants' Corps of the Treasury celebrated its 20th anniversary, under the theme  ⁇  The Public Accounting Corps: 20 years of Commitment, Transparency, Integrity and Responsibility in the service of..."
         }
       ]
     },
@@ -180,8 +163,26 @@
         "homepage": "https://www.juno7.ht",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-18T06:53:27.615Z",
+      "fetchedAt": "2026-11-18T18:43:42.578Z",
       "items": [
+        {
+          "title": "NatCash et MonCash : la PNH dit avoir repéré plus de 18 000 transactions suspectes en 72 heures",
+          "link": "https://www.juno7.ht/pnh-transactions-suspectes-natcash-moncash/",
+          "summary": "La police enquête sur de possibles liens entre ces transferts et des groupes armés. Elle évoque des soupçons de blanchiment de capitaux et de financement de réseaux criminels. La Police nationale d’Haïti (PNH) affirme…",
+          "publishedAt": "2026-11-18T15:50:10.000Z"
+        },
+        {
+          "title": "Haïti : Bukele annonce la destruction d’une maison attribuée à Jeff Gwo Lwa à Canaan",
+          "link": "https://www.juno7.ht/bukele-jeff-gwo-lwa-maison-canaan/",
+          "summary": "Le président salvadorien affirme que les forces de son pays ont détruit une maison attribuée à un chef de gang à Canaan. Il a présenté l’opération comme un « cadeau » au peuple haïtien à l’occasion de l’anniversaire de…",
+          "publishedAt": "2026-11-18T15:15:04.000Z"
+        },
+        {
+          "title": "Mackenson César annonce sa candidature à la députation à Jacmel sous la bannière du GAD",
+          "link": "https://www.juno7.ht/mackenson-cesar-candidature-deputation-jacmel/",
+          "summary": "Originaire de Jacmel et diplômé en génie industriel en République dominicaine, Mackenson César dit vouloir porter au Parlement les préoccupations de sa ville natale. Il place l’éducation, la jeunesse, la culture et le…",
+          "publishedAt": "2026-11-18T14:52:07.000Z"
+        },
         {
           "title": "Des milliers de personnes manifestent à Port-au-Prince en soutien aux forces salvadoriennes",
           "link": "https://www.juno7.ht/port-au-prince-manifestation-soutien-bukele/",
@@ -237,30 +238,6 @@
           "publishedAt": "2026-11-17T13:35:28.000Z",
           "titleEn": "In El Salvador, Patrick Pélissier represents Haiti at the International Conference on State and Democracy",
           "summaryEn": "The Haitian Minister of Justice and Public Security is participating in the second edition of this conference, which will be held on 16 and 17 November 2026 in San Salvador. Mandated by Prime Minister Alix Didier..."
-        },
-        {
-          "title": "Haïti – Taux de référence BRH : mardi 17 novembre 2026",
-          "link": "https://www.juno7.ht/haiti-taux-de-reference-brh-mardi-17-novembre-2026/",
-          "summary": "La Banque de la République d’Haïti (BRH) calcule le taux de référence du jour à 130,67 gourdes pour un dollar américain (USD). La BRH établit ce taux à partir des transactions et opérations d’achat de devises…",
-          "publishedAt": "2026-11-17T13:22:13.000Z",
-          "titleEn": "Haiti  ⁇  BRH reference rate: Tuesday 17 November 2026",
-          "summaryEn": "The Bank of the Republic of Haiti (BRH) calculates the reference rate for the day at 130.67 guards per US dollar (USD). The HRC establishes this rate on the basis of transactions and currency purchases."
-        },
-        {
-          "title": "Concours national de Slam Poésie : Salvatorré remporte la finale et défendra les couleurs d’Haïti à l’international",
-          "link": "https://www.juno7.ht/salvatorre-vainqueur-concours-national-slam-poesie/",
-          "summary": "Le slameur Sébastien Paul Gallard remporte la sixième édition du Concours national et devient le nouveau porte-voix d’Haïti sur la scène internationale. Il y a des soirées où les mots font vibrer les murs. Dimanche 15…",
-          "publishedAt": "2026-11-16T21:20:05.000Z",
-          "titleEn": "National Slam Poetry Competition: Salvatorré wins the final and defends the colours of Haiti at the international level",
-          "summaryEn": "Slammer Sébastien Paul Gallard won the sixth edition of the national competition and became Haiti's new international voice. There are evenings where words make the walls vibrate. Sunday the 15th..."
-        },
-        {
-          "title": "Wilner Joseph plaide pour une refonte des relations diplomatiques entre Haïti et la République dominicaine",
-          "link": "https://www.juno7.ht/wilner-joseph-relations-haiti-republique-dominicaine/",
-          "summary": "Dans son ouvrage « Le pari du dialogue », le candidat à la présidence sous la bannière de VIKTWA propose un mécanisme permanent de concertation entre les deux pays. Il défend aussi une politique fondée sur la…",
-          "publishedAt": "2026-11-16T14:53:26.000Z",
-          "titleEn": "Wilner Joseph advocates a reshaping of diplomatic relations between Haiti and the Dominican Republic",
-          "summaryEn": "In his book  ⁇  The Dialogue Bet  ⁇ , the VIKTWA presidential candidate proposes a permanent mechanism for consultation between the two countries. He also advocates a policy based on the..."
         }
       ]
     }
