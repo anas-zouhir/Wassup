@@ -13,26 +13,32 @@
         {
           "title": "Københavns Lufthavn fejrer i dag passager nummer milliard",
           "link": "https://www.dr.dk/nyheder/seneste/koebenhavns-lufthavn-fejrer-i-dag-passager-nummer-milliard",
-          "publishedAt": "2026-11-18T06:09:36.000Z"
+          "publishedAt": "2026-11-18T06:09:36.000Z",
+          "titleEn": "Copenhagen Airport is celebrating passengers number one billion today"
         },
         {
           "title": "Sidste delstat talt op: Demokraten Mary Peltola vinder senatsvalget i Alaska",
           "link": "https://www.dr.dk/nyheder/seneste/sidste-delstat-talt-op-demokraten-mary-peltola-vinder-senatsvalget-i-alaska",
           "summary": "Mere end to uger efter valgdagen står det klart, at demokraterne tager den sidste stat, der manglede at blive afgjort til senatet ved det amerikanske midtvejsvalg.",
           "image": "https://asset.dr.dk/drdk/umbraco-images/52ikys1p/20261107-101105-l-2067x1437ma.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-18T03:37:56.000Z"
+          "publishedAt": "2026-11-18T03:37:56.000Z",
+          "titleEn": "Last state counted: Democrat Mary Peltola wins the Alaska Senate election",
+          "summaryEn": "More than two weeks after the election day, it's clear that the Democrats are taking the last state that was left undecided in the U.S. Senate midterm elections."
         },
         {
           "title": "Nvidia fordobler omsætning i tredje kvartal",
           "link": "https://www.dr.dk/nyheder/seneste/nvidia-fordobler-omsaetning-i-tredje-kvartal",
           "summary": "Kort efter topchefs afgang har den amerikanske chipproducent Nvidia præsenteret et regnskab med vækst.",
           "image": "https://asset.dr.dk/drdk/umbraco-images/1gedg1dh/20261117-201645-5.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-17T21:41:20.000Z"
+          "publishedAt": "2026-11-17T21:41:20.000Z",
+          "titleEn": "Nvidia doubles revenue in the third quarter",
+          "summaryEn": "Shortly after the CEO's departure, U.S. chipmaker Nvidia presented a growth account."
         },
         {
           "title": "Danmarks U21-landshold tæt på vildt comeback - misser EM trods sejr over Holland",
           "link": "https://www.dr.dk/sporten/fodbold/landsholdet/nedrykning-eller-kvartfinale-flere-scenarier-i-spil-danmark?focusId=12855779#liveblog-embed",
-          "publishedAt": "2026-11-17T19:25:32.000Z"
+          "publishedAt": "2026-11-17T19:25:32.000Z",
+          "titleEn": "Denmark's U21 national team close to wild comeback - Missing the European Championship despite victory over the Netherlands"
         },
         {
           "title": "Moldova lukker luftrum efter russiske droner",
@@ -88,68 +94,88 @@
           "link": "https://politiken.dk/sport/fodbold/art11064764/Norske-medier-jubler-%C2%BBDet-understreger-tronskiftet-i-nordisk-fodbold%C2%AB",
           "summary": "Norges sejr i Parken understregede tronskiftet i nordisk fodbold, lyder det i norsk medie.",
           "image": "https://politiken.dk/incoming/img11064769.k8fyjy/ORIGINALS/original_960/Nations%20League%20Danmark-Norge",
-          "publishedAt": "2026-11-18T06:47:32.000Z"
+          "publishedAt": "2026-11-18T06:47:32.000Z",
+          "titleEn": "Norwegian media cheers:  ⁇ It highlights the throne shift in Nordic football ⁇",
+          "summaryEn": "Norway's victory in the Park underscored the thrones of Nordic football, according to Norwegian media."
         },
         {
           "title": "Nye regler for bilister ved sneglefart på motorvejen",
           "link": "https://politiken.dk/danmark/art11064754/Nye-regler-for-bilister-ved-sneglefart-p%C3%A5-motorvejen",
           "summary": "Ny national praksis skal gøre det lettere for udrykningskøretøjer at komme gennem køer på motorvejene.",
           "image": "https://politiken.dk/incoming/img11064757.ktlvcp/ORIGINALS/original_960/Sammenstyrtet%20motorvejsbro%20gav%20store%20problemer",
-          "publishedAt": "2026-11-18T06:32:48.000Z"
+          "publishedAt": "2026-11-18T06:32:48.000Z",
+          "titleEn": "New rules for drivers at highway speed",
+          "summaryEn": "New national practices should make it easier for off-road vehicles to pass through rows on motorways."
         },
         {
           "title": "Ni personer anholdt og mistænkt for millionsvindel",
           "link": "https://politiken.dk/danmark/art11064756/Ni-personer-anholdt-og-mist%C3%A6nkt-for-millionsvindel",
           "summary": "Ni personer er blevet anholdt i en koordineret politiaktion. De er sigtet for svindel for ti millioner kroner.",
-          "publishedAt": "2026-11-18T06:28:43.000Z"
+          "publishedAt": "2026-11-18T06:28:43.000Z",
+          "titleEn": "Nine people arrested and charged with embezzlement",
+          "summaryEn": "Nine people have been arrested in a coordinated police operation. They're charged with 10 million crowns of fraud."
         },
         {
           "title": "Der er ikke ét band i verden, der lyder som dem",
           "link": "https://politiken.dk/kultur/musik/koncertanmeldelser/art10958925/Der-er-ikke-%C3%A9t-band-i-verden-der-lyder-som-dem",
           "summary": "Der er vitterlig ingen, der lyder som norske Uld. Det stod klart i Vega. Men som band befinder trioen sig stadig i støbeskeen.",
           "image": "https://politiken.dk/incoming/img11064675.t7jw2t/ORIGINALS/original_960/ULD",
-          "publishedAt": "2026-11-18T05:35:28.000Z"
+          "publishedAt": "2026-11-18T05:35:28.000Z",
+          "titleEn": "There's not a band in the world that sounds like them.",
+          "summaryEn": "There's no one here that sounds like Norwegian Wool. It was clear in Vega. But as a band, the trio is still in the dustbin."
         },
         {
           "title": "Først sang danskerne om 4-0. Til sidst var det let at mærke, hvor koldt det var i København",
           "link": "https://politiken.dk/sport/fodbold/art11059478/F%C3%B8rst-sang-danskerne-om-4-0.-Til-sidst-var-det-let-at-m%C3%A6rke-hvor-koldt-det-var-i-K%C3%B8benhavn",
           "summary": "Landsholdet førte 2-0 over Norge og skulle bare bruge uafgjort. Alligevel gik det galt. Spillere og landstræner har svært ved at forklare, hvorfor de gang på gang har fejlet, når de har haft noget at opnå.",
           "image": "https://politiken.dk/incoming/img11064752.xva7hx/ORIGINALS/original_960/Nations%20League%20Danmark-Norge",
-          "publishedAt": "2026-11-18T05:30:59.000Z"
+          "publishedAt": "2026-11-18T05:30:59.000Z",
+          "titleEn": "First the Danes sang 4-0. Finally, it was easy to see how cold it was in Copenhagen.",
+          "summaryEn": "The national team took a 2-0 lead over Norway and had only to use a draw. Still, it went wrong. Players and country coaches have a hard time explaining why they have failed over and over again when they have had something to achieve."
         },
         {
           "title": "Rotter, mus og mug i kornet: »Vi kan kun bøje nakken og sige undskyld«",
           "link": "https://politiken.dk/danmark/art11052515/%C2%BBVi-kan-kun-b%C3%B8je-nakken-og-sige-undskyld%C2%AB",
           "summary": "Massive investeringer i rengøring, bygninger og personaletræning skal løfte standarden på Danish Agros lagerlokationer, lover direktøren. Men myndighederne finder nye skadedyrsangreb.",
           "image": "https://politiken.dk/incoming/img11052588.lx2vt8/ORIGINALS/original_960/Title%20mangler",
-          "publishedAt": "2026-11-18T05:07:43.000Z"
+          "publishedAt": "2026-11-18T05:07:43.000Z",
+          "titleEn": "Rat, mouse and mosquito in the grain:",
+          "summaryEn": "Massive investments in cleaning, building and staff training will raise the standard of Danish Agros warehouses, the director promises. But the authorities are finding new pest attacks."
         },
         {
           "title": "Der lå »massive ansamlinger af ekskrementer fra rotter«. Alligevel endte korn fra samme lager som mel i brød og kager",
           "link": "https://politiken.dk/danmark/art11027813/Der-l%C3%A5-%C2%BBmassive-ansamlinger-af-ekskrementer-fra-rotter%C2%AB.-Alligevel-endte-korn-fra-samme-lager-som-mel-i-br%C3%B8d-og-kager",
           "summary": "50.000 tons korn fra Danish Agro blev sidste år beslaglagt og erklæret uegnet som menneskeføde. Alligevel fik fødevarer, der allerede var produceret af korn fra samme lager, lov til at ende i butikkerne.…",
           "image": "https://politiken.dk/incoming/img11052957.tkp2mi/ORIGINALS/original_960/F%C3%B8devare%20kontrol%20Danish%20Agro%20Dalmose",
-          "publishedAt": "2026-11-18T05:07:32.000Z"
+          "publishedAt": "2026-11-18T05:07:32.000Z",
+          "titleEn": "There were massive accumulations of rat excrement. Still, grain from the same stock as flour ended up in bread and cakes.",
+          "summaryEn": "50,000 tons of grain from Danish Agro were seized last year and declared unfit for human consumption. Still, food already produced from grain from the same stock was allowed to end up in stores."
         },
         {
           "title": "Karakterbogen: Norge forblev kongerne af Norden efter dansk kollaps",
           "link": "https://politiken.dk/sport/fodbold/art11061718/Norge-forblev-kongerne-af-Norden-efter-dansk-kollaps",
           "summary": "De norske fans kunne både lave deres verdenskendte ‘ro-fejring’ og synge om stilhed i Parken, da Danmark led et smertefuldt nederlag.",
-          "publishedAt": "2026-11-17T22:44:00.000Z"
+          "publishedAt": "2026-11-17T22:44:00.000Z",
+          "titleEn": "Character book: Norway remained the Nordic kings after the Danish collapse",
+          "summaryEn": "The Norwegian fans could both make their world-famous ' ⁇ ro-feast' and sing about silence in the Park as Denmark suffered a painful defeat."
         },
         {
           "title": "Haaland smadrer dansk kvartfinale-drøm",
           "link": "https://politiken.dk/sport/fodbold/art11064604/Haaland-smadrer-dansk-kvartfinale-dr%C3%B8m",
           "summary": "Danmarks fodboldlandshold tabte til Norge og skal nu spille playoff om at blive i Nations Leagues øverste lag.",
           "image": "https://politiken.dk/incoming/img11064626.fswnev/ORIGINALS/original_960/Nations%20League%20Danmark-Norge",
-          "publishedAt": "2026-11-17T21:54:12.000Z"
+          "publishedAt": "2026-11-17T21:54:12.000Z",
+          "titleEn": "Haaland shatters Danish quarter-final dream",
+          "summaryEn": "Denmark's national football team lost to Norway and will now play in the playoffs to remain in the top tier of the Nations League."
         },
         {
           "title": "Christian Jensen: »Nu tænker I nok: ’Norge har fået nok’. Nej! Den er helt gal i Norge«",
           "link": "https://politiken.dk/danmark/art11063954/Christian-Jensen-%C2%BBNu-t%C3%A6nker-I-nok-%E2%80%99Norge-har-f%C3%A5et-nok%E2%80%99.-Nej-Den-er-helt-gal-i-Norge%C2%AB",
           "summary": "Til arrangementet ’sandhedens time’ i Politikens hus kritiserer markante nordiske stemmer deres søsterlande. Det er hele pointen.",
           "image": "https://politiken.dk/incoming/img11064460.6bduw9/ORIGINALS/original_960/Debatm%C3%B8de%20i%20Pressen%20om%20Norden",
-          "publishedAt": "2026-11-17T21:07:08.000Z"
+          "publishedAt": "2026-11-17T21:07:08.000Z",
+          "titleEn": "Christian Jensen: Now you're probably thinking Norway has had enough. It's crazy in Norway.",
+          "summaryEn": "For the event 'The Hour of Truth' in the House of Politics, prominent Nordic voices criticize their sister countries. That's the whole point."
         }
       ]
     },
@@ -167,69 +193,89 @@
           "link": "https://www.berlingske.dk/sport/norske-medier-slaar-fast-norge-er-klart-bedst-i-norden?referrer=RSS",
           "summary": "Norges sejr i Parken understregede tronskiftet i nordisk fodbold, lyder det i norsk medie.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167388875.webp?t[strip]=true&t[quality]=70&accessToken=15e17811e958c81918c53fa4085a9faba2297304cd96bcf5d31d7aa10309f9dd",
-          "publishedAt": "2026-11-18T06:40:47.000Z"
+          "publishedAt": "2026-11-18T06:40:47.000Z",
+          "titleEn": "Norwegian media says Norway is clearly the best in the Nordic region",
+          "summaryEn": "Norway's victory in the Park underscored the thrones of Nordic football, according to Norwegian media."
         },
         {
           "title": "Mette Frederiksen er imod alle muslimske tørklæder",
           "link": "https://www.berlingske.dk/politik/mette-frederiksen-er-imod-alle-muslimske-toerklaeder?referrer=RSS",
           "summary": "Der er \"juridiske diskussioner og dilemmaer\", når det kommer til et tørklædeforbud i folkeskolen, siger hun.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167388201.webp?t[strip]=true&t[quality]=70&accessToken=2e2f7f3df52a0a92a1a310b9c627dbcd5245f7e8d1d38a96caded8882cee5486",
-          "publishedAt": "2026-11-18T06:36:49.000Z"
+          "publishedAt": "2026-11-18T06:36:49.000Z",
+          "titleEn": "Mette Frederiksen is against all Muslim headscarves",
+          "summaryEn": "There are \"legal discussions and dilemmas\" when it comes to a curfew ban in primary schools, she says."
         },
         {
           "title": "Ni personer anholdt og mistænkt for millionsvindel",
           "link": "https://www.berlingske.dk/indland/ni-personer-anholdt-og-mistaenkt-for-millionsvindel?referrer=RSS",
           "summary": "Ni personer er blevet anholdt i en koordineret politiaktion. De er sigtet for svindel for ti millioner kroner.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167388812.webp?t[strip]=true&t[quality]=70&accessToken=cf74e6cb4266113752c4e2cdc3ed88fd3d1d36a5d7a189e38c7a56a1227118ab",
-          "publishedAt": "2026-11-18T06:36:43.000Z"
+          "publishedAt": "2026-11-18T06:36:43.000Z",
+          "titleEn": "Nine people arrested and charged with embezzlement",
+          "summaryEn": "Nine people have been arrested in a coordinated police operation. They're charged with 10 million crowns of fraud."
         },
         {
           "title": "Bilister skal fremover holde ind ved langsom trafik på motorveje",
           "link": "https://www.berlingske.dk/danmark/bilister-skal-fremover-holde-ind-ved-langsom-trafik-paa-motorveje?referrer=RSS",
           "summary": "Ny national praksis skal gøre det lettere for udrykningskøretøjer at komme gennem køer på motorvejene.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167388771.webp?t[strip]=true&t[quality]=70&accessToken=20e6665f3f13b3553d3ba061e5f7fdb74b07e6b7268a2f99451c8ed149d8931b",
-          "publishedAt": "2026-11-18T06:33:49.000Z"
+          "publishedAt": "2026-11-18T06:33:49.000Z",
+          "titleEn": "In the future, drivers will have to cope with slow traffic on motorways",
+          "summaryEn": "New national practices should make it easier for off-road vehicles to pass through rows on motorways."
         },
         {
           "title": "Pludselig kom indrømmelsen fra Mette Frederiksen: Vi kan ikke beskytte vores borgere uden Elon Musks satellitter",
           "link": "https://www.berlingske.dk/indland/pludselig-kom-indroemmelsen-fra-mette-frederiksen-vi-kan-ikke-beskytte-vores-borgere-uden-elon-musks-satellitter?referrer=RSS",
           "summary": "Ukraine har stadig problemer med amerikanske Starlink, hvilket blandt andet svækker forsvaret mod Ruslands jetdrevne droner. Breder krigen sig, vil Europa og Danmark være præcis lige så sårbare, siger eksperter. Og der…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167292731.webp?t[strip]=true&t[quality]=70&accessToken=e1fce56c93bf480346e7a387421b636eb874b61ab47d1a19648e133c20ba057b",
-          "publishedAt": "2026-11-18T06:29:05.000Z"
+          "publishedAt": "2026-11-18T06:29:05.000Z",
+          "titleEn": "Suddenly, the admission came from Mette Frederiksen: We can't protect our citizens without Elon Musk's satellites.",
+          "summaryEn": "Ukraine still has problems with American Starlink, which among other things weakens its defense against Russian jet-powered drones. If the war spreads, Europe and Denmark will be just as vulnerable, experts say. And there..."
         },
         {
           "title": "Business-overblik: Rentechok rammer tusinder af boligejere",
           "link": "https://www.berlingske.dk/business/business-overblik-rentechok-rammer-tusinder-af-boligejere?referrer=RSS",
           "summary": "Vi læser erhvervsnyhederne og tjekker aktiekurserne fra morgenstunden. Her er hele dit Business-overblik.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167388468.webp?t[strip]=true&t[quality]=70&accessToken=eb9b2b9d07de3a2473179d33e20436a74678e9dc9a6357f98e7785f4a275bd8e",
-          "publishedAt": "2026-11-18T06:24:55.000Z"
+          "publishedAt": "2026-11-18T06:24:55.000Z",
+          "titleEn": "Business overview: Rent shock affects thousands of homeowners",
+          "summaryEn": "We're reading the business news and checking stock prices from dawn. Here's your entire business overview."
         },
         {
           "title": "Stor politiaktion: Ni anholdt og mistænkt for svindel",
           "link": "https://www.berlingske.dk/indland/stor-politiaktion-ni-anholdt-og-mistaenkt-for-svindel?referrer=RSS",
           "summary": "Ni personer er tirsdag blevet anholdt og sigtet for at stå bag et stort svindelnetværk, skriver Københavns Politi.",
-          "publishedAt": "2026-11-18T06:13:54.000Z"
+          "publishedAt": "2026-11-18T06:13:54.000Z",
+          "titleEn": "Major police action: Nine arrested and suspected of fraud",
+          "summaryEn": "Nine people were arrested on Tuesday and charged with being behind a large fraud network, Copenhagen Police said."
         },
         {
           "title": "Er du rigtig klog: Hvad ved du om Århusgadekvarteret?",
           "link": "https://www.berlingske.dk/samfund/er-du-rigtig-klog-hvad-ved-du-om-aarhusgadekvarteret?referrer=RSS",
           "summary": "Berlingskes journalister udfordrer dagligt med 10 nye spørgsmål inden for spændende emner.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167076296.webp?t[strip]=true&t[quality]=70&accessToken=5e3b2ddc2ff580bd15d15d6c8dc12f6759800b99c1cd1fe2c4c0097c2493a358",
-          "publishedAt": "2026-11-18T06:02:49.000Z"
+          "publishedAt": "2026-11-18T06:02:49.000Z",
+          "titleEn": "Are you really smart? What do you know about the Aarhus district?",
+          "summaryEn": "Journalists from Berlin ask 10 new questions every day on exciting topics."
         },
         {
           "title": "Topmøde i Kina – få seneste nyt her",
           "link": "https://www.berlingske.dk/internationalt/topmoede-i-kina--faa-seneste-nyt-her?referrer=RSS",
           "summary": "Onsdag og torsdag mødes flere af verdens ledere til topmødet Apec i Kina. Torsdag kulminerer det, når Xi, Trump og Putin mødes. Få seneste nyt her.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167388079.webp?t[strip]=true&t[quality]=70&accessToken=c50131818ece272f9642fff269891269c5c73051306c6dc19c60603882de28b8",
-          "publishedAt": "2026-11-18T05:59:37.000Z"
+          "publishedAt": "2026-11-18T05:59:37.000Z",
+          "titleEn": "Summit in China  ⁇  get the latest news here",
+          "summaryEn": "On Wednesday and Thursday, several world leaders will meet for the Apec summit in China. On Thursday, it culminates when Xi, Trump and Putin meet. Get the latest news here."
         },
         {
           "title": "OVERBLIK: Demokraterne har erobret ni senatspladser fra Republikanerne",
           "link": "https://www.berlingske.dk/internationalt/overblik-demokraterne-har-erobret-ni-senatspladser-fra-republikanerne?referrer=RSS",
           "summary": "Demokrat vurderes at vinde senatsplads i Alaska. Partiet tager i ni delstater et sæde fra Republikanerne.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167388024.webp?t[strip]=true&t[quality]=70&accessToken=b1a4914e54904ef0a156d9cad61e0bb913ceeae47dd7dbcf10d1a1a73e523e63",
-          "publishedAt": "2026-11-18T05:44:43.000Z"
+          "publishedAt": "2026-11-18T05:44:43.000Z",
+          "titleEn": "The Democrats have won nine Senate seats from the Republicans",
+          "summaryEn": "Democrats are expected to win a Senate seat in Alaska. In nine states, the party takes a seat from the Republicans."
         }
       ]
     }
