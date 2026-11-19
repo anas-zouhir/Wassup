@@ -8,87 +8,67 @@
         "homepage": "https://www.tagesschau.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-19T06:54:15.657Z",
+      "fetchedAt": "2026-11-19T18:49:16.389Z",
       "items": [
         {
-          "title": "Marktbericht: Anleger vor Anthropic-Börsengang optimistisch",
+          "title": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
+          "link": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html",
+          "summary": "Beim Gipfel von Xi, Trump und Putin ging es um schöne Bilder und Schmeicheleien. Konkrete Politik? Fehlanzeige. Doch China gelang es, ein Thema zu setzen, das vor allem seinen Interessen und denen Russlands dient. Von…",
+          "publishedAt": "2026-11-19T18:30:48.000Z"
+        },
+        {
+          "title": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
+          "summary": "Die \"Koalition der Willigen\" verspricht, der Ukraine \"so lange wie nötig\" zu helfen. Nach dem Gipfel in Berlin rief Kanzler Merz Russlands Präsident Putin auf, die Waffen niederzulegen. Einen Frieden könne es nur mit…",
+          "publishedAt": "2026-11-19T18:22:57.000Z"
+        },
+        {
+          "title": "Marktbericht: Keine Erholung trotz Anthropic-Euphorie",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
-          "summary": "Vor dem Rekordbörsengang des KI-Entwicklers Anthropic steigt an den Aktienmärkten die Spannung. An der Frankfurter Börse herrscht vorsichtiger Optimismus, der DAX dürfte etwas fester starten.",
-          "publishedAt": "2026-11-19T06:33:47.000Z",
-          "titleEn": "Market report: Investors are optimistic about entering the Anthropic market",
-          "summaryEn": "Before the record-breaking IPO of AI developer Anthropic, the stock market is in an uproar. The Frankfurt Stock Exchange is cautiously optimistic that the DAX is likely to start a bit more steady."
+          "summary": "Trotz der guten Stimmung im Technologiesektor rund um den Rekord-Börsengang von Anthropic ist der DAX abgerutscht. Der deutsche Leitindex schloss auf dem tiefsten Stand seit mehr als drei Wochen.",
+          "publishedAt": "2026-11-19T17:33:52.000Z"
         },
         {
-          "title": "Liveblog zum APEC-Gipfel: ++ Trump und Xi loben sich gegenseitig ++",
+          "title": "Liveticker zu Gipfeln: ++ Macron: NATO-Beitritt der Ukraine neu verhandeln ++",
           "link": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html",
-          "summary": "Beim Gipfel der Asiatisch-Pazifischen Wirtschaftsgemeinschaft (APEC) hat das Treffen von Chinas Präsident Xi und US-Präsident Trump begonnen. Zuvor war Trump mit Russlands Präsident Putin zusammengekommen. Die…",
-          "publishedAt": "2026-11-19T06:47:38.000Z",
-          "titleEn": "Live blog for APEC summit: ++ Trump and Xi praise each other ++",
-          "summaryEn": "At the summit of the Asia-Pacific Economic Community (APEC), the meeting between Chinese President Xi and US President Trump has begun. Earlier, Trump had met with Russian President Putin. The..."
+          "summary": "Frankreichs Präsident Macron will erneut über einen Beitritt der Ukraine zur NATO sprechen. Der britische Premierminister Burnham sieht Europa nach entschlossenen Gesprächen bereit für Verhandlungen.",
+          "publishedAt": "2026-11-19T18:21:46.000Z"
         },
         {
-          "title": "Krim-Brücke nach drittem Angriff in einer Woche erneut gesperrt",
-          "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-zug-100.html",
-          "summary": "Nach einem erneuten Angriff auf die Krim-Brücke ist der Verkehr laut Behörden eingestellt worden. Russland transportiert über die Brücke unter anderem militärische Ausrüstung für den Krieg gegen die Ukraine.",
-          "publishedAt": "2026-11-19T04:28:24.000Z",
-          "titleEn": "Crimean bridge closed again after third attack in a week",
-          "summaryEn": "Following another attack on the Crimean Bridge, traffic has been stopped, authorities said. Russia is transporting over the bridge, among other things, military equipment for the war against Ukraine."
+          "title": "Volkswagen will Nullrunden für zwei Jahre",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
+          "summary": "Nullrunden, weniger Zulagen und Änderungen bei der Arbeitszeit - Volkswagen will harte Einschnitte in der anstehenden Tarifrunde durchsetzen. Die IG Metall wirft dem Konzern vor, mit dem \"Messer in den Rücken\" der…",
+          "publishedAt": "2026-11-19T16:11:57.000Z"
         },
         {
-          "title": "\"Koalition der Willigen\": Ukrainer fordern Einheit und Entschlossenheit",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-koalition-stimmung-100.html",
-          "summary": "In der Ukraine ist die Stimmung vor den beiden Treffen heute - in Berlin und in China - eher zurückhaltend. Risiken sehen sie insbesondere bei dem Dreigipfel in Shenzhen. Sie fordern Einheit und Entschlossenheit. Von R.…",
-          "publishedAt": "2026-11-19T04:19:46.000Z",
-          "titleEn": "\"Coalition of the Willing\": Ukrainians demand unity and determination",
-          "summaryEn": "In Ukraine, the mood ahead of the two meetings today - in Berlin and in China - is rather restrained. They see risks, particularly at the Three Summits in Shenzhen. They demand unity and determination. From R..."
+          "title": "BASF bläst Evonik-Übernahme ab",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
+          "summary": "BASF nimmt Abstand von einer Übernahme des Konkurrenten Evonik. Der Chemiekonzern gibt die Pläne auf, nachdem Evonik zuvor zwei unverbindliche Kaufangebote zurückgewiesen hatte.",
+          "publishedAt": "2026-11-19T15:55:43.000Z"
         },
         {
-          "title": "Ukraine-Gipfel in Berlin: Mit Diplomatie und Druck",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-treffen-berlin-100.html",
-          "summary": "Heute kommen knapp 30 Staats- und Regierungschefs nach Berlin, sie gehören zu den wichtigsten Unterstützern der Ukraine. Vom Treffen soll ein klares Signal ausgehen: Die Ukraine kann weiter auf Hilfe zählen. Von…",
-          "publishedAt": "2026-11-19T04:05:32.000Z",
-          "titleEn": "Ukraine summit in Berlin: with diplomacy and pressure",
-          "summaryEn": "Today, almost 30 heads of state and government come to Berlin, and they are among the main supporters of Ukraine. The meeting should send a clear signal that Ukraine can continue to count on help. From..."
+          "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
+          "summary": "Anthropic gelingt der größte Börsengang aller Zeiten. Nach dem Absturz von Nvidia verbindet die KI-Branche damit neue Hoffnungen. Sind die Zweifel am Boom rund um Künstliche Intelligenz nun zerstreut? Von Angela Göpfert.",
+          "publishedAt": "2026-11-19T16:54:27.000Z"
         },
         {
-          "title": "Anthropic-Börsengang wird Musk-Rekord übertreffen",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
-          "summary": "Zum ersten Mal geht mit Anthropic ein maßgebliches KI-Unternehmen an den Markt. Der Börsengang wird der größte in der Geschichte. Ist das der Stimmungstest für die gesamte Branche? Giselle Ucar über die Ambitionen des…",
-          "publishedAt": "2026-11-19T06:44:41.000Z",
-          "titleEn": "Anthropic's stock market share is surpassing Musk's record",
-          "summaryEn": "For the first time ever, Anthropic is bringing a major AI company to market. The IPO will be the biggest in history. Is this the mood test for the entire industry? Giselle Ucar about the ambitions of the..."
+          "title": "EGMR-Urteil: Corona-Impfpflichten waren menschenrechtskonform",
+          "link": "https://www.tagesschau.de/ausland/europa/egmr-corona-impfpflicht-100.html",
+          "summary": "Zur Bekämpfung der Covid-19-Pandemie wurden Personen, die beispielsweise in Krankenhäusern oder Rettungsdiensten arbeiteten, verpflichtet, sich gegen Corona impfen zu lassen. Nun hat der EGMR entschieden. Von A.…",
+          "publishedAt": "2026-11-19T15:24:28.000Z"
         },
         {
-          "title": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
-          "link": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
-          "summary": "Die USA und Venezuela haben ein Militärabkommen unterzeichnet, wie US-Verteidigungsminister Hegseth mitteilte. Mit dem bereits angekündigten Ölabkommen werde die Straße von Hormus zudem \"irrelevant\".",
-          "publishedAt": "2026-11-19T02:10:36.000Z",
-          "titleEn": "Military agreement signed between Venezuela and the United States",
-          "summaryEn": "The United States and Venezuela have signed a military agreement, as U.S. Secretary of Defense Hegseth has announced. In addition, the previously announced oil agreement will make the Strait of Hormuz 'irrelevant'."
+          "title": "Cupic: Biobauer, Dozent und nun Serbiens Parlamentspräsident",
+          "link": "https://www.tagesschau.de/ausland/europa/cupic-parlamentspraesident-serbien-100.html",
+          "summary": "Ein Biobauer und Dozent, der sechs Kinder hat und in einem Dorf lebt. Aleksandar Cupic ist für Anhänger der Studentischen Liste der Inbegriff eines Volksvertreters. Nun ist er vorerst der mächtigste Mann in Serbien. Von…",
+          "publishedAt": "2026-11-19T15:08:53.000Z"
         },
         {
-          "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
-          "summary": "UniCredit garantiert Standort und Arbeitnehmerrechte - der Bund verzichtet auf Aufsichtsratsvertreter: Die Bundesregierung und die italienische Großbank haben sich bei der Commerzbank-Übernahme geeinigt.",
-          "publishedAt": "2026-11-19T01:06:22.000Z",
-          "titleEn": "Commerzbank acquisition: agreement between the Federal Government and UniCredit",
-          "summaryEn": "UniCredit guarantees location and workers' rights - the Federal Republic of Germany does not have supervisory board representatives: the Federal Government and the Italian central bank have agreed to acquire Commerzbank."
-        },
-        {
-          "title": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
-          "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
-          "summary": "Trotz der Waffenruhe hat Israels Armee nach eigenen Angaben einen neuen Einsatz im Zentrum des Gazastreifens begonnen. Ziel des Angriffs sei Infrastruktur der Terrororganisation Hamas. Die Islamisten werfen Israel…",
-          "publishedAt": "2026-11-18T21:04:52.000Z",
-          "titleEn": "Israeli army launches operation in Hamas-controlled area",
-          "summaryEn": "Despite the ceasefire, the Israeli army has reportedly begun a new operation in the center of Gaza. The target of the attack was the infrastructure of the terrorist organization Hamas. The Islamists are throwing Israel..."
-        },
-        {
-          "title": "Team aus Karlsruhe erhält Zukunftspreis für Mikrochip-Forschung",
-          "link": "https://www.tagesschau.de/wissen/forschung/zukunftspreis-110.html",
-          "summary": "Mit dem Deutschen Zukunftspreis des Bundespräsidenten soll besonders innovative Forschung ausgezeichnet werden. Dieses Jahr geht er an ein Forscher-Team, das an einer Technik gegen Datenstau bei Mikrochips arbeitet.",
-          "publishedAt": "2026-11-18T19:44:46.000Z",
-          "titleEn": "Team from Karlsruhe receives future prize for microchip research",
-          "summaryEn": "The German Future Prize of the President of the Federal Republic of Germany is intended to honour particularly innovative research. This year, he's joining a research team that's working on an anti-data jam technique on microchips."
+          "title": "Erstmals weltweit mehr Energie zum Kühlen als zum Heizen verbraucht",
+          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/energieverbrauch-weltweit-heizen-kuehlen-100.html",
+          "summary": "Aufgrund der steigenden Temperaturen auf der Erde wurde laut Internationaler Energieagentur weltweit erstmals mehr Energie zum Kühlen als zum Heizen verbraucht. Der \"World Energy Outlook\" geht auch auf die Auswirkungen…",
+          "publishedAt": "2026-11-19T14:51:14.000Z"
         }
       ]
     },
@@ -99,97 +79,77 @@
         "homepage": "https://www.spiegel.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-19T06:54:14.757Z",
+      "fetchedAt": "2026-11-19T18:49:15.336Z",
       "items": [
         {
-          "title": "Bundesregierung: Michael Kretschmer rügt Koalition für Umgang mit Stromsteuer-Streit",
-          "link": "https://www.spiegel.de/politik/deutschland/bundesregierung-michael-kretschmer-ruegt-koalition-fuer-umgang-mit-stromsteuer-streit-a-3dc6a8c7-65fa-4056-92a1-8c4571bba0b2#ref=rss",
-          "summary": "Sachsens Ministerpräsident Kretschmer lobt die Senkung der Stromsteuer, wirft der Koalition aber vor, den Streit darum schlecht gelöst zu haben. Es gehe um das Vertrauen in die Demokratie.",
-          "image": "https://cdn.prod.www.spiegel.de/images/e4900ab5-30c2-4caf-852d-97c06297f8d7_w520_r2.08_fpx52.66_fpy54.99.jpg",
-          "publishedAt": "2026-11-19T06:48:00.000Z",
-          "titleEn": "Federal government: Michael Kretschmer organizes coalition to deal with the electricity tax dispute",
-          "summaryEn": "Saxon Prime Minister Kretschmer praised the reduction in electricity taxes, but accused the coalition of having poorly resolved the dispute. It's about trust in democracy."
+          "title": "Fifa-Spitze: Philippe Diallo und Kohzo Tashima fordern Infantino heraus",
+          "link": "https://www.spiegel.de/sport/fifa-spitze-philippe-diallo-und-kohzo-tashima-fordern-infantino-heraus-a-1a75be7e-d1c7-44de-b757-40e59817be63#ref=rss",
+          "summary": "Jetzt ist es offiziell: Zwei Kandidaten treten bei der Wahl im März gegen den Fifa-Präsidenten Infantino an – der Franzose Diallo und der Japaner Tashima. Derweil erhöhen die Europäer weiter den Druck auf den Fifa-Boss.",
+          "image": "https://cdn.prod.www.spiegel.de/images/6ea5af84-035e-443c-a3c0-b6dcdb3cdd69_w520_r2.08_fpx33.34_fpy50.jpg",
+          "publishedAt": "2026-11-19T18:11:00.000Z"
         },
         {
-          "title": "Studie von »Save the Children«: Fast jedes vierte Kind weltweit lebt in einem Konfliktgebiet",
-          "link": "https://www.spiegel.de/ausland/studie-von-save-the-children-fast-jedes-vierte-kind-weltweit-lebt-in-einem-konfliktgebiet-a-77660933-3505-49bf-af7a-b882e79e327d#ref=rss",
-          "summary": "Die Zahl der Minderjährigen, die in einem Kriegs- oder Kriegsgebiet ausharren, hat einen neuen Höchststand erreicht. Laut einer Studie von »Save the Children« waren 2025 rund 589 Millionen Kinder weltweit betroffen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/88aaa929-208d-4f88-8be5-b1e7ac1a9b0f_w520_r2.08_fpx63.87_fpy50.jpg",
-          "publishedAt": "2026-11-19T06:44:00.000Z",
-          "titleEn": "Study by  ⁇ Save the Children ⁇ : Almost one in four children worldwide lives in conflict zones",
-          "summaryEn": "The number of minors persevering in a war or war zone has reached a new peak. According to a study by Save the Children, around 589 million children worldwide will be affected by this disease by 2025."
+          "title": "»GTA 6« im Newsblog: So testet der SPIEGEL »GTA 6«",
+          "link": "https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-bundeskanzler-merz-in-vice-city-so-springt-die-politik-auf-den-gta-6-hype-auf-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss",
+          "summary": "Ein neunköpfiges SPIEGEL-Team berichtet über die wichtigsten News und Hintergründe rund um den »GTA 6«-Release. Ein Blick hinter die Kulissen des Tests – und die neuesten Erkenntnisse. Der Liveblog (ohne Spoiler).",
+          "image": "https://cdn.prod.www.spiegel.de/images/02d8627e-0205-461c-bf2f-b65e4adafb92_w520_r2.08_fpx35.32_fpy54.95.jpg",
+          "publishedAt": "2026-11-19T18:10:00.000Z"
         },
         {
-          "title": "Deutsche Telekom steigt bei Europas KI-Hoffnung Mistral ein",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-telekom-steigt-bei-europas-ki-hoffnung-mistral-ein-a-d3e7a956-a3eb-4eec-8f7e-0366020961bc#ref=rss",
-          "summary": "Europas KI-Hoffnungswert Mistral erhält 100 Millionen Euro vom Bonner Telekom-Konzern. Geplant ist eine strategische Partnerschaft. Reicht das, um gegen OpenAI und Anthropic zu bestehen?",
-          "image": "https://cdn.prod.www.spiegel.de/images/6b918360-4d0c-47f4-b2c2-44b17659a22c_w520_r2.08_fpx57.31_fpy49.99.jpg",
-          "publishedAt": "2026-11-19T06:30:00.000Z",
-          "titleEn": "Deutsche Telekom joins the AI hope of Europe Mistral",
-          "summaryEn": "Mistral is receiving 100 million euros from the Bonn telecoms group. A strategic partnership is planned. Is that enough to stand up to OpenAI and Anthropic?"
+          "title": "Friedrich Merz lästert über Shenzhen-Treffen als »Bildtermin« – und sichert Kyjiw weitere Unterstützung zu",
+          "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-laestert-ueber-shenzhen-treffen-als-bildtermin-und-sichert-kyjiw-weitere-unterstuetzung-zu-a-1a623a3e-8112-4d7c-b509-2c29d1453e65#ref=rss",
+          "summary": "Deutliche Worte an Moskau, mehr Hilfe für Kyjiw: Beim Ukrainegipfel in Berlin haben 40 Länder Solidarität für das angegriffene Land demonstriert. Laut Kanzler Friedrich Merz sind die russischen Verluste enorm.",
+          "image": "https://cdn.prod.www.spiegel.de/images/5329f29a-38ad-40dd-9dd3-7b33d2d1afda_w520_r2.08_fpx60.34_fpy44.99.jpg",
+          "publishedAt": "2026-11-19T17:56:00.000Z"
         },
         {
-          "title": "Deutsche-Bank-Leak: Grüne verlangen Einberufung des Nationalen Sicherheitsrats",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-leak-gruene-verlangen-einberufung-des-nationalen-sicherheitsrats-a-2f07df9d-87d1-440d-9f24-1e90751c2883#ref=rss",
-          "summary": "Das gewaltige Datenleak bei der Deutschen Bank alarmiert Sicherheitspolitiker. Die Grünen drängen auf eine Untersuchung durch einen Kabinettsausschuss, ein CDU-Politiker pocht auf striktere Standards.",
-          "image": "https://cdn.prod.www.spiegel.de/images/881ff805-8c65-4974-93a1-c93e3984561a_w520_r2.08_fpx33.34_fpy50.jpg",
-          "publishedAt": "2026-11-19T06:24:00.000Z",
-          "titleEn": "German bank leak: Greens call for the National Security Council",
-          "summaryEn": "The massive data breach at Deutsche Bank is alarming security officials. The Greens are pushing for a cabinet committee investigation, a CDU politician is pushing for stricter standards."
+          "title": "London: Ein Mann bot seine Frau online zum Missbrauch an – vier Mittäter schuldig gesprochen",
+          "link": "https://www.spiegel.de/panorama/justiz/london-ein-mann-bot-seine-frau-online-zum-missbrauch-an-vier-mittaeter-schuldig-gesprochen-a-9241ec7a-518f-4682-b643-0c44f708d600#ref=rss",
+          "summary": "Über 15 Jahre hat ein 50-Jähriger seine damalige Ehefrau sediert, vergewaltigt und anderen Männern zum Missbrauch angeboten. Er hatte sich bereits schuldig bekannt. Nun wurden vier weitere Männer verurteilt.",
+          "image": "https://cdn.prod.www.spiegel.de/images/0dd9af58-1a15-4d23-8a1b-7db49c0c9ace_w520_r2.08_fpx49.33_fpy50.jpg",
+          "publishedAt": "2026-11-19T17:52:00.000Z"
         },
         {
-          "title": "Jeffrey Epstein, Donald Trump: Die gefährlichsten Kunden der Deutschen Bank",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-donald-trump-die-gefaehrlichsten-kunden-der-deutschen-bank-a-ab8e3ad4-6b0c-463f-b027-8388b3a54cf8#ref=rss",
-          "summary": "Donald Trump, Jeffrey Epstein, Putins Oligarchen: Die Podcastserie »Karrierekiller« lüftet die Bankgeheimnisse der Reichsten und Mächtigsten. Hören Sie hier alle drei Folgen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/c1c3ecc8-e58d-48a3-bc14-2162e4c9bef3_w520_r2.08_fpx28.1_fpy49.98.jpg",
-          "publishedAt": "2026-11-19T06:09:00.000Z",
-          "titleEn": "Jeffrey Epstein, Donald Trump: The most dangerous customers of Deutsche Bank",
-          "summaryEn": "Donald Trump, Jeffrey Epstein, Putin's oligarchs: The podcast series \"Career Killers\" reveals the bank secrets of the richest and most powerful. Listen to all three episodes here."
+          "title": "Constantin Schreiber: Wofür steht der Ex-Tagesschau-Sprecher?",
+          "link": "https://www.spiegel.de/kultur/tv/constantin-schreiber-wofuer-steht-der-ex-tagesschau-sprecher-a-949a01f3-a318-4a15-a54c-b1cb7e28c41b#ref=rss",
+          "summary": "Der Ex-»Tagesschau«-Sprecher Constantin Schreiber baut sich seit Jahren mit populistisch angehauchten Videos eine YouTube-Karriere auf. Beobachtungen über einen Mann, der fast alles tut, um stattzufinden.",
+          "image": "https://cdn.prod.www.spiegel.de/images/ceda6323-4895-42f5-8945-e46eea11f059_w520_r2.08_fpx52.66_fpy52.98.jpg",
+          "publishedAt": "2026-11-19T17:39:00.000Z"
         },
         {
-          "title": "Deutsche Bank: Datenleak \"Inside Deutsche Bank\" enthüllt dunkle Geheimnisse",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-datenleak-inside-deutsche-bank-enthuellt-dunkle-geheimnisse-a-088e254f-17a3-4855-9869-39206c702fee#ref=rss",
-          "summary": "Ein beispielloses Datenleck erlaubt tiefe Einblicke ins Innere der wichtigsten Bank des Landes. Deutsche Politiker und russische Oligarchen, Donald Trump und Jeffrey Epstein – sie alle tauchen darin auf. Und damit auch…",
-          "image": "https://cdn.prod.www.spiegel.de/images/40a50f69-56aa-44cd-928e-cc6b2fe8317a_w520_r2.08_fpx53_fpy60.png",
-          "publishedAt": "2026-11-19T06:08:00.000Z",
-          "titleEn": "Deutsche Bank: Inside Deutsche Bank data leak reveals dark secrets",
-          "summaryEn": "An unprecedented data breach allows deep insights into the interior of the country's most important bank. German politicians and Russian oligarchs, Donald Trump and Jeffrey Epstein -- they all show up in it. And with that..."
+          "title": "News des Tages: Gipfel mit Xi, Putin und Trump, Ukraine-Unterstützer in Berlin, GTA 6",
+          "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-gipfel-mit-xi-putin-und-trump-ukraine-unterstuetzer-in-berlin-gta-6-a-9c7016e8-931c-4e2e-988f-9a72b168b248#ref=rss",
+          "summary": "Große Inszenierung, wenig Ergebnisse: Xi, Trump und Putin zelebrieren ihren historischen Gipfel. Der Kanzler kontert mit einem Aufmarsch der Ukraineunterstützer. Und: Wie gut ist »GTA 6«? Das ist die Lage am…",
+          "image": "https://cdn.prod.www.spiegel.de/images/070ce14a-c66e-472a-932e-508ee106cb2f_w520_r2.08_fpx55_fpy38.jpg",
+          "publishedAt": "2026-11-19T17:33:00.000Z"
         },
         {
-          "title": "Apec-Gipfel in Shenzhen, China: Donald Trump im Gästehaus von Xi Jingping angekommen",
-          "link": "https://www.spiegel.de/ausland/apec-gipfel-in-shenzhen-china-so-laeuft-der-gipfel-mit-donald-trump-xi-jinping-und-wladimir-putin-a-b4e9137d-42fa-4ff0-9d36-08df392ffbce#ref=rss",
-          "summary": "Noch nie trafen sich die Staatschefs von China, den USA und Russland gemeinsam zu offiziellen Gesprächen. Eine erste bilaterale Begegnung zwischen Putin und Trump gab es – und der lobte den Russen als »meinen Freund«.…",
-          "image": "https://cdn.prod.www.spiegel.de/images/78761436-de78-4bd6-83d2-c358b13c1dd9_w520_r2.08_fpx64.67_fpy45.jpg",
-          "publishedAt": "2026-11-19T06:04:00.000Z",
-          "titleEn": "Apec summit in Shenzhen, China: Donald Trump arrives at Xi Jingping's guest house",
-          "summaryEn": "Never before have the heads of state of China, the United States and Russia met for official talks together. There was a first bilateral meeting between Putin and Trump and he praised the Russians as my friend."
+          "title": "Audi A2, Ente, Renault Twingo und Co.: Alles nur billiger Abklatsch?",
+          "link": "https://www.spiegel.de/mobilitaet/audi-a2-ente-renault-twingo-und-co-alles-nur-billiger-abklatsch-a-043c2ef5-00ba-439f-8c5d-1689e0f70a2b#ref=rss",
+          "summary": "Die Autoindustrie lockt Kunden mit elektrischen Neuauflagen ikonischer Fahrzeuge. Sollen hier nur nostalgische Gefühle zu Geld gemacht werden oder halten die Neuen, was sie versprechen? Zehn Modelle im…",
+          "image": "https://cdn.prod.www.spiegel.de/images/6c9dcac5-0aa4-4c26-a94a-65d68d6febf3_w520_r2.08_fpx49_fpy44.jpg",
+          "publishedAt": "2026-11-19T17:25:00.000Z"
         },
         {
-          "title": "Deutsche Bank: Interne Unterlagen zeigen, wie die Bank ihr Klimaversprechen bricht",
-          "link": "https://www.spiegel.de/wissenschaft/deutsche-bank-interne-unterlagen-zeigen-wie-die-bank-ihr-klimaversprechen-bricht-a-fa1ca821-1b15-4e03-ba36-b18fd76d0e51#ref=rss",
-          "summary": "Die Deutsche Bank gibt vor, nachhaltig zu sein – finanziert aber weiter Öl, Gas und Kohle. Interne Unterlagen zeigen, wie sie ihre eigenen Regeln umgeht und Schlupflöcher ausnutzt.",
-          "image": "https://cdn.prod.www.spiegel.de/images/d607dbdf-cd21-498f-b273-4bd84e47b42c_w520_r2.08_fpx51_fpy56.png",
-          "publishedAt": "2026-11-19T06:00:00.000Z",
-          "titleEn": "Deutsche Bank: Internal documents show how the bank is breaking its climate promise",
-          "summaryEn": "Deutsche Bank claims to be sustainable but continues to finance oil, gas and coal. Internal records show her circumventing her own rules and exploiting loopholes."
+          "title": "Reform von Strafprozessen: Brechen in der Justiz neue Zeiten an?",
+          "link": "https://www.spiegel.de/panorama/justiz/reform-von-strafprozessen-brechen-in-der-justiz-neue-zeiten-an-a-27d573fa-5a56-43e4-81a0-48e50a4606b8#ref=rss",
+          "summary": "Die Bundesregierung drängt darauf, dass Gerichtsverfahren schneller gehen. Dafür sollen wichtige Vorschriften geändert werden. Anwalt Ali B. Norouzi sagt, wo er rote Linien sieht – zum Schutz von Mandanten.",
+          "image": "https://cdn.prod.www.spiegel.de/images/76306f2b-e28c-4883-afdd-04bd1df241d4_w520_r2.08_fpx67.06_fpy50.jpg",
+          "publishedAt": "2026-11-19T17:24:00.000Z"
         },
         {
-          "title": "Deutsche Bank: »Man sollte Diktaturen nicht zu stark umarmen«",
-          "link": "https://www.spiegel.de/politik/deutschland/deutsche-bank-man-sollte-diktaturen-nicht-zu-stark-umarmen-a-6a5d76df-19f2-4c09-b4c9-1dbb49e4855a#ref=rss",
-          "summary": "Harold James erforschte die Nazivergangenheit der Deutschen Bank. Im Umgang mit Trump, Putin und Xi erkennt der Historiker alte Muster: Der Konzern habe bis heute zu wenig aus seiner Geschichte gelernt.",
-          "image": "https://cdn.prod.www.spiegel.de/images/3129a2a0-ecfd-455e-94ad-0ba330b970c7_w520_r2.08_fpx51_fpy46.png",
-          "publishedAt": "2026-11-19T06:00:00.000Z",
-          "titleEn": "Deutsche Bank:  ⁇ We should not embrace dictatorships too strongly ⁇",
-          "summaryEn": "Harold James studied the Nazi past of the Deutsche Bank. In dealing with Trump, Putin and Xi, the historian recognizes old patterns: the corporation has so far learned too little from its history."
+          "title": "KI-Firma Anthropic startet mit deutlichem Kursplus an der Börse",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/ki-firma-anthropic-startet-mit-deutlichem-kursplus-an-der-boerse-a-47549ed1-4e51-43b0-84c4-af4d0b5c2318#ref=rss",
+          "summary": "Anthropic ist keine sechs Jahre alt und punktet an der Börse mit einer Bewertung von zwei Billionen Dollar. Der Rekordbörsengang macht viele Mitarbeiter zu Millionären – zumindest auf dem Papier.",
+          "image": "https://cdn.prod.www.spiegel.de/images/1452acf7-ab9c-4e99-81c4-06a393f90b6f_w520_r2.08_fpx65.35_fpy50.jpg",
+          "publishedAt": "2026-11-19T17:06:00.000Z"
         },
         {
-          "title": "Palantir: Paul Achleitner wollte umstrittene Software bei Deutscher Bank einführen",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-palantir-nur-fuer-deine-augen-a-0d236be7-5d15-4a87-b4ac-702583986f9e#ref=rss",
-          "summary": "Ex-Aufsichtsratschef Paul Achleitner wollte bei der Deutschen Bank eine umstrittene Analysesoftware von Palantir einführen. SPIEGEL-Recherchen zeigen: Er scheiterte am Widerstand der internen Experten.",
-          "image": "https://cdn.prod.www.spiegel.de/images/7a06aa42-36d9-4c7e-af2d-baaac772ed07_w520_r2.08_fpx50_fpy50.png",
-          "publishedAt": "2026-11-19T06:00:00.000Z",
-          "titleEn": "Palantir: Paul Achleitner wanted to introduce controversial software at Deutsche Bank",
-          "summaryEn": "Former Supervisory Board Chairman Paul Achleitner wanted to introduce Palantir's controversial analysis software to Deutsche Bank. SPIEGEL research shows that he failed to resist internal experts."
+          "title": "Niedersachsen: SPD-Justizministerin Kathrin Wahlmann tritt zurück",
+          "link": "https://www.spiegel.de/politik/deutschland/niedersachsen-spd-justizministerin-kathrin-wahlmann-tritt-zurueck-a-21bfe8d2-63a7-46c0-9aad-ec1df55bbf7e#ref=rss",
+          "summary": "Hat Kathrin Wahlmann Einfluss auf ein Verfahren gegen einen korrupten Staatsanwalt genommen? Niedersachsens Justizministerin stand zuletzt unter Druck, konnte Vorwürfe nicht entkräften. Nun legt die SPD-Politikerin ihr…",
+          "image": "https://cdn.prod.www.spiegel.de/images/90ce6c3d-d3fc-4a53-8660-15bc92ca97f2_w520_r2.08_fpx46_fpy41.jpg",
+          "publishedAt": "2026-11-19T16:59:00.000Z"
         }
       ]
     }

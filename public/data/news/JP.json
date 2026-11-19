@@ -8,63 +8,49 @@
         "homepage": "https://news.web.nhk/newsweb",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-19T06:54:33.695Z",
+      "fetchedAt": "2026-11-19T18:49:32.694Z",
       "items": [
         {
-          "title": "高市首相 APEC首脳会議 終了後の記者会見",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78187",
-          "summary": "中国南部の※深センを訪れている高市総理大臣は、19日午前、APEC＝アジア太平洋経済協力会議の首脳会議を前に、18日夜の晩さん会の前に続き、習近平国家主席の出迎えを受けました。 首脳会議のあと、高市総…",
-          "publishedAt": "2026-11-19T06:16:00.000Z",
-          "titleEn": "High City Prime Minister APEC summit after press conference",
-          "summaryEn": "The premier of Guangzhou, who is visiting Shenzhen, southern China, was greeted by President Xi Jinping on the morning of the 19th, before the summit of the Asia-Pacific Economic Cooperation Conference, followed by the summit on the evening of the 18th. After the summit, the High Sheriff..."
-        },
-        {
-          "title": "米中ロ3か国首脳会談開始へ",
+          "title": "史上初 米中ロ首脳会談で「平和宣言」 核リスク低減へ対話を",
           "link": "https://news.web.nhk/newsweb/na/nd-20261119de78117",
-          "summary": "中国の※深センで開かれているAPEC＝アジア太平洋経済協力会議は2日目の19日、各国の首脳などが参加する会合で議長国、中国の習近平国家主席が演説し、「アジア太平洋の共同体の構築を推し進めなければならな…",
-          "publishedAt": "2026-11-19T06:47:27.000Z",
-          "titleEn": "We're about to start a three-nation summit.",
-          "summaryEn": "On the 19th of the second APEC Asia-Pacific Economic Cooperation Conference in Shenzhen, China, where leaders from all over the world will attend, the President and Chinese President Xi Jinping addressed the meeting and said, \"We must advance the building of the community in the Asia Pacific..."
+          "summary": "アメリカのトランプ大統領、中国の習近平国家主席、ロシアのプーチン大統領による初めての3か国の首脳会談が中国の※深センで日本時間の19日夕方、行われました。 3か国の首脳は「平和宣言」を取りまとめ、核…",
+          "publishedAt": "2026-11-19T12:32:00.000Z"
         },
         {
-          "title": "死亡の3歳女児“パパたたく” 警察調べた児相側記録に 兵庫",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78321",
-          "summary": "兵庫県伊丹市の自宅で3歳の次女に暴行を加えて死亡させたとして父親が逮捕された事件で、警察が調べた児童相談所側の記録の中に、「次女が『パパがたたく』と話している」という趣旨の記載があったことが、捜査関係…",
-          "publishedAt": "2026-11-19T05:22:00.000Z",
-          "titleEn": "The three-year-old girl's death was ruled a homicide.",
-          "summaryEn": "In the case of his father being arrested for assaulting and killing his three-year-old daughter at his home in Idhan, Haryana, the records of the children's counseling agency investigated by the police stated that the intent was to \"speak to her father\"."
+          "title": "ロヒンギャ迫害はジェノサイドと認定 国際司法裁判所が判決",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78716",
+          "summary": "ミャンマー国内の少数派、ロヒンギャの人たちに対する迫害をめぐって、国際司法裁判所は19日、ジェノサイド、集団殺害に当たるとしてミャンマー政府の責任を認める判決を言い渡しました。 ミャンマー西部では2…",
+          "publishedAt": "2026-11-19T13:18:00.000Z"
         },
         {
-          "title": "米中首脳会談 終わる",
+          "title": "米AI開発「アンソロピック」上場 過去最大規模の約13兆円調達",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261120de78753",
+          "summary": "アメリカのAI開発企業、「アンソロピック」が19日、ナスダック市場に上場しました。 調達額は813億ドル、日本円にしておよそ13兆円にのぼり、ことし6月に上場した宇宙開発などを手がける「スペースX」…",
+          "publishedAt": "2026-11-19T18:39:48.000Z"
+        },
+        {
+          "title": "PHPに新たなぜい弱性 修正プログラム公開 サービス一時停止も",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78620",
+          "summary": "先月、重大なぜい弱性が見つかってウェブサイト停止などの影響が出たプログラミング言語「PHP」について、新たに重大なぜい弱性があることが分かり、運営団体は日本時間の19日夜、修正プログラムを公開しました…",
+          "publishedAt": "2026-11-19T17:19:49.000Z"
+        },
+        {
+          "title": "高市首相 トランプ大統領から米中ロ首脳会談の説明受ける",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78721",
+          "summary": "高市総理大臣は19日夜、アメリカのトランプ大統領と電話会談を行いました。このあと高市総理大臣は記者団に対し、アメリカ、中国、ロシアの3か国の首脳による会談の内容などについて説明を受けた上で、国際社会の…",
+          "publishedAt": "2026-11-19T14:48:26.000Z"
+        },
+        {
+          "title": "【動画】米中首脳会談 貿易やAIなど意見を交わしたか",
           "link": "https://news.web.nhk/newsweb/na/nd-20261119de78419",
-          "summary": "中国の国営メディアによりますと、※深センで行われていたアメリカのトランプ大統領と習近平国家主席の首脳会談がさきほど、日本時間の午後3時半ごろ終わりました。両者の会談は5月の北京、9月のワシントンに続き…",
-          "publishedAt": "2026-11-19T06:42:14.000Z",
-          "titleEn": "The US-China summit is over.",
-          "summaryEn": "According to Chinese state media, the summit meeting between US President Trump and Xi Jinping in Shenzhen recently ended at 3:30 pm Japanese time. The two sides met in Beijing in May and Washington in September."
+          "summary": "アメリカのトランプ大統領と中国の習近平国家主席は中国の※深センでことし3回目となる首脳会談を行い、米中両国が安定した関係の構築に引き続き取り組むことを確認するとともに、貿易やAIなどについて意見を交わ…",
+          "publishedAt": "2026-11-19T10:07:46.000Z"
         },
         {
-          "title": "【動画解説】米中首脳会談 注目は",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78412",
-          "summary": "中国の国営メディアによりますと、中国の※深センで行われていたアメリカのトランプ大統領と習近平国家主席の首脳会談が日本時間の午後3時半ごろ終わりました。 両者の会談は5月の北京、9月のワシントンに続き、…",
-          "publishedAt": "2026-11-19T06:44:35.000Z",
-          "titleEn": "I'm going to talk to you about this.",
-          "summaryEn": "According to Chinese state media, the summit meeting between US President Trump and Xi Jinping in Shenzhen, China, ended at about 3:30 p.m. Japanese time. The two sides met in Beijing in May and Washington in September."
-        },
-        {
-          "title": "【地震情報】熊本県で震度5弱 熊本地震の一連 1週間程度は注意",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78097",
-          "summary": "19日未明、震度5弱の揺れを観測する地震があった熊本県では、その後も地震活動が続いています。気象庁は、ことし7月の熊本地震の一連の活動だとして、今後1週間ほどは最大震度5弱程度の地震に注意するよう呼び…",
-          "publishedAt": "2026-11-19T04:38:18.000Z",
-          "titleEn": "Seismic activity in Hokkaido Prefecture has been observed for about a week.",
-          "summaryEn": "The quake, which was recorded on the 19th, was of magnitude five, and the quake has continued in the Kunbu Prefecture. As part of a series of events in July, the Meteorological Agency has called for a maximum of five earthquakes within the next week or so."
-        },
-        {
-          "title": "ソフトウエア「nginx」にぜい弱性 “必要な措置を”官房長官",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78324",
-          "summary": "木原官房長官はウェブサイトの運用などに世界中で広く使われている「nginx（エンジンエックス）」と呼ばれるソフトウエアにぜい弱性が見つかったとして、利用している事業者に対し、速やかにアップデートを行う…",
-          "publishedAt": "2026-11-19T04:37:08.000Z",
-          "titleEn": "We've got a lot of weakness in the Nginx software.",
-          "summaryEn": "The Chief of Staff of the U.S. Department of Transportation has identified a major weakness in the software called Nginx, which is widely used worldwide for the operation of websites and other applications, and has promptly updated the software to the operators using it."
+          "title": "探査機ボイジャー1号 トラブル発生も「1光日」到達確認 NASA",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261120de78757",
+          "summary": "NASA＝アメリカ航空宇宙局は、無人の宇宙探査機「ボイジャー1号」が日本時間の18日午後7時すぎに、地球からの距離が光の速度で1日かかる「1光日」、およそ259億キロに到達したことを確認したと19日に…",
+          "publishedAt": "2026-11-19T17:59:54.000Z"
         }
       ]
     },
@@ -75,67 +61,57 @@
         "homepage": "https://www.asahi.com",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-19T06:54:33.622Z",
+      "fetchedAt": "2026-11-19T18:49:32.470Z",
       "items": [
         {
-          "title": "下半身に障害ある男性宅に放火か、訪問介護の男「スピリタスで着火」",
-          "link": "http://www.asahi.com/articles/ASVCM10CSVCMUTIL004M.html?ref=rss",
-          "publishedAt": "2026-11-19T06:30:00.000Z",
-          "titleEn": "You can set fire to a man's home with a disability, or a visiting nurse, \"Spirit fire\"."
+          "title": "愛子さま、コーラス同好会に予定外の声かけ 「力強くも優しい歌声」",
+          "link": "http://www.asahi.com/articles/ASVCK0FSPVCKUQIP008M.html?ref=rss",
+          "publishedAt": "2026-11-19T12:33:02.000Z"
         },
         {
-          "title": "2人死亡ひき逃げ事故、容疑者の勤務先を家宅捜索 神奈川・海老名",
-          "link": "http://www.asahi.com/articles/ASVCL7G17VCLULOB00SM.html?ref=rss",
-          "publishedAt": "2026-11-19T05:04:58.000Z",
-          "titleEn": "Two people were killed, two people were killed in a hit-and-run accident, two suspects were searching their homes,"
-        },
-        {
-          "title": "燃え残った部品が弾薬と接触、15秒後に発火 戦車暴発で防衛省発表",
-          "link": "http://www.asahi.com/articles/ASVCM1121VCMUTIL00TM.html?ref=rss",
-          "publishedAt": "2026-11-19T04:39:33.000Z",
-          "titleEn": "The burning parts were exposed to ammunition, fired 15 seconds later by a tank explosion."
-        },
-        {
-          "title": "SNSで話題になる皇居への馬車列 車と選べるのに多くの大使が希望",
-          "link": "http://www.asahi.com/articles/ASVC23CX5VC2UTIL010M.html?ref=rss",
-          "publishedAt": "2026-11-19T04:00:00.000Z",
-          "titleEn": "Many ambassadors hope to be able to choose between a horse-drawn carriage and a carriage to the royal palace, which will be the subject of discussion on SNS."
-        },
-        {
-          "title": "死亡の男性、骨折60カ所以上 4年前の傷害致死容疑で20代男逮捕",
-          "link": "http://www.asahi.com/articles/ASVCM0CPGVCMTIPE009M.html?ref=rss",
-          "publishedAt": "2026-11-19T03:33:14.000Z",
-          "titleEn": "A 20-year-old man was arrested on suspicion of murder, wounding and murder four years ago."
-        },
-        {
-          "title": "愛子さまに新品種のラン、親子3代ゆかり シンガポール「ラン外交」",
-          "link": "http://www.asahi.com/articles/ASVCL0GXWVCLUTIL01BM.html?ref=rss",
-          "publishedAt": "2026-11-19T03:22:17.000Z",
-          "titleEn": "I'm going to tell you, my dear, a new kind of ranch, a new generation of ranchers, a Singaporean ranch diplomacy."
-        },
-        {
-          "title": "空き巣未遂の疑いで無職男を書類送検 見守りカメラに物色する様子も",
-          "link": "http://www.asahi.com/articles/ASVCM0P4LVCMULOB00YM.html?ref=rss",
-          "publishedAt": "2026-11-19T03:14:13.000Z",
-          "titleEn": "I'm also looking at how unemployed men are being searched and searched by security cameras for suspected nesting attempts."
-        },
-        {
-          "title": "ベトナムから特殊詐欺指示? 困窮の留学生勧誘、自宅に携帯100台",
-          "link": "http://www.asahi.com/articles/ASVCL41Q2VCLUTIL02NM.html?ref=rss",
-          "publishedAt": "2026-11-19T02:30:00.000Z",
-          "titleEn": "Special warrant for fraud from Vietnam? I'm going to get 100 cell phones to my house."
-        },
-        {
-          "title": "3歳女児虐待死「なぜ死んだのかわからない」 容疑の父親、逮捕前に",
+          "title": "3歳女児死亡「目を離している間に」 容疑の父親、逮捕前の調べに",
           "link": "http://www.asahi.com/articles/ASVCM04L8VCMPIHB002M.html?ref=rss",
-          "publishedAt": "2026-11-19T01:29:17.000Z",
-          "titleEn": "\"I don't know why he died\"."
+          "publishedAt": "2026-11-19T12:22:54.000Z"
         },
         {
-          "title": "前橋市の住宅街で再びクマ出没か 人が追いかけられているとの情報も",
+          "title": "米軍オスプレイが石垣空港に緊急着陸 「機体故障のため」",
+          "link": "http://www.asahi.com/articles/ASVCM3T7BVCMTPOB001M.html?ref=rss",
+          "publishedAt": "2026-11-19T11:42:05.000Z"
+        },
+        {
+          "title": "「闇金ウシジマくん」出演の元俳優ら、詐欺罪で有罪判決 千葉地裁",
+          "link": "http://www.asahi.com/articles/ASVCM31XGVCMUDCB004M.html?ref=rss",
+          "publishedAt": "2026-11-19T11:30:00.000Z"
+        },
+        {
+          "title": "前橋市の住宅街で再びクマ出没か 高校生が「追いかけられた」と通報",
           "link": "http://www.asahi.com/articles/ASVCM048WVCMUHNB001M.html?ref=rss",
-          "publishedAt": "2026-11-19T01:04:43.000Z",
-          "titleEn": "We've heard that there's been another bear attack in the residential area of the city of Forehand Bridge, or people being chased."
+          "publishedAt": "2026-11-19T11:18:25.000Z"
+        },
+        {
+          "title": "生活保護終えた人への周知徹底を 支援者ら「給付漏れ続出の恐れ」",
+          "link": "http://www.asahi.com/articles/ASVCM2SSCVCMOXIE00ZM.html?ref=rss",
+          "publishedAt": "2026-11-19T09:40:00.000Z"
+        },
+        {
+          "title": "少年4人は仙台市の中学生3人と高校生1人 愛知・強殺未遂事件",
+          "link": "http://www.asahi.com/articles/ASVCM2TQVVCMOIPE006M.html?ref=rss",
+          "publishedAt": "2026-11-19T09:15:00.000Z"
+        },
+        {
+          "title": "【写真まとめ】愛子さまシンガポール訪問 ランの花束を手にほほ笑み",
+          "link": "http://www.asahi.com/articles/ASVCL3J2RVCLUQIP03VM.html?ref=rss",
+          "publishedAt": "2026-11-19T09:00:00.000Z"
+        },
+        {
+          "title": "翌朝に泣きながら「検事正に襲われた」 飲み会同席の警察官が証言",
+          "link": "http://www.asahi.com/articles/ASVCM2SHNVCMPTIL00LM.html?ref=rss",
+          "publishedAt": "2026-11-19T08:55:05.000Z"
+        },
+        {
+          "title": "都道府県警の幹部集め臨時サイバー会議、警察庁 相次ぐ情報漏洩受け",
+          "link": "http://www.asahi.com/articles/ASVCM2P7RVCMUTIL00JM.html?ref=rss",
+          "publishedAt": "2026-11-19T08:45:00.000Z"
         }
       ]
     },
@@ -146,77 +122,77 @@
         "homepage": "https://www.japantimes.co.jp",
         "lang": "en"
       },
-      "fetchedAt": "2026-11-19T06:54:34.199Z",
+      "fetchedAt": "2026-11-19T18:49:32.821Z",
       "items": [
         {
-          "title": "New attack on Crimea bridge: Russian official",
-          "link": "https://www.japantimes.co.jp/news/2026/11/19/world/new-attack-crimea-bridge/",
-          "summary": "The bridge is seen as a symbol of Vladimir Putin's rule and Russia's annexation of Crimea, and functions as a key supply route for the region.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574992.jpg",
-          "publishedAt": "2026-11-19T05:52:00.000Z"
+          "title": "COP31 negotiators publish revised deal text with no mention of fossil fuels",
+          "link": "https://www.japantimes.co.jp/environment/2026/11/19/climate-change/cop-fossil-fuel-language/",
+          "summary": "The first draft contained two references to fossil fuels and limiting their use — a topic that deeply divides nations in the negotiations every year.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/575078.jpg",
+          "publishedAt": "2026-11-19T12:14:00.000Z"
         },
         {
-          "title": "Trump, Marcos hail alliance and pledge close trade ties",
-          "link": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/politics/trump-philippines-alliance-trade/",
-          "summary": "The U.S president later posted on social media about a \"new and completely different\" trade deal that would benefit farmers and those in energy.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574985.jpg",
-          "publishedAt": "2026-11-19T05:52:00.000Z"
+          "title": "Top U.N. court finds Myanmar committed state-sponsored genocide against Muslim Rohingya",
+          "link": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/myanmar-rohingya-genocide/",
+          "summary": "It was the first time the court held a state responsible for genocide.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/575077.jpg",
+          "publishedAt": "2026-11-19T12:00:00.000Z"
         },
         {
-          "title": "Myanmar’s army-backed leader says he is reconsidering ASEAN ties",
-          "link": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/politics/myanmar-leader-asean-ties/",
-          "summary": "ASEAN leaders said they may consider restoring Myanmar's full political representation in the group if the country progresses on resolving its crisis.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574973.jpg",
-          "publishedAt": "2026-11-19T05:25:00.000Z"
+          "title": "Rakuten Securities rushes to cope with data breach",
+          "link": "https://www.japantimes.co.jp/business/2026/11/19/companies/rakuten-securities-data-breach/",
+          "summary": "The data breach has raised questions about the company's information management system.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/575076.jpg",
+          "publishedAt": "2026-11-19T11:55:00.000Z"
         },
         {
-          "title": "Young people in Japan more inclined to have AI companion but skeptical of quality",
-          "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/society/ai-companionship-japan-young-people/",
-          "summary": "More young people in Japan are turning to AI as a social companion despite not viewing it as \"high quality,\" a new study has found.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574769.jpg",
-          "publishedAt": "2026-11-19T05:11:00.000Z"
+          "title": "South Korea court orders retrial of ex-PM Han in martial law case",
+          "link": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/south-korea-pm-retrial/",
+          "summary": "The 2024 decree issued by the president at the time, Yoon Suk Yeol, plunged the country into chaos, but lasted only around six hours.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/575075.jpg",
+          "publishedAt": "2026-11-19T11:45:00.000Z"
         },
         {
-          "title": "South Korea college exam held with strict curbs in wake of cheating scandal",
-          "link": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/society/south-korea-college-exam-cheating/",
-          "summary": "The once-a-year, nine hour long Suneung is seen as a ticket to prestigious universities, well-paid jobs and even better marriage prospects.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574947.jpg",
-          "publishedAt": "2026-11-19T04:01:00.000Z"
+          "title": "Takaichi vows to attend deliberations on tax-cut bill ‘in good faith’",
+          "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-tax-bill-deliberations/",
+          "summary": "Takaichi made these remarks at a news conference in Shenzhen, China, following a series of diplomatic engagements in the Philippines and China.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/575074.jpg",
+          "publishedAt": "2026-11-19T11:31:00.000Z"
         },
         {
-          "title": "Trump, Xi and Putin to hold first-ever trilateral summit",
-          "link": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/politics/trump-putin-xi-summit-apec/",
-          "summary": "The meeting is expected to be short on concrete results, but chock full of symbolism that could set a worrying precedent for U.S. allies.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574952.jpg",
-          "publishedAt": "2026-11-19T04:00:00.000Z"
+          "title": "Riyadh’s tallest building damaged as Saudi reports new Houthi attacks",
+          "link": "https://www.japantimes.co.jp/news/2026/11/19/world/riyadh-saudi-houthi-attacks/",
+          "summary": "A skyscraper in Riyadh housing the headquarters of Saudi Arabia's sovereign wealth fund was damaged on Thursday, witnesses said, as the kingdom reported new attacks by Yemen's Houthis.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/575073.jpg",
+          "publishedAt": "2026-11-19T11:25:00.000Z"
         },
         {
-          "title": "Mauricio Pochettino arrives at Manchester United as team fights against relegation",
-          "link": "https://www.japantimes.co.jp/sports/2026/11/19/soccer/mauricio-pochettino-arrives-united/",
-          "summary": "Pochettino has precious little time to settle into his new surroundings, with an away Premier League game at archrival Liverpool looming large on Sunday.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574955.jpg",
-          "publishedAt": "2026-11-19T03:59:00.000Z"
+          "title": "Japan government under fire for using conspiracy theory YouTuber in PR",
+          "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/conspiracy-theory-youtuber-pr/",
+          "summary": "The government says that the use of the YouTuber is intended to deepen understanding of security policy among people in their 20s and 30s.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/575071.jpg",
+          "publishedAt": "2026-11-19T10:52:00.000Z"
         },
         {
-          "title": "Rapidus may get ¥54 billion tax exemption on Hokkaido plant transfer",
-          "link": "https://www.japantimes.co.jp/business/2026/11/19/companies/japan-rapidus-tax-relief/",
-          "summary": "The plant will be transferred to a government-backed agency in 2027, which will then transfer it to Rapidus and receive Rapidus shares in exchange.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574931.jpg",
-          "publishedAt": "2026-11-19T03:42:00.000Z"
+          "title": "Nearly 40% disapprove of Takaichi’s China stance, poll shows",
+          "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-china-stance-disapprove/",
+          "summary": "The survey found that 38.4% of respondents disapprove of Takaichi's China stance, higher than the 33.6% who approved it.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/575070.jpg",
+          "publishedAt": "2026-11-19T10:45:00.000Z"
         },
         {
-          "title": "Takaichi and Putin meet on APEC sidelines amid ongoing tensions",
-          "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/takaichi-putin-russia-japan-talks/",
-          "summary": "It was the first meeting between the leaders of Japan and Russia in seven years and the first since Russia's invasion of Ukraine in 2022.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574876.jpg",
-          "publishedAt": "2026-11-19T03:36:00.000Z"
+          "title": "China, U.S. and Russia issue ‘peace declaration’ after unprecedented summit",
+          "link": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/politics/trump-putin-xi-summit-apec-nuclear-weapons/",
+          "summary": "The three countries' leaders discussed reforming the U.N., increasing petroleum product supplies, reining in international courts and nuclear weapons.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/575056.jpg",
+          "publishedAt": "2026-11-19T09:25:00.000Z"
         },
         {
-          "title": "Russian skaters out of Grand Prix event after being denied entry into Finland",
-          "link": "https://www.japantimes.co.jp/sports/2026/11/19/more-sports/russia-finland-figure-skating/",
-          "summary": "As of Monday, Russian citizens with Schengen visas are only allowed into Finland to work in tasks that are deemed essential to the country's national interests.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/574943.jpg",
-          "publishedAt": "2026-11-19T03:19:00.000Z"
+          "title": "Japan Tobacco hit by $8.9 billion charge on Russia seizure",
+          "link": "https://www.japantimes.co.jp/business/2026/11/19/japan-tobacco-russia-seizure-charge/",
+          "summary": "The Tokyo-based company now expects an operating loss of ¥368 billion instead of a ¥1 trillion profit.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/thumbs/400x400/575057.jpg",
+          "publishedAt": "2026-11-19T09:17:00.000Z"
         }
       ]
     }
