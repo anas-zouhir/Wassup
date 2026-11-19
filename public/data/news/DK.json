@@ -13,48 +13,57 @@
         {
           "title": "Kongefamilien skal fejre jul i Aarhus",
           "link": "https://www.dr.dk/nyheder/seneste/kongefamilien-skal-fejre-jul-i-aarhus",
-          "publishedAt": "2026-11-19T13:51:04.000Z"
+          "publishedAt": "2026-11-19T13:51:04.000Z",
+          "titleEn": "The royal family is to celebrate Christmas in Aarhus"
         },
         {
           "title": "EU-Kommissionen har været ramt af AI-cyberangreb",
           "link": "https://www.dr.dk/nyheder/seneste/eu-kommissionen-har-vaeret-ramt-af-ai-cyberangreb",
-          "publishedAt": "2026-11-19T13:21:34.000Z"
+          "publishedAt": "2026-11-19T13:21:34.000Z",
+          "titleEn": "The European Commission has been hit by AI cyberattacks"
         },
         {
           "title": "Virksomhed sigtet for overtrædelse af dyrevelfærdsloven: Måtte aflive 20 grise på stedet",
           "link": "https://www.dr.dk/nyheder/seneste/virksomhed-sigtet-overtraedelse-af-dyrevelfaerdsloven-maatte-aflive-20-grise-paa-stedet",
-          "publishedAt": "2026-11-19T12:20:21.000Z"
+          "publishedAt": "2026-11-19T12:20:21.000Z",
+          "titleEn": "Business accused of breaching the Animal Welfare Act: 20 pigs must be killed on the spot"
         },
         {
           "title": "Mange savnet efter bådforlis ud for Senegal",
           "link": "https://www.dr.dk/nyheder/seneste/mange-savnet-efter-baadforlis-ud-senegal",
-          "publishedAt": "2026-11-19T10:19:30.000Z"
+          "publishedAt": "2026-11-19T10:19:30.000Z",
+          "titleEn": "Many missing after a shipwreck off Senegal"
         },
         {
           "title": "Louisiana får kæmpe donation på 116 millioner kroner",
           "link": "https://www.dr.dk/nyheder/seneste/louisiana-faar-kaempe-donation-paa-116-millioner-kroner",
-          "publishedAt": "2026-11-19T09:32:06.000Z"
+          "publishedAt": "2026-11-19T09:32:06.000Z",
+          "titleEn": "Louisiana receives a giant donation of $116 million"
         },
         {
           "title": "Fredsprisvinders hus stukket i brand i Bangladesh",
           "link": "https://www.dr.dk/nyheder/seneste/fredsprisvinders-hus-stukket-i-brand-i-bangladesh",
           "image": "https://asset.dr.dk/drdk/umbraco-images/aynbyyha/20260212-070921-l.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-19T09:14:54.000Z"
+          "publishedAt": "2026-11-19T09:14:54.000Z",
+          "titleEn": "Peace Prize winner's house set on fire in Bangladesh"
         },
         {
           "title": "Danish Crowns omsætning er faldet med tre milliarder",
           "link": "https://www.dr.dk/nyheder/seneste/danish-crowns-omsaetning-er-faldet-med-tre-milliarder",
-          "publishedAt": "2026-11-19T08:39:45.000Z"
+          "publishedAt": "2026-11-19T08:39:45.000Z",
+          "titleEn": "Danish crown's turnover has fallen by 3 billion"
         },
         {
           "title": "Streamingtjeneste lukker i Danmark og resten af Europa",
           "link": "https://www.dr.dk/nyheder/seneste/streamingtjeneste-lukker-i-danmark-og-resten-af-europa",
-          "publishedAt": "2026-11-19T08:34:34.000Z"
+          "publishedAt": "2026-11-19T08:34:34.000Z",
+          "titleEn": "Streaming service closes in Denmark and the rest of Europe"
         },
         {
           "title": "Skole tilkalder psykolog efter fund af død pige og to voksne",
           "link": "https://www.dr.dk/nyheder/seneste/skole-tilkalder-psykolog-efter-fund-af-doed-pige-og-voksne",
-          "publishedAt": "2026-11-19T07:36:57.000Z"
+          "publishedAt": "2026-11-19T07:36:57.000Z",
+          "titleEn": "School calls psychologist after finding dead girl and two adults"
         },
         {
           "title": "Retspræsidents immunitet ophævet i strid om Polens forfatningsdomstol",
@@ -78,70 +87,90 @@
           "link": "https://politiken.dk/danmark/art11067748/Politiet-Unders%C3%B8gelser-tyder-p%C3%A5-at-62-%C3%A5rig-mand-har-dr%C3%A6bt-sin-k%C3%A6reste-og-deres-datter-og-derefter-taget-sit-eget-liv",
           "summary": "Ifølge politiet dræbte en 62-årig mand sin kæreste og deres fælles datter i Give, før han tog sit eget liv.",
           "image": "https://politiken.dk/incoming/img11067749.btfh9a/ORIGINALS/original_960/20261118-221608-6",
-          "publishedAt": "2026-11-19T18:34:41.000Z"
+          "publishedAt": "2026-11-19T18:34:41.000Z",
+          "titleEn": "Police: Investigations indicate a 62-year-old man killed his girlfriend and their daughter and then took his own life",
+          "summaryEn": "According to police, a 62-year-old man killed his girlfriend and their common daughter in Give before taking his own life."
         },
         {
           "title": "»Vi skal til bunds i det her«: Minister sætter gang i undersøgelse om mel lavet på korn fra forurenet lager",
           "link": "https://politiken.dk/danmark/art11066536/Minister-s%C3%A6tter-gang-i-unders%C3%B8gelse-om-mel-lavet-p%C3%A5-korn-fra-forurenet-lager",
           "summary": "En undersøgelse skal kaste lys over, hvorfor Fødevarestyrelsen sidste år tillod, at mel fra forurenet kornlager endte i butikkerne. Men flere partier er betænkelige ved, at styrelsen undersøger sig selv.",
           "image": "https://politiken.dk/incoming/img11067112.te2wez/ORIGINALS/original_960/M%C3%B8de%20i%20Erhvervsministeriet%20i%20forbindelse%20med%20Danish%20Agro",
-          "publishedAt": "2026-11-19T18:27:08.000Z"
+          "publishedAt": "2026-11-19T18:27:08.000Z",
+          "titleEn": "⁇ We need to get to the bottom of this  ⁇ : The Minister is launching an investigation into flour made from grain from contaminated stock",
+          "summaryEn": "An investigation should shed light on why the Food and Drug Administration last year allowed flour from contaminated grain storage to end up in stores. But a number of parties are concerned that the board is investigating itself."
         },
         {
           "title": "Historisk dom om folkedrab kan få betydning for sagen mod Israel",
           "link": "https://politiken.dk/internationalt/art11066416/Historisk-dom-om-folkedrab-kan-f%C3%A5-betydning-for-sagen-mod-Israel",
           "summary": "Den Internationale Domstol har kendt Myanmar skyldig i folkedrab mod rohingyaerne. Det får betydning for domstolens kommende afgørelse om, hvorvidt Israel begik folkedrab i Gaza, siger eksperter.",
           "image": "https://politiken.dk/incoming/img11067069.onf1wz/ORIGINALS/original_960/MYANMAR-ROHINGYA-WORLD%20COURT",
-          "publishedAt": "2026-11-19T18:00:39.000Z"
+          "publishedAt": "2026-11-19T18:00:39.000Z",
+          "titleEn": "Historic genocide convictions could have implications for the case against Israel",
+          "summaryEn": "The International Court of Justice has convicted Myanmar of genocide against the Rohingya. This will affect the court's upcoming ruling on whether Israel committed genocide in Gaza, experts say."
         },
         {
           "title": "Anthropic-aktie brager op på første handelsdag",
           "link": "https://politiken.dk/viden/tech/art11067707/Anthropic-aktie-brager-op-p%C3%A5-f%C3%B8rste-handelsdag",
           "summary": "Torsdag var Anthropic første handelsdag på børsen. Aktien åbner med en stigning på 34 procent.",
           "image": "https://politiken.dk/incoming/img11067706.lo7xbq/ORIGINALS/original_960/ANTHROPIC-IPO-DEBUT",
-          "publishedAt": "2026-11-19T17:10:50.000Z"
+          "publishedAt": "2026-11-19T17:10:50.000Z",
+          "titleEn": "Anthropic stock is up on first trading day",
+          "summaryEn": "Thursday was Anthropic's first day of trading. The stock opens with a 34 percent increase."
         },
         {
           "title": "Anmelderne er usædvanligt enige: Solvej Balle skriver sig ind i litteraturhistorien",
           "link": "https://politiken.dk/kultur/boger/art11066337/Anmelderne-er-us%C3%A6dvanligt-enige-Solvej-Balle-skriver-sig-ind-i-litteraturhistorien",
           "summary": "Landets litteraturkritikere kaster konfetti op i luften. For det er lykkedes Solvej Balle at komme i mål med sit store værk i overbevisende stil.",
           "image": "https://politiken.dk/incoming/img11066344.mol79f/ORIGINALS/original_960/Solvej%20Balle",
-          "publishedAt": "2026-11-19T16:44:32.000Z"
+          "publishedAt": "2026-11-19T16:44:32.000Z",
+          "titleEn": "The applicants agree unusually: Solvej Balle enters literary history",
+          "summaryEn": "The country's literary critics are throwing confetti in the air. Because Solvej Balle has succeeded in finishing his great work in a convincing way."
         },
         {
           "title": "Professor afviser frygt for »befolkningsudskiftning« efter statsministerens udtalelse",
           "link": "https://politiken.dk/danmark/art11066709/Professor-afviser-frygt-for-%C2%BBbefolkningsudskiftning%C2%AB-efter-statsministerens-udtalelse",
           "summary": "Statsminister Mette Frederiksen (S) brugte i en podcast et udtryk, som normalt bruges af den yderste højrefløj. Enhedslisten kritiserer, at statsministeren taler om »befolkningsudskiftning«, og professor afviser teorien.",
           "image": "https://politiken.dk/incoming/img11067625.822382/ORIGINALS/original_960/EUROPE-MIGRATION-RWANDA",
-          "publishedAt": "2026-11-19T16:22:58.000Z"
+          "publishedAt": "2026-11-19T16:22:58.000Z",
+          "titleEn": "Professor rejects fears of population displacement after the Prime Minister's statement",
+          "summaryEn": "Prime Minister Mette Frederiksen (S) used in a podcast a term usually used by the far right. The unit list criticizes the prime minister for talking about population replacement and the professor rejects the theory."
         },
         {
           "title": "Gyldendal stopper salg af bogen om Kirsten Schwalbe efter oplysning om hendes fortid",
           "link": "https://politiken.dk/kultur/boger/art11067524/Gyldendal-stopper-salg-af-bogen-om-Kirsten-Schwalbe-efter-oplysning-om-hendes-fortid",
           "summary": "Nye oplysninger om Danmarks længstlevende kvinde, Kirsten Schwalbe, får forlag til at stoppe salg af bog.",
           "image": "https://politiken.dk/incoming/img11067528.wvr8nw/ORIGINALS/original_960/20250310-071337-L",
-          "publishedAt": "2026-11-19T15:38:17.000Z"
+          "publishedAt": "2026-11-19T15:38:17.000Z",
+          "titleEn": "Goldendal will stop selling Kirsten Schwalbe's book after information about her past",
+          "summaryEn": "New information about Denmark's longest-lived woman, Kirsten Schwalbe, has led publishers to stop selling books."
         },
         {
           "title": "Der svindles massivt på bosteder. Drastisk forslag vil ændre branchen radikalt",
           "link": "https://politiken.dk/danmark/art11056941/Der-svindles-massivt-p%C3%A5-bosteder.-Drastisk-forslag-vil-%C3%A6ndre-branchen-radikalt",
           "summary": "Nu sendes et lovforslag i behandling, der skal komme den økonomiske svindel på landets bosteder til livs. Fagbevægelsens Hovedorganisation mener til gengæld, at det bør være slut med kommercielle private aktører i…",
           "image": "https://politiken.dk/incoming/img11066352.dj0rez/ORIGINALS/original_960/Bosted%20Lindevang",
-          "publishedAt": "2026-11-19T15:20:32.000Z"
+          "publishedAt": "2026-11-19T15:20:32.000Z",
+          "titleEn": "There's a massive amount of fraud going on in homes. Dramatic proposals will radically change the industry",
+          "summaryEn": "Now a bill is being put to the vote to put an end to the economic fraud in the country's homes. The main organisation of the trade union movement, however, believes that there should be an end to commercial private operators in..."
         },
         {
           "title": "Han beskriver om følelsen af at stå udenfor, som jeg ikke har læst det før",
           "link": "https://politiken.dk/kultur/boger/boganmeldelser/skonlitteratur_boger/art11055704/Han-beskriver-om-f%C3%B8lelsen-af-at-st%C3%A5-udenfor-som-jeg-ikke-har-l%C3%A6st-det-f%C3%B8r",
           "summary": "Pablo Llambías har skrevet en grotesk og veloplagt vampyrroman, der under de slimede overflader gemmer på en fortælling om angst, selvhad og følelsen af at være udenfor.",
           "image": "https://politiken.dk/incoming/img11055828.uciwie/ORIGINALS/original_960/pablo%20pix",
-          "publishedAt": "2026-11-19T14:37:15.000Z"
+          "publishedAt": "2026-11-19T14:37:15.000Z",
+          "titleEn": "He describes the feeling of being outside, which I've never read before.",
+          "summaryEn": "Pablo Llambías has written a grotesque and well-documented vampire novel that hides under the muffled surfaces of a tale of fear, self-loathing and the feeling of being outside."
         },
         {
           "title": "EU bekræfter at være blevet ramt af AI-cyberangreb",
           "link": "https://politiken.dk/internationalt/art11067041/EU-bekr%C3%A6fter-at-v%C3%A6re-blevet-ramt-af-AI-cyberangreb",
           "summary": "Kunstig intelligens kan bruges til at opdage sårbarheder, men den kan også misbruges, oplyser kommissionen.",
           "image": "https://politiken.dk/incoming/img11067094.tuk4z8/ORIGINALS/original_960/CYBERSECURITY-STOCKS",
-          "publishedAt": "2026-11-19T13:25:02.000Z"
+          "publishedAt": "2026-11-19T13:25:02.000Z",
+          "titleEn": "EU confirms it has been hit by AI cyberattacks",
+          "summaryEn": "Artificial intelligence can be used to detect vulnerabilities, but it can also be abused, the Commission says."
         }
       ]
     },
@@ -159,68 +188,87 @@
           "link": "https://www.berlingske.dk/indland/politi-mand-draebte-sin-kaereste-og-datter-i-give?referrer=RSS",
           "summary": "Ifølge politiet dræbte en 62-årig mand sin kæreste og deres fælles datter i Give, før han tog sit eget liv.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167596193.webp?t[strip]=true&t[quality]=70&accessToken=5d9d1a69c14dddef30a5d82e9cdc0dcac16482f04383bff2f02360c5c46adafd",
-          "publishedAt": "2026-11-19T18:48:45.000Z"
+          "publishedAt": "2026-11-19T18:48:45.000Z",
+          "titleEn": "Police: Man kills girlfriend and daughter in Give",
+          "summaryEn": "According to police, a 62-year-old man killed his girlfriend and their common daughter in Give before taking his own life."
         },
         {
           "title": "Kulørte afsløringer fra verdens største banklæk: Navnet på en af Putins stærkeste støtter stod på donation til forgiftet Navalnyj",
           "link": "https://www.berlingske.dk/internationalt/kuloerte-afsloeringer-fra-verdens-stoerste-banklaek-navnet-paa-en-af-putins-staerkeste-stoetter-stod-paa-donation-til-forgiftet-navalnyj?referrer=RSS",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167463639.webp?t[strip]=true&t[quality]=70&accessToken=224f0341bb11c84b80821e07a6465fc3ab97d8e68738e0f6d1698d5c4cf1f1d7",
-          "publishedAt": "2026-11-19T18:45:26.000Z"
+          "publishedAt": "2026-11-19T18:45:26.000Z",
+          "titleEn": "Colored revelations from the world's biggest bank: The name of one of Putin's strongest supporters was on donation to poisoned Navalny"
         },
         {
           "title": "Statsministeren sagde »befolkningsudskiftning« og blev sat i bås med det yderste højre. Men professor »ser det lige omvendt«",
           "link": "https://www.berlingske.dk/samfund/statsministeren-sagde-befolkningsudskiftning-og-blev-sat-i-baas-med-det-yderste-hoejre-men-professor-ser-det-lige-omvendt?referrer=RSS",
           "summary": "Pludselig tog Mette Frederiksen et begreb i brug fra det yderste højre. Episoden har affødt både jubel og hård kritik, og blandt eksperter hersker også forskellige vurderinger af begrebet og statsministerens brug af det.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167545631.webp?t[strip]=true&t[quality]=70&accessToken=ac68147b542ef36851999c8125b3654ef603597847deeda8450e625ff7b7edbe",
-          "publishedAt": "2026-11-19T18:19:03.000Z"
+          "publishedAt": "2026-11-19T18:19:03.000Z",
+          "titleEn": "The Prime Minister said 'population replacement' and was thrown into a box with the far right. But, Professor, is it the other way around?",
+          "summaryEn": "Suddenly, Mette Frederiksen took up a concept from the far right. The episode has generated both cheers and harsh criticism, and there are also differing opinions among experts on the concept and the Prime Minister's use of it."
         },
         {
           "title": "Brøndby kritiserer disciplinærinstans for Binks-advarsel",
           "link": "https://www.berlingske.dk/sport/broendby-kritiserer-disciplinaerinstans-for-binks-advarsel?referrer=RSS",
           "summary": "Brøndbys Luis Binks og FCK-træner Bo Svensson har hver fået en advarsel for kommentarer om klubbernes fans.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167595028.webp?t[strip]=true&t[quality]=70&accessToken=f395d14c0ff64cbf635d4a813b1aba20afab40a9ec57696a349ded9152e22312",
-          "publishedAt": "2026-11-19T18:05:45.000Z"
+          "publishedAt": "2026-11-19T18:05:45.000Z",
+          "titleEn": "Brøndby criticizes disciplinary court for Binks' warning",
+          "summaryEn": "Brøndby's Luis Binks and FCK coach Bo Svensson have each received a warning for comments about the club's fans."
         },
         {
           "title": "Tysklands Merz til USA: Uden Europa kommer der ikke fred i Ukraine",
           "link": "https://www.berlingske.dk/internationalt/tysklands-merz-til-usa-uden-europa-kommer-der-ikke-fred-i-ukraine?referrer=RSS",
           "summary": "Europæerne skal være med ved forhandlingsbordet, indikerer Friedrich Merz efter møde med allierede i Berlin.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167594026.webp?t[strip]=true&t[quality]=70&accessToken=02b27aea739696f1a54e8e4b4ecbfd0d3670cb2e0c02fdd8275fdb62afe3863f",
-          "publishedAt": "2026-11-19T18:02:45.000Z"
+          "publishedAt": "2026-11-19T18:02:45.000Z",
+          "titleEn": "Germany's Merz to the United States: Without Europe there will be no peace in Ukraine",
+          "summaryEn": "Europeans must be present at the negotiating table, Friedrich Merz said after a meeting with the Allies in Berlin."
         },
         {
           "title": "»Grand Theft Auto VI« er årtiets kulturbegivenhed: Her er dommen",
           "link": "https://www.berlingske.dk/skaerm/grand-theft-auto-vi-er-aartiets-kulturbegivenhed-her-er-dommen?referrer=RSS",
           "summary": "Det har været 13 år undervejs, og forventningerne har været nærmest umenneskelige. Nu er »Grand Theft Auto VI« endelig landet. Men har det været ventetiden værd?",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167484300.webp?t[strip]=true&t[quality]=70&accessToken=88e097fd7f1820b4e297a1a8f0ef098d866c9b686b5fbeef49bc72f503ddb7fa",
-          "publishedAt": "2026-11-19T18:01:45.000Z"
+          "publishedAt": "2026-11-19T18:01:45.000Z",
+          "titleEn": "⁇ Grand Theft Auto VI ⁇  is the cultural event of the decade: Here's the verdict",
+          "summaryEn": "It's been 13 years on the road, and the expectations have been almost unhuman. Now Grand Theft Auto VI has finally landed. But was it worth the wait?"
         },
         {
           "title": "AI-giganten Anthropic brager op på børsen i New York torsdag. Følg udviklingen her",
           "link": "https://www.berlingske.dk/virksomheder/ai-giganten-anthropic-brager-op-paa-boersen-i-new-york-torsdag-foelg-udviklingen-her?referrer=RSS",
           "summary": "AI-giganten Anthropic brager op på børsen i New York torsdag. Følg udviklingen her.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167594469.webp?t[strip]=true&t[quality]=70&accessToken=ebf3944b99c1ad3a60a37d3eb2f4b0d5f8eea2a3f82758c1a28f0768908eb7fc",
-          "publishedAt": "2026-11-19T17:47:37.000Z"
+          "publishedAt": "2026-11-19T17:47:37.000Z",
+          "titleEn": "AI giant Anthropic is going public on the New York Stock Exchange on Thursday. Follow the progress here",
+          "summaryEn": "AI giant Anthropic is going public on the New York Stock Exchange on Thursday. Follow the progress here."
         },
         {
           "title": "Person fundet livløs i Hornslet efter eksplosion i container",
           "link": "https://www.berlingske.dk/indland/person-fundet-livloes-i-hornslet-efter-eksplosion-i-container?referrer=RSS",
           "summary": "Politi har fundet en livløs person i forbindelse med en brand nord for Aarhus, hvor trykflasker eksploderede.",
-          "publishedAt": "2026-11-19T17:45:43.000Z"
+          "publishedAt": "2026-11-19T17:45:43.000Z",
+          "titleEn": "Person found dead in Hornslet after container explosion",
+          "summaryEn": "Police have found a lifeless person in connection with a fire north of Aarhus, where pressure bottles exploded."
         },
         {
           "title": "Anthropic-aktie åbner 34 procent højere på første handelsdag",
           "link": "https://www.berlingske.dk/business/anthropic-aktie-aabner-34-procent-hoejere-paa-foerste-handelsdag?referrer=RSS",
           "summary": "Torsdag var Anthropic første handelsdag på børsen. Aktien åbner med en stigning på 34 procent.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167594350.webp?t[strip]=true&t[quality]=70&accessToken=eb07af202b91fb8c84c49dbf2c0b3959432230ac46329d4145efa9e921f75e04",
-          "publishedAt": "2026-11-19T17:41:45.000Z"
+          "publishedAt": "2026-11-19T17:41:45.000Z",
+          "titleEn": "Anthropic shares open 34% higher on first trading day",
+          "summaryEn": "Thursday was Anthropic's first day of trading. The stock opens with a 34 percent increase."
         },
         {
           "title": "Anthropic-aktien brager op: Men »der er ikke udsigt til at pilen kun vil pege opad«",
           "link": "https://www.berlingske.dk/aktier/anthropic-aktien-brager-op-men-der-er-ikke-udsigt-til-at-pilen-kun-vil-pege-opad?referrer=RSS",
           "summary": "Aktierne i AI-giganten Anthropic brager op på børsen i New York torsdag aften dansk tid, hvor handlen er skudt i gang.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167578825.webp?t[strip]=true&t[quality]=70&accessToken=dac1f9e02e1f111b8fd961a5145df37e05c7d4f54557e53e821c38369f228924",
-          "publishedAt": "2026-11-19T17:26:43.000Z"
+          "publishedAt": "2026-11-19T17:26:43.000Z",
+          "titleEn": "The Anthropic action comes up: But there's no prospect of the arrow pointing only upwards.",
+          "summaryEn": "The shares of the AI giant Anthropic will be floated on the New York Stock Exchange on Thursday evening, Danish time, when trading is underway."
         }
       ]
     }
