@@ -3,102 +3,163 @@
   "outlets": [
     {
       "outlet": {
+        "id": "thairath",
+        "name": "Thairath (ไทยรัฐ)",
+        "homepage": "https://www.thairath.co.th",
+        "lang": "th"
+      },
+      "fetchedAt": "2026-11-19T06:55:07.242Z",
+      "items": [
+        {
+          "title": "“อภิสิทธิ์” จี้รัฐบาล “อนุทิน” แจงหลังต้องเปิดตลาดเกษตร 7.8 หมื่นล้าน-ลดภาษีนำเข้าเหลือ 0%",
+          "link": "https://www.thairath.co.th/news/politic/2973417",
+          "summary": "“อภิสิทธิ์” จี้รัฐบาล “อนุทิน” แจงเงื่อนไขลงนามความตกลงการค้าต่างตอบแทน กับ “ทรัมป์” หวั่นไทยเสียเปรียบหนัก หลังต้องเปิดตลาดเกษตร 7.8 หมื่นล้าน-ลดภาษีนำเข้าเหลือ 0% และงดเก็บภาษีดิจิทัล",
+          "image": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2xZRYIM6mHSe7MLAG.jpg",
+          "publishedAt": "2026-11-19T06:20:57.000Z"
+        },
+        {
+          "title": "“จุลพันธ์” แจงไม่รับร่างประกันสังคมของ “รักชนก” เพราะห่วงปรับโครงสร้างกระทบสมดุลไตรภาคี",
+          "link": "https://www.thairath.co.th/news/politic/2973415",
+          "summary": "“จุลพันธ์” แจงเหตุไม่รับร่างประกันสังคมของ “รักชนก” เพราะห่วงปรับโครงสร้างกระทบสมดุลไตรภาคี-การเมืองแทรกแซงบอร์ด ชี้ปฏิรูปต้องศึกษารอบด้าน มุ่งบริหารมืออาชีพ ยึดประโยชน์ผู้ประกันตนเป็นหลัก",
+          "image": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2xZRYIMvkZ1onDnXz.jpg",
+          "publishedAt": "2026-11-19T05:58:17.000Z"
+        },
+        {
+          "title": "“บุญรวี” จี้นายกฯ ยกปัญหาขยะพิษเป็นวาระแห่งชาติ หวั่นดีลรีไซเคิลจีนเปิดทางไทยเป็นถังขยะโลก",
+          "link": "https://www.thairath.co.th/news/politic/2973409",
+          "summary": "“บุญรวี” จี้ นายกฯ ยกระดับปัญหาขยะพิษเป็นวาระแห่งชาติ หลังขยะอิเล็กทรอนิกส์จีนทะลักเข้าไทย ทำไทยเป็นถังขยะโลก ท้วงมติครม.ลงนามแม่โขง-ล้านช้าง กับจีน เสี่ยงเป็นใบเบิกทางนำขยะพิษเข้าประเทศ",
+          "image": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2xZRYIqeBszRY6NDV.jpg",
+          "publishedAt": "2026-11-19T05:41:02.000Z"
+        },
+        {
+          "title": "ทรัมป์โว พบหารือสี จิ้น ผิง-ปูติน เป็นชัยชนะตั้งแต่ยังไม่เริ่ม หลังผู้นำจีนมาต้อนรับถึงสนามบิน",
+          "link": "https://www.thairath.co.th/news/foreign/2973407",
+          "summary": "ทรัมป์ คุยโวการหารือครั้งประวัติศาสตร์กับสี จิ้นผิง ของจีน และวลาดิเมียร์ ปูติน ของรัสเซีย เป็นชัยชนะของสหรัฐฯ ตั้งแต่การประชุมยังไม่เริ่ม หลังได้รับการต้อนรับอย่างยิ่งใหญ่จากผู้นำจีน",
+          "image": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2xZRYIpPgQXb6hRz5.jpg",
+          "publishedAt": "2026-11-19T05:38:37.000Z"
+        },
+        {
+          "title": "“วัชรพล”สั่งจับตานำเข้าข้าวโพดเลี้ยงสัตว์จากสหรัฐฯ กระทบเกษตรกรไทย",
+          "link": "https://www.thairath.co.th/news/politic/2973404",
+          "summary": "“วัชรพล”ยอมรับมีสินค้าเกษตรไทยได้รับผลกระทบจากข้อตกลงความร่วมมือการค้าต่างตอบแทนไทย-สหรัฐฯ สั่งจับตานำเข้าข้าวโพดเลี้ยงสัตว์จากสหรัฐฯ กระทบเกษตรกรไทย",
+          "image": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2xZRYIpXcP2thDehh.jpg",
+          "publishedAt": "2026-11-19T05:38:01.000Z"
+        },
+        {
+          "title": "ตร.ไซเบอร์ บุกรวบ “เล็ก อาก้า” อินฟลูเอนเซอร์เคราแพะหน้าลาย แปะลิงก์โปรโมทเว็บพนัน",
+          "link": "https://www.thairath.co.th/news/crime/2973411",
+          "summary": "ตร.ไซเบอร์รวบ “เล็ก อาก้า” อินฟลูเอนเซอร์เคราแพะหน้าลายสายบันเทิง โพสต์สตอรี่แปะลิงก์โปรโมทเว็บพนัน ยอมรับทำมานานกว่า 2 ปี รายได้รวมกันไม่ต่ำกว่า 250,000 บาท",
+          "image": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2xZRYIMcgfEwMZAi5.jpg",
+          "publishedAt": "2026-11-19T05:34:18.000Z"
+        },
+        {
+          "title": "“ปิยบุตร” เปิด 3 เส้นทาง ชี้แนวทางพรรคส้มสู่การเป็นรัฐบาล",
+          "link": "https://www.thairath.co.th/news/politic/2973410",
+          "summary": "“ปิยบุตร แสงกนกกุล” เปิด 3 แนวทางพรรคประชาชน ถ้าไม่แลนด์สไลด์-ไม่ร่วมรัฐบาล ก็ต้องรณรงค์จนกว่าจะได้ฉันทามติ",
+          "image": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2xZRYIMThqCuxSlzn.jpg",
+          "publishedAt": "2026-11-19T05:32:02.000Z"
+        },
+        {
+          "title": "\"ซีพี ออลล์\" แจ้งความเอาผิด \"แก๊งเกรียนไลฟ์สด\" เพื่อปกป้องสิทธิ-ศักดิ์ศรีพนักงาน",
+          "link": "https://www.thairath.co.th/news/society/2973389",
+          "summary": "\"ซีพี ออลล์\" ย้ำให้ความสำคัญกับความปลอดภัยของพนักงาน พร้อมแจ้งความดำเนินคดี \"แก๊งเกรียนไลฟ์สด\" ป่วนร้าน ด่าทอพนักงาน เพื่อปกป้องสิทธิและศักดิ์ศรีของพนักงาน",
+          "image": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2xZRft3JsNPGDSQ8h.jpg",
+          "publishedAt": "2026-11-19T05:23:22.000Z"
+        },
+        {
+          "title": "“หนุมานกองปราบ” ค้น 13 จุด รวบ 5 ผู้ต้องหาช่วยพาทีมสังหาร “จิม กระดังงาทอง” หลบหนี",
+          "link": "https://www.thairath.co.th/news/crime/2973405",
+          "summary": "กองปราบเปิดปฏิบัติการ “หนุมานล่าสหายเครือข่ายมือปืน” ลุยค้น 13 เป้าหมาย นครปฐม, กาญจนบุรี, กทม. กวาดล้างผู้ร่วมขบวนการพาคนร้ายหลบหนีคดียิง “จิม กระดังงาทอง” เสียชีวิต",
+          "image": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2xZRYIpevTZ4xeIRp.jpg",
+          "publishedAt": "2026-11-19T05:20:01.000Z"
+        },
+        {
+          "title": "“ศุภจี” ชี้ สหรัฐฯ ยืนยันพร้อมปรับลดภาษีมาตรา 301 จาก 12.5% เหลือ 10%",
+          "link": "https://www.thairath.co.th/news/politic/2973402",
+          "summary": "“ศุภจี” เดินเกมรุกหลังไทย-สหรัฐฯ ลงนามแถลงการณ์ร่วม ART ไทยไม่เสียเปรียบคู่แข่ง สหรัฐฯ ยืนยันพร้อมลดภาษีมาตรา 301 แรงงานบังคับจาก 12.5% เหลือ 10%",
+          "image": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2xZRYIphVVj6W6ACR.jpg",
+          "publishedAt": "2026-11-19T05:12:06.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
         "id": "matichon",
         "name": "Matichon (มติชน)",
         "homepage": "https://www.matichon.co.th",
         "lang": "th"
       },
-      "fetchedAt": "2026-11-18T18:44:34.147Z",
+      "fetchedAt": "2026-11-19T06:55:07.309Z",
       "items": [
         {
-          "title": "ฟุตบอลหญิงทีมชาติไทยเตรียมอุ่นเครื่องกับตำรวจหญิงสหราชอาณาจักร ที่แพท สเตเดียม 20 พ.ย.",
-          "link": "https://www.matichon.co.th/sport/footballlocal/news_5980821",
-          "summary": "ฟุตบอลหญิงทีมชาติไทยเตรียมอุ่นเครื่องกับตำรวจหญิงสหราชอ […]",
-          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/punsong7-2.jpg",
-          "publishedAt": "2026-11-18T17:00:52.000Z",
-          "titleEn": "The Thai women's national football team is preparing a warm-up match against the British women's police at the Pat Stadium 20 P.M.",
-          "summaryEn": "The Thai women's national football team is preparing to warm up with the British Women's Police [...]"
+          "title": "แน็ค ชาลี ร้องตามปืนสะสม65กระบอก-ของรักสูญหายกว่า 50 ล้าน ธนกฤต ลั่นให้เวลา 7 วัน",
+          "link": "https://www.matichon.co.th/uncategorized/news_5981967",
+          "summary": "‘แน็ค ชาลี’ ร้อง ‘ดร.ธนกฤต’ เร่งตามของรักมูลค่ากว่า 50 […]",
+          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/55-20.jpg",
+          "publishedAt": "2026-11-19T06:51:25.000Z"
         },
         {
-          "title": "ทีมหญิงไทยคว้ารองแชมป์ ทีมชายที่ 3 สะวิงเยาวชนเอเชีย ที่เกาหลีใต้",
-          "link": "https://www.matichon.co.th/sport/golf/news_5981094",
-          "summary": "ทีมหญิงไทยคว้ารองแชมป์ ทีมชายที่ 3 สะวิงเยาวชนเอเชีย ที […]",
-          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/14414565.jpg",
-          "publishedAt": "2026-11-18T15:59:24.000Z",
-          "titleEn": "The Thai women's team won the men's third Asian Youth Championship in South Korea.",
-          "summaryEn": "The Thai women's team won the men's third Asian Youth Championships."
+          "title": "DIP จับมือ WIPO ติดอาวุธผู้ประกอบการเกษตรไทย หนุนใช้ AI สร้างนวัตกรรม เพิ่มโอกาสทางธุรกิจ",
+          "link": "https://www.matichon.co.th/economy/news_5981963",
+          "summary": "กรมทรัพย์สินทางปัญญา จับมือ WIPO ติดอาวุธผู้ประกอบการเก […]",
+          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/S__50610282-1.jpg",
+          "publishedAt": "2026-11-19T06:45:29.000Z"
         },
         {
-          "title": "ปิยบุตร ปลุกปชน.สู้ต่อ แม้ร่างกม.ถูกตีตก ชี้สู้กับรบ.ภท. ใช้วิธีเดียวกับเผด็จการไม่ได้ แนะเลิกแซะ ใช้เหตุผลโต้",
-          "link": "https://www.matichon.co.th/politics/news_5981383",
-          "summary": "ปิยบุตร ชี้ความต่าง สู้กับรบ.ภูมิใจไทย ใช้วิธีเดียวกับเ […]",
-          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/7057522421045.jpg",
-          "publishedAt": "2026-11-18T15:25:36.000Z",
-          "titleEn": "Son of a bitch, raise your fist, keep fighting, even if your body is beaten down, point to battle. You can't use the same methods as dictatorship, just stop, reason.",
-          "summaryEn": "Pi Pi Son points out the difference, battling Thai pride, using the same approach as [...]"
+          "title": "DITP ดันคอนเทนต์ไทยบุกตลาดโลก เปิดทางขายลิขสิทธิ์ ดึงต่างชาติลงทุนถ่ายทำในไทย",
+          "link": "https://www.matichon.co.th/economy/news_5981945",
+          "summary": "DITP ดันคอนเทนต์ไทยบุกตลาดโลก เปิดทางขายลิขสิทธิ์ พ่วงด […]",
+          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/S__191152141.jpg",
+          "publishedAt": "2026-11-19T06:45:03.000Z"
         },
         {
-          "title": "แคเรียร์ BeyondX คว้ารางวัล Editor’s Choice ตอกย้ำดีไซน์โดดเด่น-นวัตกรรมเพื่อการอยู่อาศัย",
-          "link": "https://www.matichon.co.th/economy/news_5981417",
-          "summary": "แคเรียร์ BeyondX คว้ารางวัล Editor’s Choice ตอกย้ำดีไซน […]",
-          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/Carrier-BeyondX-19112569.png",
-          "publishedAt": "2026-11-18T15:24:48.000Z",
-          "titleEn": "Career BeyondX won the Editor's Choice Award, highlighting outstanding design-innovation for housing.",
-          "summaryEn": "Career BeyondX won the Editor's Choice Award, reiterated the design [...]"
+          "title": "อนุทิน สักขีพยาน FTA ไทย-เปรู ขยายตลาดลาตินอเมริกา ทั้งพลังงานหมุนเวียน-ท่องเที่ยว-บันเทิง",
+          "link": "https://www.matichon.co.th/politics/news_5981953",
+          "summary": "‘นายกฯ’ หารือ ‘ปธน.เปรู’ จับมือ […]",
+          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/9686087541-1.jpg",
+          "publishedAt": "2026-11-19T06:43:20.000Z"
         },
         {
-          "title": "ลัคนาราศีใด คนในบ้านนำลาภมาให้ จะได้รู้จักผู้มีสติปัญญา แต่ควรระวัง อีกไม่นานอาจมีเรื่องกับคนใกล้ชิด",
-          "link": "https://www.matichon.co.th/lifestyle/horoscope-lifestyle/news_5979970",
-          "summary": "ดาวกับดวง ประจำวันพฤหัสบดีที่ 19 พฤศจิกายน 2569 ท่านผู้ […]",
-          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/5.thu_-2.jpg",
-          "publishedAt": "2026-11-18T15:15:07.000Z",
-          "titleEn": "Any person who brings a rabbit into the house will meet a wise man, but beware that soon there may be an affair with someone close to him.",
-          "summaryEn": "With the sun on Thursday, November 19, 2569, the man who [...]"
+          "title": "ปฏิรูประบบราชการ อย่าปล่อยให้ความล่าช้าฉุดรั้งเศรษฐกิจ",
+          "link": "https://www.matichon.co.th/article/news_5980809",
+          "summary": "การขออนุมัติหรือขออนุญาตจากส่วนราชการในปัจจุบันยังเป็นป […]",
+          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/%E0%B8%A0%E0%B8%9B-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%89%E0%B8%B8%E0%B8%94%E0%B8%A8%E0%B8%81%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A.jpg",
+          "publishedAt": "2026-11-19T06:38:04.000Z"
         },
         {
-          "title": "สมคิด ชี้เศรษฐกิจไทยป่วยหนัก เสี่ยงถดถอยเรื้อรัง ‘เสือตัวที่ 5’ ตกชั้นสู่ ‘แมวป่วย’",
-          "link": "https://www.matichon.co.th/economy/news_5981372",
-          "summary": "สมคิด ชี้เศรษฐกิจไทยป่วยหนัก เสี่ยงถดถอยเรื้อรัง ‘ […]",
-          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/sorkor1.jpg",
-          "publishedAt": "2026-11-18T15:00:52.000Z",
-          "titleEn": "Think of it like a badly ill economy, a risk of a recession, a fifth-tier leopard, a sick cat.",
-          "summaryEn": "Think about it. Thailand's economy is seriously ill, at risk of a massive recession."
+          "title": "ไม่มีเกษียณเมื่ออายุ60 ในสังคมอายุวัตน์",
+          "link": "https://www.matichon.co.th/article/news_5980799",
+          "summary": "ประเทศไทยกำลังเผชิญการเปลี่ยนแปลงทางประชากรที่สำคัญที่ส […]",
+          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/%E0%B8%A0%E0%B8%9B-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%B5%E0%B8%A2%E0%B8%93%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B860%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A.jpg",
+          "publishedAt": "2026-11-19T06:34:59.000Z"
         },
         {
-          "title": "ปาซไม่กดดันถูกมองเป็นตัวแทนเมสซี่ในทีมชาติอาร์เจนตินา ขอมีความสุขกับการเล่นฟุตบอลเท่านั้น",
-          "link": "https://www.matichon.co.th/sport/footballinter/news_5980577",
-          "summary": "ปาซไม่กดดันถูกมองเป็นตัวแทนเมสซี่ในทีมชาติอาร์เจนตินา ข […]",
-          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/punsong-21.jpg",
-          "publishedAt": "2026-11-18T15:00:41.000Z",
-          "titleEn": "Paz is not pressured to represent Messi in the Argentine national team. Just enjoy playing football.",
-          "summaryEn": "Pas has been considered to represent Messi in the Argentine national team."
+          "title": "‘ประเสริฐ’ลุยแก้หนี้ครู ถก ‘ออมสิน’ ลดดอกเบี้ย-ปลดล็อกผู้ค้ำประกัน ชงสินเชื่อปิดหนี้ต้นทุนสูง",
+          "link": "https://www.matichon.co.th/local/education/news_5981940",
+          "summary": "เมื่อวันที่ 19 พฤศจิกายน นายประเสริฐ จันทรรวงทอง รัฐมนต […]",
+          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/1-220.jpg",
+          "publishedAt": "2026-11-19T06:34:11.000Z"
         },
         {
-          "title": "AWC จับมือเชียงใหม่ เปิด ‘Chiang Mai Tram’ เชื่อมแลนด์มาร์ก-ย่านวัฒนธรรมทั่วเมือง",
-          "link": "https://www.matichon.co.th/economy/news_5981340",
-          "summary": "AWC เปิด ‘Chiang Mai Tram’ รถไฟฟ้าเชื่อม 15 สถานี ฟื้นข […]",
-          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/tramm1.jpg",
-          "publishedAt": "2026-11-18T14:43:39.000Z",
-          "titleEn": "AWC holds hands in Chengdu, opening the Chiang Mai Tram connecting the city's landmark-cultural district.",
-          "summaryEn": "The AWC opens the Chiang Mai Tram, connecting 15 stations to the restored [...]"
+          "title": "เสียวหมี่เปิดตัว Xiaomi 18 Pro Max และ Xiaomi 18 Pro ตอบโจทย์ผู้ใช้งานยุค AI",
+          "link": "https://www.matichon.co.th/lifestyle/tech/news_5981911",
+          "summary": "เสียวหมี่เปิดตัว Xiaomi 18 Pro Max และ Xiaomi 18 Pro ชว […]",
+          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/Xiaomi-18-Pro-Max_Sales-Information.jpg",
+          "publishedAt": "2026-11-19T06:32:17.000Z"
         },
         {
-          "title": "สกร. หารือ ศปป.1 กอ.รมน. เตรียมปรับปรุง MOU บูรณาการวิทยากร-พื้นที่ ขับเคลื่อนเรียนรู้สร้างรายได้",
-          "link": "https://www.matichon.co.th/local/education/news_5981360",
-          "summary": "สกร. หารือ ศปป.1 กอ.รมน. เตรียมปรับปรุง MOU บูรณาการวิท […]",
-          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/IMG_0819.jpeg",
-          "publishedAt": "2026-11-18T14:39:55.000Z",
-          "titleEn": "I'm not going to be able to do this. Prepare to upgrade the MOU, the infrastructure, the area, the revenue-generating learning movement.",
-          "summaryEn": "I'm not going to be able to do this. Prepare to update the MOU, the architecture of the [...]"
+          "title": "น้ำ รพีภัทร ตอบแล้ว ปมวิวาท ซองดูฮี หลังอินฟลูอ้าง ถูกรัวหมัด เพราะยูทูบพรีเมียม",
+          "link": "https://www.matichon.co.th/entertainment/thai-entertainment/news_5981938",
+          "summary": "น้ำ รพีภัทร ตอบแล้ว ปมวิวาท ซองดูฮี หลังอินฟลูอ้าง ถูกร […]",
+          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/63-1.jpg",
+          "publishedAt": "2026-11-19T06:31:47.000Z"
         },
         {
-          "title": "แข้งชายหาดทีมชาติไทย เฉือนอิรัก 5-4 ประเดิมศึกเอเชี่ยนคัพ",
-          "link": "https://www.matichon.co.th/sport/footballlocal/news_5981322",
-          "summary": "แข้งชายหาดทีมชาติไทย เฉือนอิรัก 5-4 ประเดิมศึกเอเชี่ยนค […]",
-          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/456445665.jpg",
-          "publishedAt": "2026-11-18T14:30:58.000Z",
-          "titleEn": "The Thai national beach team defeated Iraq 5-4 in the Asian Cup.",
-          "summaryEn": "The Thai national beach team defeated Iraq 5-4 in the Asian [...]"
+          "title": "คิงส์แพ้ซันส์คาบ้าน 107-128 ทำสถิติพ่ายเกมเหย้าติดกันมากสุดในประวัติศาสตร์ทีม",
+          "link": "https://www.matichon.co.th/sport/news_5981897",
+          "summary": "คิงส์แพ้ซันส์คาบ้าน 107-128 ทำสถิติพ่ายเกมเหย้าติดกันมา […]",
+          "image": "https://www.matichon.co.th/wp-content/uploads/2026/11/2026-11-19T020438Z_1125999913_MT1USATODAY30370724_RTRMADP_3_NBA-.jpg",
+          "publishedAt": "2026-11-19T06:30:29.000Z"
         }
       ]
     },
@@ -109,67 +170,67 @@
         "homepage": "https://www.bangkokpost.com",
         "lang": "en-TH"
       },
-      "fetchedAt": "2026-11-18T18:44:36.491Z",
+      "fetchedAt": "2026-11-19T06:55:09.018Z",
       "items": [
         {
-          "title": "French president presses Cambodia on political killing",
-          "link": "https://www.bangkokpost.com/world/3357135/french-president-presses-cambodia-on-political-killing",
-          "summary": "French President Emmanuel Macron has pressed Cambodia to investigate those behind the murder of a Cambodian opposition politician in Bangkok, an intervention the slain man’s son said has given his family hope.",
-          "publishedAt": "2026-11-18T14:57:00.000Z"
+          "title": "Floods expose waste crisis in ‘garbage dump’ province",
+          "link": "https://www.bangkokpost.com/world/3357640/floods-expose-waste-crisis-in-garbage-dump-province",
+          "summary": "PRACHIN BURI - Father of four Adisorn Lakonburee used to catch fish for his family’s dinner, but stopped after floodwaters brought oil slicks and foul chemical smells into his village in eastern Thailand.",
+          "publishedAt": "2026-11-19T05:45:00.000Z"
         },
         {
-          "title": "Seven-year wait for clean air bill nears end",
-          "link": "https://www.bangkokpost.com/thailand/general/3357106/sevenyear-wait-for-clean-air-bill-nears-end",
-          "summary": "Thailand’s long-awaited clean air bill is moving closer to becoming law after seven years of advocacy, with a parliamentary review committee preparing to submit the legislation to the House of Representatives on Nov 25.",
-          "publishedAt": "2026-11-18T11:07:00.000Z"
+          "title": "For Anutin, Apec in Shenzhen is almost home ground",
+          "link": "https://www.bangkokpost.com/thailand/politics/3357616/for-anutin-apec-in-shenzhen-is-almost-home-ground",
+          "summary": "The Apec summit in Shenzhen is something of a homecoming for Prime Minister Anutin Charnvirakul.",
+          "publishedAt": "2026-11-19T04:14:00.000Z"
         },
         {
-          "title": "Bangkok’s Song Wat Road named world’s coolest street",
-          "link": "https://www.bangkokpost.com/life/social-and-lifestyle/3357085/bangkoks-song-wat-road-named-worlds-coolest-street",
-          "summary": "Bangkok’s historic trading hub, Song Wat Road, has been named the world’s coolest street for 2026 by Time Out magazine.",
-          "publishedAt": "2026-11-18T10:35:00.000Z"
+          "title": "Thai public wants action on smelly public toilets",
+          "link": "https://www.bangkokpost.com/thailand/general/3357605/thai-public-wants-action-on-smelly-public-toilets",
+          "summary": "Unpleasant smells at public toilets are a serious concern for Thai people, who want to see improvements in facilities, especially in places like wet markets, a survey has found.",
+          "publishedAt": "2026-11-19T04:07:00.000Z"
         },
         {
-          "title": "Chinese exporter accuses ex-police commander of hostile takeover",
-          "link": "https://www.bangkokpost.com/thailand/general/3357069/chinese-exporter-accuses-expolice-commander-of-hostile-takeover",
-          "summary": "A veteran Chinese exporter of Thai fruits has accused a former provincial police commander of a hostile takeover of his three companies and theft of valuables worth 45 million baht.",
-          "publishedAt": "2026-11-18T09:44:00.000Z"
+          "title": "Foundation probe draws 30 summonses",
+          "link": "https://www.bangkokpost.com/thailand/general/3357339/foundation-probe-draws-30-summonses",
+          "summary": "The Department of Special Investigation (DSI) has summoned 30 people for questioning in relation to its probe into the high-profile Gun Jompalang Chuay Su Foundation.",
+          "publishedAt": "2026-11-19T02:55:00.000Z"
         },
         {
-          "title": "Minister says changes won’t harm Social Security Fund",
-          "link": "https://www.bangkokpost.com/thailand/general/3357055/minister-says-changes-wont-harm-social-security-fund",
-          "summary": "Labour Minister Julapun Amornvivat has insisted that three Social Security Fund changes backed by workers — including a controversial proposal to allow lump-sum withdrawals of old-age benefits — will not affect the…",
-          "publishedAt": "2026-11-18T08:19:00.000Z"
+          "title": "Thai real estate poised to boom as foreign funds pour in",
+          "link": "https://www.bangkokpost.com/property/3357324/thai-real-estate-poised-to-boom-as-foreign-funds-pour-in",
+          "summary": "Foreign investment and wealthy Thai investors are expected to drive Thailand's property market in 2027, as investors become more selective and focus on assets with strong fundamentals and sustainable income potential,…",
+          "publishedAt": "2026-11-19T02:07:00.000Z"
         },
         {
-          "title": "Contractor in Bangkok building collapse sentenced to 3 years",
-          "link": "https://www.bangkokpost.com/thailand/general/3357026/contractor-in-bangkok-building-collapse-sentenced-to-3-years",
-          "summary": "A Chinese executive whose company was part of the joint venture that built the doomed State Audit Office building in Bangkok has been sentenced to three years in prison for illegally operating a construction business in…",
-          "publishedAt": "2026-11-18T07:52:00.000Z"
+          "title": "Lawyer Sittra, former policemen receive five-year terms",
+          "link": "https://www.bangkokpost.com/thailand/general/3357264/lawyer-sittra-former-policemen-receive-fiveyear-terms",
+          "summary": "High-profile lawyer Sittra Biabangkerd and two former police officers have each been sentenced to five years in prison for falsifying evidence to help a drug suspect obtain a reduced sentence.",
+          "publishedAt": "2026-11-19T01:45:00.000Z"
         },
         {
-          "title": "Ex-flight attendant in heroin case due to land in Chiang Mai",
-          "link": "https://www.bangkokpost.com/thailand/general/3357021/exflight-attendant-in-heroin-case-due-to-land-in-chiang-mai",
-          "summary": "A former Thai Airways International flight attendant changed her destination to Chiang Mai, instead of Bangkok, for her flight back from Australia after she was cleared of heroin smuggling charges, but Thai police said…",
-          "publishedAt": "2026-11-18T06:34:00.000Z"
+          "title": "Thailand plans cybersecurity standards for smart TVs",
+          "link": "https://www.bangkokpost.com/business/general/3357354/thailand-plans-cybersecurity-standards-for-smart-tvs",
+          "summary": "The board of the National Broadcasting and Telecommunications Commission (NBTC) has instructed its management to quickly conduct a study to establish technical cybersecurity standards for smart TVs and Android TV set-top…",
+          "publishedAt": "2026-11-18T22:28:00.000Z"
         },
         {
-          "title": "After 13 years, gaming phenomenon Grand Theft Auto is back",
-          "link": "https://www.bangkokpost.com/life/arts-and-entertainment/3356980/after-13-years-gaming-phenomenon-grand-theft-auto-is-back",
-          "summary": "PARIS — After 13 years of waiting, two delays and several leaks, gamers on Wednesday were just hours away from the worldwide release of the latest instalment of \"Grand Theft Auto\", the most expensive video game ever…",
-          "publishedAt": "2026-11-18T03:45:00.000Z"
+          "title": "Council okays measures to cut electricity costs",
+          "link": "https://www.bangkokpost.com/business/general/3357374/council-okays-measures-to-cut-electricity-costs",
+          "summary": "The National Energy Policy Council (NEPC) has approved three new measures designed to lower electricity costs for households and small and medium-sized enterprises (SMEs), while encouraging greater use of clean energy to…",
+          "publishedAt": "2026-11-18T22:26:00.000Z"
         },
         {
-          "title": "Hotel guests spend less amid high season",
-          "link": "https://www.bangkokpost.com/business/general/3356749/hotel-guests-spend-less-amid-high-season",
-          "summary": "Hotel guests across all segments and markets tightened their travel budgets during the high season, reflecting cautious spending as rising living expenses and travel costs, coupled with economic uncertainty, weighed on…",
-          "publishedAt": "2026-11-17T23:20:00.000Z"
+          "title": "Special surveillance zones planned along 3 rivers",
+          "link": "https://www.bangkokpost.com/thailand/general/3357274/special-surveillance-zones-planned-along-3-rivers",
+          "summary": "The Public Health Ministry is preparing to declare special surveillance zones along the Kok, Salween, and Mekong river basins next week, with Chiang Rai potentially the first province to be covered.",
+          "publishedAt": "2026-11-18T21:43:00.000Z"
         },
         {
-          "title": "Regulator to rejig public street lighting rules",
-          "link": "https://www.bangkokpost.com/business/general/3356834/regulator-to-rejig-public-street-lighting-rules",
-          "summary": "The Energy Regulatory Commission (ERC) is moving to amend existing energy laws so that the Power Development Fund (PDF) can pay for public street lighting, shifting the decades-old financial burden away from households…",
-          "publishedAt": "2026-11-17T23:05:00.000Z"
+          "title": "US tariff claim stings government",
+          "link": "https://www.bangkokpost.com/thailand/general/3357289/us-tariff-claim-stings-government",
+          "summary": "Thailand's tariff deal with Washington has sparked uproar as the government defended the pact, denying US President Donald Trump's claim that \"all tariffs\" had been eliminated.",
+          "publishedAt": "2026-11-18T21:31:00.000Z"
         }
       ]
     }

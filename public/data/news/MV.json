@@ -3,6 +3,67 @@
   "outlets": [
     {
       "outlet": {
+        "id": "sun-online",
+        "name": "Sun Online",
+        "homepage": "https://en.sun.mv",
+        "lang": "en-MV"
+      },
+      "fetchedAt": "2026-11-19T06:54:46.600Z",
+      "items": [
+        {
+          "title": "Committee passes MVR 59.7bn budget without any changes",
+          "link": "https://see.mv/110546",
+          "publishedAt": "2026-11-19T06:44:35.000Z"
+        },
+        {
+          "title": "Registration opens for Dhiraagu Maldives Gaming Conquest 2026",
+          "link": "https://see.mv/110545",
+          "publishedAt": "2026-11-19T06:25:27.000Z"
+        },
+        {
+          "title": "Just MVR 21.4mn left in Aasandha budget, with over a month left to go",
+          "link": "https://see.mv/110544",
+          "publishedAt": "2026-11-19T06:14:17.000Z"
+        },
+        {
+          "title": "Maldives to experience hazy conditions next two days",
+          "link": "https://see.mv/110543",
+          "publishedAt": "2026-11-19T06:13:38.000Z"
+        },
+        {
+          "title": "BML affordable housing: Concrete works begin on additional 182 units",
+          "link": "https://see.mv/110542",
+          "publishedAt": "2026-11-19T05:41:38.000Z"
+        },
+        {
+          "title": "Govt urges public to look out for signs of child abuse, report it",
+          "link": "https://see.mv/110541",
+          "publishedAt": "2026-11-19T05:38:02.000Z"
+        },
+        {
+          "title": "State Pharma: Reliable medicine supply once number of patients with chronic illnesses are identified",
+          "link": "https://see.mv/110540",
+          "publishedAt": "2026-11-19T04:45:10.000Z"
+        },
+        {
+          "title": "Kumar Sanu to perform in Maldives with daughter Shannon K at ‘Junoon Live in Concert'",
+          "link": "https://see.mv/110539",
+          "publishedAt": "2026-11-19T04:18:00.000Z"
+        },
+        {
+          "title": "UN warns new Israeli invasion in Gaza could uproot 18,000+ besieged Palestinians",
+          "link": "https://see.mv/110538",
+          "publishedAt": "2026-11-19T04:02:51.000Z"
+        },
+        {
+          "title": "Businessman sentenced to 27 years in US over alleged Iran-linked assassination plot",
+          "link": "https://see.mv/110537",
+          "publishedAt": "2026-11-19T04:00:21.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
         "id": "psm-news",
         "name": "PSM News",
         "homepage": "https://psmnews.mv",
@@ -69,8 +130,50 @@
         "homepage": "https://atolltimes.mv",
         "lang": "en-MV"
       },
-      "fetchedAt": "2026-11-18T18:44:03.652Z",
+      "fetchedAt": "2026-11-19T06:54:47.295Z",
       "items": [
+        {
+          "title": "Committee sets 7 December deadline for real estate bill",
+          "link": "https://atolltimes.mv/post/news/17747",
+          "summary": "Shujau said parliamentary committees generally allow seven days for public comments on major bills but wanted to provide more time for submissions in this case.",
+          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/19/a62aaaa6-2c26-4dd0-97b2-711cb4fe9870.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
+          "publishedAt": "2026-11-19T06:41:50.000Z"
+        },
+        {
+          "title": "Parliament's Budget Committee approves MVR 59.7 billion budget wi",
+          "link": "https://atolltimes.mv/post/business/17746",
+          "summary": "Several independent institutions raised concerns that their proposed allocations had been reduced below the amounts they requested.",
+          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/19/cad31a13-249a-4eee-80d1-84af32e26726.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
+          "publishedAt": "2026-11-19T06:08:56.000Z"
+        },
+        {
+          "title": "PNC seeks committee suspension for MDP MP over parliament protest",
+          "link": "https://atolltimes.mv/post/news/17745",
+          "summary": "Parliament concluded debate on the legislation on Wednesday and voted to refer it to committee for further consideration.",
+          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/19/0779bab1-e21b-4979-b885-7551bda219cc.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
+          "publishedAt": "2026-11-19T05:46:19.000Z"
+        },
+        {
+          "title": "Court rejects council's request to halt govt takeover of 14 plots",
+          "link": "https://atolltimes.mv/post/news/17744",
+          "summary": "The government has decided to take over 14 plots and properties currently under Malé City Council's jurisdiction.",
+          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/19/15fde381-504b-401f-a036-980bcfddcc08.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
+          "publishedAt": "2026-11-19T05:44:41.000Z"
+        },
+        {
+          "title": "AI Powers Global Growth Amid Energy Shocks, IMF’s Georgieva Warns",
+          "link": "https://atolltimes.mv/post/business/17743",
+          "summary": "IMF Managing Director Kristalina Georgieva warned at APEC in Shenzhen that rising interest rates and heavier government debt bills are straining public finances",
+          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/19/afce5b35-de7e-41e0-8f52-b6ffeedc1057.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
+          "publishedAt": "2026-11-19T03:51:09.000Z"
+        },
+        {
+          "title": "Xi Pledges $20M, Tech Hubs at APEC: What It Means for Maldives",
+          "link": "https://atolltimes.mv/post/business/17742",
+          "summary": "Opening APEC in Shenzhen, Xi pledged $20 million for practical cooperation and new hub for digital tech, cross-border data, clean energy, and SMEs development.",
+          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/19/e7833ec8-7b36-4bd6-9322-30d6ca7a9627.jpg?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
+          "publishedAt": "2026-11-19T03:21:30.000Z"
+        },
         {
           "title": "4 bills, including real estate bill, sent to committees",
           "link": "https://atolltimes.mv/post/news/17741",
@@ -98,48 +201,6 @@
           "summary": "As 21 economies gather in Shenzhen for the 33rd APEC Summit, futuristic robotics and an unprecedented Xi–Trump–Putin sideline meeting take center stage.",
           "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/18/81cc5fdc-8a3f-42d6-891a-340bdc2d733c.png?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
           "publishedAt": "2026-11-18T09:23:49.000Z"
-        },
-        {
-          "title": "Council suspends new takeaway permits over obstruction concerns",
-          "link": "https://atolltimes.mv/post/news/17737",
-          "summary": "The decision was unanimously approved by councillors attending the council's official general meeting on Wednesday.",
-          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/18/c1f34f94-75b6-426b-9844-94adf4a64ff4.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
-          "publishedAt": "2026-11-18T09:04:11.000Z"
-        },
-        {
-          "title": "Maldives nominates Jamsheed for WHO regional director",
-          "link": "https://atolltimes.mv/post/news/17736",
-          "summary": "Dr Jamsheed currently serves as the WHO Representative to Bangladesh",
-          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/18/5fd03b22-2f42-4f61-aa6a-f2e22a194ead.png?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
-          "publishedAt": "2026-11-18T08:25:49.000Z"
-        },
-        {
-          "title": "Malé council to sue over delay in transfer of Hulhumalé services",
-          "link": "https://atolltimes.mv/post/news/17735",
-          "summary": "The Mayor said the council continued to receive complaints from Hulhumalé residents about municipal services currently provided by HDC.",
-          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/18/98978626-ab86-44b5-bd9e-6fc26da0b1d1.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
-          "publishedAt": "2026-11-18T08:23:45.000Z"
-        },
-        {
-          "title": "Malé council to sue govt over block grant deductions",
-          "link": "https://atolltimes.mv/post/news/17734",
-          "summary": "The decision was taken at the council's official general meeting on Wednesday, with all members present voting in favour of pursuing the case.",
-          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/18/2d844cc2-2fec-41ed-80a7-c6c625193476.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
-          "publishedAt": "2026-11-18T08:22:23.000Z"
-        },
-        {
-          "title": "Maldivian appointed to UN group on science and technology",
-          "link": "https://atolltimes.mv/post/news/17733",
-          "summary": "Madin is among 10 members appointed to the group, which brings together representatives from civil society, the private sector and the scientific community.",
-          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/18/4c4bfe1d-7fac-4c81-949b-942394b3f717.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
-          "publishedAt": "2026-11-18T08:21:06.000Z"
-        },
-        {
-          "title": "President targets completion of 70% of projects in 2027",
-          "link": "https://atolltimes.mv/post/news/17732",
-          "summary": "According to the President, the government had adjusted its fiscal management to minimise the impact of these developments on the public.",
-          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/18/68c1fb50-5d21-43a1-b04f-33ff98d938cd.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
-          "publishedAt": "2026-11-18T02:17:13.000Z"
         }
       ]
     }

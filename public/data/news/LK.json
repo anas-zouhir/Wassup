@@ -3,82 +3,143 @@
   "outlets": [
     {
       "outlet": {
+        "id": "ada-derana",
+        "name": "Ada Derana",
+        "homepage": "https://www.adaderana.lk",
+        "lang": "en-LK"
+      },
+      "fetchedAt": "2026-11-19T06:54:38.717Z",
+      "items": [
+        {
+          "title": "DMT introduces appointment-only system for Narahenpita Head Office from Monday",
+          "link": "https://adaderana.lk/news/251961",
+          "publishedAt": "2026-11-19T06:27:39.000Z"
+        },
+        {
+          "title": "Xi and Trump hold talks in Shenzhen amid US-China trade, technology disputes",
+          "link": "https://adaderana.lk/news/251960",
+          "publishedAt": "2026-11-19T05:56:47.000Z"
+        },
+        {
+          "title": "79th National Independence Day celebration to be held at Independence Square",
+          "link": "https://adaderana.lk/news/251959",
+          "publishedAt": "2026-11-19T05:49:40.000Z"
+        },
+        {
+          "title": "2026/2027 Sri Pada pilgrimage season to commence on December 23",
+          "link": "https://adaderana.lk/news/251958",
+          "publishedAt": "2026-11-19T05:30:21.000Z"
+        },
+        {
+          "title": "Sri Lanka and Bangladesh agree to fast-track mechanisms to expand bilateral trade and investment",
+          "link": "https://adaderana.lk/news/251956",
+          "publishedAt": "2026-11-19T05:02:50.000Z"
+        },
+        {
+          "title": "Cameron Bancroft says entire Australian team were aware of sandpaper plot",
+          "link": "https://adaderana.lk/news/251950",
+          "publishedAt": "2026-11-19T03:25:25.000Z"
+        },
+        {
+          "title": "Lahiru Kumara claims five wickets as Pakistan take 227-run lead over Sri Lanka",
+          "link": "https://adaderana.lk/news/251914",
+          "publishedAt": "2026-11-18T09:27:24.000Z"
+        },
+        {
+          "title": "Unprecedented ticket demand shows Cricket World Cup is a must-see event: tournament director",
+          "link": "https://adaderana.lk/news/251911",
+          "publishedAt": "2026-11-18T08:54:15.000Z"
+        },
+        {
+          "title": "Australia to give all players chance to give accounts of 2018 ball-tampering incident",
+          "link": "https://adaderana.lk/news/251889",
+          "publishedAt": "2026-11-18T04:09:26.000Z"
+        },
+        {
+          "title": "Tiger Woods set to return next month after two years out",
+          "link": "https://adaderana.lk/news/251879",
+          "publishedAt": "2026-11-18T01:40:14.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
         "id": "daily-mirror-lk",
         "name": "Daily Mirror",
         "homepage": "https://www.dailymirror.lk",
         "lang": "en-LK"
       },
-      "fetchedAt": "2026-11-18T18:43:53.568Z",
+      "fetchedAt": "2026-11-19T06:54:38.705Z",
       "items": [
         {
-          "title": "CMC hampered by severe staff shortage: Deputy Minister",
-          "link": "https://www.dailymirror.lk/breaking-news/CMC-hampered-by-severe-staff-shortage:-Deputy-Minister/108-355230",
-          "summary": "The Colombo Municipal Council (CMC) is grappling with a severe manpower crisis, with a staggering 4,421 vacancies currently unfilled across 16 departments, Deputy Minister of Provincial Councils and Local Government…",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_75e829b30c.jpg",
-          "publishedAt": "2026-11-18T20:41:00.000Z"
+          "title": "Parts of Bangladesh shut down in protests by Hasina’s party, Yunus’ home set ablaze",
+          "link": "https://www.dailymirror.lk/international/Parts-of-Bangladesh-shut-down-in-protests-by-Hasina’s-party--Yunus’-home-set-ablaze/107-355277",
+          "summary": "Parts of Bangladesh shut down as police said two ruling party members were killed and the ancestral home of former leader Muhammad Yunus set ablaze in violence ahead of former Prime Minister Sheikh Hasina’s return…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_4e6fe0f84a.jpg",
+          "publishedAt": "2026-11-19T12:20:00.000Z"
         },
         {
-          "title": "CSE holds near 21,700 as foreign buying strengthens",
-          "link": "https://www.dailymirror.lk/breaking-news/CSE-holds-near-21-700-as-foreign-buying-strengthens/108-355229",
-          "summary": "The Colombo Stock Exchange closed lower for a third consecutive session on 17 November 2026, although the pace of decline moderated as strong foreign buying provided some underlying support.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_3cb86277fd.jpg",
-          "publishedAt": "2026-11-18T20:27:00.000Z"
+          "title": "40,000 unqualified individuals dispensing medicines in Sri Lanka",
+          "link": "https://www.dailymirror.lk/breaking-news/40-000-unqualified-individuals-dispensing-medicines-in-Sri-Lanka/108-355276",
+          "summary": "Around 40,000 individuals without recognised medical qualifications are involved in dispensing medicines in Sri Lanka, raising serious concerns over public health and the misuse of antibiotics, the Association of Medical…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_4d2b0dbe0b.jpg",
+          "publishedAt": "2026-11-19T12:17:00.000Z"
         },
         {
-          "title": "Rajangane Saddharathana remanded until November 26",
-          "link": "https://www.dailymirror.lk/breaking-news/Rajangane-Saddharathana-remanded-until-November-26/108-355228",
-          "summary": "Rajangane Saddharathana, who was arrested in connection with a clash during a Satyagraha protest near the Ruwanweli Maha Seya in Anuradhapura, has been remanded until November 26 by the Anuradhapura Magistrate’s Court.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_4a6200a3b8.jpg",
-          "publishedAt": "2026-11-18T19:12:00.000Z"
+          "title": "Foreign remittances projected to reach record US$ 9 Billion this year: Vijitha Herath",
+          "link": "https://www.dailymirror.lk/breaking-news/Foreign-remittances-projected-to-reach-record-US--9-Billion-this-year:-Vijitha-Herath/108-355275",
+          "summary": "Foreign worker remittances to Sri Lanka are projected to hit an all-time high of US$ 9 billion by the end of this year, Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath informed Parliament…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_831ee1bc12.jpg",
+          "publishedAt": "2026-11-19T12:11:00.000Z"
         },
         {
-          "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-          "link": "https://www.dailymirror.lk/international/Trump-shakes-hands-with-Putin-and-Xi-ahead-of-historic-talks-in-China/107-355227",
-          "summary": "Donald Trump and Vladimir Putin met for the first time in over a year on Wednesday, as the pair prepared for landmark talks in China with Xi Jinping.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_63c70361df.jpg",
-          "publishedAt": "2026-11-18T19:10:00.000Z"
+          "title": "Sri Lanka tops global youth optimism survey",
+          "link": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-tops-global-youth-optimism-survey/108-355274",
+          "summary": "Sri Lankan students have emerged as the most optimistic young people in the world, according to a new global survey that assessed Gen Z’s confidence in their personal futures, the economy, the environment, politics and…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_21949d58ef.jpg",
+          "publishedAt": "2026-11-19T12:07:00.000Z"
         },
         {
-          "title": "Sri Lankan budget preserves debt reduction path - Fitch Ratings",
-          "link": "https://www.dailymirror.lk/international/Sri-Lankan-budget-preserves-debt-reduction-path---Fitch-Ratings/107-355225",
-          "summary": "Sri Lanka’s 2027 budget signals the government’s ongoing commitment to fiscal discipline and debt reduction while accommodating higher spending on investment and cyclone reconstruction, Fitch Ratings says. Fiscal…",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_144dadb137.jpg",
-          "publishedAt": "2026-11-18T19:06:00.000Z"
+          "title": "Sri Lankan rupee weakens against USD",
+          "link": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-rupee-weakens-against-USD/108-355273",
+          "summary": "The Sri Lankan Rupee recorded a slight depreciation against the US Dollar today (19), with both the buying and selling rates edging upwards compared to the previous day.",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_43c2c9da9a.jpg",
+          "publishedAt": "2026-11-19T11:44:00.000Z"
         },
         {
-          "title": "Lahiru Kumara five-for fails to halt Pakistan",
-          "link": "https://www.dailymirror.lk/breaking-news/Lahiru-Kumara-five-for-fails-to-halt-Pakistan/108-355226",
-          "summary": "Pakistan strengthened their grip on the second Test against Sri Lanka in Rawalpindi, taking a commanding 227-run first-innings lead before reducing the visitors to 74 for 3 at stumps on day two.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_81ca91ebcd.jpg",
-          "publishedAt": "2026-11-18T19:05:00.000Z"
+          "title": "Trump, Putin and Xi to hold historic meeting in China",
+          "link": "https://www.dailymirror.lk/international/Trump--Putin-and-Xi-to-hold-historic-meeting-in-China/107-355271",
+          "summary": "Xi Jinping will soon hold talks with Donald Trump and Vladimir Putin in an unprecedented trilateral meeting on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit in China.",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_2a61af850b.jpg",
+          "publishedAt": "2026-11-19T11:19:00.000Z"
         },
         {
-          "title": "Minister seeks report on death of three-month-old infant at Welikada Prison",
-          "link": "https://www.dailymirror.lk/breaking-news/Minister-seeks-report-on-death-of-three-month-old-infant-at-Welikada-Prison/108-355223",
-          "summary": "Minister of Women and Child Affairs Saroja Savithri Paulraj has called for a detailed report on the death of a three-month-old infant belonging to an inmate at the women’s section of Welikada Prison.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_d602576fb9.jpg",
-          "publishedAt": "2026-11-18T17:56:00.000Z"
+          "title": "Litro Gas incurs Rs. 800 million monthly loss to keep domestic prices low: Trade Minister",
+          "link": "https://www.dailymirror.lk/breaking-news/Litro-Gas-incurs-Rs--800-million-monthly-loss-to-keep-domestic-prices-low:-Trade-Minister/108-355269",
+          "summary": "State-owned Litro Gas Lanka Limited is incurring a monthly loss of Rs. 800 million by selling domestic LP gas below cost to shield consumers from price hikes, Trade Minister Wasantha Samarasinghe informed Parliament…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_d4639a8378.jpg",
+          "publishedAt": "2026-11-19T11:10:00.000Z"
         },
         {
-          "title": "After $6.3 billion crypto heist, Binance plans Asia expansion",
-          "link": "https://www.dailymirror.lk/international/After--6-3-billion-crypto-heist--Binance-plans-Asia-expansion/107-355222",
-          "summary": "Binance, the world’s largest cryptocurrency exchange, plans to expand into five Asian markets next year and has no need ‌to raise funds as its finances are sound, its regional business head told Reuters, even after a…",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_15045fa950.jpg",
-          "publishedAt": "2026-11-18T17:41:00.000Z"
+          "title": "Influenza sweeps across Sri Lanka as doctors urge caution",
+          "link": "https://www.dailymirror.lk/breaking-news/Influenza-sweeps-across-Sri-Lanka-as-doctors-urge-caution/108-355268",
+          "summary": "Influenza infections are spreading across Sri Lanka, with the public urged to remain cautious as more people experience fever, cough, sore throat, body aches and other respiratory symptoms, particularly among children,…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_b66a584836.jpg",
+          "publishedAt": "2026-11-19T11:05:00.000Z"
         },
         {
-          "title": "US, Sri Lanka discuss expanding defense cooperation, digital economy ties",
-          "link": "https://www.dailymirror.lk/breaking-news/US--Sri-Lanka-discuss-expanding-defense-cooperation--digital-economy-ties/108-355221",
-          "summary": "U.S. Ambassador to Sri Lanka Eric Meyer met with President Anura Kumara Dissanayake today to discuss strengthening bilateral relations, with a focus on expanding defense cooperation and joint initiatives to combat…",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_b391acba6f.jpg",
-          "publishedAt": "2026-11-18T17:28:00.000Z"
+          "title": "Colombo to remove unauthorised structures obstructing drainage system",
+          "link": "https://www.dailymirror.lk/breaking-news/Colombo-to-remove-unauthorised-structures-obstructing-drainage-system/108-355267",
+          "summary": "The Colombo Municipal Council (CMC) is taking steps to identify and remove unauthorised constructions obstructing the city’s drainage system, Colombo Mayor Vraie Cally Balthazaar said.",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_d1e870b556.jpg",
+          "publishedAt": "2026-11-19T11:01:00.000Z"
         },
         {
-          "title": "Bancroft sandpaper claims heap pressure on Cummins",
-          "link": "https://www.dailymirror.lk/international/Bancroft-sandpaper-claims-heap-pressure-on-Cummins/107-355217",
-          "summary": "In a detailed testimony, published by the West Australian,, external batter Bancroft - the player caught with the sandpaper during the Test match against South Africa - has given arguably the most complete account of the…",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_277ad14e03.jpg",
-          "publishedAt": "2026-11-18T16:16:00.000Z"
+          "title": "Govt. firm against releasing substandard chilli containers",
+          "link": "https://www.dailymirror.lk/breaking-news/Govt--firm-against-releasing-substandard-chilli-containers/108-355266",
+          "summary": "Amid concerns over approximately 120 containers of dried chillies currently held at the port, the government has reiterated that any stocks found to be below quality standards will not be released into the market,…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_d395fff633.jpg",
+          "publishedAt": "2026-11-19T10:57:00.000Z"
         }
       ]
     },
@@ -89,77 +150,77 @@
         "homepage": "https://www.newswire.lk",
         "lang": "en-LK"
       },
-      "fetchedAt": "2026-11-18T18:43:53.342Z",
+      "fetchedAt": "2026-11-19T06:54:38.675Z",
       "items": [
         {
-          "title": "Goodbye baldness? China’s new ‘Magic Comb’ shows promising results",
-          "link": "https://www.newswire.lk/2026/11/18/goodbye-baldness-chinas-new-magic-comb-shows-promising-results/",
-          "summary": "Chinese scientists have developed an innovative electronic comb capable of stimulating hair regrowth, achieving nearly 98% hair coverage in laboratoryContinue Reading The post Goodbye baldness? China’s new ‘Magic Comb’…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Screenshot_20261118_212808_Chrome.jpg",
-          "publishedAt": "2026-11-18T15:58:34.000Z"
+          "title": "Prior appointments mandatory for all DMT Narahenpita services from November 23",
+          "link": "https://www.newswire.lk/2026/11/19/prior-appointments-mandatory-for-all-dmt-narahenpita-services-from-november-23/",
+          "summary": "By Newswire Editorial The Department of Motor Traffic (DMT) has announced that all public services at its Narahenpita Head OfficeContinue Reading The post Prior appointments mandatory for all DMT Narahenpita services…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2021/08/Department-of-Motor-Traffic.jpg",
+          "publishedAt": "2026-11-19T06:50:13.000Z"
         },
         {
-          "title": "Tissa Jananayake responds to tax allegations, says he paid over Rs. 17 million this year",
-          "link": "https://www.newswire.lk/2026/11/18/tissa-jananayake-responds-to-tax-allegations-says-he-paid-over-rs-17-million-this-year/",
-          "summary": "Popular Sri Lankan tuition teacher Tissa Jananayake has issued a detailed clarification regarding allegations circulating on social media about hisContinue Reading The post Tissa Jananayake responds to tax allegations,…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/2d6a3743-92a9-4af2-ad72-3f56522e0e66.jpeg",
-          "publishedAt": "2026-11-18T15:57:35.000Z"
+          "title": "Preparations begin for Sri Lanka’s 79th National Independence Day celebrations",
+          "link": "https://www.newswire.lk/2026/11/19/preparations-begin-for-sri-lankas-79th-national-independence-day-celebrations/",
+          "summary": "By Newswire Editorial The first preparatory meeting for Sri Lanka’s 79th National Independence Day celebrations was held under the patronageContinue Reading The post Preparations begin for Sri Lanka’s 79th National…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/independence-square-independence-day.jpg",
+          "publishedAt": "2026-11-19T06:46:23.000Z"
         },
         {
-          "title": "Haitian PM praises Sri Lankan Troops following successful Anti-Gang Operation",
-          "link": "https://www.newswire.lk/2026/11/18/haitian-pm-praises-sri-lankan-troops-following-successful-anti-gang-operation/",
-          "summary": "Sri Lankan personnel serving under the international Gang Suppression Force (GSF) in Haiti have received recognition from Haitian Prime MinisterContinue Reading The post Haitian PM praises Sri Lankan Troops following…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Images-17.jpg",
-          "publishedAt": "2026-11-18T15:57:06.000Z"
+          "title": "CBSL rates: Rupee depreciates slightly against US Dollar",
+          "link": "https://www.newswire.lk/2026/11/19/cbsl-rates-rupee-depreciates-slightly-against-us-dollar-6/",
+          "summary": "By Newswire Editorial The Sri Lankan Rupee has depreciated slightly against the US Dollar today (19), compared to Wednesday, withContinue Reading The post CBSL rates: Rupee depreciates slightly against US Dollar appeared…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/10/Dollar.jpg",
+          "publishedAt": "2026-11-19T06:21:55.000Z"
         },
         {
-          "title": "Wildlife Department temporarily suspends visits to Nil Diya Pokuna",
-          "link": "https://www.newswire.lk/2026/11/18/wildlife-department-temporarily-suspends-visits-to-nildhiya-pokuna/",
-          "summary": "Visiting the Nil Diya Pokuna within the Ravana Ella Sanctuary has been temporarily suspended until formal tourism activities are officiallyContinue Reading The post Wildlife Department temporarily suspends visits to Nil…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/nil-diya-pokuna-89fd30dd95a6efe1bc67c89cf8f4e776.webp",
-          "publishedAt": "2026-11-18T15:39:52.000Z"
+          "title": "Teacher wins legal battle over transfer after 10 years",
+          "link": "https://www.newswire.lk/2026/11/19/teacher-wins-legal-battle-over-transfer-after-10-years/",
+          "summary": "The Court of Appeal has upheld a ruling quashing the transfer of a teacher in the Southern Province, finding thatContinue Reading The post Teacher wins legal battle over transfer after 10 years appeared first on…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Court-hammer-new.jpg",
+          "publishedAt": "2026-11-19T06:18:50.000Z"
         },
         {
-          "title": "Angelo Mathews becomes first Sri Lankan face of global eyewear giant EssilorLuxottica",
-          "link": "https://www.newswire.lk/2026/11/18/angelo-mathews-becomes-first-sri-lankan-face-of-global-eyewear-giant-essilorluxottica/",
-          "summary": "Legendary Sri Lankan cricketer and former national captain Angelo Mathews has been selected to promote global eyewear giant EssilorLuxotticaContinue Reading The post Angelo Mathews becomes first Sri Lankan face of global…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Screenshot_20261118_205357_WhatsApp.jpg",
-          "publishedAt": "2026-11-18T15:26:43.000Z"
+          "title": "Indian PM Modi uses GTA-style campaign to showcase India’s transformation",
+          "link": "https://www.newswire.lk/2026/11/19/indian-pm-modi-uses-gta-style-campaign-to-showcase-indias-transformation/",
+          "summary": "By Newswire Editorial Indian Prime Minister Narendra Modi has used the popular Grand Theft Auto (GTA) video game theme toContinue Reading The post Indian PM Modi uses GTA-style campaign to showcase India’s transformation…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Modi-GTA-1.jpg",
+          "publishedAt": "2026-11-19T06:05:31.000Z"
         },
         {
-          "title": "Court of Appeal dismisses Hingurana Distilleries’ Rs. 270 million Customs refund case",
-          "link": "https://www.newswire.lk/2026/11/18/court-of-appeal-dismisses-hingurana-distilleries-rs-270-million-customs-refund-case/",
-          "summary": "The Court of Appeal has dismissed a writ application filed by Hingurana Distilleries (Pvt) Ltd and its Managing Director, challengingContinue Reading The post Court of Appeal dismisses Hingurana Distilleries’ Rs. 270…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/IMG_4465.jpeg",
-          "publishedAt": "2026-11-18T15:24:11.000Z"
+          "title": "40,000 non-doctors dispensing medicines in Sri Lanka, health experts warn",
+          "link": "https://www.newswire.lk/2026/11/19/40000-non-doctors-dispensing-medicines-in-sri-lanka-health-experts-warn/",
+          "summary": "By Newswire Editorial Approximately 40,000 individuals who are not qualified medical doctors are engaged in dispensing medicines in Sri Lanka,Continue Reading The post 40,000 non-doctors dispensing medicines in Sri…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2024/12/istockphoto-943974286-612x612-1.jpg",
+          "publishedAt": "2026-11-19T06:00:03.000Z"
         },
         {
-          "title": "Major airlines suspend Saudi flights until November 30 amid security threats",
-          "link": "https://www.newswire.lk/2026/11/18/major-airlines-suspend-saudi-flights-until-november-30-amid-security-threats/",
-          "summary": "Several major international airlines, including IndiGo, Air India, Air India Express, Akasa Air, Etihad Airways and flydubai, have extended flightContinue Reading The post Major airlines suspend Saudi flights until…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/images-1.jpeg",
-          "publishedAt": "2026-11-18T14:54:53.000Z"
+          "title": "Divorce dispute takes dramatic turn as husband allegedly tries to run over brother-in-law",
+          "link": "https://www.newswire.lk/2026/11/19/divorce-dispute-takes-dramatic-turn-as-husband-allegedly-tries-to-run-over-brother-in-law/",
+          "summary": "By Newswire Editorial A divorce dispute took a dramatic turn in Batticaloa when a husband allegedly attempted to run overContinue Reading The post Divorce dispute takes dramatic turn as husband allegedly tries to run…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Batticaloa-divorce-fight.jpg",
+          "publishedAt": "2026-11-19T05:37:54.000Z"
         },
         {
-          "title": "Australia imposes sanctions on Israelis over illegal West Bank settlements and violence against Palestinians",
-          "link": "https://www.newswire.lk/2026/11/18/australia-imposes-sanctions-on-israelis-over-illegal-west-bank-settlements-and-violence-against-palestinians/",
-          "summary": "Australia has announced new sanctions against three Israeli individuals and four organisations over their involvement in illegal settlement expansion andContinue Reading The post Australia imposes sanctions on Israelis…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/images.jpeg",
-          "publishedAt": "2026-11-18T14:48:58.000Z"
+          "title": "Dollar Rate today: Sri Lankan Rupee depreciates slightly against USD",
+          "link": "https://www.newswire.lk/2026/11/19/dollar-rate-today-sri-lankan-rupee-depreciates-slightly-against-usd-8/",
+          "summary": "By Newswire Editorial The Sri Lankan Rupee has depreciated slightly against the US Dollar across commercial banks in Sri LankaContinue Reading The post Dollar Rate today: Sri Lankan Rupee depreciates slightly against USD…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2021/11/200524052157WBQT-1.jpg",
+          "publishedAt": "2026-11-19T05:22:35.000Z"
         },
         {
-          "title": "Sri Lanka, Brazil sign Technical Cooperation Agreements for sugarcane and dairy sectors",
-          "link": "https://www.newswire.lk/2026/11/18/sri-lanka-brazil-sign-technical-cooperation-agreements-for-sugarcane-and-dairy-sectors/",
-          "summary": "Sri Lanka and Brazil signed two Complementary Agreements on technical cooperation in the sugarcane and dairy sectors at the headquartersContinue Reading The post Sri Lanka, Brazil sign Technical Cooperation Agreements…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-19.33.16.jpeg",
-          "publishedAt": "2026-11-18T14:32:18.000Z"
+          "title": "GTA 6 officially launches after 13-year wait, introducing major gameplay changes",
+          "link": "https://www.newswire.lk/2026/11/19/gta-6-officially-launches-after-13-year-wait-introducing-major-gameplay-changes/",
+          "summary": "By Newswire Editorial Rockstar Games has officially launched the highly anticipated Grand Theft Auto VI (GTA 6) today (19), endingContinue Reading The post GTA 6 officially launches after 13-year wait, introducing major…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/GTA-6.jpg",
+          "publishedAt": "2026-11-19T05:12:06.000Z"
         },
         {
-          "title": "Gnanasara Thero loses appeal: What did the judges say?",
-          "link": "https://www.newswire.lk/2026/11/18/gnanasara-thero-loses-appeal-what-did-the-judges-say/",
-          "summary": "By Newswire Editorial The Court of Appeal has upheld the four-year rigorous imprisonment sentence imposed on Ven. Galagoda Aththe GnanasaraContinue Reading The post Gnanasara Thero loses appeal: What did the judges say?…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/09/Gnanasara.jpeg",
-          "publishedAt": "2026-11-18T14:30:11.000Z"
+          "title": "Air quality reaches ‘very unhealthy’ levels in parts of North and East as AQI touches 200",
+          "link": "https://www.newswire.lk/2026/11/19/air-quality-reaches-very-unhealthy-levels-in-parts-of-north-and-east-as-aqi-touches-200/",
+          "summary": "By Newswire Editorial Air quality has deteriorated to unhealthy levels across several parts of Sri Lanka’s Northern and Eastern ProvincesContinue Reading The post Air quality reaches ‘very unhealthy’ levels in parts of…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Air-quality.jpg",
+          "publishedAt": "2026-11-19T04:58:50.000Z"
         }
       ]
     }

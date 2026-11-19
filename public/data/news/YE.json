@@ -3,102 +3,163 @@
   "outlets": [
     {
       "outlet": {
+        "id": "aden-alghad",
+        "name": "Aden Al-Ghad (عدن الغد)",
+        "homepage": "https://adengad.net",
+        "lang": "ar"
+      },
+      "fetchedAt": "2026-11-19T06:55:16.738Z",
+      "items": [
+        {
+          "title": "تربية تعز تطالب المدارس برفع تقارير مفصلة عن تنفيذ التعليم عن بُعد",
+          "link": "https://www.adngad.net/news/899742",
+          "summary": "وجّه مكتب التربية والتعليم بمحافظة تعز تعميمًا إلى مديري إدارات التربية والتعليم بالمديريات ومديري المدارس الحكومية والأهلية، طالب فيه برفع تقارير مفص",
+          "image": "https://www.adngad.net/UploadFiles/2026/Nov/19/03abc954-d3f4-4a46-8d19-811f8187e848.jpg",
+          "publishedAt": "2026-11-19T06:54:00.000Z"
+        },
+        {
+          "title": "التحالف يعلن اعتراض وتدمير 4 صواريخ باليستية أطلقتها الميليشيا الحوثية باتجاه المنطقة الجنوبية",
+          "link": "https://www.adngad.net/news/899740",
+          "summary": "أعلن تحالف دعم الشرعية في اليمن عن تمكن قواته من اعتراض وتدمير 4 صواريخ باليستية أطلقتها الميليشيا الحوثية الإرهابية باتجاه المنطقة الجنوبية للمملكة ا",
+          "image": "https://www.adngad.net/UploadFiles/2026/Nov/19/81fa9191-1582-4e00-b558-b1f0605b88be.jpg",
+          "publishedAt": "2026-11-19T06:45:00.000Z"
+        },
+        {
+          "title": "بدء صرف الحوالات النقدية للمستفيدين السابقين من برنامج الغذاء العالمي في صبر الموادم",
+          "link": "https://www.adngad.net/news/899741",
+          "summary": "أعلنت المنظمة الوطنية للإغاثة بدء صرف الحوالات النقدية للأسر المستفيدة سابقًا من برنامج الغذاء العالمي في مديرية صبر الموادم بمحافظة تعز، اعتبارًا من",
+          "image": "https://www.adngad.net/UploadFiles/2026/Nov/19/bdb73c68-7850-4659-887e-882a95a91c30.jpg",
+          "publishedAt": "2026-11-19T06:45:00.000Z"
+        },
+        {
+          "title": "نقابة الصحفيين تدين اقتحام منزل الصحفي أحمد القاضي في التربة ونهب سيارته من قبل مسلحي الحوثي",
+          "link": "https://www.adngad.net/news/899739",
+          "summary": "أدانت نقابة الصحفيين اليمنيين، بشدة، واقعة اقتحام منزل الصحفي أحمد عبد الرحمن القاضي، الموظف في وكالة الأنباء اليمنية (سبأ)، في منطقة التربة، والاستيل",
+          "image": "https://www.adngad.net/UploadFiles/2026/Nov/19/6c2895ce-b974-41cb-8724-fc5a54aa0792.jpg",
+          "publishedAt": "2026-11-19T06:41:00.000Z"
+        },
+        {
+          "title": "تنبيه هام للمسافرين.. إعلان مواعيد فتح وإغلاق الطرق الحيوية الرابطة بين تعز والمحافظات المجاورة",
+          "link": "https://www.adngad.net/news/899738",
+          "summary": "أفادت مصادر ميدانية ومرورية بفتح عدد من الطرق الحيوية والرابطة بين محافظة تعز والمحافظات المجاورة أمام حركة السير، اليوم الخميس الموافق 19 نوفمبر، وذل",
+          "image": "https://www.adngad.net/UploadFiles/2026/Nov/19/b43493dd-01ee-403b-96dc-fd94c9b82b6c.jpg",
+          "publishedAt": "2026-11-19T06:37:00.000Z"
+        },
+        {
+          "title": "سقوط مرافق قيادي حوثي في قبضة أمن زنجبار بعد ارتكابه جريمة قتل مروّعة",
+          "link": "https://www.adngad.net/news/899737",
+          "summary": "تمكنت قوات الأمن الوطني في قطاع زنجبار بمحافظة أبين، من ضبط متهم بارتكاب جريمة قتل بحق المواطن حمزة علي عبدالله الصلاحي، وإحالته إلى الجهات القانونية",
+          "image": "https://www.adngad.net/UploadFiles/2026/Nov/19/f0fc5915-b44d-4cd1-bacc-a2f6469d87a7.jpg",
+          "publishedAt": "2026-11-19T06:36:00.000Z"
+        },
+        {
+          "title": "ضربة جوية مباغتة تحصد تجمعات لميليشيا الحوثي قرب المخا",
+          "link": "https://www.adngad.net/news/899736",
+          "summary": "تداولت مصادر محلية أنباءً عن تنفيذ الطيران الحربي غارات جوية مباغتة استهدفت تجمعات وتحركات تابعة لـ ميليشيا الحوثي بالقرب من سوق زيد في منطقة الخرج بم",
+          "image": "https://www.adngad.net/UploadFiles/2026/Nov/19/2aa0948c-8c64-4bdb-b8a1-3983e4140594.jpg",
+          "publishedAt": "2026-11-19T06:34:00.000Z"
+        },
+        {
+          "title": "الأمم المتحدة تحذر من كارثة صحية في تعز بعد تسجيل 5600 إصابة بأمراض منقولة عبر المياه",
+          "link": "https://www.adngad.net/news/899735",
+          "summary": "حذرت الأمم المتحدة من تفاقم الأزمة الصحية والإنسانية في مدينة تعز، كاشفةً عن تسجيل نحو 5600 إصابة بأمراض منقولة عبر المياه والنواقل خلال أربعة أسابيع",
+          "image": "https://www.adngad.net/UploadFiles/2026/Nov/19/40bdb56b-bf84-46c0-9d59-e1cdf16b5de3.jpg",
+          "publishedAt": "2026-11-19T06:31:00.000Z"
+        },
+        {
+          "title": "التحالف يعلن التعامل مع تهديد صاروخي حوثي باتجاه الرياض",
+          "link": "https://www.adngad.net/news/899734",
+          "summary": "أعلن تحالف دعم الشرعية في اليمن، فجر اليوم الخميس، التعامل مع تهديد صاروخي أطلقته مليشيا الحوثي باتجاه العاصمة السعودية الرياض، موضحاً أن التقييم المي",
+          "image": "https://www.adngad.net/UploadFiles/2026/Nov/19/3c4725ca-51cb-48bc-96e4-9529edf71a46.jpg",
+          "publishedAt": "2026-11-19T06:25:00.000Z"
+        },
+        {
+          "title": "قصف ومخلفات متفجرة.. إصابة 6 مدنيين بينهم 4 أطفال بحادثتين مأساويتين في تعز",
+          "link": "https://www.adngad.net/news/899733",
+          "summary": "أُصيب ستة مدنيين، بينهم أربعة أطفال، بجروح متفاوتة وخطيرة، جراء قصف مدفعي شنته ميليشيا الحوثي وانفجار عبوة ناسفة من مخلفاتها، في حادثتين منفصلتين شهدت",
+          "image": "https://www.adngad.net/UploadFiles/2026/Nov/19/a6486503-0979-4ea4-a9c7-bf09e2acce54.jpg",
+          "publishedAt": "2026-11-19T06:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
         "id": "almashhad-alyemeni",
         "name": "Al-Mashhad Al-Yemeni (المشهد اليمني)",
         "homepage": "https://www.almashhad-alyemeni.com",
         "lang": "ar"
       },
-      "fetchedAt": "2026-11-18T18:44:52.995Z",
+      "fetchedAt": "2026-11-19T06:55:16.820Z",
       "items": [
         {
-          "title": "هالاند يصعق الدنمارك في الدقيقة 96.. عودة نرويجية تقلب حسابات التأهل",
-          "link": "https://www.almashhad.news/news/507440",
-          "summary": "خطف منتخب النرويج بطاقة التأهل إلى ربع نهائي دوري الأمم الأوروبية بعدما حقق عودة مثيرة أمام مضيفه الدنماركي، وحوّل تأخره بهدفين إلى فوز بنتيجة 3-2، بف",
-          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/18/8f7d28e2-7447-4477-b973-e88b5d205dbf.jpg",
-          "publishedAt": "2026-11-18T18:37:37.000Z",
-          "titleEn": "Holland knocks Denmark out in the 96th minute. The Norwegian return is turning the tables.",
-          "summaryEn": "The Norwegian squad has taken their qualification card to the quarter-finals of the Europa League after making an exciting comeback against their Danish host, turning a two-goal delay into a 3-2 victory, with the club having won the competition in the previous season."
+          "title": "الحوثيون يطيحون برئيس جامعة الضالع ويستبدلونه بآخر من السلالة في إطار سياستها العنصرية",
+          "link": "https://www.almashhad.news/news/507546",
+          "summary": "أطاحت مليشيا الحوثي برئيس جامعة الضالع الحكومية، البروفيسور الدكتور علي سعيد الطارق، وعينت بدلاً عنه شخصية محسوبة على السلالة، في خطوة تعكس استمرار سي",
+          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/19/825afa37-5dc8-4834-8d31-b65a3c67a91f.jpg",
+          "publishedAt": "2026-11-19T06:50:12.000Z"
         },
         {
-          "title": "اليمن يطالب شركاءه الدوليين بخطوات مماثلة لقانون تصنيف الحوثيين منظمة إرهابية",
-          "link": "https://www.almashhad.news/news/507439",
-          "summary": "دعت وزيرة الخارجية اليمنية، الدكتورة أفراح الزوبة، الدول الشريكة لليمن إلى اتخاذ خطوات مماثلة للقانون الذي أصدرته الجمهورية اليمنية اليوم بشأن تصنيف م",
-          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/18/19d2f633-8580-40e3-8b83-9c35cb4d0159.jpg",
-          "publishedAt": "2026-11-18T18:27:53.000Z",
-          "titleEn": "Yemen is demanding that its international partners take steps similar to the Houthi law to classify the Houthis as a terrorist organization .",
-          "summaryEn": "The Yemeni Foreign Minister, Dr. Affair Zubair, called on Yemen's partner countries to take steps similar to the law issued by the Republic of Yemen today on the classification of"
+          "title": "الحوثيون ينفذون حملة لإعادة متهمين بجرائم جسيمة للسجون بعد فرارهم من جبهات القتال",
+          "link": "https://www.almashhad.news/news/507545",
+          "summary": "نفذت مليشيا الحوثي حملة أمنية واسعة في عدد من المحافظات الخاضعة لسيطرتها، لإعادة سجناء متهمين في جرائم جسيمة إلى السجون، بعد فرارهم من جبهات القتال ال",
+          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/19/af4dccb0-09e2-4c1b-a406-808ce0947b03.jpg",
+          "publishedAt": "2026-11-19T06:27:35.000Z"
         },
         {
-          "title": "إلهام شاهين تحسم الجدل وترد بقوة بعد إحالة مرتضى منصور للمحاكمة الجنائية",
-          "link": "https://www.almashhad.news/news/507438",
-          "summary": "في أول رد فعل رسمي، علقت الفنانة المصرية الكبيرة إلهام شاهين على قرار إحالة رئيس نادي الزمالك الأسبق مرتضى منصور إلى المحاكمة الجنائية العاجلة، مؤكدةً",
-          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/18/22d36499-04ed-4e3a-8eb6-e175307d1f03.jpg",
-          "publishedAt": "2026-11-18T18:20:41.000Z",
-          "titleEn": "Shaheen's inspiration resolves the controversy and responds forcefully after referring a Mansour patient to a criminal trial.",
-          "summaryEn": "In her first official reaction, the Egyptian artist has suspended the inspiration of Shaheen over the decision to refer the former president of the Zamalk Club, a patient named Mansour, to an urgent criminal trial."
+          "title": "وزير الإعلام اليمني يحدد ملامح المرحلة المقبلة: استعادة ثقة الجمهور ومواكبة معركة \"فجر اليمن\" وتفكيك سردية الحوثيين",
+          "link": "https://www.almashhad.news/news/507544",
+          "summary": "أكد وزير الإعلام اليمني، سالم ثابت العولقي، أن التحدي الأبرز أمام وزارته يتمثل في إعادة قدرة الإعلام الرسمي على التأثير واستعادة ثقة الجمهور، مشدداً ع",
+          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/19/3beb950f-04c5-44bb-ad5f-38ad7b16bb12.jpg",
+          "publishedAt": "2026-11-19T06:23:12.000Z"
         },
         {
-          "title": "التحالف يعترض مسيّرتين حوثيتين في الرياض والمنطقة الجنوبية",
-          "link": "https://www.almashhad.news/news/507437",
-          "summary": "أعلن تحالف دعم الشرعية في اليمن، مساء الأربعاء، اعتراض وتدمير طائرتين مسيّرتين أطلقتهما مليشيات الحوثي الإرهابية، إحداهما في منطقة الرياض والأخرى في ا",
-          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/18/0271bab8-fbfc-4ddd-aebb-3e9645ad18d7.jpg",
-          "publishedAt": "2026-11-18T18:12:58.000Z",
-          "titleEn": "The coalition is obstructing two Houthi marches in Riyadh and the southern region.",
-          "summaryEn": "Yemen's pro-legitimacy coalition announced on Wednesday evening that two marching planes were intercepted and destroyed by the Houthi terrorist militias, one in the Riyadh area and the other in a..."
+          "title": "التحالف: اعتراض وتدمير 4 صواريخ باليستية أطلقتها الميليشيا الحوثية باتجاه المنطقة الجنوبية للسعودية",
+          "link": "https://www.almashhad.news/news/507543",
+          "summary": "أعلن المتحدث الرسمي باسم قوات تحالف دعم الشرعية في اليمن، اللواء الركن تركي المالكي، قبل قليل، أن الدفاع الجوي اعترض ودمّر 4 صواريخ باليستية أطلقتها ا",
+          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/19/0f0fee0c-6221-4b25-bb14-200d50a3cdd2.jpg",
+          "publishedAt": "2026-11-19T06:18:36.000Z"
         },
         {
-          "title": "مليشيا الحوثي تصعّد ضد أولياء الأمور في ريف تعز لإجبار أبنائهم على الالتحاق بمعسكرات التجنيد",
-          "link": "https://www.almashhad.news/news/507436",
-          "summary": "أفادت مصادر محلية في ريف محافظة تعز بتصعيد جديد تمارسه مليشيا الحوثي ضد السكان، يتمثل في توجيه تهديدات مباشرة لأولياء أمور الطلاب لإجبارهم على إرسال أ",
-          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/18/5c4bd388-54cc-408e-9725-773609785b70.jpg",
-          "publishedAt": "2026-11-18T18:12:57.000Z",
-          "titleEn": "Houthi militias rise up against parents in rural Taiz to force their sons into recruitment camps.",
-          "summaryEn": "Local sources in rural Taiz governorate reported a new escalation of the Houthi militia's crackdown on the population, which is direct threats to the students' parents to force them to send a"
+          "title": "عيدروس الزبيدي يصدر قرارا جديدا من أبوظبي",
+          "link": "https://www.almashhad.news/news/507542",
+          "summary": "أصدر رئيس المجلس الانتقالي الجنوبي المعلن عن حلّه، عيدروس الزبيدي، من مقر إقامته بالعاصمة الاماراتية ابوظبي، قرارًا بتعيين في المواقع القيادية بالأمان",
+          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/19/3de03f3b-2e6b-47f1-8df9-bcc9bb99a7f8.jpg",
+          "publishedAt": "2026-11-19T06:13:18.000Z"
         },
         {
-          "title": "إصابة قائد اللواء 24 عمالقة بطلق ناري خلال اشتباكات في جبهة المضاربة",
-          "link": "https://www.almashhad.news/news/507435",
-          "summary": "أُصيب قائد اللواء 24 عمالقة، الفرقة الثانية، العميد عبدالمجيد هيثم عبدالقوي القعود، بطلق ناري مباشر في الفخذ الأيمن، إثر اشتباكات مسلحة شهدتها جبهة ال",
-          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/18/16104bc5-d16f-47ee-9748-cca3ac2e5374.jpg",
-          "publishedAt": "2026-11-18T17:48:40.000Z",
-          "titleEn": "The commander of the 24th Brigade was shot during clashes on the speculative front.",
-          "summaryEn": "The commander of the 24th Brigade, 2nd Division, Maj. Gen. Abdul Majid Hatham Abdul Al-Quaid, was shot in the right thigh, following armed clashes witnessed by the Al-Qaeda front."
+          "title": "أهالي ريف تعز يطمسون شعارات مليشيا الحوثي من قمة جبل مطران رفضاً لوجودها - [فيديو]",
+          "link": "https://www.almashhad.news/news/507541",
+          "summary": "أقدم مواطنون في منطقة قدس بمديرية المواسط جنوب محافظة تعز، اليوم، على طمس الشعارات والرموز التابعة لمليشيا الحوثي من أعلى قمة جبل مطران، في خطوة تعكس",
+          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/19/de5388b2-2fd4-4992-98fb-fa1cb1a7f2f8.jpg",
+          "publishedAt": "2026-11-19T05:53:15.000Z"
         },
         {
-          "title": "الاتحاد العالمي للمهاجرين يشيد بجهود وزارة المياه والبيئة ويؤكد تسخير شبكته الدولية لدعم تحقيق أهدافها",
-          "link": "https://www.almashhad.news/news/507434",
-          "summary": "أشاد الاتحاد العالمي للمهاجرين بجهود وزارة المياه والبيئة ممثلة بوزيرها الأستاذ توفيق الشرجبي في مجال العمل المناخي والبيئي (الذي حضر مؤتمر المناخ في",
-          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/18/ddce3d83-ff4e-4da4-8c84-b6d09cd908e8.jpg",
-          "publishedAt": "2026-11-18T17:48:12.000Z",
-          "titleEn": "The World Federation of Migrants commends the efforts of the Ministry of Water and Environment and emphasizes the exploitation of its international network to support its goals.",
-          "summaryEn": "The World Federation of Migrants commended the efforts of the Ministry of Water and Environment, represented by its Minister for Climate and Environmental Action, Professor Tafadeh Sharjebi, who attended the Climate Conference in"
+          "title": "موقع بريطاني: السعودية تستنفر شركاءها الغربيين وتركيا لتأمين إمدادات عسكرية عاجلة استعداداً لحرب طويلة في اليمن",
+          "link": "https://www.almashhad.news/news/507540",
+          "summary": "كشف موقع \"ميدل إيست آي\" البريطاني أن المملكة العربية السعودية عقدت اجتماعات عاجلة في الرياض مع شركائها الغربيين لطلب إمدادات عسكرية فورية، بهدف ردع هج",
+          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/19/02ef7198-72a7-4dc0-b322-7ee1821fe04f.jpg",
+          "publishedAt": "2026-11-19T05:49:06.000Z"
         },
         {
-          "title": "القوات المسلحة تعلن تنفيذ 746 غارة وعملية استهداف ضمن «فجر اليمن» ومقتل وإصابة 142 حوثياً",
-          "link": "https://www.almashhad.news/news/507433",
-          "summary": "أعلنت القوات المسلحة اليمنية، اليوم الأربعاء، تنفيذ 746 غارة وعملية استهداف لمواقع وتحركات مليشيات الحوثي في عدد من الجبهات، خلال الساعات الماضية، ضمن",
-          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/18/decda974-baa0-4f24-ac33-57a29fe09a8a.jpg",
-          "publishedAt": "2026-11-18T17:42:34.000Z",
-          "titleEn": "Armed Forces announce 746 raids and targeting operations inside Yemen, killing and wounding 142 Houthis",
-          "summaryEn": "The Yemeni armed forces announced on Wednesday that they have carried out 746 raids and targeting of Houthi militias' positions and movements on a number of fronts over the past few hours."
+          "title": "مسلحون حوثيون يقتحمون منزل رئيس عمليات المنطقة العسكرية السادسة وينهبون محتوياته جنوب تعز",
+          "link": "https://www.almashhad.news/news/507539",
+          "summary": "أقدمت عناصر مسلحة تابعة لمليشيا الحوثي على اقتحام منزل رئيس عمليات المنطقة العسكرية السادسة، العميد الركن نبيل المقرمي، ونهب محتوياته في عزلة المقارمة",
+          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/19/f07d7b96-0719-4894-b56b-a0caf22bda83.jpg",
+          "publishedAt": "2026-11-19T05:37:07.000Z"
         },
         {
-          "title": "الأمم المتحدة تحذر من انهيار خدمي وشيك في تعز: المياه تغطي 8% فقط وغاز الطهي يقفز 170%",
-          "link": "https://www.almashhad.news/news/507432",
-          "summary": "حذّرت الأمم المتحدة من تدهور متسارع في الأوضاع الإنسانية والخدمية بمدينة تعز، جراء استمرار العمليات العسكرية والقيود المفروضة على حركة الإمداد والوصول",
-          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/18/b2e6af7d-aad1-4187-a718-561e55cd758e.jpg",
-          "publishedAt": "2026-11-18T17:36:48.000Z",
-          "titleEn": "The United Nations warns of an impending service collapse in Taiz: water covers only 8% and cooking gas jumps 170%.",
-          "summaryEn": "The United Nations has warned of an accelerating deterioration in the humanitarian and service situation in Taiz, due to continued military operations and restrictions on movement of supplies and access."
+          "title": "الحوثيون يجبرون طبيب أعشاب على دفع مرتبات الأطباء وموظفي مستشفى الثورة بصنعاء",
+          "link": "https://www.almashhad.news/news/507538",
+          "summary": "كشفت مصادر طبية عن إجبار مليشيا الحوثي معالجاً شعبياً على التكفل بدفع مرتبات كوادر هيئة مستشفى الثورة العام بصنعاء، أكبر مستشفى حكومي في اليمن، عن شهر",
+          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/19/6b836683-ea0c-4ec5-88ba-af21ed880fb6.jpg",
+          "publishedAt": "2026-11-19T05:24:22.000Z"
         },
         {
-          "title": "رويترز: السعودية تدرس شن عملية عسكرية واسعة ضد مليشيات الحوثي الإرهابية في اليمن تستمر لـ6 أشهر",
-          "link": "https://www.almashhad.news/news/507431",
-          "summary": "تدرس المملكة العربية السعودية تمديد عملياتها العسكرية ضد مليشيات الحوثي الإرهابية في اليمن حتى عام 2027، مع الاستعداد لاحتمال استمرار المواجهة ستة أشه",
-          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/18/f80cbeb9-46b6-4a29-ac4a-7dba92bcbace.jpg",
-          "publishedAt": "2026-11-18T17:24:33.000Z",
-          "titleEn": "Reuters: Saudi Arabia is considering launching a massive military operation against Houthi terrorist militias in Yemen that will last for six months.",
-          "summaryEn": "Saudi Arabia is considering extending its military operations against Houthi terrorist militias in Yemen until 2027, with preparations for a possible six-month confrontation."
+          "title": "منصة استخباراتية: تحركات حوثية مكثفة نحو عدن والحدود السعودية بدعم وإشراف من الحرس الثوري",
+          "link": "https://www.almashhad.news/news/507537",
+          "summary": "كشفت منصة \"سبأ إنتليجنس\" المعنية بالشؤون الاستخباراتية، عن تصعيد مليشيا الحوثي لحشودها العسكرية باتجاه العاصمة المؤقتة عدن، وعلى طول الشريط الحدودي مع",
+          "image": "https://www.almashhad.news/UploadFiles/2026/Nov/19/687f66a8-ac83-4549-8cb8-1095d13816bc.jpg",
+          "publishedAt": "2026-11-19T05:21:32.000Z"
         }
       ]
     },
@@ -109,7 +170,7 @@
         "homepage": "https://www.sabanew.net",
         "lang": "ar"
       },
-      "fetchedAt": "2026-11-18T18:44:53.148Z",
+      "fetchedAt": "2026-11-19T06:55:16.934Z",
       "items": [
         {
           "title": "صدور القانون رقم (1) لسنة 2026م بشأن تصنيف جماعة الحوثي منظمة إرهابية",
@@ -117,6 +178,36 @@
           "image": "http://www.sabanew.net/upload/thumbs/179498982785615213.jpeg",
           "publishedAt": "2026-11-18T08:17:07.000Z",
           "titleEn": "Law No. 1 of 2026 on the classification of the Houthi group as a terrorist organization"
+        },
+        {
+          "title": "التحالف: دمرنا منصة لإطلاق الصواريخ الباليستية بمحافظة ذمار",
+          "link": "http://www.sabanew.net/viewstory/156064",
+          "image": "http://www.sabanew.net/upload/thumbs/179506545268147677.jpeg",
+          "publishedAt": "2026-11-19T05:17:32.000Z"
+        },
+        {
+          "title": "التحالف: تعاملنا مع تهديد صاروخي أطلقته الميليشيا الحوثية الإرهابية باتجاه الرياض",
+          "link": "http://www.sabanew.net/viewstory/156060",
+          "image": "http://www.sabanew.net/upload/thumbs/179506067099587519.jpeg",
+          "publishedAt": "2026-11-19T03:57:50.000Z"
+        },
+        {
+          "title": "التحالف: اعتراض وتدمير صاروخ (كروز) أطلقته الميليشيا الحوثية الإرهابية باتجاه المنطقة الجنوبية",
+          "link": "http://www.sabanew.net/viewstory/156059",
+          "image": "http://www.sabanew.net/upload/thumbs/179506063775349469.jpeg",
+          "publishedAt": "2026-11-19T03:57:17.000Z"
+        },
+        {
+          "title": "الأرصاد تتوقّع طقساً حار نهاراً معتدل ليلاً بالسواحل وبارد جداً بالمرتفعات الجبلية والصحاري",
+          "link": "http://www.sabanew.net/viewstory/156053",
+          "image": "http://www.sabanew.net/upload/thumbs/179505902577914362.jpeg",
+          "publishedAt": "2026-11-19T03:30:25.000Z"
+        },
+        {
+          "title": "التحالف: تدمير منصة لإطلاق الصواريخ الباليستية في صعدة",
+          "link": "http://www.sabanew.net/viewstory/156052",
+          "image": "http://www.sabanew.net/upload/thumbs/179504529416411803.jpeg",
+          "publishedAt": "2026-11-18T23:41:34.000Z"
         },
         {
           "title": "إصابة أربعة أطفال إثر انفجار عبوة ناسفة من مخلفات مليشيا الحوثي في تعز",
@@ -145,41 +236,6 @@
           "image": "http://www.sabanew.net/upload/thumbs/179501840410563578.jpg",
           "publishedAt": "2026-11-18T16:13:24.000Z",
           "titleEn": "Coalition: Intercept and destruction of two marches in Riyadh and the southern areas launched by the Houthi terrorist militia"
-        },
-        {
-          "title": "وفد حكومي يبحث مع ممثلي البنك الدولي ومنظمة (الفاو) ترتيبات تنفيذ التعداد الزراعي في اليمن",
-          "link": "http://www.sabanew.net/viewstory/156043",
-          "image": "http://www.sabanew.net/upload/thumbs/179501772322026498.jpeg",
-          "publishedAt": "2026-11-18T16:02:03.000Z",
-          "titleEn": "A government delegation is discussing with representatives of the World Bank and the FAO the arrangements for the implementation of the agricultural census in Yemen ."
-        },
-        {
-          "title": "السفير شجاع الدين يبحث مع نائب رئيس لجنة الشئون الدولية في البرلمان النمساوي مستجدات الأوضاع في اليمن",
-          "link": "http://www.sabanew.net/viewstory/156042",
-          "image": "http://www.sabanew.net/upload/thumbs/179501766526555739.jpeg",
-          "publishedAt": "2026-11-18T16:01:05.000Z",
-          "titleEn": "Ambassador Brave Religion discusses with the Vice Chairman of the International Affairs Committee of the Austrian Parliament the latest developments in Yemen"
-        },
-        {
-          "title": "محافظ تعز يتفقد أوضاع الأسر النازحة ويوجه بتوفير احتياجاتها الأساسية",
-          "link": "http://www.sabanew.net/viewstory/156039",
-          "image": "http://www.sabanew.net/upload/thumbs/179501696486016805.jpeg",
-          "publishedAt": "2026-11-18T15:49:24.000Z",
-          "titleEn": "The governor of Taiz checks the situation of displaced families and directs them to meet their basic needs."
-        },
-        {
-          "title": "القوات المسلحة تنفذ 74 غارة وعملية استهداف ضد مواقع المليشيا وتحيد 142 من قياداتها وعناصرها الميدانية",
-          "link": "http://www.sabanew.net/viewstory/156038",
-          "image": "http://www.sabanew.net/upload/thumbs/179501650121314385.jpeg",
-          "publishedAt": "2026-11-18T15:41:41.000Z",
-          "titleEn": "The armed forces carry out 74 raids and targeting operations against the militia positions and detain 142 of their commanders and field personnel ."
-        },
-        {
-          "title": "محافظ تعز يوجه بتعزيز الأداء الإداري والخدمي وتكثيف الجهود للتخفيف من تداعيات الحرب والحصار",
-          "link": "http://www.sabanew.net/viewstory/156033",
-          "image": "http://www.sabanew.net/upload/thumbs/179501457581629068.jpeg",
-          "publishedAt": "2026-11-18T15:09:35.000Z",
-          "titleEn": "The governor of Taiz is directed to enhance administrative and service performance and intensify efforts to mitigate the effects of war and siege."
         }
       ]
     }

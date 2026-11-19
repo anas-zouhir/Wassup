@@ -8,8 +8,18 @@
         "homepage": "https://www.dr.dk/nyheder",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-18T18:43:30.602Z",
+      "fetchedAt": "2026-11-19T06:54:15.360Z",
       "items": [
+        {
+          "title": "Retspræsidents immunitet ophævet i strid om Polens forfatningsdomstol",
+          "link": "https://www.dr.dk/nyheder/seneste/retspraesidents-immunitet-ophaevet-i-strid-om-polens-forfatningsdomstol",
+          "publishedAt": "2026-11-18T19:53:28.000Z"
+        },
+        {
+          "title": "Velux lukker hjemmesider i flere lande efter cyberhændelse",
+          "link": "https://www.dr.dk/nyheder/seneste/velux-lukker-hjemmesider-i-flere-lande-efter-cyberhaendelse",
+          "publishedAt": "2026-11-18T19:51:32.000Z"
+        },
         {
           "title": "Kulturministeren vil se handling efter 'gigantisk svigt' fra sportsforbund",
           "link": "https://www.dr.dk/sporten/seneste-sport/kulturministeren-vil-se-handling-efter-gigantisk-svigt-fra-sportsforbund",
@@ -61,18 +71,6 @@
           "link": "https://www.dr.dk/nyheder/seneste/roedt-kort-til-hvidt-agf-babytoej-paa-foedeafdeling",
           "publishedAt": "2026-11-18T14:01:27.000Z",
           "titleEn": "Red card to white AGF baby clothes in the feeding section"
-        },
-        {
-          "title": "Fejl hos 98 procent i kontrol af skattebetaling fra boligudlejning",
-          "link": "https://www.dr.dk/nyheder/seneste/fejl-hos-98-procent-i-kontrol-af-skattebetaling-fra-boligudlejning",
-          "publishedAt": "2026-11-18T12:47:15.000Z",
-          "titleEn": "98 per cent error in checking tax payments from rental"
-        },
-        {
-          "title": "Ny generaldirektør i Røde Kors",
-          "link": "https://www.dr.dk/nyheder/seneste/ny-generaldirektoer-i-roede-kors",
-          "publishedAt": "2026-11-18T11:15:28.000Z",
-          "titleEn": "New Director-General of the Red Cross"
         }
       ]
     },
@@ -83,97 +81,77 @@
         "homepage": "https://politiken.dk",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-18T18:43:31.728Z",
+      "fetchedAt": "2026-11-19T06:54:16.265Z",
       "items": [
         {
-          "title": "Danske matematikere har løst en 174-årig gåde",
-          "link": "https://politiken.dk/viden/art11057758/Danske-matematikere-har-l%C3%B8st-en-174-%C3%A5rig-g%C3%A5de",
-          "summary": "Gåden har naget matematikere i 174 år. Nu har danske forskere fundet en effektiv løsning på firefarveproblemet. Det kan være sidste gang, mennesker løser et matematisk problem uden brug af ai.",
-          "image": "https://politiken.dk/incoming/img11063921.49we9y/ORIGINALS/original_960/4_colour_theorem_Thorup",
-          "publishedAt": "2026-11-18T17:44:07.000Z",
-          "titleEn": "Danish Mathematicians Solved a 174-Year-Old Riddle",
-          "summaryEn": "The riddle has haunted mathematicians for 174 years. Now Danish scientists have found an effective solution to the four-color problem. This could be the last time people solve a mathematical problem without using AI."
+          "title": "Mor ser frem til transplantation af søn i Oslo: »Om der så kun var en lever på månen, var jeg taget dertil«",
+          "link": "https://politiken.dk/danmark/sundhed/art11063331/%C2%BBOm-der-s%C3%A5-kun-var-en-lever-p%C3%A5-m%C3%A5nen-var-jeg-taget-dertil%C2%AB",
+          "summary": "Fyringer, opsigelser og uro på afdeling på Rigshospitalet er årsag til, at læger i Oslo nu skal transplantere 16-årige Liam Sørensen. Når de har fundet et egnet organ. Torsdag skal region forsikre Sundhedsstyrelsen om,…",
+          "image": "https://politiken.dk/incoming/img11065628.jxm6zr/ORIGINALS/original_960/S%C3%98NDERBORG-Riget-sag%20Casefamilie%20st%C3%A5r%20frem%20s%C3%B8n%20skal%20til%20Oslo%20og%20transplanteres",
+          "publishedAt": "2026-11-19T06:39:27.000Z"
         },
         {
-          "title": "Blå partier i tæt samarbejde med Jacob Harris: Fik fortrolige dokumenter fra minister",
-          "link": "https://politiken.dk/danmark/politik/art11065024/Bl%C3%A5-partier-i-t%C3%A6t-samarbejde-med-Jacob-Harris-Fik-fortrolige-dokumenter-fra-minister",
-          "summary": "Blå partier vil have løsgænger Jacob Harris ud af et udvalg i Folketinget, hvor flere af dem har samarbejdet med ham om at modtage fortrolige oplysninger fra regeringen.",
-          "image": "https://politiken.dk/incoming/img11065392.z1mqxo/ORIGINALS/original_960/Samr%C3%A5d%20om%20sikkerhedsbruddet%20i%20CPR-registeret",
-          "publishedAt": "2026-11-18T17:42:20.000Z",
-          "titleEn": "Blue parties in close cooperation with Jacob Harris: Received confidential documents from the Minister",
-          "summaryEn": "The Blue Parties are seeking the release of Jacob Harris from a parliamentary committee, several of whom have worked with him to obtain classified information from the government."
+          "title": "Da hun nåede til Ed Sheeran-sangen, måtte en fyr forlade salen »helt tudefærdig«",
+          "link": "https://politiken.dk/kultur/musik/koncertanmeldelser/art10958927/Da-hun-n%C3%A5ede-til-Ed-Sheeran-sangen-m%C3%A5tte-en-fyr-forlade-salen-%C2%BBhelt-tudef%C3%A6rdig%C2%AB",
+          "summary": "Til sidst vandt Jessie Ware Amager med sin helt egen vinderformel for jordnær glamour.",
+          "image": "https://politiken.dk/incoming/img11066209.i4td6q/ORIGINALS/original_960/KONCERT",
+          "publishedAt": "2026-11-19T05:40:50.000Z"
         },
         {
-          "title": "Kontrol af lejeindtægter fra Airbnb og Booking.com afslører fejl på fejl på fejl",
-          "link": "https://politiken.dk/danmark/art11066095/Kontrol-af-lejeindt%C3%A6gter-fra-Airbnb-og-Booking.com-afsl%C3%B8rer-fejl-p%C3%A5-fejl-p%C3%A5-fejl",
-          "summary": "Skattestyrelsen finder fejl og mangler i 98 procent af kontrollerne med lejeindtægter ved udlejning af bolig.",
-          "image": "https://politiken.dk/incoming/img11066098.sbxbuc/ORIGINALS/original_960/file839wnf5199z19z66vdzu",
-          "publishedAt": "2026-11-18T17:26:26.000Z",
-          "titleEn": "Check of rental income from Airbnb and Booking.com reveals errors on errors on errors",
-          "summaryEn": "The IRS finds errors and omissions in 98 percent of rental income checks on rental housing."
+          "title": "Van Gogh-maleri solgt for over en milliard kroner",
+          "link": "https://politiken.dk/kultur/art11066248/Van-Gogh-maleri-solgt-for-over-en-milliard-kroner",
+          "summary": "Maleriet ’Châtaigniers en fleurs’ er det mest indbringende af hollandske van Gogh på en auktion nogensinde.",
+          "image": "https://politiken.dk/kultur/img11066284.qgzvy3/ORIGINALS/original_960/Van%20gogh%20online-video-cutter.com",
+          "publishedAt": "2026-11-19T05:24:23.000Z"
         },
         {
-          "title": "Minister vil drøfte sag om forurenet korn med Folketinget",
-          "link": "https://politiken.dk/danmark/art11066088/Minister-vil-dr%C3%B8fte-sag-om-forurenet-korn-med-Folketinget",
-          "summary": "Fødevarestyrelsens håndtering af korn fra et lager med rottelort vækker bekymring hos Martin Lidegaard (R).",
-          "image": "https://politiken.dk/incoming/img11066090.huskd5/ORIGINALS/original_960/Pressem%C3%B8de%20om%20regeringens%20finanslovforslag",
-          "publishedAt": "2026-11-18T17:07:09.000Z",
-          "titleEn": "The Minister will discuss contaminated grain with Parliament",
-          "summaryEn": "The Food Board's handling of cereals from a warehouse of rat lard raises concerns for Martin Lidegaard (R)."
+          "title": "Klimabistand trækker verdens fattigste lande ned i en sump af gæld",
+          "link": "https://politiken.dk/klima/art11064930/Klimabistand-tr%C3%A6kker-verdens-fattigste-lande-ned-i-en-sump-af-g%C3%A6ld",
+          "summary": "Hovedparten af klimabistanden bliver ydet som lån. Hvis ikke de ændres, skal de fattige lande om ti år betale mere på lånene, end de får i bistand.",
+          "image": "https://politiken.dk/incoming/img11065714.f7jf1w/ORIGINALS/original_960/Etiopien",
+          "publishedAt": "2026-11-19T05:09:17.000Z"
         },
         {
-          "title": "Anmelder har ikke turdet læse de sidste sider af Solvej Balles nye bog: »Jeg er simpelthen så bange«",
-          "link": "https://politiken.dk/kultur/boger/art11062029/Anmelder-har-ikke-turdet-l%C3%A6se-de-sidste-sider-af-Solvej-Balles-nye-bog-%C2%BBJeg-er-simpelthen-s%C3%A5-bange%C2%AB",
-          "summary": "Natten til torsdag får de mest ivrige fans fingrene i Solvej Balles sidste bog om Tara Selter. Spændingen er bygget op til bristepunktet.",
-          "image": "https://politiken.dk/incoming/img11056281.64lybz/ORIGINALS/original_960/Solvej%20Balle",
-          "publishedAt": "2026-11-18T17:03:15.000Z",
-          "titleEn": "The announcer has not dared to read the last pages of Solway Ball's new book:",
-          "summaryEn": "Tonight, Thursday, the most eager fans will get their hands on Solway Ball's latest book about Tara Selter. The voltage is built up to the breaking point."
+          "title": "Politiet løslader fire anholdte i sag om tre døde ved Give",
+          "link": "https://politiken.dk/danmark/art11066191/Politiet-l%C3%B8slader-fire-anholdte-i-sag-om-tre-d%C3%B8de-ved-Give",
+          "summary": "Fire personer er blevet løsladt, da der ikke er indikationer på, at de har haft noget med dødsfald at gøre.",
+          "image": "https://politiken.dk/incoming/img11066195.pwucmz/ORIGINALS/original_960/20261118-191940-3",
+          "publishedAt": "2026-11-18T21:30:02.000Z"
         },
         {
-          "title": "Israelske efterretninger er blevet lækket, og signalet er ikke til at tage fejl af",
-          "link": "https://politiken.dk/internationalt/art11063264/Israelske-efterretninger-er-blevet-l%C3%A6kket-og-signalet-er-ikke-til-at-tage-fejl-af",
-          "summary": "Trump sender modstridende signaler om en ny krig, mens Netanyahu presser på for en offensiv, der som det vigtigste skal sikre hans egen politiske overlevelse, skriver Jacob Fuglsang i denne analyse.",
-          "image": "https://politiken.dk/incoming/img11063961.76oef2/ORIGINALS/original_960/USA-RIMPAC",
-          "publishedAt": "2026-11-18T16:56:53.000Z",
-          "titleEn": "Israeli intelligence has been leaked, and the signal is not to be mistaken.",
-          "summaryEn": "Trump is sending conflicting signals of a new war, while Netanyahu is pushing for an offensive that will most importantly ensure his own political survival, writes Jacob Fuglsang in this analysis."
+          "title": "Der er noget usympatisk københavneri over præmissen på nyt DR-program – især når udbyttet er så pauvert",
+          "link": "https://politiken.dk/kultur/set_og_hoert/art11053512/Der-er-noget-usympatisk-k%C3%B8benhavneri-over-pr%C3%A6missen-p%C3%A5-nyt-DR-program-%E2%80%93-is%C3%A6r-n%C3%A5r-udbyttet-er-s%C3%A5-pauvert",
+          "summary": "’Med på legen’ er en kedelig udgave af et program, DR allerede har lavet bedre, skriver Tommy Grøn i denne klumme.",
+          "image": "https://politiken.dk/incoming/img11064815.8hmfzf/ORIGINALS/original_960/Med%20p%C3%A5%20legen-l%C3%B8gn%20p%C3%A5%20Lolland",
+          "publishedAt": "2026-11-18T21:04:03.000Z"
         },
         {
-          "title": "To voksne og et barn på 10 år fundet døde nær Give",
-          "link": "https://politiken.dk/danmark/art11066042/To-voksne-og-et-barn-p%C3%A5-10-%C3%A5r-fundet-d%C3%B8de-n%C3%A6r-Give",
-          "summary": "Sydøstjyllands Politi har anholdt flere personer efter fund på ejendom.",
-          "image": "https://politiken.dk/incoming/img11066059.hy4o6b/ORIGINALS/original_960/Politi",
-          "publishedAt": "2026-11-18T16:45:45.000Z",
-          "titleEn": "Two adults and a 10-year-old child found dead near Give",
-          "summaryEn": "Southeast Jutland Police have arrested several people after finding property."
+          "title": "Medarbejdere i Fødevarestyrelsen rejser penibel anklage: »Nogen oppefra blandede sig i den her sag«",
+          "link": "https://politiken.dk/danmark/art11037905/Medarbejdere-i-F%C3%B8devarestyrelsen-rejser-penibel-anklage-%C2%BBNogen-oppefra-blandede-sig-i-den-her-sag%C2%AB",
+          "summary": "Med kort varsel blev toppen af Fødevarestyrelsen sidste år indkaldt til hastemøde med ministeren. Umiddelbart efter traf styrelsen afgørende beslutning, som styrelsen tirsdag erkendte var en fejl.",
+          "image": "https://politiken.dk/incoming/img11065600.twzdy7/ORIGINALS/original_960/WEB_venstre_kontrol",
+          "publishedAt": "2026-11-18T20:30:04.000Z"
         },
         {
-          "title": "Nu skal melprodukter kaldes tilbage – se, om dit mel er på listen",
-          "link": "https://politiken.dk/danmark/art11065943/Nu-skal-melprodukter-kaldes-tilbage-%E2%80%93-se-om-dit-mel-er-p%C3%A5-listen",
-          "summary": "Politiken og Tv2’s afdækning af forholdene på Danish Agros kornlager i Dalmose får nu myndighederne og melproducenten Valsemøllen til at kalde specifikke produkter tilbage.",
-          "image": "https://politiken.dk/incoming/img11066013.4xp3pe/ORIGINALS/original_960/STUDIE",
-          "publishedAt": "2026-11-18T16:23:17.000Z",
-          "titleEn": "Now I'm gonna call back the flour products. See if your flour is on the list.",
-          "summaryEn": "The policy and TV2's coverage of the situation at the Danish Agros grain storage facility in Dalmouse now force the authorities and the miller Valsemøllen to recall specific products."
+          "title": "Aalborg tager dramatisk Champions League-sejr over Gidsel og Füchse Berlin",
+          "link": "https://politiken.dk/sport/haandbold/art11066137/Aalborg-tager-dramatisk-Champions-League-sejr-over-Gidsel-og-F%C3%BCchse-Berlin",
+          "summary": "Mathias Gidsel blev holdt nede på otte mål for Füchse Berlin, og det var en af nøglerne til Aalborgs sejr.",
+          "image": "https://politiken.dk/incoming/img11066144.f88lx5/ORIGINALS/original_960/Aalborg%20H%C3%A5ndbold%20Champions%20League",
+          "publishedAt": "2026-11-18T19:42:42.000Z"
         },
         {
-          "title": "Stor mystik efter aflyst retsmøde: Vil politiet ransage TV 2?",
-          "link": "https://politiken.dk/kultur/medier/art11064700/Stor-mystik-efter-aflyst-retsm%C3%B8de-Vil-politiet-ransage-TV-2",
-          "summary": "Spørgsmålet om, hvorvidt politiet skal ransage TV 2 i forbindelse med ’Den sorte svane’, skulle afgøres i retten. Pludselig blev retsmødet aflyst. Forsvarsadvokat regner med en anden løsning.",
-          "image": "https://politiken.dk/incoming/img11065328.hx5o8i/ORIGINALS/original_960/WEB_tv2baand",
-          "publishedAt": "2026-11-18T16:01:36.000Z",
-          "titleEn": "Big mystery after the court case was canceled.",
-          "summaryEn": "The question of whether the police should search TV 2 in connection with the Black Swan was to be decided in court. Suddenly, the trial was canceled. The defense attorney's looking at another solution."
+          "title": "Verdens første aftale om ai og klima »mangler bid«",
+          "link": "https://politiken.dk/internationalt/art11055226/Verdens-f%C3%B8rste-aftale-om-ai-og-klima-%C2%BBmangler-bid%C2%AB",
+          "summary": "Et stykke papir med et løfte om at gøre ai mere klimavenligt er blevet introduceret på klimatopmødet i Tyrkiet. Aftalen er dog frivillig, og grønne organisationer tvivler på effekten.",
+          "image": "https://politiken.dk/incoming/img11065509.i5p1hf/ORIGINALS/original_960/TURKEY-UN-COP31-CLIMATE-DEMO",
+          "publishedAt": "2026-11-18T19:09:47.000Z"
         },
         {
-          "title": "Populært skisportssted er slået ind på en ny kurs for at overleve",
-          "link": "https://politiken.dk/rejser/art10792923/Popul%C3%A6rt-skisportssted-er-sl%C3%A5et-ind-p%C3%A5-en-ny-kurs-for-at-overleve",
-          "summary": "St. Anton i Østrig er det moderne skiløbs vugge. Engang en luksussport for de rige, i dag for de mange. Nu satser tyrolerbyen igen på de pengestærke luksusgæster. Politikens sundhedsredaktør lærte som barn at stå på ski…",
-          "image": "https://politiken.dk/incoming/img10813587.fu6b4g/ORIGINALS/original_960/IMG_8661",
-          "publishedAt": "2026-11-18T14:29:38.000Z",
-          "titleEn": "A popular ski resort has set a new course for survival",
-          "summaryEn": "St. Anton in Austria is the cradle of modern skiing. Once a luxury sport for the rich, now for the many. Now the town of Tyrol is again betting on the wealthy luxury guests. The health editor of politics learned to ski as a child..."
+          "title": "Trine Dyrholm er eminent, mens Emma Sehested Høeg er helt formidabel",
+          "link": "https://politiken.dk/kultur/film_og_tv/art11039103/Trine-Dyrholm-er-eminent-mens-Emma-Sehested-H%C3%B8eg-er-helt-formidabel",
+          "summary": "’Faderhuset’ er en afsløring af grov udnyttelse, men især en psykologisk interessant og menneskeligt gribende fortælling om livet i sektens boble. Med et stærkt samarbejde mellem modige vidner og dygtige skuespillere.",
+          "image": "https://politiken.dk/incoming/img11055769.p7rd1a/ORIGINALS/original_960/Faderhuset_1_credit_Mia%20Mai%20Dengs%C3%B8e%20Graab%C3%A6k",
+          "publishedAt": "2026-11-18T18:59:57.000Z"
         }
       ]
     },
@@ -184,97 +162,76 @@
         "homepage": "https://www.berlingske.dk",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-18T18:43:30.910Z",
+      "fetchedAt": "2026-11-19T06:54:15.860Z",
       "items": [
         {
-          "title": "Magtkampen i Bruxelles gør ondt på Kaja Kallas, der netop har måttet sluge et ydmygende politisk nederlag",
-          "link": "https://www.berlingske.dk/internationalt/magtkampen-i-bruxelles-goer-ondt-paa-kaja-kallas-der-netop-har-maattet-sluge-et-ydmygende-politisk-nederlag?referrer=RSS",
-          "summary": "Analyse: Kaja Kallas er blevet kørt ud på et sidespor. I Dublin afviste både Europas ledere og Kallas’ kolleger i EU-toppen hendes appel om at sidde med ved det forhandlingsbord, som hun ser sig selv som selvskrevet til.…",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167490056.webp?t[strip]=true&t[quality]=70&accessToken=28b03bd5f6d627683f8b2348c1ade9e58209ad675178411946cd7338c3df8788",
-          "publishedAt": "2026-11-18T18:32:32.000Z",
-          "titleEn": "The power struggle in Brussels grieves Kaja Kallas, who has just suffered a humiliating political defeat",
-          "summaryEn": "Analysis: Kaja Kallas has been driven off on a side track. In Dublin, both European leaders and her colleagues at the EU summit rejected her call to sit at the negotiating table, which she sees herself as a signatory to...."
+          "title": "Trump mener at Xi også ønsker krigen i Ukraine afsluttet",
+          "link": "https://www.berlingske.dk/internationalt/trump-mener-at-xi-ogsaa-oensker-krigen-i-ukraine-afsluttet?referrer=RSS",
+          "summary": "Trump mener, at Kinas præsident deler hans ønske om at afslutte krigen i Ukraine, siger han ifølge AFP.",
+          "publishedAt": "2026-11-19T06:50:45.000Z"
         },
         {
-          "title": "Hjerneforsker havde svært ved at slippe arbejdet, når han fik fri. Nu deler han fire metoder, han selv bruger i sin hverdag",
-          "link": "https://www.berlingske.dk/arbejdsliv/hjerneforsker-havde-svaert-ved-at-slippe-arbejdet-naar-han-fik-fri-nu-deler-han-fire-metoder-han-selv-bruger-i-sin-hverdag?referrer=RSS",
-          "summary": "Mange har svært ved at give slip på arbejdet, når de forlader kontoret, viser nye tal. Det har hjerneforskeren selv mærket konsekvenserne af. Nu deler han fire metoder til at give hjernen den nødvendige ro.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167165967.webp?t[strip]=true&t[quality]=70&accessToken=d7df0afa5ec374c9b7e30cab76edefd46076d92c50e46b67ec9df228832ee018",
-          "publishedAt": "2026-11-18T18:10:23.000Z",
-          "titleEn": "The brain scientist had a hard time quitting work when he got out. Now he shares four methods he uses in his daily life",
-          "summaryEn": "Many people find it hard to quit their jobs when they leave the office, new figures show. The brain scientist himself has felt the consequences. Now he shares four methods of providing the brain with the necessary calm."
+          "title": "Ny musical på vej, og tv·2 spiller hovedrollen",
+          "link": "https://www.berlingske.dk/scene/ny-musical-paa-vej-og-tv2-spiller-hovedrollen?referrer=RSS",
+          "summary": "Endnu et klassisk dansk bands bagkatalog forvandles til en musical, der kommer på turné i hele landet. »Vi spurgte selvfølgelig sangene først,« lyder det fra Steffen Brandt og tv·2.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167461035.webp?t[strip]=true&t[quality]=70&accessToken=18e0fa0b8fc842af2c294b2a999cea7390cb9610aa04dc98dd8069500c84e007",
+          "publishedAt": "2026-11-19T06:29:00.000Z"
         },
         {
-          "title": "Jødiske Jonatan Mizrahi-Werner er ikke bange for morgendagen. Men han frygter noget andet efter udtalelser fra Jacob Harris",
-          "link": "https://www.berlingske.dk/indland/joediske-jonatan-mizrahi-werner-er-ikke-bange-for-morgendagen-men-han-frygter-noget-andet-efter-udtalelser-fra-jacob-harris?referrer=RSS",
-          "summary": "Jødiske Jonatan Mizrahi-Werner ville helst »ignorere det ihjel«. Men han mener, det er vigtigt at sige fra efter Jacob Harris' seneste udtalelser om jøder.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167457737.webp?t[strip]=true&t[quality]=70&accessToken=cf036d62e2906f78d809b711fed8949c0be2439e93f056c375fd090130bf748f",
-          "publishedAt": "2026-11-18T18:06:26.000Z",
-          "titleEn": "The Jewish Jonathan Mizrahi-Werner is not afraid of tomorrow. But he fears something else after statements from Jacob Harris.",
-          "summaryEn": "The Jewish Jonathan Mizrahi-Werner would prefer to ignore it and kill it. But he believes it's important to say so after Jacob Harris' recent statements about Jews."
+          "title": "Spilpremiere gav et usædvanligt ryk i dansk internetforbrug",
+          "link": "https://www.berlingske.dk/danmark/spilpremiere-gav-et-usaedvanligt-ryk-i-dansk-internetforbrug?referrer=RSS",
+          "summary": "Flere danskere har været oppe i nat for at downloade det nye GTA VI eller for at se andre spille spillet.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167495093.webp?t[strip]=true&t[quality]=70&accessToken=c3b331c69d98da8bdda2ff087b640da9bfd62fe5e2c1e7cd158bf2199958dd27",
+          "publishedAt": "2026-11-19T06:25:46.000Z"
         },
         {
-          "title": "Troels Lund Poulsens landsmødetale begejstrede radikal politiker – nu leger han med tanken om at fusionere Venstre og De Radikale",
-          "link": "https://www.berlingske.dk/kronikker/troels-lund-poulsens-landsmoedetale-begejstrede-radikal-politiker--nu-leger-han-med-tanken-om-at-fusionere-venstre-og-de-radikale?referrer=RSS",
-          "summary": "Venstre og Radikale Venstre har fælles rødder i højskolerne, andelsbevægelsen og de folkelige fællesskaber, der var med til at udvikle Danmark. Er tiden kommet til at genoplive tanken om Det Forenede Venstre?",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167294742.webp?t[strip]=true&t[quality]=70&accessToken=0b65e4c6fbe43a9d18f43b220f6d8423115622cbb867cc861e3b143ad85528de",
-          "publishedAt": "2026-11-18T18:01:09.000Z",
-          "titleEn": "Troels Lund Poulsen's national language enthusiastic radical politician  ⁇  now he's playing with the idea of merging the left and the radicals",
-          "summaryEn": "The Left and the Radical Left share common roots in the universities, the social movement and the communities that helped to develop Denmark. Is it time to revive the idea of the United Left?"
+          "title": "Formstærke danskere slår verdens næstbedste i Hongkong",
+          "link": "https://www.berlingske.dk/sport/formstaerke-danskere-slaar-verdens-naestbedste-i-hongkong?referrer=RSS",
+          "summary": "Daniel Lundgaard og Mads Vestergaard overraskede mod verdensranglistens nummer to i Hong Kong Open.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167495718.webp?t[strip]=true&t[quality]=70&accessToken=f76d2ceb16b0a9ee0d8dba1262d07cf0661d0e14d929a4c6eb70b2775e973ec2",
+          "publishedAt": "2026-11-19T06:22:45.000Z"
         },
         {
-          "title": "Harris afviser at ville dele fortrolige oplysninger med Rusland",
-          "link": "https://www.berlingske.dk/politik/harris-afviser-at-ville-dele-fortrolige-oplysninger-med-rusland?referrer=RSS",
-          "summary": "Løsgænger Jacob Harris kunne aldrig finde på at udlevere følsomme oplysninger til russerne, siger han til DR.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167490620.webp?t[strip]=true&t[quality]=70&accessToken=5681493c570753dc82fa943a9b8f5066e0ac5a3eb62d3cd6bd82aad9a4770079",
-          "publishedAt": "2026-11-18T18:00:44.000Z",
-          "titleEn": "Harris refuses to share classified information with Russia",
-          "summaryEn": "Private Jacob Harris was never able to figure out how to pass sensitive information on to the Russians, he tells Dr."
+          "title": "Business-overblik: Faglærte tager stort lønspring frem – elektriker kan tjene mere end lærer og finansøkonom",
+          "link": "https://www.berlingske.dk/business/business-overblikfaglaerte-tager-stort-loenspring-frem--elektriker-kan-tjene-mere-end-laerer-og-finansoekonom?referrer=RSS",
+          "summary": "Vi læser erhvervsnyhederne og tjekker aktiekurserne fra morgenstunden. Her er hele dit Business-overblik.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167495479.webp?t[strip]=true&t[quality]=70&accessToken=510d5554b4c64409b05215da2eca44cc7c7f6f70e9f73192534cce1c3b4715b3",
+          "publishedAt": "2026-11-19T06:21:24.000Z"
         },
         {
-          "title": "Det har kostet mere end verdens højeste bygning: I nat udkommer årets mest ventede spil og anmelderne falder i svimer",
-          "link": "https://www.berlingske.dk/skaerm/det-har-kostet-mere-end-verdens-hoejeste-bygning-i-nat-udkommer-aarets-mest-ventede-spil-og-anmelderne-falder-i-svimer?referrer=RSS",
-          "summary": "I nat udkommer det længe ventede spil Grand Theft Auto VI, og det har allerede høstet svimlende gode anmeldelser. Spillet har muligvis haft det største budget i branchens historie, og det er en opfølger til et af de mest…",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167350605.webp?t[strip]=true&t[quality]=70&accessToken=11acf69fac4bf1522e970fd08846fc9355274e34e18ca03c9318249556ce243d",
-          "publishedAt": "2026-11-18T17:33:27.000Z",
-          "titleEn": "It's costing more than the world's tallest building: Tonight comes the most anticipated game of the year, and the signers are falling into a swimming pool",
-          "summaryEn": "Tonight, the long-awaited game Grand Theft Auto VI comes out, and it's already garnered staggeringly good reviews. The game may have had the biggest budget in the history of the industry, and it's a sequel to one of the most..."
+          "title": "Efter 15 angreb på to en halv uge: Ekspert venter benzinkøer og kørselsbegrænsninger i Rusland",
+          "link": "https://www.berlingske.dk/internationalt/efter-15-angreb-paa-to-en-halv-uge-ekspert-venter-benzinkoeer-og-koerselsbegraensninger-i-rusland?referrer=RSS",
+          "summary": "Den uafhængige russiske olieekspert Sergej Vakulenko er en af dem, der har nedtonet manglen på benzin i Rusland. Nu forudser han drastiske konsekvenser for almindelige russere.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167485798.webp?t[strip]=true&t[quality]=70&accessToken=ff98aeedcbb2249de84c79d0fe3dae2e46b395485d2d10dcc7a3320de4df5cde",
+          "publishedAt": "2026-11-19T06:02:41.000Z"
         },
         {
-          "title": "To voksne og et barn på ti år er fundet døde på ejendom nær Give",
-          "link": "https://www.berlingske.dk/indland/to-voksne-og-et-barn-paa-ti-aar-er-fundet-doede-paa-ejendom-naer-give?referrer=RSS",
-          "summary": "Sydøstjyllands Politi har anholdt flere personer, efter at en mand, en kvinde og en pige er døde.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167489548.webp?t[strip]=true&t[quality]=70&accessToken=6963ce2d78af785fc4b8dac13fd9269002b7245c0c6c302c1f1babc57fa70ce7",
-          "publishedAt": "2026-11-18T17:32:44.000Z",
-          "titleEn": "Two adults and a 10-year-old child found dead on property near Give",
-          "summaryEn": "South East Jutland Police have arrested several people after a man, a woman and a girl died."
+          "title": "Havmiljøet lider under forurening og bundtrawl",
+          "link": "https://www.berlingske.dk/danmark/havmiljoeet-lider-under-forurening-og-bundtrawl?referrer=RSS",
+          "summary": "De danske havområder er generelt i \"ikke god miljøtilstand\", viser tilstandsvurdering fra Miljøministeriet.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167495204.webp?t[strip]=true&t[quality]=70&accessToken=59fa6c330e94a54ca9345332bc28ac3b5b0ddc6bea4ed235c3ab59e091e00e1b",
+          "publishedAt": "2026-11-19T06:00:45.000Z"
         },
         {
-          "title": "Styrelse finder fejl i 98 procent af kontroller af lejeindtægter",
-          "link": "https://www.berlingske.dk/danmark/styrelse-finder-fejl-i-98-procent-af-kontroller-af-lejeindtaegter?referrer=RSS",
-          "summary": "Skattestyrelsen finder fejl og mangler i 98 procent af kontrollerne med lejeindtægter ved udlejning af bolig.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167489041.webp?t[strip]=true&t[quality]=70&accessToken=8d46558dbd0796daebd240de4aa5ee02eaa417f84905315cf06be26f35998001",
-          "publishedAt": "2026-11-18T17:25:47.000Z",
-          "titleEn": "The board finds errors in 98 percent of rent revenue checks",
-          "summaryEn": "The IRS finds errors and omissions in 98 percent of rental income checks on rental housing."
+          "title": "Optimistisk Trump til møde med Putin: Kan føre til vidunderlige ting",
+          "link": "https://www.berlingske.dk/internationalt/optimistisk-trump-til-moede-med-putin-kan-foere-til-vidunderlige-ting?referrer=RSS",
+          "summary": "Ukraine var ifølge Putins kontor det primære emne, da Trump og Putin torsdag mødtes for første gang i et år.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167494691.webp?t[strip]=true&t[quality]=70&accessToken=f7c6928d0349403479918ca618b3043eaa2dcac669de5906fc087183478c80e7",
+          "publishedAt": "2026-11-19T05:57:45.000Z"
         },
         {
-          "title": "Pelle Dragsted i nådesløs kritik af Mette Frederiksen-udtalelse: »Jeg regner aldrig med at høre det fra en dansk statsminister igen«",
-          "link": "https://www.berlingske.dk/politik/pelle-dragsted-i-naadesloes-kritik-af-mette-frederiksen-udtalelsejeg-regner-aldrig-med-at-hoere-det-fra-en-dansk-statsminister-igen?referrer=RSS",
-          "summary": "Stram Kurs-stifter Rasmus Paludan og tidligere DF-politiker Martin Henriksen udtrykker tilfredshed med, at Mette Frederiksen har taget et omdiskuteret begreb om »befolkningsudskiftning« i sin mund. Men nu kommer…",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167485545.webp?t[strip]=true&t[quality]=70&accessToken=764dfd223ca396f0edf9a835c2e08d1a8ea8561faebb6a42c9ccd0e579bd46a7",
-          "publishedAt": "2026-11-18T17:17:24.000Z",
-          "titleEn": "Pelle Dragsted in ruthless criticism of Mette Frederiksen's statement: 'I never expect to hear it from a Danish Prime Minister again'",
-          "summaryEn": "Stram Kurs founder Rasmus Paludan and former DF politician Martin Henriksen express satisfaction that Mette Frederiksen has taken up the controversial concept of 'population change'. But here comes..."
+          "title": "Er du rigtig klog: Hvad ved du om norsk fodbold?",
+          "link": "https://www.berlingske.dk/samfund/er-du-rigtig-klog-hvad-ved-du-om-norsk-fodbold?referrer=RSS",
+          "summary": "Berlingskes journalister udfordrer dagligt med 10 nye spørgsmål inden for spændende emner.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167078403.webp?t[strip]=true&t[quality]=70&accessToken=b106c97d6b76f9c49ecc3b7ffa06cdb51cb836f11e0eed4ce96253f361085268",
+          "publishedAt": "2026-11-19T05:52:15.000Z"
         },
         {
-          "title": "Minister vil drøfte sag om forurenet korn med Folketinget",
-          "link": "https://www.berlingske.dk/politik/minister-vil-droefte-sag-om-forurenet-korn-med-folketinget?referrer=RSS",
-          "summary": "Fødevarestyrelsens håndtering af korn fra et lager med rottelort vækker bekymring hos Martin Lidegaard (R).",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167488213.webp?t[strip]=true&t[quality]=70&accessToken=5e4ae463bd2436b360cd0bb5bfae543b0b30fd779cf804abe8c2025aeb9b1f44",
-          "publishedAt": "2026-11-18T17:14:47.000Z",
-          "titleEn": "The Minister will discuss contaminated grain with Parliament",
-          "summaryEn": "The Food Board's handling of cereals from a warehouse of rat lard raises concerns for Martin Lidegaard (R)."
+          "title": "Berlingske mener: Enhedslisten står stadig på den forkerte side af historien",
+          "link": "https://www.berlingske.dk/ledere/berlingske-mener-enhedslisten-staar-stadig-paa-den-forkerte-side-af-historien?referrer=RSS",
+          "summary": "Enhedslisten vil også fremover gå med i demonstrationer, hvor der bliver brølet terrorkampråb på arabisk. Det er grusomt.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166763293.webp?t[strip]=true&t[quality]=70&accessToken=6e42c50342db0a815b75002199114d31138dc7979426cca4c368621db3094b58",
+          "publishedAt": "2026-11-19T05:35:37.000Z"
         }
       ]
     }
