@@ -13,38 +13,45 @@
         {
           "title": "Over 28.000 familier har søgt julehjælp hos Blå Kors",
           "link": "https://www.dr.dk/nyheder/seneste/over-28-000-familier-har-soegt-julehjaelp-hos-blaa-kors",
-          "publishedAt": "2026-11-20T05:56:53.000Z"
+          "publishedAt": "2026-11-20T05:56:53.000Z",
+          "titleEn": "More than 28,000 families have sought Christmas aid from the Blue Cross"
         },
         {
           "title": "Politi til stede ved brand i lagerbygning i Mørke - luk vinduer og døre",
           "link": "https://www.dr.dk/nyheder/seneste/politi-til-stede-ved-brand-i-lagerbygning-i-moerke-luk-vinduer-og-doere",
-          "publishedAt": "2026-11-20T04:25:39.000Z"
+          "publishedAt": "2026-11-20T04:25:39.000Z",
+          "titleEn": "Police present at a fire in a warehouse building in Darke - close windows and doors"
         },
         {
           "title": "69-årig mand død efter eksplosion i container i Hornslet",
           "link": "https://www.dr.dk/nyheder/seneste/69-aarig-mand-doed-efter-eksplosion-i-container-i-hornslet",
           "image": "https://asset.dr.dk/drdk/umbraco-images/p34pyzkz/20240514-093426-l.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-19T22:28:51.000Z"
+          "publishedAt": "2026-11-19T22:28:51.000Z",
+          "titleEn": "69-year-old man dead from container explosion in Hornslet"
         },
         {
           "title": "Dansk landsholdsspiller med langskudsperle i Champions League",
           "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12874621#liveblog-embed",
-          "publishedAt": "2026-11-19T22:15:04.000Z"
+          "publishedAt": "2026-11-19T22:15:04.000Z",
+          "titleEn": "Danish national team player with a long shot in the Champions League"
         },
         {
           "title": "Fire anholdt i sag om narko og skydevåben",
           "link": "https://www.dr.dk/nyheder/seneste/fire-anholdt-i-sag-om-narko-og-skydevaaben",
-          "publishedAt": "2026-11-19T20:29:05.000Z"
+          "publishedAt": "2026-11-19T20:29:05.000Z",
+          "titleEn": "Four arrested for drug and firearms charges"
         },
         {
           "title": "Norwegian beder 5.000 kunder spærre kort efter databrud",
           "link": "https://www.dr.dk/nyheder/seneste/norwegian-beder-5-000-kunder-spaerre-kort-efter-databrud",
-          "publishedAt": "2026-11-19T20:27:55.000Z"
+          "publishedAt": "2026-11-19T20:27:55.000Z",
+          "titleEn": "Norwegian asks 5,000 customers to lock down shortly after data breach"
         },
         {
           "title": "34 formodede bandemedlemmer dræbt i Haiti",
           "link": "https://www.dr.dk/nyheder/seneste/34-formodede-bandemedlemmer-draebt-i-haiti",
-          "publishedAt": "2026-11-19T19:35:00.000Z"
+          "publishedAt": "2026-11-19T19:35:00.000Z",
+          "titleEn": "34 suspected gang members killed in Haiti"
         },
         {
           "title": "Kongefamilien skal fejre jul i Aarhus",
@@ -80,68 +87,88 @@
           "link": "https://politiken.dk/kultur/film_og_tv/filmanmeldelser/art11041003/Jeg-kan-ikke-finde-et-eneste-svagt-punkt.-Ikke-et-eneste",
           "summary": "Sjette afsnit af ’The Hunger Games’ er det bedste, mest velfortalte hidtil. Og så er det tilsyneladende endegyldigt det sidste afsnit.",
           "image": "https://politiken.dk/incoming/img11064660.evnwxg/ORIGINALS/original_960/10759_Still2_still_00315RC-2025-11-2015_27_17-ff52e7b4_dan-fin-nor-swe",
-          "publishedAt": "2026-11-20T06:15:54.000Z"
+          "publishedAt": "2026-11-20T06:15:54.000Z",
+          "titleEn": "I can't find a single weakness. Not a single one!",
+          "summaryEn": "The sixth installment of  ⁇ The Hunger Games ⁇  is the best, most well-reviewed to date. And then, apparently, that's the final paragraph."
         },
         {
           "title": "Tyrkerne har fundet et klimatrick: Strøm, strøm og mere strøm",
           "link": "https://politiken.dk/klima/art11066601/Str%C3%B8m-str%C3%B8m-og-mere-str%C3%B8m",
           "summary": "Det lyder kedeligt og simpelt, at 35 procent af verdens energiforbrug i 2035 skal komme fra strøm, men ’35 by 35’ er den bedste chance for at få grøn omstilling ud af klimatopmødet.",
           "image": "https://politiken.dk/incoming/img11067449.1tyhhj/ORIGINALS/original_960/FILES-CHINA-ENERGY-SOLAR",
-          "publishedAt": "2026-11-20T05:48:55.000Z"
+          "publishedAt": "2026-11-20T05:48:55.000Z",
+          "titleEn": "The Turks have found a climate trick: electricity, electricity and more electricity",
+          "summaryEn": "It sounds boring and simple that 35 percent of the world's energy consumption by 2035 will come from electricity, but  ⁇ 35 by 35 ⁇  is the best chance of getting green from the climate summit."
         },
         {
           "title": "Vild rutsjebanetur for Anthropic: »Det voldsomme fald fra toppen viser, at mange købte for hurtigt at tjene penge«",
           "link": "https://politiken.dk/viden/tech/art11067874/%C2%BBDet-voldsomme-fald-fra-toppen-viser-at-mange-k%C3%B8bte-for-hurtigt-at-tjene-penge%C2%AB",
           "summary": "AI-selskabet Anthropic har overstået sin første dag på børsen og slog SpaceX’s rekord for en børsnotering. Der kan dog vente sværere tider, mener analytiker",
           "image": "https://politiken.dk/incoming/img11067989.c8keb3/ORIGINALS/original_960/ANTHROPIC-IPO-DEBUT",
-          "publishedAt": "2026-11-20T05:32:18.000Z"
+          "publishedAt": "2026-11-20T05:32:18.000Z",
+          "titleEn": "Wild roller coaster for Anthropic:  ⁇ The sharp drop from the top shows that many bought too quickly to make money ⁇",
+          "summaryEn": "AI company Anthropic has completed its first day on the stock exchange, breaking SpaceX's record for a listing. However, more difficult times may lie ahead, analysts say."
         },
         {
           "title": "Nu står det klart, hvor stort Trumps nederlag faktisk blev – og hvad demokraterne kan bruge det til",
           "link": "https://politiken.dk/internationalt/art11064850/Nu-st%C3%A5r-det-klart-hvor-stort-Trumps-nederlag-faktisk-blev-%E2%80%93-og-hvad-demokraterne-kan-bruge-det-til",
           "summary": "Med det afgjorte senatsvalg i Alaska kan regnebrættet gøres op. Hvad kan demokraterne bruge flertallet i Kongressen til? Og hvad fortæller den største jordskredssejr siden 1974 om næste slag i 2028?",
           "image": "https://politiken.dk/incoming/img11067983.wakmek/ORIGINALS/original_960/US-HOUSE-DEMOCRATS-HOLD-LEADERSHIP-ELECTIONS-FOR-120TH-CONGRESS",
-          "publishedAt": "2026-11-20T05:25:50.000Z"
+          "publishedAt": "2026-11-20T05:25:50.000Z",
+          "titleEn": "Now it's clear how big Trump's defeat actually was and what the Democrats can use it for.",
+          "summaryEn": "With the Senate election in Alaska over, the scoreboard can be worked up. What can the Democrats use the majority in Congress for? And what does the largest cruise ship since 1974 tell us about the next battle in 2028?"
         },
         {
           "title": "»Rutsjebanetur af en debut«: Anthropic lander den største børsnotering nogensinde",
           "link": "https://politiken.dk/viden/tech/art11067893/%C2%BBRutsjebanetur-af-en-debut%C2%AB-Anthropic-lander-den-st%C3%B8rste-b%C3%B8rsnotering-nogensinde",
           "summary": "AI-selskabet Anthropic har overstået sin første dag på børsen. Kursen lukkede på omkring 97 dollar per aktie.",
-          "publishedAt": "2026-11-19T21:53:22.000Z"
+          "publishedAt": "2026-11-19T21:53:22.000Z",
+          "titleEn": "⁇ Route of a debut ⁇ : Anthropic lands the biggest listing ever",
+          "summaryEn": "AI company Anthropic has completed its first day on the stock exchange. It closed at about $97 a share."
         },
         {
           "title": "Ekspert: Granskning af danske partnerdrab vil gøre en forskel",
           "link": "https://politiken.dk/danmark/art11067769/Ekspert-Granskning-af-danske-partnerdrab-vil-g%C3%B8re-en-forskel",
           "summary": "Der er brug for en partnerdrabskommission, så vi kan forebygge partnerdrab i fremtiden, understreger direktør for Danner, efter tre personer er fundet døde i Give.",
           "image": "https://politiken.dk/incoming/img11067876.9xmij0/ORIGINALS/original_960/20261119-104939-1",
-          "publishedAt": "2026-11-19T21:18:41.000Z"
+          "publishedAt": "2026-11-19T21:18:41.000Z",
+          "titleEn": "Expert: An examination of Danish partner murders will make a difference",
+          "summaryEn": "We need a partner homicide commission so we can prevent partner homicides in the future, says Danner's director after three people were found dead in Give."
         },
         {
           "title": "Riget oven på skandaleramt afdeling: Vi kan det hele igen. Om to år",
           "link": "https://politiken.dk/danmark/sundhed/art11065569/Riget-oven-p%C3%A5-skandaleramt-afdeling-Vi-kan-det-hele-igen.-Om-to-%C3%A5r",
           "summary": "Efter fyringer og opsigelser mangler Rigshospitalet nok kvalificerede medarbejdere til levertransplantation og kræftkirurgi i bugspytkirtlen. Indtil 2028 skal hospitalet derfor hjælpes.",
           "image": "https://politiken.dk/incoming/img11066604.clzosw/ORIGINALS/original_960/riget%20v1%20illu",
-          "publishedAt": "2026-11-19T21:17:54.000Z"
+          "publishedAt": "2026-11-19T21:17:54.000Z",
+          "titleEn": "The kingdom above the scandal department: we can do it all again. In two years",
+          "summaryEn": "After firings and dismissals, the hospital lacks enough qualified personnel for liver transplantation and pancreatic cancer surgery. So until 2028, the hospital needs to be helped."
         },
         {
           "title": "Der er meget i Kirsten Schwalbes historie, historiker gerne ville vide",
           "link": "https://politiken.dk/kultur/boger/art11067650/Der-er-meget-i-Kirsten-Schwalbes-historie-historiker-gerne-ville-vide",
           "summary": "Gyldendal stopper salget af bogen om Danmarks længslevende kvinde, som viste sig at have været nazist. Når sagen har lagt sig, er der noget, vi kan lære, siger historiker.",
           "image": "https://politiken.dk/incoming/img11067648.l7oswd/ORIGINALS/original_960/20250306-155816-2",
-          "publishedAt": "2026-11-19T20:17:52.000Z"
+          "publishedAt": "2026-11-19T20:17:52.000Z",
+          "titleEn": "There's a lot in Kirsten Schwalbe's story that historians would like to know.",
+          "summaryEn": "Guldendal stops selling the book about Denmark's longest-lived woman who turned out to be a Nazi. Once the case is settled, there is something we can learn, historians say."
         },
         {
           "title": "Blæst bagover i Empire: De forlader biografen med så mange spørgsmål",
           "link": "https://politiken.dk/ibyen/art11063505/Bl%C3%A6st-bagover-i-Empire-De-forlader-biografen-med-s%C3%A5-mange-sp%C3%B8rgsm%C3%A5l",
           "summary": "Biograferne er lagt ned af den hypede dokumentar ’You Can See Everything’. Politiken taler med fem gæster før og efter premieren for at finde ud af, hvad hypen egentlig handler om.",
-          "publishedAt": "2026-11-19T19:52:36.000Z"
+          "publishedAt": "2026-11-19T19:52:36.000Z",
+          "titleEn": "Blasted back into Empire: They leave the cinema with so many questions",
+          "summaryEn": "The theaters have been shut down by the hyped documentary \"You Can See Everything\". The politicians are talking to five guests before and after the premiere to find out what the hype is really about."
         },
         {
           "title": "Politi dræber 34 formodede bandemedlemmer i Haiti",
           "link": "https://politiken.dk/internationalt/art11067771/Politi-dr%C3%A6ber-34-formodede-bandemedlemmer-i-Haiti",
           "summary": "Flere bandemedlemmer er blevet dræbt i en politiaktion i Haitis hovedstad.",
           "image": "https://politiken.dk/incoming/img11067780.s4gu76/ORIGINALS/original_960/HAITI-EL%20SALVADOR",
-          "publishedAt": "2026-11-19T19:49:34.000Z"
+          "publishedAt": "2026-11-19T19:49:34.000Z",
+          "titleEn": "Police kill 34 suspected gang members in Haiti",
+          "summaryEn": "Several gang members have been killed in a police raid in Haiti's capital."
         }
       ]
     },
@@ -159,68 +186,88 @@
           "link": "https://www.berlingske.dk/internationalt/i-kina-saa-vi-endnu-et-tegn-paa-at-kloeften-mellem-trump-og-vance-vokser-det-siger-alt-om-praesidentvalget-2028?referrer=RSS",
           "summary": "Under topmødet i Kina så vi endnu et tegn på, at præsident Trump har sendt sin vicepræsident i skammekrogen. Det er måske ikke det værste for J.D. Vance – og amerikanerne kan se frem til et reality show, der afgør deres…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167596570.webp?t[strip]=true&t[quality]=70&accessToken=6b13b50f68e5322cefe2ef386ca9b7c757b01421a1f17abbad967d38d0715c30",
-          "publishedAt": "2026-11-20T06:48:11.000Z"
+          "publishedAt": "2026-11-20T06:48:11.000Z",
+          "titleEn": "In China, we saw another sign that the divide between Trump and Vance is growing. That says it all about the 2028 presidential election.",
+          "summaryEn": "During the China summit, we saw another sign that President Trump has sent his vice president into the shameful hell. That may not be the worst thing for J.D. Vance and the Americans can look forward to a reality show that will determine their..."
         },
         {
           "title": "Panama kræver olieloft og truer med at blokere for COP31-aftale",
           "link": "https://www.berlingske.dk/internationalt/panama-kraever-olieloft-og-truer-med-at-blokere-for-cop31-aftale?referrer=RSS",
           "summary": "En aftale ved FN's klimatopmøde kræver konsensus. Derfor kan et land potentielt blokere for en endelig aftale.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167599553.webp?t[strip]=true&t[quality]=70&accessToken=a07bec323d956ba4f8ded40facbbdaf03b459097ae1405bf7b6630fa001269e9",
-          "publishedAt": "2026-11-20T06:44:44.000Z"
+          "publishedAt": "2026-11-20T06:44:44.000Z",
+          "titleEn": "Panama demands oil relief and threatens to block COP31",
+          "summaryEn": "An agreement at the UN climate summit requires consensus. Therefore, a country can potentially block a final agreement."
         },
         {
           "title": "Polsk lufthavn stopper flytrafik efter mistanke om luftrumskrænkelse",
           "link": "https://www.berlingske.dk/internationalt/polsk-lufthavn-stopper-flytrafik-efter-mistanke-om-luftrumskraenkelse?referrer=RSS",
           "summary": "Lufthavn i det sydøstlige Polen har indstillet sin flytrafik, mens luftvåben udfører forebyggende aktivitet.",
-          "publishedAt": "2026-11-20T06:41:46.000Z"
+          "publishedAt": "2026-11-20T06:41:46.000Z",
+          "titleEn": "Polish airport suspends air traffic on suspicion of infringement of airspace",
+          "summaryEn": "The airport in the south-east of Poland has suspended its air traffic while the Air Force is carrying out preventive activities."
         },
         {
           "title": "DSB's millionudgifter til taxakørsel er fordoblet på kort tid",
           "link": "https://www.berlingske.dk/danmark/dsbs-millionudgifter-til-taxakoersel-er-fordoblet-paa-kort-tid?referrer=RSS",
           "summary": "DSB forklarer ekstraordinært boom i taxaudgifter med særligt problematisk år for jernbanerne.",
-          "publishedAt": "2026-11-20T06:34:47.000Z"
+          "publishedAt": "2026-11-20T06:34:47.000Z",
+          "titleEn": "DSB's million-dollar tax drive spending has doubled in a short time",
+          "summaryEn": "The DSB explains the extraordinary boom in taxi costs with particularly problematic years for the railways."
         },
         {
           "title": "Business-overblik: Anthropic sejrede, men børserne styrtdykker",
           "link": "https://www.berlingske.dk/business/business-overblik-anthropic-sejrede-men-boerserne-styrtdykker?referrer=RSS",
           "summary": "Vi læser erhvervsnyhederne og tjekker aktiekurserne fra morgenstunden. Her er hele dit Business-overblik.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167599309.webp?t[strip]=true&t[quality]=70&accessToken=484d11f78a75ecc99e183999c1a6ad3cd3e5f004ee223b705b5af8bba2fb5962",
-          "publishedAt": "2026-11-20T06:22:06.000Z"
+          "publishedAt": "2026-11-20T06:22:06.000Z",
+          "titleEn": "Anthropic won, but the stock market crashed.",
+          "summaryEn": "We're reading the business news and checking stock prices from dawn. Here's your entire business overview."
         },
         {
           "title": "DBU har nødplaner klar i Qatar hvis situationen eskalerer",
           "link": "https://www.berlingske.dk/sport/dbu-har-noedplaner-klar-i-qatar-hvis-situationen-eskalerer?referrer=RSS",
           "summary": "Forud for rejsen til Qatar har DBU informeret stab, spillere og pårørende om den uforudsigelige situation.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167599311.webp?t[strip]=true&t[quality]=70&accessToken=d886a8dbe78d267f804a8f8a5764c232a256c690e34c8e223efd549ccf7a7b83",
-          "publishedAt": "2026-11-20T06:17:48.000Z"
+          "publishedAt": "2026-11-20T06:17:48.000Z",
+          "titleEn": "DBU has emergency plans in Qatar if the situation escalates",
+          "summaryEn": "Prior to the trip to Qatar, DBU informed staff, players and relatives of the unpredictable situation."
         },
         {
           "title": "Rigshospitalet erkender personalemangel i ny redegørelse efter uro",
           "link": "https://www.berlingske.dk/danmark/rigshospitalet-erkender-personalemangel-i-ny-redegoerelse-efter-uro?referrer=RSS",
           "summary": "Torsdag havde Rigshospitalet deadline til at indsende redegørelse efter uro på transplantationsafdeling.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167599088.webp?t[strip]=true&t[quality]=70&accessToken=4a2b81025f8bdd5cbaec7194f14f9a350de149ee751a9793f10178236d8ca47d",
-          "publishedAt": "2026-11-20T06:17:44.000Z"
+          "publishedAt": "2026-11-20T06:17:44.000Z",
+          "titleEn": "The hospital admits staff shortage in new report after unrest",
+          "summaryEn": "On Thursday, the State Hospital had a deadline to file a statement after the unrest at the transplant department."
         },
         {
           "title": "Hidtil ukendt hvidvasknetværk i Europa: »Putins oligark« var kunde i Orbáns foretrukne bank",
           "link": "https://www.berlingske.dk/business/hidtil-ukendt-hvidvasknetvaerk-i-europa-putins-oligark-var-kunde-i-orbans-foretrukne-bank?referrer=RSS",
           "summary": "Viktor Orbáns højrenationale partis foretrukne bank spillede ifølge Deutsche Bank en nøglerolle i et massivt hvidvasknetværk, der blandt andet blev udnyttet af en Putin-nær oligark til at føre enorme summer ind og ud af…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167459320.webp?t[strip]=true&t[quality]=70&accessToken=e70f690e17e6e036c1f7a2a818e19a44bcebf3b1b74c50ed5789e45a80d1583f",
-          "publishedAt": "2026-11-20T06:06:36.000Z"
+          "publishedAt": "2026-11-20T06:06:36.000Z",
+          "titleEn": "Previously unknown European whistleblowing network:  ⁇ Putin's oligarch ⁇  was a customer of Orban's preferred bank",
+          "summaryEn": "According to Deutsche Bank, Viktor Orban's right-wing Nationalist Party's preferred bank played a key role in a massive money laundering network that was, among other things, exploited by a Putin-like oligarch to smuggle huge sums into and out of..."
         },
         {
           "title": "Flot og koldt vejr med sol kan nydes hele weekenden",
           "link": "https://www.berlingske.dk/danmark/flot-og-koldt-vejr-med-sol-kan-nydes-hele-weekenden?referrer=RSS",
           "summary": "Man kan denne weekend ikke bygge en snemand, men måske der kommer nok sne til en snemus, siger meteorolog.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167599151.webp?t[strip]=true&t[quality]=70&accessToken=9d46480e48155344f97ee8e4173ef6e1d59ae47f5405529ec6d6fae63a761faf",
-          "publishedAt": "2026-11-20T05:54:49.000Z"
+          "publishedAt": "2026-11-20T05:54:49.000Z",
+          "titleEn": "Cool, sunny weather can be enjoyed all weekend",
+          "summaryEn": "You can't build a snowman this weekend, but maybe there will be snow for a snowman, says a meteorologist."
         },
         {
           "title": "Er du rigtig klog: Hvad ved du om danske øer?",
           "link": "https://www.berlingske.dk/politik/er-du-rigtig-klog-hvad-ved-du-om-danske-oeer?referrer=RSS",
           "summary": "Berlingskes journalister udfordrer dagligt med 10 nye spørgsmål inden for spændende emner.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167459183.webp?t[strip]=true&t[quality]=70&accessToken=17609f04050238e6e17a5c31716f49d0807f119494f248026e9600cbfda42502",
-          "publishedAt": "2026-11-20T05:53:15.000Z"
+          "publishedAt": "2026-11-20T05:53:15.000Z",
+          "titleEn": "Are you really smart? What do you know about Danish islands?",
+          "summaryEn": "Journalists from Berlin ask 10 new questions every day on exciting topics."
         }
       ]
     }
