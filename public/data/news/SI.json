@@ -8,97 +8,77 @@
         "homepage": "https://www.rtvslo.si",
         "lang": "sl"
       },
-      "fetchedAt": "2026-11-19T18:50:02.389Z",
+      "fetchedAt": "2026-11-20T06:53:23.032Z",
       "items": [
         {
-          "title": "Veliki vstop Anthropica na borzo: Po zbranem kapitalu presegel dosedanji rekord podjetja SpaceX",
+          "title": "Zadnji dan za prijavo na glasovanje na referendumu iz tujine",
+          "link": "https://www.rtvslo.si/slovenija/referendumi-2026/zadnji-dan-za-prijavo-na-glasovanje-na-referendumu-iz-tujine/800687",
+          "summary": "Izteka se rok za prijavo glasovanja v tujini na referendumu o interventnem zakonu 6. decembra. Volivci, ki živijo ali bodo začasno v tujini, lahko le še danes oddajo vlogo za glasovanje po pošti ali na…",
+          "image": "https://img.rtvcdn.si/_up/upload/2026/11/15/67121797.jpg",
+          "publishedAt": "2026-11-20T06:30:11.000Z"
+        },
+        {
+          "title": "San Antonio na vrhu ujel Lakerse",
+          "link": "https://www.rtvslo.si/sport/kosarka/liga-nba/san-antonio-na-vrhu-ujel-lakerse/800686",
+          "summary": "Na vrhu Zahoda se je Los Angeles Lakersom s 13 zmagami na 16 tekmah pridružil San Antonio, ki je bil s 124:112 boljši od Clippersov. Vodstvo v ligi si delijo s Philadelphio, ki ima prav tako le tri poraze.",
+          "image": "https://img.rtvcdn.si/_up/upload/2026/11/20/67123261.jpg",
+          "publishedAt": "2026-11-20T06:08:22.000Z"
+        },
+        {
+          "title": "Mercedes-Benz VLE: električni potovalnik, ki želi postati nova definicija udobja",
+          "link": "https://www.rtvslo.si/zabava-in-slog/avtomobilnost/mercedes-benz-vle-elektricni-potovalnik-ki-zeli-postati-nova-definicija-udobja/800262",
+          "summary": "Na prvi vožnji smo preizkusili Mercedesov električni luksuzni potovalnik, ki združuje prostornost enoprostorca, udobje limuzine in električno tehnologijo, ki obljublja doseg več kot 700 kilometrov.",
+          "image": "https://img.rtvcdn.si/_up/upload/2026/11/16/67122080.jpg",
+          "publishedAt": "2026-11-20T06:08:09.000Z"
+        },
+        {
+          "title": "Udarni termin",
+          "link": "https://www.rtvslo.si/kultura/liffe/recenzije/udarni-termin/800639",
+          "summary": "Lance Oppenheim se z satirično rekonstrukcijo senzacionalističnega šova Ujeti plenilca vrača v \"zlato dobo\" resničnostne televizije, v obdobje, ki je odprlo vrata za današnjo distopijo nenehnega nadzora.",
+          "image": "https://img.rtvcdn.si/_up/upload/2026/11/19/67123121.jpg",
+          "publishedAt": "2026-11-20T06:00:58.000Z"
+        },
+        {
+          "title": "Nika Prevc z nekaj več nihanj kot sicer, a že na visoki ravni; Hrgota zadovoljen s formo orlov",
+          "link": "https://www.rtvslo.si/sport/zimski-sporti/svetovni-pokal-v-nordijskem-smucanju/nika-prevc-z-nekaj-vec-nihanj-kot-sicer-a-ze-na-visoki-ravni-hrgota-zadovoljen-s-formo-orlov/800569",
+          "summary": "Trenerja slovenskih skakalk in skakalcev, Jurij Tepeš in Robert Hrgota, nestrpno in z veseljem pričakujeta začetek nove sezone svetovnega pokala, v kateri bosta skupni zmagi branila Nika in Domen Prevc.",
+          "image": "https://img.rtvcdn.si/_up/upload/2026/11/18/67122934.jpg",
+          "publishedAt": "2026-11-19T20:01:37.000Z"
+        },
+        {
+          "title": "Bečirović novi direktor beograjskega Partizana",
+          "link": "https://www.rtvslo.si/sport/kosarka/evroliga/becirovic-novi-direktor-beograjskega-partizana/800683",
+          "summary": "Sani Bečirović je novi direktor košarkarskega kluba Partizan. Dozdajšnji direktor Dule Karavesović bo ostal del klubskega sistema na položaju direktorja za razvoj.",
+          "image": "https://img.rtvcdn.si/_up/upload/2026/11/19/67123249.jpg",
+          "publishedAt": "2026-11-19T19:58:40.000Z"
+        },
+        {
+          "title": "Hočevarju, Milovanoviču, Čerinu in Živi Cankar nagrade Marjana Rožanca",
+          "link": "https://www.rtvslo.si/sport/preostali-sporti/hocevarju-milovanovicu-cerinu-in-zivi-cankar-nagrade-marjana-rozanca/800682",
+          "summary": "Kanuist Žiga Lin Hočevar, športni komentator Ivo Milovanovič, trenerka v kajaku Živa Cankar in legenda slovenskega kolesarstva Primož Čerin so prejemniki letošnjih nagrad Marjana Rožanca, najvišjega priznanja Mestne…",
+          "image": "https://img.rtvcdn.si/_up/upload/2018/12/14/65550763.jpg",
+          "publishedAt": "2026-11-19T19:33:53.000Z"
+        },
+        {
+          "title": "Tarča: Kdo so poslovneži z velikim premoženjem in povezavami v slovenski politiki?",
+          "link": "https://www.rtvslo.si/slovenija/tarca-kdo-so-poslovnezi-z-velikim-premozenjem-in-povezavami-v-slovenski-politiki/800680",
+          "summary": "Zakaj je Mestna občina Ljubljana na zadnji seji mestnega sveta za več kot dva milijona evrov kupila gozd v lasti družine poročne priče županovega sina? Tarča se je odpravila tudi v Banjaluko, od koder poslovneži v…",
+          "image": "https://img.rtvcdn.si/_up/upload/2026/11/19/67123250.jpg",
+          "publishedAt": "2026-11-19T18:59:39.000Z"
+        },
+        {
+          "title": "Veliki vstop Anthropica na borzo: po zbranem kapitalu presegel dosedanji rekord podjetja SpaceX",
           "link": "https://www.rtvslo.si/gospodarstvo/veliki-vstop-anthropica-na-borzo-po-zbranem-kapitalu-presegel-dosedanji-rekord-podjetja-spacex/800679",
-          "summary": "Ameriško podjetje za razvoj umetne inteligence Anthropic je na borzi Nasdaq začelo svoje delnice prodajati po ceni 111,50 dolarja za kos, kar je visoko nad v petek določeno ceno za uvodno javno ponudbo (IPO) 83 dolarjev.",
+          "summary": "Ameriško podjetje za razvoj umetne inteligence Anthropic je na borzi Nasdaq začelo svoje delnice prodajati po ceni 111,50 dolarja, kar je visoko nad v petek določeno ceno za uvodno javno ponudbo (IPO) 83 dolarjev.",
           "image": "https://img.rtvcdn.si/_up/upload/2026/11/19/67123241.jpg",
-          "publishedAt": "2026-11-19T18:41:30.000Z",
-          "titleEn": "Anthropic's major IPO: SpaceX's record-breaking acquisition of capital",
-          "summaryEn": "U.S. artificial intelligence development company Anthropic began selling its shares on the Nasdaq at $111.50 a share, well above Friday's set IPO price of $83."
+          "publishedAt": "2026-11-19T18:41:30.000Z"
         },
         {
-          "title": "Najstarejša Danka razkrita kot nekdanja nacistična voditeljica",
-          "link": "https://www.rtvslo.si/svet/evropa/najstarejsa-danka-razkrita-kot-nekdanja-nacisticna-voditeljica/800677",
-          "summary": "Kirsten Schwalbe, ki je prejšnji mesec pri 112 letih in 218 dneh postala najstarejša Danka vseh časov, je bila razkrita kot nekdanja lokalna voditeljica nacistične stranke v svoji državi.",
-          "image": "https://img.rtvcdn.si/_up/upload/2026/11/19/67123232.jpg",
-          "publishedAt": "2026-11-19T18:30:19.000Z",
-          "titleEn": "Oldest Danka exposed as a former Nazi leader",
-          "summaryEn": "Kirsten Schwalbe, who last month became the oldest Danish woman of all time at 112 years and 218 days, was exposed as the former local leader of the Nazi Party in her country."
-        },
-        {
-          "title": "Na kolo in avtobus večinoma ženske in ranljive skupine",
-          "link": "https://www.rtvslo.si/kultura/arhitektura-in-oblikovanje/na-kolo-in-avtobus-vecinoma-zenske-in-ranljive-skupine/800649",
-          "summary": "Uporaba javnega potniškega prometa pada, kolesarske steze so natrpane in ozke, v avtomobilih manj kot oseba in pol, … Razstava Potujemo skupaj išče rešitve za načrtovanje mobilnosti, ki bi upoštevala potrebe vseh…",
-          "image": "https://img.rtvcdn.si/_up/upload/2026/11/19/67123159.jpg",
-          "publishedAt": "2026-11-19T18:04:15.000Z",
-          "titleEn": "On bicycles and buses mostly women and vulnerable groups",
-          "summaryEn": "The use of public passenger traffic is falling, bicycle lanes are crowded and narrow, in cars with less than one and a half people, and we're traveling together to find mobility planning solutions that address the needs of all..."
-        },
-        {
-          "title": "Georgia O'Keeffe",
-          "link": "https://www.rtvslo.si/kultura/citat/georgia-o-keeffe/800671",
-          "summary": "Ne zadostuje, da smo v življenju prijazni. Potrebno je imeti pogum.",
-          "image": "https://img.rtvcdn.si/_up/upload/2014/01/28/65070813_georgia.jpg",
-          "publishedAt": "2026-11-19T17:59:09.000Z",
-          "titleEn": "Georgia O'Keeffe",
-          "summaryEn": "It's not enough to be nice in life. It takes courage."
-        },
-        {
-          "title": "V osnutku podnebnega sporazuma brez omembe fosilnih goriv. Civilna družba ostro nad vsebino.",
-          "link": "https://www.rtvslo.si/okolje/v-osnutku-podnebnega-sporazuma-brez-omembe-fosilnih-goriv-civilna-druzba-ostro-nad-vsebino/800673",
-          "summary": "Predsedujoči podnebnim pogajanjem ZN-a v Antalyi (COP31) so iz najnovejšega osnutka končnega dogovora konference črtali vsakršno omembo fosilnih goriv. So pa v njem ohranili cilj krepitve elektrifikacije na svetovni…",
-          "image": "https://img.rtvcdn.si/_up/upload/2026/11/19/67123194.jpg",
-          "publishedAt": "2026-11-19T17:57:32.000Z",
-          "titleEn": "In the draft climate agreement, no mention of fossil fuels. Civil society is a bit of a contender.",
-          "summaryEn": "The Presidency of the UN Climate Negotiations in Antalya (COP31) removed any mention of fossil fuels from the latest draft of the conference's final agreement. But they've kept the goal of strengthening the electrification of the world..."
-        },
-        {
-          "title": "Šolsko ministrstvo bi uvedlo pripravljalnice za učenje slovenskega jezika in spoznavanje kulture",
-          "link": "https://www.rtvslo.si/slovenija/solsko-ministrstvo-bi-uvedlo-pripravljalnice-za-ucenje-slovenskega-jezika-in-spoznavanje-kulture/800669",
-          "summary": "Na ministrstvu za izobraževanje, znanost in mladino napovedujejo paket predlogov zakonodajnih sprememb na področju vzgoje in izobraževanja. Med spremembami izpostavljajo tudi uvedbo pripravljalnic za učenje slovenščine v…",
-          "image": "https://img.rtvcdn.si/_up/upload/2026/05/18/67044173.jpg",
-          "publishedAt": "2026-11-19T17:48:33.000Z",
-          "titleEn": "The Ministry of Education would introduce training facilities for learning Slovenian language and culture",
-          "summaryEn": "The Ministry of Education, Science and Youth is announcing a package of legislative amendments in the field of education and training. Among the changes, they also highlight the introduction of training centres for the learning of Slovenian in..."
-        },
-        {
-          "title": "Hajdinjak: Namesto Dovosa posojila za obrambna podjetja in evropske spodbude",
-          "link": "https://www.rtvslo.si/slovenija/hajdinjak-namesto-dovosa-posojila-za-obrambna-podjetja-in-evropske-spodbude/800668",
-          "summary": "Obrambni minister Valentin Hajdinjak je napovedal razširitev posojilnega instrumenta SID banke na podjetja obrambne industrije, pa tudi spodbude Evropskega investicijskega sklada. Ukrepa bosta nadomestila Dovos.",
-          "image": "https://img.rtvcdn.si/_up/upload/2026/11/19/67123193.jpg",
-          "publishedAt": "2026-11-19T17:38:34.000Z",
-          "titleEn": "Hajdinjak: Loans to defence enterprises and European incentives instead of imports",
-          "summaryEn": "Minister of Defence Valentin Hajdinjak announced the extension of the Bank's SID lending instrument to companies in the defence industry, as well as incentives from the European Investment Fund. The measure will replace Dovos."
-        },
-        {
-          "title": "Slovenska manjšinska koprodukcija Planina z zlato žabo in četico nominacij",
-          "link": "https://www.rtvslo.si/kultura/film-in-tv/slovenska-manjsinska-koprodukcija-planina-z-zlato-zabo-in-cetico-nominacij/800665",
-          "summary": "Dokumentarni film režiserjev Biljane Tutorov in Petra Glomazića Planina, pri katerem so sodelovali tudi slovenski ustvarjalci, je v zadnjem obdobju prejela nagrado in več nominacij, s čimer si zagotavlja mesto med…",
-          "image": "https://img.rtvcdn.si/_up/upload/2026/11/19/67123192.jpg",
-          "publishedAt": "2026-11-19T17:19:52.000Z",
-          "titleEn": "Slovenian minority co-production Mountain with gold frog and a handful of nominations",
-          "summaryEn": "The documentary film by directors Biljana Tutorov and Petra Glomazić Planin, which also involved Slovenian creators, has recently received an award and several nominations, thus securing itself a place among..."
-        },
-        {
-          "title": "Koalicija voljnih: \"Cilj je varna Ukrajina v varni Evropi\". Janša kritičen do šibke vloge Evrope.",
-          "link": "https://www.rtvslo.si/svet/vojna-v-ukrajini/koalicija-voljnih-cilj-je-varna-ukrajina-v-varni-evropi-jansa-kriticen-do-sibke-vloge-evrope/800664",
-          "summary": "Koalicija voljnih je na srečanju v Berlinu Ukrajini zagotovila nadaljnjo podporo, je sporočil nemški kancler Friedrich Merz. Dejal je še, da za Ukrajino želijo pravičen in trajen mir, ruskega predsednika Vladimirja…",
-          "image": "https://img.rtvcdn.si/_up/upload/2026/11/19/67123213.jpg",
-          "publishedAt": "2026-11-19T16:52:14.000Z",
-          "titleEn": "Coalition of the willing: \"The goal is a safe Ukraine in a safe Europe\". It is more critical of Europe's weak role.",
-          "summaryEn": "The Coalition of Volunteers provided further support to Ukraine at the meeting in Berlin, German Chancellor Friedrich Merz said. He also said that they want a just and lasting peace for Ukraine, Russian President Vladimir..."
-        },
-        {
-          "title": "Logar in Rončević se zavzemata za hitrejši prenos raziskovalnih dosežkov v podjetja",
-          "link": "https://www.rtvslo.si/znanost-in-tehnologija/logar-in-roncevic-se-zavzemata-za-hitrejsi-prenos-raziskovalnih-dosezkov-v-podjetja/800662",
-          "summary": "Ministra za gospodarstvo, delo in šport ter za izobraževanje, znanost in mladino Anže Logar in Borut Rončević sta na srečanju razpravljala o krepitvi sodelovanja med gospodarstvom in znanostjo ter o hitrejšem prenosu…",
-          "image": "https://img.rtvcdn.si/_up/upload/2026/11/19/67123172.jpg",
-          "publishedAt": "2026-11-19T16:40:12.000Z",
-          "titleEn": "Logar and Rončević are committed to a faster transfer of research achievements to enterprises",
-          "summaryEn": "Ministers of Economy, Labour and Sport and Education, Science and Youth, Anže Logar and Borut Rončević, discussed the strengthening of cooperation between the economy and science and the faster transfer of..."
+          "title": "Dalila Jakupović v petek odpira obračun proti Indoneziji v Velenju",
+          "link": "https://www.rtvslo.si/sport/tenis/dalila-jakupovic-v-petek-odpira-obracun-proti-indoneziji-v-velenju/800681",
+          "summary": "Uvodni dvoboj teniškega pokala Billie Jean King v Velenju med Slovenijo in Indonezijo bosta v petek ob 13. 00 odigrali Dalila Jakupović in Mischka Sinclaire Goenadi.",
+          "image": "https://img.rtvcdn.si/_up/upload/2026/11/19/67123243.jpg",
+          "publishedAt": "2026-11-19T18:34:29.000Z"
         }
       ]
     },
@@ -109,16 +89,49 @@
         "homepage": "https://www.24ur.com",
         "lang": "sl"
       },
-      "fetchedAt": "2026-11-19T18:50:01.947Z",
+      "fetchedAt": "2026-11-20T06:53:22.552Z",
       "items": [
         {
-          "title": "Tovornjak odneslo s ceste, napovedujejo popolno zaporo",
-          "link": "https://www.24ur.com/novice/crna-kronika/tovornjak-odneslo-s-ceste-zaprt-prehitevalni-pas.html",
-          "summary": "Kot navaja prometno-informacijski portal, je na dolenjski avtocesti med predorom Debeli hrib in razcepom Malence proti Ljubljani prehitevalni pas zaprla prometna nesreča. Po naših informacijah je s ceste odneslo…",
-          "image": "https://images.24ur.com/media/images/213xX/Nov2026/74e1f05ea06e57adf857_63682274.jpg?v=65b8&fop=fp:0.47:0.47",
-          "publishedAt": "2026-11-19T18:40:32.000Z",
-          "titleEn": "Truck pulled off the road, announcing a total lockdown",
-          "summaryEn": "According to the transport and information portal, a traffic accident has closed the lane on the valley highway between the Tunnel of the Debeli Hill and the Malence-Ljubljana intersection. According to our information, he was taken off the road..."
+          "title": "ZZZS zamika milijonska plačila: kaj to pomeni za bolnišnice in lekarne?",
+          "link": "https://www.24ur.com/novice/slovenija/zamik-placila-obveznosti-zzzs-bolnisnice-po-posojila-lekarne-brez-25-milijonov.html",
+          "summary": "ZZZS bo zaradi likvidnostnih omejitev in zakonskih pravil ob koncu leta v začetek januarja 2027 zamaknil do 185 milijonov evrov zapadlih obveznosti. Najbolj bodo prizadeti bolnišnice in zdravstveni domovi, ki jim bo…",
+          "image": "https://images.24ur.com/media/images/213xX/Nov2026/c87ca9243845bce287bd_63681926.jpg?v=1a5d&fop=fp:0.46:0.36",
+          "publishedAt": "2026-11-20T06:10:23.000Z"
+        },
+        {
+          "title": "Od lige NBA do nogometne elite: slovenski športniki z milijonskimi premoženji",
+          "link": "https://www.24ur.com/novice/slovenija/od-lige-nba-do-nogometne-elite-slovenski-sportniki-z-milijonskimi-premozenji.html",
+          "summary": "Kako pa je s športniki na lestvici, Slovenci smo ponosni na njih, njihovi zaslužki so primerljivi z zaslužki največjih športnih zvezd. Najvišje je še naprej Luka Dončić, ki je svoje premoženje povečal na skoraj 150…",
+          "image": "https://images.24ur.com/media/images/213xX/Nov2026/d2b95025e44ae1bdcb1b_63675546.jpg?v=226a&fop=fp:0.76:0.32",
+          "publishedAt": "2026-11-20T05:15:34.000Z"
+        },
+        {
+          "title": "Se bo Britanija vrnila v EU?",
+          "link": "https://www.24ur.com/novice/tujina/se-bo-britanija-vrnila-v-eu.html",
+          "summary": "Mladi, trgovina s hrano, emisijski kuponi, evropska industrijska politika, migracije, varnost ... To bo med glavnimi temami drugega vrha med EU in Veliko Britanijo po letu 2020, na katerem pa se obeta pomemben napredek…",
+          "image": "https://images.24ur.com/media/images/213xX/Nov2026/624d9c2ba0c1f3330da1_63682391.jpg?v=2674&fop=fp:0.31:0.16",
+          "publishedAt": "2026-11-20T06:04:55.000Z"
+        },
+        {
+          "title": "Visoki popusti, zavajajoče prakse in impulzivni nakupi: pasti črnega petka",
+          "link": "https://www.24ur.com/novice/slovenija/popust-ki-nas-stane-vec-past-strahu-pred-zamujeno-priloznostjo.html",
+          "summary": "\"Samo še do sobote\", \"zadnji kosi\", \"– 70 %\" so sporočila, ki nas v vedno daljšem obdobju okoli črnega petka spremljajo na vsakem koraku. Uradno ameriški praznik letos nastopi 27. novembra, a številne akcije in…",
+          "image": "https://images.24ur.com/media/images/213xX/Nov2023/d1d53d2107c07a2e8512_63151626.jpg?v=b5aa&fop=fp:0.51:0.47",
+          "publishedAt": "2026-11-20T06:07:09.000Z"
+        },
+        {
+          "title": "Dominik Gajšek in Tadej Oblak sta velika finalista sezone",
+          "link": "https://www.24ur.com/tv-oddaje/masterchef-slovenija/dominik-gajsek-in-tadej-oblak-sta-velika-finalista-sezone.html",
+          "summary": "Sodnikom se je pri odločanju o finalistih sezone pridružila slaščičarska mojstrica Urša Pikec. Prvo mesto si je po aplavzu za svojo jed z elementom presenečenja priboril Dominik Gajšek. V drugem krogu se je bolje odrezal…",
+          "image": "https://images.24ur.com/media/images/213xX/Nov2026/901948b5a799a9902e43_63681907.jpg?v=3feb&fop=fp:0.38:0.42",
+          "publishedAt": "2026-11-19T20:33:06.000Z"
+        },
+        {
+          "title": "Skrivnostni posnetek Džejle in Jakova znova sprožil ugibanja",
+          "link": "https://www.24ur.com/popin/tuja-scena/skrivnostni-posnetek-dzejle-in-jakova-znova-sprozil-ugibanja.html",
+          "summary": "Džejla Ramović in Jakov Jozinović znova dvigujeta prah. Mlada glasbenika sta pred časom sprožila veliko ugibanj o tem, ali se med njima plete romanca, zdaj pa sta s sila podobnimi promocijskimi videoposnetki na družbenih…",
+          "image": "https://images.24ur.com/media/images/213xX/Nov2026/04ba4ece18aa2b8860b5_63682105.png?v=98dd&fop=fp:0.41:0.20",
+          "publishedAt": "2026-11-20T05:00:16.000Z"
         },
         {
           "title": "Opozicija o 'popolnem potopu' Resnice, Gorenak: Ne bomo rušili predsednika DZ",
@@ -130,76 +143,25 @@
           "summaryEn": "The departure of MEPs Katja Kokot and Aleksandra Štorek from the Opposition in Truth comments in particular in the light of the possible consequences for the party's position in the GZ. In Freedom they demand a new division of leadership positions in committees. In the left..."
         },
         {
-          "title": "Evropa vztraja pri podpori Ukrajini, Trump bi ustavil 'zapravljanje denarja'",
-          "link": "https://www.24ur.com/novice/tujina/trump-skepticen-do-nadaljnje-pomoci-ukrajini-putin-naj-bi-si-zelel-miru.html",
-          "summary": "Med letom z vrha v Šendženu je ameriški predsednik Donald Trump poklical evropske zaveznice Ukrajine in podvomil o milijardah dolarjev za Kijev. Zaveznicam je prenesel svoje prepričanje, da si Rusija želi miru. V Berlinu…",
-          "image": "https://images.24ur.com/media/images/213xX/Nov2026/3b9491d98ed70bd22d07_63681797.jpg?v=d64c&fop=fp:0.46:0.33",
-          "publishedAt": "2026-11-19T18:40:02.000Z",
-          "titleEn": "Europe insists on supporting Ukraine, Trump would stop 'money laundering'",
-          "summaryEn": "During a flight from the summit in Shenzhen, US President Donald Trump called Ukraine's European allies and questioned billions of dollars for Kiev. He conveyed to his allies his belief that Russia wants peace. In Berlin..."
+          "title": "Pierce Brosnan podprl Roberta Pattinsona: Zasijal boš!",
+          "link": "https://www.24ur.com/popin/tuja-scena/pierce-brosnan-podprl-roberta-pattinsona-zasijal-bos.html",
+          "summary": "Po novici, da je James Bond dobil nov obraz v že prihajajočem 26. filmu, se je oglasil tudi igralec, ki je v čevljih slavnega agenta že nastopil. Pierce Brosnan je izrazil javno podporo igralskemu kolegu Robertu…",
+          "image": "https://images.24ur.com/media/images/213xX/Nov2026/c1d41e0ae7265aae5047_63673851.jpg?v=fa34&fop=fp:0.49:0.36",
+          "publishedAt": "2026-11-20T06:00:10.000Z"
         },
         {
-          "title": "Zločin v Tekačevem – odstopili od pregona drugega osumljenca",
-          "link": "https://www.24ur.com/novice/slovenija/zlocin-v-tekacevem-odstop-od-pregona-drugega-osumljenca.html",
-          "summary": "4. marca 1997 se je zgodil eden največjih zločinov na naših tleh – štirikratni umor v Tekačevem blizu Rogaške Slatine. In vse bolj kaže, da bo to ostal zločin, za katerega nihče ne bo odgovarjal. Celjsko okrožno državno…",
-          "image": "https://images.24ur.com/media/images/213xX/Nov2022/37012ffe8c182b85c56d_62858434.jpg?v=aa0f&fop=fp:0.43:0.63",
-          "publishedAt": "2026-11-19T17:01:43.000Z",
-          "titleEn": "Crime in Tekacev  ⁇  deviated from the pursuit of another suspect",
-          "summaryEn": "On March 4, 1997, one of the biggest crimes on our soil occurred... four murders in Tekacev near Rogaška Slatina. And it's increasingly showing that this will remain a crime for which no one will be held responsible. The entire county state..."
+          "title": "Vsi bi otroku radi pričarali čaroben december, a pri tem delamo veliko napako",
+          "link": "https://www.bibaleze.si/novice/intervju/black-friday-popusti-crni-petek.html",
+          "summary": "Črni petek, praznični oglasi in pričakovanja vrstnikov ustvarjajo občutek, da moramo imeti vedno več. Toda ali otroci za srečno otroštvo res potrebujejo toliko materialnih dobrin? Ivana Gradišnik iz Familylaba svetuje,…",
+          "image": "https://images.24ur.com/media/images/213xX/Nov2026/d3933004399d8337aed5_63678347.jpg?v=cac4&fop=fp:0.48:0.39",
+          "publishedAt": "2026-11-19T08:00:17.000Z"
         },
         {
-          "title": "Islam bi lahko do leta 2035 postal največja religija na svetu",
-          "link": "https://www.24ur.com/novice/tujina/islam-bi-lahko-do-leta-2070-postal-najvecja-religija-na-svetu.html",
-          "summary": "Po podatkih raziskovalnega centra Pew naj bi islam do leta 2035 prehitel krščanstvo in postal največja svetovna religija. Sicer število pripadnikov tako islama kot krščanstva narašča, vendar islam raste precej hitreje.…",
-          "image": "https://images.24ur.com/media/images/213xX/Jun2025/364b302edd43d67cca6b_63428126.jpg?v=de7d&fop=fp:0.50:0.44",
-          "publishedAt": "2026-11-19T15:22:43.000Z",
-          "titleEn": "Islam could become the world's largest religion by 2035",
-          "summaryEn": "According to the Pew Research Center, by 2035, Islam is projected to surpass Christianity to become the world's largest religion. While the number of members of both Islam and Christianity is growing, Islam is growing much faster...."
-        },
-        {
-          "title": "NPZ ne bo več merilo za vpis, uvajajo se jezikovne pripravljalnice",
-          "link": "https://www.24ur.com/novice/slovenija/npz-ne-bo-vec-merilo-za-vpis-uvajajo-se-jezikovne-pripravljalnice.html",
-          "summary": "Ministrstvo za izobraževanje je v javno obravnavo poslalo paket zakonodajnih predlogov. Med drugim načrtujejo uvedbo jezikovnih pripravljalnic in krepitev domoljubne vzgoje, spremembe bodo pri ocenjevanju, pritožbe zoper…",
-          "image": "https://images.24ur.com/media/images/213xX/Apr2026/bffb5a24d5a9ca9dbb07_63572165.jpg?v=ec5f&fop=fp:0.41:0.33",
-          "publishedAt": "2026-11-19T16:45:55.000Z",
-          "titleEn": "The NPZ will no longer be an admission criterion, language training centres are being introduced",
-          "summaryEn": "The Ministry of Education has submitted a package of legislative proposals for public consultation. Among other things, they plan to introduce language training schools and strengthen patriotic education, make changes to evaluations, complain against..."
-        },
-        {
-          "title": "Najstarejša Danka, nekdanja 'ugledna' lokalna nacistična voditeljica",
-          "link": "https://www.24ur.com/novice/tujina/najstarejsa-danka-nekdanji-ugledni-nacisticni-voditelj.html",
-          "summary": "Razkrilo se je, da je bila najstarejša oseba na Danskem v zgodovini nekoč lokalna vodja nacistične stranke. Kirsten Schwalbe je bila oktobra deležna velikega priznanja, ko je s starostjo 112 let in 218 dni postala…",
-          "image": "https://images.24ur.com/media/images/213xX/Nov2026/5cbaae71d5528814d79c_63682210.jpg?v=e09f&fop=fp:0.48:0.34",
-          "publishedAt": "2026-11-19T14:58:13.000Z",
-          "titleEn": "The oldest Danka, formerly a \"reputable\" local Nazi leader",
-          "summaryEn": "It turned out that the oldest person in Denmark's history was once the local leader of the Nazi Party. Kirsten Schwalbe was the recipient of great recognition in October when, at the age of 112 years and 218 days, she became..."
-        },
-        {
-          "title": "Zaradi poškodb po nesreči umrl igralec Larry Poindexter",
-          "link": "https://www.24ur.com/popin/film_tv/zaradi-poskodb-po-nesreci-umrl-igralec-larry-poindexter.html",
-          "summary": "Umrl je igralec Larry Poindexter, ki je znan po filmu S. W. A. T. in serijah General Hospital ter Dnevi našega življenja. Zvezdnika je pred dnevi v Los Angelesu zbil avtomobil, ko je prečkal cesto. Star je bil 66 let.",
-          "image": "https://images.24ur.com/media/images/213xX/Nov2026/e0fb952e27270bc8afd5_63682134.jpg?v=cb0d&fop=fp:0.50:0.46",
-          "publishedAt": "2026-11-19T16:18:16.000Z",
-          "titleEn": "Actor Larry Poindexter died from injuries sustained in an accident.",
-          "summaryEn": "Actor Larry Poindexter, best known for his film S. W.A. T. and the General Hospital series and Days of Our Lives. The star was hit by a car in Los Angeles a few days ago while crossing the street. He was 66."
-        },
-        {
-          "title": "Po tenisu osvaja še svet milijonov: Serena Williams zaganja 200-milijonski posel",
-          "link": "https://cekin.si/podjetnistvo/serena-williams-investicijski-sklad.html",
-          "summary": "Serena Williams širi svoj poslovni imperij. Nekdanja teniška zvezdnica ustanavlja nov investicijski sklad v vrednosti 200 milijonov dolarjev, s katerim bo vlagala v umetno inteligenco, zdravstvo in finančne tehnologije.",
-          "image": "https://images.24ur.com/media/images/213xX/May2026/5cbc537fd928091f8b6e_63582328.jpg?v=eb95&fop=fp:0.46:0.27",
-          "publishedAt": "2026-11-19T06:55:32.000Z",
-          "titleEn": "Tennis wins the world millions more: Serena Williams runs a 200 million dollar business",
-          "summaryEn": "Serena Williams is expanding her business empire. The former tennis star is setting up a new $200 million investment fund to invest in artificial intelligence, healthcare and financial technology."
-        },
-        {
-          "title": "Dva poslanca dala košarico Resnici: 'Nesoglasja se vlečejo že več kot leto dni'",
-          "link": "https://www.24ur.com/novice/slovenija/katja-kokot-zapusca-resnico.html",
-          "summary": "Stranko in poslansko skupino Resnica zapuščata dva poslanca. Potem ko je izstop sporočila dosedanja vodja poslanske skupine Katja Kokot, je enako odločitev javno objavil še Aleksander Štorek. Oba kot razlog navajata…",
-          "image": "https://images.24ur.com/media/images/213xX/Nov2026/9a5270c165bc8355864a_63682140.jpg?v=922a&fop=fp:0.43:0.47",
-          "publishedAt": "2026-11-19T18:31:04.000Z",
-          "titleEn": "Two Members of Parliament gave a basket to the Truth: 'Disagreements have been dragging on for over a year'",
-          "summaryEn": "The party and the truth group are being left by two MEPs. Following the announcement of the departure of the current leader of the parliamentary group, Katja Kokot, the same decision was made public by Aleksander Štorek. Both of you are using it as an excuse..."
+          "title": "Russell najhitrejši na drugem treningu",
+          "link": "https://www.24ur.com/sport/formula1/russell-najhitrejsi-na-drugem-treningu.html",
+          "summary": "Pred dirkači formule 1 je nov dirkaški konec tedna. Na drugem petkovem treningu pred VN Las Vegasa je najhitrejši čas postavil George Russell (1:47.272). Na drugem oziroma tretjem mestu sta končala Pierre Gasly in…",
+          "image": "https://images.24ur.com/media/images/213xX/Aug2026/43280e5475f10a1857a1_63636000.jpg?v=118d&fop=fp:0.48:0.24",
+          "publishedAt": "2026-11-20T05:27:37.000Z"
         }
       ]
     },
@@ -210,97 +172,77 @@
         "homepage": "https://www.delo.si",
         "lang": "sl"
       },
-      "fetchedAt": "2026-11-19T18:50:02.477Z",
+      "fetchedAt": "2026-11-20T06:53:23.097Z",
       "items": [
         {
-          "title": "ACH Volley po novi zmagi pred vrati lige prvakov, odločitev bo padla v Tivoliju",
-          "link": "https://www.delo.si/sport/drugi-sporti/ach-volley-z-eno-nogo-v-ligi-prvakov-odlocitev-bo-padla-v-tivoliju",
-          "summary": "Ljubljančani so na prvi tekmi zadnjega kroga kvalifikacij v Bakuju slavili s 3:1, z 22 točkami pa je bil njihov prvi mož Rok Bračko.",
-          "image": "https://www.delo.si/media/images/20261119/3777155.width-660.format-webp.webp",
-          "publishedAt": "2026-11-19T18:14:00.000Z",
-          "titleEn": "ACH Volley after a new victory at the gates of the Champions League, the decision will fall to Tivoli",
-          "summaryEn": "In the first match of the final qualifying round in Baku, the Ljubljanaans won 3-1, with 22 points and their first man was Rok Bračko."
+          "title": "Oče Meghan Markle duševno sposoben za sojenje",
+          "link": "https://www.delo.si/novice/svet/thomas-markle-meghan-dusevno-sposoben-sodisce-aretacija",
+          "summary": "Vojvodinja z očetom sicer nima stikov od leta 2018, istega leta se ni udeležil njene poroke v Londonu.",
+          "image": "https://www.delo.si/media/images/20261120/3777266.width-660.format-webp.webp",
+          "publishedAt": "2026-11-20T06:41:00.000Z"
         },
         {
-          "title": "Janša bi spremenil evropsko taktiko do Rusije",
-          "link": "https://www.delo.si/novice/svet/jansa-bi-spremenil-evropsko-taktiko-do-rusije",
-          "summary": "Podporniki Kijeva o nadaljnji pomoči Ukrajini in enotni pogajalski poziciji v pogovorih z Moskvo.",
-          "image": "https://www.delo.si/media/images/20261119/3777122.width-660.format-webp.webp",
-          "publishedAt": "2026-11-19T18:00:00.000Z",
-          "titleEn": "Janša would change the European tactics to Russia",
-          "summaryEn": "Supporting Kiev on further assistance to Ukraine and a united negotiating position in the talks with Moscow."
+          "title": "Državni zbor bo glasoval o proračunu za naslednji dve leti",
+          "link": "https://www.delo.si/gospodarstvo/novice/drzavni-zbor-bo-glasoval-o-proracunu-za-naslednji-dve-leti",
+          "summary": "Podprli ga bodo poslanci koalicije, v opoziciji pa so proti, saj se zaradi prenizko načrtovanih sredstev na več področjih bojijo rezov v socialne pravice.",
+          "image": "https://www.delo.si/media/images/20261120/3777261.width-660.format-webp.webp",
+          "publishedAt": "2026-11-20T05:52:00.000Z"
         },
         {
-          "title": "Popolnoma se bom izoliral: GTA 6 obnorel tudi nogometne zvezdnike",
-          "link": "https://www.delo.si/sport/nogomet/popolnoma-se-bom-izoliral-gta-6-obnorel-tudi-nogometne-zvezdnike",
-          "summary": "Bryan Mbeumo je novo igro zagnal že ob polnoči. Izid težko pričakovanega GTA 6 so na svoj način pospremili tudi številni evropski klubi.",
-          "image": "https://www.delo.si/media/images/20261119/3777142.width-660.format-webp.webp",
-          "publishedAt": "2026-11-19T17:57:55.000Z",
-          "titleEn": "I'm going to completely isolate myself.",
-          "summaryEn": "Bryan Mbeumo started a new game at midnight. The outcome of the highly anticipated GTA 6 was accompanied in its own way by a number of European clubs."
+          "title": "Parada slovenskih jazzovskih ustvarjalcev in tujih gostov",
+          "link": "https://www.delo.si/kultura/glasba/parada-slovenskih-jazzovskih-ustvarjalcev-in-tujih-gostov",
+          "summary": "Danes se Ravnah na Koroškem začenja Festival slovenskega jazza s koncerti, delavnicami in razstavami.",
+          "image": "https://www.delo.si/media/images/20261117/3774771.width-660.format-webp.webp",
+          "publishedAt": "2026-11-20T05:30:00.000Z"
         },
         {
-          "title": "Dars bo lahko širil zahodno ljubljansko obvoznico",
-          "link": "https://www.delo.si/lokalno/ljubljana-in-okolica/dars-dobil-gradbeno-dovoljenje-za-siritev-zahodne-ljubljanske-obvoznice",
-          "summary": "Resorno ministrstvo je izdalo gradbeno dovoljenje. Avtocestni odsek Koseze-Kozarje bo po novem šestpasovnica.",
-          "image": "https://www.delo.si/media/images/20261119/3777137.width-660.format-webp.webp",
-          "publishedAt": "2026-11-19T17:47:00.000Z",
-          "titleEn": "Dars will be able to expand the western Ljubljana railway",
-          "summaryEn": "The Ministry of the Interior has issued a building permit. The Koseze-Kozare section of the highway will be built on a new six lane road."
+          "title": "Papež se bo srečal z najboljšimi kolesarji, vabljena tudi Pogačar in Roglič",
+          "link": "https://www.delo.si/sport/kolesarstvo/papez-kolesarstvo-pogacar-roglic-vatikan-rim-leon",
+          "summary": "Na dogodku bo veliko nekdanjih in tudi aktualnih velikanov kolesarskega športa. Papež je leta 2025 kolesarje že pozdravil pred zadnjo etapo Gira.",
+          "image": "https://www.delo.si/media/images/20261119/3777182.width-660.format-webp.webp",
+          "publishedAt": "2026-11-20T05:00:00.000Z"
         },
         {
-          "title": "Svoboda bo v drugem krogu podprla Jankovića",
-          "link": "https://www.delo.si/novice/slovenija/katere-zupane-bo-svoboda-podprla-v-drugem-krogu",
-          "summary": "Na zasedanju izvršnega odbora stranke so analizirali izid volitev, s katerim so nezadovoljni. Je pa ta prinesel pomembne lekcije.",
-          "image": "https://www.delo.si/media/images/20261119/3777127.width-660.format-webp.webp",
-          "publishedAt": "2026-11-19T17:21:00.000Z",
-          "titleEn": "Freedom will support Jankovic in the second round",
-          "summaryEn": "At the meeting of the Party's Executive Committee, they analysed the outcome of an election with which they were dissatisfied. But this one has brought important lessons."
+          "title": "Narava najbolj besni v Sloveniji",
+          "link": "https://www.delo.si/novice/slovenija/narava-najbolj-besni-v-sloveniji",
+          "summary": "Podnebne spremembe: V zadnjih 45 letih je narava od vseh evropskih držav daleč največ škode povzročila v Sloveniji.",
+          "image": "https://www.delo.si/media/images/20261119/3776729.width-660.format-webp.webp",
+          "publishedAt": "2026-11-20T05:00:00.000Z"
         },
         {
-          "title": "Bržan Popoviču ponudil sodelovanje, ta pa je razkril prvi skupni projekt",
-          "link": "https://www.delo.si/lokalno/primorska-in-notranjska/brzan-in-popovic-pred-drugim-krogom-ostrina-pri-projektih-odprta-vrata-za-sodelovanje-video",
-          "summary": "V Delovem soočenju o ostrih razlikah pri prostorskem načrtu, stanovanjih, preskrbi z vodo in političnih zavezništvih.",
-          "image": "https://www.delo.si/media/images/20261119/3776863.width-660.format-webp.webp",
-          "publishedAt": "2026-11-19T17:00:00.000Z",
-          "titleEn": "Popović offered to cooperate, and he revealed the first joint project.",
-          "summaryEn": "In the Labour Confrontation about sharp differences in spatial planning, housing, water supply and political commitments."
+          "title": "Kdo in kje lahko upravlja drone in kako je s prijavami kršiteljev",
+          "link": "https://www.delo.si/novice/slovenija/kdo-in-kje-lahko-upravlja-drone-in-kako-je-s-prijavami-krsiteljev",
+          "summary": "Za upravljanje dronov je usposobljenih več kot 7000 oseb. Še več jih drone upravlja brez usposabljanja in registracije.",
+          "image": "https://www.delo.si/media/images/20261118/3776224.width-660.format-webp.webp",
+          "publishedAt": "2026-11-20T05:00:00.000Z"
         },
         {
-          "title": "Sekulić razkril 15 imen: Slovenijo čakata tekmi za biti ali ne biti",
-          "link": "https://www.delo.si/sport/kosarka/sekulic-razkril-15-imen-slovenijo-cakata-tekmi-za-biti-ali-ne-biti",
-          "summary": "Slovenija bo 27. novembra v Celju gostila Finsko, tri dni pozneje pa se bo pomerila še z Madžarsko. Po osmih tekmah ima štiri zmage in štiri poraze.",
-          "image": "https://www.delo.si/media/images/20261119/3777104.width-660.format-webp.webp",
-          "publishedAt": "2026-11-19T16:22:59.000Z",
-          "titleEn": "Sekulić reveals 15 names: Slovenia awaiting a match to be or not to be",
-          "summaryEn": "Slovenia will host Finland on 27 November and Hungary three days later. After eight games, he has four wins and four losses."
+          "title": "Spet nekaj novega",
+          "link": "https://www.delo.si/karikatura/spet-nekaj-novega",
+          "summary": "Iz stranke Resnica sta izstopila vodja poslanske skupine Katja Kokot in poslanski kolega Aleksander Štorek.",
+          "image": "https://www.delo.si/media/images/20261119/3777156.width-660.format-webp.webp",
+          "publishedAt": "2026-11-20T04:55:00.000Z"
         },
         {
-          "title": "V zapor, ker je z avtom hudo poškodoval policista",
-          "link": "https://www.delo.si/novice/crna-kronika/v-zapor-ker-je-z-avtom-hudo-poskodoval-policista",
-          "summary": "Marjan Grm ni bil pripet, a na znake ni ustavil, temveč se je z avtom zaletel v enega od policistov.",
-          "image": "https://www.delo.si/media/images/20261119/3776699.width-660.format-webp.webp",
-          "publishedAt": "2026-11-19T16:22:00.000Z",
-          "titleEn": "Jailed for seriously injuring a police officer with a car",
-          "summaryEn": "Marjan Grm wasn't attached, but he didn't stop at the sign, instead, he crashed into one of the police officers."
+          "title": "Kjer se cedita med in mleko in maže maslo",
+          "link": "https://www.delo.si/mnenja/komentarji/vlada-solstvo-proracun-izobrazevanje-vzgoja-in-izobrazevanje-financiranje",
+          "summary": "V vsakem proračunu, ne glede na vlado, je nekaj možnosti za varčevanje. Vse pa je stvar prioritet.",
+          "image": "https://www.delo.si/media/images/20261119/3777222.width-660.format-webp.webp",
+          "publishedAt": "2026-11-20T04:00:00.000Z"
         },
         {
-          "title": "V šolah prihodnje leto številne spremembe. Kaj vse predlaga ministrstvo?",
-          "link": "https://www.delo.si/novice/slovenija/v-solah-prihodnje-leto-stevilne-spremembe-kaj-vse-predlaga-ministrstvo",
-          "summary": "Paket predlogov zakonodajnih sprememb na področju vzgoje in izobraževanja prinaša številne novosti.",
-          "image": "https://www.delo.si/media/images/20261119/3777097.width-660.format-webp.webp",
-          "publishedAt": "2026-11-19T16:07:00.000Z",
-          "titleEn": "There's a lot of change in schools next year. What's the ministry's suggestion?",
-          "summaryEn": "The package of legislative amendments in the field of education and training brings a number of new developments."
+          "title": "Rogliča so si želeli zelo dolgo, najboljši mentor bi bil, če bi zmagoval",
+          "link": "https://www.delo.si/sport/kolesarstvo/primoz-roglic-ekipa-nsn-cycling-inieasta-vid-jejcic-pogovor-prestop",
+          "summary": "Vodja mehanikov pri ekipi NSN Vid Jejčič se je zelo veselil prihoda Primoža Rogliča. Pravi, da ima ekipa, ki doslej še ni bila tako močna, visoka pričakovanja.",
+          "image": "https://www.delo.si/media/images/20261119/3777161.width-660.format-webp.webp",
+          "publishedAt": "2026-11-20T04:00:00.000Z"
         },
         {
-          "title": "Čistega dobička 40 odstotkov več kot lani. Kje Luka Koper zaostaja za načrti?",
-          "link": "https://www.delo.si/gospodarstvo/novice/cistega-dobicka-40-odstotkov-vec-kot-lani-kje-luka-koper-zaostaja-za-nacrti",
-          "summary": "Pretovor avtomobilov je upadel za šest odstotkov glede na isto obdobje lani. Predstavili tudi načrt poslovanja za leto 2027.",
-          "image": "https://www.delo.si/media/images/20261119/3777091.width-660.format-webp.webp",
-          "publishedAt": "2026-11-19T16:01:00.000Z",
-          "titleEn": "Net profit is 40 percent higher than last year. Where's Luke Cooper lagging for the plans?",
-          "summaryEn": "Car traffic fell by six percent compared to the same period last year. They also presented the business plan for 2027."
+          "title": "Intervju s Cesarjem: Šturma sem priporočil že selektorju Keku",
+          "link": "https://www.delo.si/sport/nogomet/bostjan-cesar-intervju-benjamin-sesko-jose-mourinho",
+          "summary": "Gost intervjuja je bil selektor slovenske reprezentance Boštjan Cesar. Razkril je trenerskega vzornika, pojasnil vzpon Šturma, kaj pričakuje od Vipotnika?",
+          "image": "https://www.delo.si/media/images/20261119/3777148.width-660.format-webp.webp",
+          "publishedAt": "2026-11-20T04:00:00.000Z"
         }
       ]
     }

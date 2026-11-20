@@ -8,8 +8,56 @@
         "homepage": "https://www.tagesschau.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-19T18:49:16.389Z",
+      "fetchedAt": "2026-11-20T06:52:31.117Z",
       "items": [
+        {
+          "title": "Neue EU-Regeln ab heute: Mehr Schutz vor Verschuldung bei Kleinkrediten",
+          "link": "https://www.tagesschau.de/wirtschaft/kleinkredite-neue-regeln-verschuldung-100.html",
+          "summary": "Mehr Schutz für Verbraucher, mehr Kontrolle bei Krediten: Von heute an gilt die neue Verbraucherkreditrichtlinie. Selbst kleine Beträge wie bei \"Heute kaufen, später zahlen\" verlangen von Anbietern nun mehr Aufwand. Von…",
+          "publishedAt": "2026-11-20T06:51:30.000Z"
+        },
+        {
+          "title": "WG-Mieten steigen stark: Kann sich die Gen Z Wohnen noch leisten?",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/wg-zimmer-gen-z-proteste-wohnungskrise-100.html",
+          "summary": "Heute demonstrieren erneut junge Menschen unter dem Motto \"Gen Z regelt\". Es geht ihnen auch um ein bezahlbares Leben. Denn inzwischen entscheiden auch Mietpreise darüber, wer wo studieren kann. Von Alexander C.…",
+          "publishedAt": "2026-11-20T06:48:37.000Z"
+        },
+        {
+          "title": "Marktbericht: DAX dürfte trotz Anthropic-Hype weiter fallen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
+          "summary": "Der Anthropic-Funke ist nicht auf die Börsen übergesprungen: Der DAX dürfte deutlich schwächer starten, auch die Wall Street ist weit zurückgefallen. Aber nicht nur Technologiewerte verlieren.",
+          "publishedAt": "2026-11-20T06:30:24.000Z"
+        },
+        {
+          "title": "Kritik aus den USA nach Treffen Trumps mit Xi und Putin",
+          "link": "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html",
+          "summary": "Erstmals in der Geschichte saß ein US-Präsident allein mit dem chinesischen und dem russischen Staatschef an einem Tisch. Große Deals blieben offenbar aus, die Debatte zu Hause ist groß: War das Diplomatie - oder…",
+          "publishedAt": "2026-11-20T05:48:01.000Z"
+        },
+        {
+          "title": "Pistorius will Militärpakt mit Polen ausbauen",
+          "link": "https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html",
+          "summary": "Patriot-Systeme und Eurofighter-Kampfjets sowie eine Zusammenarbeit der Armeen beim Aufbau von gemeinsamen Verteidigungsstellungen: Polen und Deutschland arbeiten bereits militärisch zusammen. Das möchten beide Länder…",
+          "publishedAt": "2026-11-20T03:53:04.000Z"
+        },
+        {
+          "title": "Jugendliche wollen wieder deutschlandweit protestieren",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-110.html",
+          "summary": "Die Generation Z demonstriert wieder: Heute gehen erneut junge Menschen für bessere Bildung, mehr Klimaschutz und gegen eine mögliche Wehrpflicht auf die Straße. Ganz unterschiedliche Jugendbewegungen haben zu Protesten…",
+          "publishedAt": "2026-11-20T06:42:49.000Z"
+        },
+        {
+          "title": "Medienberichte: Lufthansa will 1.000 Stellen streichen",
+          "link": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html",
+          "summary": "An ihren Drehkreuzen Frankfurt und München will die Lufthansa insgesamt 1.000 Stellen streichen. Das geht aus einem Brief an Mitarbeiter hervor. Wann und wie die Einsparungen umgesetzt werden, ist noch nicht bekannt.",
+          "publishedAt": "2026-11-20T01:56:36.000Z"
+        },
+        {
+          "title": "Strafbefehl gegen Tesla-Werksleiter",
+          "link": "https://www.tagesschau.de/inland/regional/brandenburg/strafbefehl-werksleiter-von-tesla-100.html",
+          "summary": "Im Februar hatte die IG Metall Strafanzeige gegen den Werksleiter von Tesla in Grünheide gestellt. Der Vorwurf: üble Nachrede. Nun hat ein Gericht einen Strafbefehl gegen den Mann erlassen. Der Werksleiter wehrt sich vor…",
+          "publishedAt": "2026-11-19T20:07:12.000Z"
+        },
         {
           "title": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
           "link": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html",
@@ -22,73 +70,9 @@
           "title": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
           "link": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
           "summary": "Die \"Koalition der Willigen\" verspricht, der Ukraine \"so lange wie nötig\" zu helfen. Nach dem Gipfel in Berlin rief Kanzler Merz Russlands Präsident Putin auf, die Waffen niederzulegen. Einen Frieden könne es nur mit…",
-          "publishedAt": "2026-11-19T18:22:57.000Z",
+          "publishedAt": "2026-11-19T19:22:45.000Z",
           "titleEn": "Merz wants talks with Russia on neutral ground soon.",
           "summaryEn": "The \"Coalition of the Willing\" promises to help Ukraine \"as long as necessary\". After the Berlin summit, Chancellor Merz called on Russian President Putin to lay down arms. A peace can only be achieved with..."
-        },
-        {
-          "title": "Marktbericht: Keine Erholung trotz Anthropic-Euphorie",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
-          "summary": "Trotz der guten Stimmung im Technologiesektor rund um den Rekord-Börsengang von Anthropic ist der DAX abgerutscht. Der deutsche Leitindex schloss auf dem tiefsten Stand seit mehr als drei Wochen.",
-          "publishedAt": "2026-11-19T17:33:52.000Z",
-          "titleEn": "Market report: No recovery despite anthropic euphoria",
-          "summaryEn": "Despite the good mood in the technology sector surrounding the record-breaking IPO of Anthropic, the DAX has slipped. The German lead index closed at its lowest level in more than three weeks."
-        },
-        {
-          "title": "Liveticker zu Gipfeln: ++ Macron: NATO-Beitritt der Ukraine neu verhandeln ++",
-          "link": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html",
-          "summary": "Frankreichs Präsident Macron will erneut über einen Beitritt der Ukraine zur NATO sprechen. Der britische Premierminister Burnham sieht Europa nach entschlossenen Gesprächen bereit für Verhandlungen.",
-          "publishedAt": "2026-11-19T18:21:46.000Z",
-          "titleEn": "Liveticker to summits: ++ Macron: renegotiation of Ukraine's NATO membership ++",
-          "summaryEn": "President Macron of France wants to talk again about Ukraine's accession to NATO. The British Prime Minister Burnham believes that Europe is ready for negotiations after decisive talks."
-        },
-        {
-          "title": "Volkswagen will Nullrunden für zwei Jahre",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
-          "summary": "Nullrunden, weniger Zulagen und Änderungen bei der Arbeitszeit - Volkswagen will harte Einschnitte in der anstehenden Tarifrunde durchsetzen. Die IG Metall wirft dem Konzern vor, mit dem \"Messer in den Rücken\" der…",
-          "publishedAt": "2026-11-19T16:11:57.000Z",
-          "titleEn": "Volkswagen wants zero rounds for two years",
-          "summaryEn": "Zero rounds, fewer allowances and changes in working hours - Volkswagen wants to impose tough cuts in the upcoming tariff rounds. I.G. Metall is accusing the company of stabbing the..."
-        },
-        {
-          "title": "BASF bläst Evonik-Übernahme ab",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
-          "summary": "BASF nimmt Abstand von einer Übernahme des Konkurrenten Evonik. Der Chemiekonzern gibt die Pläne auf, nachdem Evonik zuvor zwei unverbindliche Kaufangebote zurückgewiesen hatte.",
-          "publishedAt": "2026-11-19T15:55:43.000Z",
-          "titleEn": "BASF cancels the acquisition of Evonik",
-          "summaryEn": "BASF declines to take over its competitor Evonik. The chemical company discontinues the plans after Evonik previously rejected two non-binding bids."
-        },
-        {
-          "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
-          "summary": "Anthropic gelingt der größte Börsengang aller Zeiten. Nach dem Absturz von Nvidia verbindet die KI-Branche damit neue Hoffnungen. Sind die Zweifel am Boom rund um Künstliche Intelligenz nun zerstreut? Von Angela Göpfert.",
-          "publishedAt": "2026-11-19T16:54:27.000Z",
-          "titleEn": "Record on the stock exchange: lessons learned from the Anthropic stock exchange",
-          "summaryEn": "Anthropic is the biggest IPO ever. After the collapse of Nvidia, the AI industry is bringing new hopes. Are the doubts about the AI boom now dispersed? It's from Angela Göpfert."
-        },
-        {
-          "title": "EGMR-Urteil: Corona-Impfpflichten waren menschenrechtskonform",
-          "link": "https://www.tagesschau.de/ausland/europa/egmr-corona-impfpflicht-100.html",
-          "summary": "Zur Bekämpfung der Covid-19-Pandemie wurden Personen, die beispielsweise in Krankenhäusern oder Rettungsdiensten arbeiteten, verpflichtet, sich gegen Corona impfen zu lassen. Nun hat der EGMR entschieden. Von A.…",
-          "publishedAt": "2026-11-19T15:24:28.000Z",
-          "titleEn": "ECtHR judgment: Corona vaccination obligations were in accordance with human rights",
-          "summaryEn": "To combat the Covid-19 pandemic, people who work in hospitals or emergency services, for example, have been required to get vaccinated against coronavirus. Now the ECHR has decided. From A..."
-        },
-        {
-          "title": "Cupic: Biobauer, Dozent und nun Serbiens Parlamentspräsident",
-          "link": "https://www.tagesschau.de/ausland/europa/cupic-parlamentspraesident-serbien-100.html",
-          "summary": "Ein Biobauer und Dozent, der sechs Kinder hat und in einem Dorf lebt. Aleksandar Cupic ist für Anhänger der Studentischen Liste der Inbegriff eines Volksvertreters. Nun ist er vorerst der mächtigste Mann in Serbien. Von…",
-          "publishedAt": "2026-11-19T15:08:53.000Z",
-          "titleEn": "Cupic: Organic farmer, lecturer and now President of the Parliament of Serbia",
-          "summaryEn": "A biological farmer and lecturer who has six children and lives in a village. For the followers of the Student List, Aleksandar Cupic is a representative of the people. Now he's the most powerful man in Serbia. From..."
-        },
-        {
-          "title": "Erstmals weltweit mehr Energie zum Kühlen als zum Heizen verbraucht",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/energieverbrauch-weltweit-heizen-kuehlen-100.html",
-          "summary": "Aufgrund der steigenden Temperaturen auf der Erde wurde laut Internationaler Energieagentur weltweit erstmals mehr Energie zum Kühlen als zum Heizen verbraucht. Der \"World Energy Outlook\" geht auch auf die Auswirkungen…",
-          "publishedAt": "2026-11-19T14:51:14.000Z",
-          "titleEn": "For the first time in the world, more energy is used for cooling than heating",
-          "summaryEn": "For the first time ever, the International Energy Agency says that because of rising temperatures on earth, more energy was used to cool than to heat. The World Energy Outlook also looks at the impacts..."
         }
       ]
     },
@@ -99,97 +83,77 @@
         "homepage": "https://www.spiegel.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-19T18:49:15.336Z",
+      "fetchedAt": "2026-11-20T06:52:30.788Z",
       "items": [
         {
-          "title": "Fifa-Spitze: Philippe Diallo und Kohzo Tashima fordern Infantino heraus",
-          "link": "https://www.spiegel.de/sport/fifa-spitze-philippe-diallo-und-kohzo-tashima-fordern-infantino-heraus-a-1a75be7e-d1c7-44de-b757-40e59817be63#ref=rss",
-          "summary": "Jetzt ist es offiziell: Zwei Kandidaten treten bei der Wahl im März gegen den Fifa-Präsidenten Infantino an – der Franzose Diallo und der Japaner Tashima. Derweil erhöhen die Europäer weiter den Druck auf den Fifa-Boss.",
-          "image": "https://cdn.prod.www.spiegel.de/images/6ea5af84-035e-443c-a3c0-b6dcdb3cdd69_w520_r2.08_fpx33.34_fpy50.jpg",
-          "publishedAt": "2026-11-19T18:11:00.000Z",
-          "titleEn": "FIFA top: Philippe Diallo and Kohzo Tashima are challenging Infantino",
-          "summaryEn": "Now it's official: Two candidates are up for election in March against FIFA president Infantino, Frenchman Diallo and Japaneseman Tashima. In the meantime, the Europeans are increasing the pressure on the FIFA boss."
+          "title": "Black Friday lässt die Deutschen kalt",
+          "link": "https://www.spiegel.de/wirtschaft/black-friday-laesst-die-deutschen-kalt-a-5da73fc6-7a8c-401c-9199-0343e4c9c726#ref=rss",
+          "summary": "Grelle Rabattversprechen, Countdown-Uhren, rot durchgestrichene Preise: Der Black Friday verspricht Schnäppchen ohne Ende. Die Konsumenten in Deutschland möchten sich dem Hype nicht anschließen.",
+          "image": "https://cdn.prod.www.spiegel.de/images/3d25553e-bc50-4123-9fb8-aadb9454b71a_w520_r2.08_fpx33.93_fpy50.jpg",
+          "publishedAt": "2026-11-20T06:28:00.000Z"
         },
         {
-          "title": "»GTA 6« im Newsblog: So testet der SPIEGEL »GTA 6«",
-          "link": "https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-bundeskanzler-merz-in-vice-city-so-springt-die-politik-auf-den-gta-6-hype-auf-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss",
-          "summary": "Ein neunköpfiges SPIEGEL-Team berichtet über die wichtigsten News und Hintergründe rund um den »GTA 6«-Release. Ein Blick hinter die Kulissen des Tests – und die neuesten Erkenntnisse. Der Liveblog (ohne Spoiler).",
-          "image": "https://cdn.prod.www.spiegel.de/images/02d8627e-0205-461c-bf2f-b65e4adafb92_w520_r2.08_fpx35.32_fpy54.95.jpg",
-          "publishedAt": "2026-11-19T18:10:00.000Z",
-          "titleEn": "⁇ GTA 6 ⁇  in the news blog: This is how the SPIEGEL tests  ⁇ Gta 6 ⁇",
-          "summaryEn": "A nine-member SPIEGEL team reports on the main news and background surrounding the  ⁇ GTA 6 ⁇  release. A look behind the scenes of the test and the latest findings. The live blog (without spoilers)."
+          "title": "Wetter: Regen, Regen, Regen und vielleicht ein bisschen Schnee",
+          "link": "https://www.spiegel.de/panorama/wetter-regen-regen-regen-und-vielleicht-ein-bisschen-schnee-a-98408f2b-f57f-481e-897f-574d3636e1e8#ref=rss",
+          "summary": "Es ist der erste große Winterdiensteinsatz: In Hamburg streut die Stadtreinigung wichtige Straßen. Die Menschen müssen sich auf Frost und Glätte einstellen. Auch im Süden wird es ungemütlich.",
+          "image": "https://cdn.prod.www.spiegel.de/images/5de45589-05dc-4ba4-89ff-ffa3f271fb37_w520_r2.08_fpx69.99_fpy54.99.jpg",
+          "publishedAt": "2026-11-20T06:19:00.000Z"
         },
         {
-          "title": "Friedrich Merz lästert über Shenzhen-Treffen als »Bildtermin« – und sichert Kyjiw weitere Unterstützung zu",
-          "link": "https://www.spiegel.de/politik/deutschland/friedrich-merz-laestert-ueber-shenzhen-treffen-als-bildtermin-und-sichert-kyjiw-weitere-unterstuetzung-zu-a-1a623a3e-8112-4d7c-b509-2c29d1453e65#ref=rss",
-          "summary": "Deutliche Worte an Moskau, mehr Hilfe für Kyjiw: Beim Ukrainegipfel in Berlin haben 40 Länder Solidarität für das angegriffene Land demonstriert. Laut Kanzler Friedrich Merz sind die russischen Verluste enorm.",
-          "image": "https://cdn.prod.www.spiegel.de/images/5329f29a-38ad-40dd-9dd3-7b33d2d1afda_w520_r2.08_fpx60.34_fpy44.99.jpg",
-          "publishedAt": "2026-11-19T17:56:00.000Z",
-          "titleEn": "Friedrich Merz slanders Shenzhen meetings as a \"picture date\" and assures Kyjiw of further support",
-          "summaryEn": "A clear message to Moscow, more aid to Kiev: at the Ukrainian summit in Berlin, 40 countries showed solidarity with the attacked country. According to Chancellor Friedrich Merz, the Russian losses are enormous."
+          "title": "Saudi-Arabien: Huthi-Angriff beschädigt höchsten Wolkenkratzer in Riad",
+          "link": "https://www.spiegel.de/ausland/saudi-arabien-huthi-angriff-beschaedigt-hoechsten-wolkenkratzer-in-riad-a-7e74aa9f-79f3-4d27-b131-2b661434dbfc#ref=rss",
+          "summary": "Die jemenitische Huthi-Miliz hat das Finanzzentrum von Riad ins Visier genommen. Dabei kam es Berichten zufolge zu Schäden an einem 80-stöckigen Hochhaus. Zudem seien Trümmer einer abgefangenen Rakete niedergegangen.",
+          "image": "https://cdn.prod.www.spiegel.de/images/312ce30d-f322-48a8-81ab-e5ae6a2ebcf8_w520_r2.08_fpx53.92_fpy54.87.jpg",
+          "publishedAt": "2026-11-20T06:14:00.000Z"
         },
         {
-          "title": "London: Ein Mann bot seine Frau online zum Missbrauch an – vier Mittäter schuldig gesprochen",
-          "link": "https://www.spiegel.de/panorama/justiz/london-ein-mann-bot-seine-frau-online-zum-missbrauch-an-vier-mittaeter-schuldig-gesprochen-a-9241ec7a-518f-4682-b643-0c44f708d600#ref=rss",
-          "summary": "Über 15 Jahre hat ein 50-Jähriger seine damalige Ehefrau sediert, vergewaltigt und anderen Männern zum Missbrauch angeboten. Er hatte sich bereits schuldig bekannt. Nun wurden vier weitere Männer verurteilt.",
-          "image": "https://cdn.prod.www.spiegel.de/images/0dd9af58-1a15-4d23-8a1b-7db49c0c9ace_w520_r2.08_fpx49.33_fpy50.jpg",
-          "publishedAt": "2026-11-19T17:52:00.000Z",
-          "titleEn": "London: A man offered his wife online for abuse to four accomplices",
-          "summaryEn": "For more than 15 years, a 50-year-old man seduced, raped, and offered to abuse his then-wife. He had already pleaded guilty. Now four more men have been convicted."
+          "title": "Erbschaftsteuer: CDU und SPD fordern schärfere Regeln für Steuerschlupflöcher",
+          "link": "https://www.spiegel.de/politik/deutschland/erbschaftsteuer-cdu-und-spd-fordern-schaerfere-regeln-fuer-steuerschlupfloecher-a-61bda154-e21b-4e27-b33b-d9d8433ea4d6#ref=rss",
+          "summary": "»Skandal mit Ansage«, »absurde Ausnahmen«: Neue Erkenntnisse über das Steuergeschenk für Springer-Chef Döpfner schrecken Koalitionspolitiker auf. Christ- und Sozialdemokraten fordern: Die Regeln müssen verschärft werden.",
+          "image": "https://cdn.prod.www.spiegel.de/images/1ad86a3e-828e-4440-ae1b-e86afe5fe3d9_w520_r2.08_fpx48.67_fpy45.jpg",
+          "publishedAt": "2026-11-20T05:57:00.000Z"
         },
         {
-          "title": "Constantin Schreiber: Wofür steht der Ex-Tagesschau-Sprecher?",
-          "link": "https://www.spiegel.de/kultur/tv/constantin-schreiber-wofuer-steht-der-ex-tagesschau-sprecher-a-949a01f3-a318-4a15-a54c-b1cb7e28c41b#ref=rss",
-          "summary": "Der Ex-»Tagesschau«-Sprecher Constantin Schreiber baut sich seit Jahren mit populistisch angehauchten Videos eine YouTube-Karriere auf. Beobachtungen über einen Mann, der fast alles tut, um stattzufinden.",
-          "image": "https://cdn.prod.www.spiegel.de/images/ceda6323-4895-42f5-8945-e46eea11f059_w520_r2.08_fpx52.66_fpy52.98.jpg",
-          "publishedAt": "2026-11-19T17:39:00.000Z",
-          "titleEn": "Constantin Schreiber: What does the ex-speaker stand for?",
-          "summaryEn": "Former daily talk show host Constantin Schreiber has been building a YouTube career with populist videos for years. Observations of a man who does almost anything to make it happen."
+          "title": "Lufthansa will an deutschen Drehkreuzen rund 1000 Stellen abbauen",
+          "link": "https://www.spiegel.de/wirtschaft/lufthansa-will-an-deutschen-drehkreuzen-rund-1000-stellen-abbauen-a-7be97521-a2ad-4a67-bc82-3c7453488916#ref=rss",
+          "summary": "Hiobsbotschaft für die Beschäftigten: Rund 1000 Stellen an den Lufthansa-Drehkreuzen Frankfurt am Main und München sollen wegfallen – wann und auf welchem Weg, ist noch offen.",
+          "image": "https://cdn.prod.www.spiegel.de/images/30bf4a00-c99e-4124-9c86-b8a50f83ef52_w520_r2.08_fpx33.35_fpy50.jpg",
+          "publishedAt": "2026-11-20T05:56:00.000Z"
         },
         {
-          "title": "News des Tages: Gipfel mit Xi, Putin und Trump, Ukraine-Unterstützer in Berlin, GTA 6",
-          "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-gipfel-mit-xi-putin-und-trump-ukraine-unterstuetzer-in-berlin-gta-6-a-9c7016e8-931c-4e2e-988f-9a72b168b248#ref=rss",
-          "summary": "Große Inszenierung, wenig Ergebnisse: Xi, Trump und Putin zelebrieren ihren historischen Gipfel. Der Kanzler kontert mit einem Aufmarsch der Ukraineunterstützer. Und: Wie gut ist »GTA 6«? Das ist die Lage am…",
-          "image": "https://cdn.prod.www.spiegel.de/images/070ce14a-c66e-472a-932e-508ee106cb2f_w520_r2.08_fpx55_fpy38.jpg",
-          "publishedAt": "2026-11-19T17:33:00.000Z",
-          "titleEn": "News of the day: summit with Xi, Putin and Trump, Ukraine supporters in Berlin, GTA 6",
-          "summaryEn": "Great staging, few results: Xi, Trump and Putin are celebrating their historic summit. The chancellor counteracts with an advance of Ukrainian supporters. And how good is GTA 6? This is the situation at the..."
+          "title": "Volkswagen: Harte Einschnitte – das kommt in Tarifrunde auf Beschäftigte zu",
+          "link": "https://www.spiegel.de/wirtschaft/volkswagen-harte-einschnitte-das-kommt-in-tarifrunde-auf-beschaeftigte-zu-a-87d9642c-3a9f-4bdc-a0e1-d03e40436839#ref=rss",
+          "summary": "In den anstehenden Tarifverhandlungen will Volkswagen harte Einschnitte durchsetzen. IG Metall und Betriebsrat rechnen vor, was konkret auf die Beschäftigten zukommt.",
+          "image": "https://cdn.prod.www.spiegel.de/images/e0a62065-2024-44c1-9c5f-fc236c8d5e71_w520_r2.08_fpx33.33_fpy49.98.jpg",
+          "publishedAt": "2026-11-20T05:42:00.000Z"
         },
         {
-          "title": "Audi A2, Ente, Renault Twingo und Co.: Alles nur billiger Abklatsch?",
-          "link": "https://www.spiegel.de/mobilitaet/audi-a2-ente-renault-twingo-und-co-alles-nur-billiger-abklatsch-a-043c2ef5-00ba-439f-8c5d-1689e0f70a2b#ref=rss",
-          "summary": "Die Autoindustrie lockt Kunden mit elektrischen Neuauflagen ikonischer Fahrzeuge. Sollen hier nur nostalgische Gefühle zu Geld gemacht werden oder halten die Neuen, was sie versprechen? Zehn Modelle im…",
-          "image": "https://cdn.prod.www.spiegel.de/images/6c9dcac5-0aa4-4c26-a94a-65d68d6febf3_w520_r2.08_fpx49_fpy44.jpg",
-          "publishedAt": "2026-11-19T17:25:00.000Z",
-          "titleEn": "Audi A2, Duck, Renault Twingo and Co.: All but cheap?",
-          "summaryEn": "The automotive industry is attracting customers with new electric features of iconic vehicles. Is it just nostalgic feelings that should be turned into money, or are the new ones keeping their promises? Ten models in the..."
+          "title": "»GTA 6«: Hilfe, mein Kind ist erst 14, will aber unbedingt »GTA 6« spielen – Tipps für Eltern",
+          "link": "https://www.spiegel.de/netzwelt/web/gta-6-hilfe-mein-kind-ist-erst-14-will-aber-unbedingt-gta-6-spielen-tipps-fuer-eltern-a-c5e42856-4927-417a-a9e8-44073b1978a8#ref=rss",
+          "summary": "Die Gewalt ist angeblich gar nicht so krass und alle Schulfreunde dürfen auch spielen? Teenager behaupten vieles, damit sie das neue »GTA 6« erlaubt bekommen. Was Eltern zur Altersfreigabe des Spiels wissen sollten.",
+          "image": "https://cdn.prod.www.spiegel.de/images/c8136603-e73c-4259-b937-14ca459924aa_w520_r2.08_fpx51_fpy54.jpg",
+          "publishedAt": "2026-11-20T05:28:00.000Z"
         },
         {
-          "title": "Reform von Strafprozessen: Brechen in der Justiz neue Zeiten an?",
-          "link": "https://www.spiegel.de/panorama/justiz/reform-von-strafprozessen-brechen-in-der-justiz-neue-zeiten-an-a-27d573fa-5a56-43e4-81a0-48e50a4606b8#ref=rss",
-          "summary": "Die Bundesregierung drängt darauf, dass Gerichtsverfahren schneller gehen. Dafür sollen wichtige Vorschriften geändert werden. Anwalt Ali B. Norouzi sagt, wo er rote Linien sieht – zum Schutz von Mandanten.",
-          "image": "https://cdn.prod.www.spiegel.de/images/76306f2b-e28c-4883-afdd-04bd1df241d4_w520_r2.08_fpx67.06_fpy50.jpg",
-          "publishedAt": "2026-11-19T17:24:00.000Z",
-          "titleEn": "Reform of the criminal justice system: a new era for justice?",
-          "summaryEn": "The federal government is pressing for faster court proceedings. In order to do this, important rules are to be amended. Attorney Ali B. Norouzi says where he sees red lines  ⁇  to protect clients."
+          "title": "Türkei: Wie Recep Tayyip Erdoğan gegen die letzten unabhängigen Medien vorgeht",
+          "link": "https://www.spiegel.de/ausland/tuerkei-wie-recep-tayyip-erdogan-gegen-die-letzten-unabhaengigen-medien-vorgeht-a-13f4b846-9ec2-4273-9441-7071c7227e7e#ref=rss",
+          "summary": "Die türkische Regierung geht verstärkt gegen die letzten unabhängigen Medien vor. Seit Dienstag steht Sözcü TV unter staatlicher Zwangsverwaltung. Für Präsident Erdoğan könnte das ein weiterer Vorteil bei der nächsten…",
+          "image": "https://cdn.prod.www.spiegel.de/images/e47b26d4-cd3d-4124-85cc-506de2484269_w520_r2.08_fpx66.67_fpy50.jpg",
+          "publishedAt": "2026-11-20T05:27:00.000Z"
         },
         {
-          "title": "KI-Firma Anthropic startet mit deutlichem Kursplus an der Börse",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/ki-firma-anthropic-startet-mit-deutlichem-kursplus-an-der-boerse-a-47549ed1-4e51-43b0-84c4-af4d0b5c2318#ref=rss",
-          "summary": "Anthropic ist keine sechs Jahre alt und punktet an der Börse mit einer Bewertung von zwei Billionen Dollar. Der Rekordbörsengang macht viele Mitarbeiter zu Millionären – zumindest auf dem Papier.",
-          "image": "https://cdn.prod.www.spiegel.de/images/1452acf7-ab9c-4e99-81c4-06a393f90b6f_w520_r2.08_fpx65.35_fpy50.jpg",
-          "publishedAt": "2026-11-19T17:06:00.000Z",
-          "titleEn": "AI company Anthropic is going public with a sharp price drop",
-          "summaryEn": "Anthropic isn't six years old, and it's listed on the stock exchange with a valuation of two trillion dollars. The record-breaking stock market has made many employees millionaires, at least on paper."
+          "title": "Deutschland: Umfrage zeigt geringe Zustimmung zur Vergesellschaftung von Wohnraum",
+          "link": "https://www.spiegel.de/wirtschaft/deutschland-umfrage-zeigt-geringe-zustimmung-zur-vergesellschaftung-von-wohnraum-a-8aa19d7d-061c-4d4e-8b44-a6270a1a59cf#ref=rss",
+          "summary": "In Berlin will Rot-Grün-Rot Wohnraum verstaatlichen. Ein Modell für ganz Deutschland? Eine Umfrage zeigt: Nur eine Minderheit der Bundesbürger hält die Pläne für sinnvoll. Die meisten setzen auf etwas anderes.",
+          "image": "https://cdn.prod.www.spiegel.de/images/6ccc4e72-8ab9-4740-a9bf-5db6ca1af5a6_w520_r2.08_fpx45.33_fpy49.99.jpg",
+          "publishedAt": "2026-11-20T05:20:00.000Z"
         },
         {
-          "title": "Niedersachsen: SPD-Justizministerin Kathrin Wahlmann tritt zurück",
-          "link": "https://www.spiegel.de/politik/deutschland/niedersachsen-spd-justizministerin-kathrin-wahlmann-tritt-zurueck-a-21bfe8d2-63a7-46c0-9aad-ec1df55bbf7e#ref=rss",
-          "summary": "Hat Kathrin Wahlmann Einfluss auf ein Verfahren gegen einen korrupten Staatsanwalt genommen? Niedersachsens Justizministerin stand zuletzt unter Druck, konnte Vorwürfe nicht entkräften. Nun legt die SPD-Politikerin ihr…",
-          "image": "https://cdn.prod.www.spiegel.de/images/90ce6c3d-d3fc-4a53-8660-15bc92ca97f2_w520_r2.08_fpx46_fpy41.jpg",
-          "publishedAt": "2026-11-19T16:59:00.000Z",
-          "titleEn": "Netherlands: SPD Justice Minister Kathrin Wahlmann resigns",
-          "summaryEn": "Has Kathrin Wahlmann influenced a trial against a corrupt prosecutor? The Minister of Justice of Lower Saxony was under pressure last week and could not dismiss the accusations. Now the SPD politician is putting her..."
+          "title": "China und Deutschland: Wie gefährlich ist Pekings Spionage für die Bundesrepublik",
+          "link": "https://www.spiegel.de/politik/deutschland/china-und-deutschland-wie-gefaehrlich-ist-pekings-spionage-fuer-die-bundesrepublik-a-1e42422e-9b9e-49c4-b43e-473fe7a343b5#ref=rss",
+          "summary": "China will zur größten Macht der Welt werden. Dafür sammelt Peking Informationen in Wirtschaft, Wissenschaft und Politik. Wie groß die Gefahr für Deutschland ist – und wie wir uns wehren können.",
+          "image": "https://cdn.prod.www.spiegel.de/images/c0a78cc1-f178-4ae7-84c8-e6aa5a1d5663_w520_r2.08_fpx65.35_fpy49.98.jpg",
+          "publishedAt": "2026-11-20T05:16:00.000Z"
         }
       ]
     }
