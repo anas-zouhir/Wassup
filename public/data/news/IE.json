@@ -8,21 +8,63 @@
         "homepage": "https://www.rte.ie/news/",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-20T06:52:42.089Z",
+      "fetchedAt": "2026-11-20T18:50:40.488Z",
       "items": [
         {
-          "title": "Britain, EU set to agree to reset but divisions persist",
+          "title": "Poland condemns Russian airspace 'provocation'",
+          "link": "https://www.rte.ie/news/2026/1120/1600008-poland-russia-airspace-violations/",
+          "summary": "Russia violated Poland's airspace overnight with three objects ⁠that were likely two missiles and a drone, the Polish defence minister has said.",
+          "image": "https://www.rte.ie/images/00255fd7-800.jpg",
+          "publishedAt": "2026-11-20T12:07:28.000Z"
+        },
+        {
+          "title": "EU and UK hail 'landmark' deal at Brussels summit",
           "link": "https://www.rte.ie/news/uk/2026/1120/1599944-uk-eu-summit/",
-          "summary": "Britain and the European Union are set to agree on easing food trade and youth mobility in a reset of ties at a summit in Brussels",
-          "image": "https://www.rte.ie/images/00255f55-800.jpg",
+          "summary": "Britain and the European Union have signed three agreements at a summit in Brussels that change the terms of the Brexit arrangements.",
+          "image": "https://www.rte.ie/images/0025609e-800.jpg",
           "publishedAt": "2026-11-20T04:35:36.000Z"
         },
         {
-          "title": "Over 250,000 taken off hospital waiting lists since 2024",
-          "link": "https://www.rte.ie/news/2026/1120/1599924-hospital-waiting-lists/",
-          "summary": "Over a quarter of a million people have been taken off hospital waiting lists since January 2024 because they failed to respond to validation forms sent by post.",
-          "image": "https://www.rte.ie/images/001cc58a-800.jpg",
-          "publishedAt": "2026-11-20T00:00:00.000Z"
+          "title": "Parents Council raises concern over school transport fees",
+          "link": "https://www.rte.ie/news/politics/2026/1120/1599942-school-fees-politics/",
+          "summary": "Tánaiste Simon Harris has said the most vulnerable children and lowest income families will have free school bus transport following yesterday's announcement that school transport fees would be increasing.",
+          "image": "https://www.rte.ie/images/0008cb54-800.jpg",
+          "publishedAt": "2026-11-20T01:52:54.000Z"
+        },
+        {
+          "title": "New late-night working rules for young people",
+          "link": "https://www.rte.ie/news/business/2026/1120/1600046-new-late-night-working-rules-for-young-people/",
+          "summary": "New late-night working rules have been announced for young people employed in the food and beverage sector.",
+          "image": "https://www.rte.ie/images/0025608d-800.jpg",
+          "publishedAt": "2026-11-20T16:18:35.000Z"
+        },
+        {
+          "title": "What the EU-UK deal on food means for Ireland",
+          "link": "https://www.rte.ie/news/analysis-and-comment/2026/1120/1600018-ireland-uk-brexit/",
+          "summary": "Britain and the EU signed three agreements today that change the terms of the Brexit arrangements. One of those will focus on the cross-border trade of food. Agriculture and Consumer Affairs Correspondent Aengus Cox…",
+          "image": "https://www.rte.ie/images/00246fe6-800.jpg",
+          "publishedAt": "2026-11-20T13:46:59.000Z"
+        },
+        {
+          "title": "Lee Reeves' funeral told 'his legacy will live on'",
+          "link": "https://www.rte.ie/news/munster/2026/1120/1600006-lee-reeves-funeral/",
+          "summary": "The funeral of boxer Lee Reeves has heard that he \"touched so many lives\" and his \"legacy will live on\".",
+          "image": "https://www.rte.ie/images/0025606d-800.jpg",
+          "publishedAt": "2026-11-20T11:48:43.000Z"
+        },
+        {
+          "title": "Pill for advanced pancreatic cancer shows promise",
+          "link": "https://www.rte.ie/news/health/2026/1120/1600064-pill-for-advanced-pancreatic-cancer-shows-promise/",
+          "summary": "A once-a-day pill for advanced pancreatic cancer has wiped out the disease in one in 12 patients when combined with chemotherapy, a clinical trial suggests.",
+          "image": "https://www.rte.ie/images/00254b3b-800.jpg",
+          "publishedAt": "2026-11-20T18:28:05.000Z"
+        },
+        {
+          "title": "Madra Salach reflect on Rolling Stone UK Awards win",
+          "link": "https://www.rte.ie/entertainment/music/2026/1120/1599943-madra-salach-wins-rolling-stone-breakthrough-award/",
+          "summary": "Madra Salach frontman Paul Banks has spoken about the band's rapid rise and the privilege of making music for a living following the Dublin folk group's Breakthrough Award win at the Rolling Stone UK Awards in London.",
+          "image": "https://www.rte.ie/images/00255f54-800.jpg",
+          "publishedAt": "2026-11-20T04:26:12.000Z"
         },
         {
           "title": "Relatives of Omagh bombing victims 'beyond despair'",
@@ -32,53 +74,11 @@
           "publishedAt": "2026-11-20T06:00:00.000Z"
         },
         {
-          "title": "CCPC reminds businesses of voucher laws after complaints",
-          "link": "https://www.rte.ie/news/2026/1120/1599935-ireland-gift-vouchers/",
-          "summary": "The Competition and Consumer Protection Commission has written to businesses across the country to remind them of the laws around gift vouchers.",
-          "image": "https://www.rte.ie/images/0023899c-800.jpg",
-          "publishedAt": "2026-11-20T00:00:00.000Z"
-        },
-        {
-          "title": "'The beach by my house does not exist anymore'",
-          "link": "https://www.rte.ie/news/environment/2026/1120/1599870-cop31-climate-change-new-calendonia/",
-          "summary": "As the COP31 climate change conference draws to a close and negotiators work to confirm a final text agreement, people who are already living with the impacts of climate change are hoping to see action on the horizon.",
-          "image": "https://www.rte.ie/images/00255ec1-800.jpg",
-          "publishedAt": "2026-11-20T06:00:01.000Z"
-        },
-        {
-          "title": "Ireland v South Africa: All You Need to Know",
-          "link": "https://www.rte.ie/sport/rugby/2026/1118/1599692-ireland-v-south-africa-all-you-need-to-know/",
-          "summary": "Here's everything you need to know ahead of Ireland's final home game of 2026 against the world champions South Africa.",
-          "image": "https://www.rte.ie/images/00255d2d-800.jpg",
-          "publishedAt": "2026-11-18T17:50:04.000Z"
-        },
-        {
-          "title": "TikTok launches tool to detect use of deepfakes globally",
-          "link": "https://www.rte.ie/news/business/2026/1120/1599945-tiktok-deep-fakes/",
-          "summary": "TikTok announced the global launch of its deepfake-detection tool for public figures as the social media platform seeks to curb AI-generated disinformation ahead of a wave of European elections next year.",
-          "image": "https://www.rte.ie/images/0013a580-800.jpg",
-          "publishedAt": "2026-11-20T05:40:28.000Z"
-        },
-        {
-          "title": "Parents Council raises concern over school transport fees",
-          "link": "https://www.rte.ie/news/politics/2026/1120/1599942-school-fees-politics/",
-          "summary": "The National Parents Council has expressed concern over planned hikes in school transport fees, saying it only learned of the proposal yesterday, despite the measure being contained in last month's Budget.",
-          "image": "https://www.rte.ie/images/0008cb54-800.jpg",
-          "publishedAt": "2026-11-20T01:52:54.000Z"
-        },
-        {
-          "title": "Madra Salach win Rolling Stone Breakthrough Award",
-          "link": "https://www.rte.ie/entertainment/music/2026/1120/1599943-madra-salach-wins-rolling-stone-breakthrough-award/",
-          "summary": "Dublin folk band Madra Salach have won the Breakthrough Award at the Rolling Stone UK Awards in London.",
-          "image": "https://www.rte.ie/images/00255f54-800.jpg",
-          "publishedAt": "2026-11-20T04:26:12.000Z"
-        },
-        {
-          "title": "Adeleke parts company with 'Coach Flo', making UCLA move",
-          "link": "https://www.rte.ie/sport/athletics/2026/1119/1599923-adeleke-parts-company-with-coach-flo-making-ucla-switch/",
-          "summary": "Rhasidat Adeleke has announced that she is leaving the University of Texas and parting company with coach Edrick Floreal, to move to the University of California, Los Angeles (UCLA).",
-          "image": "https://www.rte.ie/images/00255f3e-800.jpg",
-          "publishedAt": "2026-11-19T20:36:48.000Z"
+          "title": "Experts recognise climate change as 'health emergency'",
+          "link": "https://www.rte.ie/news/2026/1120/1600039-climate-health/",
+          "summary": "More than 800 medical professionals have signed a petition calling on the Government to recognise climate change as a health emergency.",
+          "image": "https://www.rte.ie/images/00256046-800.jpg",
+          "publishedAt": "2026-11-20T15:38:58.000Z"
         }
       ]
     },
@@ -89,77 +89,77 @@
         "homepage": "https://www.irishtimes.com",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-20T06:52:42.381Z",
+      "fetchedAt": "2026-11-20T18:50:41.129Z",
       "items": [
         {
-          "title": "Church services",
-          "link": "https://www.irishtimes.com/ireland/social-affairs/2026/11/20/church-services/",
-          "summary": "Week beginning Saturday, November 21st, 2026",
-          "image": "https://www.irishtimes.com/resizer/v2/IN7OZZ6E2NGO5KX2KLF2SIQGJU.png?auth=d4b9e121d137a9aeef92fc18438df403b5c177f6a3855de62a93ccfae6ccb05d&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-20T06:00:01.000Z"
+          "title": "Status yellow rain warnings for three counties this weekend",
+          "link": "https://www.irishtimes.com/ireland/2026/11/20/status-yellow-rain-warnings-for-three-counties-this-weekend/",
+          "summary": "Unsettled weather expected with possible localised flooding and difficult travelling conditions",
+          "image": "https://www.irishtimes.com/resizer/v2/GDXZZGP3ONHTLOMVN3N567VPQQ.jpg?auth=3cfc9c529116ced4361ebabd237794b2b9b88b619dd412852d6a858f15fe831e&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-20T18:08:51.000Z"
         },
         {
-          "title": "Dublin City Council commits to reviewing new social housing rents",
-          "link": "https://www.irishtimes.com/ireland/dublin/2026/11/19/dublin-city-council-commits-to-reviewing-new-social-housing-rents/",
-          "summary": "Heated exchanges at annual South Dublin County Council budget meeting over rent increases",
-          "image": "https://www.irishtimes.com/resizer/v2/OIVDJLCQ4RAL5BHDYUWLSZW53Q.jpg?auth=a38f40198af001cd234c0223cdd4256b5e39b8e35e672abdba39af5ca404e656&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-19T21:11:35.000Z"
+          "title": "Dún Laoghaire and Howth cancel New Year’s Eve fireworks as Fáilte Ireland pulls funding",
+          "link": "https://www.irishtimes.com/culture/2026/11/20/dun-laoghaire-and-howth-cancel-new-years-eve-fireworks-as-failte-ireland-pulls-funding/",
+          "summary": "Group says the fireworks did not deliver the level of tourism return required to support continued investment",
+          "image": "https://www.irishtimes.com/resizer/v2/YSHNOKTXBNE4VOJB3ZPZ5M46TI.jpg?auth=ded877d7c099d35ffa184af73e3d9a2e24c8b8229ff120fc53c00fd6030a996d&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-20T16:28:28.000Z"
         },
         {
-          "title": "Hiring of more UHG mental health staff urged following man’s death after suicidal ideation",
-          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/19/hiring-of-more-uhg-mental-health-staff-urged-following-mans-death-after-suicidal-ideation/",
-          "summary": "Inquest told Adam Loughnane died by drowning in February 2025 after seeking help at UHG Emergency Department",
-          "image": "https://www.irishtimes.com/resizer/v2/ISLYV4AJSNEGLDA6KSX7L64D34.jpeg?auth=05e2a47cc8a38df1c6c4f6f431f985a5d4341951fb4fe8d151eb62915b255c0b&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-19T21:05:19.000Z"
+          "title": "Drugs squad garda injured in high-speed chase awarded nearly €60,000",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/20/drugs-squad-garda-injured-in-high-speed-chase-awarded-nearly-60000/",
+          "summary": "Vehicle was ‘violently rammed’ during pursuit on the M50 in April 2016",
+          "image": "https://www.irishtimes.com/resizer/v2/HNER6467NJFORGFF6AGMHJWT4Y.jpg?auth=b27aaa4e0c16d27a26528ca853623b2f1c0c7c3843e0bf8bcbcedb36a666d482&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-20T15:33:56.000Z"
         },
         {
-          "title": "Detective found metal bar near where Scarlett Faulkner was attacked, murder trial hears",
-          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/19/detective-found-metal-bar-near-where-scarlett-faulkner-was-attacked-murder-trial-hears/",
-          "summary": "Teenager and 41-year-old woman accused of beating 28-year-old to death in Co Tipperary in March",
-          "image": "https://www.irishtimes.com/resizer/v2/YPOUIDW5ABGZ7AF3LCZ3T6TJV4.jpg?auth=81fd2be4a4f963a653bd2e9483ff9764f2e43b67f894ad727c2f9cae9eb7eb6f&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-19T20:51:59.000Z"
+          "title": "‘Boxer, soldier and inspiration’ Lee Reeves laid to rest in Limerick with guard of honour",
+          "link": "https://www.irishtimes.com/ireland/2026/11/20/boxer-soldier-and-inspiration-lee-reeves-laid-to-rest-in-limerick-with-guard-of-honour/",
+          "summary": "Professional fighter died on Monday three months after suffering catastrophic brain injury in the ring at 3Arena",
+          "image": "https://www.irishtimes.com/resizer/v2/775BLXX2LFJJVIRIOMZTRUXCJA.jpg?auth=365e2edbb81fcf977d4e9c74dfd72373e73065b6de430a1beadf1f1a61daa37a&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-20T15:24:51.000Z"
         },
         {
-          "title": "‘So unsure of my future’ – Government urged to scrap controversial citizenship changes",
-          "link": "https://www.irishtimes.com/ireland/2026/11/19/so-unsure-of-my-future-government-urged-to-scrap-controversial-citizenship-changes/",
-          "summary": "Total of 115 organisations sign joint statement against Minister for Justice’s proposals",
-          "image": "https://www.irishtimes.com/resizer/v2/ZTRT35DDYREU7HHOCEC4HK2TLE.jpg?auth=061663b853b6bcaa2314ef9b8fa36d892241a568f8d33fc493a6cbe1029fe42d&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-19T20:32:20.000Z"
+          "title": "Irish citizen admits killing ex-wife in Hungarian court",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/20/irish-citizen-admits-killing-ex-wife-in-hungarian-court/",
+          "summary": "David Anderson (45), originally from California, claimed he killed Megumi Anderson ‘accidentally’",
+          "image": "https://www.irishtimes.com/resizer/v2/YHJTW2LVRJE6ZJJOGPJEXESNTU.png?auth=e2804b8601990379fe5c71b5867c966309a4259bb7c90781bbc2d506add7da7b&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-20T14:25:44.000Z"
         },
         {
-          "title": "Male victims of domestic abuse say children being used as ‘central mechanism’ of control",
-          "link": "https://www.irishtimes.com/ireland/social-affairs/2026/11/19/male-victims-of-domestic-abuse-say-children-being-used-as-central-mechanism-of-control/",
-          "summary": "Trinity College Dublin research says fathers often fear losing contact with their children and describe access threats",
-          "image": "https://www.irishtimes.com/resizer/v2/MRLORFZXIVEBDDZCJQUISSVR3I.jpg?auth=bee9d0244d37a870572881e8429c5c91aa919915ad09d57b7285c076be823b2d&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-19T20:23:01.000Z"
+          "title": "Pro-Palestinian activist Fergie Chambers released on bail in Spain pending US extradition ruling",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/20/pro-palestinian-activist-fergie-chambers-released-on-bail-in-spain-pending-ruling-on-us-extradition/",
+          "summary": "Chambers’s former residence in south Dublin was raided by armed gardaí on Wednesday",
+          "image": "https://www.irishtimes.com/resizer/v2/CL4WZF67TRGKTKIV5VATFX372Q.jpg?auth=52c15d20de3eece66df8e3afe52ef03599b5d2b745f7fa00f2e9cf26ee3f5b7f&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-20T14:22:53.000Z"
         },
         {
-          "title": "Seán Rooney inquest: Soldier denies ‘trying to deceive’ as discrepancies pointed out",
-          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/19/sean-rooney-inquest-soldier-denies-trying-to-deceive-as-discrepancies-pointed-out/",
-          "summary": "Court hears evidence about what happened when two vehicles in convoy became separated in Lebanon in December 2022",
-          "image": "https://www.irishtimes.com/resizer/v2/WJWPOXFF4VDHTO2W7VFBLTQXZE.jpg?auth=b9e5256f91281d742930610621c9af8d97ad342a28e8df76f0e556eed7bf2cfc&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-19T19:49:32.000Z"
+          "title": "Joshua Allen faces ‘decision time’ over nine charges including assault, says judge",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/20/joshua-allen-faces-decision-time-over-nine-charges-including-assault-says-judge/",
+          "summary": "The 26-year-old is accused of various offences including assaulting two gardaí, dangerous driving and drug possession",
+          "image": "https://www.irishtimes.com/resizer/v2/R3M622PNA3KXKFRI7ZWRT4NSLU.jpg?auth=21fb48fc59a1ce7f586162484ca7ce8e5ae743815f80d7be9b08e3e152b529d6&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-20T09:44:17.000Z"
         },
         {
-          "title": "Police investigating safeguarding issues in Presbyterian Church contacted by 168 people",
-          "link": "https://www.irishtimes.com/crime-law/2026/11/19/police-investigating-safeguarding-issues-in-presbyterian-church-contacted-by-168-people/",
-          "summary": "Review last year found ‘serious and significant failings’ from 2009 to 2022",
-          "image": "https://www.irishtimes.com/resizer/v2/MNLT3TOI3BFTXICO6JMEQQBMBM?auth=b5fb7d0db33c544ccbb911434313333e9e447ac9cefb2e9f1c14caf31106377c&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-19T19:15:13.000Z"
+          "title": "Man jailed for three years for ‘savage, sustained assault’ on neighbour",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/20/man-jailed-for-three-years-for-savage-sustained-assault-on-neighbour/",
+          "summary": "Mihai Cazacu (46) told gardaí the injured party had provoked him by insulting his religion and calling him gay",
+          "image": "https://www.irishtimes.com/resizer/v2/Y5VII2MRGBDX3OWO64VTTNYGA4.jpg?auth=88f843ec6f60a50921406bcb6a5f5566f1763061e85799bf0c8ad05c7aed688e&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-20T09:00:00.000Z"
         },
         {
-          "title": "Siptu leadership recommends members vote to accept new public sector pay deal",
-          "link": "https://www.irishtimes.com/ireland/2026/11/19/siptu-leadership-recommends-members-vote-to-accept-new-public-sector-pay-deal/",
-          "summary": "Union’s national executive backs 10.75% pay increase, with ballots due to conclude in December",
-          "image": "https://www.irishtimes.com/resizer/v2/VAILA3H2XZQVHPEA2Y6WEUJF4A.jpg?auth=3a0da7baa3c67249547995481c3404ecd25a53647f94f6d067ea01b63420d582&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-19T18:24:56.000Z"
+          "title": "Air Corps commandant tells court he was framed over assault charge against superior",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/20/air-corps-commandant-tells-court-he-was-framed-over-assault-charge-against-superior/",
+          "summary": "Appellant claims two officers secretly ‘pressurised’ a captain to make improperly founded complaint against him",
+          "image": "https://www.irishtimes.com/resizer/v2/P3MCNLDUCQHXNTOQFAIIG7H5VU.jpg?auth=c52bd66dc2d23f8ac2482f663aabff7e45c8193cc488bd178a0d584c6e455b91&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-20T08:00:00.000Z"
         },
         {
-          "title": "Man pleads guilty to setting fire to Dublin city mosque",
-          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/19/man-pleads-guilty-to-setting-fire-to-dublin-city-mosque/",
-          "summary": "Faizan-e-Madinah Mosque on Talbot Street was target of arson attack by Saeid Khosroabadi last June",
-          "image": "https://www.irishtimes.com/resizer/v2/5QQG5IUDKBEKVBBTGZ55MFUTCU.JPG?auth=d770386b3318c0b29edffe8328d2ea8e1a6b03e824cd454851f71869cbba026e&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-19T17:55:54.000Z"
+          "title": "Man living in fear after attack in Dublin city centre left him with a broken jaw",
+          "link": "https://www.irishtimes.com/crime-law/2026/11/20/man-living-in-fear-after-attack-in-dublin-city-centre-left-him-with-a-broken-jaw/",
+          "summary": "Anthony Kerrigan says gardaí came across as indifferent when he reported assault",
+          "image": "https://www.irishtimes.com/resizer/v2/27YDI667ING65AVDINO4NYUL24.jpg?auth=25a090947ef264fc80f4a85954e746cb6a8d27ecfab890e3e1d056de1857f8d4&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-20T07:00:00.000Z"
         }
       ]
     },
@@ -170,71 +170,72 @@
         "homepage": "https://www.independent.ie",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-20T06:52:42.720Z",
+      "fetchedAt": "2026-11-20T18:50:40.946Z",
       "items": [
         {
-          "title": "COP31 draft drops ‘fossil fuel’ language as crunch climate talks near deadline",
-          "link": "https://www.independent.ie/world-news/cop31-draft-drops-fossil-fuel-language-as-crunch-climate-talks-near-deadline/a/164833574.html",
-          "summary": "Australia and Turkey defend the deal but say ‘fossil fuel’ words not needed",
-          "image": "https://prod-img.independent.ie/public/incoming/7p9krl-the-uk-pavilion-at-cop31-pic-credit-niall-mcdonald.jpeg/alternates/BASE_SIXTEEN_NINE/The%20UK%20Pavilion%20at%20COP31%20Pic%20Credit%20Niall%20McDonald.jpeg",
-          "publishedAt": "2026-11-20T06:45:00.000Z"
+          "title": "One-third of 18 to 24-year-olds were overweight or obese in 2024, CSO study finds",
+          "link": "https://www.independent.ie/irish-news/one-third-of-18-to-24-year-olds-were-overweight-or-obese-in-2024-cso-study-finds/a/164852880.html",
+          "summary": "Children and Young Persons Hub also revealed that ‘child-specific deprivation rate’ increased from 2021 to 2024",
+          "image": "https://prod-img.independent.ie/public/incoming/793xcy-dieting-is-not-effective-in-treating-obesity-argues-kate-manne-in-her-new-book-unshrinking/alternates/BASE_SIXTEEN_NINE/Dieting%20is%20not%20effective%20in%20treating%20obesity%20%20argues%20Kate%20Manne%20in%20her%20new%20book%20Unshrinking",
+          "publishedAt": "2026-11-20T18:25:00.000Z"
         },
         {
-          "title": "‘Having my mother looking down on us means a lot’ - Two Clare bars win big at Irish Pub Awards",
-          "link": "https://www.independent.ie/county/clare/having-my-mother-looking-down-on-us-means-a-lot-two-clare-bars-win-big-at-irish-pub-awards/a/164815222.html",
-          "image": "https://prod-img.independent.ie/public/incoming/owshbc-l-to-r-diana-and-adrian-fleming-of-the-monks-well-and-mickey-and-johnny-wilson-of-friels-pub./alternates/BASE_SIXTEEN_NINE/L%20to%20R%20Diana%20and%20Adrian%20Fleming%20of%20The%20Monks%20Well%20and%20Mickey%20and%20Johnny%20Wilson%20of%20Friels%20Pub.",
-          "publishedAt": "2026-11-20T06:40:00.000Z"
+          "title": "Wicklow’s Aaron Bolger named Galway United Player of the Year after impressive season on the pitch",
+          "link": "https://www.independent.ie/county/wicklow/wicklows-aaron-bolger-named-galway-united-player-of-the-year-after-impressive-season-on-the-pitch/a/164885307.html",
+          "image": "https://prod-img.independent.ie/public/incoming/mfzioo-3593850.jpg/alternates/BASE_SIXTEEN_NINE/3593850.jpg",
+          "publishedAt": "2026-11-20T18:05:00.000Z"
         },
         {
-          "title": "Plans submitted for new shop in Galway city",
-          "link": "https://www.independent.ie/county/galway/plans-submitted-for-new-shop-in-galway-city/a/164810698.html",
-          "image": "https://prod-img.independent.ie/public/incoming/ibejmb-west-city-centre-westside-galway-city-seamus-quirke-road/alternates/BASE_SIXTEEN_NINE/West%20City%20Centre%20Westside%20galway%20city%20seamus%20quirke%20road",
-          "publishedAt": "2026-11-20T06:40:00.000Z"
+          "title": "Ireland v South Africa: Our rugby writers predict the score for the heavyweight Nations Championship duel",
+          "link": "https://www.independent.ie/sport/rugby/ireland-v-south-africa-our-rugby-writers-predict-the-score-for-the-heavyweight-nations-championship-duel/a/164743284.html",
+          "image": "https://prod-img.independent.ie/public/incoming/mm81y0-3298126.jpg/alternates/BASE_SIXTEEN_NINE/3298126.jpg",
+          "publishedAt": "2026-11-20T18:00:00.000Z"
         },
         {
-          "title": "Contractor asked to open up both lanes of major Wexford street to help businesses over Christmas period",
-          "link": "https://www.independent.ie/county/wexford/contractor-asked-to-open-up-both-lanes-of-major-wexford-street-to-help-businesses-over-christmas-period/a/164804860.html",
-          "image": "https://prod-img.independent.ie/public/incoming/r3ntzb-file87wvin0dik116oig9k75/alternates/BASE_SIXTEEN_NINE/file87wvin0dik116oig9k75",
-          "publishedAt": "2026-11-20T06:40:00.000Z"
+          "title": "Ten inmates charged with seriously assaulting Danielle McLaughlin’s killer in prison",
+          "link": "https://www.independent.ie/irish-news/crime/ten-inmates-charged-with-seriously-assaulting-danielle-mclaughlins-killer-in-prison/a/164883543.html",
+          "image": "https://prod-img.crimeworld.com/public/incoming/bpy9a7-killer-vikat-bhagat.jpeg/alternates/BASE_SIXTEEN_NINE/Killer%20Vikat%20Bhagat.jpeg",
+          "publishedAt": "2026-11-20T17:48:19.000Z"
         },
         {
-          "title": "Wexford gardaí warn Black Friday ‘ghost store’ scams targeting Irish shoppers",
-          "link": "https://www.independent.ie/county/wexford/wexford-gardai-warn-black-friday-ghost-store-scams-targeting-irish-shoppers/a/164754426.html",
-          "summary": "Warning comes as Invest Wexford highlight benefits of shopping locally",
-          "image": "https://prod-img.independent.ie/public/incoming/iy4h0k-not-using-a-gift-card-within-a-certain-timeframe-can-result-in-paying-fees-on-the-balance/alternates/BASE_SIXTEEN_NINE/Not%20using%20a%20gift%20card%20within%20a%20certain%20timeframe%20can%20result%20in%20paying%20fees%20on%20the%20balance",
-          "publishedAt": "2026-11-20T06:40:00.000Z"
+          "title": "Miguel Delaney: The tactics Mauricio Pochettino must counter to survive a more formidable Premier League",
+          "link": "https://www.independent.ie/sport/soccer/premier-league/miguel-delaney-the-tactics-mauricio-pochettino-must-counter-to-survive-a-more-formidable-premier-league/a/164883327.html",
+          "summary": "Argentine tasked with adapting at Manchester United to rivals that suppress brilliance from star players in favour of a fully optimised team",
+          "image": "https://prod-img.independent.ie/public/incoming/tb80tp-gettyimages-2306035303.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages_2306035303.jpg",
+          "publishedAt": "2026-11-20T17:30:00.000Z"
         },
         {
-          "title": "Sewage flowing onto children's football pitch as Wexford village struggles to cope with wastewater demands",
-          "link": "https://www.independent.ie/county/wexford/sewage-flowing-onto-childrens-football-pitch-as-wexford-village-struggles-to-cope-with-wastewater-demands/a/164448564.html",
-          "image": "https://prod-img.independent.ie/public/incoming/rqdsqz-gettyimages-1390096829.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-1390096829.jpg",
-          "publishedAt": "2026-11-20T06:40:00.000Z"
+          "title": "Ireland’s left wing suffers scare before going to the Poles in World Cup play-offs",
+          "link": "https://www.independent.ie/sport/soccer/international-soccer/irelands-left-wing-suffers-scare-before-going-to-the-poles-in-world-cup-play-offs/a/164881054.html",
+          "summary": "Katie McCabe and Chloe Mustaki face anxious wait as clubs play final game before crucial international window",
+          "image": "https://prod-img.independent.ie/public/incoming/5ystrs-republic-of-ireland-v-wales-international-womens-friendly/alternates/BASE_SIXTEEN_NINE/Republic%20of%20Ireland%20v%20Wales%20-%20International%20Womens%20Friendly",
+          "publishedAt": "2026-11-20T17:29:20.000Z"
         },
         {
-          "title": "Dublin man faces suspended sentence after assault at Fleadh Cheoil na hÉireann in Wexford",
-          "link": "https://www.independent.ie/county/wexford/dublin-man-faces-suspended-sentence-after-assault-at-fleadh-cheoil-na-heireann-in-wexford/a/164203541.html",
-          "image": "https://prod-img.independent.ie/public/incoming/qz2wjc-the-fleadh-cheoil-harp.-pic-jim-campbell./alternates/BASE_SIXTEEN_NINE/The%20Fleadh%20Cheoil%20harp.%20Pic%20Jim%20Campbell.",
-          "publishedAt": "2026-11-20T06:40:00.000Z"
+          "title": "Bits & Bobs | Mailbag | South Africa's doping shadow | Four-point goal referendum | GTA mania",
+          "link": "https://www.independent.ie/podcasts/bits-bobs-mailbag-south-africas-doping-shadow-four-point-goal-referendum-gta-mania/a/164883161.html",
+          "summary": "Joe Molloy & The Producers™ assemble for this Friday edition of Bits & Bobs.",
+          "image": "https://prod-img.independent.ie/public/incoming/n4hqu0-458.jpeg/alternates/BASE_SIXTEEN_NINE/458.jpeg",
+          "publishedAt": "2026-11-20T17:14:20.000Z"
         },
         {
-          "title": "Wicklow discover opponents in Leinster Football Championship 2027",
-          "link": "https://www.independent.ie/county/wicklow/wicklow-discover-opponents-in-leinster-football-championship-2027/a/164831939.html",
-          "image": "https://prod-img.independent.ie/public/incoming/olgmzf-3490501.jpg/alternates/BASE_SIXTEEN_NINE/3490501.jpg",
-          "publishedAt": "2026-11-20T06:30:00.000Z"
+          "title": "Major new campaign to reinstate Sligo-Galway railway will officially launch at public meeting",
+          "link": "https://www.independent.ie/county/sligo/major-new-campaign-to-reinstate-sligo-galway-railway-will-officially-launch-at-public-meeting/a/164865536.html",
+          "summary": "Committee has been put in place with leading figures on board",
+          "image": "https://prod-img.independent.ie/public/incoming/rgudl0-20240322-135822.jpg/alternates/BASE_SIXTEEN_NINE/20240322_135822.jpg",
+          "publishedAt": "2026-11-20T17:00:00.000Z"
         },
         {
-          "title": "Cork's Canovee to face CK Kickhams for place in Munster Junior Club Final",
-          "link": "https://www.independent.ie/county/cork/corks-canovee-to-face-ck-kickhams-for-place-in-munster-junior-club-final/a/164734729.html",
-          "summary": "Canovee are favourites to advance to the final where they’ll face either Keel or Shamrocks",
-          "image": "https://prod-img.independent.ie/public/incoming/evodsx-canovee-v-cobh/alternates/BASE_SIXTEEN_NINE/Canovee%20v%20Cobh",
-          "publishedAt": "2026-11-20T06:30:00.000Z"
+          "title": "Thieves in Limerick steal Christmas donations of toys, wine and more in break-in at community centre",
+          "link": "https://www.independent.ie/county/limerick/thieves-in-limerick-steal-christmas-donations-of-toys-wine-and-more-in-break-in-at-community-centre/a/164859342.html",
+          "image": "https://prod-img.independent.ie/public/incoming/az1rn-the-burglary-is-believed-to-have-occurred-sometime-between-november-9-to-11/alternates/BASE_SIXTEEN_NINE/The%20burglary%20is%20believed%20to%20have%20occurred%20sometime%20between%20November%209%20to%2011",
+          "publishedAt": "2026-11-20T17:00:00.000Z"
         },
         {
-          "title": "North Kerry SFC Final: Listowel Emmets face another Mall in Duagh as they bid for three in-a-row",
-          "link": "https://www.independent.ie/county/kerry/north-kerry-sfc-final-listowel-emmets-face-another-mall-in-duagh-as-they-bid-for-three-in-a-row/a/164667266.html",
-          "summary": "The Emmets have never won three in-a-row before, which could bring a certain amount of pressure for Duagh to exploit",
-          "image": "https://prod-img.independent.ie/public/incoming/kqfdwn-the-listowel-emmets-team-gather-in-a-huddle-prior-to-last-weekends-semi-final-with-beale-in-the-mcmunns-north-kerry-sfc-semi-final-photo-damian-stack/alternates/BASE_SIXTEEN_NINE/The%20Listowel%20Emmets%20team%20gather%20in%20a%20huddle%20prior%20to%20last%20weekends%20semi-final%20with%20Beale%20in%20the%20McMunns%20North%20Kerry%20SFC%20Semi-Final%20Photo%20Damian%20Stack",
-          "publishedAt": "2026-11-20T06:30:00.000Z"
+          "title": "Speeding motorists and ‘out of control hedges’ on ‘rat run’ urban road in Sligo",
+          "link": "https://www.independent.ie/county/sligo/speeding-motorists-and-out-of-control-hedges-on-rat-run-urban-road-in-sligo/a/164783523.html",
+          "image": "https://prod-img.independent.ie/public/incoming/w7w3z3-cairns-road.jpg/alternates/BASE_SIXTEEN_NINE/Cairns%20Road.jpg",
+          "publishedAt": "2026-11-20T17:00:00.000Z"
         }
       ]
     }
