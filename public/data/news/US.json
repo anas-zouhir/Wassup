@@ -8,8 +8,22 @@
         "homepage": "https://www.nytimes.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-21T06:51:06.597Z",
+      "fetchedAt": "2026-11-21T18:33:49.297Z",
       "items": [
+        {
+          "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+          "link": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+          "summary": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
+          "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21DC-OUTAGE-topart-sub-wghl/21DC-OUTAGE-topart-sub-wghl-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-21T18:15:00.000Z"
+        },
+        {
+          "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+          "link": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+          "summary": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
+          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-anthropic-aftermath-cwvh/20biz-anthropic-aftermath-cwvh-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-21T10:03:45.000Z"
+        },
         {
           "title": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
           "link": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
@@ -18,67 +32,53 @@
           "publishedAt": "2026-11-21T01:43:40.000Z"
         },
         {
-          "title": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
-          "link": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
-          "summary": "The S&P 500 ended the day down more than 10 percent from its recent high, in a symbolic measure of investors’ souring mood.",
-          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-AI-markets-02-zfhg/20biz-AI-markets-02-zfhg-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-20T22:47:32.000Z"
+          "title": "Powerful Health Panel Has Tumultuous First Meeting With RFK Jr’s Appointees",
+          "link": "https://www.nytimes.com/2026/11/20/well/rfk-jr-uspstf-panel-meeting.html",
+          "summary": "Since March 2025, the work of the U.S. Preventive Services Task Force has been at a standstill.",
+          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20WELL-USPSTF1-hwlt/20WELL-USPSTF1-hwlt-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-20T22:29:07.000Z"
         },
         {
-          "title": "What Is a Stock Market Correction?",
-          "link": "https://www.nytimes.com/article/stock-market-correction.html",
-          "summary": "The S&P 500 has fallen more than 10 percent from its recent high, crossing a threshold that signals investors have turned pessimistic about stocks.",
-          "image": "https://static01.nyt.com/images/2026/11/20/business/20biz-correction-explainer-promo/20biz-correction-explainer-promo-mediumSquareAt3X.png",
-          "publishedAt": "2026-11-20T22:48:40.000Z"
+          "title": "A New Trump Tactic to Restrict Transit Funding: Rewrite the Rules",
+          "link": "https://www.nytimes.com/2026/11/21/upshot/trump-transit-grants.html",
+          "summary": "The changes could make it harder for dozens of projects across the country to get funding they have pursued for years.",
+          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/2026-11-19-up-transit-grants-index/2026-11-19-up-transit-grants-index-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-21T13:54:46.000Z"
         },
         {
-          "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
-          "link": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-          "summary": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.",
-          "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00BIZ-nvidia-culture-jensen-kbpz/00BIZ-nvidia-culture-jensen-kbpz-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-20T14:43:10.000Z"
+          "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+          "summary": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
+          "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-zqtf/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-21T17:50:25.000Z"
         },
         {
-          "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
-          "link": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
-          "summary": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia.",
-          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-Nvidia-SEC-kblz/20biz-Nvidia-SEC-kblz-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-21T01:06:52.000Z"
+          "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+          "summary": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
+          "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-wtk-cjwm/21int-cartel-arrest-wtk-cjwm-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-21T16:30:35.000Z"
         },
         {
-          "title": "Jury in Palisades Fire Trial Finds Man Guilty of Arson in Devastating Blaze",
-          "link": "https://www.nytimes.com/2026/11/20/us/la-fire-trial-arson.html",
-          "summary": "The defendant, Jonathan Rinderknecht, was found guilty on two counts. The verdict provides a measure of accountability for a painful chapter in recent L.A. history.",
-          "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00nat-hfo-arson-verdict-hlvb/00nat-hfo-arson-verdict-hlvb-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-21T01:08:11.000Z"
+          "title": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead",
+          "link": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html",
+          "summary": "The Democratic nominee for House speaker will have a challenging job. We asked him how he plans to lead.",
+          "image": "https://static01.nyt.com/images/2026/11/21/magazine/21mag-interview-jeffries-06/21mag-interview-jeffries-06-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-21T16:03:26.000Z"
         },
         {
-          "title": "Trump Administration Says Army Can Blow Up Lead-Laced Explosives",
-          "link": "https://www.nytimes.com/2026/11/20/climate/iowa-lead-plume-ammunition-explosion.html",
-          "summary": "The detonation, now set for Monday, could create a cloud of lead dust stretching for miles over homes and farms, the Army has said. Environmental groups are seeking an emergency stay.",
-          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-LEAD-IOWA-01-jwfz/20CLI-LEAD-IOWA-01-jwfz-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-21T02:52:50.000Z"
+          "title": "From ‘Stranger Things’ to Broadway, Everyone Knows Joe Keery",
+          "link": "https://www.nytimes.com/2026/11/21/theater/joe-keery-other-desert-cities-broadway.html",
+          "summary": "“Stranger Things” vaulted him to stardom. With his Broadway debut in “Other Desert Cities,” he wants to get back to “why I started doing this in the first place.”",
+          "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cul-joe-keery-broadway-debut-01-jkcg/22cul-joe-keery-broadway-debut-01-jkcg-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-21T14:05:06.000Z"
         },
         {
-          "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
-          "link": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
-          "summary": "If confirmed, the proof of the Riemann hypothesis would cement the field’s sense that no unsolved problem is safe from artificial intelligence.",
-          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-AI-RIEMANN-01-jtkm/20SCI-AI-RIEMANN-01-jtkm-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-21T00:33:39.000Z"
-        },
-        {
-          "title": "Playing ‘Key of Life,’ Stevie Wonder Invites All to Match His Joy",
-          "link": "https://www.nytimes.com/2026/11/20/arts/music/stevie-wonder-songs-in-the-key-of-life-tour.html",
-          "summary": "Wonder’s optimism was refracted around Madison Square Garden as he performed his “Songs in the Key of Life” album on a 50th anniversary tour.",
-          "image": "https://static01.nyt.com/images/2026/11/20/arts/20cul-stevie-wonder-02/20cul-stevie-wonder-02-mediumSquareAt3X-v2.jpg",
-          "publishedAt": "2026-11-21T02:36:21.000Z"
-        },
-        {
-          "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
-          "link": "https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html",
-          "summary": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma.",
-          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20BIZ-ROUNDUP-fqct/20BIZ-ROUNDUP-fqct-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-21T03:23:04.000Z"
+          "title": "The Sisterhood Rocks!",
+          "link": "https://www.nytimes.com/2026/11/21/opinion/sister-snl-family-care-parents.html",
+          "summary": "But should daughters bear the brunt of their folks’ care?",
+          "image": "https://static01.nyt.com/images/2026/11/21/opinion/21dowd-temp/21dowd-temp-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-21T15:54:47.000Z"
         }
       ]
     },
@@ -89,67 +89,67 @@
         "homepage": "https://www.npr.org",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-21T06:51:06.839Z",
+      "fetchedAt": "2026-11-21T18:33:49.480Z",
       "items": [
         {
-          "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-          "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
-          "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
-          "publishedAt": "2026-11-20T22:11:29.000Z"
+          "title": "Storms expected on both coasts threatens Thanksgiving travel",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+          "summary": "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving.",
+          "publishedAt": "2026-11-21T18:22:46.000Z"
         },
         {
-          "title": "The latest from Trump's press conference",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
-          "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
-          "publishedAt": "2026-11-20T21:38:21.000Z"
+          "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+          "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
+          "publishedAt": "2026-11-21T18:08:55.000Z"
         },
         {
-          "title": "Rising seas have forced this Quinault village to relocate",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
-          "summary": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
-          "publishedAt": "2026-11-20T21:38:13.000Z"
+          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+          "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
+          "publishedAt": "2026-11-21T14:18:17.000Z"
         },
         {
-          "title": "Trump's impact on an Ohio steel plant",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
-          "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under…",
-          "publishedAt": "2026-11-20T21:38:11.000Z"
+          "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+          "summary": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.",
+          "publishedAt": "2026-11-21T13:58:33.000Z"
         },
         {
-          "title": "MLK's handwritten draft of iconic speech on display for the first time",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
-          "summary": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
-          "publishedAt": "2026-11-20T21:38:05.000Z"
+          "title": "Perspective: Defining 'human'",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
+          "summary": "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?",
+          "publishedAt": "2026-11-21T13:00:00.000Z"
         },
         {
-          "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
-          "summary": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
-          "publishedAt": "2026-11-20T18:25:09.000Z"
+          "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+          "summary": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+          "publishedAt": "2026-11-21T12:40:17.000Z"
         },
         {
-          "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
-          "summary": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
-          "publishedAt": "2026-11-20T17:00:00.000Z"
+          "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+          "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+          "summary": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the second time in recent months that an AI…",
+          "publishedAt": "2026-11-21T12:30:16.000Z"
         },
         {
-          "title": "How Orchestra Noir turned classical music into a cultural movement",
-          "link": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
-          "summary": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be.",
-          "publishedAt": "2026-11-20T16:12:18.000Z"
+          "title": "5 ways to turn off your 'work brain' after the day ends",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
+          "summary": "Don't let your work troubles follow you home. Psychologist Guy Winch shares techniques to help you stop ruminating about your nine-to-five, so you can focus on what really matters.",
+          "publishedAt": "2026-11-21T10:01:00.000Z"
         },
         {
-          "title": "Trump touts meeting with Xi and Putin but offers little results",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-          "summary": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
-          "publishedAt": "2026-11-20T15:00:00.000Z"
+          "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
+          "summary": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon.",
+          "publishedAt": "2026-11-21T10:00:00.000Z"
         },
         {
-          "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
-          "summary": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
-          "publishedAt": "2026-11-20T12:24:40.000Z"
+          "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+          "summary": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested.",
+          "publishedAt": "2026-11-21T10:00:00.000Z"
         }
       ]
     },
@@ -160,8 +160,44 @@
         "homepage": "https://www.washingtonpost.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-21T06:51:16.842Z",
+      "fetchedAt": "2026-11-21T18:33:59.435Z",
       "items": [
+        {
+          "title": "Was Trump’s news conference with Vance and Rubio an audition for 2028?",
+          "link": "https://www.washingtonpost.com/politics/2026/11/21/was-trumps-news-conference-with-vance-rubio-an-audition-2028/",
+          "summary": "Vice President JD Vance and Secretary of State Marco Rubio are widely considered to be potential Republican presidential candidates.",
+          "publishedAt": "2026-11-21T18:00:00.000Z"
+        },
+        {
+          "title": "Man convicted of starting deadly Palisades fire in California",
+          "link": "https://www.washingtonpost.com/the-seven/2026/11/21/jonathan-rinderknecht-convicted-starting-palisades-wildfire-los-angeles/",
+          "summary": "The Palisades fire destroyed more than 6,800 buildings across Los Angeles and Malibu, with officials estimating the damage bill at $25 billion.",
+          "publishedAt": "2026-11-21T17:00:00.000Z"
+        },
+        {
+          "title": "Emergency medical services could be delivered by drones",
+          "link": "https://www.washingtonpost.com/health/2026/11/21/drones-may-deliver-emergency-medicine-us-after-doing-so-other-countries/",
+          "summary": "Pilot programs in the U.S. allow drones to transport medical items, which can include defibrillators, medicines or blood. Drone delivery of organs faces many hurdles.",
+          "publishedAt": "2026-11-21T11:00:01.000Z"
+        },
+        {
+          "title": "A widower lost his wedding ring. A used-car sale brought it back to him.",
+          "link": "https://www.washingtonpost.com/nation/2026/11/21/widower-lost-his-wedding-ring-used-car-sale-brought-it-back-him/",
+          "summary": "A Minnesota couple discovered the keepsake months later and set out to find its 85-year-old owner.",
+          "publishedAt": "2026-11-21T11:00:01.000Z"
+        },
+        {
+          "title": "A fixture behind the plate for two teams and part of ‘baseball’s first family’",
+          "link": "https://www.washingtonpost.com/obituaries/2026/11/21/fixture-behind-plate-two-teams-part-baseballs-first-family/",
+          "summary": "Bob Boone endured the grueling physical toll of catching in the majors with remarkable toughness.",
+          "publishedAt": "2026-11-21T11:00:00.000Z"
+        },
+        {
+          "title": "A stray puppy hopped onto a car salesman’s lap. It may have saved her life.",
+          "link": "https://www.washingtonpost.com/lifestyle/2026/11/21/this-stray-puppy-hopped-into-car-salesmans-lap-his-heart/",
+          "summary": "When it turned out the dog was seriously ill, the family paid her $4,000 vet bill and adopted her.",
+          "publishedAt": "2026-11-21T10:00:00.000Z"
+        },
         {
           "title": "Pandemic-era law passed unconstitutionally because of proxy voting, appeals court rules",
           "link": "https://www.washingtonpost.com/business/2026/11/21/pandemic-era-law-passed-unconstitutionally-because-proxy-voting-appeals-court-rules/",
@@ -185,42 +221,6 @@
           "link": "https://www.washingtonpost.com/business/2026/11/20/us-stock-market-slumps-amid-rising-tech-ai-worries/",
           "summary": "Markets on Friday posted their worst week since worries about President Donald Trump’s tariffs caused a global sell-off in April 2025.",
           "publishedAt": "2026-11-20T22:26:59.000Z"
-        },
-        {
-          "title": "Texas governor-elect and Trump agree to work together on border security",
-          "link": "https://www.washingtonpost.com/politics/2026/11/20/texas-governor-elect-trump-agree-work-together-border-security/",
-          "summary": "President Donald Trump says he had a “very productive call” with Democratic Gov.-elect Gina Hinojosa, who characterized it as “a very positive conversation.”",
-          "publishedAt": "2026-11-20T21:45:28.000Z"
-        },
-        {
-          "title": "Hat had traveled too far into Fiona’s intestines to safely remove, zoo says",
-          "link": "https://www.washingtonpost.com/nation/2026/11/20/hat-had-traveled-too-far-into-fionas-intestines-safely-remove-zoo-says/",
-          "summary": "There was no way to use endoscopy to reach the hat that the beloved hippo ingested, Cincinnati Zoo officials said, and laparoscopic surgery was not possible.",
-          "publishedAt": "2026-11-20T21:30:00.000Z"
-        },
-        {
-          "title": "Child begged for life in 911 call as father killed family, sheriff says",
-          "link": "https://www.washingtonpost.com/nation/2026/11/20/florida-authorities-investigate-killing-family-heard-911-call/",
-          "summary": "The Hillsborough County Sheriff’s Office said authorities are investigating the killing of four people.",
-          "publishedAt": "2026-11-20T19:45:50.000Z"
-        },
-        {
-          "title": "Stefanik family’s D.C. home sells to mystery buyer for $900K over list price",
-          "link": "https://www.washingtonpost.com/dc-md-va/2026/11/20/stefanik-familys-dc-home-sells-mystery-buyer-900k-over-list-price/",
-          "summary": "After not selling at a lower price and eventually being taken off the market, the home of the outgoing congresswoman from New York sold in June for $2.9 million.",
-          "publishedAt": "2026-11-20T18:33:20.000Z"
-        },
-        {
-          "title": "Jonathan Yardley, Pulitzer-winning book critic at The Post, dies at 87",
-          "link": "https://www.washingtonpost.com/obituaries/2026/11/20/jonathan-yardley-pulitzer-winning-book-critic-post-dies-87/",
-          "summary": "For 33 years, he helped Washington Post readers find the next good book. His reviews could be prickly or inspiring, and pushed some authors — including Michael Chabon — to new heights.",
-          "publishedAt": "2026-11-20T16:53:21.000Z"
-        },
-        {
-          "title": "Mamdani proposes five-year extension to shutter notorious Rikers Island prison",
-          "link": "https://www.washingtonpost.com/nation/2026/11/20/mamdani-proposes-five-year-extension-shutter-notorious-rikers-island-prison/",
-          "summary": "New York Mayor Zohran Mamdani’s plan moves the deadline from 2027 to 2032 to allow time to build the borough-based jails slated to replace Rikers.",
-          "publishedAt": "2026-11-20T16:30:00.000Z"
         }
       ]
     }

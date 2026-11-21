@@ -8,63 +8,49 @@
         "homepage": "https://news.web.nhk/newsweb",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-21T06:50:18.977Z",
+      "fetchedAt": "2026-11-21T18:32:56.890Z",
       "items": [
         {
-          "title": "冬型の気圧配置 北～東日本の山沿い中心に積雪増 各地で事故も",
+          "title": "金塊4億円相当や現金約2500万円など盗まれる 兵庫 西宮の住宅",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79776",
+          "summary": "21日未明、兵庫県西宮市の会社経営者の住宅に何者かが侵入し、金塊およそ20キロや現金およそ2500万円などが盗まれる被害が確認されました。金塊20キロは現在の金の価格で4億円相当にのぼり、警察が窃盗事…",
+          "publishedAt": "2026-11-21T15:03:00.000Z"
+        },
+        {
+          "title": "ラグビー日本代表 スコットランドに62点差の大敗【詳報】",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79756",
+          "summary": "イギリスに遠征しているラグビー日本代表は、国際大会「ネーションズチャンピオンシップ」でスコットランド代表と対戦し、11個のトライを奪われ、5対67で敗れました。 記事後半では試合の詳しい経過をお伝え…",
+          "publishedAt": "2026-11-21T17:55:03.000Z"
+        },
+        {
+          "title": "フィギュアGP第5戦 島田麻央 2連勝でファイナル進出決定",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79775",
+          "summary": "フィギュアスケートのグランプリシリーズ第5戦、フィンランド大会は女子シングル後半のフリーが行われ、18歳の島田麻央選手がカナダ大会に続いて優勝し、シニアデビューのシーズンでシリーズの上位6人で争うグラ…",
+          "publishedAt": "2026-11-21T18:24:47.000Z"
+        },
+        {
+          "title": "冬型の気圧配置 北・東日本の山沿い中心に積雪増 交通に影響",
           "link": "https://news.web.nhk/newsweb/na/nd-20261121de79490",
-          "summary": "冬型の気圧配置の影響で、新潟県では雨が降り続き、「レベル4土砂災害危険警報」が発表されている地域があり、厳重な警戒が必要です。 北日本と東日本の山沿いを中心に積雪が増えていて、なだれに注意するととも…",
-          "publishedAt": "2026-11-21T06:38:28.000Z",
-          "titleEn": "Winter-type air pressure distribution snowfall in the mountainous center of northeastern Japan",
-          "summaryEn": "Due to the effects of winter weather conditions, the province of New Hubei has been experiencing heavy rainfall and a \"level 4 soil-sand hazard warning\" has been issued. There's more snow in the mountains of northern and eastern Japan."
+          "summary": "冬型の気圧配置の影響で、新潟県では雨が降り続き、「レベル4土砂災害危険警報」が発表されている地域があるほか、北日本と東日本の山沿いを中心に積雪が増えています。 冬型の気圧配置は西からしだいに緩みます…",
+          "publishedAt": "2026-11-21T14:11:25.000Z"
         },
         {
-          "title": "福島 北塩原村 倒木で国道通行止め 514世帯948人が孤立状態",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79612",
-          "summary": "福島県によりますと、国道459号は、20日からの湿った雪の影響で倒木が相次ぎ、猪苗代町と北塩原村の間のおよそ18キロにわたって通行止めとなっています。",
-          "publishedAt": "2026-11-21T06:31:00.000Z",
-          "titleEn": "Fukushima, northern Hokkaido, downed trees, road closures, 514 households, 948 people in isolation.",
-          "summaryEn": "According to Fukushima Prefecture, National Highway 459 has been blocked for about 18 kilometers by falling trees, one after another, due to 20 days of wet snow."
+          "title": "除雪車にはねられ 国道横断中の女性死亡 福井 勝山",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79712",
+          "summary": "21日午前、福井県勝山市の国道で道路を横断していた71歳の女性が後ろに進んでいた大型の除雪車にはねられて死亡しました。",
+          "publishedAt": "2026-11-21T12:38:33.000Z"
         },
         {
-          "title": "住宅街にクマ出没の前橋 けさ警察官が目撃 捜索続く",
+          "title": "前橋 市街地出没のクマ見つからず 22日朝から捜索再開",
           "link": "https://news.web.nhk/newsweb/na/nd-20261121de79555",
-          "summary": "住宅街にクマが出没し警戒が続いている前橋市では、21日朝に警察官がクマを目撃し、市や警察などが捕獲に向けて捜索を続けています。",
-          "publishedAt": "2026-11-21T02:54:00.000Z",
-          "titleEn": "A police officer witnessed a bear sinking in a residential neighborhood on the bridge, and the search continues.",
-          "summaryEn": "In a residential neighborhood where bears are drowning, the city of Forehand is on alert, and on the morning of the 21st, police are spotting bears, and the city and the police are still searching for them."
+          "summary": "住宅街にクマが出没し警戒が続いている前橋市では、21日朝クマが目撃され、市や警察などは夕方、一時、周辺への立ち入りを規制して捜索しましたが見つからなかったため、午後7時前に捜索を打ち切り、22日朝から…",
+          "publishedAt": "2026-11-21T11:56:09.000Z"
         },
         {
-          "title": "東電 資本提携後も重要事項の意思決定に国が拒否権保持 提示",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79559",
-          "summary": "経営の立て直しに向けて他社との資本提携の検討を進めている東京電力ホールディングスは、交渉相手に対し、電力の安定供給など経営上重要な事項の意思決定に関しては、提携後も国が事実上の拒否権を持ち続けることな…",
-          "publishedAt": "2026-11-21T04:25:01.000Z",
-          "titleEn": "East Electric, after the capital partnership, the country retains its veto on important decisions.",
-          "summaryEn": "Tokyo Power Holdings, which is considering a capital partnership with other companies to restore its business, is advised that the country retains a de facto veto right after the partnership to negotiate with its negotiators on decisions on matters of business importance, such as the stable supply of electricity."
-        },
-        {
-          "title": "自民 鈴木幹事長 関文科相問責対応“消費税法案など成立優先”",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79553",
-          "summary": "関文部科学大臣に対する問責決議案の提出を野党側が検討していることについて、自民党の鈴木幹事長は、極めてセンシティブな判断が必要だとした上で、あくまで今国会での食料品の消費税減税関連法案などの成立を優先…",
-          "publishedAt": "2026-11-21T06:08:00.000Z",
-          "titleEn": "President of Suzuki, Minister of Culture and Culture, and the adoption of the Tax on Consumption Act",
-          "summaryEn": "In a statement, the opposition party said it was considering the submission of a question-and-answer resolution to the Minister of Science and Culture, and that the chairman of the Democratic People's Party, Suzuki, needed a very sensitive decision."
-        },
-        {
-          "title": "ゼレンスキー大統領「プーチンは殺人者」",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79605",
-          "summary": "アメリカのトランプ大統領が、中国で行われたロシアのプーチン大統領との会談の際に、プーチン大統領を「友人」と呼んだことについて、ウクライナのゼレンスキー大統領は、「私たちにとって、プーチンは殺人者だ」と…",
-          "publishedAt": "2026-11-21T04:22:00.000Z",
-          "titleEn": "President Zelensky said, \"Putin is a killer\".",
-          "summaryEn": "When the US president Trump spoke to Russian President Putin in China about calling him \"friend\", Ukrainian President Zelensky said, \"For us, Putin is a murderer\"."
-        },
-        {
-          "title": "MLB労使交渉難航で織田翔希の交渉も不透明に",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79627",
-          "summary": "大リーグの新しい労使協定に向けた交渉が難航するなか、各球団と国際アマチュア選手との契約についても今後凍結される見通しであることが関係者への取材でわかりました。 アメリカでプレーを希望する横浜高校の織…",
-          "publishedAt": "2026-11-21T05:46:20.000Z",
-          "titleEn": "MLB's hard-fought labor negotiations are also opaque.",
-          "summaryEn": "Interviews with the officials revealed that while negotiations for a new major league trade agreement have been difficult, contracts with individual teams and international amateur players are also likely to be frozen in the future. I'm going to play in the United States."
+          "title": "将棋の福間香奈女流四冠 第2子の妊娠を公表",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79734",
+          "summary": "将棋の福間香奈女流四冠が21日、岡山県で行われた対局のあとの記者会見で、第2子の妊娠を公表しました。",
+          "publishedAt": "2026-11-21T11:13:17.000Z"
         }
       ]
     },
@@ -75,8 +61,43 @@
         "homepage": "https://www.asahi.com",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-21T06:50:18.887Z",
+      "fetchedAt": "2026-11-21T18:32:57.046Z",
       "items": [
+        {
+          "title": "住宅から現金2500万円と金塊20キロ盗まれる 警察が捜査 兵庫",
+          "link": "http://www.asahi.com/articles/ASVCP51T9VCPPLZB00BM.html?ref=rss",
+          "publishedAt": "2026-11-21T15:16:51.000Z"
+        },
+        {
+          "title": "玄関先に嬰児の遺体、置いた人物を死体遺棄容疑で捜査 東京・多摩",
+          "link": "http://www.asahi.com/articles/ASVCP3JQ7VCPUTIL00FM.html?ref=rss",
+          "publishedAt": "2026-11-21T11:15:00.000Z"
+        },
+        {
+          "title": "ナナちゃんの足元に「変身」集結 百貨店閉店後の名駅に新たな彩り",
+          "link": "http://www.asahi.com/articles/ASVCP3F8LVCPUQIP01DM.html?ref=rss",
+          "publishedAt": "2026-11-21T11:00:00.000Z"
+        },
+        {
+          "title": "愛子さま、シンガポールから帰国 「多くのことを学ぶ貴重な機会」",
+          "link": "http://www.asahi.com/articles/ASVCK0FSPVCKUQIP008M.html?ref=rss",
+          "publishedAt": "2026-11-21T09:37:03.000Z"
+        },
+        {
+          "title": "クマが住宅街にまた出没 前橋市は道路を封鎖、緊急銃猟の態勢に",
+          "link": "http://www.asahi.com/articles/ASVCP26DJVCPUHNB005M.html?ref=rss",
+          "publishedAt": "2026-11-21T09:23:23.000Z"
+        },
+        {
+          "title": "愛子さまの感想全文 シンガポールから帰国、宮内庁を通して公表",
+          "link": "http://www.asahi.com/articles/ASVCP2DQHVCPUTIL003M.html?ref=rss",
+          "publishedAt": "2026-11-21T09:21:34.000Z"
+        },
+        {
+          "title": "作業中の除雪車にはねられ、女性が死亡 福井・勝山、積雪10センチ",
+          "link": "http://www.asahi.com/articles/ASVCP2VZYVCPPJLB004M.html?ref=rss",
+          "publishedAt": "2026-11-21T09:18:16.000Z"
+        },
         {
           "title": "カード情報流出の六花亭、不正利用を1件確認 「再発行を」呼びかけ",
           "link": "http://www.asahi.com/articles/ASVCP20H0VCPUTIL005M.html?ref=rss",
@@ -94,48 +115,6 @@
           "link": "http://www.asahi.com/articles/ASVCN3D9MVCNUQIP00HM.html?ref=rss",
           "publishedAt": "2026-11-21T03:00:00.000Z",
           "titleEn": "I'm going back to Singapore, visiting the Marillion, and going home."
-        },
-        {
-          "title": "東武線特急が栃木市の踏切で車と衝突 68本運休、最大約4時間遅れ",
-          "link": "http://www.asahi.com/articles/ASVCP0H98VCPUTIL002M.html?ref=rss",
-          "publishedAt": "2026-11-21T02:59:01.000Z",
-          "titleEn": "A bus crashed into the city of Yangtze on the Eastern Shore, causing 68 delays, up to four hours."
-        },
-        {
-          "title": "愛子さま、マーライオンと記念撮影 シンガポールでの日程終え帰国へ",
-          "link": "http://www.asahi.com/articles/ASVCP01ZTVCPUTIL02RM.html?ref=rss",
-          "publishedAt": "2026-11-21T02:00:14.000Z",
-          "titleEn": "My dear son, I'm taking a memorial with Marillion, and I'm going home after my day in Singapore."
-        },
-        {
-          "title": "外国人に聞いた子育ての困りごと、悩みは親自身にも ビザ値上げも影",
-          "link": "http://www.asahi.com/articles/ASVCJ2CCFVCJOIPE00KM.html?ref=rss",
-          "publishedAt": "2026-11-21T01:00:00.000Z",
-          "titleEn": "I've heard about all the problems of parenting from foreigners, and the problems of parents themselves, and the visa increases."
-        },
-        {
-          "title": "死因は首の傷による出血性ショックや窒息の疑い 中野の女性刺殺事件",
-          "link": "http://www.asahi.com/articles/ASVCN1T3CVCNUTIL00JM.html?ref=rss",
-          "publishedAt": "2026-11-21T01:00:00.000Z",
-          "titleEn": "The cause of death is suspected to be bludgeoning trauma to the neck, as well as choking, and the murder of a woman in Midfield."
-        },
-        {
-          "title": "「カギかけて」より響く言葉は？ 自転車盗防止へ、静岡県警が実験",
-          "link": "http://www.asahi.com/articles/ASVCJ5DSMVCJUTPB018M.html?ref=rss",
-          "publishedAt": "2026-11-20T22:00:00.000Z",
-          "titleEn": "What's the word that sounds better than \"put the keys on\"? The Shikoku Prefecture Police conducted an experiment to prevent bicycle theft."
-        },
-        {
-          "title": "「要塞」化する阪急の駅、完成いつ？ 開かずの踏切の街で待つ人たち",
-          "link": "http://www.asahi.com/articles/ASVCN2K0WVCNOXIE044M.html?ref=rss",
-          "publishedAt": "2026-11-20T21:00:00.000Z",
-          "titleEn": "When will the station in Osaka become a fortress? People waiting in the unopened city."
-        },
-        {
-          "title": "川崎市OB採用は「価格入手を期待」 官製談合巡り協会関係者供述か",
-          "link": "http://www.asahi.com/articles/ASVCN32G6VCNULOB01MM.html?ref=rss",
-          "publishedAt": "2026-11-20T21:00:00.000Z",
-          "titleEn": "In Kawasaki City, OB adoption is \"expecting price entry\"."
         }
       ]
     },
@@ -146,8 +125,43 @@
         "homepage": "https://www.japantimes.co.jp",
         "lang": "en"
       },
-      "fetchedAt": "2026-11-21T06:50:19.131Z",
+      "fetchedAt": "2026-11-21T18:32:57.166Z",
       "items": [
+        {
+          "title": "British PM Burnham’s big worry Isn’t Brexit or welfare — it’s Trump and Iran",
+          "link": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/uk-burnham-brexit-welfare-trump-iran/",
+          "summary": "For weeks, Burnham and his most senior Cabinet colleagues have been consumed by the possibility Trump could resume major strikes on Iran",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575309.jpg",
+          "publishedAt": "2026-11-21T08:27:00.000Z"
+        },
+        {
+          "title": "U.S. Agriculture Department and FBI breached by hackers, reports say",
+          "link": "https://www.japantimes.co.jp/news/2026/11/21/world/crime-legal/us-fbi-usda-cyberattacks/",
+          "summary": "The reports come as concerns deepened over the recent spate of tech outages at key American institutions.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575308.jpg",
+          "publishedAt": "2026-11-21T08:13:00.000Z"
+        },
+        {
+          "title": "Anthropic researcher says Claude solved math’s greatest riddle",
+          "link": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/ai-anthropic-claude-riemann-hypothesis/",
+          "summary": "The firm's chatbot may have helped prove the Riemann Hypothesis, a problem that has eluded mathematicians for more than 160 years.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575307.jpg",
+          "publishedAt": "2026-11-21T07:46:00.000Z"
+        },
+        {
+          "title": "Countries open path towards ‘killer robots’ pact",
+          "link": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/killer-robots-pact/",
+          "summary": "After five days of talks at the United Nations, which dragged on into overtime, states agreed on building some form of pact over the next two years.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575310.jpg",
+          "publishedAt": "2026-11-21T07:41:00.000Z"
+        },
+        {
+          "title": "Susumu Hirasawa’s ‘Paprika’ score is the perfect ‘retrofuturist’ sound for today",
+          "link": "https://www.japantimes.co.jp/culture/2026/11/21/music/susumu-hirasawa-paprika-soundtrack/",
+          "summary": "Two decades after the debut of Satoshi Kon's \"Paprika,\" its innovative soundtrack has found new life on social media.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/574653.jpg",
+          "publishedAt": "2026-11-21T07:30:00.000Z"
+        },
         {
           "title": "As Trump courts Xi and Putin, middle powers make their own moves",
           "link": "https://www.japantimes.co.jp/news/2026/11/21/japan/politics/trump-xi-putin-middle-powers-analysis/",
@@ -177,46 +191,11 @@
           "publishedAt": "2026-11-21T03:48:00.000Z"
         },
         {
-          "title": "From Hong Kong to Africa: humble bag carries history of migration",
+          "title": "From Hong Kong to Africa: Humble bag carries history of migration",
           "link": "https://www.japantimes.co.jp/news/2026/11/21/world/humble-bag-migration-history/",
           "summary": "An everyday utility used to carry clothes, household goods and food, the bag also carries painful memories of mass expulsion and displacement.",
           "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575297.jpg",
           "publishedAt": "2026-11-21T03:23:00.000Z"
-        },
-        {
-          "title": "Iran foreign minister wants diplomacy to end war, Trump says terms unacceptable",
-          "link": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/iran-diplomacy-terms-unacceptable/",
-          "summary": "Iranian Foreign Minister Abbas Araqchi said Tehran wanted guarantees that Washington was serious about negotiations before proceeding further.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575296.jpg",
-          "publishedAt": "2026-11-21T03:20:00.000Z"
-        },
-        {
-          "title": "Mao Shimada grabs lead at Finlandia Trophy after short program",
-          "link": "https://www.japantimes.co.jp/sports/2026/11/21/more-sports/mao-shimada-finlandia-trophy/",
-          "summary": "Shimada, a four-time world junior champion, is targeting her second win in her debut season after taking gold at Skate Canada earlier this month.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575301.jpg",
-          "publishedAt": "2026-11-21T03:10:00.000Z"
-        },
-        {
-          "title": "Japan attempts to revive an American industrial icon",
-          "link": "https://www.japantimes.co.jp/business/2026/11/21/japan-us-industrial-icon-revive/",
-          "summary": "For years, the Edgar Thomson steel mill was a symbol of faded American industrial power. Today it is being jolted back to life by Japan's Nippon Steel.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575293.jpg",
-          "publishedAt": "2026-11-21T02:03:00.000Z"
-        },
-        {
-          "title": "Myanmar genocide judgment may bolster Gaza case against Israel",
-          "link": "https://www.japantimes.co.jp/news/2026/11/21/world/crime-legal/myanmar-ruling-bolster-gaza-case/",
-          "summary": "Legal experts say the landmark ruling establishes a precedent that genocidal intent can coexist with a military objective.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575292.jpg",
-          "publishedAt": "2026-11-21T01:17:00.000Z"
-        },
-        {
-          "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
-          "link": "https://www.japantimes.co.jp/business/2026/11/21/honda-toyota-us-airbag-recall/",
-          "summary": "Honda and Toyota both said ​there were no injuries or crashes tied to the vehicles being recalled, and there have ‌been no airbag ‌inflator ruptures",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575290.jpg",
-          "publishedAt": "2026-11-21T00:36:00.000Z"
         }
       ]
     }

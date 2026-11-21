@@ -3,123 +3,62 @@
   "outlets": [
     {
       "outlet": {
-        "id": "sun-online",
-        "name": "Sun Online",
-        "homepage": "https://en.sun.mv",
-        "lang": "en-MV"
-      },
-      "fetchedAt": "2026-11-19T06:54:46.600Z",
-      "items": [
-        {
-          "title": "Committee passes MVR 59.7bn budget without any changes",
-          "link": "https://see.mv/110546",
-          "publishedAt": "2026-11-19T06:44:35.000Z"
-        },
-        {
-          "title": "Registration opens for Dhiraagu Maldives Gaming Conquest 2026",
-          "link": "https://see.mv/110545",
-          "publishedAt": "2026-11-19T06:25:27.000Z"
-        },
-        {
-          "title": "Just MVR 21.4mn left in Aasandha budget, with over a month left to go",
-          "link": "https://see.mv/110544",
-          "publishedAt": "2026-11-19T06:14:17.000Z"
-        },
-        {
-          "title": "Maldives to experience hazy conditions next two days",
-          "link": "https://see.mv/110543",
-          "publishedAt": "2026-11-19T06:13:38.000Z"
-        },
-        {
-          "title": "BML affordable housing: Concrete works begin on additional 182 units",
-          "link": "https://see.mv/110542",
-          "publishedAt": "2026-11-19T05:41:38.000Z"
-        },
-        {
-          "title": "Govt urges public to look out for signs of child abuse, report it",
-          "link": "https://see.mv/110541",
-          "publishedAt": "2026-11-19T05:38:02.000Z"
-        },
-        {
-          "title": "State Pharma: Reliable medicine supply once number of patients with chronic illnesses are identified",
-          "link": "https://see.mv/110540",
-          "publishedAt": "2026-11-19T04:45:10.000Z"
-        },
-        {
-          "title": "Kumar Sanu to perform in Maldives with daughter Shannon K at ‘Junoon Live in Concert'",
-          "link": "https://see.mv/110539",
-          "publishedAt": "2026-11-19T04:18:00.000Z"
-        },
-        {
-          "title": "UN warns new Israeli invasion in Gaza could uproot 18,000+ besieged Palestinians",
-          "link": "https://see.mv/110538",
-          "publishedAt": "2026-11-19T04:02:51.000Z"
-        },
-        {
-          "title": "Businessman sentenced to 27 years in US over alleged Iran-linked assassination plot",
-          "link": "https://see.mv/110537",
-          "publishedAt": "2026-11-19T04:00:21.000Z"
-        }
-      ]
-    },
-    {
-      "outlet": {
         "id": "psm-news",
         "name": "PSM News",
         "homepage": "https://psmnews.mv",
         "lang": "dv"
       },
-      "fetchedAt": "2026-11-21T06:50:34.436Z",
+      "fetchedAt": "2026-11-21T18:33:11.781Z",
       "items": [
         {
-          "title": "ހަނގުރާމަ ނިންމަން ހާރިޖީ ހައްލެއްގެ ފުރުސަތު އަދިވެސް އެބައޮތް: އީރާނު",
-          "link": "https://psmnews.mv/192826",
-          "publishedAt": "2026-11-21T05:56:43.000Z"
+          "title": "ފުޓުބޯޅަ ކުރިއަރުވަން އާޖެންޓީނާގެ ވަފުދެއް ބަންގްލަދޭޝަށް",
+          "link": "https://psmnews.mv/192862",
+          "publishedAt": "2026-11-21T18:18:52.000Z"
         },
         {
-          "title": "ޙޫޘީން ޢަދަންއާ ގާތަށް، ޔަމަނުގެ ރައްޔިތުންނަށް ބިރުވެރިކަމާއި ނުތަނަވަސްކަން",
-          "link": "https://psmnews.mv/192825",
-          "publishedAt": "2026-11-21T05:55:48.000Z"
+          "title": "ހުރްމުޒް ކަނޑޮއޮޅި މަތިން އެމެރިކާގެ ދެ ޑްރޯން ވައްޓާލައިފި",
+          "link": "https://psmnews.mv/192861",
+          "publishedAt": "2026-11-21T17:41:20.000Z"
         },
         {
-          "title": "ސަޢުދީގެ ވަރުގަދަ ހަމަލާއެއް ޙުދައިދާއަށާއި ޞަންޢާއަށް",
-          "link": "https://psmnews.mv/192824",
-          "publishedAt": "2026-11-21T05:08:56.000Z"
+          "title": "ފިންލެންޑް ކައިރިން ދަތުރުކުރަމުންދިޔަ ރަޝިއާގެ އާގުބޯޓަކަށް ޑްރޯން ހަމަލާތަކެއް",
+          "link": "https://psmnews.mv/192859",
+          "publishedAt": "2026-11-21T17:41:09.000Z"
         },
         {
-          "title": "އަމިއްލަ މީޑިއާތަކަށް މާލީ އެހީ ދިނުމުގެ އުސޫލު އާންމުކޮށްފި",
-          "link": "https://psmnews.mv/192823",
-          "publishedAt": "2026-11-21T04:42:55.000Z"
+          "title": "\"އިންސާފުވެރި މަސައްކަތު މާޙައުލެއް އޮތްކަން ޔަގީންކޮށްދޭނަން\"",
+          "link": "https://psmnews.mv/192858",
+          "publishedAt": "2026-11-21T16:54:25.000Z"
         },
         {
-          "title": "ޝޫޓިން މުބާރާތުގެ ސަބަބުން ސާފް ގޭމްސަށް އުންމީދެއް",
-          "link": "https://psmnews.mv/192822",
-          "publishedAt": "2026-11-21T04:57:35.000Z"
+          "title": "ފުލަމް އަތުންވެސް ސަލާމަތް ނުވެވި, ސިޓީ ޕޮއިންޓަކުން ފުއްދާލަން ޖެހިއްޖެ",
+          "link": "https://psmnews.mv/192857",
+          "publishedAt": "2026-11-21T18:09:51.000Z"
         },
         {
-          "title": "ކޯޗު ނީޝަމްގެ އެދުމަކީ ގިނަ ކުދިން ކުރިކެޓާ ގުޅުން",
-          "link": "https://psmnews.mv/192821",
-          "publishedAt": "2026-11-21T03:59:15.000Z"
+          "title": "ސާފް އަންހެން ފުޓްސަލް މުބާރާތް އަންނަ އަހަރު، ފިރިހެން މުބާރާތް 2028ގައި",
+          "link": "https://psmnews.mv/192854",
+          "publishedAt": "2026-11-21T18:05:54.000Z"
         },
         {
-          "title": "ސާފް ޗެމްޕިއަންޝިޕް އަންނަ އަހަރު ބާއްވަނީ",
-          "link": "https://psmnews.mv/192820",
-          "publishedAt": "2026-11-21T04:58:23.000Z"
+          "title": "ޢައްޒާއަށް ޔަހޫދީން ތަކުރާރުކޮށް ދޭ ހަމަލާތަކުގައި އިތުރު 4 މީހަކު ޝަހީދުކޮއްލައިފި",
+          "link": "https://psmnews.mv/192853",
+          "publishedAt": "2026-11-21T14:07:28.000Z"
         },
         {
-          "title": "ޔުނައިޓެޑް އަލުން އާރާސްތުކުރާނެކަމަށް ޕޮޗެޓީނޯ ވައުދުވެއްޖެ",
-          "link": "https://psmnews.mv/192819",
-          "publishedAt": "2026-11-21T04:56:18.000Z"
+          "title": "އެފްރިކާ ފުޓްބޯޅަ ފެޑެރޭޝަނަށް 31.2 މިލިޔަން ޑޮލަރުގެ ފައިދާއެއް",
+          "link": "https://psmnews.mv/192851",
+          "publishedAt": "2026-11-21T18:11:01.000Z"
         },
         {
-          "title": "އޭޓީޕީ ފައިނަލްސް: ސެމީ ފައިނަލްގެ ފަހު ޖާގަ މެޑްވެޑޭވަށް",
-          "link": "https://psmnews.mv/192818",
-          "publishedAt": "2026-11-21T04:55:23.000Z"
+          "title": "ދީނީ ކަންކަން ކުރިއެރުވުމާއި މަޝްރޫއުތައް ހިމެނޭހެން އިސްލާމީ ދާއިރާއިން ކުރިއެރުންތަކެއް",
+          "link": "https://psmnews.mv/192850",
+          "publishedAt": "2026-11-21T13:49:18.000Z"
         },
         {
-          "title": "އިންޑިއާގެ ފުޓުބޯޅަ: މިހާރުގެ ރައީސަށް ތާއީދު ނުކުރަން އެދި ސަރުކާރަށް ސިޓީއެއް ސިޓީއެއް ސަރުކާރަށް",
-          "link": "https://psmnews.mv/192817",
-          "publishedAt": "2026-11-21T04:52:45.000Z"
+          "title": "ޕީއެސްއައިޕީ މަޝްރޫއުތަކަށް ކުރި ޚަރަދު 5.3 ބިލިޔަން ރުފިޔާއަށް އަރައިފި",
+          "link": "https://psmnews.mv/192849",
+          "publishedAt": "2026-11-21T13:17:19.000Z"
         }
       ]
     },
@@ -130,8 +69,36 @@
         "homepage": "https://atolltimes.mv",
         "lang": "en-MV"
       },
-      "fetchedAt": "2026-11-21T06:50:33.956Z",
+      "fetchedAt": "2026-11-21T18:33:12.458Z",
       "items": [
+        {
+          "title": "How Shenzhen protects its mangrove and profits from ‘Blue Carbon’",
+          "link": "https://atolltimes.mv/post/feature/17761",
+          "summary": "Amid robots and skyscrapers, Shenzhen’s model of protecting mangroves and profiting from ‘Blue Carbon’ offers a blueprint for Maldivian nature parks.",
+          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/21/c937731e-390d-4830-aa1b-abbc8a8fd1ab.png?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
+          "publishedAt": "2026-11-21T14:52:33.000Z"
+        },
+        {
+          "title": "Zihaan's remand extended by 16 days",
+          "link": "https://atolltimes.mv/post/news/17760",
+          "summary": "Zihaan, who was arrested last month, has now had his remand extended twice following an initial 15-day detention order.",
+          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/21/e64098d0-b60f-4ff4-b599-d343bd2b9fe6.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
+          "publishedAt": "2026-11-21T14:39:31.000Z"
+        },
+        {
+          "title": "PNC, MDP set to be only parties eligible for state funding",
+          "link": "https://atolltimes.mv/post/news/17759",
+          "summary": "According to membership figures published by the Elections Commission (EC), only the PNC and MDP currently meet the legal requirement.",
+          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/21/bd2e5247-7466-44e4-8848-c52dfb062902.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
+          "publishedAt": "2026-11-21T11:47:07.000Z"
+        },
+        {
+          "title": "Nasheed calls for referendum on Ras Malé project",
+          "link": "https://atolltimes.mv/post/news/17758",
+          "summary": "Nasheed warned that proceeding with the project without obtaining public consent could have consequences for the country.",
+          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/21/abcaade7-2f0e-4c2c-ba05-49d821a813e8.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
+          "publishedAt": "2026-11-21T08:26:13.000Z"
+        },
         {
           "title": "Pres honours 56 for state service, 58 for academic achievements",
           "link": "https://atolltimes.mv/post/news/17757",
@@ -173,34 +140,6 @@
           "summary": "The decision follows concerns raised by businesses in the tourism sector after the government introduced the tax.",
           "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/19/b46a96d0-8ada-4783-8f58-a7081e979a8d.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
           "publishedAt": "2026-11-19T14:56:39.000Z"
-        },
-        {
-          "title": "President calls for accountability and justice for Rohingya",
-          "link": "https://atolltimes.mv/post/news/17751",
-          "summary": "The case was brought against Myanmar by The Gambia in 2019 under the Convention on the Prevention and Punishment of the Crime of Genocide.",
-          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/19/88581b2e-027b-4363-81cd-9605865aaae1.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
-          "publishedAt": "2026-11-19T14:54:48.000Z"
-        },
-        {
-          "title": "JSC directs use of 'Honourable' when addressing SC justices",
-          "link": "https://atolltimes.mv/post/news/17750",
-          "summary": "The circular also sets out the forms of address for the Chief Judge and judges of the High Court.",
-          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/19/e5dab72f-5b12-42f7-8f26-c698c65d718d.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
-          "publishedAt": "2026-11-19T14:53:10.000Z"
-        },
-        {
-          "title": "Nasheed says denying prosperity is a to keep Maldives poor",
-          "link": "https://atolltimes.mv/post/news/17749",
-          "summary": "He previously expressed support for the Eagle Hills development during a meeting of the MDP's National Council.",
-          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/19/ce4b5809-b033-4701-a114-28842425145d.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
-          "publishedAt": "2026-11-19T12:49:47.000Z"
-        },
-        {
-          "title": "Adhaalath Party membership falls to 5,572",
-          "link": "https://atolltimes.mv/post/news/17748",
-          "summary": "EC statistics show that the party's membership has been declining over successive years.",
-          "image": "https://cdn.atolltimes.mv/media/s3/media/2026/11/19/3f0b1176-c365-4826-be35-ff7ef75c3e80.webp?fit=crop-50-50&w=1200&h=630&mark=%2Fmark.png&markpos=bottom-right&fm=jpg",
-          "publishedAt": "2026-11-19T12:07:15.000Z"
         }
       ]
     }

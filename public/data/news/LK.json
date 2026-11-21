@@ -3,143 +3,82 @@
   "outlets": [
     {
       "outlet": {
-        "id": "ada-derana",
-        "name": "Ada Derana",
-        "homepage": "https://www.adaderana.lk",
-        "lang": "en-LK"
-      },
-      "fetchedAt": "2026-11-19T06:54:38.717Z",
-      "items": [
-        {
-          "title": "DMT introduces appointment-only system for Narahenpita Head Office from Monday",
-          "link": "https://adaderana.lk/news/251961",
-          "publishedAt": "2026-11-19T06:27:39.000Z"
-        },
-        {
-          "title": "Xi and Trump hold talks in Shenzhen amid US-China trade, technology disputes",
-          "link": "https://adaderana.lk/news/251960",
-          "publishedAt": "2026-11-19T05:56:47.000Z"
-        },
-        {
-          "title": "79th National Independence Day celebration to be held at Independence Square",
-          "link": "https://adaderana.lk/news/251959",
-          "publishedAt": "2026-11-19T05:49:40.000Z"
-        },
-        {
-          "title": "2026/2027 Sri Pada pilgrimage season to commence on December 23",
-          "link": "https://adaderana.lk/news/251958",
-          "publishedAt": "2026-11-19T05:30:21.000Z"
-        },
-        {
-          "title": "Sri Lanka and Bangladesh agree to fast-track mechanisms to expand bilateral trade and investment",
-          "link": "https://adaderana.lk/news/251956",
-          "publishedAt": "2026-11-19T05:02:50.000Z"
-        },
-        {
-          "title": "Cameron Bancroft says entire Australian team were aware of sandpaper plot",
-          "link": "https://adaderana.lk/news/251950",
-          "publishedAt": "2026-11-19T03:25:25.000Z"
-        },
-        {
-          "title": "Lahiru Kumara claims five wickets as Pakistan take 227-run lead over Sri Lanka",
-          "link": "https://adaderana.lk/news/251914",
-          "publishedAt": "2026-11-18T09:27:24.000Z"
-        },
-        {
-          "title": "Unprecedented ticket demand shows Cricket World Cup is a must-see event: tournament director",
-          "link": "https://adaderana.lk/news/251911",
-          "publishedAt": "2026-11-18T08:54:15.000Z"
-        },
-        {
-          "title": "Australia to give all players chance to give accounts of 2018 ball-tampering incident",
-          "link": "https://adaderana.lk/news/251889",
-          "publishedAt": "2026-11-18T04:09:26.000Z"
-        },
-        {
-          "title": "Tiger Woods set to return next month after two years out",
-          "link": "https://adaderana.lk/news/251879",
-          "publishedAt": "2026-11-18T01:40:14.000Z"
-        }
-      ]
-    },
-    {
-      "outlet": {
         "id": "daily-mirror-lk",
         "name": "Daily Mirror",
         "homepage": "https://www.dailymirror.lk",
         "lang": "en-LK"
       },
-      "fetchedAt": "2026-11-21T06:50:25.922Z",
+      "fetchedAt": "2026-11-21T18:33:03.143Z",
       "items": [
         {
-          "title": "More than half of households burn polythene and plastic waste in Sri Lanka",
-          "link": "https://www.dailymirror.lk/breaking-news/More-than-half-of-households-burn-polythene-and-plastic-waste-in-Sri-Lanka/108-355420",
-          "summary": "More than half of Sri Lankan households dispose of their polythene and plastic waste by burning it, despite open burning being prohibited under the National Environmental Act, highlighting continuing challenges in waste…",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_bd9a3b22c5.jpg",
-          "publishedAt": "2026-11-21T11:27:00.000Z"
+          "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+          "link": "https://www.dailymirror.lk/international/Tankers-hit-in-Strait-of-Hormuz-as-Iran-tightens-grip-on-shipping/107-355486",
+          "summary": "British maritime authorities have reported two incidents involving tankers struck by unidentified projectiles in the Strait of Hormuz, as Iran continues to restrict shipping through the vital waterway.",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_02d76436c4.jpg",
+          "publishedAt": "2026-11-21T21:08:00.000Z"
         },
         {
-          "title": "Govt allocates Rs. 34 Million for former presidents in 2027 Budget: Minister",
-          "link": "https://www.dailymirror.lk/breaking-news/Govt-allocates-Rs--34-Million-for-former-presidents-in-2027-Budget:-Minister/108-355440",
-          "summary": "The government has allocated Rs. 34 million for former Presidents under the President’s expenditure head in the 2027 Budget, Minister Ananda Wijepala said in Parliament today.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_c1bc147c37.jpg",
-          "publishedAt": "2026-11-21T11:24:00.000Z"
+          "title": "SJB MP questions Namal Rajapaksa’s continued remand, cites Bail Act",
+          "link": "https://www.dailymirror.lk/breaking-news/SJB-MP-questions-Namal-Rajapaksa’s-continued-remand--cites-Bail-Act/108-355484",
+          "summary": "SJB MP Chithral Fernando has questioned the continued remand of Opposition MP Namal Rajapaksa, arguing that the Bail Act No. 30 of 1997 establishes the granting of bail as the rule and its refusal as the exception.",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_d7dad9b0cb.jpg",
+          "publishedAt": "2026-11-21T18:39:00.000Z"
         },
         {
-          "title": "Human-elephant conflict action plan to be submitted by December 20",
-          "link": "https://www.dailymirror.lk/breaking-news/Human-elephant-conflict-action-plan-to-be-submitted-by-December-20/108-355439",
-          "summary": "A preliminary draft of the National Action Plan to manage the human-elephant conflict (HEC) is expected to be submitted to the Parliamentary Oversight Committee by December 20, 2026.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_0ba95f02cb.jpg",
-          "publishedAt": "2026-11-21T11:15:00.000Z"
+          "title": "Parliament approves 2027 expenditure heads for President, legislature and judiciary",
+          "link": "https://www.dailymirror.lk/breaking-news/Parliament-approves-2027-expenditure-heads-for-President--legislature-and-judiciary/108-355483",
+          "summary": "Parliament today approved the expenditure heads for 2027 relating to the offices of the President, the Legislature and the Judiciary.",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_77133acdae.jpg",
+          "publishedAt": "2026-11-21T18:27:00.000Z"
         },
         {
-          "title": "West Asia crisis hinders expressway construction in Sri Lanka",
-          "link": "https://www.dailymirror.lk/breaking-news/West-Asia-crisis-hinders-expressway-construction-in-Sri-Lanka/108-355419",
-          "summary": "The West Asian crisis has hampered road construction, including the development of proposed expressways, due to difficulties in importing bitumen, a petroleum by-product, an official said.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_1b97dc0362.jpg",
-          "publishedAt": "2026-11-21T10:19:00.000Z"
+          "title": "Rs. 1.66 billion spent on 72 stalled education projects",
+          "link": "https://www.dailymirror.lk/breaking-news/Rs--1-66-billion-spent-on-72-stalled-education-projects/108-355482",
+          "summary": "Around Rs. 1,664 million has been spent on 72 education development projects launched between 2018 and 2021, of which 20 remain stalled due to contractual issues, the Committee on Public Accounts (COPA) was informed.",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_f68ce56008.jpg",
+          "publishedAt": "2026-11-21T17:08:00.000Z"
         },
         {
-          "title": "Supreme Court rules Prevention of Organised Crime Bill consistent with Constitution",
-          "link": "https://www.dailymirror.lk/breaking-news/Supreme-Court-rules-Prevention-of-Organised-Crime-Bill-consistent-with-Constitution/108-355438",
-          "summary": "The Supreme Court has ruled that the Prevention of Organised Crime Bill is not inconsistent with the Constitution and can therefore be passed in Parliament with a simple majority, subject to certain amendments.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_301583225a.jpg",
-          "publishedAt": "2026-11-21T10:10:00.000Z"
+          "title": "New apartment complexes planned for Colombo by 2027",
+          "link": "https://www.dailymirror.lk/breaking-news/New-apartment-complexes-planned-for-Colombo-by-2027/108-355481",
+          "summary": "The Government plans to address housing and settlement problems in Colombo and other urban areas by 2027 through a programme to construct new apartment complexes in collaboration with the private sector.",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_1c976bf5a6.jpg",
+          "publishedAt": "2026-11-21T16:30:00.000Z"
         },
         {
-          "title": "The FBI was hacked again, this time the breach targeted its crime database",
-          "link": "https://www.dailymirror.lk/international/The-FBI-was-hacked-again--this-time-the-breach-targeted-its-crime-database/107-355437",
-          "summary": "The FBI is investigating an apparent breach of its nationwide criminal information database that serves as a lifeline between federal, state and local law enforcement, two people briefed on the investigation said.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_bdabf7586b.jpg",
-          "publishedAt": "2026-11-21T09:23:00.000Z"
+          "title": "Parliamentary Committee calls for proper recycling and disposal of electric vehicle batteries",
+          "link": "https://www.dailymirror.lk/breaking-news/Parliamentary-Committee-calls-for-proper-recycling-and-disposal-of-electric-vehicle-batteries/108-355480",
+          "summary": "The Committee on Ways and Means has stressed the importance of establishing a proper system to ensure that importers and manufacturers take responsibility for the environmentally safe disposal and recycling of electric…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_1806105a88.jpg",
+          "publishedAt": "2026-11-21T16:16:00.000Z"
         },
         {
-          "title": "NASA astronaut shares stunning view of Sri Lanka from space",
-          "link": "https://www.dailymirror.lk/breaking-news/NASA-astronaut-shares-stunning-view-of-Sri-Lanka-from-space/108-355436",
-          "summary": "NASA astronaut Dr. Anil Menon has shared a striking photograph of Sri Lanka captured from aboard the International Space Station (ISS), offering a spectacular view of the island from space.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_abd09f29db.jpg",
-          "publishedAt": "2026-11-21T09:15:00.000Z"
+          "title": "No tsunami threat to Sri Lanka",
+          "link": "https://www.dailymirror.lk/breaking-news/No-tsunami-threat-to-Sri-Lanka/108-355479",
+          "summary": "Sri Lanka’s coastal areas have been declared safe following a 6.8 magnitude earthquake in the Indian Ocean, the Department of Meteorology said.",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_d1adcf6c60.jpg",
+          "publishedAt": "2026-11-21T16:12:00.000Z"
         },
         {
-          "title": "Appeal Court sets 13-year jail term for Hindu Poosari over rape of war-displaced student",
-          "link": "https://www.dailymirror.lk/breaking-news/Appeal-Court-sets-13-year-jail-term-for-Hindu-Poosari-over-rape-of-war-displaced-student/108-355418",
-          "summary": "The Court of Appeal yesterday dismissed the appeal and affirmed the conviction of a Hindu temple priest (Poosari) who was found guilty of raping a 17-year-old war-displaced student staying at his residence in Mullaitivu…",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_5388edcdf6.jpg",
-          "publishedAt": "2026-11-21T09:07:00.000Z"
+          "title": "Four Deduru Oya reservoir gates opened due to heavy rains",
+          "link": "https://www.dailymirror.lk/breaking-news/Four-Deduru-Oya-reservoir-gates-opened-due-to-heavy-rains/108-355478",
+          "summary": "Four sluice gates of the Deduru Oya reservoir have been opened by one foot each, releasing 2,800 cubic feet of water per second into the Deduru Oya due to prevailing rainy weather conditions.",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_eaa2e8607a.jpg",
+          "publishedAt": "2026-11-21T16:02:00.000Z"
         },
         {
-          "title": "Thai Deputy Prime Minister arrives in Sri Lanka",
-          "link": "https://www.dailymirror.lk/breaking-news/Thai-Deputy-Prime-Minister-arrives-in-Sri-Lanka/108-355435",
-          "summary": "Deputy Prime Minister and Minister of Foreign Affairs of Thailand Sihasak Phuangketkeow arrived in Sri Lanka on November 20 for a four-day official visit.",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_504cea1192.jpg",
-          "publishedAt": "2026-11-21T08:29:00.000Z"
+          "title": "Dayasiri challenges mandatory remand powers in Namal’s case",
+          "link": "https://www.dailymirror.lk/breaking-news/Dayasiri-challenges-mandatory-remand-powers-in-Namal’s-case/108-355477",
+          "summary": "Opposition MP Dayasiri Jayasekara has questioned the mandatory remand provisions under Section 149 of the Anti-Corruption Act, raising concerns over judicial independence and the possibility of using criminal…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_19cd7b1332.jpg",
+          "publishedAt": "2026-11-21T15:52:00.000Z"
         },
         {
-          "title": "Russian missile hits Poland as Ukraine’s allies hold military exercise, says Tusk",
-          "link": "https://www.dailymirror.lk/international/Russian-missile-hits-Poland-as-Ukraine’s-allies-hold-military-exercise--says-Tusk/107-355434",
-          "summary": "Poland says a Russian cruise missile was among three objects that violated its airspace early on Friday, with Prime Minister Donald Tusk saying it did not appear to be an accident when Western military exercises were…",
-          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_4d15ce8d19.jpg",
-          "publishedAt": "2026-11-21T08:21:00.000Z"
+          "title": "Youth skills campaign to cover 14,008 GN divisions",
+          "link": "https://www.dailymirror.lk/breaking-news/Youth-skills-campaign-to-cover-14-008-GN-divisions/108-355476",
+          "summary": "A national door-to-door campaign will be launched across all 14,008 Grama Niladhari divisions to identify the talents and interests of young people and direct them towards vocational training and employment…",
+          "image": "https://bmkltsly13vb.compat.objectstorage.ap-singapore-1.oraclecloud.com/cdn.sg.dailymirror.lk/assets/uploads/image_7bae5c7119.jpg",
+          "publishedAt": "2026-11-21T15:38:00.000Z"
         }
       ]
     },
@@ -150,77 +89,77 @@
         "homepage": "https://www.newswire.lk",
         "lang": "en-LK"
       },
-      "fetchedAt": "2026-11-21T06:50:26.377Z",
+      "fetchedAt": "2026-11-21T18:33:03.035Z",
       "items": [
         {
-          "title": "Sri Lanka, Tatarstan to boost economic ties",
-          "link": "https://www.newswire.lk/2026/11/21/sri-lanka-tatarstan-to-boost-economic-ties/",
-          "summary": "Sri Lanka and Russia’s Republic of Tatarstan have agreed to strengthen economic cooperation and promote business participation at Sri LankaContinue Reading The post Sri Lanka, Tatarstan to boost economic ties appeared…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/SL-Tartarstan.jpg",
-          "publishedAt": "2026-11-21T06:33:08.000Z"
+          "title": "Vehicle import taxes under spotlight : What Parliament discussed",
+          "link": "https://www.newswire.lk/2026/11/21/vehicle-import-taxes-under-spotlight-what-parliament-discussed/",
+          "summary": "Sri Lanka’s Parliamentary Committee on Ways and Means has discussed the need to simplify vehicle import taxes and introduce concessionsContinue Reading The post Vehicle import taxes under spotlight : What Parliament…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/FB_IMG_1795273026439.jpg",
+          "publishedAt": "2026-11-21T15:00:25.000Z"
         },
         {
-          "title": "Protecting Sri Lanka’s Health, Food Systems and Future from AMR",
-          "link": "https://www.newswire.lk/2026/11/21/protecting-sri-lankas-health-food-systems-and-future-from-amr/",
-          "summary": "By Vimlendra Sharan, FAO Representative in Sri Lanka and the Maldives, and Dr. Rajesh Sambhajirao Pandav, WHO Representative to SriContinue Reading The post Protecting Sri Lanka’s Health, Food Systems and Future from AMR…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/FAO-representatives.jpg",
-          "publishedAt": "2026-11-21T06:28:05.000Z"
+          "title": "Doctors announce two-hour nationwide trade union action over Budget 2027",
+          "link": "https://www.newswire.lk/2026/11/21/doctors-announce-two-hour-nationwide-trade-union-action-over-budget-2027/",
+          "summary": "The Government Medical Officers’ Association (GMOA) has announced a two-hour nationwide trade union action on Monday, November 23, protesting theContinue Reading The post Doctors announce two-hour nationwide trade union…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2025/11/IMG_2128.jpeg",
+          "publishedAt": "2026-11-21T14:55:02.000Z"
         },
         {
-          "title": "Air quality unhealthy in 7 areas across Sri Lanka",
-          "link": "https://www.newswire.lk/2026/11/21/air-quality-unhealthy-in-7-areas-across-sri-lanka/",
-          "summary": "Air quality has reached unhealthy levels for sensitive groups in several parts of Sri Lanka, according to the latest availableContinue Reading The post Air quality unhealthy in 7 areas across Sri Lanka appeared first on…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Air-quality-2.jpg",
-          "publishedAt": "2026-11-21T06:08:14.000Z"
+          "title": "Teachers’ and principals’ unions announce island-wide strike on November 30",
+          "link": "https://www.newswire.lk/2026/11/21/teachers-and-principals-unions-announce-island-wide-strike-on-november-30/",
+          "summary": "Several Teachers and principal unions across Sri Lanka are preparing to launch a one-day island-wide strike on November 30, protestingContinue Reading The post Teachers’ and principals’ unions announce island-wide strike…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/joseph-starlin.jpg",
+          "publishedAt": "2026-11-21T14:46:23.000Z"
         },
         {
-          "title": "Trump threatens to penalize US tech companies that build AI data centres in other countries",
-          "link": "https://www.newswire.lk/2026/11/21/trump-threatens-to-penalize-us-tech-companies-that-build-ai-data-centres-in-other-countries/",
-          "summary": "U.S. tech companies that build artificial intelligence data centres in other countries will face “a tremendous tax,” U.S. President DonaldContinue Reading The post Trump threatens to penalize US tech companies that build…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/03/Donald-Trump-1.jpg",
-          "publishedAt": "2026-11-21T05:38:55.000Z"
+          "title": "Indian Opposition Youth Congress workers storm Meta office over Instagram restrictions",
+          "link": "https://www.newswire.lk/2026/11/21/indian-opposition-youth-congress-workers-storm-meta-office-over-instagram-restrictions/",
+          "summary": "Members of the Indian Youth Congress stormed the premises of Meta’s office in Hyderabad, India, on Friday (20), protesting restrictionsContinue Reading The post Indian Opposition Youth Congress workers storm Meta office…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/telangana-youth-congress-workers-storm-metas-office-over-leaders-account-suspensions-204016257-16x9_0.jpg",
+          "publishedAt": "2026-11-21T14:09:33.000Z"
         },
         {
-          "title": "Fire breaks out at scrap metal shop in Pannipitiya",
-          "link": "https://www.newswire.lk/2026/11/21/fire-breaks-out-at-scrap-metal-shop-in-pannipitiya/",
-          "summary": "A fire broke out at a scrap metal shop in Depanama, Pannipitiya, at around 9.05 a.m. today (21), Police said.Continue Reading The post Fire breaks out at scrap metal shop in Pannipitiya appeared first on Newswire.",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Fire-pannipitiya.jpg",
-          "publishedAt": "2026-11-21T05:27:02.000Z"
+          "title": "GMOA to begin awareness campaign ahead of possible trade union action over budget",
+          "link": "https://www.newswire.lk/2026/11/21/gmoa-to-begin-awareness-campaign-ahead-of-possible-trade-union-action-over-budget/",
+          "summary": "The Government Medical Officers’ Association (GMOA) has decided to launch an awareness campaign from November 23, ahead of possible tradeContinue Reading The post GMOA to begin awareness campaign ahead of possible trade…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/IMG_4518.jpeg",
+          "publishedAt": "2026-11-21T13:11:19.000Z"
         },
         {
-          "title": "Justice Minister clarifies Chemmani report following controversy over Raj Somadeva’s findings",
-          "link": "https://www.newswire.lk/2026/11/21/justice-minister-clarifies-chemmani-report-following-controversy-over-raj-somadevas-findings/",
-          "summary": "By Newswire Editorial The Government has sought to clarify the controversy surrounding the Chemmani mass grave investigations, following questions raisedContinue Reading The post Justice Minister clarifies Chemmani…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Harshana-Nanayakkara-Ramanathan-Archchuna.jpg",
-          "publishedAt": "2026-11-21T05:22:26.000Z"
+          "title": "Opposition Leader questions decision to block debate on former Pakistan PM Imran Khan",
+          "link": "https://www.newswire.lk/2026/11/21/opposition-leader-questions-decision-to-block-debate-on-former-pakistan-pm-imran-khan/",
+          "summary": "Opposition Leader Sajith Premadasa has questioned the government’s decision to prevent a parliamentary debate on a proposal concerning former PakistaniContinue Reading The post Opposition Leader questions decision to…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Screenshot_20261121_180500_Editor-Lite.jpg",
+          "publishedAt": "2026-11-21T12:36:20.000Z"
         },
         {
-          "title": "Two company directors arrested over alleged Rs. 4 billion fraud",
-          "link": "https://www.newswire.lk/2026/11/21/two-company-directors-arrested-over-alleged-rs-4-billion-fraud/",
-          "summary": "Two directors of private companies based in Kandy and Kohuwala have been arrested over an alleged financial fraud involving nearlyContinue Reading The post Two company directors arrested over alleged Rs. 4 billion fraud…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Screenshot_20261121_102602_ChatGPT.jpg",
-          "publishedAt": "2026-11-21T04:56:42.000Z"
+          "title": "Third salary increase for all public servants and teachers in January 2027 – PM",
+          "link": "https://www.newswire.lk/2026/11/21/third-salary-increase-for-all-public-servants-and-teachers-in-january-2027-pm/",
+          "summary": "Prime Minister Dr. Harini Amarasuriya has announced that all public sector employees and teachers will receive the third phase ofContinue Reading The post Third salary increase for all public servants and teachers in…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Screenshot_20261121_175714_WhatsApp.jpg",
+          "publishedAt": "2026-11-21T12:29:53.000Z"
         },
         {
-          "title": "Supreme Court clears Prevention of Organised Crime Bill with amendments",
-          "link": "https://www.newswire.lk/2026/11/21/supreme-court-clears-prevention-of-organised-crime-bill-with-amendments/",
-          "summary": "By Newswire Editorial The Supreme Court has ruled that the Prevention of Organised Crime Bill is not inconsistent with theContinue Reading The post Supreme Court clears Prevention of Organised Crime Bill with amendments…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/10/Kalani-1-3.jpg",
-          "publishedAt": "2026-11-21T04:39:35.000Z"
+          "title": "6.8 magnitude earthquake strikes Indian Ocean; no tsunami threat to Sri Lanka",
+          "link": "https://www.newswire.lk/2026/11/21/6-8-magnitude-earthquake-strikes-indian-ocean-no-tsunami-threat-to-sri-lanka/",
+          "summary": "A 6.8 magnitude earthquake struck the Indian Ocean near Banda Aceh on Saturday (21), but Sri Lanka’s Department ofContinue Reading The post 6.8 magnitude earthquake strikes Indian Ocean; no tsunami threat to Sri Lanka…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Screenshot_20261121_161751_Samsung-Notes.jpg",
+          "publishedAt": "2026-11-21T10:50:15.000Z"
         },
         {
-          "title": "Navy seizes 460kg of smuggled Kendu leaves in Kalpitiya",
-          "link": "https://www.newswire.lk/2026/11/21/navy-seizes-460kg-of-smuggled-kendu-leaves-in-kalpitiya/",
-          "summary": "By Newswire Editorial The Sri Lanka Navy seized approximately 460 kilograms of Kendu leaves believed to have been smuggled intoContinue Reading The post Navy seizes 460kg of smuggled Kendu leaves in Kalpitiya appeared…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Kendu-leaves.jpg",
-          "publishedAt": "2026-11-21T04:27:38.000Z"
+          "title": "Sri Lanka’s tariff policies and trade agreements reviewed by Parliamentary Committee",
+          "link": "https://www.newswire.lk/2026/11/21/sri-lankas-tariff-policies-and-trade-agreements-reviewed-by-parliamentary-committee/",
+          "summary": "By Newswire Editorial The Committee on Ways and Means has held discussions on Sri Lanka’s tariff policies and the progressContinue Reading The post Sri Lanka’s tariff policies and trade agreements reviewed by…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Ways-and-Means-Committee.jpg",
+          "publishedAt": "2026-11-21T10:11:01.000Z"
         },
         {
-          "title": "Brazil ex-president Bolsonaro taken to hospital over abdominal pain",
-          "link": "https://www.newswire.lk/2026/11/21/brazil-ex-president-bolsonaro-taken-to-hospital-over-abdominal-pain/",
-          "summary": "Convicted former Brazilian president Jair Bolsonaro, who is serving a 27-year sentence under house arrest over a coup attempt, hasContinue Reading The post Brazil ex-president Bolsonaro taken to hospital over abdominal…",
-          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Jair-Bolsanaro-2.jpg",
-          "publishedAt": "2026-11-21T04:16:56.000Z"
+          "title": "PM rejects claims of education funding cuts in 2027 Budget",
+          "link": "https://www.newswire.lk/2026/11/21/pm-rejects-claims-of-education-funding-cuts-in-2027-budget/",
+          "summary": "By Newswire Editorial The Government has continued the Suraksha insurance scheme while expanding its coverage, and increased Mahapola scholarships andContinue Reading The post PM rejects claims of education funding cuts…",
+          "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Screenshot-2026-11-21-123036.png",
+          "publishedAt": "2026-11-21T09:55:55.000Z"
         }
       ]
     }
