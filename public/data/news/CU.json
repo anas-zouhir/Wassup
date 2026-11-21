@@ -8,8 +8,14 @@
         "homepage": "http://www.cubadebate.cu",
         "lang": "es-CU"
       },
-      "fetchedAt": "2026-11-20T18:50:19.497Z",
+      "fetchedAt": "2026-11-21T06:50:02.083Z",
       "items": [
+        {
+          "title": "Enfermedades no transmisibles encabezan la lista de muertes en Cuba",
+          "link": "http://www.cubadebate.cu/noticias/2026/11/20/enfermedades-no-transmisibles-encabezan-la-lista-de-muertes-en-cuba/",
+          "summary": "Ocho de cada 10 individuos en el mundo mueren a causa de las enfermedades no transmisibles (ENT), de los cuales más del 40 % lo hacen de manera temprana. The post Enfermedades no transmisibles encabezan la lista de…",
+          "publishedAt": "2026-11-20T20:19:38.000Z"
+        },
         {
           "title": "PNR habilitará este domingo centros de trámites en La Habana para inscribir ciclomotores eléctricos",
           "link": "http://www.cubadebate.cu/noticias/2026/11/20/pnr-habilitara-este-domingo-centros-de-tramites-en-la-habana-para-inscribir-ciclomotores-electricos/",
@@ -81,14 +87,6 @@
           "publishedAt": "2026-11-20T15:35:55.000Z",
           "titleEn": "Essential tools for pentesting: the arsenal matters less than you think (and CTFs prove it)",
           "summaryEn": "What exactly is a pentesting tool? At first glance, it's a program designed to identify, exploit or document weaknesses in systems. Nmap scans ports and services. Burp Suite is intercepting and..."
-        },
-        {
-          "title": "Cincuenta organizaciones progresistas de EEUU exigen a líderes demócratas proteger a Cuba de una acción bélica",
-          "link": "http://www.cubadebate.cu/noticias/2026/11/20/cincuenta-organizaciones-progresistas-de-eeuu-exigen-a-lideres-democratas-proteger-a-cuba-de-una-accion-belica/",
-          "summary": "Cincuenta organizaciones progresistas instaron a los líderes demócratas en el Congreso a impulsar una resolución legislativa que prohiba una acción militar de Estados Unidos contra Cuba mientras crecen rumores en…",
-          "publishedAt": "2026-11-20T15:01:48.000Z",
-          "titleEn": "Fifty progressive U.S. organizations demand Democratic leaders protect Cuba from war action",
-          "summaryEn": "Fifty progressive organizations urged Democratic leaders in Congress to push for a legislative resolution banning U.S. military action against Cuba as rumors grow in..."
         }
       ]
     },
@@ -99,7 +97,7 @@
         "homepage": "https://www.14ymedio.com",
         "lang": "es-CU"
       },
-      "fetchedAt": "2026-11-20T18:50:19.694Z",
+      "fetchedAt": "2026-11-21T06:50:01.866Z",
       "items": [
         {
           "title": "En peligro las actas civiles conservadas en condiciones deplorables en el Archivo de Santiago de Cuba",
@@ -111,22 +109,32 @@
           "summaryEn": "There is growing concern about the stacks outside the building to save them from flooding and humidity at a facility opened just six years ago."
         },
         {
-          "title": "El Gobierno rebaja a 255.000 la cifra de afectados por la falta de agua en La Habana",
-          "link": "https://www.14ymedio.com/cuba/gobierno-rebaja-255-000-cifra_1_1133520.html",
-          "summary": "Díaz-Canel habla de “avances”, pero en algunas zonas de Lawton los vecinos llevan hasta siete semanas sin suministro",
-          "image": "https://static.14ymedio.com/clip/97a96c85-7af2-433d-844c-4dec9fdbe739_source-aspect-ratio_default_0.jpg",
-          "publishedAt": "2026-11-20T12:51:53.000Z",
-          "titleEn": "The government reduces to 255,000 the number of people affected by water shortages in Havana",
-          "summaryEn": "Diaz-Canel talks about advances, but in some areas of Lawton, neighbors have been without supplies for up to seven weeks."
+          "title": "Un cubano ejecutado en Texas suplicó que acabara su dolor durante la inyección letal",
+          "link": "https://www.14ymedio.com/cuba/cubano-ejecutado-texas-suplico-acabara_1_1133534.html",
+          "summary": "El procedimiento se alargó 16 minutos hasta la certificación de la muerte de Reinaldo Dennes, condenado por el asesinato de un joyero",
+          "image": "https://static.14ymedio.com/clip/f5774ded-1165-4221-9074-3ed56f38ee9b_source-aspect-ratio_default_0.jpg",
+          "publishedAt": "2026-11-20T19:59:57.000Z"
         },
         {
-          "title": "Cienfuegos prepara ocho farmacias privadas para aliviar el desabastecimiento estatal",
-          "link": "https://www.14ymedio.com/cuba/cienfuegos-prepara-ocho-farmacias-privadas_1_1133526.html",
-          "summary": "Los nuevos negocios solo podrán vender medicamentos importados y deberán entregar el 10% de sus utilidades a instituciones sanitarias",
-          "image": "https://static.14ymedio.com/clip/4a161499-e4d7-476b-a4dd-d0414a4c466f_source-aspect-ratio_default_0.jpg",
-          "publishedAt": "2026-11-20T14:51:09.000Z",
-          "titleEn": "Cienfuegos prepares eight private pharmacies to alleviate the state shortage",
-          "summaryEn": "New businesses will only be able to sell imported medicines and will have to give 10% of their profits to healthcare institutions."
+          "title": "EE UU logra repatriar a Alina López Miyares, acusada de espionaje por La Habana",
+          "link": "https://www.14ymedio.com/cuba/ee-uu-logra-repatriar-alina_1_1133542.html",
+          "summary": "Condenada a 13 años de prisión por un tribunal militar en 2017, la profesora cubanoamericana estaba en libertad condicional desde 2022, con prohibición de salir de la Isla hasta 2030",
+          "image": "https://static.14ymedio.com/clip/71b4ac0c-43a9-4072-bbaf-4b05de833bfa_source-aspect-ratio_default_0.jpg",
+          "publishedAt": "2026-11-20T22:04:39.000Z"
+        },
+        {
+          "title": "Ya son más de 355.000 los casos pendientes de residencia por la Ley de Ajuste Cubano",
+          "link": "https://www.14ymedio.com/cuba/migracion/son-355-000-casos-pendientes_1_1133535.html",
+          "summary": "Estados Unidos aprobó 652 solicitudes el pasado septiembre, pero 347.613 expedientes llevan más de seis meses sin resolverse y el tiempo medio de tramitación alcanza los 21,5 meses",
+          "image": "https://static.14ymedio.com/clip/7f072c70-1eff-4ce4-b88a-cdd3100d28e6_source-aspect-ratio_default_0.jpg",
+          "publishedAt": "2026-11-20T21:15:15.000Z"
+        },
+        {
+          "title": "Costa Rica otorgó refugio a más de 3.000 cubanos en los primeros 10 meses de 2026",
+          "link": "https://www.14ymedio.com/migracion/costa-rica-otorgo-refugio-3_1_1133540.html",
+          "summary": "El Gobierno garantiza la seguridad a migrantes y abre una opción de refugio temporal para acceder a trabajos",
+          "image": "https://static.14ymedio.com/clip/7407d4a4-9599-4693-b112-4cd5b73c9a1e_source-aspect-ratio_default_0.jpg",
+          "publishedAt": "2026-11-20T20:18:16.000Z"
         },
         {
           "title": "El Estado cubano se deshace de sus cafeterías y despide a sus trabajadores sin indemnización",
@@ -138,24 +146,6 @@
           "summaryEn": "Hundreds of employees with decades of service are left on the streets and without wages in the process of handing over the establishments to small businesses"
         },
         {
-          "title": "El canciller agradece las migajas enviadas por afines al régimen e ignora la sustancial ayuda de EE UU vía Cáritas",
-          "link": "https://www.14ymedio.com/cuba/canciller-agradece-migajas-enviadas-afines_1_1133504.html",
-          "summary": "Bruno Rodríguez califica de \"aparente generosidad\" las aportaciones de Washington",
-          "image": "https://static.14ymedio.com/clip/ed0c3b35-6c1c-4184-8f72-645e2edaa72d_source-aspect-ratio_default_0.jpg",
-          "publishedAt": "2026-11-19T21:58:15.000Z",
-          "titleEn": "The chancellor is grateful for the crumbs sent by relatives to the regime and ignores the substantial U.S. aid via Caritas",
-          "summaryEn": "Bruno Rodríguez calls Washington's contributions \"apparent generosity\""
-        },
-        {
-          "title": "Caracas retoma la cooperación militar con EE UU y asegura que se respetará la soberanía venezolana",
-          "link": "https://www.14ymedio.com/internacional/caracas-retoma-cooperacion-militar-ee_1_1133517.html",
-          "summary": "El Ministerio de Defensa de Venezuela aclara que el acuerdo se hará en \"estricto apego\" a la Constitución",
-          "image": "https://static.14ymedio.com/clip/b2143651-7468-49ed-a498-6c2fb00c4ee5_source-aspect-ratio_default_0.jpg",
-          "publishedAt": "2026-11-20T12:35:46.000Z",
-          "titleEn": "Caracas resumes military cooperation with the United States and assures that Venezuelan sovereignty will be respected",
-          "summaryEn": "The Venezuelan Ministry of Defense clarifies that the agreement will be made in \"strict adherence\" to the Constitution"
-        },
-        {
           "title": "Edición impresa del 20 de noviembre de 2026",
           "link": "https://www.14ymedio.com/blogs/edicion-impresa-de-14ymedio/edicion-impresa-20-noviembre-2026_132_1133524.html",
           "summary": "Una selección con las noticias y artículos más destacados de la semana en una versión descargable en PDF",
@@ -165,22 +155,22 @@
           "summaryEn": "A selection of the week's top news and articles in a downloadable PDF"
         },
         {
-          "title": "Camila Acosta y Ángel Santiesteban, acusados de \"atentado\" por publicaciones sobre el juicio a los masones",
-          "link": "https://www.14ymedio.com/cuba/camila-acosta-angel-santiesteban-acusados_1_1133512.html",
-          "summary": "La periodista denuncia que la Seguridad del Estado utiliza a un testigo de la Fiscalía para impulsar un proceso que podría llevarlos a prisión",
-          "image": "https://static.14ymedio.com/clip/cbf0b1d2-5819-4e8b-bfdc-f6b49b4c7e14_source-aspect-ratio_default_0.jpg",
-          "publishedAt": "2026-11-19T22:05:48.000Z",
-          "titleEn": "Camila Acosta and Ángel Santiesteban, accused of \"attempted\" by publications about the trial of the masons",
-          "summaryEn": "The journalist denounces that the State Security is using a witness from the Prosecutor's Office to push a process that could lead them to prison"
+          "title": "Cienfuegos prepara ocho farmacias privadas para aliviar el desabastecimiento estatal",
+          "link": "https://www.14ymedio.com/cuba/cienfuegos-prepara-ocho-farmacias-privadas_1_1133526.html",
+          "summary": "Los nuevos negocios solo podrán vender medicamentos importados y deberán entregar el 10% de sus utilidades a instituciones sanitarias",
+          "image": "https://static.14ymedio.com/clip/4a161499-e4d7-476b-a4dd-d0414a4c466f_source-aspect-ratio_default_0.jpg",
+          "publishedAt": "2026-11-20T14:51:09.000Z",
+          "titleEn": "Cienfuegos prepares eight private pharmacies to alleviate the state shortage",
+          "summaryEn": "New businesses will only be able to sell imported medicines and will have to give 10% of their profits to healthcare institutions."
         },
         {
-          "title": "En Cuba, los usureros anuncian su negocio abiertamente",
-          "link": "https://www.14ymedio.com/cuba/cuba-usureros-anuncian-negocio-abiertamente_1_1133488.html",
-          "summary": "Un cartel colgado de una verja ofrece billetes en efectivo a cambio de una transferencia bancaria, con una comisión del 25%",
-          "image": "https://static.14ymedio.com/clip/77bb3a5c-a141-43dd-8aff-ad90f64fca2e_source-aspect-ratio_default_0.jpg",
-          "publishedAt": "2026-11-19T18:14:13.000Z",
-          "titleEn": "In Cuba, usurers openly advertise their business",
-          "summaryEn": "A sign hanging from a fence offers cash bills in exchange for a bank transfer, with a 25% commission"
+          "title": "El Gobierno rebaja a 255.000 la cifra de afectados por la falta de agua en La Habana",
+          "link": "https://www.14ymedio.com/cuba/gobierno-rebaja-255-000-cifra_1_1133520.html",
+          "summary": "Díaz-Canel habla de “avances”, pero en algunas zonas de Lawton los vecinos llevan hasta siete semanas sin suministro",
+          "image": "https://static.14ymedio.com/clip/97a96c85-7af2-433d-844c-4dec9fdbe739_source-aspect-ratio_default_0.jpg",
+          "publishedAt": "2026-11-20T12:51:53.000Z",
+          "titleEn": "The government reduces to 255,000 the number of people affected by water shortages in Havana",
+          "summaryEn": "Diaz-Canel talks about advances, but in some areas of Lawton, neighbors have been without supplies for up to seven weeks."
         },
         {
           "title": "Ganar tiempo: la estrategia del régimen cubano para sobrevivir a Trump",
@@ -200,77 +190,67 @@
         "homepage": "https://www.cibercuba.com",
         "lang": "es-CU"
       },
-      "fetchedAt": "2026-11-20T06:52:29.364Z",
+      "fetchedAt": "2026-11-21T06:50:01.912Z",
       "items": [
         {
-          "title": "50 grupos progresistas, entre ellos Code Pink, presionan a los demócratas para forzar una votación que frene una acción militar de Trump contra la dictadura cubana",
-          "link": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199894-s27061-nid346186-50-grupos-progresistas-ellos-code-pink-presionan",
-          "image": "https://cdn0.celebritax.com/sites/default/files/1795148597-50-grupos-progresistas-ellos-code-pink-presionan-democratas-forzar-votacion-frene-accion.jpg",
-          "publishedAt": "2026-11-20T04:20:58.000Z",
-          "titleEn": "50 progressive groups, including Code Pink, are pressuring Democrats to force a vote that curbs a military action by Trump against the Cuban dictatorship"
+          "title": "México abre en La Habana la primera oficina de su agencia de cooperación fuera del país mientras el régimen se aferra a Sheinbaum",
+          "link": "https://www.cibercuba.com/noticias/2026-11-21-u1-e209363-s27061-nid346283-mexico-abre-habana-primera-oficina-agencia",
+          "image": "https://cdn0.celebritax.com/sites/default/files/1795234021-mexico-abre-habana-primera-oficina-agencia-cooperacion-fuera-pais-mientras-regimen-aferra.jpg",
+          "publishedAt": "2026-11-21T04:58:21.000Z"
         },
         {
-          "title": "En medio de la crisis energética en Cuba, organizaciones suecas y emigrados donan sistemas solares para cinco centros de salud",
-          "link": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199894-s27061-nid346185-medio-crisis-energetica-cuba-organizaciones-suecas",
-          "image": "https://cdn0.celebritax.com/sites/default/files/1795147263-organizaciones-suecas-donan-equipos-fotovoltaicos-hospitales-cuba.jpg",
-          "publishedAt": "2026-11-20T04:08:29.000Z",
-          "titleEn": "Amid the energy crisis in Cuba, Swedish and migrant organizations donate solar systems to five health centres"
+          "title": "Muelle flotante de la bahía de La Habana se hunde ante el abandono y el robo sistemático de su estructura",
+          "link": "https://www.cibercuba.com/noticias/2026-11-21-u1-e209363-s27061-nid346282-muelle-flotante-bahia-habana-hunde-abandono-robo",
+          "image": "https://cdn0.celebritax.com/sites/default/files/1795233362-puente-flotante-bahia-habana-hunde-abandono-robo-sistematico-estructura.jpg",
+          "publishedAt": "2026-11-21T04:27:34.000Z"
         },
         {
-          "title": "Hija de Fidel Castro compara el discurso de Zohran Mamdani con el de su padre: «Es la peor pesadilla de déjà vu»",
-          "link": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199894-s27061-nid346184-hija-fidel-castro-compara-discurso-zohran-mamdani",
-          "image": "https://cdn0.celebritax.com/sites/default/files/1795141621-hija-fidel-castro-compara-discurso-zohran-mamdani-padre-peor-pesadilla-deja-vu.jpg",
-          "publishedAt": "2026-11-20T02:36:24.000Z",
-          "titleEn": "Fidel Castro's daughter compares Zohran Mamdani's speech to her father's:"
+          "title": "Casi del tamaño de una tapa de botella: críticas al tamaño cada vez más ridículo del pan en Cuba",
+          "link": "https://www.cibercuba.com/noticias/2026-11-21-u1-e209363-s27061-nid346271-casi-tamano-tapa-botella-criticas-al-tamano-cada-vez",
+          "image": "https://cdn0.celebritax.com/sites/default/files/1795220641-tapa-botella-denuncian-tamano-cada-vez-ridiculo-pan-cuba.jpg",
+          "publishedAt": "2026-11-21T03:35:04.000Z"
         },
         {
-          "title": "El dólar se dispara en Cuba: alcanza los 945 pesos y acumula una subida de 40 CUP en una semana",
-          "link": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199894-s27061-nid346183-dolar-dispara-cuba-alcanza-945-pesos-acumula-subida",
-          "image": "https://cdn0.celebritax.com/sites/default/files/1795140002-asi-cierra-mercado-informal-cuba-dolar-sube-euro-apenas-mueve.jpg",
-          "publishedAt": "2026-11-20T02:13:04.000Z",
-          "titleEn": "The dollar rises in Cuba: reaches 945 pesos and accumulates a rise of 40 CUP in a week"
+          "title": "Siete grandes salideros y tuberías deterioradas complican el suministro de agua en La Habana",
+          "link": "https://www.cibercuba.com/noticias/2026-11-21-u1-e209363-s27061-nid346274-siete-grandes-salideros-tuberias-deterioradas",
+          "image": "https://cdn0.celebritax.com/sites/default/files/1795220942-siete-grandes-salideros-tuberias-deterioradas-complican-suministro-agua-habana.jpg",
+          "publishedAt": "2026-11-21T03:14:12.000Z"
         },
         {
-          "title": "Inspectora general de Emergencias de Florida denuncia que la despidieron por «razones políticas» tras bloquearle la supervisión de Alligator Alcatraz",
-          "link": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199894-s27061-nid346180-inspectora-general-emergencias-florida-denuncia",
-          "image": "https://cdn0.celebritax.com/sites/default/files/1795135321-inspectora-general-emergencias-florida-denuncia-despidieron-razones-politicas-tras.jpg",
-          "publishedAt": "2026-11-20T01:52:21.000Z",
-          "titleEn": "Florida Emergency Inspector General complains she was fired for political reasons after blocking Alligator Alcatraz's supervision"
+          "title": "«¿Quién protege a los jubilados de la inflación?»: la batalla de cientos de miles por la sobrevivencia cotidiana",
+          "link": "https://www.cibercuba.com/noticias/2026-11-21-u1-e209395-s27061-nid346278-quien-protege-jubilados-inflacion-batalla-miles",
+          "image": "https://cdn0.celebritax.com/sites/default/files/1795223641-quien-protege-jubilados-inflacion-batalla-miles-sobrevivencia-cotidiana.jpg",
+          "publishedAt": "2026-11-21T02:53:17.000Z"
         },
         {
-          "title": "Ni en tu casa estás seguro: Cubano alerta sobre el aumento de la delincuencia en La Habana",
-          "link": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199291-s27061-nid346181-ni-propia-casa-estas-seguro-cubano-alerta-aumento",
-          "image": "https://cdn0.celebritax.com/sites/default/files/1795135741-ni-propia-casa-estas-seguro-cubano-alerta-aumento-delincuencia-habana.jpg",
-          "publishedAt": "2026-11-20T01:48:00.000Z",
-          "titleEn": "Not even in your home are you safe: Cuban warns about the increase in crime in Havana"
+          "title": "El dólar rompe la barrera de los 950 pesos y marca un nuevo récord en el mercado informal en Cuba",
+          "link": "https://www.cibercuba.com/noticias/2026-11-21-u1-e209363-s27061-nid346281-dolar-rompe-barrera-950-pesos-marca-nuevo-record",
+          "image": "https://cdn0.celebritax.com/sites/default/files/1795227002-asi-cierra-mercado-informal-cuba-dolar-supera-barrera-950-pesos.jpg",
+          "publishedAt": "2026-11-21T02:50:02.000Z"
         },
         {
-          "title": "Activista santiaguero: «Hay días en que Cuba y la vida me duelen en el epicentro del alma»",
-          "link": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199291-s27061-nid346177-activista-santiaguero-hay-dias-cuba-vida-me-duelen",
-          "image": "https://cdn0.celebritax.com/sites/default/files/1795134421-activista-santiaguero-hay-dias-cuba-vida-me-duelen-epicentro-alma.jpg",
-          "publishedAt": "2026-11-20T01:40:51.000Z",
-          "titleEn": "Activist Santiago:  ⁇ There are days when Cuba and life hurt me in the epicenter of my soul ⁇"
+          "title": "La Policía devuelve en Marianao 10 celulares recuperados, pero no identifica a quienes los robaron",
+          "link": "https://www.cibercuba.com/noticias/2026-11-21-u1-e209363-s27061-nid346275-policia-devuelve-marianao-10-celulares-recuperados",
+          "image": "https://cdn0.celebritax.com/sites/default/files/1795221902-policia-devuelve-diez-celulares-marianao-aclarar-fueron-robados-ni-quienes-sustrajeron.jpg",
+          "publishedAt": "2026-11-21T02:39:13.000Z"
         },
         {
-          "title": "Periodista oficialista cubano: Nuestra realidad de hoy se empeña en superar el drama alimentario vivido por nuestros abuelos",
-          "link": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199291-s27061-nid346170-periodista-oficialista-cubano-nuestra-realidad-hoy",
-          "image": "https://cdn0.celebritax.com/sites/default/files/1795129021-periodista-oficialista-cubano-nuestra-realidad-hoy-empena-superar-drama-alimentario.jpg",
-          "publishedAt": "2026-11-20T01:31:34.000Z",
-          "titleEn": "Cuban Official Journalist: Our reality today is determined to overcome the food drama our grandparents lived"
+          "title": "«En Cuba la verdad es delito grave»: comunicador y analista mexicano",
+          "link": "https://www.cibercuba.com/noticias/2026-11-21-u1-e209395-s27061-nid346277-cuba-verdad-delito-grave-comunicador-analista",
+          "image": "https://cdn0.celebritax.com/sites/default/files/1795227397-cuba-verdad-delito-grave-comunicador-analista-mexicano.jpg",
+          "publishedAt": "2026-11-21T02:17:44.000Z"
         },
         {
-          "title": "«Fue un artículo de lujo»: cubana tras comprar 10 jabones",
-          "link": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199291-s27061-nid346164-fue-articulo-lujo-cubana-tras-comprar-10-jabones",
-          "image": "https://cdn0.celebritax.com/sites/default/files/1795125781-fue-articulo-lujo-cubana-compra-10-jabones-gasta-10000-pesos.jpg",
-          "publishedAt": "2026-11-20T01:16:31.000Z",
-          "titleEn": "⁇ It was a luxury item ⁇ : Cuban after buying 10 soaps"
+          "title": "Autoridades en La Habana del Este buscan implementar campanas de alerta temprana en cooperativas y entidades ante “situaciones anormales”",
+          "link": "https://www.cibercuba.com/noticias/2026-11-21-u1-e209363-s27061-nid346279-autoridades-habana-este-buscan-implementar-campanas",
+          "image": "https://cdn0.celebritax.com/sites/default/files/1795226118-habana-este-busca-alternativas-activar-alertas-comunitarias-situaciones-anormales.jpg",
+          "publishedAt": "2026-11-21T02:06:45.000Z"
         },
         {
-          "title": "Capturan a dos presuntos profanadores de tumbas en cementerio de Las Tunas",
-          "link": "https://www.cibercuba.com/noticias/2026-11-20-u1-e199291-s27061-nid346182-capturan-dos-presuntos-profanadores-tumbas",
-          "image": "https://cdn0.celebritax.com/sites/default/files/1795135801-capturan-dos-presuntos-profanadores-tumbas-cementerio-tunas.jpg",
-          "publishedAt": "2026-11-20T01:03:45.000Z",
-          "titleEn": "Two alleged grave- desecrators captured in Las Tunas cemetery"
+          "title": "«Qué engaño»: Cubanos ante nuevo mercado de barrio en Ciego de Ávila",
+          "link": "https://www.cibercuba.com/noticias/2026-11-21-u1-e199291-s27061-nid346263-engano-cubanos-nuevo-mercado-barrio-ciego-avila",
+          "image": "https://cdn0.celebritax.com/sites/default/files/1795216201-engano-cubanos-nuevo-mercado-barrio-ciego-avila.jpg",
+          "publishedAt": "2026-11-21T01:51:45.000Z"
         }
       ]
     }

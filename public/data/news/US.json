@@ -8,14 +8,28 @@
         "homepage": "https://www.nytimes.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-20T18:51:42.981Z",
+      "fetchedAt": "2026-11-21T06:51:06.597Z",
       "items": [
         {
-          "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-          "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-          "summary": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
-          "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-20T18:05:36.000Z"
+          "title": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
+          "link": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
+          "summary": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.",
+          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-ICE-training-jtmb/20dc-ICE-training-jtmb-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-21T01:43:40.000Z"
+        },
+        {
+          "title": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
+          "link": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
+          "summary": "The S&P 500 ended the day down more than 10 percent from its recent high, in a symbolic measure of investors’ souring mood.",
+          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-AI-markets-02-zfhg/20biz-AI-markets-02-zfhg-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-20T22:47:32.000Z"
+        },
+        {
+          "title": "What Is a Stock Market Correction?",
+          "link": "https://www.nytimes.com/article/stock-market-correction.html",
+          "summary": "The S&P 500 has fallen more than 10 percent from its recent high, crossing a threshold that signals investors have turned pessimistic about stocks.",
+          "image": "https://static01.nyt.com/images/2026/11/20/business/20biz-correction-explainer-promo/20biz-correction-explainer-promo-mediumSquareAt3X.png",
+          "publishedAt": "2026-11-20T22:48:40.000Z"
         },
         {
           "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
@@ -25,60 +39,46 @@
           "publishedAt": "2026-11-20T14:43:10.000Z"
         },
         {
-          "title": "C.F.T.C. Officials Considered Investigating Trump’s Memecoin, Then Punted",
-          "link": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
-          "summary": "Lawyers at the Commodity Futures Trading Commission looked into possible fraud soon after the digital token’s launch, then decided they would not get the commission’s support.",
-          "image": "https://static01.nyt.com/images/2026/11/18/multimedia/dc-memecoin-mzcq/dc-memecoin-mzcq-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-20T15:03:34.000Z"
+          "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+          "link": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+          "summary": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia.",
+          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-Nvidia-SEC-kblz/20biz-Nvidia-SEC-kblz-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-21T01:06:52.000Z"
         },
         {
-          "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
-          "link": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
-          "summary": "The S&P 500 and Nasdaq were on course for their worst weekly performances in over a year. Anthropic’s shares tumbled on their second day of trading.",
-          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-AI-markets-02-zfhg/20biz-AI-markets-02-zfhg-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-20T18:44:04.000Z"
+          "title": "Jury in Palisades Fire Trial Finds Man Guilty of Arson in Devastating Blaze",
+          "link": "https://www.nytimes.com/2026/11/20/us/la-fire-trial-arson.html",
+          "summary": "The defendant, Jonathan Rinderknecht, was found guilty on two counts. The verdict provides a measure of accountability for a painful chapter in recent L.A. history.",
+          "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00nat-hfo-arson-verdict-hlvb/00nat-hfo-arson-verdict-hlvb-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-21T01:08:11.000Z"
         },
         {
-          "title": "China’s A.I. Ambitions Are Running Into a Money Problem",
-          "link": "https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html",
-          "summary": "While Anthropic and other Silicon Valley A.I. giants are raising tens of billions in capital, Chinese rivals are struggling to keep pace financially.",
-          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20Biz-Ai-China-01-wjcq/20Biz-Ai-China-01-wjcq-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-20T10:01:07.000Z"
+          "title": "Trump Administration Says Army Can Blow Up Lead-Laced Explosives",
+          "link": "https://www.nytimes.com/2026/11/20/climate/iowa-lead-plume-ammunition-explosion.html",
+          "summary": "The detonation, now set for Monday, could create a cloud of lead dust stretching for miles over homes and farms, the Army has said. Environmental groups are seeking an emergency stay.",
+          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-LEAD-IOWA-01-jwfz/20CLI-LEAD-IOWA-01-jwfz-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-21T02:52:50.000Z"
         },
         {
-          "title": "Should You Invest in Anthropic? Here’s What to Consider.",
-          "link": "https://www.nytimes.com/2026/11/19/your-money/anthropic-ipo-investing.html",
-          "summary": "Placing a meaningful portion of your wealth on a single stock is never a good idea, but if you feel tempted to invest, ask yourself several questions first.",
-          "image": "https://static01.nyt.com/images/2026/11/18/business/00money-ipo/00money-ipo-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-20T14:39:17.000Z"
+          "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
+          "link": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
+          "summary": "If confirmed, the proof of the Riemann hypothesis would cement the field’s sense that no unsolved problem is safe from artificial intelligence.",
+          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-AI-RIEMANN-01-jtkm/20SCI-AI-RIEMANN-01-jtkm-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-21T00:33:39.000Z"
         },
         {
-          "title": "Sheet-Pan Recipes for Friendsgiving",
-          "link": "https://cooking.nytimes.com/article/thanksgiving-sheet-pan-recipes-friendsgiving",
-          "summary": "Spatchcock turkey, scalloped potatoes, Texas sheet cake and more easy, low cleanup dishes for a laid-back feast.",
-          "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05FD-SHEET-PAN-FRIENDSGIVING-honeynutsquashchickpeas-pgfl/05FD-SHEET-PAN-FRIENDSGIVING-honeynutsquashchickpeas-pgfl-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-18T16:33:36.000Z"
+          "title": "Playing ‘Key of Life,’ Stevie Wonder Invites All to Match His Joy",
+          "link": "https://www.nytimes.com/2026/11/20/arts/music/stevie-wonder-songs-in-the-key-of-life-tour.html",
+          "summary": "Wonder’s optimism was refracted around Madison Square Garden as he performed his “Songs in the Key of Life” album on a 50th anniversary tour.",
+          "image": "https://static01.nyt.com/images/2026/11/20/arts/20cul-stevie-wonder-02/20cul-stevie-wonder-02-mediumSquareAt3X-v2.jpg",
+          "publishedAt": "2026-11-21T02:36:21.000Z"
         },
         {
-          "title": "A Dairy Farmer Ran for Office to Prove a Point. He Accidentally Won.",
-          "link": "https://www.nytimes.com/2026/11/20/us/democrats-unexpected-winning-candidates-midterms.html",
-          "summary": "An Arkansas Democrat’s victory in a race for county assessor was one of many unlikely down-ballot wins that showed the depth of the blue wave.",
-          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-accidental-winners-top-pjwf/20nat-accidental-winners-top-pjwf-mediumSquareAt3X-v2.jpg",
-          "publishedAt": "2026-11-20T13:56:23.000Z"
-        },
-        {
-          "title": "As He Leaves Office, Ken Paxton Drops Suits Against Political Opponents",
-          "link": "https://www.nytimes.com/2026/11/20/us/texas-ken-paxton-drops-lawsuits.html",
-          "summary": "The Texas attorney general has abandoned suits against Muslim and immigrant rights groups — and the N.C.A.A.",
-          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-paxton-1t-pbwj/20nat-paxton-1t-pbwj-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-20T15:56:17.000Z"
-        },
-        {
-          "title": "Ron DeSantis Ponders a Presidential Run in a Post-Trump World",
-          "link": "https://www.nytimes.com/2026/11/20/us/politics/ron-desantis-florida-2028.html",
-          "summary": "In a wide-ranging interview, the governor of Florida talked about the potential timing of a presidential run. “I haven’t made any decisions,” he said.",
-          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-desantis-01-qtlc/20pol-desantis-01-qtlc-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-20T12:09:53.000Z"
+          "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+          "link": "https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html",
+          "summary": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma.",
+          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20BIZ-ROUNDUP-fqct/20BIZ-ROUNDUP-fqct-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-21T03:23:04.000Z"
         }
       ]
     },
@@ -89,8 +89,38 @@
         "homepage": "https://www.npr.org",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-20T18:51:43.037Z",
+      "fetchedAt": "2026-11-21T06:51:06.839Z",
       "items": [
+        {
+          "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+          "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+          "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+          "publishedAt": "2026-11-20T22:11:29.000Z"
+        },
+        {
+          "title": "The latest from Trump's press conference",
+          "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+          "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+          "publishedAt": "2026-11-20T21:38:21.000Z"
+        },
+        {
+          "title": "Rising seas have forced this Quinault village to relocate",
+          "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
+          "summary": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
+          "publishedAt": "2026-11-20T21:38:13.000Z"
+        },
+        {
+          "title": "Trump's impact on an Ohio steel plant",
+          "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+          "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under…",
+          "publishedAt": "2026-11-20T21:38:11.000Z"
+        },
+        {
+          "title": "MLK's handwritten draft of iconic speech on display for the first time",
+          "link": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
+          "summary": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
+          "publishedAt": "2026-11-20T21:38:05.000Z"
+        },
         {
           "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
           "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
@@ -110,9 +140,9 @@
           "publishedAt": "2026-11-20T16:12:18.000Z"
         },
         {
-          "title": "Trump holds press conference after meeting with Xi and Putin",
+          "title": "Trump touts meeting with Xi and Putin but offers little results",
           "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-          "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
+          "summary": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
           "publishedAt": "2026-11-20T15:00:00.000Z"
         },
         {
@@ -120,36 +150,6 @@
           "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
           "summary": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
           "publishedAt": "2026-11-20T12:24:40.000Z"
-        },
-        {
-          "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-          "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-          "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
-          "publishedAt": "2026-11-20T12:04:57.000Z"
-        },
-        {
-          "title": "Just how vulnerable are we to cyberattacks?",
-          "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
-          "summary": "In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software.",
-          "publishedAt": "2026-11-20T12:00:00.000Z"
-        },
-        {
-          "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
-          "summary": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
-          "publishedAt": "2026-11-20T11:37:35.000Z"
-        },
-        {
-          "title": "Senate passes bipartisan energy bill amid environmental concerns",
-          "link": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
-          "summary": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.",
-          "publishedAt": "2026-11-20T11:00:28.000Z"
-        },
-        {
-          "title": "How exactly did Trump get so rich on crypto? We explain",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
-          "summary": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
-          "publishedAt": "2026-11-20T10:00:00.000Z"
         }
       ]
     },
@@ -160,19 +160,55 @@
         "homepage": "https://www.washingtonpost.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-20T18:51:52.109Z",
+      "fetchedAt": "2026-11-21T06:51:16.842Z",
       "items": [
         {
-          "title": "Stefanik family’s D.C. home sells to mystery buyer for $900K over list price",
-          "link": "https://www.washingtonpost.com/dc-md-va/2026/11/20/stefanik-familys-dc-home-sells-mystery-buyer-900k-over-list-price/",
-          "summary": "After not selling at a lower price and eventually being taken off the market, the home of the outgoing congresswoman from New York sold in June for $2.9 million.",
-          "publishedAt": "2026-11-20T18:33:20.000Z"
+          "title": "Pandemic-era law passed unconstitutionally because of proxy voting, appeals court rules",
+          "link": "https://www.washingtonpost.com/business/2026/11/21/pandemic-era-law-passed-unconstitutionally-because-proxy-voting-appeals-court-rules/",
+          "summary": "The U.S. Court of Appeals for the 5th Circuit upheld Texas’s injunction stopping accommodations for pregnant workers by targeting how Congress passed a massive Biden-era funding bill.",
+          "publishedAt": "2026-11-21T05:01:00.000Z"
+        },
+        {
+          "title": "L.A. train heists net thieves more than $22 million in goods, feds say",
+          "link": "https://www.washingtonpost.com/nation/2026/11/20/la-train-heists-net-thieves-more-than-22-million-goods-feds-say/",
+          "summary": "A Southern California crew is charged with breaking into more than 70 shipping containers in 31 months, stealing more than $22 million in shoes and other goods.",
+          "publishedAt": "2026-11-20T22:40:00.000Z"
+        },
+        {
+          "title": "Federal health panel reshaped by RFK Jr. faces political interference concerns",
+          "link": "https://www.washingtonpost.com/health/2026/11/20/federal-health-panel-reshaped-by-rfk-jr-faces-political-interference-concerns/",
+          "summary": "Some members of the U.S. Preventive Services Task Force expressed concerns that the changes from the Trump administration could make the group less reliable and more open to conflicts of interest.",
+          "publishedAt": "2026-11-20T22:29:27.000Z"
+        },
+        {
+          "title": "U.S. stocks slump into correction territory amid tech and AI worries",
+          "link": "https://www.washingtonpost.com/business/2026/11/20/us-stock-market-slumps-amid-rising-tech-ai-worries/",
+          "summary": "Markets on Friday posted their worst week since worries about President Donald Trump’s tariffs caused a global sell-off in April 2025.",
+          "publishedAt": "2026-11-20T22:26:59.000Z"
+        },
+        {
+          "title": "Texas governor-elect and Trump agree to work together on border security",
+          "link": "https://www.washingtonpost.com/politics/2026/11/20/texas-governor-elect-trump-agree-work-together-border-security/",
+          "summary": "President Donald Trump says he had a “very productive call” with Democratic Gov.-elect Gina Hinojosa, who characterized it as “a very positive conversation.”",
+          "publishedAt": "2026-11-20T21:45:28.000Z"
+        },
+        {
+          "title": "Hat had traveled too far into Fiona’s intestines to safely remove, zoo says",
+          "link": "https://www.washingtonpost.com/nation/2026/11/20/hat-had-traveled-too-far-into-fionas-intestines-safely-remove-zoo-says/",
+          "summary": "There was no way to use endoscopy to reach the hat that the beloved hippo ingested, Cincinnati Zoo officials said, and laparoscopic surgery was not possible.",
+          "publishedAt": "2026-11-20T21:30:00.000Z"
         },
         {
           "title": "Child begged for life in 911 call as father killed family, sheriff says",
           "link": "https://www.washingtonpost.com/nation/2026/11/20/florida-authorities-investigate-killing-family-heard-911-call/",
           "summary": "The Hillsborough County Sheriff’s Office said authorities are investigating the killing of four people.",
-          "publishedAt": "2026-11-20T16:54:11.000Z"
+          "publishedAt": "2026-11-20T19:45:50.000Z"
+        },
+        {
+          "title": "Stefanik family’s D.C. home sells to mystery buyer for $900K over list price",
+          "link": "https://www.washingtonpost.com/dc-md-va/2026/11/20/stefanik-familys-dc-home-sells-mystery-buyer-900k-over-list-price/",
+          "summary": "After not selling at a lower price and eventually being taken off the market, the home of the outgoing congresswoman from New York sold in June for $2.9 million.",
+          "publishedAt": "2026-11-20T18:33:20.000Z"
         },
         {
           "title": "Jonathan Yardley, Pulitzer-winning book critic at The Post, dies at 87",
@@ -181,46 +217,10 @@
           "publishedAt": "2026-11-20T16:53:21.000Z"
         },
         {
-          "title": "Federal health panel reshaped by RFK Jr. faces political interference concerns",
-          "link": "https://www.washingtonpost.com/health/2026/11/20/federal-health-panel-reshaped-by-rfk-jr-faces-political-interference-concerns/",
-          "summary": "Some members of the U.S. Preventive Services Task Force expressed concerns that the changes from the Trump administration could make the group less reliable and more open to conflicts of interest.",
-          "publishedAt": "2026-11-20T16:49:17.000Z"
-        },
-        {
           "title": "Mamdani proposes five-year extension to shutter notorious Rikers Island prison",
           "link": "https://www.washingtonpost.com/nation/2026/11/20/mamdani-proposes-five-year-extension-shutter-notorious-rikers-island-prison/",
           "summary": "New York Mayor Zohran Mamdani’s plan moves the deadline from 2027 to 2032 to allow time to build the borough-based jails slated to replace Rikers.",
           "publishedAt": "2026-11-20T16:30:00.000Z"
-        },
-        {
-          "title": "Reporter says lengthy Texas execution was ‘like no other’ he’d seen",
-          "link": "https://www.washingtonpost.com/nation/2026/11/20/reinaldo-denness-execution-texas-was-like-no-other-ap-reporter-says/",
-          "summary": "Reinaldo Dennes cried out in pain for nearly three minutes after being injected with a lethal drug. Prison officials said the correct procedures were followed.",
-          "publishedAt": "2026-11-20T16:00:00.000Z"
-        },
-        {
-          "title": "Owl survives 45-mile drive stuck to front of truck after collision",
-          "link": "https://www.washingtonpost.com/lifestyle/2026/11/20/owl-survives-45-mile-drive-stuck-front-truck-after-collision/",
-          "summary": "The driver didn't realize until she arrived at her destination 45 miles away that the owl’s head was trapped above the windshield. It was still alive.",
-          "publishedAt": "2026-11-20T14:45:00.000Z"
-        },
-        {
-          "title": "Bigfoot believers get a boost from an unlikely ally: The U.S. Forest Service",
-          "link": "https://www.washingtonpost.com/nation/2026/11/20/bigfoot-believers-get-boost-an-unlikely-ally-us-forest-service/",
-          "summary": "In recent months, the agency has released several historic files and held a forum on the hairy cryptid of timberland lore.",
-          "publishedAt": "2026-11-20T10:30:00.000Z"
-        },
-        {
-          "title": "Rich people are spending 13 times as much as poor on their kids",
-          "link": "https://www.washingtonpost.com/business/2026/11/17/rich-people-are-spending-13-times-more-than-poor-their-kids/",
-          "summary": "Since 1980, wealthy families have quadrupled what they spend on their children’s education, care and extracurriculars.",
-          "publishedAt": "2026-11-20T10:00:00.000Z"
-        },
-        {
-          "title": "When Nazis were held accountable for war crimes",
-          "link": "https://www.washingtonpost.com/world/2026/11/20/when-nazis-were-held-responsible-war-crimes/",
-          "summary": "The judges at Nuremberg rejected the just-following-orders defense.",
-          "publishedAt": "2026-11-20T10:00:00.000Z"
         }
       ]
     }

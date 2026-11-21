@@ -8,7 +8,7 @@
         "homepage": "https://www.jornalnoticias.co.mz",
         "lang": "pt-MZ"
       },
-      "fetchedAt": "2026-11-20T18:51:07.214Z",
+      "fetchedAt": "2026-11-21T06:50:57.815Z",
       "items": [
         {
           "title": "População de Derre orientada a produzir para mercados internos ‎‎",
@@ -99,8 +99,14 @@
         "homepage": "https://opais.co.mz",
         "lang": "pt-MZ"
       },
-      "fetchedAt": "2026-11-20T18:51:04.144Z",
+      "fetchedAt": "2026-11-21T06:50:35.492Z",
       "items": [
+        {
+          "title": "Governo prepara reconstrução de infra-estruturas destruídas durante manifestações pós-eleitorais",
+          "link": "https://opais.co.mz/governo-prepara-reconstrucao-de-infra-estruturas-destruidas-durante-manifestacoes-pos-eleitorais/",
+          "summary": "O Governo está a preparar o arranque das obras de reabilitação e reconstrução das infra-estruturas públicas destruídas durante as manifestações violentas que se seguiram às eleições de 2024, na sequência da aprovação,…",
+          "publishedAt": "2026-11-20T19:25:15.000Z"
+        },
         {
           "title": "MEC defende universalização do ensino pré-primário e maior financiamento à educação infantil",
           "link": "https://opais.co.mz/mec-defende-universalizacao-do-ensino-pre-primario-e-maior-financiamento-a-educacao-infantil/",
@@ -132,14 +138,6 @@
           "publishedAt": "2026-11-20T15:10:45.000Z",
           "titleEn": "Economy Minister says Gaza can feed the country with investment in the agricultural production chain",
           "summaryEn": "The Minister of Economy argues that Gaza has the potential to supply the country with food products, provided there is investment in the entire agricultural production chain, with a focus on agriculture and processing...."
-        },
-        {
-          "title": "Venâncio Mondlane nega ter orientado bloqueio de circulação e questiona vídeos do MP",
-          "link": "https://opais.co.mz/venancio-mondlane-nega-ter-orientado-bloqueio-de-circulacao-e-questiona-videos-do-mp/",
-          "summary": "Venâncio Mondlane rejeitou ter dado orientações para impedir a circulação de pessoas durante as manifestações pós-eleitorais de 2024 e questionou a autenticidade de excertos de vídeos apresentados pelo Ministério Público…",
-          "publishedAt": "2026-11-20T12:25:27.000Z",
-          "titleEn": "Venâncio Mondlane denies directing traffic jams and questions MP videos",
-          "summaryEn": "Venâncio Mondlane has denied giving directions to prevent people from moving during the 2024 post-election demonstrations and questioned the authenticity of excerpts of videos submitted by the Public Prosecutor's Office..."
         }
       ]
     },
@@ -150,7 +148,7 @@
         "homepage": "https://clubofmozambique.com",
         "lang": "en-MZ"
       },
-      "fetchedAt": "2026-11-20T18:51:04.950Z",
+      "fetchedAt": "2026-11-21T06:50:35.835Z",
       "items": [
         {
           "title": "Zimbabwe asks lenders for grants to repay what it owes them",

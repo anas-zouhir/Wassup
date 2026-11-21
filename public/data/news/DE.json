@@ -8,14 +8,49 @@
         "homepage": "https://www.tagesschau.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-20T18:50:22.694Z",
+      "fetchedAt": "2026-11-21T06:50:03.716Z",
       "items": [
         {
-          "title": "Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurf",
+          "title": "Happy Birthday \"Rocky\" - Philadelphia feiert 50 Jahre Italian Stallion",
+          "link": "https://www.tagesschau.de/kultur/50-jahre-rocky-100.html",
+          "summary": "50 Jahre ist es her, dass ein Low-Budget-Film mit einem unbekannten Darsteller in die Kinos kam. Das Boxer-Drama \"Rocky\" machte Sylvester Stallone zum Weltstar. Die Stadt Philadelphia feiert nun ihren fiktiven Sohn. Von…",
+          "publishedAt": "2026-11-21T06:45:37.000Z"
+        },
+        {
+          "title": "US-Gericht billigt Vergleich von Bayer mit Glyphosat-Klägern",
+          "link": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html",
+          "summary": "Für den Chemiekonzern Bayer könnten die Klagen wegen des Unkraut-Vernichters Roundup in den USA bald der Vergangenheit angehören. Ein US-Gericht hat einen milliardenschweren Vergleich des Konzerns mit Vertretern der…",
+          "publishedAt": "2026-11-21T03:50:50.000Z"
+        },
+        {
+          "title": "Tote und Verletzte bei Raketenangriff auf Krywyj Rih",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html",
+          "summary": "Krywyj Rih ist die Heimatstadt des ukrainischen Präsidenten Selenskyj. Nun wurde die Industriestadt erneut mit ballistischen Raketen beschossen. Eine Rakete schlug demnach nahe Wohnhäusern und einem Restaurant ein.",
+          "publishedAt": "2026-11-21T02:39:59.000Z"
+        },
+        {
+          "title": "Jugendliche erneut zu Tausenden auf den Straßen",
+          "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
+          "summary": "Zehntausende junge Menschen haben am Freitag friedlich für die Anliegen ihrer Generation demonstriert. Nach dem Ende der \"Gen Z regelt\"-Demos gab es mancherorts zwar doch noch Krawalle, eine Eskalation wie an Halloween…",
+          "publishedAt": "2026-11-21T02:38:36.000Z"
+        },
+        {
+          "title": "Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus",
+          "link": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
+          "summary": "Russland soll auf dänischem Boden einen Anschlag auf einen ukrainisch-amerikanischen Rapper geplant haben. Als Reaktion wurde ein russischer Diplomat ausgewiesen. Zwei Verdächtige sitzen in Untersuchungshaft.",
+          "publishedAt": "2026-11-20T21:28:00.000Z"
+        },
+        {
+          "title": "Großbritannien: Schuldsprüche in Vergewaltigungsprozess",
+          "link": "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
+          "summary": "Der Fall erinnert an das Martyrium der Französin Gisèle Pelicot. Die Britin Joanne Young wurde über Jahre von ihrem Ehemann betäubt - und dann im Internet zur Vergewaltigung angeboten. Nun wurden vier Männer schuldig…",
+          "publishedAt": "2026-11-20T20:25:44.000Z"
+        },
+        {
+          "title": "Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurfs",
           "link": "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
           "summary": "Gegen den Schauspieler Gérard Depardieu und den Schriftsteller Michel Houellebecq liegt eine neue Anzeige vor - es geht um den Vorwurf der Gruppenvergewaltigung. Laut einem Medienbericht geschah diese 2018 bei einem…",
           "publishedAt": "2026-11-20T18:25:36.000Z",
-          "titleEn": "Complaint against Depardieu and Houellebecq for rape",
           "summaryEn": "A new indictment has been filed against actor Gérard Depardieu and writer Michel Houellebecq - allegations of gang rape. According to a media report, this happened in 2018 at a..."
         },
         {
@@ -41,54 +76,6 @@
           "publishedAt": "2026-11-20T16:22:44.000Z",
           "titleEn": "Pistorius in Poland: A journey to remember",
           "summaryEn": "Germany and Poland want to take greater responsibility for security in Europe. During his visit to Poland, Minister of Defence Pistorius reminded Germany of its responsibility for the past. From C..."
-        },
-        {
-          "title": "Merz: Unterstützung der Ukraine bringt uns Dividende",
-          "link": "https://www.tagesschau.de/wirtschaft/deutsch-ukrainisches-wirtschaftsforum-104.html",
-          "summary": "Seit dem Angriff Russlands unterstützt Deutschland die Ukraine - insgesamt mit mehr als 100 Milliarden Euro. Ausgaben, die sich auszahlen könnten. Kanzler Merz sieht - trotz des Krieges - positive Effekte für die…",
-          "publishedAt": "2026-11-20T16:22:30.000Z",
-          "titleEn": "Merz: support for Ukraine brings us dividends",
-          "summaryEn": "Since Russia's attack, Germany has been supporting Ukraine - totaling more than 100 billion euros. Expenditures that could be paid. Chancellor Merz sees, despite the war, positive effects on the..."
-        },
-        {
-          "title": "Verhandlungen dauern an - Weltklimakonferenz geht in die Verlängerung",
-          "link": "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html",
-          "summary": "Im Ringen um eine angemessene Antwort auf die Klimakrise geht die Weltklimakonferenz in die Verlängerung. Eigentlich sollte sie am Nachmittag zu Ende gehen. Doch die Verhandlungen dürften sich in die Nacht und ins…",
-          "publishedAt": "2026-11-20T16:15:00.000Z",
-          "titleEn": "Negotiations are ongoing - World Climate Conference is being extended",
-          "summaryEn": "In the fight for an adequate response to the climate crisis, the World Climate Conference is being extended. Actually, it was supposed to end this afternoon. But the negotiations are expected to take place overnight and in the..."
-        },
-        {
-          "title": "Einer von Europols \"Most Wanted\" in Istanbul gefasst",
-          "link": "https://www.tagesschau.de/investigativ/ndr/festnahme-tuerkei-napoleon-kriminalitaet-100.html",
-          "summary": "Seit Jahren gehört er zu den meistgesuchten Männern Europas - auch aufgrund von schweren Straftaten in Deutschland. Nun wurde Hasan Okutan nach Informationen des NDR in Istanbul gefasst.",
-          "publishedAt": "2026-11-20T16:00:47.000Z",
-          "titleEn": "One of Europol's Most Wanted was captured in Istanbul.",
-          "summaryEn": "For years he has been one of the most wanted men in Europe, even because of serious crimes committed in Germany. Now Hasan Okutan has been arrested in Istanbul, according to information from the NDR."
-        },
-        {
-          "title": "Prien verteidigt Kürzungen bei \"Demokratie leben!\"",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/prien-demokratiefoerderung-100.html",
-          "summary": "Bundesfamilienministerin Prien weist gegenüber dem ARD-Hauptstadtstudio den Vorwurf zurück, bei Projekten gegen Antisemitismus zu sparen. Dennoch verlören einzelne Projekte die Förderung. Von Sarah Beham und Markus…",
-          "publishedAt": "2026-11-20T15:49:38.000Z",
-          "titleEn": "Prien defends shortcuts to \"Democracy Live!\"",
-          "summaryEn": "Federal Minister for Family Affairs Prien has denied the accusation against the ARD capital studio of saving on projects against anti-Semitism. Nevertheless, individual projects lose funding. By Sarah Beham and Markus..."
-        },
-        {
-          "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
-          "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
-          "summary": "Erst legt der KI-Entwickler Anthropic einen der größten Börsengänge der Geschichte hin. Gleichzeitig geraten Technologie- und KI-Aktien weltweit unter Druck. Wie passt das zusammen? Von Michelle Goddemeier.",
-          "publishedAt": "2026-11-20T16:20:16.000Z",
-          "titleEn": "Anthropic stock falls - AI fear on the stock market",
-          "summaryEn": "First, the AI developer Anthropic is launching one of the largest stock exchanges in history. At the same time, technology and AI stocks are under pressure worldwide. How does that match? It's from Michelle Goddemeier."
-        },
-        {
-          "title": "Kritik an Ausnahmen bei Erbschaftsteuer nach Recherchen über Döpfner-Schenkung",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/doepfner-erbschaftssteuer-100.html",
-          "summary": "Springer-Chef Döpfner hat im Jahr 2020 von Verlegerin Friede Springer ein Milliarden-Aktienpaket übertragen bekommen - aber wohl kaum Schenkungsteuern gezahlt. Politiker von SPD und CDU fordern nun Änderungen.",
-          "publishedAt": "2026-11-20T14:58:12.000Z",
-          "titleEn": "Criticism of exemptions from inheritance tax following research on the donor",
-          "summaryEn": "Springer CEO Döpfner received a billion-dollar stock transfer from publisher Friede Springer in 2020 - but he hardly paid any gift taxes. Politicians from the SPD and the CDU are now demanding changes."
         }
       ]
     },
@@ -99,97 +86,77 @@
         "homepage": "https://www.spiegel.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-20T18:50:22.176Z",
+      "fetchedAt": "2026-11-21T06:50:03.603Z",
       "items": [
         {
-          "title": "Donald Trump will US-Konzernen verbieten, Rechenzentren im Ausland zu bauen",
-          "link": "https://www.spiegel.de/wirtschaft/donald-trump-will-us-konzernen-verbieten-rechenzentren-im-ausland-zu-bauen-a-e4b558c4-d9b8-4e7c-95c5-5a1c3ed2388f#ref=rss",
-          "summary": "US-Bürger protestieren zusehends gegen den Bau von KI-Rechenzentren. Weichen die großen Unternehmen ins Ausland aus? Präsident Trump droht den Konzernen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/f8f1848a-3817-4709-bd5b-8245964d74bf_w520_r2.08_fpx51_fpy42.jpg",
-          "publishedAt": "2026-11-20T18:42:00.000Z",
-          "titleEn": "Donald Trump wants to ban U.S. companies from building data centers abroad",
-          "summaryEn": "US citizens are increasingly protesting the construction of AI data centers. Are the big companies moving abroad? President Trump is threatening corporations."
+          "title": "Killerroboter: UN-Konferenz endet mit Minimalkonsens",
+          "link": "https://www.spiegel.de/politik/killerroboter-un-konferenz-endet-mit-minimalkonsens-a-ac54782b-a751-4962-94fe-3b5731986bce#ref=rss",
+          "summary": "128 Vertragsstaaten der Uno-Waffenkonvention haben in Genf über vollautonom handelnde Waffensysteme beraten. Konkrete Maßnahmen scheiterten an drei Ländern.",
+          "image": "https://cdn.prod.www.spiegel.de/images/c0c5790a-8a5b-40c3-a6ba-6c5e421dfad1_w520_r2.08_fpx49.3_fpy49.99.jpg",
+          "publishedAt": "2026-11-21T06:45:00.000Z"
         },
         {
-          "title": "Lana Nusseibeh: Warum diese Frau die Uno nicht führen kann",
-          "link": "https://www.spiegel.de/ausland/lana-nusseibeh-warum-diese-frau-die-uno-nicht-fuehren-kann-a-ccdf06b5-5ace-4ccf-ae6c-f235d9deee26#ref=rss",
-          "summary": "Es wäre Zeit für eine Frau an der Spitze der Uno. Doch die aussichtsreiche Kandidatin Lana Nusseibeh aus den Vereinigten Arabischen Emiraten hat ein großes Handicap.",
-          "image": "https://cdn.prod.www.spiegel.de/images/e6ca3fa9-f9ad-413f-b0c6-0f48a540c022_w520_r2.08_fpx47_fpy27.jpg",
-          "publishedAt": "2026-11-20T18:34:00.000Z",
-          "titleEn": "Lana Nusseibeh: Why can't this woman lead the UN?",
-          "summaryEn": "It's time for a woman to lead the UN. But the promising candidate Lana Nusseibeh from the United Arab Emirates has a major handicap."
+          "title": "USA: Hacker sollen in FBI-Datenbank eingedrungen sein",
+          "link": "https://www.spiegel.de/netzwelt/usa-hacker-sollen-in-fbi-datenbank-eingedrungen-sein-a-9752137b-bfb0-447a-88b1-afdea2319f3b#ref=rss",
+          "summary": "Laut CNN ist es der zweite Sicherheitsvorfall in kurzer Zeit: Hacker sollen sich Zugriff auf eine wichtige FBI-Datenbank verschafft haben. Von einem Angriff betroffen ist laut einem weiteren Bericht auch eine andere…",
+          "image": "https://cdn.prod.www.spiegel.de/images/b6238929-7fa8-4767-a495-d3487e25cd60_w520_r2.08_fpx33.34_fpy50.jpg",
+          "publishedAt": "2026-11-21T06:42:00.000Z"
         },
         {
-          "title": "Andy Burnham und die EU: In Brüssel wird wieder die britische Nationalhymne gespielt",
-          "link": "https://www.spiegel.de/ausland/andy-burnham-und-die-eu-in-bruessel-wird-wieder-die-britische-nationalhymne-gespielt-a-dfbc3de7-7dc2-4399-a513-1d48999eea85#ref=rss",
-          "summary": "Zehn Jahre nach dem Brexit-Referendum gehen die Briten unter Premier Burnham und die EU aufeinander zu – in kleinen Schritten. Vor allem Studierende dürfen sich freuen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/9943043e-5197-4e67-a3c6-7b02b2bafe4e_w520_r2.08_fpx39.26_fpy45.jpg",
-          "publishedAt": "2026-11-20T18:27:00.000Z",
-          "titleEn": "Andy Burnham and the EU: The British national anthem again played in Brussels",
-          "summaryEn": "Ten years after the Brexit referendum, under Prime Minister Burnham and the EU, the British are moving on to each other  ⁇  in small steps. Students, in particular, should be happy."
+          "title": "Großbritannien: Kann Andrew Burnham sein Land wirklich in die EU zurückbringen? - Podcast",
+          "link": "https://www.spiegel.de/ausland/grossbritannien-kann-andrew-burnham-sein-land-wirklich-in-die-eu-zurueckbringen-podcast-a-cb6fa77e-838d-4460-946c-cb5ba1854368#ref=rss",
+          "summary": "»Der Brexit hat nicht funktioniert«: Als erster britischer Premier hat Andy Burnham Klartext geredet. Will er nur den Handel mit der EU erleichtern, oder könnte er die Briten eines Tages zurück in die Union führen?",
+          "image": "https://cdn.prod.www.spiegel.de/images/60508530-c5e3-4024-8a45-286cf198f881_w520_r2.08_fpx54.63_fpy49.98.jpg",
+          "publishedAt": "2026-11-21T06:35:00.000Z"
         },
         {
-          "title": "Zohran Mamdani bei Fußballspiel verletzt: »Ich habe vergessen, dass ich 35 bin«",
-          "link": "https://www.spiegel.de/panorama/leute/zohran-mamdani-bei-fussballspiel-verletzt-ich-habe-vergessen-dass-ich-35-bin-a-79c68289-8f6f-41c3-b25c-5f6c0982082b#ref=rss",
-          "summary": "New Yorks Bürgermeister Zohran Mamdani hat sich bei einem Fußballspiel gegen Journalisten verletzt. Nun muss er mehrere Wochen auf Krücken laufen. Er nimmt es mit Humor.",
-          "image": "https://cdn.prod.www.spiegel.de/images/6836dc2b-adc1-4133-b36f-16e8bb1f8886_w520_r2.08_fpx52.63_fpy44.97.jpg",
-          "publishedAt": "2026-11-20T18:25:00.000Z",
-          "titleEn": "Zohran Mamdani injured in a football game:",
-          "summaryEn": "New York City Mayor Zohran Mamdani injured himself in a football game against journalists. Now he has to walk on crutches for several weeks. He takes it with humor."
+          "title": "Fitness: Der Rettungsring will nicht weichen? Wie Sport gegen Bauchfett hilft",
+          "link": "https://www.spiegel.de/fitness/fitness-der-rettungsring-will-nicht-weichen-wie-sport-gegen-bauchfett-hilft-a-372f5138-5ed8-486c-ac2a-541b1a8d3d74#ref=rss",
+          "summary": "Sit-ups, gemächliches Joggen oder Training bis zur Erschöpfung – wer Bauchfett wegschmelzen möchte, braucht einen Plan. Eine Sportmedizinerin erklärt, worauf es ankommt und warum die Waage nicht jeden Erfolg zeigt.",
+          "image": "https://cdn.prod.www.spiegel.de/images/b6dd372d-9aca-4ec6-b2ce-95b8448e5cec_w520_r2.08_fpx68_fpy22.jpg",
+          "publishedAt": "2026-11-21T06:32:00.000Z"
         },
         {
-          "title": "Dänemark macht russischen Geheimdienst für Mordkomplott gegen ukrainischen Rapper verantwortlich",
-          "link": "https://www.spiegel.de/ausland/daenemark-macht-russischen-geheimdienst-fuer-mordkomplott-gegen-ukrainischen-rapper-verantwortlich-a-38bdaa9f-19c3-448d-8c67-7493d0a798f8#ref=rss",
-          "summary": "Dänemark weist den russischen Verteidigungsattaché aus und will Schengen-Visa an Russen einschränken. Grund ist ein mutmaßliches Mordkomplott russischer Geheimdienste gegen einen Musiker aus der Ukraine.",
-          "image": "https://cdn.prod.www.spiegel.de/images/0eccc60f-dfca-4cdc-94cb-ef9ae1940654_w520_r2.08_fpx66.67_fpy50.jpg",
-          "publishedAt": "2026-11-20T17:51:00.000Z",
-          "titleEn": "Denmark blames Russian intelligence for conspiracy to murder Ukrainian rapper",
-          "summaryEn": "Denmark is deploying the Russian defence attaché and wants to restrict Schengen visas to Russians. The reason is an alleged murder plot by Russian intelligence agencies against a musician from Ukraine."
+          "title": "Arbeitsmarkt: Für welche jungen Akademiker die Jobsuche immer schwerer wird",
+          "link": "https://www.spiegel.de/start/arbeitsmarkt-fuer-welche-jungen-akademiker-die-jobsuche-immer-schwerer-wird-a-003279ec-e410-4a3d-830a-666366670b74#ref=rss",
+          "summary": "Jung und studiert: Das waren mal beste Vorausetzungen für einen guten Job. Aber die Zahl arbeitsloser Akademiker steigt rasant. Die Datenanalyse.",
+          "image": "https://cdn.prod.www.spiegel.de/images/faaa16cc-c5e3-457e-8ad1-3de1817310ce_w520_r2.08_fpx33.34_fpy50.jpg",
+          "publishedAt": "2026-11-21T06:31:00.000Z"
         },
         {
-          "title": "»Gen Z regelt«: Demo in Hamburg startet Richtung Schanzenviertel – Innensenator warnt vor Linksextremisten",
-          "link": "https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-so-laufen-die-proteste-newsblog-a-5b6f94e2-5b27-476e-966d-50850ad73956#ref=rss",
-          "summary": "In Hamburg und Berlin beginnen Demos erst am Abend. Die Veranstalter wollten Rücksicht auf jene nehmen, die berufstätig sind. Es wird befürchtet, dass in der Dunkelheit die Hemmschwelle zur Gewalt sinkt. Die…",
-          "image": "https://cdn.prod.www.spiegel.de/images/74a61b23-a728-48d0-a965-c2a53e6ef38c_w520_r2.08_fpx33.35_fpy50.jpg",
-          "publishedAt": "2026-11-20T17:43:00.000Z",
-          "titleEn": "⁇ Gen Z regelt ⁇ : Demo in Hamburg starts towards the Schanzenviertel  ⁇  Innensenator warns against left-wing extremists",
-          "summaryEn": "Demos in Hamburg and Berlin start only in the evening. The organisers wanted to take into account those who are employed. It's feared that in the dark, the barrier to violence will sink. The..."
+          "title": "Afghanistan: Wie brutal die Taliban die medizinische Versorgung von Frauen unterbinden",
+          "link": "https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden-a-2f43cfc9-919f-4746-b5d4-4172000c54e6#ref=rss",
+          "summary": "Die Sittenpolizei der Taliban greift immer härter durch: Afghanische Ärzte sollen Frauen nicht einmal mehr im Notfall behandeln. Hebammen dürfen nicht mehr ausgebildet werden. Es droht eine medizinische Katastrophe.",
+          "image": "https://cdn.prod.www.spiegel.de/images/9d5f09f7-945c-4bb0-8809-a12cc44dee68_w520_r2.08_fpx62.68_fpy50.jpg",
+          "publishedAt": "2026-11-21T06:31:00.000Z"
         },
         {
-          "title": "New York: Zohran Mamdani plant Schließung von Rikers Island bis 2032",
-          "link": "https://www.spiegel.de/panorama/bildung/new-york-zohran-mamdani-plant-schliessung-von-rikers-island-bis-2032-a-b0dcf1b2-ddcd-4fe6-bcb2-7564246a5022#ref=rss",
-          "summary": "Marode Einrichtung, schlechte medizinische Versorgung und Gewalt durch Beamte: Die Gefängnisinsel Rikers Island steht seit Langem in der Kritik. Nun kündigt New Yorks Bürgermeister ein Ende für den Komplex an.",
-          "image": "https://cdn.prod.www.spiegel.de/images/33b43f3c-c263-40cd-a586-917f038234bf_w520_r2.08_fpx60.1_fpy50.jpg",
-          "publishedAt": "2026-11-20T17:41:00.000Z",
-          "titleEn": "New York: Zohran Mamdani plans to close Rikers Island by 2032",
-          "summaryEn": "Marod facility, poor medical care and violence by officials: Prison island Rikers Island has long been criticized. Now the mayor of New York announces an end to the complex."
+          "title": "Autobahnen: Vertrauliches Gutachten empfiehlt Pkw-Maut zur Finanzierung",
+          "link": "https://www.spiegel.de/wirtschaft/autobahnen-vertrauliches-gutachten-empfiehlt-pkw-maut-zur-finanzierung-a-e105dfef-32ed-4421-9a26-b935f697e8f9#ref=rss",
+          "summary": "Reicht das Geld, um Deutschlands Autobahnen langfristig zu finanzieren? Ein vertrauliches Gutachten für die Bundesregierung weckt erhebliche Zweifel. Experten schlagen darin ein heikles Instrument vor.",
+          "image": "https://cdn.prod.www.spiegel.de/images/3787f14f-3c5f-4314-bf15-bcd2bb9f9856_w520_r2.08_fpx33.33_fpy49.99.jpg",
+          "publishedAt": "2026-11-21T06:16:00.000Z"
         },
         {
-          "title": "Riemann-Vermutung: Mathematiker behauptet, mit KI einen Beweis für den »heiligen Gral« der Mathematik gefunden zu haben",
-          "link": "https://www.spiegel.de/wissenschaft/riemann-vermutung-mathematiker-behauptet-mit-ki-einen-beweis-fuer-den-heiligen-gral-der-mathematik-gefunden-zu-haben-a-cb24fb59-9f4e-44f7-a7cc-c3c19418721b#ref=rss",
-          "summary": "Seit mehr als 160 Jahren beißen sich Mathematiker daran die Zähne aus: Ein Anthropic-Mitarbeiter will nun mithilfe von KI den Beweis für die Riemann-Vermutung erbracht haben – versteht ihn aber offenkundig selbst noch…",
-          "image": "https://cdn.prod.www.spiegel.de/images/2cc4ca21-af7c-41b4-adf6-7eab79ac8605_w520_r2.08_fpx53.99_fpy54.98.jpg",
-          "publishedAt": "2026-11-20T17:30:00.000Z",
-          "titleEn": "Riemann-Vermutung: Mathematician claims to have found proof with AI of the Holy Grail of mathematics",
-          "summaryEn": "For more than 160 years, mathematicians have been biting their teeth at this: an anthropic employee now wants to have used AI to prove Riemann fatigue."
+          "title": "News: Boris Pistorius patzt, Hilfen für die Ukraine, AfD auf Kurssuche, Donald Trump lobt Stephen Miller",
+          "link": "https://www.spiegel.de/politik/deutschland/news-boris-pistorius-patzt-hilfen-fuer-die-ukraine-afd-auf-kurssuche-donald-trump-lobt-stephen-miller-a-cb84b583-511a-4850-9455-833a6e8d92a7#ref=rss",
+          "summary": "Verteidigungsminister Boris Pistorius patzt. Ex-CDU-Chefin Annegret Kramp-Karrenbauer mahnt zur Solidarität mit der Ukraine. AfD-Landesverbände stimmen über Programm und Personal ab. Das ist die Lage am Samstagmorgen.",
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w520_r2.08_fpx28.09_fpy49.93.png",
+          "publishedAt": "2026-11-21T05:46:00.000Z"
         },
         {
-          "title": "News des Tages: Brexit, EU, Großbritannien, Gender-Pay-Gap, Gehalt, Frauen, Gen Z regelt",
-          "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-brexit-eu-grossbritannien-gender-pay-gap-gehalt-frauen-gen-z-regelt-a-36f1b0f0-e6db-4398-b6be-d3a36d98604d#ref=rss",
-          "summary": "Großbritanniens Premier Andy Burnham tastet sich an die EU heran. Frauen in Europa arbeiten den Rest des Jahres quasi umsonst. Und: Die Gen Z geht wieder auf die Straße. Das ist die Lage am Freitagabend.",
-          "image": "https://cdn.prod.www.spiegel.de/images/34c3b480-42dd-4a39-9852-154356c32e50_w520_r2.08_fpx60_fpy45.jpg",
-          "publishedAt": "2026-11-20T17:12:00.000Z",
-          "titleEn": "News of the day: Brexit, EU, UK, gender pay gap, salary, women, Gen Z regulated",
-          "summaryEn": "UK Prime Minister Andy Burnham is touching on the EU. Women in Europe work for virtually nothing the rest of the year. And Gen Z is back on the road. That's the situation on Friday night."
+          "title": "»Kevin – Allein zu Haus«: Macaulay Culkin plant dritte Fortsetzung nach 35 Jahren",
+          "link": "https://www.spiegel.de/kultur/kevin-allein-zu-haus-macaulay-culkin-plant-dritte-fortsetzung-nach-35-jahren-a-ecdbb8df-9679-4753-bd84-cfa988e23d81#ref=rss",
+          "summary": "Vor gut 35 Jahren kam die Erfolgskomödie »Kevin - Allein zu Haus« in die Kinos, wenig später eine Fortsetzung. Nun soll ein dritter Teil entstehen - mit dem damaligen Kinderstar Macaulay Culkin.",
+          "image": "https://cdn.prod.www.spiegel.de/images/26cbd909-180c-4d15-97f7-9f197ad23f50_w520_r2.08_fpx68.67_fpy45.jpg",
+          "publishedAt": "2026-11-21T04:46:00.000Z"
         },
         {
-          "title": "IT-Pannen in den USA: Konsumenten machen Hamsterkäufe und horten Cash",
-          "link": "https://www.spiegel.de/wirtschaft/it-pannen-in-den-usa-konsumenten-machen-hamsterkaeufe-und-horten-cash-a-22195e2e-401b-44e2-bd8d-8780bf9bb0c9#ref=rss",
-          "summary": "Microsoft, United Airlines, die größte Bank und andere Unternehmen: Der Ausfall von Computersystemen hat Millionen Menschen in den USA verunsichert. Es kam zu Hamsterkäufen, mit Bedeutung für die gesamte Wirtschaft.",
-          "image": "https://cdn.prod.www.spiegel.de/images/e44cb195-1635-4ac2-bd76-827198710fc7_w520_r2.08_fpx34.35_fpy50.jpg",
-          "publishedAt": "2026-11-20T17:05:00.000Z",
-          "titleEn": "IT workers in the United States: Consumers make hamster purchases and cash",
-          "summaryEn": "Microsoft, United Airlines, the largest bank and other companies: The computer system failure has left millions of people in the United States insecure. It came to hamster purchases, meaningful to the entire economy."
+          "title": "Flugangst: Wie ein Flugbegleiter mich auf dem Weg nach Hamburg beruhigte",
+          "link": "https://www.spiegel.de/reise/flugangst-wie-ein-flugbegleiter-mich-auf-dem-weg-nach-hamburg-beruhigte-a-db701592-0c28-4ca3-b02c-d4b76d9f6b07#ref=rss",
+          "summary": "Er rettete mich, obwohl ich zu keinem Zeitpunkt in Gefahr war. Auf einem Flug von Mailand nach Hamburg passierte etwas Unvorhergesehenes: Ein Flugbegleiter versöhnte mich ein Stück weit mit dem Fliegen.",
+          "image": "https://cdn.prod.www.spiegel.de/images/275e9297-dbcd-45bf-aba3-3a2867d69567_w520_r2.08_fpx50_fpy49.jpg",
+          "publishedAt": "2026-11-21T04:30:00.000Z"
         }
       ]
     }
