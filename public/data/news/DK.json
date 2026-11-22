@@ -13,29 +13,34 @@
         {
           "title": "Diamantring og lommeur tilhørende Titanic-passagerer solgt på auktion",
           "link": "https://www.dr.dk/nyheder/seneste/diamantring-og-lommeur-tilhoerende-titanic-passagerer-solgt-paa-auktion",
-          "publishedAt": "2026-11-22T06:26:02.000Z"
+          "publishedAt": "2026-11-22T06:26:02.000Z",
+          "titleEn": "Diamond rings and pockets of Titanic passengers sold at auction"
         },
         {
           "title": "Washingtons guvernør kritiserer ICE efter hændelse i lufthavn",
           "link": "https://www.dr.dk/nyheder/seneste/washingtons-guvernoer-kritiserer-ice-efter-haendelse-i-lufthavn",
-          "publishedAt": "2026-11-22T06:05:10.000Z"
+          "publishedAt": "2026-11-22T06:05:10.000Z",
+          "titleEn": "Washington governor criticizes ICE after airport incident"
         },
         {
           "title": "I Bahrain er et civilt industrianlæg brudt i brand efter et iransk angreb",
           "link": "https://www.dr.dk/nyheder/seneste/i-bahrain-er-et-civilt-industrianlaeg-brudt-i-brand-efter-et-iransk-angreb",
-          "publishedAt": "2026-11-21T21:40:31.000Z"
+          "publishedAt": "2026-11-21T21:40:31.000Z",
+          "titleEn": "In Bahrain, a civilian industrial facility burned down after an Iranian attack"
         },
         {
           "title": "Herning Blue Fox scorer syv mål på 17 minutter i vild topkamp",
           "link": "https://www.dr.dk/nyheder/seneste/herning-blue-fox-scorer-syv-maal-paa-17-minutter-i-vild-topkamp",
           "image": "https://asset.dr.dk/drdk/umbraco-images/rjnnukpa/20260915-215516-l_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-21T20:30:33.000Z"
+          "publishedAt": "2026-11-21T20:30:33.000Z",
+          "titleEn": "Herning Blue Fox scores seven goals in 17 minutes in a wild top match"
         },
         {
           "title": "Massiv regn udskyder danskeres skæbne i stor golfturnering",
           "link": "https://www.dr.dk/nyheder/seneste/massiv-regn-udskyder-danskeres-skaebne-i-stor-golfturnering",
           "image": "https://asset.dr.dk/drdk/umbraco-images/4l1kn4n2/20260724-074201-l_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-21T18:43:00.000Z"
+          "publishedAt": "2026-11-21T18:43:00.000Z",
+          "titleEn": "Heavy rain postpones the fate of Danes in a major golf tournament"
         },
         {
           "title": "Fly til og fra Bruxelles forventes at være aflyst mandag",
@@ -85,70 +90,90 @@
           "title": "I Napolis rabarberkvarter bliver mafiaen udfordret af kunsten",
           "link": "https://politiken.dk/rejser/art11021346/I-Napolis-rabarberkvarter-bliver-mafiaen-udfordret-af-kunsten",
           "summary": "I et Napoli, hvor masseturismen har forandret byens centrum, udgør Sanità-kvarteret stadig en bastion af hverdagsliv. Verdenskunst og kulturarv gør de lokale stolte og tilbyder et økonomisk alternativ til mafiaen.",
-          "publishedAt": "2026-11-22T06:44:44.000Z"
+          "publishedAt": "2026-11-22T06:44:44.000Z",
+          "titleEn": "In Naples's rubber district, the mafia is challenged by art.",
+          "summaryEn": "In Naples, where mass tourism has transformed the city centre, the Sanità district is still a bastion of everyday life. World art and cultural heritage make the locals proud and offer an economic alternative to the mafia."
         },
         {
           "title": "Undervisningsministeriet var klar med strikse ai-rammer for folkeskolen, men blev bremset",
           "link": "https://politiken.dk/danmark/art11065137/Undervisningsministeriet-var-klar-med-strikse-ai-rammer-for-folkeskolen-men-blev-bremset",
           "summary": "Et forbud mod undervisning med ai frem til 8. klasse skulle have været trådt i kraft i september, men forblev i skuffen. Industrien lobbyer for, at elever fra 4. klasse og frem skal bruge ai.",
           "image": "https://politiken.dk/incoming/img11069673.xnx4z1/ORIGINALS/original_960/Fire%20ministre%20taler%20om%20skolen%20i%202027",
-          "publishedAt": "2026-11-22T05:59:34.000Z"
+          "publishedAt": "2026-11-22T05:59:34.000Z",
+          "titleEn": "The Ministry of Education was ready to impose rigorous curricula on primary schools, but was hampered",
+          "summaryEn": "A ban on education from 8th grade should have come into force in September but remained in place. The industry is lobbying for students in fourth grade and beyond to use AI."
         },
         {
           "title": "Max Verstappen triumferer i Las Vegas",
           "link": "https://politiken.dk/sport/formel1/art11069995/Max-Verstappen-triumferer-i-Las-Vegas",
           "summary": "Max Verstappen cementerede sin andenplads i VM-stillingen med en sejr i grandprixet i Las Vegas.",
           "image": "https://politiken.dk/incoming/img11069997.jvtlu4/ORIGINALS/original_960/FOR-MOT-SPO-F1-GRAND-PRIX-OF-LAS-VEGAS",
-          "publishedAt": "2026-11-22T05:53:33.000Z"
+          "publishedAt": "2026-11-22T05:53:33.000Z",
+          "titleEn": "Max Verstappen triumphs in Las Vegas",
+          "summaryEn": "Max Verstappen cemented his second place in the World Championship standings with a win at the Las Vegas Grand Prix."
         },
         {
           "title": "»ICE er fuldstændig ude af kontrol«: Guvernør raser efter anholdelser i lufthavnen",
           "link": "https://politiken.dk/internationalt/int_usa/art11069994/%C2%BBICE-er-fuldst%C3%A6ndig-ude-af-kontrol%C2%AB-Guvern%C3%B8r-raser-efter-anholdelser-i-lufthavnen",
           "summary": "Guvernør kalder optagelser af anholdelser i lufthavn for rystende. ICE beskriver det som en målrettet aktion.",
           "image": "https://politiken.dk/incoming/img11069996.kxaygo/ORIGINALS/original_960/USA-IMMIGRATION-SEATTLE",
-          "publishedAt": "2026-11-22T05:47:44.000Z"
+          "publishedAt": "2026-11-22T05:47:44.000Z",
+          "titleEn": "⁇ ICE is completely out of control  ⁇ : Governor railing after airport arrests",
+          "summaryEn": "The governor calls the recordings of airport arrests shocking. ICE describes it as a targeted action."
         },
         {
           "title": "DR afpublicerer dokumentar om sugardating efter kritik fra Gina Jaqueline",
           "link": "https://politiken.dk/kultur/art11067462/DR-afpublicerer-dokumentar-om-sugardating-efter-kritik-fra-Gina-Jaqueline",
           "summary": "Ni år efter premieren på DR’s seersucces ‘Gina Jaqueline – en sugardaters fortælling’ er den nu afpubliceret. Gina Jaqueline og hendes daværende partner forklarer, at de forsøgte at stoppe DR-dokumentarserien allerede i…",
           "image": "https://politiken.dk/incoming/img11065676.sq74lf/ORIGINALS/original_960/Gina%20Jaqueline",
-          "publishedAt": "2026-11-22T05:23:42.000Z"
+          "publishedAt": "2026-11-22T05:23:42.000Z",
+          "titleEn": "DR releases a documentary on sugar dating following criticism from Gina Jaqueline",
+          "summaryEn": "Nine years after the premiere of Dr. Dre's \"Gina Jaqueline\" \"A Sugar Dad's Tale\", it is now out. Gina Jaqueline and her then-partner explain that they tried to stop the DR documentary series already in..."
         },
         {
           "title": "36 er savnet i dødelig brand på konfektfabrik i Indonesien",
           "link": "https://politiken.dk/internationalt/art11069986/36-er-savnet-i-d%C3%B8delig-brand-p%C3%A5-konfektfabrik-i-Indonesien",
           "summary": "Brand på fabrik nær Jakarta har kostet flere livet. Redningsarbejdere leder efter 36 personer, som er savnet.",
           "image": "https://politiken.dk/incoming/img11069991.dehxy0/ORIGINALS/original_960/INDONESIA-FIRE-FACTORY",
-          "publishedAt": "2026-11-22T05:13:01.000Z"
+          "publishedAt": "2026-11-22T05:13:01.000Z",
+          "titleEn": "36 missing in a deadly fire at a confectionery factory in Indonesia",
+          "summaryEn": "A factory fire near Jakarta has claimed several lives. Rescue workers are searching for 36 missing persons."
         },
         {
           "title": "Trump bekræfter cyberangreb mod FBI: »Måske kan vi lære noget«",
           "link": "https://politiken.dk/internationalt/int_usa/art11069984/Trump-bekr%C3%A6fter-cyberangreb-mod-FBI-%C2%BBM%C3%A5ske-kan-vi-l%C3%A6re-noget%C2%AB",
           "summary": "Hvis FBI-database er blevet hacket, kan det muligvis kaste lys over flere ting, siger Trump til Fox News.",
           "image": "https://politiken.dk/incoming/img11069990.a15n2/ORIGINALS/original_960/USA-TRUMP-CONTRACTORS",
-          "publishedAt": "2026-11-22T05:12:03.000Z"
+          "publishedAt": "2026-11-22T05:12:03.000Z",
+          "titleEn": "Trump confirms cyberattack against FBI: \"Maybe we can learn something\".",
+          "summaryEn": "If the FBI's database has been hacked, it could potentially shed light on more things, Trump tells Fox News."
         },
         {
           "title": "De dukkede op, bad om yams og forsvandt ind i junglens dyb igen",
           "link": "https://politiken.dk/internationalt/art11066426/De-dukkede-op-bad-om-yams-og-forsvandt-ind-i-junglens-dyb-igen",
           "summary": "Ifølge ngo’en Survival International er det første gang i »mindst flere årtier«, at Awá-folket opsøger omverdenen. Og det er bekymrende.",
           "image": "https://politiken.dk/incoming/img11066711.240lnn/ORIGINALS/original_960/bb3272ea-9bf8-4ef3-932e-4b121353927f",
-          "publishedAt": "2026-11-21T21:15:54.000Z"
+          "publishedAt": "2026-11-21T21:15:54.000Z",
+          "titleEn": "They showed up, begged for yams and disappeared into the jungle again.",
+          "summaryEn": "According to Survival International, this is the first time in at least several decades that the Awá people have explored the outside world. And that's worrying."
         },
         {
           "title": "Ronja Godtfredsen følte en sorg, da hun mistede sin sexlyst. Nu har hun fundet løsningen",
           "link": "https://politiken.dk/danmark/sundhed/art11035589/Ronja-Godtfredsen-f%C3%B8lte-en-sorg-da-hun-mistede-sin-sexlyst.-Nu-har-hun-fundet-l%C3%B8sningen",
           "summary": "Et stigende antal kvinder i Danmark efterspørger hjælp til nedsat eller helt manglende sexlyst.",
           "image": "https://politiken.dk/incoming/img11065580.kw102y/ORIGINALS/original_960/Stor%20stigning%20i%20testosteronbehandling%20til%20kvinder",
-          "publishedAt": "2026-11-21T20:44:48.000Z"
+          "publishedAt": "2026-11-21T20:44:48.000Z",
+          "titleEn": "Ronja Godtfredsen felt a sadness when she lost her sex drive. Now she's got the solution.",
+          "summaryEn": "A growing number of women in Denmark are seeking help for a reduced or complete lack of sexual desire."
         },
         {
           "title": "Trump kan stadig blokere demokraterne. Men i store dele af USA er det nu dem, der bestemmer",
           "link": "https://politiken.dk/internationalt/int_usa/art11056288/Trump-kan-stadig-blokere-demokraterne.-Men-i-store-dele-af-USA-er-det-nu-dem-der-bestemmer",
           "summary": "Demokraternes fremgang i delstaterne giver partiet mulighed for at omsætte valgløfter til lovgivning – og vise, hvad de vil med USA frem mod næste præsidentvalg.",
           "image": "https://politiken.dk/incoming/img11063928.4msebs/ORIGINALS/original_960/US-NEW-CONGRESSIONAL-MEMBERS-BEGIN-ORIENTATION-ON-CAPITOL-HILL",
-          "publishedAt": "2026-11-21T20:30:52.000Z"
+          "publishedAt": "2026-11-21T20:30:52.000Z",
+          "titleEn": "Trump can still block the Democrats. But in large parts of the United States, it's now the people who decide",
+          "summaryEn": "The progress of the Democrats in the states gives the party the opportunity to translate election promises into legislation and show what they want with the United States ahead of the next presidential election."
         }
       ]
     },
@@ -166,70 +191,90 @@
           "link": "https://www.berlingske.dk/sport/max-verstappen-triumferer-i-overhalingsshow-i-las-vegas?referrer=RSS",
           "summary": "Max Verstappen cementerede sin andenplads i VM-stillingen med en sejr i grandprixet i Las Vegas.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167728563.webp?t[strip]=true&t[quality]=70&accessToken=cafd56156452492b1bef8c85c51e6d11e3c38096f8bd67bfc56bb36d09d4cf8f",
-          "publishedAt": "2026-11-22T06:31:44.000Z"
+          "publishedAt": "2026-11-22T06:31:44.000Z",
+          "titleEn": "Max Verstappen triumphs at the overhaul show in Las Vegas",
+          "summaryEn": "Max Verstappen cemented his second place in the World Championship standings with a win at the Las Vegas Grand Prix."
         },
         {
           "title": "En tavs milliardær er godt i gang med at købe hele Jyderup. »Historien skriver næsten sig selv. Men den er forkert«",
           "link": "https://www.berlingske.dk/indland/en-tavs-milliardaer-er-godt-i-gang-med-at-koebe-hele-jyderuphistorien-skriver-naesten-sig-selv-men-den-er-forkert?referrer=RSS",
           "summary": "En dansk milliardær bosat i Schweiz har på få år opkøbt godset, stationen, savværket og store dele af forretningslivet i den vestsjællandske stationsby Jyderup. Ingen ved rigtig, hvad han vil. Nogle hyrer advokater, mens…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167397586.webp?t[strip]=true&t[quality]=70&accessToken=c96bcb3993757b7650887c9f6276ef17ce397efb0bb5e4be3f47c19e2cb5e7c8",
-          "publishedAt": "2026-11-22T06:24:01.000Z"
+          "publishedAt": "2026-11-22T06:24:01.000Z",
+          "titleEn": "A silent billionaire is well on his way to buying the whole Jyderup. History almost writes itself. But it's wrong.",
+          "summaryEn": "A Danish billionaire living in Switzerland has bought the property, the station, the sawmill and large parts of business in the West Zeeland station town of Jyderup in a few years. No one really knows what he wants. Some people hire lawyers, while..."
         },
         {
           "title": "Seneste nyt om USA og amerikansk politik – følg med her",
           "link": "https://www.berlingske.dk/internationalt/seneste-nyt-om-usa-og-amerikansk-politik--foelg-med-her-12?referrer=RSS",
           "summary": "Her får du seneste nyt om amerikansk politik og præsident Donald Trump.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167728624.webp?t[strip]=true&t[quality]=70&accessToken=f7909b0ef4f5ef7d5301c61f387b44ec3f003c939723b46f691cd2fb1ac780f7",
-          "publishedAt": "2026-11-22T06:16:35.000Z"
+          "publishedAt": "2026-11-22T06:16:35.000Z",
+          "titleEn": "Latest news about the United States and American politics  ⁇  follow here",
+          "summaryEn": "Here's the latest news on American politics and President Donald Trump."
         },
         {
           "title": "Krig i Europa – følg med her",
           "link": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-med-her-36?referrer=RSS",
           "summary": "Krigen i Ukraine fortsætter. Få seneste nyt her.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167621705.webp?t[strip]=true&t[quality]=70&accessToken=2e1413d13ca2c6d3facb38dd7e895c58e3a4a968e162d9cb501705a446b6d1af",
-          "publishedAt": "2026-11-22T06:12:30.000Z"
+          "publishedAt": "2026-11-22T06:12:30.000Z",
+          "titleEn": "War in Europe  ⁇  follow here",
+          "summaryEn": "The war in Ukraine continues. Get the latest news here."
         },
         {
           "title": "Racertalent lukker sæsonen med andenplads og øjner titel",
           "link": "https://www.berlingske.dk/sport/racertalent-lukker-saesonen-med-andenplads-og-oejner-titel?referrer=RSS",
           "summary": "Alba Larsen blev nummer to i sæsonens sidste grandprix i F1 Academy. Hun øjner samlet sejr næste år.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167728611.webp?t[strip]=true&t[quality]=70&accessToken=3f493ed9f16f60cde7e5f184797618c5b37a9471d1f08dc6b306bb87c05a0917",
-          "publishedAt": "2026-11-22T06:10:46.000Z"
+          "publishedAt": "2026-11-22T06:10:46.000Z",
+          "titleEn": "Racertalent closes the season with second place and wins the title",
+          "summaryEn": "Alba Larsen was runner-up in the last Grand Prix of the season at the F1 Academy. She's looking forward to winning next year."
         },
         {
           "title": "Er du rigtig klog: Hvad ved du om Rwanda?",
           "link": "https://www.berlingske.dk/politik/er-du-rigtig-klog-hvad-ved-du-om-rwanda?referrer=RSS",
           "summary": "Berlingskes journalister udfordrer dagligt med 10 nye spørgsmål inden for spændende emner.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167587373.webp?t[strip]=true&t[quality]=70&accessToken=b261cadcc4726b5fd17c500ab146afc507425de878f9e78b82b9005ec8222b7b",
-          "publishedAt": "2026-11-22T06:03:47.000Z"
+          "publishedAt": "2026-11-22T06:03:47.000Z",
+          "titleEn": "Are you really smart: what do you know about Rwanda?",
+          "summaryEn": "Journalists from Berlin ask 10 new questions every day on exciting topics."
         },
         {
           "title": "ICE møder kritik for opsigtsvækkende anholdelser i lufthavn",
           "link": "https://www.berlingske.dk/internationalt/ice-moeder-kritik-for-opsigtsvaekkende-anholdelser-i-lufthavn?referrer=RSS",
           "summary": "Guvernør kalder optagelser af anholdelser i lufthavn for rystende. ICE beskriver det som en målrettet aktion.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167728565.webp?t[strip]=true&t[quality]=70&accessToken=0b49664918a5842da7c7077f00c2165a0997fdf45db0e46aa43327ffe2be779e",
-          "publishedAt": "2026-11-22T05:46:52.000Z"
+          "publishedAt": "2026-11-22T05:46:52.000Z",
+          "titleEn": "ICE is facing criticism for shocking airport arrests",
+          "summaryEn": "The governor calls the recordings of airport arrests shocking. ICE describes it as a targeted action."
         },
         {
           "title": "Berlingske mener: Når islamkritik bliver en forbrydelse, har ytringsfriheden tabt",
           "link": "https://www.berlingske.dk/ledere/berlingske-mener-naar-islamkritik-bliver-en-forbrydelse-har-ytringsfriheden-tabt?referrer=RSS",
           "summary": "Med koranloven viste Danmark, hvor langt vi er villige til at bøje os for islamisk pres. Nu udstiller retssagen mod den franske forfatter Michel Houellebecq en endnu mere bekymrende udvikling: Vestens egne domstole…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167490887.webp?t[strip]=true&t[quality]=70&accessToken=4ed464108d5ef91582c127f61816ccb0153452050209c352f53a8f9a6535d52a",
-          "publishedAt": "2026-11-22T05:38:34.000Z"
+          "publishedAt": "2026-11-22T05:38:34.000Z",
+          "titleEn": "Berlingske believes that when criticism of Islam becomes a crime, freedom of expression has been lost",
+          "summaryEn": "With the Koran law, Denmark showed how far we are willing to bow to Islamic pressure. Now the trial of the French author Michel Houellebecq presents an even more disturbing development: the West's own courts..."
         },
         {
           "title": "2027 bliver skæbnesvangert for din fossilbil: Her er elbilerne, hvor du får mest for pengene",
           "link": "https://www.berlingske.dk/dine-penge/2027-bliver-skaebnesvangert-for-din-fossilbil-her-er-elbilerne-hvor-du-faar-mest-for-pengene?referrer=RSS",
           "summary": "Visse elbiler bliver dyrere i 2028. Det samme bliver benzin og diesel. Derfor mener eksperter, at mange i løbet af 2027 bør tænke på at skifte fossilbilen ud. Mikkel Thomsager fra Bil Magasinet har bud på, hvor du får…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167672067.webp?t[strip]=true&t[quality]=70&accessToken=b2c9f3698926d41f8058effebef6ec4ece435660e2e52845fc33e25d65b25efe",
-          "publishedAt": "2026-11-22T05:38:19.000Z"
+          "publishedAt": "2026-11-22T05:38:19.000Z",
+          "titleEn": "2027 will be the fate of your fossil car: here are the electric cars where you get the most money",
+          "summaryEn": "Some electric cars will be more expensive in 2028. The same goes for gasoline and diesel. Experts therefore believe that by 2027 many should consider replacing the fossil fuel vehicle. Mikkel Thomsager from Car Store has an offer on where you get..."
         },
         {
           "title": "COP31's formandslande går efter aftale uden fossile brændsler",
           "link": "https://www.berlingske.dk/internationalt/cop31s-formandslande-gaar-efter-aftale-uden-fossile-braendsler?referrer=RSS",
           "summary": "Øget elektrificering er med i det endelige forslag til en aftale ved COP31. Det er fossile brændsler ikke.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167728510.webp?t[strip]=true&t[quality]=70&accessToken=0a0bfb740c479d55b979a3eede0ee2d517c7b576c09e9892d4c80dc44bc375f0",
-          "publishedAt": "2026-11-22T05:32:46.000Z"
+          "publishedAt": "2026-11-22T05:32:46.000Z",
+          "titleEn": "COP31 countries agree to a no-fossil fuel deal",
+          "summaryEn": "Increased electrification is part of the final proposal for an agreement at COP31. It's not fossil fuels."
         }
       ]
     }

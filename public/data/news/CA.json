@@ -177,35 +177,45 @@
           "link": "https://ici.radio-canada.ca/article/info/2302345/pannes-informatiques-cybersecurite-automatisation",
           "summary": "« On est en train de payer une dette de cybersécurité. »",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cybersecurite-logo-cadenas.jpg",
-          "publishedAt": "2026-11-22T00:49:17.000Z"
+          "publishedAt": "2026-11-22T00:49:17.000Z",
+          "titleEn": "Computer failures: are we prepared for a digital pandemic?",
+          "summaryEn": "⁇  We're paying off a cybersecurity debt. ⁇  Other"
         },
         {
           "title": "COP31 : un nouveau texte sur la table, toujours sans les énergies fossiles",
           "link": "https://ici.radio-canada.ca/article/info/2302260/cop31-climat-negociations-energie-financement",
           "summary": "Le texte contient toutefois un appel à l'électrification.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/cop31-turquie-32584.jpg",
-          "publishedAt": "2026-11-22T03:57:17.000Z"
+          "publishedAt": "2026-11-22T03:57:17.000Z",
+          "titleEn": "COP31: a new text on the table, still without fossil fuels",
+          "summaryEn": "The text, however, calls for electrification."
         },
         {
           "title": "30 ans plus tard, quel est le bilan de la Loi sur l’équité salariale?",
           "link": "https://ici.radio-canada.ca/article/info/2302297/equite-salariale-30-ans-quebec-lois",
           "summary": "Les expertes soulignent les progrès réalisés grâce à cette loi, mais aussi les inégalités qui persistent.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/audio/generateur-images/16x9/louise-harel.jpg",
-          "publishedAt": "2026-11-21T20:41:48.000Z"
+          "publishedAt": "2026-11-21T20:41:48.000Z",
+          "titleEn": "30 years later, what is the status of the Equal Pay Act?",
+          "summaryEn": "The experts point out the progress made by this law, but also the persistent inequalities."
         },
         {
           "title": "Israël : Eisenkot invite le parti de Nétanyahou à des négociations de coalition",
           "link": "https://ici.radio-canada.ca/article/info/2302330/israel-eisenkot-invite-parti-netanyahou-negociations-coalition",
           "summary": "Ces discussions doivent commencer dimanche.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/israel-eisenkot-netanyahou-knesset.jpg",
-          "publishedAt": "2026-11-21T22:30:16.000Z"
+          "publishedAt": "2026-11-21T22:30:16.000Z",
+          "titleEn": "Israel: Eisenkot invites Netanyahu's party to coalition negotiations",
+          "summaryEn": "These discussions are scheduled to begin on Sunday."
         },
         {
           "title": "Navdeep Bains élu nouveau chef du Parti libéral de l’Ontario",
           "link": "https://ici.radio-canada.ca/article/info/2302324/navdeep-bains-lee-fairclough-plo-chef",
           "summary": "Il a défait la députée provinciale d'Etobicoke-Lakeshore, Lee Fairclough, au troisième tour de scrutin.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/navdeep-bains-parti-liberal-ontario-chef.jpg",
-          "publishedAt": "2026-11-21T22:47:30.000Z"
+          "publishedAt": "2026-11-21T22:47:30.000Z",
+          "titleEn": "Navdeep Bains elected new leader of the Ontario Liberal Party",
+          "summaryEn": "He defeated Etobicoke-Lakeshore provincial MP Lee Fairclough in the third round of voting."
         },
         {
           "title": "SPVM : arrestation de deux policiers récemment congédiés",
@@ -221,21 +231,27 @@
           "link": "https://ici.radio-canada.ca/article/info/2302316/collaboration-eu-canada-defense-reste-inchangee",
           "summary": "Le sénateur Mike Rounds réagissait à un article publié vendredi par le Washington Post.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/david-mcguinty-wainwright.jpg",
-          "publishedAt": "2026-11-21T21:02:52.000Z"
+          "publishedAt": "2026-11-21T21:02:52.000Z",
+          "titleEn": "Defence cooperation between the U.S. and Canada remains the same",
+          "summaryEn": "Senator Mike Rounds was responding to an article published Friday by the Washington Post."
         },
         {
           "title": "Des avis de recherche animés avec l’IA : efficacité policière ou risque de dérapage?",
           "link": "https://ici.radio-canada.ca/article/info/2302292/programme-bolo-fugitifs-portraits-ia",
           "summary": "Le Programme Bolo soulève des craintes sur la fiabilité et la vie privée.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/top25-bolo-fugitifs-winnipeg.jpg",
-          "publishedAt": "2026-11-21T19:09:34.000Z"
+          "publishedAt": "2026-11-21T19:09:34.000Z",
+          "titleEn": "Animated research reviews with AI: police effectiveness or risk of slipping?",
+          "summaryEn": "The Bolo programme raises concerns about trustworthiness and privacy."
         },
         {
           "title": "Des étudiants songent à une grève illimitée pendant la session d’hiver",
           "link": "https://ici.radio-canada.ca/article/info/2302302/greve-etudiante-quebec-illimite-hiver",
           "summary": "Le résultat du vote des étudiants sera dévoilé ce lundi.",
           "image": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/manifestation-uqar-rimouski-etudiants-greve.jpg",
-          "publishedAt": "2026-11-21T20:24:22.000Z"
+          "publishedAt": "2026-11-21T20:24:22.000Z",
+          "titleEn": "Students are considering an unlimited strike during the winter session",
+          "summaryEn": "The results of the student vote will be announced this Monday."
         }
       ]
     }
