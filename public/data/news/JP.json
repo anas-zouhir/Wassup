@@ -8,63 +8,49 @@
         "homepage": "https://news.web.nhk/newsweb",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-21T18:32:56.890Z",
+      "fetchedAt": "2026-11-22T06:48:26.037Z",
       "items": [
         {
-          "title": "金塊4億円相当や現金約2500万円など盗まれる 兵庫 西宮の住宅",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79776",
-          "summary": "21日未明、兵庫県西宮市の会社経営者の住宅に何者かが侵入し、金塊およそ20キロや現金およそ2500万円などが盗まれる被害が確認されました。金塊20キロは現在の金の価格で4億円相当にのぼり、警察が窃盗事…",
-          "publishedAt": "2026-11-21T15:03:00.000Z",
-          "titleEn": "A stolen warehouse of gold equivalent to 400 million yen and about 25 million yen in cash.",
-          "summaryEn": "On the 21st, it was confirmed that some people broke into the homes of business owners in the city of West Miyagi, and stole about 20 kilograms of gold and about 25 million yen of cash. Twenty kilos of gold are worth 400 million yen at the current price."
+          "title": "タワーレコード 不正アクセスで約1100万件の個人情報流出",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79936",
+          "summary": "音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。",
+          "publishedAt": "2026-11-22T06:11:18.000Z"
         },
         {
-          "title": "ラグビー日本代表 スコットランドに62点差の大敗【詳報】",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79756",
-          "summary": "イギリスに遠征しているラグビー日本代表は、国際大会「ネーションズチャンピオンシップ」でスコットランド代表と対戦し、11個のトライを奪われ、5対67で敗れました。 記事後半では試合の詳しい経過をお伝え…",
-          "publishedAt": "2026-11-21T17:55:03.000Z",
-          "titleEn": "Japan's national rugby union team has lost 62 points to Scotland.",
-          "summaryEn": "Japan's rugby team, which is on an expedition to England, faced Scotland in the Nations Championship, where they lost 11 tries, 5-67. I'll give you the details of the game later in the article."
+          "title": "日本の探査機「みお」水星の周回軌道に投入 欧州の探査機と",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79873",
+          "summary": "太陽に最も近い惑星、水星を目指して8年前の2018年から飛行を続けてきた日本の探査機「みお」は、連結しているヨーロッパの探査機とともに水星を周回する軌道に投入されたと、ESA＝ヨーロッパ宇宙機関が発表…",
+          "publishedAt": "2026-11-22T05:29:38.000Z"
         },
         {
-          "title": "フィギュアGP第5戦 島田麻央 2連勝でファイナル進出決定",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79775",
-          "summary": "フィギュアスケートのグランプリシリーズ第5戦、フィンランド大会は女子シングル後半のフリーが行われ、18歳の島田麻央選手がカナダ大会に続いて優勝し、シニアデビューのシーズンでシリーズの上位6人で争うグラ…",
-          "publishedAt": "2026-11-21T18:24:47.000Z",
-          "titleEn": "FIGUAR GOP 5th round, Shimada Mamasaka, two wins in a row",
-          "summaryEn": "The fifth round of the Grand Prix series in figure skating, the Finnish championships in women's singles, followed by the 18-year-old Shimaida Masashi, who won the Canadian championship, and the sixth-place finisher in the series in her senior debut season."
+          "title": "福島 北塩原村 宿泊客帰宅開始も514世帯孤立 猪苗代町でも孤立",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79781",
+          "summary": "20日から降り続いた雪の影響で、福島県北塩原村では国道の通行止めが続いています。周辺のホテルでは一時孤立した状態になりましたが、緊急車両が通行できるようになったことから、一部の宿泊客が帰宅を始めていま…",
+          "publishedAt": "2026-11-22T05:13:04.000Z"
         },
         {
-          "title": "冬型の気圧配置 北・東日本の山沿い中心に積雪増 交通に影響",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79490",
-          "summary": "冬型の気圧配置の影響で、新潟県では雨が降り続き、「レベル4土砂災害危険警報」が発表されている地域があるほか、北日本と東日本の山沿いを中心に積雪が増えています。 冬型の気圧配置は西からしだいに緩みます…",
-          "publishedAt": "2026-11-21T14:11:25.000Z",
-          "titleEn": "Winter-type air pressure distribution snowfall in the north-eastern Japanese mountainous center affects traffic.",
-          "summaryEn": "Due to the winter weather patterns, it continues to rain in the prefecture, and there are areas where the \"level four\" sand disaster warning has been issued, and snowfall is increasing along the mountains of northern and eastern Japan. The winter pressure settings will ease from west to west."
+          "title": "六花亭に不正アクセス クレカ情報不正利用とみられる被害確認",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79904",
+          "summary": "北海道帯広市に本社がある菓子メーカー「六花亭」のオンラインショップが不正アクセスを受け、およそ8000件のクレジットカード情報が流出した可能性がある問題で、会社は、カード情報の不正利用とみられる被害が…",
+          "publishedAt": "2026-11-22T05:02:00.000Z"
         },
         {
-          "title": "除雪車にはねられ 国道横断中の女性死亡 福井 勝山",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79712",
-          "summary": "21日午前、福井県勝山市の国道で道路を横断していた71歳の女性が後ろに進んでいた大型の除雪車にはねられて死亡しました。",
-          "publishedAt": "2026-11-21T12:38:33.000Z",
-          "titleEn": "A snowmobile hit and killed a woman crossing the highway.",
-          "summaryEn": "On the morning of the 21st, a 71-year-old woman was crossing the highway in Suzhou City, Fuji Prefecture, and was struck and killed by a large snowmobile that was moving backwards."
+          "title": "AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは?",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
+          "summary": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。",
+          "publishedAt": "2026-11-22T05:24:00.000Z"
         },
         {
-          "title": "前橋 市街地出没のクマ見つからず 22日朝から捜索再開",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79555",
-          "summary": "住宅街にクマが出没し警戒が続いている前橋市では、21日朝クマが目撃され、市や警察などは夕方、一時、周辺への立ち入りを規制して捜索しましたが見つからなかったため、午後7時前に捜索を打ち切り、22日朝から…",
-          "publishedAt": "2026-11-21T11:56:09.000Z",
-          "titleEn": "We've not found a bear in the city, and we've been searching since the morning of 22nd.",
-          "summaryEn": "In the city of Forehand, where bears are floating in residential areas, and there's an ongoing alert, bears were spotted on the morning of the 21st, and the city and the police, like the city, started searching and restricting access to the area in the evening, temporarily, and they couldn't find them, so they started searching before 7pm, and from the morning of 22nd..."
+          "title": "安保3文書 非核三原則などめぐり与野党意見交わす NHK日曜討論",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79839",
+          "summary": "安全保障関連の3文書の改定に向けて政府・与党が検討を進めるなか、NHKの日曜討論に与野党の安全保障政策の担当者らが出演し、非核三原則を見直すかどうかや原子力潜水艦の保有の是非などをめぐって意見を交わし…",
+          "publishedAt": "2026-11-22T03:32:00.000Z"
         },
         {
-          "title": "将棋の福間香奈女流四冠 第2子の妊娠を公表",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79734",
-          "summary": "将棋の福間香奈女流四冠が21日、岡山県で行われた対局のあとの記者会見で、第2子の妊娠を公表しました。",
-          "publishedAt": "2026-11-21T11:13:17.000Z",
-          "titleEn": "Chess champion Fujita Shanai announced her second child.",
-          "summaryEn": "In a press conference held in Osaka Prefecture on the 21st day after the match, the chess player Fujiwara Shinai announced her pregnancy of her second child."
+          "title": "日本海側中心に断続的に雪と雨 各地今シーズン一番の冷え込み",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79767",
+          "summary": "3連休の中日となる22日、冬型の気圧配置はしだいに緩んでいるものの、北日本と東日本の日本海側を中心にこの時期としては積雪が多くなっている地域があるほか、新潟県では「レベル4土砂災害危険警報」が発表され…",
+          "publishedAt": "2026-11-22T02:55:00.000Z"
         }
       ]
     },
@@ -75,8 +61,33 @@
         "homepage": "https://www.asahi.com",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-21T18:32:57.046Z",
+      "fetchedAt": "2026-11-22T06:48:26.035Z",
       "items": [
+        {
+          "title": "首里城正殿で復元完成式 7年ぶりによみがえる鮮やかな琉球の象徴",
+          "link": "http://www.asahi.com/articles/ASVCQ1JL4VCQUTIL01CM.html?ref=rss",
+          "publishedAt": "2026-11-22T05:16:42.000Z"
+        },
+        {
+          "title": "入校初日に胸ぐらつかむ 東京消防庁、助教を処分「メンタル強く…」",
+          "link": "http://www.asahi.com/articles/ASVCN3K7QVCNUTIL01FM.html?ref=rss",
+          "publishedAt": "2026-11-21T22:30:00.000Z"
+        },
+        {
+          "title": "高速PA・SA、3分の1でごみ箱撤去へ 不法投棄やまず、注射器も",
+          "link": "http://www.asahi.com/articles/ASVCN2Q9ZVCNOIPE00BM.html?ref=rss",
+          "publishedAt": "2026-11-21T22:00:00.000Z"
+        },
+        {
+          "title": "僕が名字を変える 予想以上だった不公平「自分は自分のままだけど」",
+          "link": "http://www.asahi.com/articles/ASVCN1SDJVCNUTFL001M.html?ref=rss",
+          "publishedAt": "2026-11-21T21:00:00.000Z"
+        },
+        {
+          "title": "老舗洋菓子店で盲導犬とふれあい 親子30人、テス先生から学ぶ",
+          "link": "http://www.asahi.com/articles/ASVCP2DNCVCPOXIE00NM.html?ref=rss",
+          "publishedAt": "2026-11-21T21:00:00.000Z"
+        },
         {
           "title": "住宅から現金2500万円と金塊20キロ盗まれる 警察が捜査 兵庫",
           "link": "http://www.asahi.com/articles/ASVCP51T9VCPPLZB00BM.html?ref=rss",
@@ -106,36 +117,6 @@
           "link": "http://www.asahi.com/articles/ASVCP26DJVCPUHNB005M.html?ref=rss",
           "publishedAt": "2026-11-21T09:23:23.000Z",
           "titleEn": "A bear has been infiltrating a residential neighborhood in the former bridge town, blocking roads and hunting for firearms."
-        },
-        {
-          "title": "愛子さまの感想全文 シンガポールから帰国、宮内庁を通して公表",
-          "link": "http://www.asahi.com/articles/ASVCP2DQHVCPUTIL003M.html?ref=rss",
-          "publishedAt": "2026-11-21T09:21:34.000Z",
-          "titleEn": "My dear son, the full text of your comments was published from Singapore, through the Ministry of Home Affairs."
-        },
-        {
-          "title": "作業中の除雪車にはねられ、女性が死亡 福井・勝山、積雪10センチ",
-          "link": "http://www.asahi.com/articles/ASVCP2VZYVCPPJLB004M.html?ref=rss",
-          "publishedAt": "2026-11-21T09:18:16.000Z",
-          "titleEn": "I was hit by a snowmobile while working, and a woman died."
-        },
-        {
-          "title": "カード情報流出の六花亭、不正利用を1件確認 「再発行を」呼びかけ",
-          "link": "http://www.asahi.com/articles/ASVCP20H0VCPUTIL005M.html?ref=rss",
-          "publishedAt": "2026-11-21T06:40:00.000Z",
-          "titleEn": "I've seen a lot of card breaches, a lot of misuse, and I'm calling for a reissue."
-        },
-        {
-          "title": "埼玉県三郷市の物流施設で火災",
-          "link": "http://www.asahi.com/articles/ASVCP11DZVCPUTIL004M.html?ref=rss",
-          "publishedAt": "2026-11-21T03:17:05.000Z",
-          "titleEn": "Fire at a logistics facility in the city of Tsugu, Yueju Prefecture"
-        },
-        {
-          "title": "【写真まとめ】愛子さまシンガポール訪問 マーライオン視察、帰国へ",
-          "link": "http://www.asahi.com/articles/ASVCN3D9MVCNUQIP00HM.html?ref=rss",
-          "publishedAt": "2026-11-21T03:00:00.000Z",
-          "titleEn": "I'm going back to Singapore, visiting the Marillion, and going home."
         }
       ]
     },
@@ -146,77 +127,77 @@
         "homepage": "https://www.japantimes.co.jp",
         "lang": "en"
       },
-      "fetchedAt": "2026-11-21T18:32:57.166Z",
+      "fetchedAt": "2026-11-22T06:48:26.199Z",
       "items": [
         {
-          "title": "British PM Burnham’s big worry Isn’t Brexit or welfare — it’s Trump and Iran",
-          "link": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/uk-burnham-brexit-welfare-trump-iran/",
-          "summary": "For weeks, Burnham and his most senior Cabinet colleagues have been consumed by the possibility Trump could resume major strikes on Iran",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575309.jpg",
-          "publishedAt": "2026-11-21T08:27:00.000Z"
+          "title": "Giants coach John Harbaugh ‘happy’ to see Cam Skattebo end backflip celebration",
+          "link": "https://www.japantimes.co.jp/sports/2026/11/22/more-sports/cam-skattebo-backflip-retire/",
+          "summary": "Skattebo's call to curb his acrobatics came after Detroit Lions star Aidan Hutchinson tore his ACL while celebrating after a sack last week.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575416.jpg",
+          "publishedAt": "2026-11-22T06:06:00.000Z"
         },
         {
-          "title": "U.S. Agriculture Department and FBI breached by hackers, reports say",
-          "link": "https://www.japantimes.co.jp/news/2026/11/21/world/crime-legal/us-fbi-usda-cyberattacks/",
-          "summary": "The reports come as concerns deepened over the recent spate of tech outages at key American institutions.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575308.jpg",
-          "publishedAt": "2026-11-21T08:13:00.000Z"
+          "title": "Japan considers adding organic chemicals to ‘critical products’ list",
+          "link": "https://www.japantimes.co.jp/news/2026/11/22/japan/organic-chemicals-critical-items/",
+          "summary": "The products are used in a wide range of items, including high-performance materials essential for semiconductor manufacturing.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575382.jpg",
+          "publishedAt": "2026-11-22T05:50:00.000Z"
         },
         {
-          "title": "Anthropic researcher says Claude solved math’s greatest riddle",
-          "link": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/ai-anthropic-claude-riemann-hypothesis/",
-          "summary": "The firm's chatbot may have helped prove the Riemann Hypothesis, a problem that has eluded mathematicians for more than 160 years.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575307.jpg",
-          "publishedAt": "2026-11-21T07:46:00.000Z"
+          "title": "Fossil fuels still missing from latest COP31 draft deal",
+          "link": "https://www.japantimes.co.jp/environment/2026/11/22/climate-change/cop31-climate-talks/",
+          "summary": "The latest offering by summit co-hosts Turkey and Australia retains global electrification goals but leaves unresolved tensions over fossil fuels.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575336.jpg",
+          "publishedAt": "2026-11-22T05:47:00.000Z"
         },
         {
-          "title": "Countries open path towards ‘killer robots’ pact",
-          "link": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/killer-robots-pact/",
-          "summary": "After five days of talks at the United Nations, which dragged on into overtime, states agreed on building some form of pact over the next two years.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575310.jpg",
-          "publishedAt": "2026-11-21T07:41:00.000Z"
+          "title": "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
+          "link": "https://www.japantimes.co.jp/news/2026/11/22/world/bahrain-iran-attack-hormuz/",
+          "summary": "The Gulf kingdom suffered several attacks last week, ending a lull in the conflict that began with U.S.-Israeli strikes on Iran in late February.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575399.jpg",
+          "publishedAt": "2026-11-22T05:19:00.000Z"
         },
         {
-          "title": "Susumu Hirasawa’s ‘Paprika’ score is the perfect ‘retrofuturist’ sound for today",
-          "link": "https://www.japantimes.co.jp/culture/2026/11/21/music/susumu-hirasawa-paprika-soundtrack/",
-          "summary": "Two decades after the debut of Satoshi Kon's \"Paprika,\" its innovative soundtrack has found new life on social media.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/574653.jpg",
-          "publishedAt": "2026-11-21T07:30:00.000Z"
+          "title": "South Korea education chief resigns amid AI cheating scandal",
+          "link": "https://www.japantimes.co.jp/news/2026/11/22/asia-pacific/politics/south-korea-education-minister-resigns/",
+          "summary": "The top scorer in a national tax accountant exam confessed to using AI for his near-perfect score, just days before the country's college entrance exam.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575389.jpg",
+          "publishedAt": "2026-11-22T05:19:00.000Z"
         },
         {
-          "title": "As Trump courts Xi and Putin, middle powers make their own moves",
-          "link": "https://www.japantimes.co.jp/news/2026/11/21/japan/politics/trump-xi-putin-middle-powers-analysis/",
-          "summary": "Efforts to forge new alliances show how middle powers can reach for alternative markets, while new defense tie-ups give them more options on security.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575303.jpg",
-          "publishedAt": "2026-11-21T04:42:00.000Z"
+          "title": "Poland is a warning for vengeful U.S. Democrats",
+          "link": "https://www.japantimes.co.jp/commentary/2026/11/22/world/poland-vengeful-us-democrats/",
+          "summary": "Poland's struggle to repair institutions weakened by populist rule shows that democracies cannot restore public trust through partisan power plays.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/574753.jpg",
+          "publishedAt": "2026-11-22T05:05:00.000Z"
         },
         {
-          "title": "Anthropic’s post-debut stumble delivers reality check for AI trade",
-          "link": "https://www.japantimes.co.jp/business/2026/11/21/markets/anthropic-ai-stocks/",
-          "summary": "A dramatic unraveling of the AI trade showed that even a blockbuster listing could not shake the gloom hanging over the sector.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575302.jpg",
-          "publishedAt": "2026-11-21T04:19:00.000Z"
+          "title": "All Blacks coach Dave Rennie on hot seat after poor showing in loss against England",
+          "link": "https://www.japantimes.co.jp/sports/2026/11/22/more-sports/new-zealand-coach-under-pressure/",
+          "summary": "After last week's surprise loss to Wales, New Zealand's first in 73 years, Rennie said that \"we let our country down\" and he admitted the display at Twickenham was even worse.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575388.jpg",
+          "publishedAt": "2026-11-22T04:39:00.000Z"
         },
         {
-          "title": "Why Kim didn’t meet Trump, despite the hype",
-          "link": "https://www.japantimes.co.jp/news/2026/11/21/asia-pacific/politics/why-kim-didnt-meet-trump/",
-          "summary": "U.S. President Donald Trump knocked repeatedly at Kim Jong Un's door, but the North Korean leader was out at a ski resort and a naval university.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575306.jpg",
-          "publishedAt": "2026-11-21T04:15:00.000Z"
+          "title": "Japan to expand “kosen” education into agriculture",
+          "link": "https://www.japantimes.co.jp/news/2026/11/22/japan/kosen-education-agriculture/",
+          "summary": "The government is also considering adding fields related to content creation, such as manga and anime, in response to demand.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575385.jpg",
+          "publishedAt": "2026-11-22T04:30:00.000Z"
         },
         {
-          "title": "Trump ousts cyber director after tech outages spark criticism",
-          "link": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/us-cyber-director-ousted/",
-          "summary": "The firing come days after technology outages disrupted U.S. air travel, banking and national security systems.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575300.jpg",
-          "publishedAt": "2026-11-21T03:48:00.000Z"
+          "title": "How attaches can strengthen defense cooperation",
+          "link": "https://www.japantimes.co.jp/commentary/2026/11/22/japan/japan-strengthen-defense-cooperation/",
+          "summary": "Defense attaches are becoming increasingly important as Japan expands defense equipment exports and security cooperation.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575255.jpg",
+          "publishedAt": "2026-11-22T03:40:00.000Z"
         },
         {
-          "title": "From Hong Kong to Africa: Humble bag carries history of migration",
-          "link": "https://www.japantimes.co.jp/news/2026/11/21/world/humble-bag-migration-history/",
-          "summary": "An everyday utility used to carry clothes, household goods and food, the bag also carries painful memories of mass expulsion and displacement.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575297.jpg",
-          "publishedAt": "2026-11-21T03:23:00.000Z"
+          "title": "Nagano farmers are running out of altitude as warming hits key celery crop",
+          "link": "https://www.japantimes.co.jp/environment/2026/11/22/climate-change/celery-harvest-climate-change/",
+          "summary": "Farmers have long planted celery on mountainsides in order to find cooler conditions. But as warming accelerates, they're running out of altitude.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/574472.jpg",
+          "publishedAt": "2026-11-22T03:25:00.000Z"
         }
       ]
     }

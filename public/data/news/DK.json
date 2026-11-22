@@ -8,8 +8,35 @@
         "homepage": "https://www.dr.dk/nyheder",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-21T18:32:30.044Z",
+      "fetchedAt": "2026-11-22T06:48:10.270Z",
       "items": [
+        {
+          "title": "Diamantring og lommeur tilhørende Titanic-passagerer solgt på auktion",
+          "link": "https://www.dr.dk/nyheder/seneste/diamantring-og-lommeur-tilhoerende-titanic-passagerer-solgt-paa-auktion",
+          "publishedAt": "2026-11-22T06:26:02.000Z"
+        },
+        {
+          "title": "Washingtons guvernør kritiserer ICE efter hændelse i lufthavn",
+          "link": "https://www.dr.dk/nyheder/seneste/washingtons-guvernoer-kritiserer-ice-efter-haendelse-i-lufthavn",
+          "publishedAt": "2026-11-22T06:05:10.000Z"
+        },
+        {
+          "title": "I Bahrain er et civilt industrianlæg brudt i brand efter et iransk angreb",
+          "link": "https://www.dr.dk/nyheder/seneste/i-bahrain-er-et-civilt-industrianlaeg-brudt-i-brand-efter-et-iransk-angreb",
+          "publishedAt": "2026-11-21T21:40:31.000Z"
+        },
+        {
+          "title": "Herning Blue Fox scorer syv mål på 17 minutter i vild topkamp",
+          "link": "https://www.dr.dk/nyheder/seneste/herning-blue-fox-scorer-syv-maal-paa-17-minutter-i-vild-topkamp",
+          "image": "https://asset.dr.dk/drdk/umbraco-images/rjnnukpa/20260915-215516-l_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
+          "publishedAt": "2026-11-21T20:30:33.000Z"
+        },
+        {
+          "title": "Massiv regn udskyder danskeres skæbne i stor golfturnering",
+          "link": "https://www.dr.dk/nyheder/seneste/massiv-regn-udskyder-danskeres-skaebne-i-stor-golfturnering",
+          "image": "https://asset.dr.dk/drdk/umbraco-images/4l1kn4n2/20260724-074201-l_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
+          "publishedAt": "2026-11-21T18:43:00.000Z"
+        },
         {
           "title": "Fly til og fra Bruxelles forventes at være aflyst mandag",
           "link": "https://www.dr.dk/nyheder/seneste/fly-til-og-fra-bruxelles-forventes-vaere-aflyst-mandag",
@@ -42,36 +69,6 @@
           "link": "https://www.dr.dk/nyheder/seneste/faengselsdoemt-kaptajn-loeslades",
           "publishedAt": "2026-11-21T09:58:55.000Z",
           "titleEn": "Sentenced Captain released"
-        },
-        {
-          "title": "Bevæbnede soldater rykker ind i Ørestad",
-          "link": "https://www.dr.dk/nyheder/seneste/bevaebnede-soldater-rykker-ind-i-oerestad",
-          "publishedAt": "2026-11-21T09:56:22.000Z",
-          "titleEn": "Armed soldiers moving into East Town"
-        },
-        {
-          "title": "Østjyllands Politi med opfordring efter flere indbrud",
-          "link": "https://www.dr.dk/nyheder/seneste/oestjyllands-politi-med-opfordring-efter-flere-indbrud",
-          "publishedAt": "2026-11-21T09:21:11.000Z",
-          "titleEn": "East Jutland Police calling for more break-ins"
-        },
-        {
-          "title": "Indbyggere i Estland blev advaret mod droner i nat",
-          "link": "https://www.dr.dk/nyheder/seneste/indbyggere-i-estland-blev-advaret-mod-droner-i-nat",
-          "publishedAt": "2026-11-21T08:49:12.000Z",
-          "titleEn": "Residents of Estonia were warned against drones at night"
-        },
-        {
-          "title": "Mand ramt af skud nær Silkeborg",
-          "link": "https://www.dr.dk/nyheder/seneste/mand-ramt-af-skud-naer-silkeborg",
-          "publishedAt": "2026-11-21T08:05:50.000Z",
-          "titleEn": "Man shot near Silkeborg"
-        },
-        {
-          "title": "19-årig fundet i god behold",
-          "link": "https://www.dr.dk/nyheder/seneste/politi-efterlyser-19-aarig-mand",
-          "publishedAt": "2026-11-21T07:26:33.000Z",
-          "titleEn": "19-year-old found in good condition"
         }
       ]
     },
@@ -82,97 +79,76 @@
         "homepage": "https://politiken.dk",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-21T18:32:31.128Z",
+      "fetchedAt": "2026-11-22T06:48:11.071Z",
       "items": [
         {
-          "title": "Kunstig intelligens er et monster",
-          "link": "https://politiken.dk/kultur/boger/boganmeldelser/faglitteratur_boger/art11061690/Kunstig-intelligens-er-et-monster",
-          "summary": "Professor og ekspert i kunstig intelligens slår 25 slag for langsomhed og omtanke i en tid, der alvorligt mangler begge dele. Emnet kunne ikke være vigtigere, alligevel skuffer Anders Søgaards bog.",
-          "image": "https://politiken.dk/incoming/img11065807.gjgz6o/ORIGINALS/original_960/Robotter%20der%20ligner%20os%20mennesker",
-          "publishedAt": "2026-11-21T18:05:43.000Z",
-          "titleEn": "Artificial intelligence is a monster",
-          "summaryEn": "Professor and expert in artificial intelligence beat 25 strokes for slowness and thoughtfulness at a time when both are seriously lacking. The subject couldn't be more important, yet Anders Søgaard's book disappoints."
+          "title": "I Napolis rabarberkvarter bliver mafiaen udfordret af kunsten",
+          "link": "https://politiken.dk/rejser/art11021346/I-Napolis-rabarberkvarter-bliver-mafiaen-udfordret-af-kunsten",
+          "summary": "I et Napoli, hvor masseturismen har forandret byens centrum, udgør Sanità-kvarteret stadig en bastion af hverdagsliv. Verdenskunst og kulturarv gør de lokale stolte og tilbyder et økonomisk alternativ til mafiaen.",
+          "publishedAt": "2026-11-22T06:44:44.000Z"
         },
         {
-          "title": "Chelsea bliver udklasseret af Leeds og forlænger nedtur",
-          "link": "https://politiken.dk/sport/fodbold/premierleague/art11069938/Chelsea-bliver-udklasseret-af-Leeds-og-forl%C3%A6nger-nedtur",
-          "summary": "Chelsea har tabt fire af sine seneste fem kampe efter 1-4 mod Leeds i Premier League.",
-          "image": "https://politiken.dk/incoming/img11069944.nef8vw/ORIGINALS/original_960/FBL-ENG-PR-CHELSEA-LEEDS",
-          "publishedAt": "2026-11-21T17:18:25.000Z",
-          "titleEn": "Chelsea are relegated by Leeds and extended relegation",
-          "summaryEn": "Chelsea have lost four of their last five games after a 1-4 defeat to Leeds in the Premier League."
+          "title": "Undervisningsministeriet var klar med strikse ai-rammer for folkeskolen, men blev bremset",
+          "link": "https://politiken.dk/danmark/art11065137/Undervisningsministeriet-var-klar-med-strikse-ai-rammer-for-folkeskolen-men-blev-bremset",
+          "summary": "Et forbud mod undervisning med ai frem til 8. klasse skulle have været trådt i kraft i september, men forblev i skuffen. Industrien lobbyer for, at elever fra 4. klasse og frem skal bruge ai.",
+          "image": "https://politiken.dk/incoming/img11069673.xnx4z1/ORIGINALS/original_960/Fire%20ministre%20taler%20om%20skolen%20i%202027",
+          "publishedAt": "2026-11-22T05:59:34.000Z"
         },
         {
-          "title": "Han opbevarer sine sjældne kort i en bankboks og er blevet mere paranoid: »Det er gået helt amok«",
-          "link": "https://politiken.dk/danmark/forbrug/art11063123/Han-opbevarer-sine-sj%C3%A6ldne-kort-i-en-bankboks-og-er-blevet-mere-paranoid-%C2%BBDet-er-g%C3%A5et-helt-amok%C2%AB",
-          "summary": "Et brutalt hjemmerøveri sendte rystelser gennem den danske Pokémon-verden i starten af året og satte to streger under, at populære samlekort er rykket fra børneværelset ind i kriminelle kredse.",
-          "image": "https://politiken.dk/incoming/img11068149.wrs34j/ORIGINALS/original_960/Han%20opbevarer%20sine%20sj%C3%A6ldne%20kort%20i%20en%20bankboks%20og%20er%20blevet%20mere%20paranoid%20Det%20er%20g%C3%A5et%20helt%20amok",
-          "publishedAt": "2026-11-21T17:10:17.000Z",
-          "titleEn": "He keeps his rare cards in a bank vault and has become more paranoid:",
-          "summaryEn": "A brutal home robbery sent tremors through the Danish Pokémon world earlier this year and signaled that popular collectible cards have moved from the nursery into criminal circles."
+          "title": "Max Verstappen triumferer i Las Vegas",
+          "link": "https://politiken.dk/sport/formel1/art11069995/Max-Verstappen-triumferer-i-Las-Vegas",
+          "summary": "Max Verstappen cementerede sin andenplads i VM-stillingen med en sejr i grandprixet i Las Vegas.",
+          "image": "https://politiken.dk/incoming/img11069997.jvtlu4/ORIGINALS/original_960/FOR-MOT-SPO-F1-GRAND-PRIX-OF-LAS-VEGAS",
+          "publishedAt": "2026-11-22T05:53:33.000Z"
         },
         {
-          "title": "Negativ Crystal Palace-stime fortsætter i Franks debut",
-          "link": "https://politiken.dk/sport/fodbold/premierleague/art11069937/Negativ-Crystal-Palace-stime-forts%C3%A6tter-i-Franks-debut",
-          "summary": "Thomas Frank debuterede for Crystal Palace med nederlag i Coventry, der scorede sejrsmål kort før tid.",
-          "image": "https://politiken.dk/incoming/img11069940.c90j02/ORIGINALS/original_960/SOCCER-ENGLAND-COV-CRY",
-          "publishedAt": "2026-11-21T17:07:51.000Z",
-          "titleEn": "Negative Crystal Palace hours continue in Frank's debut",
-          "summaryEn": "Thomas Frank made his debut for Crystal Palace in a defeat at Coventry, who scored the winning goal shortly before."
+          "title": "»ICE er fuldstændig ude af kontrol«: Guvernør raser efter anholdelser i lufthavnen",
+          "link": "https://politiken.dk/internationalt/int_usa/art11069994/%C2%BBICE-er-fuldst%C3%A6ndig-ude-af-kontrol%C2%AB-Guvern%C3%B8r-raser-efter-anholdelser-i-lufthavnen",
+          "summary": "Guvernør kalder optagelser af anholdelser i lufthavn for rystende. ICE beskriver det som en målrettet aktion.",
+          "image": "https://politiken.dk/incoming/img11069996.kxaygo/ORIGINALS/original_960/USA-IMMIGRATION-SEATTLE",
+          "publishedAt": "2026-11-22T05:47:44.000Z"
         },
         {
-          "title": "Kender du byen? Hvem ringer klokkerne for, fristes man til at spørge",
-          "link": "https://politiken.dk/rejser/art11066467/Hvem-ringer-klokkerne-for-fristes-man-til-at-sp%C3%B8rge",
-          "summary": "Indsend dit svar og deltag i konkurrencen om en ’Turen går til ...’-rejsebog.",
-          "image": "https://politiken.dk/incoming/img11066473.rfm3sg/ORIGINALS/original_960/Rejsedetektiven",
-          "publishedAt": "2026-11-21T16:00:00.000Z",
-          "titleEn": "Do you know the city? Who are the bells ringing for, you're tempted to ask",
-          "summaryEn": "Submit your answer and participate in the competition for a  ⁇ Tour goes to ... ⁇  travel book."
+          "title": "DR afpublicerer dokumentar om sugardating efter kritik fra Gina Jaqueline",
+          "link": "https://politiken.dk/kultur/art11067462/DR-afpublicerer-dokumentar-om-sugardating-efter-kritik-fra-Gina-Jaqueline",
+          "summary": "Ni år efter premieren på DR’s seersucces ‘Gina Jaqueline – en sugardaters fortælling’ er den nu afpubliceret. Gina Jaqueline og hendes daværende partner forklarer, at de forsøgte at stoppe DR-dokumentarserien allerede i…",
+          "image": "https://politiken.dk/incoming/img11065676.sq74lf/ORIGINALS/original_960/Gina%20Jaqueline",
+          "publishedAt": "2026-11-22T05:23:42.000Z"
         },
         {
-          "title": "Tidligere ambassadør i Moskva: Rusland kommer til at udvise danske diplomater",
-          "link": "https://politiken.dk/danmark/art11069747/Tidligere-ambassad%C3%B8r-i-Moskva-Rusland-kommer-til-at-udvise-danske-diplomater",
-          "summary": "Et muligt likvideringsforsøg på dansk jord har allerede affødt en række konsekvenser. Fra et nyt lovforslag til en diplomat, der er blevet smidt på porten. Nu kommer Danmarks tidligere ambassadør i Rusland med et bud på…",
-          "image": "https://politiken.dk/incoming/img11069900.wrfcqq/ORIGINALS/original_960/Den%20russiske%20ambassade",
-          "publishedAt": "2026-11-21T15:58:30.000Z",
-          "titleEn": "Former ambassador to Moscow: Russia will expel Danish diplomats",
-          "summaryEn": "A possible liquidation attempt on Danish soil has already produced a number of consequences. From a new bill to a diplomat who's been thrown at the gate. Now, the former ambassador of Denmark to Russia is making an offer..."
+          "title": "36 er savnet i dødelig brand på konfektfabrik i Indonesien",
+          "link": "https://politiken.dk/internationalt/art11069986/36-er-savnet-i-d%C3%B8delig-brand-p%C3%A5-konfektfabrik-i-Indonesien",
+          "summary": "Brand på fabrik nær Jakarta har kostet flere livet. Redningsarbejdere leder efter 36 personer, som er savnet.",
+          "image": "https://politiken.dk/incoming/img11069991.dehxy0/ORIGINALS/original_960/INDONESIA-FIRE-FACTORY",
+          "publishedAt": "2026-11-22T05:13:01.000Z"
         },
         {
-          "title": "Er venstrefløjen klar til at bande og syde af raseri?",
-          "link": "https://politiken.dk/kultur/boger/boganmeldelser/faglitteratur_boger/art11064263/Er-venstrefl%C3%B8jen-klar-til-at-bande-og-syde-af-raseri",
-          "summary": "Venstrefløjen har fremmedgjort den amerikanske arbejderklasse med selvretfærdighed og moralisering.Det har banet vejen for højrepopulismen, hævder den marxistiske filosof Catherine Liu i aktuel bog.",
-          "image": "https://politiken.dk/incoming/img11064968.s72g8q/ORIGINALS/original_960/Title%20mangler",
-          "publishedAt": "2026-11-21T15:27:08.000Z",
-          "titleEn": "Is the left ready to curse and rage?",
-          "summaryEn": "The left has alienated the American working class with self-righteousness and morality. It has paved the way for right-wing populism, as Marxist philosopher Catherine Liu argues in her book."
+          "title": "Trump bekræfter cyberangreb mod FBI: »Måske kan vi lære noget«",
+          "link": "https://politiken.dk/internationalt/int_usa/art11069984/Trump-bekr%C3%A6fter-cyberangreb-mod-FBI-%C2%BBM%C3%A5ske-kan-vi-l%C3%A6re-noget%C2%AB",
+          "summary": "Hvis FBI-database er blevet hacket, kan det muligvis kaste lys over flere ting, siger Trump til Fox News.",
+          "image": "https://politiken.dk/incoming/img11069990.a15n2/ORIGINALS/original_960/USA-TRUMP-CONTRACTORS",
+          "publishedAt": "2026-11-22T05:12:03.000Z"
         },
         {
-          "title": "»Frankrig leder efter en frelser«. Kan de få det i en judomester?",
-          "link": "https://politiken.dk/internationalt/art11061467/%C2%BBFrankrig-leder-efter-en-frelser%C2%AB.-Kan-de-f%C3%A5-det-i-en-judomester",
-          "summary": "Han beskrives som den dygtigste judokæmper i verden. Nu vil den ekstremt populære Teddy Riner, der har vundet OL-guld i judo fem gange, stille op til præsidentvalget i Frankrig.",
-          "image": "https://politiken.dk/incoming/img11061559.5j5jrs/ORIGINALS/original_960/FRANCE2027-POLITICS-ELECTION",
-          "publishedAt": "2026-11-21T14:15:41.000Z",
-          "titleEn": "France is looking for a savior. Can they get it in a Jewish high school?",
-          "summaryEn": "He's described as the world's most accomplished Jewish fighter. Now, the extremely popular Teddy Riner, who has won Olympic gold in judo five times, will be running for President of France."
+          "title": "De dukkede op, bad om yams og forsvandt ind i junglens dyb igen",
+          "link": "https://politiken.dk/internationalt/art11066426/De-dukkede-op-bad-om-yams-og-forsvandt-ind-i-junglens-dyb-igen",
+          "summary": "Ifølge ngo’en Survival International er det første gang i »mindst flere årtier«, at Awá-folket opsøger omverdenen. Og det er bekymrende.",
+          "image": "https://politiken.dk/incoming/img11066711.240lnn/ORIGINALS/original_960/bb3272ea-9bf8-4ef3-932e-4b121353927f",
+          "publishedAt": "2026-11-21T21:15:54.000Z"
         },
         {
-          "title": "Thomas Franks redningsaktion starter i dag. Han skal bruge et stærkt forsvar og nogle effektive dødbolde",
-          "link": "https://politiken.dk/sport/fodbold/art11068254/Thomas-Franks-redningsaktion-starter-i-dag.-Han-skal-bruge-et-st%C3%A6rkt-forsvar-og-nogle-effektive-d%C3%B8dbolde",
-          "summary": "Ni måneder efter sin fyring i Tottenham er Thomas Frank tilbage i Premier League som træner for Crystal Palace. Den danske træner indleder sin redningsaktion i London-klubben lørdag eftermiddag.",
-          "image": "https://politiken.dk/incoming/img11068528.krmjfr/ORIGINALS/original_960/SOCCER-ENGLAND-CRY",
-          "publishedAt": "2026-11-21T12:34:23.000Z",
-          "titleEn": "Thomas Frank's rescue operation is starting today. He needs a strong defense and some effective death balls.",
-          "summaryEn": "Nine months after his dismissal from Tottenham, Thomas Frank is back in the Premier League coaching Crystal Palace. The Danish trainer will begin his rescue operation at the London club on Saturday afternoon."
+          "title": "Ronja Godtfredsen følte en sorg, da hun mistede sin sexlyst. Nu har hun fundet løsningen",
+          "link": "https://politiken.dk/danmark/sundhed/art11035589/Ronja-Godtfredsen-f%C3%B8lte-en-sorg-da-hun-mistede-sin-sexlyst.-Nu-har-hun-fundet-l%C3%B8sningen",
+          "summary": "Et stigende antal kvinder i Danmark efterspørger hjælp til nedsat eller helt manglende sexlyst.",
+          "image": "https://politiken.dk/incoming/img11065580.kw102y/ORIGINALS/original_960/Stor%20stigning%20i%20testosteronbehandling%20til%20kvinder",
+          "publishedAt": "2026-11-21T20:44:48.000Z"
         },
         {
-          "title": "Ukrainsk rapper om likviderings­forsøg: »Indtil videre står det 1-0 til dem«",
-          "link": "https://politiken.dk/danmark/art11069681/Ukrainsk-rapper-om-likviderings%C2%ADfors%C3%B8g-%C2%BBIndtil-videre-st%C3%A5r-det-1-0-til-dem%C2%AB",
-          "summary": "Stort set ingen i Danmark kendte rapperen Kyivstoner før det fredag kom frem, at PET har forhindret et attentat mod ham i Charlottenlund. Men hvem er han, og hvordan påvirker likvideringsforsøget ham?",
-          "image": "https://politiken.dk/incoming/img11069688.wwmnss/ORIGINALS/original_960/KYIVSTONER",
-          "publishedAt": "2026-11-21T11:56:06.000Z",
-          "titleEn": "Ukrainian rappers on liquidation attempts:  ⁇ So far they are 1-0 ⁇",
-          "summaryEn": "Almost no one in Denmark knew the rapper Kyivstoner until Friday when it was revealed that PET had prevented an attack on him in Charlottenlund. But who is he, and how does the liquidation attempt affect him?"
+          "title": "Trump kan stadig blokere demokraterne. Men i store dele af USA er det nu dem, der bestemmer",
+          "link": "https://politiken.dk/internationalt/int_usa/art11056288/Trump-kan-stadig-blokere-demokraterne.-Men-i-store-dele-af-USA-er-det-nu-dem-der-bestemmer",
+          "summary": "Demokraternes fremgang i delstaterne giver partiet mulighed for at omsætte valgløfter til lovgivning – og vise, hvad de vil med USA frem mod næste præsidentvalg.",
+          "image": "https://politiken.dk/incoming/img11063928.4msebs/ORIGINALS/original_960/US-NEW-CONGRESSIONAL-MEMBERS-BEGIN-ORIENTATION-ON-CAPITOL-HILL",
+          "publishedAt": "2026-11-21T20:30:52.000Z"
         }
       ]
     },
@@ -183,96 +159,77 @@
         "homepage": "https://www.berlingske.dk",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-21T18:32:31.329Z",
+      "fetchedAt": "2026-11-22T06:48:10.536Z",
       "items": [
         {
-          "title": "Din troværdighed er totalskadet, Signe Wenneberg. Her er en livline",
-          "link": "https://www.berlingske.dk/kommentar/din-trovaerdighed-er-totalskadet-signe-wenneberg-her-er-en-livline?referrer=RSS",
-          "summary": "Signe Wenneberg har mistet sin troværdighed, men ikke retten til at være aktivist. Lektionen kommer fra en uventet kant: børsaktivisterne. Velkommen til »Regnskabets time«.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/164580166.webp?t[strip]=true&t[quality]=70&accessToken=dedb7a818ece1ffaab3480a873a13f461af058a9a679395fec445497b0143f39",
-          "publishedAt": "2026-11-21T18:23:06.000Z",
-          "titleEn": "Your credibility is totally damaged, Signe Wenneberg. Here's a lifeline",
-          "summaryEn": "Signe Wenneberg has lost her credibility, but not her right to be an activist. The lesson is coming from an unexpected edge: the stock market activists. Welcome to the accounting class."
+          "title": "Max Verstappen triumferer i overhalingsshow i Las Vegas",
+          "link": "https://www.berlingske.dk/sport/max-verstappen-triumferer-i-overhalingsshow-i-las-vegas?referrer=RSS",
+          "summary": "Max Verstappen cementerede sin andenplads i VM-stillingen med en sejr i grandprixet i Las Vegas.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167728563.webp?t[strip]=true&t[quality]=70&accessToken=cafd56156452492b1bef8c85c51e6d11e3c38096f8bd67bfc56bb36d09d4cf8f",
+          "publishedAt": "2026-11-22T06:31:44.000Z"
         },
         {
-          "title": "Infantino får fuld afrikansk opbakning foran Uefa-kandidat",
-          "link": "https://www.berlingske.dk/sport/infantino-faar-fuld-afrikansk-opbakning-foran-uefa-kandidat?referrer=RSS",
-          "summary": "Gianni Infantino kan fortsat regne med 54 stemmer fra Afrika, fastslår præsidenten for CAF.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167725075.webp?t[strip]=true&t[quality]=70&accessToken=a46b1f953c1e3d586fac328b22c957cfe0902f2a75b49186a4d3fe8c4bbefdc4",
-          "publishedAt": "2026-11-21T18:04:47.000Z",
-          "titleEn": "Infantino receives full African support ahead of UEFA candidate",
-          "summaryEn": "Gianni Infantino can still count on 54 votes from Africa, says the CAF president."
+          "title": "En tavs milliardær er godt i gang med at købe hele Jyderup. »Historien skriver næsten sig selv. Men den er forkert«",
+          "link": "https://www.berlingske.dk/indland/en-tavs-milliardaer-er-godt-i-gang-med-at-koebe-hele-jyderuphistorien-skriver-naesten-sig-selv-men-den-er-forkert?referrer=RSS",
+          "summary": "En dansk milliardær bosat i Schweiz har på få år opkøbt godset, stationen, savværket og store dele af forretningslivet i den vestsjællandske stationsby Jyderup. Ingen ved rigtig, hvad han vil. Nogle hyrer advokater, mens…",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167397586.webp?t[strip]=true&t[quality]=70&accessToken=c96bcb3993757b7650887c9f6276ef17ce397efb0bb5e4be3f47c19e2cb5e7c8",
+          "publishedAt": "2026-11-22T06:24:01.000Z"
         },
         {
-          "title": "Tidligere FE-analytiker om afværget attentat: »Det er Krudttønden på steroider«",
-          "link": "https://www.berlingske.dk/samfund/tidligere-fe-analytiker-om-afvaerget-attentat-det-er-krudttoenden-paa-steroider?referrer=RSS",
-          "summary": "Ifølge tidligere chefanalytiker ved Forsvarets Efterretningstjeneste Jacob Kaarsbo er russernes brug af kriminelle netværk velkendt fra andre europæiske lande – og danskerne skal ikke forvente, at det bliver sidste gang,…",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167723337.webp?t[strip]=true&t[quality]=70&accessToken=97c1ac2f2aa0c6f32a345ec7fe2327c59d60956bb4d7fb081a0c3bb0cb5a041b",
-          "publishedAt": "2026-11-21T17:44:19.000Z",
-          "titleEn": "Previously on FE analysts on deterrence:",
-          "summaryEn": "According to former chief analyst of the Defense Intelligence Agency Jacob Kaarsbo, the Russians' use of criminal networks is well known in other European countries and the Danes should not expect it to be the last time..."
+          "title": "Seneste nyt om USA og amerikansk politik – følg med her",
+          "link": "https://www.berlingske.dk/internationalt/seneste-nyt-om-usa-og-amerikansk-politik--foelg-med-her-12?referrer=RSS",
+          "summary": "Her får du seneste nyt om amerikansk politik og præsident Donald Trump.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167728624.webp?t[strip]=true&t[quality]=70&accessToken=f7909b0ef4f5ef7d5301c61f387b44ec3f003c939723b46f691cd2fb1ac780f7",
+          "publishedAt": "2026-11-22T06:16:35.000Z"
         },
         {
-          "title": "Oppositionspartier bakker op om strammere linje over for Rusland",
-          "link": "https://www.berlingske.dk/politik/oppositionspartier-bakker-op-om-strammere-linje-over-for-rusland?referrer=RSS",
-          "summary": "Regeringen vil skærpe straffen for at udføre kriminalitet på vegne af en fremmed stat. Der er bred opbakning.",
-          "publishedAt": "2026-11-21T17:35:45.000Z",
-          "titleEn": "Opposition parties back a stronger line against Russia",
-          "summaryEn": "The government will increase the penalty for committing crimes on behalf of a foreign state. There's broad support."
+          "title": "Krig i Europa – følg med her",
+          "link": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-med-her-36?referrer=RSS",
+          "summary": "Krigen i Ukraine fortsætter. Få seneste nyt her.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167621705.webp?t[strip]=true&t[quality]=70&accessToken=2e1413d13ca2c6d3facb38dd7e895c58e3a4a968e162d9cb501705a446b6d1af",
+          "publishedAt": "2026-11-22T06:12:30.000Z"
         },
         {
-          "title": "Skal lægen se på »dens« albuer, når »den« kommer? Lgbt-guide er en ommer",
-          "link": "https://www.berlingske.dk/kommentatorer/skal-laegen-se-paa-dens-albuer-naar-den-kommer-lgbt-guide-er-en-ommer?referrer=RSS",
-          "summary": "Transkønnedes dybe afhængighed af at blive bekræftet i deres valgte køn af hele omverdenen dominerede i en regions håndbog til sundhedspersonalet og lagde grunden for splittelse.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167529023.webp?t[strip]=true&t[quality]=70&accessToken=4b662a8593d1a2456ad9195dcb482c41cb5bfff70fc2e531b3d70720c25800fa",
-          "publishedAt": "2026-11-21T17:21:05.000Z",
-          "titleEn": "Should the doctor check your elbows when they arrive? The LGBT Guide is an ommer",
-          "summaryEn": "The deep dependence of transgender people on being confirmed in their chosen gender by the entire outside world dominated one region's manual for healthcare professionals and created the basis for division."
+          "title": "Racertalent lukker sæsonen med andenplads og øjner titel",
+          "link": "https://www.berlingske.dk/sport/racertalent-lukker-saesonen-med-andenplads-og-oejner-titel?referrer=RSS",
+          "summary": "Alba Larsen blev nummer to i sæsonens sidste grandprix i F1 Academy. Hun øjner samlet sejr næste år.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167728611.webp?t[strip]=true&t[quality]=70&accessToken=3f493ed9f16f60cde7e5f184797618c5b37a9471d1f08dc6b306bb87c05a0917",
+          "publishedAt": "2026-11-22T06:10:46.000Z"
         },
         {
-          "title": "Jakob Steen Olsen skreg af grin: »Jeg har næsten aldrig set noget så åndssvagt!«",
-          "link": "https://www.berlingske.dk/scene/jakob-steen-olsen-skreg-af-grin-jeg-har-naesten-aldrig-set-noget-saa-aandssvagt?referrer=RSS",
-          "summary": "»Titanique« har noget for enhver smag – undtagen den gode. Men man skal være et usædvanligt tørt drys for ikke at overgive sig til de ublu løjer i Glassalen.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167609994.webp?t[strip]=true&t[quality]=70&accessToken=a546b5caaf7875c871c09737430a128ebf2853e09bcdfdba110a0f03f1ce4c21",
-          "publishedAt": "2026-11-21T17:18:17.000Z",
-          "titleEn": "Jakob Steen Olsen laughed: \"I have hardly ever seen anything so stupid!\"",
-          "summaryEn": "⁇ Titanique ⁇  has something for every taste  ⁇  except the good one. But you have to be an unusually dry-ass to not succumb to the unblue liars in the Glass Hall."
+          "title": "Er du rigtig klog: Hvad ved du om Rwanda?",
+          "link": "https://www.berlingske.dk/politik/er-du-rigtig-klog-hvad-ved-du-om-rwanda?referrer=RSS",
+          "summary": "Berlingskes journalister udfordrer dagligt med 10 nye spørgsmål inden for spændende emner.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167587373.webp?t[strip]=true&t[quality]=70&accessToken=b261cadcc4726b5fd17c500ab146afc507425de878f9e78b82b9005ec8222b7b",
+          "publishedAt": "2026-11-22T06:03:47.000Z"
         },
         {
-          "title": "Chelsea bliver udklasseret af Leeds og forlænger nedtur",
-          "link": "https://www.berlingske.dk/sport/chelsea-bliver-udklasseret-af-leeds-og-forlaenger-nedtur?referrer=RSS",
-          "summary": "Chelsea har tabt fire af sine seneste fem kampe efter 1-4 mod Leeds i Premier League.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167723765.webp?t[strip]=true&t[quality]=70&accessToken=f6678d3579bb84375fedfefd92dae060717a4ba90ea7151aaeb3342e600f872d",
-          "publishedAt": "2026-11-21T17:04:50.000Z",
-          "titleEn": "Chelsea are relegated by Leeds and extended relegation",
-          "summaryEn": "Chelsea have lost four of their last five games after a 1-4 defeat to Leeds in the Premier League."
+          "title": "ICE møder kritik for opsigtsvækkende anholdelser i lufthavn",
+          "link": "https://www.berlingske.dk/internationalt/ice-moeder-kritik-for-opsigtsvaekkende-anholdelser-i-lufthavn?referrer=RSS",
+          "summary": "Guvernør kalder optagelser af anholdelser i lufthavn for rystende. ICE beskriver det som en målrettet aktion.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167728565.webp?t[strip]=true&t[quality]=70&accessToken=0b49664918a5842da7c7077f00c2165a0997fdf45db0e46aa43327ffe2be779e",
+          "publishedAt": "2026-11-22T05:46:52.000Z"
         },
         {
-          "title": "Negativ Crystal Palace-stime fortsætter i Franks debut",
-          "link": "https://www.berlingske.dk/sport/negativ-crystal-palace-stime-fortsaetter-i-franks-debut?referrer=RSS",
-          "summary": "Thomas Frank debuterede for Crystal Palace med nederlag i Coventry, der scorede sejrsmål kort før tid.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167723699.webp?t[strip]=true&t[quality]=70&accessToken=cb0932e088d096fd3b24ea3838aa39ea7faaf4ae00f82f96ed642f8be72dfe7d",
-          "publishedAt": "2026-11-21T17:01:43.000Z",
-          "titleEn": "Negative Crystal Palace hours continue in Frank's debut",
-          "summaryEn": "Thomas Frank made his debut for Crystal Palace in a defeat at Coventry, who scored the winning goal shortly before."
+          "title": "Berlingske mener: Når islamkritik bliver en forbrydelse, har ytringsfriheden tabt",
+          "link": "https://www.berlingske.dk/ledere/berlingske-mener-naar-islamkritik-bliver-en-forbrydelse-har-ytringsfriheden-tabt?referrer=RSS",
+          "summary": "Med koranloven viste Danmark, hvor langt vi er villige til at bøje os for islamisk pres. Nu udstiller retssagen mod den franske forfatter Michel Houellebecq en endnu mere bekymrende udvikling: Vestens egne domstole…",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167490887.webp?t[strip]=true&t[quality]=70&accessToken=4ed464108d5ef91582c127f61816ccb0153452050209c352f53a8f9a6535d52a",
+          "publishedAt": "2026-11-22T05:38:34.000Z"
         },
         {
-          "title": "Privatøkonomisk brevkasse: Gave, lån eller arveforskud til børnene? Sådan påvirker dit valg arveafgiften og arvebrøkerne",
-          "link": "https://www.berlingske.dk/dine-penge/privatoekonomisk-brevkassegave-laan-eller-arveforskud-til-boernene-saadan-paavirker-dit-valg-arveafgiften-og-arvebroekerne?referrer=RSS",
-          "summary": "Privatøkonomisk brevkasse: Advokat Allan Ohms forklarer, hvordan henholdsvis gaver, familielån og arveforskud indgår i et dødsbo uden testamente, og hvorfor det oprindelige valg har afgørende betydning for børnenes…",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/166367150.webp?t[strip]=true&t[quality]=70&accessToken=b2bd316f2c08e61ca5213325c439e840e21c7e4282c1bb80970ff6d27a7f1cec",
-          "publishedAt": "2026-11-21T16:55:04.000Z",
-          "titleEn": "Private financial mailbox: Gifts, loans or inheritance advances for children? How your choice affects inheritance tax and inheritance claims",
-          "summaryEn": "Private financial letterbox: Attorney Allan Ohms explains how gifts, family loans and inheritance advances, respectively, are part of a willless estate, and why the original choice is crucial for the children's..."
+          "title": "2027 bliver skæbnesvangert for din fossilbil: Her er elbilerne, hvor du får mest for pengene",
+          "link": "https://www.berlingske.dk/dine-penge/2027-bliver-skaebnesvangert-for-din-fossilbil-her-er-elbilerne-hvor-du-faar-mest-for-pengene?referrer=RSS",
+          "summary": "Visse elbiler bliver dyrere i 2028. Det samme bliver benzin og diesel. Derfor mener eksperter, at mange i løbet af 2027 bør tænke på at skifte fossilbilen ud. Mikkel Thomsager fra Bil Magasinet har bud på, hvor du får…",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167672067.webp?t[strip]=true&t[quality]=70&accessToken=b2c9f3698926d41f8058effebef6ec4ece435660e2e52845fc33e25d65b25efe",
+          "publishedAt": "2026-11-22T05:38:19.000Z"
         },
         {
-          "title": "Regeringen tror stadig på at sende kriminelle udlændinge til Rwanda. Bag kulissen taler man om læren fra Trump",
-          "link": "https://www.berlingske.dk/politik/regeringen-tror-stadig-paa-at-sende-kriminelle-udlaendinge-til-rwanda-bag-kulissen-taler-man-om-laeren-fra-trump?referrer=RSS",
-          "summary": "Ifølge flere centralt placerede kilder er Rwandas regering ikke afvisende for at tage imod kriminelle udlændinge fra Danmark på sigt. Men først skal den danske model modnes, og så vil man hellere lære af Donald Trump end…",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167657145.webp?t[strip]=true&t[quality]=70&accessToken=2fe9388c028b25e03f50fa999b8fc6de285e34df8bbdf18b9fea436358006cc8",
-          "publishedAt": "2026-11-21T16:42:12.000Z",
-          "titleEn": "The government still believes in sending criminal aliens to Rwanda. Behind the scenes, we're talking about the teachings of Trump.",
-          "summaryEn": "According to several centrally located sources, the Rwandan government is not reluctant to take in criminal foreigners from Denmark in the long term. But first, the Danish model has to mature, and then you'd rather learn from Donald Trump than..."
+          "title": "COP31's formandslande går efter aftale uden fossile brændsler",
+          "link": "https://www.berlingske.dk/internationalt/cop31s-formandslande-gaar-efter-aftale-uden-fossile-braendsler?referrer=RSS",
+          "summary": "Øget elektrificering er med i det endelige forslag til en aftale ved COP31. Det er fossile brændsler ikke.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167728510.webp?t[strip]=true&t[quality]=70&accessToken=0a0bfb740c479d55b979a3eede0ee2d517c7b576c09e9892d4c80dc44bc375f0",
+          "publishedAt": "2026-11-22T05:32:46.000Z"
         }
       ]
     }
