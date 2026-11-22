@@ -8,7 +8,7 @@
         "homepage": "https://ikon.mn",
         "lang": "mn"
       },
-      "fetchedAt": "2026-11-22T06:48:39.103Z",
+      "fetchedAt": "2026-11-22T18:34:47.772Z",
       "items": [
         {
           "title": "Мафитай холбоотой хэрэгт шалгагдаж байсан Италийн цагдаагийн газрын дарга асан амиа хорложээ",
@@ -103,8 +103,20 @@
         "homepage": "https://www.mnb.mn",
         "lang": "mn"
       },
-      "fetchedAt": "2026-11-22T06:48:40.668Z",
+      "fetchedAt": "2026-11-22T18:34:48.275Z",
       "items": [
+        {
+          "title": "ЦАГ АГААР: Улаанбаатарт шөнөдөө 20 хэм хүйтэн",
+          "link": "https://www.mnb.mn/article/tsag-agaar-ulaanbaatart-shunuduu-20-khem-khuiten-9696",
+          "image": "https://assets.mnb.mn/media/2026/11/8a6ebe9819f5-1ba05e88a997-02f2dfg5dfgergergerg.full.full.webp",
+          "publishedAt": "2026-11-22T07:09:43.000Z"
+        },
+        {
+          "title": "Залилах гэмт хэргийн улмаас иргэн аж ахуйн нэгжид учирсан 139 тэрбум төгрөгийн хохирлыг нөхөн төлүүлжээ",
+          "link": "https://www.mnb.mn/article/zalilakh-gemt-khergiin-ulmaas-irgen-aj-akhuin-negjid-uchirsan-139-terbum-tugrugiin-khokhirlyg-nukhun-tuluuljee-6029",
+          "image": "https://assets.mnb.mn/media/2026/11/ba4d4e2ae8a6-41ffd79c9486-online-hacking.card.full.webp",
+          "publishedAt": "2026-11-22T06:49:00.000Z"
+        },
         {
           "title": "Нийслэлийн хэмжээнд 80 мянга орчим хяналтын камер ажиллаж байна",
           "link": "https://www.mnb.mn/article/niisleliin-khemjeend-80-myanga-orchim-khyanaltyn-kamer-ajillaj-baina-2602",
@@ -160,20 +172,6 @@
           "image": "https://assets.mnb.mn/media/2026/11/5f2aa730084a-a32792c9b84ffbe95fdbfc52be55f6ab-x3.full.webp",
           "publishedAt": "2026-11-22T01:29:05.000Z",
           "titleEn": "In the winter of 2026, the registration of the entrance examinations will be completed tomorrow."
-        },
-        {
-          "title": "Баянзүрх дүүрэг эрт илрүүлэг, оношилгооны иж бүрэн төв нь 2027 оноос иргэдэд үйлчилж эхэлнэ",
-          "link": "https://www.mnb.mn/article/bayanzurkh-duureg-ert-ilruuleg-onoshilgoony-ij-buren-tuv-n-2027-onoos-irgeded-uilchilj-ekhlekheer-tuluvluj-baina-4898",
-          "image": "https://assets.mnb.mn/media/2026/11/4f6957f9add1-924742220-122129929935272797-5041186113637944393-n.full.webp",
-          "publishedAt": "2026-11-22T01:17:00.000Z",
-          "titleEn": "The Richmond Early Detection and Diagnostic Center will be open to the public in 2027."
-        },
-        {
-          "title": "ЦАГ АГААР: Улаанбаатарт өдөртөө 10 хэм хүйтэн",
-          "link": "https://www.mnb.mn/article/tsag-agaar-ulaanbaatart-udurtuu-10-khem-khuiten-7982",
-          "image": "https://assets.mnb.mn/media/2026/11/d34533c136aa-screenshot-2026-11-22-090710.full.webp",
-          "publishedAt": "2026-11-22T01:07:40.000Z",
-          "titleEn": "COOL: It's 10 inches a day in the wild."
         }
       ]
     },
@@ -184,8 +182,26 @@
         "homepage": "https://sonin.mn",
         "lang": "mn"
       },
-      "fetchedAt": "2026-11-22T06:48:39.404Z",
+      "fetchedAt": "2026-11-22T18:34:47.981Z",
       "items": [
+        {
+          "title": "Аймгийн түрүү бөхчүүдийн барилдаанд хурц арслан М.Эрхэмбаяр түрүүллээ",
+          "link": "https://sonin.mn/newsDetail/20109",
+          "summary": "Монголын Үндэсний бөхийн холбооноос Аймаг, дүүргийн баяр наадамд түрүүлсэн бөхчүүдийн тойргийн барилдааныг амжилттай зохион байгууллаа. Тус барилдаанд нийт 14 бөх хоёр хэсэгт хуваагдан, тойргийн журмаар барилдав.",
+          "publishedAt": "2026-11-22T12:53:00.000Z"
+        },
+        {
+          "title": "Мөнгөн цомын барилдаан ирэх сард эхэлнэ",
+          "link": "https://sonin.mn/newsDetail/20108",
+          "summary": "МҮБХ-ноос аймаг, сумын цолтой бөхчүүдийн ур чадвар, түвшинг нэмэгдүүлэх зорилгоор Мөнгөн цомын төлөөх багийн цуврал барилдааныг 2026 оны 12 сараас 2027 оны 05 дугаар сар хүртэлх хугацаанд зохион байгуулахаар төлөвлөн…",
+          "publishedAt": "2026-11-22T11:13:00.000Z"
+        },
+        {
+          "title": "В.Путин: Монголчууд тулалдсаар Монгол-Хятадын эзэнт гүрнийг байгуулсан ч эцэстээ Хятадад ууссан",
+          "link": "https://sonin.mn/newsDetail/20107",
+          "summary": "ОХУ-ын Ерөнхийлөгч Владимир Путин Сербийн нэрт кино найруулагч Эмир Кустурицатай хийсэн ярилцлагадаа Орос, Хятадын соёл иргэншлийн түүхэн онцлогийн талаар байр сууриа илэрхийлэхдээ Монголын эзэнт гүрний түүхийг хөнджээ.…",
+          "publishedAt": "2026-11-22T10:13:00.000Z"
+        },
         {
           "title": "Ардчилсан Зүүн Тимор Улсад хавсран суух Элчин сайд Итгэмжлэх жуух бичгээ өргөн барив",
           "link": "https://sonin.mn/newsDetail/20106",
@@ -233,28 +249,6 @@
           "publishedAt": "2026-11-20T07:30:00.000Z",
           "titleEn": "Let Putin be thought of as Lenin and Stalin!",
           "summaryEn": "As one of the dozens of officers who graduated from a military academy in Soviet Ukraine and served in the armed forces, I think of ordinary citizens as war and prohibition. That knowledge..."
-        },
-        {
-          "title": "Барилдааны хуваарь өөрчлөгдлөө",
-          "link": "https://sonin.mn/newsDetail/20097",
-          "summary": "МҮБХ-ны Алтан цомын барилдааны маргааш буюу 2026 оны арваннэгдүгээр сарын 21-ний бямба гарагт 14.00 цагаас Монгол бөхийн өргөөнд зохион байгуулагдана.",
-          "publishedAt": "2026-11-20T05:23:00.000Z",
-          "titleEn": "The schedule has changed.",
-          "summaryEn": "The next day, 21 November 2026, the FIFA World Cup will be held in the Mongolian capital at 14.00."
-        },
-        {
-          "title": "Ерөнхийлөгч асан У.Хүрэлсүхийг хүндэтгэн үдэх ёслол боллоо",
-          "link": "https://sonin.mn/newsDetail/20096",
-          "summary": "Монгол Улсын зургаа дахь Ерөнхийлөгч У.Хүрэлсүхийг хүндэтгэн үдэх ёслол өнөөдөр Сүхбаатарын талбайд боллоо.",
-          "publishedAt": "2026-11-20T05:00:00.000Z",
-          "titleEn": "A ceremony was held in honor of President W. W.",
-          "summaryEn": "The ceremony to pay tribute to the sixth President of the Mongolian Republic, U.H.R.S.R., took place today in the Holy See Square."
-        },
-        {
-          "title": "“Эгийн голын усан цахилгаан станц” төслийг эхлүүлэх таатай нөхцөл бүрдэж байна",
-          "link": "https://sonin.mn/newsDetail/20095",
-          "publishedAt": "2026-11-20T04:48:00.000Z",
-          "titleEn": "It is a favourable starting point for the Hydroelectric Power Plant project."
         }
       ]
     }

@@ -8,70 +8,77 @@
         "homepage": "https://www.nytimes.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-22T06:49:20.996Z",
+      "fetchedAt": "2026-11-22T18:35:23.328Z",
       "items": [
+        {
+          "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
+          "link": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
+          "summary": "After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades.",
+          "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00pol-dems-house-majority-hfo-vwlm/00pol-dems-house-majority-hfo-vwlm-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-22T18:23:08.000Z"
+        },
+        {
+          "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
+          "link": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
+          "summary": "Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district.",
+          "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-hfo-NC-5-01-tklh/00pol-hfo-NC-5-01-tklh-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-22T18:12:55.000Z"
+        },
+        {
+          "title": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
+          "link": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html",
+          "summary": "A divide is emerging in the party over what caused its wipeout midterm defeats, foreshadowing a battle over how to move forward before 2028.",
+          "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22pol-gop-reflection-SWAP-mblz/22pol-gop-reflection-SWAP-mblz-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-22T12:30:24.000Z"
+        },
+        {
+          "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
+          "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
+          "summary": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.",
+          "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21pol-andrews-sc-SWAP-vtqg/21pol-andrews-sc-SWAP-vtqg-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-22T16:56:08.000Z"
+        },
+        {
+          "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+          "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+          "summary": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+          "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
+          "publishedAt": "2026-11-22T18:20:38.000Z"
+        },
+        {
+          "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
+          "link": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
+          "summary": "The first lady, who has little experience in international affairs, developed back channels to key figures on both sides of the conflict through her longtime agent.",
+          "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-melania-ukraine-topart-fkgj/22dc-melania-ukraine-topart-fkgj-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-22T18:12:18.000Z"
+        },
+        {
+          "title": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
+          "link": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
+          "summary": "Mr. Miller has promoted some of the second Trump administration’s most egregious falsehoods about immigration policy, the economy and political opposition.",
+          "image": "https://static01.nyt.com/images/2026/11/20/multimedia/dc-factcheck-jzfv/dc-factcheck-jzfv-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-22T10:02:17.000Z"
+        },
         {
           "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
           "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
           "summary": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
-          "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-22T04:28:43.000Z"
+          "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg",
+          "publishedAt": "2026-11-22T11:03:04.000Z"
         },
         {
-          "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
-          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
-          "summary": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
-          "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-22T01:56:16.000Z"
+          "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
+          "link": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
+          "summary": "The treasury secretary said on CBS that it was too soon to say if Jensen Huang should return as the company’s chief executive.",
+          "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-nvidia-bessent-cfzt/22dc-nvidia-bessent-cfzt-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-22T17:55:31.000Z"
         },
         {
-          "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
-          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-          "summary": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
-          "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-wtk-cjwm/21int-cartel-arrest-wtk-cjwm-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-21T16:30:35.000Z"
-        },
-        {
-          "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-          "link": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
-          "summary": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
-          "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21DC-OUTAGE-topart-sub-wghl/21DC-OUTAGE-topart-sub-wghl-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-21T19:11:51.000Z"
-        },
-        {
-          "title": "Trump Moves to Restrict Congressional Oversight of Contractors",
-          "link": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
-          "summary": "The president’s executive order is the latest effort to blunt Democratic plans to investigate the administration’s actions.",
-          "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21dc-trump-oversight-gpmz/21dc-trump-oversight-gpmz-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-22T01:29:53.000Z"
-        },
-        {
-          "title": "Jennifer Lopez Feels Like She’s Getting Better at Everything",
-          "link": "https://www.nytimes.com/2026/11/20/arts/music/popcast-interview-jennifer-lopez.html",
-          "summary": "After a vulnerable and tumultuous run, the performer is back with a new TV spectacular and hard-earned boundaries.",
-          "image": "https://static01.nyt.com/images/2026/11/19/multimedia/popcast-jlo-promo-cjgk/popcast-jlo-promo-cjgk-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-20T20:12:35.000Z"
-        },
-        {
-          "title": "Now Is Not the Time for Europe to Relax",
-          "link": "https://www.nytimes.com/2026/11/22/opinion/europe-us-congress-allies.html",
-          "summary": "It’s easy to hope that our good old post-1945 Uncle Sam, holding his security umbrella over European and Asian allies, is back again. He isn’t.",
-          "image": "https://static01.nyt.com/images/2026/11/22/opinion/22gartonash/23belluz-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-22T06:00:05.000Z"
-        },
-        {
-          "title": "The Sisterhood Rocks!",
-          "link": "https://www.nytimes.com/2026/11/21/opinion/sister-snl-family-care-parents.html",
-          "summary": "But should daughters bear the brunt of their folks’ care?",
-          "image": "https://static01.nyt.com/images/2026/11/21/opinion/21dowd-temp/21dowd-temp-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-21T15:54:47.000Z"
-        },
-        {
-          "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
-          "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
-          "summary": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
-          "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-22T03:44:19.000Z"
+          "title": "Looking for the Formula to Stop an Apocalypse",
+          "link": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
+          "summary": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
+          "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-22T12:27:46.000Z"
         }
       ]
     },
@@ -82,8 +89,44 @@
         "homepage": "https://www.npr.org",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-22T06:49:21.137Z",
+      "fetchedAt": "2026-11-22T18:35:23.546Z",
       "items": [
+        {
+          "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+          "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+          "publishedAt": "2026-11-22T17:44:52.000Z"
+        },
+        {
+          "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+          "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+          "summary": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
+          "publishedAt": "2026-11-22T17:34:20.000Z"
+        },
+        {
+          "title": "Climate change talks fall apart in final hours over fossil fuels",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+          "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.",
+          "publishedAt": "2026-11-22T16:33:22.000Z"
+        },
+        {
+          "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+          "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+          "publishedAt": "2026-11-22T13:11:04.000Z"
+        },
+        {
+          "title": "NPR's Senior Podcast Challenge: Early entries we love",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+          "summary": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition. There's still time to enter!",
+          "publishedAt": "2026-11-22T10:00:00.000Z"
+        },
+        {
+          "title": "He expected a small-business loan. He got a 7-year nightmare",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+          "summary": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
+          "publishedAt": "2026-11-22T10:00:00.000Z"
+        },
         {
           "title": "Trump orders federal contractors to check with White House before responding to Congress",
           "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
@@ -107,42 +150,6 @@
           "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
           "summary": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.",
           "publishedAt": "2026-11-21T20:37:35.000Z"
-        },
-        {
-          "title": "Storms expected on both coasts threatens Thanksgiving travel",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
-          "summary": "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving.",
-          "publishedAt": "2026-11-21T18:22:46.000Z"
-        },
-        {
-          "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-          "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
-          "publishedAt": "2026-11-21T18:08:55.000Z"
-        },
-        {
-          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-          "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
-          "publishedAt": "2026-11-21T14:18:17.000Z"
-        },
-        {
-          "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-          "summary": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.",
-          "publishedAt": "2026-11-21T13:58:33.000Z"
-        },
-        {
-          "title": "Perspective: Defining 'human'",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
-          "summary": "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?",
-          "publishedAt": "2026-11-21T13:00:00.000Z"
-        },
-        {
-          "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
-          "summary": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
-          "publishedAt": "2026-11-21T12:40:17.000Z"
         }
       ]
     },
@@ -153,8 +160,50 @@
         "homepage": "https://www.washingtonpost.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-22T06:49:30.274Z",
+      "fetchedAt": "2026-11-22T18:35:32.468Z",
       "items": [
+        {
+          "title": "U.S. Army tells court it will go ahead with detonation in Iowa by Tuesday",
+          "link": "https://www.washingtonpost.com/nation/2026/11/22/us-army-tells-court-it-will-go-ahead-with-detonation-iowa-by-tuesday/",
+          "summary": "The Trump administration says an emergency provision allows it proceed despite a pending lawsuit by environmental groups.",
+          "publishedAt": "2026-11-22T17:34:52.000Z"
+        },
+        {
+          "title": "Why this incoming congresswoman opposed Jeffries for speaker",
+          "link": "https://www.washingtonpost.com/politics/2026/11/22/why-this-incoming-congresswoman-opposed-jeffries-speaker/",
+          "summary": "Rep.-elect Angela Gonzales-Torres on that decision and her goals in Congress.",
+          "publishedAt": "2026-11-22T15:00:00.000Z"
+        },
+        {
+          "title": "Why Jackie Kennedy wore the gore-spattered suit all day (and why we won’t see it again)",
+          "link": "https://www.washingtonpost.com/nation/2026/11/22/why-jackie-kennedy-wore-gore-spattered-suit-all-day-why-we-wont-see-it-again/",
+          "summary": "The raspberry pink jacket and skirt, stained with President John F. Kennedy's blood, may not be shown to the public until at least 2103.",
+          "publishedAt": "2026-11-22T12:00:00.000Z"
+        },
+        {
+          "title": "He wrote personal notes on hundreds of Christmas cards every year",
+          "link": "https://www.washingtonpost.com/obituaries/2026/11/22/he-wrote-personal-notes-hundreds-christmas-cards-every-year/",
+          "summary": "A teacher who loved folk dancing. A father’s words of wisdom. Intimate obituaries, in 150 words or less.",
+          "publishedAt": "2026-11-22T11:00:01.000Z"
+        },
+        {
+          "title": "The remarkable recovery of a National Guardsman shot near the White House",
+          "link": "https://www.washingtonpost.com/nation/2026/11/22/long-journey-remarkable-recovery-staff-sgt-andrew-wolfe/",
+          "summary": "A year after Staff Sgt. Andrew Wolfe was shot in the head, his mind and body are healing. But his life was turned upside down.",
+          "publishedAt": "2026-11-22T11:00:00.000Z"
+        },
+        {
+          "title": "Trump keeps losing in court. Here’s how he gets what he wants anyway.",
+          "link": "https://www.washingtonpost.com/politics/2026/11/22/trump-keeps-losing-court-heres-how-he-gets-what-he-wants-anyway/",
+          "summary": "Judges have been unable to slow or stop some of the administration’s highest-profile projects.",
+          "publishedAt": "2026-11-22T11:00:00.000Z"
+        },
+        {
+          "title": "When Captain Kirk and Lieutenant Uhura kissed, and America was pretty okay with it",
+          "link": "https://www.washingtonpost.com/nation/2026/11/22/when-captain-kirk-lieutenant-uhura-kissed-people-were-pretty-okay-with-it/",
+          "summary": "On Nov. 22, 1968, William Shatner and Nichelle Nichols shared U.S. television’s first scripted kiss between Black and White characters. An expected backlash failed to materialize.",
+          "publishedAt": "2026-11-22T10:00:00.000Z"
+        },
         {
           "title": "Was Trump’s news conference with Vance and Rubio an audition for 2028?",
           "link": "https://www.washingtonpost.com/politics/2026/11/21/was-trumps-news-conference-with-vance-rubio-an-audition-2028/",
@@ -172,48 +221,6 @@
           "link": "https://www.washingtonpost.com/health/2026/11/21/drones-may-deliver-emergency-medicine-us-after-doing-so-other-countries/",
           "summary": "Pilot programs in the U.S. allow drones to transport medical items, which can include defibrillators, medicines or blood. Drone delivery of organs faces many hurdles.",
           "publishedAt": "2026-11-21T11:00:01.000Z"
-        },
-        {
-          "title": "A widower lost his wedding ring. A used-car sale brought it back to him.",
-          "link": "https://www.washingtonpost.com/nation/2026/11/21/widower-lost-his-wedding-ring-used-car-sale-brought-it-back-him/",
-          "summary": "A Minnesota couple discovered the keepsake months later and set out to find its 85-year-old owner.",
-          "publishedAt": "2026-11-21T11:00:01.000Z"
-        },
-        {
-          "title": "A fixture behind the plate for two teams and part of ‘baseball’s first family’",
-          "link": "https://www.washingtonpost.com/obituaries/2026/11/21/fixture-behind-plate-two-teams-part-baseballs-first-family/",
-          "summary": "Bob Boone endured the grueling physical toll of catching in the majors with remarkable toughness.",
-          "publishedAt": "2026-11-21T11:00:00.000Z"
-        },
-        {
-          "title": "A stray puppy hopped onto a car salesman’s lap. It may have saved her life.",
-          "link": "https://www.washingtonpost.com/lifestyle/2026/11/21/this-stray-puppy-hopped-into-car-salesmans-lap-his-heart/",
-          "summary": "When it turned out the dog was seriously ill, the family paid her $4,000 vet bill and adopted her.",
-          "publishedAt": "2026-11-21T10:00:00.000Z"
-        },
-        {
-          "title": "Pandemic-era law passed unconstitutionally because of proxy voting, appeals court rules",
-          "link": "https://www.washingtonpost.com/business/2026/11/21/pandemic-era-law-passed-unconstitutionally-because-proxy-voting-appeals-court-rules/",
-          "summary": "The U.S. Court of Appeals for the 5th Circuit upheld Texas’s injunction stopping accommodations for pregnant workers by targeting how Congress passed a massive Biden-era funding bill.",
-          "publishedAt": "2026-11-21T05:01:00.000Z"
-        },
-        {
-          "title": "L.A. train heists net thieves more than $22 million in goods, feds say",
-          "link": "https://www.washingtonpost.com/nation/2026/11/20/la-train-heists-net-thieves-more-than-22-million-goods-feds-say/",
-          "summary": "A Southern California crew is charged with breaking into more than 70 shipping containers in 31 months, stealing more than $22 million in shoes and other goods.",
-          "publishedAt": "2026-11-20T22:40:00.000Z"
-        },
-        {
-          "title": "Federal health panel reshaped by RFK Jr. faces political interference concerns",
-          "link": "https://www.washingtonpost.com/health/2026/11/20/federal-health-panel-reshaped-by-rfk-jr-faces-political-interference-concerns/",
-          "summary": "Some members of the U.S. Preventive Services Task Force expressed concerns that the changes from the Trump administration could make the group less reliable and more open to conflicts of interest.",
-          "publishedAt": "2026-11-20T22:29:27.000Z"
-        },
-        {
-          "title": "U.S. stocks slump into correction territory amid tech and AI worries",
-          "link": "https://www.washingtonpost.com/business/2026/11/20/us-stock-market-slumps-amid-rising-tech-ai-worries/",
-          "summary": "Markets on Friday posted their worst week since worries about President Donald Trump’s tariffs caused a global sell-off in April 2025.",
-          "publishedAt": "2026-11-20T22:26:59.000Z"
         }
       ]
     }

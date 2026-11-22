@@ -8,7 +8,7 @@
         "homepage": "https://www.irrawaddy.com",
         "lang": "en-MM"
       },
-      "fetchedAt": "2026-11-22T06:48:37.119Z",
+      "fetchedAt": "2026-11-22T18:34:45.104Z",
       "items": [
         {
           "title": "Rights Groups Demand Action Against Myanmar Junta After Historic Rohingya Genocide Ruling",
@@ -58,27 +58,6 @@
           "summary": "The landmark judgment ordered Myanmar to ensure the safe return of Rohingya refugees, investigate perpetrators and provide compensation to victims.",
           "image": "https://www.irrawaddy.com/wp-content/uploads/2026/11/roh20nof.jpg",
           "publishedAt": "2026-11-20T06:04:52.000Z"
-        },
-        {
-          "title": "ICJ Rules Myanmar Committed Genocide Against Rohingya",
-          "link": "https://www.irrawaddy.com/news/burma/icj-rules-myanmar-committed-genocide-against-rohingya.html",
-          "summary": "The UN’s top court ordered Myanmar to investigate and punish those responsible, facilitate the safe return of Rohingya refugees and pay compensation.",
-          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/11/icjrog19nof.jpg",
-          "publishedAt": "2026-11-19T13:43:22.000Z"
-        },
-        {
-          "title": "4,500 Myanmar Refugees to Get Thai Job Training Under $3m Project",
-          "link": "https://www.irrawaddy.com/news/burma/4500-myanmar-refugees-to-get-thai-job-training-under-3m-project.html",
-          "summary": "Japan agrees to fund ILO project after Thailand grants work rights for thousands of war-displaced refugees in border camps.",
-          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/11/jica19nof.jpg",
-          "publishedAt": "2026-11-19T12:55:08.000Z"
-        },
-        {
-          "title": "Regime Media Censor Min Aung Hlaing’s Swipes at China, Thailand",
-          "link": "https://www.irrawaddy.com/news/burma/regime-media-censor-min-aung-hlaings-swipes-at-china-thailand.html",
-          "summary": "Covering his speech to Parliament, state media omitted the junta chief’s accusations of foreign help for Operation 1027 and illegal border trade.",
-          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/11/mal19nof.jpg",
-          "publishedAt": "2026-11-19T11:49:53.000Z"
         }
       ]
     },
@@ -89,7 +68,7 @@
         "homepage": "https://myanmar-now.org",
         "lang": "en-MM"
       },
-      "fetchedAt": "2026-11-22T06:48:38.093Z",
+      "fetchedAt": "2026-11-22T18:34:45.911Z",
       "items": [
         {
           "title": "US sanctions two DKBA commanders over alleged Myanmar scam operations",
@@ -118,20 +97,6 @@
           "summary": "Britain announced immediate action against Myanmar’s regime, including the expulsion of its defence attaché, and pledged further measures to hold those responsible for the Rohingya genocide accountable",
           "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/178-20261119-01-1024x673.jpeg",
           "publishedAt": "2026-11-20T04:59:13.000Z"
-        },
-        {
-          "title": "World court rules Myanmar responsible for genocide against Rohingya",
-          "link": "https://myanmar-now.org/en/news/world-court-rules-myanmar-responsible-for-genocide-against-rohingya/",
-          "summary": "In a landmark ruling, the International Court of Justice finds Myanmar violated the 1948 Genocide Convention over atrocities committed by its military in Rakhine State in 2017",
-          "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/UN-ICJ-1024x572.jpg",
-          "publishedAt": "2026-11-19T11:55:05.000Z"
-        },
-        {
-          "title": "Myanmar labour union files ILO complaint over junta’s tax and remittance demands",
-          "link": "https://myanmar-now.org/en/news/myanmar-labour-union-files-ilo-complaint-over-juntas-tax-and-remittance-demands/",
-          "summary": "The United Nation’s labour rights agency is set to deliberate on the regime’s policies, which critics call exploitative, early next year",
-          "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/IMG_7171-2048x1150-1-1024x575.jpeg",
-          "publishedAt": "2026-11-19T08:38:16.000Z"
         }
       ]
     },
@@ -142,8 +107,26 @@
         "homepage": "https://english.dvb.no",
         "lang": "en-MM"
       },
-      "fetchedAt": "2026-11-22T06:48:37.211Z",
+      "fetchedAt": "2026-11-22T18:34:45.237Z",
       "items": [
+        {
+          "title": "What are Myanmar migrants in Thailand boycotting?",
+          "link": "https://english.dvb.no/what-are-myanmar-migrants-in-thailand-boycotting/",
+          "summary": "The regime stated on Nov. 8 that only 15,000 migrants out of an estimated 750,000 undocumented Myanmar workers in Thailand have applied for the Certificate of Identity (CI), a regime-issued identification documentation…",
+          "publishedAt": "2026-11-22T11:26:23.000Z"
+        },
+        {
+          "title": "Thailand plans to block exports of chemicals used in Myanmar rare earth mining",
+          "link": "https://english.dvb.no/thailand-plans-to-block-exports-of-chemicals-used-in-myanmar-rare-earth-mining/",
+          "summary": "Thailand plans to stop exporting chemicals used in ​rare earth mining to Myanmar, ‌amid mounting concerns about cross-border pollution, the country’s deputy prime minister ​said on Saturday. The move ​was aimed at…",
+          "publishedAt": "2026-11-22T08:07:08.000Z"
+        },
+        {
+          "title": "Turkey dismisses Malaysia’s announcement of Rohingya resettlement",
+          "link": "https://english.dvb.no/turkey-dismisses-malaysias-announcement-of-rohingya-resettlement/",
+          "summary": "Turkey on Saturday dismissed a Malaysian announcement that ​it would take in 10,000 Rohingya refugees currently ‌living in Malaysia. Kuala Lumpur had said on Friday that it would resettle the refugees in Turkey through a…",
+          "publishedAt": "2026-11-22T06:18:05.000Z"
+        },
         {
           "title": "UK expels Myanmar military attaché and summons embassy envoy after ICJ ruling",
           "link": "https://english.dvb.no/uk-expels-myanmar-military-attache-and-summons-embassy-envoy-after-icj-ruling/",
@@ -185,24 +168,6 @@
           "link": "https://english.dvb.no/malaysia-says-it-will-resettle-10000-rohingya-refugees-in-turkey/",
           "summary": "Malaysia said on Friday that it would ​resettle 10,000 Rohingya refugees in Turkey through ‌a structured skills training programme, but the statement announcing the plan was later removed from Deputy Prime Minister…",
           "publishedAt": "2026-11-20T08:56:46.000Z"
-        },
-        {
-          "title": "Myanmar dismisses UN court ruling finding country responsible of Rohingya genocide as ‘unfair’",
-          "link": "https://english.dvb.no/myanmar-dismisses-un-court-ruling-finding-country-responsible-of-rohingya-genocide-as-unfair/",
-          "summary": "Myanmar’s regime in Naypyidaw dismissed a landmark judgment by the United Nations’ top court finding the country guilty of genocide against its Rohingya minority as “unfair.” Khine Khine Soe, spokeswoman for regime…",
-          "publishedAt": "2026-11-20T08:49:40.000Z"
-        },
-        {
-          "title": "Resistance forces deepen ties in Chin State following unity talks in India",
-          "link": "https://english.dvb.no/resistance-forces-deepen-ties-in-chin-state-following-unity-talks-in-india/",
-          "summary": "The Chin People’s Union (CPU), formed through the merger of four Chinland Defence Force (CDF) units in southern Chin State, held a series of meetings with CDF units that remain independent—many of them aligned with…",
-          "publishedAt": "2026-11-20T08:21:15.000Z"
-        },
-        {
-          "title": "Rohingya in Bangladesh welcome ICJ genocide verdict and want to return to Myanmar",
-          "link": "https://english.dvb.no/rohingya-in-bangladesh-welcome-icj-genocide-verdict-and-want-to-return-to-myanmar/",
-          "summary": "Hundreds of Rohingya refugees in Bangladesh sat in front of a big screen at their sprawling camp in Cox’s Bazar, watching the news from the Netherlands, where the U.N.’s top court ruled that Myanmar committed genocide…",
-          "publishedAt": "2026-11-20T07:13:31.000Z"
         }
       ]
     }

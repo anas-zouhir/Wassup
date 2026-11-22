@@ -8,25 +8,25 @@
         "homepage": "https://somaliguardian.com",
         "lang": "en-SO"
       },
-      "fetchedAt": "2026-11-22T06:49:05.288Z",
+      "fetchedAt": "2026-11-22T18:35:06.158Z",
       "items": [
+        {
+          "title": "EACJ steps into Somalia constitutional crisis over president term extension",
+          "link": "https://www.somaliguardian.com/news/somalia-news/eacj-steps-into-somalia-constitutional-crisis-president-term-extension/",
+          "summary": "MOGADISHU (Somaliguardian) – Somalia’s constitutional crisis has reached the East African Court of Justice after six Supreme Court judges, including the ousted Chief Justice, filed a case against the federal government.…",
+          "publishedAt": "2026-11-22T12:09:50.000Z"
+        },
+        {
+          "title": "Somalia quietly relaunches failed operation Banooda with major troop convoy",
+          "link": "https://www.somaliguardian.com/archives/somalia-quietly-relaunches-failed-operation-banooda-major-reinforcements/",
+          "summary": "MOGADISHU (Somaliguardian) – Somalia’s federal government has sent a large military convoy from Mogadishu toward Yaqbariwayne village, signaling the resumption of the stalled Operation Banooda after a major setback…",
+          "publishedAt": "2026-11-22T09:29:40.000Z"
+        },
         {
           "title": "Somalia opposition rejects another request for talks from president Hassan Sheikh Mohamud",
           "link": "https://www.somaliguardian.com/news/somalia-news/somalia-opposition-rejects-talks-president-hassan-sheikh-mohamud/",
           "summary": "MOGADISHU (Somaliguardian) – Somalia’s opposition leaders have unanimously rejected any talks with President Hassan Sheikh Mohamud after he telephoned former Prime Minister Abdi Farah Shirdon and asked him to host the…",
           "publishedAt": "2026-11-21T07:27:05.000Z"
-        },
-        {
-          "title": "Somalia: Djibouti peacekeepers killed in clash with Hawadle militias at Beledweyne airport",
-          "link": "https://www.somaliguardian.com/news/somalia-news/somalia-djibouti-peacekeepers-killed-hawadle-militias-beledweyne-airport/",
-          "summary": "MOGADISHU (Somaliguardian) – Two Djiboutian peacekeepers were killed and two others wounded on Thursday when African Union troops clashed with Hawadle clan militias who seized Beledweyne’s Ugaas Khalif Airport to block a…",
-          "publishedAt": "2026-11-19T18:08:49.000Z"
-        },
-        {
-          "title": "Somalia orders UAE ambassador to leave within 72 hours, recalls own envoy",
-          "link": "https://www.somaliguardian.com/news/somalia-news/somalia-orders-uae-ambassador-leave-72-hours-recalls-envoy/",
-          "summary": "MOGADISHU (Somaliguardian) – Somalia ordered the United Arab Emirates ambassador to leave the country within 72 hours and recalled its own envoy from Abu Dhabi on Thursday, accusing Abu Dhabi of violations of sovereignty…",
-          "publishedAt": "2026-11-19T16:37:22.000Z"
         }
       ]
     },
@@ -37,97 +37,80 @@
         "homepage": "https://www.caasimada.net",
         "lang": "so"
       },
-      "fetchedAt": "2026-11-22T06:49:04.811Z",
+      "fetchedAt": "2026-11-22T18:35:06.054Z",
       "items": [
         {
-          "title": "Xog keydiyaha FBI-da Mareykanka oo la jabsaday iyo khatar ballaaran oo…",
-          "link": "https://www.caasimada.net/xog-keydiyada-fbi-da-mareykanka-oo-la-jabsaday/",
-          "summary": "Washington (Caasimada Online) – Hey’adda Dambi-baarista Mareykanka (FBI) ayaa bilowday baaritaan ballaaran oo ku saabsan jabsi lagu sameeyay xog-kaydiyaha qaranka ee macluumaadka dambiilayaasha (NCIC), kaddib toddobaadyo…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2024/10/FBI-scaled.jpg?fit=2560%2C1707&ssl=1",
-          "publishedAt": "2026-11-22T06:00:16.000Z",
-          "titleEn": "The US FBI's database was hacked and a massive threat to...",
-          "summaryEn": "Washington (Capital Online)  ⁇  The US Federal Bureau of Investigation (FBI) has launched an extensive investigation into a breach of the National Criminal Information Archive (NCIC), after weeks of..."
+          "title": "Turkiga oo bogaadiyay arrin uu sameeyay guddoomiye Muungaab + Sawirro",
+          "link": "https://www.caasimada.net/sawirro-turkiga-oo-bogaadiyay-dadaallada-guddoomiye-muungaab-ee-la-xiriira/",
+          "summary": "Muqdisho (Caasimada Online) – Safiirka Turkiga u qaabilsan arrimaha Soomaaliya, Ferhat Alkan oo maanta booqasho ku tegay xarunta Aqalka Dowladda Hoose ee Xamar ayaa si weyn ugu bogaadiyay duqa Muqdisho dadaallada…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/921143159_1584888693688416_3986654786106130394_n.webp?fit=2048%2C1090&ssl=1",
+          "publishedAt": "2026-11-22T17:46:48.000Z"
+        },
+        {
+          "title": "Aqriso Magacyada: Golaha Wasiirada cusub ee maamulka Galmudug oo lagu dhowaaqay",
+          "link": "https://www.caasimada.net/hoggaamiyaha-galmudug-oo-magacaabay-golihiisa-wasiirada-magacyada/",
+          "summary": "Dhuusamareeb (Caasimada Online) – Hoggaamiyaha Dowlad-goboleedka Soomaaliyeed ee Galmudug, Mudane Liibaan Axmed Xasan, ayaa caawa soo magacaabay Golaha Wasiirrada cusub oo ka kooban 24 wasiir, kuwaas oo hoggaamin doona…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/10/shuluq.webp?fit=2048%2C1366&ssl=1",
+          "publishedAt": "2026-11-22T16:00:09.000Z"
+        },
+        {
+          "title": "DF oo amar ku soo rogtay shirkadaha iyo shaqsiyaadka Muqdisho ku haysta hubka",
+          "link": "https://www.caasimada.net/df-oo-amar-kusoo-rogtay-shirkadaha-iyo-shaqsiyaadka-muqdisho-ku-haysta-hubka-culus/",
+          "summary": "Muqdisho (Caasimada Online) – Wasaaradda amniga gudaha ee Dowladda Federaalka Soomaaliya ayaa soo saartay go’aan culus oo lagu mamnuucay in maanta wixii ka dambeeya hub aan sharciyeysneen lagu dhex wato gudaha magaalada…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2025/09/Fartaag.webp?fit=2048%2C1366&ssl=1",
+          "publishedAt": "2026-11-22T15:00:36.000Z"
+        },
+        {
+          "title": "Soomaaliya oo kaalinta 1-aad ka gashay qiimeynta….",
+          "link": "https://www.caasimada.net/soomaaliya-oo-kaalinta-koowaad-ka-gashay-2/",
+          "summary": "Nairobi (Caasimada Online) – Soomaaliya ayaa lagu qiimeeyay inay horumar ka samaysay dhinaca amniga, iyadoo boqolkiiba 74 lagu qiyaasay dareenka badbaadada muwaadiniinta, sida lagu sheegay warbixin ay soo saartay…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2024/07/Calanka-scaled.jpg?fit=2560%2C1707&ssl=1",
+          "publishedAt": "2026-11-22T14:00:18.000Z"
+        },
+        {
+          "title": "Sawirro: Xasan Sheekh oo qaabilay khubaro ka socda shirkadda shidaalka ee dalka…",
+          "link": "https://www.caasimada.net/sawirro-xasan-oo-qaabilay-khubaro-ka-socda-shirkadda-shidaalka-ee-dalka/",
+          "summary": "Muqdisho (Caasimada Online) – Madaxweynaha Soomaaliya Xasan Sheekh Maxamuud ayaa xarunta madaxtooyada qaranka ku qaabilay wafdi khubarro ah oo ka socda shirkadda SONATRACH ee dalka Aljeeriya, taasi oo ka shaqeysa…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/FB_IMG_1795353506004.webp?fit=2048%2C1366&ssl=1",
+          "publishedAt": "2026-11-22T13:00:52.000Z"
+        },
+        {
+          "title": "Maxkamadda EACJ oo 45 cisho u qabatay DF kadib dacwad xasaasi ah oo laga gudbiyay",
+          "link": "https://www.caasimada.net/maxkamadda-eacj-oo-45-cisho-u-qabatay-df-kadib-dacwad-xasaasi-ah-oo-laga-gudbiyay/",
+          "summary": "Arusha (Caasimada Online) – Maxkamadda Caddaaladda ee Bulshada Bariga Afrika (EACJ) ayaa Dowladda Federaalka Soomaaliya u qabatay muddo 45 maalmood ah inay uga jawaabto dacwad loo gudbiyay oo la xiriirta faragelinta…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/madaxweynaha-jamhuuriyadda-oo-dhagax-dhigay-xarunta-cusub-ee-taliska-ciidanka-badda_55665887814_o-scaled.webp?fit=2560%2C1707&ssl=1",
+          "publishedAt": "2026-11-22T12:00:25.000Z"
+        },
+        {
+          "title": "Masar, Eritrea iyo Sudan oo la saftay Soomaaliya kadib markii…",
+          "link": "https://www.caasimada.net/masar-eritrea-iyo-sudan-oo-mar-kale-soomaaliya/",
+          "summary": "Qaahira (Caasimada Online) – Masar, Suudaan iyo Eritrea ayaa mar kale caddeeyay mowqifkooda ku aaddan midnimada, madax-bannaanida iyo wadajirka dhuleed ee Soomaaliya, iyagoo si adag uga horyimid abuurista maleeshiyaad…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2024/10/Afwerki-Siisi-Xasan.jpg?fit=2048%2C1366&ssl=1",
+          "publishedAt": "2026-11-22T11:00:55.000Z"
         },
         {
           "title": "Xog: Waa maxay qorshaha ciidanka DF ee xaaladda ka soo korortay gobolka Hiiraan?",
           "link": "https://www.caasimada.net/xog-waa-maxay-qorshaha-ciidanka-df-ee-xaaladda-ka-soo-korortay-gobolka-hiiraan/",
           "summary": "Beledweyne (Caasimada Online) – Taliska Ciidanka Xoogga Dalka ayaan ilaa iyo hadda ka hadlin is-ballaarinta ay kooxda Al-Shabaab ka waddo gobolka Hiiraan, mana soo bandhigin wax qorshe ah oo lagu difaacayo deegaannadaas.…",
           "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/09/tababar-ciidan.webp?fit=2048%2C1366&ssl=1",
-          "publishedAt": "2026-11-22T05:00:16.000Z",
+          "publishedAt": "2026-11-22T10:00:16.000Z",
           "titleEn": "Information: What is the plan of the DF military for the situation in the state of Hiran?",
           "summaryEn": "Beledweyne (Capital Online)  ⁇  The National Forces Command has not yet discussed the expansion of Al-Shabaab in the Iranian province, and has not presented any plans to defend those areas...."
         },
         {
-          "title": "Turkey approves deal to build new Somali embassy in Ankara",
-          "link": "https://www.caasimada.net/turkey-approves-deal-to-build-new-somali-embassy-in-ankara/",
-          "summary": "Ankara, Turkey — Turkish President Recep Tayyip Erdoğan has approved a deal for Turkey to build and donate new premises for Somalia’s embassy in Ankara, more than four years after the two countries signed it. The…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2025/03/IMG_6494.jpeg?fit=2048%2C1290&ssl=1",
-          "publishedAt": "2026-11-21T19:39:43.000Z",
-          "titleEn": "Turkey approves deal to build new Somali embassy in Ankara",
-          "summaryEn": "Ankara, Turkey  ⁇  Turkish President Recep Tayyip Erdogan has approved a deal for Turkey to build and donate new premises for Somalia's embassy in Ankara, more than four years after the two countries signed it. The..."
+          "title": "Xog keydiyaha hay’adda FBI-da Mareykanka oo la jabsaday iyo khatar ballaaran oo…",
+          "link": "https://www.caasimada.net/xog-keydiyada-fbi-da-mareykanka-oo-la-jabsaday/",
+          "summary": "Washington (Caasimada Online) – Hey’adda Dambi-baarista Mareykanka (FBI) ayaa bilowday baaritaan ballaaran oo ku saabsan jabsi lagu sameeyay xog-kaydiyaha qaranka ee macluumaadka dambiilayaasha (NCIC), kaddib toddobaadyo…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2024/10/FBI-scaled.jpg?fit=2560%2C1707&ssl=1",
+          "publishedAt": "2026-11-22T09:00:16.000Z",
+          "summaryEn": "Washington (Capital Online)  ⁇  The US Federal Bureau of Investigation (FBI) has launched an extensive investigation into a breach of the National Criminal Information Archive (NCIC), after weeks of..."
         },
         {
-          "title": "Somalia is not for sale — A united people stand behind their government in defence of national sovereignty",
-          "link": "https://www.caasimada.net/somalia-is-not-for-sale-a-united-people-stand-behind-their-government-in-defence-of-national-sovereignty/",
-          "summary": "There are moments in a nation’s history when its people must look beyond political differences, regional affiliations and clan divisions to defend something greater than themselves: their country’s sovereignty,…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/Ridwan-Yusuf-Mohamud.webp?fit=1536%2C1331&ssl=1",
-          "publishedAt": "2026-11-21T19:15:26.000Z",
-          "titleEn": "Somalia is not for sale  ⁇  A united people stand behind their government in defense of national sovereignty",
-          "summaryEn": "There are moments in a nation's history when its people have to look beyond political differences, regional affiliations and clan divisions to defend something greater than themselves: their country's sovereignty,"
-        },
-        {
-          "title": "Sawirro: Xasan Sheekh oo dhax dhigay xarun casri ah oo uu yeelanayo ciidanka badda",
-          "link": "https://www.caasimada.net/sawirro-xasan-sheekh-oo-dhax-dhigay-xarun-casri-ah-oo-uu-yeelanayo-ciidanka-badda/",
-          "summary": "Muqdisho (Caasimada Online) – Madaxweynaha Jamhuuriyadda Federaalka Soomaaliya, Xasan Sheekh Maxamuud, ayaa galabnimadii Sabtida maanta ah magaalada Muqdisho ka dhagax-dhigay dhismaha xarunta cusub ee Taliska Guud ee…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/madaxweynaha-jamhuuriyadda-oo-dhagax-dhigay-xarunta-cusub-ee-taliska-ciidanka-badda_55665718396_o-scaled.webp?fit=2560%2C1707&ssl=1",
-          "publishedAt": "2026-11-21T19:00:55.000Z",
-          "titleEn": "Photos: Hasan Sheikh inherits a modern naval base",
-          "summaryEn": "Mogadishu (Capital Online)  ⁇  President of the Federal Republic of Somalia, Hasan Sheikh Mahmoud, laid the foundation stone of the new headquarters of the General Counsel of..."
-        },
-        {
-          "title": "Erdoğan oo qaaday tallaabo ka farixisay Soomaaliya",
-          "link": "https://www.caasimada.net/madaxweynaha-turkiga-oo-qaaday-tallaabo-ka-farixisay-soomaaliya/",
-          "summary": "Muqdisho (Caasimada Online) – Madaxweynaha Turkiga, Mudane Recep Tayyip Erdoğan ayaa maanta qaaday tallaabo ka farxisay Soomaaliya, kadib markii uu saxiixay mashruuca dhismaha Safaaradda Jamhuuriyadda Federaalka…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2024/05/Erdogan-scaled.jpg?fit=2560%2C1707&ssl=1",
-          "publishedAt": "2026-11-21T18:00:47.000Z",
-          "summaryEn": "Mogadishu (Capital Online)  ⁇  Turkish President Recep Tayyip Erdoğan today took a step to please Somalia, after signing the project to build the Embassy of the Federal Republic of...",
-          "titleEn": "Erdoğan to retire from Somalia"
-        },
-        {
-          "title": "Xamza oo shaaciyey arrin xasaasi ah oo Imaaraadka ay ku lug leeyihiin oo lagu dilay…",
-          "link": "https://www.caasimada.net/xamza-oo-shaaciyey-arrin-xasaasi-ah-oo-imaaraadka-ay-ku-lug-leeyihiin-oo-lagu-dilay/",
-          "summary": "Muqdisho (Caasimada Online) – Ra’iisul Wasaaraha Xukuumadda Federaalka Soomaaliya, XamzaCabdi Barre, ayaa dowladda Imaaraadka Carabta ku eedeeyay inay qayb ka tahay xasuuqa ka socda marinka Gaza, burburinta dalal…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2024/07/xamza-xamsa-hamza.jpg?fit=2048%2C1366&ssl=1",
-          "publishedAt": "2026-11-21T17:00:23.000Z",
-          "titleEn": "Hamza, who has revealed a sensitive issue in which the UAE is involved and was killed...",
-          "summaryEn": "Mogadishu (Capital Online)  ⁇  Prime Minister of the Federal Government of Somalia, HamzaCabdi Barre, accused the UAE government of being part of the genocide in Gaza, the destruction of countries..."
-        },
-        {
-          "title": "Sawirro: Xasan iyo taliyaha ciidanka Turkiga oo isku raacay…",
-          "link": "https://www.caasimada.net/maxay-ka-wada-hadleen-xasan-iyo-taliyaha-ciidanka-turkiga-sawirro/",
-          "summary": "Muqdisho (Caasimada Online) -Madaxweynaha Soomaaliya, Mudane Xasan Sheekh Maxamuud, ayaa xarunta Madaxtooyada Qaranka ku qaabilay Taliyaha Guud ee Ciidanka Milatariga Jamhuuriyadda Türkiye, Jeneraal Selçuk Bayraktaroğlu…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/11/FB_IMG_1795267470352.webp?fit=720%2C480&ssl=1",
-          "publishedAt": "2026-11-21T16:00:09.000Z",
-          "summaryEn": "Mogadishu (Capital Online) - The President of Somalia, Hasan Sheikh Mahmud, welcomed the Commander-in-Chief of the Armed Forces of the Republic of Turkey, General Selçuk Bayraktaroğlu at the National Presidency...",
-          "titleEn": "Photos: A tortured and a Turkish army commander who agreed to..."
-        },
-        {
-          "title": "Mucaaradka oo caddeeyay sababta ay ku diideen codsiga madaxweyne Xasan + Video",
-          "link": "https://www.caasimada.net/golaha-mustaqbalka-oo-shaaciyay-sababta-ay-ku-diideen-codsiga-xasan-video/",
-          "summary": "Muqdisho (Caasimada Online) – Xoghayaha Golaha Mustaqbalka Soomaaliyeed, Mudane Cabdullaahi Carab oo shir jaraa’id ku qabtay magaalada Muqdisho ayaa faah-faahin ka bixiyay sababta ay ku diideen dalabka uga yimid…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/02/Mucaaradka-Golaha-Mustaqbalka-scaled.webp?fit=2560%2C1707&ssl=1",
-          "publishedAt": "2026-11-21T15:00:41.000Z",
-          "summaryEn": "Mogadishu (Capital Online)  ⁇  Secretary of the Somali Future Council, Mr. Cabdullah Arabi, held a press conference in Mogadishu explaining why they rejected the request from...",
-          "titleEn": "Opposition explains why they rejected President Hassan's request + Video"
-        },
-        {
-          "title": "Daawo: Caqabad wayn oo soo wajahday BF Soomaaliya",
-          "link": "https://www.caasimada.net/daawo-caqabad-wayn-oo-soo-wajahday-baaramaanka-soomaaliya/",
-          "summary": "Muqdisho (Caasimada Onine) – Iyadoo dalka uu ku jiro marxalad xasaasi ah oo kala guur ah ayaa waxaa haddane caqabad wayn ay soo wajahday Baarlamaanka Federaalka Soomaaliya, taas oo saameyn xooggan ku yeelatay…",
-          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2026/08/bf.webp?fit=2048%2C1366&ssl=1",
-          "publishedAt": "2026-11-21T14:00:52.000Z",
-          "summaryEn": "Mogadishu (Onine Capital)  ⁇  At a time when the country is in a transition phase, the Federal Parliament of Somalia has faced a major challenge, which has had a strong impact on...",
-          "titleEn": "Medicine: A major challenge faced by the Somali BF"
+          "title": "DF oo meesha ka saartay walaaca laga qabo bixitaanka ciidamada Uganda",
+          "link": "https://www.caasimada.net/df-oo-meesha-ka-saartay-walaaca-laga-qabo-bixitaanka-ciidamada-uganda/",
+          "summary": "Muqdisho (Caasimada Online) – Dowladda Federaalka Soomaaliya ayaa sheegtay inaysan wax walaac ah ka qabin bixitaanka ciidamada Uganda ee qeybta ka ah howlgalka nabad ilaalinta Soomaaliya ee AUSSOM, iyadoo ku adkaysatay…",
+          "image": "https://i0.wp.com/www.caasimada.net/wp-content/uploads/2019/04/Amisom-Uganda.jpg?fit=2047%2C1365&ssl=1",
+          "publishedAt": "2026-11-22T08:00:04.000Z"
         }
       ]
     }

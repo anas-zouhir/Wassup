@@ -8,8 +8,44 @@
         "homepage": "https://news.web.nhk/newsweb",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-22T06:48:26.037Z",
+      "fetchedAt": "2026-11-22T18:34:33.644Z",
       "items": [
+        {
+          "title": "【地震情報】熊本県で震度3 津波の心配なし",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de80074",
+          "summary": "23日午前2時46分ごろ、熊本県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。",
+          "publishedAt": "2026-11-22T18:19:05.000Z"
+        },
+        {
+          "title": "クマは地下水路に? 内部調査も姿は確認できず 警戒続く前橋",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79777",
+          "summary": "住宅街にクマが出没し警戒が続いている前橋市では、22日、クマがとどまっているとみられる地下水路の内部を、県や市などが自走式のカメラで調査しましたが、クマの姿や痕跡は確認できませんでした。現場では水路を…",
+          "publishedAt": "2026-11-22T11:45:28.000Z"
+        },
+        {
+          "title": "COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79933",
+          "summary": "トルコで開かれている気候変動対策を話し合う国連の会議「COP31」は、22日も会期を延長して行われましたが、議長国トルコは会議全体を総括する成果文書の採択を断念すると明らかにしました。 文書案に化石…",
+          "publishedAt": "2026-11-22T13:40:47.000Z"
+        },
+        {
+          "title": "大相撲九州場所 大の里 7回目の優勝 若元春との優勝決定戦制す",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79989",
+          "summary": "大相撲九州場所は千秋楽、横綱・大の里が13勝2敗で並んだ平幕の若元春との優勝決定戦を制し、7回目の優勝を果たしました。大の里は横綱に昇進してから初めての2場所連続での優勝となります。",
+          "publishedAt": "2026-11-22T14:11:24.000Z"
+        },
+        {
+          "title": "「東アジア反日武装戦線」メンバーの死刑囚が東京拘置所で死亡",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79958",
+          "summary": "1974年から翌年にかけて起きた連続企業爆破事件で死刑が確定していた、過激派組織「東アジア反日武装戦線」のメンバー、益永利明、旧姓・片岡利明死刑囚が、22日朝、東京拘置所で死亡しました。法務省によりま…",
+          "publishedAt": "2026-11-22T11:37:59.000Z"
+        },
+        {
+          "title": "韓国 大学入試 スマートグラスなどの対策で混乱 教育相が辞意",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de80041",
+          "summary": "韓国で今月19日に行われた大学進学のための共通試験で、スマートグラスを使用するなどAIを悪用した不正行為への対策を政府が試験直前に強化して混乱が広がったことを受け、教育相が22日、辞意を表明しました。",
+          "publishedAt": "2026-11-22T11:21:50.000Z"
+        },
         {
           "title": "タワーレコード 不正アクセスで約1100万件の個人情報流出",
           "link": "https://news.web.nhk/newsweb/na/nd-20261122de79936",
@@ -17,54 +53,6 @@
           "publishedAt": "2026-11-22T06:11:18.000Z",
           "titleEn": "The Tower Records have leaked about 11 million personal information through unauthorized access.",
           "summaryEn": "Tower Records, which sells music content, said that its website had been compromised and that it had leaked about 11 million personal information, including email addresses and names of customers."
-        },
-        {
-          "title": "日本の探査機「みお」水星の周回軌道に投入 欧州の探査機と",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79873",
-          "summary": "太陽に最も近い惑星、水星を目指して8年前の2018年から飛行を続けてきた日本の探査機「みお」は、連結しているヨーロッパの探査機とともに水星を周回する軌道に投入されたと、ESA＝ヨーロッパ宇宙機関が発表…",
-          "publishedAt": "2026-11-22T05:29:38.000Z",
-          "titleEn": "The Japanese spacecraft is going into orbit around Mercury, and the European spacecraft is coming.",
-          "summaryEn": "The Japanese spacecraft Miu, which has been flying since 2018 to the nearest planet to the Sun, Mercury, eight years ago, has been launched into orbit around Mercury along with the European spacecraft that are connected to it."
-        },
-        {
-          "title": "福島 北塩原村 宿泊客帰宅開始も514世帯孤立 猪苗代町でも孤立",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79781",
-          "summary": "20日から降り続いた雪の影響で、福島県北塩原村では国道の通行止めが続いています。周辺のホテルでは一時孤立した状態になりましたが、緊急車両が通行できるようになったことから、一部の宿泊客が帰宅を始めていま…",
-          "publishedAt": "2026-11-22T05:13:04.000Z",
-          "titleEn": "Fukushima, northern Hokkaido, the start of the stay-at-home phase, 514 households in isolation, and in the town of Pigmead, isolation.",
-          "summaryEn": "Due to the effects of the 20 days of snow, the road is still closed in the village of North Cholora in Fukushima Prefecture. We've been isolated for a while in the surrounding hotels, but as emergency vehicles have been able to get through, some of our guests are starting to go home."
-        },
-        {
-          "title": "六花亭に不正アクセス クレカ情報不正利用とみられる被害確認",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79904",
-          "summary": "北海道帯広市に本社がある菓子メーカー「六花亭」のオンラインショップが不正アクセスを受け、およそ8000件のクレジットカード情報が流出した可能性がある問題で、会社は、カード情報の不正利用とみられる被害が…",
-          "publishedAt": "2026-11-22T05:02:00.000Z",
-          "titleEn": "I've been able to confirm the alleged misappropriation of the information.",
-          "summaryEn": "In a case where the online shop of a confectionery maker headquartered in the city of Nagasaki-san-gu, \"Sashikoto\", may have been hacked and about 8,000 credit card information leaked, the company is facing what it believes to be a fraudulent use of card information."
-        },
-        {
-          "title": "AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは?",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
-          "summary": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。",
-          "publishedAt": "2026-11-22T05:24:00.000Z",
-          "titleEn": "What are the implications of this?",
-          "summaryEn": "Mathematicians at an emerging American AI company, Anthropopics, claimed to have used AI to prove what they called the Leeman prediction, a mathematical challenge. If it's recognized by experts, it's a historic achievement."
-        },
-        {
-          "title": "安保3文書 非核三原則などめぐり与野党意見交わす NHK日曜討論",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79839",
-          "summary": "安全保障関連の3文書の改定に向けて政府・与党が検討を進めるなか、NHKの日曜討論に与野党の安全保障政策の担当者らが出演し、非核三原則を見直すかどうかや原子力潜水艦の保有の是非などをめぐって意見を交わし…",
-          "publishedAt": "2026-11-22T03:32:00.000Z",
-          "titleEn": "NHK's Sunday debate with the opposition on the three non-nuclear principles.",
-          "summaryEn": "While the government and the party were discussing the revision of the three security-related documents, the opposition security policy leaders attended the NHK debate on Sunday, discussing whether to review the non-nuclear three principles and whether to own nuclear submarines."
-        },
-        {
-          "title": "日本海側中心に断続的に雪と雨 各地今シーズン一番の冷え込み",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79767",
-          "summary": "3連休の中日となる22日、冬型の気圧配置はしだいに緩んでいるものの、北日本と東日本の日本海側を中心にこの時期としては積雪が多くなっている地域があるほか、新潟県では「レベル4土砂災害危険警報」が発表され…",
-          "publishedAt": "2026-11-22T02:55:00.000Z",
-          "titleEn": "Snow and rain are continuing in the center of the Japanese sea, the coldest part of the season.",
-          "summaryEn": "Despite the fact that the winter weather has been slowing for 22 days, which is a three-day holiday, there are areas where there is a lot of snowfall, especially in the northern and eastern parts of Japan, and in the province of Shinjuku, a \"level 4 soil sand disaster hazard warning\" has been issued."
         }
       ]
     },
@@ -75,8 +63,43 @@
         "homepage": "https://www.asahi.com",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-22T06:48:26.035Z",
+      "fetchedAt": "2026-11-22T18:34:33.712Z",
       "items": [
+        {
+          "title": "帰宅途中にクマと遭遇、足をひっかかれて20代男性が軽傷 京丹後市",
+          "link": "http://www.asahi.com/articles/ASVCQ55HRVCQPXLB005M.html?ref=rss",
+          "publishedAt": "2026-11-22T15:49:05.000Z"
+        },
+        {
+          "title": "金塊4億円相当なくなる 現金2500万円も 警察が窃盗容疑で捜査",
+          "link": "http://www.asahi.com/articles/ASVCP51T9VCPPLZB00BM.html?ref=rss",
+          "publishedAt": "2026-11-22T12:44:52.000Z"
+        },
+        {
+          "title": "電動車いすの79歳、踏切で電車にはねられ死亡 奈良・大和高田市",
+          "link": "http://www.asahi.com/articles/ASVCQ3DRZVCQPOMB001M.html?ref=rss",
+          "publishedAt": "2026-11-22T10:27:25.000Z"
+        },
+        {
+          "title": "タワーレコードに不正アクセス、1100万件の個人情報流出と発表",
+          "link": "http://www.asahi.com/articles/ASVCQ3559VCQUTIL007M.html?ref=rss",
+          "publishedAt": "2026-11-22T09:55:02.000Z"
+        },
+        {
+          "title": "住宅街にクマ出没の前橋市 潜む可能性のある暗渠の出入り口を閉鎖へ",
+          "link": "http://www.asahi.com/articles/ASVCQ2WF7VCQUHNB001M.html?ref=rss",
+          "publishedAt": "2026-11-22T09:20:00.000Z"
+        },
+        {
+          "title": "黄金に染まるイチョウ並木、変わりゆく神宮外苑 上空から見る再開発",
+          "link": "http://www.asahi.com/articles/ASVCQ1RKNVCQUQIP015M.html?ref=rss",
+          "publishedAt": "2026-11-22T08:30:00.000Z"
+        },
+        {
+          "title": "連続企業爆破事件、益永利明死刑囚が死亡 2010年から病気療養中",
+          "link": "http://www.asahi.com/articles/ASVCQ2P8DVCQUTIL005M.html?ref=rss",
+          "publishedAt": "2026-11-22T08:10:47.000Z"
+        },
         {
           "title": "首里城正殿で復元完成式 7年ぶりによみがえる鮮やかな琉球の象徴",
           "link": "http://www.asahi.com/articles/ASVCQ1JL4VCQUTIL01CM.html?ref=rss",
@@ -94,48 +117,6 @@
           "link": "http://www.asahi.com/articles/ASVCN2Q9ZVCNOIPE00BM.html?ref=rss",
           "publishedAt": "2026-11-21T22:00:00.000Z",
           "titleEn": "I'm going to use high-speed PA-SA, a third of the time, to remove the trash can, and first of all, the injector."
-        },
-        {
-          "title": "僕が名字を変える 予想以上だった不公平「自分は自分のままだけど」",
-          "link": "http://www.asahi.com/articles/ASVCN1SDJVCNUTFL001M.html?ref=rss",
-          "publishedAt": "2026-11-21T21:00:00.000Z",
-          "titleEn": "It's unfair that I changed my name, and I was more than expecting it, \"I'm just who I am\"."
-        },
-        {
-          "title": "老舗洋菓子店で盲導犬とふれあい 親子30人、テス先生から学ぶ",
-          "link": "http://www.asahi.com/articles/ASVCP2DNCVCPOXIE00NM.html?ref=rss",
-          "publishedAt": "2026-11-21T21:00:00.000Z",
-          "titleEn": "I've been hanging out with blind dogs in an old-fashioned candy store, and I've learned from my parents and 30 children, and I learned from my teacher, Tess."
-        },
-        {
-          "title": "住宅から現金2500万円と金塊20キロ盗まれる 警察が捜査 兵庫",
-          "link": "http://www.asahi.com/articles/ASVCP51T9VCPPLZB00BM.html?ref=rss",
-          "publishedAt": "2026-11-21T15:16:51.000Z",
-          "titleEn": "The police are investigating 25 million yen in cash and 20 kilos of gold stolen from the home."
-        },
-        {
-          "title": "玄関先に嬰児の遺体、置いた人物を死体遺棄容疑で捜査 東京・多摩",
-          "link": "http://www.asahi.com/articles/ASVCP3JQ7VCPUTIL00FM.html?ref=rss",
-          "publishedAt": "2026-11-21T11:15:00.000Z",
-          "titleEn": "Investigations into the abandonment of the body of a baby and the person who left it at the entrance, Tokyo Domo."
-        },
-        {
-          "title": "ナナちゃんの足元に「変身」集結 百貨店閉店後の名駅に新たな彩り",
-          "link": "http://www.asahi.com/articles/ASVCP3F8LVCPUQIP01DM.html?ref=rss",
-          "publishedAt": "2026-11-21T11:00:00.000Z",
-          "titleEn": "\"Transformation\" at Nana's feet, a new color in the name station after the store closed."
-        },
-        {
-          "title": "愛子さま、シンガポールから帰国 「多くのことを学ぶ貴重な機会」",
-          "link": "http://www.asahi.com/articles/ASVCK0FSPVCKUQIP008M.html?ref=rss",
-          "publishedAt": "2026-11-21T09:37:03.000Z",
-          "titleEn": "My dear, I've come home from Singapore and I've got a precious opportunity to learn a lot."
-        },
-        {
-          "title": "クマが住宅街にまた出没 前橋市は道路を封鎖、緊急銃猟の態勢に",
-          "link": "http://www.asahi.com/articles/ASVCP26DJVCPUHNB005M.html?ref=rss",
-          "publishedAt": "2026-11-21T09:23:23.000Z",
-          "titleEn": "A bear has been infiltrating a residential neighborhood in the former bridge town, blocking roads and hunting for firearms."
         }
       ]
     },
@@ -146,8 +127,64 @@
         "homepage": "https://www.japantimes.co.jp",
         "lang": "en"
       },
-      "fetchedAt": "2026-11-22T06:48:26.199Z",
+      "fetchedAt": "2026-11-22T18:34:33.881Z",
       "items": [
+        {
+          "title": "Japan to hold council on Futenma base issues by year-end",
+          "link": "https://www.japantimes.co.jp/news/2026/11/22/japan/futenma-base-issue-council/",
+          "summary": "The council for promoting the alleviation of burdens from the Futenma base, has not met since April 2019.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575439.jpg",
+          "publishedAt": "2026-11-22T12:05:00.000Z"
+        },
+        {
+          "title": "Japan death-row inmate in 1970s corporate bombings dies",
+          "link": "https://www.japantimes.co.jp/news/2026/11/22/japan/left-wing-radical-toshiaki-masunaga-dies/",
+          "summary": "Masunaga, a member of the East Asia Anti-Japan Armed Front, had been undergoing treatment for a cerebral infarction. The cause of death was unclear.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575438.jpg",
+          "publishedAt": "2026-11-22T11:39:00.000Z"
+        },
+        {
+          "title": "Left in limbo: What happens to foreign spouses in Japan when a marriage ends",
+          "link": "https://www.japantimes.co.jp/community/2026/11/22/issues/foreign-nationals-marriage-visa-issues/",
+          "summary": "Thousands of foreign nationals are allowed to live in Japan because of their marriage certificates. Here's what happens if the marriage ends.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/574990.jpg",
+          "publishedAt": "2026-11-22T09:00:00.000Z"
+        },
+        {
+          "title": "Japan eyes December launch for system that checks for sex offense records",
+          "link": "https://www.japantimes.co.jp/news/2026/11/22/japan/crime-legal/japan-system-sex-offense-records/",
+          "summary": "The law also requires measures to prevent sexual violence before it occurs, in order to address concerns among children and their parents.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575431.jpg",
+          "publishedAt": "2026-11-22T08:28:00.000Z"
+        },
+        {
+          "title": "Myanmar says combating graft in military draft process",
+          "link": "https://www.japantimes.co.jp/news/2026/11/22/asia-pacific/myanmar-graft-military-draft/",
+          "summary": "Myanmar's military is fighting various pro-democracy rebels and ethnic minority factions in a civil war sparked by a 2021 coup.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575436.jpg",
+          "publishedAt": "2026-11-22T08:26:00.000Z"
+        },
+        {
+          "title": "The secret courage of Australia’s Bondi shooting hero, one year on",
+          "link": "https://www.japantimes.co.jp/news/2026/11/22/asia-pacific/australia-bondi-shooting-hero/",
+          "summary": "Ahmed al Ahmed rushed to tackle one of the gunmen as they fired round after round into a crowd of men, women and children.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575435.jpg",
+          "publishedAt": "2026-11-22T08:24:00.000Z"
+        },
+        {
+          "title": "Main hall of Okinawa’s Shuri Castle restored seven years after fire",
+          "link": "https://www.japantimes.co.jp/news/2026/11/22/japan/shuri-castle-restored/",
+          "summary": "The hall was destroyed by fire in the early hours of Oct. 31, 2019, along with the north hall, south hall and other structures.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575419.jpg",
+          "publishedAt": "2026-11-22T08:04:00.000Z"
+        },
+        {
+          "title": "Max Verstappen tastes victory in Las Vegas for third time in four years",
+          "link": "https://www.japantimes.co.jp/sports/2026/11/22/more-sports/verstappen-vegas-victory-f1/",
+          "summary": "The race featured 35 lead changes over 50 laps.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575426.jpg",
+          "publishedAt": "2026-11-22T07:05:00.000Z"
+        },
         {
           "title": "Giants coach John Harbaugh ‘happy’ to see Cam Skattebo end backflip celebration",
           "link": "https://www.japantimes.co.jp/sports/2026/11/22/more-sports/cam-skattebo-backflip-retire/",
@@ -161,62 +198,6 @@
           "summary": "The products are used in a wide range of items, including high-performance materials essential for semiconductor manufacturing.",
           "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575382.jpg",
           "publishedAt": "2026-11-22T05:50:00.000Z"
-        },
-        {
-          "title": "Fossil fuels still missing from latest COP31 draft deal",
-          "link": "https://www.japantimes.co.jp/environment/2026/11/22/climate-change/cop31-climate-talks/",
-          "summary": "The latest offering by summit co-hosts Turkey and Australia retains global electrification goals but leaves unresolved tensions over fossil fuels.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575336.jpg",
-          "publishedAt": "2026-11-22T05:47:00.000Z"
-        },
-        {
-          "title": "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
-          "link": "https://www.japantimes.co.jp/news/2026/11/22/world/bahrain-iran-attack-hormuz/",
-          "summary": "The Gulf kingdom suffered several attacks last week, ending a lull in the conflict that began with U.S.-Israeli strikes on Iran in late February.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575399.jpg",
-          "publishedAt": "2026-11-22T05:19:00.000Z"
-        },
-        {
-          "title": "South Korea education chief resigns amid AI cheating scandal",
-          "link": "https://www.japantimes.co.jp/news/2026/11/22/asia-pacific/politics/south-korea-education-minister-resigns/",
-          "summary": "The top scorer in a national tax accountant exam confessed to using AI for his near-perfect score, just days before the country's college entrance exam.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575389.jpg",
-          "publishedAt": "2026-11-22T05:19:00.000Z"
-        },
-        {
-          "title": "Poland is a warning for vengeful U.S. Democrats",
-          "link": "https://www.japantimes.co.jp/commentary/2026/11/22/world/poland-vengeful-us-democrats/",
-          "summary": "Poland's struggle to repair institutions weakened by populist rule shows that democracies cannot restore public trust through partisan power plays.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/574753.jpg",
-          "publishedAt": "2026-11-22T05:05:00.000Z"
-        },
-        {
-          "title": "All Blacks coach Dave Rennie on hot seat after poor showing in loss against England",
-          "link": "https://www.japantimes.co.jp/sports/2026/11/22/more-sports/new-zealand-coach-under-pressure/",
-          "summary": "After last week's surprise loss to Wales, New Zealand's first in 73 years, Rennie said that \"we let our country down\" and he admitted the display at Twickenham was even worse.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575388.jpg",
-          "publishedAt": "2026-11-22T04:39:00.000Z"
-        },
-        {
-          "title": "Japan to expand “kosen” education into agriculture",
-          "link": "https://www.japantimes.co.jp/news/2026/11/22/japan/kosen-education-agriculture/",
-          "summary": "The government is also considering adding fields related to content creation, such as manga and anime, in response to demand.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575385.jpg",
-          "publishedAt": "2026-11-22T04:30:00.000Z"
-        },
-        {
-          "title": "How attaches can strengthen defense cooperation",
-          "link": "https://www.japantimes.co.jp/commentary/2026/11/22/japan/japan-strengthen-defense-cooperation/",
-          "summary": "Defense attaches are becoming increasingly important as Japan expands defense equipment exports and security cooperation.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575255.jpg",
-          "publishedAt": "2026-11-22T03:40:00.000Z"
-        },
-        {
-          "title": "Nagano farmers are running out of altitude as warming hits key celery crop",
-          "link": "https://www.japantimes.co.jp/environment/2026/11/22/climate-change/celery-harvest-climate-change/",
-          "summary": "Farmers have long planted celery on mountainsides in order to find cooler conditions. But as warming accelerates, they're running out of altitude.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/574472.jpg",
-          "publishedAt": "2026-11-22T03:25:00.000Z"
         }
       ]
     }
