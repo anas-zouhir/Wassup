@@ -8,63 +8,50 @@
         "homepage": "https://news.web.nhk/newsweb",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-23T07:04:45.583Z",
+      "fetchedAt": "2026-11-23T18:50:08.181Z",
       "items": [
+        {
+          "title": "エヌビディアCEO 辞任のフアン氏が復帰へ 株価一時36％超上昇",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80304",
+          "summary": "アメリカの半導体大手「エヌビディア」は、中国の情報機関の協力者とされる女性と親密な関係にあったと報じられ、辞任したジェンスン・フアン氏がCEOに復帰したと発表しました。 会社はフアン氏の復帰が国家安全…",
+          "publishedAt": "2026-11-23T17:30:50.000Z"
+        },
+        {
+          "title": "24日は荒れた天気に 強風や大雨による土砂災害に十分注意を",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80272",
+          "summary": "低気圧と前線の影響で、24日は全国的に大気の状態が非常に不安定になり、日本海側では雨風ともに強まり荒れた天気となる見込みです。気象庁は強風や大雨による土砂災害に十分注意し、落雷や竜巻などの激しい突風に…",
+          "publishedAt": "2026-11-23T10:05:06.000Z"
+        },
+        {
+          "title": "東京電力 福島での廃炉と賠償の部門を統合へ",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80254",
+          "summary": "東京電力ホールディングスは福島県内で行う廃炉や賠償などの体制強化に向けて、福島第一原子力発電所と福島第二原子力発電所のそれぞれの廃炉部門、それに賠償や復興を担う部門のあわせて3つを統合し、グループ内に…",
+          "publishedAt": "2026-11-23T09:24:08.000Z"
+        },
+        {
+          "title": "ウクライナで被害住宅から2人救助 7歳の男の子は14時間後に",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80276",
+          "summary": "ウクライナの首都キーウ近郊では、ロシアによる攻撃で集合住宅が崩壊し、これまでに11人の死亡が確認されました。 一方、現場のがれきの下からは7歳の男の子が14時間後に、高齢の女性が22時間後に救助され…",
+          "publishedAt": "2026-11-23T10:58:35.000Z"
+        },
+        {
+          "title": "リーグ連覇の阪神がパレード ファンと喜び分かち合う",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80286",
+          "summary": "プロ野球、セ・リーグ連覇を果たした阪神の選手たちが大阪・御堂筋でパレードを行い、ファンと喜びを分かち合いました。",
+          "publishedAt": "2026-11-23T13:06:43.000Z"
+        },
+        {
+          "title": "「核のごみ」文献調査 茨城 常陸大宮で初の市民説明会",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80257",
+          "summary": "高レベル放射性廃棄物、いわゆる「核のごみ」の最終処分地の選定をめぐり文献調査が行われている茨城県常陸大宮市で、市民を対象にした初めての説明会が開かれました。",
+          "publishedAt": "2026-11-23T09:49:00.000Z"
+        },
         {
           "title": "岐阜 雪の影響で停電 携帯電話の通信障害や鉄道運転見合わせも",
           "link": "https://news.web.nhk/newsweb/na/nd-20261123de80192",
-          "summary": "中部電力によりますと、雪の影響で23日午前11時現在、岐阜県内のおよそ3800戸で停電が続いているということです。 停電などの影響で23日は携帯大手3社の通信にも障害が発生し、ホームページによります…",
-          "publishedAt": "2026-11-23T05:36:26.000Z",
-          "titleEn": "And it's not just the snow, it's the power outages, it is the communication disruptions on cell phones, it'll be the railway traffic.",
-          "summaryEn": "According to the central power grid, snow has caused power cuts in about 3,800 homes in the Gifu Prefecture as of 11:00 a.m. on the 23rd. The power outages, and the 23rd day of communication disruption, have affected the three major mobile phone companies, according to their website."
-        },
-        {
-          "title": "“会談模索もキム総書記の条件を米が受け入れられず”米報道",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80133",
-          "summary": "アメリカの有力紙ウォール・ストリート・ジャーナルは、トランプ大統領の先週のアジア訪問にあわせて、アメリカと北朝鮮の双方が首脳会談の可能性を模索したものの、キム・ジョンウン（金正恩）総書記が提示した条件…",
-          "publishedAt": "2026-11-23T00:26:00.000Z",
-          "titleEn": "And I'm not going to say that I'm sorry.",
-          "summaryEn": "The Wall Street Journal, the leading American newspaper, has been looking into the possibility of a summit between the United States and North Korea during President Trump's visit to Asia last week."
-        },
-        {
-          "title": "松山市中心部の住宅街で火事 男女のきょうだいと連絡取れず",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80132",
-          "summary": "23日午前、松山市中心部の住宅街で火事があり、住宅1棟が全焼しました。 警察によりますと、この家に2人で住んでいるとみられる50代の男女のきょうだいと連絡が取れなくなっているということです。",
-          "publishedAt": "2026-11-23T05:42:00.000Z",
-          "titleEn": "There's a fire in a residential neighborhood in downtown Matsumoto. I can't get in touch with my brother and sister.",
-          "summaryEn": "On the morning of the 23rd, a fire broke out in a residential area in downtown Matsumoto, burning one apartment building. According to the police, we're no longer in contact with our brothers and sisters in their 50s, who are believed to be living together in this house."
-        },
-        {
-          "title": "沖縄 首里城正殿復元祝う県主催記念式典が開催 一般公開始まる",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261122de80078",
-          "summary": "7年前の火災で焼失した首里城正殿の復元を祝う沖縄県主催の式典が23日午前開かれ、琉球王国時代の伝統芸能などが披露されました。正午ごろからは正殿の一般公開が始まっています。",
-          "publishedAt": "2026-11-23T05:08:11.000Z",
-          "titleEn": "The ceremony will be held in Okinawa to celebrate the restoration of the Shiri Castle.",
-          "summaryEn": "A ceremony organized by the Okinawa Prefecture to celebrate the restoration of the original Kaohsiung Castle, which burned down in a fire seven years ago, opened on the morning of the 23rd, with traditional entertainment from the time of the Tang Dynasty. At midday, the temple is open to the public."
-        },
-        {
-          "title": "福島 大雪による孤立状態が解消 停電は一部で続き復旧作業進む",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80164",
-          "summary": "雪による倒木の影響で、一時、500世帯余りが孤立状態となっていた福島県では、22日までに孤立状態が解消されました。停電は一部で続き、復旧作業が進められています。",
-          "publishedAt": "2026-11-23T03:10:46.000Z",
-          "titleEn": "Fukushima, isolated by heavy snow, partial power outages, restoration work is underway.",
-          "summaryEn": "In Fukushima Prefecture, where 500 families were temporarily isolated due to the snowfall, isolation was lifted within 22 days. The power outages are partly ongoing and the restoration work is underway."
-        },
-        {
-          "title": "住宅街のクマ“水路に潜む可能性”警戒続く 学校は再開へ 前橋",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261122de80089",
-          "summary": "住宅街でのクマの出没が相次いでいる前橋市では、クマが潜んでいる可能性がある地下水路の出入り口を封鎖し、市や警察が周辺の警戒を続けています。",
-          "publishedAt": "2026-11-23T02:45:00.000Z",
-          "titleEn": "The school reopened to the bridge.",
-          "summaryEn": "In the former city of Bridge, where the bear is being dumped in residential areas, the city and the police are closing down the entrances to the underground waterway, which could be where the bear was lurking."
-        },
-        {
-          "title": "サイ・ヤング賞2回のスクーバルが投手史上最高額でメッツへ",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80157",
-          "summary": "大リーグで年間最優秀投手に贈られるサイ・ヤング賞を2回受賞し、ドジャースからフリーエージェントになっていたスクーバル投手が、メッツと合意したと、複数のアメリカメディアが伝えました。 契約は9年総額で…",
-          "publishedAt": "2026-11-23T02:51:00.000Z",
-          "titleEn": "Cy Young has won two schoolboys for the Mets, the most in franchise history.",
-          "summaryEn": "Several American media reported that the two-time winner of the Cy Young Award, given to the best pitcher of the year in the major leagues, had agreed to a deal with the Mets, a scout pitcher who became a free agent for the Dodgers. The contract is for a total of nine years."
+          "summary": "中部電力によりますと雪の影響で23日午後5時現在、岐阜県内のおよそ4200戸で停電が続いているということです。 停電などの影響で携帯大手3社の通信にも障害が発生し、ホームページによりますと郡上市や高山…",
+          "publishedAt": "2026-11-23T09:22:12.000Z",
+          "titleEn": "And it's not just the snow, it's the power outages, it is the communication disruptions on cell phones, it'll be the railway traffic."
         }
       ]
     },
@@ -75,8 +62,23 @@
         "homepage": "https://www.asahi.com",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-23T07:04:45.649Z",
+      "fetchedAt": "2026-11-23T18:50:08.286Z",
       "items": [
+        {
+          "title": "交番内で頭から出血、男性巡査死亡 そばに使われた形跡の拳銃 熊本",
+          "link": "http://www.asahi.com/articles/ASVCR3T6YVCRTLVB001M.html?ref=rss",
+          "publishedAt": "2026-11-23T12:00:00.000Z"
+        },
+        {
+          "title": "熊本地震で中止の八代妙見祭 被災神社で復興祈願の「亀蛇」躍動",
+          "link": "http://www.asahi.com/articles/ASVCR2TC9VCRTIPE001M.html?ref=rss",
+          "publishedAt": "2026-11-23T10:00:00.000Z"
+        },
+        {
+          "title": "列車先頭の行き先に出発駅を誤表示 乗客が乗り損ねる JR九州発表",
+          "link": "http://www.asahi.com/articles/ASVCR2TYXVCRTIPE00DM.html?ref=rss",
+          "publishedAt": "2026-11-23T09:30:00.000Z"
+        },
         {
           "title": "悠仁さまが新嘗祭に、重要な宮中祭祀 23日からの皇室の予定",
           "link": "http://www.asahi.com/articles/ASVCN262JVCNUTIL005M.html?ref=rss",
@@ -118,24 +120,6 @@
           "link": "http://www.asahi.com/articles/ASVCP51T9VCPPLZB00BM.html?ref=rss",
           "publishedAt": "2026-11-22T12:44:52.000Z",
           "titleEn": "We're looking for $400 million in gold and $25 million in cash."
-        },
-        {
-          "title": "電動車いすの79歳、踏切で電車にはねられ死亡 奈良・大和高田市",
-          "link": "http://www.asahi.com/articles/ASVCQ3DRZVCQPOMB001M.html?ref=rss",
-          "publishedAt": "2026-11-22T10:27:25.000Z",
-          "titleEn": "79-year-old in an electric chair, hit by a train and died."
-        },
-        {
-          "title": "タワーレコードに不正アクセス、1100万件の個人情報流出と発表",
-          "link": "http://www.asahi.com/articles/ASVCQ3559VCQUTIL007M.html?ref=rss",
-          "publishedAt": "2026-11-22T09:55:02.000Z",
-          "titleEn": "We've been accused of breaking into Tower Records, leaking 11 million records."
-        },
-        {
-          "title": "住宅街にクマ出没の前橋市 潜む可能性のある暗渠の出入り口を閉鎖へ",
-          "link": "http://www.asahi.com/articles/ASVCQ2WF7VCQUHNB001M.html?ref=rss",
-          "publishedAt": "2026-11-22T09:20:00.000Z",
-          "titleEn": "The bridge before a bear attack on a residential neighborhood to close the possible entrance to a dark tunnel."
         }
       ]
     },
@@ -146,8 +130,64 @@
         "homepage": "https://www.japantimes.co.jp",
         "lang": "en"
       },
-      "fetchedAt": "2026-11-23T07:04:45.824Z",
+      "fetchedAt": "2026-11-23T18:50:08.574Z",
       "items": [
+        {
+          "title": "Japanese and North Korean intel officials likely had contact during Asian Games",
+          "link": "https://www.japantimes.co.jp/news/2026/11/23/japan/japan-nk-intel-asian-games/",
+          "summary": "The North Korean official was said to have entered Japan as a member of the North Korean delegation for the Asian Games.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575599.jpg",
+          "publishedAt": "2026-11-23T11:20:00.000Z"
+        },
+        {
+          "title": "Japan’s Tamagotchi digital pet toy marks 30th anniversary",
+          "link": "https://www.japantimes.co.jp/business/2026/11/23/tamagotchi-30th-anniversary/",
+          "summary": "The Tamagotchi digital pet toy, created by Japan's Bandai, on Monday marked the 30th anniversary of its release, having won fans across generations in and outside its home country.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575598.jpg",
+          "publishedAt": "2026-11-23T09:18:00.000Z"
+        },
+        {
+          "title": "Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe",
+          "link": "https://www.japantimes.co.jp/news/2026/11/23/world/libya-drone-attack-russian-ship-ukraine/",
+          "summary": "Zelenskyy said Monday ​morning that Ukraine used seven naval drones in Sunday's attack.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575469.jpg",
+          "publishedAt": "2026-11-23T08:36:00.000Z"
+        },
+        {
+          "title": "China is getting inflation in all the wrong places",
+          "link": "https://www.japantimes.co.jp/commentary/2026/11/23/world/china-getting-inflation/",
+          "summary": "The country has a problem with \"bad inflation\" driven by raw material costs, which could lead to deflationary forces when they subside.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/574629.jpg",
+          "publishedAt": "2026-11-23T08:30:00.000Z"
+        },
+        {
+          "title": "It’s no urban legend; it’s failed government communication",
+          "link": "https://www.japantimes.co.jp/commentary/2026/11/23/japan/japan-failed-government-communication/",
+          "summary": "Japan's government is borrowing entertainers and influencers to sell its defense buildup because it lacks a compelling national narrative of its.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/575266.jpg",
+          "publishedAt": "2026-11-23T08:10:00.000Z"
+        },
+        {
+          "title": "Cost burden keeps Fukushima’s hydrogen dream from taking off",
+          "link": "https://www.japantimes.co.jp/news/2026/11/23/japan/society/fukushima-hydrogen-station-struggle/",
+          "summary": "A private company's struggle in keeping its hydrogen station afloat highlights the challenges for realizing a future powered by the alternative fuel.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/thumbs/400x400/573468.jpg",
+          "publishedAt": "2026-11-23T07:37:00.000Z"
+        },
+        {
+          "title": "Restored main hall of Okinawa’s Shuri Castle opens to public",
+          "link": "https://www.japantimes.co.jp/news/2026/11/23/japan/shuri-castle-seiden-opens-public/",
+          "summary": "Before the public opening, an event hosted by the Okinawa Prefectural Government took place in the square.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575580.jpg",
+          "publishedAt": "2026-11-23T07:31:00.000Z"
+        },
+        {
+          "title": "49ers rout Vikings as NFL wraps up international slate in style in Mexico City",
+          "link": "https://www.japantimes.co.jp/sports/2026/11/23/more-sports/49ers-rout-vikings-mexico-city/",
+          "summary": "More than 85,000 fans filled the stadium, underlining the popularity of the sport in Mexico, which is the NFL's largest market outside the United States.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575579.jpg",
+          "publishedAt": "2026-11-23T07:27:00.000Z"
+        },
         {
           "title": "Thailand plans to ban exports of chemicals as it tackles pollution",
           "link": "https://www.japantimes.co.jp/news/2026/11/23/asia-pacific/thailand-ban-exports-chemicals-pollution/",
@@ -156,67 +196,11 @@
           "publishedAt": "2026-11-23T07:01:00.000Z"
         },
         {
-          "title": "Ambiguous handwritten ballots land mayoral races in court",
-          "link": "https://www.japantimes.co.jp/news/2026/11/23/japan/crime-legal/kamisu-mayoral-ambiguous-ballots/",
-          "summary": "Municipal and prefectural election commissions disagreed on who won in two races in Ibaraki and Tochigi prefectures.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575543.jpg",
-          "publishedAt": "2026-11-23T06:38:00.000Z"
-        },
-        {
-          "title": "Japan and Europe successfully put Mercury probes into orbit",
-          "link": "https://www.japantimes.co.jp/news/2026/11/23/japan/science-health/japan-europe-mercury-probes/",
-          "summary": "JAXA and the European Space Agency's BepiColombo mission aims to study the planet's magnetic field and atmosphere.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575509.jpg",
-          "publishedAt": "2026-11-23T06:08:00.000Z"
-        },
-        {
-          "title": "Drone strikes hit homes, U.N. building in Sudan’s capital",
-          "link": "https://www.japantimes.co.jp/news/2026/11/23/world/drone-strikes-un-building-sudan/",
-          "summary": "Explosions rang out in the area around Khartoum airport and other parts of the city from around 2:00 a.m. until approximately 4:30 a.m.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575548.jpg",
-          "publishedAt": "2026-11-23T06:07:00.000Z"
-        },
-        {
-          "title": "South Korea must confront K-pop’s ugly side",
-          "link": "https://www.japantimes.co.jp/commentary/2026/11/23/world/k-pops-ugly-side/",
-          "summary": "Existing laws protecting young entertainers' health and education lack real teeth, requiring legally binding obligations backed by penalties.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/22/thumbs/400x400/574934.jpg",
-          "publishedAt": "2026-11-23T06:06:00.000Z"
-        },
-        {
-          "title": "Emperor images, WWII memes: Trump pushes back against summit critics",
-          "link": "https://www.japantimes.co.jp/news/2026/11/23/japan/politics/trump-trilateral-japan-china-russia/",
-          "summary": "The White House has framed the trilateral meeting as necessary for \"the safety of the world,\" despite claims that it alienated allies like Japan.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575506.jpg",
-          "publishedAt": "2026-11-23T05:46:00.000Z"
-        },
-        {
-          "title": "China sets 2030 targets to boost support for older people and childcare",
-          "link": "https://www.japantimes.co.jp/news/2026/11/23/asia-pacific/politics/china-2030-elder-support-childcare/",
-          "summary": "China's population shrank for a fourth consecutive year in 2025 as its birth rate dropped to a record low.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575531.jpg",
-          "publishedAt": "2026-11-23T05:31:00.000Z"
-        },
-        {
-          "title": "Tom Jackson, former Broncos star linebacker and ESPN broadcaster, dies at 75",
-          "link": "https://www.japantimes.co.jp/sports/2026/11/23/more-sports/tom-jackson-espn-broncos-dies-tj/",
-          "summary": "ESPN announced his death on Sunday, indicating his family informed the company that he had passed away on Friday. No cause of death was released.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575532.jpg",
-          "publishedAt": "2026-11-23T05:27:00.000Z"
-        },
-        {
-          "title": "Visions of Japan overrun by humanoid robot imports inspire startups",
-          "link": "https://www.japantimes.co.jp/business/2026/11/23/tech/humanoid-japan-startups/",
-          "summary": "The country is lagging in development of bipedal machines that can perform useful tasks.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575256.jpg",
-          "publishedAt": "2026-11-23T05:18:00.000Z"
-        },
-        {
-          "title": "Ant Group bets on Simplexity to thrive in China’s humanoid race",
-          "link": "https://www.japantimes.co.jp/business/2026/11/23/tech/ant-group-simplexity-china-humanoid/",
-          "summary": "China's humanoid robotics have taken an early lead over U.S. rivals, accounting for 97% of machines shipped in the first three quarters of 2026.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575494.jpg",
-          "publishedAt": "2026-11-23T05:15:00.000Z"
+          "title": "South Korea nominates new foreign and unification ministers",
+          "link": "https://www.japantimes.co.jp/news/2026/11/23/asia-pacific/politics/south-korea-ministers-spy-chief/",
+          "summary": "The Cabinet reshuffle by President Lee Jae Myung comes amid calls to better manage the country's alliance with Washington.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/thumbs/400x400/575578.jpg",
+          "publishedAt": "2026-11-23T06:49:00.000Z"
         }
       ]
     }

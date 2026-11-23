@@ -8,7 +8,7 @@
         "homepage": "https://lenouvelliste.com",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-23T07:04:39.204Z",
+      "fetchedAt": "2026-11-23T18:50:01.244Z",
       "items": [
         {
           "title": "In Haiti, 3 Salvadorans dead, 4 others missing",
@@ -53,22 +53,20 @@
           "titleEn": "The PNH, the FRG, the Task Force, and the Salvadorans Go on the Offensive"
         },
         {
-          "title": "Two Salvadoran Soldiers Die in Haiti",
-          "link": "https://lenouvelliste.com/article/274108/two-salvadoran-soldiers-die-in-haiti",
-          "publishedAt": "2026-11-20T17:25:43.000Z",
-          "titleEn": "Two Salvadoran Soldiers Die in Haiti"
-        },
-        {
-          "title": "The Day After: When the Barricades Fall, the Real Battle Will Begin",
-          "link": "https://lenouvelliste.com/article/274102/the-day-after-when-the-barricades-fall-the-real-battle-will-begin",
-          "publishedAt": "2026-11-20T14:51:28.000Z",
-          "titleEn": "The Day After: When the Barricades Fall, the Real Battle Will Begin"
-        },
-        {
           "title": "Recruitment, Training, Equipment, and Territorial Reorganization: Mario Andrésol Updates on the FAd'H",
           "link": "https://lenouvelliste.com/article/274056/recruitment-training-equipment-and-territorial-reorganization-mario-andresol-updates-on-the-fadh",
           "publishedAt": "2026-11-20T20:01:06.000Z",
           "titleEn": "Recruitment, Training, Equipment and Territorial Reorganization: Mario Andrésol Updates on the FAd'H"
+        },
+        {
+          "title": "Hans Joseph makes the fight against corruption his ticket to the National Palace",
+          "link": "https://lenouvelliste.com/article/274080/hans-joseph-makes-the-fight-against-corruption-his-ticket-to-the-national-palace",
+          "publishedAt": "2026-11-20T19:11:01.000Z"
+        },
+        {
+          "title": "Hérold Jean François signs \"6-7-8 July 2018 Haiti / The social bomb… Jovenel Moïse president and the aftermath\"",
+          "link": "https://lenouvelliste.com/article/274097/herold-jean-francois-signs-6-7-8-july-2018-haiti-the-social-bomb-jovenel-moise-president-and-the-aftermath",
+          "publishedAt": "2026-11-20T19:34:52.000Z"
         }
       ]
     },
@@ -79,8 +77,58 @@
         "homepage": "https://www.haitilibre.com",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-23T07:04:39.374Z",
+      "fetchedAt": "2026-11-23T18:50:03.119Z",
       "items": [
+        {
+          "title": "Haïti - Actualité : Zapping...",
+          "link": "https://www.haitilibre.com/article-48961-haiti-actualite-zapping.html",
+          "summary": "Ambassade US : Alerte de sécurité - Le P.M à la base des militaires du Salvador - La Cahouane électrifiée - Réduction du coût des césariennes de 76% - Filet de sécurité pour les populations vulnérables - CCI-Sud :…",
+          "image": "https://www.haitilibre.com/images-a/p-48961.jpg",
+          "publishedAt": "2026-11-23T15:00:34.000Z",
+          "titleEn": "Haiti - News: Zapping..."
+        },
+        {
+          "title": "iciHaïti - Le SEMANAH signe deux accords au bénéfice des pêcheurs",
+          "link": "https://www.icihaiti.com/article-48960-icihaiti-le-semanah-signe-deux-accords-au-benefice-des-pecheurs.html",
+          "summary": "Dans le cadre de la Journée internationale des pêcheurs (21 novembre), le Service Maritime et de Navigation d'Haïti (SEMANAH), a signé deux protocoles d'accord importants",
+          "image": "https://www.haitilibre.com/images-a/p-48960.jpg",
+          "publishedAt": "2026-11-23T14:17:41.000Z"
+        },
+        {
+          "title": "Haïti - Politique : Haïti souhaite développer des partenariats concrets avec les Émirats Arabes Unis",
+          "link": "https://www.haitilibre.com/article-48959-haiti-politique-haiti-souhaite-developper-des-partenariats-concrets-avec-les-emirats-arabes-unis.html",
+          "summary": "Samedi 21 novembre 2026 en marge du Dialogue 2026 du Sommet mondial des gouvernements, Sandra Paulemon la Ministre de la Planification a tenu une réunion bilatérale avec Mohamed AlSharhan Directeur Général du « World…",
+          "image": "https://www.haitilibre.com/images-a/p-48959.jpg",
+          "publishedAt": "2026-11-23T14:09:34.000Z"
+        },
+        {
+          "title": "iciHaïti - Politique : Haïti réaffirme ses ambitions d'intégration touristique dans la Caraïbe",
+          "link": "https://www.icihaiti.com/article-48958-icihaiti-politique-haiti-reaffirme-ses-ambitions-d-integration-touristique-dans-la-caraibe.html",
+          "summary": "Sandra Paulemon la Ministre de la Planification Intervenant à un panel de l'Association des États de la Caraïbe a plaidé pour le dépassement d'une vision touristique fondée sur la concurrence, au profit d'une offre…",
+          "image": "https://www.haitilibre.com/images-a/p-48958.jpg",
+          "publishedAt": "2026-11-23T13:52:57.000Z"
+        },
+        {
+          "title": "Haïti - FLASH : Au moins 54 terroristes tués en 2 jours (vidéos)",
+          "link": "https://www.haitilibre.com/article-48957-haiti-flash-au-moins-54-terroristes-tues-en-2-jours-videos.html",
+          "summary": "Vendredi au moins 20 terroristes ont été tués lors d'une nouvelle opération policière à Martissant, au Sud de Port-au-Prince. Ces 20 individus abattus s'ajoutent aux 34 abattus jeudi dans la même localité",
+          "image": "https://www.haitilibre.com/images-a/p-48957.jpg",
+          "publishedAt": "2026-11-23T11:42:42.000Z"
+        },
+        {
+          "title": "iciHaïti - Série d'ouverture D1 (2026-2027) : Résultats de la 4ème journée du Championnat et classement",
+          "link": "https://www.icihaiti.com/article-48956-icihaiti-serie-d-ouverture-d1-2026-2027-resultats-de-la-4eme-journee-du-championnat-et-classement.html",
+          "summary": "La quatrième journée de la série d'ouverture de la Ligue Haïtienne de Football D1 Paryaj Lakay a offert son lot d'enseignements dimanche 22 novembre. Entre démonstrations de force, confrontations tactiques et rencontres…",
+          "image": "https://www.haitilibre.com/images-a/p-48956.jpg",
+          "publishedAt": "2026-11-23T10:54:04.000Z"
+        },
+        {
+          "title": "Haïti - Coupe du Monde U-17 Qatar 2026 : Défaite d'Haïti [4-1] face à l'Uruguay",
+          "link": "https://www.haitilibre.com/article-48955-haiti-coupe-du-monde-u-17-qatar-2026-defaite-d-haiti-[4-1]-face-a-l-uruguay.html",
+          "summary": "Dimanche 22 novembre, dans le cadre de la Coupe du monde Qatar 2026, nos Grenadiers affrontaient « la Celeste », la sélection de l'Uruguay. Malgré une ouverture du score pour Haïti à la 20', nos Grenadiers n'ont pas…",
+          "image": "https://www.haitilibre.com/images-a/p-48955.jpg",
+          "publishedAt": "2026-11-23T10:07:13.000Z"
+        },
         {
           "title": "Haïti - Actualité : Zapping...",
           "link": "https://www.haitilibre.com/article-48954-haiti-actualite-zapping.html",
@@ -107,69 +155,6 @@
           "publishedAt": "2026-11-22T13:55:39.000Z",
           "titleEn": "Haiti -  ⁇ Return to Neighborhoods Project ⁇ : MTPTC mobilizes its technical expertise in Solino",
           "summaryEn": "As part of the government's programme  ⁇  Project Back to the Neighbourhoods  ⁇ , the Ministry of Public Works has been asked to provide technical support and carry out a thorough assessment of the state of..."
-        },
-        {
-          "title": "iciHaïti - Mexique : Le CEP et l'Ambassadeur du Mexique en Haïti discutent de la mise en place d'un comité opérationnel",
-          "link": "https://www.icihaiti.com/article-48951-icihaiti-mexique-le-cep-et-l-ambassadeur-du-mexique-en-haiti-discutent-de-la-mise-en-place-d-un-comite-operationnel.html",
-          "summary": "Le Conseil Électoral Provisoire (CEP) a reçu, dans ses locaux à Pétion-ville, José de Jesús Cisneros l'Ambassadeur du Mexique en Haïti, dans le cadre du renforcement de la coopération électorale entre les deux pays",
-          "image": "https://www.haitilibre.com/images-a/p-48951.jpg",
-          "publishedAt": "2026-11-22T13:42:14.000Z",
-          "titleEn": "HereHaiti - Mexico: CEP and the Mexican Ambassador to Haiti discuss the establishment of an Operational Committee",
-          "summaryEn": "The Provisional Electoral Council (CEP) welcomed the Mexican Ambassador to Haiti, José de Jesús Cisneros, at its offices in Pétion-Ville, as part of strengthening electoral cooperation between the two countries."
-        },
-        {
-          "title": "Haïti - Formation professionnelle : Lancement de la première cohorte «Metye m se zam pam» à l'intention de 5,000 jeunes",
-          "link": "https://www.haitilibre.com/article-48950-haiti-formation-professionnelle-lancement-de-la-premiere-cohorte-metye-m-se-zam-pam-a-l-intention-de-5-000-jeunes.html",
-          "summary": "Vendredi 20 novembre, à l'hôtel Karibe Convention Center le Ministère de la Jeunesse (MJSAC) a procédé au lancement du programme « Metye m se zam pam » Dans le cadre de ce programme, une première cohorte de 5,000 jeunes…",
-          "image": "https://www.haitilibre.com/images-a/p-48950.jpg",
-          "publishedAt": "2026-11-22T13:30:57.000Z",
-          "titleEn": "Haiti - Vocational training: Launch of the first cohort  ⁇ Metye m se zam pam ⁇  for 5,000 young people",
-          "summaryEn": "On Friday 20 November, at the Karibe Convention Center, the Ministry of Youth (MJSAC) launched the programme  ⁇  Metye m se zam pam  ⁇  As part of this programme, a first cohort of 5,000 young people..."
-        },
-        {
-          "title": "iciHaïti - Qualif. Coupe du Monde Brésil 2027 : «J-6» Haïti vs Mexique, Grenadières sénior convoquées (liste)",
-          "link": "https://www.icihaiti.com/article-48949-icihaiti-qualif-coupe-du-monde-bresil-2027-j-6-haiti-vs-mexique-grenadieres-senior-convoquees-liste.html",
-          "summary": "Dans le cadre des qualifications pour la Coupe du monde 2027, au Brésil, nos Grenadières senior se préparent à affronter le Mexique le 28 novembre 2026. Un match crucial pour les deux pays qui rêvent de disputer la…",
-          "image": "https://www.haitilibre.com/images-a/p-48949.jpg",
-          "publishedAt": "2026-11-22T13:19:34.000Z",
-          "titleEn": "This is Haiti - Qualif. World Cup Brazil 2027:  ⁇ J-6 ⁇  Haiti vs Mexico, Senior Grenadiers summoned (list)",
-          "summaryEn": "As part of qualifying for the 2027 World Cup in Brazil, our senior Grenadiers are preparing to face Mexico on November 28, 2026. It's a crucial match for the two countries who dream of playing the..."
-        },
-        {
-          "title": "Haïti - Économie : Le Ministre Monazard en France pour stimuler les partenariats et les investissements en Haïti",
-          "link": "https://www.haitilibre.com/article-48948-haiti-economie-le-ministre-monazard-en-france-pour-stimuler-les-partenariats-et-les-investissements-en-haiti.html",
-          "summary": "James Monazard le Ministre du Commerce et de l'Industrie effectue une mission officielle en France, du 22 au 30 novembre 2026 afin de développer de nouveaux partenariats et promouvoir les opportunités d'investissement en…",
-          "image": "https://www.haitilibre.com/images-a/p-48948.jpg",
-          "publishedAt": "2026-11-22T13:11:17.000Z",
-          "titleEn": "Haiti - Economy: Minister Monazard in France to stimulate partnerships and investment in Haiti",
-          "summaryEn": "James Monazard, the Minister of Trade and Industry, is on an official mission to France from 22 to 30 November 2026 to develop new partnerships and promote investment opportunities in..."
-        },
-        {
-          "title": "Haïti - Actualité : Zapping...",
-          "link": "https://www.haitilibre.com/article-48947-haiti-actualite-zapping.html",
-          "summary": "Hécatombe chez les terroristes - Avis de bourses d'études - Salvador : Condoléances - Vandalisme étudiant - Principales avancées de la DINEPA en Haïti - Festival de théâtre et d'art vivant Quatre Chemins...",
-          "image": "https://www.haitilibre.com/images-a/p-48947.jpg",
-          "publishedAt": "2026-11-21T15:13:59.000Z",
-          "titleEn": "Haiti - News: Zapping...",
-          "summaryEn": "Hecatombe among terrorists - Notice of scholarships - Salvador: Condolences - Student vandalism - Key developments of DINEPA in Haiti - Festival of Theatre and Living Art Four Ways..."
-        },
-        {
-          "title": "iciHaïti - FAd'H : 6 militaires ont reçu des distinctions honorifiques des mains du P.M.",
-          "link": "https://www.icihaiti.com/article-48946-icihaiti-fad-h-6-militaires-ont-recu-des-distinctions-honorifiques-des-mains-du-pm.html",
-          "summary": "Dans le cadre de la commémoration du 223e anniversaire de la bataille de Vertières, 6 militaires des Forces Armées d'Haïti (FAd'H) ont reçu des distinctions honorifiques des mains du Premier Ministre Fils-Aimé",
-          "image": "https://www.haitilibre.com/images-a/p-48946.jpg",
-          "publishedAt": "2026-11-21T14:34:28.000Z",
-          "titleEn": "HereHaiti - FAD'H: 6 military personnel have been awarded honorary medals from the hands of the PM",
-          "summaryEn": "As part of the commemoration of the 223rd anniversary of the Battle of Vertières, 6 soldiers of the Armed Forces of Haiti (FAd'H) received honourary awards from the hands of Prime Minister Fils-Aimé"
-        },
-        {
-          "title": "Haïti - Torbeck : Pose de la première pierre de nouveaux ouvrages hydro-agricoles",
-          "link": "https://www.haitilibre.com/article-48945-haiti-torbeck-pose-de-la-premiere-pierre-de-nouveaux-ouvrages-hydro-agricoles.html",
-          "summary": "Vendredi 20 novembre 2026, l'Agronome Marcelin Aubourg, Ministre de l'Agriculture a procédé au lancement officiel des travaux de construction et de réhabilitation des périmètres irrigués de Perigny et de Charlette...",
-          "image": "https://www.haitilibre.com/images-a/p-48945.jpg",
-          "publishedAt": "2026-11-21T14:19:04.000Z",
-          "titleEn": "Haiti - Torbeck: laying the first stone of new hydro-agricultural works",
-          "summaryEn": "On Friday 20 November 2026, Agronomist Marcelin Aubourg, Minister of Agriculture, officially launched the construction and rehabilitation work of the irrigated areas of Perigny and Charlette..."
         }
       ]
     },
@@ -180,8 +165,26 @@
         "homepage": "https://www.juno7.ht",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-23T07:04:39.377Z",
+      "fetchedAt": "2026-11-23T18:50:01.854Z",
       "items": [
+        {
+          "title": "Dominique Dupuy dépose ses pièces de candidature à la présidence",
+          "link": "https://www.juno7.ht/dominique-dupuy-depot-candidature-presidentielle/",
+          "summary": "La candidate du Parti Vizyon D Ayiti (PVD) s’est rendue au BED de l’Ouest 1 ce lundi 23 novembre 2026. Elle défend le programme SEJES, axé sur la sécurité, l’éducation, la justice, l’économie et la santé. Dominique Dupuy…",
+          "publishedAt": "2026-11-23T18:30:04.000Z"
+        },
+        {
+          "title": "Relance économique : Haïti recherche un appui auprès des Émirats arabes unis",
+          "link": "https://www.juno7.ht/haiti-emirats-financement-pnsrest-relance-economique/",
+          "summary": "En marge du Dialogue 2026 du Sommet mondial des gouvernements pour l’Amérique latine et les Caraïbes, Sandra Paulemon a présenté le PNSREST au directeur général du WGS, Mohamed Alsharhan. Celui-ci a exprimé son intention…",
+          "publishedAt": "2026-11-23T14:27:08.000Z"
+        },
+        {
+          "title": "Haïti : Etzer Emile dépose sa candidature à la présidentielle",
+          "link": "https://www.juno7.ht/etzer-emile-depot-candidature-presidentielle/",
+          "summary": "Le regroupement Solèy présente également 99 candidats aux législatives, dont 18 au Sénat et 81 à la Chambre des députés. Etzer Emile, candidat à la présidence d’Haïti sous la bannière du regroupement politique Solèy, a…",
+          "publishedAt": "2026-11-22T23:47:00.000Z"
+        },
         {
           "title": "Haïti : un concours national de création de sapins de Noël en matériaux recyclés lancé pour les communes",
           "link": "https://www.juno7.ht/defi-abdenwel-kominal-2026-sapins-noel-recycles/",
@@ -237,30 +240,6 @@
           "publishedAt": "2026-11-21T13:04:03.000Z",
           "titleEn": "Haiti advocates better tourism and economic integration in the Caribbean",
           "summaryEn": "The Minister for Planning and External Cooperation, Sandra Paulemon, presented three proposals to strengthen regional cooperation and develop multi-destination tourism at the 2026 Dialogue of..."
-        },
-        {
-          "title": "Haïti : le journaliste et ancien secrétaire d’État à la Communication Eddy Jackson Alexis est décédé",
-          "link": "https://www.juno7.ht/deces-eddy-jackson-alexis-journaliste-haiti/",
-          "summary": "Eddy Jackson Alexis est mort dans la soirée du vendredi 20 novembre 2026. Ancien journaliste de Radio Quisqueya, il avait occupé le poste de secrétaire d’État à la Communication sous la présidence de Jovenel Moïse. La…",
-          "publishedAt": "2026-11-21T12:28:27.000Z",
-          "titleEn": "Haiti: journalist and former communications secretary Eddy Jackson Alexis has died",
-          "summaryEn": "Eddy Jackson Alexis died on the evening of Friday, November 20, 2026. Former journalist for Radio Quisqueya, he was Secretary of State for Communication under the presidency of Jovenel Moïse. The..."
-        },
-        {
-          "title": "Martissant et Village-de-Dieu : les opérations contre les gangs se poursuivent avec des drones explosifs",
-          "link": "https://www.juno7.ht/martissant-village-de-dieu-operations-drones-20-novembre/",
-          "summary": "La PNH et la Task Force poursuivent leurs interventions ce vendredi 20 novembre dans la région métropolitaine. L’utilisation de drones explosifs est signalée, tandis que la circulation reste interrompue à Martissant. Les…",
-          "publishedAt": "2026-11-20T14:12:10.000Z",
-          "titleEn": "Martissant and Village-de-Dieu: operations against gangs continue with explosive drones",
-          "summaryEn": "The National Health Service and the Task Force continue their operations in the metropolitan area on Friday 20 November. The use of explosive drones is reported, while traffic remains suspended in Martissant. The..."
-        },
-        {
-          "title": "Haïti – Taux de référence BRH : vendredi 20 novembre 2026",
-          "link": "https://www.juno7.ht/haiti-taux-de-reference-brh-vendredi-20-novembre-2026/",
-          "summary": "La Banque de la République d’Haïti (BRH) calcule le taux de référence du jour à 130,82 gourdes pour un dollar américain (USD). La BRH établit ce taux à partir des transactions et opérations d’achat de devises…",
-          "publishedAt": "2026-11-20T11:41:30.000Z",
-          "titleEn": "Haiti  ⁇  BRH reference rate: Friday 20 November 2026",
-          "summaryEn": "The Bank of the Republic of Haiti (BRH) calculates the reference rate for the day at 130.82 guards per US dollar (USD). The HRC establishes this rate on the basis of foreign exchange transactions and purchases."
         }
       ]
     }

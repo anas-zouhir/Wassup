@@ -8,87 +8,67 @@
         "homepage": "https://www.tagesschau.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-23T07:04:23.653Z",
+      "fetchedAt": "2026-11-23T18:49:42.232Z",
       "items": [
         {
-          "title": "Neue Warnstreiks in Metall- und Elektroindustrie angelaufen",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html",
-          "summary": "In der Metall- und Elektroindustrie in Norddeutschland läuft seit der Nacht der nächste Warnstreik. Vielerorts sind die Tarifverhandlungen festgefahren. Die Gewerkschaft IG Metall fordert fünf Prozent mehr Gehalt.",
-          "publishedAt": "2026-11-23T06:48:24.000Z",
-          "titleEn": "New warning strikes in the metal and electrical industries",
-          "summaryEn": "In the metal and electrical industry in northern Germany, the next warning strike has been going on since night. In many places the tariff negotiations have been closed. The IG Metall union is demanding a five percent pay rise."
+          "title": "Angriffe auf russische Schiffe: \"Das kann brandgefährlich für uns alle werden\"",
+          "link": "https://www.tagesschau.de/ukraine-angriffe-ostsee-libyen-100.html",
+          "summary": "Die Angriffe auf russische Schiffe sind für die Ukraine ein Erfolg, sagt der Sicherheitsexperte Joachim Weber. Aber sie stellten auch eine Eskalation dar, die Russland zu Gegenmaßnahmen provozieren könnte. Ein Kalkül von…",
+          "publishedAt": "2026-11-23T17:59:22.000Z"
         },
         {
-          "title": "Marktbericht: DAX-Ausverkauf wohl gestoppt",
+          "title": "Nachfolge von Hubert Aiwanger: Freie Wähler stellen sich breiter auf",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-freie-waehler-100.html",
+          "summary": "Hubert Aiwanger war die zentrale Führungsfigur der Freien Wähler: Landes- und Bundeschef, bayerischer Wirtschaftsminister und Vize-Ministerpräsident. Nach seinem Tod verteilt die Partei die Posten auf mehrere Schultern.…",
+          "publishedAt": "2026-11-23T17:47:10.000Z"
+        },
+        {
+          "title": "Sanktionspaket: Keine Athleten mehr unter russischer Flagge",
+          "link": "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html",
+          "summary": "Russische Sportlerinnen und Sportler sollen bei europäischen Wettkämpfen nicht mehr für ihr Land antreten dürfen - das hat die EU-Kommission vorgeschlagen. Weitere Sanktionen soll es in der Wirtschaft und im…",
+          "publishedAt": "2026-11-23T17:23:33.000Z"
+        },
+        {
+          "title": "Marktbericht: Huang-Rückkehr lässt Aktienkurse steigen",
           "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
-          "summary": "Nach einer extrem schwachen Vorwoche dürfte der DAX heute einen Erholungskurs fahren. Die Fragen rund um das Thema KI sind zwar nicht gelöst, aber die niedrigeren Kurse locken Schnäppchenjäger in den Markt.",
-          "publishedAt": "2026-11-23T06:36:17.000Z",
-          "titleEn": "Market report: DAX sales seem to have stopped",
-          "summaryEn": "After an extremely weak week, the DAX is scheduled to run a recess course today. While the issues surrounding AI remain unresolved, lower prices attract bargains."
+          "summary": "Der DAX erholt sich von seinem jüngsten Kursrutsch zunächst nur zaghaft. Doch dann sorgt die Nachricht von der Rückkehr des Nvidia-Chefs für Kurssprünge bei KI-Werten und an den Börsen weltweit.",
+          "publishedAt": "2026-11-23T17:07:35.000Z"
         },
         {
-          "title": "Deutschland auf großflächigen Satelliten-Ausfall nicht vorbereitet",
-          "link": "https://www.tagesschau.de/investigativ/ndr-wdr/satelliten-ausfall-100.html",
-          "summary": "Wenn im Weltraum großflächig Satelliten ausfielen, hätte das einschneidende Folgen auf der Erde - und dennoch gibt es für ein solches Szenario nach Informationen von WDR, NDR und SZ derzeit noch keinen Krisenplan.",
-          "publishedAt": "2026-11-23T05:00:22.000Z",
-          "titleEn": "Germany not prepared for large-scale satellite failure",
-          "summaryEn": "If large-scale satellites were to crash into space, this would have devastating consequences on Earth - and yet, according to WDR, NDR and SZ, there is currently no crisis plan for such a scenario."
+          "title": "NATO-Tagung: Warnungen an Russland - \"werden uns verteidigen\"",
+          "link": "https://www.tagesschau.de/ausland/europa/merz-rutte-nato-104.html",
+          "summary": "In Berlin endet die NATO-Jahrestagung mit einer deutlichen Warnung an Russland: Man sei bereit, jeden Fuß des NATO-Gebiets zu verteidigen. Auch zu den Berichten über russische Pläne von Atomwaffen im Weltraum äußerte…",
+          "publishedAt": "2026-11-23T16:57:55.000Z"
         },
         {
-          "title": "Geheimdienste warnen: Russland soll Atomwaffe im Weltraum vorbereiten",
-          "link": "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html",
-          "summary": "Westliche Geheimdienste gehen nach Recherchen von WDR, NDR und SZ davon aus, dass Russland noch dieses Jahr einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen will. Die Bundeswehr schlägt intern bereits…",
-          "publishedAt": "2026-11-23T05:00:06.000Z",
-          "titleEn": "Secret services warn Russia to prepare nuclear weapons in space",
-          "summaryEn": "Western intelligence agencies, based on research by WDR, NDR and SZ, assume that Russia will launch a satellite with a nuclear warhead this year. The Bundeswehr is already attacking internally..."
+          "title": "OBI und Toom wollen fusionieren",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/obi-toom-fusion-100.html",
+          "summary": "Die Baumarktketten OBI und Toom wollen sich zusammenschließen und ihre mehr als 600 Märkte unter einem Dach vereinen. Die Marke Toom soll wegfallen. Das Bundeskartellamt muss der Fusion noch zustimmen.",
+          "publishedAt": "2026-11-23T15:09:32.000Z"
         },
         {
-          "title": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
-          "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
-          "summary": "Das russische Militär geht weiter unvermindert gegen die Zivilbevölkerung in der Ukraine vor. Mindestens zehn Menschen wurden getötet, als in der Nacht zu Sonntag ein Wohnhaus in der Region Kiew angegriffen wurde.",
-          "publishedAt": "2026-11-23T04:43:07.000Z",
-          "titleEn": "War against Ukraine: dead after attack on multi-family home",
-          "summaryEn": "The Russian military is continuing its unabated action against the civilian population in Ukraine. At least 10 people were killed when a residential building in the Kiev region was attacked on Sunday night."
+          "title": "KI-Pioniere streiten über die Risiken",
+          "link": "https://www.tagesschau.de/wissen/ki-letzte-erfindung-der-menschheit-100.html",
+          "summary": "Wie groß sind die Gefahren Künstlicher Intelligenz? Eine neue ARD-Dokumentation zeigt, wie gegensätzlich die Positionen von KI-Experten sind - auch bei Wissenschaftlern, die der Technologie den Weg bereitet haben. Von…",
+          "publishedAt": "2026-11-23T14:42:41.000Z"
         },
         {
-          "title": "US-Repräsentantenhaus: Demokraten so stark wie zuletzt 1992",
-          "link": "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html",
-          "summary": "Die Demokraten haben ihre Mehrheit im US-Repräsentantenhaus weiter ausgebaut. Ab Januar stellen sie dort mindestens 258 Abgeordnete - zuletzt gelang ihnen dies vor mehr als 30 Jahren zu Zeiten von Bill Clinton.",
-          "publishedAt": "2026-11-23T00:55:05.000Z",
-          "titleEn": "US House of Representatives: Democrats as strong as last 1992",
-          "summaryEn": "The Democrats have continued to expand their majority in the US House of Representatives. As of January, they have at least 258 members - the last time they did so was more than 30 years ago under Bill Clinton."
+          "title": "Istanbuler Polizei sucht nach streunender Löwin",
+          "link": "https://www.tagesschau.de/ausland/europa/loewe-istanbul-100.html",
+          "summary": "Ausnahmezustand in Istanbul: Eine Löwin streift im Norden der türkischen Metropole umher, Anwohner sollen in ihren Häusern bleiben. Die Polizei hat das Tier lokalisiert, doch woher kommt es?",
+          "publishedAt": "2026-11-23T14:14:38.000Z"
         },
         {
-          "title": "Buhrufe und Pfiffe gegen BVB-Boss Cramer wegen Fall Nmecha",
-          "link": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
-          "summary": "Der religiös motivierte Kronen-Jubel von BVB-Fußballer Nmecha hat für Diskussionen gesorgt. Bei der Mitgliederversammlung des Vereins äußerte sich Geschäftsführer Cramer nur indirekt. Nmecha sei ein \"tadelloser Mensch\".…",
-          "publishedAt": "2026-11-22T19:58:18.000Z",
-          "titleEn": "Calls and whistles against BVB boss Cramer for Nmecha",
-          "summaryEn": "The religiously motivated crown jubilee of BVB footballer Nmecha has sparked discussion. At the meeting of the Association's members, Director-General Cramer made only indirect comments. Nmecha is a \"deadless man\"..."
+          "title": "Nvidia setzt Jensen Huang wieder als Chef ein",
+          "link": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
+          "summary": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Tagen wegen eines Spionageskandals zurückgetreten.",
+          "publishedAt": "2026-11-23T15:18:29.000Z"
         },
         {
-          "title": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
-          "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
-          "summary": "Am Samstag war der russische Frachter \"Sparta II\" in der Ostsee von einer Drohne getroffen worden und in Brand geraten. Laut finnischem Grenzschutz hat das Schiff Schlagseite, kann aber in russische Gewässer geschleppt…",
-          "publishedAt": "2026-11-22T19:53:03.000Z",
-          "titleEn": "After a drone strike, Sparta II is being towed into Russian waters",
-          "summaryEn": "On Saturday, the Russian freighter Sparta II was hit by a drone in the Baltic Sea and set on fire. According to the Finnish Border Patrol, the vessel has a run-off, but can be towed into Russian waters..."
-        },
-        {
-          "title": "TK-Chef Baas: Mehr Geld schafft keine Arzttermine",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
-          "summary": "Schneller zum Facharzt gegen Bezahlung? Die Einschätzung von Kassenärzte-Chef Gassen hat Kritik ausgelöst. Mehr Geld löse das Problem nicht, sagt TK-Chef Baas im Bericht aus Berlin - und fordert stattdessen ein…",
-          "publishedAt": "2026-11-22T19:24:22.000Z",
-          "titleEn": "TK-chef Baas: More money does not create doctor appointments",
-          "summaryEn": "Faster to the doctor for payment? The assessment of chief medical examiner Gassen has drawn criticism. More money won't solve the problem, says TK chief Baas in the report from Berlin and calls instead for a..."
-        },
-        {
-          "title": "Explosion auf russischem Schiff in Libyen - Behörden vermuten Drohnenangriff",
-          "link": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
-          "summary": "In einem Hafen der ostlibyschen Stadt Bengasi hat es eine Explosion auf einem russischen Kriegsschiff gegeben. Die Behörden gehen von einem Angriff mit Drohnen aus. Berichten zufolge wird die Ukraine verantwortlich…",
-          "publishedAt": "2026-11-23T00:51:02.000Z",
-          "titleEn": "Explosion on Russian ship in Libya - authorities suspect drone attack",
-          "summaryEn": "In a port in the eastern Libyan city of Benghazi, there was an explosion on a Russian warship. The authorities are assuming a drone strike. According to reports, Ukraine is responsible for..."
+          "title": "Russisches Kriegsschiff versenkt: \"Für Russland ist Libyen eine Art Rückzugsort\"",
+          "link": "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html",
+          "summary": "Die Ukraine hat ein russisches Kriegsschiff in Libyen versenkt. Damit ist in dem Krieg zum ersten Mal ein Hafen im Mittelmeer betroffen. In Libyen wächst die Sorge, in den Konflikt hineingezogen zu werden. Von M.…",
+          "publishedAt": "2026-11-23T13:34:43.000Z"
         }
       ]
     },
@@ -99,97 +79,77 @@
         "homepage": "https://www.spiegel.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-23T07:04:22.944Z",
+      "fetchedAt": "2026-11-23T18:49:42.285Z",
       "items": [
         {
-          "title": "Russland: Moskau soll laut Medienberichten Atomwaffe im Weltraum vorbereiten",
-          "link": "https://www.spiegel.de/ausland/russland-moskau-soll-laut-medienberichten-atomwaffe-im-weltraum-vorbereiten-a-10573e3d-4a7d-4f77-8b22-6af9dbabf94c#ref=rss",
-          "summary": "Westliche Geheimdienste gehen offenbar davon aus, dass Russland zeitnah einen Atomsprengkopf ins All bringen könnte. Das melden WDR, NDR und »Süddeutsche Zeitung«. Moskau weist die Berichte zurück.",
-          "image": "https://cdn.prod.www.spiegel.de/images/4acaa439-4f26-450b-82be-1653195fb057_w520_r2.08_fpx35.79_fpy49.99.jpg",
-          "publishedAt": "2026-11-23T06:52:00.000Z",
-          "titleEn": "Russia: Moscow to prepare nuclear weapons in space, media reports",
-          "summaryEn": "Western intelligence apparently expects Russia to launch an atomic warhead soon. This is reported by WDR, NDR and the Süddeutsche Zeitung. Moscow rejects the reports."
+          "title": "Jamal Musiala: Experte widerspricht Hoeneß und Rummenigge im Gehaltsstreit",
+          "link": "https://www.spiegel.de/sport/fussball/jamal-musiala-experte-widerspricht-hoeness-und-rummenigge-im-gehaltsstreit-a-1dbe4b48-7717-4e39-aaf2-2eeb8d3a8633#ref=rss",
+          "summary": "Der an Absencen leidende Jamal Musiala soll auf Gehalt verzichten. Das fordern Uli Hoeneß und Karl-Heinz Rummenigge. Im SPIEGEL widerspricht ein Experte der Darstellung der Bayern-Funktionäre. Was ist deren Ziel?",
+          "image": "https://cdn.prod.www.spiegel.de/images/3b4f2c01-8f6a-44e1-82a0-67b8c8457c3f_w520_r2.08_fpx51_fpy40.67.jpg",
+          "publishedAt": "2026-11-23T18:44:00.000Z"
         },
         {
-          "title": "Siemens-Chef Busch bescheinigt deutscher Industrie großes KI-Talent",
-          "link": "https://www.spiegel.de/wirtschaft/siemens-chef-busch-bescheinigt-deutscher-industrie-grosses-ki-talent-a-44d2b992-08e0-4848-a205-3f4743eb0244#ref=rss",
-          "summary": "Siemens-Chef Roland Busch sieht die deutsche Industrie im Rennen um die besten KI-Modelle gut gerüstet. Der Konkurrenzkampf mit China könnte speziell die US-Konzerne aber noch eine Menge Geld kosten.",
-          "image": "https://cdn.prod.www.spiegel.de/images/9ef73de2-c81f-4e92-80db-2d1c19a11ed9_w520_r2.08_fpx36.66_fpy49.jpg",
-          "publishedAt": "2026-11-23T06:43:00.000Z",
-          "titleEn": "Siemens CEO Busch certifies German industry of great AI talent",
-          "summaryEn": "Roland Busch, CEO of Siemens, sees the German industry as well equipped in the race for the best AI models. But the competition with China could still cost US companies a lot of money."
+          "title": "BYD: Aktie fällt nach EU-Verkaufsverbot für Ti7-SUV wegen Defender-Ähnlichkeit",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/byd-aktie-faellt-nach-eu-verkaufsverbot-fuer-ti7-suv-wegen-defender-aehnlichkeit-a-d3dce60e-82ac-4c8f-b443-41e969718b32#ref=rss",
+          "summary": "BYD hat ein Verkaufsverbot für seinen SUV Ti7 in der EU erhalten. Das Modell sehe dem Land Rover Defender zu ähnlich, so das Gericht. Die Aktie des chinesischen Autobauers fällt, er kündigt rechtlichen Gegenwehr an.",
+          "image": "https://cdn.prod.www.spiegel.de/images/8551481b-6947-4156-9829-b7426c23a5ee_w520_r2.08_fpx67.99_fpy50.jpg",
+          "publishedAt": "2026-11-23T18:21:00.000Z"
         },
         {
-          "title": "Teenager und Ihre Handys: Ihr Kind hängt nur noch am Handy? 6 Tipps, ohne Verbote",
-          "link": "https://www.spiegel.de/psychologie/teenager-und-ihre-handys-ihr-kind-haengt-nur-noch-am-handy-6-tipps-ohne-verbote-a-d9bf6406-8227-4dec-b3bc-681108e845cc#ref=rss",
-          "summary": "Daddeln, scrollen, posten: Medienpädagogin Kristin Langer sagt, auf welche Warnsignale Eltern bei ihren Kindern achten sollten. Und wie eine Familienchallenge gegen Bildschirmsucht hilft.",
-          "image": "https://cdn.prod.www.spiegel.de/images/f9020d2a-e4aa-4164-a078-35ec72191422_w520_r2.08_fpx47_fpy42.jpg",
-          "publishedAt": "2026-11-23T06:25:00.000Z",
-          "titleEn": "Teenagers and their cell phones: Your child is just hanging on to his cell phone? 6 Tips without Prohibitions",
-          "summaryEn": "Daddling, scrolling, posting: Media educator Kristin Langer says what warning signs parents should watch out for in their children. And how a family challenge helps against screen addiction."
+          "title": "Femizide sollen als Mord statt als Totschlag gelten",
+          "link": "https://www.spiegel.de/panorama/justiz/femizide-sollen-als-mord-statt-als-totschlag-gelten-a-1844be5a-94c4-4dc9-a684-9cd2e2d32106#ref=rss",
+          "summary": "Die Tötung von Frauen durch ihre Partner oder Ex-Partner zieht bisher nicht durchgängig lebenslange Freiheitsstrafen nach sich. Bundesjustizministerin Hubig kämpft für eine »Klarstellung mit Signalwirkung«.",
+          "image": "https://cdn.prod.www.spiegel.de/images/1be1fd62-9a62-4b94-8f12-56d66d58b899_w520_r2.08_fpx66.67_fpy50.jpg",
+          "publishedAt": "2026-11-23T17:52:00.000Z"
         },
         {
-          "title": "Polen: Alle abgestürzten Objekte als russische Marschflugkörper identifiziert",
-          "link": "https://www.spiegel.de/ausland/polen-alle-abgestuerzten-objekte-als-russische-marschflugkoerper-identifiziert-a-1a40ce3b-9f31-45f1-a0e8-1657f57dbd22#ref=rss",
-          "summary": "Im Südosten Polens stürzten vergangene Woche drei militärische Flugobjekte ab. Den polnischen Behörden zufolge handelt es sich dabei in allen Fällen um Marschflugkörper aus Russland.",
-          "image": "https://cdn.prod.www.spiegel.de/images/d5612979-11b5-41aa-85c8-68e5af9cdf57_w520_r2.08_fpx66.21_fpy50.jpg",
-          "publishedAt": "2026-11-23T06:09:00.000Z",
-          "titleEn": "Poland: All downed objects identified as Russian cruise missiles",
-          "summaryEn": "In southeastern Poland, three military aircraft crashed last week. According to the Polish authorities, in all cases these are Russian cruise missiles."
+          "title": "Formel-1-Fahrer Charles Leclerc: Nur eine kleine Berührung - Haltungsnote",
+          "link": "https://www.spiegel.de/sport/formel-1-fahrer-charles-leclerc-nur-eine-kleine-beruehrung-haltungsnote-a-562da4a9-4606-4183-befe-f4b6cd03d72b#ref=rss",
+          "summary": "Zwei Fahrer im selben Rennstall sind oft eher erbitterte Rivalen als Teamkollegen. Charles Leclerc wollte bei Ferrari nicht die Nummer zwei hinter Superstar Lewis Hamilton sein – und hat nun womöglich das Gegenteil…",
+          "image": "https://cdn.prod.www.spiegel.de/images/b656fcd9-a2da-45f6-b6b5-380dc9cf3717_w520_r2.08_fpx56_fpy51.jpg",
+          "publishedAt": "2026-11-23T17:51:00.000Z"
         },
         {
-          "title": "Audi A2 im Test: Sparn, sparn, sparn auf der Autobahn",
-          "link": "https://www.spiegel.de/mobilitaet/auto/audi-a2-im-test-sparn-sparn-sparn-auf-der-autobahn-a-e58450ca-8527-4500-8dae-b1ac908841e8#ref=rss",
-          "summary": "In den USA setzt Audi auf fette SUV und die Nähe zu Präsident Trump, zu Hause eher auf Effizienz. Das Sparmobil A2 erinnert stark an seinen ikonischen Vorgänger von 2000. Am meisten Spaß bringt es, den Fuß vom Gas zu…",
-          "image": "https://cdn.prod.www.spiegel.de/images/e5bf3812-d82b-4133-93ff-e08003ef4f2a_w520_r2.08_fpx36.55_fpy50.87.jpg",
-          "publishedAt": "2026-11-23T06:02:00.000Z",
-          "titleEn": "Audi A2 in test: save, save, save on the highway",
-          "summaryEn": "In the U.S., Audi relies on fat SUVs and being close to President Trump, more on efficiency at home. The A2 is reminiscent of its iconic 2000 predecessor. It's the most fun I've ever had, taking my foot off the gas..."
+          "title": "Donald Trump will Nvidia-Verwaltungsrat von Comeback von Jensen Huang überzeugt haben",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-will-nvidia-verwaltungsrat-von-comeback-von-jensen-huang-ueberzeugt-haben-a-dcc9fc56-d6ab-49fb-8f7f-c5305ca1d498#ref=rss",
+          "summary": "Jensen Huang ist zurück an der Spitze des Chipkonzerns Nvidia. Dafür sieht sich vor allem ein Mann als entscheidenden Faktor: US-Präsident Donald Trump. Doch die Aktion sorgt in den USA auch für heftige Kritik.",
+          "image": "https://cdn.prod.www.spiegel.de/images/59bb61ec-f923-401d-b8e1-a41ab01ac7eb_w520_r2.08_fpx39.31_fpy44.99.jpg",
+          "publishedAt": "2026-11-23T17:40:00.000Z"
         },
         {
-          "title": "Verschärfung der Regeln für Altersteilzeit könnte Milliarden einbringen",
-          "link": "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7#ref=rss",
-          "summary": "Die Rentenkommission der Bundesregierung spricht sich für strengere Regelungen bei der Altersteilzeit aus. Experten des DIW haben jetzt ausgerechnet, was ein solcher Schritt für Staats- und Rentenkassen bringen könnte.",
-          "image": "https://cdn.prod.www.spiegel.de/images/5bfc9561-0608-4b84-8e9a-143ef1c9b175_w520_r2.08_fpx48.57_fpy44.99.jpg",
-          "publishedAt": "2026-11-23T05:58:00.000Z",
-          "titleEn": "Strengthening the rules on age-related leave could bring in billions",
-          "summaryEn": "The Federal Government's Pension Commission advocates stricter age-related regulations. DIW experts have now calculated what such a move could bring to state and pension funds."
+          "title": "Ratten lassen sich manipulieren, zeigt Studie aus Sydney",
+          "link": "https://www.spiegel.de/wissenschaft/natur/ratten-lassen-sich-manipulieren-zeigt-studie-aus-sydney-a-560761cb-2d35-42c8-be37-75f1b7c2b6eb#ref=rss",
+          "summary": "Ähnlich wie Menschen lassen sich offenbar auch Ratten bei der Entscheidungsfindung beeinflussen, zeigt eine neue Studie aus Australien. Das könnte helfen, die Tiere in Fallen zu locken.",
+          "image": "https://cdn.prod.www.spiegel.de/images/e2e5778b-7e79-43aa-bdbf-a0940e70713a_w520_r2.08_fpx29.23_fpy55.jpg",
+          "publishedAt": "2026-11-23T17:33:00.000Z"
         },
         {
-          "title": "Israel: Gadi Eisenkot und Netanyahus Partei verhandeln erneut ohne Ergebnis",
-          "link": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-und-netanyahus-partei-verhandeln-erneut-ohne-ergebnis-a-10b7b368-76d9-449a-8dc7-e6f0ecd1048e#ref=rss",
-          "summary": "Der mit Israels Regierungsbildung beauftragte Gadi Eisenkot muss in den nächsten Wochen eine Mehrheit in der Knesset hinter sich vereinen. Nun trennten sich seine Partei und Netanyahus Likud erneut ohne Annäherung.",
-          "image": "https://cdn.prod.www.spiegel.de/images/4be29114-6dd8-4f3d-bfd4-fed7c80685a8_w520_r2.08_fpx38.64_fpy49.99.jpg",
-          "publishedAt": "2026-11-23T05:52:00.000Z",
-          "titleEn": "Israel: Gadi Eisenkot and Netanyahu's party negotiate again without result",
-          "summaryEn": "Gadi Eisenkot, who is responsible for the formation of Israel's government, must secure a majority in the Knesset in the coming weeks. Now his party and Netanyahu's Likud split up again without any approach."
+          "title": "Europäische Union will russische Flagge bei Sportveranstaltungen verbieten",
+          "link": "https://www.spiegel.de/ausland/europaeische-union-will-russische-flagge-bei-sportveranstaltungen-verbieten-a-76a16431-7913-4379-9c4d-dbc8ab5bc999#ref=rss",
+          "summary": "Brüssel will Staatssymbole Russlands von den Spielfeldern verbannen. Das würde Verbänden im Angesicht von Boykottdrohungen aus Mitgliedstaaten die Entscheidung abnehmen. Der Vorstoß ist Teil des neuen Sanktionspakets.",
+          "image": "https://cdn.prod.www.spiegel.de/images/2105621b-ff56-49dc-9df5-753061c41425_w520_r2.08_fpx65.32_fpy49.99.jpg",
+          "publishedAt": "2026-11-23T17:02:00.000Z"
         },
         {
-          "title": "Wetter in Deutschland am Montag: Vorsicht vor glatten Straßen und Schnee",
-          "link": "https://www.spiegel.de/panorama/wetter-in-deutschland-am-montag-vorsicht-vor-glatten-strassen-und-schnee-a-044db7e3-ca32-4e87-a8b9-986780ca4ee5#ref=rss",
-          "summary": "Straßen, Fuß- und Radwege können laut Deutschem Wetterdienst vielerorts glatt sein. Auch Schnee in tieferen Lagen möglich, genauso wie Temperaturen bis zu minus fünf Grad. Der Winterdienst steht bereit.",
-          "image": "https://cdn.prod.www.spiegel.de/images/8b4d8129-c654-43e8-8caa-5c3ba0c10390_w520_r2.08_fpx29.21_fpy44.99.jpg",
-          "publishedAt": "2026-11-23T05:31:00.000Z",
-          "titleEn": "Weather in Germany on Monday: Beware of slippery roads and snow",
-          "summaryEn": "According to the German Meteorological Service, roads, footpaths and cycle paths can be smooth in many places. It is also possible to snow at lower altitudes, as well as at temperatures up to minus five degrees. Winter service is ready."
+          "title": "News des Tages: Nuklearwaffen im All, Jensen Huang ist wieder Nvdia-Chef, Markus Söder stichelt",
+          "link": "https://www.spiegel.de/politik/deutschland/news-des-tages-nuklearwaffen-im-all-jensen-huang-ist-wieder-nvdia-chef-markus-soeder-stichelt-a-f6ebc8d2-6e04-409f-9a0e-ac87c9817537#ref=rss",
+          "summary": "Nvidia holt den gerade erst zurückgetretenen Jensen Huang zurück. Russland könnte einen Atomsprengkopf ins Weltall befördern. Und Bayern bekommt einen neuen Söder-Stellvertreter. Das ist die Lage am Montagabend.",
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w520_r2.08_fpx28.09_fpy49.93.png",
+          "publishedAt": "2026-11-23T16:44:00.000Z"
         },
         {
-          "title": "EU-Parlament: Erlebt die Brandmauer in Brüssel ein Comeback?",
-          "link": "https://www.spiegel.de/politik/deutschland/eu-parlament-erlebt-die-brandmauer-in-bruessel-ein-comeback-a-8c5dfa3d-9070-4924-a891-919d5398f45a#ref=rss",
-          "summary": "Zuletzt suchten Konservative im EU-Parlament Mehrheiten mit Rechtsextremen. Doch jetzt steht nach SPIEGEL-Informationen ein Kurswechsel bevor: Es soll eine Abmachung der politischen Mitte geben.",
-          "image": "https://cdn.prod.www.spiegel.de/images/366e08c2-dcbb-40bd-92b8-2ba0c2058b42_w520_r2.08_fpx37.34_fpy50.jpg",
-          "publishedAt": "2026-11-23T04:54:00.000Z",
-          "titleEn": "Parliament: Is the Brussels Firewall coming back?",
-          "summaryEn": "Recently, conservatives have sought a majority in the EU Parliament with far-right parties. But now, according to SPIEGEL information, a change of course is coming: there should be an agreement between the political centre."
+          "title": "Nato-Treffen in Berlin: Friedrich Merz und Mark Rutte bekräftigen Sicherheitsgarantien für die Ukraine",
+          "link": "https://www.spiegel.de/politik/deutschland/nato-treffen-in-berlin-friedrich-merz-und-mark-rutte-bekraeftigen-sicherheitsgarantien-fuer-die-ukraine-a-8466115a-c858-4447-907a-07adb51289ee#ref=rss",
+          "summary": "Der Bundeskanzler und der Nato-Generalsekretär fordern Sicherheitsgarantien für die Ukraine. Diese würden einem Bündnisbeitritt sehr nahekommen, gelobt Merz. Er äußerte sich auch zu den in Polen abgestürzten…",
+          "image": "https://cdn.prod.www.spiegel.de/images/868fb0db-184a-4225-b9cb-d5db6a317874_w520_r2.08_fpx53.35_fpy50.jpg",
+          "publishedAt": "2026-11-23T16:21:00.000Z"
         },
         {
-          "title": "Black Friday und Black Week: So finden Sie mit KI-Tools wie ChatGPT echte Angebote",
-          "link": "https://www.spiegel.de/netzwelt/web/black-friday-und-black-week-so-finden-sie-mit-ki-tools-wie-chatgpt-echte-angebote-a-dfce1d89-b147-4631-952a-3ca4ffc24077#ref=rss",
-          "summary": "Rabatte, Coupons, Sonderaktionen: Zur Black Week ist das Netz voll von Angeboten. So helfen KI-Dienste wie ChatGPT, Claude und Gemini, echte Schnäppchen aufzuspüren und Betrugsfallen zu erkennen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/13741853-0ac2-4315-a04f-5ee7fc196d17_w520_r2.08_fpx53_fpy61.jpg",
-          "publishedAt": "2026-11-23T04:42:00.000Z",
-          "titleEn": "Black Friday and Black Week: How to Find Real Deals With AI Tools Like ChatGPT",
-          "summaryEn": "Discounts, coupons, promotions: Black Week is full of offers. So AI services like ChatGPT, Claude, and Gemini help you spot real deals and spot scams."
+          "title": "Jensen Huang: Spionage-Affäre, Aktieneinbruch, Rückkehr – der Nvidia-Skandal um seien Firmenchef",
+          "link": "https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-spionage-affaere-aktieneinbruch-rueckkehr-der-nvidia-skandal-um-seien-firmenchef-a-1a743c65-aff8-4c40-bb80-a0e2398f1863#ref=rss",
+          "summary": "Der US-Chipriese Nvidia holt überraschend seinen erst kürzlich zurückgetretenen Chef Jensen Huang zurück. Er stürzte über zwei Affären, eine der Frauen soll eine chinesische Spionin sein. Chronologie des Skandals.",
+          "image": "https://cdn.prod.www.spiegel.de/images/20bea935-4f89-4cc5-9c61-7b9e6b3cf353_w520_r2.08_fpx34.69_fpy50.jpg",
+          "publishedAt": "2026-11-23T16:10:00.000Z"
         }
       ]
     }

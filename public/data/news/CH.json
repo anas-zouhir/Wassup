@@ -8,8 +8,71 @@
         "homepage": "https://www.srf.ch/news",
         "lang": "de-CH"
       },
-      "fetchedAt": "2026-11-23T07:04:17.297Z",
+      "fetchedAt": "2026-11-23T18:49:34.935Z",
       "items": [
+        {
+          "title": "Geschasster Nvidia-Chef – Kaum weg, schon zurück: Warum Jensen Huang sein Comeback gibt",
+          "link": "https://www.srf.ch/news/wirtschaft/geschasster-nvidia-chef-kaum-weg-schon-zurueck-warum-jensen-huang-sein-comeback-gibt",
+          "summary": "SRF-Wirtschaftsredaktor Pascal Lago über einen ebenso überraschenden wie heiklen Entscheid des US-Chipherstellers.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/a5a8fc.webp",
+          "publishedAt": "2026-11-23T16:50:57.000Z"
+        },
+        {
+          "title": "Trotz Affären – Nvidia holt Huang an die Spitze zurück – das müssen Sie wissen",
+          "link": "https://www.srf.ch/news/wirtschaft/trotz-affaeren-nvidia-holt-huang-an-die-spitze-zurueck-das-muessen-sie-wissen",
+          "summary": "Nach einer Untersuchung kehrt Jensen Huang als CEO und Verwaltungsrat zu Nvidia zurück.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/ca85f70.webp",
+          "publishedAt": "2026-11-23T15:16:22.000Z"
+        },
+        {
+          "title": "SVP‑Bundesratsticket – Die «dialog»-Community lässt kein gutes Haar an den Kandidaten",
+          "link": "https://www.srf.ch/news/dialog/svp-bundesratsticket-die-dialog-community-laesst-kein-gutes-haar-an-den-kandidaten",
+          "summary": "Schlechte Erinnerungen und die Hoffnung auf eine wilde Wahl prägen die Debatte der «dialog»-Community.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/759860.webp",
+          "publishedAt": "2026-11-23T17:01:12.000Z"
+        },
+        {
+          "title": "Umgang mit Wölfen – Walliser Wildhut schoss illegal Wölfin, die Junge säugte",
+          "link": "https://www.srf.ch/news/schweiz/umgang-mit-woelfen-walliser-wildhut-schoss-illegal-woelfin-die-junge-saeugte",
+          "summary": "Eine im Wallis geschossene Wölfin säugte noch Welpen. Monate später sagt nun der Bund: Der Abschuss war rechtswidrig.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/2037530.webp",
+          "publishedAt": "2026-11-23T18:12:39.000Z"
+        },
+        {
+          "title": "Reflux behandeln – Sodbrennen, lass nach!",
+          "link": "https://www.srf.ch/wissen/gesundheit/reflux-behandeln-sodbrennen-lass-nach",
+          "summary": "Wer saures Aufstossen loswerden will, ist gefordert. Einblicke in den Kampf mit der Magensäure.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/0b20cf.webp",
+          "publishedAt": "2026-11-23T18:00:12.000Z"
+        },
+        {
+          "title": "Nach SVP-Bundesratsticket – Grüne schicken Sprengkandidatin ins Rennen",
+          "link": "https://www.srf.ch/news/schweiz/nach-svp-bundesratsticket-gruene-schicken-sprengkandidatin-ins-rennen",
+          "summary": "Gegen das SVP-Zweierticket: Die Grünen schicken Delphine Klopfenstein ins Bundesratsrennen.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/1bad23.webp",
+          "publishedAt": "2026-11-23T18:03:37.000Z"
+        },
+        {
+          "title": "Urteil nach Millionen-Leak – «GTA 6»-Hacker zu sieben Jahren Haft verurteilt",
+          "link": "https://www.srf.ch/news/international/urteil-nach-millionen-leak-gta-6-hacker-zu-sieben-jahren-haft-verurteilt",
+          "summary": "Der Hacker hinter dem «GTA 6»-Leak wurde zu sieben Jahren Haft verurteilt, verliess das Gericht aber als freier Mann.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/a628a7.webp",
+          "publishedAt": "2026-11-23T16:37:43.000Z"
+        },
+        {
+          "title": "PET-Recycling – Von der «Bieridee» zum Kreislauf-Projekt",
+          "link": "https://www.srf.ch/news/wirtschaft/pet-recycling-von-der-bieridee-zum-kreislauf-projekt",
+          "summary": "PET-Flaschen werden in der Schweiz erfolgreich gesammelt und recycelt. Nun sollen auch Becher recyclet werden.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/9c0971.webp",
+          "publishedAt": "2026-11-23T16:34:35.000Z"
+        },
+        {
+          "title": "Erste Flocken im Mittelland – Auch im Flachland kann es diese Woche glatt werden",
+          "link": "https://www.srf.ch/news/schweiz/erste-flocken-im-mittelland-auch-im-flachland-kann-es-diese-woche-glatt-werden",
+          "summary": "In den Bergen schneit es, die Lawinengefahr ist vielerorts erheblich.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/c84569.webp",
+          "publishedAt": "2026-11-23T14:33:15.000Z"
+        },
         {
           "title": "Exklusive Recherche – 169 versuchte Femizide – so brutal ist die Gewalt gegen Frauen",
           "link": "https://www.srf.ch/news/schweiz/exklusive-recherche-169-versuchte-femizide-so-brutal-ist-die-gewalt-gegen-frauen",
@@ -18,87 +81,6 @@
           "publishedAt": "2026-11-23T05:00:21.000Z",
           "titleEn": "Exclusive research  ⁇  169 attempted femicide  ⁇  violence against women so brutal",
           "summaryEn": "Research by SRF Investigative shows for the first time the extent of life-threatening violence against women in Switzerland."
-        },
-        {
-          "title": "Recherche der «New York Times» – Bericht: Affäre von Nvidia-CEO kontaktierte Chinas Geheimdienst",
-          "link": "https://www.srf.ch/news/international/recherche-der-new-york-times-bericht-affaere-von-nvidia-ceo-kontaktierte-chinas-geheimdienst",
-          "summary": "Laut der US-Zeitung ist nun klar, dass Firmenchef Jensen Huangs Affäre tatsächlich eine chinesische Spionin ist.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/2c86bc.webp",
-          "publishedAt": "2026-11-23T05:53:05.000Z",
-          "titleEn": "Research by the New York Times  ⁇   ⁇  Report: Affair of Nvidia CEO contacted by China's intelligence service",
-          "summaryEn": "According to the US newspaper, it is now clear that CEO Jensen Huang's affair is actually a Chinese spy."
-        },
-        {
-          "title": "SVP-Bundesratsticket – So ähnlich sind sich Aeschi und Graber wirklich",
-          "link": "https://www.srf.ch/news/schweiz/svp-bundesratsticket-so-aehnlich-sind-sich-aeschi-und-graber-wirklich",
-          "summary": "Thomas Aeschi und Michael Graber seien politisch fast deckungsgleich, sagen Kritiker. Aber ist das wirklich so?",
-          "image": "https://www.srf.ch/static/cms/images//320ws/a48002c.webp",
-          "publishedAt": "2026-11-23T04:55:18.000Z",
-          "titleEn": "SVP Federal Council ticket  ⁇  So similar are Aeschi and Graber really",
-          "summaryEn": "Critics say Thomas Aeschi and Michael Graber are almost equal in political terms. But is that really the case?"
-        },
-        {
-          "title": "Krieg im Nahen Osten – Trump sieht eine Intensivierung der iranischen Angriffe",
-          "link": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-trump-sieht-eine-intensivierung-der-iranischen-angriffe",
-          "summary": "In den letzten Tagen mehrten sich die Berichte über Angriffe des Irans. Nun hat sich der US-Präsident dazu geäussert.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/de2664.webp",
-          "publishedAt": "2026-11-23T06:05:08.000Z",
-          "titleEn": "War in the Middle East  ⁇  Trump sees an intensification of Iranian attacks",
-          "summaryEn": "In recent days, reports of Iranian attacks have been increasing. Now the president of the United States has spoken out."
-        },
-        {
-          "title": "Wegen der Trockenheit – Die Schiffe vom Lac des Brenets verschwinden",
-          "link": "https://www.srf.ch/news/dialog/wegen-der-trockenheit-die-schiffe-vom-lac-des-brenets-verschwinden",
-          "summary": "Nach Jahren wiederkehrender Trockenheit stellt die Schifffahrtsgesellschaft auf dem Lac des Brenets ihren Betrieb ein.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/32479c.webp",
-          "publishedAt": "2026-11-23T04:51:20.000Z",
-          "titleEn": "Because of the drought, the ships disappear from the Brennett Lake.",
-          "summaryEn": "After years of recurring drought, the shipping company ceases operations on the Lac des Brennets."
-        },
-        {
-          "title": "Bundesratsticket der SVP – Michael Herrmann: «Dieses SVP-Ticket stellt Konkordanz infrage»",
-          "link": "https://www.srf.ch/news/schweiz/bundesratsticket-der-svp-michael-herrmann-dieses-svp-ticket-stellt-konkordanz-infrage",
-          "summary": "Der Sotomo-Leiter erwartet Widerstand gegen das SVP-Ticket und warnt vor einem Präzedenzfall.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/1e9b92.webp",
-          "publishedAt": "2026-11-22T14:43:18.000Z",
-          "titleEn": "Federal railway ticket of the SVP  ⁇  Michael Herrmann:  ⁇ This SVP ticket challenges the consistency ⁇",
-          "summaryEn": "The Sotomo leader expects resistance against the SVP ticket and warns of a precedent."
-        },
-        {
-          "title": "Bundesratsticket der SVP – Pierre Alain Schnegg bedauert Spaltung innerhalb der Romandie",
-          "link": "https://www.srf.ch/news/schweiz/bundesratsticket-der-svp-pierre-alain-schnegg-bedauert-spaltung-innerhalb-der-romandie",
-          "summary": "Der gescheiterte Bundesratskandidat macht interne Spaltungen für das Aus der Romandie-Kandidatur verantwortlich.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/ba4578.webp",
-          "publishedAt": "2026-11-22T11:10:19.000Z",
-          "titleEn": "Federal ratsticket of the SVP  ⁇  Pierre Alain Schnegg regrets division within the Romandie",
-          "summaryEn": "The unsuccessful Federal Council candidate is blaming internal divisions for the Romandie candidate."
-        },
-        {
-          "title": "Krieg in der Ukraine – Mehrere Tote bei russischem Angriff auf ein Haus bei Kiew",
-          "link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-mehrere-tote-bei-russischem-angriff-auf-ein-haus-bei-kiew",
-          "summary": "Die russische Armee hat bei Kiew ein mehrstöckiges Haus angegriffen. Die Bergungsarbeiten dauern noch an.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/66f22db.webp",
-          "publishedAt": "2026-11-23T05:22:05.000Z",
-          "titleEn": "War in Ukraine  ⁇  Several dead in a Russian attack on a house near Kiev",
-          "summaryEn": "The Russian army attacked a multi-story house near Kiev. Rescue work is still ongoing."
-        },
-        {
-          "title": "Landesweiter Streiktag – Streik in Belgien: Alle Flüge von Zürich nach Brüssel gestrichen",
-          "link": "https://www.srf.ch/news/international/landesweiter-streiktag-streik-in-belgien-alle-fluege-von-zuerich-nach-bruessel-gestrichen",
-          "summary": "Ausser im Flugverkehr werden erhebliche Einschränkungen im öffentlichen Nahverkehr erwartet.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/e74f1f.webp",
-          "publishedAt": "2026-11-23T06:47:19.000Z",
-          "titleEn": "National strike day  ⁇  Strike in Belgium: all flights from Zurich to Brussels cancelled",
-          "summaryEn": "In addition to air transport, significant restrictions are expected on local public transport."
-        },
-        {
-          "title": "US-Zwischenwahlen – US-Demokraten sichern sich historische Mehrheit im Kongress",
-          "link": "https://www.srf.ch/news/international/usa/us-zwischenwahlen-us-demokraten-sichern-sich-historische-mehrheit-im-kongress",
-          "summary": "Die Demokraten holen im Repräsentantenhaus mindestens 258 Sitze. Die grösste Mehrheit seit 1992.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/0eb750.webp",
-          "publishedAt": "2026-11-22T19:31:56.000Z",
-          "titleEn": "US midterm elections  ⁇  US Democrats secure a historic majority in Congress",
-          "summaryEn": "The Democrats will win at least 258 seats in the House of Representatives. The largest majority since 1992."
         }
       ]
     },
@@ -109,97 +91,78 @@
         "homepage": "https://www.nzz.ch",
         "lang": "de-CH"
       },
-      "fetchedAt": "2026-11-23T07:04:17.227Z",
+      "fetchedAt": "2026-11-23T18:49:34.975Z",
       "items": [
         {
-          "title": "LIVE-TICKER - Krieg in der Ukraine: Inzwischen elf Todesopfer nach russischem Angriff bei Kiew",
+          "title": "LIVE-TICKER - Krieg in der Ukraine: Polen bestellt nach Raketenabstürzen den russischen Botschafter ein +++ Merz warnt Russland vor weiteren «Provokationen»",
           "link": "https://www.nzz.ch/international/krieg-in-der-ukraine-zugverkehr-ueber-krim-bruecke-nach-erneutem-angriff-eingestellt-ld.10021245",
           "summary": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/22/341b4f0f-456e-410d-bdf0-b874a7308431.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4088,4088,x1022,y0",
-          "publishedAt": "2026-11-23T06:22:08.000Z",
-          "titleEn": "LIVE-TICKER - War in Ukraine: 11 dead after Russian attack on Kiev",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/23/b222d552-0388-4546-905f-23f0395de898.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3872,3872,x968,y0",
+          "publishedAt": "2026-11-23T18:25:15.000Z",
           "summaryEn": "For more than four years, Russia has been waging war against Ukraine. The most important developments in the overview."
         },
         {
-          "title": "Drei russische Marschflugkörper schlagen in Polen ein – nun will die Nato über die Luftraumverletzungen beraten",
-          "link": "https://www.nzz.ch/international/nato-ostflanke-russische-marschflugkoerper-schlagen-in-polen-ein-ld.10070169",
-          "summary": "Erstmals verletzt Russland den polnischen Luftraum in so grossem Ausmass. Der polnische Regierungschef Donald Tusk spricht von einer gezielten Provokation des Kremls.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/19/dc0741a3-d1c6-4a77-8fe5-a8fed917a36d.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4632,4632,x1255,y0",
-          "publishedAt": "2026-11-23T05:52:03.000Z",
-          "titleEn": "Three Russian cruise missiles hit one in Poland  ⁇  now NATO wants to consult on airspace damage",
-          "summaryEn": "For the first time, Russia has violated Polish airspace in such a large scale. The Polish Prime Minister Donald Tusk speaks of a targeted provocation by the Kremlin."
+          "title": "Nvidia macht eine abrupte Kehrtwende und holt Jensen Huang als CEO zurück",
+          "link": "https://www.nzz.ch/wirtschaft/jensen-huang-kehrt-als-ceo-zu-nvidia-zurueck-ld.10072449",
+          "summary": "Der Verwaltungsrat des Chip-Entwicklers spricht sich einstimmig für die Rückkehr des Langzeitchefs aus, der das Unternehmen wegen mehrerer Affären verlassen musste.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/23/e5ec93df-a78e-4c49-9420-3bf28827ebd7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2560,2560,x640,y0",
+          "publishedAt": "2026-11-23T18:12:26.000Z"
         },
         {
-          "title": "Was die Ungleichheit in der Schweiz mit den Babyboomern zu tun hat",
-          "link": "https://www.nzz.ch/wirtschaft/was-die-ungleichheit-in-der-schweiz-mit-den-babyboomern-zu-tun-hat-ld.10069998",
-          "summary": "Heute liegt das Durchschnittsalter der Erwerbstätigen sechs Jahre höher als in den 1980er Jahren. Das beeinflusst auch die Einkommensungleichheit in der Schweiz, wie eine Studie des IWP Luzern zeigt.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/01/887218e0-0898-4a6d-a662-7eb6394bb7f5.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3332,3331,x1668,y1",
-          "publishedAt": "2026-11-23T04:38:44.000Z",
-          "titleEn": "What inequality in Switzerland has to do with baby boomers",
-          "summaryEn": "The average age of the working population today is six years higher than in the 1980s. This also affects income inequality in Switzerland, as a study by IWP Lucerne shows."
+          "title": "Russland plant offenbar die Stationierung einer Atomwaffe im All",
+          "link": "https://www.nzz.ch/international/russland-plant-offenbar-die-stationierung-einer-atomwaffe-im-all-ld.10072611",
+          "summary": "Westliche Geheimdienste gehen laut Medienberichten davon aus, dass Moskau einen Satellit bereithält – und diesen innert zweier Monate mit Atomladung ins All schicken könnte.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/23/a5be98ab-e580-4674-b721-f1c6d3d35c44.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5504,5504,x1376,y0",
+          "publishedAt": "2026-11-23T16:50:59.000Z"
         },
         {
-          "title": "DER ANDERE BLICK - Der CSU-Chef sägt am Stuhl des Kanzlers: Neben Markus Söder sieht Friedrich Merz ziemlich blass aus",
-          "link": "https://www.nzz.ch/der-andere-blick/der-csu-chef-saegt-am-stuhl-des-kanzlers-neben-soeder-sieht-merz-blass-aus-ld.10071593",
-          "summary": "Erst sicherte Söder seiner Partei ihre Wahlgeschenke, jetzt inszeniert er sich als Vorkämpfer gegen die kalte Progression. Während der Stern des Kanzlers sinkt, könnte Söders Machtkalkül bald aufgehen.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/16/bc948300-e725-48e5-b0c3-e560db26d37a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2575,2575,x3800,y1109",
-          "publishedAt": "2026-11-23T04:30:00.000Z",
-          "titleEn": "The head of the CSU says in the chancellor's chair: \"Besides Markus Söder, Friedrich Merz looks rather pale\".",
-          "summaryEn": "First, Söder secured his party's electoral gifts, now he's posing as a front for the cold progression. As the Chancellor's star sinks, Söder's power calculation may soon open."
+          "title": "Fanta, Ragusa und «Falscher Hase»: Wie Kriege unsere Küche prägten",
+          "link": "https://www.nzz.ch/panorama/fanta-ragusa-und-falscher-hase-wie-kriege-unsere-kueche-praegten-ld.10072315",
+          "summary": "In Iran kosten Eier, Poulet und Reis heute bis zu vierzigmal so viel wie vor sechs Jahren. Wenn im Krieg die Vorräte schrumpfen, erfinden Haushalte Notlösungen. Einige davon blieben bis heute.",
+          "image": "https://img-msp-prod.nzz.ch/2022/07/25/1ba13f72-a63a-403e-aa20-7eaca1c79c7f.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1992,1992,x0,y7",
+          "publishedAt": "2026-11-23T16:43:19.000Z"
         },
         {
-          "title": "PODCAST «NZZ AKZENT» - Donbass: Wie das Ehepaar Krjutschkow vier Jahre in Putins Todeszone überlebte",
-          "link": "https://www.nzz.ch/podcast/donbass-wie-das-ehepaar-krjutschkow-vier-jahre-in-putins-todeszone-ueberlebte-ld.10070205",
-          "summary": "Vier Jahre lang hat das Ehepaar Krjutschkow unter russischer Besetzung in der Ukraine ausgeharrt. Als eine Granate ihr Haus trifft, riskieren sie die Flucht. Der NZZ-Korrespondent Volker Pabst hat das Ehepaar getroffen…",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/20/e8cd328d-d475-4622-803a-df54f90977f0.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x0,y0",
-          "publishedAt": "2026-11-23T04:30:00.000Z",
-          "titleEn": "PODCAST  ⁇ NZZ AKZENT ⁇  - Donbass: How the Khrushchev couple survived four years in Putin's death zone",
-          "summaryEn": "For four years, the Khrushchev couple endured Russian occupation in Ukraine. When a grenade hits their house, they run the risk of escaping. The NZZ correspondent Volker Pabst has met the couple..."
+          "title": "Auto- und Velofreunde machen gemeinsame Sache gegen das neue Zürcher Tram",
+          "link": "https://www.nzz.ch/zuerich/kantonsrat-zuerich-auto-und-velofreunde-gemeinsam-gegen-neues-tram-ld.10072343",
+          "summary": "Das Kantonsparlament spricht Millionen für das Tram Affoltern. Doch wenn es zum Referendum kommt, könnte die SVP den Stadt-Land-Graben beackern – und auf Unterstützung von links zählen.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/23/eb88a083-8b6e-4ebf-a48c-7e8d6601f732.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x116,y0",
+          "publishedAt": "2026-11-23T16:15:52.000Z"
         },
         {
-          "title": "Der Ansturm auf Wasserkraft verwandelt den Anlagenbauer Andritz",
-          "link": "https://www.nzz.ch/finanzen/der-ansturm-auf-wasserkraft-verwandelt-den-anlagenbauer-andritz-ld.10069965",
-          "summary": "Die Rekordnachfrage treibt die Aktie an, trotz mehrfach verschobenen Wachstumszielen. Die Geschäfte mit Papier- und Metallindustrie verlieren an Bedeutung. Das langfristige Potenzial ist noch nicht vollständig…",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/02/6275caec-ec56-4c77-9795-dda6ce3132da.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3013,3013,x505,y0",
-          "publishedAt": "2026-11-23T04:30:00.000Z",
-          "titleEn": "The rush to hydropower transforms the plant builder Andritz",
-          "summaryEn": "Record demand drives the stock despite repeatedly postponed growth targets. The paper and metal industries are losing their importance. The long-term potential is not yet complete..."
+          "title": "EU-Kommission will Russland-Flagge an Sportveranstaltungen verbieten",
+          "link": "https://www.nzz.ch/international/eu-kommission-will-russland-flagge-an-sportveranstaltungen-verbieten-ld.10072625",
+          "summary": "Ein Vorschlag der Kommission sieht vor, dass russische Sportlerinnen und Sportler bei Wettkämpfen in der EU künftig nicht mehr für ihr Land antreten dürfen. Russischen Soldaten soll die Einreise ganz verwehrt werden.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/18/f3b133d5-5637-4456-9c7d-b674fdb3c2ce.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3616,3616,x1494,y0",
+          "publishedAt": "2026-11-23T16:10:55.000Z"
         },
         {
-          "title": "Durchgelüftete Geschichte: Ein neues Buch beleuchtet das Wirken der Welt in der Schweiz – und umgekehrt",
-          "link": "https://www.nzz.ch/feuilleton/durchgelueftete-geschichte-ein-neues-buch-beleuchtet-das-wirken-der-welt-in-der-schweiz-und-umgekehrt-ld.10069960",
-          "summary": "Über hundert historische Anekdoten aus 8000 Jahren zeigen die globale Verflechtung der Eidgenossenschaft. Doch taugt diese bunte Collage als Erzählung der Nation?",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/20/f3421ebd-0013-4052-87b1-5dbfc60ae829.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=833,833,x42,y63",
-          "publishedAt": "2026-11-23T04:30:00.000Z",
-          "titleEn": "A new book sheds light on how the world works in Switzerland and vice versa.",
-          "summaryEn": "Over a hundred historical anecdotes dating back 8,000 years show the global intertwining of co-operation. But is this colorful collage worthy of the nation's narrative?"
+          "title": "KOMMENTAR - Trump macht Putin und Xi einen Gefallen – nicht Amerika",
+          "link": "https://www.nzz.ch/meinung/trump-macht-putin-und-xi-einen-gefallen-nicht-amerika-ld.10072146",
+          "summary": "Der Dreiergipfel mit Xi und Putin in China zeigt klar: Trump hat nichts aus der schweren Niederlage seiner Partei bei den Midterms gelernt. Im Weissen Haus sitzt ein unbelehrbarer Präsident, der die Interessen von…",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/19/08fef364-2d19-47b7-852f-caa60b9138f0.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2324,2324,x210,y271",
+          "publishedAt": "2026-11-23T16:00:00.000Z"
         },
         {
-          "title": "BILDSTRECKE - Vor 90 Jahren erschien die erste Ausgabe des Magazins «Life», nun wird es neu aufgelegt",
-          "link": "https://www.nzz.ch/fotografie/vor-90-jahren-erschien-die-erste-ausgabe-des-magazins-life-nun-wird-es-neu-aufgelegt-ld.10069767",
-          "summary": "Von 1936 bis 1972 brachte das legendäre Magazin «Life» wöchentlich das Weltgeschehen in die Wohnzimmer der Amerikaner. «To see life, to see the world» lautete das Motto. Jetzt bringt Karlie Kloss das Magazin zurück.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/20/370cc0e7-1090-42e7-b1d0-d466ab4689dc.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1385,1385,x1781,y778",
-          "publishedAt": "2026-11-23T04:30:00.000Z",
-          "titleEn": "BILDSTRECKE - 90 years ago, the first issue of  ⁇ Life ⁇  magazine was published, now it's being re-launched",
-          "summaryEn": "From 1936 to 1972, the legendary magazine  ⁇ Life ⁇  brought weekly world events to the living rooms of Americans. ⁇ To see life, to see the world ⁇  was the motto. Now Karlie Kloss is returning the magazine."
+          "title": "Platzt jetzt die KI-Blase – oder bietet sich eine Kaufgelegenheit?",
+          "link": "https://www.nzz.ch/finanzen/platzt-jetzt-die-ki-blase-oder-bietet-sich-eine-kaufgelegenheit-ld.10072116",
+          "summary": "Die grossen Investitionen im Technologiesektor, hohe Schulden und steigende Zinsen haben für Unruhe an den Finanzmärkten gesorgt. Gleichwohl spricht einiges für eine Erholung zum Jahresende.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/23/8e463f3c-d175-41b2-95e0-fdbcda1dce9f.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x1000,y0",
+          "publishedAt": "2026-11-23T15:59:42.000Z"
         },
         {
-          "title": "Die Hamas besiegt man nicht über die Chefetage",
-          "link": "https://www.nzz.ch/pro/die-hamas-besiegt-man-nicht-ueber-die-chefetage-ld.10068588",
-          "summary": "Seit Jahrzehnten setzt Israel auf gezielte Tötungen, um die Führungsstrukturen von Terrororganisationen zu zerschlagen. Das Fazit ist durchwachsen.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/14/c8c2c2b8-02bc-45b4-9c03-2f8797fdc45e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3933,3933,x984,y0",
-          "publishedAt": "2026-11-23T04:30:00.000Z",
-          "titleEn": "You can't beat Hamas over the chief's day.",
-          "summaryEn": "For decades, Israel has been using targeted killings to crush the leadership structures of terrorist organizations. The bottom line is, it's all over."
+          "title": "INTERVIEW - Profitiert Genf von Kriegen? Nein, sagt die Wirtschaftsministerin des Kantons und fordert: «Wir müssen dem Rohstoffhandel Sorge tragen»",
+          "link": "https://www.nzz.ch/wirtschaft/profitiert-genf-von-kriegen-wir-muessen-dem-rohstoffhandel-sorge-tragen-sagt-die-wirtschaftsministerin-des-kantons-ld.10056737",
+          "summary": "Die boomende Branche hat Genf zum grössten Beitragszahler im Finanzausgleich gemacht. Delphine Bachmann erklärt, warum der Kanton sich trotzdem verschuldet – und was Zürich besser macht.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/09/c1984027-f7f6-4bf4-97fe-ee0925000c9d.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5504,5504,x0,y120",
+          "publishedAt": "2026-11-23T15:55:00.000Z"
         },
         {
-          "title": "Der Goldpreis stürzt ab – die steigenden Zinsen lasten auf dem Edelmetall. Doch ein Comeback könnte bevorstehen",
-          "link": "https://www.nzz.ch/wirtschaft/der-goldpreis-stuerzt-ab-die-steigenden-zinsen-lasten-auf-dem-edelmetall-doch-ein-comeback-koennte-bevorstehen-ld.10068535",
-          "summary": "Seit dem Rekord im Januar hat das Gold ein Drittel an Wert verloren. Die Talfahrt dürfte jedoch stoppen, sobald die US-Wirtschaft an Fahrt verliert.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/19/4a7004fe-3a1d-4add-87b0-d9897e72259a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2846,2846,x711,y0",
-          "publishedAt": "2026-11-23T04:30:00.000Z",
-          "titleEn": "The price of gold is falling  ⁇  the rising interest rates on the precious metal. But there could be a comeback",
-          "summaryEn": "Since the record in January, gold has lost a third of its value. But the valley trip is likely to stop once the U.S. economy loses momentum."
+          "title": "MELDUNGEN POLIZEI - Zwei Diebe beklauen Zugreisenden – dieser hilft, sie am Zürcher Hauptbahnhof festzunehmen",
+          "link": "https://www.nzz.ch/zuerich/diebe-beklauen-zugreisenden-dieser-hilft-sie-am-hauptbahnhof-festzunehmen-ld.10041727",
+          "summary": "Die neuesten Polizeimeldungen aus der Schweiz.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/18/87e1a6d1-4014-4338-9d3c-2705f405a9e3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
+          "publishedAt": "2026-11-23T15:32:52.000Z"
         }
       ]
     },
@@ -210,97 +173,77 @@
         "homepage": "https://www.rts.ch/info/",
         "lang": "fr-CH"
       },
-      "fetchedAt": "2026-11-23T07:04:17.569Z",
+      "fetchedAt": "2026-11-23T18:49:35.064Z",
       "items": [
         {
-          "title": "\"On se croirait à l'époque de Staline\": un rescapé des prisons politiques biélorusses témoigne",
-          "link": "https://www.rts.ch/info/monde/2026/article/bielorussie-un-militant-raconte-cinq-ans-en-prison-politique-29421856.html?rts_source=rss_t",
-          "summary": "Le militant pour les droits humains Valiantsin Stefanovitch a été emprisonné pendant cinq ans en Biélorussie, pays qui exerce une forte répression contre la contestation du pouvoir. Depuis la Pologne où il vit désormais,…",
-          "image": "https://img.rts.ch/articles/2026/image/0aeaa6c8-29422316.image?w=320&h=180",
-          "publishedAt": "2026-11-23T05:37:43.000Z",
-          "titleEn": "\"It would have been Stalin's time\" testifies a Belarusian political prison survivor",
-          "summaryEn": "Human rights activist Valiantsin Stefanovitch has been imprisoned for five years in Belarus, a country that has been strongly opposed to the challenge of power. From Poland, where he now lives,"
+          "title": "Irrégularités et fraudes, les courtiers en assurances sévèrement visés par une analyse de la FINMA",
+          "link": "https://www.rts.ch/info/suisse/2026/article/finma-les-courtiers-en-assurances-vises-pour-des-fraudes-29424971.html?rts_source=rss_t",
+          "summary": "La FINMA, le gendarme fédéral des marchés financiers, tire un bilan mitigé de trois ans d'efforts visant à rappeler sévèrement à l'ordre quelque 12'000 intermédiaires enregistrés dans le domaine de l'assurance. La Finma…",
+          "image": "https://img.rts.ch/articles/2026/image/119a0a36-29424974.image?w=320&h=180",
+          "publishedAt": "2026-11-23T18:41:50.000Z"
         },
         {
-          "title": "Albert Rösti après la COP31: \"On peut vraiment parler d'un échec\"",
-          "link": "https://www.rts.ch/info/environnement/2026/article/cop31-on-peut-vraiment-parler-d-un-echec-selon-albert-rosti-29424040.html?rts_source=rss_t",
-          "summary": "La COP31 s'est achevée dimanche en Turquie sans déclaration finale commune, faute d'entente sur la sortie des énergies fossiles. Invité du 19h30, le conseiller fédéral Albert Rösti déplore ce recul mais appelle à…",
-          "image": "https://img.rts.ch/medias/2026/image/0af2b107-29424007.image?w=320&h=180",
-          "publishedAt": "2026-11-22T20:09:01.000Z",
-          "titleEn": "Albert Rösti after COP31: \"We can really talk about failure\"",
-          "summaryEn": "COP31 ended in Turkey on Sunday without a joint final declaration, due to a lack of agreement on fossil fuel emissions. Invited at 7:30 p.m., Federal Councillor Albert Rösti deplores this withdrawal but calls for..."
+          "title": "L'UE propose d'interdire de compétition les athlètes russes sur son territoire",
+          "link": "https://www.rts.ch/info/monde/2026/article/sanctions-contre-la-russie-l-ue-vise-les-athletes-russes-29425055.html?rts_source=rss_t",
+          "summary": "La Commission européenne a proposé lundi d'interdire de compétition les athlètes russes dans l'UE, dans le cadre d'un nouveau paquet de sanctions contre Moscou, a annoncé sa présidente Ursula von der Leyen.",
+          "image": "https://img.rts.ch/articles/2026/image/0a1a4dca-29425091.image?w=320&h=180",
+          "publishedAt": "2026-11-23T17:24:35.000Z"
         },
         {
-          "title": "Pluie, neige et risque d'avalanche: d'importantes intempéries touchent la Suisse",
-          "link": "https://www.rts.ch/info/suisse/2026/article/meteo-fortes-pluies-risque-d-avalanche-et-neige-en-suisse-29423679.html?rts_source=rss_t",
-          "summary": "Ce dimanche, de fortes pluies ont entraîné une alerte météo de niveau 3 dans le Jura vaudois et l'effondrement partiel d'un mur à Genève. En montagne, la neige atteint plus d'un mètre par endroits et le danger…",
-          "image": "https://img.rts.ch/articles/2026/image/7108fe26-29423682.image?w=320&h=180",
-          "publishedAt": "2026-11-22T20:00:00.000Z",
-          "titleEn": "Rain, snow and avalanche risk: severe weather in Switzerland",
-          "summaryEn": "This Sunday, heavy rains led to a Level 3 weather alert in the Walloon Jura and the partial collapse of a wall in Geneva. In the mountains, the snow reaches more than a meter in places and the danger..."
+          "title": "En raison de la sécheresse estivale, la récolte de betteraves sucrières chute de 30% en Suisse",
+          "link": "https://www.rts.ch/info/suisse/2026/article/sucre-suisse-la-recolte-de-betteraves-chute-de-30-29424437.html?rts_source=rss_t",
+          "summary": "En raison de la sécheresse et des fortes chaleurs durant l'été, la récolte de betteraves sucrières a diminué de 30% cette année en Suisse. En conséquence, la production de sucre helvétique recule aussi fortement. Une…",
+          "image": "https://img.rts.ch/info/suisse/2026/image/22e6ea4c-29425063.image?w=320&h=180",
+          "publishedAt": "2026-11-23T16:19:14.000Z"
         },
         {
-          "title": "L'ancien ministre jurassien François Mertenat est décédé à 85 ans",
-          "link": "https://www.rts.ch/info/regions/jura/2026/article/jura-deces-de-l-ancien-ministre-francois-mertenat-a-85-ans-29424053.html?rts_source=rss_t",
-          "summary": "L'ancien ministre jurassien François Mertenat est décédé dimanche à l'âge de 85 ans, a fait savoir l'exécutif cantonal. Le socialiste avait été élu en novembre 1978 au sein du premier Gouvernement du canton nouvellement…",
-          "image": "https://img.rts.ch/articles/2026/image/d73b49cf-29424055.image?w=320&h=180",
-          "publishedAt": "2026-11-22T19:53:28.000Z",
-          "titleEn": "Former Jurassian Minister François Mertenat has died at the age of 85",
-          "summaryEn": "Former Jurassian minister François Mertenat died on Sunday at the age of 85, the cantonal executive said. The Socialist Party was elected in November 1978 to the first government of the newly-established canton..."
+          "title": "Comment va l'Espagne?",
+          "link": "https://www.rts.ch/info/monde/2026/article/espagne-crise-du-logement-et-elections-anticipees-en-2026-29424871.html?rts_source=rss_t",
+          "summary": "Le Premier ministre espagnol Pedro Sánchez a convoqué des élections législatives anticipées pour le 29 novembre 2026, alors que le pays est en pleine crise du logement. Le Point J se demande comment va le pays avec…",
+          "image": "https://img.rts.ch/articles/2026/image/362683e1-29424973.image?w=320&h=180",
+          "publishedAt": "2026-11-23T16:06:17.000Z"
         },
         {
-          "title": "Un premier bilan positif pour la semaine de quatre jours dans quatre entreprises suisses",
-          "link": "https://www.rts.ch/info/economie/2026/article/semaine-de-4-jours-bilan-positif-pour-4-entreprises-suisses-29423841.html?rts_source=rss_t",
-          "summary": "Une étude de la Haute école spécialisée bernoise montre qu'après six mois de temps de travail réduit à salaire égal, les participants et participantes se disent moins fatigués et en meilleure santé. Et les employeurs y…",
-          "image": "https://img.rts.ch/articles/2026/image/4b574819-29424043.image?w=320&h=180",
-          "publishedAt": "2026-11-22T19:44:38.000Z",
-          "titleEn": "First positive results for the four-day week in four Swiss companies",
-          "summaryEn": "A study by the Bernese Higher School of Specialization shows that after six months of reduced working time with equal pay, participants and participants say they are less tired and healthier. And the employers there..."
+          "title": "Eaux turquoises et bleutées, 'La piscine dans l'imaginaire' prolonge l'été au Locle",
+          "link": "https://www.rts.ch/info/culture/arts-visuels/2026/article/exposition-au-locle-la-piscine-s-invite-au-musee-des-beaux-arts-29419709.html?rts_source=rss_t",
+          "summary": "Au Musée des Beaux-Arts du Locle (NE) jusqu'au 21 février 2027, 'For One Solid Time, Wet: La piscine dans l'imaginaire' fait la part belle aux eaux turquoises et bleutées. Motif majeur de l'histoire de l'art…",
+          "image": "https://img.rts.ch/info/culture/arts-visuels/2026/image/6b4ac270-29421128.image?w=320&h=180",
+          "publishedAt": "2026-11-23T15:15:56.000Z"
         },
         {
-          "title": "Tennis - Alcaraz remporte son premier Masters",
-          "link": "https://www.rts.ch/sport/tennis/2026/article/masters-atp-carlos-alcaraz-bat-alexander-zverev-en-finale-29423764.html?rts_source=rss_t",
-          "summary": "Finaliste en 2025, Carlos Alcaraz (ATP 3) a remporté son premier Masters ATP à Turin. L'Espagnol a dominé le numéro un mondial allemand Alexander Zverev 6-2 7-6 (9/7) en 2h02.",
-          "image": "https://img.rts.ch/articles/2026/image/79e0d43f-29424082.image?w=320&h=180",
-          "publishedAt": "2026-11-22T19:20:40.000Z",
-          "titleEn": "Tennis - Alcaraz wins his first Masters",
-          "summaryEn": "Finalist in 2025, Carlos Alcaraz (ATP 3) won his first ATP Masters in Turin. The Spanishman Alexander Zverev 6-2 7-6 (9/7) dominated the world number one in 2:02."
+          "title": "Hockey - Le Mondial féminin 2028 se déroulera à Zurich et Fribourg",
+          "link": "https://www.rts.ch/sport/hockey/2026/article/mondial-2028-le-tournoi-feminin-attribue-a-zurich-et-fribourg-29424970.html?rts_source=rss_t",
+          "summary": "Le Championnat du monde féminin 2028 aura lieu à Zurich et à Fribourg. Swiss Ice Hockey a ainsi choisi les mêmes villes que celles qui ont fait leurs preuves en mai dernier lors du Mondial masculin.",
+          "image": "https://img.rts.ch/articles/2026/image/e088ae04-29424964.image?w=320&h=180",
+          "publishedAt": "2026-11-23T15:02:47.000Z"
         },
         {
-          "title": "Plusieurs guérisseurs face à la justice pour abus sexuels: plus de 30 témoignages en Suisse romande",
-          "link": "https://www.rts.ch/info/societe/2026/article/guerisseurs-accuses-d-abus-sexuels-30-temoignages-en-romandie-29422225.html?rts_source=rss_t",
-          "summary": "Une enquête de la RTS révèle l'ampleur des abus sexuels dans le monde des thérapies alternatives. Plus de 30 femmes témoignent d'agressions commises par une vingtaine de thérapeutes en Suisse romande. Au moins quatre…",
-          "image": "https://img.rts.ch/articles/2026/image/088b58cf-29423968.image?w=320&h=180",
-          "publishedAt": "2026-11-22T19:17:20.000Z",
-          "titleEn": "Several healers face justice for sexual abuse: more than 30 witnesses in Romantic Switzerland",
-          "summaryEn": "An RTS survey reveals the extent of sexual abuse in the world of alternative therapies. More than 30 women testify to assaults by some 20 therapists in Romanian Switzerland. At least four..."
+          "title": "Des concerts en réalité virtuelle adoucissent la dialyse des patients aux HUG",
+          "link": "https://www.rts.ch/info/regions/geneve/2026/article/hug-la-realite-virtuelle-pour-apaiser-les-soins-de-dialyse-29424856.html?rts_source=rss_t",
+          "summary": "Aux Hôpitaux universitaires genevois, un casque de réalité virtuelle permet aux patients de s'évader de leur chambre d'hôpital pour assister à un concert de musique classique pendant leur dialyse.",
+          "image": "https://img.rts.ch/medias/2026/image/dbdd2249-29424788.image?w=320&h=180",
+          "publishedAt": "2026-11-23T14:40:26.000Z"
         },
         {
-          "title": "Une candidature sauvage pourrait-elle émerger face au ticket proposé par l'UDC?",
-          "link": "https://www.rts.ch/info/suisse/2026/article/succession-parmelin-une-candidature-sauvage-est-elle-possible-29423857.html?rts_source=rss_t",
-          "summary": "Le choix de l'UDC de miser sur Michael Graber et Thomas Aeschi pour succéder à Guy Parmelin au Conseil fédéral continue de faire réagir les autres partis. Avec un scénario qui agite le monde politique, celui d'une…",
-          "image": "https://img.rts.ch/articles/2026/image/5a68279d-29423929.image?w=320&h=180",
-          "publishedAt": "2026-11-22T18:35:16.000Z",
-          "titleEn": "Could a wild bid emerge against the UDC's proposed ticket?",
-          "summaryEn": "The UDC's choice to bet on Michael Graber and Thomas Aeschi to succeed Guy Parmelin in the Federal Council continues to make the other parties react. With a scenario that shakes the political world, that of a..."
+          "title": "Des tonnes d'oignons attirent la foule dans les stands de la ville de Berne",
+          "link": "https://www.rts.ch/info/regions/berne/2026/article/la-foule-au-rendez-vous-du-zibelemarit-de-berne-malgre-la-pluie-29424686.html?rts_source=rss_t",
+          "summary": "Malgré la pluie, la un grand nombre de personne a afflué lundi à Berne pour le Zibelemärit, la traditionnelle foire aux oignons. Plus de 26 tonnes de ces bulbes ont été proposées à la vente sur les stands – loin…",
+          "image": "https://img.rts.ch/articles/2026/image/72b5a745-29424684.image?w=320&h=180",
+          "publishedAt": "2026-11-23T14:33:11.000Z"
         },
         {
-          "title": "La COP31 s'est achevée en Turquie sans accord final",
-          "link": "https://www.rts.ch/info/environnement/2026/article/cop31-un-projet-d-accord-sans-mention-des-energies-fossiles-29423435.html?rts_source=rss_t",
-          "summary": "La COP31 s'est achevée sur un échec dimanche à Antalya. Le président turc de la réunion a reconnu l'absence d'accord sur le projet de décision finale de la conférence sur le climat, après le rejet de certains pays, dont…",
-          "image": "https://img.rts.ch/articles/2026/image/5cd0ae16-29423642.image?w=320&h=180",
-          "publishedAt": "2026-11-22T16:40:00.000Z",
-          "titleEn": "COP31 ends in Turkey without final agreement",
-          "summaryEn": "COP31 ended unsuccessfully on Sunday in Antalya. The Turkish president of the meeting acknowledged the lack of agreement on the draft final decision of the Climate Conference after the rejection of some countries, including..."
+          "title": "Jensen Huang réintégré comme directeur général et président de Nvidia",
+          "link": "https://www.rts.ch/info/monde/2026/article/nvidia-jensen-huang-reintegre-comme-directeur-general-29424905.html?rts_source=rss_t",
+          "summary": "Le conseil d'administration de Nvidia a annoncé lundi la réintégration immédiate de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée à un scandale mêlant…",
+          "image": "https://img.rts.ch/articles/2026/image/3e9df2a7-29424916.image?w=320&h=180",
+          "publishedAt": "2026-11-23T14:19:57.000Z"
         },
         {
-          "title": "Comment les CFF recyclent les vieux wagons, de véritables trésors de matériaux",
-          "link": "https://www.rts.ch/info/economie/2026/article/economie-circulaire-comment-les-cff-recyclent-leurs-wagons-29419057.html?rts_source=rss_t",
-          "summary": "Les CFF recyclent les vieux trains, récupèrent des pièces pour prolonger leur durée de vie et, nouveauté, donnent une seconde vie aux fenêtres ou aux sièges. La RTS a suivi le parcours d'un wagon désossé à la ferraille…",
-          "image": "https://img.rts.ch/articles/2026/image/a5f5a23e-29419342.image?w=320&h=180",
-          "publishedAt": "2026-11-22T16:36:08.000Z",
-          "titleEn": "How CFFs recycle old wagons, real treasures of materials",
-          "summaryEn": "CFFs recycle old trains, retrieve parts to extend their service life and, as a novelty, give a second life to windows or seats. The RTS tracked the course of a disassembled trunk car..."
+          "title": "Comment la militante Camille Etienne lutte contre les PFAS, ce \"tsunami chimique\"",
+          "link": "https://www.rts.ch/info/sante/2026/article/polluants-eternels-les-pistes-de-camille-etienne-contre-les-pfas-29424343.html?rts_source=rss_t",
+          "summary": "Habits, cosmétiques, construction... Les PFAS ou \"polluants éternels\" sont partout et nocifs, il faut régler ce problème urgemment, estime la militante écologiste française Camille Etienne, autrice de 'Facteur X: comment…",
+          "image": "https://img.rts.ch/articles/2026/image/d84509e8-29425046.image?w=320&h=180",
+          "publishedAt": "2026-11-23T14:15:47.000Z"
         }
       ]
     }
