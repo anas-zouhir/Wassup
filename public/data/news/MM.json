@@ -8,8 +8,15 @@
         "homepage": "https://www.irrawaddy.com",
         "lang": "en-MM"
       },
-      "fetchedAt": "2026-11-22T18:34:45.104Z",
+      "fetchedAt": "2026-11-23T07:04:58.549Z",
       "items": [
+        {
+          "title": "Myanmar Regime Says Combating Graft in Military Draft Process",
+          "link": "https://www.irrawaddy.com/news/burma/myanmar-regime-says-combating-graft-in-military-draft-process.html",
+          "summary": "The junta acknowledged abuses in its conscription system, saying it had taken legal action against 199 people accused of extortion and forced recruitment.",
+          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/11/Regime-2311261231-feat.jpg",
+          "publishedAt": "2026-11-23T05:32:35.000Z"
+        },
         {
           "title": "Rights Groups Demand Action Against Myanmar Junta After Historic Rohingya Genocide Ruling",
           "link": "https://www.irrawaddy.com/news/burma/rights-groups-demand-action-against-myanmar-junta-after-historic-rohingya-genocide-ruling.html",
@@ -44,20 +51,6 @@
           "summary": "Also this week, China continues its relentless efforts to win over the Myanmar media to its cause, with a tea party celebrating Xi Jinping’s four global initiatives.",
           "image": "https://www.irrawaddy.com/wp-content/uploads/2026/11/ChinaBriefing20Nov26feat.jpg",
           "publishedAt": "2026-11-20T10:31:44.000Z"
-        },
-        {
-          "title": "US Warns Against ‘Politicization’ of ICJ, Studying Myanmar Ruling",
-          "link": "https://www.irrawaddy.com/news/us-warns-against-politicization-of-icj-studying-myanmar-ruling.html",
-          "summary": "The cautious response came as Washington opposed a separate case before the ICJ accusing its ally Israel of committing genocide in Gaza.",
-          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/11/USwarnsagain20Nov26feat.jpg",
-          "publishedAt": "2026-11-20T06:07:30.000Z"
-        },
-        {
-          "title": "Five Key Points From Historic ICJ Rohingya Genocide Ruling",
-          "link": "https://www.irrawaddy.com/news/burma/five-key-points-from-historic-icj-rohingya-genocide-ruling.html",
-          "summary": "The landmark judgment ordered Myanmar to ensure the safe return of Rohingya refugees, investigate perpetrators and provide compensation to victims.",
-          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/11/roh20nof.jpg",
-          "publishedAt": "2026-11-20T06:04:52.000Z"
         }
       ]
     },
@@ -68,8 +61,15 @@
         "homepage": "https://myanmar-now.org",
         "lang": "en-MM"
       },
-      "fetchedAt": "2026-11-22T18:34:45.911Z",
+      "fetchedAt": "2026-11-23T07:04:59.403Z",
       "items": [
+        {
+          "title": "Malaysia scrubs post announcing plan to send Rohingya refugees to Turkey",
+          "link": "https://myanmar-now.org/en/news/malaysia-scrubs-post-announcing-plan-to-send-rohingya-refugees-to-turkey/",
+          "summary": "It was unclear why the post was deleted late Friday, as Malaysia continues its push to expel members of the persecuted ethnic group",
+          "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/AFP__20260929__C9LZ22H__v2__MidRes__MalaysiaMyanmarRefugeeRohingya-1024x682.jpg",
+          "publishedAt": "2026-11-23T05:37:35.000Z"
+        },
         {
           "title": "US sanctions two DKBA commanders over alleged Myanmar scam operations",
           "link": "https://myanmar-now.org/en/news/us-sanctions-two-dkba-commanders-over-alleged-myanmar-scam-operations/",
@@ -90,13 +90,6 @@
           "summary": "While the court was issuing its damning verdict, Min Aung Hlaing was welcoming the secretary-general of BIMSTEC, the bloc that Myanmar will chair next year",
           "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/viber_image_2026-11-19_21-55-52-431-1024x701.jpg",
           "publishedAt": "2026-11-20T07:22:06.000Z"
-        },
-        {
-          "title": "UK orders expulsion of Myanmar defence attaché after ICJ genocide ruling",
-          "link": "https://myanmar-now.org/en/news/uk-orders-expulsion-of-myanmar-defence-attache-after-icj-genocide-ruling/",
-          "summary": "Britain announced immediate action against Myanmar’s regime, including the expulsion of its defence attaché, and pledged further measures to hold those responsible for the Rohingya genocide accountable",
-          "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/178-20261119-01-1024x673.jpeg",
-          "publishedAt": "2026-11-20T04:59:13.000Z"
         }
       ]
     },
@@ -107,8 +100,38 @@
         "homepage": "https://english.dvb.no",
         "lang": "en-MM"
       },
-      "fetchedAt": "2026-11-22T18:34:45.237Z",
+      "fetchedAt": "2026-11-23T07:04:58.676Z",
       "items": [
+        {
+          "title": "No change in Thailand’s relationship to Myanmar after ICJ genocide ruling",
+          "link": "https://english.dvb.no/no-change-in-thailands-relationship-to-myanmar-after-icj-genocide-ruling/",
+          "summary": "Thailand will maintain diplomatic relations with Myanmar regardless of the International Court of Justice’s (ICJ) landmark ruling holding the country responsible for genocide against the Rohingya, Prime Minister Anutin…",
+          "publishedAt": "2026-11-23T04:11:45.000Z"
+        },
+        {
+          "title": "World Court rules Myanmar responsible for genocide",
+          "link": "https://english.dvb.no/world-court-rules-myanmar-responsible-for-genocide/",
+          "summary": "The ​International Court of Justice (ICJ) ruled on Nov. 19 that thousands of killings and widespread sexual violence by Myanmar’s security forces against the Rohingya in northern Rakhine State in 2017 amounted to…",
+          "publishedAt": "2026-11-23T01:19:03.000Z"
+        },
+        {
+          "title": "Will the world enforce the ICJ judgment on Myanmar?",
+          "link": "https://english.dvb.no/will-the-world-enforce-the-icj-judgment-on-myanmar/",
+          "summary": "The world’s highest court has found Myanmar responsible for genocide against the Rohingya. Now the international community must turn this historic judgment into accountability, reparation and real protection. Guest…",
+          "publishedAt": "2026-11-23T01:06:46.000Z"
+        },
+        {
+          "title": "Rohingya in Bangladesh welcome ICJ genocide verdict; UN General Assembly President visits refugees",
+          "link": "https://english.dvb.no/rohingya-in-bangladesh-welcome-icj-genocide-verdict-un-general-assembly-president-visits-refugee-camps/",
+          "summary": "UK expels Myanmar military attaché and summons embassy envoy British Foreign Secretary Ed Miliband announced on Thursday that Burma’s military attaché to the embassy Soe Aung would be expelled from the U.K., following…",
+          "publishedAt": "2026-11-22T23:26:00.000Z"
+        },
+        {
+          "title": "Military arms 23 former resistance fighters as pro-regime militias in Sagaing Region",
+          "link": "https://english.dvb.no/military-arms-23-former-resistance-fighters-as-pro-regime-militias-in-sagaing-region/",
+          "summary": "Twenty-three former local resistance fighters who previously operated outside the National Unity Government’s (NUG) chain of command have been armed and inducted into pro-regime militias in Sagaing Township’s Sartaung…",
+          "publishedAt": "2026-11-22T22:15:36.000Z"
+        },
         {
           "title": "What are Myanmar migrants in Thailand boycotting?",
           "link": "https://english.dvb.no/what-are-myanmar-migrants-in-thailand-boycotting/",
@@ -138,36 +161,6 @@
           "link": "https://english.dvb.no/myanmar-genocide-judgment-may-bolster-gaza-case-against-israel/",
           "summary": "The International Court of Justice’s landmark ruling that Myanmar committed genocide against the Rohingya will strengthen South Africa’s genocide case against Israel over the war in Gaza, legal experts said, establishing…",
           "publishedAt": "2026-11-21T23:09:16.000Z"
-        },
-        {
-          "title": "UN General Assembly President visits Rohingya refugees in Bangladesh after ICJ ruling",
-          "link": "https://english.dvb.no/un-general-assembly-president-visits-rohingya-refugees-in-bangladesh-after-icj-ruling/",
-          "summary": "A day after the U.N.’s highest court found that Myanmar had committed genocide against the Rohingya, the President of the General Assembly visited the refugee camps in Cox’s Bazar, Bangladesh, urging the world to turn…",
-          "publishedAt": "2026-11-21T02:18:22.000Z"
-        },
-        {
-          "title": "NUG and KNU welcome ICJ genocide ruling, urge global ban on arms and aviation fuel to regime",
-          "link": "https://english.dvb.no/nug-and-knu-welcome-icj-genocide-ruling-urge-global-ban-on-arms-and-aviation-fuel-to-junta/",
-          "summary": "Myanmar’s National Unity Government (NUG) and the Karen National Union (KNU) have welcomed the landmark International Court of Justice (ICJ) judgment finding Myanmar responsible for genocide against the Rohingya,…",
-          "publishedAt": "2026-11-20T22:45:12.000Z"
-        },
-        {
-          "title": "Rights groups urge sanctions after ICJ rules Myanmar committed genocide against Rohingya",
-          "link": "https://english.dvb.no/rights-groups-urge-sanctions-after-top-un-court-finds-myanmar-committed-genocide-against-rohingya/",
-          "summary": "Rights groups are calling for military and economic sanctions against Myanmar after the United Nations’ highest court, in the first ruling of its kind, determined that the country committed genocide against the Rohingya…",
-          "publishedAt": "2026-11-20T22:26:37.000Z"
-        },
-        {
-          "title": "Trump says aide raised with Chinese side detention of two Americans",
-          "link": "https://english.dvb.no/trump-says-aide-raised-with-chinese-side-detention-of-two-americans/",
-          "summary": "U.S. President Donald Trump on Thursday told Reuters that an aide raised with Chinese officials during his visit to China the cases ​of two Americans – Youlin Chen and Min Zin – designated by Washington as wrongfully…",
-          "publishedAt": "2026-11-20T09:03:19.000Z"
-        },
-        {
-          "title": "Malaysia removes post announcing plan to resettle 10,000 Rohingya in Turkey",
-          "link": "https://english.dvb.no/malaysia-says-it-will-resettle-10000-rohingya-refugees-in-turkey/",
-          "summary": "Malaysia said on Friday that it would ​resettle 10,000 Rohingya refugees in Turkey through ‌a structured skills training programme, but the statement announcing the plan was later removed from Deputy Prime Minister…",
-          "publishedAt": "2026-11-20T08:56:46.000Z"
         }
       ]
     }

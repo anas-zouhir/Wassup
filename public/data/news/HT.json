@@ -8,8 +8,13 @@
         "homepage": "https://lenouvelliste.com",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-22T18:34:28.657Z",
+      "fetchedAt": "2026-11-23T07:04:39.204Z",
       "items": [
+        {
+          "title": "In Haiti, 3 Salvadorans dead, 4 others missing",
+          "link": "https://lenouvelliste.com/article/274143/in-haiti-3-salvadorans-dead-4-others-missing",
+          "publishedAt": "2026-11-22T16:19:21.000Z"
+        },
         {
           "title": "A 3rd Salvadoran soldier succumbs to injuries, tributes from the Haitian government and the FRG",
           "link": "https://lenouvelliste.com/article/274139/a-3rd-salvadoran-soldier-succumbs-to-injuries-tributes-from-the-haitian-government-and-the-frg",
@@ -63,12 +68,6 @@
           "link": "https://lenouvelliste.com/article/274056/recruitment-training-equipment-and-territorial-reorganization-mario-andresol-updates-on-the-fadh",
           "publishedAt": "2026-11-20T20:01:06.000Z",
           "titleEn": "Recruitment, Training, Equipment and Territorial Reorganization: Mario Andrésol Updates on the FAd'H"
-        },
-        {
-          "title": "Hans Joseph makes the fight against corruption his ticket to the National Palace",
-          "link": "https://lenouvelliste.com/article/274080/hans-joseph-makes-the-fight-against-corruption-his-ticket-to-the-national-palace",
-          "publishedAt": "2026-11-20T19:11:01.000Z",
-          "titleEn": "Hans Joseph makes the fight against corruption his ticket to the National Palace"
         }
       ]
     },
@@ -79,7 +78,7 @@
         "homepage": "https://www.haitilibre.com",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-22T18:34:28.761Z",
+      "fetchedAt": "2026-11-23T07:04:39.374Z",
       "items": [
         {
           "title": "Haïti - Actualité : Zapping...",
@@ -180,8 +179,14 @@
         "homepage": "https://www.juno7.ht",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-22T18:34:28.707Z",
+      "fetchedAt": "2026-11-23T07:04:39.377Z",
       "items": [
+        {
+          "title": "Haïti : un concours national de création de sapins de Noël en matériaux recyclés lancé pour les communes",
+          "link": "https://www.juno7.ht/defi-abdenwel-kominal-2026-sapins-noel-recycles/",
+          "summary": "Le ministère de l’Intérieur invite les mairies à participer au « Défi Abdenwèl Kominal 2026 ». Les inscriptions sont ouvertes du 20 au 30 novembre. Le ministère de l’Intérieur et des Collectivités territoriales (MICT),…",
+          "publishedAt": "2026-11-22T18:48:15.000Z"
+        },
         {
           "title": "BRH : Ronald Gabriel prend part à une réunion des gouverneurs des banques centrales de la CARICOM au Belize",
           "link": "https://www.juno7.ht/brh-ronald-gabriel-banques-centrales-caricom-belize/",
@@ -253,14 +258,6 @@
           "publishedAt": "2026-11-20T11:41:30.000Z",
           "titleEn": "Haiti  ⁇  BRH reference rate: Friday 20 November 2026",
           "summaryEn": "The Bank of the Republic of Haiti (BRH) calculates the reference rate for the day at 130.82 guards per US dollar (USD). The HRC establishes this rate on the basis of foreign exchange transactions and purchases."
-        },
-        {
-          "title": "Transférer de l’argent entre institutions : la BRH prépare la PPIH pour janvier 2027",
-          "link": "https://www.juno7.ht/brh-ppih-paiement-instantane-janvier-2027/",
-          "summary": "La première phase de la Plateforme de paiement instantané d’Haïti (PPIH) doit être lancée le 21 janvier 2027 dans les départements du Nord, du Sud et de l’Ouest. Cette initiative de la Banque de la République d’Haïti…",
-          "publishedAt": "2026-11-19T23:07:59.000Z",
-          "titleEn": "Transferring money between institutions: the HRA prepares the PPIH for January 2027",
-          "summaryEn": "The first phase of the Haitian Instant Payment Platform (IPIPP) is to be launched on 21 January 2027 in the northern, southern and western departments. This initiative by the Bank of the Republic of Haiti..."
         }
       ]
     }

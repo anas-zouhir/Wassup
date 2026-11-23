@@ -8,87 +8,67 @@
         "homepage": "https://www.tagesschau.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-22T18:34:17.580Z",
+      "fetchedAt": "2026-11-23T07:04:23.653Z",
       "items": [
         {
-          "title": "Prien verurteilt Angriff auf FDP-Politikerin Preisler bei Demo",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
-          "summary": "Zwei Frauen sollen die Berliner FDP-Politikerin Preisler am Rande einer pro-palästinensischen Demonstration geschubst und getreten haben. Bundesfamilienministerin Prien kritisiert das scharf. Von Mario Kubina.",
-          "publishedAt": "2026-11-22T17:36:50.000Z",
-          "titleEn": "Prien convicted of assaulting FDP politician Preisler at Demo",
-          "summaryEn": "Two women are alleged to have pushed and kicked Berlin FDP politician Preisler on the edge of a pro-Palestinian demonstration. Federal Home Secretary Prien is sharply critical of this. It's from Mario Kubina."
+          "title": "Neue Warnstreiks in Metall- und Elektroindustrie angelaufen",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html",
+          "summary": "In der Metall- und Elektroindustrie in Norddeutschland läuft seit der Nacht der nächste Warnstreik. Vielerorts sind die Tarifverhandlungen festgefahren. Die Gewerkschaft IG Metall fordert fünf Prozent mehr Gehalt.",
+          "publishedAt": "2026-11-23T06:48:24.000Z"
         },
         {
-          "title": "NRW-AfD einigt sich auf Programm für Landtagswahl",
-          "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-nrw-wahlprogramm-100.html",
-          "summary": "Der NRW-Landesverband der AfD hat das Wahlprogramm für 2027 verabschiedet. Zentrale Punkte zur Asylpolitik wurden von der AfD in Sachsen-Anhalt übernommen. Der Parteitag verlief trotz zerstrittener Lager überraschend…",
-          "publishedAt": "2026-11-22T14:20:00.000Z",
-          "titleEn": "NRW-AfD agrees to a programme for parliamentary elections",
-          "summaryEn": "The AfD's NRW National Federation has adopted the 2027 electoral programme. The AfD in Saxony-Anhalt has adopted key points on asylum policy. The congress went on surprisingly, despite the disputed camps."
+          "title": "Marktbericht: DAX-Ausverkauf wohl gestoppt",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
+          "summary": "Nach einer extrem schwachen Vorwoche dürfte der DAX heute einen Erholungskurs fahren. Die Fragen rund um das Thema KI sind zwar nicht gelöst, aber die niedrigeren Kurse locken Schnäppchenjäger in den Markt.",
+          "publishedAt": "2026-11-23T06:36:17.000Z"
         },
         {
-          "title": "Türkei: Tausende demonstrieren in Istanbul für Pressefreiheit",
-          "link": "https://www.tagesschau.de/ausland/europa/tuerkei-proteste-pressefreiheit-100.html",
-          "summary": "Nach der Schließung mehrerer oppositionsnaher Medien sind in Istanbul Tausende Menschen auf die Straße gegangen. Zu der Demonstration hatte die größte Oppositionspartei Yeni aufgerufen.",
-          "publishedAt": "2026-11-22T16:19:14.000Z",
-          "titleEn": "Turkey: Thousands protest for freedom of the press in Istanbul",
-          "summaryEn": "After the closure of several opposition media outlets, thousands of people took to the streets in Istanbul. The demonstration was called by the largest opposition party Yeni."
+          "title": "Deutschland auf großflächigen Satelliten-Ausfall nicht vorbereitet",
+          "link": "https://www.tagesschau.de/investigativ/ndr-wdr/satelliten-ausfall-100.html",
+          "summary": "Wenn im Weltraum großflächig Satelliten ausfielen, hätte das einschneidende Folgen auf der Erde - und dennoch gibt es für ein solches Szenario nach Informationen von WDR, NDR und SZ derzeit noch keinen Krisenplan.",
+          "publishedAt": "2026-11-23T05:00:22.000Z"
         },
         {
-          "title": "Kommentar zur COP31: Großes Versagen - vielleicht auch ein Anfang",
-          "link": "https://www.tagesschau.de/kommentar/weltklimakonferenz-cop31-scheitern-100.html",
-          "summary": "Der Ausgang der Klimakonferenz ist ein großes Versagen, meint Arne Schulz. Verantwortliche gibt es mehrere. Und jetzt? Vielleicht ergeben sich gerade durch das Scheitern ganz neue Chancen.",
-          "publishedAt": "2026-11-22T16:08:20.000Z",
-          "titleEn": "Commentary on COP31: A major failure - perhaps a start",
-          "summaryEn": "The outcome of the climate conference is a major failure, says Arne Schulz. There are several people responsible. - What's the matter now? Maybe failure is just the beginning of new opportunities."
+          "title": "Geheimdienste warnen: Russland soll Atomwaffe im Weltraum vorbereiten",
+          "link": "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html",
+          "summary": "Westliche Geheimdienste gehen nach Recherchen von WDR, NDR und SZ davon aus, dass Russland noch dieses Jahr einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen will. Die Bundeswehr schlägt intern bereits…",
+          "publishedAt": "2026-11-23T05:00:06.000Z"
         },
         {
-          "title": "Gebrauchte Elektroautos: Alternative oder Schrott?",
-          "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
-          "summary": "Elektroautos sind gefragter denn je - auch angesichts steigender Kraftstoffpreise. Mit Verzögerung zeigt sich der Boom nun bei Gebrauchtwagenhändlern, allerdings mit Einschränkungen. Von Jörn Kersten.",
-          "publishedAt": "2026-11-22T15:36:15.000Z",
-          "titleEn": "Used electric cars: alternative or scrap?",
-          "summaryEn": "Electric cars are in greater demand than ever - even in the face of rising fuel prices. With delay, the boom is now showing itself among used car dealers, but with restrictions. It's from Jörn Christmas."
+          "title": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
+          "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
+          "summary": "Das russische Militär geht weiter unvermindert gegen die Zivilbevölkerung in der Ukraine vor. Mindestens zehn Menschen wurden getötet, als in der Nacht zu Sonntag ein Wohnhaus in der Region Kiew angegriffen wurde.",
+          "publishedAt": "2026-11-23T04:43:07.000Z"
         },
         {
-          "title": "Brand in indonesischer Süßwarenfabrik - viele Tote befürchtet",
-          "link": "https://www.tagesschau.de/ausland/asien/indonesien-brand-fabrik-tote-vermisste-100.html",
-          "summary": "Nach einem Feuer in einer Fabrik westlich von Indonesiens Hauptstadt Jakarta gibt es mehrere Tote. Etwa 60 Menschen sollen sich zum Zeitpunkt des Ausbruchs im Gebäude aufgehalten haben. Viele werden noch vermisst.",
-          "publishedAt": "2026-11-22T15:21:42.000Z",
-          "titleEn": "Indonesian confectionery factory fire - deaths feared",
-          "summaryEn": "After a fire in a factory west of Indonesia's capital Jakarta, there are several dead. Approximately 60 people were believed to be in the building at the time of the explosion. Many are still missing."
+          "title": "US-Repräsentantenhaus: Demokraten so stark wie zuletzt 1992",
+          "link": "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html",
+          "summary": "Die Demokraten haben ihre Mehrheit im US-Repräsentantenhaus weiter ausgebaut. Ab Januar stellen sie dort mindestens 258 Abgeordnete - zuletzt gelang ihnen dies vor mehr als 30 Jahren zu Zeiten von Bill Clinton.",
+          "publishedAt": "2026-11-23T00:55:05.000Z"
         },
         {
-          "title": "Türkischer Sender Sözcü TV: Journalismus unter Zwangsverwaltung",
-          "link": "https://www.tagesschau.de/ausland/asien/tuerkei-sender-soezcue-zwangsverwaltung-100.html",
-          "summary": "Der regierungskritische türkische Sender Sözcü steht seit wenigen Tagen unter Zwangsverwaltung. Für die Journalisten war die Razzia ein Schock - wie hat sich seitdem ihre Arbeit verändert? Von Isabel Gotovac.",
-          "publishedAt": "2026-11-22T14:21:45.000Z",
-          "titleEn": "Turkish broadcaster Sözcü TV: Journalism under compulsory administration",
-          "summaryEn": "The government-criticizing Turkish broadcaster Sözcü has been forcibly detained for a few days. For the journalists, the raid was a shock - how has their work changed since then? This is Isabel Gotovac."
+          "title": "Buhrufe und Pfiffe gegen BVB-Boss Cramer wegen Fall Nmecha",
+          "link": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
+          "summary": "Der religiös motivierte Kronen-Jubel von BVB-Fußballer Nmecha hat für Diskussionen gesorgt. Bei der Mitgliederversammlung des Vereins äußerte sich Geschäftsführer Cramer nur indirekt. Nmecha sei ein \"tadelloser Mensch\".…",
+          "publishedAt": "2026-11-22T19:58:18.000Z"
         },
         {
-          "title": "Nach Drohnenangriff: Löscharbeiten an der \"Sparta II\" dauern an",
-          "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html",
-          "summary": "Noch immer laufen die Löscharbeiten an dem russischen Frachter in der Ostsee vor Finnland. Was das Schiff geladen hat, ist weiterhin unklar. Es war von einer Drohne getroffen worden - vermutlich aus der Ukraine.",
-          "publishedAt": "2026-11-22T11:41:16.000Z",
-          "titleEn": "Following the drone attack: Destruction work on Sparta II continues",
-          "summaryEn": "The Russian freighter in the Baltic Sea is still undergoing extermination work outside Finland. The ship's cargo remains unclear. It was hit by a drone, probably from Ukraine."
+          "title": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
+          "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
+          "summary": "Am Samstag war der russische Frachter \"Sparta II\" in der Ostsee von einer Drohne getroffen worden und in Brand geraten. Laut finnischem Grenzschutz hat das Schiff Schlagseite, kann aber in russische Gewässer geschleppt…",
+          "publishedAt": "2026-11-22T19:53:03.000Z"
         },
         {
-          "title": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
-          "link": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
-          "summary": "Einzelaktien bieten etwas, was ein Welt-ETF kaum kann: Die Chance darauf, das Depot individueller zu gestalten und höhere Renditen zu erzielen. Gleichzeitig sind sie riskanter, zeitintensiver und komplexer. Von L.-M.…",
-          "publishedAt": "2026-11-22T10:25:29.000Z",
-          "titleEn": "Are individual stocks a cost trap or a gold mine?",
-          "summaryEn": "Individual stocks offer something that a global ETF can barely do: the opportunity to make the deposit more individual and yield higher. At the same time, they are more risky, time-consuming and complex. From L-M..."
+          "title": "TK-Chef Baas: Mehr Geld schafft keine Arzttermine",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
+          "summary": "Schneller zum Facharzt gegen Bezahlung? Die Einschätzung von Kassenärzte-Chef Gassen hat Kritik ausgelöst. Mehr Geld löse das Problem nicht, sagt TK-Chef Baas im Bericht aus Berlin - und fordert stattdessen ein…",
+          "publishedAt": "2026-11-22T19:24:22.000Z"
         },
         {
-          "title": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
-          "link": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html",
-          "summary": "Die Weltklimakonferenz in Antalya ist schon in der Verlängerung, um ein Beschlusspapier wird heftig gerungen. Nun hat Umweltminister Schneider den Entwurf scharf zurückgewiesen - und erhebt Vorwürfe gegen einige Staaten.",
-          "publishedAt": "2026-11-22T11:19:54.000Z",
-          "titleEn": "COP31: Final text 'not eligible for approval by Germany'",
-          "summaryEn": "The World Climate Conference in Antalya is already in the process of being extended, so that a resolution paper is being vigorously circulated. Now Environment Minister Schneider has sharply rejected the draft - and is making accusations against some states."
+          "title": "Explosion auf russischem Schiff in Libyen - Behörden vermuten Drohnenangriff",
+          "link": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
+          "summary": "In einem Hafen der ostlibyschen Stadt Bengasi hat es eine Explosion auf einem russischen Kriegsschiff gegeben. Die Behörden gehen von einem Angriff mit Drohnen aus. Berichten zufolge wird die Ukraine verantwortlich…",
+          "publishedAt": "2026-11-23T00:51:02.000Z"
         }
       ]
     },
@@ -99,97 +79,77 @@
         "homepage": "https://www.spiegel.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-22T18:34:17.469Z",
+      "fetchedAt": "2026-11-23T07:04:22.944Z",
       "items": [
         {
-          "title": "COP31 in Antalya: Klimakonferenz endet ohne gemeinsame Abschlusserklärung",
-          "link": "https://www.spiegel.de/ausland/cop31-in-antalya-klimakonferenz-endet-ohne-gemeinsame-abschlusserklaerung-a-bd3592c1-a2b1-41be-a497-33522c4e6cf7#ref=rss",
-          "summary": "Die Uno-Klimakonferenz geht ohne gemeinsamen Text zu Ende. SPIEGEL-Redakteurin Susanne Götze über einen Plenarsaal voller Frust und einen überforderten Gastgeber.",
-          "image": "https://cdn.prod.www.spiegel.de/images/5d86c326-eb96-4300-8958-83329af4b04f_w520_r2.08_fpx50_fpy46.1.jpg",
-          "publishedAt": "2026-11-22T18:23:00.000Z",
-          "titleEn": "COP31 in Antalya: the climate conference ends without a joint final declaration",
-          "summaryEn": "The United Nations Climate Change Conference will end without a common text. SPIEGEL editor Susanne Götze about a plenary session full of frustration and an overwhelmed host."
+          "title": "Russland: Moskau soll laut Medienberichten Atomwaffe im Weltraum vorbereiten",
+          "link": "https://www.spiegel.de/ausland/russland-moskau-soll-laut-medienberichten-atomwaffe-im-weltraum-vorbereiten-a-10573e3d-4a7d-4f77-8b22-6af9dbabf94c#ref=rss",
+          "summary": "Westliche Geheimdienste gehen offenbar davon aus, dass Russland zeitnah einen Atomsprengkopf ins All bringen könnte. Das melden WDR, NDR und »Süddeutsche Zeitung«. Moskau weist die Berichte zurück.",
+          "image": "https://cdn.prod.www.spiegel.de/images/4acaa439-4f26-450b-82be-1653195fb057_w520_r2.08_fpx35.79_fpy49.99.jpg",
+          "publishedAt": "2026-11-23T06:52:00.000Z"
         },
         {
-          "title": "Krank durchs Krankenhaus: Bettruhe macht viele ältere Patienten zu Pflegefällen",
-          "link": "https://www.spiegel.de/wissenschaft/medizin/krank-durchs-krankenhaus-bettruhe-macht-viele-aeltere-patienten-zu-pflegefaellen-a-fa5eb3c6-7018-440c-9ae9-a0dd6d65f7d0#ref=rss",
-          "summary": "Sie kommen mit einem akuten Problem in die Klinik, werden stationär behandelt. Jeder dritte ältere Mensch ist danach aber gebrechlicher als vorher. Dabei gibt es Methoden gegen den Kraftverlust.",
-          "image": "https://cdn.prod.www.spiegel.de/images/4056d7da-55aa-4553-8bcc-2824037bf4fe_w520_r2.08_fpx46_fpy47.jpg",
-          "publishedAt": "2026-11-22T18:21:00.000Z",
-          "titleEn": "Hospital sickness: bed resting causes many elderly patients to become nursing home",
-          "summaryEn": "They come to the clinic with an acute problem, they're being treated inpatiently. One in three older people is more frail than before. There are methods to combat power loss."
+          "title": "Siemens-Chef Busch bescheinigt deutscher Industrie großes KI-Talent",
+          "link": "https://www.spiegel.de/wirtschaft/siemens-chef-busch-bescheinigt-deutscher-industrie-grosses-ki-talent-a-44d2b992-08e0-4848-a205-3f4743eb0244#ref=rss",
+          "summary": "Siemens-Chef Roland Busch sieht die deutsche Industrie im Rennen um die besten KI-Modelle gut gerüstet. Der Konkurrenzkampf mit China könnte speziell die US-Konzerne aber noch eine Menge Geld kosten.",
+          "image": "https://cdn.prod.www.spiegel.de/images/9ef73de2-c81f-4e92-80db-2d1c19a11ed9_w520_r2.08_fpx36.66_fpy49.jpg",
+          "publishedAt": "2026-11-23T06:43:00.000Z"
         },
         {
-          "title": "Türkei: Tausende protestieren in Istanbul gegen Schließung regierungskritischer Medien",
-          "link": "https://www.spiegel.de/ausland/tuerkei-tausende-protestieren-in-istanbul-gegen-schliessung-regierungskritischer-medien-a-96b78e92-3227-42f7-9a22-4cd1494db7a8#ref=rss",
-          "summary": "Sender und Websites geschlossen, Journalisten festgenommen: In Istanbul gehen Menschen für die Pressefreiheit auf die Straße.",
-          "image": "https://cdn.prod.www.spiegel.de/images/c2a788c8-b2b7-4dfc-9a51-65300985a65e_w520_r2.08_fpx57.11_fpy49.86.jpg",
-          "publishedAt": "2026-11-22T18:20:00.000Z",
-          "titleEn": "Turkey: Thousands protest in Istanbul against the closure of government-critical media",
-          "summaryEn": "Broadcasters and websites shut down, journalists arrested: In Istanbul, people take to the streets for press freedom."
+          "title": "Teenager und Ihre Handys: Ihr Kind hängt nur noch am Handy? 6 Tipps, ohne Verbote",
+          "link": "https://www.spiegel.de/psychologie/teenager-und-ihre-handys-ihr-kind-haengt-nur-noch-am-handy-6-tipps-ohne-verbote-a-d9bf6406-8227-4dec-b3bc-681108e845cc#ref=rss",
+          "summary": "Daddeln, scrollen, posten: Medienpädagogin Kristin Langer sagt, auf welche Warnsignale Eltern bei ihren Kindern achten sollten. Und wie eine Familienchallenge gegen Bildschirmsucht hilft.",
+          "image": "https://cdn.prod.www.spiegel.de/images/f9020d2a-e4aa-4164-a078-35ec72191422_w520_r2.08_fpx47_fpy42.jpg",
+          "publishedAt": "2026-11-23T06:25:00.000Z"
         },
         {
-          "title": "Nvidia: Verbindungen zwischen Alice Huang und Chinas Chip-Unterwelt?",
-          "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verbindungen-zwischen-alice-huang-und-chinas-chip-unterwelt-a-87b31bb5-ed67-4363-bfd5-782009a3d796#ref=rss",
-          "summary": "Die frühere Geliebte von Ex-Nvidia-Chef Jensen Huang soll laut »Financial Times« Verbindungen zu Firmen gehabt haben, die Computerchips des Konzerns illegal in China verkauft haben. Das könnte Licht in den mysteriösen…",
-          "image": "https://cdn.prod.www.spiegel.de/images/142cbf25-0aa6-483e-891e-aad7af01c2b9_w520_r2.08_fpx43.2_fpy44.97.jpg",
-          "publishedAt": "2026-11-22T17:34:00.000Z",
-          "titleEn": "Links between Alice Huang and China's chip underworld?",
-          "summaryEn": "The former mistress of former Nvidia CEO Jensen Huang reportedly had ties to companies that illegally sold the company's computer chips in China. It could shed light on the mysterious..."
+          "title": "Polen: Alle abgestürzten Objekte als russische Marschflugkörper identifiziert",
+          "link": "https://www.spiegel.de/ausland/polen-alle-abgestuerzten-objekte-als-russische-marschflugkoerper-identifiziert-a-1a40ce3b-9f31-45f1-a0e8-1657f57dbd22#ref=rss",
+          "summary": "Im Südosten Polens stürzten vergangene Woche drei militärische Flugobjekte ab. Den polnischen Behörden zufolge handelt es sich dabei in allen Fällen um Marschflugkörper aus Russland.",
+          "image": "https://cdn.prod.www.spiegel.de/images/d5612979-11b5-41aa-85c8-68e5af9cdf57_w520_r2.08_fpx66.21_fpy50.jpg",
+          "publishedAt": "2026-11-23T06:09:00.000Z"
         },
         {
-          "title": "Alex Kukla: Deutscher lief sieben Marathons in sieben Tagen auf sieben Kontinenten",
-          "link": "https://www.spiegel.de/sport/alex-kukla-deutscher-lief-sieben-marathons-in-sieben-tagen-auf-sieben-kontinenten-a-dffc40a5-95f3-4b86-8680-90fafdae74bc#ref=rss",
-          "summary": "Früher Fallschirmjäger bei der Bundeswehr, heute Sport-Influencer: Alex Kukla hat nach eigener Aussage mehr als 130.000 Euro investiert, um am »Great World Race« teilzunehmen. Mit Erfolg.",
-          "image": "https://cdn.prod.www.spiegel.de/images/c30acd67-abf9-4e85-bd9d-6174bfc40ea7_w520_r2.08_fpx48_fpy26.png",
-          "publishedAt": "2026-11-22T17:30:00.000Z",
-          "titleEn": "Alex Kukla: Germans ran seven marathons in seven days on seven continents",
-          "summaryEn": "Former paratrooper in the Bundeswehr, now a sports influencer: Alex Kukla has said he has invested more than 130,000 euros to participate in the Great World Race. With success."
+          "title": "Audi A2 im Test: Sparn, sparn, sparn auf der Autobahn",
+          "link": "https://www.spiegel.de/mobilitaet/auto/audi-a2-im-test-sparn-sparn-sparn-auf-der-autobahn-a-e58450ca-8527-4500-8dae-b1ac908841e8#ref=rss",
+          "summary": "In den USA setzt Audi auf fette SUV und die Nähe zu Präsident Trump, zu Hause eher auf Effizienz. Das Sparmobil A2 erinnert stark an seinen ikonischen Vorgänger von 2000. Am meisten Spaß bringt es, den Fuß vom Gas zu…",
+          "image": "https://cdn.prod.www.spiegel.de/images/e5bf3812-d82b-4133-93ff-e08003ef4f2a_w520_r2.08_fpx36.55_fpy50.87.jpg",
+          "publishedAt": "2026-11-23T06:02:00.000Z"
         },
         {
-          "title": "Uno-Klimakonferenz: Die Ölproduzenten haben Angst, die Europäer reden sich raus",
-          "link": "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-die-oelproduzenten-haben-angst-die-europaeer-reden-sich-raus-a-3805b4d7-2a8e-40e3-9b7b-d36d3ff3d6dc#ref=rss",
-          "summary": "Sonne und Wind schaffen, was die Diplomatie nicht schafft: Sie gefährden das Geschäft der Fossilstaaten. Auch deshalb eskaliert jetzt der Kampf ums Klima. Doch auch die vermeintlichen Vorreiter haben eine Schwachstelle.",
-          "image": "https://cdn.prod.www.spiegel.de/images/c65b3a71-646d-4c71-929c-b20e1399b12d_w520_r2.08_fpx35.31_fpy46.97.jpg",
-          "publishedAt": "2026-11-22T17:20:00.000Z",
-          "titleEn": "UN climate conference: Oil producers fear Europeans will speak out",
-          "summaryEn": "Sun and wind create what diplomacy cannot: they jeopardize the business of fossil states. That is also why the fight for climate is now escalating. But even the alleged pioneers have a weakness."
+          "title": "Verschärfung der Regeln für Altersteilzeit könnte Milliarden einbringen",
+          "link": "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7#ref=rss",
+          "summary": "Die Rentenkommission der Bundesregierung spricht sich für strengere Regelungen bei der Altersteilzeit aus. Experten des DIW haben jetzt ausgerechnet, was ein solcher Schritt für Staats- und Rentenkassen bringen könnte.",
+          "image": "https://cdn.prod.www.spiegel.de/images/5bfc9561-0608-4b84-8e9a-143ef1c9b175_w520_r2.08_fpx48.57_fpy44.99.jpg",
+          "publishedAt": "2026-11-23T05:58:00.000Z"
         },
         {
-          "title": "Längste Uno-Klimakonferenz endet nach mehr als 49 Stunden Verlängerung",
-          "link": "https://www.spiegel.de/wissenschaft/laengste-uno-klimakonferenz-endet-nach-mehr-als-49-stunden-verlaengerung-a-2e50ff21-e484-4379-bbca-6147f83a0286#ref=rss",
-          "summary": "Mit obligatorischem Hammerschlag aber ohne Abschlusserklärung: Die 31 Ausgabe der Weltklimakonferenz ist beendet. Ein gemeinsamer Beschluss war am Streit über die Abkehr von fossilen Energien gescheitert.",
-          "image": "https://cdn.prod.www.spiegel.de/images/5b8bee18-ac3a-4420-8992-1b3a1f0e7095_w520_r2.08_fpx44_fpy46.jpg",
-          "publishedAt": "2026-11-22T16:59:00.000Z",
-          "titleEn": "The longest UN climate conference ends after more than 49 hours of extension",
-          "summaryEn": "With a mandatory hammer blow but without a final declaration: the 31st edition of the World Climate Conference is over. A joint decision on the dispute over the withdrawal of fossil fuels had failed."
+          "title": "Israel: Gadi Eisenkot und Netanyahus Partei verhandeln erneut ohne Ergebnis",
+          "link": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-und-netanyahus-partei-verhandeln-erneut-ohne-ergebnis-a-10b7b368-76d9-449a-8dc7-e6f0ecd1048e#ref=rss",
+          "summary": "Der mit Israels Regierungsbildung beauftragte Gadi Eisenkot muss in den nächsten Wochen eine Mehrheit in der Knesset hinter sich vereinen. Nun trennten sich seine Partei und Netanyahus Likud erneut ohne Annäherung.",
+          "image": "https://cdn.prod.www.spiegel.de/images/4be29114-6dd8-4f3d-bfd4-fed7c80685a8_w520_r2.08_fpx38.64_fpy49.99.jpg",
+          "publishedAt": "2026-11-23T05:52:00.000Z"
         },
         {
-          "title": "»BepiColombo«: Doppelsonde von ESA und Jaxa in Merkur-Umlaufbahn",
-          "link": "https://www.spiegel.de/wissenschaft/weltall/bepicolombo-doppelsonde-von-esa-und-jaxa-in-merkur-umlaufbahn-a-097c2f75-6331-4e5b-9a7d-014ab11f0596#ref=rss",
-          "summary": "2018 haben Europa und Japan ein Orbiter-Paar losgeschickt, um den sonnennahen Planeten Merkur zu erforschen. Nun ist »BepiColombo« in die Umlaufbahn eingetreten. Bald sollen sich die beiden Satelliten trennen und Daten…",
-          "image": "https://cdn.prod.www.spiegel.de/images/59912b0e-e88b-431b-83e7-fe8087e54be4_w520_r2.08_fpx56.23_fpy50.jpg",
-          "publishedAt": "2026-11-22T16:43:00.000Z",
-          "titleEn": "⁇ BepiColombo ⁇ : Double probe of ESA and Jaxa in orbit around Mercury",
-          "summaryEn": "In 2018, Europe and Japan launched a pair of orbiters to explore the nearby planet Mercury. Now  ⁇ BepiColombo ⁇  has entered orbit. Soon, the two satellites will be separated and data..."
+          "title": "Wetter in Deutschland am Montag: Vorsicht vor glatten Straßen und Schnee",
+          "link": "https://www.spiegel.de/panorama/wetter-in-deutschland-am-montag-vorsicht-vor-glatten-strassen-und-schnee-a-044db7e3-ca32-4e87-a8b9-986780ca4ee5#ref=rss",
+          "summary": "Straßen, Fuß- und Radwege können laut Deutschem Wetterdienst vielerorts glatt sein. Auch Schnee in tieferen Lagen möglich, genauso wie Temperaturen bis zu minus fünf Grad. Der Winterdienst steht bereit.",
+          "image": "https://cdn.prod.www.spiegel.de/images/8b4d8129-c654-43e8-8caa-5c3ba0c10390_w520_r2.08_fpx29.21_fpy44.99.jpg",
+          "publishedAt": "2026-11-23T05:31:00.000Z"
         },
         {
-          "title": "Benzin und Diesel: Gibt es mehr Kraftstoffklau, seit die Preise so hoch sind?",
-          "link": "https://www.spiegel.de/panorama/benzin-und-diesel-gibt-es-mehr-kraftstoffklau-seit-die-preise-so-hoch-sind-a-aa94de4d-ae4f-4f50-bb1c-d31077954642#ref=rss",
-          "summary": "Nicht einmal Betonblöcke können sie aufhalten: Ein Tankstellenpächter und ein Kieswerkbetreiber zeigen, wie dreist Diebe vorgehen, um an Benzin zu kommen. Gibt es mehr Fälle, seit die Preise so hoch sind?",
-          "image": "https://cdn.prod.www.spiegel.de/images/712b3d4d-b6e1-4f8f-a8e1-cef356c91070_w520_r2.08_fpx32.61_fpy50.jpg",
-          "publishedAt": "2026-11-22T16:11:00.000Z",
-          "titleEn": "Gasoline and diesel: Is there more fuel shortage since prices are so high?",
-          "summaryEn": "Not even concrete blocks can stop them: A gas station operator and a gravel mill operator show how thieves do to get gasoline. Have there been more cases since the prices went so high?"
+          "title": "EU-Parlament: Erlebt die Brandmauer in Brüssel ein Comeback?",
+          "link": "https://www.spiegel.de/politik/deutschland/eu-parlament-erlebt-die-brandmauer-in-bruessel-ein-comeback-a-8c5dfa3d-9070-4924-a891-919d5398f45a#ref=rss",
+          "summary": "Zuletzt suchten Konservative im EU-Parlament Mehrheiten mit Rechtsextremen. Doch jetzt steht nach SPIEGEL-Informationen ein Kurswechsel bevor: Es soll eine Abmachung der politischen Mitte geben.",
+          "image": "https://cdn.prod.www.spiegel.de/images/366e08c2-dcbb-40bd-92b8-2ba0c2058b42_w520_r2.08_fpx37.34_fpy50.jpg",
+          "publishedAt": "2026-11-23T04:54:00.000Z"
         },
         {
-          "title": "COP31 in Antalya: Erste Reaktionen auf das Scheitern der Abschlusserklärung",
-          "link": "https://www.spiegel.de/wissenschaft/cop31-in-antalya-erste-reaktionen-auf-das-scheitern-der-abschlusserklaerung-a-877fe48c-bbb4-4f03-ad92-2ad8e2be9f23#ref=rss",
-          "summary": "Trotz Rekordlänge konnten sich die Beteiligten der Weltklimakonferenz nicht zu einer gemeinsamen Erklärung durchringen. Die Stimmen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/fb32c938-6d22-4951-9d00-3aebb0f18aae_w520_r2.08_fpx39.22_fpy54.85.jpg",
-          "publishedAt": "2026-11-22T15:58:00.000Z",
-          "titleEn": "COP31 in Antalya: First reactions to the failure of the final declaration",
-          "summaryEn": "Despite the record length, the participants of the World Climate Conference were unable to reach a joint declaration. The voices."
+          "title": "Black Friday und Black Week: So finden Sie mit KI-Tools wie ChatGPT echte Angebote",
+          "link": "https://www.spiegel.de/netzwelt/web/black-friday-und-black-week-so-finden-sie-mit-ki-tools-wie-chatgpt-echte-angebote-a-dfce1d89-b147-4631-952a-3ca4ffc24077#ref=rss",
+          "summary": "Rabatte, Coupons, Sonderaktionen: Zur Black Week ist das Netz voll von Angeboten. So helfen KI-Dienste wie ChatGPT, Claude und Gemini, echte Schnäppchen aufzuspüren und Betrugsfallen zu erkennen.",
+          "image": "https://cdn.prod.www.spiegel.de/images/13741853-0ac2-4315-a04f-5ee7fc196d17_w520_r2.08_fpx53_fpy61.jpg",
+          "publishedAt": "2026-11-23T04:42:00.000Z"
         }
       ]
     }

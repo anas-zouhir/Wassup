@@ -8,8 +8,15 @@
         "homepage": "https://www.dr.dk/nyheder",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-22T18:34:19.786Z",
+      "fetchedAt": "2026-11-23T07:04:25.141Z",
       "items": [
+        {
+          "title": "Stor affaldsbrand i Glostrup er nu slukket",
+          "link": "https://www.dr.dk/nyheder/seneste/brandvaesnet-er-rykket-ud-til-stor-affaldsbrand-i-glostrup",
+          "summary": "Beredskabet indsatte fem stationer for at komme branden til livs.",
+          "image": "https://asset.dr.dk/drdk/umbraco-images/pjfp0qkd/20261122-193119-l.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
+          "publishedAt": "2026-11-22T18:54:56.000Z"
+        },
         {
           "title": "Beredskabet afslutter indsatsen i Stige: 'Branden er under kontrol og røgudviklingen er minimal'",
           "link": "https://www.dr.dk/nyheder/seneste/bygning-braender-i-odense-bydel-beboere-opfordres-til-gaa-indenfor",
@@ -67,13 +74,6 @@
           "image": "https://asset.dr.dk/drdk/umbraco-images/4gbjb3oi/20261122-022535-2.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
           "publishedAt": "2026-11-22T07:20:18.000Z",
           "titleEn": "Danish motorsport talent finish the season second and blood on the tooth"
-        },
-        {
-          "title": "Max Verstappen vinder vildt ræs i Las Vegas",
-          "link": "https://www.dr.dk/sporten/seneste-sport/max-verstappen-vinder-vildt-raes-i-las-vegas",
-          "image": "https://asset.dr.dk/drdk/umbraco-images/qqhorobk/20261122-070721-2.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-22T07:12:15.000Z",
-          "titleEn": "Max Verstappen wins a wild race in Las Vegas."
         }
       ]
     },
@@ -84,97 +84,75 @@
         "homepage": "https://politiken.dk",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-22T18:34:20.151Z",
+      "fetchedAt": "2026-11-23T07:04:25.752Z",
       "items": [
         {
-          "title": "Uniteds nye træner får mareridtsdebut mod Liverpool",
-          "link": "https://politiken.dk/sport/fodbold/premierleague/art11070203/Uniteds-nye-tr%C3%A6ner-f%C3%A5r-mareridtsdebut-mod-Liverpool",
-          "summary": "Manchester United fik rødt kort og indkasserede to mål i starten af Mauricio Pochettinos debut mod Liverpool.",
-          "image": "https://politiken.dk/incoming/img11070205.pfxmj9/ORIGINALS/original_960/FBL-ENG-PR-LIVERPOOL-MAN%20UTD",
-          "publishedAt": "2026-11-22T18:28:05.000Z",
-          "titleEn": "United's new coach is making his nightmarish debut against Liverpool",
-          "summaryEn": "Manchester United were given a red card and recorded two goals at the start of Mauricio Pochettino's debut against Liverpool."
+          "title": "Københavns Lufthavn vil udvide for milliarder",
+          "link": "https://politiken.dk/rejser/art11070312/K%C3%B8benhavns-Lufthavn-vil-udvide-for-milliarder",
+          "summary": "I 2028 ventes et forberedende arbejde afsluttet, inden Københavns Lufthavn kan igangsætte en udvidelse.",
+          "image": "https://politiken.dk/incoming/img11070315.mrquyy/ORIGINALS/original_960/Startende%20fly%20fra%20K%C3%B8benhavns%20lufthavn%20med%20biler%20p%C3%A5%20Englandsvej",
+          "publishedAt": "2026-11-23T06:55:06.000Z"
         },
         {
-          "title": "Ballade i Trylleskoven: Bekymrede forældre holder børn hjemme, mens håndværkerne smører gulvene ind i kemiske stoffer",
-          "link": "https://politiken.dk/danmark/art11068539/Bekymrede-for%C3%A6ldre-holder-b%C3%B8rn-hjemme-mens-h%C3%A5ndv%C3%A6rkerne-sm%C3%B8rer-gulvene-ind-i-kemiske-stoffer",
-          "summary": "For at spare penge på rengøring vil Københavns Kommune give gulvene i Trylleskoven en glat overflade. De glemte bare at sige, at det skulle ske, mens børnene legede med perleplader.",
-          "image": "https://politiken.dk/incoming/img11069164.ai3mf2/ORIGINALS/original_960/Comp%202",
-          "publishedAt": "2026-11-22T18:02:34.000Z",
-          "titleEn": "Ballet in the Trilles Forest: Concerned parents keep children at home while craftsmen lubricate the floors with chemicals",
-          "summaryEn": "In order to save money on cleaning, Copenhagen Municipality will give the floor of the Trylle Forest a smooth surface. They just forgot to say it was supposed to happen while the kids were playing with pearl plates."
+          "title": "Dansk studie i nærdødsoplevelser: Hver tredje havde minder fra bevidstløshed",
+          "link": "https://politiken.dk/danmark/art11061290/Dansk-studie-i-n%C3%A6rd%C3%B8dsoplevelser-Hver-tredje-havde-minder-fra-bevidstl%C3%B8shed",
+          "summary": "Nærdødsoplevelser har længe været omgivet af mystik, og i Danmark har der aldrig været en systematisk vidensopsamling af folks oplevelser. Indtil nu.",
+          "image": "https://politiken.dk/incoming/img11067957.wdne6h/ORIGINALS/original_960/2025-06-14%20SWAMP-Live%20pa%20Fiskelejet-27",
+          "publishedAt": "2026-11-23T06:36:09.000Z"
         },
         {
-          "title": "»Tak, men nej tak«: Sveriges venstreparti afviser nyt udspil fra S-leder",
-          "link": "https://politiken.dk/internationalt/art11070189/Sveriges-venstreparti-afviser-nyt-udspil-fra-S-leder",
-          "summary": "Magdalena Andersson skriver, at hun vil give Vänsterpartiet den største indflydelse, et støtteparti har haft.",
-          "image": "https://politiken.dk/incoming/img11070192.5hqb94/ORIGINALS/original_960/V%C3%84NSTERPARTIET",
-          "publishedAt": "2026-11-22T18:00:32.000Z",
-          "titleEn": "⁇ Thank you, but no thank you ⁇ : Sweden's left-wing party rejects new play from S-leader",
-          "summaryEn": "Magdalena Andersson writes that she will give the Left Party the greatest influence a supporting party has had."
+          "title": "Kold uge vil byde på flere dage med snebyger",
+          "link": "https://politiken.dk/danmark/art11070269/Kold-uge-vil-byde-p%C3%A5-flere-dage-med-snebyger",
+          "summary": "Særligt tirsdag og onsdag bliver nogle kolde dage, og der er god grund til at finde varmt tøj frem, siger DMI.",
+          "image": "https://politiken.dk/incoming/img11070286.ngpf33/ORIGINALS/original_960/Minus%20grader%20i%20Br%C3%B8nsh%C3%B8j",
+          "publishedAt": "2026-11-23T06:09:52.000Z"
         },
         {
-          "title": "Sjælden målscorer sender OB mod forløsende sejr",
-          "link": "https://politiken.dk/sport/fodbold/superligaen/art11070182/Sj%C3%A6lden-m%C3%A5lscorer-sender-OB-mod-forl%C3%B8sende-sejr",
-          "summary": "Rasmus Falk scorede til 1-0 og var arkitekten bag sejrsmålet i OB’s sejr på udebane over Sønderjyske.",
-          "image": "https://politiken.dk/incoming/img11070185.ijm4e3/ORIGINALS/original_960/20261122-182828-1",
-          "publishedAt": "2026-11-22T17:48:20.000Z",
-          "titleEn": "Rare goal scorers send OB to redemptive victory",
-          "summaryEn": "Rasmus Falk scored to 1-0 and was the architect behind the victory goal in OB ⁇ 's victory at the jayane over Sønderjyske."
+          "title": "Mobiltelefoner forbydes i landets folkeskoler fra næste skoleår",
+          "link": "https://politiken.dk/danmark/uddannelse/art11070274/Mobiltelefoner-forbydes-i-landets-folkeskoler-fra-n%C3%A6ste-skole%C3%A5r",
+          "summary": "Ny aftale forbyder mobiltelefoner i grundskolen, 10. klasse og i fritidstilbud fra skoleåret 2027/2028.",
+          "image": "https://politiken.dk/incoming/img11070278.1evkyv/ORIGINALS/original_960/SOR%C3%98%20EFTERSKOLELIV%20En%20ny%20start%20i%20Sor%C3%B8",
+          "publishedAt": "2026-11-23T05:46:36.000Z"
         },
         {
-          "title": "De var »oliemafiaens gidsler«. Til sidst fik de nok og kastede topmøde ud i historisk kollaps",
-          "link": "https://politiken.dk/danmark/art11067025/De-var-%C2%BBoliemafiaens-gidsler%C2%AB.-Til-sidst-fik-de-nok-og-kastede-topm%C3%B8de-ud-i-historisk-kollaps",
-          "summary": "EU trak en streg i sandet over for olielandene og sendte klimatopmøde ud i historisk sammenbrud. Næste slag kommer til at stå om den videnskab, som verden i årtier har enedes om, skriver klimaredaktør Magnus Bredsdorff i…",
-          "image": "https://politiken.dk/incoming/img11070146.hz7aii/ORIGINALS/original_960/CLIMATE-COP31",
-          "publishedAt": "2026-11-22T17:30:44.000Z",
-          "titleEn": "They were the hostages of the 'oliemafia'. Eventually, they got enough and threw the summit into a historic collapse.",
-          "summaryEn": "The European Union took a step back from the oil fields and launched a historic climate summit. The next battle is going to be the science that the world has agreed upon for decades, writes climate editor Magnus Bredsdorff in..."
+          "title": "Fogh leverer hård kritik af både Ellemann og Løkke",
+          "link": "https://politiken.dk/danmark/politik/art11065537/Fogh-leverer-h%C3%A5rd-kritik-af-b%C3%A5de-Ellemann-og-L%C3%B8kke",
+          "summary": "Efter tre års tavshed tager Anders Fogh Rasmussen til genmæle over for Jakob Ellemann-Jensen. Også Lars Løkke Rasmussen får kritik for en »utilgivelig handling«. Venstres nuværende formand får til gengæld et godt råd.",
+          "image": "https://politiken.dk/incoming/img11068079.71it65/ORIGINALS/original_960/Venstres%20landsm%C3%B8de",
+          "publishedAt": "2026-11-23T05:22:50.000Z"
         },
         {
-          "title": "Eleverne klapper ad hende, når hun kommer ind i klassen",
-          "link": "https://politiken.dk/danmark/uddannelse/undervisningsprisen/art11044266/Eleverne-klapper-ad-hende-n%C3%A5r-hun-kommer-ind-i-klassen",
-          "summary": "Alle burde have en lærer som Randi Bjerring i deres liv, mener eleverne på Sosu H i Brøndby. »Hun har bare hele pakken«, lyder det.",
-          "image": "https://politiken.dk/incoming/img11061333.4ybl0b/ORIGINALS/original_960/00000",
-          "publishedAt": "2026-11-22T16:55:20.000Z",
-          "titleEn": "The students clap their hands at her when she enters the class.",
-          "summaryEn": "Everyone should have a teacher like Randi Bjerring in their life, believe the students at Sosu H in Brøndby. She's just got the whole package, it sounds."
+          "title": "Rapkoncert i Manchester evakueret efter mulig tåregas",
+          "link": "https://politiken.dk/kultur/musik/art11070246/Rapkoncert-i-Manchester-evakueret-efter-mulig-t%C3%A5regas",
+          "summary": "Publikum ved en amerikansk rappers koncert skulle søndag evakueres, da noget blev spredt blandt publikum.",
+          "image": "https://politiken.dk/incoming/img11070264.mgh3jm/ORIGINALS/original_960/GBR-POLICE-ATTEND-INCIDENT-AT-US-RAPPER-DON-TOLIVER-CONCERT",
+          "publishedAt": "2026-11-23T05:16:55.000Z"
         },
         {
-          "title": "Philippe hvem? Ukendt franskmand ligner en nødløsning i Europas forsøg på at vælte præsident",
-          "link": "https://politiken.dk/sport/fodbold/art11064854/Philippe-hvem-Ukendt-franskmand-ligner-en-n%C3%B8dl%C3%B8sning-i-Europas-fors%C3%B8g-p%C3%A5-at-v%C3%A6lte-pr%C3%A6sident",
-          "summary": "Formanden for det franske fodboldforbund, Philippe Diallo, levnes ikke mange chancer i opgøret mod Gianni Infantino. Et muligt retsopgør kan derfor blive den eneste mulighed for at få Fifa-præsidenten afsat.",
-          "image": "https://politiken.dk/incoming/img11064939.kb23bo/ORIGINALS/original_960/FILES-FBL-WC-2026-MATCH42-FRA-IRQ",
-          "publishedAt": "2026-11-22T16:40:42.000Z",
-          "titleEn": "Philippe who? Unknown Frenchman looks like an emergency solution in Europe's attempt to overthrow the president",
-          "summaryEn": "The President of the French Football Association, Philippe Diallo, has little chance of winning against Gianni Infantino. A possible trial could therefore be the only way to get the FIFA president fired."
+          "title": "Undersøgelse: Hver tredje bilist brugte telefon eller skærm før ulykke",
+          "link": "https://politiken.dk/danmark/art11070255/Unders%C3%B8gelse-Hver-tredje-bilist-brugte-telefon-eller-sk%C3%A6rm-f%C3%B8r-ulykke",
+          "summary": "Brug af telefoner og skærme sænker ifølge trafiksikkerhedsråd bilisters opmærksomhed og øger ulykkesrisiko.",
+          "image": "https://politiken.dk/incoming/img11070262.h7uzwf/ORIGINALS/original_960/ulykke",
+          "publishedAt": "2026-11-23T05:09:37.000Z"
         },
         {
-          "title": "Nicola og Beate vil tvinge politikerne til at stemme om deres statsborgerskab",
-          "link": "https://politiken.dk/danmark/politik/art11055023/Nicola-og-Beate-vil-tvinge-politikerne-til-at-stemme-om-deres-statsborgerskab",
-          "summary": "Med et nyt borgerforslag kræver statsborgerskabsansøgere nu retfærdighed. SF afviser: »Der er ikke så meget retssikkerhed og forudsigelighed og ligebehandling, tænker jeg, i forhold til indfødsret«.",
-          "image": "https://politiken.dk/incoming/img11064792.m5q108/ORIGINALS/original_960/Statsborgerskabsans%C3%B8gere",
-          "publishedAt": "2026-11-22T16:10:50.000Z",
-          "titleEn": "Nicola and Beate will force politicians to vote for their citizenship.",
-          "summaryEn": "With a new citizenship proposal, citizenship applicants now demand justice. SF rejects:  ⁇ There is not so much legal certainty and predictability and equal treatment, I think, in relation to indigenous rights ⁇ ."
+          "title": "Kampe i DR Congo afbryder WHO's indsats mod ebola",
+          "link": "https://politiken.dk/internationalt/art11070232/Kampe-i-DR-Congo-afbryder-WHOs-indsats-mod-ebola",
+          "summary": "Kampe ved hospital bringer patienter, pårørende og sundhedspersonale i alvorlig fare, siger WHO-chef.",
+          "image": "https://politiken.dk/incoming/img11070258.7bkf4z/ORIGINALS/original_960/HEALTH-EBOLA-BENI",
+          "publishedAt": "2026-11-23T05:07:31.000Z"
         },
         {
-          "title": "De fede 80'er-hits overdøver den fatale virus",
-          "link": "https://politiken.dk/kultur/boger/boganmeldelser/skonlitteratur_boger/art11064522/De-fede-80er-hits-overd%C3%B8ver-den-fatale-virus",
-          "summary": "Morten Kirkskovs roman ’Svømmer’ er baseret på hans egen ungdom. I 1980’ernes København kaster en ung mand sig ud i homosex med en frejdig iver, der overskygger den snigende virus og hans mors død.",
-          "image": "https://politiken.dk/incoming/img11065190.kar8ci/ORIGINALS/original_960/Skuespilchef%20Morten%20Kirkskov",
-          "publishedAt": "2026-11-22T15:31:03.000Z",
-          "titleEn": "The fat '80s hits are overstating the deadly virus.",
-          "summaryEn": "Morten Kirkskov's novel \"Swimming\" is based on his own youth. In 1980's Copenhagen, a young man enters into homosexuality with a fervent zeal that overshadows the sneaky virus and the death of his mother."
+          "title": "Jeg græd næsten af grin, da jeg læste",
+          "link": "https://politiken.dk/kultur/boger/boganmeldelser/skonlitteratur_boger/art11054009/Jeg-gr%C3%A6d-n%C3%A6sten-af-grin-da-jeg-l%C3%A6ste",
+          "summary": "Danske Adam Drewes og amerikanske Steven Zultanski har skrevet hver sin ret vidunderlige konceptuelle digtsamling.",
+          "publishedAt": "2026-11-22T21:45:16.000Z"
         },
         {
-          "title": "Ansat hos Anthropic hævder at have bevist en af matematikkens største gåder: Riemann-hypotesen",
-          "link": "https://politiken.dk/viden/art11069935/Ansat-hos-Anthropic-h%C3%A6vder-at-have-bevist-en-af-matematikkens-st%C3%B8rste-g%C3%A5der-Riemann-hypotesen",
-          "summary": "Endnu et matematisk kæmpeproblem er løst af kunstig intelligens. Denne gang er der tale om den måske mest berømte hypotese.",
-          "image": "https://politiken.dk/incoming/img11069956.6yg1ky/ORIGINALS/original_960/TOPSHOT-US-ECONOMY-MARKETS-TECHNOLOGY-AI-ANTHROPIC",
-          "publishedAt": "2026-11-22T15:10:30.000Z",
-          "titleEn": "Employees at Anthropic claim to have proved one of the greatest puzzles of mathematics: the Riemann hypothesis.",
-          "summaryEn": "Another mathematical giant problem has been solved by artificial intelligence. This time, it's perhaps the most famous hypothesis."
+          "title": "To mænd vil tage et opgør med alt det, den internationale superstjerne står for",
+          "link": "https://politiken.dk/internationalt/art11065140/To-m%C3%A6nd-vil-tage-et-opg%C3%B8r-med-alt-det-den-internationale-superstjerne-st%C3%A5r-for",
+          "summary": "Spanien har haft et ekstremt begivenhedsrigt år, og nu venter kulminationen. Spørgsmålet er, hvor landet står efter et år med kriser, massebegravelser og skænderier med Donald Trump.",
+          "publishedAt": "2026-11-22T21:20:10.000Z"
         }
       ]
     },
@@ -185,95 +163,76 @@
         "homepage": "https://www.berlingske.dk",
         "lang": "da"
       },
-      "fetchedAt": "2026-11-22T18:34:19.705Z",
+      "fetchedAt": "2026-11-23T07:04:26.057Z",
       "items": [
         {
-          "title": "Pochettino får mareridtsdebut for United mod Liverpool",
-          "link": "https://www.berlingske.dk/sport/pochettino-faar-mareridtsdebut-for-united-mod-liverpool?referrer=RSS",
-          "summary": "Manchester United fik rødt kort og indkasserede to mål i starten af Mauricio Pochettinos debut mod Liverpool.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167773233.webp?t[strip]=true&t[quality]=70&accessToken=7c8a597c1686e443b6305bb735e1c212db552d467e43296802275031a1ca51fa",
-          "publishedAt": "2026-11-22T18:27:46.000Z",
-          "titleEn": "Pochettino is making his nightmarish debut for United against Liverpool",
-          "summaryEn": "Manchester United were given a red card and recorded two goals at the start of Mauricio Pochettino's debut against Liverpool."
+          "title": "Københavns Lufthavn vil kunne håndtere 55 millioner passagerer om året",
+          "link": "https://www.berlingske.dk/business/koebenhavns-lufthavn-vil-kunne-haandtere-55-millioner-passagerer-om-aaret?referrer=RSS",
+          "summary": "I 2028 ventes et forberedende arbejde afsluttet, inden Københavns Lufthavn kan igangsætte en udvidelse.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167777308.webp?t[strip]=true&t[quality]=70&accessToken=3b7ad470132bc5bc915cba80edbad217bfadfdac1f3cad65c42764e999aaab30",
+          "publishedAt": "2026-11-23T06:54:45.000Z"
         },
         {
-          "title": "Anmodning om at blive indendørs nær Odense er ophævet",
-          "link": "https://www.berlingske.dk/indland/anmodning-om-at-blive-indendoers-naer-odense-er-ophaevet?referrer=RSS",
-          "summary": "Industribygning i Stige brød i brand søndag. Røgen fik politiet til at advare beboerne i området.",
-          "publishedAt": "2026-11-22T18:23:46.000Z",
-          "titleEn": "The request to stay indoors near Odense has been withdrawn.",
-          "summaryEn": "Industrial building in Stig Bread burned down on Sunday. The smoke prompted the police to warn the residents of the area."
+          "title": "Mobiltelefoner forbydes i landets folkeskoler fra næste skoleår",
+          "link": "https://www.berlingske.dk/politik/mobiltelefoner-forbydes-i-landets-folkeskoler-fra-naeste-skoleaar?referrer=RSS",
+          "summary": "Ny aftale forbyder mobiltelefoner i grundskolen, 10. klasse og i fritidstilbud fra skoleåret 2027/2028.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167777442.webp?t[strip]=true&t[quality]=70&accessToken=fd052c5fcf7775ecd66dd35204e31c0f0ebff4a5ae4894a1e1f377f33c4ddf23",
+          "publishedAt": "2026-11-23T06:27:44.000Z"
         },
         {
-          "title": "Orbáns bror fængslet og millioner gravet op fra skovbunden: Péter Magyars »Operation Skærsilden« er i fuld gang",
-          "link": "https://www.berlingske.dk/internationalt/orbans-bror-faengslet-og-millioner-gravet-op-fra-skovbunden-peter-magyars-operation-skaersilden-er-i-fuld-gang?referrer=RSS",
-          "summary": "Antikorruptionskampagnen fra Ungarns nye premierminister, Péter Magyar, rammer nu direkte ind i Viktor Orbáns nærmeste kreds. »Operation Skærsilden« rykker tættere og tættere på Ungarns tidligere premierminister.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167672652.webp?t[strip]=true&t[quality]=70&accessToken=d8cc4db09af44e182951763fabd0e115f97167114799557cdc65f032db4fd941",
-          "publishedAt": "2026-11-22T18:21:32.000Z",
-          "titleEn": "Orbán's brother imprisoned and millions unearthed from the forest floor: Péter Magyar's 'Operation Cutting Edge' is underway",
-          "summaryEn": "The anti-corruption campaign of Hungary's new prime minister, Péter Magyar, is now reaching directly into Viktor Orbán's inner circle. ⁇ Operation Cutter's Shield ⁇  is moving closer and closer to the former Prime Minister of Hungary."
+          "title": "Business-overblik: Minister kræver alle åbenlyse fejl i ejendomsvurderinger rettet",
+          "link": "https://www.berlingske.dk/business/business-overblik-minister-kraever-alle-aabenlyse-fejl-i-ejendomsvurderinger-rettet?referrer=RSS",
+          "summary": "Vi læser erhvervsnyhederne og tjekker aktiekurserne fra morgenstunden. Her er hele dit Business-overblik.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167777870.webp?t[strip]=true&t[quality]=70&accessToken=c6c32e5260821eee83fed69636bfd373d79478627b3829341abe2f7b8e9cd122",
+          "publishedAt": "2026-11-23T06:15:36.000Z"
         },
         {
-          "title": "12 maritime droner er blevet opsnappet ud for Libyens kyst",
-          "link": "https://www.berlingske.dk/internationalt/12-maritime-droner-er-blevet-opsnappet-ud-for-libyens-kyst?referrer=RSS",
-          "summary": "Tidligere var der melding om angreb på russisk skib ud for Libyens kyst. Nu er 12 maritime droner opfanget.",
-          "publishedAt": "2026-11-22T18:13:50.000Z",
-          "titleEn": "12 maritime drones have been seized off the coast of Libya",
-          "summaryEn": "Earlier, there were reports of attacks on a Russian ship off the coast of Libya. Now 12 maritime drones have been seized."
+          "title": "Københavns Politi efterforsker mistænkeligt forhold på Amager",
+          "link": "https://www.berlingske.dk/indland/koebenhavns-politi-efterforsker-mistaenkeligt-forhold-paa-amager?referrer=RSS",
+          "summary": "Politiet er mandag til stede på Kongelundsvej, hvor det efterforsker et forhold, der blev anmeldt i nat.",
+          "publishedAt": "2026-11-23T06:13:47.000Z"
         },
         {
-          "title": "Sveriges venstreparti takker nej til nyt udspil fra S-leder",
-          "link": "https://www.berlingske.dk/internationalt/sveriges-venstreparti-takker-nej-til-nyt-udspil-fra-s-leder?referrer=RSS",
-          "summary": "Andersson vil give Vänsterpartiet mere indflydelse som støtteparti. Det er sidste chance, siger Centerpartiet.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167772137.webp?t[strip]=true&t[quality]=70&accessToken=3b10d5bc1d2639ca10707f2145d040857da7516face105cddc3e982e0fffab32",
-          "publishedAt": "2026-11-22T18:13:47.000Z",
-          "titleEn": "Sweden's left-wing party says no to new play by S-leader",
-          "summaryEn": "Andersson wants to give the Left more influence as a supporting party. This is the last chance, the Centre Party says."
+          "title": "Lægeklinikker på stribe lukker dørene for syge i Nordsjælland",
+          "link": "https://www.berlingske.dk/indland/laegeklinikker-paa-stribe-lukker-doerene-for-syge-i-nordsjaelland?referrer=RSS",
+          "summary": "I mange af kommunerne nord for København har et stort flertal af de praktiserende læger lukket for tilgang af nye patienter. Sundhedsreformen betyder, at der kun må komme flere læger til Sydsjælland og Lolland. Det skal…",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167644696.webp?t[strip]=true&t[quality]=70&accessToken=93a2256f810ec536b5f59e5cd7aaf5c38303069c79cb9b576d5ffd77833dae5b",
+          "publishedAt": "2026-11-23T06:09:34.000Z"
         },
         {
-          "title": "Nok uden at vide det, gentager Lars Seier en indflydelsesrig teori. Man kunne kalde det forfatterens død",
-          "link": "https://www.berlingske.dk/kommentatorer/nok-uden-at-vide-det-gentager-lars-seier-en-indflydelsesrig-teoriman-kunne-kalde-det-forfatterens-doed?referrer=RSS",
-          "summary": "Vi ønsker at læse tekster af mennesker, for kun de tekster har en aura af noget autentisk, skriver Kasper Støvring.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167529532.webp?t[strip]=true&t[quality]=70&accessToken=e6e9542e696adb4e30f908919c929e498dd6cc117f86e568382244e9303d5b45",
-          "publishedAt": "2026-11-22T17:49:46.000Z",
-          "titleEn": "Without even knowing it, Lars Seier repeats an influential theory. You could call it the author's death.",
-          "summaryEn": "We want to read texts from people, because only those texts have an aura of authenticity\", says Kasper Støvring."
+          "title": "Er du rigtig klog: Hvad ved du om Xi Jinping?",
+          "link": "https://www.berlingske.dk/internationalt/er-du-rigtig-klog-hvad-ved-du-om-xi-jinping?referrer=RSS",
+          "summary": "Berlingskes journalister udfordrer dagligt med 10 nye spørgsmål inden for spændende emner.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167271782.webp?t[strip]=true&t[quality]=70&accessToken=1d58d500b4f8121f0a031dfbaf838b677a2960917c7ed2c868c0c3bbd7348b4e",
+          "publishedAt": "2026-11-23T06:03:48.000Z"
         },
         {
-          "title": "Minister før stormøde om folkeskolen: Vi har haft for lave forventninger til, hvor meget børn kan lære",
-          "link": "https://www.berlingske.dk/kronikker/minister-foer-stormoede-om-folkeskolen-vi-har-haft-for-lave-forventninger-til-hvor-meget-boern-kan-laere?referrer=RSS",
-          "summary": "Vi skal selvfølgelig investere i folkeskolen. Men vi skal også investere i noget, der ikke kan købes for penge: tillid til lærerne. Tydelige forventninger til eleverne. Og en fælles forståelse af, hvad skolen først og…",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167457918.webp?t[strip]=true&t[quality]=70&accessToken=3772ce6e9406e8afb7f12240cf23af1356e0ec894a9f64510c8010ba8e8c8d84",
-          "publishedAt": "2026-11-22T17:09:58.000Z",
-          "titleEn": "Minister for Primary Schools: We have had too low expectations of how much children can learn",
-          "summaryEn": "Of course, we should invest in elementary school. But we also need to invest in something that money can't buy: trust in teachers. Clear expectations for the students. And a shared understanding of what school first and..."
+          "title": "Mobiltelefoner forbydes i landets folkeskoler fra næste skoleår",
+          "link": "https://www.berlingske.dk/politik/mobiltelefoner-forbydes-i-landets-folkeskoler-fra-naeste-skoleaar-1?referrer=RSS",
+          "summary": "Regeringen og støttepartierne er blevet enige om et mobilforbud i folkeskolen, 10. klasse og fritidstilbuddene. Aftalen går endnu længere end den tidligere lokale aftale.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167777666.webp?t[strip]=true&t[quality]=70&accessToken=4352c24f010d19de9f32b6582b82ccee521a6d13c1e7cd5b244e9a03757a6f95",
+          "publishedAt": "2026-11-23T05:57:10.000Z"
         },
         {
-          "title": "Forrygende Falk flugter fynboer mod forløsende sejr",
-          "link": "https://www.berlingske.dk/sport/forrygende-falk-flugter-fynboer-mod-forloesende-sejr?referrer=RSS",
-          "summary": "Rasmus Falk scorede til 1-0 og var arkitekten bag sejrsmålet i OB's sejr på udebane over Sønderjyske.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167770509.webp?t[strip]=true&t[quality]=70&accessToken=33d87004d1084b08db664cfcab75cd190891316f034424e83057f8e1c455c176",
-          "publishedAt": "2026-11-22T17:04:44.000Z",
-          "titleEn": "Terrifying Falk flies fynboers to redemptive victory",
-          "summaryEn": "Rasmus Falk scored 1-0 and was the architect behind OB's victory over Sunderjyske."
+          "title": "Krig i Europa – følg med her",
+          "link": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-med-her-37?referrer=RSS",
+          "summary": "Krigen i Ukraine fortsætter. Få seneste nyt her.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167777318.webp?t[strip]=true&t[quality]=70&accessToken=772cbac5bcc60635749f2c73d9bcdf46ed8dcf2dff87ebdeff74ad929545ba78",
+          "publishedAt": "2026-11-23T05:38:31.000Z"
         },
         {
-          "title": "Trump »elskede« Nordkoreas diktator og ville afslutte en 70 år gammel krig – men nu er forholdet gået itu",
-          "link": "https://www.berlingske.dk/internationalt/trump-elskede-nordkoreas-diktator-og-ville-afslutte-en-70-aar-gammel-krig--men-nu-er-forholdet-gaaet-itu?referrer=RSS",
-          "summary": "Nordkoreas atomarsenal er blevet stærkere, trods Trumps forsøg på at få kontakt til landets diktator Kim Jong-un. Lige nu er sandsynligheden for, at Washington får held med sine forsøg på at begrænse landets atomare…",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167766780.webp?t[strip]=true&t[quality]=70&accessToken=3b866e81ff15d7c4429ac78cf6b193deef527b701b33f4c5c39b26ed4d7e87e6",
-          "publishedAt": "2026-11-22T16:59:57.000Z",
-          "titleEn": "Trump loved the North Korean dictator and wanted to end a 70-year-old war, but now the relationship is gone.",
-          "summaryEn": "North Korea's nuclear arsenal has grown stronger despite Trump's attempts to contact the country's dictator Kim Jong-un. Right now, the probability that Washington will succeed in its attempts to limit its nuclear weapons..."
+          "title": "Seneste nyt om USA og amerikansk politik – følg med her",
+          "link": "https://www.berlingske.dk/internationalt/seneste-nyt-om-usa-og-amerikansk-politik--foelg-med-her-13?referrer=RSS",
+          "summary": "Her får du seneste nyt om amerikansk politik og præsident Donald Trump.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167777279.webp?t[strip]=true&t[quality]=70&accessToken=5836e1b31df48275f86fad1d989dd2ffffc77bba254c8c0258fd4f97aabb9097",
+          "publishedAt": "2026-11-23T05:33:41.000Z"
         },
         {
-          "title": "Pukkelhvalen Timmy fra Anholt døde af sult",
-          "link": "https://www.berlingske.dk/danmark/pukkelhvalen-timmy-fra-anholt-doede-af-sult?referrer=RSS",
-          "summary": "En undersøgelse af hvalen Timmy viser, at den var afmagret og ikke havde spist i flere måneder, da den døde.",
-          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167769549.webp?t[strip]=true&t[quality]=70&accessToken=c250d71dc28ab2077a31eefbabbc3288f8a236a932c944502dd318085d3adab7",
-          "publishedAt": "2026-11-22T16:58:47.000Z",
-          "titleEn": "Pug whale Timmy from Anholt died of starvation",
-          "summaryEn": "An examination of the whale Timmy shows that it had lost weight and had not eaten for several months when it died."
+          "title": "Europa sagde nej til olielandenes klimaplan – og så var det slut",
+          "link": "https://www.berlingske.dk/dagens-overblik/europa-sagde-nej-til-olielandenes-klimaplan--og-saa-var-det-slut?referrer=RSS",
+          "summary": "Her er alt, du skal vide, for at komme i gang med dagen.",
+          "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167775739.webp?t[strip]=true&t[quality]=70&accessToken=3801027d56d2f3bb2efcc0fe119a1a91712a7f0c27372ea11afaf8871e711228",
+          "publishedAt": "2026-11-23T05:32:04.000Z"
         }
       ]
     }
