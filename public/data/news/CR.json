@@ -8,97 +8,77 @@
         "homepage": "https://www.nacion.com",
         "lang": "es-CR"
       },
-      "fetchedAt": "2026-11-23T18:49:38.589Z",
+      "fetchedAt": "2026-11-24T06:51:43.519Z",
       "items": [
         {
-          "title": "Alajuelense vs. Cartaginés: Todo lo que tiene que saber de este partido hoy",
+          "title": "Greivin Porras sentencia la polémica expulsión en el Alajuelense vs. Cartaginés",
+          "link": "https://www.nacion.com/puro-deporte/greivin-porras-sentencia-la-polemica-expulsion-en/WXZTCL5MN5HN3F6MMJFY5FNXEM/story/",
+          "summary": "El partido Alajuelense contra Cartaginés cerró con una acción polémica que dejó a los rojinegros con 10 hombres.",
+          "image": "https://www.nacion.com/resizer/v2/NVECZWWIXRDVHJL6DMBOB7T7CA.jpeg?auth=59091c1f3447190053eb5e142db17d7e4adf0050fa00ed4bbc3a8e70d7e438ad&smart=true&width=2400&height=1600",
+          "publishedAt": "2026-11-24T05:31:31.000Z"
+        },
+        {
+          "title": "Amarini Villatoro le hace un guiño a Wálter Centeno tras la victoria ante Alajuelense",
+          "link": "https://www.nacion.com/puro-deporte/amarini-villatoro-le-hace-un-guino-a-walter/FL662UD6BBFXFIIJ77RHACETCU/story/",
+          "summary": "Amarini Villatoro, entrenador de Cartaginés, le mandó un mensaje a Wálter Centeno previo al San Carlos - Alajuelense del próximo sábado.",
+          "image": "https://www.nacion.com/resizer/v2/FW2L7DFBBBACDFEPVLPESNY4TY.jpeg?auth=3b1e535930f36e21fbd4f89486311a80061a8cf32f8c7b9649d5c89d43190ab2&smart=true&width=854&height=640",
+          "publishedAt": "2026-11-24T05:12:15.000Z"
+        },
+        {
+          "title": "Ricky Martin revela la crítica batalla contra el covid-19 que casi le quita la vida",
+          "link": "https://www.nacion.com/viva/ricky-martin-revela-la-critica-batalla-contra-el/WBUQRNTI5BHBLHLUUFUYKLT7EI/story/",
+          "summary": "Tras superar la enfermedad Ricky Martin aseguró que vivir con gratitud y valorar los momentos con sus hijos y su público adquirió un nuevo significado.",
+          "image": "https://www.nacion.com/resizer/v2/YOQ4R4BURRB7JPHPOGRBWSELKY.jpg?auth=d7bfd7c139d85e7af3774afead06bf8ecd705cf2a298b0af0439414bd4f7f045&smart=true&width=1024&height=682",
+          "publishedAt": "2026-11-24T04:55:40.000Z"
+        },
+        {
+          "title": "Esto dijo Óscar Ramírez tras la derrota de Alajuelense frente a Cartaginés",
+          "link": "https://www.nacion.com/puro-deporte/esto-dijo-oscar-ramirez-tras-la-derrota-de/3ON65UK4CZEWHJCOFRNODCZO6U/story/",
+          "summary": "Óscar Ramírez no se anduvo con rodeos tras lo que pasó en el partido entre Liga Deportiva Alajuelense y Cartaginés.",
+          "image": "https://www.nacion.com/resizer/v2/SUXRZJWFDJEV3HZ4GJA73Q7R4U.jpeg?auth=55ac375616da029de9d1c4f975687d3c12cd0745e40f4ca9d342b49015133287&smart=true&width=2976&height=1984",
+          "publishedAt": "2026-11-24T04:54:46.000Z"
+        },
+        {
+          "title": "Alajuelense queda contra las cuerdas y Yeison Molina manda un mensaje",
+          "link": "https://www.nacion.com/puro-deporte/alajuelense-queda-contra-las-cuerdas-y-yeison/M3XUI53DJNHOZBENVYGLF2C64M/story/",
+          "summary": "Yeison Molina, defensor de Alajuelense, dejó en claro el único camino que tiene el equipo en el Apertura 2026.",
+          "image": "https://www.nacion.com/resizer/v2/DHGRIPHBHBDCZOSY5PIXZBAOCA.jpeg?auth=8e18b7fd9b2e907541349418e47a4df108757f241b6765145f615a1f83458247&smart=true&width=2852&height=1901",
+          "publishedAt": "2026-11-24T04:52:03.000Z"
+        },
+        {
+          "title": "Tabla de posiciones del Torneo de Apertura 2026: ¡De infarto! Liderato y último clasificado se definen el sábado",
+          "link": "https://www.nacion.com/puro-deporte/tabla-de-posiciones-del-torneo-de-apertura-2026-de/P4YROCNQENAQ3CVJNBZ37QYFIU/story/",
+          "summary": "El Torneo de Apertura 2026 conserva el suspenso hasta el final; vea cómo está la tabla a falta de una jornada.",
+          "image": "https://www.nacion.com/resizer/v2/5BYEFZSVSBH53APXC73BEPGY6U.jpeg?auth=8f2caaba2091bb6637ff3ecec9dd31a38c17cb9b152c8ab4f1a93092821c94c8&smart=true&width=1301&height=868",
+          "publishedAt": "2026-11-24T04:40:27.000Z"
+        },
+        {
+          "title": "Manuel Morán se envalentona tras victoria de Cartaginés ante Alajuelense y habla de Carlos Barahona",
+          "link": "https://www.nacion.com/puro-deporte/manuel-moran-se-envalentona-tras-victoria-de/UYQ5KJENHVER3PAUGERK7VOEXM/story/",
+          "summary": "El atacante Manuel Morán fue uno de los grandes protagonistas en el sonado triunfo de Cartaginés como visitante contra Alajuelense.",
+          "image": "https://www.nacion.com/resizer/v2/DVJNTTQRLVBTRM4KO5XBVJWGFY.jpeg?auth=aad24be3ed26433b9cfc3cd256f97b5d7485d29a7c1db0854ddfe760ca99a24b&smart=true&width=991&height=661",
+          "publishedAt": "2026-11-24T04:34:55.000Z"
+        },
+        {
+          "title": "Viajes por plataformas digitales podrían encarecerse en Costa Rica con nuevo proyecto de ley, advierte Cámara de Comercio",
+          "link": "https://www.nacion.com/economia/viajes-por-plataformas-digitales-podrian/5HXKPMLTPNHS5FBRHGUWFNWSWA/story/",
+          "summary": "El proyecto de ley que busca regular las plataformas digitales de transporte en Costa Rica podría encarecer los viajes de más de dos millones de usuarios y afectar los ingresos de 129.000 familias, según la Cámara de…",
+          "image": "https://www.nacion.com/resizer/v2/3UD5MRHLHVDRPNH5GLZ6MLITDY.png?auth=64e519c8ddcc4c7d5362b70464af1c5135d6f20864f82ef4427c40b209eb32dd&smart=true&width=1536&height=1024",
+          "publishedAt": "2026-11-24T04:20:05.000Z"
+        },
+        {
+          "title": "Yara Jiménez abre investigación a la defensora Angie Cruickshank ante enojo del PPSO por inspección sorpresa en el Cacco",
+          "link": "https://www.nacion.com/politica/yara-jimenez-abre-investigacion-a-la-defensora/T36VFYIXK5ES3OQWTU6MGZ6D6E/story/",
+          "summary": "Acuerdo de la presidenta legislativa enumera la moción aprobada por el partido de gobierno, una ‘denuncia ciudadana’ y una solicitud de investigación del Ministerio de Justicia y Paz",
+          "image": "https://www.nacion.com/resizer/v2/5CTJK6MJSZH6FIKHRCILVCQ4LQ.JPG?auth=555d511b550385de0dc9918a336978f4558d2edb5db212dbea80f9eeaf22acef&smart=true&width=3000&height=2000",
+          "publishedAt": "2026-11-24T04:16:48.000Z"
+        },
+        {
+          "title": "Cartaginés golpea a Alajuelense y lo mete en tremendo problema; vea los goles",
           "link": "https://www.nacion.com/puro-deporte/alajuelense-vs-cartagines-todo-lo-que-tiene-que/QUMCKLN62JGL7JZ2QQLTBKLD6Y/story/",
-          "summary": "Liga Deportiva Alajuelense y Cartaginés juegan este lunes 23 de noviembre en el Estadio Alejandro Morera Soto.",
-          "image": "https://www.nacion.com/resizer/v2/NX6IWRUVYVGITLXT4HE6ZGA5SE.jpg?auth=e8f7d24cc1a6c1e693f93ce03fcf25cd785b0b572cbf24f168606ce7b9ecb04a&smart=true&width=1200&height=628",
-          "publishedAt": "2026-11-23T18:41:51.000Z",
-          "titleEn": "Cheer up vs. Cartagine: Everything you need to know about this game today",
-          "summaryEn": "Liga Deportiva Alajuelense and Cartaginés play this Monday 23 November at the Alejandro Morera Soto Stadium."
-        },
-        {
-          "title": "ICE busca técnicos y operarios para tres puestos: conozca los requisitos y dónde aplicar",
-          "link": "https://www.nacion.com/economia/ice-busca-tecnicos-y-operarios-para-tres-puestos/42S3SYCQKFAEVHCZDJNO6ZL6VU/story/",
-          "summary": "El Instituto Costarricense de Electricidad (ICE) abrió tres vacantes de empleo en Limón para técnico maestro de obras, electricista industrial y mecánico industrial mediante la Agencia Nacional de Empleo. Conozca los…",
-          "image": "https://www.nacion.com/resizer/v2/NTGBP2ONNJAV3O2RJW2GHUXWMU.jpg?auth=0d59015c6ee691e9bc67b04bfcba5d1b71c16b58c916b37a21c5e1b41e2efe00&smart=true&width=4000&height=2667",
-          "publishedAt": "2026-11-23T18:31:34.000Z",
-          "titleEn": "ICE is looking for technicians and operators for three jobs: know the requirements and where to apply",
-          "summaryEn": "The Costa Rican Institute of Electricity (ICE) has opened three job vacancies in Limón for master technician of works, industrial electrician and industrial mechanic through the National Employment Agency. Meet the..."
-        },
-        {
-          "title": "ICE declara ‘confidencial’ inversión en tope de San José: ‘No es posible divulgar información comercial’",
-          "link": "https://www.nacion.com/el-pais/ice-declara-confidencial-inversion-en-tope-de-san/CDNLHO2SDZBXBDIQU5AJJSDA4A/story/",
-          "summary": "Ante consultas de ‘La Nación’, ICE confirmó que mediante Kölbi patrocinará ‘actividades de cierre de año’, pero se negó a responder consultas sobre montos invertidos.",
-          "image": "https://www.nacion.com/resizer/v2/KEOGIUAUXJFP7IO62D7BQSXXWA.jpeg?auth=9c21eb6c5b63548b57ce0e179b07da7688e02a14753450ab4f1935cb065704a7&smart=true&width=2736&height=1824",
-          "publishedAt": "2026-11-23T18:31:12.000Z",
-          "titleEn": "ICE declares  ⁇ confidential ⁇  investment in top of San Jose:  ⁇ It is not possible to disclose commercial information ⁇",
-          "summaryEn": "Following consultations with the  ⁇ The Nation ⁇ , ICE confirmed that it will sponsor  ⁇ year closing activities ⁇  via Kölbi, but declined to answer questions about the amounts invested."
-        },
-        {
-          "title": "Caen exportaciones de bienes hacia el principal mercado de Costa Rica",
-          "link": "https://www.nacion.com/economia/caen-exportaciones-de-bienes-hacia-el-principal/DHXHLINHBZHXBD7MG3XJW2ZTO4/story/",
-          "summary": "Las exportaciones de bienes de Costa Rica alcanzaron $19.621 millones a octubre de 2026, un crecimiento del 3%. Europa y Asia destacaron por el aumento de las compras de productos nacionales",
-          "image": "https://www.nacion.com/resizer/v2/ZAYWAZGGO5CANCA3HDMONFCAHQ.JPG?auth=25a9aa1d7539f310bce97681f177ce151c7359aef0ae32b92283fe01b2b4dff1&smart=true&width=3000&height=1688",
-          "publishedAt": "2026-11-23T18:28:39.000Z",
-          "titleEn": "Exports of goods to the main Costa Rican market fall",
-          "summaryEn": "Costa Rica's goods exports reached $19.621 million in October 2026, a growth of 3%. Europe and Asia highlighted the increase in purchases of domestic products"
-        },
-        {
-          "title": "Ataque israelí mata a funcionario de la ONU en Gaza y deja tres heridos",
-          "link": "https://www.nacion.com/el-mundo/ataque-israeli-mata-a-funcionario-de-la-onu-en/TVYJLIJU5BAURHGIZRQA75VUFM/story/",
-          "summary": "La agencia afirma que las víctimas estaban realizando labores relacionadas con el funcionamiento de un pozo en el campamento de Yabalia.",
-          "image": "https://www.nacion.com/resizer/v2/STYM3G2WUBGKDNZIRRDY3CG74U.jpg?auth=ce44d24ed2f41b77975f7b201e56c1e97b25b8d76bdc25c77a8fe773497fbb64&smart=true&width=1024&height=682",
-          "publishedAt": "2026-11-23T18:01:00.000Z",
-          "titleEn": "Israeli attack kills UN official in Gaza and leaves three wounded",
-          "summaryEn": "The agency claims the victims were doing work related to the operation of a well in the Yabalia camp."
-        },
-        {
-          "title": "Gisèle Pelicot denuncia que usaron fotos suyas desnuda sin consentimiento para promocionar un libro",
-          "link": "https://www.nacion.com/el-mundo/gisele-pelicot-denuncia-que-usaron-fotos-suyas/CMQT2LXDM5H6XAFPUIEZNCWEM4/story/",
-          "summary": "Gisèle Pelicot denunció este lunes sentirse humillada por el uso sin permiso de fotos suyas desnuda para promocionar un ensayo en Francia. Conozca su reacción.",
-          "image": "https://www.nacion.com/resizer/v2/UMSTUTE6XZECVDHILCOKVFSQ4U.jpg?auth=c82884db49fd932b18d289755a4170653db984fa6bd290ec1e94ef57fbc05643&smart=true&width=5243&height=3495",
-          "publishedAt": "2026-11-23T17:44:38.000Z",
-          "titleEn": "Gisèle Pelicot complains that they used photos of her naked without consent to promote a book",
-          "summaryEn": "Gisèle Pelicot denounced on Monday that she felt humiliated by the unauthorized use of nude photos to promote an essay in France. Know his reaction."
-        },
-        {
-          "title": "Servicio Civil abre plazas con salarios de hasta ¢2,3 millones: vea requisitos y cómo aplicar",
-          "link": "https://www.nacion.com/economia/servicio-civil-abre-plazas-con-salarios-de-hasta/VCRG2M3W7VD4PB7WLJTJMOOBFI/story/",
-          "summary": "La Dirección General de Servicio Civil requiere conformar registro de elegibles para puestos con salarios globales de hasta ¢2.379.407 para puestos en el Ministerio de Salud y el Ministerio de Justicia y Paz. Conozca…",
-          "image": "https://www.nacion.com/resizer/v2/XLMHTOUADBHBBE63WPE3CAXRDE.jpg?auth=f9c9eeb50a54e3a265f4a4fe8e6fe5c9fa90bd89af2d3b628b8e8ec0137ec2e1&smart=true&width=5594&height=3522",
-          "publishedAt": "2026-11-23T17:44:18.000Z",
-          "titleEn": "Civil Service opens jobs with salaries of up to ¢2,3 million: see requirements and how to apply",
-          "summaryEn": "The Directorate General of Civil Service requires registration of eligible posts with global salaries of up to ¢2.379.407 for posts in the Ministry of Health and the Ministry of Justice and Peace. You know..."
-        },
-        {
-          "title": "Paulo Londra dará concierto en Costa Rica: esto se sabe",
-          "link": "https://www.nacion.com/viva/paulo-londra-dara-concierto-en-costa-rica-esto-se/VJ3FBSDT7NAA3I6DI7EFCXCAZU/story/",
-          "summary": "El artista argentino se presentará en concierto en Costa Rica el próximo año.",
-          "image": "https://www.nacion.com/resizer/v2/YHFXMIZJXVGFRA3ZPTHEXSLB5M.png?auth=0ef3158f4a4e942ab398b7163980e771156513c8642e214c3c92180ce3fdf012&smart=true&width=1200&height=628",
-          "publishedAt": "2026-11-23T17:27:11.000Z",
-          "titleEn": "Paulo Londra will give a concert in Costa Rica: this is known",
-          "summaryEn": "The Argentine artist will perform at a concert in Costa Rica next year."
-        },
-        {
-          "title": "Saprissa domina el Apertura 2026: los números y las figuras que lo tienen a un paso de consumar el liderato",
-          "link": "https://www.nacion.com/puro-deporte/saprissa-domina-el-apertura-2026-los-numeros-y-las/VHH2KTLEJ5CXLAQAEP7WYADUWE/story/",
-          "summary": "Saprissa juega el próximo sábado a las 7 p.m. en la Cueva contra Inter San Carlos.",
-          "image": "https://www.nacion.com/resizer/v2/47FNUWGHD5DEBFDSQZZJKHJJAY.JPG?auth=9e9d114e62d6cb0cda1eda81e0fbd675f7b49547c3926ecb5de5629ad667390b&smart=true&width=4000&height=2667",
-          "publishedAt": "2026-11-23T17:24:49.000Z",
-          "titleEn": "Saprissa dominates the 2026 Open: the numbers and figures that have him one step closer to consuming the lead",
-          "summaryEn": "Saprissa plays next Saturday at 7 p.m. at the Cueva against Inter San Carlos."
-        },
-        {
-          "title": "TEC confirma cierre técnico de sede de Limón: ¿qué pasará con los estudiantes actuales y los aspirantes a ingresar en el 2027?",
-          "link": "https://www.nacion.com/el-pais/tec-confirma-cierre-tecnico-de-sede-de-limon-que/2OSR4FKJAVAJTNK3AY6RX54WOI/story/",
-          "summary": "Diego Noguera, director del Centro Académico de Limón, detalló a La Nación cuál es la situación de la sede el TEC en Limón.",
-          "image": "https://www.nacion.com/resizer/v2/OS26QABPTJANPJIDCFFLRSKHRY.JPG?auth=dbe04783675027a2950afac456f2c8831f9ccc24d7ef219ec3dbc84f73657c03&smart=true&width=5472&height=3080",
-          "publishedAt": "2026-11-23T17:21:23.000Z",
-          "titleEn": "TEC confirms the technical closure of Limón's headquarters: what will happen to current students and aspirants to enter 2027?",
-          "summaryEn": "Diego Noguera, director of the Academic Center of Limón, detailed to La Nación what is the situation of the headquarters TEC in Limón."
+          "summary": "Liga Deportiva Alajuelense y Cartaginés se enfrentan en la penúltima jornada de la fase regular del Torneo de Apertura 2026.",
+          "image": "https://www.nacion.com/resizer/v2/WSNFLDRKP5HBHJMTWDKZWIS6ZU.jpeg?auth=d20b83557c3a275898e365eaf0f27f1589e15c58b98767e751dd8a9df7d4c7b2&smart=true&width=2800&height=1867",
+          "publishedAt": "2026-11-24T04:14:44.000Z"
         }
       ]
     },
@@ -109,8 +89,57 @@
         "homepage": "https://semanariouniversidad.com",
         "lang": "es-CR"
       },
-      "fetchedAt": "2026-11-23T18:49:38.637Z",
+      "fetchedAt": "2026-11-24T06:51:43.639Z",
       "items": [
+        {
+          "title": "Vecinos de Montes de Oca protestaron contra plan regulador y exigieron acceso a la información",
+          "link": "https://semanariouniversidad.com/pais/vecinos-de-montes-de-oca-protestaron-contra-plan-regulador-y-exigieron-acceso-a-la-informacion/",
+          "summary": "Durante la sesión del Concejo Municipal se permitió el ingreso de 30 personas. La entrada Vecinos de Montes de Oca protestaron contra plan regulador y exigieron acceso a la información aparece primero en Semanario…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-17.32.23-1024x576.jpeg",
+          "publishedAt": "2026-11-24T00:55:53.000Z"
+        },
+        {
+          "title": "Plenario entra en semana decisiva en materia presupuestaria, con un PPSO a la defensiva",
+          "link": "https://semanariouniversidad.com/pais/plenario-entra-en-semana-decisiva-en-materia-presupuestaria-con-un-ppso-a-la-defensiva/",
+          "summary": "Presidenta legislativa Yara Jiménez fijó martes y jueves para tramitar segundo presupuesto extraordinario de 2026 y evita pronunciarse sobre acciones de constitucionalidad de presupuesto 2027. También anunció…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/11/PPSO-en-Plenario-1024x799.jpg",
+          "publishedAt": "2026-11-24T00:45:57.000Z"
+        },
+        {
+          "title": "Sindicatos de Educación rechazan declaratoria de ilegalidad de huelga y anuncian apelación",
+          "link": "https://semanariouniversidad.com/pais/sindicatos-de-educacion-rechazan-declaratoria-de-ilegalidad-de-huelga-y-anuncian-apelacion/",
+          "summary": "Cientos de trabajadores del sector público, personas jubiladas, estudiantes y universitarios participaron en la movilización del 11 de noviembre contra los recortes al sistema de educación pública y pidieron a los…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/11/062_Asamblea-Legislativa_Marcha-en-defensa-de-la-educacion-superior-publica_marcha-en-defensa-de-las-universidaddes-publicas-1024x683-1.jpg",
+          "publishedAt": "2026-11-23T23:37:07.000Z"
+        },
+        {
+          "title": "Extracción de agua subterránea se triplicó en una década ante agotamiento de fuentes superficiales",
+          "link": "https://semanariouniversidad.com/pais/extraccion-de-agua-subterranea-se-triplico-en-una-decada-ante-agotamiento-de-fuentes-superficiales/",
+          "summary": "La presión sobre los acuíferos subterráneos se triplicó entre 2015 y 2025, revela el Estado de la Nación en medio de la severa sequía por El Niño. La entrada Extracción de agua subterránea se triplicó en una década ante…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/11/foto-pozos.jpg",
+          "publishedAt": "2026-11-23T21:22:15.000Z"
+        },
+        {
+          "title": "Corte Plena deja sola a magistrada al determinar que reforma, que quita controles previos a la Contraloría, sí incide en Poder Judicial",
+          "link": "https://semanariouniversidad.com/pais/corte-plena-deja-sola-a-magistrada-al-determinar-que-reforma-que-quita-controles-previos-a-la-contraloria-si-incide-en-poder-judicial/",
+          "summary": "Amplia mayoría de la Corte determinó que propuesta de Laura Fernández afecta su organización y funcionamiento, por lo que requerirá de 38 votos para aprobarse en el congreso. La entrada Corte Plena deja sola a magistrada…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/11/Iris-Rocio-1024x885.jpg",
+          "publishedAt": "2026-11-23T20:16:52.000Z"
+        },
+        {
+          "title": "Estudiantes y funcionarios del TEC presentan 40 coadyuvancias a recurso de amparo contra cierre de sede regional en Limón",
+          "link": "https://semanariouniversidad.com/pais/estudiantes-y-funcionarios-del-tec-presentan-40-coadyuvancias-a-recurso-de-amparo-contra-cierre-de-sede-regional-en-limon/",
+          "summary": "Autoridades de sede regional del TEC en Limón insisten en que Hacienda decidió no girar recursos que corresponden por ley, que camufló en su discurso de recorte de fondos del FEES La entrada Estudiantes y funcionarios…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/11/TEC-en-AL-1024x543.png",
+          "publishedAt": "2026-11-23T19:31:46.000Z"
+        },
+        {
+          "title": "Narcotráfico en Colombia ha lanzado al menos un ataque explosivo con drones por día en 2026",
+          "link": "https://semanariouniversidad.com/mundo/narcotrafico-en-colombia-ha-lanzado-al-menos-un-ataque-explosivo-con-drones-por-dia-en-2026/",
+          "summary": "Un documento del ministerio de Defensa de Colombia reconoce que las mafias han realizado un promedio de un ataque diario de drones con explosivos en 2026, lo que supone un aumento de 140% desde la llegada al poder de…",
+          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/11/Colombia-ataque-con-drones.jpg-1024x682.jpg",
+          "publishedAt": "2026-11-23T19:23:26.000Z"
+        },
         {
           "title": "Jensen Huang es restituido en Nvidia y las bolsas se disparan al alza",
           "link": "https://semanariouniversidad.com/mundo/jensen-huang-es-restituido-en-nvidia-y-las-bolsas-se-disparan-al-alza/",
@@ -137,69 +166,6 @@
           "publishedAt": "2026-11-23T12:05:20.000Z",
           "titleEn": "Dollar projection will continue downward at the close of this 2026",
           "summaryEn": "Foreign currency is quoted below  ⁇ 450 for sale, driven by seasonal factors and increased currency availability during the year-end. The entry projection dollar will continue down..."
-        },
-        {
-          "title": "Habrá protesta en la noche en Montes de Oca para exigir transparencia en trámite de plan regulador",
-          "link": "https://semanariouniversidad.com/pais/habra-protesta-en-la-noche-en-montes-de-oca-para-exigir-transparencia-en-tramite-de-plan-regulador/",
-          "summary": "Este lunes la organización comunal Montes de Oca Unida organiza una manifestación frente a la Municipalidad a las 5 p.m. La entrada Habrá protesta en la noche en Montes de Oca para exigir transparencia en trámite de plan…",
-          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-06.26.54-1024x1024.jpeg",
-          "publishedAt": "2026-11-23T10:34:37.000Z",
-          "titleEn": "There will be a protest at night in Montes de Oca to demand transparency in regulatory process",
-          "summaryEn": "This Monday the community organization Montes de Oca Unida organizes a demonstration in front of the Municipality at 5 p.m. There will be a protest at night in Montes de Oca to demand transparency in the process of planning..."
-        },
-        {
-          "title": "Áreas protegidas en crisis: el Gobierno debe convertir el diagnóstico en decisiones",
-          "link": "https://semanariouniversidad.com/opinion/areas-protegidas-en-crisis-el-gobierno-debe-convertir-el-diagnostico-en-decisiones/",
-          "summary": "El reciente diagnóstico de la Contraloría General de la República coloca al Gobierno ante una responsabilidad concreta: explicar cómo va a reducir la distancia entre las obligaciones de conservación del Estado y la…",
-          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/11/opi-1-2.jpg",
-          "publishedAt": "2026-11-22T18:39:57.000Z",
-          "titleEn": "Protected areas in crisis: the government must make diagnosis into decisions",
-          "summaryEn": "The recent diagnosis of the General Audit Office of the Republic places the Government in a concrete position to explain how it will reduce the gap between the State's conservation obligations and the..."
-        },
-        {
-          "title": "Defensores mayangna y miskitu exiliados en el país narran violencia, invasión extractivista y persecución en el Caribe nicaragüense",
-          "link": "https://semanariouniversidad.com/pais/defensores-mayangna-y-miskitu-exiliados-en-el-pais-narran-violencia-invasion-extractivista-y-persecucion-en-el-caribe-nicaraguense/",
-          "summary": "Se calcula que entre el 2013 y el 2026 han asesinado a 107 personas indígenas en Nicaragua; pero la cifra podría ser mayor por el temor a denunciar, dijo a UNIVERSIDAD Juan Carlos Ocampo, líder miskitu. La entrada…",
-          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/11/foto-informe1-1024x371.jpg",
-          "publishedAt": "2026-11-22T13:30:08.000Z",
-          "titleEn": "Mayangna and miskitu defenders exiled in the country narrate violence, extractivist invasion and persecution in the Nicaraguan Caribbean",
-          "summaryEn": "It is estimated that between 2013 and 2026 107 indigenous people have been murdered in Nicaragua; but the figure could be higher for fear of being denounced, said Juan Carlos Ocampo, a miskitu leader, to UNIVERSITY. The entrance..."
-        },
-        {
-          "title": "60,3% de encuestados considera que desarrollo turístico obvia opinión de comunidades locales",
-          "link": "https://semanariouniversidad.com/pais/603-de-encuestados-considera-que-desarrollo-turistico-obvia-opinion-de-comunidades-locales/",
-          "summary": "Encuesta Nacional de Turismo muestra que el 71,4% considera que en las zonas turísticas se priorizan ahora las viviendas de lujo sobre las de interés social. La entrada 60,3% de encuestados considera que desarrollo…",
-          "image": "https://semanariouniversidad.com/wp-content/uploads/2021/03/turismo-rural-1024x682.jpeg",
-          "publishedAt": "2026-11-22T11:39:11.000Z",
-          "titleEn": "60.3% of respondents believe that tourism development is obvious to local communities",
-          "summaryEn": "National Tourism Survey shows that 71.4% believe that in tourist areas, luxury housing is now given priority over social housing. The entry 60.3% of respondents consider that development..."
-        },
-        {
-          "title": "Presidencia afirma que decreto para prorrogar nombramientos en Junta Directiva de la CCSS es para cumplir con mandato de la Sala IV",
-          "link": "https://semanariouniversidad.com/pais/presidencia-afirma-que-decreto-para-prorrogar-nombramientos-en-junta-directiva-de-la-ccss-es-para-cumplir-con-mandato-de-la-sala-iv/",
-          "summary": "Alega que el mecanismo de prórroga provisional contemplado en el decreto es sustancialmente idéntico al utilizado por la Sala IV en el caso de los nombramientos de sus magistrados suplentes para evitar la paralización de…",
-          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/09/Laura-Fernandez-1024x683.jpg",
-          "publishedAt": "2026-11-22T10:32:32.000Z",
-          "titleEn": "The Presidency claims that the decree to extend appointments to the CCSS Board is to fulfil the mandate of the Chamber IV",
-          "summaryEn": "It submits that the provisional extension mechanism provided for in the decree is substantially identical to that used by Chamber IV in the case of the appointment of its alternate judges to prevent the suspension of..."
-        },
-        {
-          "title": "Agradecimientos suspicaces se cruzan entre sacerdote y Laura Fernández en inauguración de escuela nueva en Limoncito",
-          "link": "https://semanariouniversidad.com/pais/agradecimientos-suspicaces-se-cruzan-entre-sacerdote-y-laura-fernandez-en-inauguracion-de-escuela-nueva-en-limoncito/",
-          "summary": "El comentario aparentemente molestó a Laura Fernández quien luego dijo que la escuela era mérito únicamente de su gobierno y el de Rodrigo Chaves. La entrada Agradecimientos suspicaces se cruzan entre sacerdote y Laura…",
-          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/11/InShot_20261121_060005186-1024x516.jpg",
-          "publishedAt": "2026-11-21T11:48:45.000Z",
-          "titleEn": "Suspicious thanks are crossed between priest and Laura Fernández at the opening of a new school in Limoncito",
-          "summaryEn": "The comment apparently disturbed Laura Fernández who later said the school was merited only by her government and Rodrigo Chaves's. The suspicious thank-you entry crosses between priest and Laura..."
-        },
-        {
-          "title": "¿Por qué Camilo Rodríguez no quiso entrar al programa de protección de víctimas? Esto dice su abogada",
-          "link": "https://semanariouniversidad.com/pais/por-que-camilo-rodriguez-no-quiso-entrar-al-programa-de-proteccion-de-victimas-esto-dice-su-abogada/",
-          "summary": "El comunicador, asesinado el pasado lunes, habría recibido al menos 200 amenazas de muerte de sectores vinculados con el narcotráfico o la política. La entrada ¿Por qué Camilo Rodríguez no quiso entrar al programa de…",
-          "image": "https://semanariouniversidad.com/wp-content/uploads/2026/11/Camilo-muerte-1024x683.jpg",
-          "publishedAt": "2026-11-21T11:11:06.000Z",
-          "titleEn": "Why didn't Camilo Rodriguez want to get into the victim protection program? That's what your lawyer says.",
-          "summaryEn": "The communicator, who was killed last Monday, reportedly received at least 200 death threats from drug trafficking and politics. The entry Why Camilo Rodriguez didn't want to enter the program of..."
         }
       ]
     },
@@ -210,87 +176,67 @@
         "homepage": "https://observador.cr",
         "lang": "es-CR"
       },
-      "fetchedAt": "2026-11-23T18:49:40.052Z",
+      "fetchedAt": "2026-11-24T06:51:44.034Z",
       "items": [
         {
-          "title": "Oposición dice que resolución de Sala IV sobre presupuesto es de acatamiento obligatorio; PPSO dice que esperará el voto completo",
-          "link": "https://observador.cr/oposicion-dice-que-resolucion-de-sala-iv-sobre-presupuesto-es-de-acatamiento-obligatorio-ppso-dice-que-esperara-el-voto-completo/",
-          "summary": "Aunque la resolución es de acatamiento obligatorio, el oficialismo señaló que esperará el voto completo para tomar una decisión. The post Oposición dice que resolución de Sala IV sobre presupuesto es de acatamiento…",
-          "publishedAt": "2026-11-23T18:14:04.000Z",
-          "titleEn": "Opposition says that the resolution of Chamber IV on budget is compulsory; PPSO says it will wait for the full vote",
-          "summaryEn": "Although the resolution is binding, the official said he would wait for the full vote to make a decision. The post Opposition says that House resolution IV on budget is adherence..."
+          "title": "Nvidia restituye a Jensen Huang como CEO tras intervención de Trump y se dispara en bolsa",
+          "link": "https://observador.cr/nvidia-restituye-a-jensen-huang-como-ceo-tras-intervencion-de-trump-y-se-dispara-en-bolsa/",
+          "summary": "Las acciones de Nvidia subieron un estratosférico 31,48%, lo que supone una ganancia de más de 900.000 millones de dólares de capitalización bursátil en una sola sesión. The post Nvidia restituye a Jensen Huang como CEO…",
+          "publishedAt": "2026-11-24T06:06:00.000Z"
         },
         {
-          "title": "CCSS finalizará en enero convenio de aseguramiento para refugiados por falta de recursos",
-          "link": "https://observador.cr/ccss-finalizara-en-enero-convenio-de-aseguramiento-para-refugiados-por-falta-de-recursos/",
-          "summary": "Durante siete años más de 14.000 personas recibieron el beneficio. The post CCSS finalizará en enero convenio de aseguramiento para refugiados por falta de recursos appeared first on El Observador CR.",
-          "publishedAt": "2026-11-23T17:51:22.000Z",
-          "titleEn": "CCSS will conclude in January an insurance agreement for refugees due to lack of resources",
-          "summaryEn": "Over seven years more than 14,000 people received the benefit. The post CCSS will conclude in January an insurance agreement for refugees for lack of resources appeared first on El Observador CR."
+          "title": "Hurto, asalto y robo: los delitos más frecuentes en los últimos tres diciembres, según el OIJ",
+          "link": "https://observador.cr/hurto-asalto-y-robo-los-delitos-mas-frecuentes-en-los-ultimos-tres-diciembres-segun-el-oij/",
+          "summary": "La Fuerza Pública ya reforzó la vigilancia en todo el país con motivo del pago de aguinaldos. The post Hurto, asalto y robo: los delitos más frecuentes en los últimos tres diciembres, según el OIJ appeared first on El…",
+          "publishedAt": "2026-11-24T06:05:00.000Z"
         },
         {
-          "title": "TEC: Estudiantes y funcionarios presentan 40 coadyuvancias para frenar recortes en sede de Limón",
-          "link": "https://observador.cr/tec-estudiantes-y-funcionarios-presentan-40-coadyuvancias-para-frenar-recortes-en-sede-de-limon/",
-          "summary": "Profesor asegura que los estudiantes están desmotivados, ante la incertidumbre por lo que pasará con la sede regional. The post TEC: Estudiantes y funcionarios presentan 40 coadyuvancias para frenar recortes en sede de…",
-          "publishedAt": "2026-11-23T17:24:27.000Z",
-          "titleEn": "TEC: Students and officials submit 40 coadjuvants to curb cuts at the Limón site",
-          "summaryEn": "Professor says students are unmotivated, facing uncertainty about what will happen to the regional headquarters. The post TEC: Students and officials submit 40 aid applications to curb cuts at the..."
+          "title": "Regidor propone centro para recolectar desechos orgánicos como alternativa al basurero en Turrúcares",
+          "link": "https://observador.cr/regidor-propone-centro-para-recolectar-desechos-organicos-como-alternativa-al-basurero-en-turrucares/",
+          "summary": "El centro no estaría necesariamente en Turrúcares, porque eventualmente, la Comisión del Plan Regulador la encargada de buscar un terreno adecuado. The post Regidor propone centro para recolectar desechos orgánicos como…",
+          "publishedAt": "2026-11-24T06:04:00.000Z"
         },
         {
-          "title": "Corte determina que reformas a la ley de la Contraloría afectan al Poder Judicial y requieren 38 votos",
-          "link": "https://observador.cr/corte-determina-que-reformas-a-la-ley-de-la-contraloria-afectan-al-poder-judicial-y-requieren-38-votos/",
-          "summary": "Algunas de estas reformas estaban contempladas en la llamada Ley Jaguar, impulsada en la administración de Rodrigo Chaves Robles. The post Corte determina que reformas a la ley de la Contraloría afectan al Poder Judicial…",
-          "publishedAt": "2026-11-23T17:05:31.000Z",
-          "titleEn": "Court determines that reforms to the Contraloría law affect the Judicial Power and require 38 votes",
-          "summaryEn": "Some of these reforms were contemplated in the so-called Jaguar Law, promoted in the administration of Rodrigo Chaves Robles. The post Court determines that reforms to the law of the Comptroller's Office affect the Judiciary..."
+          "title": "CCSS recibió 3.290 solicitudes de condonación de deudas en los últimos 10 días del plazo",
+          "link": "https://observador.cr/ccss-recibio-3-290-solicitudes-de-condonacion-de-deudas-en-los-ultimos-10-dias-del-plazo/",
+          "summary": "Al 31 de octubre, la institución había condonado ¢28.651 millones y recuperó ¢71.031 millones. The post CCSS recibió 3.290 solicitudes de condonación de deudas en los últimos 10 días del plazo appeared first on El…",
+          "publishedAt": "2026-11-24T06:03:00.000Z"
         },
         {
-          "title": "Oficialmente Costa Rica será sede de la Copa del Mundo Femenina en 2031 junto a EE. UU., México y Jamaica",
-          "link": "https://observador.cr/oficialmente-costa-rica-sera-sede-de-la-copa-del-mundo-femenina-en-2031-junto-a-ee-uu-mexico-y-jamaica/",
-          "summary": "Torneo tendrá 48 selecciones y se jugarán 104 partidos The post Oficialmente Costa Rica será sede de la Copa del Mundo Femenina en 2031 junto a EE. UU., México y Jamaica appeared first on El Observador CR.",
-          "publishedAt": "2026-11-23T16:55:39.000Z",
-          "titleEn": "Officially Costa Rica will host the 2031 Women's World Cup alongside the USA. U.S., Mexico and Jamaica",
-          "summaryEn": "The tournament will have 48 selections and 104 matches will be played The post Officially Costa Rica will host the Women's World Cup in 2031 alongside USA. U.S., Mexico and Jamaica appeared first on El Observador CR."
+          "title": "Reforma busca que diputados permanezcan mínimo el 75% de las sesiones para recibir la dieta ¿Cómo se comprobaría?",
+          "link": "https://observador.cr/reforma-busca-que-diputados-permanezcan-minimo-el-75-de-las-sesiones-para-recibir-la-dieta-como-se-comprobaria/",
+          "summary": "La presidenta de la Asamblea Legislativa Yara Jiménez presentó el proyecto The post Reforma busca que diputados permanezcan mínimo el 75% de las sesiones para recibir la dieta ¿Cómo se comprobaría? appeared first on El…",
+          "publishedAt": "2026-11-24T06:02:00.000Z"
         },
         {
-          "title": "Montes de Oca ofrecerá 490 mamografías gratuitas: conozca los requisitos y cómo inscribirse",
-          "link": "https://observador.cr/montes-de-oca-ofrecera-490-mamografias-gratuitas-conozca-los-requisitos-y-como-inscribirse/",
-          "summary": "La Municipalidad también financiará 150 ultrasonidos complementarios y acompañamiento psicológico para mujeres que lo requieran. The post Montes de Oca ofrecerá 490 mamografías gratuitas: conozca los requisitos y cómo…",
-          "publishedAt": "2026-11-23T16:20:00.000Z",
-          "titleEn": "Montes de Oca will offer 490 free mammograms: know the requirements and how to register",
-          "summaryEn": "The Municipality will also finance 150 complementary ultrasounds and psychological support for women who require it. The post Montes de Oca will offer 490 free mammograms: know the requirements and how..."
+          "title": "Mareas extraordinarias de hasta 3,48 metros volverán al Pacífico tras inundaciones registradas en octubre",
+          "link": "https://observador.cr/mareas-extraordinarias-de-hasta-348-metros-volveran-al-pacifico-tras-inundaciones-registradas-en-octubre/",
+          "summary": "Se prevé mareas más altas de lo habitual entre el martes 24 y el sábado 28 de noviembre. The post Mareas extraordinarias de hasta 3,48 metros volverán al Pacífico tras inundaciones registradas en octubre appeared first…",
+          "publishedAt": "2026-11-24T06:01:00.000Z"
         },
         {
-          "title": "Presidenta del Poder Judicial: “No estamos pidiendo más dinero ni aumento de presupuesto”",
-          "link": "https://observador.cr/presidenta-del-poder-judicial-no-estamos-pidiendo-mas-dinero-ni-aumento-de-presupuesto/",
-          "summary": "Sala Constitucional ordenó eliminar cuatro normas que condicionaban el uso de fondos y plazas del Poder Judicial. The post Presidenta del Poder Judicial: “No estamos pidiendo más dinero ni aumento de presupuesto”…",
-          "publishedAt": "2026-11-23T15:56:07.000Z",
-          "titleEn": "President of the Judiciary:  ⁇ We are not asking for more money or budget increase ⁇",
-          "summaryEn": "The Constitutional Chamber ordered the removal of four rules that conditioned the use of funds and places of the Judicial Power. The post President of the Judiciary:  ⁇ We are not asking for more money or budget increase..."
+          "title": "UCR inaugura planta solar que también abastece a San Pedro",
+          "link": "https://observador.cr/ucr-inaugura-planta-solar-que-tambien-abastece-a-san-pedro/",
+          "summary": "La CNFL y Enertiva asumirán la inversión y operación de la planta durante dos décadas. The post UCR inaugura planta solar que también abastece a San Pedro appeared first on El Observador CR.",
+          "publishedAt": "2026-11-24T02:09:00.000Z"
         },
         {
-          "title": "Shakira en Costa Rica: entradas salen a la venta este lunes al mediodía; vea quiénes pueden comprarlas",
-          "link": "https://observador.cr/shakira-en-costa-rica-entradas-salen-a-la-venta-este-lunes-al-mediodia-vea-quienes-pueden-comprarlas/",
-          "summary": "La primera preventa comienza este 23 de noviembre a las 12 m. d. y será exclusiva para clientes con tarjetas Visa Davivienda y Visa DaviBank. The post Shakira en Costa Rica: entradas salen a la venta este lunes al…",
-          "publishedAt": "2026-11-23T15:20:00.000Z",
-          "titleEn": "Shakira in Costa Rica: Tickets go on sale this Monday at noon; see who can buy them",
-          "summaryEn": "The first pre-sale will start on November 23 at 12 a.m. and will be exclusively for customers with Visa Davivienda and Visa DaviBank cards. The post Shakira in Costa Rica: tickets go on sale this Monday at..."
+          "title": "Comisión aprueba convocar a extraditable Juan Carlos Tam para que declare sobre posibles vínculos con Pueblo Soberano",
+          "link": "https://observador.cr/comision-aprueba-convocar-a-extraditable-juan-carlos-tam-para-que-declare-sobre-posibles-vinculos-con-pueblo-soberano/",
+          "summary": "El sospechoso se encuentra detenido por lo que la gran interrogante es cómo se realizará la audiencia. The post Comisión aprueba convocar a extraditable Juan Carlos Tam para que declare sobre posibles vínculos con Pueblo…",
+          "publishedAt": "2026-11-24T02:05:45.000Z"
         },
         {
-          "title": "Costa Rica tendrá un lunes caluroso y con pocas lluvias: temperaturas llegarán a 35 °C en Guanacaste",
-          "link": "https://observador.cr/costa-rica-tendra-un-lunes-caluroso-y-con-pocas-lluvias-temperaturas-llegaran-a-35-c-en-guanacaste/",
-          "summary": "El IMN prevé para este lunes cielos mayormente despejados y vientos moderados en el Valle Central y el Pacífico Norte. The post Costa Rica tendrá un lunes caluroso y con pocas lluvias: temperaturas llegarán a 35 °C en…",
-          "publishedAt": "2026-11-23T14:40:00.000Z",
-          "titleEn": "Costa Rica will have a hot Monday with little rainfall: temperatures will reach 35 °C in Guanacaste",
-          "summaryEn": "IMN forecasts for this Monday mostly clear skies and moderate winds in the Central Valley and the North Pacific. The post Costa Rica will have a hot Monday with little rainfall: temperatures will reach 35 °C in..."
+          "title": "Presidencia legislativa conforma comisión especial para investigar visita de la Defensora de los Habitantes al Cacco",
+          "link": "https://observador.cr/presidencia-legislativa-conforma-comision-especial-para-investigar-visita-de-la-defensora-de-los-habitantes-al-cacco/",
+          "summary": "Órgano estará integrado por cinco diputadas: tres del PPSO, una del PLN y una más del Frente Amplio The post Presidencia legislativa conforma comisión especial para investigar visita de la Defensora de los Habitantes al…",
+          "publishedAt": "2026-11-24T01:13:48.000Z"
         },
         {
-          "title": "¿Le alcanzará la pensión para vivir? El desafío de mantener sus ingresos durante la jubilación",
-          "link": "https://observador.cr/le-alcanzara-la-pension-para-vivir-el-desafio-de-mantener-sus-ingresos-durante-la-jubilacion/",
-          "summary": "Costa Rica envejece, nacen menos niños y el sistema de pensiones enfrenta crecientes presiones. The post ¿Le alcanzará la pensión para vivir? El desafío de mantener sus ingresos durante la jubilación appeared first on El…",
-          "publishedAt": "2026-11-23T12:00:00.000Z",
-          "titleEn": "Will he get his pension to live on? The Challenge of Maintaining Your Income During Retirement",
-          "summaryEn": "Costa Rica is getting older, fewer children are born, and the pension system faces increasing pressures. The post Will you get your pension to live on? The challenge of maintaining your income during retirement appeared first on El..."
+          "title": "Sistema frontal se acercará a Centroamérica esta semana: ¿Qué efectos tendrá en Costa Rica?",
+          "link": "https://observador.cr/sistema-frontal-se-acercara-a-centroamerica-esta-semana-que-efectos-tendra-en-costa-rica/",
+          "summary": "Un sistema frontal se desplazará por el norte de Centroamérica durante la segunda mitad de esta semana y aunque no tendrá una influencia significativa sobre Costa Rica, podría provocar algunos cambios en las condiciones…",
+          "publishedAt": "2026-11-24T01:04:00.000Z"
         }
       ]
     }

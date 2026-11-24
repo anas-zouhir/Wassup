@@ -8,56 +8,70 @@
         "homepage": "https://www.rte.ie/news/",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-23T18:50:03.038Z",
+      "fetchedAt": "2026-11-24T06:51:59.901Z",
       "items": [
         {
-          "title": "O'Connor to 'vigorously' challenge sacking as HSE chief",
-          "link": "https://www.rte.ie/news/2026/1123/1600281-anne-oconnor-hse/",
-          "summary": "Anne O'Connor has said she will \"vigorously\" challenge a decision by the HSE to sack her as its chief executive this morning.",
+          "title": "Martin to address O'Connor sacking amid call for clarity",
+          "link": "https://www.rte.ie/news/ireland/2026/1124/1600391-hse-removal-dail/",
+          "summary": "Taoiseach Micheál Martin is expected to address the sudden removal of HSE Chief Executive Anne O'Connor from her role in the Dáil today.",
           "image": "https://www.rte.ie/images/002562c9-800.jpg",
-          "publishedAt": "2026-11-23T10:32:39.000Z"
+          "publishedAt": "2026-11-24T02:20:39.000Z"
+        },
+        {
+          "title": "Timelines to be put in place for An Coimisiún Pleanála",
+          "link": "https://www.rte.ie/news/politics/2026/1124/1600389-ireland-cabinet-planning/",
+          "summary": "The Cabinet is expected to discuss significant changes to the planning system that are due to come into effect on Thursday.",
+          "image": "https://www.rte.ie/images/00188c03-800.jpg",
+          "publishedAt": "2026-11-24T00:53:02.000Z"
+        },
+        {
+          "title": "Govt to consider use of plug-in solar panels from April",
+          "link": "https://www.rte.ie/news/politics/2026/1124/1600386-cabinet-climate-politics/",
+          "summary": "Householders could be permitted to buy and use plug-in solar panels from next spring under new energy affordability measures to be discussed by Cabinet later today.",
+          "image": "https://www.rte.ie/images/000f1b30-800.jpg",
+          "publishedAt": "2026-11-24T00:01:00.000Z"
+        },
+        {
+          "title": "Longford's Maura Higgins dances her way to DWTS US finale",
+          "link": "https://www.rte.ie/entertainment/2026/1124/1600383-maura-higgins-dwts/",
+          "summary": "Reality TV star Maura Higgins will compete in the Dancing with the Stars US finale alongside her dance partner Mark Ballas tonight.",
+          "image": "https://www.rte.ie/images/00253547-800.jpg",
+          "publishedAt": "2026-11-24T06:00:00.000Z"
+        },
+        {
+          "title": "Tech firms soar as Huang's return reinvigorates AI trade",
+          "link": "https://www.rte.ie/news/business/2026/1124/1600393-nvidia-stocks-surge/",
+          "summary": "Technology firms have rocketed today as Asia joined a global stock surge following the reinstatement of Jensen Huang as Nvidia boss less than two weeks after stepping down over extramarital affairs including with an…",
+          "image": "https://www.rte.ie/images/001fc283-800.jpg",
+          "publishedAt": "2026-11-24T03:25:22.000Z"
         },
         {
           "title": "Two men arrested in relation to Waterford arson attack",
           "link": "https://www.rte.ie/news/2026/1123/1600344-waterford-fire-arrests/",
-          "summary": "Two men have been arrested in an investigation into a fire that killed five family members in Waterford.",
+          "summary": "Two men have been arrested as part of the investigation into a fire that killed five family members in Waterford.",
           "image": "https://www.rte.ie/images/00252980-800.jpg",
           "publishedAt": "2026-11-23T15:32:34.000Z"
         },
         {
-          "title": "Gardaí 'feeding' Europol probe following threats - Kelly",
-          "link": "https://www.rte.ie/news/2026/1123/1600324-garda-commissioner-europol/",
-          "summary": "Europol is co-ordinating the investigation into hoax bomb threats against airlines, schools, and media organisations, Garda Commissioner Justin Kelly has said.",
-          "image": "https://www.rte.ie/images/00256340-800.jpg",
-          "publishedAt": "2026-11-23T14:24:00.000Z"
+          "title": "Mary Robinson to join young people in Seanad climate talk",
+          "link": "https://www.rte.ie/news/politics/2026/1124/1600382-robinson-seanad-climate/",
+          "summary": "Former president Mary Robinson will join 75 young people to discuss climate issues in the Seanad chamber this morning.",
+          "image": "https://www.rte.ie/images/0023cc9e-800.jpg",
+          "publishedAt": "2026-11-24T00:00:00.000Z"
         },
         {
-          "title": "Three pedestrians killed on Irish roads since Friday",
-          "link": "https://www.rte.ie/news/ulster/2026/1123/1600259-muff-donegal-rtc/",
-          "summary": "A man in his 40s has died after he was struck by a car in Co Donegal last night.",
-          "image": "https://www.rte.ie/images/002562bd-800.jpg",
-          "publishedAt": "2026-11-23T08:29:52.000Z"
+          "title": "Cttee to meet for extra day to hasten Triple Lock debate",
+          "link": "https://www.rte.ie/news/2026/1124/1600390-triple-lock-vote/",
+          "summary": "The Oireachtas Committee on Defence will meet for an extra day this week in a bid to speed up its discussions over the potential Triple Lock law change.",
+          "image": "https://www.rte.ie/images/0022a08c-800.jpg",
+          "publishedAt": "2026-11-24T01:16:54.000Z"
         },
         {
-          "title": "Taoiseach meets CUH officials amid staffing concerns",
-          "link": "https://www.rte.ie/news/ireland/2026/1123/1600246-cork-university-hospital/",
-          "summary": "Taoiseach Micheál Martin has met Cork University Hospital officials to discuss significant patient safety and staffing level concerns.",
-          "image": "https://www.rte.ie/images/00256370-800.jpg",
-          "publishedAt": "2026-11-23T06:25:59.000Z"
-        },
-        {
-          "title": "Nvidia reinstates Jensen Huang as CEO amid Trump pressure",
-          "link": "https://www.rte.ie/news/business/2026/1123/1600328-nvidia-reinstates-huang-as-ceo/",
-          "summary": "Nvidia said it was reinstating Jensen Huang as CEO, effective immediately, an extraordinary reversal that followed calls from US President Donald Trump for his return after Huang resigned over revelations of extramarital…",
-          "image": "https://www.rte.ie/images/00246ea3-800.jpg",
-          "publishedAt": "2026-11-23T14:08:39.000Z"
-        },
-        {
-          "title": "School uniform policy reform aims to cut parents' costs",
-          "link": "https://www.rte.ie/news/education/2026/1123/1600235-school-uniform-consultation/",
-          "summary": "A consultation process on school uniform reforms aimed at cutting costs for families has been announced by the Minister for Education and Youth.",
-          "image": "https://www.rte.ie/images/00246fd8-800.jpg",
-          "publishedAt": "2026-11-23T06:00:01.000Z"
+          "title": "Trouble brewing over Merrion Square's delayed €6m-plus tea rooms",
+          "link": "https://www.rte.ie/news/primetime/2026/1124/1600372-merrion-square-tea-rooms/",
+          "summary": "A multi-million euro tea room planned for Dublin's Merrion Square Park, already over time and over budget, will not be open until next summer, Dublin City Council has confirmed",
+          "image": "https://www.rte.ie/images/00256380-800.jpg",
+          "publishedAt": "2026-11-24T06:00:15.000Z"
         },
         {
           "title": "Estonia action on 'verge of triggering open war' - Russia",
@@ -65,20 +79,6 @@
           "summary": "Russia's Foreign Ministry accused Estonia of a range of hostile actions \"on the ⁠verge of triggering open war\", ratcheting up its rhetoric after Estonia announced the closure of their land border.",
           "image": "https://www.rte.ie/images/001b3dfb-800.jpg",
           "publishedAt": "2026-11-23T16:27:47.000Z"
-        },
-        {
-          "title": "Mother and son jailed for involvement in Ballymena riots",
-          "link": "https://www.rte.ie/news/2026/1123/1600348-ballymena-riots/",
-          "summary": "A mother and son who were \"instigators\" in racially aggravated rioting in Ballymena last year have today been handed sentences totalling 12 years.",
-          "image": "https://www.rte.ie/images/00256356-800.jpg",
-          "publishedAt": "2026-11-23T15:57:23.000Z"
-        },
-        {
-          "title": "Ryanair changes policy for those who don't pre-book seat",
-          "link": "https://www.rte.ie/news/business/2026/1123/1600279-ryanair-seating-changes/",
-          "summary": "Ryanair has defended the recent change it has made in the way it manages passengers who do not pay for assigned seating on their flights.",
-          "image": "https://www.rte.ie/images/002336ed-800.jpg",
-          "publishedAt": "2026-11-23T10:27:21.000Z"
         }
       ]
     },
@@ -89,77 +89,77 @@
         "homepage": "https://www.irishtimes.com",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-23T18:50:03.704Z",
+      "fetchedAt": "2026-11-24T06:52:00.050Z",
       "items": [
         {
-          "title": "EU seeks new rules requiring reports on who Aughinish Alumina is selling to in Russia",
-          "link": "https://www.irishtimes.com/ireland/2026/11/23/eu-seeks-new-rules-requiring-reports-on-who-aughinish-alumina-is-selling-to-in-russia/",
-          "summary": "European Commission decided against sanctions on Co Limerick plant",
-          "image": "https://www.irishtimes.com/resizer/v2/R46NDCNWQFHPVLIDDNJX7LCG24.JPG?auth=d6fb2f84f6e52d46535969e1078aac0459d2321f457f83f92cd26b1dda66ff9d&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-23T18:45:23.000Z"
+          "title": "University students who always turn to AI to fix things will be unprepared for life",
+          "link": "https://www.irishtimes.com/ireland/education/2026/11/24/life-is-full-of-failure-if-you-always-turn-to-ai-to-fix-things-you-will-be-unprepared/",
+          "summary": "The friction previously built into studying − slow searching, getting stuck, long reading − was something we never had to teach deliberately. Now we do",
+          "image": "https://www.irishtimes.com/resizer/v2/MJN2N2N4YRC6ZEHISCPJMSLQLM.jpeg?auth=da836c3e564f26266100911aba5ce02f207bf06a3fab9d3ac04263fb291144f4&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-24T06:01:00.000Z"
         },
         {
-          "title": "US man who murdered first wife wants Galway rumours over second wife’s death ‘put to rest’",
-          "link": "https://www.irishtimes.com/ireland/2026/11/23/us-man-who-murdered-first-wife-wants-galway-rumours-over-second-wifes-death-put-to-rest/",
-          "summary": "Locals became concerned when they hadn’t seen Deborah Anne Glacken for weeks",
-          "image": "https://www.irishtimes.com/resizer/v2/YZZ6UUF6VNET5GPJSN3KALWGKQ.JPG?auth=04c4d28706320b5d6355337e05d189979d0867f4acaeaee8dda1d51806d1fd5f&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-23T18:00:00.000Z"
+          "title": "Dublin church installs stained-glass windows in memory of those who died from Aids",
+          "link": "https://www.irishtimes.com/ireland/2026/11/24/dublin-church-installs-stained-glass-windows-in-memory-of-those-who-died-from-aids/",
+          "summary": "Installations at St Teresa’s Church show people of various backgrounds as a reminder that Aids does not discriminate",
+          "image": "https://www.irishtimes.com/resizer/v2/TCTOQU5EIZDKZOGAMM6UIHKAME.jpg?auth=bae399e15c3f17130a7b79f89a789e8ee07e2bcdf402a0355726bd05420816b2&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-24T06:00:01.000Z"
         },
         {
-          "title": "Man jailed for stealing mattresses from site of proposed Ipas centre in Coolock",
-          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/23/man-given-one-year-in-prison-for-involvement-in-coolock-crown-paints-ipas-protest/",
-          "summary": "Sentence would have been ‘considerably longer’ if accused had been motivated by anti-immigrant hatred, says judge",
-          "image": "https://www.irishtimes.com/resizer/v2/D4BNUDFNSVHUNZVHZNLWD6OMJY.jpg?auth=25ccff899e233f2a76be9f2bf03041fa31d000b7961b485db2e7b875dd0cb6e1&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-23T17:58:55.000Z"
+          "title": "Stakes involved for Anne O’Connor, both reputational and financial, are substantial",
+          "link": "https://www.irishtimes.com/ireland/2026/11/24/stakes-involved-for-anne-oconnor-both-reputational-and-financial-are-substantial/",
+          "summary": "In a statement, O’Connor said the handling of her dismissal was ‘profoundly flawed’ and ‘wholly unfair’",
+          "image": "https://www.irishtimes.com/resizer/v2/TJO3UOL4XVYWKB22KFDE2ENXOY.JPG?auth=e28d7be461e2423d8f4fb21dfc0510e7eab5be55e636a006ae7715de084b8e14&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-24T06:00:01.000Z"
         },
         {
-          "title": "‘Blessed that we just happened to be there’: Dublin firefighters rescue teenager in Brazil",
-          "link": "https://www.irishtimes.com/ireland/dublin/2026/11/23/blessed-that-we-just-happened-to-be-there-dublin-firefighters-rescue-teenager-in-brazil/",
-          "summary": "Fifteen-year-old girl got into difficulty swimming on Saturday",
-          "image": "https://www.irishtimes.com/resizer/v2/NQZXDR5FDFEA5JD57I2J472FN4.jpg?auth=6c7c3c057ef2520b604078abf3f40bb33c693dec7f688a460e80b3c237040833&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-23T17:52:53.000Z"
+          "title": "High Court orders wind-up of Liberties Recycling Training and Development Company",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/24/high-court-orders-wind-up-of-liberties-recycling-training-and-development-company/",
+          "summary": "Provisional liquidators say Liberties Recycling has ceased trading with sales process of assets under way",
+          "image": "https://www.irishtimes.com/resizer/v2/JILDRLEOIB34NROI3LJWRPSY3Y.JPG?auth=a56267c25e170f35a6b2bd0f0af27926d3744e3483f39b127fca52848ad83c38&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-24T06:00:01.000Z"
         },
         {
-          "title": "Man (23) charged over alleged carjacking in Cork city",
-          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/23/man-charged-with-alleged-cork-city-carjacking/",
-          "summary": "Aivaras Miezetis of Meadow Crescent, Hollyhill, Cork, charged with unauthorised taking of car",
-          "image": "https://www.irishtimes.com/resizer/v2/UQU57YUE3JES3GSZM264U47AWM.jpg?auth=573d94e0bd88bb6c0ffbcc458d32ee9241ff880e1db478b3656c5a1d1551ddf8&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-23T17:32:04.000Z"
+          "title": "Nature restoration plan seeks to reverse biodiversity decline in the State",
+          "link": "https://www.irishtimes.com/environment/2026/11/24/nature-restoration-plan-seeks-to-reverse-biodiversity-decline-in-the-state/",
+          "summary": "Action compulsory in all EU member states given alarming destruction of habitats",
+          "image": "https://www.irishtimes.com/resizer/v2/GTZW27LYFRG3LCFLK2BC4Q3GU4.JPG?auth=344891e76fd40e35bc2f45a6efa5e449b7b7475da195e16c685085d7ae94d6f7&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-24T06:00:00.000Z"
         },
         {
-          "title": "Man jailed for three years over sexual abuse of sister more than 30 years ago",
-          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/23/man-jailed-for-three-years-over-sexual-abuse-of-sister-more-than-30-years-ago/",
-          "summary": "Anthony Byrne (45) left his younger sister a ‘very broken woman’, court told",
-          "image": "https://www.irishtimes.com/resizer/v2/2YP5YAJE4ZBIVFXKHI2ZXQO2WE.JPG?auth=e9d1bb5cc850d102745a102ad7d555f65e361740e3cf5b9670176a5ee2001fb8&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-23T17:29:03.000Z"
+          "title": "Government faces questions over shock removal of HSE chief",
+          "link": "https://www.irishtimes.com/ireland/2026/11/23/government-faces-questions-over-shock-removal-of-hse-chief/",
+          "summary": "No reason for move provided by either Minister for Health or HSE board",
+          "image": "https://www.irishtimes.com/resizer/v2/XD7R7PRNXFBSVBXKWYFNKH3Q7I.png?auth=68198baffa920db210785dde7eab9b1bf01870b53e543a4917f148bc3049bcaf&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-23T22:00:00.000Z"
         },
         {
-          "title": "Boy questioned by gardaí investigating fatal scrambler hit-and-run in Co Mayo",
-          "link": "https://www.irishtimes.com/crime-law/2026/11/23/boy-questioned-by-gardai-investigating-fatal-scrambler-hit-and-run-in-co-mayo/",
-          "summary": "John Queenan (62) was walking home when the incident occurred at Mercy Park, Ballina, on Friday",
-          "image": "https://www.irishtimes.com/resizer/v2/FHR2EIH2HZHP5KM7G72YTQPVLU.jpg?auth=8ad6feef76f626cbaddb8b7f76cdbf7f52af0cd338184274b0d04e2f15a5b9bc&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-23T16:25:25.000Z"
+          "title": "Mother and son ‘instigators’ jailed for roles in Ballymena race riots",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/23/mother-and-son-instigators-jailed-for-roles-in-ballymena-race-riots/",
+          "summary": "Judge brands pair ‘a total and absolute disgrace’ to decent, law-abiding citizens",
+          "image": "https://www.irishtimes.com/resizer/v2/MC3XSKXFXZEO3B5OVNS35DF6EY.jpg?auth=df30107086a3f227328b253c03212872ed7cf9f3fcaf243731beb977f334b749&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-23T21:26:51.000Z"
         },
         {
-          "title": "New €24m Garda station opens in Bailieboro, Co Cavan",
-          "link": "https://www.irishtimes.com/crime-law/2026/11/23/gardai-feeding-into-europol-investigation-of-bomb-threats/",
-          "summary": "New Garda station opened in Bailieboro, Co Cavan",
-          "image": "https://www.irishtimes.com/resizer/v2/BHCTEKIVIFCQTJWJKYAGA42WDE.jpeg?auth=cbb55f68927ef8541fed1b1f660566ab0ff5829b08cbb34da830eb184e7d9179&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-23T15:19:10.000Z"
+          "title": "Dublin City Council approves record €1.85bn budget for 2027 despite heated rent row",
+          "link": "https://www.irishtimes.com/ireland/dublin/2026/11/23/dublin-city-council-185bn-budget-approved-despite-rent-row/",
+          "summary": "Council chief executive Richard Shakespeare tells councillors they ‘cannot fetter’ his discretion on rents",
+          "image": "https://www.irishtimes.com/resizer/v2/J2PBM57KJFBUTKBV3ESYVYIYPE.jpg?auth=78b6de3da9c865895b1890b299c49112e2ee97f3e56d5b78fea1604b21085295&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-23T20:41:19.000Z"
         },
         {
-          "title": "Two arrested over Waterford arson attack that killed five members of English family",
-          "link": "https://www.irishtimes.com/crime-law/2026/11/23/gardai-arrest-two-more-men-after-waterford-arson-attack-that-killed-five/",
-          "summary": "Eight people in total detained for questioning since English family home was targeted in October",
-          "image": "https://www.irishtimes.com/resizer/v2/57FWAZRWYRSI5GNL3PTNPYTRFE.JPG?auth=d5e45ab4ebd9c171b04d068e25e45a7459e1bb8a359540f0970df5abf624a7ed&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-23T15:07:34.000Z"
+          "title": "Lough Neagh residents may be forced to move due to algae pollution, writer says",
+          "link": "https://www.irishtimes.com/environment/2026/11/23/lough-neagh-residents-may-be-forced-to-move-due-to-algae-pollution-writer-says/",
+          "summary": "‘A lot of people don’t trust what they’re being told...many are purchasing bottled water’ says author of new book",
+          "image": "https://www.irishtimes.com/resizer/v2/W5372NALPS3ZMGR6KNNRU6J3QM.jpg?auth=2f325e8e978ff22ea6ebc5961ca6d0bc5f777a4769517867baaa7622e36a6126&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-23T20:40:30.000Z"
         },
         {
-          "title": "Couple lose claim that demolition of Meath home built without permission breached rights",
-          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/23/couple-lose-claim-that-demolition-of-meath-home-built-without-permission-breached-rights/",
-          "summary": "‘Whole circus’ was caused by Chris and Rose Murray’s own actions, says High Court judge",
-          "image": "https://www.irishtimes.com/resizer/v2/VXPFHDA6D5C5LBSV2NTYI6OX4Y.jpg?auth=035b24b19eea2d3bcbda5a7b7fc8d077c92697d4dfc077bbdb4c9f98c2311ce2&smart=true&width=630&height=350",
-          "publishedAt": "2026-11-23T14:56:28.000Z"
+          "title": "State to ‘fully defend’ attempt to rename Dublin’s Herzog Park, High Court hears",
+          "link": "https://www.irishtimes.com/crime-law/courts/2026/11/23/state-to-fully-defend-attempt-to-rename-herzog-park-high-court-hears/",
+          "summary": "Motion to change name Herzog Park has ‘stalled’ due to Ministerial inaction on regulations, councillors claim",
+          "image": "https://www.irishtimes.com/resizer/v2/7C7AGD6O44ASDOIO5RR32X6AIU.jpg?auth=2ff419cd159dc2b84ff3e67278cf2a912d9649ad260ce10c8c83435710780c2a&smart=true&width=630&height=350",
+          "publishedAt": "2026-11-23T20:16:38.000Z"
         }
       ]
     },
@@ -170,73 +170,71 @@
         "homepage": "https://www.independent.ie",
         "lang": "en-IE"
       },
-      "fetchedAt": "2026-11-23T18:50:03.483Z",
+      "fetchedAt": "2026-11-24T06:52:00.347Z",
       "items": [
         {
-          "title": "State will ‘fully defend’ attempts from councillors to rename Herzog Park in Dublin",
-          "link": "https://www.independent.ie/irish-news/courts/state-will-fully-defend-attempts-from-councillors-to-rename-herzog-park-in-dublin/a/164996597.html",
-          "summary": "His son, Isaac Herzog, is the current president of Israel.",
-          "image": "https://prod-img.independent.ie/public/incoming/m5fm20-a-plaque-on-a-stone-reads-herzog-park-commemorating-chaim-herzog-israels-sixth-president-who-wa/alternates/BASE_SIXTEEN_NINE/A%20plaque%20on%20a%20stone%20reads%20Herzog%20Park%20commemorating%20Chaim%20Herzog%20Israels%20sixth%20president%20who%20wa",
-          "publishedAt": "2026-11-23T18:14:00.000Z"
+          "title": "Miley Cyrus shares series of wedding photos after marrying ‘love of her life’ Maxx Morando",
+          "link": "https://www.independent.ie/entertainment/celebrity/miley-cyrus-shares-series-of-wedding-photos-after-marrying-love-of-her-life-maxx-morando/a/165005306.html",
+          "summary": "And US singer Billy Ray Cyrus says he is the ‘proudest day alive’",
+          "image": "https://prod-img.independent.ie/public/incoming/grtj39-mileywedding.png/alternates/BASE_SIXTEEN_NINE/mileywedding.png",
+          "publishedAt": "2026-11-24T06:45:00.000Z"
         },
         {
-          "title": "Woman hospitalised after collision with Garda patrol vehicle",
-          "link": "https://www.independent.ie/irish-news/woman-hospitalised-after-collision-with-garda-patrol-vehicle/a/164996135.html",
-          "summary": "The female driver of the vehicle has been taken to Beaumont Hospital with injuries that are believed to be non-life-threatening.",
-          "image": "https://prod-img.independent.ie/public/incoming/gl1wy2-file888abr28m8l1g8b0k93s/alternates/BASE_SIXTEEN_NINE/file888abr28m8l1g8b0k93s",
-          "publishedAt": "2026-11-23T18:03:00.000Z"
+          "title": "French rape survivor Gisèle Pelicot sues publisher for ‘sharing photos of her abuse’ to promote a new book",
+          "link": "https://www.independent.ie/world-news/french-rape-survivor-gisele-pelicot-sues-publisher-for-sharing-photos-of-her-abuse-to-promote-a-new-book/a/165005290.html",
+          "summary": "Pelicot says she is ‘profoundly shocked’ about the use of the images",
+          "image": "https://prod-img.independent.ie/public/incoming/flen4t-everybody-know-the-horrendous-story-of-gisele-pelicot.-yes-not-all-men-but-her-husband-was-still/alternates/BASE_SIXTEEN_NINE/Everybody%20know%20the%20horrendous%20story%20of%20Gisele%20Pelicot.%20Yes%20not%20all%20men%20%20but%20her%20husband%20was%20still",
+          "publishedAt": "2026-11-24T06:40:00.000Z"
         },
         {
-          "title": "Dubs to return to Parnell Park... but for one league night only",
-          "link": "https://www.independent.ie/sport/gaa/dubs-to-return-to-parnell-park...-but-for-one-league-night-only/a/164987004.html",
-          "image": "https://prod-img.independent.ie/public/incoming/873m6t-is-gbrennan-23.jpg/alternates/BASE_SIXTEEN_NINE/IS%20GBRENNAN%2023.jpg",
-          "publishedAt": "2026-11-23T18:00:00.000Z"
+          "title": "One in five shops sold vapes to children in HSE stings, but none carried out in Wexford",
+          "link": "https://www.independent.ie/county/wexford/one-in-five-shops-sold-vapes-to-children-in-hse-stings-but-none-carried-out-in-wexford/a/164969377.html",
+          "image": "https://prod-img.independent.ie/public/incoming/o6yop1-124998189.jpg/alternates/BASE_SIXTEEN_NINE/124998189.JPG",
+          "publishedAt": "2026-11-24T06:40:00.000Z"
         },
         {
-          "title": "‘There’s plenty of good football players in Waterford, it’s just to have that bit of belief’ – Rathgormack captain Jason Curry on famous Munster shock",
-          "link": "https://www.independent.ie/sport/gaa/theres-plenty-of-good-football-players-in-waterford-its-just-to-have-that-bit-of-belief-rathgormack-captain-jason-curry-on-famous-munster-shock/a/164977809.html",
-          "image": "https://prod-img.independent.ie/public/incoming/391igb-dr-crokes-v-rathgormack-aib-munster-gaa-senior-club-football-championship-semi-final/alternates/BASE_SIXTEEN_NINE/Dr%20Crokes%20v%20Rathgormack%20-%20AIB%20Munster%20GAA%20Senior%20Club%20Football%20Championship%20Semi-Final",
-          "publishedAt": "2026-11-23T18:00:00.000Z"
+          "title": "Council vows to remove ‘unauthorised signage’ after Wexford streets get ‘revolutionary makeover’",
+          "link": "https://www.independent.ie/county/wexford/council-vows-to-remove-unauthorised-signage-after-wexford-streets-get-revolutionary-makeover/a/164964769.html",
+          "image": "https://prod-img.independent.ie/public/incoming/x5uyyt-25006.jpg/alternates/BASE_SIXTEEN_NINE/25006.jpg",
+          "publishedAt": "2026-11-24T06:40:00.000Z"
         },
         {
-          "title": "Explainer: Why Russia's Kaliningrad is a potential flashpoint with Nato",
-          "link": "https://www.independent.ie/world-news/explainer-why-russias-kaliningrad-is-a-potential-flashpoint-with-nato/a/164958542.html",
-          "summary": "The militarised territory lies between Nato members Poland and Lithuania",
-          "image": "https://prod-img.independent.ie/public/incoming/zci4sz-gettyimages-2302099550.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-2302099550.jpg",
-          "publishedAt": "2026-11-23T17:59:00.000Z"
+          "title": "Wexford parishioners gifted images of Virgin Mary to help families in need ‘start their journey to brighter days’",
+          "link": "https://www.independent.ie/county/wexford/wexford-parishioners-gifted-images-of-virgin-mary-to-help-families-in-need-start-their-journey-to-brighter-days/a/164963294.html",
+          "image": "https://prod-img.independent.ie/public/incoming/6z5w5a-parishioner-lizzie-connors-and-fr-john-carroll-pictured-with-the-two-gifted-photos-of-the-virgin-mary./alternates/BASE_SIXTEEN_NINE/Parishioner%20Lizzie%20Connors%20and%20Fr%20John%20Carroll%20pictured%20with%20the%20two%20gifted%20photos%20of%20the%20Virgin%20Mary.",
+          "publishedAt": "2026-11-24T06:40:00.000Z"
         },
         {
-          "title": "Trump posts bizarre AI mockup of his assassination attempt with Jensen Huang and a red bra",
-          "link": "https://www.independent.ie/world-news/trump-posts-bizarre-ai-mockup-of-his-assassination-attempt-with-jensen-huang-and-a-red-bra/a/164995465.html",
-          "image": "https://prod-img.independent.ie/public/incoming/5ubyi6-file-photo-us-president-trump-attends-the-a-new-golden-age-summit-in-washington/alternates/BASE_SIXTEEN_NINE/FILE%20PHOTO%20US%20President%20Trump%20attends%20the%20A%20New%20Golden%20Age%20summit%20in%20Washington",
-          "publishedAt": "2026-11-23T17:49:00.000Z"
+          "title": "Bidding war for beards as Wexford Macra members auction chance to shave their Movember efforts off",
+          "link": "https://www.independent.ie/county/wexford/bidding-war-for-beards-as-wexford-macra-members-auction-chance-to-shave-their-movember-efforts-off/a/164959187.html",
+          "image": "https://prod-img.independent.ie/public/incoming/j25jc4-macra.jpg/alternates/BASE_SIXTEEN_NINE/macra.jpg",
+          "publishedAt": "2026-11-24T06:40:00.000Z"
         },
         {
-          "title": "Kerry budget passes despite controversial Rates increase - ‘You can’t make an omelette without breaking a few eggs’",
-          "link": "https://www.independent.ie/county/kerry/kerry-budget-passes-despite-controversial-rates-increase-you-cant-make-an-omelette-without-breaking-a-few-eggs/a/164982120.html",
-          "summary": "Only one vote was in it as the chamber split along party lines",
-          "image": "https://prod-img.independent.ie/public/incoming/x5cy0n-the-kerry-county-council-chamber.-file-photo-1.jpg/alternates/BASE_SIXTEEN_NINE/The%20Kerry%20County%20Council%20chamber.%20File%20Photo%201.jpg",
-          "publishedAt": "2026-11-23T17:45:43.000Z"
+          "title": "Galway pub with rooftop bar advertised for lease",
+          "link": "https://www.independent.ie/county/galway/galway-pub-with-rooftop-bar-advertised-for-lease/a/164665803.html",
+          "image": "https://prod-img.independent.ie/public/incoming/1e3lz8-oreillys-bar-and-restaurant-in-salthill-co-galway-has-been-without-an-alcohol-licence-since-august./alternates/BASE_SIXTEEN_NINE/OReillys%20Bar%20and%20Restaurant%20in%20Salthill%20Co%20Galway%20has%20been%20without%20an%20alcohol%20licence%20since%20August.",
+          "publishedAt": "2026-11-24T06:40:00.000Z"
         },
         {
-          "title": "Man who orally raped woman at GAA club house jailed for six years",
-          "link": "https://www.independent.ie/irish-news/courts/man-who-orally-raped-woman-at-gaa-club-house-jailed-for-six-years/a/164994290.html",
-          "summary": "He was 21 years old at the time of the offence on August 15, 2021.",
-          "image": "https://prod-img.independent.ie/public/incoming/g2btdl-gettyimages-1483489085.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-1483489085.jpg",
-          "publishedAt": "2026-11-23T17:40:50.000Z"
+          "title": "Iranian singer flogged for performing without hijab during a live-streamed YouTube concert",
+          "link": "https://www.independent.ie/world-news/iranian-singer-flogged-for-performing-without-hijab-during-a-live-streamed-youtube-concert/a/165005049.html",
+          "summary": "Parastoo Ahmadi and four band members also handed two-year ban on artistic activities and travel by Iranian authorities",
+          "image": "https://prod-img.independent.ie/public/incoming/epou12-gettyimages-2274511803.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-2274511803.jpg",
+          "publishedAt": "2026-11-24T06:30:00.000Z"
         },
         {
-          "title": "Dave Mulcahy leaves Kilkenny senior hurling management team",
-          "link": "https://www.independent.ie/sport/gaa/hurling/dave-mulcahy-leaves-kilkenny-senior-hurling-management-team/a/164993151.html",
-          "image": "https://prod-img.independent.ie/public/incoming/sigzwg-dave-mulcahy-during-his-league-of-ireland-playing-days-with-bohemians.-photo-david-mahersportsfile/alternates/BASE_SIXTEEN_NINE/Dave%20Mulcahy%20during%20his%20League%20of%20Ireland%20playing%20days%20with%20Bohemians.%20Photo%20David%20MaherSportsfile",
-          "publishedAt": "2026-11-23T17:40:00.000Z"
+          "title": "North Kerry SFC Final: Listowel Emmets joint-captain Sam Tarrant hails ‘unbelievable’ success",
+          "link": "https://www.independent.ie/county/kerry/north-kerry-sfc-final-listowel-emmets-joint-captain-sam-tarrant-hails-unbelievable-success/a/164966081.html",
+          "summary": "‘It’s now that it needs to happen,’ the captain says about a push for senior football",
+          "image": "https://prod-img.independent.ie/public/incoming/pzlnwu-listowel-emmets-v-duagh/alternates/BASE_SIXTEEN_NINE/Listowel%20Emmets%20v%20Duagh",
+          "publishedAt": "2026-11-24T06:30:00.000Z"
         },
         {
-          "title": "Thalidomide campaigner Mary Clarken dies aged 96",
-          "link": "https://www.independent.ie/irish-news/thalidomide-campaigner-mary-clarken-dies-aged-96/a/164988669.html",
-          "summary": "Her death comes just a few days before the 65th anniversary of the international withdrawal of Thalidomide",
-          "image": "https://prod-img.independent.ie/public/incoming/vzyn2i-img-5775-d77918ad4962738d42b82492ffd86908d3a2b7401ca18ae9.jpeg/alternates/BASE_SIXTEEN_NINE/IMG_5775_d77918ad4962738d42b82492ffd86908d3a2b7401ca18ae9.jpeg",
-          "publishedAt": "2026-11-23T17:34:23.000Z"
+          "title": "Housing to account for 41pc of Wicklow County Council spending as €198m budget adopted amid rent concerns",
+          "link": "https://www.independent.ie/county/wicklow/housing-to-account-for-41pc-of-wicklow-county-council-spending-as-198m-budget-adopted-amid-rent-concerns/a/164983328.html",
+          "image": "https://prod-img.independent.ie/public/incoming/xi9qbr-file8765o2nvox01db728geh/alternates/BASE_SIXTEEN_NINE/file8765o2nvox01db728geh",
+          "publishedAt": "2026-11-24T06:20:00.000Z"
         }
       ]
     }

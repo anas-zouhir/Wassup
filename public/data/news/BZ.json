@@ -3,88 +3,72 @@
   "outlets": [
     {
       "outlet": {
-        "id": "amandala",
-        "name": "Amandala",
-        "homepage": "https://amandala.com.bz",
-        "lang": "en-BZ"
-      },
-      "fetchedAt": "2026-11-22T06:47:57.850Z",
-      "items": [
-        {
-          "title": "Amandala #3977 Friday , November 20, 2026",
-          "link": "https://amandala.com.bz/news/amandala-3977-friday-november-20-2026/",
-          "publishedAt": "2026-11-19T06:53:40.000Z"
-        }
-      ]
-    },
-    {
-      "outlet": {
         "id": "breaking-belize-news",
         "name": "Breaking Belize News",
         "homepage": "https://www.breakingbelizenews.com",
         "lang": "en-BZ"
       },
-      "fetchedAt": "2026-11-23T18:49:34.581Z",
+      "fetchedAt": "2026-11-24T06:51:39.752Z",
       "items": [
         {
-          "title": "International News: Powerful El Niño could cost global economy trillions of dollars, scientists warn",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/international-news-powerful-el-nino-could-cost-global-economy-trillions-of-dollars-scientists-warn/",
-          "summary": "By Zoila Palma: The powerful 2026-2027 El Niño weather phenomenon could have devastating consequences for the global economy, with scientists warning that the event could generate trillions of dollars in economic losses…",
-          "publishedAt": "2026-11-23T18:48:13.000Z"
+          "title": "Well liked retired Senior Immigration Officer Horace Guzman collapses and dies while exercising",
+          "link": "https://www.breakingbelizenews.com/2026/11/23/well-liked-retired-senior-immigration-officer-horace-guzman-collapses-and-dies-while-exercising/",
+          "summary": "By Hugh O’Brien: Horace Guzman, a retired senior immigration officer and a key member of the 2022 Belize Amnesty Program, collapsed and died late this evening while exercising at the Marion Jones Sporting Complex in…",
+          "publishedAt": "2026-11-24T05:27:20.000Z"
         },
         {
-          "title": "International News: Nvidia reinstates Jensen Huang as CEO following Chinese-spy ties controversy",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/international-news-nvidia-reinstates-jensen-huang-as-ceo-following-chinese-spy-ties-controversy/",
-          "summary": "By Zoila Palma: Today, Nvidia’s board announced that Jensen Huang has been reinstated as chief executive officer and president of the technology giant, sending the company’s stock up more than 30 percent following the…",
-          "publishedAt": "2026-11-23T18:37:03.000Z"
+          "title": "Police seek High Court orders to examine seized evidence in Coastal Plain Highway quadruple murder investigation",
+          "link": "https://www.breakingbelizenews.com/2026/11/23/police-seek-high-court-orders-to-examine-seized-evidence-in-coastal-plain-highway-quadruple-murder-investigation/",
+          "summary": "By Breaking Belize News Staff: Police are seeking orders from the High Court to examine evidence recovered during their investigation into the October 30 quadruple murder along the Coastal Plain Highway. Assistant…",
+          "publishedAt": "2026-11-23T23:46:20.000Z"
         },
         {
-          "title": "Ministry of Agriculture and AMEXCID strengthen Livestock Sector through Artificial Insemination training",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/ministry-of-agriculture-and-amexcid-strengthen-livestock-sector-through-artificial-insemination-training/",
-          "summary": "By Zoila Palma: The Ministry of Agriculture, Food Security and New Growth Industries (MAFSNGI), in collaboration with the Mexican Agency for International Development Cooperation (AMEXCID), has concluded a week-long…",
-          "publishedAt": "2026-11-23T18:27:28.000Z"
+          "title": "Coast Guard member detained after alleged confrontation with police at checkpoint; Officer complains of arm pain",
+          "link": "https://www.breakingbelizenews.com/2026/11/23/coast-guard-member-detained-after-alleged-confrontation-with-police-at-checkpoint-officer-complains-of-arm-pain/",
+          "summary": "By Breaking Belize News Staff: A Belize Coast Guard member is in police custody and is expected to face charges following an alleged confrontation with a police officer at a checkpoint. Assistant Superintendent of Police…",
+          "publishedAt": "2026-11-23T23:35:36.000Z"
         },
         {
-          "title": "Belize shares Living Heritage experience during cultural exchange in Honduras",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/belize-shares-living-heritage-experience-during-cultural-exchange-in-honduras/",
-          "summary": "By Zoila Palma: Belize shared its progress in documenting and safeguarding its Intangible Cultural Heritage (ICH), also known as Living Heritage, during a regional cultural exchange held in Roatán, Honduras, on November…",
-          "publishedAt": "2026-11-23T15:39:26.000Z"
+          "title": "Second police officer becomes third person charged in $30,000 San Pedro casino winnings robbery",
+          "link": "https://www.breakingbelizenews.com/2026/11/23/second-police-officer-becomes-third-person-charged-in-30000-san-pedro-casino-winnings-robbery/",
+          "summary": "By Breaking Belize News Staff: A third person, reportedly another police constable, has been charged in connection with the armed robbery of a 74-year-old American retiree who was relieved of $30,000 in casino winnings…",
+          "publishedAt": "2026-11-23T23:28:19.000Z"
         },
         {
-          "title": "Prime Minister: “We’re doing as best as we can” on cost of living",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/prime-minister-were-doing-as-best-as-we-can-on-cost-of-living/",
-          "summary": "By Zoila Palma: Prime Minister John Briceño says that his administration is doing the best they can in terms of attempting to alleviate the rising cost of living felt by Belizeans. “We’re doing the best we can, we are…",
-          "publishedAt": "2026-11-23T15:34:22.000Z"
+          "title": "Police say dispute preceded Miguel Reyes’ murder as DPP-directed charge against Ezekel Martinez moves forward",
+          "link": "https://www.breakingbelizenews.com/2026/11/23/police-say-dispute-preceded-miguel-reyes-murder-as-dpp-directed-charge-against-ezekel-martinez-moves-forward/",
+          "summary": "By Breaking Belize News Staff: Police have revealed additional details about the investigation into the murder of 32-year-old Miguel Reyes in Independence Village, confirming that a dispute at an establishment preceded…",
+          "publishedAt": "2026-11-23T23:19:50.000Z"
         },
         {
-          "title": "Nvidia reinstates Jensen Huang as CEO: why it matters for Belize",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/nvidia-reinstates-jensen-huang-as-ceo-why-it-matters-for-belize/",
-          "summary": "By Breaking Belize News Staff (HP): Nvidia, the world’s dominant maker of artificial intelligence chips, has reinstated Jensen Huang as chief executive. The company announced on Monday that Huang returns immediately as…",
-          "publishedAt": "2026-11-23T15:28:42.000Z"
+          "title": "Police say Tryone Coc jumped into flooded river after officers responded to reports of fight with brother",
+          "link": "https://www.breakingbelizenews.com/2026/11/23/police-say-tryone-coc-jumped-into-flooded-river-after-officers-responded-to-reports-of-fight-with-brother/",
+          "summary": "By Breaking Belize News Staff: Police have provided new details surrounding the death of 18-year-old Tyrone Coc, whose body was discovered in a river in Big Falls Village, Toledo District, three days after he reportedly…",
+          "publishedAt": "2026-11-23T23:11:30.000Z"
         },
         {
-          "title": "Universal Hardware offers Lifan and Meilun motorcycle tires at both locations",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/universal-hardware-offers-lifan-and-meilun-motorcycle-tires-at-both-locations/",
-          "summary": "By Breaking Belize News Staff (HP): Universal Hardware is offering a range of motorcycle tires for popular Lifan and Meilun models, with prices starting at $47.15. The lineup covers street bikes, dual purpose motorcycles…",
-          "publishedAt": "2026-11-23T15:24:44.000Z"
+          "title": "Police say Walter ‘Grillo’ Esquivel struck rear wheel of SUV before fatal crash in Unitedville",
+          "link": "https://www.breakingbelizenews.com/2026/11/23/police-say-walter-grillo-esquivel-struck-rear-wheel-of-suv-before-fatal-crash-in-unitedville/",
+          "summary": "By Breaking Belize News Staff: Police have revealed new details surrounding the death of Walter Esquivel, a Camalote Village resident who was killed in a motorcycle accident along the George Price Highway. Assistant…",
+          "publishedAt": "2026-11-23T23:02:26.000Z"
         },
         {
-          "title": "Area Representatives to be held accountable for housing assistance, PM says",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/area-representatives-to-be-held-accountable-for-housing-assistance-pm-says/",
-          "summary": "By Zoila Palma: Prime Minister John Briceño says that he believes that the Area Representatives know their constituents and the needs thus the Government of Belize is making available an additional $3 million in housing…",
-          "publishedAt": "2026-11-23T15:22:17.000Z"
+          "title": "Gilbert Gordon is new Comptroller of Customs",
+          "link": "https://www.breakingbelizenews.com/2026/11/23/gilbert-gordon-is-new-comptroller-of-customs/",
+          "summary": "By Zoila Palma: Today, the Office of the Prime Minister announced the appointment of career Customs Officer Dr. Gilbert Gordon to the post of Comptroller of Customs, effective December 1, 2026. He will succeed current…",
+          "publishedAt": "2026-11-23T22:26:16.000Z"
         },
         {
-          "title": "Motor Solutions LLP offers ZXAUTO GrandLion pickup at special price of $92,000",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/motor-solutions-llp-offers-zxauto-grandlion-pickup-at-special-price-of-92000/",
-          "summary": "By Breaking Belize News Staff (HP): Motor Solutions LLP is offering the ZXAUTO GrandLion, a full size pickup, at a special price of $92,000 with all duties and taxes included. The company describes the GrandLion as a…",
-          "publishedAt": "2026-11-23T15:20:00.000Z"
+          "title": "Riverside calm in Cayo: why Carmelita River Cabins is 2027’s quiet escape",
+          "link": "https://www.breakingbelizenews.com/2026/11/23/riverside-calm-in-cayo-why-carmelita-river-cabins-is-2027s-quiet-escape/",
+          "summary": "By Breaking Belize News Staff (HP): Belize is busy this winter. The riverbank doesn’t have to be. With new flights landing from the US and Canada and the high season in full swing, many of Belize’s best known spots will…",
+          "publishedAt": "2026-11-23T22:07:02.000Z"
         },
         {
-          "title": "Prime Minister: “ Belize to capture more of value created by our land, investment and people” with Caribbean Sugar Refinery",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/prime-minister-belize-to-capture-more-of-value-created-by-our-land-investment-and-people-with-caribbean-sugar-refinery/",
-          "summary": "By Zoila Palma: In a historic ceremony, the Caribbean Sugar Refinery officially opened on November 21, 2026. The Caribbean Sugar Refinery, developed with investment from the Santander Group and Sucro Limited, will allow…",
-          "publishedAt": "2026-11-23T15:09:58.000Z"
+          "title": "International News: Caribbean Community disappointed as COP31 ends without a deal",
+          "link": "https://www.breakingbelizenews.com/2026/11/23/international-news-caribbean-community-disappointed-as-cop31-ends-without-a-deal/",
+          "summary": "By Zoila Palma: Today, the Caribbean Community (CARICOM) expressed deep disappointment that Parties at COP31 in Antalya, Türkiye, were unable to reach agreement on a cover decision that would have set out the urgent…",
+          "publishedAt": "2026-11-23T21:45:34.000Z"
         }
       ]
     },
@@ -95,67 +79,67 @@
         "homepage": "https://www.7newsbelize.com",
         "lang": "en-BZ"
       },
-      "fetchedAt": "2026-11-22T18:34:08.664Z",
+      "fetchedAt": "2026-11-24T06:51:38.782Z",
       "items": [
         {
-          "title": "Tragedy Near Unitedville: Four Killed in Holiday Collision Between Bus and Chevy Equinox",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80685",
-          "summary": "Tonight, families in the west and south are grieving after a very deadly 19th holiday-which saw the loss of seven lives: three in homicides and four in a fatal accident. We start with the quadruple fatality-which…",
-          "publishedAt": "2026-11-20T00:00:00.000Z"
+          "title": "Dr. Gilbert Gordon Is New Comptroller, Estelle Leslie's Departure Still A Puzzle To Some",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80698",
+          "summary": "Tonight, there is a new Comptroller of Customs-as we told you would likely happen on Friday, Deputy Comptroller Dr. Gilbert Gordon has gotten the nod. This is after government informed the current Comptroller,Estelle…",
+          "publishedAt": "2026-11-23T00:00:00.000Z"
         },
         {
-          "title": "Uncle and Nephew Shot Dead Outside Camalote Bar",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80686",
-          "summary": "While police were at that accident scene, a fatal shooting happened less than two hours later in Camalote. The victims were an uncle and nephew who had just arrived at a bar. Jomarie Lanza reports: The sound of multiple…",
-          "publishedAt": "2026-11-20T00:00:00.000Z"
+          "title": "Bolivian Police Intercept Mercury-Filled Hydraulic Jacks Exported From Belize",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80699",
+          "summary": "And the new comptroller will have to get to the bottom of a mysterious shipment from the Belize airport. 7News has confirmed that a shipment of 12 hydraulic jacks was intercepted at the main airport in Bolivia, known as…",
+          "publishedAt": "2026-11-23T00:00:00.000Z"
         },
         {
-          "title": "Man Killed and Teenager Sought After Chopping Incident in Independence Village",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80687",
-          "summary": "The holiday's other murder happened last night in Independence Village. Tonight, a 32-year-old man is dead, and a 19-year-old remains at large following a chopping incident. Police told us what happened: ASP Stacy Smith,…",
-          "publishedAt": "2026-11-20T00:00:00.000Z"
+          "title": "Married Saturday Night, Detained Sunday Morning, Released Sunday Afternoon, Charged on Monday Evening",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80700",
+          "summary": "And on the periphery of the customs command are customs guards. Tonight, a 49-year-old customs guard, Steve Arnold, has been charged and gotten JP bail after he allegedly injured a police officer's hand with his vehicle.…",
+          "publishedAt": "2026-11-23T00:00:00.000Z"
         },
         {
-          "title": "Noe Perez Charged With Murder of His Friend Henry Nunez",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80688",
-          "summary": "Orange Walk police have formally arrested and charged 40-year-old Noe Perez with murder for killing his friend and then setting him on fire. Yesterday, police formally charged Perez with the murder of 32-year-old Henry…",
-          "publishedAt": "2026-11-20T00:00:00.000Z"
+          "title": "Government Faces Decades-Old Compensation Bill Over San Pedro Airport Land",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80701",
+          "summary": "Thirty-four years after acquiring the land where San Pedro's John Greif II Airport sits, 7News has learned that the Government of Belize still hasn't fully compensated the owners, even as it advances plans for a…",
+          "publishedAt": "2026-11-23T00:00:00.000Z"
         },
         {
-          "title": "New Comptroller of Customs to Be Named Next Week; Estelle Leslie&rsquo;s Contract Will Not Be Renewed",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80689",
-          "summary": "Tonight, 7News can confirm that a new Comptroller of Customs will be named next week. Reports to our newsroom say that Comptroller Estelle Leslie-who has been on a contract for the past two years-was notified today in…",
-          "publishedAt": "2026-11-20T00:00:00.000Z"
+          "title": "With New $20M USD Refinery, Will Belize Become the Sugar Bowl of the Caribbean?",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80702",
+          "summary": "Belize is now home to the Caribbean's most advanced sugar refinery. It's a 20-million-US-dollar investment in the Cayo District that now positions Belize as the sugar bowl of the Caribbean. Here's the story from the…",
+          "publishedAt": "2026-11-23T00:00:00.000Z"
         },
         {
-          "title": "Prime Minister Appears Unclear on Recovery of Minister Henry Charles Usher&rsquo;s Crashed Pickup",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80690",
-          "summary": "And it has been four weeks since 7News first reported on the accident involving Minister Henry Charles Usher's government-assigned F-150 pickup on October 21. But still, there's no clarity on how government hopes to…",
-          "publishedAt": "2026-11-20T00:00:00.000Z"
+          "title": "CARICOM Trade Nuances Could Still Confound Belize&rsquo;s Plans for Sugar Exports",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80703",
+          "summary": "But it's not just as simple as refining the sugar and then automatically finding a Caribbean market. Under our regional treaty, Caribbean nations are legally obligated to purchase duty-free local products whenever a…",
+          "publishedAt": "2026-11-23T00:00:00.000Z"
         },
         {
-          "title": "Dangriga Hosts Vibrant Garifuna Settlement Day Celebrations With St. Vincent Prime Minister",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80691",
-          "summary": "And switching topics now to culture-yesterday, Dangriga Town saw one of the biggest Garifuna Settlement Day celebrations in recent memory. Crowned with a visit by the Prime Minister of St. Vincent and the Grenadines, the…",
-          "publishedAt": "2026-11-20T00:00:00.000Z"
+          "title": "Father Speaks Out 84 Days After Unsolved Murder of Brianna Myvette",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80704",
+          "summary": "Tonight, a father is speaking out 84 days after his daughter Brianna Myvette was killed on her way home from volleyball training. It's one of the many unsolved murders for 2026. On a Tuesday night in August, Myvette-a…",
+          "publishedAt": "2026-11-23T00:00:00.000Z"
         },
         {
-          "title": "Prime Ministers of Belize and St. Vincent Collaborate on Garifuna Language Preservation",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80692",
-          "summary": "But Dr. Godwin Friday's visit was specifically focused on preserving the Garifuna language-an effort he and the Prime Minister collaborated on: John Briceno, Prime Minister \"It's wonderful, and I think it's historic to…",
-          "publishedAt": "2026-11-20T00:00:00.000Z"
+          "title": "18-Year-Old Found Drowned After Fleeing Police in Big Falls Village",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80705",
+          "summary": "An 18-year-old was found drowned in Toledo yesterday. A few days earlier, 18-year-old Tyrone Coc went missing after running from police into a flooded river behind his house in Big Falls Village. He never made it out.…",
+          "publishedAt": "2026-11-23T00:00:00.000Z"
         },
         {
-          "title": "Police Constable Charged in San Pedro Casino Winnings Robbery",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80693",
-          "summary": "A police officer has been charged for a major robbery. It happened on Tuesday at 11:30 in the Ellis Subdivision of San Pedro when a trio-including the cop-allegedly targeted a retiree in his 70s who had reportedly just…",
-          "publishedAt": "2026-11-20T00:00:00.000Z"
+          "title": "Motorcyclist Killed in Second Highway Fatality Near Mile 59",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80706",
+          "summary": "And after last Thursday's quadruple fatality at Mile 61 on the George Price Highway, there was another fatal-this one at Mile 59. It involved a motorcycle which clipped a vehicle and crashed into a ditch. Superintendent…",
+          "publishedAt": "2026-11-23T00:00:00.000Z"
         },
         {
-          "title": "ASP Smith Addresses Rogue Officers After Third Major Police Charge in Three Weeks",
-          "link": "https://www.7newsbelize.com/sstory.php?nid=80694",
-          "summary": "So, for the third time in three weeks, police officers are being charged with major crimes. The two previous charges were for aggravated assault resulting from reckless handling of department-assigned weapons, and now…",
-          "publishedAt": "2026-11-20T00:00:00.000Z"
+          "title": "Teenager Charged With Murder in Independence Village Chopping Death",
+          "link": "https://www.7newsbelize.com/sstory.php?nid=80707",
+          "summary": "In other police news, a teenager has been charged for the murder of a 32-year-old man in Independence Village. The fatal chopping happened on the 19th of November, and according to ASP Smith, the motive arose from a…",
+          "publishedAt": "2026-11-23T00:00:00.000Z"
         }
       ]
     }
