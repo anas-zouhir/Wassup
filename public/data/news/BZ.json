@@ -3,72 +3,88 @@
   "outlets": [
     {
       "outlet": {
+        "id": "amandala",
+        "name": "Amandala",
+        "homepage": "https://amandala.com.bz",
+        "lang": "en-BZ"
+      },
+      "fetchedAt": "2026-11-24T18:48:05.279Z",
+      "items": [
+        {
+          "title": "Amandala #3978 Tuesday , November 24, 2026",
+          "link": "https://amandala.com.bz/news/amandala-3978-tuesday-november-24-2026/",
+          "publishedAt": "2026-11-24T16:09:11.000Z"
+        }
+      ]
+    },
+    {
+      "outlet": {
         "id": "breaking-belize-news",
         "name": "Breaking Belize News",
         "homepage": "https://www.breakingbelizenews.com",
         "lang": "en-BZ"
       },
-      "fetchedAt": "2026-11-24T06:51:39.752Z",
+      "fetchedAt": "2026-11-24T18:48:07.117Z",
       "items": [
         {
-          "title": "Well liked retired Senior Immigration Officer Horace Guzman collapses and dies while exercising",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/well-liked-retired-senior-immigration-officer-horace-guzman-collapses-and-dies-while-exercising/",
-          "summary": "By Hugh O’Brien: Horace Guzman, a retired senior immigration officer and a key member of the 2022 Belize Amnesty Program, collapsed and died late this evening while exercising at the Marion Jones Sporting Complex in…",
-          "publishedAt": "2026-11-24T05:27:20.000Z"
+          "title": "Six more families receive keys to new home from Ministry of Infrastructure Development and Housing",
+          "link": "https://www.breakingbelizenews.com/2026/11/24/six-more-families-receive-keys-to-new-home-from-ministry-of-infrastructure-development-and-housing/",
+          "summary": "By Zoila Palma: The Ministry of Infrastructure Development and Housing (MIDH) continues to advance national development and uplift Belizean families with the handover of 6 starter homes under its ongoing national housing…",
+          "publishedAt": "2026-11-24T17:01:19.000Z"
         },
         {
-          "title": "Police seek High Court orders to examine seized evidence in Coastal Plain Highway quadruple murder investigation",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/police-seek-high-court-orders-to-examine-seized-evidence-in-coastal-plain-highway-quadruple-murder-investigation/",
-          "summary": "By Breaking Belize News Staff: Police are seeking orders from the High Court to examine evidence recovered during their investigation into the October 30 quadruple murder along the Coastal Plain Highway. Assistant…",
-          "publishedAt": "2026-11-23T23:46:20.000Z"
+          "title": "Have you seen Seshanie Ferrell?",
+          "link": "https://www.breakingbelizenews.com/2026/11/24/have-you-seen-sehanie-ferrell/",
+          "summary": "By Zoila Palma: The family and friends of Belize City resident Seshanie Shania Ferrell,26, is concerned about her whereabouts. Ferrell was last seen on Wednesday November 18, 2026, around 8:20am. Since then, she hasn’t…",
+          "publishedAt": "2026-11-24T16:35:51.000Z"
         },
         {
-          "title": "Coast Guard member detained after alleged confrontation with police at checkpoint; Officer complains of arm pain",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/coast-guard-member-detained-after-alleged-confrontation-with-police-at-checkpoint-officer-complains-of-arm-pain/",
-          "summary": "By Breaking Belize News Staff: A Belize Coast Guard member is in police custody and is expected to face charges following an alleged confrontation with a police officer at a checkpoint. Assistant Superintendent of Police…",
-          "publishedAt": "2026-11-23T23:35:36.000Z"
+          "title": "Climate Change department invites information on existing Carbon Projects",
+          "link": "https://www.breakingbelizenews.com/2026/11/24/climate-change-department-invites-information-on-existing-carbon-projects/",
+          "summary": "The Climate Change Department (CCD) invites persons and organisations involved in existing carbon reduction or removal projects in Belize, including activities involving the sale, trade, or transfer of carbon credits, to…",
+          "publishedAt": "2026-11-24T16:30:35.000Z"
         },
         {
-          "title": "Second police officer becomes third person charged in $30,000 San Pedro casino winnings robbery",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/second-police-officer-becomes-third-person-charged-in-30000-san-pedro-casino-winnings-robbery/",
-          "summary": "By Breaking Belize News Staff: A third person, reportedly another police constable, has been charged in connection with the armed robbery of a 74-year-old American retiree who was relieved of $30,000 in casino winnings…",
-          "publishedAt": "2026-11-23T23:28:19.000Z"
+          "title": "BermudAir to launch San Antonio to Belize service in summer 2027",
+          "link": "https://www.breakingbelizenews.com/2026/11/24/bermudair-to-launch-san-antonio-to-belize-service-in-summer-2027/",
+          "summary": "By Breaking Belize News Staff (HP): BermudAir is adding San Antonio, Texas, to its Belize service for summer 2027, the Belize Tourism Board (BTB) announced today. The expanded schedule will see the airline serve Belize…",
+          "publishedAt": "2026-11-24T16:07:19.000Z"
         },
         {
-          "title": "Police say dispute preceded Miguel Reyes’ murder as DPP-directed charge against Ezekel Martinez moves forward",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/police-say-dispute-preceded-miguel-reyes-murder-as-dpp-directed-charge-against-ezekel-martinez-moves-forward/",
-          "summary": "By Breaking Belize News Staff: Police have revealed additional details about the investigation into the murder of 32-year-old Miguel Reyes in Independence Village, confirming that a dispute at an establishment preceded…",
-          "publishedAt": "2026-11-23T23:19:50.000Z"
+          "title": "Belize City student reported missing",
+          "link": "https://www.breakingbelizenews.com/2026/11/24/belize-city-student-reported-missing-14/",
+          "summary": "By Zoila Palma: The family and friends of Kai-Anne Burgess,17, is concerned about her whereabouts. Burgess was last seen on Monday November 23, 2026, around 7:30am. Anyone with information on her whereabouts is urged to…",
+          "publishedAt": "2026-11-24T16:03:20.000Z"
         },
         {
-          "title": "Police say Tryone Coc jumped into flooded river after officers responded to reports of fight with brother",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/police-say-tryone-coc-jumped-into-flooded-river-after-officers-responded-to-reports-of-fight-with-brother/",
-          "summary": "By Breaking Belize News Staff: Police have provided new details surrounding the death of 18-year-old Tyrone Coc, whose body was discovered in a river in Big Falls Village, Toledo District, three days after he reportedly…",
-          "publishedAt": "2026-11-23T23:11:30.000Z"
+          "title": "International News: Bomb blast injures 23 outside Government offices in Colombia",
+          "link": "https://www.breakingbelizenews.com/2026/11/24/international-news-bomb-blast-injures-23-outside-government-offices-in-colombia/",
+          "summary": "By Zoila Palma: A bomb exploded outside regional government offices in the Colombian city of Villavicencio on Monday night, injuring 23 people, authorities confirmed Tuesday. The attack has raised concerns over…",
+          "publishedAt": "2026-11-24T15:51:08.000Z"
         },
         {
-          "title": "Police say Walter ‘Grillo’ Esquivel struck rear wheel of SUV before fatal crash in Unitedville",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/police-say-walter-grillo-esquivel-struck-rear-wheel-of-suv-before-fatal-crash-in-unitedville/",
-          "summary": "By Breaking Belize News Staff: Police have revealed new details surrounding the death of Walter Esquivel, a Camalote Village resident who was killed in a motorcycle accident along the George Price Highway. Assistant…",
-          "publishedAt": "2026-11-23T23:02:26.000Z"
+          "title": "GTA 6 breaks playStation records with more than 39 million players in 1st week",
+          "link": "https://www.breakingbelizenews.com/2026/11/24/gta-6-breaks-playstation-records-with-more-than-39-million-players-in-1st-week/",
+          "summary": "By Zoila Palma: Grand Theft Auto VI (GTA 6) has reportedly set a new record as the biggest launch in PlayStation history, attracting more than 39 million unique players during its opening days. The highly anticipated…",
+          "publishedAt": "2026-11-24T15:00:41.000Z"
         },
         {
-          "title": "Gilbert Gordon is new Comptroller of Customs",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/gilbert-gordon-is-new-comptroller-of-customs/",
-          "summary": "By Zoila Palma: Today, the Office of the Prime Minister announced the appointment of career Customs Officer Dr. Gilbert Gordon to the post of Comptroller of Customs, effective December 1, 2026. He will succeed current…",
-          "publishedAt": "2026-11-23T22:26:16.000Z"
+          "title": "International News: World Health Organization chief visits Cuba as healthcare crisis deepens",
+          "link": "https://www.breakingbelizenews.com/2026/11/24/international-news-world-health-organization-chief-visits-cuba-as-healthcare-crisis-deepens/",
+          "summary": "By Zoila Palma: World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus arrived in Cuba on Sunday for a three-day visit as the country’s healthcare system faces growing challenges linked to an…",
+          "publishedAt": "2026-11-24T14:53:05.000Z"
         },
         {
-          "title": "Riverside calm in Cayo: why Carmelita River Cabins is 2027’s quiet escape",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/riverside-calm-in-cayo-why-carmelita-river-cabins-is-2027s-quiet-escape/",
-          "summary": "By Breaking Belize News Staff (HP): Belize is busy this winter. The riverbank doesn’t have to be. With new flights landing from the US and Canada and the high season in full swing, many of Belize’s best known spots will…",
-          "publishedAt": "2026-11-23T22:07:02.000Z"
+          "title": "Belize makes waves at Miss Universe as Caleigh-Rose West brings Great Blue Hole to stage",
+          "link": "https://www.breakingbelizenews.com/2026/11/24/belize-makes-waves-at-miss-universe-as-caleigh-rose-west-brings-great-blue-hole-to-stage/",
+          "summary": "By Zoila Palma: The 75th annual Miss Universe pageant is underway in San Juan, Puerto Rico, where 116 contestants took to the stage on Saturday for the national costume competition. Contestants showcased elaborate…",
+          "publishedAt": "2026-11-24T14:41:35.000Z"
         },
         {
-          "title": "International News: Caribbean Community disappointed as COP31 ends without a deal",
-          "link": "https://www.breakingbelizenews.com/2026/11/23/international-news-caribbean-community-disappointed-as-cop31-ends-without-a-deal/",
-          "summary": "By Zoila Palma: Today, the Caribbean Community (CARICOM) expressed deep disappointment that Parties at COP31 in Antalya, Türkiye, were unable to reach agreement on a cover decision that would have set out the urgent…",
-          "publishedAt": "2026-11-23T21:45:34.000Z"
+          "title": "International News: Mexico detains 8 suspected cartel members following arrest of ‘Chapo Isidro’",
+          "link": "https://www.breakingbelizenews.com/2026/11/24/international-news-mexico-detains-8-suspected-cartel-members-following-arrest-of-chapo-isidro/",
+          "summary": "By Zoila Palma: Mexican soldiers have detained eight alleged members of a drug cartel linked to Fausto Isidro Meza Flores, also known as “Chapo Isidro,” following his arrest on Friday. The detentions came amid continued…",
+          "publishedAt": "2026-11-24T14:33:49.000Z"
         }
       ]
     },
@@ -79,7 +95,7 @@
         "homepage": "https://www.7newsbelize.com",
         "lang": "en-BZ"
       },
-      "fetchedAt": "2026-11-24T06:51:38.782Z",
+      "fetchedAt": "2026-11-24T18:48:05.341Z",
       "items": [
         {
           "title": "Dr. Gilbert Gordon Is New Comptroller, Estelle Leslie's Departure Still A Puzzle To Some",
