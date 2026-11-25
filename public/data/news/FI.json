@@ -8,85 +8,68 @@
         "homepage": "https://yle.fi/uutiset",
         "lang": "fi"
       },
-      "fetchedAt": "2026-11-24T18:48:20.317Z",
+      "fetchedAt": "2026-11-25T06:54:11.164Z",
       "items": [
         {
-          "title": "Poliisi epäilee, että Laukaan Vihtavuoren ruutitehtaalla on vakoiltu",
-          "link": "https://yle.fi/a/74-20258680?origin=rss",
-          "summary": "Keskusrikospoliisi on aloittanut vakoilututkinnan syyskuussa tehdyistä droonihavainnoista Laukaassa.",
-          "publishedAt": "2026-11-24T16:00:32.000Z",
-          "titleEn": "Police suspect that Lauka's Vulkan paint factory has been spied on.",
-          "summaryEn": "The Central Crime Police have launched an intelligence investigation into drone sightings in Lauka in September."
+          "title": "Sähköyhtiöt ehdottavat: Myrskyn iskiessä maalla voisi elää kolme päivää ilman sähköä",
+          "link": "https://yle.fi/a/74-20257968?origin=rss",
+          "summary": "Itäsuomalaiset sähköyhtiöt pitävät sähkökatkoihin liittyvää lainsäädäntöä liian tiukkana.",
+          "publishedAt": "2026-11-25T03:30:35.000Z"
         },
         {
-          "title": "Oletko kuullut mikrodraamoista? Ala mullistui Kiinassa vain parissa kuukaudessa",
-          "link": "https://yle.fi/a/74-20246765?origin=rss",
-          "summary": "Tekoäly on mullistanut suosittujen mikrodraamojen tuotantoja rajummin kuin mitään muuta alaa Kiinassa.",
-          "publishedAt": "2026-11-24T16:33:44.000Z",
-          "titleEn": "Have you ever heard of micro-dramas? In China, the industry revolutionized in just a couple of months.",
-          "summaryEn": "Artificial intelligence has revolutionized the production of popular microdramas more than any other industry in China."
+          "title": "Missä päin Suomea ajokoe menee läpi helpoiten? Vertaa paikkakuntia Ylen Inssikoneella",
+          "link": "https://yle.fi/a/74-20249132?origin=rss",
+          "summary": "Ajokokeen ensiyrityksen läpäisyosuus vaihtelee suuresti eri puolilla Suomea. Traficom nostaa syyksi liikenneympäristön ja kuljettajien valmiudet.",
+          "publishedAt": "2026-11-25T06:00:35.000Z"
+        },
+        {
+          "title": "Keskiviikko on enimmäkseen poutainen – illalla Suomeen virtaa kylmempää ilmaa",
+          "link": "https://yle.fi/a/74-20258808?origin=rss",
+          "summary": "Lämpötilat ovat laskussa koko maassa lähipäivinä.",
+          "publishedAt": "2026-11-25T03:51:04.000Z"
+        },
+        {
+          "title": "Ranskan Marine Le Pen saattaa lamaannuttaa EU:n, tutkijat arvioivat",
+          "link": "https://yle.fi/a/74-20255535?origin=rss",
+          "summary": "Marine Le Penin varjo näkyy jo EU:n suurimmissa päätöksissä, vaikka Ranskan presidentinvaalit ovat vasta ensi keväänä.",
+          "publishedAt": "2026-11-25T05:03:30.000Z"
+        },
+        {
+          "title": "Turun ykköskuusen iäksi arvioidaan yli sata vuotta – luvassa mutkikas hakureissu Aurasta",
+          "link": "https://yle.fi/a/74-20257870?origin=rss",
+          "summary": "Yle seuraa kuusen matkaa Tuomiokirkontorille koko päivän.",
+          "publishedAt": "2026-11-25T06:47:25.000Z"
+        },
+        {
+          "title": "Analyysi: ”Vaarallinen lasti” oli Suomelle hyvä syy päästää venäläinen aselaiva menemään",
+          "link": "https://yle.fi/a/74-20258762?origin=rss",
+          "summary": "Venäjän lipun alla kulkevat alukset eivät ole turvassa Ukrainan iskuilta Itämerellä, Välimerellä tai Mustallamerellä.",
+          "publishedAt": "2026-11-25T04:37:03.000Z"
+        },
+        {
+          "title": "Jälleen yksi vesivoimalaitos saamassa purkutuomion",
+          "link": "https://yle.fi/a/74-20258130?origin=rss",
+          "summary": "Noin 70-vuotias vesivoimalaitos sijaitsee Kouvolan ja Luumäen rajalla. Purku-urakan kustannukset olisivat miljoona euroa.",
+          "publishedAt": "2026-11-25T06:18:50.000Z"
+        },
+        {
+          "title": "Vankilakoira Käry sokeutui töissä, rajakoira Naava teki poikkeusoloissa 38-tuntisen työpäivän",
+          "link": "https://yle.fi/a/74-20258609?origin=rss",
+          "summary": "Vuoden virkakoirat on valittu.",
+          "publishedAt": "2026-11-24T17:32:14.000Z",
+          "titleEn": "Prison dog Käry went blind at work, border dog Nava worked a 38-hour working day in exceptional conditions."
+        },
+        {
+          "title": "Junaliikenteessä poikkeuksia – tekninen vika Jokelan ja Hyvinkään välillä",
+          "link": "https://yle.fi/a/74-20258815?origin=rss",
+          "summary": "R- ja D-junia on peruttu kokonaan, muillakin junilla on myöhästymisiä. Myös Rantaradalla Kirkkonummi–Inkoo-välillä on tänä aamuna ongelmia.",
+          "publishedAt": "2026-11-25T05:19:05.000Z"
         },
         {
           "title": "Saksalaisyritys tietovuodon kohteena, myös suomalaisten maksutietoja viety",
           "link": "https://yle.fi/a/74-20258779?origin=rss",
           "publishedAt": "2026-11-24T18:27:28.000Z",
           "titleEn": "The German company that was the subject of the data leak, including the payment data of the Finns transferred"
-        },
-        {
-          "title": "Vankilakoira Käry sokeutui töissä, rajakoira Naava teki poikkeusoloissa 38-tuntisen työpäivän",
-          "link": "https://yle.fi/a/74-20258609?origin=rss",
-          "summary": "Vuoden virkakoirat ovat valittu. Poliisikoira, rajakoira, sotakoira, tullikoira ja vankilakoira palkitaan joulukuussa koiramessuilla Helsingissä.",
-          "publishedAt": "2026-11-24T17:32:14.000Z",
-          "titleEn": "Prison dog Käry went blind at work, border dog Nava worked a 38-hour working day in exceptional conditions.",
-          "summaryEn": "The official dog of the year has been selected. The police dog, the border dog, the war dog, the customs dog and the prison dog will be awarded at a dog show in Helsinki in December."
-        },
-        {
-          "title": "Keskusta ottaisi vähiten uutta velkaa, vihreät eniten – vertailimme opposition varjobudjetit",
-          "link": "https://yle.fi/a/74-20258629?origin=rss",
-          "summary": "Oppositiopuolueet peruisivat varjobudjeteissaan hallituksen tekemiä leikkauksia sote-palveluihin, järjestöjen rahoitukseen ja sosiaaliturvaan.",
-          "publishedAt": "2026-11-24T17:17:18.000Z",
-          "titleEn": "The Centre would take the least new debt, the green most  ⁇  we compared the shadow budgets of the opposition",
-          "summaryEn": "The opposition parties would withdraw their shadow budgets from government cuts to social services, corporate finance and social security."
-        },
-        {
-          "title": "Ilmavoimien sotaharjoituksessa Pirkkalassa sää ei hidasta tahtia: ”Pitää pystyä taistelemaan kaikissa olosuhteissa”",
-          "link": "https://yle.fi/a/74-20258656?origin=rss",
-          "summary": "Satakunnan lennosto harjoittelee yhteistyötä Nato-liittolaisten kanssa. Harjoitukseen osallistuu yli 1 800 reserviläistä.",
-          "publishedAt": "2026-11-24T15:46:18.000Z",
-          "titleEn": "Air Force war drills in Pirkkalas the weather does not slow down:",
-          "summaryEn": "The fleet of the hundred is cooperating with NATO allies. More than 1,800 reservists will participate in the exercise."
-        },
-        {
-          "title": "Trump painosti Nvidiaa ottamaan Jensen Huangin takaisin – kolme syytä selittää presidentin toimintaa",
-          "link": "https://yle.fi/a/74-20258625?origin=rss",
-          "summary": "Yhdysvaltain ja Nvidian poliittiset ja taloudelliset intressit kietoutuvat yhteen poikkeuksellisella tavalla.",
-          "publishedAt": "2026-11-24T13:57:42.000Z",
-          "titleEn": "Trump pressured Nvidia to take Jensen Huang back.",
-          "summaryEn": "The political and economic interests of the United States and Nvidia are unusually intertwined."
-        },
-        {
-          "title": "Venäläisalus sai drooni-iskun jälkeen apua kolmelta valtiolta – kartta näyttää tapahtumien kulun",
-          "link": "https://yle.fi/a/74-20258533?origin=rss",
-          "summary": "Drooni-iskussa vaurioitunut venäläinen Sparta II -rahtialus on Venäjän mukaan saapunut Pietariin.",
-          "publishedAt": "2026-11-24T15:02:45.000Z",
-          "titleEn": "After the drone strike, the Russian ship received assistance from three countries.",
-          "summaryEn": "The Russian warship Sparta II, damaged in a drone strike, has arrived in St. Petersburg."
-        },
-        {
-          "title": "Arvosanaksi 9-, mutta erikoisuuksiakin oli – näin sisäministeriö kertoi vaaratiedotteesta",
-          "link": "https://yle.fi/a/74-20258696?origin=rss",
-          "summary": "Hämmentävät tekniset ongelmat saattoivat johtua päivitysten puutteesta.",
-          "publishedAt": "2026-11-24T12:50:44.000Z",
-          "titleEn": "A grade of nine, but also a special grade, so the Ministry of the Interior reported the hazard report.",
-          "summaryEn": "The confusing technical problems may have been due to a lack of updates."
-        },
-        {
-          "title": "Valkoinen Kia seisoi paikallaan seitsemän vuoden ajan Tammelassa, nyt kunta hinaa sen viimein pois",
-          "link": "https://yle.fi/a/74-20258632?origin=rss",
-          "summary": "Kunta ei ole toistaiseksi onnistunut selvittämään auton omistajaa. Vastaavanlaisia haamuautoja jää kierrättämättä vuosittain tuhansia.",
-          "publishedAt": "2026-11-24T18:24:11.000Z",
-          "titleEn": "The white Kia stood for seven years in Tammela, now the city is finally hanging it out.",
-          "summaryEn": "So far, the city hasn't been able to find out who owns the car. Thousands of similar ghost cars go unrecycled every year."
         }
       ]
     },
@@ -97,95 +80,77 @@
         "homepage": "https://www.hs.fi",
         "lang": "fi"
       },
-      "fetchedAt": "2026-11-24T18:48:21.301Z",
+      "fetchedAt": "2026-11-25T06:54:11.608Z",
       "items": [
         {
-          "title": "Kauppakeskukset | Espoolainen Ossi Koskinen ihmettelee, miksi uudessa Lippu­laivassa kaikki on jatkuvasti rempallaan",
-          "link": "https://www.hs.fi/pkseutu/art-2000012430540.html",
-          "summary": "Kauppakeskus Lippulaiva avautui vuonna 2022, mutta liukuportaat, hissit ja vessat ovat olleet toistuvasti epäkunnossa.",
-          "image": "https://images.sanoma-sndp.fi/5fc00c31ff2f676b95418c3f3d23559c/normal/1440.jpg",
-          "publishedAt": "2026-11-24T18:45:00.000Z",
-          "titleEn": "I'm just wondering why the new flagship is always on the loose.",
-          "summaryEn": "The Lipp boat shopping centre was opened in 2022, but the sliding doors, elevators and toilets have been repeatedly in disrepair."
+          "title": "Yhdysvallat | Kiinalainen teknologiajätti Huawei todettiin syylliseksi liike­salaisuuksien varastamiseen",
+          "link": "https://www.hs.fi/maailma/art-2000012435324.html",
+          "summary": "Huawei aikoo valittaa ratkaisusta.",
+          "image": "https://images.sanoma-sndp.fi/33012331a4a942fe121a56e607e87e4b/normal/1440.jpg",
+          "publishedAt": "2026-11-25T06:23:00.000Z"
         },
         {
-          "title": "Futsal | Suomen naisten maajoukkueelle historiallinen EM-kisapaikka",
-          "link": "https://www.hs.fi/urheilu/art-2000012435103.html",
-          "summary": "Suomi voitti Norjan 3–1 ja eteni ensimmäistä kertaa historiassa EM-lopputurnaukseen.",
-          "image": "https://images.sanoma-sndp.fi/dcbf35ee6ff9913b4e065f3aeb4bedfc/normal/1440.jpg",
-          "publishedAt": "2026-11-24T18:22:00.000Z",
-          "titleEn": "Futsal Finland women's national team historic EM qualifying",
-          "summaryEn": "Finland beat Norway 3 ⁇ 1 and advanced to the final of the EM competition for the first time in history."
+          "title": "Elokuvat | Kenestä tulee seuraava Bond-tyttö?",
+          "link": "https://www.hs.fi/popkulttuuri/art-2000012435130.html",
+          "summary": "Robert Pattinson on salainen agentti 007, mutta seuraava Bond-tyttö on vielä hämärän peitossa.",
+          "image": "https://images.sanoma-sndp.fi/40f0115a46e84eb1b18358ce1618221f/normal/1440.jpg",
+          "publishedAt": "2026-11-25T06:08:00.000Z"
         },
         {
-          "title": "Rikos­epäilyt | Keskus­rikos­poliisi epäilee drooni­vakoilua Laukaan ruuti­tehtaalla",
-          "link": "https://www.hs.fi/suomi/art-2000012435038.html",
-          "summary": "Poliisilla ei vielä ole epäiltyjä tapauksessa.",
-          "publishedAt": "2026-11-24T18:08:00.000Z",
-          "titleEn": "Crime suspicions. Central Crime Agency suspects a drone was spying on the Lauka refinery.",
-          "summaryEn": "The police still have no suspects in the case."
+          "title": "Tennis | Jannik Sinner leikattiin Turussa",
+          "link": "https://www.hs.fi/urheilu/art-2000012435110.html",
+          "summary": "Lasse Lempainen leikkasi tenniksen supertähden.",
+          "image": "https://images.sanoma-sndp.fi/c3e9b699c78027ba72df4b24b4e19db3/normal/1440.jpg",
+          "publishedAt": "2026-11-25T05:36:00.000Z"
         },
         {
-          "title": "HS Ranskassa | Maailman­kuuluissa viini­bileissä näkyy juoma­tapojen muutos, joka pani Alkojen hyllyt uusiksi",
-          "link": "https://www.hs.fi/kirjeenvaihtajat/art-2000012424851.html",
-          "summary": "Juomatavat mullistuvat. Nyt jopa Ranskan kuuluisalla punaviinialueella istutetaan valkoisia rypäleitä.",
-          "image": "https://images.sanoma-sndp.fi/77927a4431b5932cec23b61326686d37/normal/1440.jpg",
-          "publishedAt": "2026-11-24T18:00:00.000Z",
-          "titleEn": "HS France's world-famous wine festivals show a change in drinking patterns that re-placed Alco's shelves.",
-          "summaryEn": "The drinks are changing. Now even in France's famous red wine region, white grapes are being planted."
+          "title": "Linnut | Helsinkiläispuistossa pyrähtelee harvinainen harjalintu: bongarit huolestuivat",
+          "link": "https://www.hs.fi/helsinki/art-2000012434351.html",
+          "summary": "Kruunuvuorenrannan Haakoninlahdenpuistossa nähty harvinainen lintu on herättänyt myös huolta, kertoo bongari.",
+          "image": "https://images.sanoma-sndp.fi/d0796641dcad051e3c482cacd1433006/normal/1440.jpg",
+          "publishedAt": "2026-11-25T05:30:00.000Z"
         },
         {
-          "title": "Kruunu­vuoren­ranta | Kippi ylhäällä ajanut kuorma-auto törmäsi ratikan ajo­lankoihin",
-          "link": "https://www.hs.fi/helsinki/art-2000012434431.html",
-          "summary": "Linja 11 on koko loppupäivän poikkeusreitillä.",
-          "publishedAt": "2026-11-24T17:34:00.000Z",
-          "titleEn": "A truck driving up the ridge of Crown Mountain collided with the lanes of a train.",
-          "summaryEn": "Line 11 is on the emergency route for the rest of the day."
+          "title": "Sijoittaminen | Keskusta haluaa tehdä vauvoista pääomasijoittajia",
+          "link": "https://www.hs.fi/politiikka/art-2000012432560.html",
+          "summary": "Rahat sijoitettaisiin pääomasijoitusrahastoihin, ja omaa osuuttaan voisi nostaa aikaisintaan 30-vuotiaana.",
+          "image": "https://images.sanoma-sndp.fi/8f0be7ec38949297371963340065add8/normal/1440.jpg",
+          "publishedAt": "2026-11-25T05:00:00.000Z"
         },
         {
-          "title": "Hiihto | Kolme venäläistä kilpailee Rukalla",
-          "link": "https://www.hs.fi/urheilu/art-2000012435014.html",
-          "summary": "Suomen uudet kansalliset maahantulorajoitukset eivät koske Natalia Terentjevaa, Darja Neprajevaa ja Saveli Korosteljevia.",
-          "image": "https://images.sanoma-sndp.fi/718d2a9eebb8cec8ea39f16343e145db/normal/1440.jpg",
-          "publishedAt": "2026-11-24T17:32:00.000Z",
-          "titleEn": "Three Russians competing in the Ruga.",
-          "summaryEn": "The new national entry restrictions in Finland do not apply to Natalia Terentjeva, Darja Neprajeva and Saveli Akrostelevia."
+          "title": "Televisio | Miksi Suomessa tehdään nyt niin paljon kopioita ulkomaisista hitti­sarjoista?",
+          "link": "https://www.hs.fi/popkulttuuri/art-2000012366618.html",
+          "summary": "Tv-sarjojen tekijät kertovat, miksi Suomessa tehdään niin paljon käännösversioita hiteistä.",
+          "image": "https://images.sanoma-sndp.fi/ae13ca99fad92a4b756ef52d41d2d296/normal/1440.jpg",
+          "publishedAt": "2026-11-25T04:30:00.000Z"
         },
         {
-          "title": "Asekauppa | Suomi ostaa uusia rynnäkkö­panssari­­vaunuja miljardien eurojen yhteis­hankinnassa",
-          "link": "https://www.hs.fi/suomi/art-2000012432857.html",
-          "summary": "Suomi on mukana viiden maan yhteishankinnassa, jonka kokonaisarvo on jopa 4,5 miljardia euroa.",
-          "image": "https://images.sanoma-sndp.fi/0106077925221981fd5393cab3035118/normal/1440.jpg",
-          "publishedAt": "2026-11-24T17:22:00.000Z",
-          "titleEn": "Finland is buying new tanks in a multi-billion-euro joint venture",
-          "summaryEn": "Finland is participating in a joint procurement of five countries totalling up to EUR 4.5 billion."
+          "title": "Kirjat | Laura Friman kuunteli keskusteluja lavan sivussa vuosia, nyt hän johtaa Kirjamessuja",
+          "link": "https://www.hs.fi/kulttuuri/art-2000012424033.html",
+          "summary": "Joka vuosi lavan reunalla itkenyt Laura Friman vaihtaa nyt lavajuontajan hommat ohjelmajohtajan pestiin.",
+          "image": "https://images.sanoma-sndp.fi/7739c97520fddbf8951677a58558c8a3/normal/1440.jpg",
+          "publishedAt": "2026-11-25T04:00:00.000Z"
         },
         {
-          "title": "Vatikaani | Paavi Franciscus kertoi päivä­kirjalleen nähneensä paholaisen kolmesti",
-          "link": "https://www.hs.fi/maailma/art-2000012434918.html",
-          "summary": "Edesmennyt paavi Franciscus jätti jälkeensä päiväkirjat, joissa kertoi hengellisistä kriiseistä, kuoleman toivomisesta ja itseruoskinnasta.",
-          "image": "https://images.sanoma-sndp.fi/0da545b2d36234e83205367c787b35a1/normal/1440.jpg",
-          "publishedAt": "2026-11-24T17:00:00.000Z",
-          "titleEn": "The Vatican said in his diary that he saw the devil three times.",
-          "summaryEn": "Former Pope Francis left behind diaries of spiritual crises, death hopes, and self-sacrifice."
+          "title": "Katso podcast | Kuinka lähelle meitä Ukrainan iskut voivat osua?",
+          "link": "https://www.hs.fi/kuuntele/art-2000012422066.html",
+          "summary": "Millaisiin riskeihin Suomen pitäisi varautua? Jaksossa professori Pami Aalto vastaa kuulijoiden kysymyksiin.",
+          "image": "https://images.sanoma-sndp.fi/3227ee30ea949bb6434468a6e0c17ae3/normal/1440.jpg",
+          "publishedAt": "2026-11-25T04:00:00.000Z"
         },
         {
-          "title": "Nvidia-kohu | Piilaakson jättien riippumattomuus murenee, sanoo yritys­johtaja Mårten Mickos",
-          "link": "https://www.hs.fi/visio/art-2000012433681.html",
-          "summary": "Trumpin puuttuminen Nvidian johtajavalintaan horjutti markkinatalouden pelisääntöjä. Keskuskauppakamarin Juho Romakkaniemi uskoo poikkeusajan päättyvän parin vuoden päästä.",
-          "image": "https://images.sanoma-sndp.fi/c1dea4875eb3a54a7788917db6116071/normal/1440.jpg",
-          "publishedAt": "2026-11-24T17:00:00.000Z",
-          "titleEn": "The independence of the giants of the Hidden Valley is crumbling, says CEO Mårten Mickos",
-          "summaryEn": "Mr. Trump's interference in Nvidia's election as president violated the rules of the market economy. Juho Romakkaniemi, a central chamber of commerce, believes that the exception period will expire in a couple of years."
+          "title": "Britannia | Herttuatar Meghanin isää vastaan nostettiin kaksi syytettä lapsipornon hallussapidosta",
+          "link": "https://www.hs.fi/maailma/art-2000012435313.html",
+          "summary": "FBI pidätti 82-vuotiaan Thomas Marklen marraskuun alussa.",
+          "image": "https://images.sanoma-sndp.fi/bf1268ff8e2dc4ec934c8a91c5df9a36/normal/1440.jpg",
+          "publishedAt": "2026-11-25T03:48:00.000Z"
         },
         {
-          "title": "Palkinnot | Kansainvälisesti julkaistu suomalaisrunoilija saa vihdoin tunnustusta kotimaassaan",
-          "link": "https://www.hs.fi/kulttuuri/art-2000012432354.html",
-          "summary": "Teemu Helle on poikkeuksellinen ja maailmalla menestynyt runoilija, joka tekee Suomessa epämuodikasta runoutta.",
-          "image": "https://images.sanoma-sndp.fi/8361ff94d2d2145d29c23547a7cf360d/normal/1440.jpg",
-          "publishedAt": "2026-11-24T17:00:00.000Z",
-          "titleEn": "An internationally acclaimed Finnish poet is finally getting recognition in her home country",
-          "summaryEn": "Themu Helle is an exceptional and world-renowned poet who writes unfashionable poetry in Finland."
+          "title": "Kysely lapsille | Mikä on lempivaatteesi?",
+          "link": "https://www.hs.fi/lastenuutiset/art-2000012433023.html",
+          "summary": "Onko sinulla jokin kaunis, mukava tai rakas vaate, jota käytät erityisen mielelläsi?",
+          "image": "https://images.sanoma-sndp.fi/08a39bdc2689df978cc0ae09ced26b65/normal/1440.jpg",
+          "publishedAt": "2026-11-25T01:00:00.000Z"
         }
       ]
     },
@@ -196,97 +161,77 @@
         "homepage": "https://www.iltalehti.fi",
         "lang": "fi"
       },
-      "fetchedAt": "2026-11-24T18:48:20.494Z",
+      "fetchedAt": "2026-11-25T06:54:11.330Z",
       "items": [
         {
-          "title": "Näkökulma: Orpo ja Purra pelottelivat suomalaisia EU:n tarkkailu­luokalla – Nyt he eivät selviydy siitäkään",
-          "link": "https://www.iltalehti.fi/politiikka/a/1414dd53-9efc-43fc-88f0-76c47e25287e?utm_source=rss",
-          "summary": "Pääministeri Orpon ja valtiovarainministeri Purran pelottelut ovat käyneet toteen heidän omalla vahtivuorollaan. Nettomenopolkukin laajeni moottoritieksi, kirjoittaa politiikan toimittaja Joakim Kullas. Tiistaina tuli…",
-          "image": "https://img.ilcdn.fi/xB0vD5jMCEG5FntVBw7Cj3RdVkc=/1024x640/top/img-s3.ilcdn.fi/efdd43487c9b4320ea74ac86dde81007745bd802a25232f411350b37979440a4.jpg",
-          "publishedAt": "2026-11-24T18:30:27.000Z",
-          "titleEn": "View: Orpo and Purra intimidated Finns in the EU surveillance class  ⁇  Now they can't even get away with it",
-          "summaryEn": "Prime Minister Orpo and Treasury Minister Purra's fears have been realized on their own watch. The net has been expanded into a motorway, writes political journalist Joakim Kullas. On Tuesday, it came..."
+          "title": "Junaliikenne sekaisin pääradalla",
+          "link": "https://www.iltalehti.fi/kotimaa/a/2d1b2f83-5597-4d4e-b621-1ae3f5978392?utm_source=rss",
+          "summary": "Vika ratainfrassa aiheuttaa viivästyksiä myös muille junille. Junaliikenteessä on keskiviikkona häiriöitä pääradalla Jokelan kohdalla. Ratainfrassa ilmenneen vian vuoksi junat kulkevat toistaiseksi vain yhtä raidetta…",
+          "image": "https://img.ilcdn.fi/smAo-qZvnl5E03glZ4TtWNqBpx0=/1024x640/top/img-s3.ilcdn.fi/6c2bb0899cbddd3451356d40502997b206376935e5409770dbe50585f5150d94.jpg",
+          "publishedAt": "2026-11-25T06:21:57.000Z"
         },
         {
-          "title": "Sotilas­helikopteri syöksyi maahan Turkissa – Viisi kuollut",
-          "link": "https://www.iltalehti.fi/ulkomaat/a/06c61eb1-aab1-4c2b-995b-42170e5cd099?utm_source=rss",
-          "summary": "Putoamisen syytä ei ole kerrottu vielä julkisuuteen. Viisi ihmistä kuoli Turkissa, kun maan ilmavoimien sotilashelikopteri syöksyi maahan tiistaina, kertoo turkkilaismedia Turkiye Today. Turkin puolustusministeriön…",
-          "image": "https://img.ilcdn.fi/eGSeSIhzUPlXZRZAR1soi6wFPeI=/1024x640/top/img-s3.ilcdn.fi/a1f9f73fe717be175f8d683f469f9426acf9f999d6f3f4c6ecd233f9d27a06c0.jpg",
-          "publishedAt": "2026-11-24T17:28:42.000Z",
-          "titleEn": "Military helicopter crashed in Turkey  ⁇  Five dead",
-          "summaryEn": "The cause of the crash has not yet been released to the public. Five people were killed in Turkey when a Turkish Air Force military helicopter crashed into the ground on Tuesday, Turkish media Turkiye Today reports. The Turkish Ministry of Defense..."
+          "title": "Järjestöpomo jyrähtää hallituksen toimille: ”Erittäin haitallisia”",
+          "link": "https://www.iltalehti.fi/talous/a/a6a1c312-f898-468b-8c9e-1e894b72d8d3?utm_source=rss",
+          "summary": "MaRa: ”Hallituksen päättämät arvonlisä- ja alkoholijuomaverojen korotukset ovat olleet erittäin haitallisia toimialallemme”. Lähes puolet matkailu- ja ravintola-alan yrityksistä odottaa pikkujoulukaudella huonompaa…",
+          "image": "https://img.ilcdn.fi/Pr0HEk9ZBR7T66D15sm3gH9mTlo=/1024x640/top/img-s3.ilcdn.fi/20817ba7173cf3d5c6d50bd86439d2307a3741364d7444c510f032393de7bd69.jpg",
+          "publishedAt": "2026-11-25T06:13:48.000Z"
         },
         {
-          "title": "Näin kävi Mari Rantasen puhelimien",
-          "link": "https://www.iltalehti.fi/politiikka/a/f15a6792-1149-4cb7-921f-9bd0eb56cf38?utm_source=rss",
-          "summary": "Mari Rantasen kolme puhelinta reagoivat kuten pitikin, kun vaaratiedote lähti. Koko valtakunnallista vaaratiedotejärjestelmää testattiin tänään. Samalla toteutettiin uuden FI-Alert-vaaratiedotteen toinen valtakunnallinen…",
-          "image": "https://img.ilcdn.fi/DMubpm3QROdfwILxy8tFpwiVPHk=/1024x640/top/img-s3.ilcdn.fi/d4efe300b7c96008c8c60465647e365a6c08d48d79bc7e7efa9a78e011a20f58.jpg",
-          "publishedAt": "2026-11-24T18:19:25.000Z",
-          "titleEn": "This is what happened to Mari Rantas' phones.",
-          "summaryEn": "Three of Mari Rantas's phones responded as expected when the emergency report left. The entire national hazard reporting system was tested today. At the same time, the second national FI-Alert emergency report was implemented..."
+          "title": "Uhri kuoli ambulanssiin: 37-vuotiasta yrittäjää syytetään taposta",
+          "link": "https://www.iltalehti.fi/kotimaa/a/cea59243-2d49-4a2a-bbac-e367c3ee9187?utm_source=rss",
+          "summary": "37-vuotias mies on syytettynä taposta. Poliisi on ollut vaitonainen tapahtumista, joita nyt oikeudessa käsitellään. 37-vuotiasta yrittäjämiestä syytetään 1970-luvulla syntyneen miehen väkivaltaisesta taposta Raaseporin…",
+          "image": "https://img.ilcdn.fi/Q3B_wmO-TuC8FTlAmHdLDJygdWE=/1024x640/top/img-s3.ilcdn.fi/a3b85f766a9d6c1a43fdb9b0a8d04852a580371c94f760a24354a3780a47c345.jpg",
+          "publishedAt": "2026-11-25T06:05:41.000Z"
         },
         {
-          "title": "Helsingin arvoalueella heräsi huoli lapsista",
-          "link": "https://www.iltalehti.fi/kotimaa/a/3151ff4f-fb1d-4a7e-98f0-d682b2600f75?utm_source=rss",
-          "summary": "Päihdeklinikan johtaja korostaa, että korvaushoitoon tulevien ihmisten ensisijainen tavoite on kuntoutua päihderiippuvuudesta, joka on sairaus. Helsingin Etu-Töölössä sijaitseva Leppäsuon päiväkoti on ryhtynyt rajuihin…",
-          "image": "https://img.ilcdn.fi/CgdaSzgVKqwfubQzGLXRalyq2ZA=/1024x640/top/img-s3.ilcdn.fi/ac75638000e86e1f956b6bd5bde2a243d53c5a60c93a34b6a43bf0d4164e548b.png",
-          "publishedAt": "2026-11-24T18:10:00.000Z",
-          "titleEn": "In the Helsinki area of values, there was concern for children.",
-          "summaryEn": "The head of the clinic stresses that the primary goal of people receiving alternative treatment is to recover from their addiction to cannabis, which is a disease. The Leppäsuwa daycare centre in Helsinki's Front Work has been severely damaged..."
+          "title": "Motonetille ja Puuilolle moitteita – Suurselvitys",
+          "link": "https://www.iltalehti.fi/kotimaa/a/f7c97504-dfe7-419b-ab69-50fb0e4623ab?utm_source=rss",
+          "summary": "Merkittävä osa suomalaisten kuluttamista tuotteista tuodaan Kiinasta ja muista niin sanotuista riskimaista. Finnwatchin tuoreen selvityksen mukaan tunnettujen yritysten välillä on suuria eroja siinä, miten ne pyrkivät…",
+          "image": "https://img.ilcdn.fi/QbKvOP_j0lKl1y6S0CfJTJe0i7Y=/1024x640/top/img-s3.ilcdn.fi/f5af9cc1ac9c2fe5ca96c7379dae9e2378fc239e3e98db92143f3710f7936265.png",
+          "publishedAt": "2026-11-24T20:35:45.000Z"
         },
         {
-          "title": "Lidl suuttui suomalaisesta ruokakori­vertailusta",
-          "link": "https://www.iltalehti.fi/talous/a/c5e3e210-4925-4528-b762-1a30499ece00?utm_source=rss",
-          "summary": "Pahimmillaan voidaan rajoittaa kuluttajan valinnanvapautta, Lidl Suomen Conor Boyle kommentoi Suomen lainsäädäntöhankkeita Talousaamussa. Vähittäiskauppaketju Lidlissä ollaan turhautuneita suomalaiseen tapaan tehdä…",
-          "image": "https://img.ilcdn.fi/8Z1mO3JGcuNeZwmDO4hSGWNsnIg=/1024x640/top/img-s3.ilcdn.fi/695324ef4d59673186f034d8fa334e0026eaa25980525feb0757ae97e1f43be6.jpg",
-          "publishedAt": "2026-11-24T17:53:03.000Z",
-          "titleEn": "Lidl was angry at the Finnish food comparison",
-          "summaryEn": "In the worst case, the consumer's freedom of choice can be restricted, Lidl Finland's Conor Boyle commented on Finnish legislative projects in the Economic Forum. We're frustrated with the Finnish way of doing..."
+          "title": "Lääkkeistä annettiin uusi suositus: Taustalla arvaamaton maailman­tilanne",
+          "link": "https://www.iltalehti.fi/kotimaa/a/ca613adb-103a-40a7-9aa0-6ed9a5c92aa7?utm_source=rss",
+          "summary": "Lääkkeiden kotivara auttaa turvaamaan säännöllisen lääkehoidon myös häiriötilanteissa. Apteekkariliitto on laatinut yhdessä Huoltovarmuuskeskuksen kanssa suosituksen lääkkeiden kotivarasta. Suositus täydentää…",
+          "image": "https://img.ilcdn.fi/owFWrR9PDdRuL5w6UZwRGorY-Yc=/1024x640/top/img-s3.ilcdn.fi/7ab310c348f19f2d2636708652e924e3e1cbfaea76d35e76081a4fe4aa8d3293.jpg",
+          "publishedAt": "2026-11-25T05:42:03.000Z"
         },
         {
-          "title": "Kun Sanna astelee lavalle alapää paljaana, yleisössä alkaa tapahtua – Eroottinen trilleri Eyes Wide Shut kalpenee tämän rinnalla",
-          "link": "https://www.iltalehti.fi/kotimaa/a/0c285c1c-b02d-4120-80a7-c58641c70818?utm_source=rss",
-          "summary": "Sinä iltana perheenäiti Sanna yllätti itsensä harrastamassa seksiä, josta hän ei ollut osannut haaveilla villeimmissä unelmissakaan. Nyt hän toteuttaa muiden fantasioita paikassa, jonka yksityiskohdista ei saa kertoa…",
-          "image": "https://img.ilcdn.fi/Mfmqfy4TYm7VW6GwK-SHW7lV3X0=/1024x640/top/img-s3.ilcdn.fi/fe368c975ab48c52d2fe214b1d6ee758b75d2dfbfd3acda1b7c730051f5bb490.jpg",
-          "publishedAt": "2026-11-24T17:58:35.000Z",
-          "titleEn": "When Sanna steps on stage naked, the audience begins to experience the erotic thriller Eyes Wide Shut.",
-          "summaryEn": "That night, the mother of the family, Sanna, found herself having sex that she had never dreamed of in her wildest dreams. Now he's fulfilling other people's fantasies in a place whose details cannot be told..."
+          "title": "Täällä Putinin haaveet kaatuivat – Ukrainan sotilas kertoo, miten hämmästyttävä temppu onnistui: “Ensimmäisinä maailmassa”",
+          "link": "https://www.iltalehti.fi/ulkomaat/a/960041cf-4755-46d2-a3ce-6c609027cc2d?utm_source=rss",
+          "summary": "Pääsimme yhtenä ensimmäisistä medioista maailmassa vierailemaan Ukrainan operaatio Vivaldissa vapautetuilla alueilla. Näky oli täynnä tuhoa ja kuolemaa, ja drooneilta täytyi suojautua monta kertaa. Osa jutun kuvista voi…",
+          "image": "https://img.ilcdn.fi/200FGAQuTwRPtsFl3JLCvKjo96U=/1024x640/top/img-s3.ilcdn.fi/6d7086b9086559e424d22d388d9fda8d43e45ae2ca8a94c8088b6d42eeec16a7.jpg",
+          "publishedAt": "2026-11-25T05:00:34.000Z"
         },
         {
-          "title": "Kaksi lasta loukkaantui rajussa kolarissa – Autosta paljastui kielletty virhe",
-          "link": "https://www.iltalehti.fi/kotimaa/a/e8ea07c7-3e52-46bf-9ac4-dff7d47c699a?utm_source=rss",
-          "summary": "Nelikymppisen isän ajo päättyi lumipenkkaan Mäntsälässä. Oikeus linjasi tiukasti lohduttomasta vahingosta. 42-vuotiaan perheenisän auto suistui päin pakettiautoa järkyttävin seurauksin joulun alla Mäntsälässä. Kyydissään…",
-          "image": "https://img.ilcdn.fi/64YnVD54kscy7z8uYgs7I97GMgo=/1024x640/top/img-s3.ilcdn.fi/53da9600b6dfab46bbb27e03c50e545f8160b5716eb2061dc2b26f554a99ca32.jpg",
-          "publishedAt": "2026-11-24T17:43:14.000Z",
-          "titleEn": "Two children were injured in a car crash. A forbidden error was discovered.",
-          "summaryEn": "A 40-year-old father's journey ended on a snowbank in the Valley. The court struck a hard line on the unforgivable injury. A 42-year-old family man's car collided with a van in a shocking way at Christmas Eve in the Valley. On his ride..."
+          "title": "Utsjoki pimenee",
+          "link": "https://www.iltalehti.fi/kotimaa/a/379ff009-eb0d-40b5-9b6e-4633343d8a23?utm_source=rss",
+          "summary": "Aurinko nousee paikkakunnalla seuraavan kerran vasta tammikuun puolivälin jälkeen. Utsjoella alkaa tänään kaamos, kun aurinko nousee viimeisen kerran tämän vuoden puolella. Auringoton ajanjakso kestää lähes kaksi…",
+          "image": "https://img.ilcdn.fi/EgmKxiolHGnbe3Ruzqg1jv2yRhE=/1024x640/top/img-s3.ilcdn.fi/dc520b132ab1327e38b431b8e113c819f1c21651a9a6981ba85606bf9c7a1113.jpg",
+          "publishedAt": "2026-11-25T04:46:13.000Z"
         },
         {
-          "title": "Näkökulma: “Ystävä” petti Trumpin heti",
-          "link": "https://www.iltalehti.fi/ulkomaat/a/dec82adb-6fca-497f-86d5-b12379a1b416?utm_source=rss",
-          "summary": "Vladimir Putin varmasti nauttii Donald Trumpin ystävällisistä sanoista, kirjoittaa Iltalehden ulkomaantoimittaja Magnus Brunnsberg. Yhdysvaltain presidentti Donald Trump on solminut ystävyyssuhteen, joka hakee…",
-          "image": "https://img.ilcdn.fi/r4SPXcemOS1gZRY-OgD06YpngLA=/1024x640/top/img-s3.ilcdn.fi/d7954596aab3fd75b6cb2a942cf8b1731806b84c3200416b1c1cc82847b11d06.jpg",
-          "publishedAt": "2026-11-24T17:09:22.000Z",
-          "titleEn": "Viewpoint: A friend cheated on Trump right away",
-          "summaryEn": "Vladimir Putin will surely enjoy Donald Trump's kind words, writes the Evening Standard's foreign correspondent Magnus Brunnsberg. US President Donald Trump has entered into a friendship that seeks to..."
+          "title": "Nyt tuli ehdotus uudesta EU-verosta – Näin Suomi suhtautuu",
+          "link": "https://www.iltalehti.fi/politiikka/a/561fb758-b08d-4ed0-ba2c-e6b3f4fcbb77?utm_source=rss",
+          "summary": "Eurooppa-neuvoston puheenjohtajan uudessa kompromississa esitetään veroa digijättien mainostuloille. EU-jäsenmaiden johtajista koostuvan Eurooppa-neuvoston puheenjohtaja António Costa on esitellyt uuden…",
+          "image": "https://img.ilcdn.fi/tLJo4wkyD6YmuR1y0Dq3bAVc9G0=/1024x640/top/img-s3.ilcdn.fi/ca77d1a64be313b16859f88f1d15091298438c9f5fdb299cf2abd993ae73f728.jpg",
+          "publishedAt": "2026-11-25T04:00:58.000Z"
         },
         {
-          "title": "Yle: Poliisi epäilee vakoilua ruutitehtaalla",
-          "link": "https://www.iltalehti.fi/kotimaa/a/52e679fa-5aca-4566-acd4-6dc4eeb8876b?utm_source=rss",
-          "summary": "Poliisin mukaan alueella on nähty epäilyttäviä drooneja, Yle kertoo. Keskusrikospoliisi (KRP) tutkii epäiltyä vakoilua ruutitehtaalla, kertoo Yle. Rikoskomisario Jussi Luoto KRP:stä kertoo Ylelle, että Nammon Vihtavuoren…",
-          "image": "https://img.ilcdn.fi/QUpEFlDw_WkPlEUJUNaJ-LtNhKE=/1024x640/top/img-s3.ilcdn.fi/4846e2ec8551370186b8b1859eb609c0d8b4e7f8253957f49d1a17d84db890ae.jpg",
-          "publishedAt": "2026-11-24T16:56:06.000Z",
-          "titleEn": "YL: Police suspect spying at the paint factory .",
-          "summaryEn": "According to police, suspicious drones have been spotted in the area, Yle said. The Central Crime Police (CCP) is investigating suspected spies at the screening plant, Yle reports. Detective Jussi Luoto of the KRP tells Yelle that Nammo's volcano..."
+          "title": "Oletko syntynyt ennen vuotta 1975? Sinulla on vielä elinikäinen oikeus rahakkaaseen etuuteen",
+          "link": "https://www.iltalehti.fi/kotimaa/a/b154a4a6-694f-49c1-91b6-e89c4f694727?utm_source=rss",
+          "summary": "Tällä hetkellä valtaosa tiettyjen etuusrahojen saajista nauttii ikuisista eduista, mistä tulevat sukupolvet voivat vain haaveilla. Naiset ovat yliedustettuina edunsaajissa. Tätä etua nostetaan keskimäärin 828 euroa /…",
+          "image": "https://img.ilcdn.fi/DTYzUyvfpn79BDbZ1dhicO6qDu8=/1024x640/top/img-s3.ilcdn.fi/c32168d66a7498d2437e6915b9396474efc608b8d307c1639d0f1f8ad3ae39de.jpg",
+          "publishedAt": "2026-11-25T04:00:50.000Z"
         },
         {
-          "title": "TS: Seija sai vaaleissa 0 ääntä, vaikka äänesti itseään – Epäilykset heräsivät heti",
-          "link": "https://www.iltalehti.fi/kotimaa/a/a3d9d68a-cfd7-4dd8-8dff-07a6a48d38c5?utm_source=rss",
-          "summary": "Naantalin seurakunta selvittää, mihin annettuja ääniä on mahdollisesti hävinnyt, Turun Sanomat kertoo. Rymättyläläinen Seija Salminen epäilee, että hänelle seurakuntavaaleissa annettuja ääniä on kadonnut, Turun Sanomat…",
-          "image": "https://img.ilcdn.fi/lXSBKzF9BJvwNND4KaqjKgB9g2Q=/1024x640/top/img-s3.ilcdn.fi/77141c6358e1b6f62661ce1037550fc09e320c7eadb83abb0e5c849a5eb3bfec.jpg",
-          "publishedAt": "2026-11-24T16:49:26.000Z",
-          "titleEn": "TS: Seja got 0 votes in the elections even though she voted for herself  ⁇  Suspicions immediately arose",
-          "summaryEn": "The Church of Natal is investigating where the votes cast may have been lost, reports the News of the World. Rymettian Seija Salminen suspects that the votes she received in the parish election have been lost, the Good News..."
+          "title": "Muutos ennusteessa – Nurkan takana sääkäänne: ”Kuin aalto”",
+          "link": "https://www.iltalehti.fi/saauutiset/a/4006003f-2f60-4c0a-ae2f-94ca77022b01?utm_source=rss",
+          "summary": "Kuluvan viikon sää kylmenee loppuviikkoa kohden, mutta viikonvaihteen jälkeen on jo uusi ääni kellossa. Ensi viikon sää näyttää tiistain ennusteessa sangen erilaiselta kuin mitä maanantaina ennustettiin. Forecan…",
+          "image": "https://img.ilcdn.fi/tqLcU6uRlaQnqA38U1ObRU7ijsg=/1024x640/top/img-s3.ilcdn.fi/9e29af5396f55942d55555ef68f3e80bb4613a65af8f05e11904ef7d9ddb821f.jpg",
+          "publishedAt": "2026-11-25T03:54:39.000Z"
         }
       ]
     }
