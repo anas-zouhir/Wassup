@@ -14,44 +14,52 @@
           "title": "Emil Nielsen, VM-guldvinder og ishockeystjerner blandt de sidste nominerede til Årets Sportsnavn",
           "link": "https://www.dr.dk/sporten/seneste-sport/emil-nielsen-vm-guldvinder-og-ishockeystjerner-blandt-de-sidste-nominerede-til-aarets-sportsnavn",
           "image": "https://asset.dr.dk/drdk/umbraco-images/51ipjpsf/20260614-202713-7_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-25T06:47:49.000Z"
+          "publishedAt": "2026-11-25T06:47:49.000Z",
+          "titleEn": "Emil Nielsen, World Cup gold medalist and hockey star among the finalists for Sportsman of the Year"
         },
         {
           "title": "Seks døde i flystyrt ud for Mississippi",
           "link": "https://www.dr.dk/nyheder/seneste/seks-doede-i-flystyrt-ud-mississippi",
-          "publishedAt": "2026-11-25T06:43:24.000Z"
+          "publishedAt": "2026-11-25T06:43:24.000Z",
+          "titleEn": "Six dead in a plane crash off the Mississippi"
         },
         {
           "title": "Nordkorea udviser schweizisk diplomat",
           "link": "https://www.dr.dk/nyheder/seneste/nordkorea-udviser-schweizisk-diplomat",
-          "publishedAt": "2026-11-25T05:59:39.000Z"
+          "publishedAt": "2026-11-25T05:59:39.000Z",
+          "titleEn": "North Korea releases a Swiss diplomat"
         },
         {
           "title": "Kong Frederik har besøgt danske styrker i Letland",
           "link": "https://www.dr.dk/nyheder/seneste/kong-frederik-har-besoegt-danske-styrker-i-letland",
           "image": "https://asset.dr.dk/drdk/umbraco-images/zh5j5t3c/skaermbillede-2026-11-24-223626_crop001.png?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-24T21:39:47.000Z"
+          "publishedAt": "2026-11-24T21:39:47.000Z",
+          "titleEn": "King Frederick visited the Danish forces in Latvia"
         },
         {
           "title": "Fem mindreårige forulykket i bil - to er i stærkt kritisk tilstand",
           "link": "https://www.dr.dk/nyheder/seneste/fem-mindreaarige-forulykket-i-bil-er-i-staerk-kritisk-tilstand",
-          "publishedAt": "2026-11-24T20:24:38.000Z"
+          "publishedAt": "2026-11-24T20:24:38.000Z",
+          "titleEn": "Five minors in car accident - two in critical condition"
         },
         {
           "title": "Gaza advarer om meningitis-epidemi",
           "link": "https://www.dr.dk/nyheder/seneste/gaza-advarer-om-meningitis-epidemi",
           "image": "https://asset.dr.dk/drdk/umbraco-images/dfdlv21d/20261124-135752-5_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium",
-          "publishedAt": "2026-11-24T19:09:39.000Z"
+          "publishedAt": "2026-11-24T19:09:39.000Z",
+          "titleEn": "Gaza warns of meningitis epidemic"
         },
         {
           "title": "Over 2.000 uden strøm i Københavns Nordhavn",
           "link": "https://www.dr.dk/nyheder/seneste/over-2-000-uden-stroem-i-koebenhavns-nordhavn",
-          "publishedAt": "2026-11-24T19:08:42.000Z"
+          "publishedAt": "2026-11-24T19:08:42.000Z",
+          "titleEn": "More than 2,000 without power in Copenhagen's North Harbour"
         },
         {
           "title": "Helikopterstyrt i Tyrkiet - fem soldater meldes dræbt",
           "link": "https://www.dr.dk/nyheder/seneste/helikopterstyrt-i-tyrkiet-fem-soldater-meldes-draebt",
-          "publishedAt": "2026-11-24T19:07:43.000Z"
+          "publishedAt": "2026-11-24T19:07:43.000Z",
+          "titleEn": "Helicopter crashed in Turkey, five soldiers reported killed"
         },
         {
           "title": "Gidseltagning i supermarked i Colombia",
@@ -84,70 +92,90 @@
           "link": "https://politiken.dk/danmark/uddannelse/art11073255/S%C3%A5-er-retningslinjerne-landet-for-elevers-brug-af-kunstig-intelligens-i-skolen",
           "summary": "Elever bør tidligst bruge generativ kunstig intelligens fra 7. klasse, lyder nye nationale retningslinjer.",
           "image": "https://politiken.dk/incoming/img11073265.2jy9sd/ORIGINALS/original_960/00000",
-          "publishedAt": "2026-11-25T06:04:53.000Z"
+          "publishedAt": "2026-11-25T06:04:53.000Z",
+          "titleEn": "And then the guidelines for the use of AI by students in school came down.",
+          "summaryEn": "New national guidelines suggest that students should use generative artificial intelligence as early as 7th grade."
         },
         {
           "title": "Pakistaner skriver historie i kinesisk raket",
           "link": "https://politiken.dk/internationalt/art11073247/Pakistaner-skriver-historie-i-kinesisk-raket",
           "summary": "Kina har onsdag sendt tre astronauter afsted mod landets rumstation, Tiangong. En af dem kommer fra Pakistan.",
           "image": "https://politiken.dk/incoming/img11073261.bk6ls2/ORIGINALS/original_960/PAKISTAN-CHINA-SHENZHOU-SPACE",
-          "publishedAt": "2026-11-25T05:53:34.000Z"
+          "publishedAt": "2026-11-25T05:53:34.000Z",
+          "titleEn": "Pakistanis writing history in Chinese rocket",
+          "summaryEn": "On Wednesday, China sent three astronauts to the country's space station, Tiangong. One of them is from Pakistan."
         },
         {
           "title": "Nye tal: Danmark er mere og mere afhængig af udenlandske hænder",
           "link": "https://politiken.dk/danmark/oekonomi/art11065955/Nye-tal-Danmark-er-mere-og-mere-afh%C3%A6ngig-af-udenlandske-h%C3%A6nder",
           "summary": "Uden medarbejdere fra udlandet ville væksten i Danmark gå i stå, lyder advarslen fra arbejdsgiverne.",
           "image": "https://politiken.dk/incoming/img11068112.4hcfyv/ORIGINALS/original_960/NET%20udenlandsk%20arbejdskraft",
-          "publishedAt": "2026-11-25T05:45:47.000Z"
+          "publishedAt": "2026-11-25T05:45:47.000Z",
+          "titleEn": "New figures: Denmark is increasingly dependent on foreign hands",
+          "summaryEn": "Without employees from abroad, growth in Denmark would stand still, warn employers."
         },
         {
           "title": "Først gjorde Trump et eller andet for Musk. Nu har han gjort det igen",
           "link": "https://politiken.dk/internationalt/art11071868/F%C3%B8rst-gjorde-Trump-et-eller-andet-for-Musk.-Nu-har-han-gjort-det-igen",
           "summary": "Med Donald Trumps indgriben i Nvidia aner man konturerne af en ny tids teknologisk republik, tilsat et stykke statskapitalisme.",
           "image": "https://politiken.dk/incoming/img11073117.eqd1t9/ORIGINALS/original_960/NVIDIA-CEO-BOARD",
-          "publishedAt": "2026-11-25T05:30:06.000Z"
+          "publishedAt": "2026-11-25T05:30:06.000Z",
+          "titleEn": "First, Trump did something for Musk. Now he's done it again.",
+          "summaryEn": "With Donald Trump's intervention in Nvidia, you can see the contours of a new era of technological republic, plus a piece of state capitalism."
         },
         {
           "title": "Trump giver sin eksadvokat, der svedende gik viralt, USA's højeste udmærkelse",
           "link": "https://politiken.dk/internationalt/int_usa/art11073249/Trump-giver-sin-eksadvokat-der-svedende-gik-viralt-USAs-h%C3%B8jeste-udm%C3%A6rkelse",
           "summary": "Tidligere borgmester i New York, der er dømt for æreskrænkelse, har tirsdag modtaget udmærkelse af Trump.",
           "image": "https://politiken.dk/incoming/img11073252.yzvno6/ORIGINALS/original_960/FILES-US-JUSTICE-POLITICS-GIULIANI",
-          "publishedAt": "2026-11-25T05:15:04.000Z"
+          "publishedAt": "2026-11-25T05:15:04.000Z",
+          "titleEn": "Trump gives his former lawyer who went viral sweating the highest honor in the United States",
+          "summaryEn": "Former New York City mayor convicted of honor violations received a commendation from Trump on Tuesday."
         },
         {
           "title": "Udenlandsk mand fundet død i lejlighed i Nakskov",
           "link": "https://politiken.dk/danmark/art11073231/Udenlandsk-mand-fundet-d%C3%B8d-i-lejlighed-i-Nakskov",
           "summary": "Tirsdag eftermiddag fik politiet anmeldelse om død mand i lejlighed. Dødsfaldet efterforskes som mistænkeligt.",
           "image": "https://politiken.dk/incoming/img11073233.1ca3ck/ORIGINALS/original_960/Politi",
-          "publishedAt": "2026-11-24T22:25:31.000Z"
+          "publishedAt": "2026-11-24T22:25:31.000Z",
+          "titleEn": "Foreign man found dead in apartment in Nakskov",
+          "summaryEn": "Tuesday afternoon, police received a report of a dead man in an apartment. The death is being investigated as suspicious."
         },
         {
           "title": "Højlund efter mål mod City: Der er kun én klub i Manchester",
           "link": "https://politiken.dk/sport/fodbold/art11073206/H%C3%B8jlund-efter-m%C3%A5l-mod-City-Der-er-kun-%C3%A9n-klub-i-Manchester",
           "summary": "Rasmus Højlund satte Napoli i gang med kampens første scoring, da klubben tirsdag fik uafgjort i Manchester.",
           "image": "https://politiken.dk/incoming/img11073214.ykyb56/ORIGINALS/original_960/SOCCER-CHAMPIONS-MCI-NAP",
-          "publishedAt": "2026-11-24T22:06:02.000Z"
+          "publishedAt": "2026-11-24T22:06:02.000Z",
+          "titleEn": "Round by goal against City: There's only one club in Manchester",
+          "summaryEn": "Rasmus Højlund started Napoli with the first goal of the match when the club were drawn in Manchester on Tuesday."
         },
         {
           "title": "Huawei er kendt skyldig i at stjæle forretningshemmeligheder fra USA",
           "link": "https://politiken.dk/internationalt/art11073215/Huawei-er-kendt-skyldig-i-at-stj%C3%A6le-forretningshemmeligheder-fra-USA",
           "summary": "Kinesisk telegigant blev frifundet for at have fungeret som en kriminel organisation efter lang retssag.",
           "image": "https://politiken.dk/incoming/img11073216.3r759j/ORIGINALS/original_960/CHINA-TECHNOLOGY-HUAWEI",
-          "publishedAt": "2026-11-24T21:56:21.000Z"
+          "publishedAt": "2026-11-24T21:56:21.000Z",
+          "titleEn": "Huawei is known guilty of stealing trade secrets from the United States",
+          "summaryEn": "The Chinese telegraph giant was acquitted of operating as a criminal organization after a lengthy trial."
         },
         {
           "title": "Nvidia falder knap seks procent efter mandagens kursfest",
           "link": "https://politiken.dk/internationalt/art11073213/Nvidia-falder-knap-seks-procent-efter-mandagens-kursfest",
           "summary": "Dagen efter stor stigning på grund af direktørs genansættelse lukker Nvidia-aktie i fald på knap seks procent.",
           "image": "https://politiken.dk/incoming/img11073211.6u6iih/ORIGINALS/original_960/US-ECONOMY-MARKETS",
-          "publishedAt": "2026-11-24T21:49:20.000Z"
+          "publishedAt": "2026-11-24T21:49:20.000Z",
+          "titleEn": "Nvidia's falling just under 6 percent after Monday's price tag party",
+          "summaryEn": "The day after the sharp increase due to the CEO's resignation, Nvidia's shares are down almost six percent."
         },
         {
           "title": "Elementært velspillet serie udkommer alt for tidligt",
           "link": "https://politiken.dk/kultur/film_og_tv/tvanmeldelser/art11052413/Element%C3%A6rt-velspillet-serie-udkommer-alt-for-tidligt",
           "summary": "Hvad med om vi forsøgte at forstå og lære af virkeligheden bare et øjeblik, før vi omsætter den til underholdning? Det spørgsmål vækker en ny amerikansk tv-serie.",
           "image": "https://politiken.dk/incoming/img11069221.euf09c/ORIGINALS/original_960/The%20Altruists",
-          "publishedAt": "2026-11-24T20:51:38.000Z"
+          "publishedAt": "2026-11-24T20:51:38.000Z",
+          "titleEn": "The elementally well-played series comes out too early.",
+          "summaryEn": "What if we tried to understand and learn from reality just for a moment before turning it into entertainment? That question is provoking a new American television series."
         }
       ]
     },
@@ -164,69 +192,89 @@
           "title": "Danmark når ikke centrale mål i demensplan",
           "link": "https://www.berlingske.dk/politik/danmark-naar-ikke-centrale-maal-i-demensplan?referrer=RSS",
           "summary": "Flere bliver udredt, men mål om diagnoser og mindre brug af medicin er ikke nået. Regeringen varsler ny plan.",
-          "publishedAt": "2026-11-25T06:41:45.000Z"
+          "publishedAt": "2026-11-25T06:41:45.000Z",
+          "titleEn": "Denmark fails to achieve key targets in the dementia plan",
+          "summaryEn": "More are being executed, but targets for diagnoses and less use of medicines have not been met. The government is announcing a new plan."
         },
         {
           "title": "Medie melder om eksplosioner nær supermarked med gidsler i Colombia",
           "link": "https://www.berlingske.dk/internationalt/medie-melder-om-eksplosioner-naer-supermarked-med-gidsler-i-colombia?referrer=RSS",
           "summary": "Omkring 20 personer holdes fortsat som gidsler i supermarked i Cartagena, hvor der kan ses sikkerhedsstyrker.",
-          "publishedAt": "2026-11-25T06:30:45.000Z"
+          "publishedAt": "2026-11-25T06:30:45.000Z",
+          "titleEn": "Media reports of explosions near a hostage supermarket in Colombia",
+          "summaryEn": "About 20 people are still being held hostage at a supermarket in Cartagena, where security forces can be seen."
         },
         {
           "title": "Bueskytte og håndboldmur er med i dyst om stor pris",
           "link": "https://www.berlingske.dk/sport/bueskytte-og-haandboldmur-er-med-i-dyst-om-stor-pris?referrer=RSS",
           "summary": "Mathias Fullerton og Emil Nielsen er blandt de sidste fem nominerede til prisen som Årets Sportsnavn.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168015411.webp?t[strip]=true&t[quality]=70&accessToken=ea975cd010fdb972b5ac1332f91bda19ca2bed4f6b0ebcf73bc3a0a762289d92",
-          "publishedAt": "2026-11-25T06:27:44.000Z"
+          "publishedAt": "2026-11-25T06:27:44.000Z",
+          "titleEn": "Bow shields and handball walls are part of the contest for a high price.",
+          "summaryEn": "Mathias Fullerton and Emil Nielsen are among the last five nominees for the Sports Name of the Year award."
         },
         {
           "title": "Business-overblik: Trump gør klar til ny straftold mod EU og Kina",
           "link": "https://www.berlingske.dk/business/business-overbliktrump-goer-klar-til-ny-straftold-mod-eu-og-kina?referrer=RSS",
           "summary": "Vi læser erhvervsnyhederne og tjekker aktiekurserne fra morgenstunden. Her er hele dit Business-overblik.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168015323.webp?t[strip]=true&t[quality]=70&accessToken=b380b9a624010bca0a51fda199d1c2e1631b5b95960f6bd977103a72deb3488f",
-          "publishedAt": "2026-11-25T06:21:53.000Z"
+          "publishedAt": "2026-11-25T06:21:53.000Z",
+          "titleEn": "Business overview: Trump prepares for new sanctions against the EU and China",
+          "summaryEn": "We're reading the business news and checking stock prices from dawn. Here's your entire business overview."
         },
         {
           "title": "Dronning Mary fremhæver grønt samarbejde på historisk Colombia-besøg",
           "link": "https://www.berlingske.dk/danmark/dronning-mary-fremhaever-groent-samarbejde-paa-historisk-colombia-besoeg?referrer=RSS",
           "summary": "Dronning Mary er på officielt besøg i Colombia med fokus på samarbejde og grøn dagsorden.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168015106.webp?t[strip]=true&t[quality]=70&accessToken=ca7af9a1f3979a12dc6ad99ede69fb2fe8f2a4ce626ede83f6d676619627576d",
-          "publishedAt": "2026-11-25T06:17:44.000Z"
+          "publishedAt": "2026-11-25T06:17:44.000Z",
+          "titleEn": "Queen Mary highlights green cooperation on historic Colombia visit",
+          "summaryEn": "Queen Mary is on an official visit to Colombia focusing on cooperation and the green agenda."
         },
         {
           "title": "USAs indflydelse er markant på retur. Men Trump er ligeglad",
           "link": "https://www.berlingske.dk/internationalt/usas-indflydelse-er-markant-paa-retur-men-trump-er-ligeglad?referrer=RSS",
           "summary": "Analyse. Klimatopmødet er et af de mange synlige beviser på, at USA taber magten, for fraværet til internationale møder er markant. Trump har Ikke blot trukket sig fuldstændigt på klimaområdet, men på næsten samtlige…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167986615.webp?t[strip]=true&t[quality]=70&accessToken=6f8bbdd58155fae794e400ea81ff22cfcc3dd00b05bda15ced25e5af8ae09912",
-          "publishedAt": "2026-11-25T06:10:27.000Z"
+          "publishedAt": "2026-11-25T06:10:27.000Z",
+          "titleEn": "America's influence is returning sharply. But Trump doesn't care",
+          "summaryEn": "I'm going to analyze. The climate summit is one of the many visible proofs that the United States is losing power because the absence of international meetings is marked. Not only has Trump withdrawn completely from the climate issue, but on almost all..."
         },
         {
           "title": "PFA vil investere 450 millioner i europæiske techvirksomheder",
           "link": "https://www.berlingske.dk/business/pfa-vil-investere-450-millioner-i-europaeiske-techvirksomheder?referrer=RSS",
           "summary": "Ny fond skal investere i danske og europæiske techvirksomheder. PFA vil hjælpe med 450 millioner kroner.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168015148.webp?t[strip]=true&t[quality]=70&accessToken=4703f746aba4552774be67c81072d7e282815097a47ff304cc1ef339e90db837",
-          "publishedAt": "2026-11-25T06:03:51.000Z"
+          "publishedAt": "2026-11-25T06:03:51.000Z",
+          "titleEn": "PFA will invest 450 million in European tech companies",
+          "summaryEn": "The new fund will invest in Danish and European tech companies. PFA will help with 450 million kroner."
         },
         {
           "title": "Seneste nyt om dansk politik – følg med her",
           "link": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-med-her-112?referrer=RSS",
           "summary": "Følg med og få de seneste nyheder om dansk politik her.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168015125.webp?t[strip]=true&t[quality]=70&accessToken=9c8a532097738a52567179e8695c43b1a977fbb5259bbe57ab069202fb36de30",
-          "publishedAt": "2026-11-25T06:03:50.000Z"
+          "publishedAt": "2026-11-25T06:03:50.000Z",
+          "titleEn": "Latest news on Danish politics  ⁇  follow here",
+          "summaryEn": "Follow me and get the latest news on Danish politics here."
         },
         {
           "title": "Kesslers lærling: Han er mentalt tilbage på topniveau",
           "link": "https://www.berlingske.dk/sport/kesslers-laerling-han-er-mentalt-tilbage-paa-topniveau?referrer=RSS",
           "summary": "Oliver Zaren mener, at Mikkel Kessler mangler at få et par slag for at få banket den sidste rust af.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168015146.webp?t[strip]=true&t[quality]=70&accessToken=b16c61cccdb7d07bced3784a401091cb12a513eab15057db29493f1f11d4c04b",
-          "publishedAt": "2026-11-25T06:03:45.000Z"
+          "publishedAt": "2026-11-25T06:03:45.000Z",
+          "titleEn": "Kessler's apprentice: He's mentally back on top of his game.",
+          "summaryEn": "Oliver Zaren believes that Mikkel Kessler needs a few strokes to knock out the last piece."
         },
         {
           "title": "Er du rigtig klog: Hvad ved du om spioner?",
           "link": "https://www.berlingske.dk/internationalt/er-du-rigtig-klog-hvad-ved-du-om-spioner?referrer=RSS",
           "summary": "Berlingskes journalister udfordrer dagligt med 10 nye spørgsmål inden for spændende emner.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167378843.webp?t[strip]=true&t[quality]=70&accessToken=ef52222e37e133abf7ad413fc033de0fd07e584df6c88fd636fcca01eb9602c3",
-          "publishedAt": "2026-11-25T06:03:44.000Z"
+          "publishedAt": "2026-11-25T06:03:44.000Z",
+          "titleEn": "Are you really smart, what do you know about spies?",
+          "summaryEn": "Berlin's journalists challenge each day with 10 new questions on exciting topics."
         }
       ]
     }
