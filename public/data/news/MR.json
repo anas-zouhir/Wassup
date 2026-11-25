@@ -8,7 +8,7 @@
         "homepage": "https://saharamedias.net",
         "lang": "ar-MR"
       },
-      "fetchedAt": "2026-11-25T06:54:35.812Z",
+      "fetchedAt": "2026-11-25T18:42:02.459Z",
       "items": [
         {
           "title": "البحرية الموريتانية تنقذ زورقا يقل 93 مهاجرا قبالة سواحل نواذيبو",
@@ -99,13 +99,18 @@
         "homepage": "https://lecalame.info",
         "lang": "fr-MR"
       },
-      "fetchedAt": "2026-11-25T06:54:35.400Z",
+      "fetchedAt": "2026-11-25T18:42:07.169Z",
       "items": [
         {
           "title": "Dossier foncier : L’hydre à plusieurs têtes",
           "link": "https://lecalame.info/?q=node/19180",
-          "publishedAt": "2026-11-25T00:48:43.000Z",
+          "publishedAt": "2026-11-25T16:48:43.000Z",
           "titleEn": "Land record: multi-head hydride"
+        },
+        {
+          "title": "La FFRIM porte réserve contre un joueur burkinabé",
+          "link": "https://lecalame.info/?q=node/19196",
+          "publishedAt": "2026-11-25T16:43:42.000Z"
         },
         {
           "title": "Zira 1 et N'Diago : Des marchés aux poissons et des chambres froides solaires fournis par BP",
@@ -154,12 +159,6 @@
           "link": "https://lecalame.info/?q=node/19183",
           "publishedAt": "2026-11-24T21:06:07.000Z",
           "titleEn": "Sports... sports..."
-        },
-        {
-          "title": "Boghe: La coalition intercommunale se mobilise pour la visite du président",
-          "link": "https://lecalame.info/?q=node/19194",
-          "publishedAt": "2026-11-24T18:03:36.000Z",
-          "titleEn": "Boghe: Intercommunal coalition mobilizes for the president's visit"
         }
       ]
     }
