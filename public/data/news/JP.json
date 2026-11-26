@@ -8,63 +8,51 @@
         "homepage": "https://news.web.nhk/newsweb",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-26T06:53:59.858Z",
+      "fetchedAt": "2026-11-26T18:46:47.688Z",
       "items": [
         {
-          "title": "参院 野党側 関文科相の問責決議案を提出 あす採決へ",
+          "title": "参院 野党側 関文科相の問責決議案を提出 27日に採決へ",
           "link": "https://news.web.nhk/newsweb/na/nd-20261126de81559",
           "summary": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、野党側は、国会で事実と異なる説明をするなど閣僚にふさわしくないとして、参議院に問責決議案を提出しました。",
-          "publishedAt": "2026-11-26T05:53:38.000Z",
-          "titleEn": "The Senate, the Opposition and the Ministry of Arts and Letters have tabled a motion for a resolution for tomorrow's vote.",
+          "publishedAt": "2026-11-26T10:22:00.000Z",
           "summaryEn": "On the issue of the Minister of Science and Culture, who is being followed by the comments about political finance parties, the opposition party has submitted a motion for a resolution to the Senate asking whether it is not appropriate for ministers to give a different explanation of facts in the Congress."
         },
         {
-          "title": "ロシアで拘束の北海道新聞記者 妻が手記「娘にパパを返して」",
+          "title": "ロシア拘束の北海道新聞記者 妻が手記を公開【全文掲載】",
           "link": "https://news.web.nhk/newsweb/na/nd-20261126de81607",
           "summary": "ロシアの治安機関に拘束された北海道新聞の記者の妻が手記を公開し、「家族は悲しみのどん底にあり続けています。小さな娘に、どうか大切なパパを返してください」などと早期の解放を訴えました。",
-          "publishedAt": "2026-11-26T05:01:06.000Z",
-          "titleEn": "A detained reporter in Russia, a newspaper reporter in Hawai'i, his wife writes, \"Give your daughter back her daddy\".",
+          "publishedAt": "2026-11-26T05:01:00.000Z",
           "summaryEn": "The wife of a reporter for the Haidao newspaper, who was detained by Russian security forces, released a handwritten note saying, \"My family is still in the depths of grief. I asked my little girl, \"Please give me back my precious dad\"."
         },
         {
-          "title": "福岡 駐輪場男性刺殺事件 逃走の男は商業施設に約20分間滞在か",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81597",
-          "summary": "25日、福岡市西区の駐輪場で70歳の男性が刺され死亡した事件で、現場から逃走した男が、事件直後、近くの商業施設におよそ20分間滞在したあと、列車に乗車していたことが警察への取材で分かりました。",
-          "publishedAt": "2026-11-26T02:54:00.000Z",
-          "titleEn": "Fukuoka, the murder of a man in a parking lot, the escape of a man who stayed in a commercial facility for about 20 minutes.",
-          "summaryEn": "On the 25th, a 70-year-old man was stabbed to death in a parking lot in western Fukuoka, and police interviews revealed that the man who had fled the scene was on a train after a 20-minute stay at a nearby commercial facility."
+          "title": "不登校が過去最多35万9424人 小学生で増加 親は離職のケースも",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81766",
+          "summary": "昨年度、不登校の小中学生などは35万9000人を超えて、13年連続で過去最多を更新しました。特に小学生の増加率が高くなっていて、文部科学省は「小学生の不登校は保護者の離職にもつながるケースがあるため、…",
+          "publishedAt": "2026-11-26T09:34:00.000Z"
         },
         {
-          "title": "アディーレ法律事務所 不正アクセスで個人情報漏えい",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81692",
-          "summary": "東京の弁護士法人「アディーレ法律事務所」は、ウェブサイトのメール配信サービスを委託する会社のサーバーが、今月中旬に外部から不正アクセスを受け、保存されていた1800件あまりの個人情報が漏えいしたと発表…",
-          "publishedAt": "2026-11-26T03:20:00.000Z",
-          "titleEn": "Adil Law Firm, unlawful access to your personal information.",
-          "summaryEn": "Tokyo-based law firm Adil Law Firm announced that the servers of the company that commissioned the email delivery service on its website had leaked more than 1,800 personal information that had been hacked from outside and stored in the middle of this month."
+          "title": "日オマーン外相 ホルムズ海峡は国際社会の慎重な議論が不可欠",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de82125",
+          "summary": "茂木外務大臣は中東オマーンのバドル外相と会談し、緊張が続くホルムズ海峡のあり方は、沿岸国や利用国など国際社会全体で慎重に議論していくことが不可欠だという認識で一致しました。",
+          "publishedAt": "2026-11-26T13:46:21.000Z"
         },
         {
-          "title": "東京電力 柏崎刈羽原発7号機テロ対策施設の完成時期延期を発表",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81744",
-          "summary": "東京電力は、新潟県にある柏崎刈羽原子力発電所7号機について、再稼働するために必要となるテロ対策施設の完成時期を延期すると正式に発表しました。この影響で7号機の再稼働の時期も遅れることになります。",
-          "publishedAt": "2026-11-26T04:30:00.000Z",
-          "titleEn": "Tokyo Electric has announced a delay in the completion of the 7th counter-terrorism facility at the Berzaki Kakanadi nuclear power plant.",
-          "summaryEn": "Tokyo Electric has officially announced that it will postpone the completion of the counter-terrorism facility needed to restore operation of the 7th Berzaki-Kazehandō Nuclear Power Plant in the Shinjuku Prefecture. This will also delay the restarting of the 7th."
+          "title": "自民 維新幹事長ら 問責決議案採決前に国会情勢めぐり意見交換",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de82129",
+          "summary": "自民・維新両党の幹部は、26日夜、東京都内で会談し、政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対する問責決議案が27日に採決されるのを前に、国会情勢などをめぐって意見を交わしました。",
+          "publishedAt": "2026-11-26T14:21:38.000Z"
         },
         {
-          "title": "高額な保険診療目的の外国人の入国 対応強化方針示す 厚労省",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81810",
-          "summary": "日本を訪れる外国人による公的医療保険の不適切な利用を防ぐため、厚生労働省は、医療機関などと連携し、対応を強化する方針を示しました。高額な保険診療を受ける目的で入国したと確認されれば、必要に応じて在留資…",
-          "publishedAt": "2026-11-26T06:46:09.000Z",
-          "titleEn": "The Ministry of Labour has announced plans to increase the number of foreigners entering the country for high-cost medical insurance.",
-          "summaryEn": "To prevent the inappropriate use of public health insurance by foreigners visiting Japan, the Ministry of Health and Labour has agreed to work with and strengthen its response. If you are admitted to the country for the purpose of receiving expensive insurance treatment, you can apply for a residence permit if necessary."
+          "title": "「独身偽装」で出産 2審は賠償増額 610万余支払い命令",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de82076",
+          "summary": "交際相手の子どもを妊娠し、出産した女性が、相手に独身だとだまされたと訴えた裁判で、2審の東京高等裁判所は、妊娠して休業したことによる収入の減少も損害だと認めて1審よりも賠償額を増やし、相手の男性に61…",
+          "publishedAt": "2026-11-26T10:56:14.000Z"
         },
         {
-          "title": "SUBARU「フォレスター」など17万台余 リコール",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81797",
-          "summary": "SUBARUは「フォレスター」など4車種およそ17万8000台のリコールを、国土交通省に届け出ました。 エンジン周辺の部品の強度が不足していて、最悪の場合、エンジンが停止するおそれがあるとしています…",
-          "publishedAt": "2026-11-26T06:17:18.000Z",
-          "titleEn": "Subaru, more than 170,000 recalls, including \"Forester\".",
-          "summaryEn": "Subaru has delivered about 178,000 vehicles of four types, including the Forester, to the Ministry of Transport. And we're saying that there's a lack of strength in the parts around the engine, and in the worst case scenario, the engine is going to stop."
+          "title": "プロ野球広島に開示求めた3人 「戦力構想外」の回答と明らかに",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de82049",
+          "summary": "プロ野球、広島から来シーズンの契約を結ばないと通告され、詳しい理由の開示を求めていた3人の選手が、球団から「来シーズン以降の戦力構想から外れたため」などと回答を受けたことを明らかにしました。 3人の…",
+          "publishedAt": "2026-11-26T09:43:00.000Z"
         }
       ]
     },
@@ -75,67 +63,58 @@
         "homepage": "https://www.asahi.com",
         "lang": "ja"
       },
-      "fetchedAt": "2026-11-26T06:53:59.985Z",
+      "fetchedAt": "2026-11-26T18:46:47.680Z",
       "items": [
+        {
+          "title": "大飯原発の敷地内に軽自動車で侵入した疑い、女を逮捕 福井県警",
+          "link": "http://www.asahi.com/articles/ASVCV5GYTVCVPTJB008M.html?ref=rss",
+          "publishedAt": "2026-11-26T16:38:11.000Z"
+        },
+        {
+          "title": "コンクリがれき数百キロを橋から投棄か 会社役員の男逮捕 容疑否認",
+          "link": "http://www.asahi.com/articles/ASVCV558TVCVULOB01FM.html?ref=rss",
+          "publishedAt": "2026-11-26T15:45:46.000Z"
+        },
+        {
+          "title": "文科省システムに不正アクセス 入札参加の企業名など漏洩の可能性",
+          "link": "http://www.asahi.com/articles/ASVCV4G6SVCVUTIL02WM.html?ref=rss",
+          "publishedAt": "2026-11-26T13:35:28.000Z"
+        },
+        {
+          "title": "「美容目的の再生医療で合併症」 男女11人が4医療法人を提訴",
+          "link": "http://www.asahi.com/articles/ASVCV3H17VCVUTIL010M.html?ref=rss",
+          "publishedAt": "2026-11-26T11:06:22.000Z"
+        },
         {
           "title": "福井の死体遺棄事件 女性の首を絞めて殺害した疑いで男を再逮捕",
           "link": "http://www.asahi.com/articles/ASVCV0TXHVCVPJLB006M.html?ref=rss",
-          "publishedAt": "2026-11-26T06:27:33.000Z",
+          "publishedAt": "2026-11-26T11:00:10.000Z",
           "titleEn": "The case of the abandonment of the body of Fukuoka, the murder of a woman by strangulation, the arrest of a man again."
         },
         {
-          "title": "国連特別報告者「死刑は拷問」 残虐性を立証、存置国に廃止を求める",
-          "link": "http://www.asahi.com/articles/ASVCR26LWVCRIIPE008M.html?ref=rss",
-          "publishedAt": "2026-11-26T06:00:00.000Z",
-          "titleEn": "The United Nations Special Rapporteur, \"The death penalty is torture\", calls for the abolition of cruelty in the country of custody."
+          "title": "「持ち帰り残業」でうつ病、労災認める 東京地裁、不認定取り消し",
+          "link": "http://www.asahi.com/articles/ASVCV3GV2VCVULFA00PM.html?ref=rss",
+          "publishedAt": "2026-11-26T11:00:00.000Z"
         },
         {
-          "title": "千葉・銚子で住宅火災、住人の女性2人と連絡とれず",
-          "link": "http://www.asahi.com/articles/ASVCV1FS3VCVUDCB00LM.html?ref=rss",
-          "publishedAt": "2026-11-26T05:10:00.000Z",
-          "titleEn": "There's a house fire in Chiba-kun and two women in the house."
+          "title": "机やかばんにゴミ、教員も不適切な発言 宮崎県立高でいじめ重大事態",
+          "link": "http://www.asahi.com/articles/ASVCV2GCVVCVTNAB00LM.html?ref=rss",
+          "publishedAt": "2026-11-26T10:30:00.000Z"
         },
         {
-          "title": "巨大ひょうたんを提案した秋篠宮さま 10歳から続く知られざる愛着",
-          "link": "http://www.asahi.com/articles/ASVC10PYWVC1UTIL01JM.html?ref=rss",
-          "publishedAt": "2026-11-26T04:00:00.000Z",
-          "titleEn": "The one who suggested a giant catastrophe, Mr. Akimura, is an unknown love affair that lasts from the age of 10."
+          "title": "イオンで服装変え逃走か 福岡・男性刺殺、事件後にカーディガン買う",
+          "link": "http://www.asahi.com/articles/ASVCV3C5RVCVTIPE004M.html?ref=rss",
+          "publishedAt": "2026-11-26T10:30:00.000Z"
         },
         {
-          "title": "巡査が警察署の食堂で誤発射か 銃弾1発、けが人はおらず 埼玉県警",
-          "link": "http://www.asahi.com/articles/ASVCT2DYKVCTUTNB003M.html?ref=rss",
-          "publishedAt": "2026-11-26T04:00:00.000Z",
-          "titleEn": "There's no police officer in the police station's dining room, no one was hurt, no one shot."
+          "title": "【まとめてわかる】相次ぐ個人情報流出 いま何が起きている？",
+          "link": "http://www.asahi.com/articles/ASVB9342TVB9ULFA015M.html?ref=rss",
+          "publishedAt": "2026-11-26T10:14:14.000Z"
         },
         {
-          "title": "死亡の男性、上半身に多数の刺し傷 福岡・男性刺殺、男の関与を捜査",
-          "link": "http://www.asahi.com/articles/ASVCV0TLPVCVTIPE003M.html?ref=rss",
-          "publishedAt": "2026-11-26T03:05:00.000Z",
-          "titleEn": "Investigation into the death of the man, multiple stab wounds to his upper body, the Fukushima shooting, the man's involvement."
-        },
-        {
-          "title": "公文書偽造さらに93件 広島県、災害復旧工事で「安易に法令違反」",
-          "link": "http://www.asahi.com/articles/ASVCV0RC4VCVPITB005M.html?ref=rss",
-          "publishedAt": "2026-11-26T03:00:00.000Z",
-          "titleEn": "Another 93 forged documents, Hiroshima Prefecture, disaster recovery work, \"easy to break the law\"."
-        },
-        {
-          "title": "「マンション修繕業界は悪化した」 10年前の告発者が薦める自衛策",
-          "link": "http://www.asahi.com/articles/ASVCR22KNVCRUTIL015M.html?ref=rss",
-          "publishedAt": "2026-11-26T01:00:00.000Z",
-          "titleEn": "\"The apartment repair industry has deteriorated\"."
-        },
-        {
-          "title": "職質受けた大学生が逃げた後に死亡 横須賀署員に「万引きした」",
-          "link": "http://www.asahi.com/articles/ASVCT7KBSVCTUTNB001M.html?ref=rss",
-          "publishedAt": "2026-11-25T23:30:00.000Z",
-          "titleEn": "A prominent college student died after fleeing, and he pulled the money out of the Yokugawa police station."
-        },
-        {
-          "title": "20分前に現場最寄り駅を下車か 福岡・男性刺殺、別事件で逮捕の男",
-          "link": "http://www.asahi.com/articles/ASVCT5J90VCTTIPE01PM.html?ref=rss",
-          "publishedAt": "2026-11-25T22:00:00.000Z",
-          "titleEn": "20 minutes ago, the nearest train to the station, or the man who was shot and killed in Fukuoka."
+          "title": "独身偽装の男性に611万円の賠償命令 高裁、妊娠による減収分も",
+          "link": "http://www.asahi.com/articles/ASVCV32C3VCVUTIL011M.html?ref=rss",
+          "publishedAt": "2026-11-26T10:04:11.000Z"
         }
       ]
     },
@@ -146,77 +125,77 @@
         "homepage": "https://www.japantimes.co.jp",
         "lang": "en"
       },
-      "fetchedAt": "2026-11-26T06:54:00.199Z",
+      "fetchedAt": "2026-11-26T18:46:47.838Z",
       "items": [
         {
-          "title": "Pep Guardiola says next coaching job will be with national team",
-          "link": "https://www.japantimes.co.jp/sports/2026/11/26/soccer/pep-guardiola-italy-break/",
-          "summary": "Guardiola held talks with the Italian Football Federation but said the offer arrived when he felt it was the right time to take a break from management.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576178.jpg",
-          "publishedAt": "2026-11-26T05:56:00.000Z"
+          "title": "Japan Tobacco studies deal for Imperial Brands",
+          "link": "https://www.japantimes.co.jp/business/2026/11/26/companies/japan-tobacco-considers-imperial-acquisition/",
+          "summary": "Japan Tobacco has been considering teaming up with a partner on an acquisition of Imperial and then splitting up the British company's assets.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576231.jpg",
+          "publishedAt": "2026-11-26T12:46:00.000Z"
         },
         {
-          "title": "Myanmar won’t comply with ‘inappropriate’ parts of genocide ruling, leader says",
-          "link": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/politics/myanmar-comply-genocide-ruling/",
-          "summary": "The International Court of Justice last week laid out evidence of Myanmar's atrocities against the mostly Muslim Rohingya during a 2017 crackdown.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576153.jpg",
-          "publishedAt": "2026-11-26T05:47:00.000Z"
+          "title": "Vietnam must explain ‘abduction’ of activists: U.N. experts",
+          "link": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/vietnam-activists-un-experts/",
+          "summary": "Vietnam permits little to no dissent within its borders and critics say its security apparatus stretches abroad.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576230.jpg",
+          "publishedAt": "2026-11-26T12:17:00.000Z"
         },
         {
-          "title": "Japan protests new U.S. tariff rate, allegation of excess capacity",
-          "link": "https://www.japantimes.co.jp/business/2026/11/26/economy/japan-protests-trump-new-tariff/",
-          "summary": "The U.S. announced plans to impose a 15% levy on imports from Japan in response to alleged excess manufacturing capacity.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576158.jpg",
-          "publishedAt": "2026-11-26T05:28:00.000Z"
+          "title": "Japan firms say rate hikes are starting to bite, new study shows",
+          "link": "https://www.japantimes.co.jp/business/2026/11/26/economy/japan-firms-hikes-bite/",
+          "summary": "Almost 59% of companies said the negative effects of higher rates are greater than the positive ones.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576229.jpg",
+          "publishedAt": "2026-11-26T12:05:00.000Z"
         },
         {
-          "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war",
-          "link": "https://www.japantimes.co.jp/news/2026/11/26/world/politics/trump-nato-chief-russia-ukraine-war/",
-          "summary": "The message comes after the U.S. leader met Russian President Vladimir Putin last week in Asia, referring to him as a \"friend.\"",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576152.jpg",
-          "publishedAt": "2026-11-26T05:24:00.000Z"
+          "title": "Nine hurt in huge explosion at Bangkok oil facility",
+          "link": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/bangkok-oil-facility-explosion/",
+          "summary": "The blast was so strong that it rattled doors several kilometers away, according to reporters.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576228.jpg",
+          "publishedAt": "2026-11-26T11:53:00.000Z"
         },
         {
-          "title": "Two-time champion Jannik Sinner out of Australian Open after knee surgery",
-          "link": "https://www.japantimes.co.jp/sports/2026/11/26/tennis/sinner-out-australian-open/",
-          "summary": "Sinner has not played a match since winning Wimbledon for the second time in July, with his appearance at Melbourne Park always in doubt.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576177.jpg",
-          "publishedAt": "2026-11-26T05:22:00.000Z"
+          "title": "Designer baby toys and strollers drive South Korean retail boom",
+          "link": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/society/south-korea-designer-stroller-boom/",
+          "summary": "Online spending on baby and children's products reached a record 5.48 trillion won ($4.1 billion) in 2025, up about 67% since 2017.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576223.jpg",
+          "publishedAt": "2026-11-26T10:28:00.000Z"
         },
         {
-          "title": "Osaka governments approve draft document on design for proposed metropolis",
-          "link": "https://www.japantimes.co.jp/news/2026/11/26/japan/society/osaka-metropolis-draft-design-approve/",
-          "summary": "The draft calls for reorganizing the city of Osaka into four special wards, like Tokyo's 23 wards, on Jan. 1, 2031.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576155.jpg",
-          "publishedAt": "2026-11-26T05:05:00.000Z"
+          "title": "Starbucks Korea sees profit return after ‘Tank Day’ backlash",
+          "link": "https://www.japantimes.co.jp/business/2026/11/26/companies/starbucks-south-korea-profit/",
+          "summary": "The campaign coincided with the anniversary of a 1980 pro-democracy uprising that saw troops deployed and tanks used to crush protests.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576205.jpg",
+          "publishedAt": "2026-11-26T09:29:00.000Z"
         },
         {
-          "title": "Wife of Hokkaido Shimbun journalist detained in Russia pleads for his return",
-          "link": "https://www.japantimes.co.jp/news/2026/11/26/japan/yuki-imai-wife-letter/",
-          "summary": "\"Please return this precious papa to his little daughter,\" Nozomi Imai wrote in letters that were handwritten in Japanese, Russian and English.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576006.jpg",
-          "publishedAt": "2026-11-26T05:04:00.000Z"
+          "title": "Japan’s insurers have ‘given up’ on yen with record-low hedging",
+          "link": "https://www.japantimes.co.jp/business/2026/11/26/yen-headwinds-insurers/",
+          "summary": "Nine of the largest life insurers collectively hedged 43.3% of their foreign-asset holdings with derivatives in the six months ended Sept. 30.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576207.jpg",
+          "publishedAt": "2026-11-26T09:23:00.000Z"
         },
         {
-          "title": "U.S. officials divided over China spying allegations after Jensen Huang’s return",
-          "link": "https://www.japantimes.co.jp/news/2026/11/26/world/politics/us-officials-chinese-spying-huang/",
-          "summary": "A central question remains unanswered: Was the woman Huang was having an affair with a Chinese spy?",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576151.jpg",
-          "publishedAt": "2026-11-26T04:44:00.000Z"
+          "title": "U.S. chip curbs and distillation crackdown to impact Chinese AI model progress",
+          "link": "https://www.japantimes.co.jp/business/2026/11/26/companies/china-ai-development-hurdles/",
+          "summary": "American firms have made efforts to prevent use of their models to train others, while Washington has set out new rules for access to computing power.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576203.jpg",
+          "publishedAt": "2026-11-26T09:21:00.000Z"
         },
         {
-          "title": "Sources corroborate Aaron Rodgers’ accusations against Steelers coach Mike McCarthy",
-          "link": "https://www.japantimes.co.jp/sports/2026/11/26/more-sports/sources-backs-aaron-rodgers-claims/",
-          "summary": "\"It's all true,\" one source told ESPN.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576141.jpg",
-          "publishedAt": "2026-11-26T03:43:00.000Z"
+          "title": "Hawkish Bank of Japan member seeks quick rate hikes on inflation",
+          "link": "https://www.japantimes.co.jp/business/2026/11/26/economy/boj-member-rate-hikes/",
+          "summary": "\"I believe that the bank needs to bring the policy rate to the neutral level soon,\" Naoki Tamura said in a speech to local business leaders.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576206.jpg",
+          "publishedAt": "2026-11-26T09:16:00.000Z"
         },
         {
-          "title": "African insurgents take war to the skies with off-the-shelf drones",
-          "link": "https://www.japantimes.co.jp/news/2026/11/26/world/africa-insurgents-war-drones/",
-          "summary": "Armed with drones, insurgents in Mali and beyond have robbed government forces of the air superiority they once commanded.",
-          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576084.jpg",
-          "publishedAt": "2026-11-26T03:39:00.000Z"
+          "title": "Australia delays final vote on gas reservation law for LNG exporters to February",
+          "link": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/australia-lng-exporters-curb/",
+          "summary": "The world's second-largest LNG supplier since the Iran war, Australia exports far more gas than it consumes domestically.",
+          "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576204.jpg",
+          "publishedAt": "2026-11-26T08:49:00.000Z"
         }
       ]
     }

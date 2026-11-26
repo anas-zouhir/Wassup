@@ -1,0 +1,28 @@
+{
+  "country": "LS",
+  "outlets": [
+    {
+      "outlet": {
+        "id": "publiceye-ls",
+        "name": "Public Eye",
+        "homepage": "https://publiceyenews.com",
+        "lang": "en-LS"
+      },
+      "fetchedAt": "2026-11-26T18:46:55.165Z",
+      "items": [
+        {
+          "title": "Can Straight Allies Be Made to Feel ‘Not Straight Enough’? Exploring Sexuality Stereotypes and Allyship within LGBTQI+ Communities",
+          "link": "https://publiceyenews.com/2026/11/26/can-straight-allies-be-made-to-feel-not-straight-enough-exploring-sexuality-stereotypes-and-allyship-within-lgbtqi-communities/",
+          "summary": "‘Mamajeremane Mautse MOSA MAOENG MASERU — Allyship is often described as standing in solidarity with...",
+          "publishedAt": "2026-11-26T12:19:52.000Z"
+        },
+        {
+          "title": "“I see you, keep going”: Moxxy’s journey from rejection to graduation",
+          "link": "https://publiceyenews.com/2026/11/26/i-see-you-keep-going-moxxys-journey-from-rejection-to-graduation/",
+          "summary": "By Rethabile Mohono MASERU-At five years old, Morena Letsema already knew she was different. She...",
+          "publishedAt": "2026-11-26T10:38:06.000Z"
+        }
+      ]
+    }
+  ]
+}

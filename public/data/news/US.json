@@ -8,21 +8,28 @@
         "homepage": "https://www.nytimes.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-26T06:54:58.815Z",
+      "fetchedAt": "2026-11-26T18:47:33.330Z",
       "items": [
         {
-          "title": "The Thanksgiving Parade on Saturday. Can They Do That?",
-          "link": "https://www.nytimes.com/2026/11/25/nyregion/thanksgiving-parade-new-york-postponed.html",
-          "summary": "After more than a century of tradition, the Macy’s Thanksgiving Day Parade is suddenly flexible. Sure, this is fine.",
-          "image": "https://static01.nyt.com/images/2026/12/10/multimedia/karsten-header-01-pjvz/karsten-header-01-pjvz-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-26T02:45:29.000Z"
+          "title": "Macy’s Thanksgiving Day Parade Upends Plans and Adds Costs for Marching Bands",
+          "link": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html",
+          "summary": "Nine marching bands were set to perform in the Macy’s Thanksgiving Day Parade. The decision to move the event to Saturday posed new logistical challenges for them.",
+          "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25parade-live-marching-band-gfqm/25parade-live-marching-band-gfqm-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-26T02:32:27.000Z"
         },
         {
-          "title": "Macy’s Thanksgiving Day Parade Sours Holiday Plans for Tourists",
-          "link": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-tourists.html",
-          "summary": "With a powerful storm bearing down on New York, the parade was postponed to Saturday, by which time many of the city’s visitors planned to be elsewhere.",
-          "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25parade-live-voices-vqwp/25parade-live-voices-vqwp-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-26T02:24:38.000Z"
+          "title": "Thanksgiving Parade Balloons Are Deflated in New York",
+          "link": "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html",
+          "summary": "After the Macy’s Thanksgiving Day Parade was postponed because of a powerful storm, crews worked through the night to deflate balloons before the bad weather arrived.",
+          "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26xp-Thanksgiving-Parade-Balloons-02-kvzp/26xp-Thanksgiving-Parade-Balloons-02-kvzp-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-26T14:06:46.000Z"
+        },
+        {
+          "title": "The Army Knew Much Earlier of the Explosive Risk in Iowa, Evidence Suggests",
+          "link": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html",
+          "summary": "Efforts to get rid of unstable explosives at an Iowa plant began more than a year ago but weren’t completed at that time, setting the stage for Wednesday’s controversial blast.",
+          "image": "https://static01.nyt.com/images/2026/11/25/arts/US-army-prep-cover-image/US-army-prep-cover-image-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-26T16:50:50.000Z"
         },
         {
           "title": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
@@ -32,52 +39,44 @@
           "publishedAt": "2026-11-26T01:53:20.000Z"
         },
         {
-          "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
-          "link": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
-          "summary": "Three data providers say they have no evidence to support the online claim that insider trading generated a 9,000 percent return.",
-          "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25biz-nvidia-trade-misinfo-cpqz/25biz-nvidia-trade-misinfo-cpqz-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-25T21:36:24.000Z"
+          "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+          "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+          "summary": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
+          "publishedAt": "2026-11-26T12:04:01.000Z"
         },
         {
-          "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
-          "link": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
-          "summary": "Nvidia and other tech companies fell as investors weighed developments in global trade and the path of interest rates.",
-          "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25biz-markets-tvlm/25biz-markets-tvlm-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-25T21:32:42.000Z"
+          "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
+          "link": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
+          "summary": "President Trump sent a message to trading partners across Asia, many of which depend on trade and investment from both the United States and China, that he is ready to escalate tariffs.",
+          "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26Biz-Asia-Tariffs-01-fzkq/26Biz-Asia-Tariffs-01-fzkq-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-26T17:03:31.000Z"
         },
         {
-          "title": "After Extraordinary Iowa Explosion, Officials and Scientists Assess Fallout Risks",
-          "link": "https://www.nytimes.com/2026/11/25/us/iowa-army-ammunition-blast.html",
-          "summary": "Military and civilian authorities said the Army operation was a success. But testing will continue to make sure residents are safe from contamination.",
-          "publishedAt": "2026-11-25T23:09:50.000Z"
+          "title": "Trump Tried to Cripple Huawei. Now It Is Central to China’s A.I. Push.",
+          "link": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html",
+          "summary": "As China’s access to Nvidia’s advanced chips shrinks, Huawei is becoming increasingly indispensable to Beijing despite a wide technological gap with its American rival.",
+          "image": "https://static01.nyt.com/images/2026/11/25/multimedia/Biz-China-Huawei-03-wcft/Biz-China-Huawei-03-wcft-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-26T10:01:56.000Z"
         },
         {
-          "title": "Iowa Awaits All-Clear as Tests for Lead Continue",
-          "link": "https://www.nytimes.com/2026/11/25/us/iowa-detonation-lead-what-next.html",
-          "summary": "It will take some time for officials to examine the air, water and soil samples for contamination.",
-          "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25iowa-detonation-whats-next-sub-pvcg/25iowa-detonation-whats-next-sub-pvcg-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-25T21:16:07.000Z"
+          "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
+          "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
+          "summary": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.",
+          "image": "https://static01.nyt.com/images/2026/02/02/multimedia/00int-brazil-russia-soldiers-01-pmvf/00int-brazil-russia-soldiers-01-pmvf-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-26T14:01:45.000Z"
         },
         {
-          "title": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
-          "link": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
-          "summary": "A preliminary injunction halted an early regulatory review of the network’s operations in eight cities, including New York, Los Angeles and Chicago.",
-          "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00Biz-Disney-ABC-HFO-hvlk/00Biz-Disney-ABC-HFO-hvlk-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-26T02:01:20.000Z"
+          "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
+          "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
+          "summary": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.",
+          "publishedAt": "2026-11-26T15:27:03.000Z"
         },
         {
-          "title": "ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize",
-          "link": "https://www.nytimes.com/2026/11/25/us/ice-arrest-boston-lottery-winner.html",
-          "summary": "Ariel Velasquez-Morales, a native of El Salvador, smiled in a picture with a giant check. The image led immigration agents to him, and he is set for deportation.",
-          "image": "https://static01.nyt.com/images/2026/11/25/us/25nat-ice-boston-lottery/25nat-ice-boston-lottery-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-25T21:22:54.000Z"
-        },
-        {
-          "title": "Border Barrier Cannot be Removed for Decades, Texas Republicans and D.O.J. Agree",
-          "link": "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html",
-          "summary": "Just before Democrats take over the state government, Trump administration and outgoing Republican officials in Texas ink legal settlement barring removal of wire for 30 years.",
-          "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-texas-bvgm/25dc-texas-bvgm-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-26T03:42:51.000Z"
+          "title": "Democrats Confront a Familiar Question: How Are You Going to Pay for That?",
+          "link": "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html",
+          "summary": "Many Democratic plans are unlikely to become law under President Trump. But the party is still grappling with the difficult budget math of its agenda.",
+          "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-dem-agenda--01-wzbj/27dc-dem-agenda--01-wzbj-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-26T14:50:27.000Z"
         }
       ]
     },
@@ -88,67 +87,67 @@
         "homepage": "https://www.npr.org",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-26T06:54:58.910Z",
+      "fetchedAt": "2026-11-26T18:47:33.509Z",
       "items": [
+        {
+          "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+          "summary": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.",
+          "publishedAt": "2026-11-26T13:47:09.000Z"
+        },
+        {
+          "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+          "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
+          "publishedAt": "2026-11-26T13:31:28.000Z"
+        },
+        {
+          "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+          "summary": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.",
+          "publishedAt": "2026-11-26T12:24:29.000Z"
+        },
+        {
+          "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
+          "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+          "summary": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet biscochitos flavored with anise and cinnamon.",
+          "publishedAt": "2026-11-26T10:00:00.000Z"
+        },
+        {
+          "title": "'Memories of a Good Meal': How food made a difference during WWII",
+          "link": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
+          "summary": "New Orleans Chef Alon Shaya's new cookbook shares stories of resilience from World War II, centered around food.",
+          "publishedAt": "2026-11-26T10:00:00.000Z"
+        },
+        {
+          "title": "A dish with a story, Thanksgiving with culinary historian Michael Twitty",
+          "link": "https://www.npr.org/2026/11/26/nx-s1-6044602/michael-twitty-thanksgiving-food-culinary-history",
+          "summary": "NPR's Leila Fadel welcomes culinary historian Michael Twitty into her kitchen for a Thanksgiving cooking session on making Kush, the forerunner to Southern cornbread dressing.",
+          "publishedAt": "2026-11-26T09:44:29.000Z"
+        },
+        {
+          "title": "Court lets Puerto Rico governor fire firm that runs the island's troubled power grid",
+          "link": "https://www.npr.org/2026/11/26/nx-s1-6054139/court-rules-puerto-ricos-governor-can-fire-company-that-runs-troubled-power-grid",
+          "summary": "LUMA Energy took over the electric grid five years ago. The court's ruling nullifies its contract, and gives the government a year to find a new operator.",
+          "publishedAt": "2026-11-26T09:44:20.000Z"
+        },
+        {
+          "title": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed",
+          "link": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving",
+          "summary": "Extreme weather that has unleashed strong winds, high tides, heavy rain and floods is expected to impact travel plans of an estimated 81.5 million people as they travel across the United States.",
+          "publishedAt": "2026-11-26T09:43:27.000Z"
+        },
+        {
+          "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+          "summary": "The Trump administration gave Elon Musk's SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a move that has raised skepticism among scientists.",
+          "publishedAt": "2026-11-26T06:53:09.000Z"
+        },
         {
           "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
           "link": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit",
           "summary": "Taylor revealed his battle with Stage 4 metastatic prostate cancer in 2022. He was the guitarist of the 1980s English band Duran Duran, whose pop hits included \"Hungry Like the Wolf\" and \"Rio\".",
           "publishedAt": "2026-11-26T06:34:20.000Z"
-        },
-        {
-          "title": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV",
-          "link": "https://www.npr.org/2026/11/26/nx-s1-6054760/steelers-cut-aaron-rodgers",
-          "summary": "The move capped a chaotic 18 hours in which the team announced it was benching the 42-year-old future Hall of Famer for backup Mason Rudolph ahead of Friday's visit from Denver.",
-          "publishedAt": "2026-11-26T06:26:03.000Z"
-        },
-        {
-          "title": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump",
-          "link": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
-          "summary": "A federal judge has blocked the Trump administration from moving to review all local broadcast licenses held by ABC. The stations air in six of the largest U.S. markets.",
-          "publishedAt": "2026-11-26T05:23:18.000Z"
-        },
-        {
-          "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
-          "summary": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
-          "publishedAt": "2026-11-25T21:02:58.000Z"
-        },
-        {
-          "title": "Group of Senate Democrats push to add freshman to leadership",
-          "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
-          "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
-          "publishedAt": "2026-11-25T17:30:47.000Z"
-        },
-        {
-          "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
-          "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
-          "publishedAt": "2026-11-25T14:14:34.000Z"
-        },
-        {
-          "title": "What to know before using AI agents for Black Friday shopping",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
-          "summary": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
-          "publishedAt": "2026-11-25T13:51:56.000Z"
-        },
-        {
-          "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
-          "link": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
-          "summary": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.",
-          "publishedAt": "2026-11-25T12:18:09.000Z"
-        },
-        {
-          "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
-          "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
-          "publishedAt": "2026-11-25T11:50:05.000Z"
-        },
-        {
-          "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-          "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
-          "publishedAt": "2026-11-25T11:00:00.000Z"
         }
       ]
     },
@@ -159,67 +158,67 @@
         "homepage": "https://www.washingtonpost.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-26T06:55:09.000Z",
+      "fetchedAt": "2026-11-26T18:47:42.624Z",
       "items": [
+        {
+          "title": "Scattered flight delays, flooding and outages as powerful storm hits East Coast",
+          "link": "https://www.washingtonpost.com/nation/2026/11/26/powerful-thanksgiving-storm-threatens-east-coast-with-floods-damaging-winds/",
+          "summary": "The Thanksgiving Day storm is progressing through the Mid-Atlantic region with high wind and flood warnings from Virginia Beach to New York City.",
+          "publishedAt": "2026-11-26T16:46:02.000Z"
+        },
+        {
+          "title": "ICE arrests man in Boston days after he won $1 million in lottery",
+          "link": "https://www.washingtonpost.com/immigration/2026/11/26/ice-arrests-man-days-after-1m-lottery-win-boston/",
+          "summary": "“Looks like his luck ran out,” an ICE official said of Ariel Velasquez-Morales.",
+          "publishedAt": "2026-11-26T13:47:52.000Z"
+        },
+        {
+          "title": "For a Macy’s 100th Thanksgiving parade planner, ‘there’s only one shot’",
+          "link": "https://www.washingtonpost.com/nation/2026/11/26/what-goes-into-planning-100th-macys-thanksgiving-parade/",
+          "summary": "Brendan Kennedy has spent two years preparing every detail for the milestone event, which has been postponed until Saturday due to bad weather.",
+          "publishedAt": "2026-11-26T11:00:00.000Z"
+        },
+        {
+          "title": "First Bible published by American colonists was in Wampanoag, a Native language",
+          "link": "https://www.washingtonpost.com/religion/2026/11/26/how-wampanoag-language-bible-was-first-published-early-america/",
+          "summary": "In the aftermath of war, some Puritan clerics sought new ways to convert Native Americans. They decided religious texts were the answer.",
+          "publishedAt": "2026-11-26T11:00:00.000Z"
+        },
+        {
+          "title": "Asked about Iran-contra, Reagan joked about pardoning a turkey. A tradition followed.",
+          "link": "https://www.washingtonpost.com/nation/2026/11/26/asked-about-iran-contra-reagan-joked-about-pardoning-turkey-tradition-followed/",
+          "summary": "The president would have preferred to keep the focus on Hawaiian Charlie.",
+          "publishedAt": "2026-11-26T10:00:00.000Z"
+        },
+        {
+          "title": "Tech billionaire takes his case against red tape to the Federal Reserve",
+          "link": "https://www.washingtonpost.com/business/2026/11/26/billionaire-marc-andreessen-takes-case-against-red-tape-federal-reserve/",
+          "summary": "Marc Andreessen, a Trump ally whose firm has invested heavily in health care, education and housing, says he will use his role on a new Fed task force to argue that regulation is blocking progress in those sectors.",
+          "publishedAt": "2026-11-26T10:00:00.000Z"
+        },
+        {
+          "title": "Which came first, Macy’s Thanksgiving parade or sliced bread? Take our history quiz.",
+          "link": "https://www.washingtonpost.com/nation/interactive/2026/11/26/macy-thanksgiving-parade-or-sliced-bread-choose-which-came-first-with-our-quiz/",
+          "summary": "Is Harvard older than calculus? Did the Titanic sink before Oreos hit store shelves? Test your sense of history with these surprising matchups of events and inventions.",
+          "publishedAt": "2026-11-26T10:00:00.000Z"
+        },
+        {
+          "title": "The mortality gap between Black and White Americans keeps shrinking",
+          "link": "https://www.washingtonpost.com/health/2026/11/26/number-excess-deaths-between-black-white-americans-shrank-sharply/",
+          "summary": "The gap in the number of excess deaths between Black Americans and White Americans shrank significantly between 1993 and 2023, according to a new study.",
+          "publishedAt": "2026-11-26T10:00:00.000Z"
+        },
+        {
+          "title": "Trump wants to work with Democrats on health care. But can they find a compromise?",
+          "link": "https://www.washingtonpost.com/business/2026/11/26/can-trump-democrats-find-common-ground-changes-health-care/",
+          "summary": "Democrats are focused on boosting Affordable Care Act subsidies and reversing Republican cuts to Medicaid, which are in opposition to Trump’s policies.",
+          "publishedAt": "2026-11-26T10:00:00.000Z"
+        },
         {
           "title": "Macy’s Thanksgiving Day Parade postponed by storm, rescheduled for Saturday",
           "link": "https://www.washingtonpost.com/nation/2026/11/25/macys-thanksgiving-day-parade-postponed-by-storm-rescheduled-saturday/",
           "summary": "A major storm is expected to hit the East Coast on Thursday.",
           "publishedAt": "2026-11-26T04:01:20.000Z"
-        },
-        {
-          "title": "See how the Army detonated tons of lead explosives in Iowa",
-          "link": "https://www.washingtonpost.com/nation/2026/11/25/how-army-detonated-explosives-iowa-potential-plume/",
-          "summary": "A look at the ammunition storage bunkers and what the Army did to limit lead fallout.",
-          "publishedAt": "2026-11-26T02:52:52.000Z"
-        },
-        {
-          "title": "Andy Taylor, versatile guitarist for Duran Duran, dies at 65",
-          "link": "https://www.washingtonpost.com/entertainment/music/2026/11/25/andy-taylor-versatile-guitarist-duran-duran-dies-65/",
-          "summary": "Andy Taylor was an architect of Duran Duran's signature sound, which blended disco and rock on 1980s hits such as “Hungry Like the Wolf,” “Rio” and “The Reflex.”",
-          "publishedAt": "2026-11-25T23:19:57.000Z"
-        },
-        {
-          "title": "Army detonates 10,000 pounds of degrading lead explosives in Iowa",
-          "link": "https://www.washingtonpost.com/climate-environment/2026/11/25/iowa-town-awaits-us-armys-planned-detonation-lead-azide-stockpile/",
-          "summary": "Data posted to an EPA monitoring site indicated that no lead had been detected at four air-sampling stations near the blast site.",
-          "publishedAt": "2026-11-25T23:10:47.000Z"
-        },
-        {
-          "title": "Kilmar Abrego García arrives in Spain to start a new life",
-          "link": "https://www.washingtonpost.com/immigration/2026/11/25/kilmar-abrego-garcia-leaves-us-spain-ending-20-month-deportation-fight/",
-          "summary": "Abrego became a symbol of the Trump administration’s immigration policies after being illegally deported to his native El Salvador.",
-          "publishedAt": "2026-11-25T21:00:08.000Z"
-        },
-        {
-          "title": "Lesson on Islam in Texas classroom sparks outcry after blue wave",
-          "link": "https://www.washingtonpost.com/education/2026/11/25/lesson-islam-texas-classroom-sparks-outcry-after-blue-wave/",
-          "summary": "Right-wing critics referred to the geography lesson as indoctrination.",
-          "publishedAt": "2026-11-25T20:15:00.000Z"
-        },
-        {
-          "title": "Fort Hood shooter asks court to delay execution scheduled for next week",
-          "link": "https://www.washingtonpost.com/nation/2026/11/25/fort-hood-shooter-nidal-malik-hasan-asks-court-stay-execution/",
-          "summary": "Nidal Malik Hasan, who killed 13 people and injured 32 others at a Texas army base in 2009, has asked for a stay of execution so he can pursue a legal review of his case.",
-          "publishedAt": "2026-11-25T15:10:00.000Z"
-        },
-        {
-          "title": "Thomas Markle indicted on charges of possessing child sex abuse material",
-          "link": "https://www.washingtonpost.com/nation/2026/11/25/thomas-markle-indicted-charges-possessing-child-sex-abuse-material/",
-          "summary": "Markle was arrested earlier this month after prosecutors said federal agents seized dozens of items at two storage units in California.",
-          "publishedAt": "2026-11-25T14:00:00.000Z"
-        },
-        {
-          "title": "Six killed in plane crash off Mississippi coast",
-          "link": "https://www.washingtonpost.com/nation/2026/11/25/six-killed-plane-crash-off-mississippi-coast-near-horn-island/",
-          "summary": "Two children are among the dead, a Coast Guard spokesman told the Associated Press.",
-          "publishedAt": "2026-11-25T12:15:00.000Z"
-        },
-        {
-          "title": "Sale of Stefanik family’s D.C. home deemed ‘unusual,’ city records show",
-          "link": "https://www.washingtonpost.com/dc-md-va/2026/11/25/sale-stefanik-familys-dc-home-deemed-unusual-city-records-show/",
-          "summary": "A rowhome owned by the outgoing congresswoman’s family was taken off the market after failing to sell for $1.99 million — and then sold in a private transaction for $910,000 more than that.",
-          "publishedAt": "2026-11-25T11:00:00.000Z"
         }
       ]
     }
