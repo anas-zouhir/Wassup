@@ -8,8 +8,14 @@
         "homepage": "https://www.tribune242.com",
         "lang": "en-BS"
       },
-      "fetchedAt": "2026-11-25T18:41:11.883Z",
+      "fetchedAt": "2026-11-26T06:53:26.665Z",
       "items": [
+        {
+          "title": "11252026 EDITION",
+          "link": "https://tribune242.com/news/2026/nov/25/11252026-edition/",
+          "summary": "Wednesday, November 25th, 2026",
+          "publishedAt": "2026-11-25T23:00:00.000Z"
+        },
         {
           "title": "‘A new generation’ of equestrians make their Grand Caraïbe debut",
           "link": "https://tribune242.com/news/2026/nov/25/a-new-generation-of-equestrians-make-their-grand-caraibe-debut/",
@@ -63,12 +69,6 @@
           "link": "https://tribune242.com/news/2026/nov/25/commissioner-probes-familys-claims-of-prior-complaints/",
           "summary": "POLICE Commissioner Shanta Knowles has ordered the head of the Criminal Investigation Department (CID) to search police records for complaints against the immigration officer arrested in connection with the murder of…",
           "publishedAt": "2026-11-25T13:06:00.000Z"
-        },
-        {
-          "title": "PHA warns of bed shortages and longer emergency room waits at PMH and Rand",
-          "link": "https://tribune242.com/news/2026/nov/25/pha-warns-of-bed-shortages-and-longer-emergency-room-waits-at-pmh-and-rand/",
-          "summary": "PRINCESS Margaret Hospital and Rand Memorial Hospital are under significant pressure, with so many inpatients that beds are scarce and emergency patients face longer waits, the Public Hospitals Authority (PHA) warned in…",
-          "publishedAt": "2026-11-25T13:04:00.000Z"
         }
       ]
     },

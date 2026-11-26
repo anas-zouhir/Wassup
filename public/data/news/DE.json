@@ -8,87 +8,67 @@
         "homepage": "https://www.tagesschau.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-25T18:41:26.924Z",
+      "fetchedAt": "2026-11-26T06:53:39.087Z",
       "items": [
         {
-          "title": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
-          "summary": "Im Bundestag wurde über den Haushalt 2027 debattiert. Darin auch enthalten: rund zwölf Milliarden Euro Ukraine-Hilfe. Für die AfD ist das eine Veruntreuung von Steuergeldern, für Kanzler Merz die Verteidigung \"unserer…",
-          "publishedAt": "2026-11-25T18:10:19.000Z",
-          "titleEn": "Ukraine aid polarizes the general debate in the Bundestag",
-          "summaryEn": "The Bundestag debated the budget for 2027. This includes some 12 billion euros of aid to Ukraine. For the AfD, this is tax evasion, for Chancellor Merz, the defense of our..."
+          "title": "Marktbericht: DAX könnte wieder über 25.000 Punkte springen",
+          "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
+          "summary": "Schnäppchenjäger sorgten am Mittwoch an der US-Tech-Börse Nasdaq nach dem Rücksetzer für Erholung. Der DAX zieht diese Rally zum Handelsstart offenbar nach und dürfte heute wieder über 25.000 Punkte springen.",
+          "publishedAt": "2026-11-26T06:39:58.000Z"
         },
         {
-          "title": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
-          "link": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
-          "summary": "Im neuen Gesundheitsreport blickt die Techniker Krankenkasse auf die Situation von Frauen zwischen 35 und 55. Sie sind eine wichtige Gruppe von Arbeitnehmerinnen - und häufiger krank als gleichaltrige Männer. Von A.…",
-          "publishedAt": "2026-11-25T17:37:52.000Z",
-          "titleEn": "Female, middle-aged, high-performing - more often ill?",
-          "summaryEn": "In the new health report, the Health Insurance Technicians look at the situation of women between 35 and 55. They are an important group of women workers and are more likely to be sick than men of their age. From A..."
+          "title": "Familienministerin Prien für bildschirmfreie Zeit bei Kleinkindern",
+          "link": "https://www.tagesschau.de/inland/innenpolitik/prien-fuer-bildschirmfreie-kleinkindzeit-100.html",
+          "summary": "Bildschirme lenken ab - egal ob Smartphone, Tablet oder Fernsehen. Familienministerin Prien hat sich deshalb dafür ausgesprochen, dass Kleinkinder in den ersten drei Lebensjahren ohne Bildschirme aufwachsen sollen.",
+          "publishedAt": "2026-11-26T06:25:31.000Z"
         },
         {
-          "title": "Asteroiden-Abwehr - einfach Schießen und Hoffen reicht nicht",
-          "link": "https://www.tagesschau.de/wissen/sonde-hera-asteroid-100.html",
-          "summary": "Was tun, wenn ein Asteroid auf die Erde zusteuert? Die Sonde \"Hera\" untersucht einen Asteroiden, an dem so ein Abwehrversuch getestet wurde. Noch fehlen viele Informationen, klar ist aber: Einfach wird das nicht. Von…",
-          "publishedAt": "2026-11-25T17:30:09.000Z",
-          "titleEn": "Asteroid defense - just shooting and hoping is not enough",
-          "summaryEn": "What do you do when an asteroid hits Earth? The Hera probe is investigating an asteroid that has been tested for such a defense attempt. There is still a lot of information missing, but it is clear that this will not be easy. From..."
+          "title": "Schlauchboote im Ärmelkanal: Deutscher Firmenchef soll Schleuser beliefert haben",
+          "link": "https://www.tagesschau.de/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.html",
+          "summary": "Schleuser bringen jährlich Zehntausende Migranten über den Ärmelkanal nach Großbritannien. Bei fast einem Drittel der Überfahrten sollen laut Recherchen von WDR, NDR und SZ zuletzt Boote oder Motoren einer deutschen…",
+          "publishedAt": "2026-11-26T05:00:30.000Z"
         },
         {
-          "title": "EU-Kommission erlaubt weiter Staatshilfen für Landwirte und Industrie",
-          "link": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html",
-          "summary": "Landwirte, Industrie und andere Unternehmen können wegen der anhaltenden Energiekrise weiterhin mit staatlichen Zuschüssen rechnen. Laut EU-Kommission bleibt es bis mindestens Ende Juni 2027 bei den gelockerten Regeln…",
-          "publishedAt": "2026-11-25T16:29:03.000Z",
-          "titleEn": "EU Commission continues to allow state aid for farmers and industry",
-          "summaryEn": "Farmers, industry and other enterprises can continue to expect government subsidies due to the ongoing energy crisis. According to the EU Commission, the relaxed rules will remain in place until at least the end of June 2027..."
+          "title": "Deutschland verfehlt EU-Frist für besseren Schutz von Lieferfahrern",
+          "link": "https://www.tagesschau.de/investigativ/rbb/lieferdienste-subunternehmer-100.html",
+          "summary": "Um Mitarbeiter von Lieferdiensten besser zu schützen, hat die EU eine Richtlinie beschlossen. Die müsste Deutschland bis zum 2. Dezember umsetzen - es gibt aber noch keinen Gesetzentwurf. Von Jan Wiese.",
+          "publishedAt": "2026-11-26T05:00:09.000Z"
         },
         {
-          "title": "KI-Ernüchterung an den Börsen greift um sich",
-          "link": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-rueckkehr-huang-boersen-100.html",
-          "summary": "An den US-Börsen geht die Verkaufswelle bei Tech-Aktien weiter. Die alten Sorgen von Investoren wegen der Geschäfts mit Künstlicher Intelligenz bleiben - und neue sind hinzugekommen. Von Heidi Radvilas.",
-          "publishedAt": "2026-11-25T16:28:08.000Z",
-          "titleEn": "AI exchanges are becoming increasingly crowded.",
-          "summaryEn": "In the U.S. stock market, the wave of sales of tech stocks continues. The old worries of investors about doing business with artificial intelligence remain, and new ones have been added. It's from Heidi Radvilas."
+          "title": "Wetterchaos an Thanksgiving in USA befürchtet",
+          "link": "https://www.tagesschau.de/ausland/amerika/sturm-usa-152.html",
+          "summary": "Extreme Springflut und Überschwemmungen in Kalifornien - Sturmwarnung und viel Regen an der Ostküste. Pünktlich zu Thanksgiving könnte das Wetter die Reise- und Feiertagspläne vieler US-Amerikaner durcheinander bringen.",
+          "publishedAt": "2026-11-26T04:41:15.000Z"
         },
         {
-          "title": "Generaldebatte im Bundestag: Nachdenkliche Töne und ein Zugeständnis",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-generaldebatte-merz-100.html",
-          "summary": "Selbstkritisch hat Bundeskanzler Merz im Bundestag den Kurs seiner Regierung verteidigt. Bei der Rede war es ungewöhnlich leise im Saal. Merz führte aus, wessen Kanzler er sein will - ein Zugeständnis an die SPD ging…",
-          "publishedAt": "2026-11-25T16:10:40.000Z",
-          "titleEn": "General debate in the Bundestag: reflective tones and a concession",
-          "summaryEn": "Self-critical, Federal Chancellor Merz defended the course of his government in the Bundestag. The speech was unusually quiet in the hall. Merz made a statement about who he wants to be chancellor, a confession to the SPD..."
+          "title": "EU-Haushalt: Kampf um bis zu zwei Billionen Euro",
+          "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html",
+          "summary": "Die Staats- und Regierungschefs der 27 EU-Länder beraten bei einem Sondergipfel in Brüssel über den langfristigen EU-Haushalt. Dabei geht es auch um mögliche neue Einnahmequellen wie etwa eine Digitalsteuer. Von C. Feld.",
+          "publishedAt": "2026-11-26T04:00:53.000Z"
         },
         {
-          "title": "Wenn der Partner zuschlägt",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/wenn-der-partner-zuschlaegt-gewalt-gegen-frauen-100.html",
-          "summary": "Alle drei Minuten erlebt eine Frau oder ein Mädchen in Deutschland häusliche Gewalt. Nur ein kleiner Teil der Taten wird angezeigt - aus Angst, Scham oder sozialer Isolation. Von Marion Försching.",
-          "publishedAt": "2026-11-25T14:36:47.000Z",
-          "titleEn": "If the partner strikes",
-          "summaryEn": "Every three minutes a woman or a girl in Germany experiences domestic violence. Only a small portion of the actions are shown - out of fear, shame, or social isolation. It's from Marion Forssching."
+          "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
+          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html",
+          "summary": "SpaceX plant im All ein Netz aus Satelliten, die als Rechenzentren dienen sollen. Die US-Behörden haben das Vorhaben nun erlaubt. Ziel ist es, die enorme Nachfrage nach Rechenleistung für Künstliche Intelligenz zu…",
+          "publishedAt": "2026-11-26T01:58:55.000Z"
         },
         {
-          "title": "Gewalt gegen Frauen in Brasilien: Auf Streife gegen Femizide",
-          "link": "https://www.tagesschau.de/ausland/amerika/brasilien-gewalt-gegen-frauen-100.html",
-          "summary": "In Brasilien hat die Zahl der Frauenmorde vergangenes Jahr einen Höchststand erreicht. Eine Spezialeinheit der Polizei soll gefährdete Frauen schützen - unterwegs mit einer Patrouille in Rio de Janeiro. Von Xenia…",
-          "publishedAt": "2026-11-25T14:36:37.000Z",
-          "titleEn": "Violence against women in Brazil: Strikes against femicide",
-          "summaryEn": "In Brazil, the number of women murdered peaked last year. A special police unit is supposed to protect vulnerable women on the road with a patrol in Rio de Janeiro. From Xenia..."
+          "title": "Mit 65 Jahren: Duran-Duran-Gitarrist Andy Taylor gestorben",
+          "link": "https://www.tagesschau.de/kultur/andy-taylor-gestorben-100.html",
+          "summary": "Andy Taylor, der ursprüngliche Gitarrist der englischen New-Wave-Band Duran Duran, ist gestorben. Mit seinen von Rock und Funk inspirierten Gitarrenriffs prägte Taylor den Sound der Band.",
+          "publishedAt": "2026-11-25T23:56:55.000Z"
         },
         {
-          "title": "USA kündigen neue Zölle an - auch gegen EU und China",
-          "link": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
-          "summary": "Die USA haben neue Sonderzölle gegen die EU und weitere Handelspartner angekündigt. Für betroffene EU-Produkte ist ein Zollsatz von 15 Prozent vorgesehen, auf chinesische Waren soll eine Abgabe von 20 Prozent fällig…",
-          "publishedAt": "2026-11-25T15:18:25.000Z",
-          "titleEn": "US announces new tariffs - including against the EU and China",
-          "summaryEn": "The United States has announced new special tariffs on the EU and other trading partners. A 15% duty is imposed on the EU products concerned and a 20% duty is due on Chinese goods."
+          "title": "Ägypten: Mindestens 30 Tote bei Großbrand auf Autobahn in Gizeh",
+          "link": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
+          "summary": "Ein mit Gasflaschen beladener Lkw hat bei einem Unfall auf einer Autobahn in der ägyptischen Stadt Gizeh einen Großbrand ausgelöst. Mindestens 30 Menschen starben bei dem Unglück, viele wurden verletzt.",
+          "publishedAt": "2026-11-25T21:10:04.000Z"
         },
         {
-          "title": "74 Peitschenhiebe für iranische Sängerin lösen Empörung aus",
-          "link": "https://www.tagesschau.de/ausland/asien/iran-saengerin-peitschenhiebe-100.html",
-          "summary": "Ein Onlinekonzert ohne Kopftuch - dafür erhielt die iranische Sängerin Parastu Ahmadi 74 Peitschenhiebe. Das löste international große Empörung aus. Die Strafe sei \"grausam und unmenschlich\" und eine Form der Folter.",
-          "publishedAt": "2026-11-25T14:07:47.000Z",
-          "titleEn": "74 lashes for Iranian singer sparking outrage",
-          "summaryEn": "An online concert without a headscarf - for which Iranian singer Parastu Ahmadi received 74 lashes. This provoked international outrage. The punishment was \"cruel and inhuman\" and a form of torture."
+          "title": "Bestechungsvorwurf gegen Netanjahu könnte fallen gelassen werden",
+          "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
+          "summary": "Seit Jahren muss sich Israels Premier wegen Betrugs, Untreue und Bestechlichkeit vor Gericht verantworten. Jetzt haben Richter empfohlen, den letzten Anklagepunkt fallen zu lassen. Netanjahu sieht den ganzen Prozess als…",
+          "publishedAt": "2026-11-25T19:50:08.000Z"
         }
       ]
     },
@@ -99,97 +79,77 @@
         "homepage": "https://www.spiegel.de",
         "lang": "de"
       },
-      "fetchedAt": "2026-11-25T18:41:27.327Z",
+      "fetchedAt": "2026-11-26T06:53:38.650Z",
       "items": [
         {
-          "title": "Veruschka: Zum Tod von Vera Gräfin von Lehndorff – ihre Freiheit, ihre Verzweiflung, ihr Mut, ihr Eigensinn",
-          "link": "https://www.spiegel.de/kultur/veruschka-zum-tod-von-vera-graefin-von-lehndorff-ihre-freiheit-ihre-verzweiflung-ihr-mut-ihr-eigensinn-a-c541bda0-8a1f-45dd-a274-6759b589e1fa#ref=rss",
-          "summary": "Vera Gräfin von Lehndorff, bekannt als Veruschka, wurde zu einem der bekanntesten Models der Sechzigerjahre, sie hatte nichts von der Biederkeit toupierter Laufstegschönheiten. Dann bahnte sie sich einen Weg als…",
-          "image": "https://cdn.prod.www.spiegel.de/images/02296b21-300c-44af-b78c-63e78371d539_w520_r2.08_fpx49_fpy38.jpg",
-          "publishedAt": "2026-11-25T18:11:00.000Z",
-          "titleEn": "Veruschka: To the death of Vera Countess of Lehndorff  ⁇  her freedom, her despair, her courage, her own nature",
-          "summaryEn": "Vera, Countess of Lehndorff, known as Veruschka, became one of the most famous models of the sixties, she had nothing of the humility of runway beauties. Then she made her way as..."
+          "title": "Einwanderungsgeschichte erhöht Armutsrisiko laut Studie deutlich",
+          "link": "https://www.spiegel.de/wirtschaft/soziales/einwanderungsgeschichte-erhoeht-armutsrisiko-laut-studie-deutlich-a-1950c5e6-39f3-431d-9e6f-0261a521a981#ref=rss",
+          "summary": "Rund jeder vierte Mensch mit Migrationshintergrund ist arm – mehr als doppelt so viel im Rest der Bevölkerung. Dabei ließen sich entscheidende Weichen anders stellen, kritisiert der Paritätische Gesamtverband.",
+          "image": "https://cdn.prod.www.spiegel.de/images/3b140b0e-1351-44be-8e8a-98570b6f8f6a_w520_r2.08_fpx69.99_fpy55.jpg",
+          "publishedAt": "2026-11-26T06:39:00.000Z"
         },
         {
-          "title": "Gewalt gegen Frauen und der Umgang in der Familie: Was, wenn die Tochter nicht nach Hause kommt?",
-          "link": "https://www.spiegel.de/familie/gewalt-gegen-frauen-und-der-umgang-in-der-familie-was-wenn-die-tochter-nicht-nach-hause-kommt-a-de7a782a-9e7d-4319-9af7-fc6ce7f958f2#ref=rss",
-          "summary": "Verbal, digital, real: Gewalt gegen Frauen und Mädchen ist alltäglich. Und sie beginnt zu Hause bei uns in der Küche.",
-          "image": "https://cdn.prod.www.spiegel.de/images/934ef0a3-9b13-43f8-b569-bae85d4392a0_w520_r2.08_fpx33.34_fpy50.jpg",
-          "publishedAt": "2026-11-25T17:58:00.000Z",
-          "titleEn": "Violence against women and family treatment: What if the daughter doesn't come home?",
-          "summaryEn": "Verbal, digital, real: violence against women and girls is commonplace. And it starts at home in the kitchen."
+          "title": "Bill Kaulitz »wollte wirklich viel Blut« in seiner ersten Filmrolle",
+          "link": "https://www.spiegel.de/panorama/leute/bill-kaulitz-wollte-wirklich-viel-blut-in-seiner-ersten-filmrolle-a-209a92c9-a11f-45d4-ae09-5aeb6fc7c07d#ref=rss",
+          "summary": "»So ein Horrorfilm, warum nicht?«: Bill Kaulitz macht einen Abstecher ins Filmgeschäft. Der Frontmann von Tokio Hotel spielt den Drummer einer Band, die bei einem Videodreh in ein Horrorszenario gerät.",
+          "image": "https://cdn.prod.www.spiegel.de/images/02bfc241-0933-4345-be7d-c3cf903e39a5_w520_r2.08_fpx53.34_fpy50.jpg",
+          "publishedAt": "2026-11-26T06:37:00.000Z"
         },
         {
-          "title": "»Counter-Strike«: Trainieren Shooter-Spiele das Gehirn?",
-          "link": "https://www.spiegel.de/wissenschaft/mensch/counter-strike-trainieren-shooter-spiele-das-gehirn-a-891d270b-0894-48fb-982b-367112f43295#ref=rss",
-          "summary": "Shooter-Spiele können kognitive Fähigkeiten beeinflussen. Eine Forscherin aus England glaubt: Das könnte Rettungssanitätern, Polizistinnen oder Fluglotsen helfen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/0c0ea95d-71a4-4abb-b96b-af692126adf2_w520_r2.08_fpx55.33_fpy44.99.jpg",
-          "publishedAt": "2026-11-25T17:58:00.000Z",
-          "titleEn": "⁇ Counter-Strike ⁇ : Do shooter games train the brain?",
-          "summaryEn": "Shooter games can affect cognitive abilities. A researcher in England believes that this could help paramedics, police, or air traffic controllers."
+          "title": "Israel: Richter empfehlen, fast alle Anklagepunkte gegen Benjamin Netanyahu fallen zu lassen",
+          "link": "https://www.spiegel.de/ausland/israel-richter-empfehlen-fast-alle-anklagepunkte-gegen-benjamin-netanyahu-fallen-zu-lassen-a-dc70405a-edcb-4b93-a749-7142539a56da#ref=rss",
+          "summary": "Seit sechs Jahren prozessiert die israelische Staatsanwaltschaft gegen Premier Netanyahu wegen Korruption. Nun könnte das Verfahren ein rasches Ende finden – der Angeklagte frohlockt bereits.",
+          "image": "https://cdn.prod.www.spiegel.de/images/72c7cb55-7b03-4580-a5fa-adec5e81fc28_w520_r2.08_fpx31.32_fpy44.99.jpg",
+          "publishedAt": "2026-11-26T06:16:00.000Z"
         },
         {
-          "title": "Max Frisch und Peter Suhrkamp – ein Briefwechsel als Biografie",
-          "link": "https://www.spiegel.de/kultur/literatur/max-frisch-und-peter-suhrkamp-ein-briefwechsel-als-biografie-a-ea736f59-fdf1-4924-bf8e-ff267589901d#ref=rss",
-          "summary": "Der nun veröffentlichte Briefwechsel zwischen Max Frisch und seinem Verleger Peter Suhrkamp leistet mehr, als es jede Biografie könnte.",
-          "image": "https://cdn.prod.www.spiegel.de/images/c033d132-5a02-4092-a7b1-cc405e7dcc97_w520_r2.08_fpx44.97_fpy32.72.jpg",
-          "publishedAt": "2026-11-25T17:58:00.000Z",
-          "titleEn": "Max Frisch and Peter Suhrkamp  ⁇  an exchange of letters as a biography",
-          "summaryEn": "The now-published correspondence between Max Frisch and his publisher Peter Suhrkamp does more than any biography could."
+          "title": "Fahrrad im Winter: Wenn Radwege zu gefährlichen Rutschbahnen werden",
+          "link": "https://www.spiegel.de/mobilitaet/fahrrad/fahrrad-im-winter-wenn-radwege-zu-gefaehrlichen-rutschbahnen-werden-a-d9e436de-63e4-4742-8fa2-72ab9dc3543c#ref=rss",
+          "summary": "Wenn das Laub zu nasser Pampe wird und Frost dazukommt, werden viele Radwege zur Rutschpartie. Experten erklären, wie Sie die schwierigsten Stellen erkennen.",
+          "image": "https://cdn.prod.www.spiegel.de/images/ad31ca96-de9b-4a5c-8a6d-9fb9f6896f07_w520_r2.08_fpx60.66_fpy55.jpg",
+          "publishedAt": "2026-11-26T06:13:00.000Z"
         },
         {
-          "title": "Nord Stream: Zeugen schildern Beobachtungen im Prozess um Pipeline-Anschläge",
-          "link": "https://www.spiegel.de/panorama/justiz/nord-stream-zeugen-schildern-beobachtungen-im-prozess-um-pipeline-anschlaege-a-32278965-aab3-4f5a-924e-bb5105e94cc8#ref=rss",
-          "summary": "Im Prozess um die Anschläge auf die Nord-Stream-Pipelines beschreiben Augenzeugen, wie seltsam sich die Verdächtigen verhalten haben. Neben ihrer Kleidung sorgte wohl auch eine Tankaktion ihres Bootes für Verwunderung.",
-          "image": "https://cdn.prod.www.spiegel.de/images/1d9695dd-22a7-4a32-8120-a10e30e36e47_w520_r2.08_fpx67.72_fpy50.jpg",
-          "publishedAt": "2026-11-25T17:53:00.000Z",
-          "titleEn": "Nord Stream: Witnesses report observations in the pipeline attack trial",
-          "summaryEn": "In the trial of the North Stream pipeline attacks, eyewitnesses describe how strangely the suspects behaved. Besides her clothes, a tank strike on her boat probably caused a sensation."
+          "title": "Nordrhein-Westfalen verbietet Gesichtsschleier im Unterricht",
+          "link": "https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-verbietet-gesichtsschleier-im-unterricht-a-e4680ecf-20c5-4438-9eb0-b077849e704d#ref=rss",
+          "summary": "In NRW gelten künftig schärfere Schulregeln: Neben dem Verbot von Gesichtsschleiern bekommen Schulleitungen mehr Möglichkeiten bei Gefährdungen durch Schüler. Zudem gibt es weitere Änderungen.",
+          "image": "https://cdn.prod.www.spiegel.de/images/6cb85db3-7508-41ab-8c5f-dabbd15cc2db_w520_r2.08_fpx55.3_fpy44.99.jpg",
+          "publishedAt": "2026-11-26T06:11:00.000Z"
         },
         {
-          "title": "Vera Lehndorff: Das Leben von Supermodel und Schauspielerin Veruschka in Bildern",
-          "link": "https://www.spiegel.de/panorama/vera-lehndorff-das-leben-von-supermodel-und-schauspielerin-veruschka-in-bildern-a-ddcc3127-4faf-41f5-b591-a1cc0a6ee093#ref=rss",
-          "summary": "Sie war im Antonioni-Klassiker »Blow Up« zu sehen, die US-Ausgabe der »Vogue« widmete ihr elf Cover, und mit 78 Jahren modelte sie noch für das Modelabel Acne Studios. Bilder eines schillernden Lebens.",
-          "image": "https://cdn.prod.www.spiegel.de/images/ee14d6eb-fdfa-425d-aeb8-4d7a78cdc783_w520_r2.08_fpx55.01_fpy55.01.jpg",
-          "publishedAt": "2026-11-25T17:39:00.000Z",
-          "titleEn": "Vera Lehndorff: The life of supermodel and actress Veruschka in pictures",
-          "summaryEn": "She was featured in the Antonioni classic  ⁇ Blow Up ⁇ , the US edition of  ⁇ Vogue ⁇  dedicated her eleven covers, and at the age of 78 she still modeled for the acne studio label. Pictures of a dazzling life."
+          "title": "Bundestag: Julia Klöckner prüft Sanktionen nach Blockade von David Barnea",
+          "link": "https://www.spiegel.de/politik/deutschland/bundestag-julia-kloeckner-prueft-sanktionen-nach-blockade-von-david-barnea-a-c51e85d0-19f5-4fc9-8e09-1e10a697679e#ref=rss",
+          "summary": "Mit Sitzblockaden haben zwei Linkenabgeordnete gegen den Besuch von Ex-Mossad-Chef Barnea im Bundestag protestiert. Bundestagspräsidentin Klöckner nennt die Aktion einen »Tiefpunkt« – und lotet nun Konsequenzen aus.",
+          "image": "https://cdn.prod.www.spiegel.de/images/1042a951-c1d5-421e-89b5-54b3f25bc5ae_w520_r2.08_fpx59.99_fpy49.99.jpg",
+          "publishedAt": "2026-11-26T06:08:00.000Z"
         },
         {
-          "title": "Kehlsteinhaus in Berchtesgaden: Ruine soll künftig anders aussehen",
-          "link": "https://www.spiegel.de/panorama/kehlsteinhaus-in-berchtesgaden-ruine-soll-kuenftig-anders-aussehen-a-7a7311c8-3850-4444-a4b9-b0a4c862325c#ref=rss",
-          "summary": "Ende Oktober brannte das Kehlsteinhaus in den Alpen nieder. Seitdem läuft die Debatte, wie es mit dem Gebäude weitergehen soll. Fest steht: Es soll künftig anders aussehen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/ec0a3c5b-cea1-44d9-a4ad-8afbf163cafe_w520_r2.08_fpx41.45_fpy55.jpg",
-          "publishedAt": "2026-11-25T17:23:00.000Z",
-          "titleEn": "Kehlsteinhaus in Berchtesgaden: ruins to look different in the future",
-          "summaryEn": "At the end of October, the throatstone house burned down in the Alps. Since then, the debate has been on how to proceed with the building. It's not the same thing in the future."
+          "title": "Kretschmer kritisiert 35-Stunden-Woche als »riesigen Irrweg«",
+          "link": "https://www.spiegel.de/wirtschaft/soziales/kretschmer-kritisiert-35-stunden-woche-als-riesigen-irrweg-a-d4577e94-5f05-401a-b644-bdec48855699#ref=rss",
+          "summary": "Länger arbeiten, weniger Urlaub: Angesichts der Lage in der Industrie fordert Sachsens Ministerpräsident Kretschmer Zugeständnisse von Gewerkschaften und SPD. Die Lohnforderungen der IG Metall seien »völlig aus der Zeit…",
+          "image": "https://cdn.prod.www.spiegel.de/images/e48034bc-fb52-4270-aa9f-5b4495c9db33_w520_r2.08_fpx43.28_fpy54.96.jpg",
+          "publishedAt": "2026-11-26T06:03:00.000Z"
         },
         {
-          "title": "Federico Brignone: »Zu starke Schmerzen« – Ski-Olympiasiegerin beendet Karriere",
-          "link": "https://www.spiegel.de/sport/wintersport/federico-brignone-zu-starke-schmerzen-ski-olympiasiegerin-beendet-karriere-a-a9d0452b-e4e4-4446-96ac-c4fa9cc8c83a#ref=rss",
-          "summary": "Fahnenträgerin, dann sensationell Doppel-Gold: Federica Brignone krönte bei den Olympischen Spielen im Februar ihre Karriere. Nun macht die Italienerin Schluss, will sich aber noch ein letztes Mal auf die Skipiste wagen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/c5d9eaec-a328-4e95-a284-417abb070182_w520_r2.08_fpx50_fpy49.jpg",
-          "publishedAt": "2026-11-25T17:18:00.000Z",
-          "titleEn": "Federico Brignone: Too much pain  ⁇  Olympic ski winner finishes her career",
-          "summaryEn": "Flag-bearer, then sensational double gold: Federica Brignone crowned her career at the Olympics in February. Now the Italian woman is leaving, but she wants to venture out on the ski slope one last time."
+          "title": "Weihnachtsgeld: Wie viel Beschäftigte 2026 erwarten können",
+          "link": "https://www.spiegel.de/karriere/weihnachtsgeld-wie-viel-beschaeftigte-2026-erwarten-koennen-a-ca8f7cf5-fe2f-4ad7-9a00-1a872bcaab4d#ref=rss",
+          "summary": "Etwa die Hälfte der Beschäftigten bekommt zum Jahresende Weihnachtsgeld. Hier lesen Sie, in welchen Branchen es besonders viel gibt und wann der Arbeitgeber das Weihnachtsgeld sogar zurückfordern kann.",
+          "image": "https://cdn.prod.www.spiegel.de/images/d8055822-06a2-4c8c-a6eb-cc11ffb8ebc6_w520_r2.08_fpx57_fpy45.jpg",
+          "publishedAt": "2026-11-26T05:55:00.000Z"
         },
         {
-          "title": "Türkei: Istanbul verbietet Proteste gegen Gewalt an Frauen",
-          "link": "https://www.spiegel.de/ausland/tuerkei-istanbul-verbietet-proteste-gegen-gewalt-an-frauen-a-7536cb86-b75e-44bb-a599-ac7f7c949cfb#ref=rss",
-          "summary": "Frauenrechtsorganisationen wollten in der türkischen Hauptstadt demonstrieren, sie halten die Strafverfolgung bei Femiziden für unzureichend. Die Stadt reagiert mit einem Versammlungsverbot.",
-          "image": "https://cdn.prod.www.spiegel.de/images/99d35866-8538-4315-9aa3-c3f2da6a441e_w520_r2.08_fpx60_fpy50.jpg",
-          "publishedAt": "2026-11-25T17:14:00.000Z",
-          "titleEn": "Turkey: Istanbul bans protests against violence against women",
-          "summaryEn": "Women's rights organizations wanted to demonstrate in the Turkish capital that they believe the prosecution of femicide is insufficient. The city responds with a ban on assembly."
+          "title": "Kilmar Ábrego García verlässt nach Rechtsstreit freiwillig die USA - Donald Trump feiert das",
+          "link": "https://www.spiegel.de/ausland/kilmar-abrego-garcia-verlaesst-nach-rechtsstreit-freiwillig-die-usa-donald-trump-feiert-das-a-40ef0733-21a6-4e91-89f0-81d9af656f7b#ref=rss",
+          "summary": "Sein Fall wurde zum Symbol für die knallharte Abschiebepolitik der US-Regierung. Jetzt ist Kilmar Ábrego García nach fast zwei Jahren des Rechtsstreits nach Spanien ausgereist. Die Trump-Hardliner feiern das als Sieg.",
+          "image": "https://cdn.prod.www.spiegel.de/images/cefa5f1d-3f51-4ed0-9266-d7a85e7c6b34_w520_r2.08_fpx56_fpy55.jpg",
+          "publishedAt": "2026-11-26T05:52:00.000Z"
         },
         {
-          "title": "Schach-WM: Weltmeister Gukesh will cool spielen, aber Gegner Sindarov reagiert gelangweilt",
-          "link": "https://www.spiegel.de/sport/schach/schach-wm-weltmeister-gukesh-will-cool-spielen-aber-gegner-sindarov-reagiert-gelangweilt-a-cd612bce-9980-4525-8120-f35a495fb055#ref=rss",
-          "summary": "Das Londoner System! Schachweltmeister Dommaraju Gukesh überrascht Javokhir Sindarov mit seiner Eröffnung. Doch dann schließt der Herausforderer mal kurz die Augen.",
-          "image": "https://cdn.prod.www.spiegel.de/images/a7de32cd-7112-45f6-8c3f-d27c13426f1f_w520_r2.08_fpx58_fpy56.jpg",
-          "publishedAt": "2026-11-25T17:05:00.000Z",
-          "titleEn": "World chess champion Gukesh wants to play cool, but opponent Sindarov reacts bored",
-          "summaryEn": "The London system! World chess champion Dommaraju Gukesh surprises Javokhir Sindarov with his opening. But then the challenger closes his eyes for a moment."
+          "title": "Nordkorea: Kim Jong Un fordert breiteren Einsatz taktischer Atomwaffen",
+          "link": "https://www.spiegel.de/ausland/nordkorea-kim-jong-un-fordert-breiteren-einsatz-taktischer-atomwaffen-a-f6e5f64e-8f4c-4ad9-b6c0-8ff08a308f51#ref=rss",
+          "summary": "Mindestens 60 Atomsprengköpfe soll Nordkorea bereits haben. Geht es nach Machthaber Kim Jong Un, soll das Arsenal noch größer werden. Eine Waffengattung hat er dabei besonders im Blick.",
+          "image": "https://cdn.prod.www.spiegel.de/images/28d7f7ff-8f7e-4314-a1fa-a62adc56c5b0_w520_r2.08_fpx51.34_fpy45.jpg",
+          "publishedAt": "2026-11-26T05:49:00.000Z"
         }
       ]
     }

@@ -8,8 +8,50 @@
         "homepage": "https://www.srf.ch/news",
         "lang": "de-CH"
       },
-      "fetchedAt": "2026-11-25T18:41:18.130Z",
+      "fetchedAt": "2026-11-26T06:53:30.580Z",
       "items": [
+        {
+          "title": "Fünf bestätigte Fälle – Erstmals Cyberangriffe mit KI-Agenten in der Schweiz",
+          "link": "https://www.srf.ch/news/schweiz/fuenf-bestaetigte-faelle-erstmals-cyberangriffe-mit-ki-agenten-in-der-schweiz",
+          "summary": "Die Schweiz meldet die ersten bestätigten Hacks mit KI‑Agenten. Eine Angriffswelle stehe bevor, warnt ein Experte.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/5e61e4.webp",
+          "publishedAt": "2026-11-26T05:15:31.000Z"
+        },
+        {
+          "title": "Bundesratswahl – Vom Star-Moment zur Akzeptanz der Nicht-Wahl in den Bundesrat",
+          "link": "https://www.srf.ch/news/schweiz/bundesratswahl-vom-star-moment-zur-akzeptanz-der-nicht-wahl-in-den-bundesrat",
+          "summary": "Zwei «Fast-Bundesräte» erzählen von der Zeit der Kandidatur und dem Umgang mit der Niederlage.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/381600.webp",
+          "publishedAt": "2026-11-26T05:07:26.000Z"
+        },
+        {
+          "title": "Umweltbedenken – US-Armee sprengt vier Tonnen giftigen Sprengstoff",
+          "link": "https://www.srf.ch/news/international/umweltbedenken-us-armee-sprengt-vier-tonnen-giftigen-sprengstoff",
+          "summary": "Von dem gelagerten Sprengstoff ging laut der US-Armee eine Gefahr aus. Deshalb war die Sprengung nötig.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/2c8d8f.webp",
+          "publishedAt": "2026-11-25T21:30:27.000Z"
+        },
+        {
+          "title": "Geschäft mit der Vorfreude – Adventskalender-Boom: Wie Firmen mit 24 Türchen abkassieren",
+          "link": "https://www.srf.ch/radio-srf-1/geschaeft-mit-der-vorfreude-adventskalender-boom-wie-firmen-mit-24-tuerchen-abkassieren",
+          "summary": "Adventskalender sind längst ein lukratives Geschäft. Firmen nutzen den Hype geschickt – und verdienen damit Milliarden.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/02c254.webp",
+          "publishedAt": "2026-11-26T06:06:16.000Z"
+        },
+        {
+          "title": "Erster Schneefall – Wintereinbruch bis ins Flachland – so sind Sie sicher unterwegs",
+          "link": "https://www.srf.ch/radio-srf-1/erster-schneefall-wintereinbruch-bis-ins-flachland-so-sind-sie-sicher-unterwegs",
+          "summary": "Eine winterliche Wetterlage erreicht die Schweiz: Schnee fällt bis in tiefe Lagen. Jetzt gilt Vorsicht auf den Strassen.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/a2b9ef0.webp",
+          "publishedAt": "2026-11-24T15:36:03.000Z"
+        },
+        {
+          "title": "Zollpolitik der USA – Trump hält trotz Wahlschlappe an US-Zollpolitik fest",
+          "link": "https://www.srf.ch/news/international/usa/zollpolitik-der-usa-trump-haelt-trotz-wahlschlappe-an-us-zollpolitik-fest",
+          "summary": "Der Präsident zieht seine Zollpolitik durch – mit Folgen für seine Republikaner und wohl auch die Gerichte.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/30971f.webp",
+          "publishedAt": "2026-11-26T05:02:04.000Z"
+        },
         {
           "title": "Erhöhung bis zu 15 Prozent – Was die neu angekündigten US-Zölle für die Schweiz bedeuten",
           "link": "https://www.srf.ch/news/international/erhoehung-bis-zu-15-prozent-was-die-neu-angekuendigten-us-zoelle-fuer-die-schweiz-bedeuten",
@@ -29,6 +71,13 @@
           "summaryEn": "The Federation rejects the allegations. The U.S. Department of Commerce is in contact with the U.S authorities."
         },
         {
+          "title": "Rassemblement National – Affäre um Le Pen wirft Fragen zur Staatsnähe des RN auf",
+          "link": "https://www.srf.ch/news/international/rassemblement-national-affaere-um-le-pen-wirft-fragen-zur-staatsnaehe-des-rn-auf",
+          "summary": "Frankreich untersucht, ob hohe Staatsbeamte vertrauliche Informationen an Marine Le Pens Partei weitergaben.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/b11ff5.webp",
+          "publishedAt": "2026-11-26T06:38:09.000Z"
+        },
+        {
           "title": "Krebs im Endstadium – Wie lebt man mit dem Wissen, bald zu sterben?",
           "link": "https://www.srf.ch/kultur/gesellschaft-religion/krebs-im-endstadium-wie-lebt-man-mit-dem-wissen-bald-zu-sterben",
           "summary": "Unheilbar an Krebs erkrankt: Zwei Menschen reden offen über ihren Tod. Selbstverständlich ist dies nicht.",
@@ -36,69 +85,6 @@
           "publishedAt": "2026-11-25T18:00:52.000Z",
           "titleEn": "End stage cancer  ⁇  How do you live with the knowledge that you're going to die soon?",
           "summaryEn": "A terminal cancer patient: Two people talk openly about their death. Of course it is not."
-        },
-        {
-          "title": "Neubau Kantonsspital Aarau – Einzelzimmer auch für Allgemeinversicherte im neuen Kantonsspital",
-          "link": "https://www.srf.ch/news/schweiz/neubau-kantonsspital-aarau-einzelzimmer-auch-fuer-allgemeinversicherte-im-neuen-kantonsspital",
-          "summary": "Immer mehr Spitäler setzen auf Einzelzimmer für Allgemeinversicherte. Weshalb? Und was ist mit den Privatpatienten?",
-          "image": "https://www.srf.ch/static/cms/images//320ws/69b1341.webp",
-          "publishedAt": "2026-11-25T18:34:38.000Z",
-          "titleEn": "Construction of new Canton Hospital Aarau  ⁇  Single room also for general insured in the new Canton hospital",
-          "summaryEn": "More and more hospitals are relying on single rooms for general insured patients. - What's the point? What about the private patients?"
-        },
-        {
-          "title": "Lernprogramme gegen Gewalt – Wie gewalttätige Männer lernen, nicht mehr zuzuschlagen",
-          "link": "https://www.srf.ch/news/gesellschaft/lernprogramme-gegen-gewalt-wie-gewalttaetige-maenner-lernen-nicht-mehr-zuzuschlagen",
-          "summary": "Können gewalttätige Männer lernen, ihr Verhalten zu ändern? Ein Experte erklärt die Wirkung von Präventionsprogrammen.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/daadf3.webp",
-          "publishedAt": "2026-11-25T16:28:26.000Z",
-          "titleEn": "Violence training programs  ⁇  How violent men learn to stop beating",
-          "summaryEn": "Can violent men learn to change their behavior? An expert explains the effect of prevention programmes."
-        },
-        {
-          "title": "Politische Satire – Michael Elsener übt bereits die Wutanfälle von Thomas Aeschi",
-          "link": "https://www.srf.ch/radio-srf-1/politische-satire-michael-elsener-uebt-bereits-die-wutanfaelle-von-thomas-aeschi",
-          "summary": "Der Gewinner des Kabarett-Preises Cornichon 2027 parodiert Politiker – und backt auch mal einen Kuchen für sie.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/60705a.webp",
-          "publishedAt": "2026-11-25T17:06:25.000Z",
-          "titleEn": "Political satire  ⁇  Michael Elsener is already practicing the rage attacks of Thomas Aeschi",
-          "summaryEn": "The winner of the Cornichon 2027 Cabaret Award parodies politicians and even bakes a cake for them."
-        },
-        {
-          "title": "Ärztin am Bildschirm – Gesundheitszentrum Laufen: Nachts nur noch Online-Ärzte",
-          "link": "https://www.srf.ch/news/schweiz/aerztin-am-bildschirm-gesundheitszentrum-laufen-nachts-nur-noch-online-aerzte",
-          "summary": "Ab 20 Uhr sind nur noch eine Praxisassistentin und ein Assistenzarzt vor Ort.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/01b7f8.webp",
-          "publishedAt": "2026-11-25T16:49:31.000Z",
-          "titleEn": "Doctor on screen  ⁇  Health centre running: only online doctors at night",
-          "summaryEn": "As of 8 p.m., there's only one practice assistant and one assistant physician on site."
-        },
-        {
-          "title": "Mutmasslicher Online-Betrug – Die Trading-Abzocke: Wie Roman sein Vermögen verlor",
-          "link": "https://www.srf.ch/news/schweiz/mutmasslicher-online-betrug-die-trading-abzocke-wie-roman-sein-vermoegen-verlor",
-          "summary": "Fast täglich telefonierte Roman mit angeblichen Beratern. Sie brachten ihn dazu, über 200’000 Franken einzuzahlen.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/5139dd.webp",
-          "publishedAt": "2026-11-25T10:54:09.000Z",
-          "titleEn": "Online fraud alleged  ⁇  The trading scam: How Roman lost his fortune",
-          "summaryEn": "Almost every day, Roman called supposed counselors. They forced him to pay over 200 000 francs."
-        },
-        {
-          "title": "Wegen Sanktionen – Nordkorea schliesst Schweizer Büro – was bedeutet das?",
-          "link": "https://www.srf.ch/news/schweiz/wegen-sanktionen-nordkorea-schliesst-schweizer-buero-was-bedeutet-das",
-          "summary": "Das erst kürzlich eröffnete Verbindungsbüro der Schweiz in Nordkorea wird schon wieder geschlossen. Was dahinter steckt.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/9475d8.webp",
-          "publishedAt": "2026-11-25T15:31:36.000Z",
-          "titleEn": "Because of sanctions, North Korea is closing its Swiss office. What does that mean?",
-          "summaryEn": "Switzerland's newly opened liaison office in North Korea is now closed again. What's behind it."
-        },
-        {
-          "title": "Schneepracht – Berge im Winterkleid: Wo wie viel Schnee liegt",
-          "link": "https://www.srf.ch/meteo/meteo-stories/schneepracht-willkommen-im-winter",
-          "summary": "In den Bergen ist es diese Woche richtig winterlich geworden.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/2175d8.webp",
-          "publishedAt": "2026-11-25T15:32:49.000Z",
-          "titleEn": "Snowfall  ⁇  Mountains in Winter Clothes: Where is the amount of snow",
-          "summaryEn": "In the mountains, it's been really winter this week."
         }
       ]
     },
@@ -109,97 +95,77 @@
         "homepage": "https://www.nzz.ch",
         "lang": "de-CH"
       },
-      "fetchedAt": "2026-11-25T18:41:18.310Z",
+      "fetchedAt": "2026-11-26T06:53:30.679Z",
       "items": [
         {
-          "title": "MELDUNGEN WIRTSCHAFT - Erneute Kursverluste an den US-Börsen",
-          "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
-          "summary": "Die neuesten Meldungen aus der Wirtschaft.",
-          "image": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
-          "publishedAt": "2026-11-25T18:08:45.000Z",
-          "titleEn": "The Commission also notes that the Commission's findings are based on the information provided by the Commission.",
-          "summaryEn": "The latest news from the economy."
+          "title": "Nvidia stoppt Chip-Lieferungen in vier südasiatische Länder",
+          "link": "https://www.nzz.ch/wirtschaft/nvidia-stoppt-chip-lieferungen-in-vier-suedasiatische-laender-ld.10075191",
+          "summary": "Der Chipentwickler reagiert mit dem Lieferstopp auf die neuen Exportvorschriften des amerikanischen Handelsministeriums.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/12/daf4e364-3fd2-4c83-acaa-8161c2f3f8e6.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5553,5553,x1388,y0",
+          "publishedAt": "2026-11-26T06:29:54.000Z"
         },
         {
-          "title": "KOMMENTAR - Trumps neue Zölle: Die Begründungen wechseln, der Irrweg bleibt",
-          "link": "https://www.nzz.ch/meinung/trumps-neue-zoelle-die-gruende-wechseln-der-irrweg-bleibt-ld.10074665",
-          "summary": "Wieder hat Washington in die Trickkiste gegriffen und Zölle verhängt. Das ist teurer Unsinn – in einer Zeit, in der die Amerikaner Entlastung im Portemonnaie brauchen statt noch höhere Preise.",
-          "image": "https://img-msp-prod.nzz.ch/2021/10/17/4c1e1202-426a-4203-8e60-0080f40e1bf3.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3333,3333,x999,y0",
-          "publishedAt": "2026-11-25T18:05:55.000Z",
-          "titleEn": "COMMENTARY - Trump's new tariffs: the grounds change, the error remains",
-          "summaryEn": "Washington's again grabbed the trick box and imposed tariffs. That's expensive nonsense  ⁇  at a time when Americans need relief in their wallets instead of even higher prices."
+          "title": "LIVE-TICKER - Die USA nach den Midterms: Gericht stoppt staatlichen Druck auf den Sender ABC",
+          "link": "https://www.nzz.ch/international/die-usa-nach-den-midterms-trotz-harscher-kritik-bezeichnet-trump-putin-erneut-als-freund-ld.10056111",
+          "summary": "Die neuesten Meldungen aus den USA während der zweiten Amtszeit von Präsident Donald Trump.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/24/5c2b0ab0-5170-4be5-bab9-0ce2d246be69.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3446,3446,x521,y0",
+          "publishedAt": "2026-11-26T05:29:51.000Z"
         },
         {
-          "title": "Trump droht mit neuen Zöllen wegen Überkapazitäten – doch die EU will die USA lieber als Verbündete gegen China",
-          "link": "https://www.nzz.ch/wirtschaft/trump-droht-mit-neuen-zoellen-wegen-ueberkapazitaeten-doch-die-eu-will-die-usa-lieber-als-verbuendete-gegen-china-ld.10074714",
-          "summary": "Amerikanische Zolldrohungen werden von der EU nicht mehr besonders ernst genommen. Gerade Europas industrielle Schwergewichte, darunter Deutschland, haben derzeit andere Sorgen.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/01/09dc775e-c7bf-47dc-936f-efa215ec65ec.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1989,1989,x733,y0",
-          "publishedAt": "2026-11-25T17:23:05.000Z",
-          "titleEn": "Trump is threatening to impose new tariffs on overcapacity, but the EU wants the United States more than allies against China.",
-          "summaryEn": "US customs threats are no longer taken particularly seriously by the EU. In particular, the industrial heavyweights of Europe, including Germany, have other concerns at present."
+          "title": "Lieben die Deutschen ihre Demokratie? Niemand weiss es. Denn verteidigen sollen sie andere",
+          "link": "https://www.nzz.ch/meinung/lieben-die-deutschen-ihre-demokratie-niemand-weiss-es-denn-verteidigen-sollen-sie-andere-ld.10065316",
+          "summary": "«German Angst» hat Tradition: vom Waldsterben, das so nie eintrat, bis zum Atomausstieg, der sich mittlerweile als strategischer Fehler erweist. Was soll aus dem Volk der Besorgten noch werden?",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/25/dcf2bb27-deba-47bb-8c9b-c7e80dec2d88.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3744,3744,x936,y0",
+          "publishedAt": "2026-11-26T04:38:00.000Z"
         },
         {
-          "title": "Donald Trump droht der Schweiz mit Zöllen von bis zu 20 Prozent – und erhebt happige Vorwürfe gegen Bern",
-          "link": "https://www.nzz.ch/wirtschaft/trump-will-die-zoelle-erneut-erhoehen-aber-der-15-prozent-deal-mit-der-schweiz-duerfte-halten-ld.10074146",
-          "summary": "Die wichtigsten Handelspartner der USA müssen wegen angeblicher Überkapazitäten mit zusätzlichen Zöllen rechnen. Für die Schweiz bleibt es vorerst beim vereinbarten Maximalzoll von 15 Prozent.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/25/f239b9b2-87bc-40c6-98d8-b30a67a0505f.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2505,2505,x626,y0",
-          "publishedAt": "2026-11-25T16:59:46.000Z",
-          "titleEn": "Donald Trump threatens Switzerland with tariffs of up to 20 percent and raises heated accusations against Bern",
-          "summaryEn": "The main US trading partners have to expect additional duties due to alleged overcapacity. For the moment, the maximum agreed duty rate for Switzerland is 15%."
+          "title": "KOMMENTAR - Rettet das Privateigentum!",
+          "link": "https://www.nzz.ch/meinung/rettet-das-privateigentum-ld.10068640",
+          "summary": "In Deutschland und anderen westlichen Ländern steht das Privateigentum politisch zunehmend unter Beschuss. Das ist eine Gefahr für Frieden, Freiheit und Wohlstand.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/20/0ca43d6d-18cd-42db-9003-32d2b2b1134a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1933,1933,x662,y0",
+          "publishedAt": "2026-11-26T04:35:00.000Z"
         },
         {
-          "title": "Im Bistum Lugano endet ein mehrjähriges Provisorium",
-          "link": "https://www.nzz.ch/schweiz/im-bistum-lugano-endet-ein-mehrjaehriges-provisorium-ld.10074406",
-          "summary": "Der Papst ernennt Mauro Lepori und Alain de Raemy zu ordentlichen Bischöfen von Lugano und Sitten. Die Pressekonferenz wird zu einem Abschied unter Tränen.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/25/2904fe0a-9f8a-4fac-88c8-f848b872dfb5.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2334,2333,x5199,y3171",
-          "publishedAt": "2026-11-25T16:56:05.000Z",
-          "titleEn": "In the Diocese of Lugano, a multiannual interim period ends",
-          "summaryEn": "The Pope appoints Mauro Lepori and Alain de Raemy as ordinary bishops of Lugano and Morales. The press conference will turn into a tearful farewell."
+          "title": "Der streitbare Quarterback Aaron Rodgers verabschiedet sich mitten in der Saison mit einem Interview für die Ewigkeit in den Ruhestand – seinem Coach wirft er vor, bei Team-Meetings zu schnarchen",
+          "link": "https://www.nzz.ch/sport/weitere-sportarten/der-streitbare-quarterback-aaron-rodgers-verabschiedet-sich-mitten-in-der-saison-mit-einem-interview-fuer-die-ewigkeit-in-den-ruhestand-seinem-coach-wirft-er-vor-bei-team-meetings-zu-schnarchen-ld.10074994",
+          "summary": "Aaron Rodgers war immer für eine Kontroverse gut. Am Mittwoch sorgt er für den vermutlich letzten grossen Knall seiner langen Karriere – und liefert einmal mehr königliche Unterhaltung.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/22/711ae63f-2f69-48d8-96c2-854c8af9e0f6.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5760,5760,x1440,y0",
+          "publishedAt": "2026-11-26T04:30:00.000Z"
         },
         {
-          "title": "Überraschender Rücktritt aus dem Ständerat – grosse Blutauffrischung für die kleine Kammer",
-          "link": "https://www.nzz.ch/schweiz/ueberraschender-ruecktritt-aus-dem-staenderat-grosse-blutauffrischung-fuer-die-kleine-kammer-ld.10074480",
-          "summary": "Der Zuger Ständerat Matthias Michel tritt bei den Wahlen 2027 nicht an. Sein Abschied aus Bern kommt unerwartet. Nicht nur sein Rücktritt setzt die FDP unter Druck.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/25/12ac1998-c96e-4c68-b555-7c2de4196d04.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2900,2900,x934,y457",
-          "publishedAt": "2026-11-25T16:30:00.000Z",
-          "titleEn": "Surprising resignation from the Council of State  ⁇  big bloodshed for the small chamber",
-          "summaryEn": "The Zuger state councilman Matthias Michel will not run in the 2027 elections. His farewell from Bern comes unexpectedly. Not only is his resignation putting pressure on the FDP."
+          "title": "Trump baut seine Zollmauer wieder auf – und niemand kann ihn so schnell stoppen",
+          "link": "https://www.nzz.ch/wirtschaft/trump-baut-seine-zollmauer-wieder-auf-und-niemand-kann-ihn-so-schnell-stoppen-ld.10074659",
+          "summary": "Der amerikanische Präsident könnte noch stärker auf neue Zölle setzen, weil sein übriger Spielraum in Washington schrumpft. Die Gerichte oder der Kongress könnten seine Strategie aushebeln, doch die Erfolgsaussichten…",
+          "image": "https://img-msp-prod.nzz.ch/2025/04/10/aea5429c-f940-4598-ab1e-a7d57c67261d.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3447,3447,x862,y0",
+          "publishedAt": "2026-11-26T04:30:00.000Z"
         },
         {
-          "title": "VIDEO - Ein Umweltaktivist schwimmt durch die Strasse von Hormuz",
-          "link": "https://www.nzz.ch/shorts/ein-umweltaktivist-schwimmt-durch-die-strasse-von-hormuz-ld.10074767",
-          "summary": "Der britische Ausdauersportler Lewis Pugh ist durch die Strasse von Hormuz geschwommen, um auf die massiven Ölverschmutzungen und Umweltschäden durch den Krieg aufmerksam zu machen.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/21/40b9f0c1-aead-4a59-ac01-ff970f4ad4ff.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x1000,y0",
-          "publishedAt": "2026-11-25T16:16:11.000Z",
-          "titleEn": "VIDEO - Environmental activist swimming through the street of Hormuz",
-          "summaryEn": "British endurance athlete Lewis Pugh swam through the Strait of Hormuz to draw attention to the massive oil pollution and environmental damage caused by the war."
+          "title": "«Das Schlimmste ist, dass wir vielleicht die Wahrheit nie erfahren»: Republikaner reagieren alarmiert auf Jensen Huangs Rückkehr zu Nvidia",
+          "link": "https://www.nzz.ch/international/jensen-huang-zurueck-als-nvidia-ceo-republikaner-sind-alarmiert-ld.10074484",
+          "summary": "Im amerikanischen Kongress ist die Empörung nach Trumps beispielloser Intervention beim Verwaltungsrat des Chipherstellers gross. Führende Republikaner sehen die nationale Sicherheit gefährdet.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/25/8bf58b10-8024-4969-a05b-d73523756fca.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2849,2849,x712,y0",
+          "publishedAt": "2026-11-26T04:30:00.000Z"
         },
         {
-          "title": "Umfrage: Die SVP sichert sich die stärkste Position im Zürcher Kantonsparlament, die SP folgt auf dem zweiten Platz",
-          "link": "https://www.nzz.ch/zuerich/umfrage-die-svp-sichert-sich-die-staerkste-position-im-zuercher-kantonsparlament-die-sp-folgt-auf-dem-zweiten-platz-ld.10072565",
-          "summary": "Das Wohnen und die Krankenkassenprämien sind zwei Themen, welche die Wähler besonders beschäftigen.",
-          "image": "https://img-msp-prod.nzz.ch/2022/02/14/d0c665f9-88f9-49c2-9a61-42766c1457f4.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3712,3712,x1234,y0",
-          "publishedAt": "2026-11-25T16:02:45.000Z",
-          "titleEn": "Poll: The SVP secures the strongest position in the Zurich Canton Parliament, the SP comes second",
-          "summaryEn": "Housing and health insurance premiums are two topics which are of particular concern to the electorate."
+          "title": "BILDSTRECKE - Vor 50 Jahren eroberte Punk die Welt. Ein Rückblick auf die Anfänge einer lärmenden Rebellion",
+          "link": "https://www.nzz.ch/fotografie/vor-50-jahren-eroberte-punk-die-welt-ein-rueckblick-auf-die-anfaenge-einer-laermenden-rebellion-ld.10074341",
+          "summary": "Iggy Pop ebnete den musikalischen Weg, die Sex Pistols provozierten das britische Establishment, Vivienne Westwood prägte die Mode des Punk. Innert kurzer Zeit entwickelte sich eine Musikrichtung zur Jugendbewegung –…",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/25/025cb2c9-7822-44d6-b99c-d6487a635f15.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2649,2649,x674,y0",
+          "publishedAt": "2026-11-26T04:30:00.000Z"
         },
         {
-          "title": "Kippt die bürgerliche Mehrheit im Kanton Zürich? Die erste Umfrage zu den Regierungsratswahlen liefert eine grosse Überraschung",
-          "link": "https://www.nzz.ch/zuerich/kippt-die-buergerliche-mehrheit-im-kanton-zuerich-die-erste-umfrage-zu-den-regierungsratswahlen-liefert-eine-grosse-ueberraschung-ld.10073422",
-          "summary": "Der SVP droht ein Sitzverlust, profitieren würde die SP. Im bürgerlichen Bündnis gibt man sich trotzdem noch gelassen.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/25/3b4f6732-5858-4580-aec9-0a0aa25d88f0.png?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1831,1831,x564,y129",
-          "publishedAt": "2026-11-25T16:00:00.000Z",
-          "titleEn": "Is the bourgeois majority in the canton of Zurich stagnant? The first survey on the government council elections is a big surprise",
-          "summaryEn": "The SVP threatens to lose seats, the SP would benefit. In the bourgeois alliance, however, one still gives oneself up."
+          "title": "KOMMENTAR - Angriffe auf russische Schiffe: Der Kreml erntet, was er gesät hat",
+          "link": "https://www.nzz.ch/meinung/angriffe-auf-russische-schiffe-der-kreml-erntet-was-er-gesaet-hat-ld.10074299",
+          "summary": "Die Ukraine macht Jagd auf russische Schiffe weitab des osteuropäischen Kriegsschauplatzes. Das wirft die Frage auf, ob dies legal oder politisch klug ist.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/23/6784e192-858c-48e1-85fa-2e0f00ce7762.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1654,1654,x694,y0",
+          "publishedAt": "2026-11-26T04:30:00.000Z"
         },
         {
-          "title": "INTERVIEW - «Teilweise sind die Stromer-Preise tiefer als die der Verbrenner»",
-          "link": "https://www.nzz.ch/mobilitaet/teilweise-sind-die-stromer-preise-tiefer-als-die-der-verbrenner-ld.10072495",
-          "summary": "Dirk Adelmann führt seit März Mercedes Schweiz. Im Interview spricht er über seinen schwierigen Start, teure CO2-Strafen und was Mercedes von China lernen kann.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/23/55ca34e6-2ee5-46e9-81bc-7e2dd2d871f2.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2667,2667,x610,y0",
-          "publishedAt": "2026-11-25T16:00:00.000Z",
-          "titleEn": "INTERVIEW -  ⁇ In some cases, electricity prices are lower than those of combustion plants ⁇",
-          "summaryEn": "Dirk Adelmann has been driving Mercedes Switzerland since March. In the interview, he talks about his difficult start, expensive CO2 penalties, and what Mercedes can learn from China."
+          "title": "KOMMENTAR - Die Kosten für die Pflege durch Angehörige sind ausser Kontrolle – der Bundesrat hat das Thema zu lange vernachlässigt",
+          "link": "https://www.nzz.ch/meinung/die-kosten-fuer-die-pflege-durch-angehoerige-sind-ausser-kontrolle-der-bundesrat-hat-das-thema-zu-lange-vernachlaessigt-ld.10074200",
+          "summary": "Die Angehörigenpflege kostet die Prämienzahler dieses Jahr Hunderte Millionen Franken. Das Missbrauchspotenzial ist hoch. Dass es so weit kam, hat auch mit dem Bundesrat zu tun, der die Verantwortung lange auf die…",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/01/2a53329f-5e53-4f7b-ac7a-b1e35f9b1929.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x1000,y0",
+          "publishedAt": "2026-11-26T04:30:00.000Z"
         }
       ]
     },
@@ -210,15 +176,70 @@
         "homepage": "https://www.rts.ch/info/",
         "lang": "fr-CH"
       },
-      "fetchedAt": "2026-11-25T18:41:18.498Z",
+      "fetchedAt": "2026-11-26T06:53:31.316Z",
       "items": [
         {
-          "title": "Jusqu'à 2 mètres de neige au-dessus de 2000 mètres: la Suisse n'avait plus connu ça en novembre depuis 1987",
+          "title": "Mon enfant se confie à une intelligence artificielle: comment réagir?",
+          "link": "https://www.rts.ch/info/societe/2026/article/enfants-et-ia-comment-reagir-si-votre-enfant-s-y-confie-29424725.html?rts_source=rss_t",
+          "summary": "Entre devoirs et discussions du soir, les IA tiennent de plus en plus le rôle de confidents pour les adultes comme pour les enfants. Dans l’émission jeunesse OKI, des élèves romands témoignent et le psychologue Niels…",
+          "image": "https://img.rts.ch/medias/2026/image/58d59981-29403733.image?w=320&h=180",
+          "publishedAt": "2026-11-26T05:32:41.000Z"
+        },
+        {
+          "title": "L'Australie va permettre de désactiver les algorithmes sur les réseaux sociaux",
+          "link": "https://www.rts.ch/info/sciences-tech/2026/article/l-australie-oblige-les-reseaux-sociaux-a-desactiver-leurs-algorithmes-29428265.html?rts_source=rss_t",
+          "summary": "Le Parlement australien a adopté mercredi une loi imposant aux réseaux sociaux que les internautes puissent désactiver les algorithmes personnalisés et de fortes amendes pour les plateformes qui ne suppriment pas les…",
+          "image": "https://img.rts.ch/articles/2026/image/3fed9d2d-29428273.image?w=320&h=180",
+          "publishedAt": "2026-11-26T04:09:53.000Z"
+        },
+        {
+          "title": "Andy Taylor, ancien guitariste de Duran Duran, décède d'un cancer à 65 ans",
+          "link": "https://www.rts.ch/info/culture/2026/article/duran-duran-mort-du-guitariste-andy-taylor-des-suites-d-un-cancer-29428252.html?rts_source=rss_t",
+          "summary": "L'ancien guitariste du groupe britannique Duran Duran, Andy Taylor, est décédé des suites d'un cancer de la prostate, ont annoncé mercredi sa famille et la formation phare de la new wave des années 1980.",
+          "image": "https://img.rts.ch/articles/2026/image/f9affc1f-29428251.image?w=320&h=180",
+          "publishedAt": "2026-11-26T02:29:55.000Z"
+        },
+        {
+          "title": "Plus de 1000 personnes manifestent à Lausanne contre les violences faites aux femmes",
+          "link": "https://www.rts.ch/info/suisse/2026/article/violences-faites-aux-femmes-plus-de-1-000-personnes-a-lausanne-29428235.html?rts_source=rss_t",
+          "summary": "Plus de 1000 personnes ont manifesté mercredi soir à Lausanne pour dire stop aux violences envers les femmes. Parties de Montbenon, elles ont défilé jusqu'à la place de la Riponne derrière la banderole \"On ne naît pas…",
+          "image": "https://img.rts.ch/articles/2026/image/5d1eef81-29428239.image?w=320&h=180",
+          "publishedAt": "2026-11-26T01:06:22.000Z"
+        },
+        {
+          "title": "Méprisé mais omniprésent, le ketchup trouve ses défenseurs à Berlin",
+          "link": "https://www.rts.ch/info/societe/2026/article/ketchup-deux-auteurs-berlinois-rehabilitent-la-sauce-29428085.html?rts_source=rss_t",
+          "summary": "Symbole de la malbouffe pour les uns, sauce capable de réunir les cinq saveurs fondamentales pour les autres: deux auteurs berlinois prennent la défense du ketchup dans un ouvrage à la fois historique, gastronomique et…",
+          "image": "https://img.rts.ch/articles/2026/image/3a4b9d8c-29427737.image?w=320&h=180",
+          "publishedAt": "2026-11-25T22:09:41.000Z"
+        },
+        {
+          "title": "En Suisse, des algorithmes controversés évaluent le risque de récidive et influencent les juges",
+          "link": "https://www.rts.ch/info/societe/2026/article/justice-en-suisse-des-algorithmes-estiment-le-risque-de-recidive-29427094.html?rts_source=rss_t",
+          "summary": "Pour juger du risque de récidive et décider d'une détention ou d'une remise en liberté, la justice pénale suisse s'appuie de plus en plus souvent sur des outils algorithmiques. L'enquête de Swissinfo révèle à quel point…",
+          "image": "https://img.rts.ch/info/societe/2026/image/18e01245-29427247.image?w=320&h=180",
+          "publishedAt": "2026-11-25T21:50:30.000Z"
+        },
+        {
+          "title": "L'UE inflige 432 millions de francs d'amendes à trois industriels du parfum, dont Firmenich et Givaudan",
+          "link": "https://www.rts.ch/info/monde/2026/article/cartel-des-parfums-432-millions-de-francs-d-amendes-de-l-ue-29427445.html?rts_source=rss_t",
+          "summary": "L'Union européenne a infligé mercredi un total de 431,95 millions de francs d'amendes aux trois plus grands industriels mondiaux de la parfumerie, les groupes suisses Firmenich et Givaudan ainsi que l'américain IFF, pour…",
+          "image": "https://img.rts.ch/articles/2026/image/9f28ecae-29427462.image?w=320&h=180",
+          "publishedAt": "2026-11-25T19:31:23.000Z"
+        },
+        {
+          "title": "L'UDC tente de colmater les brèches après la crise du ticket Aeschi-Graber",
+          "link": "https://www.rts.ch/info/suisse/2026/article/succession-parmelin-l-udc-tente-de-calmer-les-tensions-29427836.html?rts_source=rss_t",
+          "summary": "Le ticket Thomas Aeschi et Michael Graber pour succéder à Guy Parmelin au Conseil fédéral a mis le feu aux poudres à l'UDC. Ces deux Alémaniques de l'aile dure du parti divisent profondément les rangs. La semaine…",
+          "image": "https://img.rts.ch/articles/2026/image/cf670fc7-29428135.image?w=320&h=180",
+          "publishedAt": "2026-11-25T19:28:39.000Z"
+        },
+        {
+          "title": "Jusqu'à trois mètres de neige au-dessus de 2000 mètres en novembre: la Suisse n'avait plus connu ça depuis 1987",
           "link": "https://www.rts.ch/info/suisse/2026/article/neige-en-altitude-jusqu-a-2-metres-un-record-pour-novembre-depuis-1987-29427755.html?rts_source=rss_t",
           "summary": "Des perturbations atlantiques successives s'abattent sur les Alpes suisses depuis la mi-novembre. En montagne, le manteau neigeux dépasse déjà le mètre en de nombreux endroits, du jamais-vu à cette période depuis 1987.…",
-          "image": "https://img.rts.ch/medias/2026/image/439cf719-29427214.image?w=320&h=180",
+          "image": "https://img.rts.ch/medias/2026/image/967edf46-29427956.image?w=320&h=180",
           "publishedAt": "2026-11-25T18:23:05.000Z",
-          "titleEn": "Up to 2 meters of snow above 2,000 meters: Switzerland had not experienced this in November since 1987.",
           "summaryEn": "Atlantic disturbances have been occurring in the Swiss Alps since mid-November. In the mountains, the snow coat is already over a meter in many places, unprecedented since 1987. . . ."
         },
         {
@@ -229,78 +250,6 @@
           "publishedAt": "2026-11-25T17:51:35.000Z",
           "titleEn": "The Federal Council reviews its copy to counter the initiative for responsible companies",
           "summaryEn": "The Federal Council presented on Wednesday the outline of its indirect counter-project to the Responsible Enterprises Initiative. It intends to align itself with the European Union's guidelines for the regulation of..."
-        },
-        {
-          "title": "Les Etats-Unis veulent réimposer des droits de douane jusqu'à 15% à la Suisse, annonce Washington",
-          "link": "https://www.rts.ch/info/suisse/2026/article/droits-de-douane-les-etats-unis-menacent-la-suisse-de-15-29427324.html?rts_source=rss_t",
-          "summary": "Le représentant américain au commerce a proposé de nouveaux droits de douane allant jusqu'à 15% sur les importations venant de Suisse, le même que celui prévu pour l'UE. Des exceptions s'appliqueront à certaines…",
-          "image": "https://img.rts.ch/medias/2026/image/vtqa4j-29309206.image?w=320&h=180",
-          "publishedAt": "2026-11-25T17:46:00.000Z",
-          "titleEn": "The United States wants to reimpose tariffs of up to 15% on Switzerland, says Washington",
-          "summaryEn": "The US Trade Representative has proposed new customs duties of up to 15% on imports from Switzerland, the same as those foreseen for the EU. Exceptions will apply to certain..."
-        },
-        {
-          "title": "Pourquoi Anthropic, ce géant de l'intelligence artificielle, agite-t-il la Bourse?",
-          "link": "https://www.rts.ch/info/sciences-tech/2026/article/anthropic-pourquoi-le-geant-de-l-ia-agite-la-bourse-29427738.html?rts_source=rss_t",
-          "summary": "Anthropic, l’entreprise qui a créé l’assistant IA Claude, a fait une entrée fracassante en Bourse le 19 novembre, levant plus de 81 milliards de dollars le premier jour. Malek Dahmani, responsable de la recherche actions…",
-          "image": "https://img.rts.ch/articles/2026/image/7f75cc40-29427710.image?w=320&h=180",
-          "publishedAt": "2026-11-25T17:18:01.000Z",
-          "titleEn": "Why is Anthropic, this artificial intelligence giant, trading the stock market?",
-          "summaryEn": "Anthropic, the company that created AI assistant Claude, went public on November 19, raising over $81 billion on the first day. Malek Dahmani, head of the stock research..."
-        },
-        {
-          "title": "Le Parlement européen approuve les accords entre la Suisse et l'UE",
-          "link": "https://www.rts.ch/info/suisse/2026/article/bilaterales-iii-le-parlement-europeen-approuve-les-accords-29427634.html?rts_source=rss_t",
-          "summary": "Le Parlement européen a approuvé mercredi à Strasbourg le paquet d'accords avec la Suisse. Avec 584 voix pour, 13 contre et 60 abstentions, les nouveaux accords ont reçu un large soutien.",
-          "image": "https://img.rts.ch/articles/2026/image/ba468cab-29427679.image?w=320&h=180",
-          "publishedAt": "2026-11-25T17:03:45.000Z",
-          "titleEn": "Parliament approves the agreements between Switzerland and the EU",
-          "summaryEn": "The European Parliament approved the package of agreements with Switzerland on Wednesday in Strasbourg. With 584 votes in favour, 13 against and 60 abstentions, the new agreements received widespread support."
-        },
-        {
-          "title": "Encore une nouvelle plainte pour viol déposée contre Patrick Bruel",
-          "link": "https://www.rts.ch/info/monde/2026/article/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol-29427542.html?rts_source=rss_t",
-          "summary": "Une nouvelle plainte pour viol a été déposée contre le chanteur et comédien français Patrick Bruel, déjà inculpé pour viol et agression sexuelle, a indiqué mercredi l'avocate de la plaignante, confirmant une information…",
-          "image": "https://img.rts.ch/articles/2026/image/0ce07306-29427557.image?w=320&h=180",
-          "publishedAt": "2026-11-25T16:35:58.000Z",
-          "titleEn": "Another rape complaint filed against Patrick Bruel.",
-          "summaryEn": "A new rape complaint has been filed against French singer and comedian Patrick Bruel, already charged with rape and sexual assault, the complainant's lawyer said on Wednesday, confirming information..."
-        },
-        {
-          "title": "Les coûts de la maternité seront pris en charge dès le début de la grossesse",
-          "link": "https://www.rts.ch/info/sante/2026/article/grossesse-les-soins-de-maternite-pris-en-charge-des-le-debut-29427347.html?rts_source=rss_t",
-          "summary": "Dès l'an prochain, les femmes enceintes ne paieront plus ni franchise maladie ni quote-part dès le début de leur grossesse, et non plus dès la 13e semaine. Cette mesure s'inscrit dans un paquet plus large adopté mercredi…",
-          "image": "https://img.rts.ch/articles/2026/image/2b1daf5d-29427476.image?w=320&h=180",
-          "publishedAt": "2026-11-25T16:01:48.000Z",
-          "titleEn": "Maternity costs will be covered from the beginning of pregnancy",
-          "summaryEn": "From next year, pregnant women will no longer pay sick leave or allowance from the beginning of their pregnancy, nor from the 13th week. This measure is part of a broader package adopted on Wednesday..."
-        },
-        {
-          "title": "Jugé trop \"woke\", GTA VI fait hurler les milieux masculinistes",
-          "link": "https://www.rts.ch/info/societe/2026/article/gta-vi-le-jeu-suscite-la-colere-des-milieux-masculinistes-29427039.html?rts_source=rss_t",
-          "summary": "Depuis sa sortie, GTA VI suscite la colère des milieux masculinistes. En cause: une héroïne au caractère trop \"dominant\", un personnage masculin jugé \"soumis\" et des scènes du quotidien qui valorisent l'attention portée…",
-          "image": "https://img.rts.ch/articles/2026/image/4c12a5ab-29427165.image?w=320&h=180",
-          "publishedAt": "2026-11-25T15:49:09.000Z",
-          "titleEn": "Judged too \"woke up\", GTA VI makes the male world scream",
-          "summaryEn": "Since its release, GTA VI has sparked outrage among the male-dominated circles. The problem: a heroine with too \"dominant\" character, a male character judged \"submissive\" and scenes of everyday life that value attention..."
-        },
-        {
-          "title": "Charles Berberian fait dialoguer poésie, dessin et musique dans 'La Cité des arbres bleus'",
-          "link": "https://www.rts.ch/info/culture/livres/2026/article/la-cite-des-arbres-bleus-le-nouveau-livre-de-charles-berberian-29421924.html?rts_source=rss_t",
-          "summary": "Dans 'La Cité des arbres bleus', l'auteur de bande dessinée et musicien français Charles Berberian mêle aquarelles, dessins, poèmes et confidences. Et raconte comment la poésie s’est installée dans sa vie et nourrit son…",
-          "image": "https://img.rts.ch/articles/2026/image/b331330a-29427618.image?w=320&h=180",
-          "publishedAt": "2026-11-25T14:59:29.000Z",
-          "titleEn": "Charles Berberian talks about poetry, drawing and music in 'The City of Blue Trees'",
-          "summaryEn": "In 'The City of Blue Trees', French comic book writer and musician Charles Berberian mixes watercolors, drawings, poems and confidences. And tell me how poetry has settled into his life and nurtured his..."
-        },
-        {
-          "title": "Ski alpin - Federica Brignone annonce sa retraite",
-          "link": "https://www.rts.ch/sport/2026/article/ski-alpin-federica-brignone-met-un-terme-a-sa-carriere-29427423.html?rts_source=rss_t",
-          "summary": "Federica Brignone met un terme à sa carrière. L'Italienne de 36 ans avait remporté en février dernier les médailles d'or du super-G et du géant aux Jeux olympiques de Milan-Cortina.",
-          "image": "https://img.rts.ch/articles/2026/image/1754f8f1-29427432.image?w=320&h=180",
-          "publishedAt": "2026-11-25T14:57:25.000Z",
-          "titleEn": "Alpine skiing - Federica Brignone announces her retirement",
-          "summaryEn": "Federica Brignone is ending her career. The 36-year-old Italian won the gold medals in the super-G and giant at the Milan-Cortina Olympics last February."
         }
       ]
     }
