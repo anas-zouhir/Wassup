@@ -8,97 +8,77 @@
         "homepage": "https://www.sme.sk",
         "lang": "sk"
       },
-      "fetchedAt": "2026-11-27T06:56:30.051Z",
+      "fetchedAt": "2026-11-27T18:45:51.265Z",
       "items": [
         {
-          "title": "Šutaj Eštok spúšťa veľké sťahovanie. Ako vybral drahý nájom, ukázať nechce",
-          "link": "https://www.sme.sk/domov/c/sutaj-estok-spusta-velke-stahovanie-ako-vybral-drahy-najom-ukazat-nechce?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
-          "summary": "V internom prieskume vraj posudzovali viaceré budovy, no poradie si nezostavili.",
-          "image": "https://image.smedata.sk/image/w660-h440/01a2177f-be13-7a4e-a2c1-168a531e7f48.jpg",
-          "publishedAt": "2026-11-26T17:06:55.000Z",
-          "titleEn": "Shutterstock is triggering a big move. How he picked up the expensive rent, doesn't want to show",
-          "summaryEn": "They said they evaluated several buildings in the internship survey, but they didn't make an order."
+          "title": "Líbya sa po ukrajinskom útoku vyhráža. Ako prebehol a ako sa tam Ukrajinci vôbec dostali?",
+          "link": "https://www.sme.sk/svet/c/libya-sa-po-ukrajinskom-utoku-vyhraza-ako-prebehol-a-ako-sa-tam-ukrajinci-vobec-dostali?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
+          "summary": "Ozvalo sa aj Taliansko.",
+          "image": "https://image.smedata.sk/image/w660-h440/01a21d89-49c7-75c4-8cf7-c72b08550bda.jpg",
+          "publishedAt": "2026-11-27T16:41:00.000Z"
         },
         {
-          "title": "Prečo elektroautám tak výrazne klesá hodnota? Porovnali sme náklady so spaľovacím motorom na Slovensku",
+          "title": "Nejde o to, kto má pravdu, povedal Kushner. Putina označil za politického veľmajstra",
+          "link": "https://www.sme.sk/svet/c/nejde-o-to-kto-ma-pravdu-povedal-kushner-putina-oznacil-za-politickeho-velmajstra?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
+          "summary": "Priznal, že k mierovým rokovaniam pristupuje ako ku golfu.",
+          "image": "https://image.smedata.sk/image/w660-h440/01a12198-bbec-7f2e-8e6e-448cf34e33f5.jpg",
+          "publishedAt": "2026-11-27T15:28:18.000Z"
+        },
+        {
+          "title": "Ruská príprava na slovenské voľby (píše Michal Havran)",
+          "link": "https://www.sme.sk/komentare/c/ruska-priprava-na-slovenske-volby-pise-michal-havran?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
+          "summary": "Ruská strana sa rozhodla, že predvolebná kampaň začne už v predvianočnom období.",
+          "image": "https://image.smedata.sk/image/w660-h440/019f9fc4-4981-7e28-880f-f34a40b5718e.jpg",
+          "publishedAt": "2026-11-25T12:15:51.000Z"
+        },
+        {
+          "title": "Nezachránia nás ani Indovia a Uzbeci. Pôrodnosť u nás výrazne klesá a veľa pracujúcich odchádza do cudziny",
+          "link": "https://www.sme.sk/domov/c/slovensko-sa-vyprazdnuje-najmenej-dvanast-percent-deti-sa-rodi-mimo-nasej-krajiny?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
+          "summary": "Mimo našej krajiny žije vyše 1,7 milióna Slovákov.",
+          "image": "https://image.smedata.sk/image/w660-h440/019eb1d1-14af-710b-93ee-359c9cf4f8c7.jpg",
+          "publishedAt": "2026-11-26T19:35:04.000Z"
+        },
+        {
+          "title": "V Poľsku stojí najužší dom sveta. Má len 72 cm a napriek tomu sa v ňom dá bývať",
+          "link": "https://www.sme.sk/closer/c/byvanie-najuzsi-dom-sveta-polsko-architekt-varsava?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
+          "summary": "Architekt Jakub Szczęsny rozpráva o projekte Keret House.",
+          "image": "https://image.smedata.sk/image/w660-h440/01a21c0f-6694-7528-91a0-652531171780.jpg",
+          "publishedAt": "2026-11-27T10:44:28.000Z"
+        },
+        {
+          "title": "Najstaršie zlato v histórii Trnavy takmer skončilo na skládke, objavili ho iba vďaka náhode",
+          "link": "https://my.sme.sk/trnava/c/vsimol-si-bager-pri-vystavbe-domu-a-pytal-si-povolenie-od-pamiatkarov-vdaka-tomu-objavili-najstarsi-artefakt-zo-zlata?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
+          "summary": "Raritný zlatý šperk pochádza z doby bronzovej.",
+          "image": "https://image.smedata.sk/image/w660-h440/01a218a6-596d-7e24-8c11-441dbb7d0a36.jpg",
+          "publishedAt": "2026-11-26T16:24:59.000Z"
+        },
+        {
+          "title": "Prvé vleky štartujú už cez víkend. Koľko si tento rok vypýtajú slovenské strediská (prehľad)",
+          "link": "https://www.sme.sk/index/c/skipas-v-top-sezone-uz-za-vyse-80-eur-cez-vikend-sa-zacina-lyzovat-pozrite-si-ceny?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
+          "summary": "Záujem o zimnú lyžovačku je zatiaľ porovnateľný s minulým rokom.",
+          "image": "https://image.smedata.sk/image/w660-h440/01a03948-23e5-7ea4-8f23-d736a8ccb785.jpg",
+          "publishedAt": "2026-11-27T10:26:26.000Z"
+        },
+        {
+          "title": "Príklepy z NHL: Slafkovský je v jednej štatistike úplne najhorší. Je tam však nádej, že góly prídu",
+          "link": "https://sportnet.sme.sk/spravy/hokej-priklepy-z-nhl-8-diel-nhl-2026-2027?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
+          "summary": "Rubrika Príklepy z NHL prináša 10 kategórií: Príbeh, tím, hráč, Slovák, prekvapenie, sklamanie, kuriozita, štatistika, zápas a gól týždňa.",
+          "image": "https://image.smedata.sk/image/w660-h440/01a21d29-48a8-7e2d-a357-4feff7492c2b.jpg",
+          "publishedAt": "2026-11-27T13:20:00.000Z"
+        },
+        {
+          "title": "Ficovej vláde hrozí nová vlna tlaku. Europoslanci chcú pritlačiť na Komisiu, aby jej zmrazila eurofondy",
+          "link": "https://eubrief.sme.sk/europska-politika/c/ficovej-vlade-hrozi-nova-vlna-tlaku-europoslanci-chcu-pritlacit-na-komisiu-aby-jej-zmrazila-eurofondy?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
+          "summary": "Europoslanci dali najavo, že tému zmrazenia slovenských eurofondov nehodlajú nechať tak. Komisiu chcú čoskoro primäť k ráznejšiemu postupu voči vláde.",
+          "image": "https://image.smedata.sk/image/w660-h440/01a21d12-1948-724c-9da1-b6decbda0b20.jpg",
+          "publishedAt": "2026-11-27T14:59:32.000Z"
+        },
+        {
+          "title": "Elektroauto vs. spaľovanie? Porovnali sme náklady, jeden parameter je výrazne v neprospech batérií",
           "link": "https://www.sme.sk/index/c/elektroauto-vs-spalovaci-motor-porovnali-sme-naklady-jeden-parameter-je-vyrazne-v-neprospech-baterii?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
-          "summary": "Lacné vozenie, drahý odpis. Pozrite si matematiku elektroáut.",
+          "summary": "Lacné vozenie, drahý odpis. Pozrite si matematiku elektroáut na Slovensku",
           "image": "https://image.smedata.sk/image/w660-h440/01a218e5-031d-7600-9656-aa51332e5f3c.jpg",
-          "publishedAt": "2026-11-26T15:02:01.000Z",
-          "titleEn": "Why is the value of electric cars falling so sharply? We compared the cost to the combustion engine in Slovakia",
-          "summaryEn": "It's a cheap car, an expensive copy. Look at the math of the electric car."
-        },
-        {
-          "title": "Ferenčákovi menia Trestný zákon, Taraba sľubuje odhaľovať špinu",
-          "link": "https://www.sme.sk/komentare/c/od-ferencakovho-prikrmovania-po-tarabovo-toskansko?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
-          "summary": "Už vieme, prečo koalícia ešte stále existuje",
-          "image": "https://image.smedata.sk/image/w660-h440/01a2197c-19e9-7c7a-90b1-0d733cbba241.jpg",
-          "publishedAt": "2026-11-26T18:13:39.000Z",
-          "titleEn": "Ferenczak changes the Penal Code, Taraba promises to expose the dirt",
-          "summaryEn": "We already know why the coalition still exists."
-        },
-        {
-          "title": "Martin bol v Turecku na transplantácii vlasov: Najviac nebolel zákrok. Cena je nižšia, než čakáte",
-          "link": "https://www.sme.sk/closer/c/slovak-transplantacia-vlasy-turecko-lietadlo-zakrok?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
-          "summary": "Známy lovec leteniek celý zákrok zdokumentoval.",
-          "image": "https://image.smedata.sk/image/w660-h440/01a216ca-d3aa-79a0-90c1-561ce1de74d7.jpg",
-          "publishedAt": "2026-11-26T09:14:00.000Z",
-          "titleEn": "Martin was in Turkey for a hair transplant: he didn't like the procedure the most. The price is lower than you expect.",
-          "summaryEn": "A well-known bird hunter has documented the entire operation."
-        },
-        {
-          "title": "Ranný brífing: Koalícia ide opäť pomáhať svojim, Taraba služobnou kartou platil luxus",
-          "link": "https://www.sme.sk/domov/c/ranny-brifing-koalicia-ide-opat-pomahat-svojim-taraba-sluzobnou-kartou-platil-luxus?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
-          "summary": "Prečítajte alebo vypočujte si najdôležitejšie správy.",
-          "image": "https://image.smedata.sk/image/w660-h440/019d0268-9a8d-7ee6-969c-0bd1dfa90420.jpg",
-          "publishedAt": "2026-11-26T22:54:50.000Z",
-          "titleEn": "The Coalition is back to help their own, Taraba's service card paid for luxury",
-          "summaryEn": "Read or listen to the most important news."
-        },
-        {
-          "title": "Taraba platil zo služobnej karty noc v Toskánsku za 4 700 eur. Priúčali sme sa ochrane vinohradov, vraví exminister",
-          "link": "https://www.sme.sk/domov/c/taraba-platil-zo-sluzobnej-karty-noc-v-toskansku-za-4700-eur-informuje-360tka-priucali-sme-sa-ochrane-vinohradov-vravi-exminister?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
-          "summary": "Voči Chovanovi výbor začal konanie.",
-          "image": "https://image.smedata.sk/image/w660-h440/01a2184a-32dd-7048-891e-0ca78dae636e.jpg",
-          "publishedAt": "2026-11-26T15:32:51.000Z",
-          "titleEn": "Taraba paid a fee of €4,700 from the official card for the night in Tuscany. We've committed ourselves to the protection of the vineyards, says the former minister",
-          "summaryEn": "In the eyes of Chovan, the committee has begun its proceedings."
-        },
-        {
-          "title": "Bratislava si založila vlastný podnik, súkromným firmám však zaplatila 37,6 milióna eur",
-          "link": "https://www.sme.sk/domov/c/bratislava-zaplatila-miliony-dvom-firmam-za-pracu-ktoru-mal-robit-jej-vlastny-podnik-tvrdi-nku-mesto-hovori-o-skreslovani-informacii?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
-          "summary": "Správa NKÚ podľa mesta v niektorých informáciach zavádza.",
-          "image": "https://image.smedata.sk/image/w660-h440/01a0af7c-535c-7dbf-bd09-95ef13d05a45.jpg",
-          "publishedAt": "2026-11-26T17:51:22.000Z",
-          "titleEn": "Bratislava set up its own business, but paid EUR 37,6 million to private companies",
-          "summaryEn": "The NCI report by city in some information introduces."
-        },
-        {
-          "title": "Zatiaľ prerába státisíce. Tkáčova luxusná reštaurácia však pripravuje rozšírenie",
-          "link": "https://www.sme.sk/index/c/zatial-preraba-statisice-tkacova-luxusna-restauracia-vsak-pripravuje-rozsirenie?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
-          "summary": "Majiteľ objektu, v ktorom sídli ECK Restaurant, pripravil nový projekt.",
-          "image": "https://image.smedata.sk/image/w660-h440/019d1ea9-403c-79fc-abbf-0c2a7c84527f.jpg",
-          "publishedAt": "2026-11-25T08:31:09.000Z",
-          "titleEn": "He's still making hundreds of thousands. However, the luxury tailor's restaurant is preparing to expand",
-          "summaryEn": "The owner of the building where the ECK Restaurant is located has prepared a new project."
-        },
-        {
-          "title": "Moderátor Mareš oznámil koniec Duelu. STVR hovorí o vyčerpaní formátu a snahe zvýšiť sledovanosť",
-          "link": "https://www.sme.sk/domov/c/moderator-mares-oznamil-koniec-relacie-duel-stvr-hovori-o-vycerpani-formatu-a-snahe-zvysit-sledovanost?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
-          "summary": "Vedomostná relácia končí po nepretržitých 15 rokoch vysielania.",
-          "image": "https://image.smedata.sk/image/w660-h440/01a218c8-691e-7104-8193-79c145cd49fe.jpg",
-          "publishedAt": "2026-11-26T16:46:03.000Z",
-          "titleEn": "Marsh's moderator has announced the end of the duel. STVR is talking about draining the format and trying to increase viewership",
-          "summaryEn": "The awareness session ends after 15 years of continuous broadcasting."
-        },
-        {
-          "title": "Česká lyžiarska nádej chce reprezentovať Slovensko. Prioritou je mať zo športu opäť radosť",
-          "link": "https://sportnet.sme.sk/spravy/beh-na-lyziach-havlickova-cesko-reprezentaci--slovensko-svetovy-pohar-2026-2027?utm_source=rss&utm_medium=feed&utm_campaign=www-rss-title",
-          "summary": "V Česku sa nedostala do reprezentačného A-tímu a prípravu s B-tímom nezačala.",
-          "image": "https://image.smedata.sk/image/w660-h440/01a21872-000c-7c94-9016-1c715c311a47.jpg",
-          "publishedAt": "2026-11-26T15:20:51.000Z",
-          "titleEn": "Czech ski hopes to represent Slovakia. The priority is to enjoy sports again",
-          "summaryEn": "In the Czech Republic, she did not make the A-team and did not start training with the B-team."
+          "publishedAt": "2026-11-26T15:02:01.000Z"
         }
       ]
     },
@@ -109,97 +89,77 @@
         "homepage": "https://www.aktuality.sk",
         "lang": "sk"
       },
-      "fetchedAt": "2026-11-27T06:56:31.615Z",
+      "fetchedAt": "2026-11-27T18:45:51.581Z",
       "items": [
         {
-          "title": "Vzdušný priestor Lotyšska krátko narušil neidentifikovaný dron, v reakcii vzlietli stíhačky NATO",
-          "link": "https://www.aktuality.sk/clanok/4vEZ2Q6/vzdusny-priestor-lotysska-kratko-narusil-neidentifikovany-dron-v-reakcii-vzlietli-stihacky-nato/",
-          "summary": "Tamojšie úrady zároveň na východe krajiny neďaleko hraníc s Ruskom dočasne vyhlásili varovania pre mesto Ludza a obec Balvi v čase, keď susedná ruská Leningradská oblasť hlásila zneškodnenie vyše 40 ukrajinských dronov.",
-          "image": "https://img.aktuality.sk/foto/vzdusny-priestor-lotysska-v-piatok-skoro-rano-kratko-narusil-neidentifikovany-dron-v-reakcii-vzlietli-stihacky-nato/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/9OiktkpTURBXy81ZGYyZDMwZDA5ZTAxMGYwNmJlZDJlZGE5YzYxMzEyNy5qcGeSlQMAJ80E580CwpUCzQfQAMLD?st=zjrtmRh-XcgwULExhv0o5hz-y__DHmy-A5itMadNuA4&ts=1795734000&e=0",
-          "publishedAt": "2026-11-27T06:27:31.000Z",
-          "titleEn": "Latvia's airspace briefly disrupted by an unidentified drone, NATO fighter jets responded",
-          "summaryEn": "At the same time, local authorities in the east of the country, near the Russian border, temporarily issued warnings for the city of Ludza and the municipality of Balvi at a time when the neighboring Russian Leningrad region reported the destruction of more than 40 Ukrainian drones."
+          "title": "Gadi Eizenkot má osem dní na zostavenie izraelskej vlády. Netanjahuovu stranu obvinil z naťahovania rokovaní",
+          "link": "https://www.aktuality.sk/clanok/ILbzht4/gadi-eizenkot-ma-osem-dni-na-zostavenie-izraelskej-vlady-netanjahuovu-stranu-obvinil-z-natahovania-rokovani/",
+          "summary": "Tri strany už vytvorili koaličnú dohodu, na parlamentnú väčšinu im však chýba ďalších 25 poslancov. Eizenkot odmieta vládu za cenu ústupkov.",
+          "image": "https://img.aktuality.sk/foto/gadi-eisenkot-a-benjamon-netamyahu/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/QtbktkpTURBXy9jOTk1MTMzZmRjNmEwODgyZmFmM2JkZGE3ZjExMDdlYy5qcGeSlQPNAYoAzRJnzQpalQLNB9AAwsM?st=4lt9Z4LSc0mScKfprdV_N6ocPMlPL3bPQ76P-n1gFVE&ts=1795734000&e=0",
+          "publishedAt": "2026-11-27T17:39:58.000Z"
         },
         {
-          "title": "Donald Trump využil sviatok Dňa vďakyvzdania na slovné útoky proti liberálom, prisťahovalcom aj vlastným federálnym úradom",
-          "link": "https://www.aktuality.sk/clanok/wYQONRV/donald-trump-vyuzil-sviatok-dna-vdakyvzdania-na-slovne-utoky-proti-liberalom-pristahovalcom-aj-vlastnym-federalnym-uradom/",
-          "summary": "Namiesto tradičného zmierlivého posolstva poslal americký prezident Donald Trump na Deň vďakyvzdania ostrý politický odkaz plný obvinení. Z floridského golfového klubu vo West Palm Beach zaútočil na „radikálnu krajnú…",
-          "image": "https://img.aktuality.sk/foto/americky-prezident-donald-trump/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/YBgktkpTURBXy83ZmRkOTFiNThkOTMyNjlkODdhYjA3ODUyNzRjN2YxOS5qcGeSlQMAas0NUs0HfpUCzQfQAMLD?st=NZ-aWt2bq3ZV5CCIpnWSlZOL1FCD2KUraaCcJnQa-hI&ts=1795734000&e=0",
-          "publishedAt": "2026-11-27T06:23:49.000Z",
-          "titleEn": "Donald Trump took advantage of Thanksgiving Day to verbalise attacks on liberals, immigrants and his own federal agency.",
-          "summaryEn": "Instead of a traditional message of conciliation, U.S. President Donald Trump sent a sharp political message full of accusations on Thanksgiving Day. From a Florida golf club in West Palm Beach, he attacked a radical extreme..."
+          "title": "Vlak ju vliekol stovky metrov po koľajniciach. Mladá žena v nemocnici zomrela",
+          "link": "https://www.aktuality.sk/clanok/pxMS4qj/vlak-ju-vliekol-stovky-metrov-po-kolajniciach-mlada-zena-v-nemocnici-zomrela/",
+          "summary": "Lekári v Miškovci niekoľko dní bojovali o jej život. Po vážnych zraneniach, pri ktorých prišla o obe dolné končatiny, však mladá žena zomrela.",
+          "image": "https://img.aktuality.sk/foto/madarska-policia/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/DgyktkpTURBXy80MWQ4MzM3M2NmYTVlZmU5MTM1OTVkM2VlYWZmMjc2OC5qcGeSlQMAJ80E5s0CwZUCzQfQAMLD?st=3XHBOUM33CPqO5WhYhHKp1KwV5urUya3UdIJVoEI_wI&ts=1795734000&e=0",
+          "publishedAt": "2026-11-27T17:26:35.000Z"
         },
         {
-          "title": "Mestá odštartujú maratón vianočných trhov, lekári upozornia na brzdenie operácií (prehľad očakávaných udalostí)",
-          "link": "https://www.aktuality.sk/clanok/1EMojt2/mesta-odstartuju-maraton-vianocnych-trhov-lekari-upozornia-na-brzdenie-operacii-prehlad-ocakavanych-udalosti/",
-          "summary": "Pozrite si prehľad očakávaných udalostí na piatok 27. novembra.",
-          "image": "https://img.aktuality.sk/foto/otvorenie-vianocnych-trhov-v-presove/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/uolktkpTURBXy84MmQwMGJiOThmMjU5YmE3NjEwZjk1ZTI1ZDhmZDBlYS5qcGeSlQMAbc0NrM0HsJUCzQfQAMLD?st=TYxaKPSMUZKt_TJM8jvB8TmsH3fNN4i0TjSJaSpn7A4&ts=1795734000&e=0",
-          "publishedAt": "2026-11-27T06:15:32.000Z",
-          "titleEn": "Cities start a marathon of Christmas markets, doctors warn of braking operations (overview of expected events)",
-          "summaryEn": "See a summary of events expected on Friday, November 27."
+          "title": "Šéf OSN pre ľudské práva chce navštíviť Trumpove USA. Plánuje rokovať aj o zaobchádzaní s migrantmi",
+          "link": "https://www.aktuality.sk/clanok/Yn9Uowa/sef-osn-pre-ludske-prava-chce-navstivit-trumpove-usa-planuje-rokovat-aj-o-zaobchadzani-s-migrantmi/",
+          "summary": "USA bojkotujú rokovania OSN o ľudských právach. Vysoký komisár napriek tomu plánuje návštevu Washingtonu",
+          "image": "https://img.aktuality.sk/foto/volker-turk/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/trsktkpTURBXy85YmZiODk2MjEzMDkyOTk4MGMxM2U0ODU0MzM0MzY1Yi5qcGeSlQMAzLvNF3DNDS-VAs0H0ADCww?st=eANFehasNXvLQTIdcBR29LkWmP0XGrjgDp2TyZAM3rI&ts=1795734000&e=0",
+          "publishedAt": "2026-11-27T17:03:00.000Z"
         },
         {
-          "title": "Súd v Srbsku poslal do 30-dňovej väzby majiteľa a šéfredaktora niekdajšieho provládneho média Informer Dragana J. Vučičeviča",
-          "link": "https://www.aktuality.sk/clanok/oBBpGdy/sud-v-srbsku-poslal-do-30-dnovej-vazby-majitela-a-sefredaktora-niekdajsieho-provladneho-media-informer-dragana-j-vucicevica/",
-          "summary": "Niekdajší vplyvný mediálny spojenec bývalého srbského prezidenta Aleksandara Vučiča skončil v Ústrednej väznici v Belehrade. Tamojší súd vo štvrtok poslal na mesiac do väzby šéfredaktora a majiteľa média Informer Dragana…",
-          "image": "https://img.aktuality.sk/foto/belehrad-srbsko/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/ygSktkpTURBXy85YzIwNGVjMTUxN2M0ZTA5MzJiOGVlMTQwYTIyMThiMS5qcGeSlQMAJ80E5s0CwZUCzQfQAMLD?st=IBnM9_UWXXLY4nnS5dYzoT9WWgezIFQ_cpD82BQIE84&ts=1795734000&e=0",
-          "publishedAt": "2026-11-27T06:08:08.000Z",
-          "titleEn": "A court in Serbia sentenced the owner and editor-in-chief of the former intergovernmental media outlet Informer Dragana J. to 30 days in prison. Certificates",
-          "summaryEn": "A once influential media ally of former Serbian President Aleksandar Vucic ended up in the Belgrade Central Prison. A local court sent the editor and media owner, Informer Dragon, to jail for a month on Thursday..."
+          "title": "3 minúty preveria, čo naozaj viete o chrípke: Kedy už treba antibiotiká, a ktorý príznak ešte nič neznamená? Aktuálne na Slovensku už naberá na sile",
+          "link": "https://www.aktuality.sk/clanok/gvSgR22/chripka-uz-udrela-zavreli-skolky-v-nemocniciach-sa-zakazuju-navstevy-otestujte-sa-ci-ju-rozoznate-od-prechladnutia-kviz/",
+          "summary": "Počet respiračných ochorení na Slovensku v minulom týždni stúpol, chorých na chrípku a chrípke podobné ochorenia pribudlo ešte výraznejšie. Najviac chorých je opäť detí do piatich rokov. Prečo je chrípka iná ako obyčajné…",
+          "image": "https://img.aktuality.sk/foto/chripkova-sezona-je-v-plnom-prude-chorobnost-na-chripku-a-chripke-podobne-ochorenia-vzrastla-o-56-zatvaraju-sa-prve-desiatky-skol-a-skolok-a-nemocnice-pristupuju-k-zakazu-navstev/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/Rw0ktkpTURBXy85MzJjZDQwNzIwOWUxYzAzOTEzNDVkNzllZGZmNDlkNy5qcGeSlQMAI80Edc0CgpUCzQfQAMLD?st=CPQQB7e2VZnqBKi8w0mg2687g_OABZ5DAiNWVouQrEc&ts=1795734000&e=0",
+          "publishedAt": "2026-11-27T17:00:00.000Z"
         },
         {
-          "title": "Donald Trump si nie je istý, či Vladimir Putin príde na samit G20 v Miami, no zdôraznil, že ak bude chcieť, určite môže",
-          "link": "https://www.aktuality.sk/clanok/Z96L3ks/donald-trump-si-nie-je-isty-ci-vladimir-putin-pride-na-samit-g20-v-miami-no-zdoraznil-ze-ak-bude-chciet-urcite-moze/",
-          "summary": "Z floridského sídla Donalda Trumpa zazneli dva zásadné vyhlásenia: americký prezident nechal otvorené dvere Vladimirovi Putinovi na decembrový samit G20 v Miami a zároveň sa postavil za šéfa čipového gigantu Nvidia…",
-          "image": "https://img.aktuality.sk/foto/donald-trump-a-vladimir-putin/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/ByvktkpTURBXy85OWE0OWYyOWVmMGQ1Y2NlZjRjMDM2MzUyZDgwMmUwYi5qcGeSlQMAXc0LuM0Gl5UCzQfQAMLD?st=AKPtSBjzfRHeyLVnWDcLzTd-6LjC3wdjeaFyLTfs990&ts=1795734000&e=0",
-          "publishedAt": "2026-11-27T06:01:57.000Z",
-          "titleEn": "Donald Trump isn't sure if Vladimir Putin will come to the G20 summit in Miami, but he stressed that if he wants to, he can.",
-          "summaryEn": "From Donald Trump's Florida headquarters, two key announcements have been made: the U.S. president left the door open for Vladimir Putin at the G20 summit in Miami in December, while also standing for the head of chip giant Nvidia..."
+          "title": "Demokrati kritizujú čínsky softvér v kamerách na hraniciach, rezort vnútra hovorí o režime offline",
+          "link": "https://www.aktuality.sk/clanok/rmHQoHt/demokrati-kritizuju-cinsky-softver-v-kamerach-na-hraniciach-rezort-vnutra-hovori-o-rezime-offline/",
+          "summary": "Strana zároveň pripomenula, že bezpečnostnými rizikami čínskych technológií sa zaoberajú aj ďalšie krajiny.",
+          "image": "https://img.aktuality.sk/foto/tk-strany-demokrati/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/JT2ktkqTURBXy9iYTM3OTQ4M2Y4YTMyMGUzMDg2MTAyMzJjMTdmY2M4My5qcGVnkpUDAEjNFOjNC8WVAs0H0ADCww?st=1wPG42oHO5l0LuBz-Jso-XHhRIRngg7FjHfb_nZzhIU&ts=1795734000&e=0",
+          "publishedAt": "2026-11-27T16:57:41.000Z"
         },
         {
-          "title": "Koniec obľúbenej značky na Slovensku? Zamestnanec aj reťazce prehovorili o osude F&F",
-          "link": "https://www.aktuality.sk/clanok/hcduMEZ/nakupujete-oblecenie-v-tescu-zistovali-sme-aky-osud-caka-oblubenu-znacku-fandf/",
-          "summary": "Budúcnosť značky F&F na Slovensku zostáva nejasná. Zatiaľ čo zamestnanci Tesca tvrdia, že obľúbená móda ostáva, oficiálne vyjadrenia sú opatrnejšie.",
-          "image": "https://img.aktuality.sk/foto/nad-buducnostou-znacky-ff-visi-otaznik/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/ErhktkpTURBXy9mZWM5YWZiOTQwOTdjZDg3NmFmZmM2NThmYjE2MjgwMi5wbmeSlQMAAM0FAM0C0JUCzQfQAMLD?st=HNoyGfSSwJjxPFL74hA-s667XgaY5btKhuNvYe-j1tM&ts=1795734000&e=0",
-          "publishedAt": "2026-11-27T06:00:00.000Z",
-          "titleEn": "The end of a popular brand in Slovakia? The employee and the chains discussed F&F's fate",
-          "summaryEn": "The future of F&F in Slovakia remains unclear. While Tesco employees claim that the popular fashion remains, official statements are more cautious."
+          "title": "Chcel zachrániť dvoch demonštrantov pred popravou. Iránske úrady ho zatkli a mučili",
+          "link": "https://www.aktuality.sk/clanok/eY8kt4x/iran-zatkol-novinara-ktory-upozornil-na-planovane-popravy-demonstrantov-predtym-ho-mucili/",
+          "summary": "Novinár Mehdi Mahmúdíján spolupracoval aj na scenári oceneného filmu Drobné nehody. Za zverejnenie informácií o plánovaných popravách teraz čelí väzneniu a mučeniu.",
+          "image": "https://img.aktuality.sk/foto/iranska-vlajka/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/kTnktkpTURBXy9mMzJjZTlhYzNmNjk3NzViZTkxOWFmYWZmNGRjNTNjNy5qcGeSlQMAzLfNFt7NDNyVAs0H0ADCww?st=bcKPqtttCPUSAT8hk7Tmchp1CkD4N5PLTWl49vvFzFo&ts=1795734000&e=0",
+          "publishedAt": "2026-11-27T16:47:00.000Z"
         },
         {
-          "title": "Z robotického krúžku až na svetový trón. Študenti z Prešova ovládli majstrovstvá v robotike v Južnej Kórei",
-          "link": "https://www.aktuality.sk/clanok/Og3tPlv/z-robotickeho-kruzku-az-na-svetovy-tron-studenti-z-presova-ovladli-majstrovstva-v-robotike-v-juznej-korei/",
-          "summary": "Mladí muži dokazujú, že špičková svetová robotika sa dá tvoriť aj na Slovensku.",
-          "image": "https://img.aktuality.sk/foto/marko-saloky-a-jakub-lazorcak/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/u4RktkpTURBXy85ZTNiOTAwM2U3YjYzZGNlMTA0MTllNzk5Y2QzMGFiOS5qcGeSlQMAAM0PoM0IypUCzQfQAMLD?st=zW7FXo0lnXvaX5Q188DDOHo7Tu8MUln3ANZOGvqsbnU&ts=1795734000&e=0",
-          "publishedAt": "2026-11-27T06:00:00.000Z",
-          "titleEn": "From the robotic circle to the throne of the world. Students from Preš have mastered robotics in South Korea",
-          "summaryEn": "Young men are proving that world-class robotics can be created in Slovakia."
+          "title": "Muž v okrese Trebišov mal napadnúť svoju neter a hroziť jej zabitím, polícia ho obvinila",
+          "link": "https://www.aktuality.sk/clanok/j8HT8CA/policia-obvinila-muza-z-okresu-trebisov-mal-fyzicky-napadnut-neter-a-vyhrazat-sa-jej-zabitim/",
+          "summary": "Napadnutej sa podarilo ujsť na dvor k susedom, kde stratila vedomie a skončila v rukách záchranárov.",
+          "image": "https://img.aktuality.sk/foto/policia-ilustracne-foto/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/4kCktkpTURBXy8xYmY0NzkwMmNiMDc5NjgzYTc2ZTliODNmMzcxZmFjOC5qcGeSlQMAIs0QEs0JCpUCzQfQAMLD?st=ywcBhCRqKh2Gr8iHrwIV1QLLuqOpSgmotDQGav1Tiaw&ts=1795734000&e=0",
+          "publishedAt": "2026-11-27T16:13:44.000Z"
         },
         {
-          "title": "Alžírsko kritizuje ukrajinské zásahy v Líbyi a varuje pred šírením konfliktu do regiónu",
-          "link": "https://www.aktuality.sk/clanok/mIrWg9u/ukrajina-odmieta-snahu-rozsirit-vojnu-na-uzemie-libye-utoky-boli-podla-kyjeva-namierene-len-na-ruske-lode/",
-          "summary": "Ukrajina priznáva útok na ruské lode pri Benghází ako „ukážkovú“ operáciu, no popiera snahu zatiahnuť Líbyu do konfliktu. Kremeľ aj Alžírsko varujú pred eskaláciou.",
-          "image": "https://img.aktuality.sk/foto/utok-na-rusku-nakladnu-lod-pri-pobrezi-benghazi-v-libyi/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/FmXktkpTURBXy84NmQyMTQ2YzFlNGRhNjNhODY0NzIyOWYwZTcwNTE3Zi5qcGeSlQNEAM0GDM0DZ5UCzQfQAMLD?st=_FcO-38eg22MWgvzvyYQxSGWnIgzFx4A0xojVSr-8FI&ts=1795734000&e=0",
-          "publishedAt": "2026-11-27T05:46:54.000Z",
-          "titleEn": "Algeria criticises Ukrainian intervention in Libya and warns against the spread of conflict in the region",
-          "summaryEn": "Ukraine acknowledges the attack on a Russian ship off Benghazi as a \"proof operation\", but denies any attempt to involve Libya in the conflict. The Kremlin and Algeria warn against escalation."
+          "title": "Štyroch synov mu už zabili, teraz Izrael zaútočil na posledného. Syn vodcu Hamasu prežil",
+          "link": "https://www.aktuality.sk/clanok/TyCzoeA/izrael-sa-pokusil-zabit-posledneho-zijuceho-syna-vodcu-hamasu-utok-prezil/",
+          "summary": "Chalíl Hajja prišiel počas izraelských útokov už o štyroch synov. Piatkový nálet zasiahol bytový dom, v ktorom sa nachádzal aj posledný z nich.",
+          "image": "https://img.aktuality.sk/foto/podporovatelia-hamasu/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/KYpktkpTURBXy8xODk4ODE4MmI5YzYzMTJhZDg4M2RiM2FlZjFhM2MxYy5qcGeSlQMAzNLNGkDNDsSVAs0H0ADCww?st=yPOg_gPbzud3Kft-4Zv5hce0aYckFoTM2OozBDmmtHs&ts=1795734000&e=0",
+          "publishedAt": "2026-11-27T16:01:00.000Z"
         },
         {
-          "title": "Nočná kolízia piatich áut pri Stupave zastavila diaľnicu D2 smerom do Česka",
-          "link": "https://www.aktuality.sk/clanok/I5289Zp/vazna-dopravna-nehoda-na-d2-v-smere-do-ceska-sa-zrazilo-pat-aut-dopravu-odklanaju/",
-          "summary": "Vážna nočná nehoda štyroch nákladných áut a osobného vozidla pri Stupave zablokovala D2 na Česko. Zranených previezli do nemocnice, premávka sa odkláňa.",
-          "image": "https://img.aktuality.sk/foto/policia-sr/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/zXpktkpTURBXy9mYjY2M2JiODQwZjhmMjYyMTRmMDdiMTlkMWMxZDUzMC5qcGeSlQMAfc0PoM0IypUCzQfQAMLD?st=35hHAVNYLip0sVxxvdDh3LmB9W7LULYLbcmJgJtZR40&ts=1795734000&e=0",
-          "publishedAt": "2026-11-27T05:31:27.000Z",
-          "titleEn": "A nightly collision of five cars at Stupava stopped the D2 highway heading to the Czech Republic .",
-          "summaryEn": "A serious nighttime accident involving four trucks and a passenger car at Stupava blocked D2 to the Czech Republic. The wounded are being transported to the hospital, traffic is turning."
+          "title": "Kauzy pri kávičke: Zastropovanie energií je schválené. Musíte teraz niečo vybavovať?",
+          "link": "https://www.aktuality.sk/clanok/ZVzY5pF/energopomoc-pre-kazdeho-zistite-ci-musite-nieco-nahlasit-aby-ste-neprisli-o-peniaze/",
+          "summary": "Vláda schválila energopomoc na budúci rok a ceny elektriny, plynu a tepla budú zastropované. Čo to ale znamená v praxi pre bežného Slováka?",
+          "image": "https://img.aktuality.sk/foto/zvysene-naklady-na-teplo-stat-kompenzuje-formou-energopoukazky-nie-vzdy-je-vsak-pomoc-skutocne-adresna/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/aWKktkpTURBXy8wYWYzODM1NjBkYzE2MTkwOGYyYTkzYWMwYmI2ZGM0MS5qcGeSlQMAQs0ISc0EqZUCzQfQAMLD?st=vbV_vjLlQPf9JE31VlFwfi2DQCRngrW2ITTxioer87I&ts=1795734000&e=0",
+          "publishedAt": "2026-11-27T16:00:00.000Z"
         },
         {
-          "title": "Firma z kritizovaného tendra na uniformy pre vnútro dodá testovací výstroj u ministra Kaliňáka",
-          "link": "https://www.aktuality.sk/clanok/zsQo9P8/firma-z-kritizovaneho-tendra-na-uniformy-pre-vnutro-doda-testovaci-vystroj-u-ministra-kalinaka/",
-          "summary": "Nové bundy či nepremokavé sety môžu byť bránou k miliónovým zákazkám.",
-          "image": "https://img.aktuality.sk/foto/robert-kalinak-na-vycviku-narodnych-obrannych-sil-1772025/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/ahDktkpTURBXy9lNjEwY2MyODEwNjNhMThiMjE2NjhjYWI4YmEyZTE3ZS5qcGeSlQMAfc0PoM0IypUCzQfQAMLD?st=HCFstsw1-gglpVrEYuabE8dItJvXCOrU4fHCTDNivmI&ts=1795734000&e=0",
-          "publishedAt": "2026-11-27T05:30:00.000Z",
-          "titleEn": "The company from the controversial indoor uniform tender will deliver testing equipment to Minister Kaliňák",
-          "summaryEn": "New jackets or non-removable sets can be a gateway to millions of orders."
+          "title": "Tomáš Zdechovský varuje Slovensko: Ak Brusel nezasiahne, eurofondy sa dostanú pod drobnohľad",
+          "link": "https://www.aktuality.sk/clanok/Kh7E50g/europoslanci-davaju-bruselu-cas-do-konca-roka-potom-chcu-opat-preverit-eurofondy-na-slovensku/",
+          "summary": "V hre je aj aktivácia mechanizmu, ktorý umožňuje podmieniť čerpanie európskych peňazí dodržiavaním princípov právneho štátu.",
+          "image": "https://img.aktuality.sk/foto/vlajka-eu/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/RjgktkuTURBXy9hNDA3NjY1Yy02NzlhLTQ2NWQtYTE0Yy0zNWFmZGI1ZmQ3MzMuanBlZ5KVAwAkzQSwzQKjlQLNB9AAwsM?st=gpSqM6qUYOwHz0Bnon1oHWM1tZBqswn3ymLIcvX7vSM&ts=1795734000&e=0",
+          "publishedAt": "2026-11-27T15:44:30.000Z"
         }
       ]
     },
@@ -210,97 +170,77 @@
         "homepage": "https://www.pravda.sk",
         "lang": "sk"
       },
-      "fetchedAt": "2026-11-27T06:56:31.162Z",
+      "fetchedAt": "2026-11-27T18:45:52.512Z",
       "items": [
         {
-          "title": "Pri zrážke autobusu s dvoma nákladnými autami na Sibíri zahynuli piati ľudia",
-          "link": "https://www.pravda.sk/spravy/svet/clanok/2086725-pri-zrazke-autobusu-s-dvoma-nakladnymi-autami-na-sibiri-zahynuli-piati-ludia?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-          "summary": "Piati ľudia zahynuli a 13 ďalších utrpelo zranenia pri zrážke autobusu s pasažiermi a dvoch nákladných vozidiel v ruskom Krasnojarskom kraji na Sibíri. Uviedla to tlačová služba regionálneho riaditeľstva ruského…",
-          "image": "https://prvd.sk/cdn/2019/12/01/4x3-medium/rusko-nehoda-autobus.jpg?v=esY",
-          "publishedAt": "2026-11-27T06:49:16.000Z",
-          "titleEn": "Five people were killed in a bus crash with two trucks in Siberia",
-          "summaryEn": "Five people were killed and 13 others injured in a crash of a passenger bus and two trucks in Russia's Krasnoyarsk region of Siberia. The press service of the Russian Regional Directorate of..."
+          "title": "Východ Slovenska zápasí so snehom. Hromadné nehody, silná poľadovica a nekonečné kolóny",
+          "link": "https://www.pravda.sk/spravy/regiony/clanok/2087267-vychod-slovenska-zapasi-so-snehom-hromadne-nehody-silna-poladovica-a-nekonecne-kolony?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+          "summary": "Väčšina ciest na východnom Slovensku je neupravená a zasnežená. Vo vysielaní Slovenského rozhlasu na to upozornila Zelená vlna STVR. Na diaľnici D1 pri výjazde Košice-Sever smerom z Prešova sa zrazilo viacero áut,…",
+          "image": "https://prvd.sk/cdn/2026/11/27/2568907/4x3-medium/kolony-sneh-poladovica-doprava-snezenie.jpg?v=vPU",
+          "publishedAt": "2026-11-27T18:36:34.000Z"
         },
         {
-          "title": "Dron narušil vzdušný priestor Lotyšska, nasadili stíhačky NATO",
-          "link": "https://www.pravda.sk/spravy/svet/clanok/2086711-dron-narusil-vzdusny-priestor-lotysska-nasadili-stihacky-nato?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-          "summary": "Neidentifikovaný dron v piatok v skorých ranných hodinách krátko narušil vzdušný priestor Lotyšska. V reakcii vzlietli stíhačky Severoatlantickej aliancie (NATO).",
-          "image": "https://prvd.sk/cdn/2026/11/27/2568461/4x3-medium/russia-ukraine-war.jpg?v=zxk",
-          "publishedAt": "2026-11-27T06:24:07.000Z",
-          "titleEn": "Drone disrupted Latvia's airspace, deployed NATO fighters",
-          "summaryEn": "An unidentified drone briefly disrupted Latvia's airspace in the early hours of Friday. In response, the North Atlantic Alliance (NATO) fighter jets took off."
+          "title": "Mal len štyri roky, keď ho vojna odlúčila od matky. Niektoré ukrajinské deti sa dočkali návratu domov",
+          "link": "https://www.pravda.sk/spravy/svet/clanok/2087261-mal-len-styri-roky-ked-ho-vojna-odlucila-od-matky-niektore-ukrajinske-deti-sa-dockali-navratu-domov?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+          "summary": "Na Ukrajinu sa v piatok vrátilo deväť detí z Ruskom okupovaných území, ako aj zo samotného Ruska, uviedol ukrajinský prezident Volodymyr Zelenskyj na sieti X. Deje sa tak vďaka pomoci manželky amerického prezidenta…",
+          "image": "https://prvd.sk/cdn/2026/11/27/2568897/4x3-medium/ukrajinske-deti-vratenie.jpg?v=BSM",
+          "publishedAt": "2026-11-27T18:20:00.000Z"
         },
         {
-          "title": "V novom Luskáčikovi v SND uvidíme aj Liptov a iné odkazy na Slovensko. Pozrite si fotky",
-          "link": "https://www.pravda.sk/spravy/kultura/clanok/2086503-v-novom-luskacikovi-v-snd-uvidime-aj-liptov-a-ine-odkazy-na-slovensko-pozrite-si-fotky?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-          "summary": "Po 13 rokoch, čo bola predošlá verzia baletu neustále vypredaná, sa menia nielen choreografie, ale aj vizuálna stránka jedného z najobľúbenejších baletov Piotra Iľjiča Čajkovského. Scénu a kostýmy vytvoril Pavol Juráš,…",
-          "image": "https://prvd.sk/cdn/2026/11/26/2568189/4x3-medium/caterina-marchetti-klara-a-adrian-szelle-luskacik-luskacik.jpg?v=VWU",
-          "publishedAt": "2026-11-27T06:00:00.000Z",
-          "titleEn": "In the new Luskáčik in SND we will also see Liptov and other references to Slovakia. Look at the pictures.",
-          "summaryEn": "After 13 years since the previous version of the ballet was sold out, not only the choreography, but also the visual side of one of Piotr Ilyich Tchaikovsky's favorite ballets is changing. The sets and costumes were designed by Paul Juras..."
+          "title": "Smrteľná nehoda na Liptove. Vodič zrazil seniorku na priechode a odišiel. Polícia po jeho vypátraní odhalila viac než len alkohol",
+          "link": "https://www.pravda.sk/spravy/regiony/clanok/2087255-smrtelna-nehoda-na-liptove-vodic-zrazil-seniorku-na-priechode-a-odisiel-policia-po-jeho-vypatrani-odhalila-viac-nez-len-alkohol?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+          "summary": "Pri tragickej dopravnej nehode v Liptovskom Mikuláši zomrela 77-ročná chodkyňa. Ako TASR informovala žilinská krajská policajná hovorkyňa Zuzana Šefčíková, na priechode pre chodcov na sídlisku Podbreziny došlo v piatok v…",
+          "image": "https://prvd.sk/cdn/2026/11/27/2568895/4x3-medium/nehoda-dodavka-policia.jpg?v=Gjk",
+          "publishedAt": "2026-11-27T18:10:00.000Z"
         },
         {
-          "title": "Budúci premiér Francúzska? Nové zistenia o Bardellovi vyvolali šok aj v jeho strane Národné združenie",
-          "link": "https://www.pravda.sk/spravy/svet/clanok/2086699-buduci-premier-francuzska-nove-zistenia-o-bardellovi-vyvolali-sok-aj-v-jeho-strane-narodne-zdruzenie?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-          "summary": "Nové zistenia francúzskych médií o antisemitských výrokoch pripisovaných predsedovi krajne pravicovej strany Národné združenie (RN) Jordanovi Bardellovi vyvolali ostré reakcie francúzskych politikov. Predstavitelia…",
-          "image": "https://prvd.sk/cdn/2026/11/27/2568457/4x3-medium/france-elections.jpg?v=igs",
-          "publishedAt": "2026-11-27T05:57:17.000Z",
-          "titleEn": "The next Prime Minister of France? New findings about Bardell have shocked his National Association.",
-          "summaryEn": "New findings in the French media about anti-Semitic remarks attributed to the president of the far-right National Association (RN) party, Jordan Bardell, have sparked a sharp reaction from French politicians. The representatives..."
+          "title": "Na Kryme padli tvrdé tresty za vieru. Jehovových svedkov čakajú roky za mrežami, dráma sa odohrávala aj pred budovou súdu",
+          "link": "https://www.pravda.sk/spravy/svet/clanok/2087251-na-kryme-padli-tvrde-tresty-za-vieru-jehovovych-svedkov-cakaju-roky-za-mrezami-zadrzali-aj-ich-podporovatelov?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+          "summary": "Okresný súd v Simferopole na Ruskom anektovanom polostrove Krym odsúdil štyroch Jehovových svedkov za extrémistickú činnosť na tresty odňatia slobody v trvaní od 6,5 do ôsmich rokov, respektíve na tri roky podmienečne.…",
+          "image": "https://prvd.sk/cdn/2026/11/27/2568891/4x3-medium/rusky-sud.jpg?v=1MY",
+          "publishedAt": "2026-11-27T17:45:05.000Z"
         },
         {
-          "title": "Pre vážnu nehodu je uzatvorená diaľnica D2 pri Bratislave, zdržanie dosahuje 40 minút",
-          "link": "https://www.pravda.sk/spravy/domace/clanok/2086673-pre-vaznu-nehodu-je-uzatvorena-dialnica-d2-v-bratislave?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-          "summary": "Na diaľnici D2 za Bratislavou došlo v noci na piatok k vážnej dopravnej nehode štyroch nákladných áut a jedného osobného vozidla.",
-          "image": "https://prvd.sk/cdn/2025/12/17/4x3-medium/d1-dialnica-nehoda-kamiony.jpg?v=/4Q",
-          "publishedAt": "2026-11-27T05:27:23.000Z",
-          "titleEn": "The D2 motorway is closed for a serious accident near Bratislava, delay reaches 40 minutes",
-          "summaryEn": "On the D2 motorway outside Bratislava, a serious traffic accident involving four trucks and one passenger car occurred on Friday night."
+          "title": "Voda podmyla vozovku v celej šírke. Bratislavská Vrakuňa hlási dopravné komplikácie, polícia odkláňa dopravu",
+          "link": "https://www.pravda.sk/spravy/domace/clanok/2087243-voda-podmyla-vozovku-v-celej-sirke-bratislavska-vrakuna-hlasi-dopravne-komplikacie-policia-odklana-dopravu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+          "summary": "Polícia upozorňuje na úplnú uzáveru úseku Hradskej ulice v križovatke s Rajeckou v bratislavskej mestskej časti Vrakuňa. Na mieste došlo k poruche vodovodu. Informovala o tom na sociálnej sieti. Bratislavská vodárenská…",
+          "image": "https://prvd.sk/cdn/2026/11/27/2568889/4x3-medium/policia-auto-namraza-dialnica-zima-sneh-doprava.jpg?v=1zA",
+          "publishedAt": "2026-11-27T17:35:00.000Z"
         },
         {
-          "title": "Trump využil Deň vďakyvzdania na útoky voči liberálom či imigrantom, obvinil aj svoju vlastnú vládu",
-          "link": "https://www.pravda.sk/spravy/svet/clanok/2086679-trump-vyuzil-den-vdakyvzdania-na-utoky-voci-liberalom-ci-imigrantom-obvinil-aj-svoju-vlastnu-vladu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-          "summary": "Americký prezident Donald Trump vo štvrtok využil sviatok Dňa vďakyvzdania, počas ktorého sa americké rodiny stretávajú pri oslave jedného z najvýznamnejších sviatkov roka, na slovné útoky proti liberálom, prisťahovalcom…",
-          "image": "https://prvd.sk/cdn/2026/11/09/2559293/4x3-medium/trump.jpg?v=dCk",
-          "publishedAt": "2026-11-27T05:11:08.000Z",
-          "titleEn": "Trump used Thanksgiving to attack liberals and immigrants, blaming his own government.",
-          "summaryEn": "U.S. President Donald Trump on Thursday used Thanksgiving, a celebration of one of the most important holidays of the year for American families, to launch verbal attacks on liberals, immigrants..."
+          "title": "Nútené sobáše detí sa nevyhýbajú ani Slovensku. Berú im detstvo, slobodu aj právo rozhodovať o svojom živote",
+          "link": "https://www.pravda.sk/spravy/domace/clanok/2087233-nutene-sobase-deti-sa-nevyhybaju-ani-slovensku-beru-im-detstvo-slobodu-aj-pravo-rozhodovat-o-svojom-zivote?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+          "summary": "Úrad komisára pre deti aj ministerstvo vnútra upozorňujú na nútené sobáše detí, ktoré sa vyskytujú aj na Slovensku. Takéto praktiky nie sú len problémom vzdialených krajín. Úrad komisára a rezort na to upozornili v…",
+          "image": "https://prvd.sk/cdn/2024/02/06/4x3-medium/jozef-miklosko.jpg?v=LAU",
+          "publishedAt": "2026-11-27T17:10:42.000Z"
         },
         {
-          "title": "Tom Hardy sa vrátil ako nekompromisný gangster s kamennou tvárou. Druhá séria Krajiny gangov je temnejšia a drsnejšia",
-          "link": "https://www.pravda.sk/spravy/kultura/clanok/2085305-krajina-gangov-tom-hardy-guy-ritchie-druha-seria-recenzia?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-          "summary": "Napínavý gangsterský seriál nájdete na platforme SkyShowtime.",
-          "image": "https://prvd.sk/cdn/2026/11/25/2567279/4x3-medium/krajina-gangov-tom-hardy.jpg?v=Cb4",
-          "publishedAt": "2026-11-27T05:00:43.000Z",
-          "titleEn": "Tom Hardy came back as an uncompromising gangster with a stone face. The second series of Gangland is darker and harsher.",
-          "summaryEn": "You'll find a thrilling gangster show on the SkyShowtime platform."
+          "title": "Sľuboval spásu, jeho sekta sa zmenila na pohrebisko. Kenského kazateľa uznali vinným zo zabitia 123 ľudí",
+          "link": "https://www.pravda.sk/spravy/svet/clanok/2087215-sluboval-spasu-jeho-sekta-sa-zmenila-na-pohrebisko-kenskeho-kazatela-uznali-vinnym-zo-zabitia-123-ludi?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+          "summary": "Kenského samozvaného kazateľa Paula Mackenzieho dnes uznali vinným zo zabitia 123 ľudí, ktorí zomreli v jeho sekte po tom, ako ich presviedčal, aby vyhladovali na smrť. Rozhodol o tom súd v Mombase. Verdikt padol necelý…",
+          "image": "https://prvd.sk/cdn/2026/11/25/2567585/4x3-medium/paul-nthenge-mackenzie.jpg?v=T/w",
+          "publishedAt": "2026-11-27T16:35:00.000Z"
         },
         {
-          "title": "Krása bez estetických zákrokov? Odborníčka radí, ako sa správne starať o pleť v každom veku",
-          "link": "https://www.pravda.sk/spravy/kultura/clanok/2086475-krasa-bez-estetickych-zakrokov-odbornicka-radi-ako-sa-spravne-starat-o-plet-v-kazdom-veku?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-          "summary": "Zabudnite na zázračné sľuby a okamžité výsledky. Pri starostlivosti o pleť je dôležitejšia pravidelnosť, správne návyky a dobré informácie.",
-          "image": "https://prvd.sk/cdn/2026/11/26/2568157/4x3-medium/viera-ondrikova-krasna-bez-skalpela.jpg?v=Ygs",
-          "publishedAt": "2026-11-27T05:00:21.000Z",
-          "titleEn": "Beauty without aesthetics? Advice on how to properly care for your skin at any age",
-          "summaryEn": "Forget about miraculous promises and immediate results. Regularity, proper habits, and good information are more important in skin care."
+          "title": "Opatrovala vlastného strýka, ten ju začal biť a vyhrážal sa jej zabitím. Po úteku k susedom stratila vedomie",
+          "link": "https://www.pravda.sk/spravy/regiony/clanok/2087207-opatrovala-vlastneho-stryka-ten-ju-zacal-bit-a-vyhrazal-sa-jej-zabitim-po-uteku-k-susedom-stratila-vedomie?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+          "summary": "Polícia obvinila 65-ročného muža, ktorý fyzicky napadol svoju neter a vyhrážal sa jej zabitím. Krajská policajná hovorkyňa z Košíc Jana Krupárová informovala, že incident sa stal nedávno v okrese Trebišov. O svojho…",
+          "image": "https://prvd.sk/cdn/2026/07/30/2512383/4x3-medium/policia-ilustracne-foto-ilu-ilustracny-zaber-policajt.jpg?v=fO0",
+          "publishedAt": "2026-11-27T16:13:57.000Z"
         },
         {
-          "title": "Mladí Nemci chceli podpaľovať a zabíjať migrantov. Členmi teroristickej skupiny boli aj deti",
-          "link": "https://www.pravda.sk/spravy/svet/clanok/2086663-mladi-nemci-chceli-podpalovat-a-zabijat-migrantov-clenmi-teroristickej-skupiny-boli-aj-deti?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-          "summary": "Niektorí z nich sú ešte len deti, no už sa stali teroristami. Utečencom chceli podrezávať hrdlo a podpaľovať ubytovne, plánovali aj útoky na politických protivníkov. Nemeckej polícii sa podarilo rozložiť skupinu zvanú…",
-          "image": "https://prvd.sk/cdn/2026/08/21/2520861/4x3-medium/policajti-v-sasku.jpg?v=plc",
-          "publishedAt": "2026-11-27T05:00:00.000Z",
-          "titleEn": "Young Germans wanted to burn and kill migrants. Children were also members of the terrorist group",
-          "summaryEn": "Some of them are still children, but they've become terrorists. They tried to slit the throats of the refugees and set fire to their shelters, even planning attacks on political opponents. The German police managed to disband a group called..."
+          "title": "VIDEO: Raj bežkárov je už otvorený. Na Skalke odštartovali zimnú sezónu, hlásia ideálne podmienky",
+          "link": "https://www.pravda.sk/spravy/regiony/clanok/2087151-video-raj-bezkarov-je-uz-otvoreny-na-skalke-odstartovali-zimnu-sezonu-hlasia-idealne-podmienky?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+          "summary": "Sneženie a mínusové teploty potešili všetkých milovníkov zimných športov. V srdci Slovenska, na Skalke pri Kremnici, si už naplno vychutnávajú bežkársku sezónu.",
+          "image": "https://prvd.sk/cdn/2026/11/27/2568757/4x3-medium/pavol-tokar-bezkar-skalka.jpg?v=T/w",
+          "publishedAt": "2026-11-27T16:04:24.000Z"
         },
         {
-          "title": "Huliakovci bránia zrušenie voľby poštou. Jakab pripomenul zabudnutý sľub vlády. Hnutie Slovensko chce hlasovanie cez mobil",
-          "link": "https://www.pravda.sk/spravy/domace/clanok/2086657-huliakovci-brania-zrusenie-volby-postou-jakab-pripomenul-zabudnuty-slub-vlady-hnutie-slovensko-chce-hlasovanie-cez-mobil?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-          "summary": "Zrušenie voľby poštou zo zahraničia, ktoré v utorok definitívne schválil parlament, vyvolalo ostrú výmenu názorov v diskusnej relácii Král na ťahu na ta3. Predstavitelia Strany vidieka Huliakovci obhajujú legislatívnu…",
-          "image": "https://prvd.sk/cdn/2026/11/26/2568439/4x3-medium/sevcik-huliak-sipos-jakab.jpg?v=4sY",
-          "publishedAt": "2026-11-27T05:00:00.000Z",
-          "titleEn": "Hurricanes are fighting post-election cancellation. Jacob recalled the government's forgotten promise. The Slovak Movement wants mobile voting",
-          "summaryEn": "The cancellation of the election by mail from abroad, which was definitively approved by Parliament on Tuesday, sparked a sharp exchange of views in the discussion session on the King's Prelude to Parliament. The representatives of the Huliakov Village Party are defending the legislative..."
+          "title": "Miliónový otáznik nad nákupom zbraní pre políciu. Šutaj Eštok má čo vysvetľovať, tvrdí KDH",
+          "link": "https://www.pravda.sk/spravy/domace/clanok/2087199-milionovy-otaznik-nad-nakupom-zbrani-pre-policiu-sutaj-estok-ma-co-vysvetlovat-tvrdi-kdh?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+          "summary": "KDH spochybňuje nákup zbraní ministerstvom vnútra pre slovenskú políciu od talianskeho výrobcu. Slovenský výrobca pritom podľa vlastných slov ponúkol cenu nižšiu o viac ako 5 miliónov eur. KDH považuje za neprijateľné,…",
+          "image": "https://prvd.sk/cdn/2025/03/03/4x3-medium/kdh-karas-majersky.jpg?v=rDQ",
+          "publishedAt": "2026-11-27T16:03:26.000Z"
         }
       ]
     }

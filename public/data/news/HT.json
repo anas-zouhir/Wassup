@@ -8,7 +8,7 @@
         "homepage": "https://lenouvelliste.com",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-27T06:55:50.313Z",
+      "fetchedAt": "2026-11-27T18:45:07.760Z",
       "items": [
         {
           "title": "Visit of the WHO Director in Haiti",
@@ -33,6 +33,11 @@
           "link": "https://lenouvelliste.com/article/274331/will-the-private-sector-go-all-the-way",
           "publishedAt": "2026-11-26T22:59:27.000Z",
           "titleEn": "Will the private sector go all the way?"
+        },
+        {
+          "title": "The General Director of the AAN, José B. M. Schettini, announces major projects",
+          "link": "https://lenouvelliste.com/article/274321/the-general-director-of-the-aan-jose-b-m-schettini-announces-major-projects",
+          "publishedAt": "2026-11-26T20:03:03.000Z"
         },
         {
           "title": "Michel Châtaigne explains the importance of Artisanat en fête",
@@ -63,12 +68,6 @@
           "link": "https://lenouvelliste.com/article/274323/womens-football-haiti-vs-mexico-a-match-with-triple-stakes",
           "publishedAt": "2026-11-26T19:17:56.000Z",
           "titleEn": "Women's football: Haiti vs. Mexico, a match with triple stakes"
-        },
-        {
-          "title": "These small trades that are disappearing from the streets of Port-au-Prince",
-          "link": "https://lenouvelliste.com/article/273930/these-small-trades-that-are-disappearing-from-the-streets-of-port-au-prince",
-          "publishedAt": "2026-11-26T22:26:10.000Z",
-          "titleEn": "These small trades that are disappearing from the streets of Port-au-Prince"
         }
       ]
     },
@@ -79,8 +78,57 @@
         "homepage": "https://www.haitilibre.com",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-27T06:55:51.020Z",
+      "fetchedAt": "2026-11-27T18:45:08.205Z",
       "items": [
+        {
+          "title": "Haïti - Actualité : Zapping",
+          "link": "https://www.haitilibre.com/article-48991-haiti-actualite-zapping.html",
+          "summary": "La résidence du chef «Tchèchèye» détruite - France : Nos U-14 toujours invaincu - Prochaine réouverture de l'aéroport de PAP ? - Corventina lance l'Association la Perles des Caraïbes - France : L'histoire de la…",
+          "image": "https://www.haitilibre.com/images-a/p-48991.jpg",
+          "publishedAt": "2026-11-27T15:18:55.000Z"
+        },
+        {
+          "title": "Haïti - Économie : Plan de relance et de développement du Grand Sud (2027-2031)",
+          "link": "https://www.haitilibre.com/article-48990-haiti-economie-plan-de-relance-et-de-developpement-du-grand-sud-2027-2031.html",
+          "summary": "Serge Gabriel Collin, le Ministre de l'Économie et des Finances, a organisé, deux journées de consultations régionales virtuelles consacrées à l'élaboration du Plan de relance et de développement du Grand Sud…",
+          "image": "https://www.haitilibre.com/images-a/p-48990.jpg",
+          "publishedAt": "2026-11-27T14:27:41.000Z"
+        },
+        {
+          "title": "iciHaïti - Diplomatie : Deux nouveaux Ambassadeurs accrédités",
+          "link": "https://www.icihaiti.com/article-48989-icihaiti-diplomatie-deux-nouveaux-ambassadeurs-accredites.html",
+          "summary": "Jeudi 26 novembre 2026 à la Villa d'accueil, le Premier Ministre Alix Didier au cours de deux cérémonies solennelles distinctes à reçu les lettres de créances de deux nouveaux ambassadeurs en Haïti celui de l'Italie et…",
+          "image": "https://www.haitilibre.com/images-a/p-48989.jpg",
+          "publishedAt": "2026-11-27T14:13:25.000Z"
+        },
+        {
+          "title": "Haïti - Santé : L'OMS annonce un appui à l'HUP, d'un million de dollars",
+          "link": "https://www.haitilibre.com/article-48988-haiti-sante-l-oms-annonce-un-appui-a-l-hup-d-un-million-de-dollars.html",
+          "summary": "Jeudi 26 novembre, le Dr. Tedros Adhanom Ghebreyesus, Directeur Général de l'OMS, lors de son passage à l'Hôpital Universitaire La Paix (HUP) a annoncé un appui d'un million de US$ destiné à fournir des équipements…",
+          "image": "https://www.haitilibre.com/images-a/p-48988.jpg",
+          "publishedAt": "2026-11-27T14:00:38.000Z"
+        },
+        {
+          "title": "Haïti - Relance économique : Haïti mise sur le partenariat français pour attirer de nouveaux investissements",
+          "link": "https://www.haitilibre.com/article-48987-haiti-relance-economique-haiti-mise-sur-le-partenariat-francais-pour-attirer-de-nouveaux-investissements.html",
+          "summary": "En mission économique à Paris, James Monazard le Ministre du Commerce et de l'Industrie a été reçu par En Éléonore Caroit, Ministre déléguée chargée des Partenariats internationaux. Cette rencontre s'est déroulée…",
+          "image": "https://www.haitilibre.com/images-a/p-48987.jpg",
+          "publishedAt": "2026-11-27T13:37:49.000Z"
+        },
+        {
+          "title": "iciHaïti - Série d'ouverture D1 (2026-2027) : Calendrier des matchs 5ème journée",
+          "link": "https://www.icihaiti.com/article-48986-icihaiti-serie-d-ouverture-d1-2026-2027-calendrier-des-matchs-5eme-journee.html",
+          "summary": "FLASH Le match Violette vs América des Cayes, prévu samedi 28 novembre 2026 est reporté. Calendrier 5ème journée",
+          "image": "https://www.haitilibre.com/images-a/p-48986.jpg",
+          "publishedAt": "2026-11-27T13:15:27.000Z"
+        },
+        {
+          "title": "Haïti - Technologie : Signature électronique, une étape majeure vient d'être franchie",
+          "link": "https://www.haitilibre.com/article-48985-haiti-technologie-signature-electronique-une-etape-majeure-vient-d-etre-franchie.html",
+          "summary": "La Direction Générale du Conseil National des Télécommunications (CONATEL) informe qu'une étape majeure vient d'être franchie dans le processus de mise en uvre de la signature électronique en Haïti",
+          "image": "https://www.haitilibre.com/images-a/p-48985.jpg",
+          "publishedAt": "2026-11-27T12:59:30.000Z"
+        },
         {
           "title": "Haïti - Loisirs : Le Saviez-vous ? #80",
           "link": "https://www.haitilibre.com/article-48984-haiti-loisirs-le-saviez-vous-80.html",
@@ -107,69 +155,6 @@
           "publishedAt": "2026-11-26T14:34:26.000Z",
           "titleEn": "hereHaiti - Japan: Rehabilitation of the Siloam police station",
           "summaryEn": "Japan and the United Nations Development Programme are strengthening the operational capabilities of the HNP with the rehabilitation of the Siloé Police Station (Jacmel Municipality)"
-        },
-        {
-          "title": "Haïti - Brésil : Vers un partenariat pour le développement des capacités aériennes des FAd'H",
-          "link": "https://www.haitilibre.com/article-48981-haiti-bresil-vers-un-partenariat-pour-le-developpement-des-capacites-aeriennes-des-fad-h.html",
-          "summary": "En marge de la 9e édition de la Mostra BID, Mario Andrésol, le Ministre de la Défense, s'est entretenu avec son homologue brésilien, José Múcio Monteiro Filho, autour de nouvelles perspectives de coopération bilatérale…",
-          "image": "https://www.haitilibre.com/images-a/p-48981.jpg",
-          "publishedAt": "2026-11-26T14:13:34.000Z",
-          "titleEn": "Haiti - Brazil: A partnership for the development of FAD'H air capabilities",
-          "summaryEn": "On the sidelines of the ninth edition of the Mostra IDB, Mario Andrésol, the Minister of Defence, spoke with his Brazilian counterpart, José Múcio Monteiro Filho, about new prospects for bilateral cooperation..."
-        },
-        {
-          "title": "iciHaïti - Clio Sports Awards : La FHF finaliste pour le titre de «League of the Year» 2026",
-          "link": "https://www.icihaiti.com/article-48980-icihaiti-clio-sports-awards-la-fhf-finaliste-pour-le-titre-de-league-of-the-year-2026.html",
-          "summary": "La Fédération Haïtienne de Football annonce qu'elle a été nommée finaliste pour le titre de «League of the Year 2026» aux «Clio Sports Awards», la compétition internationale qui récompense l'excellence créative en…",
-          "image": "https://www.haitilibre.com/images-a/p-48980.jpg",
-          "publishedAt": "2026-11-26T14:00:04.000Z",
-          "titleEn": "hereHaiti - Clio Sports Awards: FHF finalist for the title of  ⁇ League of the Year ⁇  2026",
-          "summaryEn": "The Haitian Football Federation announces that it has been named a finalist for the title of  ⁇ League of the Year 2026 ⁇  at the  ⁇ Clio Sports Awards ⁇ , the international competition that awards creative excellence in..."
-        },
-        {
-          "title": "Haïti - FLASH : Attaque armée à Kenscoff, au marché de Bolosse au moins 17 victimes",
-          "link": "https://www.haitilibre.com/article-48979-haiti-flash-attaque-armee-a-kenscoff-au-marche-de-bolosse-au-moins-17-victimes.html",
-          "summary": "La PNH rapporte que, tôt dans la matinée du mercredi 25 novembre un groupe de bandits terroristes, retranchés à Klemanso (une localité éloignée du centre de Kenscoff), a attaqué des agriculteurs au marché de Bolosse,…",
-          "image": "https://www.haitilibre.com/images-a/p-48979.jpg",
-          "publishedAt": "2026-11-26T13:51:03.000Z",
-          "titleEn": "Haiti - FLASH: Armed attack on Kenscoff, market in Bolosse at least 17 victims",
-          "summaryEn": "The PNH reports that early in the morning of Wednesday 25 November a group of terrorist bandits, stranded in Klemanso (a village far from the centre of Kenscoff), attacked farmers at the Bologna market,..."
-        },
-        {
-          "title": "iciHaïti - France : 4 matchs amicaux pour nos Grenadiers U-14 champions du CFU Challenge 2026",
-          "link": "https://www.icihaiti.com/article-48978-icihaiti-france-4-matchs-amicaux-pour-nos-grenadiers-u-14-champions-du-cfu-challenge-2026.html",
-          "summary": "Nos jeunes Grenadiers qui ont remporté pour la 3e fois après 2021 et 2022, le titre de champions du «CFU Challenge 2026 U-14 Boys», ont été invités par le Racing Club de Lens de Ligue 1, à un stage sportif en France de…",
-          "image": "https://www.haitilibre.com/images-a/p-48978.jpg",
-          "publishedAt": "2026-11-26T13:22:42.000Z",
-          "titleEn": "HereHaiti - France: 4 friendly matches for our U-14 champions of the 2026 CFU Challenge",
-          "summaryEn": "Our young Grenadiers who won for the third time after 2021 and 2022, the title of champions of the  ⁇ CFU Challenge 2026 U-14 Boys ⁇ , were invited by the Racing Club de Lens de Ligue 1, to a sports training in France from..."
-        },
-        {
-          "title": "Haïti - Coupe du Monde U-17 Qatar 2026 : Haïti Éliminé par l'Arabie Saoudite [2-1]",
-          "link": "https://www.haitilibre.com/article-48977-haiti-coupe-du-monde-u-17-qatar-2026-haiti-elimine-par-l-arabie-saoudite-[2-1].html",
-          "summary": "Mercredi 25 novembre dans le cadre de la Coupe du Monde U-17, Qatar 2026, nos Grenadiers affrontaient «les faucons» la sélection de l'Arabie Saoudite dans un match qui s'est achevé sur la défaite [2-1] et l'élimination…",
-          "image": "https://www.haitilibre.com/images-a/p-48977.jpg",
-          "publishedAt": "2026-11-26T10:42:19.000Z",
-          "titleEn": "Haiti - Qatar U-17 World Cup 2026: Haiti eliminated by Saudi Arabia [2-1]",
-          "summaryEn": "On Wednesday 25 November, as part of the 2026 U-17 World Cup, our Grenadiers faced the Falcons against Saudi Arabia in a match that ended in defeat [2-1] and elimination..."
-        },
-        {
-          "title": "Haïti - Loisirs : Le Saviez-vous ? #79",
-          "link": "https://www.haitilibre.com/article-48976-haiti-loisirs-le-saviez-vous-79.html",
-          "summary": "Quiz.HaitiLibre, vous propose 2 fois par semaine une chronique intitulée « Le Saviez-vous ? » Aujourd'hui nous vous demandons, quel instrument de musique est statistiquement considéré comme le plus joué et le plus…",
-          "image": "https://www.haitilibre.com/images-a/p-48976.jpg",
-          "publishedAt": "2026-11-25T15:24:26.000Z",
-          "titleEn": "Haiti - Leisure: Did you know ? #79",
-          "summaryEn": "Quiz.HaitiLibre offers you a column twice a week entitled  ⁇  Did you know? ⁇  Today we ask you, which musical instrument is statistically considered the most played and most..."
-        },
-        {
-          "title": "Haïti - Actualité : Zapping...",
-          "link": "https://www.haitilibre.com/article-48975-haiti-actualite-zapping.html",
-          "summary": "Salvador deux nouvelles bases militaires - Le P.M. Répond à Amnistie internationale - Renforcement de la coopération avec le Brésil - Réduction de la surpopulation carcérale - Éducation : 3 outils de gouvernance - 70 ans…",
-          "image": "https://www.haitilibre.com/images-a/p-48975.jpg",
-          "publishedAt": "2026-11-25T15:14:19.000Z",
-          "titleEn": "Haiti - News: Zapping...",
-          "summaryEn": "El Salvador two new military bases - the PM Answer to Amnesty International - Strengthening cooperation with Brazil - Reduction of prison overcrowding - Education: 3 governance tools - 70 years..."
         }
       ]
     },
@@ -180,8 +165,38 @@
         "homepage": "https://www.juno7.ht",
         "lang": "fr-HT"
       },
-      "fetchedAt": "2026-11-27T06:55:50.509Z",
+      "fetchedAt": "2026-11-27T18:45:08.294Z",
       "items": [
+        {
+          "title": "La FOLONHA et l’Université Lumière s’associent pour offrir des demi-bourses à des jeunes défavorisés",
+          "link": "https://www.juno7.ht/demi-bourses-folonha-universite-lumiere/",
+          "summary": "Un partenariat de six ans prévoit une dizaine de demi-bourses annuelles en médecine, en sciences infirmières et en technologies. L’objectif est de faciliter l’accès à l’enseignement supérieur pour des jeunes issus de…",
+          "publishedAt": "2026-11-27T18:19:10.000Z"
+        },
+        {
+          "title": "Crise sanitaire en Haïti : 4,9 millions de personnes ont besoin d’aide, alerte l’OMS",
+          "link": "https://www.juno7.ht/crise-sanitaire-en-haiti-oms-hopital-la-paix/",
+          "summary": "Les violences armées, les déplacements de population et les épidémies limitent l’accès aux soins en Haïti. L’OMS annonce un appui d’un million de dollars pour équiper l’Hôpital universitaire La Paix, qui accueille un…",
+          "publishedAt": "2026-11-27T18:01:36.000Z"
+        },
+        {
+          "title": "Digicel enchaîne les pannes, les abonnés face à un service incertain",
+          "link": "https://www.juno7.ht/pannes-de-digicel-haiti-service-abonnes/",
+          "summary": "De nouveaux dommages sur la route nationale numéro 1 perturbent les services de Digicel. Ces incidents répétés soulèvent des questions sur la continuité du réseau, l’information des abonnés et la protection des…",
+          "publishedAt": "2026-11-27T16:08:51.000Z"
+        },
+        {
+          "title": "Copa Duodécima : le FC Étoile Brillante célèbre ses 12 ans avec un tournoi réunissant 10 équipes",
+          "link": "https://www.juno7.ht/copa-duodecima-fc-etoile-brillante/",
+          "summary": "Prévue du 19 au 22 décembre à Union School, la compétition comprendra cinq catégories. Le club annonce dix équipes participantes pour célébrer ses douze années d’existence. Le FC Étoile Brillante a officiellement lancé…",
+          "publishedAt": "2026-11-27T15:09:04.000Z"
+        },
+        {
+          "title": "Haïti – Taux de référence BRH : vendredi 27 novembre 2026",
+          "link": "https://www.juno7.ht/haiti-taux-de-reference-brh-vendredi-27-novembre-2026/",
+          "summary": "La Banque de la République d’Haïti (BRH) calcule le taux de référence du jour à 130,83 gourdes pour un dollar américain (USD). La BRH établit ce taux à partir des transactions et opérations d’achat de devises…",
+          "publishedAt": "2026-11-27T13:13:43.000Z"
+        },
         {
           "title": "Le nouvel ambassadeur italien présente ses lettres de créance à Raina Forbin",
           "link": "https://www.juno7.ht/haiti-nouvel-ambassadeur-italien-sergio-maffettone/",
@@ -221,46 +236,6 @@
           "publishedAt": "2026-11-26T14:53:06.000Z",
           "titleEn": "Haiti  ⁇  BRH reference rate: Thursday 26 November 2026",
           "summaryEn": "The Bank of the Republic of Haiti (BRH) calculates the reference rate for the day at 130.89 guards per US dollar (USD). The HRC establishes this rate on the basis of foreign exchange transactions and purchases."
-        },
-        {
-          "title": "Debloke demande au CEP de s’en tenir à la loi électorale face aux appels au retrait de candidats",
-          "link": "https://www.juno7.ht/debloke-cep-loi-electorale-candidatures/",
-          "summary": "Le groupement politique conteste l’idée qu’une sanction étrangère suffise à écarter une candidature. Il invoque le décret électoral et rappelle une prise de position de l’ADIH sur le droit à un processus équitable. Le…",
-          "publishedAt": "2026-11-26T14:41:47.000Z",
-          "titleEn": "Debloke calls on the CEC to abide by the electoral law in the face of calls to withdraw candidates",
-          "summaryEn": "The political grouping disputes the idea that a foreign sanction is sufficient to exclude a candidate. It invokes the electoral decree and recalls the position taken by the I ⁇ ADIH on the right to a fair trial. The..."
-        },
-        {
-          "title": "Haïti : quatre organisations invitent les candidats sous sanctions internationales à envisager leur retrait",
-          "link": "https://www.juno7.ht/haiti-candidats-sanctions-internationales-appel-retrait/",
-          "summary": "La CCIO, l’Institut Macaya, la CCIHC et l’ADIH interpellent les candidats sous sanctions internationales. Dans une note du 25 novembre 2026, elles les invitent à envisager leur retrait et réclament un examen impartial…",
-          "publishedAt": "2026-11-26T00:01:18.000Z",
-          "titleEn": "Haiti: four organisations urge applicants under international sanctions to consider withdrawal",
-          "summaryEn": "The CCIO, the Macaya Institute, the CCIHC and the ADIH are intercepting applicants under international sanctions. In a note dated 25 November 2026, they call on them to consider withdrawing and call for an impartial review..."
-        },
-        {
-          "title": "France : la Révolution haïtienne et Toussaint Louverture intégrés au projet de programme de 4e",
-          "link": "https://www.juno7.ht/france-revolution-haitienne-toussaint-louverture-programme-4e/",
-          "summary": "Un amendement adopté par le Conseil supérieur de l’éducation prévoit d’aborder la Révolution haïtienne en classe de quatrième. Les enseignants seront notamment invités à expliquer l’abolition de l’esclavage et son…",
-          "publishedAt": "2026-11-25T14:48:29.000Z",
-          "titleEn": "France: the Haitian Revolution and Toussaint Louverture integrated into the 4th Framework Programme",
-          "summaryEn": "An amendment adopted by the Higher Education Council provides for an approach to the Haitian Revolution in fourth grade. Teachers will be asked to explain the abolition of slavery and its..."
-        },
-        {
-          "title": "Jean Danton Léger, ancien député et ancien chef du parquet de Port-au-Prince, est décédé",
-          "link": "https://www.juno7.ht/jean-danton-leger-deces-ancien-depute/",
-          "summary": "L’ancien représentant de Léogâne à la Chambre des députés est décédé mardi 24 novembre dans un centre hospitalier à Léogâne. Figure connue de l’actualité judiciaire et politique haïtienne, il avait notamment dirigé le…",
-          "publishedAt": "2026-11-25T14:36:37.000Z",
-          "titleEn": "Jean Danton Léger, former MP and former head of the Port-au-Prince prosecutor's office, has died",
-          "summaryEn": "The former representative of Léogâne in the Chamber of Deputies died on Tuesday 24 November in a hospital in Léogâne. He was a well-known figure in Haitian judicial and political news, having led the..."
-        },
-        {
-          "title": "Joseph Jouthe appelle les jeunes enrôlés dans les gangs à déposer les armes et à coopérer avec la justice",
-          "link": "https://www.juno7.ht/joseph-jouthe-jeunes-gangs-deposer-armes-justice/",
-          "summary": "Dans son « Appel à la justice et à la renaissance nationale », l’ancien Premier ministre exhorte les jeunes femmes, les jeunes hommes et les mineurs impliqués dans les groupes armés à se rendre aux autorités compétentes.…",
-          "publishedAt": "2026-11-24T23:19:02.000Z",
-          "titleEn": "Joseph Jouth calls on young gang members to lay down their weapons and cooperate with justice",
-          "summaryEn": "In his  ⁇  Call for justice and national rebirth  ⁇ , the former Prime Minister urged young women, young men and minors involved in armed groups to report to the competent authorities...."
         }
       ]
     }
