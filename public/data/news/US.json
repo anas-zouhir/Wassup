@@ -8,14 +8,21 @@
         "homepage": "https://www.nytimes.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-26T18:47:33.330Z",
+      "fetchedAt": "2026-11-27T06:56:47.771Z",
       "items": [
+        {
+          "title": "New Yorkers and Tourists Try to Salvage a Parade Day Postponed by Rain",
+          "link": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html",
+          "summary": "Wind and rain grounded the beloved balloons that typically dominate the Thanksgiving skies, leaving the streets along the parade route mostly deserted on Thursday.",
+          "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26met-parade-empty1-vzwf/26met-parade-empty1-vzwf-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-26T20:53:41.000Z"
+        },
         {
           "title": "Macy’s Thanksgiving Day Parade Upends Plans and Adds Costs for Marching Bands",
           "link": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html",
           "summary": "Nine marching bands were set to perform in the Macy’s Thanksgiving Day Parade. The decision to move the event to Saturday posed new logistical challenges for them.",
           "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25parade-live-marching-band-gfqm/25parade-live-marching-band-gfqm-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-26T02:32:27.000Z"
+          "publishedAt": "2026-11-26T20:21:00.000Z"
         },
         {
           "title": "Thanksgiving Parade Balloons Are Deflated in New York",
@@ -25,6 +32,13 @@
           "publishedAt": "2026-11-26T14:06:46.000Z"
         },
         {
+          "title": "After the Iowa Detonation, a Family Gathered for an Unusual Thanksgiving",
+          "link": "https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html",
+          "summary": "A family came together at a farmhouse in southeast Iowa the day after the explosion at an ammunition plant. It felt as if a storm had passed.",
+          "image": "https://static01.nyt.com/images/2026/11/26/us/26nat-iowa-blast-dinner--02/26nat-iowa-blast-dinner--02-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-27T00:33:25.000Z"
+        },
+        {
           "title": "The Army Knew Much Earlier of the Explosive Risk in Iowa, Evidence Suggests",
           "link": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html",
           "summary": "Efforts to get rid of unstable explosives at an Iowa plant began more than a year ago but weren’t completed at that time, setting the stage for Wednesday’s controversial blast.",
@@ -32,51 +46,39 @@
           "publishedAt": "2026-11-26T16:50:50.000Z"
         },
         {
-          "title": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
-          "link": "https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html",
-          "summary": "The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the realities of his other policies.",
-          "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-trump-econ-zmgl/25dc-trump-econ-zmgl-mediumSquareAt3X-v2.jpg",
-          "publishedAt": "2026-11-26T01:53:20.000Z"
-        },
-        {
-          "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
-          "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
-          "summary": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
-          "publishedAt": "2026-11-26T12:04:01.000Z"
-        },
-        {
-          "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
-          "link": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
-          "summary": "President Trump sent a message to trading partners across Asia, many of which depend on trade and investment from both the United States and China, that he is ready to escalate tariffs.",
-          "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26Biz-Asia-Tariffs-01-fzkq/26Biz-Asia-Tariffs-01-fzkq-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-26T17:03:31.000Z"
-        },
-        {
-          "title": "Trump Tried to Cripple Huawei. Now It Is Central to China’s A.I. Push.",
-          "link": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html",
-          "summary": "As China’s access to Nvidia’s advanced chips shrinks, Huawei is becoming increasingly indispensable to Beijing despite a wide technological gap with its American rival.",
-          "image": "https://static01.nyt.com/images/2026/11/25/multimedia/Biz-China-Huawei-03-wcft/Biz-China-Huawei-03-wcft-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-26T10:01:56.000Z"
-        },
-        {
-          "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
-          "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
-          "summary": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.",
-          "image": "https://static01.nyt.com/images/2026/02/02/multimedia/00int-brazil-russia-soldiers-01-pmvf/00int-brazil-russia-soldiers-01-pmvf-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-26T14:01:45.000Z"
-        },
-        {
-          "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
-          "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
-          "summary": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.",
-          "publishedAt": "2026-11-26T15:27:03.000Z"
-        },
-        {
           "title": "Democrats Confront a Familiar Question: How Are You Going to Pay for That?",
           "link": "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html",
           "summary": "Many Democratic plans are unlikely to become law under President Trump. But the party is still grappling with the difficult budget math of its agenda.",
-          "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-dem-agenda--01-wzbj/27dc-dem-agenda--01-wzbj-mediumSquareAt3X.jpg",
-          "publishedAt": "2026-11-26T14:50:27.000Z"
+          "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-dem-agenda--01-wzbj/27dc-dem-agenda--01-wzbj-mediumSquareAt3X-v2.jpg",
+          "publishedAt": "2026-11-26T14:50:28.000Z"
+        },
+        {
+          "title": "Trump Administration’s Cuts to SNAP Threaten Free School Meals",
+          "link": "https://www.nytimes.com/2026/11/26/us/politics/snap-food-stamps-school-meals.html",
+          "summary": "The Trump administration’s cuts and proposed regulatory changes to the Supplemental Nutrition Assistance Program would have consequences for school lunch and breakfast.",
+          "image": "https://static01.nyt.com/images/2026/11/25/multimedia/00dc-schoolmeals-01-glzv/00dc-schoolmeals-01-glzv-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-26T15:44:53.000Z"
+        },
+        {
+          "title": "The Threat to a Sanctuary for Children of North Korean Defectors",
+          "link": "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html",
+          "summary": "A school in Seoul caters to students whose parents fled North Korea. Neighbors want it gone, and students say it is just one example of the prejudice they face in the South.",
+          "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-korea-defector-school-01-bgjf/27int-korea-defector-school-01-bgjf-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-27T05:00:39.000Z"
+        },
+        {
+          "title": "Why the Georgia Tech Couple Became Another Viral TV Moment",
+          "link": "https://www.nytimes.com/2026/11/26/arts/television/georgia-tech-couple-fan-camera-ethics.html",
+          "summary": "A young couple’s argument captured by an ESPN college football broadcast was the latest social media frenzy set off by a roving camera during a live event.",
+          "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26xp-georgia-tech-couple-03-lgzq/26xp-georgia-tech-couple-03-lgzq-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-26T16:43:11.000Z"
+        },
+        {
+          "title": "Thanksgiving Is Back on the Menu for Francesca Hong, the Failed Wisconsin Governor Candidate",
+          "link": "https://www.nytimes.com/2026/11/26/us/politics/thanksgiving-wisconsin-governor-francesca-hong.html",
+          "summary": "Francesca Hong, who took heat over a social media post condemning the holiday during her run for the Democratic nomination, now has regrets — and is laughing it all off.",
+          "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26pol-hong-thanksgiving-jwtl/26pol-hong-thanksgiving-jwtl-mediumSquareAt3X.jpg",
+          "publishedAt": "2026-11-26T21:15:36.000Z"
         }
       ]
     },
@@ -87,8 +89,14 @@
         "homepage": "https://www.npr.org",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-26T18:47:33.509Z",
+      "fetchedAt": "2026-11-27T06:56:47.943Z",
       "items": [
+        {
+          "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+          "link": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
+          "summary": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80.",
+          "publishedAt": "2026-11-27T06:12:45.000Z"
+        },
         {
           "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
           "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
@@ -142,12 +150,6 @@
           "link": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
           "summary": "The Trump administration gave Elon Musk's SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a move that has raised skepticism among scientists.",
           "publishedAt": "2026-11-26T06:53:09.000Z"
-        },
-        {
-          "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
-          "link": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit",
-          "summary": "Taylor revealed his battle with Stage 4 metastatic prostate cancer in 2022. He was the guitarist of the 1980s English band Duran Duran, whose pop hits included \"Hungry Like the Wolf\" and \"Rio\".",
-          "publishedAt": "2026-11-26T06:34:20.000Z"
         }
       ]
     },
@@ -158,19 +160,37 @@
         "homepage": "https://www.washingtonpost.com",
         "lang": "en-US"
       },
-      "fetchedAt": "2026-11-26T18:47:42.624Z",
+      "fetchedAt": "2026-11-27T06:56:55.993Z",
       "items": [
         {
-          "title": "Scattered flight delays, flooding and outages as powerful storm hits East Coast",
+          "title": "Maryland residents urged to conserve water after storm disrupts power",
+          "link": "https://www.washingtonpost.com/nation/2026/11/26/maryland-residents-urged-conserve-water-after-storm-disrupts-power/",
+          "summary": "The Thanksgiving Day request affects nearly 2 million people in Montgomery and Prince George's counties after power issues at two filtration plants.",
+          "publishedAt": "2026-11-27T00:22:11.000Z"
+        },
+        {
+          "title": "Flight delays, flooding and power outages grow as storm batters East Coast",
           "link": "https://www.washingtonpost.com/nation/2026/11/26/powerful-thanksgiving-storm-threatens-east-coast-with-floods-damaging-winds/",
-          "summary": "The Thanksgiving Day storm is progressing through the Mid-Atlantic region with high wind and flood warnings from Virginia Beach to New York City.",
-          "publishedAt": "2026-11-26T16:46:02.000Z"
+          "summary": "Region’s worst Thanksgiving Day storm in decades has prompted high-wind and flood warnings from Virginia Beach to New York City.",
+          "publishedAt": "2026-11-27T00:17:38.000Z"
+        },
+        {
+          "title": "Anita DeFrantz, 'outstanding advocate for Olympic values,' dies at 74",
+          "link": "https://www.washingtonpost.com/obituaries/2026/11/26/anita-defrantz-outstanding-advocate-olympic-values-dies-74/",
+          "summary": "A bronze medalist in rowing, she was the first woman and first African American elected to the International Olympic Committee.",
+          "publishedAt": "2026-11-26T22:11:09.000Z"
+        },
+        {
+          "title": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80",
+          "link": "https://www.washingtonpost.com/obituaries/2026/11/26/strobe-talbott-who-helped-shape-clinton-era-foreign-policy-dies-80/",
+          "summary": "The journalist and diplomat’s knowledge of Russia and U.S.-Soviet relations was the foundation of a long, influential career.",
+          "publishedAt": "2026-11-26T21:28:12.000Z"
         },
         {
           "title": "ICE arrests man in Boston days after he won $1 million in lottery",
           "link": "https://www.washingtonpost.com/immigration/2026/11/26/ice-arrests-man-days-after-1m-lottery-win-boston/",
-          "summary": "“Looks like his luck ran out,” an ICE official said of Ariel Velasquez-Morales.",
-          "publishedAt": "2026-11-26T13:47:52.000Z"
+          "summary": "Ariel Velasquez-Morales, whom ICE says stayed in the United States illegally after being ordered to leave, had planned to save and invest his winnings.",
+          "publishedAt": "2026-11-26T20:30:27.000Z"
         },
         {
           "title": "For a Macy’s 100th Thanksgiving parade planner, ‘there’s only one shot’",
@@ -185,15 +205,15 @@
           "publishedAt": "2026-11-26T11:00:00.000Z"
         },
         {
-          "title": "Asked about Iran-contra, Reagan joked about pardoning a turkey. A tradition followed.",
-          "link": "https://www.washingtonpost.com/nation/2026/11/26/asked-about-iran-contra-reagan-joked-about-pardoning-turkey-tradition-followed/",
-          "summary": "The president would have preferred to keep the focus on Hawaiian Charlie.",
-          "publishedAt": "2026-11-26T10:00:00.000Z"
-        },
-        {
           "title": "Tech billionaire takes his case against red tape to the Federal Reserve",
           "link": "https://www.washingtonpost.com/business/2026/11/26/billionaire-marc-andreessen-takes-case-against-red-tape-federal-reserve/",
           "summary": "Marc Andreessen, a Trump ally whose firm has invested heavily in health care, education and housing, says he will use his role on a new Fed task force to argue that regulation is blocking progress in those sectors.",
+          "publishedAt": "2026-11-26T10:00:00.000Z"
+        },
+        {
+          "title": "Asked about Iran-contra, Reagan joked about pardoning a turkey. A tradition followed.",
+          "link": "https://www.washingtonpost.com/nation/2026/11/26/asked-about-iran-contra-reagan-joked-about-pardoning-turkey-tradition-followed/",
+          "summary": "The president would have preferred to keep the focus on Hawaiian Charlie.",
           "publishedAt": "2026-11-26T10:00:00.000Z"
         },
         {
@@ -201,24 +221,6 @@
           "link": "https://www.washingtonpost.com/nation/interactive/2026/11/26/macy-thanksgiving-parade-or-sliced-bread-choose-which-came-first-with-our-quiz/",
           "summary": "Is Harvard older than calculus? Did the Titanic sink before Oreos hit store shelves? Test your sense of history with these surprising matchups of events and inventions.",
           "publishedAt": "2026-11-26T10:00:00.000Z"
-        },
-        {
-          "title": "The mortality gap between Black and White Americans keeps shrinking",
-          "link": "https://www.washingtonpost.com/health/2026/11/26/number-excess-deaths-between-black-white-americans-shrank-sharply/",
-          "summary": "The gap in the number of excess deaths between Black Americans and White Americans shrank significantly between 1993 and 2023, according to a new study.",
-          "publishedAt": "2026-11-26T10:00:00.000Z"
-        },
-        {
-          "title": "Trump wants to work with Democrats on health care. But can they find a compromise?",
-          "link": "https://www.washingtonpost.com/business/2026/11/26/can-trump-democrats-find-common-ground-changes-health-care/",
-          "summary": "Democrats are focused on boosting Affordable Care Act subsidies and reversing Republican cuts to Medicaid, which are in opposition to Trump’s policies.",
-          "publishedAt": "2026-11-26T10:00:00.000Z"
-        },
-        {
-          "title": "Macy’s Thanksgiving Day Parade postponed by storm, rescheduled for Saturday",
-          "link": "https://www.washingtonpost.com/nation/2026/11/25/macys-thanksgiving-day-parade-postponed-by-storm-rescheduled-saturday/",
-          "summary": "A major storm is expected to hit the East Coast on Thursday.",
-          "publishedAt": "2026-11-26T04:01:20.000Z"
         }
       ]
     }

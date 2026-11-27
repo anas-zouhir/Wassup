@@ -8,8 +8,15 @@
         "homepage": "https://www.irrawaddy.com",
         "lang": "en-MM"
       },
-      "fetchedAt": "2026-11-26T18:46:58.212Z",
+      "fetchedAt": "2026-11-27T06:56:07.422Z",
       "items": [
+        {
+          "title": "Thailand Tests Find High Lead, Arsenic in River Shellfish",
+          "link": "https://www.irrawaddy.com/news/asia/thailand-tests-find-high-lead-arsenic-in-river-shellfish.html",
+          "summary": "Thai authorities urged residents to avoid eating 10 aquatic species amid growing concerns over river pollution linked to unregulated mining in Myanmar.",
+          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/11/Arsenic-in-River-2711261217-feat.jpg",
+          "publishedAt": "2026-11-27T05:19:18.000Z"
+        },
         {
           "title": "Myanmar’s Putschist President Shrugs at ICJ Genocide Verdict",
           "link": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/myanmars-putschist-president-shrugs-at-icj-genocide-verdict.html",
@@ -72,13 +79,6 @@
           "summary": "The announcement came amid concerns over the fate of migrants returned in September, while Turkey rejected a proposal to resettle 10,000 Rohingya refugees.",
           "image": "https://www.irrawaddy.com/wp-content/uploads/2026/11/malay25nof.jpg",
           "publishedAt": "2026-11-25T05:12:54.000Z"
-        },
-        {
-          "title": "UK Sanctions 5 Regime Generals Following ICJ Rohingya Genocide Ruling",
-          "link": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/uk-sanctions-5-regime-generals-following-icj-rohingya-genocide-ruling.html",
-          "summary": "London also announced plans to restrict aviation fuel supplies to Myanmar and pledged £8 million in humanitarian aid and support for accountability efforts.",
-          "image": "https://www.irrawaddy.com/wp-content/uploads/2026/11/UKSanctions24Nov26feat.jpg",
-          "publishedAt": "2026-11-24T11:49:24.000Z"
         }
       ]
     },
@@ -89,8 +89,15 @@
         "homepage": "https://myanmar-now.org",
         "lang": "en-MM"
       },
-      "fetchedAt": "2026-11-26T18:46:59.031Z",
+      "fetchedAt": "2026-11-27T06:56:08.561Z",
       "items": [
+        {
+          "title": "Thailand tests find high lead, arsenic in river shellfish",
+          "link": "https://myanmar-now.org/en/news/thailand-tests-find-high-lead-arsenic-in-river-shellfish/",
+          "summary": "Authorities urged residents in northern Thailand not to eat shellfish and cut off water supply to border villages due to rivers contaminated from unregulated mining in Myanmar",
+          "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/AFP__20261126__D8PE9G3__v1__HighRes__FilesThailandMyanmarHealthEnvironmentFoodMining.jpg",
+          "publishedAt": "2026-11-27T05:06:37.000Z"
+        },
         {
           "title": "Japan should press Myanmar to comply with ICJ ruling",
           "link": "https://myanmar-now.org/en/news/japan-should-press-myanmar-to-comply-with-icj-ruling/",
@@ -153,13 +160,6 @@
           "summary": "The ethnic Kokang armed group is moving to consolidate its hold over parts of northern Shan State captured during Operation 1027",
           "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/2026-11-20-18.07.41-1024x682.jpg",
           "publishedAt": "2026-11-24T09:09:38.000Z"
-        },
-        {
-          "title": "Malaysia to repatriate thousands more Myanmar migrants",
-          "link": "https://myanmar-now.org/en/news/malaysia-to-repatriate-thousands-more-myanmar-migrants/",
-          "summary": "The move comes despite concerns about the opaque scheme and uncertainty about parallel efforts to send refugees to third countries",
-          "image": "https://myanmar-now.org/en/wp-content/uploads/sites/5/2026/11/AFP__20261004__D26Y8Q2__v1__MidRes__MyanmarMalaysiaMigration-1-1024x683.jpg",
-          "publishedAt": "2026-11-24T08:07:50.000Z"
         }
       ]
     },
@@ -170,8 +170,26 @@
         "homepage": "https://english.dvb.no",
         "lang": "en-MM"
       },
-      "fetchedAt": "2026-11-26T18:46:58.452Z",
+      "fetchedAt": "2026-11-27T06:56:07.866Z",
       "items": [
+        {
+          "title": "Grand Krathong Parade closes festival of lights amid shared regional traditions",
+          "link": "https://english.dvb.no/grand-krathong-parade-closes-festival-of-lights-amid-shared-regional-traditions/",
+          "summary": "Thousands of Thai residents and international visitors lined the streets of northern Thailand’s Chiang Mai on Nov. 25, to watch the annual Grand Krathong Parade—the illuminated finale of the city’s Loy Krathong and Yi…",
+          "publishedAt": "2026-11-27T04:30:38.000Z"
+        },
+        {
+          "title": "Letters to a young activist: On the ICJ judgment, and what it revealed about us",
+          "link": "https://english.dvb.no/letter-to-a-young-activist-on-the-icj-judgment-and-what-it-revealed-about-us/",
+          "summary": "Dear Young Activist, Seven years. That’s how long it took for the International Court of Justice to say what the Rohingya have always known: Myanmar committed genocide. For survivors, it confirms that what happened to…",
+          "publishedAt": "2026-11-26T23:15:09.000Z"
+        },
+        {
+          "title": "Min Aung Hlaing to attend regional summits in Vietnam; Thai-Myanmar agreement to monitor river pollution",
+          "link": "https://english.dvb.no/min-aung-hlaing-to-attend-regional-summits-in-vietnam-thai-myanmar-agreement-to-monitor-river-pollution/",
+          "summary": "Min Aung Hlaing to attend regional summits in Vietnam Regime leader Min Aung Hlaing is set to attend the 12th Cambodia–Laos–Myanmar–Vietnam (CLMV) Summit and chair the 11th Ayeyawady–Chao Phraya–Mekong Economic…",
+          "publishedAt": "2026-11-26T23:00:00.000Z"
+        },
         {
           "title": "Satellite internet blackout in Rakhine State as 120 Starlink terminals go offline",
           "link": "https://english.dvb.no/satellite-internet-blackout-in-rakhine-state-as-120-starlink-terminals-go-offline/",
@@ -213,24 +231,6 @@
           "link": "https://english.dvb.no/myanmar-authorities-scrutinize-foreigners-in-yangon-as-scam-syndicates-shift-to-major-cities/",
           "summary": "Myanmar’s regime-controlled General Administration Department (GAD) has begun compiling data on all foreign nationals residing in Yangon following the arrest of more than 220 Myanmar and foreign suspects in a series of…",
           "publishedAt": "2026-11-25T08:12:01.000Z"
-        },
-        {
-          "title": "Bangladesh’s ousted leader Sheikh Hasina plans to return from exile on December 16",
-          "link": "https://english.dvb.no/bangladeshs-ousted-leader-sheikh-hasina-plans-to-return-from-exile-on-december-16/",
-          "summary": "Sheikh Hasina, who was ousted as Bangladesh’s prime minister more than two years ago, said Tuesday that she plans to return home from exile in India on Dec. 16, the day the country celebrates as Victory Day when it won…",
-          "publishedAt": "2026-11-25T05:14:20.000Z"
-        },
-        {
-          "title": "Thailand’s Loy Krathong Festival lights up Chiang Mai",
-          "link": "https://english.dvb.no/thailands-loy-krathong-festival-lights-up-chiang-mai/",
-          "summary": "Thousands of Thai residents and international visitors gathered along the banks of the Ping River in northern Thailand’s Chiang Mai on Tuesday to celebrate Loy Krathong, the country’s traditional festival of lights from…",
-          "publishedAt": "2026-11-25T04:54:59.000Z"
-        },
-        {
-          "title": "In landmine-ravaged Myanmar, a rebel with an artificial leg vows to fight on",
-          "link": "https://english.dvb.no/in-landmine-ravaged-myanmar-a-rebel-with-an-artificial-leg-vows-to-fight-on/",
-          "summary": "Late one January night, platoon commander Pee Litt led a group of Myanmar resistance fighters into a village in the country’s central Bago region, where eight of their comrades had been killed and their bodies ​left…",
-          "publishedAt": "2026-11-25T03:38:56.000Z"
         }
       ]
     }

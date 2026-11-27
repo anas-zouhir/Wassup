@@ -8,43 +8,57 @@
         "homepage": "https://www.srf.ch/news",
         "lang": "de-CH"
       },
-      "fetchedAt": "2026-11-26T18:46:16.754Z",
+      "fetchedAt": "2026-11-27T06:55:26.257Z",
       "items": [
         {
-          "title": "Biografie eines Kriminellen – «Ich entscheide mich oft fürs Falsche»: Ein Leben hinter Gittern",
-          "link": "https://www.srf.ch/sendungen/dok/biografie-eines-kriminellen-ich-entscheide-mich-oft-fuers-falsche-ein-leben-hinter-gittern",
-          "summary": "Seit Giorgio Lörtscher volljährig ist, sitzt er fast immer im Gefängnis. Wie kann er dem eigenen Muster entkommen?",
-          "image": "https://www.srf.ch/static/cms/images//320ws/269b70.webp",
-          "publishedAt": "2026-11-26T18:00:02.000Z",
-          "titleEn": "Biography of a criminal  ⁇   ⁇  I often choose the wrong one: a life behind bars",
-          "summaryEn": "Since Giorgio Lörtscher has been an adult, he's been in prison almost always. How can he escape his own pattern?"
+          "title": "Niederschläge in den Alpen – So viel Schnee gab es seit 1987 nicht mehr",
+          "link": "https://www.srf.ch/news/dialog/niederschlaege-in-den-alpen-so-viel-schnee-gab-es-seit-1987-nicht-mehr",
+          "summary": "In vielen Regionen liegt bereits meterhoch Schnee. Die Skigebiete profitieren von einem aussergewöhnlichen Saisonstart.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/cff835.webp",
+          "publishedAt": "2026-11-27T04:59:13.000Z"
         },
         {
-          "title": "Untersuchungsbericht der USA – USA werfen der Schweiz unlauteren Wettbewerb vor",
-          "link": "https://www.srf.ch/news/wirtschaft/untersuchungsbericht-der-usa-usa-werfen-der-schweiz-unlauteren-wettbewerb-vor",
-          "summary": "Die USA legen einen Bericht vor. Dieser ist die Grundlage der Verhandlungen. Was die USA der Schweiz alles vorwerfen.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/7e5aee.webp",
-          "publishedAt": "2026-11-26T17:30:29.000Z",
-          "titleEn": "US investigation report  ⁇  US accuse Switzerland of unfair competition",
-          "summaryEn": "The United States is presenting a report. This is the basis of the negotiations. What the United States accuses Switzerland of."
+          "title": "Inserate-Plattformen – Wie Onlinebetrüger auf Tutti und Ricardo ihre Opfer austricksen",
+          "link": "https://www.srf.ch/sendungen/kassensturz-espresso/kassensturz/inserate-plattformen-wie-onlinebetrueger-auf-tutti-und-ricardo-ihre-opfer-austricksen",
+          "summary": "Auf Tutti, Ricardo oder Facebook Marketplace suchen Kriminelle ihre Opfer. Die Tricks werden dank KI immer raffinierter.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/194979.webp",
+          "publishedAt": "2026-11-27T05:07:30.000Z"
+        },
+        {
+          "title": "«Bilanz»-Ranking – Das sind die 300 reichsten Menschen in der Schweiz",
+          "link": "https://www.srf.ch/news/wirtschaft/bilanz-ranking-das-sind-die-300-reichsten-menschen-in-der-schweiz",
+          "summary": "Zum dritten Mal in Folge hat das Vermögen der 300 Reichsten in der Schweiz einen Rekord aufgestellt. Ein Überblick.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/ce3c29.webp",
+          "publishedAt": "2026-11-26T21:40:57.000Z"
+        },
+        {
+          "title": "Unfall im Kanton Zürich – Abschnitt der A1 wegen Unfalls mit mehreren Fahrzeugen gesperrt",
+          "link": "https://www.srf.ch/news/schweiz/unfall-im-kanton-zuerich-abschnitt-der-a1-wegen-unfalls-mit-mehreren-fahrzeugen-gesperrt",
+          "summary": "Auf der Autobahn A1 sind am Morgen zwischen Effretikon und Winterthur-Töss mehrere Fahrzeuge kollidiert.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/0df462.webp",
+          "publishedAt": "2026-11-27T06:36:42.000Z"
+        },
+        {
+          "title": "«Fockers-in-Law» im Kino – Ariana Grande legt sich mit Robert De Niro und Ben Stiller an",
+          "link": "https://www.srf.ch/kultur/film-serien/fockers-in-law-im-kino-ariana-grande-legt-sich-mit-robert-de-niro-und-ben-stiller-an",
+          "summary": "In der Komödie «Fockers-in-Law» zeigt Popstar Ariana Grande, dass sie auf die grosse Leinwand gehört.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/dcf8a4d.webp",
+          "publishedAt": "2026-11-27T05:47:47.000Z"
+        },
+        {
+          "title": "Unwetter an Thanksgiving – Hunderttausende an US-Ostküste ohne Strom",
+          "link": "https://www.srf.ch/news/international/unwetter-an-thanksgiving-hunderttausende-an-us-ostkueste-ohne-strom",
+          "summary": "Ein Sturm legt Teile der US-Ostküste lahm. Hunderttausende sind ohne Strom, Flüge fallen aus.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/f60fdb.webp",
+          "publishedAt": "2026-11-27T05:55:08.000Z"
         },
         {
           "title": "«Unterwanderungs-Vorwürfe» – Junge SVP Schweiz schliesst zehn Luzerner aus",
           "link": "https://www.srf.ch/news/schweiz/unterwanderungs-vorwuerfe-junge-svp-schweiz-schliesst-zehn-luzerner-aus",
-          "summary": "Für die Parteileitung sei erwiesen, dass die «Junge Tat» eine entsprechende Aktion orchestriert habe.",
+          "summary": "Laut Parteileitung hat die «Junge Tat» eine solche Aktion orchestriert. Die Kantonalpartei bestreitet die Vorwürfe.",
           "image": "https://www.srf.ch/static/cms/images//320ws/a7fcad.webp",
-          "publishedAt": "2026-11-26T18:06:43.000Z",
-          "titleEn": "⁇  Immigration allegations  ⁇   ⁇  Young SVP Switzerland excludes 10 Lucetans",
-          "summaryEn": "The party leadership was shown that the Young Act had orchestrated a corresponding action."
-        },
-        {
-          "title": "Teures Rüstungsgeschäft – «Jawohl!» – So setzte Bundesrätin Amherd ihren Willen durch",
-          "link": "https://www.srf.ch/news/schweiz/teures-ruestungsgeschaeft-jawohl-so-setzte-bundesraetin-amherd-ihren-willen-durch",
-          "summary": "Eine Aktennotiz zeigt, warum die ehemalige VBS-Chefin ein teures Rüstungsgeschäft trotz Widerstand an die Ruag vergab.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/35091a.webp",
-          "publishedAt": "2026-11-26T16:30:01.000Z",
-          "titleEn": "This is how Federal Councillor Amherd pursued her will.",
-          "summaryEn": "A note on the record shows why the former VBS head sold an expensive armaments business despite resistance to the riots."
+          "publishedAt": "2026-11-27T03:02:09.000Z",
+          "titleEn": "⁇  Immigration allegations  ⁇   ⁇  Young SVP Switzerland excludes 10 Lucetans"
         },
         {
           "title": "Junge Leute haben weniger Sex – «Die Hürde zur Paar-Sexualität ist grösser geworden»",
@@ -56,49 +70,18 @@
           "summaryEn": "According to one study, young people today have less sex than they did in the past. Sexologist Caroline Fux explains possible reasons."
         },
         {
-          "title": "Machtkampf am Spital Thun – Eskalation am Spital Thun führt zu weiterem Chefarzt-Abgang",
-          "link": "https://www.srf.ch/news/schweiz/machtkampf-am-spital-thun-eskalation-am-spital-thun-fuehrt-zu-weiterem-chefarzt-abgang",
-          "summary": "Nach dem Rauswurf von Orthopädie-Chef Rolf Hess und heftiger Kritik tritt nun auch der Chefarzt der Chirurgie zurück.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/8ab6af.webp",
-          "publishedAt": "2026-11-26T16:51:26.000Z",
-          "titleEn": "Struggle for power at Thun Hospital Escalation at Thun hospital leads to further chief physician departure",
-          "summaryEn": "After the dismissal of chief orthopedic surgeon Rolf Hess and fierce criticism, the chief surgeon is now resigning."
+          "title": "Projekt «Starmind» – Haben eine Millionen Satelliten überhaupt Platz im All?",
+          "link": "https://www.srf.ch/wissen/kuenstliche-intelligenz/projekt-starmind-haben-eine-millionen-satelliten-ueberhaupt-platz-im-all",
+          "summary": "Mit dem Projekt «Starmind» will Space X von Elon Musk eine Million Satelliten in den Weltraum schiessen.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/c60729.webp",
+          "publishedAt": "2026-11-27T05:03:47.000Z"
         },
         {
-          "title": "Kriegsverbrechen – Die Männer hinter Afrikas schlimmsten Gräueltaten",
-          "link": "https://www.srf.ch/news/international/kriegsverbrechen-die-maenner-hinter-afrikas-schlimmsten-graeueltaten",
-          "summary": "Kabuga ist nur einer von vielen: Diese afrikanischen Kriegsverbrecher sorgten weltweit für Schlagzeilen.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/cf43fb.webp",
-          "publishedAt": "2026-11-26T16:47:18.000Z",
-          "titleEn": "War crimes  ⁇  The men behind Africa's worst atrocities",
-          "summaryEn": "Kabuga is just one of many: these African war criminals made headlines around the world."
-        },
-        {
-          "title": "Urteil des Bundesgerichts – Streit um Schoggi-Kugeln: Lindt bekommt teilweise recht",
-          "link": "https://www.srf.ch/news/schweiz/urteil-des-bundesgerichts-streit-um-schoggi-kugeln-lindt-bekommt-teilweise-recht",
-          "summary": "Die roten «Moser Roth»-Kugeln von Aldi erinnern zu stark an Lindor-Kugeln. Sie dürfen weiterhin nicht verkauft werden.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/ba61532.webp",
-          "publishedAt": "2026-11-26T16:49:50.000Z",
-          "titleEn": "Federal court ruling  ⁇  Dispute over Schoggi balls: Lindt gets partially right",
-          "summaryEn": "Aldi's red  ⁇ Moser Roth ⁇  balls are too much like Lindor balls. They must not continue to be sold."
-        },
-        {
-          "title": "Einziger Blitzer im Aargau – Kanton verlangt: Der Blitzer in Baden muss abgeschaltet werden",
-          "link": "https://www.srf.ch/news/schweiz/einziger-blitzer-im-aargau-kanton-verlangt-der-blitzer-in-baden-muss-abgeschaltet-werden",
-          "summary": "Ab dem 1. Januar 2027 brauchen festinstallierte Blitzer im Aargau eine Bewilligung. Der Kanton verlangt die Abschaltung.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/0d9557b.webp",
-          "publishedAt": "2026-11-26T16:59:59.000Z",
-          "titleEn": "Only lighter in Aargau  ⁇  Canton demands: the lighter must be switched off in Baden",
-          "summaryEn": "Starting on the 1st. In January 2027, fixed lightning installations in Aargau will need a permit. The canton demands the shutdown."
-        },
-        {
-          "title": "Naturgewalt mit Folgen – El Niño: Vorbereitungen auf das Unvermeidbare",
-          "link": "https://www.srf.ch/wissen/klimawandel/naturgewalt-mit-folgen-el-nino-vorbereitungen-auf-das-unvermeidbare",
-          "summary": "Seit Monaten warnen Forschende vor dem aktuellen El-Niño-Ereignis. Wie sich betroffene Regionen dagegen wappnen.",
-          "image": "https://www.srf.ch/static/cms/images//320ws/1d9f17.webp",
-          "publishedAt": "2026-11-26T15:08:31.000Z",
-          "titleEn": "Natural violence with consequences  ⁇  El Niño: preparations for the inevitable",
-          "summaryEn": "For months, researchers have been warning of the current El Nino event. How the affected regions are arming themselves against it."
+          "title": "EU-Finanzplanung bis 2034 – Sondergipfel wird vorzeitig beendet",
+          "link": "https://www.srf.ch/news/international/eu-finanzplanung-bis-2034-sondergipfel-wird-vorzeitig-beendet",
+          "summary": "Beim EU-Sondergipfel in Brüssel wurde über das Gemeinschaftsbudget für die Jahre 2028 bis 2034 verhandelt.",
+          "image": "https://www.srf.ch/static/cms/images//320ws/18be5c.webp",
+          "publishedAt": "2026-11-27T01:10:05.000Z"
         }
       ]
     },
@@ -109,97 +92,77 @@
         "homepage": "https://www.nzz.ch",
         "lang": "de-CH"
       },
-      "fetchedAt": "2026-11-26T18:46:16.432Z",
+      "fetchedAt": "2026-11-27T06:55:25.955Z",
       "items": [
         {
-          "title": "Ein Spanier wird neuer Chef der EZB. Er muss den Weg zwischen Inflation und Schuldenkrise finden",
-          "link": "https://www.nzz.ch/wirtschaft/pablo-hernandez-de-cos-soll-neuer-ezb-praesident-werden-ld.10075651",
-          "summary": "Pablo Hernández de Cos soll im Februar die Nachfolge von Christine Lagarde übernehmen. Der angesehene Ökonom ist ein ausgewiesener Experte für Staatsfinanzen – und Anhänger der lockeren Geldpolitik von Mario Draghi.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/16/4008e70e-d7d4-48f9-bc7b-809bfd3a80b0.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1131,1131,x1008,y19",
-          "publishedAt": "2026-11-26T17:51:27.000Z",
-          "titleEn": "A Spaniard becomes the new head of the ECB. He must find a way between inflation and the debt crisis",
-          "summaryEn": "Pablo Hernández de Cos is due to succeed Christine Lagarde in February. The respected economist is a noted expert on public finances and a supporter of Mario Draghi's loose monetary policy."
+          "title": "«Können kein Bancomat für die EU sein»: Die Unterstützer der Ukraine kritisieren ostmitteleuropäische Abweichler scharf",
+          "link": "https://www.nzz.ch/international/koennen-kein-bancomat-fuer-die-eu-sein-die-ukraine-unterstuetzer-kritisieren-osteuropaeische-abweichler-scharf-ld.10075241",
+          "summary": "Beim letzten Milliardenkredit beteiligten sich Ungarn, Tschechien und die Slowakei nicht, obwohl sie selbst stark von der EU-Solidarität profitieren. Das dürfe sich nicht wiederholen, hiess es am EU-Gipfel.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/26/31c1b79d-173b-4920-bb6d-585433d965e6.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3199,3199,x2222,y111",
+          "publishedAt": "2026-11-27T05:32:30.000Z"
         },
         {
-          "title": "«Deutschlands erstes Topmodel» ist tot. Veruschka ist im Alter von 87 Jahren gestorben",
-          "link": "https://www.nzz.ch/feuilleton/deutschlands-erstes-topmodel-ist-tot-veruschka-ist-im-alter-von-87-jahren-gestorben-ld.10074835",
-          "summary": "Ihr Vater wurde hingerichtet, weil er sich gegen Hitler verschworen hatte, sie selbst landete im Kinderheim. Und als Veruschka wurde Vera Gräfin von Lehndorff zur Ikone der sechziger Jahre. Sie sah sich aber nie nur als…",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/25/d4dca334-1956-4fd3-84ff-868f6f9c7c2b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2883,2883,x974,y0",
-          "publishedAt": "2026-11-26T17:25:33.000Z",
-          "titleEn": "Germany's first top model is dead. Veruschka died at the age of 87.",
-          "summaryEn": "Her father was executed for conspiring against Hitler, and she herself ended up in a children's home. And as Veruschka, Vera, Countess of Lehndorff, became an icon of the '60s. But she never thought of herself as just..."
+          "title": "November, es regnet – und trotzdem geht Dörfern das Wasser aus. Wie viel ist wirklich kaputt im Wasserschloss Schweiz?",
+          "link": "https://www.nzz.ch/gesellschaft/november-es-regnet-und-trotzdem-geht-doerfern-das-wasser-aus-wie-viel-ist-wirklich-kaputt-im-wasserschloss-schweiz-ld.10073204",
+          "summary": "Reise zu denen, die in Tanklastwagen rechnen. Und solchen, die von Wasserautobahnen träumen.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/13/78527d40-75ac-46e9-8017-41c0a3e81a7d.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2752,2752,x688,y0",
+          "publishedAt": "2026-11-27T04:31:00.000Z"
         },
         {
-          "title": "Eine Million Satelliten: SpaceX erhält die Genehmigung für ein gigantisches Rechenzentrum im All. Astronomen sind entsetzt",
-          "link": "https://www.nzz.ch/wissenschaft/eine-million-satelliten-spacex-erhaelt-die-genehmigung-fuer-ein-gigantisches-rechenzentrum-im-all-astronomen-sind-entsetzt-ld.10075345",
-          "summary": "Die Kommunikationsbehörde der USA hat grünes Licht für ein Weltraumprojekt der Superlative gegeben. Für Umweltfragen fühlt sich die Behörde nicht zuständig.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/15/6229a3f2-a3aa-44a0-84de-8a9ee1eb60ab.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4859,4859,x1215,y0",
-          "publishedAt": "2026-11-26T17:00:00.000Z",
-          "titleEn": "One million satellites: SpaceX receives a license for a giant data center in space. Astronomers are terrified",
-          "summaryEn": "The U.S. Communications Department has given the green light for a superlative space project. The Authority does not feel responsible for environmental matters."
+          "title": "KOMMENTAR - Die Wahl des Spaniers Pablo Hernández de Cos zum EZB-Chef zeigt: Die Notenbank ist fest in den Händen des «Club Med»",
+          "link": "https://www.nzz.ch/meinung/die-wahl-des-spaniers-pablo-hernandez-de-cos-zum-ezb-chef-zeigt-die-notenbank-ist-fest-in-den-haenden-des-club-med-ld.10075756",
+          "summary": "Erneut wird ein Südeuropäer Präsident der EZB, ein Deutscher wird Chefökonom. Für Berlin könnte sich das als Pyrrhussieg erweisen.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/26/983ea4b0-15e2-4afe-995a-92fd2079424d.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3274,3273,x2199,y688",
+          "publishedAt": "2026-11-27T04:30:00.000Z"
         },
         {
-          "title": "Ein Visum trotz allen Warnungen: Warum Félicien Kabuga unbehelligt in die Schweiz einreisen konnte",
-          "link": "https://www.nzz.ch/schweiz/ein-visum-trotz-allen-warnungen-warum-felicien-kabuga-unbehelligt-in-die-schweiz-einreisen-konnte-ld.10075296",
-          "summary": "Die Schweizer Behörden haben im Umgang mit dem mutmasslichen Drahtzieher des Völkermordes in Rwanda in mehreren Punkten versagt. Zu diesem Schluss kommt eine neue Untersuchung.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/26/5e2589e6-47bd-4fc6-b9e2-87786c960bcc.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1033,1033,x451,y217",
-          "publishedAt": "2026-11-26T16:41:12.000Z",
-          "titleEn": "A visa in spite of warnings: Why Félicien Kabuga was able to enter Switzerland unimpeded",
-          "summaryEn": "The Swiss authorities have failed to deal with the alleged culprit of the genocide in Rwanda in several respects. That concludes a new investigation."
+          "title": "Im Nationalteam ausgebootet, im Klub treffsicher – Noah Okafor überzeugt in Leeds mit starken Leistungen",
+          "link": "https://www.nzz.ch/sport/fussball/im-nationalteam-ausgebootet-im-klub-treffsicher-noah-okafor-ueberzeugt-in-leeds-mit-starken-leistungen-ld.10075595",
+          "summary": "Nach einem Zerwürfnis mit dem Trainer Murat Yakin an der WM ist der 26-Jährige aus der Nationalmannschaft zurückgetreten. Im Klub scheint Okafor dieser Entscheid zu beflügeln.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/26/8f42a5a3-c357-464d-8c48-2079e8c1d126.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5504,5504,x1376,y0",
+          "publishedAt": "2026-11-27T04:30:00.000Z"
         },
         {
-          "title": "LIVE-TICKER - Iran-Krieg: Italien meldet zwei Todesopfer nach Angriff auf Kuwait – Teheran weist Anschuldigungen zurück",
-          "link": "https://www.nzz.ch/international/iran-krieg-bahrain-geraet-erneut-unter-iranischen-beschuss-ld.10021246",
-          "summary": "Angriffe, Gegenangriffe und internationale Reaktionen: Der Krieg in Iran verändert die Lage im Nahen Osten. Die neuesten Entwicklungen im Ticker.",
-          "image": "https://img-msp-prod.nzz.ch/2026/08/05/8c9250b3-e58b-46be-b675-1593273eb305.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1690,1690,x919,y0",
-          "publishedAt": "2026-11-26T16:33:36.000Z",
-          "titleEn": "LIVE-TICKER - Iran war: Italy reports two deaths after attack on Kuwait  ⁇  Tehran denies allegations",
-          "summaryEn": "Attacks, counterattacks and international reactions: The war in Iran is changing the situation in the Middle East. The latest developments in Ticker."
+          "title": "Frankreichs Verteidigungsministerin zur Luftverteidigung: «Die Schweiz könnte sich an der Entwicklung neuer Fähigkeiten beteiligen»",
+          "link": "https://www.nzz.ch/schweiz/verteidigungsministerin-vautrin-die-schweiz-koennte-sich-an-der-weiterentwicklung-unseres-flugabwehrsystems-beteiligen-ld.10075460",
+          "summary": "Die französische Verteidigungsministerin Catherine Vautrin wirbt bei ihrem Besuch in Bern für das Flugabwehrsystem SAMP/T NG. Im Interview spricht sie über mögliche Liefertermine, die militärische Kooperation mit der…",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/26/eea3c20f-c165-4fe1-8fb7-428f8b431b82.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1066,1066,x267,y0",
+          "publishedAt": "2026-11-27T04:30:00.000Z"
         },
         {
-          "title": "«Wenn du anfängst, mit ihm zu sprechen, bist du verloren»: Papst Franziskus ist dem Teufel begegnet, mitten in Buenos Aires",
-          "link": "https://www.nzz.ch/feuilleton/wenn-du-anfaengst-mit-ihm-zu-sprechen-bist-du-verloren-papst-franziskus-hat-den-teufel-gesehen-mitten-in-buenos-aires-ld.10075346",
-          "summary": "Was schreibt ein Papst in sein Tagebuch? Franziskus schildert bemerkenswerte Begegnungen. Zum Beispiel mit dem Satan. Dreimal will er ihn gesehen haben.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/26/012db744-83ab-41b1-b9a3-a6e870c81495.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2115,2115,x532,y0",
-          "publishedAt": "2026-11-26T16:30:52.000Z",
-          "titleEn": "When you start talking to him, you're lost.",
-          "summaryEn": "What does a pope write in his diary? Francis describes remarkable encounters. For example, with Satan. Three times he wants to see him."
+          "title": "Das Vertrauen in Nvidia und andere Tech-Konzerne bröckelt: «Manche Chefs benehmen sich, als würden sie ein Startup-Unternehmen führen»",
+          "link": "https://www.nzz.ch/finanzen/krise-bei-nvidia-vertrauen-broeckelt-an-der-boerse-wegen-fuehrung-und-skandalen-ld.10075397",
+          "summary": "Die Euphorie an der Börse über die Rückkehr von Jensen Huang an die Spitze von Nvidia ist verflogen. Die Gründe für die Zurückhaltung der Anleger an der Börse – und was Finanzexperten erwarten.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/26/b9884375-0923-46a4-87b3-feb1a97fc132.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2668,2668,x396,y0",
+          "publishedAt": "2026-11-27T04:30:00.000Z"
         },
         {
-          "title": "DER ANDERE BLICK - Friedrich Merz weiss, was er beim EU-Haushalt will. Doch gegen Macron und Meloni wird er einen schweren Stand haben",
-          "link": "https://www.nzz.ch/der-andere-blick/friedrich-merz-weiss-was-er-beim-eu-haushalt-will-doch-gegen-macron-und-meloni-wird-er-einen-schweren-stand-haben-ld.10075631",
-          "summary": "Der deutsche Kanzler will die Ausgaben der EU begrenzen und das Geld anders verteilen. Dabei geht es um mehr als Geld: Europa muss seine Prioritäten neu ordnen – auch gegen Widerstände und gewachsene Besitzstände.",
-          "image": "https://img-msp-prod.nzz.ch/2026/11/26/50031789-c9cf-4233-854a-fa18403931e8.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x1000,y0",
-          "publishedAt": "2026-11-26T16:30:00.000Z",
-          "titleEn": "The other blink - Friedrich Merz knows what he wants from the EU budget. But against Macron and Meloni, he'll have a tough stand.",
-          "summaryEn": "The German Chancellor wants to limit EU spending and distribute the money differently. This is about more than money: Europe needs to rearrange its priorities  ⁇  even against resistance and growing possessions."
+          "title": "Verpanzerung gegen die Zumutungen der Welt: Man sollte sich wieder mit Helmut Lethen beschäftigen",
+          "link": "https://www.nzz.ch/feuilleton/verpanzerung-gegen-die-zumutungen-der-welt-man-sollte-sich-wieder-mit-helmut-lethen-beschaeftigen-ld.10075343",
+          "summary": "Der Kulturwissenschafter legte mit dem Buch «Verhaltenslehren der Kälte» eine epochale Theorie vor. Über dreissig Jahre später ist sie aktueller denn je. Eine Anleitung für Krisenzeiten.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/26/454b652a-0b1e-40a5-8332-ee0791a030da.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3280,3280,x824,y0",
+          "publishedAt": "2026-11-27T04:30:00.000Z"
         },
         {
-          "title": "MELDUNGEN WIRTSCHAFT - Möglicher Mega-Deal in der Tabakindustrie: Altria prüft Übernahme von Imperial Brands",
-          "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10075772",
-          "summary": "Die neuesten Meldungen aus der Wirtschaft.",
-          "image": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
-          "publishedAt": "2026-11-26T16:09:24.000Z",
-          "titleEn": "NOTICE OF WIRTSHAPPENCE - Possible mega deal in the tobacco industry: Altria is considering the acquisition of Imperial Brands",
-          "summaryEn": "The latest news from the economy."
+          "title": "Die Nvidia-Aktie: ein rasanter Aufstieg und ein Absturz in Billionenhöhe",
+          "link": "https://www.nzz.ch/wirtschaft/die-nvidia-aktie-ein-rasanter-aufstieg-und-ein-absturz-in-billionenhoehe-ld.10074700",
+          "summary": "Die Aktien des amerikanischen Chipherstellers kannten jahrelang nur eine Richtung: nach oben. Dann wurden die Liebesaffären von Konzernchef Jensen Huang publik. Es folgten Spionagevorwürfe, Huangs Rücktritt und ein…",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/26/916c9e74-3afc-4a2e-aeaf-84936abcff57.png?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1439,1439,x183,y0",
+          "publishedAt": "2026-11-27T04:30:00.000Z"
         },
         {
-          "title": "Zollstreit: Die Schweizerische Nationalbank wehrt sich gegen die Vorwürfe aus den USA",
-          "link": "https://www.nzz.ch/wirtschaft/zollstreit-die-schweizerische-nationalbank-wehrt-sich-gegen-die-vorwuerfe-aus-den-usa-ld.10075381",
-          "summary": "Zur Rechtfertigung höherer Zölle nehmen die USA die SNB ins Visier. Ökonomisch sind die Argumente schwach begründet. Dennoch hat die Nationalbank ein Problem, das sie verletzlich macht für Angriffe.",
-          "image": "https://img-msp-prod.nzz.ch/2026/10/31/562cbb5f-ae20-4df7-8d5c-8a40e948b2d1.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2250,2250,x375,y0",
-          "publishedAt": "2026-11-26T15:56:47.000Z",
-          "titleEn": "Customs dispute: Swiss National Bank defends itself against US allegations",
-          "summaryEn": "In order to justify higher tariffs, the United States is targeting the SNB. In economic terms, the arguments are weakly substantiated. Nevertheless, the National Bank has a problem that makes it vulnerable to attack."
+          "title": "Der FC Basel bricht gerade auseinander: Ist das System von David Degen am Ende?",
+          "link": "https://www.nzz.ch/sport/fussball/der-fc-basel-bricht-gerade-auseinander-ist-das-system-von-david-degen-am-ende-ld.10074629",
+          "summary": "Auch nach dem Trainerwechsel fällt der FC Basel immer tiefer. Der sportliche Kriechgang legt offen, dass die Klubführung über die Bücher muss. Sonst droht der Abstieg.",
+          "image": "https://img-msp-prod.nzz.ch/2026/11/26/14681995-2948-48c3-8455-c7b544252008.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3502,3502,x876,y0",
+          "publishedAt": "2026-11-27T04:30:00.000Z"
         },
         {
-          "title": "MELDUNGEN ZÜRICH - Die Hotelfachschule Zürich ist gerettet – neues Ausbildungsangebot geplant +++ Die Stadt pflanzt 1000 neue Bäume",
-          "link": "https://www.nzz.ch/zuerich/zuercher-nationalraetin-katharina-prelicz-huber-verabschiedet-sich-aus-bern-ld.10038407",
-          "summary": "Die neuesten Meldungen aus dem Kanton.",
-          "image": "https://img-msp-prod.nzz.ch/2026/10/23/02195034-6394-4500-8464-54dd519778a0.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2811,2811,x703,y0",
-          "publishedAt": "2026-11-26T15:48:33.000Z",
-          "titleEn": "ZURICH - The Zurich Hotel Faculty is saved  ⁇  new training is planned +++ The city plants 1000 new trees",
-          "summaryEn": "The latest news from the canton."
+          "title": "Erhöht die Schweiz ihre Mehrwertsteuer, bedeutet dies «Manna» für Liechtenstein",
+          "link": "https://www.nzz.ch/schweiz/erhoeht-die-schweiz-ihre-mehrwertsteuer-bedeutet-dies-manna-fuer-liechtenstein-ld.10074434",
+          "summary": "Im Fürstentum blickt man der Abstimmung über die AHV-Finanzierung mit Spannung entgegen. Ein Ja hätte direkte Folgen für die Staatskasse.",
+          "image": "https://img-msp-prod.nzz.ch/2026/08/06/ecd38e6c-1bf5-421d-abf6-c7f4dd2491d0.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3823,3823,x956,y0",
+          "publishedAt": "2026-11-27T04:30:00.000Z"
         }
       ]
     },
@@ -210,8 +173,50 @@
         "homepage": "https://www.rts.ch/info/",
         "lang": "fr-CH"
       },
-      "fetchedAt": "2026-11-26T18:46:16.991Z",
+      "fetchedAt": "2026-11-27T06:55:26.188Z",
       "items": [
+        {
+          "title": "Djihadistes suisses exfiltrés en Irak: \"On se demande tout le temps s'il est vivant ou s'il est mort\"",
+          "link": "https://www.rts.ch/info/suisse/2026/article/irak-3-djihadistes-suisses-menaces-de-la-peine-de-mort-29428708.html?rts_source=rss_t",
+          "summary": "Damien, Ajdin et Daniel, trois Suisses partis faire le djihad en Syrie il y a plus de dix ans, ont été transférés en Irak dans des conditions dramatiques. Leurs familles vivent dans l'angoisse face à la menace d'une…",
+          "image": "https://img.rts.ch/articles/2026/image/3010aa2c-29429287.image?w=320&h=180",
+          "publishedAt": "2026-11-27T05:42:34.000Z"
+        },
+        {
+          "title": "Des intempéries privent 900'000 foyers américains d'électricité pour Thanksgiving",
+          "link": "https://www.rts.ch/info/monde/2026/article/etats-unis-840-000-foyers-sans-electricite-pour-thanksgiving-29429564.html?rts_source=rss_t",
+          "summary": "Une puissante tempête a perturbé jeudi la fête de Thanksgiving dans la plus grande partie de la côte Est des Etats-Unis, provoquant des coupures de courant qui ont affecté près d'un million de foyers.",
+          "image": "https://img.rts.ch/articles/2026/image/f0f1c9b5-29429563.image?w=320&h=180",
+          "publishedAt": "2026-11-27T03:06:39.000Z"
+        },
+        {
+          "title": "La famille Aponte, propriétaire de MSC, prend la tête du classement 2026 des 300 plus riches de Suisse",
+          "link": "https://www.rts.ch/info/suisse/2026/article/300-plus-riches-de-suisse-la-famille-aponte-detrone-chanel-29429554.html?rts_source=rss_t",
+          "summary": "Le magazine Bilan a publié jeudi son traditionnel classement des 300 plus fortunés de Suisse. Et il y a du changement cette année. La famille Aponte, propriétaire de la compagnie maritime genevoise MSC, détrône Gérard…",
+          "image": "https://img.rts.ch/articles/2026/image/a71de971-29429558.image?w=320&h=180",
+          "publishedAt": "2026-11-27T01:32:38.000Z"
+        },
+        {
+          "title": "Plusieurs milliers de personnes dans la rue à Genève contre le projet de budget",
+          "link": "https://www.rts.ch/info/regions/geneve/2026/article/geneve-4-000-manifestants-contre-le-projet-de-budget-29429260.html?rts_source=rss_t",
+          "summary": "A Genève, la fonction publique maintient la pression dans la rue, à trois semaines du vote du Grand Conseil sur le projet de budget 2027. Après une demi-journée de grève, plus de 2000 personnes ont manifesté jeudi.",
+          "image": "https://img.rts.ch/articles/2026/image/af73e65f-29429261.image?w=320&h=180",
+          "publishedAt": "2026-11-26T20:25:32.000Z"
+        },
+        {
+          "title": "Des Jeunes UDC lucernois exclus pour leur proximité avec le mouvement d'extrême droite Junge Tat",
+          "link": "https://www.rts.ch/info/regions/autres-cantons/2026/article/lucerne-des-jeunes-udc-exclus-pour-proximite-avec-junge-tat-29429263.html?rts_source=rss_t",
+          "summary": "Les Jeunes UDC Suisse ont exclu plusieurs membres de leur section cantonale lucernoise à la suite d'une opération \"d'infiltration\" orchestrée par le mouvement d'extrême droite Junge Tat.",
+          "image": "https://img.rts.ch/articles/2026/image/92c69a73-29429266.image?w=320&h=180",
+          "publishedAt": "2026-11-26T20:14:02.000Z"
+        },
+        {
+          "title": "David Lisnard, l'invité surprise de la campagne présidentielle française",
+          "link": "https://www.rts.ch/info/monde/2026/article/presidentielle-francaise-la-percee-surprise-de-david-lisnard-a-11-29429083.html?rts_source=rss_t",
+          "summary": "Il a subitement émergé sur les réseaux sociaux, puis fait une fulgurante ascension dans les sondages: tenant d'une ligne libérale conservatrice, David Lisnard est devenu en l'espace de quelques semaines une figure…",
+          "image": "https://img.rts.ch/articles/2026/image/1393fa87-29429076.image?w=320&h=180",
+          "publishedAt": "2026-11-26T19:53:55.000Z"
+        },
         {
           "title": "En Espagne, les deepfakes politiques se multiplient malgré un encadrement européen renforcé",
           "link": "https://www.rts.ch/info/monde/2026/article/espagne-les-deepfakes-s-imposent-dans-les-legislatives-29428908.html?rts_source=rss_t",
@@ -225,7 +230,7 @@
           "title": "Mauro Poggia: \"Je me vois mal jouer le coucou dans le nid qui chasse les œufs des autres\"",
           "link": "https://www.rts.ch/info/suisse/2026/article/succession-parmelin-mauro-poggia-n-exclut-pas-une-candidature-29429104.html?rts_source=rss_t",
           "summary": "Le ticket proposé par l'UDC pour la succession de Guy Parmelin peine à convaincre. Conséquence: plusieurs noms hors ticket circulent dans les travées du Parlement, parmi lesquels celui de l'élu MCG genevois Mauro Poggia.…",
-          "image": "https://img.rts.ch/articles/2026/image/n22oih-29324943.image?w=320&h=180",
+          "image": "https://img.rts.ch/medias/2026/image/8614a544-29429162.image?w=320&h=180",
           "publishedAt": "2026-11-26T18:17:10.000Z",
           "titleEn": "Mauro Poggia: \"I don't like to play the cuckoo in the nest that hunts other people's eggs\"",
           "summaryEn": "The ticket proposed by the UDC for the succession of Guy Parmelin is hard to convince. Consequently, several non-ticketed names circulate in the streets of Parliament, including the one of the elected GCG of Geneva, Mauro Poggia...."
@@ -247,60 +252,6 @@
           "publishedAt": "2026-11-26T17:09:25.000Z",
           "titleEn": "Will the UDC's \"provocative\" ticket have the skin of the \"magic formula\"?",
           "summaryEn": "How far is the 'magic formula' of the Federal Council, or its partisan composition, engraved in the marble? With the federal assembly soon to name Guy Parmelin's successor, the ticket proposed by..."
-        },
-        {
-          "title": "Deux journaux révèlent de nouveaux écrits antisémites mettant en cause Jordan Bardella",
-          "link": "https://www.rts.ch/info/monde/2026/article/jordan-bardella-de-nouveaux-messages-antisemites-reveles-29429028.html?rts_source=rss_t",
-          "summary": "Les journaux français Mediapart et Le Monde ont publié jeudi de nouveaux documents révélant que Jordan Bardella s'est bien fait l'auteur de propos antisémites sur Messenger en 2013. Le président du Rassemblement national…",
-          "image": "https://img.rts.ch/articles/2026/image/9aa94494-29370339.image?w=320&h=180",
-          "publishedAt": "2026-11-26T16:27:56.000Z",
-          "titleEn": "Two newspapers reveal new anti-Semitic writings challenging Jordan Bardella",
-          "summaryEn": "The French newspapers Mediapart and Le Monde published new documents on Thursday revealing that Jordan Bardella was the author of anti-Semitic remarks on Messenger in 2013. The President of the National Assembly..."
-        },
-        {
-          "title": "Télé-Evolène obtient un ultime sursis de quatre mois pour éviter la faillite",
-          "link": "https://www.rts.ch/info/regions/valais/2026/article/tele-evolene-obtient-un-ultime-sursis-de-quatre-mois-pour-eviter-la-faillite-29428979.html?rts_source=rss_t",
-          "summary": "Le Tribunal de district d'Hérens-Conthey a accordé une dernière prolongation de quatre mois du sursis concordataire octroyé à Télé-Evolène. Pour le 4 avril 2027, la société devra être en mesure de présenter un projet…",
-          "image": "https://img.rts.ch/articles/2026/image/f6b354ad-29428980.image?w=320&h=180",
-          "publishedAt": "2026-11-26T16:25:19.000Z",
-          "titleEn": "Tele-Evolène gets a final four-month suspension to avoid bankruptcy",
-          "summaryEn": "The Hérens-Conthey District Court granted a final four-month extension of the contractual suspension granted to Tele-Evolène. By April 4, 2027, the company must be able to present a project..."
-        },
-        {
-          "title": "L'Espagnol Pablo Hernandez de Cos va succéder à Christine Lagarde à la BCE",
-          "link": "https://www.rts.ch/info/economie/2026/article/bce-pablo-hernandez-de-cos-succede-a-christine-lagarde-29428976.html?rts_source=rss_t",
-          "summary": "L'Espagnol Pablo Hernandez de Cos va succéder en février à la Française Christine Lagarde à la présidence de la Banque centrale européenne (BCE), ont décidé les pays de la zone euro jeudi, dans un environnement…",
-          "image": "https://img.rts.ch/articles/2026/image/78654a4f-29429003.image?w=320&h=180",
-          "publishedAt": "2026-11-26T16:16:00.000Z",
-          "titleEn": "Spain's Pablo Hernandez de Cos will succeed Christine Lagarde at the ECB",
-          "summaryEn": "Spain's Pablo Hernandez de Cos will succeed France's Christine Lagarde as president of the European Central Bank (ECB) in February, the eurozone countries decided on Thursday, in an environment..."
-        },
-        {
-          "title": "Le chanteur et musicien fribourgeois Gabby Marchand est décédé à l'âge de 83 ans",
-          "link": "https://www.rts.ch/info/culture/musiques/2026/article/gabby-marchand-le-chanteur-fribourgeois-est-mort-a-83-ans-29428959.html?rts_source=rss_t",
-          "summary": "Le parolier, auteur, compositeur et interprète fribourgeois Gabby Marchand est décédé mercredi à l'âge de 83 ans. Figure de la télévision romande dans les années 1970-80, l'artiste y animait entre autres des ateliers…",
-          "image": "https://img.rts.ch/medias/2018/image/d3787154-26606848.image?w=320&h=180",
-          "publishedAt": "2026-11-26T15:56:38.000Z",
-          "titleEn": "Fribourgeois singer and musician Gabby Marchand has died at the age of 83",
-          "summaryEn": "Fribourgeois lyricist, author, composer and performer Gabby Marchand died Wednesday at the age of 83. A television personality in the 1970s and 1980s, the artist hosted workshops..."
-        },
-        {
-          "title": "La ligne ferroviaire Neuchâtel-Frasne est menacée par la dégradation des voies",
-          "link": "https://www.rts.ch/info/regions/neuchatel/2026/article/neuchatel-frasne-la-ligne-ferroviaire-vers-paris-menacee-29428923.html?rts_source=rss_t",
-          "summary": "Empruntée par quelque 85'000 voyageurs chaque année, la ligne ferroviaire reliant Neuchâtel à Frasne, en France voisine, est menacée. La dégradation des voies de part et d'autre de la frontière pourrait à terme…",
-          "image": "https://img.rts.ch/medias/2026/image/fbd8eb57-29428648.image?w=320&h=180",
-          "publishedAt": "2026-11-26T15:37:44.000Z",
-          "titleEn": "The Neuchâtel-Frasne railway line is threatened by road degradation",
-          "summaryEn": "The railway line between Neuchâtel and Frasne, neighbouring France, is threatened, with some 85,000 passengers travelling every year. The deterioration of the roads on both sides of the border could eventually..."
-        },
-        {
-          "title": "L'Iran continue de durcir sa répression interne et tente d'exporter le conflit en Europe",
-          "link": "https://www.rts.ch/info/monde/2026/article/iran-teheran-durcit-sa-repression-et-vise-l-europe-29428408.html?rts_source=rss_t",
-          "summary": "La flagellation de la chanteuse iranienne Parastoo Ahmadi illustre le nouveau tour de vis répressif des autorités de Téhéran. Loin d'être affaibli par la guerre déclenchée fin février avec les États-Unis et Israël, le…",
-          "image": "https://img.rts.ch/articles/2026/image/f85fe400-29429114.image?w=320&h=180",
-          "publishedAt": "2026-11-26T15:26:05.000Z",
-          "titleEn": "Iran continues to harden its internal repression and attempts to export the conflict to Europe",
-          "summaryEn": "The flogging of Iranian singer Parastoo Ahmadi illustrates the new crackdown by Tehran authorities. Far from being weakened by the war that broke out in late February with the United States and Israel, the..."
         }
       ]
     }
