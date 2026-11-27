@@ -13,17 +13,20 @@
         {
           "title": "Kvinde omkommet i brand i Ringe på Fyn",
           "link": "https://www.dr.dk/nyheder/seneste/kvinde-omkommet-i-brand-i-ringe-paa-fyn",
-          "publishedAt": "2026-11-27T06:15:37.000Z"
+          "publishedAt": "2026-11-27T06:15:37.000Z",
+          "titleEn": "Woman killed in fire at Ring of Fyn"
         },
         {
           "title": "Sydkorea sender seks nordkoreanere retur",
           "link": "https://www.dr.dk/nyheder/seneste/sydkorea-sender-seks-nordkoreanere-retur",
-          "publishedAt": "2026-11-27T05:32:07.000Z"
+          "publishedAt": "2026-11-27T05:32:07.000Z",
+          "titleEn": "South Korea sends six North Koreans back"
         },
         {
           "title": "Nævn foreslår ændringer i tilskud til Ozempic",
           "link": "https://www.dr.dk/nyheder/seneste/naevn-foreslaar-aendringer-i-tilskud-til-ozempic",
-          "publishedAt": "2026-11-27T05:13:23.000Z"
+          "publishedAt": "2026-11-27T05:13:23.000Z",
+          "titleEn": "Name suggests changes to subsidies for Ozempic"
         },
         {
           "title": "Fem rumænere varetægtsfængsles i sag om flere restaurant-indbrud",
@@ -84,70 +87,90 @@
           "link": "https://politiken.dk/kultur/boger/art11071688/Kollegaer-anklager-bestsellerforfatter-for-at-have-krydset-ai-gr%C3%A6nsen",
           "summary": "Han er en af Norges bedst sælgende forfattere. Nu er han havnet på forsiderne og i debatspalterne, fordi han bruger ai i arbejdet med sine krimier.",
           "image": "https://politiken.dk/incoming/img11071692.7j8y0o/ORIGINALS/original_960/J%C3%B8rnLierHorst_presse2_kreditering_JarliJorden",
-          "publishedAt": "2026-11-27T06:03:07.000Z"
+          "publishedAt": "2026-11-27T06:03:07.000Z",
+          "titleEn": "Colleagues accuse the bestselling author of crossing the aisle",
+          "summaryEn": "He is one of Norway's best-selling authors. Now he's on the front page and in the debate halls because he's using AI to work on his crimes."
         },
         {
           "title": "P-hus midt i København bliver til godt 170 lækre ungdomsboliger – men der er en bagside",
           "link": "https://politiken.dk/danmark/art11075464/P-hus-midt-i-K%C3%B8benhavn-bliver-til-godt-170-l%C3%A6kre-ungdomsboliger-%E2%80%93-men-der-er-en-bagside",
           "summary": "København mangler boliger til unge. Derfor har et enigt udvalg på rådhuset nikket til boliger i et p-hus, også selv om det er nødvendigt at slække på krav til udearealer og dagslys.",
           "image": "https://politiken.dk/incoming/img11075924.c3iuhw/ORIGINALS/original_960/tagterrasse",
-          "publishedAt": "2026-11-27T05:53:36.000Z"
+          "publishedAt": "2026-11-27T05:53:36.000Z",
+          "titleEn": "P-house in the middle of Copenhagen will be about 170 delicious youth homes  ⁇  but there's a backside",
+          "summaryEn": "Copenhagen lacks housing for young people. Therefore, a unanimous committee in the Council has voted for housing in an apartment building, even if it is necessary to eliminate requirements for outdoor areas and daylight."
         },
         {
           "title": "Topmøde bryder sammen: I nat blev det klart, hvor dybt splittelsen løber",
           "link": "https://politiken.dk/internationalt/art11076703/I-nat-blev-det-klart-hvor-dybt-splittelsen-l%C3%B8ber",
           "summary": "EU-topmøde blev afbrudt efter kaotisk gruppearbejde. For ganske som ventet nåede EU-lande ikke i mål med et nyt flerårigt EU-budget. Stort slagsmål venter inden jul, skriver Karin Axelsson i denne analyse.",
           "image": "https://politiken.dk/incoming/img11076755.bs3yq1/ORIGINALS/original_960/EU-SUMMIT",
-          "publishedAt": "2026-11-27T05:17:38.000Z"
+          "publishedAt": "2026-11-27T05:17:38.000Z",
+          "titleEn": "Summit breaks down: last night it became clear how deep the divide is",
+          "summaryEn": "The EU summit was suspended after chaotic group work. As expected, the EU countries did not reach their new multiannual budget targets. A great battle awaits before Christmas, Karin Axelsson writes in this analysis."
         },
         {
           "title": "EU-topmøde bryder sammen",
           "link": "https://politiken.dk/internationalt/art11076713/EU-topm%C3%B8de-bryder-sammen",
           "summary": "Det ekstraordinære EU-topmøde sluttede efter blot én dag uden aftale om egne indtægter, siger EU’s præsident.",
           "image": "https://politiken.dk/incoming/img11076744.3rifue/ORIGINALS/original_960/EU-SUMMIT",
-          "publishedAt": "2026-11-27T05:15:50.000Z"
+          "publishedAt": "2026-11-27T05:15:50.000Z",
+          "titleEn": "The EU summit is breaking down",
+          "summaryEn": "The extraordinary EU summit ended after just one day without an agreement on own resources, says the EU President."
         },
         {
           "title": "Thomas Frank tager sin første sejr som Crystal Palace-træner",
           "link": "https://politiken.dk/sport/fodbold/art11076680/Thomas-Frank-tager-sin-f%C3%B8rste-sejr-som-Crystal-Palace-tr%C3%A6ner",
           "summary": "Real Sociedad-spiller så rødt, og derefter vendte Thomas Franks tropper 0-1 til 2-1 i Europa League.",
           "image": "https://politiken.dk/incoming/img11076684.onmmfe/ORIGINALS/original_960/SOCCER-EUROPA-CRY-RSO",
-          "publishedAt": "2026-11-26T22:24:52.000Z"
+          "publishedAt": "2026-11-26T22:24:52.000Z",
+          "titleEn": "Thomas Frank takes his first win as Crystal Palace coach",
+          "summaryEn": "Real Sociedad player turned red, and then Thomas Frank's troops turned 0-1 to 2-1 in the Europa League."
         },
         {
           "title": "Storm efterlader hundredtusinder i USA uden strøm på thanksgiving",
           "link": "https://politiken.dk/internationalt/art11076657/Storm-efterlader-hundredtusinder-i-USA-uden-str%C3%B8m-p%C3%A5-thanksgiving",
           "summary": "En kraftig storm rammer USA’s østkyst, hvor både strømforsyning og flytrafikken er påvirket på stor helligdag.",
           "image": "https://politiken.dk/incoming/img11076660.7347n/ORIGINALS/original_960/US-HOLIDAY-THANKSGIVING-WEATHER",
-          "publishedAt": "2026-11-26T21:42:18.000Z"
+          "publishedAt": "2026-11-26T21:42:18.000Z",
+          "titleEn": "Storm leaves hundreds of thousands without power on Thanksgiving",
+          "summaryEn": "A powerful storm hits the east coast of the United States, affecting both power and air traffic on a major holiday."
         },
         {
           "title": "»Der bliver begået så meget utroskab herinde«, siger min ledsager på det berygtede dansegulv",
           "link": "https://politiken.dk/ibyen/art11063721/%C2%BBDer-bliver-beg%C3%A5et-s%C3%A5-meget-utroskab-herinde%C2%AB-siger-min-ledsager-p%C3%A5-det-berygtede-dansegulv",
           "summary": "Det er højsæson for snaps, forstuvede ankler og potentielle hr-sager. Vi har besøgt en af årets første julefrokoster på en kæmpe Frederiksberg-natklub.",
           "image": "https://politiken.dk/incoming/img11075954.tuejwj/ORIGINALS/original_960/HometeamHeroesJulefrokostFRB00004",
-          "publishedAt": "2026-11-26T20:23:21.000Z"
+          "publishedAt": "2026-11-26T20:23:21.000Z",
+          "titleEn": "\"So much infidelity is committed here\", says my companion on the infamous dance floor.",
+          "summaryEn": "It's high season for snaps, sprained ankles and potential Mr. Cases. We've been to one of the first Christmas breakfasts of the year at a giant Frederiksberg nightclub."
         },
         {
           "title": "Danmarks første – og en af de sidste – anklagere med tørklæde: »Der er ikke noget problem at løse her«",
           "link": "https://politiken.dk/danmark/politik/art11069025/Danmarks-f%C3%B8rste-%E2%80%93-og-en-af-de-sidste-%E2%80%93-anklagere-med-t%C3%B8rkl%C3%A6de-%C2%BBDer-er-ikke-noget-problem-at-l%C3%B8se-her%C2%AB",
           "summary": "Hun blev Danmarks første anklager med tørklæde. Nu må hun ikke længere gå i retten med det på. Zahra Sediqi kalder forbuddet absurd og frygter, at det bliver en glidebane.",
           "image": "https://politiken.dk/incoming/img11075406.nwdncx/ORIGINALS/original_960/Title%20mangler",
-          "publishedAt": "2026-11-26T20:07:28.000Z"
+          "publishedAt": "2026-11-26T20:07:28.000Z",
+          "titleEn": "Denmark's first and one of the last prosecutors with a veil: There is no problem here.",
+          "summaryEn": "She became Denmark's first prosecutor in a veil. Now she can't go to court wearing it anymore. Zahra Sediqi calls the ban absurd and fears it will become a slippery slope."
         },
         {
           "title": "De slog igennem med 'De urørlige' – men deres nye film er et langt rigere værk",
           "link": "https://politiken.dk/kultur/film_og_tv/filmanmeldelser/art11049439/De-slog-igennem-med-De-ur%C3%B8rlige-%E2%80%93-men-deres-nye-film-er-et-langt-rigere-v%C3%A6rk",
           "summary": "Ny fransk dramakomedie er en langt bedre, langt finere og langt mere sofistikeret film end parrets internationale elskede gennembrud fra 2011.",
           "image": "https://politiken.dk/incoming/img11067741.m91ihn/ORIGINALS/original_960/Juste-Une-Illusion%202%20Photo%20Manuel%20Moutier%20c%202026%20ADNP-TEN%20CINEMA-GAUMONT-TF1%20FILMS%20PRODUCTION-QUAD-TEN",
-          "publishedAt": "2026-11-26T20:00:59.000Z"
+          "publishedAt": "2026-11-26T20:00:59.000Z",
+          "titleEn": "They made it through with The Untouchables, but their new film is a much richer work.",
+          "summaryEn": "The new French comedy is a far better, finer and more sophisticated film than the couple's beloved international breakthrough from 2011."
         },
         {
           "title": "Ingen vil give sig i kæmpe europæisk slagsmål om penge",
           "link": "https://politiken.dk/internationalt/art11075285/Ingen-vil-give-sig-i-k%C3%A6mpe-europ%C3%A6isk-slagsm%C3%A5l-om-penge",
           "summary": "Hvordan får man 27 lande til at enes om et fælles budget? EU’s rådsformand forsøgte sig torsdag med gruppearbejde, men deltagerne var skeptiske.",
           "image": "https://politiken.dk/incoming/img11075861.h1kai0/ORIGINALS/original_960/BELGIUM-EU-COUNCIL-SUMMIT",
-          "publishedAt": "2026-11-26T19:57:07.000Z"
+          "publishedAt": "2026-11-26T19:57:07.000Z",
+          "titleEn": "No one will give in to a huge European battle for money",
+          "summaryEn": "How do you get 27 countries to agree on a common budget? On Thursday, the President of the European Council tried to do group work, but the participants were skeptical."
         }
       ]
     },
@@ -165,69 +188,89 @@
           "link": "https://www.berlingske.dk/indland/mandlig-ansat-blev-jaget-vaek-med-tilraab-og-skrald-koensopdelt-svoemning-stoppet-med-oejeblikkelig-virkning?referrer=RSS",
           "summary": "En mandlig medarbejder fra Københavns Kommune følte sig utryg og fik kastet skrald efter sig, da han skulle skifte skraldeposer under et kønsopdelt svømmehold i Tingbjerg. Nu har foreningen mistet sine svømmetider med…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168202747.webp?t[strip]=true&t[quality]=70&accessToken=d0aed43101fb4987674136bb392810fa9b6c5715d2593ad5f89e3406d3585273",
-          "publishedAt": "2026-11-27T06:52:20.000Z"
+          "publishedAt": "2026-11-27T06:52:20.000Z",
+          "titleEn": "Male employees were chased away with cries and garbage: Gender-based swimming stopped with immediate effect",
+          "summaryEn": "A male employee from the Municipality of Copenhagen felt insecure and was thrown trash after him when he had to change his scarf bags during a gender-divided swimming pool in Tingbjerg. Now the association has lost its swimming time with..."
         },
         {
           "title": "AGF-træner øjner avancement efter triumf i Bergen",
           "link": "https://www.berlingske.dk/sport/agf-traener-oejner-avancement-efter-triumf-i-bergen?referrer=RSS",
           "summary": "Jakob Poulsen roser sit mandskab for en toppræstation efter 4-1-sejr ude over norske Brann.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168231617.webp?t[strip]=true&t[quality]=70&accessToken=3dab3c8bd56c0064f2e3109e95f165a777940ae288e2a03124dbe9ec330782ba",
-          "publishedAt": "2026-11-27T06:51:47.000Z"
+          "publishedAt": "2026-11-27T06:51:47.000Z",
+          "titleEn": "AGF trainer sees progress after victory in Bergen",
+          "summaryEn": "Jakob Poulsen praises his crew for a top performance after a 4-1 victory over Norwegian Brann."
         },
         {
           "title": "Præsidenter fordømmer fodbolduro i Marseille",
           "link": "https://www.berlingske.dk/sport/praesidenter-fordoemmer-fodbolduro-i-marseille?referrer=RSS",
           "summary": "Fem fans fra bulgarske Levski Sofia er havnet på hospitalet efter uro ved Europa League-kamp i Marseille.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168231051.webp?t[strip]=true&t[quality]=70&accessToken=722354a1d8b0bc950f7bd155e0cc698cf68b1dc4cd30c45d76bcb95fe38a3d3b",
-          "publishedAt": "2026-11-27T06:27:45.000Z"
+          "publishedAt": "2026-11-27T06:27:45.000Z",
+          "titleEn": "Presidents condemn the football office in Marseille",
+          "summaryEn": "Five fans from Bulgaria's Levski Sofia have been hospitalized after a riot at the Europa League match in Marseille."
         },
         {
           "title": "Dømt ude for seks år siden: Nu viser Hollywoods julesatsning, at vi har ændret mening",
           "link": "https://www.berlingske.dk/indland/doemt-ude-for-seks-aar-siden-nu-viser-hollywoods-julesatsning-at-vi-har-aendret-mening?referrer=RSS",
           "summary": "Filmredaktøren erklærede Johnny Depps karriere for færdig for seks år siden. Nu er han tilbage i Hollywoods store julesatsning. Vi er nået dertil, hvor vi igen er klar til at satse på dem, der blev dømt ude, konkluderer…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168226877.webp?t[strip]=true&t[quality]=70&accessToken=61ca027ff6283ba30dcf3a339f9e6837ca1b0eb5a1154b58a3f225a8b9d62ae2",
-          "publishedAt": "2026-11-27T06:26:03.000Z"
+          "publishedAt": "2026-11-27T06:26:03.000Z",
+          "titleEn": "Sentenced six years ago, now Hollywood's Christmas bet shows that we've changed our minds.",
+          "summaryEn": "The film editor declared Johnny Depp's career over six years ago. Now he's back in the big Hollywood Christmas bet. We've reached the point where we're ready to bet again on those who were convicted, concluding..."
         },
         {
           "title": "Krig og uro i Mellemøsten – følg med her",
           "link": "https://www.berlingske.dk/internationalt/krig-og-uro-i-mellemoesten--foelg-med-her-28?referrer=RSS",
           "summary": "Uroen fortsætter i Mellemøsten, mens houthierne angriber Saudi-Arabien. Få seneste nyt fra Mellemøsten her.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168230969.webp?t[strip]=true&t[quality]=70&accessToken=1d5f57659b0adb754788f453af149f8128435be5902f53c102982b7cec3d4910",
-          "publishedAt": "2026-11-27T06:25:35.000Z"
+          "publishedAt": "2026-11-27T06:25:35.000Z",
+          "titleEn": "War and unrest in the Middle East  ⁇  follow here",
+          "summaryEn": "The unrest continues in the Middle East as the Houthis attack Saudi Arabia. Get the latest news from the Middle East here."
         },
         {
           "title": "Dronning Margrethe fortalte Mary om Colombia-besøg inden afrejse",
           "link": "https://www.berlingske.dk/danmark/dronning-margrethe-fortalte-mary-om-colombia-besoeg-inden-afrejse?referrer=RSS",
           "summary": "Dronning Mary er på officielt besøg i Colombia. Hun ser frem til at fortælle dronning Margrethe om turen.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168230918.webp?t[strip]=true&t[quality]=70&accessToken=013febd9d0de56b044099b86ce36dc4c2bd0b61c58efed20e8a7c461b86e78e5",
-          "publishedAt": "2026-11-27T06:17:44.000Z"
+          "publishedAt": "2026-11-27T06:17:44.000Z",
+          "titleEn": "Queen Margrethe told Mary about her visit to Colombia before leaving.",
+          "summaryEn": "Queen Mary is on an official visit to Colombia. She's looking forward to telling Queen Margrethe about the trip."
         },
         {
           "title": "62-årig kvinde omkommer i brand på Fyn",
           "link": "https://www.berlingske.dk/indland/62-aarig-kvinde-omkommer-i-brand-paa-fyn?referrer=RSS",
           "summary": "En 62-årig kvinde har natten til fredag mistet livet som følge af en brand i en boligforening i Ringe.",
-          "publishedAt": "2026-11-27T06:06:45.000Z"
+          "publishedAt": "2026-11-27T06:06:45.000Z",
+          "titleEn": "62-year-old woman dies in a fire in Fyn",
+          "summaryEn": "A 62-year-old woman died Friday night as a result of a fire at a housing association in Ringe."
         },
         {
           "title": "Seneste nyt om USA og amerikansk politik – følg med her",
           "link": "https://www.berlingske.dk/internationalt/seneste-nyt-om-usa-og-amerikansk-politik--foelg-med-her-17?referrer=RSS",
           "summary": "Her får du seneste nyt om amerikansk politik og præsident Donald Trump.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168230733.webp?t[strip]=true&t[quality]=70&accessToken=b5dadac431d643cbdb2007374b98960a53bee64438bbd432bab8917869c33c51",
-          "publishedAt": "2026-11-27T06:06:36.000Z"
+          "publishedAt": "2026-11-27T06:06:36.000Z",
+          "titleEn": "Latest news about the United States and American politics  ⁇  follow here",
+          "summaryEn": "Here's the latest news on American politics and President Donald Trump."
         },
         {
           "title": "Business-overblik: Danske topchefer går sammen mod mistrivsel og stress",
           "link": "https://www.berlingske.dk/business/business-overblik-danske-topchefer-gaar-sammen-mod-mistrivsel-og-stress?referrer=RSS",
           "summary": "Vi læser erhvervsnyhederne og tjekker aktiekurserne fra morgenstunden. Her er hele dit Business-overblik.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168230659.webp?t[strip]=true&t[quality]=70&accessToken=485b6d6e6d2eb9ca2731fc5034c6082c34e0923ab4ae191cdf9340d76c121198",
-          "publishedAt": "2026-11-27T06:05:43.000Z"
+          "publishedAt": "2026-11-27T06:05:43.000Z",
+          "titleEn": "Business overview: Danish top managers working together to combat addiction and stress",
+          "summaryEn": "We're reading the business news and checking stock prices from dawn. Here's your entire business overview."
         },
         {
           "title": "Er du rigtig klog: Hvad ved du om svenske statsministre?",
           "link": "https://www.berlingske.dk/internationalt/er-du-rigtig-klog-hvad-ved-du-om-svenske-statsministre?referrer=RSS",
           "summary": "Berlingskes journalister udfordrer dagligt med 10 nye spørgsmål inden for spændende emner.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/167711843.webp?t[strip]=true&t[quality]=70&accessToken=04f44edd9537655a60c05bfad1d5b4875eaced58abfd78950c8cda996104f484",
-          "publishedAt": "2026-11-27T05:57:29.000Z"
+          "publishedAt": "2026-11-27T05:57:29.000Z",
+          "titleEn": "Are you really smart, what do you know about Swedish prime ministers?",
+          "summaryEn": "Berlin's journalists challenge each day with 10 new questions on exciting topics."
         }
       ]
     }
