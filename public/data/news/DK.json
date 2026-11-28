@@ -13,12 +13,14 @@
         {
           "title": "Styrt med militærhelikopter har dræbt otte i Peru",
           "link": "https://www.dr.dk/nyheder/seneste/styrt-med-militaerhelikopter-har-draebt-otte-i-peru",
-          "publishedAt": "2026-11-28T04:11:16.000Z"
+          "publishedAt": "2026-11-28T04:11:16.000Z",
+          "titleEn": "Military helicopters have killed eight in Peru"
         },
         {
           "title": "Politiet anholder person efter uroligheder mellem ishockeyfans",
           "link": "https://www.dr.dk/nyheder/seneste/politiet-anholder-person-efter-uroligheder-mellem-ishockeyfans",
-          "publishedAt": "2026-11-28T02:35:39.000Z"
+          "publishedAt": "2026-11-28T02:35:39.000Z",
+          "titleEn": "Police arrested a man after riots between hockey fans"
         },
         {
           "title": "USA angriber fartøj i Omanbugten",
@@ -84,68 +86,88 @@
           "link": "https://politiken.dk/internationalt/art11078452/Uganda-tester-eksperimentel-vaccine-mod-ebola",
           "summary": "Uganda har fredag påbegyndt forsøg med eksperimentel ebolavaccine. I DR Congo gør man snart det samme.",
           "image": "https://politiken.dk/incoming/img11078460.4okelp/ORIGINALS/original_960/FILES-YEARENDER-2026-DRCONGO-HEALTH-VIRUS-EBOLA",
-          "publishedAt": "2026-11-28T05:40:40.000Z"
+          "publishedAt": "2026-11-28T05:40:40.000Z",
+          "titleEn": "Uganda tests experimental vaccine against Ebola",
+          "summaryEn": "Uganda on Friday began testing an experimental Ebola vaccine. In the DR Congo, they will soon do the same."
         },
         {
           "title": "Styrt med militærhelikopter har dræbt otte i Peru",
           "link": "https://politiken.dk/internationalt/art11078456/Styrt-med-milit%C3%A6rhelikopter-har-dr%C3%A6bt-otte-i-Peru",
           "summary": "En helikopter fra Perus militær var på redningsaktion, da den selv styrtede, oplyser forsvarsministerium.",
-          "publishedAt": "2026-11-28T05:38:17.000Z"
+          "publishedAt": "2026-11-28T05:38:17.000Z",
+          "titleEn": "Military helicopters have killed eight in Peru",
+          "summaryEn": "A helicopter from the Peruvian military was on a rescue mission when it crashed itself, according to the Defense Ministry."
         },
         {
           "title": "De føles som et 00’er-band på rejse i fremtiden",
           "link": "https://politiken.dk/kultur/musik/koncertanmeldelser/art10958931/De-f%C3%B8les-som-et-00%E2%80%99er-band-p%C3%A5-rejse-i-fremtiden",
           "summary": "Med så store følelser på spil var det en bemærkelsesværdigt jævn koncert, det danske band gav i Royal Arena fredag aften.",
           "image": "https://politiken.dk/incoming/img11078348.swmgin/ORIGINALS/original_960/Blaue%20Blume%20Royal%20Arena",
-          "publishedAt": "2026-11-28T05:18:07.000Z"
+          "publishedAt": "2026-11-28T05:18:07.000Z",
+          "titleEn": "They feel like a 00 ⁇ er band on a journey into the future.",
+          "summaryEn": "With so much emotion at stake, it was a remarkably smooth concert that the Danish band gave at the Royal Arena on Friday night."
         },
         {
           "title": "Alternativet får stor cykel-sejr i finansloven. Se, hvad det kan betyde for dig",
           "link": "https://politiken.dk/danmark/art11076916/Alternativet-f%C3%A5r-stor-cykel-sejr-i-finansloven.-Se-hvad-det-kan-betyde-for-dig",
           "summary": "Nu kan Alternativet løfte sløret for en ny skattelovgivning, der skal gøre det mere attraktivt at vælge cyklen i hverdagen. Ordningen kommer med på finansloven.",
           "image": "https://politiken.dk/incoming/img11077267.g5tou0/ORIGINALS/original_960/Cykelstien-er%20blevet%20en%20krigszone",
-          "publishedAt": "2026-11-28T05:00:00.000Z"
+          "publishedAt": "2026-11-28T05:00:00.000Z",
+          "titleEn": "The alternative is a big bicycle victory in the Finance Act. See what it can mean to you.",
+          "summaryEn": "Now the Alternative can lift the veil for a new tax legislation that will make it more attractive to choose the bicycle in everyday life. The order is in the Treasury Bill."
         },
         {
           "title": "Titlen på ny DR-serie er befriende tydelig",
           "link": "https://politiken.dk/kultur/film_og_tv/tvanmeldelser/art11071011/Titlen-p%C3%A5-ny-DR-serie-er-befriende-tydelig",
           "summary": "Dokuserie på DR er vigtig public service for singlekvinder. Men et helt afgørende ord er fraværende.",
           "image": "https://politiken.dk/incoming/img11072325.dxubzt/ORIGINALS/original_960/Magter%20ikke%20m%C3%A6nd",
-          "publishedAt": "2026-11-27T20:52:23.000Z"
+          "publishedAt": "2026-11-27T20:52:23.000Z",
+          "titleEn": "The title of the new DR series is liberatingly clear.",
+          "summaryEn": "The DR documentary series is an important public service for single women. But a crucial word is missing."
         },
         {
           "title": "Teleudbyder kender endnu ikke omfanget af cyberangreb",
           "link": "https://politiken.dk/danmark/art11078316/Teleudbyder-kender-endnu-ikke-omfanget-af-cyberangreb",
           "summary": "OnlineCity bekræfter cyberangreb mod over 15.000 gymnasieelever, men det samlede omfang er endnu ukendt.",
-          "publishedAt": "2026-11-27T20:52:07.000Z"
+          "publishedAt": "2026-11-27T20:52:07.000Z",
+          "titleEn": "Telecom providers still do not know the extent of cyberattacks",
+          "summaryEn": "OnlineCity confirms cyberattacks against more than 15,000 high school students, but the overall extent is still unknown."
         },
         {
           "title": "Flere vil pudse vagthund på kæmpe dansk Ukraine­støtte",
           "link": "https://politiken.dk/danmark/art11061270/Flere-vil-pudse-vagthund-p%C3%A5-k%C3%A6mpe-dansk-Ukraine%C2%ADst%C3%B8tte",
           "summary": "Trods advarsler om korruption og andre problemer med Danmarks omfattende støtte til Ukraine, har statens vagthund kun lavet nogle få stikprøver. Flere kritikere efterlyser nu mere kontrol.",
           "image": "https://politiken.dk/incoming/img11075971.j997k7/ORIGINALS/original_960/riv%20top%20kollage",
-          "publishedAt": "2026-11-27T20:01:49.000Z"
+          "publishedAt": "2026-11-27T20:01:49.000Z",
+          "titleEn": "More people will be raising guard dogs for the huge Danish Ukrainian aid",
+          "summaryEn": "Despite warnings about corruption and other problems with Denmark's extensive support for Ukraine, the state guard dog has only made a few samples. More critics are now demanding more control."
         },
         {
           "title": "Kuratorer kontakter politiet efter granskning af materiale fra Velkommen og Nettopower",
           "link": "https://politiken.dk/danmark/art11078292/Kuratorer-kontakter-politiet-efter-granskning-af-materiale-fra-Velkommen-og-Nettopower",
           "summary": "Kuratorerne, der går det konkursramte elselskab Velkommen efter i sømmene, har underrettet politiet. De mener at have fundet forhold, der efter deres vurdering giver grundlag for nærmere efterforskning.",
           "image": "https://politiken.dk/incoming/img10929647.ge7df7/ORIGINALS/original_960/Elselskaberne%20i%20Velkommen-koncernen",
-          "publishedAt": "2026-11-27T19:59:20.000Z"
+          "publishedAt": "2026-11-27T19:59:20.000Z",
+          "titleEn": "Curators contact the police after reviewing material from Welcome and Nettopower.",
+          "summaryEn": "The curators who run the bankrupt electrical company Welcome to the Seams have notified the police. They believe that they have found circumstances which they consider to be the basis for further investigation."
         },
         {
           "title": "Sjældent har jeg moret mig så godt: Hele pressemødet blev genopført ned til mindste komma",
           "link": "https://politiken.dk/kultur/scene/art10965448/Sj%C3%A6ldent-har-jeg-moret-mig-s%C3%A5-godt-Hele-pressem%C3%B8det-blev-genopf%C3%B8rt-ned-til-mindste-komma",
           "summary": "Man kan roligt sige, at teatret slet ikke behøver at opfinde en absurd virkelighed, skriver Alexander Vesterlund i denne kommentar om en ikke helt almindelig aften på Sorte Hest.",
           "image": "https://politiken.dk/incoming/img11073218.eax3ah/ORIGINALS/original_960/IMG_2315",
-          "publishedAt": "2026-11-27T19:09:48.000Z"
+          "publishedAt": "2026-11-27T19:09:48.000Z",
+          "titleEn": "I've rarely had such a good time: the whole press conference was resumed down to the smallest comma.",
+          "summaryEn": "It is safe to say that the theatre does not need to invent an absurd reality at all, writes Alexander Vesterlund in this commentary on an unusual evening at Black Horse."
         },
         {
           "title": "»Selv 40 år som sportsjournalist kunne ikke forberede mig på den iskolde, følelsesforladte nedsabling«",
           "link": "https://politiken.dk/sport/nfl/art11076839/%C2%BBSelv-40-%C3%A5r-som-sportsjournalist-kunne-ikke-forberede-mig-p%C3%A5-den-iskolde-f%C3%B8lelsesforladte-nedsabling%C2%AB",
           "summary": "I et vildt interview satte en af USA’s mest kendte sportsstjerner ild til sit eget, sin træners og sin klubs ry og rygte på en måde, der har efterladt iagttagere i chok.",
           "image": "https://politiken.dk/incoming/img11077057.41wdzs/ORIGINALS/original_960/FOOTBALL-NFL-PHI-PIT",
-          "publishedAt": "2026-11-27T19:07:28.000Z"
+          "publishedAt": "2026-11-27T19:07:28.000Z",
+          "titleEn": "⁇ Even 40 years as a sports journalist couldn't prepare me for the cold, emotional downfall ⁇",
+          "summaryEn": "In a wildly bizarre interview, one of America's most famous sports stars set fire to his own reputation, that of his coach and that of his club in a way that has left observers in shock."
         }
       ]
     },
@@ -163,69 +185,88 @@
           "link": "https://www.berlingske.dk/internationalt/de-kaldte-det-bjoernefaelden-den-klappede-sammen-omruslands-store-loegn?referrer=RSS",
           "summary": "De russiske styrker fortalte stolt til Putin, at de havde omringet flere tusinde ukrainske soldater. Så slog de ukrainske soldater igen.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168311390.webp?t[strip]=true&t[quality]=70&accessToken=20e6554b5c7760aaef1be11eba925c78e83815b534a174c7308cf42e89340a58",
-          "publishedAt": "2026-11-28T06:41:50.000Z"
+          "publishedAt": "2026-11-28T06:41:50.000Z",
+          "titleEn": "They called it the \"Bearfield\". It applauded Russia's big lie.",
+          "summaryEn": "The Russian forces proudly told Putin that they had surrounded several thousand Ukrainian soldiers. Then they hit the Ukrainian soldiers again."
         },
         {
           "title": "Seneste nyt om dansk politik – følg med her",
           "link": "https://www.berlingske.dk/politik/seneste-nyt-om-dansk-politik--foelg-med-her-115?referrer=RSS",
           "summary": "Følg med og få de seneste nyheder om dansk politik her.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168342956.webp?t[strip]=true&t[quality]=70&accessToken=e1f16e7d960b316b91eb881bfca9824a3ab4a1709d9b19800ffb1f782f39f86c",
-          "publishedAt": "2026-11-28T06:21:34.000Z"
+          "publishedAt": "2026-11-28T06:21:34.000Z",
+          "titleEn": "Latest news on Danish politics  ⁇  follow here",
+          "summaryEn": "Follow me and get the latest news on Danish politics here."
         },
         {
           "title": "Seneste nyt om USA og amerikansk politik – følg med her",
           "link": "https://www.berlingske.dk/internationalt/seneste-nyt-om-usa-og-amerikansk-politik--foelg-med-her-18?referrer=RSS",
           "summary": "Her får du seneste nyt om amerikansk politik og præsident Donald Trump.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168342947.webp?t[strip]=true&t[quality]=70&accessToken=e88415b85ef1bc68ffd38896ac69852adfa33241dd0e13addd55de87a6eed2c9",
-          "publishedAt": "2026-11-28T06:15:27.000Z"
+          "publishedAt": "2026-11-28T06:15:27.000Z",
+          "titleEn": "Latest news about the United States and American politics  ⁇  follow here",
+          "summaryEn": "Here's the latest news on American politics and President Donald Trump."
         },
         {
           "title": "Krig i Europa – følg udviklingen her",
           "link": "https://www.berlingske.dk/internationalt/krig-i-europa--foelg-udviklingen-her-70?referrer=RSS",
           "summary": "Krigen i Ukraine og hybridkrigen i Europa fortsætter. Få seneste nyt her.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168342941.webp?t[strip]=true&t[quality]=70&accessToken=62c1e43e1a96f1f8dba6632cd8fd9f7842893240e689a2c802a11d3a3d535d92",
-          "publishedAt": "2026-11-28T06:12:00.000Z"
+          "publishedAt": "2026-11-28T06:12:00.000Z",
+          "titleEn": "War in Europe  ⁇  follow developments here",
+          "summaryEn": "The war in Ukraine and the hybrid war in Europe continue. Get the latest news here."
         },
         {
           "title": "UHØRT!",
           "link": "https://www.berlingske.dk/til-stregen/uhoert?referrer=RSS",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168260812.webp?t[strip]=true&t[quality]=70&accessToken=0a0a49b86a4271e85a92a271d0bce05b78b035114956a8b0839665a7cd779d48",
-          "publishedAt": "2026-11-28T05:50:35.000Z"
+          "publishedAt": "2026-11-28T05:50:35.000Z",
+          "titleEn": "- What?"
         },
         {
           "title": "Læger uden Grænser: To ansatte er døde i israelsk angreb i Gaza",
           "link": "https://www.berlingske.dk/internationalt/laeger-uden-graenser-to-ansatte-er-doede-i-israelsk-angreb-i-gaza?referrer=RSS",
           "summary": "Det israelske militær hævder, at organisations dræbte sikkerhedsvagter havde tilknytning til Hamas.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168342916.webp?t[strip]=true&t[quality]=70&accessToken=2204ef6929fb6c24e8a7d9f9e35000611d2653d88631514d1ad68aa564202000",
-          "publishedAt": "2026-11-28T05:49:46.000Z"
+          "publishedAt": "2026-11-28T05:49:46.000Z",
+          "titleEn": "Doctors Without Borders: Two staff members killed in Israeli attack on Gaza",
+          "summaryEn": "The Israeli military claims that the security guards killed by the organization were affiliated with Hamas."
         },
         {
           "title": "Det er »horrible skader«. Sårede ukrainere tager superbakterier med til danske sygehuse",
           "link": "https://www.berlingske.dk/indland/det-er-horrible-skader-saarede-ukrainere-tager-superbakterier-med-til-danske-sygehuse?referrer=RSS",
           "summary": "Danmark behandler ukrainske soldater, som er så hårdt sårede, at de ikke kan hjælpes i hjemlandet. Nu viser det sig, at mange kommer hertil med farlige, multiresistente bakterier, som kan risikere at smitte danske…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168297967.webp?t[strip]=true&t[quality]=70&accessToken=648120c84248a012f48b8911256bbab38002a91d8796d108c9b0e105969a4e3d",
-          "publishedAt": "2026-11-28T05:39:19.000Z"
+          "publishedAt": "2026-11-28T05:39:19.000Z",
+          "titleEn": "It's horrible damage. Wounded Ukrainians bring superbacteria to Danish hospitals",
+          "summaryEn": "Denmark treats Ukrainian soldiers who are so badly wounded that they cannot be helped at home. Now it turns out that many people come here with dangerous, multi-resistant bacteria that could risk infecting Danish..."
         },
         {
           "title": "I Trumps USA er det ikke længere cool at være konservativ: »Vores regering er blevet som en irriterende kollega«",
           "link": "https://www.berlingske.dk/samfund/i-trumps-usa-er-det-ikke-laengere-cool-at-vaere-konservativ-vores-regering-er-blevet-som-en-irriterende-kollega?referrer=RSS",
           "summary": "Usjove TikTok-videoer, Mette Frederiksens moralske panik og en urolig fremtid. Tre internationale citater fra ugen, der gik, sætter ord på verden lige nu.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168295931.webp?t[strip]=true&t[quality]=70&accessToken=f6cc5658729ea0d41c086b29c4e1d5724cb993785d6323281bf44ee8ebc6a73e",
-          "publishedAt": "2026-11-28T05:24:44.000Z"
+          "publishedAt": "2026-11-28T05:24:44.000Z",
+          "titleEn": "In Trump's United States, it's no longer cool to be conservative:",
+          "summaryEn": "Usjove TikTok videos, meet Frederick's moral panic and a troubled future. Three international quotes from last week are putting words on the world right now."
         },
         {
           "title": "Er du rigtig klog: Hvad ved du om Crystal Palace FC?",
           "link": "https://www.berlingske.dk/internationalt/er-du-rigtig-klog-hvad-ved-du-om-crystal-palace-fc?referrer=RSS",
           "summary": "Berlingskes journalister udfordrer dagligt med 10 nye spørgsmål inden for spændende emner.",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168011031.webp?t[strip]=true&t[quality]=70&accessToken=3ae0f9590c3f809dd52238905102c04adeb6816686db495a434913a81e6606d1",
-          "publishedAt": "2026-11-28T05:20:52.000Z"
+          "publishedAt": "2026-11-28T05:20:52.000Z",
+          "titleEn": "Are you really smart, what do you know about Crystal Palace?",
+          "summaryEn": "Journalists from Berlin ask 10 new questions every day on exciting topics."
         },
         {
           "title": "Danske pensionskasser har placeret gigantiske summer i få amerikanske aktier: Sådan rammer det dit afkast",
           "link": "https://www.berlingske.dk/aktier/danske-pensionskasser-har-placeret-gigantiske-summer-i-faa-amerikanske-aktier-saadan-rammer-det-dit-afkast?referrer=RSS",
           "summary": "De danske pensionsselskaber har flere hundrede milliarder kroner investeret i amerikanske techaktier. Flere steder udgør de mellem en femtedel og en fjerdedel af de samlede aktieinvesteringer. Det får topøkonom til at…",
           "image": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/168165621.webp?t[strip]=true&t[quality]=70&accessToken=14e6c0165b17e580ba56a64325cdbc81413c16938a6e34f038d95b3a6c945501",
-          "publishedAt": "2026-11-28T05:10:06.000Z"
+          "publishedAt": "2026-11-28T05:10:06.000Z",
+          "titleEn": "Danish pension funds have invested huge sums in a few US stocks: How it affects your returns",
+          "summaryEn": "The Danish pension companies have invested hundreds of billions of kroner in US tech stocks. In several places they represent between a fifth and a quarter of total equity investments. That makes the top economist..."
         }
       ]
     }
